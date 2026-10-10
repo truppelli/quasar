@@ -106,8 +106,10 @@ What it costs on hardware (Aria, two-qubit MS gates):
 ```sh
 python main.py                                                     # Qollab entry point: toy pod, same as python qaoa.py
 python qaoa.py resorts/crystal-mountain-washington.json --pod "Quicksilver" --max-routes 4
-python qaoa.py ... --ionq simulator                                # send the packed job to IonQ (needs IONQ_API_KEY)
+python qaoa.py ... --ionq simulator                                # send the packed job to IonQ's cloud simulator
 ```
+
+**IonQ key:** create a file named `.env` in the repo root with one line, `IONQ_API_KEY=<your key>`. `.env` is gitignored, so never commit the key. `qaoa.py` loads the file itself, so run it from the repo root; an `IONQ_API_KEY` environment variable works too. The packed circuit is compiled to IonQ's gate set before it is submitted. Run on the free `simulator` backend first, before spending credits on a `qpu.*` backend.
 
 - **Encoding:** the QUBO's variables are each edge's use count, in binary, plus binary slack for the time budget. The cost is −score, plus `PENALTY` × (in − out)² at every node, plus `PENALTY` × (minutes + slack − budget)².
 - **Scoring:** a bitstring counts as a route only if its edge counts equal a feasible route's (the key `quasar.search` uses). Routes are then scored exactly.
@@ -131,6 +133,15 @@ Measured with `qaoa.py`, 1,000 shots, with both circuits in one packed job on th
 - **Penalties don't separate routes from non-routes:** the cheapest non-route sits at most 1.5 best-scores above the optimum, and on Discovery and the 13-minute Gold Hills pod a non-route ties it. In both, the tying non-route is a subtour: the optimal route plus a detached loop (a run and a link back up to its start) that never touches the base. Flow penalties can't see subtours. On the toy pod, the cheapest non-route costs less than any route that scores under 78% of the best.
 - This is the README's argument for QWOA, now measured: QWOA's mixer keeps every shot on a feasible route.
 - **Caveat:** the comparison relies on the classical enumeration, so neither algorithm shows a speedup here.
+
+**On IonQ's cloud simulator** (one job each, both circuits packed, p=1, 1,000 shots, on 2026-10-10):
+
+| pod | qubits | IonQ job | optimum sampled, QWOA / QAOA | QAOA shots that aren't routes | same run, local sampler |
+| --- | --- | --- | --- | --- | --- |
+| Toy Lift A, 30 min | 14 | `01a127b5-4e08-74b1-b1c7-0b5a0401d869` | 362 / 26 | 845 | 385 / 21, 836 |
+| Crystal Quicksilver, 17 min | 17 | `01a127b5-c03b-77c3-9eea-603be2344480` | 500 / 12 | 979 | 478 / 3, 981 |
+
+IonQ's simulator agrees with the local sampler within shot noise. This also checks that `circuit.unpack` reads IonQ's bitstring counts correctly. These are cloud-simulator runs, not QPU runs; a hardware run is the next step (roadmap Milestone 2).
 
 ## Quantum speedup (large fault-tolerant machine)
 
