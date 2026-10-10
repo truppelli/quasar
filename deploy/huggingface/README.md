@@ -5,6 +5,7 @@ colorFrom: blue
 colorTo: yellow
 sdk: docker
 app_port: 7860
+base_path: /3d
 pinned: false
 license: mit
 short_description: Plan your ski day on a 3D map; QWOA on IonQ hardware
