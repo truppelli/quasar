@@ -146,7 +146,8 @@ def qaoa_circuit(n, lin, quad, theta):
     return qc
 
 
-if __name__ == "__main__":
+def main(backend=None):
+    """Command-line run; backend, when given (Qollab's Run button, via main.py), replaces --ionq."""
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("resort", nargs="?", default="resorts/toy.json")
     ap.add_argument("--pod", metavar="LIFT", default="Lift A", help="lift pod to run (see quasar.py --pods)")
@@ -198,7 +199,6 @@ if __name__ == "__main__":
     packed = circuit.pack([qc_w, qc_a])
     packed.measure_all()
     sizes = [qc_w.num_qubits, n]
-    backend = globals().get("backend")  # Qollab's Run button injects the backend picked in Select QPU (via main.py)
     if backend is None and a.ionq:
         from dotenv import load_dotenv  # installed with qiskit-ionq
         from qiskit_ionq import IonQProvider
@@ -229,3 +229,7 @@ if __name__ == "__main__":
 
     ms = [circuit.native_counts(qc, "qpu.aria-1")[0].get("ms", 0) for qc in (qc_w, qc_a)]
     print(f"  IonQ Aria two-qubit (MS) gates: QWOA {ms[0]}, QAOA {ms[1]}")
+
+
+if __name__ == "__main__":
+    main()
