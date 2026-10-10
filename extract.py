@@ -18,7 +18,8 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 SRC = ROOT / "data" / "openskidata"
 
-# 20 popular US resorts, picked by approximate skier visits (no official per-resort numbers). slug -> OpenSkiData ski area id.
+# 20 popular US resorts, picked by approximate skier visits (no official per-resort numbers).
+# slug -> OpenSkiData ski area id.
 TOP_US = {
     "vail": "88a22ba23468cf120025366ef40f004c9043546e",
     "breckenridge": "e1eb4ed2f10fc217647fa66ff48d640814d0c4f7",
@@ -65,7 +66,9 @@ def haversine_m(a, b):
 
 
 def run_stats(geom, profile):
-    """Length, drop and pitch from the line and its ~25 m DEM profile (max pitch is per sample, so noisy). None for area (polygon) runs."""
+    """Length, drop and pitch from the line and its ~25 m DEM profile.
+
+    Max pitch is per sample, so DEM noise can inflate it. None for area (polygon) runs."""
     if geom["type"] != "LineString" or not profile or len(profile.get("heights", [])) < 2:
         return {}
     c, h, res = geom["coordinates"], profile["heights"], profile["resolution"]
