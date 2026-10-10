@@ -15,8 +15,11 @@ The baseline is given the counts' upper bounds from the same enumeration QWOA us
 
 import argparse
 import sys
+import time
 
 import numpy as np
+import requests  # installed with qiskit-ionq, like urllib3
+import urllib3
 from qiskit import QuantumCircuit, transpile
 from qiskit.primitives import StatevectorSampler
 from qiskit.quantum_info import Statevector
@@ -157,6 +160,9 @@ def main(backend=None):
     ap.add_argument("--p", type=int, default=1, help="layers, for both QWOA and QAOA")
     ap.add_argument("--shots", type=int, default=1000)
     ap.add_argument("--ionq", metavar="BACKEND", help="run the packed job on IonQ (e.g. simulator); needs IONQ_API_KEY")
+    ap.add_argument(
+        "--job", metavar="ID", help="fetch an earlier IonQ job's results instead of submitting (and paying)"
+    )
     a = ap.parse_args()
     sys.stdout.reconfigure(errors="replace")
 
@@ -187,15 +193,25 @@ def main(backend=None):
         gap = np.abs(Statevector(qc_a).probabilities() - probs_a).max()
         assert gap < 1e-8, f"QAOA circuit differs from the simulation by {gap:.2e}"
 
+    # approximation ratio: mean over shots of (score - worst) / (best - worst), with routes able to score below 0 (walk
+    # links that climb); a shot that isn't a route counts as the worst route, since it can't be skied
+    norm = (scores - scores.min()) / (np.ptp(scores) or 1)
+    val_w = np.append(norm, np.zeros(2**qc_w.num_qubits - len(scores)))  # indices >= M aren't routes
+    val_a = np.where(route >= 0, norm[route], 0)
     print(f"{pod['name']}, {minutes:g} min: {len(scores)} routes, best score {scores.max():.0f}, p={a.p}")
-    print(f"  QWOA: {qc_w.num_qubits} qubits, P(optimal) = {probs_w[opt].sum():.3f} vs {opt.mean():.3f} random")
+    print(
+        f"  QWOA: {qc_w.num_qubits} qubits, P(optimal) = {probs_w[opt].sum():.3f} vs {opt.mean():.3f} random,"
+        f" approx. ratio {probs_w @ val_w[: len(probs_w)]:.3f} vs {val_w[: len(scores)].mean():.3f} random"
+    )
     print(
         f"  penalty-QUBO QAOA: {n} qubits, P(route) = {probs_a[route >= 0].sum():.3f},"
-        f" P(optimal) = {probs_a[is_opt].sum():.3f} vs {is_opt.mean():.2g} random;"
+        f" P(optimal) = {probs_a[is_opt].sum():.3f} vs {is_opt.mean():.2g} random,"
+        f" approx. ratio {probs_a @ val_a:.3f} vs {val_a.mean():.3f} random;"
         f" QUBO {'is exact' if off < 1e-6 else f'is off by up to {off:.2f}'} on routes,"
         f" cheapest non-route costs {floor:+.2f} vs the optimum"
     )
     assert probs_w[opt].sum() > probs_a[is_opt].sum(), "penalty QAOA beat QWOA at P(optimal)"
+    assert probs_w @ val_w[: len(scores)] >= probs_w[opt].sum() - 1e-9, "approx. ratio below P(optimal)"
 
     packed = circuit.pack([qc_w, qc_a])
     packed.measure_all()
@@ -207,8 +223,23 @@ def main(backend=None):
         load_dotenv(".env")  # qiskit-ionq only finds .env near its own install, not in the repo
         backend = IonQProvider().get_backend(a.ionq)
     if backend is not None:
-        job = backend.run(transpile(packed, backend=backend, optimization_level=1), shots=a.shots)
-        counts, where = job.result().get_counts(), f"{backend.name} job {job.job_id()}"
+        if a.job:
+            job = backend.retrieve_job(a.job)
+        else:
+            job = backend.run(transpile(packed, backend=backend, optimization_level=1), shots=a.shots)
+        where = f"{backend.name} job {job.job_id()}"
+        print(
+            f"  {where}: waiting for results; if this run dies, pass this id as --job (JOB_ID in main.py)", flush=True
+        )
+        for attempt in range(1, 121):  # a QPU job can queue for hours; Qollab's in-browser HTTP times out meanwhile
+            try:
+                counts = job.result().get_counts()
+                break
+            except (requests.RequestException, urllib3.exceptions.HTTPError) as e:
+                if attempt == 120:
+                    raise
+                print(f"  network error while waiting ({type(e).__name__}); retrying in 60 s", flush=True)
+                time.sleep(60)
     elif packed.num_qubits <= MAX_SIM_QUBITS:
         res = StatevectorSampler(seed=0).run([packed], shots=a.shots).result()[0]
         counts, where = res.data.meas.get_int_counts(), "local sampler"
@@ -220,9 +251,11 @@ def main(backend=None):
         hit_w = sum(c for k, c in cw.items() if k < len(scores) and opt[k])
         hit_a = sum(c for k, c in ca.items() if is_opt[k])
         miss_a = sum(c for k, c in ca.items() if route[k] < 0)
+        r_w, r_a = (sum(c * v[k] for k, c in cs.items()) / a.shots for cs, v in ((cw, val_w), (ca, val_a)))
         print(
             f"  one job, both circuits on {packed.num_qubits} qubits ({where}), {a.shots} shots: optimum sampled"
-            f" {hit_w} times by QWOA, {hit_a} by QAOA; {miss_a} QAOA shots were not routes"
+            f" {hit_w} times by QWOA, {hit_a} by QAOA; {miss_a} QAOA shots were not routes;"
+            f" approx. ratio {r_w:.3f} QWOA, {r_a:.3f} QAOA"
         )
         assert sum(cw.values()) == sum(ca.values()) == a.shots
         if where == "local sampler":  # QWOA half must match QWOA's distribution, or unpack mixed up qubits
