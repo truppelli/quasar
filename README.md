@@ -118,17 +118,18 @@ python qaoa.py ... --ionq simulator                                # send the pa
 
 Measured with `qaoa.py`, 1,000 shots, with both circuits in one packed job on the local sampler:
 
-| pod | budget | routes | qubits QWOA / QAOA | Aria MS gates at p=1 | P(optimal) p=1: QWOA / QAOA / random QAOA | P(optimal) p=2: QWOA / QAOA | QAOA shots that are routes (p=1) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Toy Lift A | 65 min | 16 | 4 / 16 | 34 / 240 | 0.368 / 0.006 / 0.006 | 0.516 / 0.006 | 4.5% |
-| Crystal Quicksilver | 17 min | 3 | 2 / 15 | 7 / 210 | 0.502 / 0.006 / 0.008 | 0.512 / 0.003 | 3.1% |
-| Crystal Gold Hills | 11 min | 4 | 2 / 14 | 4 / 182 | 0.999 / 0.012 / 0.016 | 1.000 / 0.014 | 2.4% |
-| Crystal Discovery | 13 min | 6 | 3 / 18 | 24 / 306 | 0.896 / 0.001 / 0.001 | 0.999 / 0.002 | 0.5% |
-| Crystal Green Valley | 14 min | 7 | 3 / 19 | 24 / 342 | 0.843 / 0.000 / 0.0005 | 1.000 / 0.000 | 1.1% |
-| Crystal Gold Hills | 13 min | 7 | 3 / 20 | 24 / 380 | 0.631 / 0.001 / 0.0005 | 0.801 / 0.001 | 0.1% |
+| pod | budget | routes | qubits QWOA / QAOA | Aria MS gates at p=1 | P(optimal) p=1: QWOA / QAOA / random QAOA | approx. ratio p=1: QWOA / QAOA / random QWOA | P(optimal) p=2: QWOA / QAOA | QAOA shots that are routes (p=1) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Toy Lift A | 65 min | 16 | 4 / 16 | 34 / 240 | 0.368 / 0.006 / 0.006 | 0.860 / 0.021 / 0.694 | 0.516 / 0.006 | 4.5% |
+| Crystal Quicksilver | 17 min | 3 | 2 / 15 | 7 / 210 | 0.502 / 0.006 / 0.008 | 0.997 / 0.010 / 0.665 | 0.512 / 0.003 | 3.1% |
+| Crystal Gold Hills | 11 min | 4 | 2 / 14 | 4 / 182 | 0.999 / 0.012 / 0.016 | 0.999 / 0.012 / 0.512 | 1.000 / 0.014 | 2.4% |
+| Crystal Discovery | 13 min | 6 | 3 / 18 | 24 / 306 | 0.896 / 0.001 / 0.001 | 0.902 / 0.001 / 0.222 | 0.999 / 0.002 | 0.5% |
+| Crystal Green Valley | 14 min | 7 | 3 / 19 | 24 / 342 | 0.843 / 0.000 / 0.0005 | 0.843 / 0.000 / 0.143 | 1.000 / 0.000 | 1.1% |
+| Crystal Gold Hills | 13 min | 7 | 3 / 20 | 24 / 380 | 0.631 / 0.001 / 0.0005 | 0.919 / 0.001 / 0.503 | 0.801 / 0.001 | 0.1% |
 
 - **Qubits and gates:** the penalty QUBO needs 4–8× the qubits and 7–46× the two-qubit gates of QWOA on the same pod.
 - **Wasted shots:** 95–99.9% of its shots aren't routes at all.
+- **Approximation ratio:** the mean over shots of (score − worst route) / (best − worst), with a shot that isn't a route counted as the worst route, since it can't be skied. It's normalized because some pods have routes that score below 0 (walk links that climb). QWOA's is 0.84–1.00 against 0.14–0.69 for random routes; QAOA's stays at 0.000–0.021, because almost none of its shots are routes.
 - **P(optimal):** at p=1 and p=2, QAOA's chance of the optimum stays at random-guess level. The angle optimizer minimizes expected cost, and the penalties dominate that cost, so the angles learn to avoid big violations rather than to find good routes.
 - **Penalties don't separate routes from non-routes:** the cheapest non-route sits at most 1.5 best-scores above the optimum, and on Discovery and the 13-minute Gold Hills pod a non-route ties it. In both, the tying non-route is a subtour: the optimal route plus a detached loop (a run and a link back up to its start) that never touches the base. Flow penalties can't see subtours. On the toy pod, the cheapest non-route costs less than any route that scores under 78% of the best.
 - This is the README's argument for QWOA, now measured: QWOA's mixer keeps every shot on a feasible route.
