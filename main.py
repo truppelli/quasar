@@ -9,6 +9,7 @@ import sys
 sys.path.insert(0, ".")  # Qollab may run this without __file__; run it from the repo root
 import qaoa  # Qollab only ships files the code imports, or names in a string like the path below
 
+JOB_ID = ""  # paste a job id here to fetch that job's results instead of submitting (and paying for) a new one
 ran = False
 
 
@@ -20,6 +21,7 @@ def main():
     ran = True
     if len(sys.argv) <= 1:
         sys.argv = ["main.py", "resorts/crystal-mountain-washington.json", "--pod", "Quicksilver", "--max-routes", "4"]
+        sys.argv += ["--job", JOB_ID] if JOB_ID else []
     qaoa.main(globals().get("backend"))
 
 
