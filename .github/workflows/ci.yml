@@ -21,5 +21,8 @@ jobs:
           python quasar.py
           python quasar.py --start summit --minutes 25
           python quasar.py --minutes 5
+      - name: Visualizer API self-checks
+        # serve.py runs its asserts, then serves; timeout's exit 124 means it got as far as serving
+        run: timeout 5 python serve.py || [ $? -eq 124 ]
       - name: Speedup analysis (small)
         run: python speedup.py --max-zones 3

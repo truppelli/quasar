@@ -26,7 +26,17 @@ def build(r):
             if u not in nodes or v not in nodes or mins <= 0:
                 raise ValueError(f"{r.get('name')}: bad {kind} {name!r}")
             drop = nodes[u][2] - nodes[v][2] if kind == "run" else 0
-            edges.append({"name": name, "kind": kind, "from": u, "to": v, "minutes": mins, "vertical": max(drop, 0)})
+            edges.append(
+                {
+                    "id": len(edges),
+                    "name": name,
+                    "kind": kind,
+                    "from": u,
+                    "to": v,
+                    "minutes": mins,
+                    "vertical": max(drop, 0),
+                }
+            )
     return {**r, "edges": edges}
 
 

@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QUASAR Route Map</title>
+<style>
+  :root {
+    --bg: #f6f8fb; --panel: #ffffff; --text: #1b2430; --muted: #5d6b7c; --border: #d8dee6;
+    --run: #2f6fd6; --lift: #8a94a3; --route: #e8590c; --node: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #11161d; --panel: #1a212b; --text: #e6ebf1; --muted: #9aa7b6; --border: #2c3644;
+      --run: #6aa1ff; --lift: #7b8696; --route: #ff8c42; --node: #1a212b; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 15px/1.45 system-ui, sans-serif; background: var(--bg); color: var(--text); }
+  header { padding: 12px 16px; display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: end;
+    background: var(--panel); border-bottom: 1px solid var(--border); }
+  h1 { font-size: 18px; margin: 0 12px 0 0; letter-spacing: .04em; }
+  label { display: flex; flex-direction: column; font-size: 12px; color: var(--muted); gap: 3px; }
+  select, input { font: inherit; color: var(--text); background: var(--bg); border: 1px solid var(--border);
+    border-radius: 6px; padding: 5px 8px; }
+  input[type=number] { width: 80px; }
+  main { display: grid; grid-template-columns: 1fr 300px; gap: 16px; padding: 16px; }
+  @media (max-width: 800px) { main { grid-template-columns: 1fr; } }
+  #map { width: 100%; height: auto; max-height: calc(100vh - 110px); min-height: 320px; background: var(--panel); border: 1px solid var(--border); border-radius: 10px; }
+  aside { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; }
+  .stats { display: flex; gap: 18px; margin-bottom: 10px; }
+  .stats b { display: block; font-size: 22px; }
+  .stats span { font-size: 12px; color: var(--muted); }
+  ol { padding-left: 22px; margin: 0; }
+  li { margin: 3px 0; }
+  li small { color: var(--muted); }
+  .legend { font-size: 12px; color: var(--muted); margin-top: 14px; }
+  .err { color: var(--route); }
+  .node { cursor: pointer; }
+  .node:focus { outline: none; }
+  .node:focus circle, .node:hover circle { stroke-width: 4; }
+</style>
+</head>
+<body>
+<header>
+  <h1>QUASAR</h1>
+  <label>Resort <select id="resort"></select></label>
+  <label>You are at <select id="start"></select></label>
+  <label>Finish at <select id="end"></select></label>
+  <label>Minutes left <input id="minutes" type="number" min="0" max="240" step="5" value="60"></label>
+</header>
+<main>
+  <svg id="map" viewBox="0 0 1000 700" role="img" aria-label="Resort map with planned route">
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="context-stroke"/>
+      </marker>
+    </defs>
+    <g id="edges"></g><g id="route"></g><g id="nodes"></g>
+  </svg>
+  <aside aria-live="polite">
+    <div id="summary"></div>
+    <ol id="steps"></ol>
+    <div class="legend">Solid blue: runs · dashed grey: lifts · orange: your route (numbers give the order).
+      Click a junction to set where you are.</div>
+  </aside>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+const NS = "http://www.w3.org/2000/svg";
+let resort, pos, geom = {};
+
+function el(tag, attrs, parent, text) {
+  const e = document.createElementNS(NS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (text != null) e.textContent = text;
+  parent.appendChild(e);
+  return e;
+}
+
+async function get(url) {
+  const r = await fetch(url);
+  return r.json();
+}
+
+function project(nodes) {
+  const xs = Object.values(nodes).map(n => n[0]), ys = Object.values(nodes).map(n => n[1]);
+  const [x0, x1, y0, y1] = [Math.min(...xs), Math.max(...xs), Math.min(...ys), Math.max(...ys)];
+  const s = Math.min(860 / ((x1 - x0) || 1), 560 / ((y1 - y0) || 1));
+  const ox = (1000 - s * (x1 - x0)) / 2, oy = (700 - s * (y1 - y0)) / 2;
+  const p = {};
+  for (const k in nodes) p[k] = [ox + s * (nodes[k][0] - x0), 700 - oy - s * (nodes[k][1] - y0)];
+  return p;
+}
+
+// Parallel edges between the same two nodes are bowed apart so each stays visible.
+function curves(edges, p) {
+  const groups = {};
+  for (const e of edges) (groups[[e.from, e.to].sort().join("|")] ||= []).push(e);
+  for (const key in groups) {
+    const g = groups[key], [a, b] = key.split("|");
+    const [ax, ay] = p[a], [bx, by] = p[b], len = Math.hypot(bx - ax, by - ay) || 1;
+    const [nx, ny] = [-(by - ay) / len, (bx - ax) / len];
+    g.forEach((e, k) => {
+      const off = (k - (g.length - 1) / 2) * 34;
+      const [sx, sy] = p[e.from], [tx, ty] = p[e.to];
+      const mx = (sx + tx) / 2 + nx * off, my = (sy + ty) / 2 + ny * off;
+      geom[e.id] = { d: `M${sx},${sy} Q${2 * mx - (sx + tx) / 2},${2 * my - (sy + ty) / 2} ${tx},${ty}`, mx, my };
+    });
+  }
+}
+
+function drawResort() {
+  for (const g of ["edges", "route", "nodes"]) $(g).replaceChildren();
+  const p = project(resort.nodes);
+  geom = {};
+  curves(resort.edges, p);
+  for (const e of resort.edges) {
+    const lift = e.kind === "lift";
+    const path = el("path", { d: geom[e.id].d, fill: "none", stroke: lift ? "var(--lift)" : "var(--run)",
+      "stroke-width": 2.5, "stroke-dasharray": lift ? "7 5" : "", "marker-end": "url(#arrow)" }, $("edges"));
+    el("title", {}, path, `${e.name} (${e.kind}, ${e.minutes} min${lift ? "" : `, ${e.vertical} m`})`);
+  }
+  const elev = Object.values(resort.nodes).map(n => n[2]);
+  for (const [name, [x, y]] of Object.entries(p)) {
+    const g = el("g", { class: "node", tabindex: 0, role: "button", "aria-label": `Start at ${name}` }, $("nodes"));
+    el("circle", { cx: x, cy: y, r: 11, fill: "var(--node)", stroke: "var(--text)", "stroke-width": 2 }, g);
+    el("text", { x: x + 15, y: y - 10, fill: "var(--text)", "font-size": 15, "font-weight": 600 }, g, name);
+    el("text", { x: x + 15, y: y + 7, fill: "var(--muted)", "font-size": 12 }, g, `${resort.nodes[name][2]} m`);
+    const pick = () => { $("start").value = name; plan(); };
+    g.addEventListener("click", pick);
+    g.addEventListener("keydown", ev => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); pick(); } });
+  }
+  pos = p;
+}
+
+async function loadResort() {
+  resort = await get(`/resort?resort=${encodeURIComponent($("resort").value)}`);
+  for (const id of ["start", "end"]) {
+    $(id).replaceChildren(...Object.keys(resort.nodes).sort().map(n => new Option(n, n)));
+    $(id).value = resort.base;
+  }
+  drawResort();
+  plan();
+}
+
+async function plan() {
+  const q = new URLSearchParams({ resort: $("resort").value, start: $("start").value,
+    end: $("end").value, minutes: $("minutes").value });
+  const res = await get(`/plan?${q}`);
+  $("route").replaceChildren();
+  $("steps").replaceChildren();
+  // skier marker
+  const [sx, sy] = pos[$("start").value];
+  el("circle", { cx: sx, cy: sy, r: 17, fill: "none", stroke: "var(--route)", "stroke-width": 3 }, $("route"));
+  if (res.error) {
+    $("summary").innerHTML = `<p class="err"></p>`;
+    $("summary").firstChild.textContent = res.error;
+    return;
+  }
+  $("summary").innerHTML = `<div class="stats"><div><b>${res.vertical_m}</b><span>m vertical</span></div>
+    <div><b>${res.minutes}</b><span>of ${$("minutes").value} min</span></div>
+    <div><b>${res.route.filter(e => e.kind === "run").length}</b><span>runs</span></div></div>`;
+  const order = {};
+  res.route.forEach((e, i) => (order[e.id] ||= []).push(i + 1));
+  for (const id in order) {
+    el("path", { d: geom[id].d, fill: "none", stroke: "var(--route)", "stroke-width": 7, opacity: .55,
+      "stroke-linecap": "round" }, $("route"));
+  }
+  for (const id in order) {
+    const { mx, my } = geom[id], label = order[id].join(",");
+    el("rect", { x: mx - 6 - 4 * label.length, y: my - 11, width: 12 + 8 * label.length, height: 22, rx: 11,
+      fill: "var(--route)" }, $("route"));
+    el("text", { x: mx, y: my + 5, "text-anchor": "middle", "font-size": 13, "font-weight": 700, fill: "#fff" },
+      $("route"), label);
+  }
+  if (!res.route.length) $("summary").insertAdjacentHTML("beforeend", "<p>Not enough time for a run.</p>");
+  for (const e of res.route) {
+    const li = document.createElement("li");
+    li.textContent = `${e.name} `;
+    const s = document.createElement("small");
+    s.textContent = e.kind === "lift" ? `lift · ${e.minutes} min` : `${e.vertical} m · ${e.minutes} min`;
+    li.appendChild(s);
+    $("steps").appendChild(li);
+  }
+}
+
+(async () => {
+  const names = await get("/resorts");
+  $("resort").replaceChildren(...names.map(n => new Option(n, n)));
+  $("resort").addEventListener("change", loadResort);
+  for (const id of ["start", "end", "minutes"]) $(id).addEventListener("change", plan);
+  loadResort();
+})();
+</script>
+</body>
+</html>
