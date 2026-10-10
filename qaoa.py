@@ -57,7 +57,7 @@ def qubo(pod, minutes, sols):
                 if u < v:
                     add(v, 2 * w * a * b, u)
 
-    first = {}  # edge -> score for its first use beyond the per-use rate
+    first = {}  # edge -> score for its first use beyond the per-use rate (links: none, every climb costs)
     for v, (i, bit) in enumerate(labels):
         if i is None:
             continue
@@ -65,7 +65,7 @@ def qubo(pod, minutes, sols):
         per_use, first[i] = {
             "run": (quasar.RUN_REPEAT_CREDIT * e["vertical"], (1 - quasar.RUN_REPEAT_CREDIT) * e["vertical"]),
             "lift": (-quasar.LIFT_REPEAT_COST, quasar.LIFT_REPEAT_COST),
-            "link": (0, 0),
+            "link": (-e["climb"], 0),
         }[e["kind"]]
         add(v, -per_use * bit)
     for i, d in first.items():
@@ -165,7 +165,7 @@ if __name__ == "__main__":
     sols, _, _ = quasar.search(pod, pod["base"], pod["base"], minutes, prune=False)
     scores = np.array([s for s, _ in sols.values()])
     opt = np.isclose(scores, scores.max())
-    n, lin, quad, route, _ = qubo(pod, minutes, sols)
+    n, lin, quad, route, labels = qubo(pod, minutes, sols)
     if n > MAX_SIM_QUBITS:
         ap.error(f"penalty QUBO needs {n} qubits, too many to simulate; pass a smaller --max-routes or --minutes")
 
@@ -175,6 +175,8 @@ if __name__ == "__main__":
     cheapest = np.full(len(scores), np.inf)  # each route's QUBO cost at its best slack setting
     np.minimum.at(cheapest, route[route >= 0], C[route >= 0])
     off = np.ptp(cheapest + scores / scores.max())  # 0 when the QUBO is -score up to a constant on every route
+    wide = any(pod["edges"][i]["kind"] != "link" and b >= 4 for i, b in labels if i is not None)  # 3+ count bits
+    assert wide or off < 1e-6, f"QUBO disagrees with quasar's scoring by {off:.3f} (see qubo's ponytail note)"
     floor = C[route < 0].min() - cheapest.min()  # how far the cheapest non-route sits above the optimum
     probs_w, theta_w = quasar.qwoa(scores, p=a.p)
     probs_a, theta_a = qaoa(C, p=a.p)
