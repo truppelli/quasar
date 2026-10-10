@@ -64,6 +64,39 @@ Measured with QWOA simulated at p=3 (`--pod`, default budgets):
 - QWOA beats random sampling on every pod, but at p=3 the chance of sampling the optimum stays in the low percent. Deeper circuits (larger p) are the next lever.
 - Pods are QWOA instances, not a planner. They can overlap, and whole-day plans still run `plan()` on the full resort.
 
+## QWOA circuit (Qiskit, IonQ)
+
+`circuit.py` builds QWOA as a Qiskit circuit for one lift pod and checks it against the NumPy QWOA in `quasar.py`, using the same angles. It then samples 1,000 shots and compiles to IonQ's native gates (MS on Aria, ZZ on Forte). Compiling runs offline with `qiskit-ionq`: no API key and no job.
+
+```sh
+python circuit.py                                                   # toy pod, 6 qubits
+python circuit.py resorts/crystal-mountain-washington.json --pod "Discovery" --max-routes 16 --p 1
+```
+
+- **How routes are encoded:** routes 0…M−1 are basis states of n = ⌈log₂ M⌉ qubits. Indices M and above never gain amplitude.
+- **Each QWOA layer:** a phase separator (one diagonal gate, exp(−iγC)) followed by the walk mixer. The mixer is U · (phase on |0…0⟩) · U†, where U prepares the uniform state over valid routes.
+- **Check:** the circuit's probabilities match the NumPy version to about 1e-14.
+
+What it costs on hardware (Aria, two-qubit MS gates):
+
+| qubits | p=1 | p=2 | p=3 |
+| --- | --- | --- | --- |
+| 3 | 24 | 44 | 64 |
+| 4 | 55 | 103 | 151 |
+| 6 | 185 | 357 | 529 |
+| 9 | 900 | 1,778 | 2,656 |
+
+(Measured on random scores with 3/4 of the register filled. Real pods cost more when M is awkward for state preparation: Rainier Express, with 319 routes on 9 qubits at p=3, needs 6,002.)
+
+- **Too deep for today's hardware:** two-qubit errors compound, so the 9-qubit pods from `--pods` would return mostly noise.
+- **First run on hardware:** 4 qubits, p=1, sized with `--max-routes 16`.
+
+| Crystal pod (≤ 16 routes) | budget | routes | p | MS gates | P(optimal) vs random |
+| --- | --- | --- | --- | --- | --- |
+| Discovery | 27 min | 16 | 1 | 34 | 0.214 vs 0.062 |
+| Mt. Rainier Gondola | 31 min | 13 | 1 | 55 | 0.514 vs 0.154 |
+| Chinook Express | 18 min | 10 | 2 | 113 | 0.410 vs 0.100 |
+
 ## Quantum speedup (large fault-tolerant machine)
 
 `speedup.py` measures the size T of the classical branch-and-bound tree on growing synthetic resorts. It compares T with the cost of a quantum-walk search of the same tree:

@@ -266,26 +266,33 @@ def pod_budget(pod, max_routes=512, max_minutes=120, max_nodes=50_000):
 def qwoa(scores, p=3, restarts=5, seed=0):
     """QAOA over feasible routes only, mixer = continuous-time quantum walk on the complete graph (Marsh & Wang 2020).
 
-    Returns the final measurement probability of each route.
+    Returns the final measurement probability of each route and the optimized angles.
     ponytail: routes are indexed by classical enumeration, fine for simulation; hardware needs an indexing
     unitary over feasible routes, or the backtracking quantum walk analysed in speedup.py.
     """
-    C = -np.asarray(scores, float)
-    C /= np.abs(C).max() or 1
+    C = qwoa_cost(scores)
     M = len(C)
-
-    def state(th):
-        psi = np.full(M, M**-0.5, dtype=complex)
-        for g, b in zip(th[:p], th[p:]):
-            psi = psi * np.exp(-1j * g * C)
-            psi = psi + (np.exp(-1j * b * M) - 1) * psi.mean()  # exp(-i b A), A = complete-graph adjacency
-        return psi
-
     rng = np.random.default_rng(seed)
-    f = lambda th: float(np.abs(state(th)) ** 2 @ C)
+    f = lambda th: float(np.abs(qwoa_state(C, th)) ** 2 @ C)
     starts = (np.r_[rng.uniform(0, np.pi, p), rng.uniform(0, 2 * np.pi / M, p)] for _ in range(restarts))
     best = min((minimize(f, x0, method="COBYLA") for x0 in starts), key=lambda r: r.fun)
-    return np.abs(state(best.x)) ** 2
+    return np.abs(qwoa_state(C, best.x)) ** 2, best.x
+
+
+def qwoa_cost(scores):
+    """QWOA cost per route: minus the score, scaled to [-1, 1] so the angles don't depend on units."""
+    C = -np.asarray(scores, float)
+    return C / (np.abs(C).max() or 1)
+
+
+def qwoa_state(C, theta):
+    """Final QWOA amplitudes over routes; theta = p phase angles then p walk angles."""
+    p, M = len(theta) // 2, len(C)
+    psi = np.full(M, M**-0.5, dtype=complex)
+    for g, b in zip(theta[:p], theta[p:]):
+        psi = psi * np.exp(-1j * g * C)
+        psi = psi + (np.exp(-1j * b * M) - 1) * psi.mean()  # exp(-i b A), A = complete-graph adjacency
+    return psi
 
 
 def show(plan_):
@@ -348,7 +355,7 @@ if __name__ == "__main__":
     scores = np.array([s for s, _ in routes])
     assert abs(scores.max() - best["score"]) < 0.1, "branch-and-bound pruned away the optimum"  # plan() rounds
 
-    probs = qwoa(scores)
+    probs, _ = qwoa(scores)
     opt = scores == scores.max()
     top = routes[int(probs.argmax())]
     print(
