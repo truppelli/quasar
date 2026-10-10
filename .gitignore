@@ -221,3 +221,5 @@ __marimo__/
 
 # raw datasets (~1 GB); build resorts with datasets.py
 data/
+# collected 3D-map feedback
+feedback.jsonl
