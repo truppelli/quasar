@@ -1,0 +1,5704 @@
+{
+ "name": "Heavenly Mountain Resort",
+ "source": "OpenSkiMap ski area 3f61859b47be735a77df9b1b9e102edbeb529286",
+ "origin_lonlat": [
+  -119.90780081316701,
+  38.93413722436801
+ ],
+ "nodes": {
+  "Mott Canyon top": [
+   933,
+   -229,
+   2770.4
+  ],
+  "Unnamed run / Meteor": [
+   887,
+   -195,
+   2767.6
+  ],
+  "Ridge Run / Maggie's, Ridge Run": [
+   -931,
+   -1330,
+   2650.8
+  ],
+  "Ridge Run / Unnamed run": [
+   -760,
+   -1210,
+   2604.3
+  ],
+  "Unnamed run / Mott Canyon Trail": [
+   1076,
+   -222,
+   2740.3
+  ],
+  "Unnamed run / Perimeter": [
+   2123,
+   1126,
+   2495.7
+  ],
+  "Unnamed run / Galaxy": [
+   2006,
+   1263,
+   2490.2
+  ],
+  "Olympic Express top": [
+   137,
+   933,
+   2887.1
+  ],
+  "Olympic Downhill / Lower Stagecoach": [
+   1507,
+   2199,
+   2414.2
+  ],
+  "Boulder top": [
+   1240,
+   2646,
+   2344.0
+  ],
+  "Boulder bottom": [
+   1513,
+   3486,
+   2211.1
+  ],
+  "Hogsback / The Face": [
+   -2031,
+   -666,
+   2528.7
+  ],
+  "Hogsback / Round-a-Bout": [
+   -2542,
+   -811,
+   2325.2
+  ],
+  "Groove top": [
+   -2004,
+   -767,
+   2534.7
+  ],
+  "Groove bottom": [
+   -1729,
+   -1024,
+   2448.4
+  ],
+  "Waterfall / Swing Trail": [
+   -1269,
+   -1169,
+   2603.4
+  ],
+  "Waterfall / Steins Way": [
+   -1439,
+   -959,
+   2484.5
+  ],
+  "Tamarack Return / California Trail": [
+   -39,
+   -380,
+   2862.5
+  ],
+  "Tamarack Return / Sam's Dream": [
+   -88,
+   162,
+   2789.5
+  ],
+  "Pinnacles": [
+   173,
+   -1116,
+   2873.6
+  ],
+  "Pinnacles / California Trail": [
+   -281,
+   -1035,
+   2680.4
+  ],
+  "Maggie's, Ridge Run / Maggie's": [
+   -973,
+   -1422,
+   2666.1
+  ],
+  "Swing Trail / Steins Way": [
+   -1114,
+   -785,
+   2565.0
+  ],
+  "The Burn / North Bowl": [
+   1093,
+   2567,
+   2359.7
+  ],
+  "Stagecoach Express top": [
+   1101,
+   1321,
+   2739.1
+  ],
+  "Stagecoach / Nevada Trail": [
+   1531,
+   1644,
+   2538.5
+  ],
+  "Unnamed run / Nevada Trail": [
+   1354,
+   2511,
+   2387.7
+  ],
+  "North Bowl Express bottom": [
+   1271,
+   2704,
+   2334.3
+  ],
+  "Pistol / Hogsback": [
+   -2508,
+   -338,
+   2265.6
+  ],
+  "Pistol / West Bowl": [
+   -2824,
+   -111,
+   2059.7
+  ],
+  "Dipper Bowl / Orion": [
+   392,
+   -583,
+   2943.9
+  ],
+  "Dipper Bowl / Unnamed run": [
+   803,
+   -197,
+   2786.8
+  ],
+  "Dipper Express top": [
+   443,
+   -730,
+   2978.4
+  ],
+  "Unnamed run / Skyline Trail": [
+   597,
+   -1016,
+   2961.5
+  ],
+  "Ellie's Swing / Ridge Run": [
+   243,
+   -2154,
+   2968.6
+  ],
+  "Ellie's Swing / Ellie's": [
+   200,
+   -1592,
+   2885.1
+  ],
+  "Unnamed run / Big Dipper": [
+   1275,
+   760,
+   2625.7
+  ],
+  "Unnamed run / Galaxy 2": [
+   1432,
+   822,
+   2609.1
+  ],
+  "Upper Mombo / Mombo": [
+   -1269,
+   -1244,
+   2615.3
+  ],
+  "Upper Mombo / Mombo 2": [
+   -1533,
+   -1322,
+   2557.3
+  ],
+  "Stagecoach": [
+   1177,
+   1260,
+   2724.7
+  ],
+  "Galaxy bottom": [
+   2193,
+   1565,
+   2405.8
+  ],
+  "Patsy's top": [
+   -1929,
+   -728,
+   2520.0
+  ],
+  "Patsy's bottom": [
+   -1636,
+   -982,
+   2452.3
+  ],
+  "Dipper Woods / Skyline Trail": [
+   673,
+   -771,
+   2934.3
+  ],
+  "Unnamed run": [
+   1035,
+   -266,
+   2744.0
+  ],
+  "First Ride bottom": [
+   -2800,
+   42,
+   2025.3
+  ],
+  "Gunbarrel Express bottom": [
+   -2771,
+   94,
+   2026.0
+  ],
+  "Sky Express top": [
+   466,
+   -1852,
+   3035.0
+  ],
+  "Skyline Trail / Dipper Line": [
+   547,
+   -536,
+   2910.5
+  ],
+  "North Bowl / Upper North Bowl": [
+   902,
+   1704,
+   2604.0
+  ],
+  "North Bowl / Nevada Trail": [
+   1161,
+   2611,
+   2347.8
+  ],
+  "Unnamed run / World Cup": [
+   -2607,
+   213,
+   2048.6
+  ],
+  "Powderbowl Express top": [
+   -1202,
+   -1515,
+   2688.8
+  ],
+  "Mineshaft / Galaxy": [
+   1791,
+   1061,
+   2522.9
+  ],
+  "Big Easy top": [
+   117,
+   469,
+   2830.6
+  ],
+  "Galaxy / Big Dipper": [
+   1323,
+   657,
+   2641.8
+  ],
+  "Scorpion Woods / Nevada Trail": [
+   1435,
+   1984,
+   2480.4
+  ],
+  "Unnamed run / Maggie's": [
+   -970,
+   -967,
+   2598.3
+  ],
+  "Canyon Express bottom": [
+   -777,
+   -1249,
+   2606.9
+  ],
+  "Crossover / Unnamed run": [
+   298,
+   202,
+   2835.0
+  ],
+  "Crossover / Cloud 9": [
+   649,
+   1256,
+   2738.5
+  ],
+  "Gunbarrel / East Bowl": [
+   -2313,
+   -304,
+   2318.7
+  ],
+  "Gunbarrel": [
+   -2749,
+   58,
+   2032.6
+  ],
+  "Ponderosa / Cloud 9": [
+   187,
+   935,
+   2873.9
+  ],
+  "Ponderosa / Comet": [
+   897,
+   782,
+   2636.2
+  ],
+  "Dipper Line / Big Dipper": [
+   488,
+   -620,
+   2946.6
+  ],
+  "Dipper Bowl": [
+   501,
+   -399,
+   2868.2
+  ],
+  "Unnamed run / Meteor 2": [
+   795,
+   -303,
+   2822.4
+  ],
+  "Emily's Run / Nevada Trail": [
+   1544,
+   1717,
+   2525.3
+  ],
+  "Advanced Round-a-Bout": [
+   -1955,
+   -836,
+   2508.8
+  ],
+  "Advanced Round-a-Bout / Round-a-Bout": [
+   -2429,
+   -1005,
+   2349.1
+  ],
+  "Mombo": [
+   -1151,
+   -1523,
+   2683.4
+  ],
+  "Unnamed run / Von Schmidt": [
+   149,
+   338,
+   2812.2
+  ],
+  "Unnamed run 2": [
+   -149,
+   225,
+   2789.2
+  ],
+  "Upper Perimeter / Big Dipper": [
+   1149,
+   169,
+   2705.6
+  ],
+  "Upper Perimeter / Big Dipper 2": [
+   1291,
+   457,
+   2654.4
+  ],
+  "Liz's / Ridge Run": [
+   413,
+   -2095,
+   2999.0
+  ],
+  "Liz's / California Trail": [
+   -591,
+   -1174,
+   2615.3
+  ],
+  "Comet Express top": [
+   317,
+   -129,
+   2899.8
+  ],
+  "Aries / Orion": [
+   632,
+   -146,
+   2825.2
+  ],
+  "Milky Way / Mott Canyon Trail": [
+   895,
+   -809,
+   2845.0
+  ],
+  "Nevada Trail / Big Dipper": [
+   1267,
+   880,
+   2623.2
+  ],
+  "Upper Bonanza": [
+   100,
+   899,
+   2898.0
+  ],
+  "Upper Bonanza / Bonanza": [
+   214,
+   649,
+   2832.3
+  ],
+  "Canyon Express top": [
+   -131,
+   -2204,
+   2915.6
+  ],
+  "Unnamed run / High Five": [
+   -94,
+   -2168,
+   2908.0
+  ],
+  "Unnamed run / Von Schmidt 2": [
+   30,
+   196,
+   2799.6
+  ],
+  "Aries": [
+   357,
+   -132,
+   2894.6
+  ],
+  "Little Dipper / Jack's": [
+   681,
+   482,
+   2692.4
+  ],
+  "Big Easy bottom": [
+   -103,
+   303,
+   2789.4
+  ],
+  "Ellie's Swing": [
+   198,
+   -1686,
+   2902.7
+  ],
+  "Unnamed run / Ellie's": [
+   101,
+   -1563,
+   2850.8
+  ],
+  "Olympic Downhill": [
+   696,
+   1367,
+   2704.4
+  ],
+  "Comet Express bottom": [
+   941,
+   831,
+   2631.4
+  ],
+  "Unnamed run / High Five 2": [
+   -409,
+   -1627,
+   2762.4
+  ],
+  "Ridge Run": [
+   -818,
+   -1219,
+   2607.6
+  ],
+  "Mombo 2": [
+   -1412,
+   -1150,
+   2571.5
+  ],
+  "Fall Line / Steins Way": [
+   -1597,
+   -1026,
+   2466.9
+  ],
+  "Cascade / California Trail": [
+   243,
+   -581,
+   2949.3
+  ],
+  "Tamarack Return": [
+   -82,
+   55,
+   2791.2
+  ],
+  "Sam's Dream / Cosmic Wave": [
+   271,
+   -480,
+   2924.1
+  ],
+  "Mombo 3": [
+   -1091,
+   -1509,
+   2679.7
+  ],
+  "Nova / Orion": [
+   863,
+   303,
+   2732.0
+  ],
+  "Nova / Lower Dipper Return": [
+   902,
+   724,
+   2635.3
+  ],
+  "North Bowl Express top": [
+   920,
+   1216,
+   2725.1
+  ],
+  "Skyline Trail": [
+   555,
+   -1255,
+   2987.4
+  ],
+  "Ski Ways Glades": [
+   175,
+   -1351,
+   2876.0
+  ],
+  "Galaxy top": [
+   1130,
+   282,
+   2715.1
+  ],
+  "Big Dipper": [
+   1213,
+   300,
+   2692.4
+  ],
+  "Mombo 4": [
+   -1658,
+   -1049,
+   2456.1
+  ],
+  "Unnamed run / Ridge Run": [
+   -157,
+   -2236,
+   2917.7
+  ],
+  "Pinnacles / California Trail 2": [
+   -312,
+   -1102,
+   2670.7
+  ],
+  "Canyonland / Ridge Run": [
+   5,
+   -2202,
+   2936.3
+  ],
+  "Liz's": [
+   -203,
+   -1651,
+   2766.0
+  ],
+  "Big Dipper 2": [
+   1100,
+   39,
+   2718.3
+  ],
+  "Tamarack Express top": [
+   265,
+   -631,
+   2963.4
+  ],
+  "Dipper Bowl 2": [
+   381,
+   -508,
+   2922.7
+  ],
+  "Sky Express bottom": [
+   -696,
+   -1178,
+   2604.8
+  ],
+  "Crossover": [
+   685,
+   1151,
+   2755.8
+  ],
+  "Olympic Downhill 2": [
+   815,
+   1454,
+   2667.2
+  ],
+  "California Trail / High Five": [
+   -687,
+   -1230,
+   2607.6
+  ],
+  "First Ride top": [
+   -2967,
+   -284,
+   2081.6
+  ],
+  "Jack's / Orion": [
+   791,
+   112,
+   2759.5
+  ],
+  "Jack's / Orion 2": [
+   849,
+   662,
+   2653.3
+  ],
+  "Poma Trail": [
+   -3020,
+   -267,
+   2071.6
+  ],
+  "Poma Trail 2": [
+   -2831,
+   -24,
+   2033.3
+  ],
+  "Comet": [
+   346,
+   65,
+   2873.7
+  ],
+  "Little Dipper": [
+   554,
+   348,
+   2730.1
+  ],
+  "West Bowl / Round-a-Bout": [
+   -2664,
+   -480,
+   2230.3
+  ],
+  "Express Line / Sky Canyon": [
+   -362,
+   -1376,
+   2671.8
+  ],
+  "Stagecoach Return / Lower Stagecoach": [
+   1625,
+   2611,
+   2345.7
+  ],
+  "Cosmic Wave / Unnamed run": [
+   753,
+   50,
+   2776.5
+  ],
+  "Olympic Downhill 3": [
+   1233,
+   1784,
+   2564.7
+  ],
+  "North Bowl": [
+   1056,
+   2233,
+   2409.7
+  ],
+  "Mombo 5": [
+   -1464,
+   -1183,
+   2563.9
+  ],
+  "Orion's Belt / Orion": [
+   664,
+   -108,
+   2813.9
+  ],
+  "Big Dipper 3": [
+   844,
+   -164,
+   2771.4
+  ],
+  "Skyline Trail 2": [
+   700,
+   -567,
+   2923.4
+  ],
+  "Big Dipper 4": [
+   912,
+   -121,
+   2756.5
+  ],
+  "Comet 2": [
+   643,
+   607,
+   2701.5
+  ],
+  "Stagecoach Woods / Stage Line": [
+   1084,
+   1362,
+   2734.6
+  ],
+  "Olympic Downhill 4": [
+   1092,
+   1665,
+   2616.8
+  ],
+  "Big Dipper 5": [
+   1321,
+   505,
+   2649.0
+  ],
+  "Canyonland": [
+   -19,
+   -2142,
+   2914.1
+  ],
+  "Liz's 2": [
+   -250,
+   -1621,
+   2765.4
+  ],
+  "Olympic Downhill 5": [
+   1319,
+   1850,
+   2533.1
+  ],
+  "Powderbowl Woods": [
+   -1256,
+   -1543,
+   2692.9
+  ],
+  "Powderbowl Woods 2": [
+   -1553,
+   -1406,
+   2559.2
+  ],
+  "Nova": [
+   946,
+   648,
+   2643.7
+  ],
+  "Bonanza": [
+   284,
+   647,
+   2814.3
+  ],
+  "Big Dipper 6": [
+   742,
+   -275,
+   2821.0
+  ],
+  "North Bowl 2": [
+   1022,
+   2197,
+   2421.3
+  ],
+  "California Trail": [
+   -298,
+   -136,
+   2782.7
+  ],
+  "Tamarack Express bottom": [
+   -144,
+   175,
+   2788.9
+  ],
+  "Olympic Downhill 6": [
+   462,
+   1299,
+   2766.0
+  ],
+  "Olympic Express bottom": [
+   870,
+   1637,
+   2624.5
+  ],
+  "North Bowl 3": [
+   1045,
+   2385,
+   2385.2
+  ],
+  "Little Dipper 2": [
+   312,
+   -69,
+   2898.1
+  ],
+  "Big Dipper 7": [
+   404,
+   -681,
+   2971.1
+  ],
+  "Dipper Express bottom": [
+   941,
+   710,
+   2632.5
+  ],
+  "East Bowl / World Cup": [
+   -2465,
+   41,
+   2125.2
+  ],
+  "Gunbarrel Express top": [
+   -1987,
+   -624,
+   2508.9
+  ],
+  "California Trail 2": [
+   -378,
+   -1156,
+   2651.7
+  ],
+  "California Trail 3": [
+   -421,
+   -592,
+   2711.6
+  ],
+  "California Trail 4": [
+   -453,
+   -1162,
+   2628.2
+  ],
+  "Unnamed run 3": [
+   -612,
+   -1490,
+   2707.0
+  ],
+  "East Bowl Woods": [
+   -1878,
+   -207,
+   2467.4
+  ],
+  "East Bowl Woods / Round-a-Bout": [
+   -2329,
+   25,
+   2157.7
+  ],
+  "Ridge Run 2": [
+   -680,
+   -1782,
+   2753.5
+  ],
+  "Nevada Trail": [
+   1553,
+   1915,
+   2489.6
+  ],
+  "Stagecoach Express bottom": [
+   1791,
+   2916,
+   2291.7
+  ],
+  "World Cup top": [
+   -2421,
+   44,
+   2133.7
+  ],
+  "World Cup bottom": [
+   -2654,
+   290,
+   2032.2
+  ],
+  "Nevada Trail 2": [
+   1750,
+   1360,
+   2565.8
+  ],
+  "Comet 3": [
+   750,
+   677,
+   2668.7
+  ],
+  "Perimeter": [
+   1728,
+   688,
+   2599.9
+  ],
+  "Unnamed run 4": [
+   2071,
+   1173,
+   2501.2
+  ],
+  "Aerial Tramway top": [
+   -2008,
+   -575,
+   2506.7
+  ],
+  "Jack's": [
+   678,
+   381,
+   2698.0
+  ],
+  "Von Schmidt": [
+   -238,
+   -96,
+   2784.7
+  ],
+  "Skyline Trail 3": [
+   578,
+   -1571,
+   3009.3
+  ],
+  "Ellie's": [
+   -69,
+   -1342,
+   2781.5
+  ],
+  "Pioneer bottom": [
+   -1833,
+   -498,
+   2491.5
+  ],
+  "Pioneer top": [
+   -1723,
+   -394,
+   2509.5
+  ],
+  "Unnamed lift bottom": [
+   1429,
+   3425,
+   2215.5
+  ],
+  "Unnamed lift top": [
+   1395,
+   3392,
+   2222.6
+  ],
+  "Heavenly Gondola bottom": [
+   -3020,
+   2507,
+   1915.6
+  ],
+  "Heavenly Gondola top": [
+   -213,
+   91,
+   2784.9
+  ],
+  "Skier Express bottom": [
+   1833,
+   2884,
+   2299.2
+  ],
+  "Skier Express top": [
+   2002,
+   2889,
+   2328.2
+  ],
+  "Aerial Tramway bottom": [
+   -2707,
+   327,
+   2027.9
+  ],
+  "Tubing Hill bottom": [
+   -137,
+   380,
+   2792.5
+  ],
+  "Tubing Hill top": [
+   -64,
+   484,
+   2812.2
+  ]
+ },
+ "lifts": [
+  [
+   "Pioneer",
+   "Pioneer bottom",
+   "Pioneer top",
+   3.8
+  ],
+  [
+   "Patsy's",
+   "Patsy's bottom",
+   "Patsy's top",
+   6.0
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   4.0
+  ],
+  [
+   "Comet Express",
+   "Comet Express bottom",
+   "Comet Express top",
+   6.9
+  ],
+  [
+   "Gunbarrel Express",
+   "Gunbarrel Express bottom",
+   "Gunbarrel Express top",
+   6.8
+  ],
+  [
+   "Galaxy",
+   "Galaxy bottom",
+   "Galaxy top",
+   16.0
+  ],
+  [
+   "Heavenly Gondola",
+   "Heavenly Gondola bottom",
+   "Heavenly Gondola top",
+   15.0
+  ],
+  [
+   "Heavenly Gondola",
+   "Heavenly Gondola top",
+   "Heavenly Gondola bottom",
+   15.0
+  ],
+  [
+   "First Ride",
+   "First Ride bottom",
+   "First Ride top",
+   6.0
+  ],
+  [
+   "Skier Express",
+   "Skier Express bottom",
+   "Skier Express top",
+   4.0
+  ],
+  [
+   "Skier Express",
+   "Skier Express top",
+   "Skier Express bottom",
+   4.0
+  ],
+  [
+   "Groove",
+   "Groove bottom",
+   "Groove top",
+   6.0
+  ],
+  [
+   "Aerial Tramway",
+   "Aerial Tramway bottom",
+   "Aerial Tramway top",
+   5.6
+  ],
+  [
+   "Aerial Tramway",
+   "Aerial Tramway top",
+   "Aerial Tramway bottom",
+   5.6
+  ],
+  [
+   "Stagecoach Express",
+   "Stagecoach Express bottom",
+   "Stagecoach Express top",
+   9.0
+  ],
+  [
+   "Powderbowl Express",
+   "Groove bottom",
+   "Powderbowl Express top",
+   5.5
+  ],
+  [
+   "Tubing Hill",
+   "Tubing Hill bottom",
+   "Tubing Hill top",
+   5.7
+  ],
+  [
+   "North Bowl Express",
+   "North Bowl Express bottom",
+   "North Bowl Express top",
+   8.2
+  ],
+  [
+   "Dipper Express",
+   "Dipper Express bottom",
+   "Dipper Express top",
+   8.2
+  ],
+  [
+   "Boulder",
+   "Boulder bottom",
+   "Boulder top",
+   9.5
+  ],
+  [
+   "Big Easy",
+   "Big Easy bottom",
+   "Big Easy top",
+   8.0
+  ],
+  [
+   "Canyon Express",
+   "Canyon Express bottom",
+   "Canyon Express top",
+   7.0
+  ],
+  [
+   "World Cup",
+   "World Cup bottom",
+   "World Cup top",
+   5.6
+  ],
+  [
+   "Sky Express",
+   "Sky Express bottom",
+   "Sky Express top",
+   7.7
+  ],
+  [
+   "Tamarack Express",
+   "Tamarack Express bottom",
+   "Tamarack Express top",
+   6.1
+  ],
+  [
+   "Skier Express",
+   "Stagecoach Express bottom",
+   "Skier Express bottom",
+   3.0
+  ],
+  [
+   "Skier Express",
+   "Skier Express bottom",
+   "Stagecoach Express bottom",
+   3.0
+  ],
+  [
+   "Olympic Express",
+   "Olympic Express bottom",
+   "Olympic Express top",
+   6.6
+  ]
+ ],
+ "runs": [
+  [
+   "Unnamed run",
+   "Mott Canyon top",
+   "Unnamed run / Meteor",
+   0.5
+  ],
+  [
+   "Ridge Run",
+   "Ridge Run / Maggie's, Ridge Run",
+   "Ridge Run",
+   0.6
+  ],
+  [
+   "Ridge Run",
+   "Ridge Run",
+   "Ridge Run / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Mott Canyon top",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Unnamed run / Mott Canyon Trail",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Perimeter",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "Unnamed run / Galaxy",
+   0.5
+  ],
+  [
+   "Olympic Downhill",
+   "Olympic Express top",
+   "Olympic Downhill 6",
+   2.5
+  ],
+  [
+   "Olympic Downhill",
+   "Olympic Downhill 6",
+   "Olympic Downhill",
+   0.9
+  ],
+  [
+   "Olympic Downhill",
+   "Olympic Downhill",
+   "Olympic Downhill 2",
+   0.6
+  ],
+  [
+   "Olympic Downhill",
+   "Olympic Downhill 2",
+   "Olympic Downhill 4",
+   1.6
+  ],
+  [
+   "Olympic Downhill",
+   "Olympic Downhill 4",
+   "Olympic Downhill 3",
+   0.8
+  ],
+  [
+   "Olympic Downhill",
+   "Olympic Downhill 3",
+   "Olympic Downhill 5",
+   0.5
+  ],
+  [
+   "Olympic Downhill",
+   "Olympic Downhill 5",
+   "Olympic Downhill / Lower Stagecoach",
+   1.9
+  ],
+  [
+   "Boulder Bowl",
+   "Boulder top",
+   "North Bowl Express bottom",
+   0.5
+  ],
+  [
+   "Boulder Bowl",
+   "North Bowl Express bottom",
+   "Unnamed lift top",
+   3.1
+  ],
+  [
+   "Boulder Bowl",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   0.5
+  ],
+  [
+   "Boulder Bowl",
+   "Unnamed lift bottom",
+   "Boulder bottom",
+   0.5
+  ],
+  [
+   "Hogsback",
+   "Hogsback / The Face",
+   "Hogsback / Round-a-Bout",
+   2.3
+  ],
+  [
+   "Groove Park",
+   "Groove top",
+   "Groove bottom",
+   2.2
+  ],
+  [
+   "Waterfall",
+   "Waterfall / Swing Trail",
+   "Waterfall / Steins Way",
+   1.2
+  ],
+  [
+   "Tamarack Return",
+   "Tamarack Return / California Trail",
+   "Tamarack Return",
+   1.7
+  ],
+  [
+   "Tamarack Return",
+   "Tamarack Return",
+   "Tamarack Return / Sam's Dream",
+   0.5
+  ],
+  [
+   "Pinnacles",
+   "Pinnacles",
+   "Pinnacles / California Trail",
+   2.0
+  ],
+  [
+   "Maggie's, Ridge Run",
+   "Maggie's, Ridge Run / Maggie's",
+   "Ridge Run / Maggie's, Ridge Run",
+   0.5
+  ],
+  [
+   "Swing Trail",
+   "Waterfall / Swing Trail",
+   "Swing Trail / Steins Way",
+   1.6
+  ],
+  [
+   "Stagecoach",
+   "Stagecoach Express top",
+   "Stagecoach",
+   0.5
+  ],
+  [
+   "Stagecoach",
+   "Stagecoach",
+   "Stagecoach / Nevada Trail",
+   2.4
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Nevada Trail",
+   "North Bowl Express bottom",
+   0.8
+  ],
+  [
+   "Pistol",
+   "Pistol / Hogsback",
+   "Pistol / West Bowl",
+   1.7
+  ],
+  [
+   "Dipper Bowl",
+   "Dipper Bowl / Orion",
+   "Dipper Bowl 2",
+   0.5
+  ],
+  [
+   "Dipper Bowl",
+   "Dipper Bowl 2",
+   "Dipper Bowl",
+   0.5
+  ],
+  [
+   "Dipper Bowl",
+   "Dipper Bowl",
+   "Dipper Bowl / Unnamed run",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Dipper Express top",
+   "Unnamed run / Skyline Trail",
+   1.3
+  ],
+  [
+   "Ellie's Swing",
+   "Ellie's Swing / Ridge Run",
+   "Ellie's Swing",
+   1.9
+  ],
+  [
+   "Ellie's Swing",
+   "Ellie's Swing",
+   "Ellie's Swing / Ellie's",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Big Dipper",
+   "Unnamed run / Galaxy 2",
+   0.6
+  ],
+  [
+   "Upper Mombo",
+   "Upper Mombo / Mombo",
+   "Upper Mombo / Mombo 2",
+   1.2
+  ],
+  [
+   "Comstock",
+   "Stagecoach",
+   "Galaxy bottom",
+   4.7
+  ],
+  [
+   "Patsy's",
+   "Patsy's top",
+   "Patsy's bottom",
+   2.2
+  ],
+  [
+   "Dipper Woods",
+   "Dipper Woods / Skyline Trail",
+   "Unnamed run",
+   2.6
+  ],
+  [
+   "Unnamed run",
+   "First Ride bottom",
+   "Gunbarrel Express bottom",
+   0.5
+  ],
+  [
+   "Skyline Trail",
+   "Sky Express top",
+   "Skyline Trail 3",
+   1.3
+  ],
+  [
+   "Skyline Trail",
+   "Skyline Trail 3",
+   "Skyline Trail",
+   1.6
+  ],
+  [
+   "Skyline Trail",
+   "Skyline Trail",
+   "Unnamed run / Skyline Trail",
+   1.0
+  ],
+  [
+   "Skyline Trail",
+   "Unnamed run / Skyline Trail",
+   "Dipper Woods / Skyline Trail",
+   1.1
+  ],
+  [
+   "Skyline Trail",
+   "Dipper Woods / Skyline Trail",
+   "Skyline Trail 2",
+   0.9
+  ],
+  [
+   "Skyline Trail",
+   "Skyline Trail 2",
+   "Skyline Trail / Dipper Line",
+   0.7
+  ],
+  [
+   "North Bowl",
+   "North Bowl / Upper North Bowl",
+   "North Bowl 2",
+   2.3
+  ],
+  [
+   "North Bowl",
+   "North Bowl 2",
+   "North Bowl",
+   0.5
+  ],
+  [
+   "North Bowl",
+   "North Bowl",
+   "North Bowl 3",
+   0.7
+  ],
+  [
+   "North Bowl",
+   "North Bowl 3",
+   "The Burn / North Bowl",
+   0.8
+  ],
+  [
+   "North Bowl",
+   "The Burn / North Bowl",
+   "North Bowl / Nevada Trail",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / World Cup",
+   "Gunbarrel Express bottom",
+   0.9
+  ],
+  [
+   "Mombo",
+   "Powderbowl Express top",
+   "Mombo",
+   0.5
+  ],
+  [
+   "Mombo",
+   "Mombo",
+   "Mombo 3",
+   0.5
+  ],
+  [
+   "Mombo",
+   "Mombo 3",
+   "Upper Mombo / Mombo",
+   1.4
+  ],
+  [
+   "Mombo",
+   "Upper Mombo / Mombo",
+   "Waterfall / Swing Trail",
+   0.5
+  ],
+  [
+   "Mombo",
+   "Waterfall / Swing Trail",
+   "Mombo 2",
+   0.7
+  ],
+  [
+   "Mombo",
+   "Mombo 2",
+   "Mombo 5",
+   0.5
+  ],
+  [
+   "Mombo",
+   "Mombo 5",
+   "Upper Mombo / Mombo 2",
+   0.5
+  ],
+  [
+   "Mombo",
+   "Upper Mombo / Mombo 2",
+   "Mombo 4",
+   2.2
+  ],
+  [
+   "Mombo",
+   "Mombo 4",
+   "Groove bottom",
+   0.5
+  ],
+  [
+   "Mineshaft",
+   "Stagecoach",
+   "Mineshaft / Galaxy",
+   2.7
+  ],
+  [
+   "Galaxy",
+   "Galaxy / Big Dipper",
+   "Unnamed run / Galaxy 2",
+   0.7
+  ],
+  [
+   "Galaxy",
+   "Unnamed run / Galaxy 2",
+   "Mineshaft / Galaxy",
+   1.9
+  ],
+  [
+   "Galaxy",
+   "Mineshaft / Galaxy",
+   "Unnamed run / Galaxy",
+   1.2
+  ],
+  [
+   "Galaxy",
+   "Unnamed run / Galaxy",
+   "Galaxy bottom",
+   1.6
+  ],
+  [
+   "Scorpion Woods",
+   "Stagecoach Express top",
+   "Scorpion Woods / Nevada Trail",
+   3.2
+  ],
+  [
+   "Unnamed run",
+   "Ridge Run / Unnamed run",
+   "Unnamed run / Maggie's",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Ridge Run / Unnamed run",
+   "Canyon Express bottom",
+   0.5
+  ],
+  [
+   "Crossover",
+   "Crossover / Unnamed run",
+   "Crossover",
+   4.4
+  ],
+  [
+   "Crossover",
+   "Crossover",
+   "Crossover / Cloud 9",
+   0.5
+  ],
+  [
+   "Gunbarrel",
+   "Gunbarrel / East Bowl",
+   "Gunbarrel",
+   2.5
+  ],
+  [
+   "Ponderosa",
+   "Ponderosa / Cloud 9",
+   "Ponderosa / Comet",
+   3.1
+  ],
+  [
+   "Dipper Line",
+   "Dipper Line / Big Dipper",
+   "Skyline Trail / Dipper Line",
+   0.5
+  ],
+  [
+   "Dipper Line",
+   "Skyline Trail / Dipper Line",
+   "Dipper Bowl",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Meteor 2",
+   "Dipper Bowl / Unnamed run",
+   0.5
+  ],
+  [
+   "Emily's Run",
+   "Stagecoach Express top",
+   "Emily's Run / Nevada Trail",
+   2.5
+  ],
+  [
+   "Advanced Round-a-Bout",
+   "Advanced Round-a-Bout",
+   "Advanced Round-a-Bout / Round-a-Bout",
+   2.3
+  ],
+  [
+   "Powderbowl Run",
+   "Mombo",
+   "Upper Mombo / Mombo 2",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Von Schmidt",
+   "Big Easy bottom",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Big Easy bottom",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Upper Perimeter",
+   "Upper Perimeter / Big Dipper",
+   "Upper Perimeter / Big Dipper 2",
+   1.4
+  ],
+  [
+   "Liz's",
+   "Liz's / Ridge Run",
+   "Liz's",
+   3.3
+  ],
+  [
+   "Liz's",
+   "Liz's",
+   "Liz's 2",
+   0.5
+  ],
+  [
+   "Liz's",
+   "Liz's 2",
+   "Liz's / California Trail",
+   2.3
+  ],
+  [
+   "Aries",
+   "Comet Express top",
+   "Aries",
+   0.5
+  ],
+  [
+   "Aries",
+   "Aries",
+   "Aries / Orion",
+   1.1
+  ],
+  [
+   "Milky Way",
+   "Unnamed run / Skyline Trail",
+   "Milky Way / Mott Canyon Trail",
+   1.5
+  ],
+  [
+   "Nevada Trail",
+   "Nevada Trail / Big Dipper",
+   "Nevada Trail 2",
+   2.7
+  ],
+  [
+   "Nevada Trail",
+   "Nevada Trail 2",
+   "Stagecoach / Nevada Trail",
+   1.4
+  ],
+  [
+   "Nevada Trail",
+   "Stagecoach / Nevada Trail",
+   "Emily's Run / Nevada Trail",
+   0.5
+  ],
+  [
+   "Nevada Trail",
+   "Emily's Run / Nevada Trail",
+   "Nevada Trail",
+   0.9
+  ],
+  [
+   "Nevada Trail",
+   "Nevada Trail",
+   "Scorpion Woods / Nevada Trail",
+   0.6
+  ],
+  [
+   "Nevada Trail",
+   "Scorpion Woods / Nevada Trail",
+   "Unnamed run / Nevada Trail",
+   2.4
+  ],
+  [
+   "Nevada Trail",
+   "Unnamed run / Nevada Trail",
+   "North Bowl / Nevada Trail",
+   0.9
+  ],
+  [
+   "Upper Bonanza",
+   "Upper Bonanza",
+   "Upper Bonanza / Bonanza",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Canyon Express top",
+   "Unnamed run / High Five",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Crossover / Unnamed run",
+   "Unnamed run / Von Schmidt 2",
+   1.1
+  ],
+  [
+   "Little Dipper",
+   "Aries",
+   "Little Dipper 2",
+   0.5
+  ],
+  [
+   "Little Dipper",
+   "Little Dipper 2",
+   "Little Dipper",
+   1.9
+  ],
+  [
+   "Little Dipper",
+   "Little Dipper",
+   "Little Dipper / Jack's",
+   0.8
+  ],
+  [
+   "Easy Street",
+   "Big Easy top",
+   "Big Easy bottom",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Ellie's Swing",
+   "Unnamed run / Ellie's",
+   0.6
+  ],
+  [
+   "Cloud 9",
+   "Olympic Express top",
+   "Ponderosa / Cloud 9",
+   0.5
+  ],
+  [
+   "Cloud 9",
+   "Ponderosa / Cloud 9",
+   "Crossover / Cloud 9",
+   2.3
+  ],
+  [
+   "Cloud 9",
+   "Crossover / Cloud 9",
+   "Olympic Downhill",
+   0.5
+  ],
+  [
+   "Comet",
+   "Comet Express top",
+   "Little Dipper 2",
+   0.5
+  ],
+  [
+   "Comet",
+   "Little Dipper 2",
+   "Comet",
+   0.5
+  ],
+  [
+   "Comet",
+   "Comet",
+   "Crossover / Unnamed run",
+   0.5
+  ],
+  [
+   "Comet",
+   "Crossover / Unnamed run",
+   "Comet 2",
+   2.4
+  ],
+  [
+   "Comet",
+   "Comet 2",
+   "Comet 3",
+   0.6
+  ],
+  [
+   "Comet",
+   "Comet 3",
+   "Ponderosa / Comet",
+   0.8
+  ],
+  [
+   "Comet",
+   "Ponderosa / Comet",
+   "Comet Express bottom",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Dipper Express top",
+   "Big Dipper 7",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Big Dipper 7",
+   "Dipper Line / Big Dipper",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Dipper Line / Big Dipper",
+   "Skyline Trail / Dipper Line",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Skyline Trail / Dipper Line",
+   "Big Dipper 6",
+   1.4
+  ],
+  [
+   "Big Dipper",
+   "Big Dipper 6",
+   "Dipper Bowl / Unnamed run",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Dipper Bowl / Unnamed run",
+   "Big Dipper 3",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Big Dipper 3",
+   "Big Dipper 4",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Big Dipper 4",
+   "Big Dipper 2",
+   1.1
+  ],
+  [
+   "Big Dipper",
+   "Big Dipper 2",
+   "Upper Perimeter / Big Dipper",
+   0.6
+  ],
+  [
+   "Big Dipper",
+   "Upper Perimeter / Big Dipper",
+   "Big Dipper",
+   0.6
+  ],
+  [
+   "Big Dipper",
+   "Big Dipper",
+   "Upper Perimeter / Big Dipper 2",
+   0.8
+  ],
+  [
+   "Big Dipper",
+   "Upper Perimeter / Big Dipper 2",
+   "Big Dipper 5",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Big Dipper 5",
+   "Galaxy / Big Dipper",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Galaxy / Big Dipper",
+   "Unnamed run / Big Dipper",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Unnamed run / Big Dipper",
+   "Nevada Trail / Big Dipper",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / High Five 2",
+   "Unnamed run 3",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 3",
+   "Ridge Run",
+   1.6
+  ],
+  [
+   "Fall Line",
+   "Mombo 2",
+   "Fall Line / Steins Way",
+   0.9
+  ],
+  [
+   "Cascade",
+   "Cascade / California Trail",
+   "Tamarack Return",
+   2.9
+  ],
+  [
+   "Sam's Dream",
+   "Sam's Dream / Cosmic Wave",
+   "Tamarack Return / Sam's Dream",
+   3.1
+  ],
+  [
+   "Maggie's",
+   "Mombo 3",
+   "Maggie's, Ridge Run / Maggie's",
+   0.5
+  ],
+  [
+   "Nova",
+   "Nova / Orion",
+   "Nova",
+   1.4
+  ],
+  [
+   "Nova",
+   "Nova",
+   "Nova / Lower Dipper Return",
+   0.5
+  ],
+  [
+   "Upper North Bowl",
+   "North Bowl Express top",
+   "Olympic Downhill 2",
+   1.0
+  ],
+  [
+   "Upper North Bowl",
+   "Olympic Downhill 2",
+   "Olympic Express bottom",
+   0.8
+  ],
+  [
+   "Upper North Bowl",
+   "Olympic Express bottom",
+   "North Bowl / Upper North Bowl",
+   0.5
+  ],
+  [
+   "Lower Dipper Return",
+   "Upper Perimeter / Big Dipper 2",
+   "Dipper Express bottom",
+   1.7
+  ],
+  [
+   "Lower Dipper Return",
+   "Dipper Express bottom",
+   "Nova",
+   0.5
+  ],
+  [
+   "Lower Dipper Return",
+   "Nova",
+   "Dipper Express bottom",
+   0.5
+  ],
+  [
+   "Lower Dipper Return",
+   "Dipper Express bottom",
+   "Nova / Lower Dipper Return",
+   0.5
+  ],
+  [
+   "Ski Ways Glades",
+   "Skyline Trail",
+   "Ski Ways Glades",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Galaxy top",
+   "Big Dipper",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Mombo 4",
+   "Patsy's bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Canyon Express top",
+   "Unnamed run / Ridge Run",
+   0.5
+  ],
+  [
+   "Pinnacles",
+   "Skyline Trail",
+   "Pinnacles",
+   1.7
+  ],
+  [
+   "Pinnacles",
+   "Pinnacles",
+   "Pinnacles / California Trail 2",
+   2.3
+  ],
+  [
+   "Canyonland",
+   "Canyonland / Ridge Run",
+   "Canyonland",
+   0.5
+  ],
+  [
+   "Canyonland",
+   "Canyonland",
+   "Liz's",
+   2.2
+  ],
+  [
+   "Mott Canyon Trail",
+   "Milky Way / Mott Canyon Trail",
+   "Unnamed run",
+   2.6
+  ],
+  [
+   "Mott Canyon Trail",
+   "Unnamed run",
+   "Unnamed run / Mott Canyon Trail",
+   0.5
+  ],
+  [
+   "Mott Canyon Trail",
+   "Unnamed run / Mott Canyon Trail",
+   "Big Dipper 2",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Tamarack Express top",
+   "Dipper Bowl 2",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Ridge Run / Unnamed run",
+   "Sky Express bottom",
+   0.5
+  ],
+  [
+   "$100 Saddle",
+   "Crossover",
+   "Olympic Downhill 2",
+   1.3
+  ],
+  [
+   "California Trail",
+   "Dipper Express top",
+   "Big Dipper 7",
+   0.5
+  ],
+  [
+   "California Trail",
+   "Big Dipper 7",
+   "Cascade / California Trail",
+   0.8
+  ],
+  [
+   "California Trail",
+   "Cascade / California Trail",
+   "Tamarack Return / California Trail",
+   1.6
+  ],
+  [
+   "California Trail",
+   "Tamarack Return / California Trail",
+   "California Trail",
+   1.6
+  ],
+  [
+   "California Trail",
+   "California Trail",
+   "California Trail 3",
+   2.2
+  ],
+  [
+   "California Trail",
+   "California Trail 3",
+   "Pinnacles / California Trail",
+   2.0
+  ],
+  [
+   "California Trail",
+   "Pinnacles / California Trail",
+   "Pinnacles / California Trail 2",
+   0.5
+  ],
+  [
+   "California Trail",
+   "Pinnacles / California Trail 2",
+   "California Trail 2",
+   0.5
+  ],
+  [
+   "California Trail",
+   "California Trail 2",
+   "California Trail 4",
+   0.5
+  ],
+  [
+   "California Trail",
+   "California Trail 4",
+   "Liz's / California Trail",
+   0.5
+  ],
+  [
+   "California Trail",
+   "Liz's / California Trail",
+   "California Trail / High Five",
+   0.5
+  ],
+  [
+   "Poma Trail",
+   "First Ride top",
+   "Poma Trail",
+   0.5
+  ],
+  [
+   "Poma Trail",
+   "Poma Trail",
+   "Poma Trail 2",
+   1.3
+  ],
+  [
+   "Poma Trail",
+   "Poma Trail 2",
+   "First Ride bottom",
+   0.5
+  ],
+  [
+   "Jack's",
+   "Jack's / Orion",
+   "Jack's",
+   1.2
+  ],
+  [
+   "Jack's",
+   "Jack's",
+   "Little Dipper / Jack's",
+   0.5
+  ],
+  [
+   "Jack's",
+   "Little Dipper / Jack's",
+   "Jack's / Orion 2",
+   1.0
+  ],
+  [
+   "Enchanted Forest",
+   "Poma Trail",
+   "Poma Trail 2",
+   1.3
+  ],
+  [
+   "Cepheus",
+   "Comet",
+   "Crossover / Unnamed run",
+   0.6
+  ],
+  [
+   "Cepheus",
+   "Crossover / Unnamed run",
+   "Little Dipper",
+   1.2
+  ],
+  [
+   "Steins Way",
+   "Swing Trail / Steins Way",
+   "Waterfall / Steins Way",
+   1.4
+  ],
+  [
+   "Steins Way",
+   "Waterfall / Steins Way",
+   "Fall Line / Steins Way",
+   0.7
+  ],
+  [
+   "Steins Way",
+   "Fall Line / Steins Way",
+   "Patsy's bottom",
+   0.5
+  ],
+  [
+   "West Bowl",
+   "West Bowl / Round-a-Bout",
+   "Pistol / West Bowl",
+   1.7
+  ],
+  [
+   "West Bowl",
+   "Pistol / West Bowl",
+   "Poma Trail 2",
+   0.5
+  ],
+  [
+   "Express Line",
+   "Sky Express top",
+   "Ellie's Swing",
+   1.2
+  ],
+  [
+   "Express Line",
+   "Ellie's Swing",
+   "Express Line / Sky Canyon",
+   2.8
+  ],
+  [
+   "Stagecoach Return",
+   "Unnamed run / Nevada Trail",
+   "Stagecoach Return / Lower Stagecoach",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "North Bowl / Nevada Trail",
+   "Boulder top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Boulder top",
+   "North Bowl Express bottom",
+   0.5
+  ],
+  [
+   "Ridge Run",
+   "Sky Express top",
+   "Liz's / Ridge Run",
+   1.1
+  ],
+  [
+   "Ridge Run",
+   "Liz's / Ridge Run",
+   "Ellie's Swing / Ridge Run",
+   0.9
+  ],
+  [
+   "Ridge Run",
+   "Ellie's Swing / Ridge Run",
+   "Canyonland / Ridge Run",
+   1.1
+  ],
+  [
+   "Ridge Run",
+   "Canyonland / Ridge Run",
+   "Unnamed run / Ridge Run",
+   0.8
+  ],
+  [
+   "Ridge Run",
+   "Unnamed run / Ridge Run",
+   "Ridge Run 2",
+   3.3
+  ],
+  [
+   "Ridge Run",
+   "Ridge Run 2",
+   "Maggie's, Ridge Run / Maggie's",
+   2.2
+  ],
+  [
+   "Cosmic Wave",
+   "Sam's Dream / Cosmic Wave",
+   "Cosmic Wave / Unnamed run",
+   2.9
+  ],
+  [
+   "Boulder Chute",
+   "Olympic Downhill 3",
+   "North Bowl",
+   2.0
+  ],
+  [
+   "Powder Line",
+   "Mombo 5",
+   "Fall Line / Steins Way",
+   0.8
+  ],
+  [
+   "Powder Line",
+   "Fall Line / Steins Way",
+   "Mombo 4",
+   0.5
+  ],
+  [
+   "Sand Dunes",
+   "Cascade / California Trail",
+   "Sam's Dream / Cosmic Wave",
+   0.5
+  ],
+  [
+   "Sand Dunes",
+   "Sam's Dream / Cosmic Wave",
+   "Comet Express top",
+   1.5
+  ],
+  [
+   "Orion's Belt",
+   "Orion's Belt / Orion",
+   "Dipper Bowl / Unnamed run",
+   0.6
+  ],
+  [
+   "Orion's Belt",
+   "Dipper Bowl / Unnamed run",
+   "Big Dipper 3",
+   0.5
+  ],
+  [
+   "Meteor",
+   "Skyline Trail 2",
+   "Unnamed run / Meteor 2",
+   1.1
+  ],
+  [
+   "Meteor",
+   "Unnamed run / Meteor 2",
+   "Unnamed run / Meteor",
+   0.6
+  ],
+  [
+   "Meteor",
+   "Unnamed run / Meteor",
+   "Big Dipper 4",
+   0.5
+  ],
+  [
+   "Bonanza",
+   "Upper Bonanza / Bonanza",
+   "Bonanza",
+   0.5
+  ],
+  [
+   "Bonanza",
+   "Bonanza",
+   "Comet 2",
+   1.6
+  ],
+  [
+   "Stagecoach Woods",
+   "Stagecoach Woods / Stage Line",
+   "Olympic Downhill 4",
+   1.2
+  ],
+  [
+   "Perimeter",
+   "Big Dipper 5",
+   "Perimeter",
+   1.8
+  ],
+  [
+   "Perimeter",
+   "Perimeter",
+   "Unnamed run / Perimeter",
+   3.0
+  ],
+  [
+   "Perimeter",
+   "Unnamed run / Perimeter",
+   "Galaxy bottom",
+   2.6
+  ],
+  [
+   "Canyonland",
+   "Canyonland",
+   "Liz's 2",
+   2.4
+  ],
+  [
+   "Stage Line",
+   "Stagecoach Express top",
+   "Stagecoach Woods / Stage Line",
+   0.5
+  ],
+  [
+   "Stage Line",
+   "Stagecoach Woods / Stage Line",
+   "Olympic Downhill 5",
+   2.2
+  ],
+  [
+   "Powderbowl Woods",
+   "Powderbowl Woods",
+   "Powderbowl Woods 2",
+   1.4
+  ],
+  [
+   "Maggie's",
+   "Ridge Run / Maggie's, Ridge Run",
+   "Unnamed run / Maggie's",
+   1.5
+  ],
+  [
+   "Maggie's",
+   "Unnamed run / Maggie's",
+   "Swing Trail / Steins Way",
+   1.0
+  ],
+  [
+   "Maggie's",
+   "Swing Trail / Steins Way",
+   "Patsy's bottom",
+   3.7
+  ],
+  [
+   "Maggie's",
+   "Patsy's bottom",
+   "Mombo 4",
+   0.5
+  ],
+  [
+   "Maggie's",
+   "Mombo 4",
+   "Groove bottom",
+   0.5
+  ],
+  [
+   "Upper Dipper Return",
+   "Big Dipper",
+   "Nova",
+   1.7
+  ],
+  [
+   "Silver Spur",
+   "Big Easy top",
+   "Bonanza",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Big Dipper 6",
+   "Cosmic Wave / Unnamed run",
+   1.3
+  ],
+  [
+   "Von Schmidt",
+   "Olympic Express top",
+   "Upper Bonanza / Bonanza",
+   1.3
+  ],
+  [
+   "Von Schmidt",
+   "Upper Bonanza / Bonanza",
+   "Unnamed run / Von Schmidt",
+   1.4
+  ],
+  [
+   "Von Schmidt",
+   "Unnamed run / Von Schmidt",
+   "Unnamed run / Von Schmidt 2",
+   0.8
+  ],
+  [
+   "Von Schmidt",
+   "Unnamed run / Von Schmidt 2",
+   "Tamarack Return",
+   0.8
+  ],
+  [
+   "Von Schmidt",
+   "Tamarack Return",
+   "Von Schmidt",
+   0.9
+  ],
+  [
+   "Von Schmidt",
+   "Von Schmidt",
+   "California Trail",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Tamarack Return / Sam's Dream",
+   "Tamarack Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Tamarack Express bottom",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Tamarack Express bottom",
+   0.5
+  ],
+  [
+   "The Pines",
+   "Olympic Downhill 6",
+   "Olympic Express bottom",
+   2.4
+  ],
+  [
+   "49'er",
+   "Little Dipper 2",
+   "Tamarack Return / Sam's Dream",
+   1.9
+  ],
+  [
+   "Orion",
+   "Big Dipper 7",
+   "Dipper Bowl / Orion",
+   0.5
+  ],
+  [
+   "Orion",
+   "Dipper Bowl / Orion",
+   "Dipper Bowl 2",
+   0.5
+  ],
+  [
+   "Orion",
+   "Dipper Bowl 2",
+   "Aries / Orion",
+   2.0
+  ],
+  [
+   "Orion",
+   "Aries / Orion",
+   "Orion's Belt / Orion",
+   0.5
+  ],
+  [
+   "Orion",
+   "Orion's Belt / Orion",
+   "Cosmic Wave / Unnamed run",
+   0.6
+  ],
+  [
+   "Orion",
+   "Cosmic Wave / Unnamed run",
+   "Jack's / Orion",
+   0.5
+  ],
+  [
+   "Orion",
+   "Jack's / Orion",
+   "Nova / Orion",
+   0.9
+  ],
+  [
+   "Orion",
+   "Nova / Orion",
+   "Jack's / Orion 2",
+   1.6
+  ],
+  [
+   "Orion",
+   "Jack's / Orion 2",
+   "Nova / Lower Dipper Return",
+   0.5
+  ],
+  [
+   "Orion",
+   "Nova / Lower Dipper Return",
+   "Dipper Express bottom",
+   0.5
+  ],
+  [
+   "East Bowl",
+   "Gunbarrel / East Bowl",
+   "World Cup top",
+   1.6
+  ],
+  [
+   "East Bowl",
+   "World Cup top",
+   "East Bowl / World Cup",
+   0.5
+  ],
+  [
+   "The Face",
+   "Gunbarrel Express top",
+   "Hogsback / The Face",
+   0.5
+  ],
+  [
+   "The Face",
+   "Hogsback / The Face",
+   "Gunbarrel / East Bowl",
+   2.0
+  ],
+  [
+   "Hogsback",
+   "Hogsback / The Face",
+   "Pistol / Hogsback",
+   2.6
+  ],
+  [
+   "Ellie's",
+   "Sky Express top",
+   "Ellie's Swing / Ellie's",
+   1.6
+  ],
+  [
+   "Ellie's",
+   "Ellie's Swing / Ellie's",
+   "Unnamed run / Ellie's",
+   0.5
+  ],
+  [
+   "Ellie's",
+   "Unnamed run / Ellie's",
+   "Ellie's",
+   1.2
+  ],
+  [
+   "Ellie's",
+   "Ellie's",
+   "California Trail 2",
+   1.6
+  ],
+  [
+   "Sky Canyon",
+   "Liz's",
+   "Liz's 2",
+   0.5
+  ],
+  [
+   "Sky Canyon",
+   "Liz's 2",
+   "Express Line / Sky Canyon",
+   1.1
+  ],
+  [
+   "Sky Canyon",
+   "Express Line / Sky Canyon",
+   "California Trail 4",
+   1.0
+  ],
+  [
+   "Double Down",
+   "Unnamed run 3",
+   "Canyon Express bottom",
+   1.2
+  ],
+  [
+   "Double Down",
+   "Canyon Express bottom",
+   "Ridge Run / Unnamed run",
+   0.5
+  ],
+  [
+   "East Bowl Woods",
+   "East Bowl Woods",
+   "East Bowl Woods / Round-a-Bout",
+   2.3
+  ],
+  [
+   "Ridge Bowl",
+   "Ridge Run 2",
+   "Ridge Run / Maggie's, Ridge Run",
+   2.2
+  ],
+  [
+   "Lower Stagecoach",
+   "Nevada Trail",
+   "Olympic Downhill / Lower Stagecoach",
+   1.1
+  ],
+  [
+   "Lower Stagecoach",
+   "Olympic Downhill / Lower Stagecoach",
+   "Stagecoach Return / Lower Stagecoach",
+   1.9
+  ],
+  [
+   "Lower Stagecoach",
+   "Stagecoach Return / Lower Stagecoach",
+   "Stagecoach Express bottom",
+   1.6
+  ],
+  [
+   "World Cup",
+   "World Cup top",
+   "East Bowl / World Cup",
+   0.5
+  ],
+  [
+   "World Cup",
+   "East Bowl / World Cup",
+   "Unnamed run / World Cup",
+   1.1
+  ],
+  [
+   "World Cup",
+   "Unnamed run / World Cup",
+   "World Cup bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Groove top",
+   "Gunbarrel Express top",
+   0.5
+  ],
+  [
+   "Galaxy Woods",
+   "Nevada Trail 2",
+   "Galaxy bottom",
+   2.0
+  ],
+  [
+   "Pepi's",
+   "Stagecoach Express top",
+   "Stagecoach Woods / Stage Line",
+   0.5
+  ],
+  [
+   "Pepi's",
+   "Stagecoach Woods / Stage Line",
+   "North Bowl Express top",
+   1.1
+  ],
+  [
+   "Pepi's",
+   "North Bowl Express top",
+   "Comet 3",
+   2.5
+  ],
+  [
+   "Round-a-Bout",
+   "Groove bottom",
+   "Advanced Round-a-Bout / Round-a-Bout",
+   7.0
+  ],
+  [
+   "Round-a-Bout",
+   "Advanced Round-a-Bout / Round-a-Bout",
+   "Hogsback / Round-a-Bout",
+   1.0
+  ],
+  [
+   "Round-a-Bout",
+   "Hogsback / Round-a-Bout",
+   "Pistol / Hogsback",
+   2.3
+  ],
+  [
+   "Round-a-Bout",
+   "Pistol / Hogsback",
+   "West Bowl / Round-a-Bout",
+   0.9
+  ],
+  [
+   "Round-a-Bout",
+   "West Bowl / Round-a-Bout",
+   "East Bowl Woods / Round-a-Bout",
+   3.7
+  ],
+  [
+   "Round-a-Bout",
+   "East Bowl Woods / Round-a-Bout",
+   "World Cup top",
+   0.5
+  ],
+  [
+   "Round-a-Bout",
+   "World Cup top",
+   "East Bowl / World Cup",
+   0.5
+  ],
+  [
+   "Outlaw",
+   "Perimeter",
+   "Unnamed run 4",
+   2.4
+  ],
+  [
+   "Unnamed run",
+   "Aerial Tramway top",
+   "Gunbarrel Express top",
+   0.5
+  ],
+  [
+   "Aries Woods",
+   "Aries",
+   "Jack's",
+   2.5
+  ],
+  [
+   "Unnamed run",
+   "Tamarack Return",
+   "Heavenly Gondola top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Heavenly Gondola top",
+   "Von Schmidt",
+   0.7
+  ],
+  [
+   "High Five",
+   "Canyonland / Ridge Run",
+   "Unnamed run / High Five",
+   0.5
+  ],
+  [
+   "High Five",
+   "Unnamed run / High Five",
+   "Unnamed run / High Five 2",
+   2.9
+  ],
+  [
+   "High Five",
+   "Unnamed run / High Five 2",
+   "California Trail / High Five",
+   2.2
+  ],
+  [
+   "High Five",
+   "California Trail / High Five",
+   "Ridge Run / Unnamed run",
+   0.5
+  ],
+  [
+   "Ski Ways Glades",
+   "Skyline Trail 3",
+   "Ski Ways Glades",
+   2.1
+  ],
+  [
+   "Ski Ways Glades",
+   "Ski Ways Glades",
+   "Ellie's",
+   1.1
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Mott Canyon top",
+   "Unnamed run / Meteor",
+   0.8
+  ],
+  [
+   "walk",
+   "Mott Canyon top",
+   "Unnamed run / Mott Canyon Trail",
+   2.0
+  ],
+  [
+   "walk",
+   "Mott Canyon top",
+   "Unnamed run",
+   1.5
+  ],
+  [
+   "walk",
+   "Mott Canyon top",
+   "Big Dipper 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Mott Canyon top",
+   "Big Dipper 4",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Meteor",
+   "Mott Canyon top",
+   0.8
+  ],
+  [
+   "walk",
+   "Ridge Run / Maggie's, Ridge Run",
+   "Canyon Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Canyon Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Sky Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Olympic Express top",
+   "Ponderosa / Cloud 9",
+   0.7
+  ],
+  [
+   "walk",
+   "Olympic Express top",
+   "Upper Bonanza",
+   0.7
+  ],
+  [
+   "walk",
+   "Boulder top",
+   "North Bowl Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Boulder top",
+   "North Bowl / Nevada Trail",
+   1.2
+  ],
+  [
+   "walk",
+   "Boulder bottom",
+   "Unnamed lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Boulder bottom",
+   "Unnamed lift top",
+   2.1
+  ],
+  [
+   "walk",
+   "Hogsback / The Face",
+   "Groove top",
+   1.5
+  ],
+  [
+   "walk",
+   "Hogsback / The Face",
+   "Patsy's top",
+   1.7
+  ],
+  [
+   "walk",
+   "Hogsback / The Face",
+   "Gunbarrel Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Hogsback / The Face",
+   "Aerial Tramway top",
+   1.3
+  ],
+  [
+   "walk",
+   "Groove top",
+   "Hogsback / The Face",
+   1.5
+  ],
+  [
+   "walk",
+   "Groove top",
+   "Patsy's top",
+   1.2
+  ],
+  [
+   "walk",
+   "Groove top",
+   "Advanced Round-a-Bout",
+   1.2
+  ],
+  [
+   "walk",
+   "Groove top",
+   "Gunbarrel Express top",
+   2.0
+  ],
+  [
+   "walk",
+   "Groove top",
+   "Aerial Tramway top",
+   2.7
+  ],
+  [
+   "walk",
+   "Groove bottom",
+   "Patsy's bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Groove bottom",
+   "Mombo 4",
+   1.1
+  ],
+  [
+   "walk",
+   "Waterfall / Steins Way",
+   "Patsy's bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Tamarack Return / Sam's Dream",
+   "Big Easy bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Tamarack Return / Sam's Dream",
+   "Tamarack Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Tamarack Return / Sam's Dream",
+   "Heavenly Gondola top",
+   2.0
+  ],
+  [
+   "walk",
+   "Tamarack Return / Sam's Dream",
+   "Tubing Hill bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "The Burn / North Bowl",
+   "Boulder top",
+   2.3
+  ],
+  [
+   "walk",
+   "The Burn / North Bowl",
+   "North Bowl Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Stagecoach Express top",
+   "Stagecoach",
+   1.4
+  ],
+  [
+   "walk",
+   "Stagecoach Express top",
+   "North Bowl Express top",
+   2.9
+  ],
+  [
+   "walk",
+   "Stagecoach Express top",
+   "Stagecoach Woods / Stage Line",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Nevada Trail",
+   "Boulder top",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Nevada Trail",
+   "North Bowl Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "North Bowl Express bottom",
+   "Boulder top",
+   0.9
+  ],
+  [
+   "walk",
+   "North Bowl Express bottom",
+   "North Bowl / Nevada Trail",
+   2.0
+  ],
+  [
+   "walk",
+   "Pistol / West Bowl",
+   "First Ride bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Pistol / West Bowl",
+   "Gunbarrel Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Dipper Bowl / Unnamed run",
+   "Mott Canyon top",
+   1.9
+  ],
+  [
+   "walk",
+   "Dipper Express top",
+   "Dipper Bowl / Orion",
+   2.2
+  ],
+  [
+   "walk",
+   "Dipper Express top",
+   "Dipper Woods / Skyline Trail",
+   3.2
+  ],
+  [
+   "walk",
+   "Dipper Express top",
+   "Skyline Trail / Dipper Line",
+   3.1
+  ],
+  [
+   "walk",
+   "Dipper Express top",
+   "Dipper Line / Big Dipper",
+   1.7
+  ],
+  [
+   "walk",
+   "Dipper Express top",
+   "Cascade / California Trail",
+   3.5
+  ],
+  [
+   "walk",
+   "Dipper Express top",
+   "Tamarack Express top",
+   2.8
+  ],
+  [
+   "walk",
+   "Dipper Express top",
+   "Dipper Bowl 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Dipper Express top",
+   "Big Dipper 7",
+   0.9
+  ],
+  [
+   "walk",
+   "Stagecoach",
+   "Stagecoach Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Patsy's top",
+   "Hogsback / The Face",
+   1.7
+  ],
+  [
+   "walk",
+   "Patsy's top",
+   "Groove top",
+   1.2
+  ],
+  [
+   "walk",
+   "Patsy's top",
+   "Advanced Round-a-Bout",
+   1.5
+  ],
+  [
+   "walk",
+   "Patsy's top",
+   "Gunbarrel Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Patsy's top",
+   "Aerial Tramway top",
+   2.4
+  ],
+  [
+   "walk",
+   "Patsy's top",
+   "Pioneer bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Patsy's bottom",
+   "Groove bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Patsy's bottom",
+   "Fall Line / Steins Way",
+   0.8
+  ],
+  [
+   "walk",
+   "Patsy's bottom",
+   "Mombo 4",
+   1.0
+  ],
+  [
+   "walk",
+   "First Ride bottom",
+   "Gunbarrel Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "First Ride bottom",
+   "Gunbarrel",
+   0.7
+  ],
+  [
+   "walk",
+   "First Ride bottom",
+   "Poma Trail 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Gunbarrel Express bottom",
+   "First Ride bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Gunbarrel Express bottom",
+   "Gunbarrel",
+   0.6
+  ],
+  [
+   "walk",
+   "Gunbarrel Express bottom",
+   "Poma Trail 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Gunbarrel Express bottom",
+   "World Cup bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Gunbarrel Express bottom",
+   "Aerial Tramway bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Sky Express top",
+   "Liz's / Ridge Run",
+   3.4
+  ],
+  [
+   "walk",
+   "North Bowl / Nevada Trail",
+   "Boulder top",
+   1.2
+  ],
+  [
+   "walk",
+   "North Bowl / Nevada Trail",
+   "North Bowl Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run / World Cup",
+   "Gunbarrel Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / World Cup",
+   "World Cup bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run / World Cup",
+   "Aerial Tramway bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Powderbowl Express top",
+   "Maggie's, Ridge Run / Maggie's",
+   3.4
+  ],
+  [
+   "walk",
+   "Powderbowl Express top",
+   "Mombo",
+   0.7
+  ],
+  [
+   "walk",
+   "Powderbowl Express top",
+   "Mombo 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Powderbowl Express top",
+   "Powderbowl Woods",
+   0.8
+  ],
+  [
+   "walk",
+   "Big Easy top",
+   "Unnamed run / Von Schmidt",
+   1.9
+  ],
+  [
+   "walk",
+   "Big Easy top",
+   "Upper Bonanza / Bonanza",
+   2.8
+  ],
+  [
+   "walk",
+   "Big Easy top",
+   "Bonanza",
+   3.4
+  ],
+  [
+   "walk",
+   "Big Easy top",
+   "Tubing Hill top",
+   2.5
+  ],
+  [
+   "walk",
+   "Canyon Express bottom",
+   "Ridge Run / Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "Canyon Express bottom",
+   "Liz's / California Trail",
+   2.8
+  ],
+  [
+   "walk",
+   "Canyon Express bottom",
+   "Ridge Run",
+   0.7
+  ],
+  [
+   "walk",
+   "Canyon Express bottom",
+   "Sky Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Canyon Express bottom",
+   "California Trail / High Five",
+   1.3
+  ],
+  [
+   "walk",
+   "Gunbarrel",
+   "First Ride bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Gunbarrel",
+   "Gunbarrel Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Gunbarrel",
+   "Poma Trail 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Ponderosa / Cloud 9",
+   "Olympic Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Ponderosa / Comet",
+   "Comet Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Ponderosa / Comet",
+   "Dipper Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Meteor 2",
+   "Mott Canyon top",
+   2.2
+  ],
+  [
+   "walk",
+   "Advanced Round-a-Bout",
+   "Patsy's top",
+   1.5
+  ],
+  [
+   "walk",
+   "Advanced Round-a-Bout",
+   "Gunbarrel Express top",
+   3.0
+  ],
+  [
+   "walk",
+   "Mombo",
+   "Powderbowl Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Big Easy bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Tamarack Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Heavenly Gondola top",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Tubing Hill bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Upper Perimeter / Big Dipper",
+   "Galaxy top",
+   1.6
+  ],
+  [
+   "walk",
+   "Liz's / California Trail",
+   "Canyon Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Liz's / California Trail",
+   "Sky Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Comet Express top",
+   "Aries",
+   0.6
+  ],
+  [
+   "walk",
+   "Comet Express top",
+   "Comet",
+   2.7
+  ],
+  [
+   "walk",
+   "Comet Express top",
+   "Little Dipper 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Upper Bonanza",
+   "Olympic Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Upper Bonanza / Bonanza",
+   "Big Easy top",
+   2.8
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Unnamed run / High Five",
+   0.7
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Unnamed run / Ridge Run",
+   0.6
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Canyonland",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / High Five",
+   "Canyon Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Von Schmidt 2",
+   "Big Easy bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Von Schmidt 2",
+   "Tamarack Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Von Schmidt 2",
+   "Tubing Hill bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Aries",
+   "Comet Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Big Easy bottom",
+   "Tamarack Return / Sam's Dream",
+   2.0
+  ],
+  [
+   "walk",
+   "Big Easy bottom",
+   "Unnamed run 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Big Easy bottom",
+   "Unnamed run / Von Schmidt 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Big Easy bottom",
+   "Tamarack Return",
+   3.5
+  ],
+  [
+   "walk",
+   "Big Easy bottom",
+   "Tamarack Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Big Easy bottom",
+   "Heavenly Gondola top",
+   3.3
+  ],
+  [
+   "walk",
+   "Big Easy bottom",
+   "Tubing Hill bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Comet Express bottom",
+   "Ponderosa / Comet",
+   0.9
+  ],
+  [
+   "walk",
+   "Comet Express bottom",
+   "Nova / Lower Dipper Return",
+   1.6
+  ],
+  [
+   "walk",
+   "Comet Express bottom",
+   "Nova",
+   2.5
+  ],
+  [
+   "walk",
+   "Comet Express bottom",
+   "Dipper Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Canyon Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Sky Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Fall Line / Steins Way",
+   "Groove bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Fall Line / Steins Way",
+   "Patsy's bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Cascade / California Trail",
+   "Tamarack Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Tamarack Return",
+   "Big Easy bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Tamarack Return",
+   "Tamarack Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Tamarack Return",
+   "Heavenly Gondola top",
+   1.9
+  ],
+  [
+   "walk",
+   "Mombo 3",
+   "Powderbowl Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Nova / Lower Dipper Return",
+   "Comet Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Nova / Lower Dipper Return",
+   "Dipper Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "North Bowl Express top",
+   "Stagecoach Express top",
+   2.9
+  ],
+  [
+   "walk",
+   "North Bowl Express top",
+   "Stagecoach Woods / Stage Line",
+   3.0
+  ],
+  [
+   "walk",
+   "Galaxy top",
+   "Upper Perimeter / Big Dipper",
+   1.6
+  ],
+  [
+   "walk",
+   "Galaxy top",
+   "Upper Perimeter / Big Dipper 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Galaxy top",
+   "Big Dipper",
+   1.2
+  ],
+  [
+   "walk",
+   "Galaxy top",
+   "Big Dipper 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Mombo 4",
+   "Groove bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Mombo 4",
+   "Patsy's bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Ridge Run",
+   "Canyon Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Canyonland / Ridge Run",
+   "Canyon Express top",
+   1.9
+  ],
+  [
+   "walk",
+   "Big Dipper 2",
+   "Galaxy top",
+   3.4
+  ],
+  [
+   "walk",
+   "Tamarack Express top",
+   "Dipper Bowl / Orion",
+   1.9
+  ],
+  [
+   "walk",
+   "Tamarack Express top",
+   "Dipper Express top",
+   2.8
+  ],
+  [
+   "walk",
+   "Tamarack Express top",
+   "Dipper Line / Big Dipper",
+   3.1
+  ],
+  [
+   "walk",
+   "Tamarack Express top",
+   "Cascade / California Trail",
+   0.7
+  ],
+  [
+   "walk",
+   "Tamarack Express top",
+   "Sam's Dream / Cosmic Wave",
+   2.1
+  ],
+  [
+   "walk",
+   "Tamarack Express top",
+   "Dipper Bowl 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Tamarack Express top",
+   "Big Dipper 7",
+   2.1
+  ],
+  [
+   "walk",
+   "Sky Express bottom",
+   "Ridge Run / Unnamed run",
+   1.0
+  ],
+  [
+   "walk",
+   "Sky Express bottom",
+   "Canyon Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Sky Express bottom",
+   "Liz's / California Trail",
+   1.5
+  ],
+  [
+   "walk",
+   "Sky Express bottom",
+   "Ridge Run",
+   1.8
+  ],
+  [
+   "walk",
+   "Sky Express bottom",
+   "California Trail / High Five",
+   0.7
+  ],
+  [
+   "walk",
+   "Crossover",
+   "North Bowl Express top",
+   3.4
+  ],
+  [
+   "walk",
+   "Olympic Downhill 2",
+   "Olympic Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "California Trail / High Five",
+   "Canyon Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "California Trail / High Five",
+   "Sky Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "First Ride top",
+   "Pistol / West Bowl",
+   3.1
+  ],
+  [
+   "walk",
+   "First Ride top",
+   "Poma Trail",
+   0.8
+  ],
+  [
+   "walk",
+   "Jack's / Orion 2",
+   "Comet Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Jack's / Orion 2",
+   "Dipper Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Poma Trail",
+   "First Ride top",
+   0.8
+  ],
+  [
+   "walk",
+   "Poma Trail 2",
+   "First Ride bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Poma Trail 2",
+   "Gunbarrel Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Big Dipper 3",
+   "Mott Canyon top",
+   1.5
+  ],
+  [
+   "walk",
+   "Big Dipper 4",
+   "Mott Canyon top",
+   1.5
+  ],
+  [
+   "walk",
+   "Stagecoach Woods / Stage Line",
+   "Stagecoach Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Stagecoach Woods / Stage Line",
+   "North Bowl Express top",
+   3.0
+  ],
+  [
+   "walk",
+   "Olympic Downhill 4",
+   "Olympic Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Canyonland",
+   "Canyon Express top",
+   1.8
+  ],
+  [
+   "walk",
+   "Powderbowl Woods",
+   "Powderbowl Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Powderbowl Woods 2",
+   "Upper Mombo / Mombo 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Powderbowl Woods 2",
+   "Mombo 5",
+   3.3
+  ],
+  [
+   "walk",
+   "Nova",
+   "Comet Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Nova",
+   "Dipper Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Big Dipper 6",
+   "Mott Canyon top",
+   2.7
+  ],
+  [
+   "walk",
+   "California Trail",
+   "Heavenly Gondola top",
+   3.4
+  ],
+  [
+   "walk",
+   "Tamarack Express bottom",
+   "Tamarack Return / Sam's Dream",
+   0.8
+  ],
+  [
+   "walk",
+   "Tamarack Express bottom",
+   "Unnamed run 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Tamarack Express bottom",
+   "Unnamed run / Von Schmidt 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Tamarack Express bottom",
+   "Big Easy bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Tamarack Express bottom",
+   "Tamarack Return",
+   1.9
+  ],
+  [
+   "walk",
+   "Tamarack Express bottom",
+   "Heavenly Gondola top",
+   1.5
+  ],
+  [
+   "walk",
+   "Tamarack Express bottom",
+   "Tubing Hill bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Olympic Express bottom",
+   "North Bowl / Upper North Bowl",
+   1.0
+  ],
+  [
+   "walk",
+   "Olympic Express bottom",
+   "Olympic Downhill 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Little Dipper 2",
+   "Comet Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Big Dipper 7",
+   "Dipper Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Big Dipper 7",
+   "Tamarack Express top",
+   2.1
+  ],
+  [
+   "walk",
+   "Dipper Express bottom",
+   "Ponderosa / Comet",
+   1.2
+  ],
+  [
+   "walk",
+   "Dipper Express bottom",
+   "Comet Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Dipper Express bottom",
+   "Nova / Lower Dipper Return",
+   0.6
+  ],
+  [
+   "walk",
+   "Dipper Express bottom",
+   "Nova",
+   0.9
+  ],
+  [
+   "walk",
+   "East Bowl / World Cup",
+   "World Cup top",
+   0.6
+  ],
+  [
+   "walk",
+   "Gunbarrel Express top",
+   "Patsy's top",
+   1.7
+  ],
+  [
+   "walk",
+   "Gunbarrel Express top",
+   "Advanced Round-a-Bout",
+   3.0
+  ],
+  [
+   "walk",
+   "Gunbarrel Express top",
+   "Aerial Tramway top",
+   0.7
+  ],
+  [
+   "walk",
+   "Gunbarrel Express top",
+   "Pioneer bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "California Trail 4",
+   "Sky Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "East Bowl Woods / Round-a-Bout",
+   "World Cup top",
+   1.3
+  ],
+  [
+   "walk",
+   "Stagecoach Express bottom",
+   "Skier Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "World Cup top",
+   "East Bowl / World Cup",
+   0.6
+  ],
+  [
+   "walk",
+   "World Cup bottom",
+   "Gunbarrel Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "World Cup bottom",
+   "Aerial Tramway bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Comet 3",
+   "Comet Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Comet 3",
+   "Dipper Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Aerial Tramway top",
+   "Patsy's top",
+   2.4
+  ],
+  [
+   "walk",
+   "Aerial Tramway top",
+   "Gunbarrel Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Aerial Tramway top",
+   "Pioneer bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Von Schmidt",
+   "Heavenly Gondola top",
+   2.6
+  ],
+  [
+   "walk",
+   "Pioneer top",
+   "East Bowl Woods",
+   3.4
+  ],
+  [
+   "walk",
+   "Pioneer top",
+   "Pioneer bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Boulder bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Boulder bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Heavenly Gondola top",
+   "Tamarack Return / Sam's Dream",
+   2.0
+  ],
+  [
+   "walk",
+   "Heavenly Gondola top",
+   "Unnamed run 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Heavenly Gondola top",
+   "Big Easy bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Heavenly Gondola top",
+   "Tamarack Return",
+   1.9
+  ],
+  [
+   "walk",
+   "Heavenly Gondola top",
+   "California Trail",
+   3.4
+  ],
+  [
+   "walk",
+   "Heavenly Gondola top",
+   "Tamarack Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Heavenly Gondola top",
+   "Von Schmidt",
+   2.6
+  ],
+  [
+   "walk",
+   "Skier Express bottom",
+   "Stagecoach Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Skier Express top",
+   "Stagecoach Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Skier Express top",
+   "Skier Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Aerial Tramway bottom",
+   "Gunbarrel Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Aerial Tramway bottom",
+   "World Cup bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Tubing Hill bottom",
+   "Tamarack Return / Sam's Dream",
+   3.1
+  ],
+  [
+   "walk",
+   "Tubing Hill bottom",
+   "Unnamed run 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Tubing Hill bottom",
+   "Unnamed run / Von Schmidt 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Tubing Hill bottom",
+   "Big Easy bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Tubing Hill bottom",
+   "Tamarack Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Tubing Hill top",
+   "Big Easy bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Tubing Hill top",
+   "Tubing Hill bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Meteor",
+   "Unnamed run / Mott Canyon Trail",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Meteor",
+   "Unnamed run",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Meteor",
+   "Big Dipper 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Meteor",
+   "Big Dipper 4",
+   2.3
+  ],
+  [
+   "walk",
+   "Dipper Bowl / Unnamed run",
+   "Unnamed run / Meteor",
+   2.7
+  ],
+  [
+   "walk",
+   "Dipper Bowl / Unnamed run",
+   "Unnamed run / Mott Canyon Trail",
+   3.9
+  ],
+  [
+   "walk",
+   "Dipper Bowl / Unnamed run",
+   "Unnamed run",
+   3.4
+  ],
+  [
+   "walk",
+   "Dipper Bowl / Unnamed run",
+   "Big Dipper 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Dipper Bowl / Unnamed run",
+   "Big Dipper 4",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Meteor 2",
+   "Unnamed run / Meteor",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Meteor 2",
+   "Unnamed run / Mott Canyon Trail",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Meteor 2",
+   "Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Meteor 2",
+   "Big Dipper 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Meteor 2",
+   "Big Dipper 4",
+   3.7
+  ],
+  [
+   "walk",
+   "Big Dipper 3",
+   "Unnamed run / Meteor",
+   2.3
+  ],
+  [
+   "walk",
+   "Big Dipper 3",
+   "Unnamed run / Mott Canyon Trail",
+   3.5
+  ],
+  [
+   "walk",
+   "Big Dipper 3",
+   "Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Big Dipper 3",
+   "Big Dipper 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Big Dipper 4",
+   "Unnamed run / Meteor",
+   2.3
+  ],
+  [
+   "walk",
+   "Big Dipper 4",
+   "Unnamed run / Mott Canyon Trail",
+   3.5
+  ],
+  [
+   "walk",
+   "Big Dipper 4",
+   "Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Big Dipper 4",
+   "Big Dipper 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Big Dipper 6",
+   "Unnamed run / Meteor",
+   3.5
+  ],
+  [
+   "walk",
+   "Big Dipper 6",
+   "Unnamed run / Mott Canyon Trail",
+   4.7
+  ],
+  [
+   "walk",
+   "Big Dipper 6",
+   "Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Big Dipper 6",
+   "Big Dipper 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Big Dipper 6",
+   "Big Dipper 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Ponderosa / Cloud 9",
+   "Upper Bonanza",
+   1.4
+  ],
+  [
+   "walk",
+   "Upper Bonanza",
+   "Ponderosa / Cloud 9",
+   1.4
+  ],
+  [
+   "walk",
+   "The Burn / North Bowl",
+   "North Bowl / Nevada Trail",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Nevada Trail",
+   "North Bowl / Nevada Trail",
+   3.7
+  ],
+  [
+   "walk",
+   "Hogsback / The Face",
+   "Advanced Round-a-Bout",
+   2.6
+  ],
+  [
+   "walk",
+   "Fall Line / Steins Way",
+   "Mombo 4",
+   1.8
+  ],
+  [
+   "walk",
+   "Heavenly Gondola top",
+   "Tubing Hill bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Tubing Hill bottom",
+   "Heavenly Gondola top",
+   4.2
+  ],
+  [
+   "walk",
+   "Stagecoach",
+   "North Bowl Express top",
+   4.3
+  ],
+  [
+   "walk",
+   "Stagecoach",
+   "Stagecoach Woods / Stage Line",
+   2.0
+  ],
+  [
+   "walk",
+   "North Bowl Express top",
+   "Stagecoach",
+   4.3
+  ],
+  [
+   "walk",
+   "Stagecoach Woods / Stage Line",
+   "Stagecoach",
+   2.0
+  ],
+  [
+   "walk",
+   "First Ride top",
+   "First Ride bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "First Ride top",
+   "Gunbarrel Express bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Tamarack Express top",
+   "Dipper Woods / Skyline Trail",
+   6.1
+  ],
+  [
+   "walk",
+   "Tamarack Express top",
+   "Skyline Trail / Dipper Line",
+   5.9
+  ],
+  [
+   "walk",
+   "Big Dipper 7",
+   "Dipper Bowl / Orion",
+   3.0
+  ],
+  [
+   "walk",
+   "Big Dipper 7",
+   "Dipper Woods / Skyline Trail",
+   4.1
+  ],
+  [
+   "walk",
+   "Big Dipper 7",
+   "Skyline Trail / Dipper Line",
+   3.9
+  ],
+  [
+   "walk",
+   "Big Dipper 7",
+   "Dipper Line / Big Dipper",
+   2.5
+  ],
+  [
+   "walk",
+   "Big Dipper 7",
+   "Cascade / California Trail",
+   2.8
+  ],
+  [
+   "walk",
+   "Big Dipper 7",
+   "Dipper Bowl 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Hogsback / The Face",
+   "Pioneer bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Groove top",
+   "Pioneer bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Advanced Round-a-Bout",
+   "Hogsback / The Face",
+   3.2
+  ],
+  [
+   "walk",
+   "Advanced Round-a-Bout",
+   "Groove top",
+   2.7
+  ],
+  [
+   "walk",
+   "Advanced Round-a-Bout",
+   "Aerial Tramway top",
+   3.7
+  ],
+  [
+   "walk",
+   "Advanced Round-a-Bout",
+   "Pioneer bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Gunbarrel Express top",
+   "Hogsback / The Face",
+   3.3
+  ],
+  [
+   "walk",
+   "Gunbarrel Express top",
+   "Groove top",
+   2.8
+  ],
+  [
+   "walk",
+   "Aerial Tramway top",
+   "Hogsback / The Face",
+   4.0
+  ],
+  [
+   "walk",
+   "Aerial Tramway top",
+   "Groove top",
+   3.6
+  ],
+  [
+   "walk",
+   "Aerial Tramway top",
+   "Advanced Round-a-Bout",
+   3.7
+  ],
+  [
+   "walk",
+   "Groove bottom",
+   "Fall Line / Steins Way",
+   2.2
+  ],
+  [
+   "walk",
+   "Waterfall / Steins Way",
+   "Groove bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Waterfall / Steins Way",
+   "Fall Line / Steins Way",
+   3.6
+  ],
+  [
+   "walk",
+   "Waterfall / Steins Way",
+   "Mombo 4",
+   3.7
+  ],
+  [
+   "walk",
+   "Mombo 4",
+   "Fall Line / Steins Way",
+   1.8
+  ],
+  [
+   "walk",
+   "Pistol / West Bowl",
+   "Gunbarrel",
+   2.9
+  ],
+  [
+   "walk",
+   "Pistol / West Bowl",
+   "Poma Trail 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Poma Trail 2",
+   "Gunbarrel",
+   1.7
+  ],
+  [
+   "walk",
+   "First Ride top",
+   "Gunbarrel",
+   6.0
+  ],
+  [
+   "walk",
+   "First Ride top",
+   "Poma Trail 2",
+   6.3
+  ],
+  [
+   "walk",
+   "Pistol / West Bowl",
+   "World Cup bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Pistol / West Bowl",
+   "Aerial Tramway bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "First Ride bottom",
+   "World Cup bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "First Ride bottom",
+   "Aerial Tramway bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / World Cup",
+   "First Ride bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / World Cup",
+   "Gunbarrel",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / World Cup",
+   "Poma Trail 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Gunbarrel",
+   "World Cup bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Gunbarrel",
+   "Aerial Tramway bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Poma Trail 2",
+   "World Cup bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Poma Trail 2",
+   "Aerial Tramway bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "World Cup bottom",
+   "First Ride bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "World Cup bottom",
+   "Gunbarrel",
+   3.8
+  ],
+  [
+   "walk",
+   "World Cup bottom",
+   "Poma Trail 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Aerial Tramway bottom",
+   "First Ride bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Aerial Tramway bottom",
+   "Gunbarrel",
+   3.9
+  ],
+  [
+   "walk",
+   "Aerial Tramway bottom",
+   "Poma Trail 2",
+   5.2
+  ],
+  [
+   "walk",
+   "Mombo",
+   "Maggie's, Ridge Run / Maggie's",
+   4.2
+  ],
+  [
+   "walk",
+   "Mombo",
+   "Mombo 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Mombo",
+   "Powderbowl Woods",
+   1.6
+  ],
+  [
+   "walk",
+   "Mombo 3",
+   "Maggie's, Ridge Run / Maggie's",
+   5.0
+  ],
+  [
+   "walk",
+   "Mombo 3",
+   "Mombo",
+   2.3
+  ],
+  [
+   "walk",
+   "Mombo 3",
+   "Powderbowl Woods",
+   2.4
+  ],
+  [
+   "walk",
+   "Powderbowl Woods",
+   "Maggie's, Ridge Run / Maggie's",
+   4.3
+  ],
+  [
+   "walk",
+   "Powderbowl Woods",
+   "Mombo",
+   1.6
+  ],
+  [
+   "walk",
+   "Powderbowl Woods",
+   "Mombo 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Upper Bonanza / Bonanza",
+   "Unnamed run / Von Schmidt",
+   4.7
+  ],
+  [
+   "walk",
+   "Upper Bonanza / Bonanza",
+   "Bonanza",
+   6.2
+  ],
+  [
+   "walk",
+   "Upper Bonanza / Bonanza",
+   "Tubing Hill top",
+   5.4
+  ],
+  [
+   "walk",
+   "Ridge Run / Maggie's, Ridge Run",
+   "Ridge Run / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Ridge Run / Maggie's, Ridge Run",
+   "Liz's / California Trail",
+   5.2
+  ],
+  [
+   "walk",
+   "Ridge Run / Maggie's, Ridge Run",
+   "Ridge Run",
+   3.1
+  ],
+  [
+   "walk",
+   "Ridge Run / Maggie's, Ridge Run",
+   "Sky Express bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Ridge Run / Maggie's, Ridge Run",
+   "California Trail / High Five",
+   3.7
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Liz's / California Trail",
+   2.4
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Ridge Run",
+   1.3
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "California Trail / High Five",
+   1.7
+  ],
+  [
+   "walk",
+   "Liz's / California Trail",
+   "Ridge Run / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Liz's / California Trail",
+   "Ridge Run",
+   3.2
+  ],
+  [
+   "walk",
+   "Liz's / California Trail",
+   "California Trail / High Five",
+   2.2
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Ridge Run / Unnamed run",
+   1.3
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Liz's / California Trail",
+   3.2
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "California Trail / High Five",
+   2.0
+  ],
+  [
+   "walk",
+   "California Trail / High Five",
+   "Ridge Run / Unnamed run",
+   1.7
+  ],
+  [
+   "walk",
+   "California Trail / High Five",
+   "Liz's / California Trail",
+   2.2
+  ],
+  [
+   "walk",
+   "California Trail / High Five",
+   "Ridge Run",
+   2.0
+  ],
+  [
+   "walk",
+   "Aries",
+   "Comet",
+   3.3
+  ],
+  [
+   "walk",
+   "Aries",
+   "Little Dipper 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Little Dipper 2",
+   "Aries",
+   1.4
+  ],
+  [
+   "walk",
+   "Little Dipper 2",
+   "Comet",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / High Five",
+   "Unnamed run / Ridge Run",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run / High Five",
+   "Canyonland",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Ridge Run",
+   "Unnamed run / High Five",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Ridge Run",
+   "Canyonland",
+   2.3
+  ],
+  [
+   "walk",
+   "Canyonland / Ridge Run",
+   "Unnamed run / High Five",
+   2.6
+  ],
+  [
+   "walk",
+   "Canyonland / Ridge Run",
+   "Unnamed run / Ridge Run",
+   2.5
+  ],
+  [
+   "walk",
+   "Canyonland / Ridge Run",
+   "Canyonland",
+   3.6
+  ],
+  [
+   "walk",
+   "Canyonland",
+   "Unnamed run / High Five",
+   2.5
+  ],
+  [
+   "walk",
+   "Canyonland",
+   "Unnamed run / Ridge Run",
+   2.3
+  ],
+  [
+   "walk",
+   "Tamarack Return / Sam's Dream",
+   "Unnamed run 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Tamarack Return / Sam's Dream",
+   "Unnamed run / Von Schmidt 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Tamarack Return / Sam's Dream",
+   "Tamarack Return",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Tamarack Return / Sam's Dream",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed run / Von Schmidt 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Tamarack Return",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Von Schmidt 2",
+   "Tamarack Return / Sam's Dream",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Von Schmidt 2",
+   "Unnamed run 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Von Schmidt 2",
+   "Tamarack Return",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Von Schmidt 2",
+   "Heavenly Gondola top",
+   3.9
+  ],
+  [
+   "walk",
+   "Tamarack Return",
+   "Tamarack Return / Sam's Dream",
+   2.7
+  ],
+  [
+   "walk",
+   "Tamarack Return",
+   "Unnamed run 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Tamarack Return",
+   "Unnamed run / Von Schmidt 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Tamarack Return",
+   "Tubing Hill bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Heavenly Gondola top",
+   "Unnamed run / Von Schmidt 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Tubing Hill bottom",
+   "Tamarack Return",
+   4.6
+  ],
+  [
+   "walk",
+   "Tubing Hill top",
+   "Tamarack Return / Sam's Dream",
+   4.6
+  ],
+  [
+   "walk",
+   "Tubing Hill top",
+   "Unnamed run 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Tubing Hill top",
+   "Unnamed run / Von Schmidt 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Tubing Hill top",
+   "Tamarack Return",
+   6.0
+  ],
+  [
+   "walk",
+   "Tubing Hill top",
+   "Tamarack Express bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Tubing Hill top",
+   "Heavenly Gondola top",
+   5.9
+  ],
+  [
+   "walk",
+   "Ponderosa / Comet",
+   "Nova / Lower Dipper Return",
+   1.7
+  ],
+  [
+   "walk",
+   "Ponderosa / Comet",
+   "Nova",
+   2.0
+  ],
+  [
+   "walk",
+   "Nova / Lower Dipper Return",
+   "Ponderosa / Comet",
+   1.7
+  ],
+  [
+   "walk",
+   "Nova / Lower Dipper Return",
+   "Nova",
+   1.4
+  ],
+  [
+   "walk",
+   "Jack's / Orion 2",
+   "Ponderosa / Comet",
+   2.6
+  ],
+  [
+   "walk",
+   "Jack's / Orion 2",
+   "Nova / Lower Dipper Return",
+   2.0
+  ],
+  [
+   "walk",
+   "Jack's / Orion 2",
+   "Nova",
+   2.3
+  ],
+  [
+   "walk",
+   "Nova",
+   "Ponderosa / Comet",
+   2.0
+  ],
+  [
+   "walk",
+   "Nova",
+   "Nova / Lower Dipper Return",
+   1.4
+  ],
+  [
+   "walk",
+   "Comet 3",
+   "Ponderosa / Comet",
+   3.9
+  ],
+  [
+   "walk",
+   "Comet 3",
+   "Nova / Lower Dipper Return",
+   3.3
+  ],
+  [
+   "walk",
+   "Comet 3",
+   "Nova",
+   3.6
+  ],
+  [
+   "walk",
+   "Crossover",
+   "Stagecoach Express top",
+   6.3
+  ],
+  [
+   "walk",
+   "Crossover",
+   "Stagecoach Woods / Stage Line",
+   6.4
+  ],
+  [
+   "walk",
+   "Upper Perimeter / Big Dipper",
+   "Upper Perimeter / Big Dipper 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Upper Perimeter / Big Dipper",
+   "Big Dipper",
+   2.8
+  ],
+  [
+   "walk",
+   "Upper Perimeter / Big Dipper",
+   "Big Dipper 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Big Dipper 2",
+   "Upper Perimeter / Big Dipper",
+   5.0
+  ],
+  [
+   "walk",
+   "Big Dipper 2",
+   "Upper Perimeter / Big Dipper 2",
+   6.7
+  ],
+  [
+   "walk",
+   "Big Dipper 2",
+   "Big Dipper",
+   4.6
+  ],
+  [
+   "walk",
+   "Dipper Express top",
+   "Sam's Dream / Cosmic Wave",
+   4.9
+  ],
+  [
+   "walk",
+   "Cascade / California Trail",
+   "Dipper Bowl / Orion",
+   2.6
+  ],
+  [
+   "walk",
+   "Cascade / California Trail",
+   "Dipper Express top",
+   3.6
+  ],
+  [
+   "walk",
+   "Cascade / California Trail",
+   "Dipper Line / Big Dipper",
+   3.9
+  ],
+  [
+   "walk",
+   "Cascade / California Trail",
+   "Sam's Dream / Cosmic Wave",
+   2.8
+  ],
+  [
+   "walk",
+   "Cascade / California Trail",
+   "Dipper Bowl 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Cascade / California Trail",
+   "Big Dipper 7",
+   2.8
+  ],
+  [
+   "walk",
+   "Cascade / California Trail",
+   "Dipper Woods / Skyline Trail",
+   6.8
+  ],
+  [
+   "walk",
+   "Cascade / California Trail",
+   "Skyline Trail / Dipper Line",
+   6.6
+  ],
+  [
+   "walk",
+   "Big Dipper 7",
+   "Sam's Dream / Cosmic Wave",
+   4.2
+  ],
+  [
+   "walk",
+   "California Trail 4",
+   "Ridge Run / Unnamed run",
+   4.4
+  ],
+  [
+   "walk",
+   "California Trail 4",
+   "Canyon Express bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "California Trail 4",
+   "Liz's / California Trail",
+   4.8
+  ],
+  [
+   "walk",
+   "California Trail 4",
+   "Ridge Run",
+   5.2
+  ],
+  [
+   "walk",
+   "California Trail 4",
+   "California Trail / High Five",
+   4.1
+  ],
+  [
+   "walk",
+   "Poma Trail",
+   "Pistol / West Bowl",
+   3.9
+  ],
+  [
+   "walk",
+   "Poma Trail",
+   "First Ride bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Poma Trail",
+   "Gunbarrel Express bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Poma Trail",
+   "Gunbarrel",
+   6.8
+  ],
+  [
+   "walk",
+   "Olympic Downhill 2",
+   "North Bowl / Upper North Bowl",
+   3.7
+  ],
+  [
+   "walk",
+   "Olympic Downhill 2",
+   "Olympic Downhill 4",
+   5.8
+  ],
+  [
+   "walk",
+   "Olympic Downhill 4",
+   "North Bowl / Upper North Bowl",
+   4.1
+  ],
+  [
+   "walk",
+   "East Bowl Woods / Round-a-Bout",
+   "East Bowl / World Cup",
+   1.9
+  ],
+  [
+   "walk",
+   "Tamarack Return / Sam's Dream",
+   "California Trail",
+   5.4
+  ],
+  [
+   "walk",
+   "Tamarack Return / Sam's Dream",
+   "Von Schmidt",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "California Trail",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Von Schmidt",
+   4.7
+  ],
+  [
+   "walk",
+   "Big Easy bottom",
+   "California Trail",
+   6.7
+  ],
+  [
+   "walk",
+   "Big Easy bottom",
+   "Von Schmidt",
+   5.9
+  ],
+  [
+   "walk",
+   "Tamarack Return",
+   "California Trail",
+   5.3
+  ],
+  [
+   "walk",
+   "Tamarack Return",
+   "Von Schmidt",
+   4.5
+  ],
+  [
+   "walk",
+   "California Trail",
+   "Tamarack Return / Sam's Dream",
+   5.4
+  ],
+  [
+   "walk",
+   "California Trail",
+   "Unnamed run 2",
+   5.4
+  ],
+  [
+   "walk",
+   "California Trail",
+   "Big Easy bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "California Trail",
+   "Tamarack Return",
+   5.3
+  ],
+  [
+   "walk",
+   "California Trail",
+   "Tamarack Express bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "California Trail",
+   "Von Schmidt",
+   6.0
+  ],
+  [
+   "walk",
+   "Tamarack Express bottom",
+   "California Trail",
+   4.9
+  ],
+  [
+   "walk",
+   "Tamarack Express bottom",
+   "Von Schmidt",
+   4.1
+  ],
+  [
+   "walk",
+   "Von Schmidt",
+   "Tamarack Return / Sam's Dream",
+   4.6
+  ],
+  [
+   "walk",
+   "Von Schmidt",
+   "Unnamed run 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Von Schmidt",
+   "Big Easy bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Von Schmidt",
+   "Tamarack Return",
+   4.5
+  ],
+  [
+   "walk",
+   "Von Schmidt",
+   "California Trail",
+   6.0
+  ],
+  [
+   "walk",
+   "Von Schmidt",
+   "Tamarack Express bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Von Schmidt",
+   "Tubing Hill bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Von Schmidt",
+   "Unnamed run / Von Schmidt 2",
+   6.6
+  ],
+  [
+   "walk",
+   "Tubing Hill bottom",
+   "Von Schmidt",
+   6.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Von Schmidt 2",
+   "Von Schmidt",
+   6.6
+  ],
+  [
+   "walk",
+   "Big Easy top",
+   "Big Easy bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Big Easy top",
+   "Tubing Hill bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Big Easy top",
+   "Unnamed run 2",
+   6.3
+  ]
+ ],
+ "base": "Gunbarrel Express bottom",
+ "info": {}
+}

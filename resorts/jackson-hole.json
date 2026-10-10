@@ -1,0 +1,6520 @@
+{
+ "name": "Jackson Hole Mountain Resort",
+ "source": "OpenSkiMap ski area 2b812055300b5107fc2ffed8f5ae27a4c4f94f0a",
+ "origin_lonlat": [
+  -110.84457264203485,
+  43.595638767285514
+ ],
+ "nodes": {
+  "Hanging Rock": [
+   -1881,
+   -175,
+   2990.2
+  ],
+  "Hanging Rock 2": [
+   -1789,
+   -193,
+   2976.5
+  ],
+  "Unnamed run / U.P. Connection": [
+   479,
+   -632,
+   2054.9
+  ],
+  "Unnamed run / Gros Ventre": [
+   595,
+   -591,
+   2033.5
+  ],
+  "Union Pass Quad top": [
+   353,
+   -707,
+   2060.6
+  ],
+  "Union Pass Connection / U.P. Connection": [
+   644,
+   -678,
+   2014.6
+  ],
+  "Nez Perce / Unnamed run": [
+   405,
+   145,
+   2315.9
+  ],
+  "Nez Perce / Lower Sundance": [
+   366,
+   -107,
+   2195.7
+  ],
+  "Teton Lift top": [
+   187,
+   1347,
+   2747.8
+  ],
+  "Kemmerer (Upper) / Togwotee Pass Traverse": [
+   646,
+   742,
+   2361.8
+  ],
+  "Unnamed run / Laramie": [
+   -805,
+   -639,
+   2530.0
+  ],
+  "Unnamed run / Rawlins Bowl": [
+   -711,
+   -698,
+   2511.9
+  ],
+  "Wide Open / Togwotee Pass Traverse": [
+   478,
+   453,
+   2335.5
+  ],
+  "Lower Sundance / Sundance": [
+   262,
+   11,
+   2244.4
+  ],
+  "Aerial Tram bottom": [
+   1316,
+   -881,
+   1927.8
+  ],
+  "Cirque / Tensleep": [
+   -1599,
+   345,
+   2890.8
+  ],
+  "Cirque": [
+   -1296,
+   573,
+   2846.8
+  ],
+  "Beaver Tooth": [
+   833,
+   86,
+   2109.2
+  ],
+  "Beaver Tooth / Solitude Way": [
+   906,
+   -269,
+   2013.5
+  ],
+  "Tram Line / Amphitheater": [
+   -332,
+   -272,
+   2415.8
+  ],
+  "Tram Line / U.P. Connection": [
+   294,
+   -586,
+   2104.1
+  ],
+  "Marmot Double top": [
+   -729,
+   637,
+   2770.6
+  ],
+  "Unnamed run / Lupine Way": [
+   -782,
+   609,
+   2771.0
+  ],
+  "Laramie / Laramie Bowl": [
+   -1389,
+   -65,
+   2850.8
+  ],
+  "Laramie / Rendezvous Trail": [
+   -791,
+   -730,
+   2522.0
+  ],
+  "Gannett / Thunder": [
+   -894,
+   -202,
+   2696.3
+  ],
+  "Gannett / South Pass Traverse": [
+   -389,
+   -471,
+   2434.4
+  ],
+  "Pooh Bear / Unnamed run": [
+   834,
+   -416,
+   2022.1
+  ],
+  "Sweetwater Gondola Lower bottom": [
+   1301,
+   -704,
+   1939.2
+  ],
+  "Lupine Way / Jerry's Way": [
+   -960,
+   257,
+   2641.4
+  ],
+  "Apres Vous High Speed Quad top": [
+   1094,
+   1424,
+   2560.7
+  ],
+  "Crowheart / Saratoga Bowl Traverse": [
+   1677,
+   1100,
+   2194.3
+  ],
+  "Unnamed run / Amphitheater": [
+   -652,
+   33,
+   2518.4
+  ],
+  "Unnamed run / Gros Ventre 2": [
+   -108,
+   16,
+   2394.2
+  ],
+  "Wide Open": [
+   174,
+   1150,
+   2663.6
+  ],
+  "Amphitheater Traverse / Amphitheater": [
+   -553,
+   2,
+   2487.3
+  ],
+  "Sublette Quad Chair top": [
+   -1784,
+   -121,
+   3013.4
+  ],
+  "Hanging Rock / Rendezvous Trail": [
+   -2148,
+   -387,
+   2927.4
+  ],
+  "Unnamed run / Bronco": [
+   1288,
+   261,
+   2087.7
+  ],
+  "Apres Vous High Speed Quad bottom": [
+   1360,
+   28,
+   2034.0
+  ],
+  "Crowheart": [
+   1207,
+   1467,
+   2538.8
+  ],
+  "Crowheart 2": [
+   1563,
+   1373,
+   2333.3
+  ],
+  "Jerry's Way / Horn's Hole Traverse": [
+   -1267,
+   109,
+   2772.0
+  ],
+  "Saratoga Bowl Traverse / St John's": [
+   1631,
+   509,
+   2088.0
+  ],
+  "Eagle's Rest top": [
+   797,
+   -354,
+   2040.3
+  ],
+  "Casper Bowl High Speed Quad top": [
+   -20,
+   890,
+   2606.6
+  ],
+  "Kemmerer (Upper)": [
+   384,
+   1014,
+   2559.5
+  ],
+  "Ashley Ridge": [
+   710,
+   313,
+   2248.6
+  ],
+  "Ashley Ridge / Werner": [
+   980,
+   253,
+   2130.9
+  ],
+  "Unnamed run": [
+   -194,
+   44,
+   2428.7
+  ],
+  "Avalanche / Sundance": [
+   189,
+   99,
+   2288.4
+  ],
+  "Lower Sundance": [
+   717,
+   -398,
+   2044.8
+  ],
+  "Unnamed lift top": [
+   1357,
+   -504,
+   1958.3
+  ],
+  "Moran Traverse": [
+   93,
+   893,
+   2587.2
+  ],
+  "Sleeping Indian / Beaver Tooth": [
+   557,
+   287,
+   2265.8
+  ],
+  "Thunder / Amphitheater": [
+   -464,
+   -32,
+   2464.2
+  ],
+  "Teewinot High Speed Quad top": [
+   1121,
+   32,
+   2054.1
+  ],
+  "Lower Werner / Unnamed run": [
+   1356,
+   -629,
+   1946.9
+  ],
+  "Werner / Togwotee Pass Traverse": [
+   981,
+   1013,
+   2407.1
+  ],
+  "Werner / Bronco": [
+   1205,
+   53,
+   2044.2
+  ],
+  "Cowboy Couloir / F.I.S. Cut": [
+   346,
+   -300,
+   2217.6
+  ],
+  "Lower Sundance 2": [
+   464,
+   -210,
+   2147.6
+  ],
+  "Lupine Way": [
+   -1017,
+   316,
+   2664.7
+  ],
+  "Thunder Quad Chair bottom": [
+   -294,
+   -261,
+   2410.9
+  ],
+  "Cheyenne Gully / Rendezvous Trail": [
+   -1306,
+   -790,
+   2641.8
+  ],
+  "Cheyenne Gully / Lower Sublette Ridge": [
+   -476,
+   -1018,
+   2322.9
+  ],
+  "Lower Sundance 3": [
+   837,
+   -663,
+   1984.6
+  ],
+  "Werner": [
+   1073,
+   90,
+   2076.9
+  ],
+  "Lower Werner": [
+   1071,
+   -52,
+   2042.3
+  ],
+  "Amphitheater Traverse": [
+   -268,
+   781,
+   2581.8
+  ],
+  "Camp Ground / Croaky Point": [
+   -44,
+   529,
+   2502.0
+  ],
+  "Teewinot Gully": [
+   1311,
+   308,
+   2093.6
+  ],
+  "Teewinot Gully / Unnamed run": [
+   1399,
+   84,
+   2040.9
+  ],
+  "Rendezvous Bowl / Unnamed run": [
+   -2475,
+   -114,
+   3121.3
+  ],
+  "Rendezvous Bowl / Rendezvous Trail": [
+   -2155,
+   -459,
+   2920.3
+  ],
+  "Unnamed run / Grand Traverse": [
+   -1029,
+   -163,
+   2752.0
+  ],
+  "Unnamed run / Grand": [
+   -812,
+   -526,
+   2568.7
+  ],
+  "North Hoback": [
+   -869,
+   -1154,
+   2467.2
+  ],
+  "North Hoback / Union Pass Traverse": [
+   -392,
+   -1593,
+   2098.5
+  ],
+  "Teewinot Gully / Buck Run": [
+   1225,
+   543,
+   2174.8
+  ],
+  "Unnamed run / Antelope Flats": [
+   1264,
+   -566,
+   1957.6
+  ],
+  "North Colter Ridge / South Pass Traverse": [
+   -383,
+   -517,
+   2437.8
+  ],
+  "North Colter Ridge / Unnamed run": [
+   337,
+   -909,
+   2019.7
+  ],
+  "Pooh Bear": [
+   1106,
+   -504,
+   1973.5
+  ],
+  "Eagle's Rest bottom": [
+   1154,
+   -628,
+   1957.3
+  ],
+  "Tram Line": [
+   2,
+   -452,
+   2235.1
+  ],
+  "Horn's Hole Traverse / Grand Traverse": [
+   -1186,
+   -104,
+   2823.3
+  ],
+  "Lupine Way 2": [
+   -955,
+   387,
+   2677.5
+  ],
+  "Tensleep Bowl / Tensleep": [
+   -1649,
+   -35,
+   2994.0
+  ],
+  "Tensleep Bowl / Tensleep 2": [
+   -1641,
+   166,
+   2944.4
+  ],
+  "Rawlins Bowl / Way Home": [
+   267,
+   -1117,
+   2015.9
+  ],
+  "Buck Run / St John's": [
+   1365,
+   820,
+   2258.6
+  ],
+  "Moose Creek Quad top": [
+   199,
+   -1340,
+   1996.8
+  ],
+  "Union Pass Quad bottom": [
+   318,
+   -1286,
+   1982.0
+  ],
+  "Symmetry / St John's": [
+   1059,
+   1473,
+   2565.8
+  ],
+  "Symmetry / Upper Werner": [
+   972,
+   1146,
+   2462.5
+  ],
+  "Werner 2": [
+   1014,
+   690,
+   2282.4
+  ],
+  "Upper Hanna / Hanna": [
+   1162,
+   476,
+   2184.9
+  ],
+  "Bronco / Lower Teewinot": [
+   1316,
+   -330,
+   1983.4
+  ],
+  "Teewinot High Speed Quad bottom": [
+   1356,
+   -748,
+   1936.3
+  ],
+  "Sweetwater Gondola Upper top": [
+   427,
+   228,
+   2325.6
+  ],
+  "Sleeping Indian": [
+   292,
+   470,
+   2385.5
+  ],
+  "Unnamed run / Sundog": [
+   303,
+   321,
+   2367.3
+  ],
+  "Antelope Flats": [
+   1030,
+   -91,
+   2041.2
+  ],
+  "South Colter Ridge / South Pass Traverse": [
+   -521,
+   -628,
+   2460.3
+  ],
+  "South Colter Ridge / Buffalo Bowl": [
+   50,
+   -845,
+   2122.9
+  ],
+  "Togwotee Pass Traverse / Upper Werner": [
+   958,
+   1256,
+   2484.8
+  ],
+  "Casper Bowl High Speed Quad bottom": [
+   469,
+   38,
+   2290.9
+  ],
+  "Wide Open 2": [
+   169,
+   1098,
+   2643.1
+  ],
+  "Amphitheater Traverse 2": [
+   -222,
+   526,
+   2558.0
+  ],
+  "Lower Sundance 4": [
+   907,
+   -683,
+   1975.1
+  ],
+  "Sweetwater Gondola Lower top": [
+   960,
+   -301,
+   2009.4
+  ],
+  "Antelope Flats 2": [
+   1063,
+   -394,
+   1990.2
+  ],
+  "Upper Sundance": [
+   -324,
+   524,
+   2582.7
+  ],
+  "Blacktail / Easy Does It": [
+   217,
+   385,
+   2393.9
+  ],
+  "Laramie": [
+   -1286,
+   -242,
+   2744.5
+  ],
+  "Bronco": [
+   1302,
+   -237,
+   1995.8
+  ],
+  "Amphitheater Traverse 3": [
+   -240,
+   830,
+   2588.1
+  ],
+  "Unnamed run 2": [
+   269,
+   368,
+   2380.2
+  ],
+  "Unnamed run 3": [
+   -976,
+   -179,
+   2731.5
+  ],
+  "Amphitheater": [
+   -698,
+   31,
+   2533.6
+  ],
+  "North Colter Ridge": [
+   6,
+   -671,
+   2189.3
+  ],
+  "Elk Alley": [
+   157,
+   -608,
+   2149.2
+  ],
+  "Lower Werner 2": [
+   1076,
+   -118,
+   2033.7
+  ],
+  "Moran / Upper Werner": [
+   946,
+   1376,
+   2515.0
+  ],
+  "Werner 3": [
+   949,
+   526,
+   2239.6
+  ],
+  "Togwotee Pass Traverse": [
+   501,
+   521,
+   2340.8
+  ],
+  "Moran": [
+   861,
+   707,
+   2309.9
+  ],
+  "Lower Werner 3": [
+   1127,
+   -191,
+   2019.4
+  ],
+  "Antelope Flats 3": [
+   1086,
+   -291,
+   2001.0
+  ],
+  "Middle Hoback / South Hoback": [
+   -1368,
+   -1019,
+   2718.3
+  ],
+  "Middle Hoback / Union Pass Traverse": [
+   -490,
+   -1679,
+   2112.5
+  ],
+  "Secret Slope / St John's": [
+   1467,
+   659,
+   2199.2
+  ],
+  "Secret Slope / South Pass Traverse": [
+   1388,
+   444,
+   2147.9
+  ],
+  "Horn's Hole Traverse": [
+   -1297,
+   327,
+   2738.7
+  ],
+  "Easy Does It": [
+   30,
+   542,
+   2489.2
+  ],
+  "Buffalo Bowl / South Pass Traverse": [
+   -415,
+   -573,
+   2444.6
+  ],
+  "Buffalo Bowl / Way Home": [
+   326,
+   -1034,
+   2013.8
+  ],
+  "Lower Sundance 5": [
+   971,
+   -688,
+   1969.3
+  ],
+  "Kids Ranch Magic Carpet top": [
+   1232,
+   -676,
+   1948.9
+  ],
+  "Lupine Way 3": [
+   -726,
+   432,
+   2714.3
+  ],
+  "Unnamed run 4": [
+   -598,
+   54,
+   2504.1
+  ],
+  "Gannett": [
+   -714,
+   -258,
+   2627.0
+  ],
+  "Flip Point / Laramie Traverse": [
+   -1512,
+   -209,
+   2870.8
+  ],
+  "Laramie 2": [
+   -1019,
+   -510,
+   2595.7
+  ],
+  "Unnamed lift bottom": [
+   1496,
+   -502,
+   1951.9
+  ],
+  "Jackson Face": [
+   707,
+   -110,
+   2125.8
+  ],
+  "Jackson Face 2": [
+   719,
+   -282,
+   2081.4
+  ],
+  "South Hoback / Unnamed run": [
+   -1373,
+   -978,
+   2728.2
+  ],
+  "South Hoback / Union Pass Traverse": [
+   -608,
+   -1764,
+   2119.1
+  ],
+  "Sundance": [
+   -95,
+   324,
+   2443.1
+  ],
+  "Gros Ventre": [
+   310,
+   -472,
+   2130.9
+  ],
+  "Unnamed run / Lower Teewinot": [
+   1376,
+   -12,
+   2025.5
+  ],
+  "Moran 2": [
+   873,
+   1283,
+   2500.1
+  ],
+  "Grand / Unnamed run": [
+   -1347,
+   -60,
+   2849.9
+  ],
+  "Thunder Quad Chair top": [
+   -1301,
+   -69,
+   2853.4
+  ],
+  "Wide Open 3": [
+   269,
+   958,
+   2568.6
+  ],
+  "Togwotee Pass Traverse 2": [
+   527,
+   567,
+   2346.3
+  ],
+  "Unnamed run 5": [
+   -393,
+   61,
+   2459.6
+  ],
+  "Gros Ventre 2": [
+   424,
+   -532,
+   2085.0
+  ],
+  "Moose Creek Quad bottom": [
+   559,
+   -1473,
+   1937.6
+  ],
+  "Teton Lift bottom": [
+   889,
+   446,
+   2221.4
+  ],
+  "Rendezvous Trail": [
+   -1629,
+   -824,
+   2771.9
+  ],
+  "North Hoback / Union Pass Traverse 2": [
+   -306,
+   -1521,
+   2085.7
+  ],
+  "Upper Werner": [
+   1012,
+   1495,
+   2558.1
+  ],
+  "Unnamed run / Union Pass Traverse": [
+   154,
+   -1172,
+   2026.6
+  ],
+  "Aerial Tram top": [
+   -2111,
+   179,
+   3172.2
+  ],
+  "Togwotee Pass Traverse 3": [
+   511,
+   88,
+   2286.9
+  ],
+  "Beaver Tooth 2": [
+   843,
+   -246,
+   2027.0
+  ],
+  "Gros Ventre 3": [
+   118,
+   -135,
+   2293.3
+  ],
+  "Gros Ventre 4": [
+   714,
+   -617,
+   2007.2
+  ],
+  "Rendezvous Trail 2": [
+   -2055,
+   -659,
+   2896.3
+  ],
+  "Wally World / Unnamed run": [
+   -1875,
+   -579,
+   2777.6
+  ],
+  "Rendezvous Trail 3": [
+   -1909,
+   -791,
+   2861.2
+  ],
+  "Bivouac / Unnamed run": [
+   -1801,
+   -605,
+   2765.8
+  ],
+  "Lower Sundance 6": [
+   785,
+   -479,
+   2013.6
+  ],
+  "St John's": [
+   1224,
+   1273,
+   2467.3
+  ],
+  "Nez Perce": [
+   387,
+   13,
+   2256.6
+  ],
+  "Rendezvous Trail 4": [
+   -836,
+   -763,
+   2536.6
+  ],
+  "Lower Sublette Ridge / Union Pass Traverse": [
+   -16,
+   -1297,
+   2044.4
+  ],
+  "Tram Line 2": [
+   -91,
+   -426,
+   2284.1
+  ],
+  "Hanging Rock 3": [
+   -2129,
+   -326,
+   2942.7
+  ],
+  "Rendezvous Trail 5": [
+   -1470,
+   -741,
+   2698.6
+  ],
+  "Tensleep": [
+   -1730,
+   -112,
+   3004.0
+  ],
+  "Hanging Rock 4": [
+   -1930,
+   -248,
+   2959.6
+  ],
+  "Marmot Double bottom": [
+   -255,
+   -162,
+   2403.7
+  ],
+  "Bridger Gondola bottom": [
+   1313,
+   -773,
+   1936.3
+  ],
+  "Solitude Station Magic Carpet bottom": [
+   1039,
+   -343,
+   2000.5
+  ],
+  "Solitude Station Magic Carpet top": [
+   1007,
+   -297,
+   2006.9
+  ],
+  "Kids Ranch Magic Carpet bottom": [
+   1228,
+   -741,
+   1943.5
+  ],
+  "Sublette Quad Chair bottom": [
+   -824,
+   -692,
+   2523.0
+  ]
+ },
+ "lifts": [
+  [
+   "Apres Vous High Speed Quad",
+   "Apres Vous High Speed Quad bottom",
+   "Apres Vous High Speed Quad top",
+   8.1
+  ],
+  [
+   "Sweetwater Gondola Lower",
+   "Sweetwater Gondola Lower bottom",
+   "Sweetwater Gondola Lower top",
+   10.5
+  ],
+  [
+   "Sweetwater Gondola Lower",
+   "Sweetwater Gondola Lower top",
+   "Sweetwater Gondola Lower bottom",
+   10.5
+  ],
+  [
+   "Marmot Double",
+   "Marmot Double bottom",
+   "Marmot Double top",
+   9.9
+  ],
+  [
+   "Sweetwater Gondola Upper",
+   "Sweetwater Gondola Lower top",
+   "Sweetwater Gondola Upper top",
+   10.5
+  ],
+  [
+   "Sweetwater Gondola Upper",
+   "Sweetwater Gondola Upper top",
+   "Sweetwater Gondola Lower top",
+   10.5
+  ],
+  [
+   "Casper Bowl High Speed Quad",
+   "Casper Bowl High Speed Quad bottom",
+   "Casper Bowl High Speed Quad top",
+   6.4
+  ],
+  [
+   "Thunder Quad Chair",
+   "Thunder Quad Chair bottom",
+   "Thunder Quad Chair top",
+   6.6
+  ],
+  [
+   "Eagle's Rest",
+   "Eagle's Rest bottom",
+   "Eagle's Rest top",
+   7.0
+  ],
+  [
+   "Bridger Gondola",
+   "Bridger Gondola bottom",
+   "Marmot Double top",
+   15.0
+  ],
+  [
+   "Bridger Gondola",
+   "Marmot Double top",
+   "Bridger Gondola bottom",
+   15.0
+  ],
+  [
+   "Teewinot High Speed Quad",
+   "Teewinot High Speed Quad bottom",
+   "Teewinot High Speed Quad top",
+   5.7
+  ],
+  [
+   "Solitude Station Magic Carpet",
+   "Solitude Station Magic Carpet bottom",
+   "Solitude Station Magic Carpet top",
+   4.2
+  ],
+  [
+   "Moose Creek Quad",
+   "Moose Creek Quad bottom",
+   "Moose Creek Quad top",
+   5.7
+  ],
+  [
+   "Teton Lift",
+   "Teton Lift bottom",
+   "Teton Lift top",
+   7.1
+  ],
+  [
+   "Kids Ranch Magic Carpet",
+   "Kids Ranch Magic Carpet bottom",
+   "Kids Ranch Magic Carpet top",
+   3.7
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   3.8
+  ],
+  [
+   "Aerial Tram",
+   "Aerial Tram bottom",
+   "Aerial Tram top",
+   9.2
+  ],
+  [
+   "Aerial Tram",
+   "Aerial Tram top",
+   "Aerial Tram bottom",
+   9.2
+  ],
+  [
+   "Union Pass Quad",
+   "Union Pass Quad bottom",
+   "Union Pass Quad top",
+   7.0
+  ],
+  [
+   "Sublette Quad Chair",
+   "Sublette Quad Chair bottom",
+   "Sublette Quad Chair top",
+   7.0
+  ]
+ ],
+ "runs": [
+  [
+   "Hanging Rock",
+   "Hanging Rock",
+   "Hanging Rock 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / U.P. Connection",
+   "Unnamed run / Gros Ventre",
+   0.5
+  ],
+  [
+   "Union Pass Connection",
+   "Union Pass Quad top",
+   "Union Pass Connection / U.P. Connection",
+   1.1
+  ],
+  [
+   "Nez Perce",
+   "Nez Perce / Unnamed run",
+   "Nez Perce",
+   0.5
+  ],
+  [
+   "Nez Perce",
+   "Nez Perce",
+   "Nez Perce / Lower Sundance",
+   0.6
+  ],
+  [
+   "Kemmerer (Upper)",
+   "Teton Lift top",
+   "Kemmerer (Upper)",
+   1.6
+  ],
+  [
+   "Kemmerer (Upper)",
+   "Kemmerer (Upper)",
+   "Kemmerer (Upper) / Togwotee Pass Traverse",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Laramie",
+   "Unnamed run / Rawlins Bowl",
+   0.5
+  ],
+  [
+   "Wide Open",
+   "Teton Lift top",
+   "Wide Open",
+   0.8
+  ],
+  [
+   "Wide Open",
+   "Wide Open",
+   "Wide Open 2",
+   0.5
+  ],
+  [
+   "Wide Open",
+   "Wide Open 2",
+   "Wide Open 3",
+   0.7
+  ],
+  [
+   "Wide Open",
+   "Wide Open 3",
+   "Wide Open / Togwotee Pass Traverse",
+   2.4
+  ],
+  [
+   "Lower Sundance",
+   "Lower Sundance / Sundance",
+   "Nez Perce / Lower Sundance",
+   0.5
+  ],
+  [
+   "Lower Sundance",
+   "Nez Perce / Lower Sundance",
+   "Lower Sundance 2",
+   0.6
+  ],
+  [
+   "Lower Sundance",
+   "Lower Sundance 2",
+   "Lower Sundance",
+   1.4
+  ],
+  [
+   "Lower Sundance",
+   "Lower Sundance",
+   "Lower Sundance 6",
+   0.5
+  ],
+  [
+   "Lower Sundance",
+   "Lower Sundance 6",
+   "Lower Sundance 3",
+   0.8
+  ],
+  [
+   "Lower Sundance",
+   "Lower Sundance 3",
+   "Lower Sundance 4",
+   0.5
+  ],
+  [
+   "Lower Sundance",
+   "Lower Sundance 4",
+   "Lower Sundance 5",
+   0.5
+  ],
+  [
+   "Lower Sundance",
+   "Lower Sundance 5",
+   "Aerial Tram bottom",
+   1.7
+  ],
+  [
+   "Cirque",
+   "Cirque / Tensleep",
+   "Cirque",
+   1.7
+  ],
+  [
+   "Beaver Tooth",
+   "Beaver Tooth",
+   "Beaver Tooth 2",
+   1.4
+  ],
+  [
+   "Beaver Tooth",
+   "Beaver Tooth 2",
+   "Beaver Tooth / Solitude Way",
+   0.5
+  ],
+  [
+   "Tram Line",
+   "Tram Line / Amphitheater",
+   "Tram Line 2",
+   1.2
+  ],
+  [
+   "Tram Line",
+   "Tram Line 2",
+   "Tram Line",
+   0.5
+  ],
+  [
+   "Tram Line",
+   "Tram Line",
+   "Tram Line / U.P. Connection",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Marmot Double top",
+   "Unnamed run / Lupine Way",
+   0.5
+  ],
+  [
+   "Laramie",
+   "Laramie / Laramie Bowl",
+   "Laramie",
+   0.8
+  ],
+  [
+   "Laramie",
+   "Laramie",
+   "Laramie 2",
+   1.8
+  ],
+  [
+   "Laramie",
+   "Laramie 2",
+   "Unnamed run / Laramie",
+   1.1
+  ],
+  [
+   "Laramie",
+   "Unnamed run / Laramie",
+   "Sublette Quad Chair bottom",
+   0.5
+  ],
+  [
+   "Laramie",
+   "Sublette Quad Chair bottom",
+   "Laramie / Rendezvous Trail",
+   0.5
+  ],
+  [
+   "Gannett",
+   "Gannett / Thunder",
+   "Gannett",
+   0.7
+  ],
+  [
+   "Gannett",
+   "Gannett",
+   "Gannett / South Pass Traverse",
+   1.9
+  ],
+  [
+   "Pooh Bear",
+   "Pooh Bear / Unnamed run",
+   "Pooh Bear",
+   1.2
+  ],
+  [
+   "Pooh Bear",
+   "Pooh Bear",
+   "Kids Ranch Magic Carpet top",
+   1.0
+  ],
+  [
+   "Pooh Bear",
+   "Kids Ranch Magic Carpet top",
+   "Sweetwater Gondola Lower bottom",
+   0.5
+  ],
+  [
+   "Lupine Way",
+   "Marmot Double top",
+   "Unnamed run / Lupine Way",
+   0.5
+  ],
+  [
+   "Lupine Way",
+   "Unnamed run / Lupine Way",
+   "Lupine Way 3",
+   1.3
+  ],
+  [
+   "Lupine Way",
+   "Lupine Way 3",
+   "Lupine Way 2",
+   1.2
+  ],
+  [
+   "Lupine Way",
+   "Lupine Way 2",
+   "Lupine Way",
+   0.5
+  ],
+  [
+   "Lupine Way",
+   "Lupine Way",
+   "Lupine Way / Jerry's Way",
+   0.5
+  ],
+  [
+   "Crowheart",
+   "Apres Vous High Speed Quad top",
+   "Crowheart",
+   0.5
+  ],
+  [
+   "Crowheart",
+   "Crowheart",
+   "Crowheart 2",
+   1.8
+  ],
+  [
+   "Crowheart",
+   "Crowheart 2",
+   "Crowheart / Saratoga Bowl Traverse",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Amphitheater",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "Unnamed run 5",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 5",
+   "Unnamed run",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Unnamed run / Gros Ventre 2",
+   0.5
+  ],
+  [
+   "Amphitheater Traverse",
+   "Wide Open",
+   "Wide Open 2",
+   0.5
+  ],
+  [
+   "Amphitheater Traverse",
+   "Wide Open 2",
+   "Casper Bowl High Speed Quad top",
+   1.1
+  ],
+  [
+   "Amphitheater Traverse",
+   "Casper Bowl High Speed Quad top",
+   "Amphitheater Traverse 3",
+   1.0
+  ],
+  [
+   "Amphitheater Traverse",
+   "Amphitheater Traverse 3",
+   "Amphitheater Traverse",
+   0.5
+  ],
+  [
+   "Amphitheater Traverse",
+   "Amphitheater Traverse",
+   "Amphitheater Traverse 2",
+   1.2
+  ],
+  [
+   "Amphitheater Traverse",
+   "Amphitheater Traverse 2",
+   "Unnamed run 4",
+   2.8
+  ],
+  [
+   "Amphitheater Traverse",
+   "Unnamed run 4",
+   "Amphitheater Traverse / Amphitheater",
+   0.5
+  ],
+  [
+   "Hanging Rock",
+   "Sublette Quad Chair top",
+   "Hanging Rock",
+   0.5
+  ],
+  [
+   "Hanging Rock",
+   "Hanging Rock",
+   "Hanging Rock 4",
+   0.5
+  ],
+  [
+   "Hanging Rock",
+   "Hanging Rock 4",
+   "Hanging Rock 3",
+   0.9
+  ],
+  [
+   "Hanging Rock",
+   "Hanging Rock 3",
+   "Hanging Rock / Rendezvous Trail",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Bronco",
+   "Apres Vous High Speed Quad bottom",
+   1.0
+  ],
+  [
+   "Pathfinder",
+   "Crowheart",
+   "Crowheart 2",
+   2.4
+  ],
+  [
+   "Jerry's Way",
+   "Jerry's Way / Horn's Hole Traverse",
+   "Lupine Way / Jerry's Way",
+   1.5
+  ],
+  [
+   "Saratoga Bowl Traverse",
+   "Crowheart / Saratoga Bowl Traverse",
+   "Saratoga Bowl Traverse / St John's",
+   2.5
+  ],
+  [
+   "Solitude Way",
+   "Eagle's Rest top",
+   "Beaver Tooth / Solitude Way",
+   0.7
+  ],
+  [
+   "Moran Traverse",
+   "Casper Bowl High Speed Quad top",
+   "Moran Traverse",
+   0.5
+  ],
+  [
+   "Moran Traverse",
+   "Moran Traverse",
+   "Wide Open 3",
+   0.8
+  ],
+  [
+   "Moran Traverse",
+   "Wide Open 3",
+   "Kemmerer (Upper)",
+   0.6
+  ],
+  [
+   "Ashley Ridge",
+   "Ashley Ridge",
+   "Ashley Ridge / Werner",
+   1.2
+  ],
+  [
+   "Avalanche",
+   "Unnamed run",
+   "Avalanche / Sundance",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Lower Sundance",
+   "Pooh Bear / Unnamed run",
+   0.5
+  ],
+  [
+   "Sleeping Indian",
+   "Moran Traverse",
+   "Sleeping Indian",
+   2.0
+  ],
+  [
+   "Sleeping Indian",
+   "Sleeping Indian",
+   "Sleeping Indian / Beaver Tooth",
+   1.4
+  ],
+  [
+   "Thunder",
+   "Gannett / Thunder",
+   "Thunder / Amphitheater",
+   2.1
+  ],
+  [
+   "Lower Werner",
+   "Teewinot High Speed Quad top",
+   "Lower Werner",
+   0.5
+  ],
+  [
+   "Lower Werner",
+   "Lower Werner",
+   "Lower Werner 2",
+   0.5
+  ],
+  [
+   "Lower Werner",
+   "Lower Werner 2",
+   "Lower Werner 3",
+   0.5
+  ],
+  [
+   "Lower Werner",
+   "Lower Werner 3",
+   "Lower Werner / Unnamed run",
+   2.1
+  ],
+  [
+   "Werner",
+   "Werner / Togwotee Pass Traverse",
+   "Werner 2",
+   1.4
+  ],
+  [
+   "Werner",
+   "Werner 2",
+   "Werner 3",
+   0.8
+  ],
+  [
+   "Werner",
+   "Werner 3",
+   "Ashley Ridge / Werner",
+   1.2
+  ],
+  [
+   "Werner",
+   "Ashley Ridge / Werner",
+   "Werner",
+   0.8
+  ],
+  [
+   "Werner",
+   "Werner",
+   "Teewinot High Speed Quad top",
+   0.5
+  ],
+  [
+   "Werner",
+   "Teewinot High Speed Quad top",
+   "Werner / Bronco",
+   0.5
+  ],
+  [
+   "Cowboy Couloir",
+   "Cowboy Couloir / F.I.S. Cut",
+   "Lower Sundance 2",
+   0.5
+  ],
+  [
+   "Amphitheater",
+   "Lupine Way",
+   "Lupine Way / Jerry's Way",
+   0.5
+  ],
+  [
+   "Amphitheater",
+   "Lupine Way / Jerry's Way",
+   "Amphitheater",
+   1.5
+  ],
+  [
+   "Amphitheater",
+   "Amphitheater",
+   "Unnamed run / Amphitheater",
+   0.5
+  ],
+  [
+   "Amphitheater",
+   "Unnamed run / Amphitheater",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Amphitheater",
+   "Unnamed run 4",
+   "Amphitheater Traverse / Amphitheater",
+   0.5
+  ],
+  [
+   "Amphitheater",
+   "Amphitheater Traverse / Amphitheater",
+   "Thunder / Amphitheater",
+   0.5
+  ],
+  [
+   "Amphitheater",
+   "Thunder / Amphitheater",
+   "Thunder Quad Chair bottom",
+   1.3
+  ],
+  [
+   "Amphitheater",
+   "Thunder Quad Chair bottom",
+   "Tram Line / Amphitheater",
+   0.5
+  ],
+  [
+   "Amphitheater",
+   "Tram Line / Amphitheater",
+   "Thunder Quad Chair bottom",
+   0.5
+  ],
+  [
+   "Cheyenne Gully",
+   "Cheyenne Gully / Rendezvous Trail",
+   "Cheyenne Gully / Lower Sublette Ridge",
+   3.9
+  ],
+  [
+   "U.P. Connection",
+   "Tram Line / U.P. Connection",
+   "Unnamed run / U.P. Connection",
+   0.7
+  ],
+  [
+   "U.P. Connection",
+   "Unnamed run / U.P. Connection",
+   "Union Pass Connection / U.P. Connection",
+   0.7
+  ],
+  [
+   "U.P. Connection",
+   "Union Pass Connection / U.P. Connection",
+   "Lower Sundance 3",
+   0.8
+  ],
+  [
+   "Lower Werner",
+   "Werner",
+   "Lower Werner",
+   0.5
+  ],
+  [
+   "Camp Ground",
+   "Amphitheater Traverse",
+   "Camp Ground / Croaky Point",
+   1.4
+  ],
+  [
+   "Teewinot Gully",
+   "Teewinot Gully",
+   "Teewinot Gully / Unnamed run",
+   1.0
+  ],
+  [
+   "Rendezvous Bowl",
+   "Rendezvous Bowl / Unnamed run",
+   "Rendezvous Bowl / Rendezvous Trail",
+   2.3
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Grand Traverse",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 3",
+   "Gannett / Thunder",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Gannett / Thunder",
+   "Unnamed run / Grand",
+   1.6
+  ],
+  [
+   "North Hoback",
+   "North Hoback",
+   "North Hoback / Union Pass Traverse",
+   3.0
+  ],
+  [
+   "Teewinot Gully",
+   "Teewinot Gully / Buck Run",
+   "Teewinot Gully",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Antelope Flats",
+   "Lower Werner / Unnamed run",
+   0.5
+  ],
+  [
+   "North Colter Ridge",
+   "North Colter Ridge / South Pass Traverse",
+   "North Colter Ridge",
+   1.9
+  ],
+  [
+   "North Colter Ridge",
+   "North Colter Ridge",
+   "North Colter Ridge / Unnamed run",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Pooh Bear",
+   "Eagle's Rest bottom",
+   0.5
+  ],
+  [
+   "Elk Alley",
+   "Tram Line",
+   "Elk Alley",
+   0.9
+  ],
+  [
+   "Elk Alley",
+   "Elk Alley",
+   "Tram Line / U.P. Connection",
+   0.6
+  ],
+  [
+   "Horn's Hole Traverse",
+   "Horn's Hole Traverse / Grand Traverse",
+   "Jerry's Way / Horn's Hole Traverse",
+   1.0
+  ],
+  [
+   "Horn's Hole Traverse",
+   "Jerry's Way / Horn's Hole Traverse",
+   "Horn's Hole Traverse",
+   1.0
+  ],
+  [
+   "Horn's Hole Traverse",
+   "Horn's Hole Traverse",
+   "Lupine Way 2",
+   1.6
+  ],
+  [
+   "Tensleep Bowl",
+   "Tensleep Bowl / Tensleep",
+   "Tensleep Bowl / Tensleep 2",
+   1.3
+  ],
+  [
+   "Rawlins Bowl",
+   "Unnamed run / Rawlins Bowl",
+   "Rawlins Bowl / Way Home",
+   5.0
+  ],
+  [
+   "Buck Run",
+   "Buck Run / St John's",
+   "Teewinot Gully / Buck Run",
+   1.2
+  ],
+  [
+   "Antelope Flats",
+   "Werner",
+   "Antelope Flats",
+   0.6
+  ],
+  [
+   "Antelope Flats",
+   "Antelope Flats",
+   "Antelope Flats 3",
+   0.9
+  ],
+  [
+   "Antelope Flats",
+   "Antelope Flats 3",
+   "Solitude Station Magic Carpet bottom",
+   0.5
+  ],
+  [
+   "Antelope Flats",
+   "Solitude Station Magic Carpet bottom",
+   "Antelope Flats 2",
+   0.5
+  ],
+  [
+   "Antelope Flats",
+   "Antelope Flats 2",
+   "Pooh Bear",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Moose Creek Quad top",
+   "Union Pass Quad bottom",
+   0.5
+  ],
+  [
+   "Symmetry",
+   "Symmetry / St John's",
+   "Symmetry / Upper Werner",
+   1.4
+  ],
+  [
+   "Upper Hanna",
+   "Werner 2",
+   "Upper Hanna / Hanna",
+   1.0
+  ],
+  [
+   "Bronco",
+   "Unnamed run / Bronco",
+   "Werner / Bronco",
+   0.8
+  ],
+  [
+   "Bronco",
+   "Werner / Bronco",
+   "Bronco",
+   1.3
+  ],
+  [
+   "Bronco",
+   "Bronco",
+   "Bronco / Lower Teewinot",
+   0.5
+  ],
+  [
+   "Eagle's Rest",
+   "Eagle's Rest top",
+   "Pooh Bear / Unnamed run",
+   0.5
+  ],
+  [
+   "Eagle's Rest",
+   "Pooh Bear / Unnamed run",
+   "Eagle's Rest bottom",
+   1.6
+  ],
+  [
+   "Eagle's Rest",
+   "Eagle's Rest bottom",
+   "Kids Ranch Magic Carpet top",
+   0.5
+  ],
+  [
+   "Eagle's Rest",
+   "Kids Ranch Magic Carpet top",
+   "Sweetwater Gondola Lower bottom",
+   0.5
+  ],
+  [
+   "Eagle's Rest",
+   "Sweetwater Gondola Lower bottom",
+   "Teewinot High Speed Quad bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Sweetwater Gondola Upper top",
+   "Nez Perce / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Sleeping Indian",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Unnamed run / Sundog",
+   0.5
+  ],
+  [
+   "Beaver Tooth",
+   "Sleeping Indian / Beaver Tooth",
+   "Beaver Tooth",
+   1.4
+  ],
+  [
+   "Beaver Tooth",
+   "Beaver Tooth",
+   "Antelope Flats",
+   1.2
+  ],
+  [
+   "South Colter Ridge",
+   "South Colter Ridge / South Pass Traverse",
+   "South Colter Ridge / Buffalo Bowl",
+   2.9
+  ],
+  [
+   "Togwotee Pass Traverse",
+   "Togwotee Pass Traverse / Upper Werner",
+   "Werner / Togwotee Pass Traverse",
+   1.2
+  ],
+  [
+   "Togwotee Pass Traverse",
+   "Werner / Togwotee Pass Traverse",
+   "Kemmerer (Upper) / Togwotee Pass Traverse",
+   1.9
+  ],
+  [
+   "Togwotee Pass Traverse",
+   "Kemmerer (Upper) / Togwotee Pass Traverse",
+   "Togwotee Pass Traverse 2",
+   0.9
+  ],
+  [
+   "Togwotee Pass Traverse",
+   "Togwotee Pass Traverse 2",
+   "Togwotee Pass Traverse",
+   0.5
+  ],
+  [
+   "Togwotee Pass Traverse",
+   "Togwotee Pass Traverse",
+   "Wide Open / Togwotee Pass Traverse",
+   0.5
+  ],
+  [
+   "Togwotee Pass Traverse",
+   "Wide Open / Togwotee Pass Traverse",
+   "Sweetwater Gondola Upper top",
+   1.1
+  ],
+  [
+   "Togwotee Pass Traverse",
+   "Sweetwater Gondola Upper top",
+   "Togwotee Pass Traverse 3",
+   0.5
+  ],
+  [
+   "Togwotee Pass Traverse",
+   "Togwotee Pass Traverse 3",
+   "Casper Bowl High Speed Quad bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Teton Lift top",
+   "Wide Open",
+   2.4
+  ],
+  [
+   "Unnamed run",
+   "Wide Open",
+   "Wide Open 2",
+   0.5
+  ],
+  [
+   "Upper Sundance",
+   "Marmot Double top",
+   "Upper Sundance",
+   2.0
+  ],
+  [
+   "Upper Sundance",
+   "Upper Sundance",
+   "Amphitheater Traverse 2",
+   0.5
+  ],
+  [
+   "Gros Ventre",
+   "Marmot Double top",
+   "Unnamed run / Lupine Way",
+   0.5
+  ],
+  [
+   "Gros Ventre",
+   "Unnamed run / Lupine Way",
+   "Lupine Way 3",
+   0.7
+  ],
+  [
+   "Gros Ventre",
+   "Lupine Way 3",
+   "Unnamed run",
+   3.0
+  ],
+  [
+   "Gros Ventre",
+   "Unnamed run",
+   "Unnamed run / Gros Ventre 2",
+   0.5
+  ],
+  [
+   "Gros Ventre",
+   "Unnamed run / Gros Ventre 2",
+   "Gros Ventre 3",
+   1.3
+  ],
+  [
+   "Gros Ventre",
+   "Gros Ventre 3",
+   "Gros Ventre",
+   1.8
+  ],
+  [
+   "Gros Ventre",
+   "Gros Ventre",
+   "Gros Ventre 2",
+   0.6
+  ],
+  [
+   "Gros Ventre",
+   "Gros Ventre 2",
+   "Unnamed run / Gros Ventre",
+   0.8
+  ],
+  [
+   "Gros Ventre",
+   "Unnamed run / Gros Ventre",
+   "Gros Ventre 4",
+   0.5
+  ],
+  [
+   "Gros Ventre",
+   "Gros Ventre 4",
+   "Lower Sundance 3",
+   0.6
+  ],
+  [
+   "Gros Ventre",
+   "Lower Sundance 3",
+   "Lower Sundance 4",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Sweetwater Gondola Lower top",
+   "Solitude Station Magic Carpet bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Solitude Station Magic Carpet bottom",
+   "Antelope Flats 2",
+   0.5
+  ],
+  [
+   "Sundance",
+   "Upper Sundance",
+   "Sundance",
+   1.3
+  ],
+  [
+   "Sundance",
+   "Sundance",
+   "Avalanche / Sundance",
+   1.6
+  ],
+  [
+   "Sundance",
+   "Avalanche / Sundance",
+   "Lower Sundance / Sundance",
+   0.5
+  ],
+  [
+   "Blacktail",
+   "Blacktail / Easy Does It",
+   "Lower Sundance / Sundance",
+   1.6
+  ],
+  [
+   "Laramie Bowl",
+   "Laramie / Laramie Bowl",
+   "Laramie",
+   1.2
+  ],
+  [
+   "Bronco",
+   "Werner / Bronco",
+   "Bronco",
+   1.2
+  ],
+  [
+   "Rendezvous Trail",
+   "Hanging Rock / Rendezvous Trail",
+   "Rendezvous Bowl / Rendezvous Trail",
+   0.5
+  ],
+  [
+   "Rendezvous Trail",
+   "Rendezvous Bowl / Rendezvous Trail",
+   "Rendezvous Trail 2",
+   0.9
+  ],
+  [
+   "Rendezvous Trail",
+   "Rendezvous Trail 2",
+   "Rendezvous Trail 3",
+   0.9
+  ],
+  [
+   "Rendezvous Trail",
+   "Rendezvous Trail 3",
+   "Rendezvous Trail",
+   1.3
+  ],
+  [
+   "Rendezvous Trail",
+   "Rendezvous Trail",
+   "Rendezvous Trail 5",
+   0.8
+  ],
+  [
+   "Rendezvous Trail",
+   "Rendezvous Trail 5",
+   "Cheyenne Gully / Rendezvous Trail",
+   0.8
+  ],
+  [
+   "Rendezvous Trail",
+   "Cheyenne Gully / Rendezvous Trail",
+   "Rendezvous Trail 4",
+   2.1
+  ],
+  [
+   "Rendezvous Trail",
+   "Rendezvous Trail 4",
+   "Laramie / Rendezvous Trail",
+   0.5
+  ],
+  [
+   "Easy Does It",
+   "Amphitheater Traverse 3",
+   "Easy Does It",
+   1.6
+  ],
+  [
+   "Easy Does It",
+   "Easy Does It",
+   "Blacktail / Easy Does It",
+   1.1
+  ],
+  [
+   "Easy Does It",
+   "Blacktail / Easy Does It",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Hoops Gap",
+   "Unnamed run 3",
+   "Amphitheater",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "North Colter Ridge",
+   "Elk Alley",
+   0.6
+  ],
+  [
+   "Ashley Ridge",
+   "Wide Open / Togwotee Pass Traverse",
+   "Ashley Ridge",
+   1.0
+  ],
+  [
+   "Solitude Way",
+   "Lower Werner 2",
+   "Beaver Tooth / Solitude Way",
+   0.9
+  ],
+  [
+   "Moran",
+   "Moran / Upper Werner",
+   "Moran 2",
+   0.5
+  ],
+  [
+   "Moran",
+   "Moran 2",
+   "Moran",
+   2.5
+  ],
+  [
+   "Moran",
+   "Moran",
+   "Werner 3",
+   0.9
+  ],
+  [
+   "Solitude Traverse, Teton Traverse",
+   "Togwotee Pass Traverse",
+   "Togwotee Pass Traverse 2",
+   0.5
+  ],
+  [
+   "Solitude Traverse, Teton Traverse",
+   "Togwotee Pass Traverse 2",
+   "Moran",
+   1.5
+  ],
+  [
+   "Hanna",
+   "Upper Hanna / Hanna",
+   "Unnamed run / Bronco",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Lower Werner 3",
+   "Antelope Flats 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Teewinot Gully / Unnamed run",
+   "Apres Vous High Speed Quad bottom",
+   0.5
+  ],
+  [
+   "Middle Hoback",
+   "Middle Hoback / South Hoback",
+   "Middle Hoback / Union Pass Traverse",
+   5.2
+  ],
+  [
+   "Secret Slope",
+   "Secret Slope / St John's",
+   "Secret Slope / South Pass Traverse",
+   0.8
+  ],
+  [
+   "Cirque Gully",
+   "Horn's Hole Traverse",
+   "Lupine Way",
+   1.2
+  ],
+  [
+   "Cirque Gully",
+   "Lupine Way",
+   "Lupine Way / Jerry's Way",
+   0.5
+  ],
+  [
+   "Croaky Point",
+   "Amphitheater Traverse 2",
+   "Camp Ground / Croaky Point",
+   0.7
+  ],
+  [
+   "Croaky Point",
+   "Camp Ground / Croaky Point",
+   "Easy Does It",
+   0.5
+  ],
+  [
+   "Buffalo Bowl",
+   "Buffalo Bowl / South Pass Traverse",
+   "South Colter Ridge / Buffalo Bowl",
+   2.5
+  ],
+  [
+   "Buffalo Bowl",
+   "South Colter Ridge / Buffalo Bowl",
+   "Buffalo Bowl / Way Home",
+   1.5
+  ],
+  [
+   "St John's",
+   "Symmetry / St John's",
+   "Apres Vous High Speed Quad top",
+   0.5
+  ],
+  [
+   "St John's",
+   "Apres Vous High Speed Quad top",
+   "St John's",
+   0.9
+  ],
+  [
+   "St John's",
+   "St John's",
+   "Buck Run / St John's",
+   2.2
+  ],
+  [
+   "St John's",
+   "Buck Run / St John's",
+   "Secret Slope / St John's",
+   0.8
+  ],
+  [
+   "St John's",
+   "Secret Slope / St John's",
+   "Saratoga Bowl Traverse / St John's",
+   1.0
+  ],
+  [
+   "St John's",
+   "Saratoga Bowl Traverse / St John's",
+   "Teewinot Gully / Unnamed run",
+   2.2
+  ],
+  [
+   "Eagle's Rest Cutoff",
+   "Lower Sundance 5",
+   "Kids Ranch Magic Carpet top",
+   1.0
+  ],
+  [
+   "Cascade",
+   "Lupine Way 3",
+   "Unnamed run 4",
+   1.8
+  ],
+  [
+   "Riverton Bowl",
+   "Gannett",
+   "Tram Line / Amphitheater",
+   1.7
+  ],
+  [
+   "Antelope Flats",
+   "Antelope Flats 3",
+   "Unnamed run / Antelope Flats",
+   1.2
+  ],
+  [
+   "Antelope Flats",
+   "Unnamed run / Antelope Flats",
+   "Kids Ranch Magic Carpet top",
+   0.5
+  ],
+  [
+   "Flip Point",
+   "Flip Point / Laramie Traverse",
+   "Laramie 2",
+   2.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   0.5
+  ],
+  [
+   "Teewinot",
+   "Werner / Togwotee Pass Traverse",
+   "Teewinot Gully / Buck Run",
+   2.3
+  ],
+  [
+   "Jackson Face",
+   "Jackson Face",
+   "Jackson Face 2",
+   0.6
+  ],
+  [
+   "South Hoback",
+   "South Hoback / Unnamed run",
+   "Middle Hoback / South Hoback",
+   0.5
+  ],
+  [
+   "South Hoback",
+   "Middle Hoback / South Hoback",
+   "South Hoback / Union Pass Traverse",
+   5.7
+  ],
+  [
+   "Ranger",
+   "Marmot Double top",
+   "Sundance",
+   3.1
+  ],
+  [
+   "F.I.S. Cut",
+   "Cowboy Couloir / F.I.S. Cut",
+   "Gros Ventre",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Teewinot High Speed Quad top",
+   "Werner / Bronco",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Werner / Bronco",
+   "Apres Vous High Speed Quad bottom",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Apres Vous High Speed Quad bottom",
+   "Unnamed run / Lower Teewinot",
+   0.5
+  ],
+  [
+   "Crags Run",
+   "Teton Lift top",
+   "Moran 2",
+   3.5
+  ],
+  [
+   "Grand",
+   "Grand / Unnamed run",
+   "Thunder Quad Chair top",
+   0.5
+  ],
+  [
+   "Moran Woods",
+   "Wide Open 3",
+   "Togwotee Pass Traverse 2",
+   2.1
+  ],
+  [
+   "Dicks Ditch",
+   "Unnamed run 5",
+   "Tram Line / U.P. Connection",
+   4.2
+  ],
+  [
+   "Way Home",
+   "Gros Ventre 2",
+   "Union Pass Quad top",
+   0.7
+  ],
+  [
+   "Way Home",
+   "Union Pass Quad top",
+   "Buffalo Bowl / Way Home",
+   1.6
+  ],
+  [
+   "Way Home",
+   "Buffalo Bowl / Way Home",
+   "Rawlins Bowl / Way Home",
+   0.5
+  ],
+  [
+   "Way Home",
+   "Rawlins Bowl / Way Home",
+   "Moose Creek Quad bottom",
+   2.3
+  ],
+  [
+   "Kemmerer (Lower)",
+   "Kemmerer (Upper) / Togwotee Pass Traverse",
+   "Teton Lift bottom",
+   1.6
+  ],
+  [
+   "Sundog",
+   "Casper Bowl High Speed Quad top",
+   "Blacktail / Easy Does It",
+   2.4
+  ],
+  [
+   "Sundog",
+   "Blacktail / Easy Does It",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Sundog",
+   "Unnamed run 2",
+   "Unnamed run / Sundog",
+   0.5
+  ],
+  [
+   "Sundog",
+   "Unnamed run / Sundog",
+   "Nez Perce / Unnamed run",
+   0.9
+  ],
+  [
+   "Sundog",
+   "Nez Perce / Unnamed run",
+   "Casper Bowl High Speed Quad bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Rendezvous Trail",
+   "South Hoback / Unnamed run",
+   1.1
+  ],
+  [
+   "North Hoback",
+   "South Hoback / Unnamed run",
+   "Middle Hoback / South Hoback",
+   0.5
+  ],
+  [
+   "North Hoback",
+   "Middle Hoback / South Hoback",
+   "North Hoback",
+   2.4
+  ],
+  [
+   "North Hoback",
+   "North Hoback",
+   "North Hoback / Union Pass Traverse 2",
+   3.2
+  ],
+  [
+   "Upper Werner",
+   "Upper Werner",
+   "Moran / Upper Werner",
+   0.5
+  ],
+  [
+   "Upper Werner",
+   "Moran / Upper Werner",
+   "Togwotee Pass Traverse / Upper Werner",
+   0.5
+  ],
+  [
+   "Upper Werner",
+   "Togwotee Pass Traverse / Upper Werner",
+   "Symmetry / Upper Werner",
+   0.5
+  ],
+  [
+   "Upper Werner",
+   "Symmetry / Upper Werner",
+   "Werner / Togwotee Pass Traverse",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Union Pass Traverse",
+   "Union Pass Quad bottom",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Aerial Tram top",
+   "Rendezvous Bowl / Unnamed run",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Union Pass Quad top",
+   "North Colter Ridge / Unnamed run",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "North Colter Ridge / Unnamed run",
+   "Buffalo Bowl / Way Home",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Buffalo Bowl / Way Home",
+   "Rawlins Bowl / Way Home",
+   0.5
+  ],
+  [
+   "The Stash",
+   "Amphitheater Traverse 3",
+   "Amphitheater Traverse",
+   0.5
+  ],
+  [
+   "The Stash",
+   "Amphitheater Traverse",
+   "Camp Ground / Croaky Point",
+   1.4
+  ],
+  [
+   "Teton Traverse",
+   "Unnamed run / Amphitheater",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Teton Traverse",
+   "Unnamed run 4",
+   "Sundance",
+   2.9
+  ],
+  [
+   "Teton Traverse",
+   "Sundance",
+   "Blacktail / Easy Does It",
+   1.2
+  ],
+  [
+   "Teton Traverse",
+   "Blacktail / Easy Does It",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Teton Traverse",
+   "Unnamed run 2",
+   "Togwotee Pass Traverse",
+   1.1
+  ],
+  [
+   "Jackson Face",
+   "Togwotee Pass Traverse 3",
+   "Jackson Face",
+   1.2
+  ],
+  [
+   "Jackson Face",
+   "Jackson Face",
+   "Beaver Tooth 2",
+   0.9
+  ],
+  [
+   "Tensleep",
+   "Sublette Quad Chair top",
+   "Tensleep",
+   0.5
+  ],
+  [
+   "Tensleep",
+   "Tensleep",
+   "Tensleep Bowl / Tensleep",
+   0.5
+  ],
+  [
+   "Tensleep",
+   "Tensleep Bowl / Tensleep",
+   "Tensleep Bowl / Tensleep 2",
+   0.9
+  ],
+  [
+   "Tensleep",
+   "Tensleep Bowl / Tensleep 2",
+   "Cirque / Tensleep",
+   0.8
+  ],
+  [
+   "Slalom",
+   "Gros Ventre 3",
+   "Cowboy Couloir / F.I.S. Cut",
+   1.1
+  ],
+  [
+   "Slalom",
+   "Cowboy Couloir / F.I.S. Cut",
+   "Gros Ventre 4",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Grand / Unnamed run",
+   "Laramie / Laramie Bowl",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Laramie / Laramie Bowl",
+   "Jerry's Way / Horn's Hole Traverse",
+   0.7
+  ],
+  [
+   "Wally World",
+   "Rendezvous Trail 2",
+   "Wally World / Unnamed run",
+   0.8
+  ],
+  [
+   "Bivouac",
+   "Rendezvous Trail 3",
+   "Bivouac / Unnamed run",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Eagle's Rest top",
+   "Lower Sundance 6",
+   0.5
+  ],
+  [
+   "Big Horn",
+   "St John's",
+   "Crowheart / Saratoga Bowl Traverse",
+   2.2
+  ],
+  [
+   "Jackson Face",
+   "Nez Perce",
+   "Jackson Face 2",
+   1.9
+  ],
+  [
+   "Jackson Face",
+   "Jackson Face 2",
+   "Lower Sundance",
+   0.6
+  ],
+  [
+   "Nez Perce Traverse",
+   "Lupine Way / Jerry's Way",
+   "Amphitheater Traverse 2",
+   3.5
+  ],
+  [
+   "Unnamed run",
+   "Beaver Tooth / Solitude Way",
+   "Sweetwater Gondola Lower top",
+   0.5
+  ],
+  [
+   "South Pass Traverse",
+   "Laramie / Rendezvous Trail",
+   "Unnamed run / Rawlins Bowl",
+   0.5
+  ],
+  [
+   "South Pass Traverse",
+   "Unnamed run / Rawlins Bowl",
+   "South Colter Ridge / South Pass Traverse",
+   0.9
+  ],
+  [
+   "South Pass Traverse",
+   "South Colter Ridge / South Pass Traverse",
+   "Buffalo Bowl / South Pass Traverse",
+   0.5
+  ],
+  [
+   "South Pass Traverse",
+   "Buffalo Bowl / South Pass Traverse",
+   "North Colter Ridge / South Pass Traverse",
+   0.5
+  ],
+  [
+   "South Pass Traverse",
+   "North Colter Ridge / South Pass Traverse",
+   "Gannett / South Pass Traverse",
+   0.5
+  ],
+  [
+   "South Pass Traverse",
+   "Gannett / South Pass Traverse",
+   "Tram Line / Amphitheater",
+   0.9
+  ],
+  [
+   "South Pass Traverse",
+   "Tram Line / Amphitheater",
+   "Thunder Quad Chair bottom",
+   0.5
+  ],
+  [
+   "South Pass Traverse",
+   "Thunder Quad Chair bottom",
+   "Marmot Double bottom",
+   0.5
+  ],
+  [
+   "South Pass Traverse",
+   "Marmot Double bottom",
+   "Nez Perce / Unnamed run",
+   4.1
+  ],
+  [
+   "South Pass Traverse",
+   "Nez Perce / Unnamed run",
+   "Togwotee Pass Traverse 3",
+   0.6
+  ],
+  [
+   "South Pass Traverse",
+   "Togwotee Pass Traverse 3",
+   "Casper Bowl High Speed Quad bottom",
+   0.5
+  ],
+  [
+   "South Pass Traverse",
+   "Casper Bowl High Speed Quad bottom",
+   "Togwotee Pass Traverse 3",
+   0.5
+  ],
+  [
+   "South Pass Traverse",
+   "Togwotee Pass Traverse 3",
+   "Sleeping Indian / Beaver Tooth",
+   0.8
+  ],
+  [
+   "South Pass Traverse",
+   "Sleeping Indian / Beaver Tooth",
+   "Ashley Ridge",
+   0.7
+  ],
+  [
+   "South Pass Traverse",
+   "Ashley Ridge",
+   "Teton Lift bottom",
+   1.0
+  ],
+  [
+   "South Pass Traverse",
+   "Teton Lift bottom",
+   "Upper Hanna / Hanna",
+   1.3
+  ],
+  [
+   "South Pass Traverse",
+   "Upper Hanna / Hanna",
+   "Teewinot Gully / Buck Run",
+   0.5
+  ],
+  [
+   "South Pass Traverse",
+   "Teewinot Gully / Buck Run",
+   "Secret Slope / South Pass Traverse",
+   0.9
+  ],
+  [
+   "South Pass Traverse",
+   "Secret Slope / South Pass Traverse",
+   "Teewinot Gully",
+   1.6
+  ],
+  [
+   "Lower Sublette Ridge",
+   "Rendezvous Trail 4",
+   "Cheyenne Gully / Lower Sublette Ridge",
+   1.9
+  ],
+  [
+   "Lower Sublette Ridge",
+   "Cheyenne Gully / Lower Sublette Ridge",
+   "Lower Sublette Ridge / Union Pass Traverse",
+   2.5
+  ],
+  [
+   "Lander Bowl",
+   "Gannett / South Pass Traverse",
+   "Tram Line 2",
+   1.3
+  ],
+  [
+   "Grand Traverse",
+   "Horn's Hole Traverse / Grand Traverse",
+   "Unnamed run / Grand Traverse",
+   1.0
+  ],
+  [
+   "Laramie Traverse",
+   "Laramie / Laramie Bowl",
+   "Grand / Unnamed run",
+   0.5
+  ],
+  [
+   "Laramie Traverse",
+   "Hanging Rock 3",
+   "Flip Point / Laramie Traverse",
+   2.9
+  ],
+  [
+   "Laramie Traverse",
+   "Flip Point / Laramie Traverse",
+   "Laramie / Laramie Bowl",
+   0.8
+  ],
+  [
+   "Lower Teewinot",
+   "Teewinot Gully / Unnamed run",
+   "Apres Vous High Speed Quad bottom",
+   0.5
+  ],
+  [
+   "Lower Teewinot",
+   "Apres Vous High Speed Quad bottom",
+   "Unnamed run / Lower Teewinot",
+   0.5
+  ],
+  [
+   "Lower Teewinot",
+   "Unnamed run / Lower Teewinot",
+   "Bronco",
+   0.9
+  ],
+  [
+   "Lower Teewinot",
+   "Bronco",
+   "Bronco / Lower Teewinot",
+   0.5
+  ],
+  [
+   "Lower Teewinot",
+   "Bronco / Lower Teewinot",
+   "Unnamed lift top",
+   0.8
+  ],
+  [
+   "Lower Teewinot",
+   "Unnamed lift top",
+   "Lower Werner / Unnamed run",
+   0.5
+  ],
+  [
+   "Lower Teewinot",
+   "Lower Werner / Unnamed run",
+   "Teewinot High Speed Quad bottom",
+   0.5
+  ],
+  [
+   "Lower Teewinot",
+   "Teewinot High Speed Quad bottom",
+   "Bridger Gondola bottom",
+   0.5
+  ],
+  [
+   "Lower Teewinot",
+   "Bridger Gondola bottom",
+   "Aerial Tram bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Wally World / Unnamed run",
+   "Bivouac / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Bivouac / Unnamed run",
+   "Rendezvous Trail 5",
+   1.6
+  ],
+  [
+   "Grand",
+   "Thunder Quad Chair top",
+   "Horn's Hole Traverse / Grand Traverse",
+   0.5
+  ],
+  [
+   "Grand",
+   "Horn's Hole Traverse / Grand Traverse",
+   "Unnamed run / Grand Traverse",
+   0.8
+  ],
+  [
+   "Grand",
+   "Unnamed run / Grand Traverse",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Grand",
+   "Unnamed run 3",
+   "Unnamed run / Grand",
+   1.6
+  ],
+  [
+   "Grand",
+   "Unnamed run / Grand",
+   "Unnamed run / Laramie",
+   0.5
+  ],
+  [
+   "Hanging Rock",
+   "Tensleep",
+   "Hanging Rock 2",
+   0.5
+  ],
+  [
+   "Hanging Rock",
+   "Hanging Rock 2",
+   "Hanging Rock 4",
+   0.6
+  ],
+  [
+   "Union Pass Traverse",
+   "South Hoback / Union Pass Traverse",
+   "Middle Hoback / Union Pass Traverse",
+   0.5
+  ],
+  [
+   "Union Pass Traverse",
+   "Middle Hoback / Union Pass Traverse",
+   "North Hoback / Union Pass Traverse",
+   0.5
+  ],
+  [
+   "Union Pass Traverse",
+   "North Hoback / Union Pass Traverse",
+   "North Hoback / Union Pass Traverse 2",
+   0.5
+  ],
+  [
+   "Union Pass Traverse",
+   "North Hoback / Union Pass Traverse 2",
+   "Lower Sublette Ridge / Union Pass Traverse",
+   1.6
+  ],
+  [
+   "Union Pass Traverse",
+   "Lower Sublette Ridge / Union Pass Traverse",
+   "Unnamed run / Union Pass Traverse",
+   0.9
+  ],
+  [
+   "Union Pass Traverse",
+   "Unnamed run / Union Pass Traverse",
+   "Rawlins Bowl / Way Home",
+   0.5
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Unnamed run / U.P. Connection",
+   "Union Pass Quad top",
+   2.0
+  ],
+  [
+   "walk",
+   "Union Pass Quad top",
+   "Unnamed run / U.P. Connection",
+   2.0
+  ],
+  [
+   "walk",
+   "Union Pass Quad top",
+   "North Colter Ridge / Unnamed run",
+   2.8
+  ],
+  [
+   "walk",
+   "Nez Perce / Unnamed run",
+   "Sweetwater Gondola Upper top",
+   1.2
+  ],
+  [
+   "walk",
+   "Nez Perce / Unnamed run",
+   "Casper Bowl High Speed Quad bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Teton Lift top",
+   "Wide Open",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Laramie",
+   "Sublette Quad Chair bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Rawlins Bowl",
+   "Sublette Quad Chair bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Wide Open / Togwotee Pass Traverse",
+   "Sweetwater Gondola Upper top",
+   3.2
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Sweetwater Gondola Lower bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Teewinot High Speed Quad bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Bridger Gondola bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Cirque",
+   "Horn's Hole Traverse",
+   3.4
+  ],
+  [
+   "walk",
+   "Beaver Tooth / Solitude Way",
+   "Sweetwater Gondola Lower top",
+   0.9
+  ],
+  [
+   "walk",
+   "Beaver Tooth / Solitude Way",
+   "Solitude Station Magic Carpet bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Beaver Tooth / Solitude Way",
+   "Solitude Station Magic Carpet top",
+   1.5
+  ],
+  [
+   "walk",
+   "Tram Line / Amphitheater",
+   "Thunder Quad Chair bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Tram Line / Amphitheater",
+   "Marmot Double bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Tram Line / U.P. Connection",
+   "Union Pass Quad top",
+   1.9
+  ],
+  [
+   "walk",
+   "Marmot Double top",
+   "Unnamed run / Lupine Way",
+   0.8
+  ],
+  [
+   "walk",
+   "Marmot Double top",
+   "Lupine Way 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Lupine Way",
+   "Marmot Double top",
+   0.8
+  ],
+  [
+   "walk",
+   "Laramie / Laramie Bowl",
+   "Thunder Quad Chair top",
+   1.2
+  ],
+  [
+   "walk",
+   "Laramie / Rendezvous Trail",
+   "Sublette Quad Chair bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Gannett / South Pass Traverse",
+   "Thunder Quad Chair bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Pooh Bear / Unnamed run",
+   "Sweetwater Gondola Lower top",
+   2.4
+  ],
+  [
+   "walk",
+   "Pooh Bear / Unnamed run",
+   "Solitude Station Magic Carpet bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Pooh Bear / Unnamed run",
+   "Solitude Station Magic Carpet top",
+   2.9
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower bottom",
+   "Aerial Tram bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower bottom",
+   "Lower Werner / Unnamed run",
+   1.3
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower bottom",
+   "Teewinot High Speed Quad bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower bottom",
+   "Kids Ranch Magic Carpet top",
+   1.0
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower bottom",
+   "Bridger Gondola bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower bottom",
+   "Kids Ranch Magic Carpet bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad top",
+   "Crowheart",
+   1.7
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad top",
+   "Symmetry / St John's",
+   0.8
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad top",
+   "Togwotee Pass Traverse / Upper Werner",
+   3.0
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad top",
+   "Moran / Upper Werner",
+   2.2
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad top",
+   "Upper Werner",
+   1.5
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad top",
+   "St John's",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Gros Ventre 2",
+   "Marmot Double bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Sublette Quad Chair top",
+   "Hanging Rock",
+   1.5
+  ],
+  [
+   "walk",
+   "Sublette Quad Chair top",
+   "Hanging Rock 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Sublette Quad Chair top",
+   "Tensleep Bowl / Tensleep",
+   2.2
+  ],
+  [
+   "walk",
+   "Sublette Quad Chair top",
+   "Tensleep",
+   0.8
+  ],
+  [
+   "walk",
+   "Sublette Quad Chair top",
+   "Hanging Rock 4",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Bronco",
+   "Apres Vous High Speed Quad bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad bottom",
+   "Werner / Bronco",
+   2.2
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad bottom",
+   "Teewinot Gully / Unnamed run",
+   0.9
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad bottom",
+   "Unnamed run / Lower Teewinot",
+   0.6
+  ],
+  [
+   "walk",
+   "Eagle's Rest top",
+   "Beaver Tooth / Solitude Way",
+   1.9
+  ],
+  [
+   "walk",
+   "Eagle's Rest top",
+   "Pooh Bear / Unnamed run",
+   1.0
+  ],
+  [
+   "walk",
+   "Eagle's Rest top",
+   "Lower Sundance",
+   1.3
+  ],
+  [
+   "walk",
+   "Eagle's Rest top",
+   "Sweetwater Gondola Lower top",
+   2.4
+  ],
+  [
+   "walk",
+   "Eagle's Rest top",
+   "Beaver Tooth 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Eagle's Rest top",
+   "Lower Sundance 6",
+   1.7
+  ],
+  [
+   "walk",
+   "Eagle's Rest top",
+   "Solitude Station Magic Carpet bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Eagle's Rest top",
+   "Solitude Station Magic Carpet top",
+   3.0
+  ],
+  [
+   "walk",
+   "Casper Bowl High Speed Quad top",
+   "Moran Traverse",
+   1.6
+  ],
+  [
+   "walk",
+   "Casper Bowl High Speed Quad top",
+   "Amphitheater Traverse 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Ashley Ridge",
+   "Teton Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Marmot Double bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Sundance",
+   "Eagle's Rest top",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Sweetwater Gondola Lower bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Lower Werner / Unnamed run",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed run / Antelope Flats",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Eagle's Rest bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Teewinot High Speed Quad bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Kids Ranch Magic Carpet top",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Thunder / Amphitheater",
+   "Marmot Double bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Apres Vous High Speed Quad bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Werner / Bronco",
+   1.2
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Lower Werner",
+   1.4
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Antelope Flats",
+   2.1
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Lower Werner 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Lower Werner 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Werner / Unnamed run",
+   "Sweetwater Gondola Lower bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Lower Werner / Unnamed run",
+   "Unnamed lift top",
+   1.7
+  ],
+  [
+   "walk",
+   "Lower Werner / Unnamed run",
+   "Eagle's Rest bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Werner / Unnamed run",
+   "Teewinot High Speed Quad bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Lower Werner / Unnamed run",
+   "Kids Ranch Magic Carpet top",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Werner / Unnamed run",
+   "Unnamed lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Werner / Unnamed run",
+   "Bridger Gondola bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Werner / Unnamed run",
+   "Kids Ranch Magic Carpet bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Werner / Bronco",
+   "Apres Vous High Speed Quad bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Werner / Bronco",
+   "Teewinot High Speed Quad top",
+   1.2
+  ],
+  [
+   "walk",
+   "Thunder Quad Chair bottom",
+   "Tram Line / Amphitheater",
+   0.6
+  ],
+  [
+   "walk",
+   "Thunder Quad Chair bottom",
+   "Marmot Double bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Werner",
+   "Teewinot High Speed Quad top",
+   1.1
+  ],
+  [
+   "walk",
+   "Lower Werner",
+   "Teewinot High Speed Quad top",
+   1.4
+  ],
+  [
+   "walk",
+   "Teewinot Gully / Unnamed run",
+   "Apres Vous High Speed Quad bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Grand",
+   "Sublette Quad Chair bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Antelope Flats",
+   "Sweetwater Gondola Lower bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Antelope Flats",
+   "Unnamed lift top",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Antelope Flats",
+   "Eagle's Rest bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Antelope Flats",
+   "Teewinot High Speed Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Antelope Flats",
+   "Kids Ranch Magic Carpet top",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Antelope Flats",
+   "Unnamed lift bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Antelope Flats",
+   "Bridger Gondola bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Antelope Flats",
+   "Kids Ranch Magic Carpet bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Pooh Bear",
+   "Eagle's Rest bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Pooh Bear",
+   "Kids Ranch Magic Carpet top",
+   3.0
+  ],
+  [
+   "walk",
+   "Eagle's Rest bottom",
+   "Sweetwater Gondola Lower bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Eagle's Rest bottom",
+   "Unnamed lift top",
+   3.3
+  ],
+  [
+   "walk",
+   "Eagle's Rest bottom",
+   "Lower Werner / Unnamed run",
+   2.8
+  ],
+  [
+   "walk",
+   "Eagle's Rest bottom",
+   "Unnamed run / Antelope Flats",
+   1.8
+  ],
+  [
+   "walk",
+   "Eagle's Rest bottom",
+   "Teewinot High Speed Quad bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Eagle's Rest bottom",
+   "Lower Sundance 5",
+   2.7
+  ],
+  [
+   "walk",
+   "Eagle's Rest bottom",
+   "Kids Ranch Magic Carpet top",
+   1.3
+  ],
+  [
+   "walk",
+   "Eagle's Rest bottom",
+   "Bridger Gondola bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Eagle's Rest bottom",
+   "Kids Ranch Magic Carpet bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Rawlins Bowl / Way Home",
+   "Moose Creek Quad top",
+   3.2
+  ],
+  [
+   "walk",
+   "Rawlins Bowl / Way Home",
+   "Union Pass Quad bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Moose Creek Quad top",
+   "Union Pass Quad bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Union Pass Quad bottom",
+   "Moose Creek Quad top",
+   1.8
+  ],
+  [
+   "walk",
+   "Symmetry / St John's",
+   "Apres Vous High Speed Quad top",
+   0.8
+  ],
+  [
+   "walk",
+   "Bronco / Lower Teewinot",
+   "Unnamed lift top",
+   2.5
+  ],
+  [
+   "walk",
+   "Bronco / Lower Teewinot",
+   "Unnamed lift bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad bottom",
+   "Aerial Tram bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad bottom",
+   "Sweetwater Gondola Lower bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad bottom",
+   "Lower Werner / Unnamed run",
+   1.7
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad bottom",
+   "Kids Ranch Magic Carpet top",
+   2.0
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad bottom",
+   "Bridger Gondola bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad bottom",
+   "Kids Ranch Magic Carpet bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Upper top",
+   "Nez Perce / Unnamed run",
+   1.2
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Upper top",
+   "Wide Open / Togwotee Pass Traverse",
+   3.2
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Upper top",
+   "Sleeping Indian / Beaver Tooth",
+   2.0
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Upper top",
+   "Casper Bowl High Speed Quad bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Upper top",
+   "Togwotee Pass Traverse 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Upper top",
+   "Nez Perce",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Sundog",
+   "Sweetwater Gondola Upper top",
+   2.1
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Teewinot High Speed Quad top",
+   2.1
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Sweetwater Gondola Lower top",
+   3.1
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Solitude Station Magic Carpet top",
+   2.9
+  ],
+  [
+   "walk",
+   "Casper Bowl High Speed Quad bottom",
+   "Nez Perce / Lower Sundance",
+   2.5
+  ],
+  [
+   "walk",
+   "Casper Bowl High Speed Quad bottom",
+   "Lower Sundance / Sundance",
+   2.9
+  ],
+  [
+   "walk",
+   "Casper Bowl High Speed Quad bottom",
+   "Lower Sundance 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Casper Bowl High Speed Quad bottom",
+   "Togwotee Pass Traverse 3",
+   0.9
+  ],
+  [
+   "walk",
+   "Casper Bowl High Speed Quad bottom",
+   "Nez Perce",
+   1.2
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower top",
+   "Beaver Tooth / Solitude Way",
+   0.9
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower top",
+   "Pooh Bear / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower top",
+   "Antelope Flats 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower top",
+   "Lower Werner 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower top",
+   "Antelope Flats 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower top",
+   "Lower Sundance 6",
+   3.5
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower top",
+   "Solitude Station Magic Carpet bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower top",
+   "Solitude Station Magic Carpet top",
+   0.7
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Solitude Station Magic Carpet bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Sweetwater Gondola Upper top",
+   2.9
+  ],
+  [
+   "walk",
+   "Elk Alley",
+   "Union Pass Quad top",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Werner 2",
+   "Sweetwater Gondola Lower top",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Werner 2",
+   "Solitude Station Magic Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Werner 2",
+   "Solitude Station Magic Carpet top",
+   2.7
+  ],
+  [
+   "walk",
+   "Werner 3",
+   "Teton Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Lower Werner 3",
+   "Sweetwater Gondola Lower top",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Werner 3",
+   "Solitude Station Magic Carpet bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Werner 3",
+   "Solitude Station Magic Carpet top",
+   2.2
+  ],
+  [
+   "walk",
+   "Antelope Flats 3",
+   "Sweetwater Gondola Lower top",
+   1.8
+  ],
+  [
+   "walk",
+   "Antelope Flats 3",
+   "Solitude Station Magic Carpet bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Antelope Flats 3",
+   "Solitude Station Magic Carpet top",
+   1.1
+  ],
+  [
+   "walk",
+   "Lower Sundance 5",
+   "Eagle's Rest bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet top",
+   "Aerial Tram bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet top",
+   "Sweetwater Gondola Lower bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet top",
+   "Unnamed lift top",
+   3.0
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet top",
+   "Lower Werner / Unnamed run",
+   1.8
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet top",
+   "Unnamed run / Antelope Flats",
+   1.6
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet top",
+   "Eagle's Rest bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet top",
+   "Teewinot High Speed Quad bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet top",
+   "Bridger Gondola bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet top",
+   "Kids Ranch Magic Carpet bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Lower Werner / Unnamed run",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed run / Antelope Flats",
+   3.3
+  ],
+  [
+   "walk",
+   "Jackson Face 2",
+   "Eagle's Rest top",
+   1.5
+  ],
+  [
+   "walk",
+   "Jackson Face 2",
+   "Sweetwater Gondola Lower top",
+   3.4
+  ],
+  [
+   "walk",
+   "Gros Ventre",
+   "Union Pass Quad top",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Lower Teewinot",
+   "Apres Vous High Speed Quad bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Grand / Unnamed run",
+   "Thunder Quad Chair top",
+   0.6
+  ],
+  [
+   "walk",
+   "Thunder Quad Chair top",
+   "Laramie / Laramie Bowl",
+   1.2
+  ],
+  [
+   "walk",
+   "Thunder Quad Chair top",
+   "Jerry's Way / Horn's Hole Traverse",
+   2.5
+  ],
+  [
+   "walk",
+   "Thunder Quad Chair top",
+   "Horn's Hole Traverse / Grand Traverse",
+   1.7
+  ],
+  [
+   "walk",
+   "Thunder Quad Chair top",
+   "Laramie",
+   2.4
+  ],
+  [
+   "walk",
+   "Thunder Quad Chair top",
+   "Grand / Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "Gros Ventre 2",
+   "Union Pass Quad top",
+   2.6
+  ],
+  [
+   "walk",
+   "Teton Lift bottom",
+   "Ashley Ridge / Werner",
+   3.0
+  ],
+  [
+   "walk",
+   "Upper Werner",
+   "Apres Vous High Speed Quad top",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Union Pass Traverse",
+   "Moose Creek Quad top",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Union Pass Traverse",
+   "Union Pass Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Togwotee Pass Traverse 3",
+   "Casper Bowl High Speed Quad bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Beaver Tooth 2",
+   "Eagle's Rest top",
+   1.6
+  ],
+  [
+   "walk",
+   "Beaver Tooth 2",
+   "Sweetwater Gondola Lower top",
+   1.8
+  ],
+  [
+   "walk",
+   "Beaver Tooth 2",
+   "Solitude Station Magic Carpet bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Beaver Tooth 2",
+   "Solitude Station Magic Carpet top",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Sundance 6",
+   "Sweetwater Gondola Lower top",
+   3.5
+  ],
+  [
+   "walk",
+   "Rendezvous Trail 4",
+   "Sublette Quad Chair bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Lower Sublette Ridge / Union Pass Traverse",
+   "Moose Creek Quad top",
+   3.0
+  ],
+  [
+   "walk",
+   "Tensleep",
+   "Sublette Quad Chair top",
+   0.8
+  ],
+  [
+   "walk",
+   "Marmot Double bottom",
+   "Tram Line / Amphitheater",
+   1.9
+  ],
+  [
+   "walk",
+   "Marmot Double bottom",
+   "Unnamed run / Gros Ventre 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Marmot Double bottom",
+   "Thunder Quad Chair bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Bridger Gondola bottom",
+   "Aerial Tram bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Bridger Gondola bottom",
+   "Sweetwater Gondola Lower bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Bridger Gondola bottom",
+   "Lower Werner / Unnamed run",
+   2.1
+  ],
+  [
+   "walk",
+   "Bridger Gondola bottom",
+   "Teewinot High Speed Quad bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Bridger Gondola bottom",
+   "Kids Ranch Magic Carpet top",
+   1.8
+  ],
+  [
+   "walk",
+   "Bridger Gondola bottom",
+   "Kids Ranch Magic Carpet bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Beaver Tooth / Solitude Way",
+   2.1
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Pooh Bear",
+   2.4
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Sweetwater Gondola Lower top",
+   1.2
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Antelope Flats 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Antelope Flats 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Solitude Station Magic Carpet top",
+   0.8
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Beaver Tooth / Solitude Way",
+   1.5
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Pooh Bear",
+   3.2
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Sweetwater Gondola Lower top",
+   0.7
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Antelope Flats 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Lower Werner 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Antelope Flats 3",
+   1.1
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Solitude Station Magic Carpet bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet bottom",
+   "Aerial Tram bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet bottom",
+   "Sweetwater Gondola Lower bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet bottom",
+   "Lower Werner / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet bottom",
+   "Unnamed run / Antelope Flats",
+   2.5
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet bottom",
+   "Eagle's Rest bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet bottom",
+   "Teewinot High Speed Quad bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet bottom",
+   "Kids Ranch Magic Carpet top",
+   0.9
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet bottom",
+   "Bridger Gondola bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Sublette Quad Chair bottom",
+   "Unnamed run / Laramie",
+   0.8
+  ],
+  [
+   "walk",
+   "Sublette Quad Chair bottom",
+   "Unnamed run / Rawlins Bowl",
+   1.6
+  ],
+  [
+   "walk",
+   "Sublette Quad Chair bottom",
+   "Laramie / Rendezvous Trail",
+   0.7
+  ],
+  [
+   "walk",
+   "Sublette Quad Chair bottom",
+   "Rendezvous Trail 4",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed run / U.P. Connection",
+   "North Colter Ridge / Unnamed run",
+   4.8
+  ],
+  [
+   "walk",
+   "Tram Line / U.P. Connection",
+   "Unnamed run / U.P. Connection",
+   3.9
+  ],
+  [
+   "walk",
+   "Tram Line / U.P. Connection",
+   "North Colter Ridge / Unnamed run",
+   4.7
+  ],
+  [
+   "walk",
+   "Elk Alley",
+   "Unnamed run / U.P. Connection",
+   5.1
+  ],
+  [
+   "walk",
+   "Elk Alley",
+   "North Colter Ridge / Unnamed run",
+   5.9
+  ],
+  [
+   "walk",
+   "Gros Ventre",
+   "Unnamed run / U.P. Connection",
+   5.3
+  ],
+  [
+   "walk",
+   "Gros Ventre",
+   "North Colter Ridge / Unnamed run",
+   6.1
+  ],
+  [
+   "walk",
+   "Gros Ventre 2",
+   "Unnamed run / U.P. Connection",
+   4.7
+  ],
+  [
+   "walk",
+   "Gros Ventre 2",
+   "North Colter Ridge / Unnamed run",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Lupine Way",
+   "Lupine Way 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Lower Werner / Unnamed run",
+   3.6
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Kids Ranch Magic Carpet top",
+   3.2
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Kids Ranch Magic Carpet bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Aerial Tram bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Bridger Gondola bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Kids Ranch Magic Carpet bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Werner / Unnamed run",
+   "Aerial Tram bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Antelope Flats",
+   "Aerial Tram bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Antelope Flats",
+   "Lower Werner / Unnamed run",
+   3.3
+  ],
+  [
+   "walk",
+   "Eagle's Rest bottom",
+   "Aerial Tram bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Symmetry / St John's",
+   "Crowheart",
+   2.5
+  ],
+  [
+   "walk",
+   "Symmetry / St John's",
+   "Togwotee Pass Traverse / Upper Werner",
+   3.8
+  ],
+  [
+   "walk",
+   "Symmetry / St John's",
+   "Moran / Upper Werner",
+   3.0
+  ],
+  [
+   "walk",
+   "Symmetry / St John's",
+   "Upper Werner",
+   2.3
+  ],
+  [
+   "walk",
+   "Symmetry / St John's",
+   "St John's",
+   3.6
+  ],
+  [
+   "walk",
+   "Upper Werner",
+   "Crowheart",
+   3.2
+  ],
+  [
+   "walk",
+   "Upper Werner",
+   "Symmetry / St John's",
+   2.3
+  ],
+  [
+   "walk",
+   "Upper Werner",
+   "Togwotee Pass Traverse / Upper Werner",
+   4.5
+  ],
+  [
+   "walk",
+   "Upper Werner",
+   "Moran / Upper Werner",
+   3.7
+  ],
+  [
+   "walk",
+   "Upper Werner",
+   "St John's",
+   4.3
+  ],
+  [
+   "walk",
+   "Tensleep",
+   "Hanging Rock",
+   2.3
+  ],
+  [
+   "walk",
+   "Tensleep",
+   "Hanging Rock 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Tensleep",
+   "Tensleep Bowl / Tensleep",
+   3.0
+  ],
+  [
+   "walk",
+   "Tensleep",
+   "Hanging Rock 4",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Bronco",
+   "Werner / Bronco",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Bronco",
+   "Teewinot Gully / Unnamed run",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Bronco",
+   "Unnamed run / Lower Teewinot",
+   4.0
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Teewinot Gully / Unnamed run",
+   4.3
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Unnamed run / Lower Teewinot",
+   3.9
+  ],
+  [
+   "walk",
+   "Werner / Bronco",
+   "Teewinot Gully / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Werner / Bronco",
+   "Unnamed run / Lower Teewinot",
+   2.8
+  ],
+  [
+   "walk",
+   "Teewinot Gully / Unnamed run",
+   "Werner / Bronco",
+   3.1
+  ],
+  [
+   "walk",
+   "Teewinot Gully / Unnamed run",
+   "Unnamed run / Lower Teewinot",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Lower Teewinot",
+   "Werner / Bronco",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Lower Teewinot",
+   "Teewinot Gully / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Lower Sundance",
+   "Beaver Tooth / Solitude Way",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Sundance",
+   "Pooh Bear / Unnamed run",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Sundance",
+   "Sweetwater Gondola Lower top",
+   3.7
+  ],
+  [
+   "walk",
+   "Lower Sundance",
+   "Beaver Tooth 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Sundance",
+   "Lower Sundance 6",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Sundance",
+   "Solitude Station Magic Carpet bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Lower Sundance",
+   "Solitude Station Magic Carpet top",
+   4.3
+  ],
+  [
+   "walk",
+   "Jackson Face 2",
+   "Beaver Tooth / Solitude Way",
+   3.4
+  ],
+  [
+   "walk",
+   "Jackson Face 2",
+   "Pooh Bear / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Jackson Face 2",
+   "Lower Sundance",
+   2.7
+  ],
+  [
+   "walk",
+   "Jackson Face 2",
+   "Beaver Tooth 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Jackson Face 2",
+   "Lower Sundance 6",
+   3.2
+  ],
+  [
+   "walk",
+   "Jackson Face 2",
+   "Solitude Station Magic Carpet bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Jackson Face 2",
+   "Solitude Station Magic Carpet top",
+   4.0
+  ],
+  [
+   "walk",
+   "Beaver Tooth 2",
+   "Beaver Tooth / Solitude Way",
+   2.7
+  ],
+  [
+   "walk",
+   "Beaver Tooth 2",
+   "Pooh Bear / Unnamed run",
+   2.6
+  ],
+  [
+   "walk",
+   "Beaver Tooth 2",
+   "Lower Sundance",
+   2.9
+  ],
+  [
+   "walk",
+   "Beaver Tooth 2",
+   "Lower Sundance 6",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Werner / Unnamed run",
+   "Unnamed run / Antelope Flats",
+   3.3
+  ],
+  [
+   "walk",
+   "Eagle's Rest bottom",
+   "Unnamed lift bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Bronco / Lower Teewinot",
+   "Sweetwater Gondola Lower bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Bronco / Lower Teewinot",
+   "Lower Werner / Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Bronco / Lower Teewinot",
+   "Unnamed run / Antelope Flats",
+   4.0
+  ],
+  [
+   "walk",
+   "Bronco / Lower Teewinot",
+   "Eagle's Rest bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Bronco / Lower Teewinot",
+   "Teewinot High Speed Quad bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Bronco / Lower Teewinot",
+   "Kids Ranch Magic Carpet top",
+   5.4
+  ],
+  [
+   "walk",
+   "Bronco / Lower Teewinot",
+   "Bridger Gondola bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Bronco / Lower Teewinot",
+   "Kids Ranch Magic Carpet bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet top",
+   "Unnamed lift bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Sweetwater Gondola Lower bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Eagle's Rest bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Teewinot High Speed Quad bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Kids Ranch Magic Carpet top",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Bridger Gondola bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Kids Ranch Magic Carpet bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Werner / Bronco",
+   "Lower Werner",
+   2.6
+  ],
+  [
+   "walk",
+   "Werner / Bronco",
+   "Antelope Flats",
+   3.3
+  ],
+  [
+   "walk",
+   "Werner / Bronco",
+   "Lower Werner 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Werner / Bronco",
+   "Lower Werner 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Werner",
+   "Apres Vous High Speed Quad bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Werner",
+   "Werner / Bronco",
+   2.3
+  ],
+  [
+   "walk",
+   "Werner",
+   "Lower Werner",
+   2.4
+  ],
+  [
+   "walk",
+   "Werner",
+   "Antelope Flats",
+   3.2
+  ],
+  [
+   "walk",
+   "Werner",
+   "Lower Werner 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Werner",
+   "Lower Werner 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Werner",
+   "Teewinot Gully / Unnamed run",
+   5.3
+  ],
+  [
+   "walk",
+   "Werner",
+   "Unnamed run / Lower Teewinot",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Werner",
+   "Apres Vous High Speed Quad bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Werner",
+   "Werner / Bronco",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Werner",
+   "Antelope Flats",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower Werner",
+   "Lower Werner 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower Werner",
+   "Lower Werner 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Werner",
+   "Teewinot Gully / Unnamed run",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower Werner",
+   "Unnamed run / Lower Teewinot",
+   5.3
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Apres Vous High Speed Quad bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Werner / Bronco",
+   3.3
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Lower Werner",
+   3.5
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Lower Werner 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Lower Werner 3",
+   5.1
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Teewinot Gully / Unnamed run",
+   6.4
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Unnamed run / Lower Teewinot",
+   6.0
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower bottom",
+   "Unnamed lift top",
+   3.0
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower bottom",
+   "Eagle's Rest bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower bottom",
+   "Unnamed lift bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower bottom",
+   "Unnamed run / Antelope Flats",
+   2.6
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad bottom",
+   "Unnamed lift top",
+   3.4
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad bottom",
+   "Eagle's Rest bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad bottom",
+   "Unnamed lift bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad bottom",
+   "Unnamed run / Antelope Flats",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Aerial Tram bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Bridger Gondola bottom",
+   "Unnamed lift top",
+   3.8
+  ],
+  [
+   "walk",
+   "Bridger Gondola bottom",
+   "Eagle's Rest bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Bridger Gondola bottom",
+   "Unnamed lift bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Bridger Gondola bottom",
+   "Unnamed run / Antelope Flats",
+   3.3
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet bottom",
+   "Unnamed lift top",
+   3.9
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet bottom",
+   "Unnamed lift bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Unnamed lift top",
+   5.3
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Eagle's Rest bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Unnamed lift bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad bottom",
+   "Teewinot High Speed Quad top",
+   3.4
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad bottom",
+   "Lower Werner",
+   4.7
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad bottom",
+   "Antelope Flats",
+   5.5
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad bottom",
+   "Lower Werner 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Apres Vous High Speed Quad bottom",
+   "Lower Werner 3",
+   6.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Bronco",
+   "Teewinot High Speed Quad top",
+   6.8
+  ],
+  [
+   "walk",
+   "Teewinot Gully / Unnamed run",
+   "Teewinot High Speed Quad top",
+   4.3
+  ],
+  [
+   "walk",
+   "Teewinot Gully / Unnamed run",
+   "Lower Werner",
+   5.7
+  ],
+  [
+   "walk",
+   "Teewinot Gully / Unnamed run",
+   "Antelope Flats",
+   6.5
+  ],
+  [
+   "walk",
+   "Teewinot Gully / Unnamed run",
+   "Lower Werner 2",
+   6.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Lower Teewinot",
+   "Teewinot High Speed Quad top",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Lower Teewinot",
+   "Lower Werner",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Lower Teewinot",
+   "Antelope Flats",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Lower Teewinot",
+   "Lower Werner 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Gannett / South Pass Traverse",
+   "Tram Line / Amphitheater",
+   3.8
+  ],
+  [
+   "walk",
+   "Gannett / South Pass Traverse",
+   "Marmot Double bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Eagle's Rest bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Kids Ranch Magic Carpet top",
+   5.4
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Eagle's Rest bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Kids Ranch Magic Carpet top",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Lower Sundance 5",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower Werner / Unnamed run",
+   "Lower Sundance 5",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Antelope Flats",
+   "Lower Sundance 5",
+   4.4
+  ],
+  [
+   "walk",
+   "Pooh Bear",
+   "Sweetwater Gondola Lower bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Pooh Bear",
+   "Unnamed lift top",
+   5.2
+  ],
+  [
+   "walk",
+   "Pooh Bear",
+   "Lower Werner / Unnamed run",
+   4.6
+  ],
+  [
+   "walk",
+   "Pooh Bear",
+   "Unnamed run / Antelope Flats",
+   3.6
+  ],
+  [
+   "walk",
+   "Pooh Bear",
+   "Teewinot High Speed Quad bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Pooh Bear",
+   "Lower Sundance 5",
+   4.5
+  ],
+  [
+   "walk",
+   "Pooh Bear",
+   "Bridger Gondola bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Pooh Bear",
+   "Kids Ranch Magic Carpet bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Pooh Bear",
+   "Aerial Tram bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Pooh Bear",
+   "Unnamed lift bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Lower Sundance 5",
+   "Sweetwater Gondola Lower bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Sundance 5",
+   "Unnamed lift top",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower Sundance 5",
+   "Lower Werner / Unnamed run",
+   5.5
+  ],
+  [
+   "walk",
+   "Lower Sundance 5",
+   "Unnamed run / Antelope Flats",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Sundance 5",
+   "Teewinot High Speed Quad bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Lower Sundance 5",
+   "Kids Ranch Magic Carpet top",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Sundance 5",
+   "Bridger Gondola bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Lower Sundance 5",
+   "Kids Ranch Magic Carpet bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet top",
+   "Lower Sundance 5",
+   3.9
+  ],
+  [
+   "walk",
+   "Kids Ranch Magic Carpet bottom",
+   "Lower Sundance 5",
+   4.5
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower bottom",
+   "Lower Sundance 5",
+   5.0
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Sweetwater Gondola Lower bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Unnamed run / Antelope Flats",
+   6.0
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Kids Ranch Magic Carpet bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Unnamed run / Antelope Flats",
+   6.8
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Kids Ranch Magic Carpet bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Lower Sublette Ridge / Union Pass Traverse",
+   "Union Pass Quad bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Unnamed run / Antelope Flats",
+   4.8
+  ],
+  [
+   "walk",
+   "Nez Perce / Unnamed run",
+   "Wide Open / Togwotee Pass Traverse",
+   4.4
+  ],
+  [
+   "walk",
+   "Nez Perce / Unnamed run",
+   "Sleeping Indian / Beaver Tooth",
+   3.2
+  ],
+  [
+   "walk",
+   "Nez Perce / Unnamed run",
+   "Togwotee Pass Traverse 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Nez Perce / Unnamed run",
+   "Nez Perce",
+   2.9
+  ],
+  [
+   "walk",
+   "Wide Open / Togwotee Pass Traverse",
+   "Nez Perce / Unnamed run",
+   4.4
+  ],
+  [
+   "walk",
+   "Wide Open / Togwotee Pass Traverse",
+   "Sleeping Indian / Beaver Tooth",
+   5.2
+  ],
+  [
+   "walk",
+   "Wide Open / Togwotee Pass Traverse",
+   "Casper Bowl High Speed Quad bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Wide Open / Togwotee Pass Traverse",
+   "Togwotee Pass Traverse 3",
+   5.5
+  ],
+  [
+   "walk",
+   "Wide Open / Togwotee Pass Traverse",
+   "Nez Perce",
+   6.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Sundog",
+   "Nez Perce / Unnamed run",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Sundog",
+   "Wide Open / Togwotee Pass Traverse",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Sundog",
+   "Sleeping Indian / Beaver Tooth",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Sundog",
+   "Casper Bowl High Speed Quad bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Sundog",
+   "Togwotee Pass Traverse 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Sundog",
+   "Nez Perce",
+   5.2
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Nez Perce / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Wide Open / Togwotee Pass Traverse",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Sleeping Indian / Beaver Tooth",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Casper Bowl High Speed Quad bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Togwotee Pass Traverse 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Nez Perce",
+   6.0
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Sweetwater Gondola Lower top",
+   5.2
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Solitude Station Magic Carpet top",
+   4.8
+  ],
+  [
+   "walk",
+   "Werner / Bronco",
+   "Sweetwater Gondola Lower top",
+   6.4
+  ],
+  [
+   "walk",
+   "Werner / Bronco",
+   "Solitude Station Magic Carpet top",
+   6.0
+  ],
+  [
+   "walk",
+   "Werner",
+   "Sweetwater Gondola Lower top",
+   6.2
+  ],
+  [
+   "walk",
+   "Werner",
+   "Solitude Station Magic Carpet top",
+   5.9
+  ],
+  [
+   "walk",
+   "Lower Werner",
+   "Sweetwater Gondola Lower top",
+   6.5
+  ],
+  [
+   "walk",
+   "Lower Werner",
+   "Solitude Station Magic Carpet top",
+   6.2
+  ],
+  [
+   "walk",
+   "Nez Perce / Unnamed run",
+   "Nez Perce / Lower Sundance",
+   4.2
+  ],
+  [
+   "walk",
+   "Nez Perce / Unnamed run",
+   "Lower Sundance / Sundance",
+   4.6
+  ],
+  [
+   "walk",
+   "Nez Perce / Unnamed run",
+   "Lower Sundance 2",
+   5.2
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Upper top",
+   "Nez Perce / Lower Sundance",
+   5.2
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Upper top",
+   "Lower Sundance / Sundance",
+   5.6
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Upper top",
+   "Lower Sundance 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Togwotee Pass Traverse 3",
+   "Nez Perce / Lower Sundance",
+   3.4
+  ],
+  [
+   "walk",
+   "Togwotee Pass Traverse 3",
+   "Lower Sundance / Sundance",
+   3.8
+  ],
+  [
+   "walk",
+   "Togwotee Pass Traverse 3",
+   "Lower Sundance 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Togwotee Pass Traverse 3",
+   "Nez Perce",
+   2.1
+  ],
+  [
+   "walk",
+   "Beaver Tooth / Solitude Way",
+   "Pooh Bear / Unnamed run",
+   3.2
+  ],
+  [
+   "walk",
+   "Beaver Tooth / Solitude Way",
+   "Antelope Flats 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Beaver Tooth / Solitude Way",
+   "Lower Werner 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Beaver Tooth / Solitude Way",
+   "Antelope Flats 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Beaver Tooth / Solitude Way",
+   "Lower Sundance 6",
+   4.3
+  ],
+  [
+   "walk",
+   "Pooh Bear / Unnamed run",
+   "Beaver Tooth / Solitude Way",
+   3.2
+  ],
+  [
+   "walk",
+   "Pooh Bear / Unnamed run",
+   "Antelope Flats 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Pooh Bear / Unnamed run",
+   "Lower Werner 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Pooh Bear / Unnamed run",
+   "Antelope Flats 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Pooh Bear / Unnamed run",
+   "Lower Sundance 6",
+   5.8
+  ],
+  [
+   "walk",
+   "Eagle's Rest top",
+   "Antelope Flats 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Eagle's Rest top",
+   "Lower Werner 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Eagle's Rest top",
+   "Antelope Flats 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Beaver Tooth / Solitude Way",
+   3.9
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Pooh Bear / Unnamed run",
+   5.4
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Antelope Flats 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Antelope Flats 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Lower Sundance 6",
+   6.5
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Solitude Station Magic Carpet bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Werner 2",
+   "Beaver Tooth / Solitude Way",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Werner 2",
+   "Pooh Bear / Unnamed run",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower Werner 2",
+   "Antelope Flats 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Lower Werner 2",
+   "Lower Werner 3",
+   4.9
+  ],
+  [
+   "walk",
+   "Lower Werner 2",
+   "Antelope Flats 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Werner 2",
+   "Lower Sundance 6",
+   6.5
+  ],
+  [
+   "walk",
+   "Lower Werner 3",
+   "Beaver Tooth / Solitude Way",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Werner 3",
+   "Pooh Bear / Unnamed run",
+   5.2
+  ],
+  [
+   "walk",
+   "Lower Werner 3",
+   "Antelope Flats 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Werner 3",
+   "Antelope Flats 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Werner 3",
+   "Lower Sundance 6",
+   6.2
+  ],
+  [
+   "walk",
+   "Antelope Flats 3",
+   "Beaver Tooth / Solitude Way",
+   2.6
+  ],
+  [
+   "walk",
+   "Antelope Flats 3",
+   "Pooh Bear / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Antelope Flats 3",
+   "Antelope Flats 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Antelope Flats 3",
+   "Lower Werner 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Antelope Flats 3",
+   "Lower Sundance 6",
+   5.2
+  ],
+  [
+   "walk",
+   "Jackson Face 2",
+   "Antelope Flats 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Jackson Face 2",
+   "Lower Werner 3",
+   6.1
+  ],
+  [
+   "walk",
+   "Jackson Face 2",
+   "Antelope Flats 3",
+   5.1
+  ],
+  [
+   "walk",
+   "Beaver Tooth 2",
+   "Antelope Flats 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Beaver Tooth 2",
+   "Lower Werner 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Beaver Tooth 2",
+   "Antelope Flats 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower Sundance 6",
+   "Beaver Tooth / Solitude Way",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Sundance 6",
+   "Pooh Bear / Unnamed run",
+   5.8
+  ],
+  [
+   "walk",
+   "Lower Sundance 6",
+   "Antelope Flats 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower Sundance 6",
+   "Lower Werner 3",
+   6.2
+  ],
+  [
+   "walk",
+   "Lower Sundance 6",
+   "Antelope Flats 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Lower Sundance 6",
+   "Solitude Station Magic Carpet bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Sundance 6",
+   "Solitude Station Magic Carpet top",
+   4.1
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Pooh Bear / Unnamed run",
+   3.6
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Lower Werner 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet bottom",
+   "Lower Sundance 6",
+   4.7
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Pooh Bear / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Solitude Station Magic Carpet top",
+   "Lower Sundance 6",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Sundance",
+   "Antelope Flats 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower Sundance",
+   "Lower Werner 3",
+   6.4
+  ],
+  [
+   "walk",
+   "Lower Sundance",
+   "Antelope Flats 3",
+   5.4
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Beaver Tooth / Solitude Way",
+   6.0
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Solitude Station Magic Carpet bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Antelope Flats 3",
+   5.9
+  ],
+  [
+   "walk",
+   "Werner / Bronco",
+   "Solitude Station Magic Carpet bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Werner",
+   "Solitude Station Magic Carpet bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Lower Werner",
+   "Solitude Station Magic Carpet bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad bottom",
+   "Lower Sundance 5",
+   5.9
+  ],
+  [
+   "walk",
+   "Bridger Gondola bottom",
+   "Lower Sundance 5",
+   5.7
+  ],
+  [
+   "walk",
+   "Laramie / Laramie Bowl",
+   "Jerry's Way / Horn's Hole Traverse",
+   3.7
+  ],
+  [
+   "walk",
+   "Laramie / Laramie Bowl",
+   "Horn's Hole Traverse / Grand Traverse",
+   2.9
+  ],
+  [
+   "walk",
+   "Laramie / Laramie Bowl",
+   "Laramie",
+   3.6
+  ],
+  [
+   "walk",
+   "Laramie / Laramie Bowl",
+   "Grand / Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "Grand / Unnamed run",
+   "Laramie / Laramie Bowl",
+   1.9
+  ],
+  [
+   "walk",
+   "Grand / Unnamed run",
+   "Jerry's Way / Horn's Hole Traverse",
+   3.2
+  ],
+  [
+   "walk",
+   "Grand / Unnamed run",
+   "Horn's Hole Traverse / Grand Traverse",
+   2.3
+  ],
+  [
+   "walk",
+   "Grand / Unnamed run",
+   "Laramie",
+   3.0
+  ],
+  [
+   "walk",
+   "Ashley Ridge",
+   "Ashley Ridge / Werner",
+   6.1
+  ],
+  [
+   "walk",
+   "Werner 3",
+   "Ashley Ridge / Werner",
+   4.3
+  ],
+  [
+   "walk",
+   "Tram Line / Amphitheater",
+   "Unnamed run / Gros Ventre 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Gros Ventre 2",
+   "Tram Line / Amphitheater",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Gros Ventre 2",
+   "Thunder Quad Chair bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Tram Line / Amphitheater",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Unnamed run / Gros Ventre 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Thunder Quad Chair bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Thunder / Amphitheater",
+   "Tram Line / Amphitheater",
+   5.3
+  ],
+  [
+   "walk",
+   "Thunder / Amphitheater",
+   "Unnamed run / Gros Ventre 2",
+   6.6
+  ],
+  [
+   "walk",
+   "Thunder / Amphitheater",
+   "Thunder Quad Chair bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Thunder Quad Chair bottom",
+   "Unnamed run / Gros Ventre 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Beaver Tooth / Solitude Way",
+   "Pooh Bear",
+   4.5
+  ],
+  [
+   "walk",
+   "Beaver Tooth / Solitude Way",
+   "Eagle's Rest bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Pooh Bear / Unnamed run",
+   "Pooh Bear",
+   5.5
+  ],
+  [
+   "walk",
+   "Eagle's Rest top",
+   "Pooh Bear",
+   5.8
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower top",
+   "Pooh Bear",
+   3.7
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower top",
+   "Eagle's Rest bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Sweetwater Gondola Lower top",
+   "Kids Ranch Magic Carpet top",
+   6.6
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Beaver Tooth / Solitude Way",
+   2.9
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Pooh Bear",
+   3.2
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Sweetwater Gondola Lower top",
+   2.0
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Antelope Flats 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Solitude Station Magic Carpet top",
+   1.6
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Eagle's Rest bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Kids Ranch Magic Carpet top",
+   6.2
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Unnamed run / Antelope Flats",
+   6.8
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Kids Ranch Magic Carpet bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Pooh Bear / Unnamed run",
+   4.4
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Lower Werner 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Antelope Flats 2",
+   "Lower Sundance 6",
+   5.5
+  ],
+  [
+   "walk",
+   "Lower Werner 2",
+   "Pooh Bear",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower Werner 3",
+   "Pooh Bear",
+   4.9
+  ],
+  [
+   "walk",
+   "Lower Werner 3",
+   "Eagle's Rest bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Antelope Flats 3",
+   "Pooh Bear",
+   3.4
+  ],
+  [
+   "walk",
+   "Antelope Flats 3",
+   "Eagle's Rest bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Antelope Flats 3",
+   "Kids Ranch Magic Carpet top",
+   6.4
+  ],
+  [
+   "walk",
+   "Beaver Tooth 2",
+   "Pooh Bear",
+   5.5
+  ],
+  [
+   "walk",
+   "Antelope Flats",
+   "Pooh Bear",
+   6.1
+  ],
+  [
+   "walk",
+   "Teewinot High Speed Quad top",
+   "Antelope Flats 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Lower Sundance 5",
+   "Aerial Tram bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Laramie",
+   "Unnamed run / Rawlins Bowl",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Laramie",
+   "Laramie / Rendezvous Trail",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Laramie",
+   "Rendezvous Trail 4",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Rawlins Bowl",
+   "Unnamed run / Laramie",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Rawlins Bowl",
+   "Laramie / Rendezvous Trail",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Rawlins Bowl",
+   "Rendezvous Trail 4",
+   2.6
+  ],
+  [
+   "walk",
+   "Laramie / Rendezvous Trail",
+   "Unnamed run / Laramie",
+   1.5
+  ],
+  [
+   "walk",
+   "Laramie / Rendezvous Trail",
+   "Unnamed run / Rawlins Bowl",
+   2.3
+  ],
+  [
+   "walk",
+   "Laramie / Rendezvous Trail",
+   "Rendezvous Trail 4",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Grand",
+   "Unnamed run / Laramie",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Grand",
+   "Unnamed run / Rawlins Bowl",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Grand",
+   "Laramie / Rendezvous Trail",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Grand",
+   "Rendezvous Trail 4",
+   3.3
+  ],
+  [
+   "walk",
+   "Rendezvous Trail 4",
+   "Unnamed run / Laramie",
+   1.8
+  ],
+  [
+   "walk",
+   "Rendezvous Trail 4",
+   "Unnamed run / Rawlins Bowl",
+   2.6
+  ],
+  [
+   "walk",
+   "Rendezvous Trail 4",
+   "Laramie / Rendezvous Trail",
+   1.7
+  ]
+ ],
+ "base": "Apres Vous High Speed Quad bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Wyoming",
+  "total_lifts": "16",
+  "downhill_trails": "190",
+  "elevation_low_m": 1934.0,
+  "elevation_high_m": 3183.0,
+  "vertical_drop_m": 1249.0,
+  "website": ""
+ }
+}

@@ -1,0 +1,3552 @@
+{
+ "name": "Aspen Snowmass",
+ "source": "OpenSkiMap ski area ab35349ba4e03d734a486561e99d5be0b772449f",
+ "origin_lonlat": [
+  -106.95107674847938,
+  39.18991898940093
+ ],
+ "nodes": {
+  "Monkshood / Wineskin": [
+   -988,
+   -58,
+   3016.1
+  ],
+  "Monkshood / Lower Banzai": [
+   -781,
+   437,
+   2912.2
+  ],
+  "Mick's Gully": [
+   -1714,
+   -2129,
+   3596.3
+  ],
+  "Mick's Gully / Dallas Freeway": [
+   -1299,
+   -340,
+   3071.9
+  ],
+  "Scooper (Upper) / Lunchline (Lower)": [
+   -1326,
+   660,
+   2908.9
+  ],
+  "Scooper (Upper) / Hal's Hollow (Upper)": [
+   -1079,
+   955,
+   2840.9
+  ],
+  "Cirque T-Bar top": [
+   -1166,
+   -3281,
+   3816.4
+  ],
+  "High Pass / Reidar's": [
+   -53,
+   -2251,
+   3607.3
+  ],
+  "Wildcat / Campground (Upper)": [
+   -1937,
+   -119,
+   3205.8
+  ],
+  "Wildcat / Unnamed run": [
+   -1894,
+   623,
+   2915.0
+  ],
+  "Funnel": [
+   202,
+   2002,
+   2577.7
+  ],
+  "Powderhorn / Sneaky's": [
+   -1941,
+   -550,
+   3230.1
+  ],
+  "Campground bottom": [
+   -2576,
+   1897,
+   2513.2
+  ],
+  "Coney Express top": [
+   -1237,
+   8,
+   3091.4
+  ],
+  "Cabin": [
+   -1010,
+   415,
+   2977.8
+  ],
+  "Lower Banzai / Lunchline (Upper)": [
+   -949,
+   251,
+   3000.5
+  ],
+  "Lower Banzai / Fanny Hill": [
+   -256,
+   1643,
+   2651.0
+  ],
+  "Wildcat (Lower) / Unnamed run": [
+   -1861,
+   663,
+   2897.3
+  ],
+  "Wildcat (Lower) / Slot (Lower)": [
+   -1925,
+   1368,
+   2770.8
+  ],
+  "Funnel / Funnel Bypass": [
+   1238,
+   148,
+   2949.4
+  ],
+  "Funnel / Fanny Hill": [
+   152,
+   2010,
+   2580.8
+  ],
+  "Wineskin / Timberline": [
+   -1451,
+   -1456,
+   3431.1
+  ],
+  "Big Burn top": [
+   -1693,
+   -2213,
+   3615.9
+  ],
+  "Shear Bliss / Trestle": [
+   -644,
+   -55,
+   2983.9
+  ],
+  "Wineskin": [
+   -1367,
+   -1229,
+   3368.3
+  ],
+  "Whispering Jesse / Timberline": [
+   -994,
+   -152,
+   3022.5
+  ],
+  "Lunchline (Upper) / Max Park": [
+   -1470,
+   -364,
+   3111.5
+  ],
+  "Lunchline (Upper)": [
+   -1009,
+   322,
+   2993.9
+  ],
+  "Cirque T-Bar bottom": [
+   -1503,
+   -2118,
+   3580.5
+  ],
+  "Naked Lady / Turkey Trot": [
+   37,
+   -949,
+   3191.2
+  ],
+  "Naked Lady / Lunkerville": [
+   439,
+   1001,
+   2749.2
+  ],
+  "Eddy Out / Funnel Bypass": [
+   1249,
+   529,
+   2852.7
+  ],
+  "Funnel 2": [
+   556,
+   1603,
+   2630.6
+  ],
+  "Creekside (Lower) / West Fork": [
+   1883,
+   1559,
+   2601.5
+  ],
+  "Two Creeks bottom": [
+   2630,
+   2530,
+   2473.6
+  ],
+  "Sneaky's / Max Park": [
+   -1814,
+   -533,
+   3200.9
+  ],
+  "Alpine Springs top": [
+   -44,
+   -1022,
+   3204.9
+  ],
+  "Elk Camp bottom": [
+   1374,
+   -175,
+   2976.6
+  ],
+  "Blue Grouse / Lunchline (Upper)": [
+   -1093,
+   413,
+   2974.8
+  ],
+  "Blue Grouse": [
+   -740,
+   1063,
+   2806.4
+  ],
+  "Slot (Lower) / Unnamed run": [
+   -1722,
+   788,
+   2880.0
+  ],
+  "Turkey Trot": [
+   1125,
+   -349,
+   3008.5
+  ],
+  "Drumstick / Adams' Avenue (Upper)": [
+   985,
+   159,
+   2939.4
+  ],
+  "Shear Bliss": [
+   -994,
+   -1261,
+   3359.3
+  ],
+  "West Face / Garrett Gulch": [
+   -1087,
+   -1004,
+   3269.5
+  ],
+  "Creekside (Upper) / Funnel Bypass": [
+   1340,
+   -25,
+   2972.2
+  ],
+  "Creekside (Upper) / Cascade (Upper)": [
+   1798,
+   1195,
+   2687.0
+  ],
+  "Gunner's View / Bear Bottom": [
+   1809,
+   -2105,
+   3352.4
+  ],
+  "Gunner's View / Grey Wolf": [
+   1446,
+   -519,
+   3027.5
+  ],
+  "Turkey Trot 2": [
+   772,
+   -770,
+   3085.7
+  ],
+  "Turkey Trot / Sandy Park": [
+   1044,
+   -716,
+   3034.3
+  ],
+  "Fast Draw / Banzai Ridge": [
+   -1653,
+   -168,
+   3196.3
+  ],
+  "Fast Draw / Ute Chute": [
+   -1428,
+   196,
+   3027.7
+  ],
+  "Log Deck / Lunkerville": [
+   1,
+   -809,
+   3174.0
+  ],
+  "Log Deck / Lunkerville 2": [
+   56,
+   212,
+   2931.6
+  ],
+  "Fanny Hill / Dawdler": [
+   -430,
+   1581,
+   2674.8
+  ],
+  "Unnamed run / Bull Run": [
+   1834,
+   -1231,
+   3187.7
+  ],
+  "Unnamed run / Grey Wolf": [
+   1565,
+   -853,
+   3082.4
+  ],
+  "Velvet Falls (Upper) / Lunchline (Lower)": [
+   -1184,
+   543,
+   2946.3
+  ],
+  "Velvet Falls (Upper) / Velvet Falls (Lower)": [
+   -864,
+   1017,
+   2812.4
+  ],
+  "Bottoms Up / Adams' Avenue (Upper)": [
+   1110,
+   146,
+   2949.9
+  ],
+  "Funnel 3": [
+   1016,
+   608,
+   2822.3
+  ],
+  "Naked Lady": [
+   517,
+   511,
+   2834.8
+  ],
+  "Fanny Hill": [
+   -113,
+   1757,
+   2627.1
+  ],
+  "Shear Bliss 2": [
+   -693,
+   -511,
+   3115.5
+  ],
+  "Camp Three / Green Cabin (Lower)": [
+   -478,
+   -248,
+   3002.0
+  ],
+  "Velvet Falls (Upper)": [
+   -1157,
+   586,
+   2944.8
+  ],
+  "Ute Chute / Banzai Ridge": [
+   -1550,
+   -130,
+   3173.1
+  ],
+  "Ute Chute / Moonshine": [
+   -1309,
+   427,
+   2950.8
+  ],
+  "Turkey Trot 3": [
+   221,
+   -897,
+   3178.0
+  ],
+  "Funnel 4": [
+   741,
+   1191,
+   2700.3
+  ],
+  "Sam's Knob top": [
+   -1839,
+   -268,
+   3235.2
+  ],
+  "Alpine Springs bottom": [
+   469,
+   1075,
+   2739.2
+  ],
+  "High Alpine top": [
+   -116,
+   -2335,
+   3625.7
+  ],
+  "Reidar's / Coffee Pot": [
+   -166,
+   -1009,
+   3202.4
+  ],
+  "Dawdler": [
+   -1472,
+   929,
+   2871.0
+  ],
+  "Dawdler 2": [
+   -1470,
+   1215,
+   2813.5
+  ],
+  "Log Deck": [
+   31,
+   -693,
+   3163.6
+  ],
+  "Log Deck 2": [
+   125,
+   19,
+   2970.5
+  ],
+  "Wineskin 2": [
+   -1034,
+   -111,
+   3027.4
+  ],
+  "Velvet Falls (Lower) / Dawdler": [
+   -549,
+   1531,
+   2696.4
+  ],
+  "Green Cabin (Upper) / Green Cabin (Lower)": [
+   -411,
+   -642,
+   3112.0
+  ],
+  "Shear Bliss 3": [
+   -1128,
+   -1539,
+   3433.7
+  ],
+  "Shear Bliss 4": [
+   -840,
+   -921,
+   3255.7
+  ],
+  "Turkey Trot 4": [
+   1427,
+   -251,
+   2986.9
+  ],
+  "Funnel 5": [
+   1117,
+   517,
+   2840.2
+  ],
+  "No Name / Galavant": [
+   838,
+   707,
+   2809.0
+  ],
+  "Funnel Bypass": [
+   1254,
+   221,
+   2937.0
+  ],
+  "Lunchline (Lower) / Coney Glade": [
+   -1158,
+   489,
+   2959.4
+  ],
+  "Sam's Knob bottom": [
+   -1622,
+   881,
+   2871.6
+  ],
+  "Funnel 6": [
+   457,
+   1829,
+   2603.9
+  ],
+  "Assay Hill bottom": [
+   637,
+   2248,
+   2537.5
+  ],
+  "Campground (Upper) / Unnamed run": [
+   -2117,
+   598,
+   2946.6
+  ],
+  "Lunchline (Upper) 2": [
+   -1259,
+   -115,
+   3077.1
+  ],
+  "Naked Lady 2": [
+   535,
+   725,
+   2788.2
+  ],
+  "Campground (Upper)": [
+   -2110,
+   291,
+   3065.6
+  ],
+  "Powderhorn": [
+   -2638,
+   1751,
+   2523.5
+  ],
+  "Lunchline (Lower)": [
+   -1387,
+   743,
+   2892.5
+  ],
+  "Dawdler 3": [
+   -820,
+   1423,
+   2733.9
+  ],
+  "Banzai Ridge": [
+   -1419,
+   -66,
+   3131.5
+  ],
+  "Wineskin 3": [
+   -1128,
+   -241,
+   3039.4
+  ],
+  "Trestle / Green Cabin (Lower)": [
+   -435,
+   50,
+   2949.6
+  ],
+  "Sandy Park / Bear Bottom": [
+   1856,
+   -2207,
+   3376.5
+  ],
+  "Promenade / Zugspitze": [
+   -1763,
+   -111,
+   3188.0
+  ],
+  "Moonshine": [
+   -1402,
+   544,
+   2925.9
+  ],
+  "Pipeline / Sunnyside": [
+   -1650,
+   -252,
+   3187.9
+  ],
+  "Turkey Trot 5": [
+   106,
+   -928,
+   3183.3
+  ],
+  "Creekside (Upper)": [
+   1795,
+   1075,
+   2705.9
+  ],
+  "Coney Express bottom": [
+   -39,
+   1845,
+   2612.6
+  ],
+  "Hal's Hollow (Lower)": [
+   -862,
+   1362,
+   2741.7
+  ],
+  "Eddy Out": [
+   1132,
+   1060,
+   2798.0
+  ],
+  "Granite / Green Cabin (Lower)": [
+   -448,
+   -123,
+   2978.7
+  ],
+  "Lodgepole": [
+   197,
+   -98,
+   2993.8
+  ],
+  "Lunkerville": [
+   281,
+   558,
+   2840.9
+  ],
+  "Banzai Ridge 2": [
+   -1785,
+   -230,
+   3228.7
+  ],
+  "The Edge": [
+   158,
+   -1078,
+   3232.9
+  ],
+  "Turkey Trot 6": [
+   580,
+   -883,
+   3149.2
+  ],
+  "Free Fall / Garrett Gulch": [
+   -936,
+   -705,
+   3137.9
+  ],
+  "Elk Camp top": [
+   2085,
+   -2304,
+   3455.1
+  ],
+  "Gunner's View": [
+   1436,
+   -809,
+   3064.6
+  ],
+  "Scooper top": [
+   -1237,
+   965,
+   2862.2
+  ],
+  "Dawdler 4": [
+   -917,
+   1394,
+   2736.6
+  ],
+  "Shear Bliss 5": [
+   -1398,
+   -2095,
+   3573.8
+  ],
+  "Trestle": [
+   -826,
+   -129,
+   2989.6
+  ],
+  "Granite": [
+   -293,
+   -891,
+   3150.4
+  ],
+  "Lower Banzai": [
+   -418,
+   1287,
+   2707.5
+  ],
+  "Sandy Park": [
+   1326,
+   -1446,
+   3162.2
+  ],
+  "Sandy Park 2": [
+   1223,
+   -1128,
+   3093.9
+  ],
+  "East Branch": [
+   2264,
+   1376,
+   2627.5
+  ],
+  "Lunchline (Upper) 3": [
+   -1200,
+   -106,
+   3062.8
+  ],
+  "Coffee Pot": [
+   349,
+   996,
+   2759.1
+  ],
+  "Funnel 7": [
+   668,
+   1388,
+   2665.2
+  ],
+  "Slot (Lower)": [
+   -2026,
+   1510,
+   2723.2
+  ],
+  "Slot (Lower) 2": [
+   -2230,
+   1907,
+   2566.6
+  ],
+  "Shear Bliss 6": [
+   -710,
+   -589,
+   3141.3
+  ],
+  "Garrett Gulch": [
+   -825,
+   -335,
+   3026.4
+  ],
+  "Bull Run": [
+   2122,
+   -2324,
+   3455.6
+  ],
+  "Grey Wolf": [
+   1460,
+   -389,
+   3007.7
+  ],
+  "Sneaky's": [
+   -1950,
+   -821,
+   3294.9
+  ],
+  "Campground top": [
+   -2160,
+   602,
+   2949.6
+  ],
+  "Village Express bottom": [
+   100,
+   2037,
+   2581.3
+  ],
+  "Assay Hill top": [
+   507,
+   1840,
+   2598.7
+  ],
+  "High Alpine bottom": [
+   -397,
+   -719,
+   3116.4
+  ],
+  "Elk Camp Gondola bottom": [
+   228,
+   2060,
+   2571.0
+  ],
+  "Elk Camp Gondola top": [
+   1341,
+   -276,
+   2994.7
+  ],
+  "Sky Cab top": [
+   -117,
+   1802,
+   2623.2
+  ],
+  "Meadows bottom": [
+   1343,
+   -339,
+   3000.5
+  ],
+  "Meadows top": [
+   1121,
+   -648,
+   3031.2
+  ],
+  "Pines Lower top": [
+   2542,
+   2205,
+   2495.8
+  ],
+  "Big Burn bottom": [
+   -965,
+   -94,
+   3013.7
+  ],
+  "Two Creeks top": [
+   1309,
+   -114,
+   2998.2
+  ],
+  "Sheer Bliss bottom": [
+   -366,
+   186,
+   2944.8
+  ],
+  "Sheer Bliss top": [
+   -1588,
+   -2253,
+   3615.9
+  ]
+ },
+ "lifts": [
+  [
+   "Campground",
+   "Campground bottom",
+   "Campground top",
+   11.5
+  ],
+  [
+   "Sam's Knob",
+   "Sam's Knob bottom",
+   "Sam's Knob top",
+   7.0
+  ],
+  [
+   "Village Express",
+   "Village Express bottom",
+   "Sam's Knob top",
+   12.6
+  ],
+  [
+   "Assay Hill",
+   "Assay Hill bottom",
+   "Assay Hill top",
+   9.0
+  ],
+  [
+   "Alpine Springs",
+   "Alpine Springs bottom",
+   "Alpine Springs top",
+   11.0
+  ],
+  [
+   "Cirque T-Bar",
+   "Cirque T-Bar bottom",
+   "Cirque T-Bar top",
+   5.0
+  ],
+  [
+   "High Alpine",
+   "High Alpine bottom",
+   "High Alpine top",
+   9.0
+  ],
+  [
+   "Elk Camp Gondola",
+   "Elk Camp Gondola bottom",
+   "Elk Camp Gondola top",
+   11.7
+  ],
+  [
+   "Elk Camp Gondola",
+   "Elk Camp Gondola top",
+   "Elk Camp Gondola bottom",
+   11.7
+  ],
+  [
+   "Sky Cab",
+   "Village Express bottom",
+   "Sky Cab top",
+   4.1
+  ],
+  [
+   "Sky Cab",
+   "Sky Cab top",
+   "Village Express bottom",
+   4.1
+  ],
+  [
+   "Meadows",
+   "Meadows bottom",
+   "Meadows top",
+   7.3
+  ],
+  [
+   "Coney Express",
+   "Coney Express bottom",
+   "Coney Express top",
+   10.5
+  ],
+  [
+   "Big Burn",
+   "Big Burn bottom",
+   "Big Burn top",
+   11.0
+  ],
+  [
+   "Elk Camp",
+   "Elk Camp bottom",
+   "Elk Camp top",
+   9.9
+  ],
+  [
+   "Two Creeks",
+   "Two Creeks bottom",
+   "Two Creeks top",
+   11.9
+  ],
+  [
+   "Sheer Bliss",
+   "Sheer Bliss bottom",
+   "Sheer Bliss top",
+   12.2
+  ]
+ ],
+ "runs": [
+  [
+   "Monkshood",
+   "Monkshood / Wineskin",
+   "Monkshood / Lower Banzai",
+   2.4
+  ],
+  [
+   "Mick's Gully",
+   "Mick's Gully",
+   "Mick's Gully / Dallas Freeway",
+   8.3
+  ],
+  [
+   "Scooper (Upper)",
+   "Scooper (Upper) / Lunchline (Lower)",
+   "Scooper top",
+   1.3
+  ],
+  [
+   "Scooper (Upper)",
+   "Scooper top",
+   "Scooper (Upper) / Hal's Hollow (Upper)",
+   0.7
+  ],
+  [
+   "High Pass",
+   "Cirque T-Bar top",
+   "High Pass / Reidar's",
+   7.8
+  ],
+  [
+   "Wildcat",
+   "Wildcat / Campground (Upper)",
+   "Wildcat / Unnamed run",
+   3.4
+  ],
+  [
+   "Powderhorn",
+   "Powderhorn / Sneaky's",
+   "Powderhorn",
+   12.0
+  ],
+  [
+   "Powderhorn",
+   "Powderhorn",
+   "Campground bottom",
+   0.7
+  ],
+  [
+   "Cabin",
+   "Coney Express top",
+   "Cabin",
+   1.9
+  ],
+  [
+   "Lower Banzai",
+   "Lower Banzai / Lunchline (Upper)",
+   "Monkshood / Lower Banzai",
+   1.0
+  ],
+  [
+   "Lower Banzai",
+   "Monkshood / Lower Banzai",
+   "Lower Banzai",
+   4.0
+  ],
+  [
+   "Lower Banzai",
+   "Lower Banzai",
+   "Lower Banzai / Fanny Hill",
+   1.7
+  ],
+  [
+   "Wildcat (Lower)",
+   "Wildcat (Lower) / Unnamed run",
+   "Wildcat (Lower) / Slot (Lower)",
+   3.0
+  ],
+  [
+   "Funnel",
+   "Funnel / Funnel Bypass",
+   "Funnel 5",
+   1.6
+  ],
+  [
+   "Funnel",
+   "Funnel 5",
+   "Funnel 3",
+   0.6
+  ],
+  [
+   "Funnel",
+   "Funnel 3",
+   "Funnel 4",
+   2.8
+  ],
+  [
+   "Funnel",
+   "Funnel 4",
+   "Funnel 7",
+   0.9
+  ],
+  [
+   "Funnel",
+   "Funnel 7",
+   "Funnel 2",
+   1.0
+  ],
+  [
+   "Funnel",
+   "Funnel 2",
+   "Funnel 6",
+   1.0
+  ],
+  [
+   "Funnel",
+   "Funnel 6",
+   "Elk Camp Gondola bottom",
+   1.4
+  ],
+  [
+   "Funnel",
+   "Elk Camp Gondola bottom",
+   "Funnel",
+   0.5
+  ],
+  [
+   "Funnel",
+   "Funnel",
+   "Funnel / Fanny Hill",
+   0.5
+  ],
+  [
+   "Wineskin",
+   "Wineskin / Timberline",
+   "Wineskin",
+   1.0
+  ],
+  [
+   "Wineskin",
+   "Wineskin",
+   "Wineskin 3",
+   4.4
+  ],
+  [
+   "Wineskin",
+   "Wineskin 3",
+   "Wineskin 2",
+   0.7
+  ],
+  [
+   "Wineskin",
+   "Wineskin 2",
+   "Monkshood / Wineskin",
+   0.5
+  ],
+  [
+   "Shear Bliss",
+   "Big Burn top",
+   "Cirque T-Bar bottom",
+   0.8
+  ],
+  [
+   "Shear Bliss",
+   "Cirque T-Bar bottom",
+   "Shear Bliss 5",
+   0.5
+  ],
+  [
+   "Shear Bliss",
+   "Shear Bliss 5",
+   "Shear Bliss 3",
+   2.7
+  ],
+  [
+   "Shear Bliss",
+   "Shear Bliss 3",
+   "Shear Bliss",
+   1.3
+  ],
+  [
+   "Shear Bliss",
+   "Shear Bliss",
+   "Shear Bliss 4",
+   1.6
+  ],
+  [
+   "Shear Bliss",
+   "Shear Bliss 4",
+   "Shear Bliss 6",
+   1.6
+  ],
+  [
+   "Shear Bliss",
+   "Shear Bliss 6",
+   "Shear Bliss 2",
+   0.5
+  ],
+  [
+   "Shear Bliss",
+   "Shear Bliss 2",
+   "Shear Bliss / Trestle",
+   2.0
+  ],
+  [
+   "Whispering Jesse",
+   "Wineskin",
+   "Whispering Jesse / Timberline",
+   5.0
+  ],
+  [
+   "Lunchline (Upper)",
+   "Lunchline (Upper) / Max Park",
+   "Lunchline (Upper) 2",
+   1.3
+  ],
+  [
+   "Lunchline (Upper)",
+   "Lunchline (Upper) 2",
+   "Lunchline (Upper) 3",
+   0.5
+  ],
+  [
+   "Lunchline (Upper)",
+   "Lunchline (Upper) 3",
+   "Lower Banzai / Lunchline (Upper)",
+   1.9
+  ],
+  [
+   "Lunchline (Upper)",
+   "Lower Banzai / Lunchline (Upper)",
+   "Lunchline (Upper)",
+   0.5
+  ],
+  [
+   "Timberline",
+   "Cirque T-Bar bottom",
+   "Wineskin / Timberline",
+   2.8
+  ],
+  [
+   "Timberline",
+   "Wineskin / Timberline",
+   "Wineskin",
+   1.0
+  ],
+  [
+   "Timberline",
+   "Wineskin",
+   "Whispering Jesse / Timberline",
+   4.9
+  ],
+  [
+   "Timberline",
+   "Whispering Jesse / Timberline",
+   "Big Burn bottom",
+   0.5
+  ],
+  [
+   "Timberline",
+   "Big Burn bottom",
+   "Monkshood / Wineskin",
+   0.5
+  ],
+  [
+   "Naked Lady",
+   "Naked Lady / Turkey Trot",
+   "Naked Lady",
+   6.8
+  ],
+  [
+   "Naked Lady",
+   "Naked Lady",
+   "Naked Lady 2",
+   1.0
+  ],
+  [
+   "Naked Lady",
+   "Naked Lady 2",
+   "Naked Lady / Lunkerville",
+   1.2
+  ],
+  [
+   "Eddy Out",
+   "Eddy Out / Funnel Bypass",
+   "Eddy Out",
+   2.3
+  ],
+  [
+   "Eddy Out",
+   "Eddy Out",
+   "Funnel 2",
+   3.8
+  ],
+  [
+   "Creekside (Lower)",
+   "Creekside (Lower) / West Fork",
+   "Two Creeks bottom",
+   5.3
+  ],
+  [
+   "Sneaky's",
+   "Big Burn top",
+   "Sneaky's",
+   6.2
+  ],
+  [
+   "Sneaky's",
+   "Sneaky's",
+   "Powderhorn / Sneaky's",
+   1.2
+  ],
+  [
+   "Sneaky's",
+   "Powderhorn / Sneaky's",
+   "Sneaky's / Max Park",
+   0.5
+  ],
+  [
+   "Turkey Trot",
+   "Alpine Springs top",
+   "Naked Lady / Turkey Trot",
+   0.5
+  ],
+  [
+   "Turkey Trot",
+   "Naked Lady / Turkey Trot",
+   "Turkey Trot 5",
+   0.5
+  ],
+  [
+   "Turkey Trot",
+   "Turkey Trot 5",
+   "Turkey Trot 3",
+   0.5
+  ],
+  [
+   "Turkey Trot",
+   "Turkey Trot 3",
+   "Turkey Trot 6",
+   1.5
+  ],
+  [
+   "Turkey Trot",
+   "Turkey Trot 6",
+   "Turkey Trot 2",
+   1.0
+  ],
+  [
+   "Turkey Trot",
+   "Turkey Trot 2",
+   "Turkey Trot",
+   2.5
+  ],
+  [
+   "Turkey Trot",
+   "Turkey Trot",
+   "Turkey Trot 4",
+   1.6
+  ],
+  [
+   "Turkey Trot",
+   "Turkey Trot 4",
+   "Elk Camp bottom",
+   0.5
+  ],
+  [
+   "Blue Grouse",
+   "Blue Grouse / Lunchline (Upper)",
+   "Blue Grouse",
+   3.1
+  ],
+  [
+   "Slot (Lower)",
+   "Slot (Lower) / Unnamed run",
+   "Wildcat (Lower) / Slot (Lower)",
+   2.5
+  ],
+  [
+   "Slot (Lower)",
+   "Wildcat (Lower) / Slot (Lower)",
+   "Slot (Lower)",
+   0.8
+  ],
+  [
+   "Slot (Lower)",
+   "Slot (Lower)",
+   "Slot (Lower) 2",
+   2.2
+  ],
+  [
+   "Slot (Lower)",
+   "Slot (Lower) 2",
+   "Campground bottom",
+   1.6
+  ],
+  [
+   "Drumstick",
+   "Turkey Trot",
+   "Drumstick / Adams' Avenue (Upper)",
+   2.2
+  ],
+  [
+   "West Face",
+   "Shear Bliss",
+   "West Face / Garrett Gulch",
+   1.1
+  ],
+  [
+   "Creekside (Upper)",
+   "Creekside (Upper) / Funnel Bypass",
+   "Creekside (Upper)",
+   5.1
+  ],
+  [
+   "Creekside (Upper)",
+   "Creekside (Upper)",
+   "Creekside (Upper) / Cascade (Upper)",
+   0.5
+  ],
+  [
+   "Gunner's View",
+   "Gunner's View / Bear Bottom",
+   "Gunner's View",
+   5.8
+  ],
+  [
+   "Gunner's View",
+   "Gunner's View",
+   "Gunner's View / Grey Wolf",
+   1.3
+  ],
+  [
+   "Turkey Trot",
+   "Turkey Trot 2",
+   "Turkey Trot / Sandy Park",
+   1.1
+  ],
+  [
+   "Fast Draw",
+   "Fast Draw / Banzai Ridge",
+   "Fast Draw / Ute Chute",
+   1.8
+  ],
+  [
+   "Log Deck",
+   "Log Deck / Lunkerville",
+   "Log Deck",
+   0.5
+  ],
+  [
+   "Log Deck",
+   "Log Deck",
+   "Log Deck 2",
+   3.1
+  ],
+  [
+   "Log Deck",
+   "Log Deck 2",
+   "Log Deck / Lunkerville 2",
+   0.9
+  ],
+  [
+   "Fanny Hill",
+   "Fanny Hill / Dawdler",
+   "Lower Banzai / Fanny Hill",
+   0.6
+  ],
+  [
+   "Fanny Hill",
+   "Lower Banzai / Fanny Hill",
+   "Fanny Hill",
+   0.8
+  ],
+  [
+   "Fanny Hill",
+   "Fanny Hill",
+   "Sky Cab top",
+   0.5
+  ],
+  [
+   "Fanny Hill",
+   "Sky Cab top",
+   "Coney Express bottom",
+   0.5
+  ],
+  [
+   "Fanny Hill",
+   "Coney Express bottom",
+   "Funnel / Fanny Hill",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Bull Run",
+   "Unnamed run / Grey Wolf",
+   1.9
+  ],
+  [
+   "Velvet Falls (Upper)",
+   "Velvet Falls (Upper) / Lunchline (Lower)",
+   "Velvet Falls (Upper)",
+   0.5
+  ],
+  [
+   "Velvet Falls (Upper)",
+   "Velvet Falls (Upper)",
+   "Velvet Falls (Upper) / Velvet Falls (Lower)",
+   2.2
+  ],
+  [
+   "Bottoms Up",
+   "Bottoms Up / Adams' Avenue (Upper)",
+   "Funnel 3",
+   1.9
+  ],
+  [
+   "Adams' Avenue (Lower)",
+   "Naked Lady",
+   "Fanny Hill",
+   6.1
+  ],
+  [
+   "Camp Three",
+   "Shear Bliss 2",
+   "Camp Three / Green Cabin (Lower)",
+   1.4
+  ],
+  [
+   "Hal's Hollow (Upper)",
+   "Velvet Falls (Upper)",
+   "Scooper (Upper) / Hal's Hollow (Upper)",
+   1.6
+  ],
+  [
+   "Ute Chute",
+   "Ute Chute / Banzai Ridge",
+   "Fast Draw / Ute Chute",
+   1.4
+  ],
+  [
+   "Ute Chute",
+   "Fast Draw / Ute Chute",
+   "Ute Chute / Moonshine",
+   1.2
+  ],
+  [
+   "Slider",
+   "Turkey Trot 3",
+   "Funnel 4",
+   10.0
+  ],
+  [
+   "Banzai Ridge",
+   "Sam's Knob top",
+   "Banzai Ridge 2",
+   0.5
+  ],
+  [
+   "Banzai Ridge",
+   "Banzai Ridge 2",
+   "Fast Draw / Banzai Ridge",
+   0.6
+  ],
+  [
+   "Banzai Ridge",
+   "Fast Draw / Banzai Ridge",
+   "Ute Chute / Banzai Ridge",
+   0.5
+  ],
+  [
+   "Banzai Ridge",
+   "Ute Chute / Banzai Ridge",
+   "Banzai Ridge",
+   0.6
+  ],
+  [
+   "Banzai Ridge",
+   "Banzai Ridge",
+   "Coney Express top",
+   0.8
+  ],
+  [
+   "Lunkerville",
+   "Alpine Springs top",
+   "Log Deck / Lunkerville",
+   0.8
+  ],
+  [
+   "Lunkerville",
+   "Log Deck / Lunkerville",
+   "Log Deck / Lunkerville 2",
+   4.7
+  ],
+  [
+   "Lunkerville",
+   "Log Deck / Lunkerville 2",
+   "Lunkerville",
+   1.8
+  ],
+  [
+   "Lunkerville",
+   "Lunkerville",
+   "Naked Lady / Lunkerville",
+   2.0
+  ],
+  [
+   "Lunkerville",
+   "Naked Lady / Lunkerville",
+   "Alpine Springs bottom",
+   0.5
+  ],
+  [
+   "Reidar's",
+   "High Alpine top",
+   "High Pass / Reidar's",
+   0.5
+  ],
+  [
+   "Reidar's",
+   "High Pass / Reidar's",
+   "Reidar's / Coffee Pot",
+   5.5
+  ],
+  [
+   "Dawdler",
+   "Dawdler",
+   "Dawdler 2",
+   1.1
+  ],
+  [
+   "Lodgepole",
+   "Log Deck",
+   "Lodgepole",
+   2.7
+  ],
+  [
+   "Lodgepole",
+   "Lodgepole",
+   "Log Deck 2",
+   0.6
+  ],
+  [
+   "Max Park",
+   "Sam's Knob top",
+   "Sneaky's / Max Park",
+   1.1
+  ],
+  [
+   "Max Park",
+   "Sneaky's / Max Park",
+   "Lunchline (Upper) / Max Park",
+   1.7
+  ],
+  [
+   "Max Park",
+   "Lunchline (Upper) / Max Park",
+   "Wineskin 2",
+   2.1
+  ],
+  [
+   "Velvet Falls (Lower)",
+   "Velvet Falls (Upper) / Velvet Falls (Lower)",
+   "Velvet Falls (Lower) / Dawdler",
+   2.4
+  ],
+  [
+   "Green Cabin (Upper)",
+   "High Alpine top",
+   "High Alpine bottom",
+   8.6
+  ],
+  [
+   "Green Cabin (Upper)",
+   "High Alpine bottom",
+   "Green Cabin (Upper) / Green Cabin (Lower)",
+   0.5
+  ],
+  [
+   "Sheer Bliss",
+   "Shear Bliss 3",
+   "Shear Bliss 4",
+   3.2
+  ],
+  [
+   "Funnel Bypass",
+   "Turkey Trot 4",
+   "Elk Camp bottom",
+   0.5
+  ],
+  [
+   "Funnel Bypass",
+   "Elk Camp bottom",
+   "Creekside (Upper) / Funnel Bypass",
+   0.6
+  ],
+  [
+   "Funnel Bypass",
+   "Creekside (Upper) / Funnel Bypass",
+   "Funnel / Funnel Bypass",
+   0.9
+  ],
+  [
+   "Funnel Bypass",
+   "Funnel / Funnel Bypass",
+   "Funnel Bypass",
+   0.5
+  ],
+  [
+   "Funnel Bypass",
+   "Funnel Bypass",
+   "Eddy Out / Funnel Bypass",
+   3.3
+  ],
+  [
+   "Funnel Bypass",
+   "Eddy Out / Funnel Bypass",
+   "Funnel 5",
+   0.6
+  ],
+  [
+   "No Name",
+   "No Name / Galavant",
+   "Funnel 4",
+   2.0
+  ],
+  [
+   "Cascade (Upper)",
+   "Funnel Bypass",
+   "Creekside (Upper) / Cascade (Upper)",
+   4.8
+  ],
+  [
+   "Lunchline (Lower)",
+   "Lunchline (Lower) / Coney Glade",
+   "Velvet Falls (Upper) / Lunchline (Lower)",
+   0.5
+  ],
+  [
+   "Lunchline (Lower)",
+   "Velvet Falls (Upper) / Lunchline (Lower)",
+   "Scooper (Upper) / Lunchline (Lower)",
+   0.8
+  ],
+  [
+   "Lunchline (Lower)",
+   "Scooper (Upper) / Lunchline (Lower)",
+   "Lunchline (Lower)",
+   0.5
+  ],
+  [
+   "Lunchline (Lower)",
+   "Lunchline (Lower)",
+   "Sam's Knob bottom",
+   1.2
+  ],
+  [
+   "Coffee Pot",
+   "Reidar's / Coffee Pot",
+   "Coffee Pot",
+   10.0
+  ],
+  [
+   "Coffee Pot",
+   "Coffee Pot",
+   "Alpine Springs bottom",
+   0.6
+  ],
+  [
+   "Assay Hill",
+   "Funnel 6",
+   "Assay Hill bottom",
+   1.9
+  ],
+  [
+   "Campground (Upper)",
+   "Sam's Knob top",
+   "Wildcat / Campground (Upper)",
+   0.5
+  ],
+  [
+   "Campground (Upper)",
+   "Wildcat / Campground (Upper)",
+   "Campground (Upper)",
+   2.0
+  ],
+  [
+   "Campground (Upper)",
+   "Campground (Upper)",
+   "Campground (Upper) / Unnamed run",
+   1.4
+  ],
+  [
+   "Showcase",
+   "High Pass / Reidar's",
+   "Reidar's / Coffee Pot",
+   5.7
+  ],
+  [
+   "Unnamed run",
+   "Coney Express top",
+   "Lunchline (Upper) 2",
+   0.5
+  ],
+  [
+   "Galavant",
+   "Funnel 3",
+   "No Name / Galavant",
+   0.7
+  ],
+  [
+   "Galavant",
+   "No Name / Galavant",
+   "Naked Lady 2",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Campground (Upper) / Unnamed run",
+   "Wildcat / Unnamed run",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Wildcat / Unnamed run",
+   "Wildcat (Lower) / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Wildcat (Lower) / Unnamed run",
+   "Slot (Lower) / Unnamed run",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Slot (Lower) / Unnamed run",
+   "Sam's Knob bottom",
+   0.6
+  ],
+  [
+   "Bearclaw",
+   "Campground (Upper)",
+   "Powderhorn",
+   7.6
+  ],
+  [
+   "Coney Glade",
+   "Coney Express top",
+   "Lunchline (Lower) / Coney Glade",
+   2.0
+  ],
+  [
+   "Dawdler",
+   "Lunchline (Lower)",
+   "Dawdler",
+   0.7
+  ],
+  [
+   "Dawdler",
+   "Dawdler",
+   "Dawdler 2",
+   2.4
+  ],
+  [
+   "Dawdler",
+   "Dawdler 2",
+   "Dawdler 4",
+   2.5
+  ],
+  [
+   "Dawdler",
+   "Dawdler 4",
+   "Dawdler 3",
+   0.5
+  ],
+  [
+   "Dawdler",
+   "Dawdler 3",
+   "Velvet Falls (Lower) / Dawdler",
+   1.2
+  ],
+  [
+   "Dawdler",
+   "Velvet Falls (Lower) / Dawdler",
+   "Fanny Hill / Dawdler",
+   0.5
+  ],
+  [
+   "Hal's Hollow (Lower)",
+   "Scooper (Upper) / Hal's Hollow (Upper)",
+   "Hal's Hollow (Lower)",
+   1.9
+  ],
+  [
+   "Hal's Hollow (Lower)",
+   "Hal's Hollow (Lower)",
+   "Dawdler 3",
+   0.5
+  ],
+  [
+   "Moonshine",
+   "Banzai Ridge",
+   "Ute Chute / Moonshine",
+   2.2
+  ],
+  [
+   "Moonshine",
+   "Ute Chute / Moonshine",
+   "Moonshine",
+   0.7
+  ],
+  [
+   "Moonshine",
+   "Moonshine",
+   "Sam's Knob bottom",
+   1.7
+  ],
+  [
+   "Trestle",
+   "Wineskin 3",
+   "Trestle",
+   1.2
+  ],
+  [
+   "Trestle",
+   "Trestle",
+   "Shear Bliss / Trestle",
+   0.8
+  ],
+  [
+   "Trestle",
+   "Shear Bliss / Trestle",
+   "Trestle / Green Cabin (Lower)",
+   1.0
+  ],
+  [
+   "Sandy Park",
+   "Sandy Park / Bear Bottom",
+   "Sandy Park",
+   4.2
+  ],
+  [
+   "Sandy Park",
+   "Sandy Park",
+   "Sandy Park 2",
+   1.5
+  ],
+  [
+   "Sandy Park",
+   "Sandy Park 2",
+   "Turkey Trot / Sandy Park",
+   1.9
+  ],
+  [
+   "Sandy Park",
+   "Turkey Trot / Sandy Park",
+   "Turkey Trot",
+   1.7
+  ],
+  [
+   "Lunchline (Upper)",
+   "Lunchline (Upper)",
+   "Blue Grouse / Lunchline (Upper)",
+   0.5
+  ],
+  [
+   "Lunchline (Upper)",
+   "Blue Grouse / Lunchline (Upper)",
+   "Lunchline (Lower) / Coney Glade",
+   0.5
+  ],
+  [
+   "Promenade",
+   "Promenade / Zugspitze",
+   "Moonshine",
+   3.2
+  ],
+  [
+   "Pipeline",
+   "Pipeline / Sunnyside",
+   "Lunchline (Upper) / Max Park",
+   0.8
+  ],
+  [
+   "Dallas Freeway",
+   "Big Burn top",
+   "Mick's Gully / Dallas Freeway",
+   8.2
+  ],
+  [
+   "Dallas Freeway",
+   "Mick's Gully / Dallas Freeway",
+   "Wineskin 3",
+   0.9
+  ],
+  [
+   "The Edge",
+   "High Pass / Reidar's",
+   "The Edge",
+   5.2
+  ],
+  [
+   "The Edge",
+   "The Edge",
+   "Turkey Trot 5",
+   0.7
+  ],
+  [
+   "East Branch",
+   "Creekside (Upper)",
+   "East Branch",
+   2.7
+  ],
+  [
+   "East Branch",
+   "East Branch",
+   "Pines Lower top",
+   3.8
+  ],
+  [
+   "East Branch",
+   "Pines Lower top",
+   "Two Creeks bottom",
+   1.6
+  ],
+  [
+   "Bridges",
+   "Coney Express bottom",
+   "Funnel / Fanny Hill",
+   1.0
+  ],
+  [
+   "Bridges",
+   "Funnel / Fanny Hill",
+   "Funnel",
+   0.5
+  ],
+  [
+   "Bridges",
+   "Funnel",
+   "Assay Hill bottom",
+   2.2
+  ],
+  [
+   "Campground (Lower)",
+   "Campground (Upper) / Unnamed run",
+   "Campground bottom",
+   6.7
+  ],
+  [
+   "Adams' Avenue (Upper)",
+   "Creekside (Upper) / Funnel Bypass",
+   "Funnel / Funnel Bypass",
+   0.6
+  ],
+  [
+   "Adams' Avenue (Upper)",
+   "Funnel / Funnel Bypass",
+   "Bottoms Up / Adams' Avenue (Upper)",
+   0.5
+  ],
+  [
+   "Adams' Avenue (Upper)",
+   "Bottoms Up / Adams' Avenue (Upper)",
+   "Drumstick / Adams' Avenue (Upper)",
+   0.5
+  ],
+  [
+   "Adams' Avenue (Upper)",
+   "Drumstick / Adams' Avenue (Upper)",
+   "Naked Lady",
+   2.7
+  ],
+  [
+   "Nor Way",
+   "Velvet Falls (Upper) / Velvet Falls (Lower)",
+   "Hal's Hollow (Lower)",
+   1.4
+  ],
+  [
+   "Rocky Mountain High",
+   "Cirque T-Bar top",
+   "Cirque T-Bar bottom",
+   5.4
+  ],
+  [
+   "West Fork",
+   "Eddy Out",
+   "Creekside (Lower) / West Fork",
+   4.6
+  ],
+  [
+   "Cascade (Lower)",
+   "Creekside (Upper) / Cascade (Upper)",
+   "Creekside (Lower) / West Fork",
+   1.5
+  ],
+  [
+   "Granite",
+   "Alpine Springs top",
+   "Reidar's / Coffee Pot",
+   0.5
+  ],
+  [
+   "Granite",
+   "Reidar's / Coffee Pot",
+   "Granite",
+   0.8
+  ],
+  [
+   "Granite",
+   "Granite",
+   "Granite / Green Cabin (Lower)",
+   3.4
+  ],
+  [
+   "Tom's Trace",
+   "Lodgepole",
+   "Lunkerville",
+   2.7
+  ],
+  [
+   "Zugspitze",
+   "Banzai Ridge 2",
+   "Promenade / Zugspitze",
+   0.5
+  ],
+  [
+   "Zugspitze",
+   "Promenade / Zugspitze",
+   "Sam's Knob bottom",
+   4.5
+  ],
+  [
+   "Turkey Trot",
+   "The Edge",
+   "Turkey Trot 6",
+   1.9
+  ],
+  [
+   "Free Fall",
+   "Shear Bliss 4",
+   "Free Fall / Garrett Gulch",
+   1.0
+  ],
+  [
+   "Bear Bottom",
+   "Elk Camp top",
+   "Sandy Park / Bear Bottom",
+   1.0
+  ],
+  [
+   "Bear Bottom",
+   "Sandy Park / Bear Bottom",
+   "Gunner's View / Bear Bottom",
+   0.5
+  ],
+  [
+   "Bear Bottom",
+   "Gunner's View / Bear Bottom",
+   "Gunner's View",
+   5.8
+  ],
+  [
+   "Scooper (Lower)",
+   "Scooper top",
+   "Dawdler 4",
+   2.2
+  ],
+  [
+   "Garrett Gulch",
+   "Shear Bliss 5",
+   "West Face / Garrett Gulch",
+   5.0
+  ],
+  [
+   "Garrett Gulch",
+   "West Face / Garrett Gulch",
+   "Free Fall / Garrett Gulch",
+   1.5
+  ],
+  [
+   "Garrett Gulch",
+   "Free Fall / Garrett Gulch",
+   "Garrett Gulch",
+   1.7
+  ],
+  [
+   "Garrett Gulch",
+   "Garrett Gulch",
+   "Trestle",
+   1.0
+  ],
+  [
+   "Green Cabin (Lower)",
+   "Granite",
+   "High Alpine bottom",
+   0.7
+  ],
+  [
+   "Green Cabin (Lower)",
+   "High Alpine bottom",
+   "Green Cabin (Upper) / Green Cabin (Lower)",
+   0.5
+  ],
+  [
+   "Green Cabin (Lower)",
+   "Green Cabin (Upper) / Green Cabin (Lower)",
+   "Camp Three / Green Cabin (Lower)",
+   1.8
+  ],
+  [
+   "Green Cabin (Lower)",
+   "Camp Three / Green Cabin (Lower)",
+   "Granite / Green Cabin (Lower)",
+   0.5
+  ],
+  [
+   "Green Cabin (Lower)",
+   "Granite / Green Cabin (Lower)",
+   "Trestle / Green Cabin (Lower)",
+   0.8
+  ],
+  [
+   "Green Cabin (Lower)",
+   "Trestle / Green Cabin (Lower)",
+   "Sheer Bliss bottom",
+   0.7
+  ],
+  [
+   "Green Cabin (Lower)",
+   "Sheer Bliss bottom",
+   "Lower Banzai",
+   5.2
+  ],
+  [
+   "Slot (Upper)",
+   "Sam's Knob top",
+   "Slot (Lower) / Unnamed run",
+   4.6
+  ],
+  [
+   "Sandy Park",
+   "Sandy Park",
+   "Sandy Park 2",
+   1.4
+  ],
+  [
+   "Grey Wolf",
+   "Elk Camp top",
+   "Unnamed run / Grey Wolf",
+   6.6
+  ],
+  [
+   "Grey Wolf",
+   "Unnamed run / Grey Wolf",
+   "Gunner's View / Grey Wolf",
+   1.5
+  ],
+  [
+   "Grey Wolf",
+   "Gunner's View / Grey Wolf",
+   "Grey Wolf",
+   0.6
+  ],
+  [
+   "Grey Wolf",
+   "Grey Wolf",
+   "Turkey Trot 4",
+   0.6
+  ],
+  [
+   "Sunnyside",
+   "Sam's Knob top",
+   "Pipeline / Sunnyside",
+   0.7
+  ],
+  [
+   "Sunnyside",
+   "Pipeline / Sunnyside",
+   "Lunchline (Upper) 2",
+   1.8
+  ],
+  [
+   "Sunnyside",
+   "Lunchline (Upper) 2",
+   "Lunchline (Upper) 3",
+   0.5
+  ],
+  [
+   "Coffee Pot",
+   "Coffee Pot",
+   "Naked Lady / Lunkerville",
+   0.5
+  ],
+  [
+   "Coffee Pot",
+   "Naked Lady / Lunkerville",
+   "Funnel 7",
+   2.3
+  ],
+  [
+   "Slot (Lower)",
+   "Slot (Lower)",
+   "Slot (Lower) 2",
+   2.0
+  ],
+  [
+   "Howler",
+   "Campground (Upper)",
+   "Wildcat / Unnamed run",
+   1.6
+  ],
+  [
+   "Glissade",
+   "Shear Bliss 6",
+   "Garrett Gulch",
+   1.1
+  ],
+  [
+   "Bull Run",
+   "Bull Run",
+   "Unnamed run / Bull Run",
+   4.9
+  ],
+  [
+   "Bull Run",
+   "Unnamed run / Bull Run",
+   "Grey Wolf",
+   4.1
+  ],
+  [
+   "Jack of Hearts",
+   "Sneaky's",
+   "Sneaky's / Max Park",
+   1.3
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Monkshood / Wineskin",
+   "Big Burn bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Mick's Gully",
+   "Cirque T-Bar bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Funnel",
+   "Village Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Funnel",
+   "Elk Camp Gondola bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Campground bottom",
+   "Powderhorn",
+   2.2
+  ],
+  [
+   "walk",
+   "Coney Express top",
+   "Wineskin 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Coney Express top",
+   "Lunchline (Upper) 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Coney Express top",
+   "Lunchline (Upper) 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Cabin",
+   "Monkshood / Lower Banzai",
+   3.2
+  ],
+  [
+   "walk",
+   "Cabin",
+   "Blue Grouse / Lunchline (Upper)",
+   1.1
+  ],
+  [
+   "walk",
+   "Cabin",
+   "Velvet Falls (Upper) / Lunchline (Lower)",
+   3.0
+  ],
+  [
+   "walk",
+   "Cabin",
+   "Velvet Falls (Upper)",
+   3.1
+  ],
+  [
+   "walk",
+   "Cabin",
+   "Lunchline (Lower) / Coney Glade",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Banzai / Fanny Hill",
+   "Sky Cab top",
+   2.9
+  ],
+  [
+   "walk",
+   "Funnel / Fanny Hill",
+   "Village Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Funnel / Fanny Hill",
+   "Elk Camp Gondola bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Big Burn top",
+   "Mick's Gully",
+   1.2
+  ],
+  [
+   "walk",
+   "Big Burn top",
+   "Cirque T-Bar bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Big Burn top",
+   "Sheer Bliss top",
+   1.6
+  ],
+  [
+   "walk",
+   "Whispering Jesse / Timberline",
+   "Big Burn bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Cirque T-Bar bottom",
+   "Shear Bliss 5",
+   1.5
+  ],
+  [
+   "walk",
+   "Naked Lady / Turkey Trot",
+   "Alpine Springs top",
+   1.5
+  ],
+  [
+   "walk",
+   "Naked Lady / Lunkerville",
+   "Alpine Springs bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Funnel 2",
+   "Assay Hill top",
+   3.4
+  ],
+  [
+   "walk",
+   "Alpine Springs top",
+   "Naked Lady / Turkey Trot",
+   1.5
+  ],
+  [
+   "walk",
+   "Alpine Springs top",
+   "Log Deck / Lunkerville",
+   3.0
+  ],
+  [
+   "walk",
+   "Alpine Springs top",
+   "Reidar's / Coffee Pot",
+   1.7
+  ],
+  [
+   "walk",
+   "Alpine Springs top",
+   "Turkey Trot 5",
+   2.5
+  ],
+  [
+   "walk",
+   "Elk Camp bottom",
+   "Creekside (Upper) / Funnel Bypass",
+   2.1
+  ],
+  [
+   "walk",
+   "Elk Camp bottom",
+   "Turkey Trot 4",
+   1.3
+  ],
+  [
+   "walk",
+   "Blue Grouse",
+   "Velvet Falls (Upper) / Velvet Falls (Lower)",
+   1.8
+  ],
+  [
+   "walk",
+   "Slot (Lower) / Unnamed run",
+   "Sam's Knob bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Turkey Trot",
+   "Elk Camp Gondola top",
+   3.2
+  ],
+  [
+   "walk",
+   "Turkey Trot",
+   "Meadows bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Creekside (Upper) / Funnel Bypass",
+   "Elk Camp bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Gunner's View / Grey Wolf",
+   "Meadows bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Turkey Trot / Sandy Park",
+   "Meadows top",
+   1.4
+  ],
+  [
+   "walk",
+   "Fanny Hill",
+   "Coney Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Fanny Hill",
+   "Sky Cab top",
+   0.6
+  ],
+  [
+   "walk",
+   "Sam's Knob top",
+   "Wildcat / Campground (Upper)",
+   2.5
+  ],
+  [
+   "walk",
+   "Sam's Knob top",
+   "Fast Draw / Banzai Ridge",
+   2.9
+  ],
+  [
+   "walk",
+   "Sam's Knob top",
+   "Promenade / Zugspitze",
+   2.4
+  ],
+  [
+   "walk",
+   "Sam's Knob top",
+   "Pipeline / Sunnyside",
+   2.6
+  ],
+  [
+   "walk",
+   "Sam's Knob top",
+   "Banzai Ridge 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Alpine Springs bottom",
+   "Naked Lady / Lunkerville",
+   1.1
+  ],
+  [
+   "walk",
+   "High Alpine top",
+   "High Pass / Reidar's",
+   1.5
+  ],
+  [
+   "walk",
+   "Reidar's / Coffee Pot",
+   "Alpine Springs top",
+   1.7
+  ],
+  [
+   "walk",
+   "Dawdler",
+   "Sam's Knob bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Dawdler",
+   "Scooper top",
+   3.3
+  ],
+  [
+   "walk",
+   "Wineskin 2",
+   "Big Burn bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Green Cabin (Upper) / Green Cabin (Lower)",
+   "High Alpine bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Turkey Trot 4",
+   "Elk Camp bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Turkey Trot 4",
+   "Elk Camp Gondola top",
+   1.3
+  ],
+  [
+   "walk",
+   "Turkey Trot 4",
+   "Meadows bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Turkey Trot 4",
+   "Two Creeks top",
+   2.5
+  ],
+  [
+   "walk",
+   "Sam's Knob bottom",
+   "Slot (Lower) / Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "Sam's Knob bottom",
+   "Dawdler",
+   2.2
+  ],
+  [
+   "walk",
+   "Funnel 6",
+   "Assay Hill top",
+   0.7
+  ],
+  [
+   "walk",
+   "Campground (Upper) / Unnamed run",
+   "Campground top",
+   0.6
+  ],
+  [
+   "walk",
+   "Lunchline (Upper) 2",
+   "Coney Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Powderhorn",
+   "Campground bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Banzai Ridge",
+   "Coney Express top",
+   2.7
+  ],
+  [
+   "walk",
+   "Wineskin 3",
+   "Big Burn bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Trestle / Green Cabin (Lower)",
+   "Sheer Bliss bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Coney Express bottom",
+   "Fanny Hill",
+   1.6
+  ],
+  [
+   "walk",
+   "Coney Express bottom",
+   "Village Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Coney Express bottom",
+   "Sky Cab top",
+   1.2
+  ],
+  [
+   "walk",
+   "Banzai Ridge 2",
+   "Sam's Knob top",
+   0.9
+  ],
+  [
+   "walk",
+   "The Edge",
+   "Alpine Springs top",
+   2.9
+  ],
+  [
+   "walk",
+   "Elk Camp top",
+   "Sandy Park / Bear Bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Elk Camp top",
+   "Bull Run",
+   0.6
+  ],
+  [
+   "walk",
+   "Scooper top",
+   "Scooper (Upper) / Hal's Hollow (Upper)",
+   2.2
+  ],
+  [
+   "walk",
+   "Scooper top",
+   "Dawdler",
+   3.3
+  ],
+  [
+   "walk",
+   "Shear Bliss 5",
+   "Cirque T-Bar bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Granite",
+   "High Alpine bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Lunchline (Upper) 3",
+   "Big Burn bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Coffee Pot",
+   "Alpine Springs bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Bull Run",
+   "Elk Camp top",
+   0.6
+  ],
+  [
+   "walk",
+   "Grey Wolf",
+   "Elk Camp bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Grey Wolf",
+   "Elk Camp Gondola top",
+   2.3
+  ],
+  [
+   "walk",
+   "Grey Wolf",
+   "Meadows bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Campground top",
+   "Campground (Upper) / Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Funnel",
+   1.5
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Funnel / Fanny Hill",
+   0.8
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Elk Camp Gondola bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Assay Hill top",
+   "Funnel 6",
+   0.7
+  ],
+  [
+   "walk",
+   "High Alpine bottom",
+   "Green Cabin (Upper) / Green Cabin (Lower)",
+   1.1
+  ],
+  [
+   "walk",
+   "Elk Camp Gondola bottom",
+   "Funnel",
+   0.9
+  ],
+  [
+   "walk",
+   "Elk Camp Gondola bottom",
+   "Funnel / Fanny Hill",
+   1.3
+  ],
+  [
+   "walk",
+   "Elk Camp Gondola bottom",
+   "Village Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Elk Camp Gondola top",
+   "Elk Camp bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Elk Camp Gondola top",
+   "Turkey Trot",
+   3.2
+  ],
+  [
+   "walk",
+   "Elk Camp Gondola top",
+   "Turkey Trot 4",
+   1.3
+  ],
+  [
+   "walk",
+   "Elk Camp Gondola top",
+   "Grey Wolf",
+   2.3
+  ],
+  [
+   "walk",
+   "Elk Camp Gondola top",
+   "Meadows bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Elk Camp Gondola top",
+   "Two Creeks top",
+   2.3
+  ],
+  [
+   "walk",
+   "Sky Cab top",
+   "Fanny Hill",
+   0.6
+  ],
+  [
+   "walk",
+   "Sky Cab top",
+   "Coney Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Meadows bottom",
+   "Elk Camp bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Meadows bottom",
+   "Turkey Trot",
+   3.0
+  ],
+  [
+   "walk",
+   "Meadows bottom",
+   "Turkey Trot 4",
+   1.7
+  ],
+  [
+   "walk",
+   "Meadows bottom",
+   "Grey Wolf",
+   1.8
+  ],
+  [
+   "walk",
+   "Meadows bottom",
+   "Elk Camp Gondola top",
+   0.9
+  ],
+  [
+   "walk",
+   "Meadows bottom",
+   "Two Creeks top",
+   3.2
+  ],
+  [
+   "walk",
+   "Meadows top",
+   "Turkey Trot / Sandy Park",
+   1.4
+  ],
+  [
+   "walk",
+   "Big Burn bottom",
+   "Monkshood / Wineskin",
+   0.6
+  ],
+  [
+   "walk",
+   "Big Burn bottom",
+   "Whispering Jesse / Timberline",
+   0.9
+  ],
+  [
+   "walk",
+   "Big Burn bottom",
+   "Wineskin 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Big Burn bottom",
+   "Trestle",
+   2.0
+  ],
+  [
+   "walk",
+   "Two Creeks top",
+   "Elk Camp bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Two Creeks top",
+   "Creekside (Upper) / Funnel Bypass",
+   1.3
+  ],
+  [
+   "walk",
+   "Two Creeks top",
+   "Turkey Trot 4",
+   2.5
+  ],
+  [
+   "walk",
+   "Two Creeks top",
+   "Elk Camp Gondola top",
+   2.3
+  ],
+  [
+   "walk",
+   "Two Creeks top",
+   "Meadows bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Sheer Bliss bottom",
+   "Trestle / Green Cabin (Lower)",
+   2.1
+  ],
+  [
+   "walk",
+   "Sheer Bliss top",
+   "Mick's Gully",
+   2.5
+  ],
+  [
+   "walk",
+   "Sheer Bliss top",
+   "Big Burn top",
+   1.6
+  ],
+  [
+   "walk",
+   "Sheer Bliss top",
+   "Cirque T-Bar bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Sheer Bliss top",
+   "Shear Bliss 5",
+   3.4
+  ],
+  [
+   "walk",
+   "Lunchline (Upper) 2",
+   "Wineskin 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Lunchline (Upper) 2",
+   "Lunchline (Upper) 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Banzai Ridge",
+   "Wineskin 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Banzai Ridge",
+   "Lunchline (Upper) 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Banzai Ridge",
+   "Lunchline (Upper) 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Mick's Gully",
+   "Shear Bliss 5",
+   4.4
+  ],
+  [
+   "walk",
+   "Big Burn top",
+   "Shear Bliss 5",
+   4.4
+  ],
+  [
+   "walk",
+   "Naked Lady / Turkey Trot",
+   "Log Deck / Lunkerville",
+   4.5
+  ],
+  [
+   "walk",
+   "Naked Lady / Turkey Trot",
+   "Reidar's / Coffee Pot",
+   3.2
+  ],
+  [
+   "walk",
+   "Naked Lady / Turkey Trot",
+   "Turkey Trot 5",
+   4.0
+  ],
+  [
+   "walk",
+   "Reidar's / Coffee Pot",
+   "Naked Lady / Turkey Trot",
+   3.2
+  ],
+  [
+   "walk",
+   "Reidar's / Coffee Pot",
+   "Log Deck / Lunkerville",
+   4.7
+  ],
+  [
+   "walk",
+   "Reidar's / Coffee Pot",
+   "Turkey Trot 5",
+   4.2
+  ],
+  [
+   "walk",
+   "The Edge",
+   "Naked Lady / Turkey Trot",
+   4.4
+  ],
+  [
+   "walk",
+   "The Edge",
+   "Log Deck / Lunkerville",
+   5.9
+  ],
+  [
+   "walk",
+   "The Edge",
+   "Reidar's / Coffee Pot",
+   4.6
+  ],
+  [
+   "walk",
+   "The Edge",
+   "Turkey Trot 5",
+   5.4
+  ],
+  [
+   "walk",
+   "Creekside (Upper) / Funnel Bypass",
+   "Turkey Trot 4",
+   3.4
+  ],
+  [
+   "walk",
+   "Turkey Trot 4",
+   "Creekside (Upper) / Funnel Bypass",
+   3.4
+  ],
+  [
+   "walk",
+   "Grey Wolf",
+   "Creekside (Upper) / Funnel Bypass",
+   5.3
+  ],
+  [
+   "walk",
+   "Grey Wolf",
+   "Turkey Trot 4",
+   3.5
+  ],
+  [
+   "walk",
+   "Elk Camp Gondola top",
+   "Creekside (Upper) / Funnel Bypass",
+   3.6
+  ],
+  [
+   "walk",
+   "Meadows bottom",
+   "Creekside (Upper) / Funnel Bypass",
+   4.5
+  ],
+  [
+   "walk",
+   "Banzai Ridge 2",
+   "Wildcat / Campground (Upper)",
+   3.4
+  ],
+  [
+   "walk",
+   "Banzai Ridge 2",
+   "Fast Draw / Banzai Ridge",
+   3.9
+  ],
+  [
+   "walk",
+   "Banzai Ridge 2",
+   "Promenade / Zugspitze",
+   3.4
+  ],
+  [
+   "walk",
+   "Banzai Ridge 2",
+   "Pipeline / Sunnyside",
+   3.6
+  ],
+  [
+   "walk",
+   "Coffee Pot",
+   "Naked Lady / Lunkerville",
+   3.1
+  ],
+  [
+   "walk",
+   "Sam's Knob bottom",
+   "Scooper top",
+   5.5
+  ],
+  [
+   "walk",
+   "Scooper top",
+   "Sam's Knob bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Coney Express top",
+   "Big Burn bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Lunchline (Upper) 2",
+   "Big Burn bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Elk Camp bottom",
+   "Elk Camp Gondola top",
+   2.5
+  ],
+  [
+   "walk",
+   "Elk Camp bottom",
+   "Meadows bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Elk Camp bottom",
+   "Two Creeks top",
+   3.8
+  ],
+  [
+   "walk",
+   "Creekside (Upper) / Funnel Bypass",
+   "Elk Camp Gondola top",
+   4.7
+  ],
+  [
+   "walk",
+   "Creekside (Upper) / Funnel Bypass",
+   "Meadows bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Creekside (Upper) / Funnel Bypass",
+   "Two Creeks top",
+   5.9
+  ],
+  [
+   "walk",
+   "Slot (Lower) / Unnamed run",
+   "Dawdler",
+   4.1
+  ],
+  [
+   "walk",
+   "Dawdler",
+   "Slot (Lower) / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Fanny Hill",
+   "Village Express bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Sky Cab top",
+   "Village Express bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Bull Run",
+   "Sandy Park / Bear Bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Dawdler",
+   "Scooper (Upper) / Hal's Hollow (Upper)",
+   5.5
+  ],
+  [
+   "walk",
+   "Funnel",
+   "Funnel / Fanny Hill",
+   2.1
+  ],
+  [
+   "walk",
+   "Funnel / Fanny Hill",
+   "Funnel",
+   2.1
+  ],
+  [
+   "walk",
+   "Coney Express bottom",
+   "Funnel",
+   4.8
+  ],
+  [
+   "walk",
+   "Coney Express bottom",
+   "Funnel / Fanny Hill",
+   4.1
+  ],
+  [
+   "walk",
+   "Coney Express bottom",
+   "Elk Camp Gondola bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Fanny Hill",
+   "Funnel",
+   6.4
+  ],
+  [
+   "walk",
+   "Fanny Hill",
+   "Funnel / Fanny Hill",
+   5.7
+  ],
+  [
+   "walk",
+   "Fanny Hill",
+   "Elk Camp Gondola bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Sky Cab top",
+   "Funnel",
+   6.0
+  ],
+  [
+   "walk",
+   "Sky Cab top",
+   "Funnel / Fanny Hill",
+   5.3
+  ],
+  [
+   "walk",
+   "Sky Cab top",
+   "Elk Camp Gondola bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Funnel 2",
+   "Funnel 6",
+   4.1
+  ],
+  [
+   "walk",
+   "Granite",
+   "Green Cabin (Upper) / Green Cabin (Lower)",
+   3.9
+  ],
+  [
+   "walk",
+   "Turkey Trot",
+   "Elk Camp bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Turkey Trot",
+   "Turkey Trot 4",
+   4.4
+  ],
+  [
+   "walk",
+   "Turkey Trot",
+   "Grey Wolf",
+   4.8
+  ],
+  [
+   "walk",
+   "Turkey Trot",
+   "Two Creeks top",
+   5.4
+  ],
+  [
+   "walk",
+   "Turkey Trot",
+   "Creekside (Upper) / Funnel Bypass",
+   6.8
+  ],
+  [
+   "walk",
+   "Turkey Trot 4",
+   "Turkey Trot",
+   4.4
+  ],
+  [
+   "walk",
+   "Turkey Trot 4",
+   "Grey Wolf",
+   3.5
+  ],
+  [
+   "walk",
+   "Grey Wolf",
+   "Turkey Trot",
+   4.8
+  ],
+  [
+   "walk",
+   "Grey Wolf",
+   "Two Creeks top",
+   4.6
+  ],
+  [
+   "walk",
+   "Two Creeks top",
+   "Turkey Trot",
+   5.4
+  ],
+  [
+   "walk",
+   "Two Creeks top",
+   "Grey Wolf",
+   4.6
+  ],
+  [
+   "walk",
+   "Elk Camp bottom",
+   "Turkey Trot",
+   5.7
+  ],
+  [
+   "walk",
+   "Elk Camp bottom",
+   "Grey Wolf",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Banzai / Fanny Hill",
+   "Fanny Hill",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower Banzai / Fanny Hill",
+   "Coney Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Gunner's View / Grey Wolf",
+   "Elk Camp bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Gunner's View / Grey Wolf",
+   "Turkey Trot",
+   5.9
+  ],
+  [
+   "walk",
+   "Gunner's View / Grey Wolf",
+   "Turkey Trot 4",
+   4.6
+  ],
+  [
+   "walk",
+   "Gunner's View / Grey Wolf",
+   "Grey Wolf",
+   4.6
+  ],
+  [
+   "walk",
+   "Gunner's View / Grey Wolf",
+   "Elk Camp Gondola top",
+   3.8
+  ],
+  [
+   "walk",
+   "Gunner's View / Grey Wolf",
+   "Two Creeks top",
+   6.0
+  ],
+  [
+   "walk",
+   "Creekside (Upper) / Funnel Bypass",
+   "Grey Wolf",
+   6.9
+  ],
+  [
+   "walk",
+   "Monkshood / Wineskin",
+   "Whispering Jesse / Timberline",
+   1.5
+  ],
+  [
+   "walk",
+   "Monkshood / Wineskin",
+   "Wineskin 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Monkshood / Wineskin",
+   "Trestle",
+   2.6
+  ],
+  [
+   "walk",
+   "Whispering Jesse / Timberline",
+   "Monkshood / Wineskin",
+   1.5
+  ],
+  [
+   "walk",
+   "Whispering Jesse / Timberline",
+   "Wineskin 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Whispering Jesse / Timberline",
+   "Trestle",
+   2.9
+  ],
+  [
+   "walk",
+   "Wineskin 2",
+   "Monkshood / Wineskin",
+   1.6
+  ],
+  [
+   "walk",
+   "Wineskin 2",
+   "Whispering Jesse / Timberline",
+   1.9
+  ],
+  [
+   "walk",
+   "Wineskin 2",
+   "Trestle",
+   3.0
+  ],
+  [
+   "walk",
+   "Wineskin 3",
+   "Monkshood / Wineskin",
+   3.6
+  ],
+  [
+   "walk",
+   "Wineskin 3",
+   "Whispering Jesse / Timberline",
+   3.9
+  ],
+  [
+   "walk",
+   "Wineskin 3",
+   "Wineskin 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Wineskin 3",
+   "Trestle",
+   5.0
+  ],
+  [
+   "walk",
+   "Lunchline (Upper) 3",
+   "Monkshood / Wineskin",
+   3.9
+  ],
+  [
+   "walk",
+   "Lunchline (Upper) 3",
+   "Whispering Jesse / Timberline",
+   4.2
+  ],
+  [
+   "walk",
+   "Lunchline (Upper) 3",
+   "Wineskin 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Lunchline (Upper) 3",
+   "Trestle",
+   5.3
+  ],
+  [
+   "walk",
+   "Coney Express top",
+   "Monkshood / Wineskin",
+   4.9
+  ],
+  [
+   "walk",
+   "Coney Express top",
+   "Whispering Jesse / Timberline",
+   5.2
+  ],
+  [
+   "walk",
+   "Coney Express top",
+   "Trestle",
+   6.3
+  ],
+  [
+   "walk",
+   "Lunchline (Upper) 2",
+   "Monkshood / Wineskin",
+   6.6
+  ],
+  [
+   "walk",
+   "Lunchline (Upper) 2",
+   "Whispering Jesse / Timberline",
+   6.9
+  ]
+ ],
+ "base": "Campground bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "18",
+  "downhill_trails": "140",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

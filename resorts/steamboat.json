@@ -1,0 +1,7171 @@
+{
+ "name": "Steamboat Ski Resort",
+ "source": "OpenSkiMap ski area 1b452491f464540026e80e10ab6d7290b414c1f6",
+ "origin_lonlat": [
+  -106.76538911713268,
+  40.455351326583106
+ ],
+ "nodes": {
+  "Blizzard / Rudi's Run": [
+   -422,
+   -70,
+   2699.3
+  ],
+  "Blizzard / Twister": [
+   -227,
+   156,
+   2599.6
+  ],
+  "Last Chance / Half Hitch": [
+   982,
+   912,
+   2924.1
+  ],
+  "Burgess Creek top": [
+   -275,
+   -414,
+   2802.5
+  ],
+  "Velvet / Why Not Upper": [
+   -32,
+   -317,
+   2763.0
+  ],
+  "Vagabond Lower / Betwixt": [
+   -769,
+   689,
+   2548.5
+  ],
+  "Vagabond Lower / BC Ski Way": [
+   -1675,
+   956,
+   2270.1
+  ],
+  "Lights Out / Sunset": [
+   313,
+   -420,
+   2776.4
+  ],
+  "Lights Out / Moonlight": [
+   78,
+   -647,
+   2667.8
+  ],
+  "Typhoon / Tornado": [
+   539,
+   144,
+   2909.8
+  ],
+  "Typhoon / Tornado Lane": [
+   254,
+   473,
+   2722.4
+  ],
+  "Twilight / High Noon": [
+   1203,
+   -1132,
+   3037.3
+  ],
+  "Twilight / Daybreak": [
+   474,
+   -1332,
+   2758.7
+  ],
+  "WJW / Longhorn": [
+   190,
+   803,
+   2729.5
+  ],
+  "WJW / Drop Out": [
+   -49,
+   694,
+   2631.9
+  ],
+  "All Out / Sitz": [
+   -2060,
+   262,
+   2362.3
+  ],
+  "All Out / Lower Valley View": [
+   -2662,
+   430,
+   2180.0
+  ],
+  "Why Not / Why Not Lower": [
+   -1540,
+   1049,
+   2305.1
+  ],
+  "Why Not": [
+   -1797,
+   1056,
+   2262.7
+  ],
+  "Morningside Lift top": [
+   1793,
+   -13,
+   3210.9
+  ],
+  "Morningside Lift bottom": [
+   2115,
+   -763,
+   3048.7
+  ],
+  "Pony Express top": [
+   942,
+   1081,
+   2967.6
+  ],
+  "Longhorn / BC Ski Way": [
+   -433,
+   838,
+   2487.1
+  ],
+  "Short Cut / Giggle Gulch": [
+   -1984,
+   691,
+   2259.8
+  ],
+  "Short Cut / Stampede": [
+   -2591,
+   467,
+   2190.7
+  ],
+  "Jump Start / Sundial": [
+   1706,
+   -820,
+   3125.5
+  ],
+  "Jump Start / Bail Out": [
+   1829,
+   -637,
+   3074.5
+  ],
+  "Christmas Tree Bowl / Alarm Clock": [
+   1848,
+   0,
+   3208.6
+  ],
+  "Christmas Tree Bowl / Chute 1": [
+   1551,
+   298,
+   3048.4
+  ],
+  "Norther / Tower": [
+   -410,
+   -385,
+   2773.6
+  ],
+  "Blizzard": [
+   -351,
+   -77,
+   2679.9
+  ],
+  "Longhorn": [
+   367,
+   803,
+   2779.3
+  ],
+  "Wapiti": [
+   409,
+   730,
+   2764.6
+  ],
+  "Eagle's Nest / Ted's Ridge": [
+   -1226,
+   137,
+   2523.2
+  ],
+  "Eagle's Nest / Between": [
+   -1402,
+   504,
+   2384.1
+  ],
+  "Chuckwagon / Drop Out": [
+   222,
+   631,
+   2728.8
+  ],
+  "Huevos / Cowboy Coffee": [
+   1747,
+   -519,
+   3082.1
+  ],
+  "South Peak top": [
+   422,
+   -1991,
+   2857.3
+  ],
+  "South Peak bottom": [
+   742,
+   -2380,
+   2762.8
+  ],
+  "Twister / Four Points Lift Line": [
+   660,
+   24,
+   2958.2
+  ],
+  "Lower Concentration / Betwixt": [
+   -1107,
+   251,
+   2479.4
+  ],
+  "Vagabond Lower": [
+   -1378,
+   778,
+   2325.1
+  ],
+  "Lower High Noon / Broadway": [
+   504,
+   -1849,
+   2843.1
+  ],
+  "Lower High Noon / Broadway 2": [
+   -95,
+   -1168,
+   2576.4
+  ],
+  "Lower Valley View / Jess' Cut Off": [
+   -1827,
+   -35,
+   2427.1
+  ],
+  "Wild Blue Gondola I bottom": [
+   -3232,
+   339,
+   2107.1
+  ],
+  "Snooze bar / Alarm Clock": [
+   2002,
+   -101,
+   3157.1
+  ],
+  "Sunnyside": [
+   -233,
+   -579,
+   2774.6
+  ],
+  "Elkhead Express bottom": [
+   -199,
+   -1158,
+   2571.6
+  ],
+  "Park Lane / Heavenly Daze": [
+   -603,
+   -234,
+   2761.3
+  ],
+  "Park Lane / BC Liftline": [
+   -316,
+   -205,
+   2725.6
+  ],
+  "Greenhorn Ranch Express top": [
+   -1492,
+   661,
+   2343.3
+  ],
+  "Greenhorn Ranch / Beeline": [
+   -1680,
+   726,
+   2306.3
+  ],
+  "Rainbow Lower / Why Not Upper": [
+   14,
+   -302,
+   2760.0
+  ],
+  "Rainbow Lower / Ego": [
+   -297,
+   304,
+   2575.9
+  ],
+  "Why Not Lower / Why Not Upper": [
+   -776,
+   741,
+   2547.5
+  ],
+  "Sundown Express top": [
+   1394,
+   -710,
+   3163.4
+  ],
+  "Traverse / High Line": [
+   1265,
+   -510,
+   3141.9
+  ],
+  "Valley View / Oops": [
+   -844,
+   -226,
+   2729.9
+  ],
+  "Valley View / Heavenly Daze": [
+   -1612,
+   -34,
+   2454.8
+  ],
+  "Sunshine Express top": [
+   1492,
+   -739,
+   3161.6
+  ],
+  "Tomahawk Face / Black Powder": [
+   1676,
+   -1197,
+   3028.2
+  ],
+  "Oops / Concentration": [
+   -939,
+   65,
+   2594.5
+  ],
+  "Sunshine Lift Line Upper / Rendezvous Way": [
+   1054,
+   -1678,
+   2928.3
+  ],
+  "Eagle's Nest": [
+   -1289,
+   354,
+   2446.7
+  ],
+  "Pressure Drop / Eclipse": [
+   347,
+   -218,
+   2864.3
+  ],
+  "Rainbow Lower": [
+   -116,
+   -21,
+   2656.6
+  ],
+  "Fawn / Rendezvous Way": [
+   810,
+   -1789,
+   2887.6
+  ],
+  "Spike": [
+   669,
+   -2130,
+   2811.1
+  ],
+  "High Line / High Noon": [
+   1303,
+   -990,
+   3092.9
+  ],
+  "Mahogany Ridge Express top": [
+   1179,
+   1488,
+   2986.1
+  ],
+  "Mahogany Ridge Express bottom": [
+   -731,
+   1813,
+   2418.1
+  ],
+  "Rolex / West Side": [
+   223,
+   -1673,
+   2808.7
+  ],
+  "Giggle Gulch / Rabbit Ears Terrain Park": [
+   -1762,
+   471,
+   2306.2
+  ],
+  "Four Points bottom": [
+   -254,
+   475,
+   2561.9
+  ],
+  "Longhorn 2": [
+   856,
+   999,
+   2951.3
+  ],
+  "Longhorn 3": [
+   635,
+   939,
+   2870.3
+  ],
+  "Betwixt": [
+   -1034,
+   371,
+   2500.0
+  ],
+  "Lower Concentration": [
+   -1236,
+   446,
+   2397.7
+  ],
+  "Huevos": [
+   1778,
+   -136,
+   3174.9
+  ],
+  "Rooster / Cowboy Coffee": [
+   1852,
+   -566,
+   3075.7
+  ],
+  "Royal Flush / Fool's Gold": [
+   839,
+   1162,
+   2945.2
+  ],
+  "Royal Flush": [
+   672,
+   1166,
+   2880.7
+  ],
+  "Rabbit Ears Terrain Park / Big Foot": [
+   -1713,
+   273,
+   2338.6
+  ],
+  "Stampede / Lil' Rodeo Park": [
+   -3197,
+   243,
+   2108.1
+  ],
+  "Nash Junction / Flying Z Gulch": [
+   543,
+   701,
+   2800.0
+  ],
+  "Buddy's Run Lower / Buddy's Run Upper": [
+   1150,
+   34,
+   3015.0
+  ],
+  "Buddy's Run Lower / Drop Out": [
+   288,
+   602,
+   2738.6
+  ],
+  "Eclipse / Sunset": [
+   465,
+   -267,
+   2861.3
+  ],
+  "Spike 2": [
+   560,
+   -1984,
+   2829.7
+  ],
+  "Vagabond Upper": [
+   -665,
+   -123,
+   2755.6
+  ],
+  "Ambush / Pony Express Liftline": [
+   327,
+   1048,
+   2734.8
+  ],
+  "Ambush / Royal Flush": [
+   83,
+   1172,
+   2630.3
+  ],
+  "Stampede": [
+   -2807,
+   361,
+   2163.3
+  ],
+  "Maverick's Halfpipe / Yoo-Hoo": [
+   -1897,
+   296,
+   2359.1
+  ],
+  "Maverick's Halfpipe": [
+   -1893,
+   485,
+   2305.0
+  ],
+  "Outlaw / Middle Rib": [
+   138,
+   1341,
+   2674.5
+  ],
+  "Jess' Cut Off / Bear Claw": [
+   -1927,
+   157,
+   2405.0
+  ],
+  "Vertigo / Heavenly Daze": [
+   -1132,
+   -95,
+   2618.8
+  ],
+  "Vertigo / Trick Roper": [
+   -1524,
+   205,
+   2386.3
+  ],
+  "BC Ski Way / Ego": [
+   -402,
+   795,
+   2499.5
+  ],
+  "Sideburn / Storm Peak Catwalk": [
+   1182,
+   -496,
+   3135.0
+  ],
+  "Sideburn / Storm Peak South": [
+   836,
+   -238,
+   2994.0
+  ],
+  "Bashor top": [
+   -1939,
+   276,
+   2367.1
+  ],
+  "Bashor bottom": [
+   -1931,
+   685,
+   2267.1
+  ],
+  "Black Powder / Hot Cakes": [
+   1763,
+   -912,
+   3107.2
+  ],
+  "Storm Peak Express top": [
+   1338,
+   -345,
+   3161.9
+  ],
+  "Edge of the World": [
+   835,
+   1552,
+   2926.4
+  ],
+  "Longhorn 4": [
+   473,
+   863,
+   2811.2
+  ],
+  "Buddy's Run Lower": [
+   354,
+   575,
+   2752.1
+  ],
+  "Giggle Gulch": [
+   -1829,
+   661,
+   2279.4
+  ],
+  "Broadway": [
+   268,
+   -1688,
+   2822.0
+  ],
+  "Broadway 2": [
+   -237,
+   -1427,
+   2610.5
+  ],
+  "Tomahawk Face": [
+   1670,
+   -1045,
+   3059.5
+  ],
+  "Rough Rider / Yoo-Hoo": [
+   -1717,
+   804,
+   2297.0
+  ],
+  "Tornado / Tornado Lane": [
+   -21,
+   305,
+   2662.2
+  ],
+  "Fools Gold / Fool's Gold": [
+   708,
+   1073,
+   2897.2
+  ],
+  "Sitz / Sitzback": [
+   -1929,
+   45,
+   2442.1
+  ],
+  "Sitz / Voo Doo": [
+   -2092,
+   358,
+   2349.1
+  ],
+  "Trick Roper / Yoo-Hoo": [
+   -1618,
+   600,
+   2318.9
+  ],
+  "Huffman's / Spur Run": [
+   -515,
+   -463,
+   2741.4
+  ],
+  "Huffman's / Spur Run 2": [
+   -495,
+   -675,
+   2679.3
+  ],
+  "Ski-in/ski-out access trail / Right-o-Way": [
+   -2612,
+   636,
+   2169.0
+  ],
+  "Cub / Quickdraw": [
+   1444,
+   -1481,
+   2954.7
+  ],
+  "Velvet": [
+   -235,
+   -376,
+   2798.8
+  ],
+  "Rainbow Lower 2": [
+   -198,
+   92,
+   2615.6
+  ],
+  "BC Liftline / Tower": [
+   -291,
+   -376,
+   2798.9
+  ],
+  "Blizzard 2": [
+   -329,
+   -35,
+   2668.8
+  ],
+  "Buddy's Run Upper": [
+   1382,
+   -163,
+   3117.2
+  ],
+  "Sunset / Dusk": [
+   681,
+   -121,
+   2945.2
+  ],
+  "Tomahawk": [
+   1580,
+   -1955,
+   2928.9
+  ],
+  "Ramrod / Quickdraw": [
+   1165,
+   -2162,
+   2833.2
+  ],
+  "Calf Roper / Unnamed run": [
+   728,
+   6,
+   2964.8
+  ],
+  "Buddy's Run Upper 2": [
+   1453,
+   -283,
+   3153.1
+  ],
+  "Cowboy Coffee": [
+   1591,
+   -476,
+   3100.2
+  ],
+  "Flying Z Gulch / Half Hitch": [
+   821,
+   719,
+   2891.9
+  ],
+  "Wapiti 2": [
+   389,
+   615,
+   2754.7
+  ],
+  "Vortex / Drop Out": [
+   163,
+   630,
+   2724.4
+  ],
+  "Steamboat Gondola top": [
+   -745,
+   -207,
+   2763.5
+  ],
+  "Cyclone / Meadow Lane": [
+   731,
+   87,
+   2952.7
+  ],
+  "Thunderhead Express bottom": [
+   -1783,
+   1010,
+   2261.6
+  ],
+  "Right-o-Way": [
+   -3251,
+   227,
+   2101.4
+  ],
+  "Fool's Gold / Fairway": [
+   911,
+   1184,
+   2962.0
+  ],
+  "Fool's Gold / Pony Express Liftline": [
+   666,
+   1063,
+   2881.2
+  ],
+  "Pony Express bottom": [
+   -493,
+   1022,
+   2463.8
+  ],
+  "Spur Run": [
+   -383,
+   -763,
+   2707.1
+  ],
+  "Spur Run 2": [
+   -408,
+   -966,
+   2648.3
+  ],
+  "Four Points top": [
+   778,
+   -63,
+   2975.8
+  ],
+  "Chute 3 / First Chance": [
+   1380,
+   466,
+   3018.0
+  ],
+  "Sideburn": [
+   1062,
+   -447,
+   3105.8
+  ],
+  "Sunset": [
+   417,
+   -316,
+   2831.3
+  ],
+  "Pony Express Liftline": [
+   140,
+   1032,
+   2657.3
+  ],
+  "Sunset 2": [
+   622,
+   -185,
+   2924.4
+  ],
+  "Sundial / Quickdraw": [
+   1516,
+   -1229,
+   3010.6
+  ],
+  "Swinger": [
+   -1833,
+   834,
+   2281.5
+  ],
+  "Swinger 2": [
+   -1956,
+   861,
+   2258.0
+  ],
+  "Dusk / Rainbow Upper": [
+   436,
+   -146,
+   2881.4
+  ],
+  "Pony Express Liftline 2": [
+   451,
+   1054,
+   2788.3
+  ],
+  "Diamond Hitch": [
+   355,
+   980,
+   2746.2
+  ],
+  "Alarm CLock / Wake Up Call": [
+   1939,
+   32,
+   3200.2
+  ],
+  "First Chance / Big Meadow": [
+   1105,
+   550,
+   2983.7
+  ],
+  "Shadows / Moonlight": [
+   49,
+   -849,
+   2628.0
+  ],
+  "Right-o-Way 2": [
+   -2318,
+   835,
+   2189.9
+  ],
+  "Lower High Noon": [
+   505,
+   -1734,
+   2821.8
+  ],
+  "Lower High Noon 2": [
+   34,
+   -1171,
+   2599.6
+  ],
+  "Pony Express Liftline 3": [
+   84,
+   1046,
+   2639.5
+  ],
+  "Pony Express Lift Line / Middle Rib": [
+   -32,
+   1125,
+   2596.8
+  ],
+  "Sitz": [
+   -1994,
+   177,
+   2389.4
+  ],
+  "Vagabond Upper 2": [
+   -688,
+   102,
+   2701.7
+  ],
+  "Edge of the World 2": [
+   826,
+   1619,
+   2911.8
+  ],
+  "Buddy's Run Lower 2": [
+   853,
+   399,
+   2913.3
+  ],
+  "Tomahawk 2": [
+   1628,
+   -1820,
+   2951.7
+  ],
+  "Tomahawk 3": [
+   1454,
+   -2291,
+   2868.0
+  ],
+  "Fetcher Glade / Middle Rib": [
+   809,
+   1298,
+   2928.4
+  ],
+  "Fetcher Glade / Middle Rib 2": [
+   581,
+   1351,
+   2846.8
+  ],
+  "Storm Peak Express bottom": [
+   -387,
+   754,
+   2506.0
+  ],
+  "Right-o-Way 3": [
+   -2776,
+   502,
+   2147.0
+  ],
+  "Arc / Tower": [
+   -367,
+   -391,
+   2784.6
+  ],
+  "Flatout / Lightning": [
+   -346,
+   299,
+   2582.2
+  ],
+  "Why Not Upper": [
+   -698,
+   729,
+   2552.4
+  ],
+  "Two O'Clock / High Noon": [
+   1091,
+   -1346,
+   2985.9
+  ],
+  "Daybreak": [
+   538,
+   -1490,
+   2789.3
+  ],
+  "Spur Run 3": [
+   -206,
+   -929,
+   2628.5
+  ],
+  "Chute 1": [
+   1693,
+   64,
+   3180.1
+  ],
+  "Chute 3": [
+   1667,
+   205,
+   3082.6
+  ],
+  "Cowboy Coffee 2": [
+   1937,
+   -672,
+   3063.8
+  ],
+  "Pony Express Liftline 4": [
+   -142,
+   1044,
+   2564.0
+  ],
+  "Buddy's Run Upper 3": [
+   1226,
+   -41,
+   3049.1
+  ],
+  "Cowboy Coffee 3": [
+   1496,
+   -464,
+   3121.0
+  ],
+  "Sundial": [
+   1566,
+   -761,
+   3145.4
+  ],
+  "Cowboy Coffee 4": [
+   1658,
+   -499,
+   3091.3
+  ],
+  "Short Cut": [
+   -2476,
+   531,
+   2203.6
+  ],
+  "Longhorn 5": [
+   17,
+   891,
+   2651.1
+  ],
+  "Pony Express Liftline 5": [
+   -203,
+   1042,
+   2537.9
+  ],
+  "Sunshine Lift Line Upper": [
+   1444,
+   -847,
+   3135.2
+  ],
+  "Tomahawk 4": [
+   875,
+   -2297,
+   2786.3
+  ],
+  "Sunshine Lift Line Upper 2": [
+   1081,
+   -1617,
+   2944.0
+  ],
+  "Vagabond Upper 3": [
+   -673,
+   -47,
+   2730.5
+  ],
+  "Sundown Express bottom": [
+   -114,
+   -1077,
+   2576.9
+  ],
+  "Tomahawk Face 2": [
+   1552,
+   -816,
+   3134.7
+  ],
+  "High Line": [
+   1264,
+   -944,
+   3101.1
+  ],
+  "Daybreak 2": [
+   234,
+   -1130,
+   2663.4
+  ],
+  "Snooze bar": [
+   2142,
+   -386,
+   3094.7
+  ],
+  "Tomahawk 5": [
+   1651,
+   -1724,
+   2963.8
+  ],
+  "Quickdraw": [
+   1326,
+   -1867,
+   2877.9
+  ],
+  "Storm Peak South": [
+   1086,
+   -363,
+   3113.8
+  ],
+  "One O'Clock / High Noon": [
+   1040,
+   -1505,
+   2966.3
+  ],
+  "Daybreak 3": [
+   540,
+   -1626,
+   2804.0
+  ],
+  "Vagabond Upper 4": [
+   -726,
+   408,
+   2626.9
+  ],
+  "Surprise / So What": [
+   -497,
+   632,
+   2531.9
+  ],
+  "Tomahawk 6": [
+   1658,
+   -1561,
+   2983.8
+  ],
+  "Quickdraw 2": [
+   1357,
+   -1772,
+   2895.1
+  ],
+  "Meadow Lane": [
+   781,
+   156,
+   2947.6
+  ],
+  "Big Meadow": [
+   1306,
+   157,
+   3024.3
+  ],
+  "Big Meadow 2": [
+   1025,
+   595,
+   2969.7
+  ],
+  "Sunshine Lift Line Upper 3": [
+   1104,
+   -1568,
+   2954.3
+  ],
+  "Burgess Creek bottom": [
+   -384,
+   605,
+   2518.1
+  ],
+  "Outlaw": [
+   -485,
+   1297,
+   2488.7
+  ],
+  "Unnamed run / Sunshine Liftline Lower": [
+   866,
+   -2230,
+   2791.4
+  ],
+  "Boulevard / Giggle Gulch": [
+   -1464,
+   549,
+   2359.5
+  ],
+  "Longhorn 6": [
+   895,
+   1014,
+   2958.1
+  ],
+  "Shadows": [
+   639,
+   -796,
+   2912.7
+  ],
+  "Sunset 3": [
+   350,
+   -386,
+   2793.6
+  ],
+  "Middle Rib": [
+   852,
+   1263,
+   2941.8
+  ],
+  "Middle Rib 2": [
+   27,
+   1172,
+   2613.4
+  ],
+  "Rudi's Run": [
+   -505,
+   -58,
+   2700.6
+  ],
+  "Heavenly Daze": [
+   -1037,
+   -108,
+   2647.3
+  ],
+  "Big Meadow 3": [
+   1045,
+   557,
+   2975.9
+  ],
+  "Wapiti 3": [
+   439,
+   657,
+   2768.9
+  ],
+  "Giggle Gulch 2": [
+   -1800,
+   607,
+   2286.9
+  ],
+  "Rainbow Lower 3": [
+   -167,
+   62,
+   2626.5
+  ],
+  "Big Meadow 4": [
+   840,
+   646,
+   2910.7
+  ],
+  "Spur Run 4": [
+   3,
+   -939,
+   2610.6
+  ],
+  "Sunshine Express bottom": [
+   819,
+   -2282,
+   2781.9
+  ],
+  "Rainbow Lower 4": [
+   -273,
+   252,
+   2583.8
+  ],
+  "Wildhorse Gondola bottom": [
+   -3988,
+   222,
+   2075.5
+  ],
+  "Wildhorse Gondola top": [
+   -3398,
+   162,
+   2103.8
+  ],
+  "Thunderhead Express top": [
+   -678,
+   -166,
+   2766.4
+  ],
+  "Wild Blue Gondola I top": [
+   -1914,
+   756,
+   2282.7
+  ],
+  "Elkhead Express top": [
+   -252,
+   -465,
+   2803.7
+  ],
+  "Bar UE bottom": [
+   349,
+   634,
+   2749.0
+  ],
+  "Bar UE top": [
+   1383,
+   -315,
+   3162.5
+  ],
+  "Buckaroo bottom": [
+   -3257,
+   160,
+   2098.7
+  ],
+  "Wild Blue Gondola II top": [
+   1435,
+   -688,
+   3159.7
+  ],
+  "Steamboat Gondola bottom": [
+   -3216,
+   190,
+   2104.7
+  ],
+  "Christie Peak Express bottom": [
+   -3198,
+   303,
+   2107.5
+  ],
+  "Christie Peak Express top": [
+   -1951,
+   8,
+   2442.9
+  ],
+  "Greenhorn Ranch Express bottom": [
+   -1751,
+   903,
+   2279.0
+  ]
+ },
+ "lifts": [
+  [
+   "South Peak",
+   "South Peak bottom",
+   "South Peak top",
+   7.0
+  ],
+  [
+   "Wildhorse Gondola",
+   "Wildhorse Gondola bottom",
+   "Wildhorse Gondola top",
+   6.0
+  ],
+  [
+   "Wildhorse Gondola",
+   "Wildhorse Gondola top",
+   "Wildhorse Gondola bottom",
+   6.0
+  ],
+  [
+   "Thunderhead Express",
+   "Thunderhead Express bottom",
+   "Thunderhead Express top",
+   9.0
+  ],
+  [
+   "Wild Blue Gondola I",
+   "Wild Blue Gondola I bottom",
+   "Wild Blue Gondola I top",
+   7.6
+  ],
+  [
+   "Wild Blue Gondola I",
+   "Wild Blue Gondola I top",
+   "Wild Blue Gondola I bottom",
+   7.6
+  ],
+  [
+   "Sunshine Express",
+   "Sunshine Express bottom",
+   "Sunshine Express top",
+   14.0
+  ],
+  [
+   "Burgess Creek",
+   "Burgess Creek bottom",
+   "Burgess Creek top",
+   10.7
+  ],
+  [
+   "Elkhead Express",
+   "Elkhead Express bottom",
+   "Elkhead Express top",
+   9.0
+  ],
+  [
+   "Sundown Express",
+   "Sundown Express bottom",
+   "Sundown Express top",
+   9.0
+  ],
+  [
+   "Bashor",
+   "Bashor bottom",
+   "Bashor top",
+   6.2
+  ],
+  [
+   "Morningside Lift",
+   "Morningside Lift bottom",
+   "Morningside Lift top",
+   9.0
+  ],
+  [
+   "Bar UE",
+   "Bar UE bottom",
+   "Bar UE top",
+   12.0
+  ],
+  [
+   "Wild Blue Gondola II",
+   "Wild Blue Gondola I top",
+   "Wild Blue Gondola II top",
+   15.6
+  ],
+  [
+   "Wild Blue Gondola II",
+   "Wild Blue Gondola II top",
+   "Wild Blue Gondola I top",
+   15.6
+  ],
+  [
+   "Four Points",
+   "Four Points bottom",
+   "Four Points top",
+   11.0
+  ],
+  [
+   "Steamboat Gondola",
+   "Steamboat Gondola bottom",
+   "Steamboat Gondola top",
+   12.0
+  ],
+  [
+   "Steamboat Gondola",
+   "Steamboat Gondola top",
+   "Steamboat Gondola bottom",
+   12.0
+  ],
+  [
+   "Storm Peak Express",
+   "Storm Peak Express bottom",
+   "Storm Peak Express top",
+   12.0
+  ],
+  [
+   "Christie Peak Express",
+   "Christie Peak Express bottom",
+   "Christie Peak Express top",
+   11.0
+  ],
+  [
+   "Pony Express",
+   "Pony Express bottom",
+   "Pony Express top",
+   8.0
+  ],
+  [
+   "Greenhorn Ranch Express",
+   "Greenhorn Ranch Express bottom",
+   "Greenhorn Ranch Express top",
+   4.2
+  ],
+  [
+   "Mahogany Ridge Express",
+   "Mahogany Ridge Express bottom",
+   "Mahogany Ridge Express top",
+   9.7
+  ]
+ ],
+ "runs": [
+  [
+   "Blizzard",
+   "Blizzard / Rudi's Run",
+   "Blizzard",
+   0.5
+  ],
+  [
+   "Blizzard",
+   "Blizzard",
+   "Blizzard 2",
+   0.5
+  ],
+  [
+   "Blizzard",
+   "Blizzard 2",
+   "Blizzard / Twister",
+   0.8
+  ],
+  [
+   "Velvet",
+   "Burgess Creek top",
+   "Velvet",
+   0.5
+  ],
+  [
+   "Velvet",
+   "Velvet",
+   "Velvet / Why Not Upper",
+   0.9
+  ],
+  [
+   "Vagabond Lower",
+   "Vagabond Lower / Betwixt",
+   "Vagabond Lower",
+   2.8
+  ],
+  [
+   "Vagabond Lower",
+   "Vagabond Lower",
+   "Vagabond Lower / BC Ski Way",
+   1.5
+  ],
+  [
+   "Lights Out",
+   "Lights Out / Sunset",
+   "Lights Out / Moonlight",
+   1.3
+  ],
+  [
+   "Typhoon",
+   "Typhoon / Tornado",
+   "Typhoon / Tornado Lane",
+   2.0
+  ],
+  [
+   "Twilight",
+   "Twilight / High Noon",
+   "Twilight / Daybreak",
+   3.3
+  ],
+  [
+   "WJW",
+   "WJW / Longhorn",
+   "WJW / Drop Out",
+   1.1
+  ],
+  [
+   "All Out",
+   "All Out / Sitz",
+   "All Out / Lower Valley View",
+   2.7
+  ],
+  [
+   "Why Not",
+   "Why Not / Why Not Lower",
+   "Why Not",
+   1.1
+  ],
+  [
+   "Morningside Liftline",
+   "Morningside Lift top",
+   "Morningside Lift bottom",
+   3.3
+  ],
+  [
+   "Longhorn",
+   "Pony Express top",
+   "Longhorn 6",
+   0.5
+  ],
+  [
+   "Longhorn",
+   "Longhorn 6",
+   "Longhorn 2",
+   0.5
+  ],
+  [
+   "Longhorn",
+   "Longhorn 2",
+   "Longhorn 3",
+   1.1
+  ],
+  [
+   "Longhorn",
+   "Longhorn 3",
+   "Longhorn 4",
+   0.8
+  ],
+  [
+   "Longhorn",
+   "Longhorn 4",
+   "Longhorn",
+   0.5
+  ],
+  [
+   "Longhorn",
+   "Longhorn",
+   "WJW / Longhorn",
+   0.8
+  ],
+  [
+   "Longhorn",
+   "WJW / Longhorn",
+   "Longhorn 5",
+   1.0
+  ],
+  [
+   "Longhorn",
+   "Longhorn 5",
+   "Longhorn / BC Ski Way",
+   2.1
+  ],
+  [
+   "Short Cut",
+   "Short Cut / Giggle Gulch",
+   "Short Cut",
+   2.2
+  ],
+  [
+   "Short Cut",
+   "Short Cut",
+   "Short Cut / Stampede",
+   0.5
+  ],
+  [
+   "Jump Start",
+   "Jump Start / Sundial",
+   "Jump Start / Bail Out",
+   0.8
+  ],
+  [
+   "Christmas Tree Bowl",
+   "Christmas Tree Bowl / Alarm Clock",
+   "Christmas Tree Bowl / Chute 1",
+   2.0
+  ],
+  [
+   "Norther",
+   "Norther / Tower",
+   "Blizzard",
+   1.3
+  ],
+  [
+   "Wapiti",
+   "Longhorn",
+   "Wapiti",
+   0.5
+  ],
+  [
+   "Eagle's Nest",
+   "Eagle's Nest / Ted's Ridge",
+   "Eagle's Nest",
+   0.9
+  ],
+  [
+   "Eagle's Nest",
+   "Eagle's Nest",
+   "Eagle's Nest / Between",
+   0.8
+  ],
+  [
+   "Chuckwagon",
+   "Longhorn",
+   "Chuckwagon / Drop Out",
+   0.8
+  ],
+  [
+   "Huevos",
+   "Morningside Lift top",
+   "Huevos",
+   0.5
+  ],
+  [
+   "Huevos",
+   "Huevos",
+   "Huevos / Cowboy Coffee",
+   1.8
+  ],
+  [
+   "Spike",
+   "South Peak top",
+   "Spike 2",
+   0.5
+  ],
+  [
+   "Spike",
+   "Spike 2",
+   "Spike",
+   0.8
+  ],
+  [
+   "Spike",
+   "Spike",
+   "South Peak bottom",
+   1.2
+  ],
+  [
+   "Twister",
+   "Twister / Four Points Lift Line",
+   "Blizzard / Twister",
+   4.1
+  ],
+  [
+   "Lower Concentration",
+   "Lower Concentration / Betwixt",
+   "Lower Concentration",
+   0.9
+  ],
+  [
+   "Lower Concentration",
+   "Lower Concentration",
+   "Vagabond Lower",
+   1.5
+  ],
+  [
+   "Lower High Noon",
+   "Lower High Noon / Broadway",
+   "Lower High Noon",
+   0.5
+  ],
+  [
+   "Lower High Noon",
+   "Lower High Noon",
+   "Lower High Noon 2",
+   3.3
+  ],
+  [
+   "Lower High Noon",
+   "Lower High Noon 2",
+   "Lower High Noon / Broadway 2",
+   0.6
+  ],
+  [
+   "Lower Valley View",
+   "Lower Valley View / Jess' Cut Off",
+   "All Out / Lower Valley View",
+   4.5
+  ],
+  [
+   "Wild Blue Way",
+   "All Out / Lower Valley View",
+   "Wild Blue Gondola I bottom",
+   2.3
+  ],
+  [
+   "Snooze bar",
+   "Snooze bar / Alarm Clock",
+   "Snooze bar",
+   1.2
+  ],
+  [
+   "Snooze bar",
+   "Snooze bar",
+   "Morningside Lift bottom",
+   1.8
+  ],
+  [
+   "Sunnyside",
+   "Sunnyside",
+   "Elkhead Express bottom",
+   2.7
+  ],
+  [
+   "Park Lane",
+   "Park Lane / Heavenly Daze",
+   "Park Lane / BC Liftline",
+   1.2
+  ],
+  [
+   "Greenhorn Ranch",
+   "Greenhorn Ranch Express top",
+   "Greenhorn Ranch / Beeline",
+   0.7
+  ],
+  [
+   "Rainbow Lower",
+   "Rainbow Lower / Why Not Upper",
+   "Rainbow Lower",
+   1.2
+  ],
+  [
+   "Rainbow Lower",
+   "Rainbow Lower",
+   "Rainbow Lower 3",
+   0.5
+  ],
+  [
+   "Rainbow Lower",
+   "Rainbow Lower 3",
+   "Rainbow Lower 2",
+   0.5
+  ],
+  [
+   "Rainbow Lower",
+   "Rainbow Lower 2",
+   "Blizzard / Twister",
+   0.5
+  ],
+  [
+   "Rainbow Lower",
+   "Blizzard / Twister",
+   "Rainbow Lower 4",
+   0.5
+  ],
+  [
+   "Rainbow Lower",
+   "Rainbow Lower 4",
+   "Rainbow Lower / Ego",
+   0.5
+  ],
+  [
+   "Why Not Lower",
+   "Why Not Lower / Why Not Upper",
+   "Why Not / Why Not Lower",
+   9.3
+  ],
+  [
+   "Traverse",
+   "Sundown Express top",
+   "Traverse / High Line",
+   0.8
+  ],
+  [
+   "Valley View",
+   "Valley View / Oops",
+   "Valley View / Heavenly Daze",
+   3.9
+  ],
+  [
+   "Tomahawk Face",
+   "Sunshine Express top",
+   "Tomahawk Face 2",
+   0.5
+  ],
+  [
+   "Tomahawk Face",
+   "Tomahawk Face 2",
+   "Tomahawk Face",
+   1.2
+  ],
+  [
+   "Tomahawk Face",
+   "Tomahawk Face",
+   "Tomahawk Face / Black Powder",
+   0.5
+  ],
+  [
+   "Oops",
+   "Valley View / Oops",
+   "Oops / Concentration",
+   1.3
+  ],
+  [
+   "Sunshine Lift Line Upper",
+   "Sunshine Express top",
+   "Sunshine Lift Line Upper",
+   0.5
+  ],
+  [
+   "Sunshine Lift Line Upper",
+   "Sunshine Lift Line Upper",
+   "Sunshine Lift Line Upper 3",
+   3.4
+  ],
+  [
+   "Sunshine Lift Line Upper",
+   "Sunshine Lift Line Upper 3",
+   "Sunshine Lift Line Upper 2",
+   0.5
+  ],
+  [
+   "Sunshine Lift Line Upper",
+   "Sunshine Lift Line Upper 2",
+   "Sunshine Lift Line Upper / Rendezvous Way",
+   0.5
+  ],
+  [
+   "Betwixt",
+   "Vagabond Lower / Betwixt",
+   "Betwixt",
+   1.7
+  ],
+  [
+   "Betwixt",
+   "Betwixt",
+   "Lower Concentration / Betwixt",
+   0.6
+  ],
+  [
+   "Betwixt",
+   "Lower Concentration / Betwixt",
+   "Eagle's Nest",
+   1.0
+  ],
+  [
+   "Pressure Drop",
+   "Pressure Drop / Eclipse",
+   "Rainbow Lower",
+   2.1
+  ],
+  [
+   "Fawn",
+   "Fawn / Rendezvous Way",
+   "Spike",
+   1.5
+  ],
+  [
+   "High Line",
+   "Traverse / High Line",
+   "High Line",
+   1.8
+  ],
+  [
+   "High Line",
+   "High Line",
+   "High Line / High Noon",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Lower High Noon / Broadway",
+   "Broadway",
+   1.2
+  ],
+  [
+   "Broadway",
+   "Broadway",
+   "Broadway 2",
+   6.1
+  ],
+  [
+   "Broadway",
+   "Broadway 2",
+   "Lower High Noon / Broadway 2",
+   1.3
+  ],
+  [
+   "Heavenly Daze",
+   "Park Lane / Heavenly Daze",
+   "Valley View / Oops",
+   1.0
+  ],
+  [
+   "Edge of the World",
+   "Mahogany Ridge Express top",
+   "Edge of the World",
+   1.4
+  ],
+  [
+   "Edge of the World",
+   "Edge of the World",
+   "Edge of the World 2",
+   0.5
+  ],
+  [
+   "Edge of the World",
+   "Edge of the World 2",
+   "Mahogany Ridge Express bottom",
+   8.1
+  ],
+  [
+   "Rolex",
+   "Rolex / West Side",
+   "Lower High Noon / Broadway 2",
+   2.7
+  ],
+  [
+   "Giggle Gulch",
+   "Giggle Gulch / Rabbit Ears Terrain Park",
+   "Giggle Gulch 2",
+   0.5
+  ],
+  [
+   "Giggle Gulch",
+   "Giggle Gulch 2",
+   "Giggle Gulch",
+   0.5
+  ],
+  [
+   "Giggle Gulch",
+   "Giggle Gulch",
+   "Bashor bottom",
+   0.5
+  ],
+  [
+   "Giggle Gulch",
+   "Bashor bottom",
+   "Short Cut / Giggle Gulch",
+   0.5
+  ],
+  [
+   "Four Points Lift Line",
+   "Twister / Four Points Lift Line",
+   "Four Points bottom",
+   4.3
+  ],
+  [
+   "Perry Park",
+   "Longhorn 2",
+   "Longhorn 3",
+   1.0
+  ],
+  [
+   "Mother Nature",
+   "Betwixt",
+   "Lower Concentration",
+   0.9
+  ],
+  [
+   "Rooster",
+   "Huevos",
+   "Rooster / Cowboy Coffee",
+   1.8
+  ],
+  [
+   "Royal Flush",
+   "Royal Flush / Fool's Gold",
+   "Royal Flush",
+   0.6
+  ],
+  [
+   "Rabbit Ears Terrain Park",
+   "Rabbit Ears Terrain Park / Big Foot",
+   "Giggle Gulch / Rabbit Ears Terrain Park",
+   0.7
+  ],
+  [
+   "Stampede",
+   "Short Cut / Stampede",
+   "All Out / Lower Valley View",
+   0.5
+  ],
+  [
+   "Stampede",
+   "All Out / Lower Valley View",
+   "Stampede",
+   0.7
+  ],
+  [
+   "Stampede",
+   "Stampede",
+   "Stampede / Lil' Rodeo Park",
+   1.7
+  ],
+  [
+   "Nash Junction",
+   "Pony Express top",
+   "Longhorn 2",
+   0.7
+  ],
+  [
+   "Nash Junction",
+   "Longhorn 2",
+   "Nash Junction / Flying Z Gulch",
+   1.9
+  ],
+  [
+   "Buddy's Run Lower",
+   "Buddy's Run Lower / Buddy's Run Upper",
+   "Buddy's Run Lower 2",
+   2.0
+  ],
+  [
+   "Buddy's Run Lower",
+   "Buddy's Run Lower 2",
+   "Buddy's Run Lower",
+   2.3
+  ],
+  [
+   "Buddy's Run Lower",
+   "Buddy's Run Lower",
+   "Buddy's Run Lower / Drop Out",
+   0.5
+  ],
+  [
+   "Eclipse",
+   "Pressure Drop / Eclipse",
+   "Eclipse / Sunset",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Lower High Noon / Broadway",
+   "Spike 2",
+   0.5
+  ],
+  [
+   "Vagabond Upper",
+   "Vagabond Upper",
+   "Vagabond Upper 3",
+   0.5
+  ],
+  [
+   "Vagabond Upper",
+   "Vagabond Upper 3",
+   "Vagabond Upper 2",
+   0.6
+  ],
+  [
+   "Vagabond Upper",
+   "Vagabond Upper 2",
+   "Vagabond Upper 4",
+   1.3
+  ],
+  [
+   "Vagabond Upper",
+   "Vagabond Upper 4",
+   "Vagabond Lower / Betwixt",
+   1.3
+  ],
+  [
+   "Ambush",
+   "Ambush / Pony Express Liftline",
+   "Ambush / Royal Flush",
+   1.1
+  ],
+  [
+   "Lil' Rodeo Park",
+   "Stampede",
+   "Christie Peak Express bottom",
+   1.6
+  ],
+  [
+   "Lil' Rodeo Park",
+   "Christie Peak Express bottom",
+   "Stampede / Lil' Rodeo Park",
+   0.5
+  ],
+  [
+   "Maverick's Halfpipe",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   "Maverick's Halfpipe",
+   0.7
+  ],
+  [
+   "Cowboy Coffee",
+   "Traverse / High Line",
+   "Cowboy Coffee 3",
+   0.9
+  ],
+  [
+   "Cowboy Coffee",
+   "Cowboy Coffee 3",
+   "Cowboy Coffee",
+   0.5
+  ],
+  [
+   "Cowboy Coffee",
+   "Cowboy Coffee",
+   "Cowboy Coffee 4",
+   0.5
+  ],
+  [
+   "Cowboy Coffee",
+   "Cowboy Coffee 4",
+   "Huevos / Cowboy Coffee",
+   0.5
+  ],
+  [
+   "Cowboy Coffee",
+   "Huevos / Cowboy Coffee",
+   "Rooster / Cowboy Coffee",
+   0.5
+  ],
+  [
+   "Cowboy Coffee",
+   "Rooster / Cowboy Coffee",
+   "Cowboy Coffee 2",
+   0.6
+  ],
+  [
+   "Cowboy Coffee",
+   "Cowboy Coffee 2",
+   "Morningside Lift bottom",
+   0.9
+  ],
+  [
+   "Rudi's Run",
+   "Park Lane / Heavenly Daze",
+   "Rudi's Run",
+   0.7
+  ],
+  [
+   "Rudi's Run",
+   "Rudi's Run",
+   "Blizzard / Rudi's Run",
+   0.5
+  ],
+  [
+   "Outlaw",
+   "Outlaw / Middle Rib",
+   "Outlaw",
+   3.0
+  ],
+  [
+   "Outlaw",
+   "Outlaw",
+   "Mahogany Ridge Express bottom",
+   3.8
+  ],
+  [
+   "Between",
+   "Lower Concentration",
+   "Eagle's Nest / Between",
+   0.6
+  ],
+  [
+   "Jess' Cut Off",
+   "Lower Valley View / Jess' Cut Off",
+   "Jess' Cut Off / Bear Claw",
+   0.7
+  ],
+  [
+   "Vertigo",
+   "Vertigo / Heavenly Daze",
+   "Vertigo / Trick Roper",
+   2.2
+  ],
+  [
+   "BC Ski Way",
+   "BC Ski Way / Ego",
+   "Longhorn / BC Ski Way",
+   0.5
+  ],
+  [
+   "BC Ski Way",
+   "Longhorn / BC Ski Way",
+   "Pony Express bottom",
+   0.8
+  ],
+  [
+   "BC Ski Way",
+   "Pony Express bottom",
+   "Why Not / Why Not Lower",
+   6.5
+  ],
+  [
+   "BC Ski Way",
+   "Why Not / Why Not Lower",
+   "Vagabond Lower / BC Ski Way",
+   0.7
+  ],
+  [
+   "Sideburn",
+   "Sideburn / Storm Peak Catwalk",
+   "Sideburn",
+   0.5
+  ],
+  [
+   "Sideburn",
+   "Sideburn",
+   "Sideburn / Storm Peak South",
+   1.4
+  ],
+  [
+   "Bashor",
+   "Bashor top",
+   "Bashor bottom",
+   1.7
+  ],
+  [
+   "Black Powder",
+   "Black Powder / Hot Cakes",
+   "Tomahawk Face / Black Powder",
+   2.3
+  ],
+  [
+   "Buddy's Run Upper",
+   "Storm Peak Express top",
+   "Bar UE top",
+   0.5
+  ],
+  [
+   "Buddy's Run Upper",
+   "Bar UE top",
+   "Buddy's Run Upper 2",
+   0.5
+  ],
+  [
+   "Buddy's Run Upper",
+   "Buddy's Run Upper 2",
+   "Buddy's Run Upper",
+   0.7
+  ],
+  [
+   "Buddy's Run Upper",
+   "Buddy's Run Upper",
+   "Buddy's Run Upper 3",
+   0.9
+  ],
+  [
+   "Buddy's Run Upper",
+   "Buddy's Run Upper 3",
+   "Buddy's Run Lower / Buddy's Run Upper",
+   0.5
+  ],
+  [
+   "Mahogany Ridge Lift Line",
+   "Edge of the World",
+   "Mahogany Ridge Express bottom",
+   6.8
+  ],
+  [
+   "Wapiti",
+   "Longhorn 4",
+   "Wapiti",
+   0.5
+  ],
+  [
+   "Wapiti",
+   "Wapiti",
+   "Wapiti 3",
+   0.5
+  ],
+  [
+   "Wapiti",
+   "Wapiti 3",
+   "Wapiti 2",
+   0.5
+  ],
+  [
+   "Wapiti",
+   "Wapiti 2",
+   "Buddy's Run Lower",
+   0.5
+  ],
+  [
+   "Beeline",
+   "Greenhorn Ranch / Beeline",
+   "Giggle Gulch",
+   0.6
+  ],
+  [
+   "Alarm Clock",
+   "Morningside Lift top",
+   "Christmas Tree Bowl / Alarm Clock",
+   0.5
+  ],
+  [
+   "Alarm Clock",
+   "Christmas Tree Bowl / Alarm Clock",
+   "Snooze bar / Alarm Clock",
+   0.8
+  ],
+  [
+   "West Side",
+   "Broadway",
+   "Rolex / West Side",
+   0.5
+  ],
+  [
+   "West Side",
+   "Rolex / West Side",
+   "Broadway 2",
+   2.4
+  ],
+  [
+   "Tomahawk",
+   "Tomahawk Face",
+   "Tomahawk Face / Black Powder",
+   0.5
+  ],
+  [
+   "Tomahawk",
+   "Tomahawk Face / Black Powder",
+   "Tomahawk 6",
+   1.6
+  ],
+  [
+   "Tomahawk",
+   "Tomahawk 6",
+   "Tomahawk 5",
+   0.7
+  ],
+  [
+   "Tomahawk",
+   "Tomahawk 5",
+   "Tomahawk 2",
+   0.5
+  ],
+  [
+   "Tomahawk",
+   "Tomahawk 2",
+   "Tomahawk",
+   0.6
+  ],
+  [
+   "Tomahawk",
+   "Tomahawk",
+   "Tomahawk 3",
+   1.5
+  ],
+  [
+   "Tomahawk",
+   "Tomahawk 3",
+   "Tomahawk 4",
+   2.5
+  ],
+  [
+   "Tomahawk",
+   "Tomahawk 4",
+   "South Peak bottom",
+   0.6
+  ],
+  [
+   "Rough Rider",
+   "Greenhorn Ranch Express top",
+   "Rough Rider / Yoo-Hoo",
+   1.0
+  ],
+  [
+   "Tornado",
+   "Twister / Four Points Lift Line",
+   "Typhoon / Tornado",
+   0.5
+  ],
+  [
+   "Tornado",
+   "Typhoon / Tornado",
+   "Tornado / Tornado Lane",
+   2.8
+  ],
+  [
+   "Fools Gold",
+   "Pony Express top",
+   "Fools Gold / Fool's Gold",
+   0.9
+  ],
+  [
+   "Ego",
+   "Rainbow Lower / Ego",
+   "Burgess Creek bottom",
+   1.2
+  ],
+  [
+   "Ego",
+   "Burgess Creek bottom",
+   "Storm Peak Express bottom",
+   0.6
+  ],
+  [
+   "Ego",
+   "Storm Peak Express bottom",
+   "BC Ski Way / Ego",
+   0.5
+  ],
+  [
+   "Sitz",
+   "Sitz / Sitzback",
+   "Sitz",
+   0.5
+  ],
+  [
+   "Sitz",
+   "Sitz",
+   "All Out / Sitz",
+   0.5
+  ],
+  [
+   "Sitz",
+   "All Out / Sitz",
+   "Sitz / Voo Doo",
+   0.5
+  ],
+  [
+   "Trick Roper",
+   "Trick Roper / Yoo-Hoo",
+   "Vertigo / Trick Roper",
+   1.6
+  ],
+  [
+   "Huffman's",
+   "Huffman's / Spur Run",
+   "Huffman's / Spur Run 2",
+   0.9
+  ],
+  [
+   "Cub",
+   "Tomahawk Face / Black Powder",
+   "Cub / Quickdraw",
+   1.5
+  ],
+  [
+   "White Out",
+   "Velvet",
+   "Rainbow Lower 3",
+   1.9
+  ],
+  [
+   "White Out",
+   "Rainbow Lower 3",
+   "Rainbow Lower 2",
+   0.5
+  ],
+  [
+   "BC Liftline",
+   "BC Liftline / Tower",
+   "Park Lane / BC Liftline",
+   0.6
+  ],
+  [
+   "BC Liftline",
+   "Park Lane / BC Liftline",
+   "Blizzard",
+   0.6
+  ],
+  [
+   "BC Liftline",
+   "Blizzard",
+   "Blizzard 2",
+   0.5
+  ],
+  [
+   "Over Easy",
+   "Morningside Lift top",
+   "Buddy's Run Upper",
+   1.8
+  ],
+  [
+   "Sunset",
+   "Sunset / Dusk",
+   "Sunset 2",
+   0.5
+  ],
+  [
+   "Sunset",
+   "Sunset 2",
+   "Eclipse / Sunset",
+   0.8
+  ],
+  [
+   "Sunset",
+   "Eclipse / Sunset",
+   "Sunset",
+   0.5
+  ],
+  [
+   "Sunset",
+   "Sunset",
+   "Sunset 3",
+   0.5
+  ],
+  [
+   "Sunset",
+   "Sunset 3",
+   "Lights Out / Sunset",
+   0.5
+  ],
+  [
+   "Why Not Upper",
+   "Rainbow Lower / Why Not Upper",
+   "Velvet / Why Not Upper",
+   0.5
+  ],
+  [
+   "Why Not Upper",
+   "Velvet / Why Not Upper",
+   "Park Lane / BC Liftline",
+   1.3
+  ],
+  [
+   "Why Not Upper",
+   "Park Lane / BC Liftline",
+   "Blizzard / Rudi's Run",
+   0.8
+  ],
+  [
+   "Why Not Upper",
+   "Blizzard / Rudi's Run",
+   "Vagabond Upper 4",
+   2.6
+  ],
+  [
+   "Why Not Upper",
+   "Vagabond Upper 4",
+   "Why Not Upper",
+   3.5
+  ],
+  [
+   "Why Not Upper",
+   "Why Not Upper",
+   "Why Not Lower / Why Not Upper",
+   0.5
+  ],
+  [
+   "Ramrod",
+   "Tomahawk",
+   "Ramrod / Quickdraw",
+   1.9
+  ],
+  [
+   "See Me",
+   "All Out / Sitz",
+   "All Out / Lower Valley View",
+   2.6
+  ],
+  [
+   "Calf Roper",
+   "Buddy's Run Lower / Buddy's Run Upper",
+   "Calf Roper / Unnamed run",
+   1.7
+  ],
+  [
+   "Frying Pan",
+   "Buddy's Run Upper 2",
+   "Cowboy Coffee",
+   0.9
+  ],
+  [
+   "Flying Z Gulch",
+   "Flying Z Gulch / Half Hitch",
+   "Nash Junction / Flying Z Gulch",
+   1.1
+  ],
+  [
+   "Flying Z Gulch",
+   "Nash Junction / Flying Z Gulch",
+   "Wapiti 3",
+   0.5
+  ],
+  [
+   "Flying Z Gulch",
+   "Wapiti 3",
+   "Wapiti 2",
+   0.5
+  ],
+  [
+   "Bear Claw",
+   "Jess' Cut Off / Bear Claw",
+   "Bashor top",
+   0.5
+  ],
+  [
+   "Vortex",
+   "Vortex / Drop Out",
+   "Four Points bottom",
+   1.9
+  ],
+  [
+   "Spur Run",
+   "Steamboat Gondola top",
+   "Thunderhead Express top",
+   0.5
+  ],
+  [
+   "Spur Run",
+   "Thunderhead Express top",
+   "Park Lane / Heavenly Daze",
+   0.5
+  ],
+  [
+   "Spur Run",
+   "Park Lane / Heavenly Daze",
+   "Huffman's / Spur Run",
+   1.1
+  ],
+  [
+   "Spur Run",
+   "Huffman's / Spur Run",
+   "Spur Run",
+   1.6
+  ],
+  [
+   "Spur Run",
+   "Spur Run",
+   "Huffman's / Spur Run 2",
+   1.3
+  ],
+  [
+   "Spur Run",
+   "Huffman's / Spur Run 2",
+   "Spur Run 2",
+   1.6
+  ],
+  [
+   "Spur Run",
+   "Spur Run 2",
+   "Spur Run 3",
+   0.9
+  ],
+  [
+   "Spur Run",
+   "Spur Run 3",
+   "Spur Run 4",
+   1.0
+  ],
+  [
+   "Spur Run",
+   "Spur Run 4",
+   "Sundown Express bottom",
+   0.9
+  ],
+  [
+   "Spur Run",
+   "Sundown Express bottom",
+   "Elkhead Express bottom",
+   0.6
+  ],
+  [
+   "Biscuits",
+   "Sunshine Express top",
+   "Wild Blue Gondola II top",
+   0.5
+  ],
+  [
+   "Biscuits",
+   "Wild Blue Gondola II top",
+   "Cowboy Coffee",
+   1.0
+  ],
+  [
+   "Hot Cakes",
+   "Black Powder / Hot Cakes",
+   "Morningside Lift bottom",
+   1.5
+  ],
+  [
+   "Cyclone",
+   "Cyclone / Meadow Lane",
+   "Buddy's Run Lower",
+   2.6
+  ],
+  [
+   "Right-o-Way",
+   "Thunderhead Express bottom",
+   "Right-o-Way 2",
+   2.3
+  ],
+  [
+   "Right-o-Way",
+   "Right-o-Way 2",
+   "Ski-in/ski-out access trail / Right-o-Way",
+   1.6
+  ],
+  [
+   "Right-o-Way",
+   "Ski-in/ski-out access trail / Right-o-Way",
+   "Right-o-Way 3",
+   0.8
+  ],
+  [
+   "Right-o-Way",
+   "Right-o-Way 3",
+   "Wild Blue Gondola I bottom",
+   2.1
+  ],
+  [
+   "Right-o-Way",
+   "Wild Blue Gondola I bottom",
+   "Right-o-Way",
+   0.5
+  ],
+  [
+   "Fool's Gold",
+   "Fool's Gold / Fairway",
+   "Royal Flush / Fool's Gold",
+   0.5
+  ],
+  [
+   "Fool's Gold",
+   "Royal Flush / Fool's Gold",
+   "Fools Gold / Fool's Gold",
+   0.8
+  ],
+  [
+   "Fool's Gold",
+   "Fools Gold / Fool's Gold",
+   "Fool's Gold / Pony Express Liftline",
+   0.5
+  ],
+  [
+   "Pony Express Liftline",
+   "Pony Express top",
+   "Fools Gold / Fool's Gold",
+   0.8
+  ],
+  [
+   "Pony Express Liftline",
+   "Fools Gold / Fool's Gold",
+   "Fool's Gold / Pony Express Liftline",
+   0.5
+  ],
+  [
+   "Pony Express Liftline",
+   "Fool's Gold / Pony Express Liftline",
+   "Pony Express Liftline 2",
+   0.8
+  ],
+  [
+   "Pony Express Liftline",
+   "Pony Express Liftline 2",
+   "Ambush / Pony Express Liftline",
+   0.6
+  ],
+  [
+   "Pony Express Liftline",
+   "Ambush / Pony Express Liftline",
+   "Pony Express Liftline",
+   0.9
+  ],
+  [
+   "Pony Express Liftline",
+   "Pony Express Liftline",
+   "Pony Express Liftline 3",
+   0.5
+  ],
+  [
+   "Pony Express Liftline",
+   "Pony Express Liftline 3",
+   "Pony Express Liftline 4",
+   0.9
+  ],
+  [
+   "Pony Express Liftline",
+   "Pony Express Liftline 4",
+   "Pony Express Liftline 5",
+   0.5
+  ],
+  [
+   "Pony Express Liftline",
+   "Pony Express Liftline 5",
+   "Pony Express bottom",
+   1.2
+  ],
+  [
+   "Rowel",
+   "Spur Run",
+   "Spur Run 2",
+   0.8
+  ],
+  [
+   "Storm Peak North",
+   "Storm Peak Express top",
+   "Four Points top",
+   2.6
+  ],
+  [
+   "Chute 1",
+   "Morningside Lift top",
+   "Chute 1",
+   0.5
+  ],
+  [
+   "Chute 1",
+   "Chute 1",
+   "Christmas Tree Bowl / Chute 1",
+   1.3
+  ],
+  [
+   "Chute 3",
+   "Morningside Lift top",
+   "Chute 3",
+   1.1
+  ],
+  [
+   "Chute 3",
+   "Chute 3",
+   "Christmas Tree Bowl / Chute 1",
+   0.7
+  ],
+  [
+   "Chute 3",
+   "Christmas Tree Bowl / Chute 1",
+   "Chute 3 / First Chance",
+   1.0
+  ],
+  [
+   "Sideburn",
+   "Sideburn",
+   "Sunset",
+   2.9
+  ],
+  [
+   "Diamond Hitch",
+   "Fool's Gold / Pony Express Liftline",
+   "Diamond Hitch",
+   1.4
+  ],
+  [
+   "Diamond Hitch",
+   "Diamond Hitch",
+   "Pony Express Liftline",
+   1.0
+  ],
+  [
+   "Storm Peak South",
+   "Storm Peak Express top",
+   "Storm Peak South",
+   0.8
+  ],
+  [
+   "Storm Peak South",
+   "Storm Peak South",
+   "Sideburn / Storm Peak South",
+   1.3
+  ],
+  [
+   "Storm Peak South",
+   "Sideburn / Storm Peak South",
+   "Sunset 2",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Four Points top",
+   "Calf Roper / Unnamed run",
+   0.5
+  ],
+  [
+   "Sundial",
+   "Sundown Express top",
+   "Wild Blue Gondola II top",
+   0.5
+  ],
+  [
+   "Sundial",
+   "Wild Blue Gondola II top",
+   "Sunshine Express top",
+   0.5
+  ],
+  [
+   "Sundial",
+   "Sunshine Express top",
+   "Sundial",
+   0.5
+  ],
+  [
+   "Sundial",
+   "Sundial",
+   "Jump Start / Sundial",
+   0.7
+  ],
+  [
+   "Sundial",
+   "Jump Start / Sundial",
+   "Black Powder / Hot Cakes",
+   0.5
+  ],
+  [
+   "Sundial",
+   "Black Powder / Hot Cakes",
+   "Tomahawk Face",
+   0.7
+  ],
+  [
+   "Sundial",
+   "Tomahawk Face",
+   "Sundial / Quickdraw",
+   1.1
+  ],
+  [
+   "Swinger",
+   "Swinger",
+   "Swinger 2",
+   0.6
+  ],
+  [
+   "Dusk",
+   "Four Points top",
+   "Sunset / Dusk",
+   0.5
+  ],
+  [
+   "Dusk",
+   "Sunset / Dusk",
+   "Dusk / Rainbow Upper",
+   1.1
+  ],
+  [
+   "Diamond Hitch",
+   "Pony Express Liftline 2",
+   "Diamond Hitch",
+   0.5
+  ],
+  [
+   "Ski Daddle",
+   "Greenhorn Ranch Express top",
+   "Thunderhead Express bottom",
+   1.8
+  ],
+  [
+   "To Pony",
+   "Mahogany Ridge Express top",
+   "Pony Express top",
+   1.9
+  ],
+  [
+   "Alarm CLock",
+   "Alarm CLock / Wake Up Call",
+   "Snooze bar / Alarm Clock",
+   0.5
+  ],
+  [
+   "First Chance",
+   "Chute 3 / First Chance",
+   "First Chance / Big Meadow",
+   1.2
+  ],
+  [
+   "Shadows",
+   "Sundown Express top",
+   "Shadows",
+   3.2
+  ],
+  [
+   "Shadows",
+   "Shadows",
+   "Shadows / Moonlight",
+   2.7
+  ],
+  [
+   "Half Hitch",
+   "Pony Express top",
+   "Last Chance / Half Hitch",
+   0.6
+  ],
+  [
+   "Half Hitch",
+   "Last Chance / Half Hitch",
+   "Flying Z Gulch / Half Hitch",
+   1.1
+  ],
+  [
+   "Voo Doo",
+   "Sitz / Voo Doo",
+   "Short Cut / Stampede",
+   2.1
+  ],
+  [
+   "Corridor",
+   "Morningside Lift top",
+   "Buddy's Run Upper 2",
+   1.8
+  ],
+  [
+   "Giggle Gulch",
+   "Short Cut / Giggle Gulch",
+   "Right-o-Way 2",
+   1.4
+  ],
+  [
+   "Daybreak",
+   "Lower High Noon",
+   "Daybreak 3",
+   0.5
+  ],
+  [
+   "Daybreak",
+   "Daybreak 3",
+   "Daybreak",
+   0.5
+  ],
+  [
+   "Daybreak",
+   "Daybreak",
+   "Twilight / Daybreak",
+   0.7
+  ],
+  [
+   "Daybreak",
+   "Twilight / Daybreak",
+   "Daybreak 2",
+   1.4
+  ],
+  [
+   "Daybreak",
+   "Daybreak 2",
+   "Lower High Noon 2",
+   0.9
+  ],
+  [
+   "Pony Express Lift Line",
+   "Pony Express Liftline 3",
+   "Pony Express Lift Line / Middle Rib",
+   0.5
+  ],
+  [
+   "Jess' Cutoff, Jess' Cut Off",
+   "Jess' Cut Off / Bear Claw",
+   "Sitz",
+   0.5
+  ],
+  [
+   "Distraction",
+   "Vagabond Upper 2",
+   "Betwixt",
+   1.9
+  ],
+  [
+   "Yoo-Hoo",
+   "Bashor top",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   0.5
+  ],
+  [
+   "Yoo-Hoo",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   "Trick Roper / Yoo-Hoo",
+   2.9
+  ],
+  [
+   "Yoo-Hoo",
+   "Trick Roper / Yoo-Hoo",
+   "Greenhorn Ranch / Beeline",
+   0.6
+  ],
+  [
+   "Yoo-Hoo",
+   "Greenhorn Ranch / Beeline",
+   "Rough Rider / Yoo-Hoo",
+   0.5
+  ],
+  [
+   "Yoo-Hoo",
+   "Rough Rider / Yoo-Hoo",
+   "Greenhorn Ranch Express bottom",
+   0.5
+  ],
+  [
+   "Yoo-Hoo",
+   "Greenhorn Ranch Express bottom",
+   "Thunderhead Express bottom",
+   0.5
+  ],
+  [
+   "Sitzback",
+   "Sitz / Sitzback",
+   "Lower Valley View / Jess' Cut Off",
+   0.5
+  ],
+  [
+   "Big Foot",
+   "Vertigo / Trick Roper",
+   "Rabbit Ears Terrain Park / Big Foot",
+   0.7
+  ],
+  [
+   "Sunnyside",
+   "Sunnyside",
+   "Elkhead Express top",
+   0.5
+  ],
+  [
+   "Sunnyside",
+   "Elkhead Express top",
+   "Burgess Creek top",
+   0.5
+  ],
+  [
+   "Fairway",
+   "Fool's Gold / Fairway",
+   "Edge of the World",
+   1.8
+  ],
+  [
+   "Fairway",
+   "Edge of the World",
+   "Edge of the World 2",
+   0.5
+  ],
+  [
+   "Meadow Lane",
+   "Cyclone / Meadow Lane",
+   "Meadow Lane",
+   0.5
+  ],
+  [
+   "Meadow Lane",
+   "Meadow Lane",
+   "Buddy's Run Lower 2",
+   1.1
+  ],
+  [
+   "Baby Powder",
+   "Tomahawk 2",
+   "Tomahawk 3",
+   2.4
+  ],
+  [
+   "Fetcher Glade",
+   "Fetcher Glade / Middle Rib",
+   "Fetcher Glade / Middle Rib 2",
+   1.0
+  ],
+  [
+   "Drop Out",
+   "Buddy's Run Lower / Drop Out",
+   "Chuckwagon / Drop Out",
+   0.5
+  ],
+  [
+   "Drop Out",
+   "Chuckwagon / Drop Out",
+   "Vortex / Drop Out",
+   0.5
+  ],
+  [
+   "Drop Out",
+   "Vortex / Drop Out",
+   "WJW / Drop Out",
+   0.9
+  ],
+  [
+   "Drop Out",
+   "WJW / Drop Out",
+   "Storm Peak Express bottom",
+   1.6
+  ],
+  [
+   "Headwall",
+   "Short Cut / Stampede",
+   "Right-o-Way 3",
+   0.7
+  ],
+  [
+   "Arc",
+   "Burgess Creek top",
+   "Arc / Tower",
+   0.5
+  ],
+  [
+   "Flatout",
+   "Flatout / Lightning",
+   "Why Not Upper",
+   2.3
+  ],
+  [
+   "Two O'Clock",
+   "Two O'Clock / High Noon",
+   "Daybreak",
+   2.5
+  ],
+  [
+   "Elkhead Liftline",
+   "Sunnyside",
+   "Spur Run 3",
+   1.4
+  ],
+  [
+   "Chute 2",
+   "Chute 1",
+   "Chute 3",
+   0.6
+  ],
+  [
+   "Bail Out",
+   "Huevos / Cowboy Coffee",
+   "Jump Start / Bail Out",
+   0.5
+  ],
+  [
+   "Bail Out",
+   "Jump Start / Bail Out",
+   "Cowboy Coffee 2",
+   0.5
+  ],
+  [
+   "Middle Rib",
+   "Pony Express top",
+   "Fool's Gold / Fairway",
+   0.5
+  ],
+  [
+   "Middle Rib",
+   "Fool's Gold / Fairway",
+   "Middle Rib",
+   0.5
+  ],
+  [
+   "Middle Rib",
+   "Middle Rib",
+   "Fetcher Glade / Middle Rib",
+   0.5
+  ],
+  [
+   "Middle Rib",
+   "Fetcher Glade / Middle Rib",
+   "Fetcher Glade / Middle Rib 2",
+   1.0
+  ],
+  [
+   "Middle Rib",
+   "Fetcher Glade / Middle Rib 2",
+   "Outlaw / Middle Rib",
+   2.1
+  ],
+  [
+   "Middle Rib",
+   "Outlaw / Middle Rib",
+   "Middle Rib 2",
+   0.9
+  ],
+  [
+   "Middle Rib",
+   "Middle Rib 2",
+   "Pony Express Lift Line / Middle Rib",
+   0.5
+  ],
+  [
+   "Middle Rib",
+   "Pony Express Lift Line / Middle Rib",
+   "Pony Express Liftline 4",
+   0.6
+  ],
+  [
+   "Heavenly Daze",
+   "Valley View / Oops",
+   "Heavenly Daze",
+   0.9
+  ],
+  [
+   "Heavenly Daze",
+   "Heavenly Daze",
+   "Vertigo / Heavenly Daze",
+   0.5
+  ],
+  [
+   "Heavenly Daze",
+   "Vertigo / Heavenly Daze",
+   "Valley View / Heavenly Daze",
+   2.1
+  ],
+  [
+   "Heavenly Daze",
+   "Valley View / Heavenly Daze",
+   "Lower Valley View / Jess' Cut Off",
+   0.9
+  ],
+  [
+   "Big Meadow",
+   "Buddy's Run Upper 3",
+   "Big Meadow",
+   0.8
+  ],
+  [
+   "Big Meadow",
+   "Big Meadow",
+   "First Chance / Big Meadow",
+   1.9
+  ],
+  [
+   "Big Meadow",
+   "First Chance / Big Meadow",
+   "Big Meadow 3",
+   0.5
+  ],
+  [
+   "Big Meadow",
+   "Big Meadow 3",
+   "Big Meadow 2",
+   0.5
+  ],
+  [
+   "Big Meadow",
+   "Big Meadow 2",
+   "Big Meadow 4",
+   0.8
+  ],
+  [
+   "Big Meadow",
+   "Big Meadow 4",
+   "Flying Z Gulch / Half Hitch",
+   0.5
+  ],
+  [
+   "Cheesy Grits",
+   "Storm Peak Express top",
+   "Cowboy Coffee 3",
+   0.7
+  ],
+  [
+   "Gravy",
+   "Sundial",
+   "Cowboy Coffee 4",
+   1.1
+  ],
+  [
+   "Vogue",
+   "Sitz / Voo Doo",
+   "Short Cut",
+   1.9
+  ],
+  [
+   "Chaps",
+   "Longhorn 5",
+   "Pony Express Liftline 5",
+   1.1
+  ],
+  [
+   "Flintlock",
+   "Sunshine Lift Line Upper",
+   "Tomahawk 4",
+   6.7
+  ],
+  [
+   "Rendezvous Way",
+   "Sunshine Lift Line Upper 2",
+   "Sunshine Lift Line Upper / Rendezvous Way",
+   0.5
+  ],
+  [
+   "Rendezvous Way",
+   "Sunshine Lift Line Upper / Rendezvous Way",
+   "Fawn / Rendezvous Way",
+   1.1
+  ],
+  [
+   "Rendezvous Way",
+   "Fawn / Rendezvous Way",
+   "Lower High Noon / Broadway",
+   1.3
+  ],
+  [
+   "Tower",
+   "Burgess Creek top",
+   "BC Liftline / Tower",
+   0.5
+  ],
+  [
+   "Tower",
+   "BC Liftline / Tower",
+   "Arc / Tower",
+   0.5
+  ],
+  [
+   "Tower",
+   "Arc / Tower",
+   "Norther / Tower",
+   0.5
+  ],
+  [
+   "Tower",
+   "Norther / Tower",
+   "Park Lane / Heavenly Daze",
+   1.1
+  ],
+  [
+   "Concentration",
+   "Vagabond Upper 3",
+   "Oops / Concentration",
+   1.2
+  ],
+  [
+   "Concentration",
+   "Oops / Concentration",
+   "Lower Concentration / Betwixt",
+   1.1
+  ],
+  [
+   "Sundown Liftline",
+   "Sundown Express top",
+   "Sundown Express bottom",
+   6.8
+  ],
+  [
+   "Quickdraw",
+   "Tomahawk Face 2",
+   "Sundial / Quickdraw",
+   1.7
+  ],
+  [
+   "Quickdraw",
+   "Sundial / Quickdraw",
+   "Cub / Quickdraw",
+   1.1
+  ],
+  [
+   "Quickdraw",
+   "Cub / Quickdraw",
+   "Quickdraw 2",
+   1.3
+  ],
+  [
+   "Quickdraw",
+   "Quickdraw 2",
+   "Quickdraw",
+   0.5
+  ],
+  [
+   "Quickdraw",
+   "Quickdraw",
+   "Ramrod / Quickdraw",
+   1.4
+  ],
+  [
+   "Quickdraw",
+   "Ramrod / Quickdraw",
+   "Tomahawk 4",
+   1.4
+  ],
+  [
+   "Three O'Clock",
+   "High Line",
+   "Daybreak 2",
+   4.7
+  ],
+  [
+   "Tornado Lane",
+   "Buddy's Run Lower / Drop Out",
+   "Typhoon / Tornado Lane",
+   0.5
+  ],
+  [
+   "Tornado Lane",
+   "Typhoon / Tornado Lane",
+   "Tornado / Tornado Lane",
+   1.4
+  ],
+  [
+   "Tornado Lane",
+   "Tornado / Tornado Lane",
+   "Rainbow Lower / Ego",
+   1.2
+  ],
+  [
+   "Wake Up Call",
+   "Alarm CLock / Wake Up Call",
+   "Snooze bar",
+   2.3
+  ],
+  [
+   "Buckshot",
+   "Tomahawk 5",
+   "Quickdraw",
+   1.4
+  ],
+  [
+   "Traverse",
+   "Storm Peak Express top",
+   "Traverse / High Line",
+   0.6
+  ],
+  [
+   "Kuus' Cruise",
+   "Sundown Express top",
+   "Daybreak 2",
+   5.5
+  ],
+  [
+   "Storm Peak Catwalk",
+   "Traverse / High Line",
+   "Sideburn / Storm Peak Catwalk",
+   0.5
+  ],
+  [
+   "Storm Peak Catwalk",
+   "Sideburn / Storm Peak Catwalk",
+   "Storm Peak South",
+   0.7
+  ],
+  [
+   "One O'Clock",
+   "One O'Clock / High Noon",
+   "Daybreak 3",
+   2.2
+  ],
+  [
+   "Surprise",
+   "Vagabond Upper 4",
+   "Surprise / So What",
+   1.3
+  ],
+  [
+   "BC Liftline",
+   "Burgess Creek top",
+   "BC Liftline / Tower",
+   0.5
+  ],
+  [
+   "Rainbow Upper",
+   "Four Points top",
+   "Dusk / Rainbow Upper",
+   1.4
+  ],
+  [
+   "Rainbow Upper",
+   "Dusk / Rainbow Upper",
+   "Pressure Drop / Eclipse",
+   0.5
+  ],
+  [
+   "Rainbow Upper",
+   "Pressure Drop / Eclipse",
+   "Rainbow Lower / Why Not Upper",
+   1.5
+  ],
+  [
+   "Pup",
+   "Tomahawk 6",
+   "Quickdraw 2",
+   1.5
+  ],
+  [
+   "Triangle 3",
+   "Storm Peak Express top",
+   "Meadow Lane",
+   3.1
+  ],
+  [
+   "Skeeter's Run",
+   "Big Meadow",
+   "Big Meadow 3",
+   2.0
+  ],
+  [
+   "Skeeter's Run",
+   "Big Meadow 3",
+   "Big Meadow 2",
+   0.5
+  ],
+  [
+   "Rendezvous Way",
+   "Sundial / Quickdraw",
+   "Sunshine Lift Line Upper 3",
+   2.1
+  ],
+  [
+   "So What",
+   "Why Not Lower / Why Not Upper",
+   "Why Not Upper",
+   0.5
+  ],
+  [
+   "So What",
+   "Why Not Upper",
+   "Surprise / So What",
+   1.0
+  ],
+  [
+   "So What",
+   "Surprise / So What",
+   "Burgess Creek bottom",
+   0.6
+  ],
+  [
+   "Lariat",
+   "Outlaw",
+   "Pony Express bottom",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Sunshine Liftline Lower",
+   "Tomahawk 4",
+   0.5
+  ],
+  [
+   "Boulevard",
+   "Lower Valley View / Jess' Cut Off",
+   "Vertigo / Trick Roper",
+   1.5
+  ],
+  [
+   "Boulevard",
+   "Vertigo / Trick Roper",
+   "Boulevard / Giggle Gulch",
+   1.5
+  ],
+  [
+   "Cabin Fever",
+   "Longhorn 6",
+   "Longhorn 2",
+   0.5
+  ],
+  [
+   "Cabin Fever",
+   "Longhorn 2",
+   "Fools Gold / Fool's Gold",
+   0.6
+  ],
+  [
+   "Cabin Fever",
+   "Fools Gold / Fool's Gold",
+   "Fool's Gold / Pony Express Liftline",
+   0.5
+  ],
+  [
+   "Dawn",
+   "Shadows",
+   "Sunset 3",
+   2.1
+  ],
+  [
+   "Royal Flush",
+   "Middle Rib",
+   "Royal Flush",
+   0.7
+  ],
+  [
+   "Royal Flush",
+   "Royal Flush",
+   "Ambush / Royal Flush",
+   2.7
+  ],
+  [
+   "Royal Flush",
+   "Ambush / Royal Flush",
+   "Middle Rib 2",
+   0.5
+  ],
+  [
+   "Sunshine Liftline Lower",
+   "Sunshine Lift Line Upper / Rendezvous Way",
+   "Unnamed run / Sunshine Liftline Lower",
+   2.4
+  ],
+  [
+   "South Peak flats",
+   "South Peak top",
+   "Broadway",
+   1.3
+  ],
+  [
+   "Lightning",
+   "Rudi's Run",
+   "Flatout / Lightning",
+   1.6
+  ],
+  [
+   "Lightning",
+   "Flatout / Lightning",
+   "Rainbow Lower / Ego",
+   0.5
+  ],
+  [
+   "Yoo Hoo",
+   "All Out / Sitz",
+   "Bashor top",
+   0.5
+  ],
+  [
+   "Ted's Ridge",
+   "Heavenly Daze",
+   "Eagle's Nest / Ted's Ridge",
+   1.2
+  ],
+  [
+   "Bug's Run",
+   "Big Meadow 3",
+   "Big Meadow 2",
+   0.5
+  ],
+  [
+   "Bug's Run",
+   "Big Meadow 2",
+   "Wapiti 3",
+   2.5
+  ],
+  [
+   "The Ridge",
+   "Morningside Lift top",
+   "Big Meadow",
+   2.2
+  ],
+  [
+   "Skyline",
+   "Burgess Creek top",
+   "Velvet",
+   0.5
+  ],
+  [
+   "Skyline",
+   "Velvet",
+   "Velvet / Why Not Upper",
+   0.8
+  ],
+  [
+   "Skyline",
+   "Velvet / Why Not Upper",
+   "Rainbow Lower / Why Not Upper",
+   0.5
+  ],
+  [
+   "Giggle Gulch",
+   "Eagle's Nest / Between",
+   "Boulevard / Giggle Gulch",
+   0.5
+  ],
+  [
+   "Giggle Gulch",
+   "Boulevard / Giggle Gulch",
+   "Trick Roper / Yoo-Hoo",
+   0.7
+  ],
+  [
+   "Giggle Gulch",
+   "Trick Roper / Yoo-Hoo",
+   "Giggle Gulch 2",
+   0.8
+  ],
+  [
+   "High Noon",
+   "Sundown Express top",
+   "High Line / High Noon",
+   1.2
+  ],
+  [
+   "High Noon",
+   "High Line / High Noon",
+   "Twilight / High Noon",
+   0.8
+  ],
+  [
+   "High Noon",
+   "Twilight / High Noon",
+   "Two O'Clock / High Noon",
+   1.0
+  ],
+  [
+   "High Noon",
+   "Two O'Clock / High Noon",
+   "One O'Clock / High Noon",
+   0.7
+  ],
+  [
+   "High Noon",
+   "One O'Clock / High Noon",
+   "Fawn / Rendezvous Way",
+   1.6
+  ],
+  [
+   "Hurricane",
+   "Dusk / Rainbow Upper",
+   "Rainbow Lower 3",
+   2.8
+  ],
+  [
+   "Flying Z",
+   "Big Meadow 4",
+   "Nash Junction / Flying Z Gulch",
+   1.2
+  ],
+  [
+   "Moonlight",
+   "Rainbow Lower / Why Not Upper",
+   "Lights Out / Moonlight",
+   1.4
+  ],
+  [
+   "Moonlight",
+   "Lights Out / Moonlight",
+   "Shadows / Moonlight",
+   0.9
+  ],
+  [
+   "Moonlight",
+   "Shadows / Moonlight",
+   "Spur Run 4",
+   0.5
+  ],
+  [
+   "Barrows' Bend",
+   "Lower High Noon / Broadway",
+   "Spike",
+   1.2
+  ],
+  [
+   "Barrows' Bend",
+   "Spike",
+   "Sunshine Express bottom",
+   1.4
+  ],
+  [
+   "Swinger",
+   "Greenhorn Ranch / Beeline",
+   "Swinger",
+   0.8
+  ],
+  [
+   "Swinger",
+   "Swinger",
+   "Swinger 2",
+   0.5
+  ],
+  [
+   "Swinger",
+   "Swinger 2",
+   "Right-o-Way 2",
+   1.6
+  ],
+  [
+   "Nelson's Run",
+   "Twister / Four Points Lift Line",
+   "Rainbow Lower 4",
+   4.2
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Burgess Creek top",
+   "Norther / Tower",
+   1.9
+  ],
+  [
+   "walk",
+   "Burgess Creek top",
+   "Sunnyside",
+   2.4
+  ],
+  [
+   "walk",
+   "Burgess Creek top",
+   "Park Lane / BC Liftline",
+   3.0
+  ],
+  [
+   "walk",
+   "Burgess Creek top",
+   "Huffman's / Spur Run",
+   3.4
+  ],
+  [
+   "walk",
+   "Burgess Creek top",
+   "Velvet",
+   0.8
+  ],
+  [
+   "walk",
+   "Burgess Creek top",
+   "BC Liftline / Tower",
+   0.6
+  ],
+  [
+   "walk",
+   "Burgess Creek top",
+   "Arc / Tower",
+   1.3
+  ],
+  [
+   "walk",
+   "Burgess Creek top",
+   "Elkhead Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Vagabond Lower / BC Ski Way",
+   "Why Not",
+   2.2
+  ],
+  [
+   "walk",
+   "Vagabond Lower / BC Ski Way",
+   "Thunderhead Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Vagabond Lower / BC Ski Way",
+   "Swinger",
+   2.8
+  ],
+  [
+   "walk",
+   "Vagabond Lower / BC Ski Way",
+   "Greenhorn Ranch Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "All Out / Sitz",
+   "Bashor top",
+   1.7
+  ],
+  [
+   "walk",
+   "Why Not / Why Not Lower",
+   "Thunderhead Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Why Not",
+   "Vagabond Lower / BC Ski Way",
+   2.2
+  ],
+  [
+   "walk",
+   "Why Not",
+   "Thunderhead Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Morningside Lift top",
+   "Christmas Tree Bowl / Alarm Clock",
+   0.8
+  ],
+  [
+   "walk",
+   "Morningside Lift top",
+   "Snooze bar / Alarm Clock",
+   3.1
+  ],
+  [
+   "walk",
+   "Morningside Lift top",
+   "Huevos",
+   1.7
+  ],
+  [
+   "walk",
+   "Morningside Lift top",
+   "Alarm CLock / Wake Up Call",
+   2.1
+  ],
+  [
+   "walk",
+   "Morningside Lift top",
+   "Chute 1",
+   1.7
+  ],
+  [
+   "walk",
+   "Pony Express top",
+   "Last Chance / Half Hitch",
+   2.4
+  ],
+  [
+   "walk",
+   "Pony Express top",
+   "Longhorn 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Pony Express top",
+   "Royal Flush / Fool's Gold",
+   1.8
+  ],
+  [
+   "walk",
+   "Pony Express top",
+   "Fools Gold / Fool's Gold",
+   3.3
+  ],
+  [
+   "walk",
+   "Pony Express top",
+   "Fool's Gold / Fairway",
+   1.5
+  ],
+  [
+   "walk",
+   "Pony Express top",
+   "Longhorn 6",
+   1.1
+  ],
+  [
+   "walk",
+   "Pony Express top",
+   "Middle Rib",
+   2.8
+  ],
+  [
+   "walk",
+   "Longhorn / BC Ski Way",
+   "Pony Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Short Cut / Giggle Gulch",
+   "Bashor bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Christmas Tree Bowl / Alarm Clock",
+   "Morningside Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Longhorn",
+   "Bar UE bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Wapiti",
+   "Bar UE bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Between",
+   "Greenhorn Ranch Express top",
+   2.5
+  ],
+  [
+   "walk",
+   "South Peak top",
+   "Lower High Noon / Broadway",
+   2.3
+  ],
+  [
+   "walk",
+   "South Peak top",
+   "Spike 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Lower High Noon / Broadway",
+   "South Peak top",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower High Noon / Broadway 2",
+   "Elkhead Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Lower High Noon / Broadway 2",
+   "Sundown Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I bottom",
+   "Stampede / Lil' Rodeo Park",
+   1.4
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I bottom",
+   "Right-o-Way",
+   1.6
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I bottom",
+   "Wildhorse Gondola top",
+   3.4
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I bottom",
+   "Buckaroo bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I bottom",
+   "Steamboat Gondola bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I bottom",
+   "Christie Peak Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Elkhead Express bottom",
+   "Lower High Noon / Broadway 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Elkhead Express bottom",
+   "Sundown Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Park Lane / Heavenly Daze",
+   "Steamboat Gondola top",
+   2.0
+  ],
+  [
+   "walk",
+   "Park Lane / Heavenly Daze",
+   "Thunderhead Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express top",
+   "Vagabond Lower",
+   2.3
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express top",
+   "Greenhorn Ranch / Beeline",
+   2.8
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express top",
+   "Trick Roper / Yoo-Hoo",
+   1.9
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch / Beeline",
+   "Wild Blue Gondola I top",
+   3.3
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch / Beeline",
+   "Greenhorn Ranch Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Rainbow Lower / Ego",
+   "Four Points bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Sundown Express top",
+   "Traverse / High Line",
+   3.3
+  ],
+  [
+   "walk",
+   "Sundown Express top",
+   "Sunshine Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Sundown Express top",
+   "Sundial",
+   2.5
+  ],
+  [
+   "walk",
+   "Sundown Express top",
+   "Sunshine Lift Line Upper",
+   2.0
+  ],
+  [
+   "walk",
+   "Sundown Express top",
+   "Tomahawk Face 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Sundown Express top",
+   "Wild Blue Gondola II top",
+   0.7
+  ],
+  [
+   "walk",
+   "Sunshine Express top",
+   "Jump Start / Sundial",
+   3.2
+  ],
+  [
+   "walk",
+   "Sunshine Express top",
+   "Sundown Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Sunshine Express top",
+   "Sundial",
+   1.1
+  ],
+  [
+   "walk",
+   "Sunshine Express top",
+   "Sunshine Lift Line Upper",
+   1.6
+  ],
+  [
+   "walk",
+   "Sunshine Express top",
+   "Tomahawk Face 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Sunshine Express top",
+   "Wild Blue Gondola II top",
+   1.1
+  ],
+  [
+   "walk",
+   "Spike",
+   "Sunshine Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Four Points bottom",
+   "Rainbow Lower / Ego",
+   2.4
+  ],
+  [
+   "walk",
+   "Four Points bottom",
+   "Burgess Creek bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Stampede / Lil' Rodeo Park",
+   "Wild Blue Gondola I bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Stampede / Lil' Rodeo Park",
+   "Right-o-Way",
+   0.8
+  ],
+  [
+   "walk",
+   "Stampede / Lil' Rodeo Park",
+   "Wildhorse Gondola top",
+   3.0
+  ],
+  [
+   "walk",
+   "Stampede / Lil' Rodeo Park",
+   "Buckaroo bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Stampede / Lil' Rodeo Park",
+   "Steamboat Gondola bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Stampede / Lil' Rodeo Park",
+   "Christie Peak Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Nash Junction / Flying Z Gulch",
+   "Bar UE bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower / Drop Out",
+   "Bar UE bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Vagabond Upper",
+   "Steamboat Gondola top",
+   1.6
+  ],
+  [
+   "walk",
+   "Vagabond Upper",
+   "Thunderhead Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   "Bashor top",
+   0.7
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe",
+   "Short Cut / Giggle Gulch",
+   3.1
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe",
+   "Giggle Gulch / Rabbit Ears Terrain Park",
+   1.8
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe",
+   "Bashor bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe",
+   "Giggle Gulch",
+   2.6
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe",
+   "Giggle Gulch 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Jess' Cut Off / Bear Claw",
+   "Bashor top",
+   1.7
+  ],
+  [
+   "walk",
+   "BC Ski Way / Ego",
+   "Pony Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "BC Ski Way / Ego",
+   "Storm Peak Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Sideburn / Storm Peak South",
+   "Four Points top",
+   2.6
+  ],
+  [
+   "walk",
+   "Bashor top",
+   "All Out / Sitz",
+   1.7
+  ],
+  [
+   "walk",
+   "Bashor top",
+   "Rabbit Ears Terrain Park / Big Foot",
+   3.1
+  ],
+  [
+   "walk",
+   "Bashor top",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   0.7
+  ],
+  [
+   "walk",
+   "Bashor top",
+   "Maverick's Halfpipe",
+   3.0
+  ],
+  [
+   "walk",
+   "Bashor top",
+   "Sitz / Voo Doo",
+   2.4
+  ],
+  [
+   "walk",
+   "Bashor bottom",
+   "Short Cut / Giggle Gulch",
+   0.8
+  ],
+  [
+   "walk",
+   "Bashor bottom",
+   "Giggle Gulch",
+   1.4
+  ],
+  [
+   "walk",
+   "Bashor bottom",
+   "Swinger",
+   2.5
+  ],
+  [
+   "walk",
+   "Bashor bottom",
+   "Swinger 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Storm Peak Express top",
+   "Traverse / High Line",
+   2.5
+  ],
+  [
+   "walk",
+   "Storm Peak Express top",
+   "Sideburn / Storm Peak Catwalk",
+   3.0
+  ],
+  [
+   "walk",
+   "Storm Peak Express top",
+   "Buddy's Run Upper",
+   2.6
+  ],
+  [
+   "walk",
+   "Storm Peak Express top",
+   "Buddy's Run Upper 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Storm Peak Express top",
+   "Cowboy Coffee 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Storm Peak Express top",
+   "Bar UE top",
+   0.7
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower",
+   "Bar UE bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Giggle Gulch",
+   "Bashor bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Giggle Gulch",
+   "Wild Blue Gondola I top",
+   1.8
+  ],
+  [
+   "walk",
+   "Rough Rider / Yoo-Hoo",
+   "Bashor bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Rough Rider / Yoo-Hoo",
+   "Thunderhead Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Rough Rider / Yoo-Hoo",
+   "Wild Blue Gondola I top",
+   2.8
+  ],
+  [
+   "walk",
+   "Rough Rider / Yoo-Hoo",
+   "Greenhorn Ranch Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Sitz / Sitzback",
+   "Bashor top",
+   3.2
+  ],
+  [
+   "walk",
+   "Sitz / Sitzback",
+   "Christie Peak Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Velvet",
+   "Burgess Creek top",
+   0.8
+  ],
+  [
+   "walk",
+   "Velvet",
+   "Elkhead Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "BC Liftline / Tower",
+   "Burgess Creek top",
+   0.6
+  ],
+  [
+   "walk",
+   "BC Liftline / Tower",
+   "Elkhead Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Calf Roper / Unnamed run",
+   "Typhoon / Tornado",
+   3.3
+  ],
+  [
+   "walk",
+   "Calf Roper / Unnamed run",
+   "Twister / Four Points Lift Line",
+   1.0
+  ],
+  [
+   "walk",
+   "Calf Roper / Unnamed run",
+   "Sunset / Dusk",
+   1.9
+  ],
+  [
+   "walk",
+   "Calf Roper / Unnamed run",
+   "Cyclone / Meadow Lane",
+   1.1
+  ],
+  [
+   "walk",
+   "Calf Roper / Unnamed run",
+   "Four Points top",
+   1.2
+  ],
+  [
+   "walk",
+   "Calf Roper / Unnamed run",
+   "Sunset 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Calf Roper / Unnamed run",
+   "Meadow Lane",
+   2.2
+  ],
+  [
+   "walk",
+   "Buddy's Run Upper 2",
+   "Storm Peak Express top",
+   1.8
+  ],
+  [
+   "walk",
+   "Buddy's Run Upper 2",
+   "Bar UE top",
+   1.1
+  ],
+  [
+   "walk",
+   "Wapiti 2",
+   "Bar UE bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Steamboat Gondola top",
+   "Park Lane / Heavenly Daze",
+   2.0
+  ],
+  [
+   "walk",
+   "Steamboat Gondola top",
+   "Valley View / Oops",
+   1.4
+  ],
+  [
+   "walk",
+   "Steamboat Gondola top",
+   "Vagabond Upper",
+   1.6
+  ],
+  [
+   "walk",
+   "Steamboat Gondola top",
+   "Vagabond Upper 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Steamboat Gondola top",
+   "Thunderhead Express top",
+   1.1
+  ],
+  [
+   "walk",
+   "Thunderhead Express bottom",
+   "Vagabond Lower / BC Ski Way",
+   1.7
+  ],
+  [
+   "walk",
+   "Thunderhead Express bottom",
+   "Why Not",
+   0.7
+  ],
+  [
+   "walk",
+   "Thunderhead Express bottom",
+   "Swinger 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Right-o-Way",
+   "Wild Blue Gondola I bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Right-o-Way",
+   "Stampede / Lil' Rodeo Park",
+   0.8
+  ],
+  [
+   "walk",
+   "Right-o-Way",
+   "Wildhorse Gondola top",
+   2.2
+  ],
+  [
+   "walk",
+   "Right-o-Way",
+   "Buckaroo bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Right-o-Way",
+   "Steamboat Gondola bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Right-o-Way",
+   "Christie Peak Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Fool's Gold / Fairway",
+   "Pony Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Four Points top",
+   "Twister / Four Points Lift Line",
+   2.0
+  ],
+  [
+   "walk",
+   "Four Points top",
+   "Sunset / Dusk",
+   1.6
+  ],
+  [
+   "walk",
+   "Four Points top",
+   "Calf Roper / Unnamed run",
+   1.2
+  ],
+  [
+   "walk",
+   "Four Points top",
+   "Cyclone / Meadow Lane",
+   2.2
+  ],
+  [
+   "walk",
+   "Four Points top",
+   "Sunset 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Four Points top",
+   "Meadow Lane",
+   3.0
+  ],
+  [
+   "walk",
+   "Swinger",
+   "Bashor bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Swinger",
+   "Thunderhead Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Swinger",
+   "Wild Blue Gondola I top",
+   1.6
+  ],
+  [
+   "walk",
+   "Swinger",
+   "Greenhorn Ranch Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Swinger 2",
+   "Bashor bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Swinger 2",
+   "Thunderhead Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Alarm CLock / Wake Up Call",
+   "Morningside Lift top",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower High Noon 2",
+   "Elkhead Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower High Noon 2",
+   "Sundown Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Sitz",
+   "Bashor top",
+   1.6
+  ],
+  [
+   "walk",
+   "Storm Peak Express bottom",
+   "Longhorn / BC Ski Way",
+   1.3
+  ],
+  [
+   "walk",
+   "Storm Peak Express bottom",
+   "BC Ski Way / Ego",
+   0.6
+  ],
+  [
+   "walk",
+   "Storm Peak Express bottom",
+   "Burgess Creek bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Flatout / Lightning",
+   "Four Points bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Spur Run 3",
+   "Elkhead Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Spur Run 3",
+   "Sundown Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Cowboy Coffee 2",
+   "Morningside Lift bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Sundial",
+   "Wild Blue Gondola II top",
+   2.1
+  ],
+  [
+   "walk",
+   "Tomahawk 4",
+   "South Peak bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Tomahawk 4",
+   "Sunshine Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Sundown Express bottom",
+   "Lower High Noon / Broadway 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Sundown Express bottom",
+   "Elkhead Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Surprise / So What",
+   "Storm Peak Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Surprise / So What",
+   "Burgess Creek bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Burgess Creek bottom",
+   "Longhorn / BC Ski Way",
+   3.3
+  ],
+  [
+   "walk",
+   "Burgess Creek bottom",
+   "BC Ski Way / Ego",
+   2.7
+  ],
+  [
+   "walk",
+   "Burgess Creek bottom",
+   "Storm Peak Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Burgess Creek bottom",
+   "Surprise / So What",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunshine Liftline Lower",
+   "South Peak bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunshine Liftline Lower",
+   "Sunshine Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Boulevard / Giggle Gulch",
+   "Greenhorn Ranch Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Longhorn 6",
+   "Pony Express top",
+   1.1
+  ],
+  [
+   "walk",
+   "Wapiti 3",
+   "Bar UE bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Giggle Gulch 2",
+   "Bashor bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Giggle Gulch 2",
+   "Wild Blue Gondola I top",
+   2.6
+  ],
+  [
+   "walk",
+   "Spur Run 4",
+   "Sundown Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Sunshine Express bottom",
+   "South Peak bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Sunshine Express bottom",
+   "Tomahawk 4",
+   0.8
+  ],
+  [
+   "walk",
+   "Sunshine Express bottom",
+   "Unnamed run / Sunshine Liftline Lower",
+   1.0
+  ],
+  [
+   "walk",
+   "Rainbow Lower 4",
+   "Four Points bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Wildhorse Gondola top",
+   "Wild Blue Gondola I bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Wildhorse Gondola top",
+   "Stampede / Lil' Rodeo Park",
+   3.0
+  ],
+  [
+   "walk",
+   "Wildhorse Gondola top",
+   "Right-o-Way",
+   2.2
+  ],
+  [
+   "walk",
+   "Wildhorse Gondola top",
+   "Buckaroo bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Wildhorse Gondola top",
+   "Steamboat Gondola bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Wildhorse Gondola top",
+   "Christie Peak Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Thunderhead Express top",
+   "Park Lane / Heavenly Daze",
+   1.4
+  ],
+  [
+   "walk",
+   "Thunderhead Express top",
+   "Valley View / Oops",
+   2.4
+  ],
+  [
+   "walk",
+   "Thunderhead Express top",
+   "Vagabond Upper",
+   0.6
+  ],
+  [
+   "walk",
+   "Thunderhead Express top",
+   "Steamboat Gondola top",
+   1.1
+  ],
+  [
+   "walk",
+   "Thunderhead Express top",
+   "Vagabond Upper 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Thunderhead Express top",
+   "Rudi's Run",
+   2.8
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I top",
+   "Short Cut / Giggle Gulch",
+   1.3
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I top",
+   "Bashor bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I top",
+   "Giggle Gulch",
+   1.8
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I top",
+   "Rough Rider / Yoo-Hoo",
+   2.8
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I top",
+   "Swinger",
+   1.6
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I top",
+   "Swinger 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I top",
+   "Giggle Gulch 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I top",
+   "Greenhorn Ranch Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Elkhead Express top",
+   "Burgess Creek top",
+   0.8
+  ],
+  [
+   "walk",
+   "Elkhead Express top",
+   "Norther / Tower",
+   2.5
+  ],
+  [
+   "walk",
+   "Elkhead Express top",
+   "Sunnyside",
+   1.6
+  ],
+  [
+   "walk",
+   "Elkhead Express top",
+   "Velvet",
+   1.3
+  ],
+  [
+   "walk",
+   "Elkhead Express top",
+   "BC Liftline / Tower",
+   1.3
+  ],
+  [
+   "walk",
+   "Elkhead Express top",
+   "Arc / Tower",
+   1.9
+  ],
+  [
+   "walk",
+   "Bar UE bottom",
+   "Typhoon / Tornado Lane",
+   2.6
+  ],
+  [
+   "walk",
+   "Bar UE bottom",
+   "WJW / Longhorn",
+   3.2
+  ],
+  [
+   "walk",
+   "Bar UE bottom",
+   "Chuckwagon / Drop Out",
+   1.8
+  ],
+  [
+   "walk",
+   "Bar UE bottom",
+   "Buddy's Run Lower / Drop Out",
+   0.9
+  ],
+  [
+   "walk",
+   "Bar UE bottom",
+   "Buddy's Run Lower",
+   0.8
+  ],
+  [
+   "walk",
+   "Bar UE bottom",
+   "Wapiti 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Bar UE bottom",
+   "Vortex / Drop Out",
+   2.6
+  ],
+  [
+   "walk",
+   "Bar UE top",
+   "Traverse / High Line",
+   3.2
+  ],
+  [
+   "walk",
+   "Bar UE top",
+   "Storm Peak Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Bar UE top",
+   "Buddy's Run Upper",
+   2.1
+  ],
+  [
+   "walk",
+   "Bar UE top",
+   "Buddy's Run Upper 2",
+   1.1
+  ],
+  [
+   "walk",
+   "Bar UE top",
+   "Cowboy Coffee 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Buckaroo bottom",
+   "Wild Blue Gondola I bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Buckaroo bottom",
+   "Stampede / Lil' Rodeo Park",
+   1.4
+  ],
+  [
+   "walk",
+   "Buckaroo bottom",
+   "Right-o-Way",
+   0.9
+  ],
+  [
+   "walk",
+   "Buckaroo bottom",
+   "Wildhorse Gondola top",
+   2.0
+  ],
+  [
+   "walk",
+   "Buckaroo bottom",
+   "Steamboat Gondola bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Buckaroo bottom",
+   "Christie Peak Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola II top",
+   "Sundown Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola II top",
+   "Traverse / High Line",
+   3.4
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola II top",
+   "Sunshine Express top",
+   1.1
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola II top",
+   "Cowboy Coffee 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola II top",
+   "Sundial",
+   2.1
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola II top",
+   "Sunshine Lift Line Upper",
+   2.2
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola II top",
+   "Tomahawk Face 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Steamboat Gondola bottom",
+   "Wild Blue Gondola I bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Steamboat Gondola bottom",
+   "Stampede / Lil' Rodeo Park",
+   0.8
+  ],
+  [
+   "walk",
+   "Steamboat Gondola bottom",
+   "Right-o-Way",
+   0.7
+  ],
+  [
+   "walk",
+   "Steamboat Gondola bottom",
+   "Wildhorse Gondola top",
+   2.6
+  ],
+  [
+   "walk",
+   "Steamboat Gondola bottom",
+   "Buckaroo bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Steamboat Gondola bottom",
+   "Christie Peak Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Christie Peak Express bottom",
+   "Wild Blue Gondola I bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Christie Peak Express bottom",
+   "Stampede / Lil' Rodeo Park",
+   0.8
+  ],
+  [
+   "walk",
+   "Christie Peak Express bottom",
+   "Right-o-Way",
+   1.3
+  ],
+  [
+   "walk",
+   "Christie Peak Express bottom",
+   "Wildhorse Gondola top",
+   3.4
+  ],
+  [
+   "walk",
+   "Christie Peak Express bottom",
+   "Buckaroo bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Christie Peak Express bottom",
+   "Steamboat Gondola bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Christie Peak Express top",
+   "Lower Valley View / Jess' Cut Off",
+   1.8
+  ],
+  [
+   "walk",
+   "Christie Peak Express top",
+   "Jess' Cut Off / Bear Claw",
+   2.1
+  ],
+  [
+   "walk",
+   "Christie Peak Express top",
+   "Sitz / Sitzback",
+   0.6
+  ],
+  [
+   "walk",
+   "Christie Peak Express top",
+   "Sitz",
+   2.4
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express bottom",
+   "Vagabond Lower / BC Ski Way",
+   1.3
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express bottom",
+   "Why Not",
+   2.2
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express bottom",
+   "Thunderhead Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express bottom",
+   "Swinger",
+   1.5
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express bottom",
+   "Swinger 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express bottom",
+   "Wild Blue Gondola I top",
+   3.1
+  ],
+  [
+   "walk",
+   "Velvet",
+   "Norther / Tower",
+   2.7
+  ],
+  [
+   "walk",
+   "Velvet",
+   "Sunnyside",
+   2.9
+  ],
+  [
+   "walk",
+   "Velvet",
+   "Park Lane / BC Liftline",
+   3.7
+  ],
+  [
+   "walk",
+   "Velvet",
+   "Huffman's / Spur Run",
+   4.2
+  ],
+  [
+   "walk",
+   "Velvet",
+   "BC Liftline / Tower",
+   1.3
+  ],
+  [
+   "walk",
+   "Velvet",
+   "Arc / Tower",
+   2.1
+  ],
+  [
+   "walk",
+   "BC Liftline / Tower",
+   "Norther / Tower",
+   2.5
+  ],
+  [
+   "walk",
+   "BC Liftline / Tower",
+   "Sunnyside",
+   2.9
+  ],
+  [
+   "walk",
+   "BC Liftline / Tower",
+   "Park Lane / BC Liftline",
+   3.5
+  ],
+  [
+   "walk",
+   "BC Liftline / Tower",
+   "Huffman's / Spur Run",
+   4.0
+  ],
+  [
+   "walk",
+   "BC Liftline / Tower",
+   "Velvet",
+   1.3
+  ],
+  [
+   "walk",
+   "BC Liftline / Tower",
+   "Arc / Tower",
+   1.9
+  ],
+  [
+   "walk",
+   "Elkhead Express top",
+   "Park Lane / BC Liftline",
+   3.7
+  ],
+  [
+   "walk",
+   "Elkhead Express top",
+   "Huffman's / Spur Run",
+   4.2
+  ],
+  [
+   "walk",
+   "Why Not",
+   "Swinger",
+   4.9
+  ],
+  [
+   "walk",
+   "Why Not",
+   "Greenhorn Ranch Express bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Thunderhead Express bottom",
+   "Swinger",
+   4.4
+  ],
+  [
+   "walk",
+   "Thunderhead Express bottom",
+   "Greenhorn Ranch Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Christmas Tree Bowl / Alarm Clock",
+   "Snooze bar / Alarm Clock",
+   3.9
+  ],
+  [
+   "walk",
+   "Christmas Tree Bowl / Alarm Clock",
+   "Huevos",
+   2.5
+  ],
+  [
+   "walk",
+   "Christmas Tree Bowl / Alarm Clock",
+   "Alarm CLock / Wake Up Call",
+   2.9
+  ],
+  [
+   "walk",
+   "Christmas Tree Bowl / Alarm Clock",
+   "Chute 1",
+   2.5
+  ],
+  [
+   "walk",
+   "Alarm CLock / Wake Up Call",
+   "Christmas Tree Bowl / Alarm Clock",
+   2.9
+  ],
+  [
+   "walk",
+   "Alarm CLock / Wake Up Call",
+   "Snooze bar / Alarm Clock",
+   5.3
+  ],
+  [
+   "walk",
+   "Alarm CLock / Wake Up Call",
+   "Huevos",
+   3.8
+  ],
+  [
+   "walk",
+   "Alarm CLock / Wake Up Call",
+   "Chute 1",
+   3.9
+  ],
+  [
+   "walk",
+   "Fool's Gold / Fairway",
+   "Last Chance / Half Hitch",
+   3.9
+  ],
+  [
+   "walk",
+   "Fool's Gold / Fairway",
+   "Longhorn 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Fool's Gold / Fairway",
+   "Royal Flush / Fool's Gold",
+   3.3
+  ],
+  [
+   "walk",
+   "Fool's Gold / Fairway",
+   "Fools Gold / Fool's Gold",
+   4.8
+  ],
+  [
+   "walk",
+   "Fool's Gold / Fairway",
+   "Longhorn 6",
+   2.6
+  ],
+  [
+   "walk",
+   "Fool's Gold / Fairway",
+   "Middle Rib",
+   4.3
+  ],
+  [
+   "walk",
+   "Longhorn 6",
+   "Last Chance / Half Hitch",
+   3.5
+  ],
+  [
+   "walk",
+   "Longhorn 6",
+   "Longhorn 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Longhorn 6",
+   "Royal Flush / Fool's Gold",
+   3.0
+  ],
+  [
+   "walk",
+   "Longhorn 6",
+   "Fools Gold / Fool's Gold",
+   4.4
+  ],
+  [
+   "walk",
+   "Longhorn 6",
+   "Fool's Gold / Fairway",
+   2.6
+  ],
+  [
+   "walk",
+   "Longhorn 6",
+   "Middle Rib",
+   4.0
+  ],
+  [
+   "walk",
+   "Storm Peak Express bottom",
+   "Pony Express bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Burgess Creek bottom",
+   "Pony Express bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower High Noon / Broadway",
+   "Spike 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower High Noon 2",
+   "Lower High Noon / Broadway 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Spur Run 3",
+   "Lower High Noon / Broadway 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Between",
+   "Vagabond Lower",
+   4.8
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Between",
+   "Greenhorn Ranch / Beeline",
+   5.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Between",
+   "Trick Roper / Yoo-Hoo",
+   4.5
+  ],
+  [
+   "walk",
+   "Boulevard / Giggle Gulch",
+   "Vagabond Lower",
+   3.9
+  ],
+  [
+   "walk",
+   "Boulevard / Giggle Gulch",
+   "Greenhorn Ranch / Beeline",
+   4.4
+  ],
+  [
+   "walk",
+   "Boulevard / Giggle Gulch",
+   "Trick Roper / Yoo-Hoo",
+   3.6
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express top",
+   "Wild Blue Gondola I top",
+   6.0
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express top",
+   "Greenhorn Ranch Express bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Sunshine Express top",
+   "Traverse / High Line",
+   4.5
+  ],
+  [
+   "walk",
+   "Sundown Express top",
+   "Jump Start / Sundial",
+   4.6
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola II top",
+   "Jump Start / Sundial",
+   4.2
+  ],
+  [
+   "walk",
+   "Rainbow Lower / Ego",
+   "Burgess Creek bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Flatout / Lightning",
+   "Rainbow Lower / Ego",
+   5.2
+  ],
+  [
+   "walk",
+   "Flatout / Lightning",
+   "Burgess Creek bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Rainbow Lower 4",
+   "Rainbow Lower / Ego",
+   5.6
+  ],
+  [
+   "walk",
+   "Rainbow Lower 4",
+   "Burgess Creek bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Bashor top",
+   "Short Cut / Giggle Gulch",
+   6.1
+  ],
+  [
+   "walk",
+   "Bashor top",
+   "Giggle Gulch / Rabbit Ears Terrain Park",
+   4.8
+  ],
+  [
+   "walk",
+   "Bashor top",
+   "Bashor bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Bashor top",
+   "Giggle Gulch",
+   5.6
+  ],
+  [
+   "walk",
+   "Bashor top",
+   "Giggle Gulch 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Christie Peak Express top",
+   "Bashor top",
+   3.8
+  ],
+  [
+   "walk",
+   "All Out / Sitz",
+   "Rabbit Ears Terrain Park / Big Foot",
+   4.8
+  ],
+  [
+   "walk",
+   "All Out / Sitz",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   2.3
+  ],
+  [
+   "walk",
+   "All Out / Sitz",
+   "Maverick's Halfpipe",
+   4.7
+  ],
+  [
+   "walk",
+   "All Out / Sitz",
+   "Sitz / Voo Doo",
+   4.1
+  ],
+  [
+   "walk",
+   "All Out / Sitz",
+   "Giggle Gulch / Rabbit Ears Terrain Park",
+   6.5
+  ],
+  [
+   "walk",
+   "All Out / Sitz",
+   "Giggle Gulch 2",
+   6.8
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   "All Out / Sitz",
+   2.3
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   "Rabbit Ears Terrain Park / Big Foot",
+   3.8
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   "Maverick's Halfpipe",
+   3.6
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   "Sitz / Voo Doo",
+   3.1
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   "Short Cut / Giggle Gulch",
+   6.8
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   "Giggle Gulch / Rabbit Ears Terrain Park",
+   5.5
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   "Bashor bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   "Giggle Gulch",
+   6.2
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   "Giggle Gulch 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Jess' Cut Off / Bear Claw",
+   "All Out / Sitz",
+   3.3
+  ],
+  [
+   "walk",
+   "Jess' Cut Off / Bear Claw",
+   "Rabbit Ears Terrain Park / Big Foot",
+   4.8
+  ],
+  [
+   "walk",
+   "Jess' Cut Off / Bear Claw",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   2.3
+  ],
+  [
+   "walk",
+   "Jess' Cut Off / Bear Claw",
+   "Maverick's Halfpipe",
+   4.6
+  ],
+  [
+   "walk",
+   "Jess' Cut Off / Bear Claw",
+   "Sitz / Voo Doo",
+   4.1
+  ],
+  [
+   "walk",
+   "Jess' Cut Off / Bear Claw",
+   "Giggle Gulch / Rabbit Ears Terrain Park",
+   6.5
+  ],
+  [
+   "walk",
+   "Jess' Cut Off / Bear Claw",
+   "Giggle Gulch 2",
+   6.8
+  ],
+  [
+   "walk",
+   "Sitz / Sitzback",
+   "All Out / Sitz",
+   4.9
+  ],
+  [
+   "walk",
+   "Sitz / Sitzback",
+   "Rabbit Ears Terrain Park / Big Foot",
+   6.4
+  ],
+  [
+   "walk",
+   "Sitz / Sitzback",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   3.9
+  ],
+  [
+   "walk",
+   "Sitz / Sitzback",
+   "Maverick's Halfpipe",
+   6.2
+  ],
+  [
+   "walk",
+   "Sitz / Sitzback",
+   "Sitz / Voo Doo",
+   5.6
+  ],
+  [
+   "walk",
+   "Sitz",
+   "All Out / Sitz",
+   3.2
+  ],
+  [
+   "walk",
+   "Sitz",
+   "Rabbit Ears Terrain Park / Big Foot",
+   4.7
+  ],
+  [
+   "walk",
+   "Sitz",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   2.2
+  ],
+  [
+   "walk",
+   "Sitz",
+   "Maverick's Halfpipe",
+   4.5
+  ],
+  [
+   "walk",
+   "Sitz",
+   "Sitz / Voo Doo",
+   4.0
+  ],
+  [
+   "walk",
+   "Sitz",
+   "Giggle Gulch / Rabbit Ears Terrain Park",
+   6.4
+  ],
+  [
+   "walk",
+   "Sitz",
+   "Giggle Gulch 2",
+   6.7
+  ],
+  [
+   "walk",
+   "Christie Peak Express top",
+   "All Out / Sitz",
+   5.4
+  ],
+  [
+   "walk",
+   "Christie Peak Express top",
+   "Rabbit Ears Terrain Park / Big Foot",
+   6.9
+  ],
+  [
+   "walk",
+   "Christie Peak Express top",
+   "Maverick's Halfpipe / Yoo-Hoo",
+   4.4
+  ],
+  [
+   "walk",
+   "Christie Peak Express top",
+   "Maverick's Halfpipe",
+   6.7
+  ],
+  [
+   "walk",
+   "Christie Peak Express top",
+   "Sitz / Voo Doo",
+   6.2
+  ],
+  [
+   "walk",
+   "Short Cut / Giggle Gulch",
+   "Giggle Gulch",
+   2.2
+  ],
+  [
+   "walk",
+   "Short Cut / Giggle Gulch",
+   "Swinger",
+   3.2
+  ],
+  [
+   "walk",
+   "Short Cut / Giggle Gulch",
+   "Swinger 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe",
+   "Swinger",
+   5.3
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe",
+   "Swinger 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Giggle Gulch",
+   "Short Cut / Giggle Gulch",
+   2.2
+  ],
+  [
+   "walk",
+   "Giggle Gulch",
+   "Swinger",
+   3.3
+  ],
+  [
+   "walk",
+   "Giggle Gulch",
+   "Swinger 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Rough Rider / Yoo-Hoo",
+   "Short Cut / Giggle Gulch",
+   4.1
+  ],
+  [
+   "walk",
+   "Rough Rider / Yoo-Hoo",
+   "Giggle Gulch",
+   4.6
+  ],
+  [
+   "walk",
+   "Rough Rider / Yoo-Hoo",
+   "Swinger",
+   2.9
+  ],
+  [
+   "walk",
+   "Rough Rider / Yoo-Hoo",
+   "Swinger 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Swinger",
+   "Short Cut / Giggle Gulch",
+   2.9
+  ],
+  [
+   "walk",
+   "Swinger",
+   "Giggle Gulch",
+   3.3
+  ],
+  [
+   "walk",
+   "Swinger",
+   "Swinger 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Swinger 2",
+   "Short Cut / Giggle Gulch",
+   3.2
+  ],
+  [
+   "walk",
+   "Swinger 2",
+   "Giggle Gulch",
+   3.9
+  ],
+  [
+   "walk",
+   "Swinger 2",
+   "Swinger",
+   4.9
+  ],
+  [
+   "walk",
+   "Giggle Gulch 2",
+   "Short Cut / Giggle Gulch",
+   2.9
+  ],
+  [
+   "walk",
+   "Giggle Gulch 2",
+   "Giggle Gulch",
+   3.6
+  ],
+  [
+   "walk",
+   "Giggle Gulch 2",
+   "Swinger",
+   4.2
+  ],
+  [
+   "walk",
+   "Giggle Gulch 2",
+   "Swinger 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Buddy's Run Upper 2",
+   "Traverse / High Line",
+   4.2
+  ],
+  [
+   "walk",
+   "Buddy's Run Upper 2",
+   "Sideburn / Storm Peak Catwalk",
+   4.8
+  ],
+  [
+   "walk",
+   "Buddy's Run Upper 2",
+   "Buddy's Run Upper",
+   3.2
+  ],
+  [
+   "walk",
+   "Buddy's Run Upper 2",
+   "Cowboy Coffee 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Bar UE top",
+   "Sideburn / Storm Peak Catwalk",
+   3.8
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe",
+   "Wild Blue Gondola I top",
+   4.4
+  ],
+  [
+   "walk",
+   "Bashor bottom",
+   "Wild Blue Gondola I top",
+   3.2
+  ],
+  [
+   "walk",
+   "Short Cut / Giggle Gulch",
+   "Wild Blue Gondola I top",
+   4.0
+  ],
+  [
+   "walk",
+   "Swinger 2",
+   "Wild Blue Gondola I top",
+   5.7
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I top",
+   "Thunderhead Express bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Four Points top",
+   "Typhoon / Tornado",
+   4.4
+  ],
+  [
+   "walk",
+   "Park Lane / Heavenly Daze",
+   "Valley View / Oops",
+   3.4
+  ],
+  [
+   "walk",
+   "Park Lane / Heavenly Daze",
+   "Vagabond Upper",
+   2.0
+  ],
+  [
+   "walk",
+   "Park Lane / Heavenly Daze",
+   "Vagabond Upper 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Vagabond Upper",
+   "Park Lane / Heavenly Daze",
+   2.0
+  ],
+  [
+   "walk",
+   "Vagabond Upper",
+   "Valley View / Oops",
+   3.0
+  ],
+  [
+   "walk",
+   "Vagabond Upper",
+   "Vagabond Upper 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Vagabond Lower / BC Ski Way",
+   "Swinger 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Why Not / Why Not Lower",
+   "Vagabond Lower / BC Ski Way",
+   5.1
+  ],
+  [
+   "walk",
+   "Why Not / Why Not Lower",
+   "Why Not",
+   4.1
+  ],
+  [
+   "walk",
+   "Why Not / Why Not Lower",
+   "Swinger 2",
+   6.6
+  ],
+  [
+   "walk",
+   "Why Not / Why Not Lower",
+   "Greenhorn Ranch Express bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Why Not",
+   "Swinger 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Rough Rider / Yoo-Hoo",
+   "Vagabond Lower / BC Ski Way",
+   2.7
+  ],
+  [
+   "walk",
+   "Rough Rider / Yoo-Hoo",
+   "Why Not",
+   3.7
+  ],
+  [
+   "walk",
+   "Swinger",
+   "Vagabond Lower / BC Ski Way",
+   2.8
+  ],
+  [
+   "walk",
+   "Swinger",
+   "Why Not",
+   3.2
+  ],
+  [
+   "walk",
+   "Swinger 2",
+   "Vagabond Lower / BC Ski Way",
+   4.8
+  ],
+  [
+   "walk",
+   "Swinger 2",
+   "Why Not",
+   3.8
+  ],
+  [
+   "walk",
+   "Swinger 2",
+   "Greenhorn Ranch Express bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I top",
+   "Why Not",
+   4.8
+  ],
+  [
+   "walk",
+   "Sideburn / Storm Peak South",
+   "Twister / Four Points Lift Line",
+   4.6
+  ],
+  [
+   "walk",
+   "Sideburn / Storm Peak South",
+   "Sunset / Dusk",
+   4.1
+  ],
+  [
+   "walk",
+   "Sideburn / Storm Peak South",
+   "Calf Roper / Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Sideburn / Storm Peak South",
+   "Cyclone / Meadow Lane",
+   4.7
+  ],
+  [
+   "walk",
+   "Sideburn / Storm Peak South",
+   "Sunset 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Sideburn / Storm Peak South",
+   "Meadow Lane",
+   5.6
+  ],
+  [
+   "walk",
+   "Vagabond Lower / BC Ski Way",
+   "Bashor bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Vagabond Lower / BC Ski Way",
+   "Wild Blue Gondola I top",
+   4.3
+  ],
+  [
+   "walk",
+   "Vagabond Lower / BC Ski Way",
+   "Short Cut / Giggle Gulch",
+   5.7
+  ],
+  [
+   "walk",
+   "Vagabond Lower / BC Ski Way",
+   "Giggle Gulch",
+   6.1
+  ],
+  [
+   "walk",
+   "Bashor bottom",
+   "Thunderhead Express bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Bashor bottom",
+   "Greenhorn Ranch Express bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Bashor bottom",
+   "Vagabond Lower / BC Ski Way",
+   5.2
+  ],
+  [
+   "walk",
+   "Bashor bottom",
+   "Why Not",
+   5.7
+  ],
+  [
+   "walk",
+   "Wild Blue Gondola I top",
+   "Vagabond Lower / BC Ski Way",
+   4.3
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express bottom",
+   "Bashor bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express bottom",
+   "Short Cut / Giggle Gulch",
+   4.4
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express bottom",
+   "Giggle Gulch",
+   4.8
+  ],
+  [
+   "walk",
+   "Why Not",
+   "Wild Blue Gondola I top",
+   6.5
+  ],
+  [
+   "walk",
+   "Thunderhead Express bottom",
+   "Bashor bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Thunderhead Express bottom",
+   "Wild Blue Gondola I top",
+   6.0
+  ],
+  [
+   "walk",
+   "Short Cut / Giggle Gulch",
+   "Thunderhead Express bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Short Cut / Giggle Gulch",
+   "Greenhorn Ranch Express bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Short Cut / Giggle Gulch",
+   "Why Not",
+   6.4
+  ],
+  [
+   "walk",
+   "Maverick's Halfpipe",
+   "Greenhorn Ranch Express bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Giggle Gulch",
+   "Thunderhead Express bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Giggle Gulch",
+   "Greenhorn Ranch Express bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Giggle Gulch 2",
+   "Greenhorn Ranch Express bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Thunderhead Express bottom",
+   "Short Cut / Giggle Gulch",
+   6.4
+  ],
+  [
+   "walk",
+   "Why Not",
+   "Bashor bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "BC Ski Way / Ego",
+   "Longhorn / BC Ski Way",
+   1.9
+  ],
+  [
+   "walk",
+   "BC Ski Way / Ego",
+   "Burgess Creek bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Surprise / So What",
+   "Longhorn / BC Ski Way",
+   3.6
+  ],
+  [
+   "walk",
+   "Surprise / So What",
+   "BC Ski Way / Ego",
+   2.9
+  ],
+  [
+   "walk",
+   "Surprise / So What",
+   "Pony Express bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Spur Run 4",
+   "Lower High Noon / Broadway 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Spur Run 4",
+   "Elkhead Express bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Four Points bottom",
+   "Longhorn / BC Ski Way",
+   5.9
+  ],
+  [
+   "walk",
+   "Four Points bottom",
+   "BC Ski Way / Ego",
+   5.2
+  ],
+  [
+   "walk",
+   "Four Points bottom",
+   "Storm Peak Express bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Four Points bottom",
+   "Surprise / So What",
+   4.2
+  ],
+  [
+   "walk",
+   "Storm Peak Express bottom",
+   "Surprise / So What",
+   3.7
+  ],
+  [
+   "walk",
+   "Rainbow Lower / Ego",
+   "Surprise / So What",
+   6.6
+  ],
+  [
+   "walk",
+   "Flatout / Lightning",
+   "Surprise / So What",
+   6.9
+  ],
+  [
+   "walk",
+   "BC Ski Way / Ego",
+   "Surprise / So What",
+   4.3
+  ],
+  [
+   "walk",
+   "Spike",
+   "South Peak bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Spike",
+   "Tomahawk 4",
+   3.8
+  ],
+  [
+   "walk",
+   "Spike",
+   "Unnamed run / Sunshine Liftline Lower",
+   3.9
+  ],
+  [
+   "walk",
+   "Tomahawk 4",
+   "Unnamed run / Sunshine Liftline Lower",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunshine Liftline Lower",
+   "Tomahawk 4",
+   1.8
+  ],
+  [
+   "walk",
+   "Park Lane / Heavenly Daze",
+   "Rudi's Run",
+   4.3
+  ],
+  [
+   "walk",
+   "Vagabond Upper",
+   "Rudi's Run",
+   3.5
+  ],
+  [
+   "walk",
+   "Steamboat Gondola top",
+   "Rudi's Run",
+   3.9
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch / Beeline",
+   "Short Cut / Giggle Gulch",
+   4.6
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch / Beeline",
+   "Bashor bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch / Beeline",
+   "Giggle Gulch",
+   5.0
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch / Beeline",
+   "Rough Rider / Yoo-Hoo",
+   6.1
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch / Beeline",
+   "Swinger",
+   4.1
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch / Beeline",
+   "Swinger 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch / Beeline",
+   "Giggle Gulch 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Giggle Gulch",
+   "Rough Rider / Yoo-Hoo",
+   4.6
+  ],
+  [
+   "walk",
+   "Giggle Gulch",
+   "Giggle Gulch 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Giggle Gulch",
+   "Why Not",
+   6.5
+  ],
+  [
+   "walk",
+   "Rough Rider / Yoo-Hoo",
+   "Giggle Gulch 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Swinger",
+   "Rough Rider / Yoo-Hoo",
+   4.4
+  ],
+  [
+   "walk",
+   "Swinger",
+   "Giggle Gulch 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Giggle Gulch 2",
+   "Rough Rider / Yoo-Hoo",
+   5.4
+  ],
+  [
+   "walk",
+   "Giggle Gulch 2",
+   "Thunderhead Express bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express bottom",
+   "Rough Rider / Yoo-Hoo",
+   5.9
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express bottom",
+   "Giggle Gulch 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Bashor bottom",
+   "Rough Rider / Yoo-Hoo",
+   6.0
+  ],
+  [
+   "walk",
+   "Bashor bottom",
+   "Giggle Gulch 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Short Cut / Giggle Gulch",
+   "Rough Rider / Yoo-Hoo",
+   6.8
+  ],
+  [
+   "walk",
+   "Short Cut / Giggle Gulch",
+   "Giggle Gulch 2",
+   6.6
+  ],
+  [
+   "walk",
+   "Vagabond Lower / BC Ski Way",
+   "Giggle Gulch 2",
+   6.9
+  ],
+  [
+   "walk",
+   "Longhorn",
+   "Typhoon / Tornado Lane",
+   5.0
+  ],
+  [
+   "walk",
+   "Longhorn",
+   "WJW / Longhorn",
+   5.6
+  ],
+  [
+   "walk",
+   "Longhorn",
+   "Chuckwagon / Drop Out",
+   4.1
+  ],
+  [
+   "walk",
+   "Longhorn",
+   "Buddy's Run Lower / Drop Out",
+   3.3
+  ],
+  [
+   "walk",
+   "Longhorn",
+   "Buddy's Run Lower",
+   3.2
+  ],
+  [
+   "walk",
+   "Longhorn",
+   "Wapiti 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Longhorn",
+   "Vortex / Drop Out",
+   4.9
+  ],
+  [
+   "walk",
+   "Wapiti",
+   "Typhoon / Tornado Lane",
+   4.2
+  ],
+  [
+   "walk",
+   "Wapiti",
+   "WJW / Longhorn",
+   4.8
+  ],
+  [
+   "walk",
+   "Wapiti",
+   "Chuckwagon / Drop Out",
+   3.3
+  ],
+  [
+   "walk",
+   "Wapiti",
+   "Buddy's Run Lower / Drop Out",
+   2.5
+  ],
+  [
+   "walk",
+   "Wapiti",
+   "Buddy's Run Lower",
+   2.4
+  ],
+  [
+   "walk",
+   "Wapiti",
+   "Wapiti 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Wapiti",
+   "Vortex / Drop Out",
+   4.2
+  ],
+  [
+   "walk",
+   "Nash Junction / Flying Z Gulch",
+   "Typhoon / Tornado Lane",
+   5.4
+  ],
+  [
+   "walk",
+   "Nash Junction / Flying Z Gulch",
+   "WJW / Longhorn",
+   6.1
+  ],
+  [
+   "walk",
+   "Nash Junction / Flying Z Gulch",
+   "Chuckwagon / Drop Out",
+   4.6
+  ],
+  [
+   "walk",
+   "Nash Junction / Flying Z Gulch",
+   "Buddy's Run Lower / Drop Out",
+   3.8
+  ],
+  [
+   "walk",
+   "Nash Junction / Flying Z Gulch",
+   "Buddy's Run Lower",
+   3.7
+  ],
+  [
+   "walk",
+   "Nash Junction / Flying Z Gulch",
+   "Wapiti 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Nash Junction / Flying Z Gulch",
+   "Vortex / Drop Out",
+   5.4
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower / Drop Out",
+   "Typhoon / Tornado Lane",
+   3.5
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower / Drop Out",
+   "WJW / Longhorn",
+   4.2
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower / Drop Out",
+   "Chuckwagon / Drop Out",
+   2.7
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower / Drop Out",
+   "Buddy's Run Lower",
+   1.8
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower / Drop Out",
+   "Wapiti 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower / Drop Out",
+   "Vortex / Drop Out",
+   3.5
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower",
+   "Typhoon / Tornado Lane",
+   3.4
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower",
+   "WJW / Longhorn",
+   4.0
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower",
+   "Chuckwagon / Drop Out",
+   2.6
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower",
+   "Buddy's Run Lower / Drop Out",
+   1.8
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower",
+   "Wapiti 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Buddy's Run Lower",
+   "Vortex / Drop Out",
+   3.4
+  ],
+  [
+   "walk",
+   "Wapiti 2",
+   "Typhoon / Tornado Lane",
+   3.2
+  ],
+  [
+   "walk",
+   "Wapiti 2",
+   "WJW / Longhorn",
+   3.8
+  ],
+  [
+   "walk",
+   "Wapiti 2",
+   "Chuckwagon / Drop Out",
+   2.4
+  ],
+  [
+   "walk",
+   "Wapiti 2",
+   "Buddy's Run Lower / Drop Out",
+   1.6
+  ],
+  [
+   "walk",
+   "Wapiti 2",
+   "Buddy's Run Lower",
+   1.4
+  ],
+  [
+   "walk",
+   "Wapiti 2",
+   "Vortex / Drop Out",
+   3.2
+  ],
+  [
+   "walk",
+   "Wapiti 3",
+   "Typhoon / Tornado Lane",
+   3.9
+  ],
+  [
+   "walk",
+   "Wapiti 3",
+   "WJW / Longhorn",
+   4.5
+  ],
+  [
+   "walk",
+   "Wapiti 3",
+   "Chuckwagon / Drop Out",
+   3.1
+  ],
+  [
+   "walk",
+   "Wapiti 3",
+   "Buddy's Run Lower / Drop Out",
+   2.2
+  ],
+  [
+   "walk",
+   "Wapiti 3",
+   "Buddy's Run Lower",
+   2.1
+  ],
+  [
+   "walk",
+   "Wapiti 3",
+   "Wapiti 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Wapiti 3",
+   "Vortex / Drop Out",
+   3.9
+  ],
+  [
+   "walk",
+   "Sundown Express top",
+   "Cowboy Coffee 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Sunshine Express top",
+   "Cowboy Coffee 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Sundial",
+   "Sundown Express top",
+   2.7
+  ],
+  [
+   "walk",
+   "Sundial",
+   "Traverse / High Line",
+   5.5
+  ],
+  [
+   "walk",
+   "Sundial",
+   "Sunshine Express top",
+   3.1
+  ],
+  [
+   "walk",
+   "Sundial",
+   "Cowboy Coffee 3",
+   5.3
+  ],
+  [
+   "walk",
+   "Sundial",
+   "Sunshine Lift Line Upper",
+   4.3
+  ],
+  [
+   "walk",
+   "Sundial",
+   "Tomahawk Face 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Sundial",
+   "Jump Start / Sundial",
+   6.3
+  ],
+  [
+   "walk",
+   "Sitz / Sitzback",
+   "Lower Valley View / Jess' Cut Off",
+   2.4
+  ],
+  [
+   "walk",
+   "Sitz / Sitzback",
+   "Jess' Cut Off / Bear Claw",
+   2.7
+  ],
+  [
+   "walk",
+   "Sitz / Sitzback",
+   "Sitz",
+   3.0
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch / Beeline",
+   "Vagabond Lower / BC Ski Way",
+   3.9
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch / Beeline",
+   "Why Not",
+   4.9
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch / Beeline",
+   "Thunderhead Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express top",
+   "Vagabond Lower / BC Ski Way",
+   6.7
+  ],
+  [
+   "walk",
+   "Greenhorn Ranch Express top",
+   "Swinger",
+   6.9
+  ],
+  [
+   "walk",
+   "Short Cut / Giggle Gulch",
+   "Vagabond Lower / BC Ski Way",
+   6.0
+  ],
+  [
+   "walk",
+   "Giggle Gulch",
+   "Vagabond Lower / BC Ski Way",
+   6.1
+  ],
+  [
+   "walk",
+   "Giggle Gulch 2",
+   "Vagabond Lower / BC Ski Way",
+   6.9
+  ]
+ ],
+ "base": "Wild Blue Gondola I bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "20",
+  "downhill_trails": "222",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

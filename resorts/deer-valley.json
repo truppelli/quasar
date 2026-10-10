@@ -1,0 +1,10306 @@
+{
+ "name": "Deer Valley Resort",
+ "source": "OpenSkiMap ski area b7a200210f3dac1b9a5ca7b71429e6205c8c413e",
+ "origin_lonlat": [
+  -111.47930302795741,
+  40.618149472886735
+ ],
+ "nodes": {
+  "Lost Fawn": [
+   1973,
+   2106,
+   2063.4
+  ],
+  "Lost Fawn / Jordanelle": [
+   1976,
+   2212,
+   2049.8
+  ],
+  "Custer": [
+   -2377,
+   178,
+   2493.1
+  ],
+  "Custer / Webster": [
+   -2572,
+   -4,
+   2469.8
+  ],
+  "Age of Reason / Northern Light": [
+   -514,
+   -1408,
+   2740.6
+  ],
+  "Age of Reason / Green Monster": [
+   1826,
+   -327,
+   2146.5
+  ],
+  "Sunset / Homeward Bound": [
+   -576,
+   -900,
+   2720.7
+  ],
+  "Sunset / Birdseye": [
+   -557,
+   -401,
+   2652.5
+  ],
+  "Unnamed run / Green Monster": [
+   -748,
+   -1589,
+   2760.5
+  ],
+  "Unnamed run / Golden Age": [
+   -749,
+   -1359,
+   2717.7
+  ],
+  "Home Run": [
+   1092,
+   1588,
+   2318.9
+  ],
+  "Home Run 2": [
+   1264,
+   1835,
+   2218.5
+  ],
+  "Yaup / Lady of the Lake": [
+   1560,
+   -105,
+   2278.9
+  ],
+  "Yaup / Lone Tree": [
+   1495,
+   85,
+   2200.9
+  ],
+  "Clipper": [
+   -923,
+   -2106,
+   2769.0
+  ],
+  "Clipper / Golden Age": [
+   -1201,
+   -1066,
+   2639.4
+  ],
+  "Unnamed run / Green Monster 2": [
+   1359,
+   -579,
+   2274.8
+  ],
+  "Unnamed run / Mayflower Link": [
+   1266,
+   -483,
+   2266.3
+  ],
+  "Homestake Express bottom": [
+   -694,
+   324,
+   2477.6
+  ],
+  "Wasatch Express bottom": [
+   -72,
+   252,
+   2414.7
+  ],
+  "Dakota / Pearl": [
+   -3181,
+   -53,
+   2716.4
+  ],
+  "Dakota / Pearl 2": [
+   -3117,
+   -279,
+   2647.1
+  ],
+  "Seldom Seen / Perseverance Bowl": [
+   -13,
+   -1062,
+   2821.2
+  ],
+  "Age of Reason": [
+   1109,
+   -1270,
+   2357.6
+  ],
+  "Pinyon Express top": [
+   -528,
+   -1757,
+   2832.0
+  ],
+  "Green Monster / Age of Reason": [
+   -520,
+   -1449,
+   2742.8
+  ],
+  "Unnamed lift top": [
+   -470,
+   2238,
+   2335.6
+  ],
+  "Unnamed run / Rosebud": [
+   -326,
+   1918,
+   2306.3
+  ],
+  "Sunset": [
+   -568,
+   -625,
+   2679.8
+  ],
+  "Sunset Glade / Homeward Bound": [
+   -809,
+   -375,
+   2562.3
+  ],
+  "Dew Drop / Success": [
+   -422,
+   1281,
+   2431.4
+  ],
+  "Dew Drop / Rosebud": [
+   -334,
+   1840,
+   2320.4
+  ],
+  "Overlooked / Road to Sultan": [
+   1059,
+   -124,
+   2350.4
+  ],
+  "Overlooked / McHenry": [
+   1867,
+   610,
+   2091.7
+  ],
+  "Unnamed run / Northern Light": [
+   -460,
+   -1249,
+   2766.1
+  ],
+  "Age of Reason 2": [
+   -422,
+   -1391,
+   2734.1
+  ],
+  "Torpedo / Primrose": [
+   2413,
+   -644,
+   2148.3
+  ],
+  "Torpedo / Evening Star": [
+   2638,
+   86,
+   2056.2
+  ],
+  "Snowflake top": [
+   -19,
+   1751,
+   2250.7
+  ],
+  "Burns Express bottom": [
+   25,
+   1749,
+   2249.8
+  ],
+  "Tug of War / U Bet": [
+   1603,
+   -1334,
+   2490.1
+  ],
+  "Tug of War / Unnamed run": [
+   3028,
+   -5,
+   2004.8
+  ],
+  "Northside Express top": [
+   -1930,
+   -829,
+   2757.1
+  ],
+  "Miner's Delight / McHenry": [
+   401,
+   312,
+   2334.2
+  ],
+  "Miner's Delight / McHenry 2": [
+   574,
+   425,
+   2279.7
+  ],
+  "Solace / Unnamed run": [
+   -3426,
+   -547,
+   2688.5
+  ],
+  "Solace / T&G": [
+   -3200,
+   -472,
+   2649.0
+  ],
+  "Red Cloud top": [
+   -1613,
+   -379,
+   2683.1
+  ],
+  "Hidden Treasure": [
+   -1403,
+   -496,
+   2621.1
+  ],
+  "Dream / June Bug": [
+   -863,
+   -1578,
+   2747.7
+  ],
+  "Dream / Clipper": [
+   -995,
+   -1789,
+   2729.3
+  ],
+  "Little Reb / Race Course": [
+   -587,
+   50,
+   2555.1
+  ],
+  "Little Reb / Unnamed run": [
+   -724,
+   273,
+   2479.1
+  ],
+  "McHenry / Sultan Connection": [
+   324,
+   220,
+   2368.0
+  ],
+  "McHenry / Unnamed run": [
+   2359,
+   570,
+   2023.7
+  ],
+  "Tug of War": [
+   2163,
+   -1342,
+   2330.2
+  ],
+  "Joker / Pay Rock": [
+   2044,
+   -2390,
+   2088.4
+  ],
+  "Crown Point top": [
+   -175,
+   623,
+   2582.5
+  ],
+  "Kimberly / Little Stick": [
+   5,
+   1267,
+   2412.8
+  ],
+  "Aurora bottom": [
+   2915,
+   490,
+   1980.7
+  ],
+  "Ampheon / Viola": [
+   2289,
+   938,
+   2089.3
+  ],
+  "Ampheon / Viola 2": [
+   2496,
+   1056,
+   2007.4
+  ],
+  "Red Cloud bottom": [
+   -1055,
+   143,
+   2451.5
+  ],
+  "Finis / Unnamed run": [
+   578,
+   -524,
+   2502.6
+  ],
+  "Finis / Tycoon": [
+   637,
+   -240,
+   2384.3
+  ],
+  "Lucky Bill / Success": [
+   -315,
+   1618,
+   2367.0
+  ],
+  "Lucky Bill / Little Stick": [
+   -51,
+   1796,
+   2241.1
+  ],
+  "Northside Express bottom": [
+   -2163,
+   233,
+   2488.7
+  ],
+  "Keetley Express top": [
+   1092,
+   -214,
+   2368.8
+  ],
+  "T&G / Unnamed run": [
+   -3084,
+   -375,
+   2636.9
+  ],
+  "Ruby Express bottom": [
+   -2570,
+   -398,
+   2541.1
+  ],
+  "Lady of the Lake / Mayflower Link": [
+   1321,
+   -226,
+   2318.6
+  ],
+  "Lady of the Lake / Unnamed run": [
+   2859,
+   494,
+   1984.7
+  ],
+  "Age of Reason 3": [
+   950,
+   -1538,
+   2390.1
+  ],
+  "Silver Dollar / Last Chance": [
+   -680,
+   1388,
+   2423.4
+  ],
+  "Silver Dollar / Last Chance 2": [
+   -613,
+   1558,
+   2377.7
+  ],
+  "Mayflower Link / Road to Sultan": [
+   1169,
+   -182,
+   2335.6
+  ],
+  "Mayflower Link / Glencoe": [
+   1506,
+   -656,
+   2223.6
+  ],
+  "Clipper 2": [
+   -1197,
+   -1431,
+   2688.3
+  ],
+  "Home Run 3": [
+   598,
+   1551,
+   2370.2
+  ],
+  "Spitfire / Matchless": [
+   1702,
+   -1241,
+   2449.5
+  ],
+  "Spitfire / Caledonia": [
+   2012,
+   -606,
+   2179.7
+  ],
+  "Pioche Express top": [
+   1640,
+   1077,
+   2208.0
+  ],
+  "Hidden Treasure / Ontario": [
+   -1679,
+   -993,
+   2715.9
+  ],
+  "Judge bottom": [
+   -1029,
+   109,
+   2452.4
+  ],
+  "Ridge Cross": [
+   821,
+   1509,
+   2380.2
+  ],
+  "Ridge Cross / Summit": [
+   829,
+   1458,
+   2369.8
+  ],
+  "Burns Express top": [
+   295,
+   1949,
+   2305.4
+  ],
+  "Silver Hill / Connector": [
+   660,
+   1741,
+   2411.5
+  ],
+  "Silver Hill / Deer Hollow": [
+   496,
+   2199,
+   2251.1
+  ],
+  "Ruby Express top": [
+   -1970,
+   -840,
+   2760.4
+  ],
+  "Pioche Access / Minnow": [
+   1744,
+   1482,
+   2161.0
+  ],
+  "Pioche Access": [
+   2192,
+   1732,
+   2041.9
+  ],
+  "Home Run / Jordanelle": [
+   1595,
+   2236,
+   2171.4
+  ],
+  "Judge top": [
+   -790,
+   131,
+   2508.4
+  ],
+  "Unnamed run / Homeward Bound": [
+   -740,
+   119,
+   2505.0
+  ],
+  "Keetly / Nelles Loop": [
+   1431,
+   2173,
+   2210.5
+  ],
+  "Mountaineer Express bottom": [
+   1091,
+   2575,
+   2155.6
+  ],
+  "Hillside / Argus": [
+   -3043,
+   187,
+   2656.6
+  ],
+  "Lady Morgan Express bottom": [
+   -2506,
+   465,
+   2409.3
+  ],
+  "Pioche": [
+   1575,
+   1684,
+   2200.7
+  ],
+  "Revelator Express top": [
+   -583,
+   -1838,
+   2850.7
+  ],
+  "Silver Buck": [
+   -1708,
+   -48,
+   2596.0
+  ],
+  "Silver Strike Express bottom": [
+   -1771,
+   654,
+   2462.9
+  ],
+  "Carpenter Express top": [
+   -473,
+   797,
+   2556.9
+  ],
+  "Summit / Connector": [
+   637,
+   1615,
+   2391.5
+  ],
+  "Summit / Jordanelle": [
+   1237,
+   2136,
+   2264.3
+  ],
+  "Quincy Express bottom": [
+   -1029,
+   64,
+   2452.6
+  ],
+  "Unnamed run / Nettie": [
+   2552,
+   1136,
+   1992.6
+  ],
+  "Unnamed run / Minnow": [
+   2608,
+   1210,
+   1986.3
+  ],
+  "Thunderer / Stein's Way": [
+   -56,
+   -1035,
+   2828.8
+  ],
+  "Thunderer / Edgar's Alley": [
+   165,
+   -855,
+   2686.7
+  ],
+  "Nemesis / Redemption": [
+   172,
+   -2553,
+   2635.1
+  ],
+  "Nemesis / Catch All": [
+   631,
+   -2182,
+   2323.8
+  ],
+  "Morning Star / Edgar's Alley": [
+   285,
+   -933,
+   2709.4
+  ],
+  "Town Hall Loop / Pioche": [
+   1946,
+   1848,
+   2112.3
+  ],
+  "Town Hall Loop / Pioche 2": [
+   2046,
+   1824,
+   2078.1
+  ],
+  "Lady Morgan Bowl / Empire Bowl": [
+   -3783,
+   -364,
+   2830.6
+  ],
+  "Lady Morgan Bowl / Margus": [
+   -3215,
+   122,
+   2745.6
+  ],
+  "Lady of the Lake": [
+   1780,
+   53,
+   2246.1
+  ],
+  "Lady of the Lake 2": [
+   2290,
+   281,
+   2100.4
+  ],
+  "Daylight / Green Monster": [
+   2658,
+   247,
+   2036.5
+  ],
+  "Little Stick / Silver Link": [
+   -463,
+   666,
+   2550.4
+  ],
+  "Little Stick / Rosebud": [
+   -52,
+   1841,
+   2234.3
+  ],
+  "North Star / Nabob": [
+   -261,
+   -902,
+   2826.3
+  ],
+  "Sunset 2": [
+   -556,
+   -462,
+   2661.4
+  ],
+  "East Village Gondola I bottom": [
+   3052,
+   96,
+   1992.8
+  ],
+  "Unnamed lift top 2": [
+   269,
+   1412,
+   2418.4
+  ],
+  "Home Run 4": [
+   1213,
+   1691,
+   2285.6
+  ],
+  "Niagra / Minnow": [
+   1643,
+   1352,
+   2173.1
+  ],
+  "Niagra / Minnow 2": [
+   2130,
+   1287,
+   2051.2
+  ],
+  "Gilt Edge / Race Course": [
+   -580,
+   -67,
+   2568.9
+  ],
+  "Gilt Edge / Homeward Bound": [
+   -758,
+   -127,
+   2536.5
+  ],
+  "Peeler / Star Gazer": [
+   -1324,
+   94,
+   2476.5
+  ],
+  "Aurora top": [
+   2754,
+   310,
+   2024.4
+  ],
+  "Daylight": [
+   2694,
+   300,
+   2025.4
+  ],
+  "Snowflake bottom": [
+   -4,
+   2086,
+   2205.3
+  ],
+  "Little Stick": [
+   -242,
+   1112,
+   2488.8
+  ],
+  "Yes You Do / Solid Muldoon": [
+   -253,
+   1377,
+   2382.8
+  ],
+  "Little Bdll / Success": [
+   -542,
+   962,
+   2518.1
+  ],
+  "Little Bdll / Success 2": [
+   -454,
+   1222,
+   2442.0
+  ],
+  "Empire Express top": [
+   -4075,
+   -638,
+   2911.8
+  ],
+  "Solace / Orion": [
+   -3715,
+   -744,
+   2747.4
+  ],
+  "Overlooked": [
+   1105,
+   -45,
+   2314.4
+  ],
+  "McHenry": [
+   1984,
+   549,
+   2074.2
+  ],
+  "Sterling Express bottom": [
+   -790,
+   292,
+   2478.0
+  ],
+  "Viking bottom": [
+   -999,
+   136,
+   2451.8
+  ],
+  "Daly Chute 6 / Daly Runout": [
+   -3053,
+   -667,
+   2594.0
+  ],
+  "Empire Express bottom": [
+   -2677,
+   -356,
+   2541.5
+  ],
+  "Walker / Webster": [
+   -2637,
+   -104,
+   2504.0
+  ],
+  "Jordanelle Express Gondola top": [
+   771,
+   1749,
+   2418.8
+  ],
+  "Crest Ridge": [
+   876,
+   1642,
+   2369.5
+  ],
+  "Primrose / Sure Thing": [
+   2121,
+   -691,
+   2224.7
+  ],
+  "Tug of War 2": [
+   2643,
+   -584,
+   2074.3
+  ],
+  "Ontario": [
+   -1862,
+   -982,
+   2733.9
+  ],
+  "Persistence / Exchange": [
+   978,
+   -1955,
+   2455.9
+  ],
+  "Persistence / Crown Prince": [
+   2003,
+   -2480,
+   2069.0
+  ],
+  "Age of Reason 4": [
+   1735,
+   -651,
+   2253.7
+  ],
+  "Silver Hill": [
+   641,
+   1777,
+   2398.0
+  ],
+  "Fairview / Deer Hollow": [
+   352,
+   2110,
+   2273.8
+  ],
+  "Bet Your Boots / Carbenite": [
+   -166,
+   -1685,
+   2687.4
+  ],
+  "Bet Your Boots / Non-Descript": [
+   74,
+   -2014,
+   2520.9
+  ],
+  "Unnamed run 2": [
+   -3867,
+   -865,
+   2797.9
+  ],
+  "Anchor Treess / Daly Runout": [
+   -3422,
+   -676,
+   2695.3
+  ],
+  "Carpenter Express bottom": [
+   -10,
+   2161,
+   2200.1
+  ],
+  "Mayflower top": [
+   351,
+   -931,
+   2684.8
+  ],
+  "Morning Star": [
+   1206,
+   -560,
+   2277.6
+  ],
+  "Uno / Viola": [
+   1958,
+   943,
+   2149.2
+  ],
+  "McHenry 2": [
+   2102,
+   629,
+   2058.6
+  ],
+  "Homestake Express top": [
+   -436,
+   777,
+   2555.0
+  ],
+  "Kabob / Keno": [
+   -369,
+   -195,
+   2604.4
+  ],
+  "Kabob / Keno 2": [
+   -278,
+   48,
+   2486.1
+  ],
+  "Ore Cart / Nugget": [
+   -2955,
+   -374,
+   2598.6
+  ],
+  "Ore Cart / Pearl": [
+   -2745,
+   -330,
+   2547.9
+  ],
+  "Overlooked 2": [
+   1501,
+   277,
+   2229.3
+  ],
+  "Cataract / Redemption": [
+   -425,
+   -2196,
+   2743.3
+  ],
+  "Cataract / Deep Enuf": [
+   91,
+   -2174,
+   2490.1
+  ],
+  "Redemption / Crown Prince": [
+   1743,
+   -2565,
+   2107.3
+  ],
+  "Crown Prince / Fallon": [
+   1209,
+   -3051,
+   2269.9
+  ],
+  "Vulcan Express bottom": [
+   2117,
+   -2441,
+   2055.9
+  ],
+  "Edgar's Alley / Tycoon": [
+   566,
+   -289,
+   2407.5
+  ],
+  "Crest Ridge / Jordanelle": [
+   1116,
+   2098,
+   2305.4
+  ],
+  "Unnamed run / Olive Branch": [
+   2360,
+   1307,
+   2024.4
+  ],
+  "Neptune Express bottom": [
+   2726,
+   1222,
+   1968.7
+  ],
+  "Lucky Star / Boulder Bumps": [
+   -1987,
+   -577,
+   2707.9
+  ],
+  "To The Max / Sure Thing": [
+   2103,
+   -1077,
+   2305.3
+  ],
+  "Tug of War 3": [
+   2631,
+   -701,
+   2084.9
+  ],
+  "Matchless": [
+   1680,
+   -1109,
+   2422.9
+  ],
+  "Galena Express bottom": [
+   2256,
+   584,
+   2035.8
+  ],
+  "Edgar's Alley": [
+   383,
+   -561,
+   2525.7
+  ],
+  "Sultan Express bottom": [
+   976,
+   -41,
+   2298.9
+  ],
+  "Sultan Express top": [
+   -153,
+   -953,
+   2833.8
+  ],
+  "Grizzly / Perseverance": [
+   178,
+   -680,
+   2631.5
+  ],
+  "Jordanelle": [
+   1653,
+   2243,
+   2155.2
+  ],
+  "Race Course / Nabob": [
+   -539,
+   -181,
+   2582.2
+  ],
+  "Blue Bell": [
+   -1889,
+   -156,
+   2609.7
+  ],
+  "Gemini / Silver Buck": [
+   -1735,
+   -152,
+   2630.4
+  ],
+  "Silver Buck 2": [
+   -1791,
+   297,
+   2504.8
+  ],
+  "Quincy Express top": [
+   -1897,
+   -795,
+   2754.7
+  ],
+  "Daly Bowl / Daly Runout": [
+   -3243,
+   -735,
+   2627.1
+  ],
+  "Narrow Gauge": [
+   576,
+   -838,
+   2588.2
+  ],
+  "Morning Star 2": [
+   1143,
+   -816,
+   2341.0
+  ],
+  "Mountaineer / Deer Hollow": [
+   950,
+   2545,
+   2165.7
+  ],
+  "Lucky Star": [
+   -1985,
+   -536,
+   2697.8
+  ],
+  "Northern Light / Homeward Bound": [
+   -400,
+   -1172,
+   2790.5
+  ],
+  "Northern Light / Homeward Bound 2": [
+   -773,
+   -1029,
+   2684.5
+  ],
+  "Redemption": [
+   -353,
+   -2338,
+   2718.1
+  ],
+  "Deep Enuf / Non-Descript": [
+   262,
+   -2085,
+   2432.9
+  ],
+  "Unnamed run / Olive Branch 2": [
+   2286,
+   1298,
+   2035.8
+  ],
+  "Unnamed run 3": [
+   -3628,
+   -642,
+   2717.3
+  ],
+  "Buckeye / Orion": [
+   -3257,
+   -623,
+   2634.3
+  ],
+  "Unnamed run / Blue Bell": [
+   -1929,
+   25,
+   2543.5
+  ],
+  "American Flag / Success": [
+   -262,
+   2078,
+   2274.8
+  ],
+  "Unnamed lift bottom": [
+   -344,
+   2324,
+   2269.0
+  ],
+  "Legal Tender / Homeward Bound": [
+   -216,
+   -920,
+   2827.0
+  ],
+  "Legal Tender / Nabob": [
+   -158,
+   203,
+   2425.4
+  ],
+  "Nelles Loop / Jordanelle": [
+   1327,
+   2140,
+   2242.1
+  ],
+  "Lost Boulder": [
+   -2047,
+   -176,
+   2607.6
+  ],
+  "Lost Fawn 2": [
+   1665,
+   2070,
+   2140.4
+  ],
+  "Deer Hollow / Jordanelle": [
+   1742,
+   2333,
+   2113.6
+  ],
+  "Deer Hollow / Lost Fawn": [
+   1927,
+   2042,
+   2076.4
+  ],
+  "X-Files / Unnamed run": [
+   -2658,
+   -393,
+   2541.4
+  ],
+  "Matchless 2": [
+   1681,
+   -888,
+   2340.5
+  ],
+  "Mountain Monarch / Green Monster": [
+   1931,
+   -301,
+   2133.1
+  ],
+  "Blue Bell 2": [
+   -1881,
+   -230,
+   2629.8
+  ],
+  "Silver Strike Express top": [
+   -1919,
+   -870,
+   2763.3
+  ],
+  "Lady of the Lake 3": [
+   1840,
+   124,
+   2224.6
+  ],
+  "Lady of the Lake 4": [
+   2326,
+   325,
+   2085.0
+  ],
+  "Edgar's Alley 2": [
+   245,
+   -914,
+   2702.7
+  ],
+  "Unnamed run 4": [
+   456,
+   -549,
+   2517.2
+  ],
+  "Pioche Loop / Pioche": [
+   1737,
+   1754,
+   2176.1
+  ],
+  "Pioche Loop / Pioche 2": [
+   1798,
+   1827,
+   2143.7
+  ],
+  "Unnamed run 5": [
+   -3719,
+   -639,
+   2741.5
+  ],
+  "Jordanelle Express Gondola bottom": [
+   2304,
+   1963,
+   2012.2
+  ],
+  "U Bet": [
+   1618,
+   -1263,
+   2468.2
+  ],
+  "Age of Reason 5": [
+   1373,
+   -1018,
+   2313.1
+  ],
+  "Little Stick 2": [
+   -439,
+   825,
+   2549.6
+  ],
+  "Divide / Viola": [
+   1876,
+   984,
+   2174.5
+  ],
+  "Minnow": [
+   2326,
+   1226,
+   2017.2
+  ],
+  "Pinafore / Klondyke": [
+   1784,
+   -950,
+   2340.8
+  ],
+  "Pinafore / Klondyke 2": [
+   1909,
+   -705,
+   2238.7
+  ],
+  "Ontario 2": [
+   -1569,
+   -985,
+   2705.2
+  ],
+  "Peeler": [
+   -1652,
+   -326,
+   2680.4
+  ],
+  "Star Gazer / Banner": [
+   -1242,
+   137,
+   2465.0
+  ],
+  "Hoodoo Express top": [
+   2730,
+   116,
+   2038.6
+  ],
+  "Tug of War 4": [
+   2754,
+   -1195,
+   2177.6
+  ],
+  "Matchless 3": [
+   1710,
+   -1081,
+   2403.8
+  ],
+  "Mountain Monarch": [
+   1880,
+   -562,
+   2200.8
+  ],
+  "Blue Bell 3": [
+   -1791,
+   -466,
+   2674.5
+  ],
+  "Pioche 2": [
+   2250,
+   1890,
+   2034.5
+  ],
+  "Redemption 2": [
+   278,
+   -2680,
+   2598.6
+  ],
+  "Ophelia / Catch All": [
+   952,
+   -2394,
+   2244.6
+  ],
+  "Mountaineer": [
+   923,
+   2072,
+   2351.3
+  ],
+  "Dynamic / Deer Hollow": [
+   901,
+   2500,
+   2173.7
+  ],
+  "Unnamed run / Trainer": [
+   -743,
+   310,
+   2478.4
+  ],
+  "Supreme": [
+   -3028,
+   -407,
+   2630.2
+  ],
+  "Peerless / Ruins Of Pompeii": [
+   -36,
+   -735,
+   2732.6
+  ],
+  "Peerless / Perseverance": [
+   238,
+   -601,
+   2587.3
+  ],
+  "Neptune Express top": [
+   1710,
+   1092,
+   2205.8
+  ],
+  "Lucky Star 2": [
+   -2240,
+   142,
+   2507.9
+  ],
+  "Margus / Argus": [
+   -2782,
+   170,
+   2520.0
+  ],
+  "Viking top": [
+   -878,
+   272,
+   2491.5
+  ],
+  "Unnamed run 6": [
+   -815,
+   335,
+   2480.1
+  ],
+  "Tug of War 5": [
+   2404,
+   -1419,
+   2307.2
+  ],
+  "Bandana": [
+   -2610,
+   -402,
+   2541.2
+  ],
+  "Webster / Pearl": [
+   -2941,
+   -264,
+   2585.7
+  ],
+  "Little Stick 3": [
+   -136,
+   1258,
+   2440.1
+  ],
+  "Solid Muldoon": [
+   -75,
+   1642,
+   2274.4
+  ],
+  "Lady of the Lake 5": [
+   2383,
+   330,
+   2073.4
+  ],
+  "Supreme 2": [
+   -3989,
+   -522,
+   2866.4
+  ],
+  "Mayflower Bowl / Stein's Way": [
+   98,
+   -1072,
+   2789.1
+  ],
+  "Morning Star 3": [
+   649,
+   -1040,
+   2504.6
+  ],
+  "Sunrise / Silver Link": [
+   -535,
+   551,
+   2528.6
+  ],
+  "Nettie / Viola": [
+   2113,
+   890,
+   2130.5
+  ],
+  "Minnow 2": [
+   2472,
+   1188,
+   1998.7
+  ],
+  "Unnamed run / Olive Branch 3": [
+   2536,
+   1234,
+   1995.5
+  ],
+  "Rosebud": [
+   -50,
+   1910,
+   2225.6
+  ],
+  "Catch All / Non-Descript": [
+   413,
+   -2092,
+   2397.6
+  ],
+  "Crown Prince": [
+   1843,
+   -2500,
+   2082.6
+  ],
+  "Solace / Orion 2": [
+   -3059,
+   -594,
+   2592.0
+  ],
+  "Keetley Express bottom": [
+   3069,
+   217,
+   1995.3
+  ],
+  "Mountaineer 2": [
+   893,
+   2009,
+   2378.3
+  ],
+  "Sultan Connection": [
+   926,
+   -45,
+   2298.5
+  ],
+  "McHenry 3": [
+   784,
+   253,
+   2242.0
+  ],
+  "Daly Chute 6 3": [
+   -3098,
+   -679,
+   2596.1
+  ],
+  "Clipper 3": [
+   -1203,
+   -1224,
+   2661.2
+  ],
+  "Rattler / Wizard": [
+   -180,
+   -361,
+   2649.3
+  ],
+  "McHenry 4": [
+   -117,
+   241,
+   2415.4
+  ],
+  "Edgar's Alley 3": [
+   459,
+   -447,
+   2473.8
+  ],
+  "Supreme 3": [
+   -3917,
+   -458,
+   2848.0
+  ],
+  "Supreme 4": [
+   -3230,
+   -427,
+   2658.4
+  ],
+  "Webster": [
+   -2541,
+   173,
+   2440.4
+  ],
+  "Redemption 3": [
+   699,
+   -2870,
+   2502.6
+  ],
+  "Catch All": [
+   1182,
+   -2524,
+   2181.7
+  ],
+  "Gnat's Eye / Deer Hollow": [
+   576,
+   1752,
+   2391.8
+  ],
+  "Little Stick 4": [
+   276,
+   1876,
+   2313.9
+  ],
+  "Crown Prince 2": [
+   1468,
+   -3022,
+   2193.7
+  ],
+  "Crown Prince 3": [
+   1547,
+   -2855,
+   2150.7
+  ],
+  "Mountaineer 3": [
+   1038,
+   2310,
+   2249.3
+  ],
+  "Clipper 4": [
+   -785,
+   -1804,
+   2800.6
+  ],
+  "Bandana 2": [
+   -2015,
+   -794,
+   2747.2
+  ],
+  "Guardsman Glades / Hawkeye": [
+   -2178,
+   -404,
+   2639.3
+  ],
+  "Stein's Way / Tycoon": [
+   910,
+   -116,
+   2310.9
+  ],
+  "Free Thinker / Orient Express": [
+   502,
+   -781,
+   2588.8
+  ],
+  "Free Thinker / Orient Express 2": [
+   941,
+   -503,
+   2351.5
+  ],
+  "Birdseye / Homeward Bound": [
+   -715,
+   203,
+   2489.8
+  ],
+  "Last Chance / Success": [
+   -575,
+   1125,
+   2478.1
+  ],
+  "Dew Drop": [
+   -379,
+   1800,
+   2322.1
+  ],
+  "Webster 2": [
+   -2530,
+   258,
+   2429.1
+  ],
+  "Lone Tree": [
+   1729,
+   326,
+   2145.7
+  ],
+  "Waterloo": [
+   2231,
+   366,
+   2094.2
+  ],
+  "Little Stick 5": [
+   -354,
+   874,
+   2542.8
+  ],
+  "Little Stick 6": [
+   -5,
+   1696,
+   2262.2
+  ],
+  "Silver Buck 3": [
+   -1718,
+   71,
+   2566.7
+  ],
+  "Ruins Of Pompeii / Tycoon": [
+   -141,
+   -844,
+   2808.9
+  ],
+  "Ruins Of Pompeii / Triangle Trees": [
+   276,
+   -387,
+   2521.6
+  ],
+  "Magnet / Pearl": [
+   -3207,
+   14,
+   2735.1
+  ],
+  "Webster 3": [
+   -2553,
+   100,
+   2452.1
+  ],
+  "Sure Thing / Green Monster": [
+   1979,
+   -284,
+   2126.4
+  ],
+  "Kimberly": [
+   26,
+   1059,
+   2463.2
+  ],
+  "Navigator / Deer Hollow": [
+   374,
+   1786,
+   2351.9
+  ],
+  "Clipper 5": [
+   -1026,
+   -1938,
+   2750.2
+  ],
+  "Evergreen / Tycoon": [
+   -137,
+   -756,
+   2776.8
+  ],
+  "Ruins Of Pompeii": [
+   82,
+   -565,
+   2637.3
+  ],
+  "Lady Morgan Express top": [
+   -3229,
+   191,
+   2751.1
+  ],
+  "Trump": [
+   -1398,
+   -1155,
+   2681.3
+  ],
+  "Ontario 3": [
+   -1288,
+   -1018,
+   2650.1
+  ],
+  "Nugget / Pearl": [
+   -2828,
+   -309,
+   2560.8
+  ],
+  "Narrow Gauge 2": [
+   1108,
+   -622,
+   2313.8
+  ],
+  "Bandana 3": [
+   -2455,
+   -833,
+   2615.1
+  ],
+  "Little Stick 7": [
+   37,
+   1668,
+   2270.8
+  ],
+  "Carbenite / Green Monster, Carbenite": [
+   686,
+   -1780,
+   2497.2
+  ],
+  "Minnow 3": [
+   1629,
+   1221,
+   2204.8
+  ],
+  "Niagra": [
+   1794,
+   1298,
+   2127.8
+  ],
+  "Green Monster, Carbenite / Green Monster": [
+   734,
+   -1774,
+   2491.1
+  ],
+  "Redemption 4": [
+   990,
+   -2901,
+   2367.0
+  ],
+  "Crown Prince 4": [
+   1423,
+   -3115,
+   2210.4
+  ],
+  "Unnamed run 7": [
+   1075,
+   -285,
+   2364.6
+  ],
+  "Unnamed run / Star": [
+   1051,
+   -449,
+   2323.0
+  ],
+  "East Village Gondola II top": [
+   -912,
+   -2154,
+   2768.8
+  ],
+  "Unnamed run 8": [
+   -2090,
+   231,
+   2489.0
+  ],
+  "Sure Thing": [
+   2114,
+   -579,
+   2204.0
+  ],
+  "Lucky Find": [
+   2766,
+   98,
+   2032.8
+  ],
+  "Kimberly 2": [
+   -47,
+   712,
+   2556.8
+  ],
+  "Rising Star / Roamer": [
+   -82,
+   942,
+   2514.8
+  ],
+  "Sultan Connection 2": [
+   540,
+   174,
+   2346.1
+  ],
+  "Redemption 5": [
+   -305,
+   -2400,
+   2699.3
+  ],
+  "Daly Runout / Orion": [
+   -2978,
+   -585,
+   2586.0
+  ],
+  "Success": [
+   -309,
+   1714,
+   2343.3
+  ],
+  "Rosebud 2": [
+   -136,
+   1772,
+   2262.7
+  ],
+  "Pay Rock / Carbenite": [
+   992,
+   -1656,
+   2408.3
+  ],
+  "Sure Thing 2": [
+   2030,
+   -544,
+   2173.2
+  ],
+  "Tycoon": [
+   -136,
+   -636,
+   2724.8
+  ],
+  "U Bet 2": [
+   991,
+   -1577,
+   2398.6
+  ],
+  "Redemption 6": [
+   -46,
+   -2501,
+   2672.2
+  ],
+  "Mayflower Bowl": [
+   207,
+   -1105,
+   2742.5
+  ],
+  "Morning Star 4": [
+   468,
+   -1013,
+   2602.7
+  ],
+  "Ontario 4": [
+   -1151,
+   -979,
+   2624.4
+  ],
+  "Ontario 5": [
+   -1129,
+   -931,
+   2616.6
+  ],
+  "Stein's Way": [
+   957,
+   -336,
+   2376.9
+  ],
+  "Mayflower Link": [
+   1200,
+   -503,
+   2274.7
+  ],
+  "Reliance": [
+   -707,
+   -1893,
+   2827.6
+  ],
+  "Legal Tender": [
+   -214,
+   -44,
+   2505.2
+  ],
+  "Success 2": [
+   -339,
+   1498,
+   2388.6
+  ],
+  "Peeler 2": [
+   -1620,
+   -293,
+   2672.7
+  ],
+  "Crest Ridge 2": [
+   863,
+   1774,
+   2404.8
+  ],
+  "Bandana 4": [
+   -2464,
+   -790,
+   2609.2
+  ],
+  "Lost Fawn 3": [
+   1664,
+   2197,
+   2150.4
+  ],
+  "Hidden Treasure 2": [
+   -1144,
+   -7,
+   2479.8
+  ],
+  "Ham Bug": [
+   -1013,
+   -1333,
+   2717.1
+  ],
+  "Pinyon Express bottom": [
+   -1207,
+   -1136,
+   2643.4
+  ],
+  "Unnamed run 9": [
+   -3780,
+   -823,
+   2767.7
+  ],
+  "T&G": [
+   -3098,
+   -433,
+   2639.9
+  ],
+  "Star": [
+   1106,
+   -484,
+   2301.1
+  ],
+  "Mountaineer 4": [
+   823,
+   1932,
+   2390.8
+  ],
+  "Deer Hollow": [
+   719,
+   2382,
+   2205.9
+  ],
+  "Homeward Bound": [
+   -370,
+   -997,
+   2819.4
+  ],
+  "Green Monster": [
+   812,
+   -1782,
+   2480.8
+  ],
+  "Revelator Express bottom": [
+   463,
+   -2090,
+   2388.4
+  ],
+  "Unnamed lift bottom 2": [
+   675,
+   1215,
+   2345.0
+  ],
+  "East Village Gondola II bottom": [
+   1566,
+   -1395,
+   2485.5
+  ],
+  "Mayflower bottom": [
+   1259,
+   -523,
+   2266.4
+  ],
+  "Wasatch Express top": [
+   -208,
+   -963,
+   2837.3
+  ],
+  "Vulcan Express top": [
+   647,
+   -1822,
+   2509.3
+  ],
+  "Unnamed lift bottom 3": [
+   1907,
+   2388,
+   2069.0
+  ],
+  "Unnamed lift top 3": [
+   1942,
+   2494,
+   2123.3
+  ],
+  "Unnamed lift bottom 4": [
+   189,
+   2220,
+   2198.5
+  ],
+  "Unnamed lift top 4": [
+   354,
+   2219,
+   2267.2
+  ],
+  "Sterling Express top": [
+   -269,
+   -952,
+   2833.7
+  ]
+ },
+ "lifts": [
+  [
+   "Carpenter Express",
+   "Carpenter Express bottom",
+   "Carpenter Express top",
+   7.9
+  ],
+  [
+   "Jordanelle Express Gondola",
+   "Jordanelle Express Gondola bottom",
+   "Jordanelle Express Gondola top",
+   8.4
+  ],
+  [
+   "Jordanelle Express Gondola",
+   "Jordanelle Express Gondola top",
+   "Jordanelle Express Gondola bottom",
+   8.4
+  ],
+  [
+   "Homestake Express",
+   "Homestake Express bottom",
+   "Homestake Express top",
+   4.8
+  ],
+  [
+   "Revelator Express",
+   "Revelator Express bottom",
+   "Revelator Express top",
+   6.9
+  ],
+  [
+   "Burns Express",
+   "Burns Express bottom",
+   "Burns Express top",
+   4.1
+  ],
+  [
+   "Empire Express",
+   "Empire Express bottom",
+   "Empire Express top",
+   7.9
+  ],
+  [
+   "Northside Express",
+   "Northside Express bottom",
+   "Northside Express top",
+   7.2
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   3.9
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top 2",
+   5.5
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 2",
+   5.5
+  ],
+  [
+   "East Village Gondola II",
+   "East Village Gondola II bottom",
+   "East Village Gondola II top",
+   11.9
+  ],
+  [
+   "East Village Gondola II",
+   "East Village Gondola II top",
+   "East Village Gondola II bottom",
+   11.9
+  ],
+  [
+   "Mayflower",
+   "Mayflower bottom",
+   "Mayflower top",
+   10.8
+  ],
+  [
+   "Pinyon Express",
+   "Pinyon Express bottom",
+   "Pinyon Express top",
+   6.1
+  ],
+  [
+   "Keetley Express",
+   "Keetley Express bottom",
+   "Keetley Express top",
+   9.8
+  ],
+  [
+   "Sultan Express",
+   "Sultan Express bottom",
+   "Sultan Express top",
+   8.1
+  ],
+  [
+   "Quincy Express",
+   "Quincy Express bottom",
+   "Quincy Express top",
+   7.2
+  ],
+  [
+   "Aurora",
+   "Aurora bottom",
+   "Aurora top",
+   4.5
+  ],
+  [
+   "Wasatch Express",
+   "Wasatch Express bottom",
+   "Wasatch Express top",
+   7.3
+  ],
+  [
+   "Judge",
+   "Judge bottom",
+   "Judge top",
+   4.6
+  ],
+  [
+   "Ruby Express",
+   "Ruby Express bottom",
+   "Ruby Express top",
+   5.0
+  ],
+  [
+   "Vulcan Express",
+   "Vulcan Express bottom",
+   "Vulcan Express top",
+   8.6
+  ],
+  [
+   "Neptune Express",
+   "Neptune Express bottom",
+   "Neptune Express top",
+   6.6
+  ],
+  [
+   "Crown Point",
+   "Wasatch Express bottom",
+   "Crown Point top",
+   6.1
+  ],
+  [
+   "Lady Morgan Express",
+   "Lady Morgan Express bottom",
+   "Lady Morgan Express top",
+   5.8
+  ],
+  [
+   "Hoodoo Express",
+   "Keetley Express bottom",
+   "Hoodoo Express top",
+   4.1
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 3",
+   "Unnamed lift top 3",
+   3.7
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift top 3",
+   "Unnamed lift bottom 3",
+   3.7
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 4",
+   "Unnamed lift top 4",
+   4.0
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift top 4",
+   "Unnamed lift bottom 4",
+   4.0
+  ],
+  [
+   "Viking",
+   "Viking bottom",
+   "Viking top",
+   4.3
+  ],
+  [
+   "Pioche Express",
+   "Aurora bottom",
+   "Pioche Express top",
+   7.7
+  ],
+  [
+   "Galena Express",
+   "Galena Express bottom",
+   "Keetley Express top",
+   7.8
+  ],
+  [
+   "Red Cloud",
+   "Red Cloud bottom",
+   "Red Cloud top",
+   8.6
+  ],
+  [
+   "Silver Lake Express",
+   "Carpenter Express bottom",
+   "Homestake Express bottom",
+   9.6
+  ],
+  [
+   "Silver Lake Express",
+   "Homestake Express bottom",
+   "Carpenter Express bottom",
+   9.6
+  ],
+  [
+   "Silver Strike Express",
+   "Silver Strike Express bottom",
+   "Silver Strike Express top",
+   8.2
+  ],
+  [
+   "Snowflake",
+   "Snowflake bottom",
+   "Snowflake top",
+   5.4
+  ],
+  [
+   "Mountaineer Express",
+   "Mountaineer Express bottom",
+   "Jordanelle Express Gondola top",
+   6.0
+  ],
+  [
+   "Sterling Express",
+   "Sterling Express bottom",
+   "Sterling Express top",
+   7.8
+  ],
+  [
+   "Sterling Express",
+   "Sterling Express top",
+   "Sterling Express bottom",
+   7.8
+  ],
+  [
+   "East Village Gondola I",
+   "East Village Gondola I bottom",
+   "East Village Gondola II bottom",
+   10.3
+  ],
+  [
+   "East Village Gondola I",
+   "East Village Gondola II bottom",
+   "East Village Gondola I bottom",
+   10.3
+  ]
+ ],
+ "runs": [
+  [
+   "Lost Fawn",
+   "Lost Fawn",
+   "Lost Fawn / Jordanelle",
+   0.5
+  ],
+  [
+   "Custer",
+   "Custer",
+   "Custer / Webster",
+   1.0
+  ],
+  [
+   "Age of Reason",
+   "Age of Reason / Northern Light",
+   "Age of Reason 2",
+   0.5
+  ],
+  [
+   "Age of Reason",
+   "Age of Reason 2",
+   "Age of Reason 3",
+   6.4
+  ],
+  [
+   "Age of Reason",
+   "Age of Reason 3",
+   "Age of Reason",
+   1.5
+  ],
+  [
+   "Age of Reason",
+   "Age of Reason",
+   "Age of Reason 5",
+   1.4
+  ],
+  [
+   "Age of Reason",
+   "Age of Reason 5",
+   "Age of Reason 4",
+   2.3
+  ],
+  [
+   "Age of Reason",
+   "Age of Reason 4",
+   "Age of Reason / Green Monster",
+   1.5
+  ],
+  [
+   "Sunset",
+   "Sunset / Homeward Bound",
+   "Sunset",
+   1.0
+  ],
+  [
+   "Sunset",
+   "Sunset",
+   "Sunset 2",
+   0.7
+  ],
+  [
+   "Sunset",
+   "Sunset 2",
+   "Sunset / Birdseye",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Green Monster",
+   "Unnamed run / Golden Age",
+   0.9
+  ],
+  [
+   "Home Run",
+   "Home Run",
+   "Home Run 4",
+   0.6
+  ],
+  [
+   "Home Run",
+   "Home Run 4",
+   "Home Run 2",
+   0.8
+  ],
+  [
+   "Yaup",
+   "Yaup / Lady of the Lake",
+   "Yaup / Lone Tree",
+   0.8
+  ],
+  [
+   "Clipper",
+   "Clipper",
+   "Clipper 5",
+   0.7
+  ],
+  [
+   "Clipper",
+   "Clipper 5",
+   "Clipper 2",
+   5.0
+  ],
+  [
+   "Clipper",
+   "Clipper 2",
+   "Clipper 3",
+   0.9
+  ],
+  [
+   "Clipper",
+   "Clipper 3",
+   "Pinyon Express bottom",
+   0.5
+  ],
+  [
+   "Clipper",
+   "Pinyon Express bottom",
+   "Clipper / Golden Age",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Green Monster 2",
+   "Mayflower bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Mayflower bottom",
+   "Unnamed run / Mayflower Link",
+   0.5
+  ],
+  [
+   "McHenry",
+   "Homestake Express bottom",
+   "McHenry 4",
+   2.4
+  ],
+  [
+   "McHenry",
+   "McHenry 4",
+   "Wasatch Express bottom",
+   0.5
+  ],
+  [
+   "Dakota",
+   "Dakota / Pearl",
+   "Dakota / Pearl 2",
+   0.9
+  ],
+  [
+   "Seldom Seen",
+   "Seldom Seen / Perseverance Bowl",
+   "Age of Reason",
+   5.1
+  ],
+  [
+   "Green Monster",
+   "Pinyon Express top",
+   "Unnamed run / Green Monster",
+   1.2
+  ],
+  [
+   "Green Monster",
+   "Unnamed run / Green Monster",
+   "Green Monster / Age of Reason",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift top",
+   "Unnamed run / Rosebud",
+   1.5
+  ],
+  [
+   "Sunset Glade",
+   "Sunset",
+   "Sunset Glade / Homeward Bound",
+   1.4
+  ],
+  [
+   "Dew Drop",
+   "Dew Drop / Success",
+   "Dew Drop",
+   2.1
+  ],
+  [
+   "Dew Drop",
+   "Dew Drop",
+   "Dew Drop / Rosebud",
+   0.5
+  ],
+  [
+   "Overlooked",
+   "Overlooked / Road to Sultan",
+   "Overlooked",
+   0.5
+  ],
+  [
+   "Overlooked",
+   "Overlooked",
+   "Overlooked 2",
+   2.3
+  ],
+  [
+   "Overlooked",
+   "Overlooked 2",
+   "Overlooked / McHenry",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Northern Light",
+   "Age of Reason 2",
+   0.5
+  ],
+  [
+   "Age of Reason",
+   "Pinyon Express top",
+   "Green Monster / Age of Reason",
+   1.2
+  ],
+  [
+   "Torpedo",
+   "Torpedo / Primrose",
+   "Torpedo / Evening Star",
+   3.3
+  ],
+  [
+   "Unnamed run",
+   "Snowflake top",
+   "Burns Express bottom",
+   0.5
+  ],
+  [
+   "Tug of War",
+   "Tug of War / U Bet",
+   "Tug of War",
+   6.6
+  ],
+  [
+   "Tug of War",
+   "Tug of War",
+   "Tug of War 5",
+   1.1
+  ],
+  [
+   "Tug of War",
+   "Tug of War 5",
+   "Tug of War 4",
+   2.4
+  ],
+  [
+   "Tug of War",
+   "Tug of War 4",
+   "Tug of War 3",
+   3.3
+  ],
+  [
+   "Tug of War",
+   "Tug of War 3",
+   "Tug of War 2",
+   0.5
+  ],
+  [
+   "Tug of War",
+   "Tug of War 2",
+   "Tug of War / Unnamed run",
+   3.0
+  ],
+  [
+   "Miner's Delight",
+   "Miner's Delight / McHenry",
+   "Miner's Delight / McHenry 2",
+   0.8
+  ],
+  [
+   "Solace",
+   "Solace / Unnamed run",
+   "Solace / T&G",
+   0.9
+  ],
+  [
+   "Hidden Treasure",
+   "Red Cloud top",
+   "Hidden Treasure",
+   1.1
+  ],
+  [
+   "Dream",
+   "Dream / June Bug",
+   "Dream / Clipper",
+   0.9
+  ],
+  [
+   "Little Reb",
+   "Little Reb / Race Course",
+   "Little Reb / Unnamed run",
+   1.0
+  ],
+  [
+   "McHenry",
+   "McHenry / Sultan Connection",
+   "Miner's Delight / McHenry",
+   0.6
+  ],
+  [
+   "McHenry",
+   "Miner's Delight / McHenry",
+   "Miner's Delight / McHenry 2",
+   1.2
+  ],
+  [
+   "McHenry",
+   "Miner's Delight / McHenry 2",
+   "McHenry 3",
+   1.3
+  ],
+  [
+   "McHenry",
+   "McHenry 3",
+   "Overlooked / McHenry",
+   5.0
+  ],
+  [
+   "McHenry",
+   "Overlooked / McHenry",
+   "McHenry",
+   0.6
+  ],
+  [
+   "McHenry",
+   "McHenry",
+   "McHenry 2",
+   0.6
+  ],
+  [
+   "McHenry",
+   "McHenry 2",
+   "Galena Express bottom",
+   0.7
+  ],
+  [
+   "McHenry",
+   "Galena Express bottom",
+   "McHenry / Unnamed run",
+   0.5
+  ],
+  [
+   "Joker",
+   "Tug of War",
+   "Joker / Pay Rock",
+   6.0
+  ],
+  [
+   "Kimberly",
+   "Crown Point top",
+   "Kimberly 2",
+   0.6
+  ],
+  [
+   "Kimberly",
+   "Kimberly 2",
+   "Kimberly",
+   1.8
+  ],
+  [
+   "Kimberly",
+   "Kimberly",
+   "Kimberly / Little Stick",
+   0.9
+  ],
+  [
+   "Ampheon",
+   "Ampheon / Viola",
+   "Ampheon / Viola 2",
+   0.9
+  ],
+  [
+   "Finis",
+   "Finis / Unnamed run",
+   "Finis / Tycoon",
+   1.2
+  ],
+  [
+   "Lucky Bill",
+   "Lucky Bill / Success",
+   "Lucky Bill / Little Stick",
+   1.4
+  ],
+  [
+   "T&G",
+   "Solace / T&G",
+   "T&G",
+   0.5
+  ],
+  [
+   "T&G",
+   "T&G",
+   "T&G / Unnamed run",
+   0.5
+  ],
+  [
+   "Lady of the Lake",
+   "Lady of the Lake / Mayflower Link",
+   "Yaup / Lady of the Lake",
+   1.0
+  ],
+  [
+   "Lady of the Lake",
+   "Yaup / Lady of the Lake",
+   "Lady of the Lake",
+   1.2
+  ],
+  [
+   "Lady of the Lake",
+   "Lady of the Lake",
+   "Lady of the Lake 3",
+   0.5
+  ],
+  [
+   "Lady of the Lake",
+   "Lady of the Lake 3",
+   "Lady of the Lake 2",
+   2.2
+  ],
+  [
+   "Lady of the Lake",
+   "Lady of the Lake 2",
+   "Lady of the Lake 4",
+   0.5
+  ],
+  [
+   "Lady of the Lake",
+   "Lady of the Lake 4",
+   "Lady of the Lake 5",
+   0.5
+  ],
+  [
+   "Lady of the Lake",
+   "Lady of the Lake 5",
+   "Lady of the Lake / Unnamed run",
+   2.1
+  ],
+  [
+   "U Bet",
+   "Tug of War / U Bet",
+   "U Bet",
+   0.5
+  ],
+  [
+   "U Bet",
+   "U Bet",
+   "U Bet 2",
+   3.1
+  ],
+  [
+   "U Bet",
+   "U Bet 2",
+   "Age of Reason 3",
+   0.5
+  ],
+  [
+   "Silver Dollar",
+   "Silver Dollar / Last Chance",
+   "Silver Dollar / Last Chance 2",
+   2.1
+  ],
+  [
+   "Mayflower Link",
+   "Mayflower Link / Road to Sultan",
+   "Lady of the Lake / Mayflower Link",
+   0.5
+  ],
+  [
+   "Mayflower Link",
+   "Lady of the Lake / Mayflower Link",
+   "Mayflower Link",
+   1.5
+  ],
+  [
+   "Mayflower Link",
+   "Mayflower Link",
+   "Unnamed run / Mayflower Link",
+   0.5
+  ],
+  [
+   "Mayflower Link",
+   "Unnamed run / Mayflower Link",
+   "Mayflower Link / Glencoe",
+   2.6
+  ],
+  [
+   "June Bug",
+   "Unnamed run / Green Monster",
+   "Dream / June Bug",
+   0.5
+  ],
+  [
+   "June Bug",
+   "Dream / June Bug",
+   "Clipper 2",
+   1.6
+  ],
+  [
+   "Spitfire",
+   "Spitfire / Matchless",
+   "Spitfire / Caledonia",
+   3.2
+  ],
+  [
+   "Hidden Treasure",
+   "Hidden Treasure / Ontario",
+   "Hidden Treasure",
+   2.6
+  ],
+  [
+   "Hidden Treasure",
+   "Hidden Treasure",
+   "Hidden Treasure 2",
+   2.4
+  ],
+  [
+   "Hidden Treasure",
+   "Hidden Treasure 2",
+   "Judge bottom",
+   0.7
+  ],
+  [
+   "Ridge Cross",
+   "Ridge Cross",
+   "Ridge Cross / Summit",
+   0.5
+  ],
+  [
+   "Silver Hill",
+   "Silver Hill / Connector",
+   "Silver Hill",
+   0.5
+  ],
+  [
+   "Silver Hill",
+   "Silver Hill",
+   "Silver Hill / Deer Hollow",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Ruby Express top",
+   "Northside Express top",
+   0.5
+  ],
+  [
+   "Pioche Access",
+   "Pioche Access / Minnow",
+   "Pioche Access",
+   2.4
+  ],
+  [
+   "Home Run",
+   "Home Run 2",
+   "Home Run / Jordanelle",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Judge top",
+   "Unnamed run / Homeward Bound",
+   0.5
+  ],
+  [
+   "Clipper",
+   "Pinyon Express top",
+   "Clipper 4",
+   1.2
+  ],
+  [
+   "Clipper",
+   "Clipper 4",
+   "Clipper",
+   1.5
+  ],
+  [
+   "Keetly",
+   "Keetly / Nelles Loop",
+   "Mountaineer Express bottom",
+   2.1
+  ],
+  [
+   "Hillside",
+   "Hillside / Argus",
+   "Lady Morgan Express bottom",
+   2.7
+  ],
+  [
+   "Silver Buck",
+   "Silver Buck",
+   "Silver Buck 3",
+   0.5
+  ],
+  [
+   "Silver Buck",
+   "Silver Buck 3",
+   "Silver Buck 2",
+   1.0
+  ],
+  [
+   "Silver Buck",
+   "Silver Buck 2",
+   "Silver Strike Express bottom",
+   1.5
+  ],
+  [
+   "Summit",
+   "Summit / Connector",
+   "Ridge Cross / Summit",
+   1.0
+  ],
+  [
+   "Summit",
+   "Ridge Cross / Summit",
+   "Summit / Jordanelle",
+   3.9
+  ],
+  [
+   "Unnamed run",
+   "Red Cloud bottom",
+   "Judge bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Judge bottom",
+   "Quincy Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Nettie",
+   "Unnamed run / Minnow",
+   0.5
+  ],
+  [
+   "Thunderer",
+   "Thunderer / Stein's Way",
+   "Thunderer / Edgar's Alley",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Unnamed run 9",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 9",
+   "Unnamed run 5",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 5",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 3",
+   "Solace / Unnamed run",
+   0.9
+  ],
+  [
+   "Nemesis",
+   "Nemesis / Redemption",
+   "Nemesis / Catch All",
+   2.7
+  ],
+  [
+   "Morning Star",
+   "Morning Star / Edgar's Alley",
+   "Mayflower top",
+   0.5
+  ],
+  [
+   "Morning Star",
+   "Mayflower top",
+   "Morning Star 4",
+   0.6
+  ],
+  [
+   "Morning Star",
+   "Morning Star 4",
+   "Morning Star 3",
+   0.9
+  ],
+  [
+   "Morning Star",
+   "Morning Star 3",
+   "Morning Star 2",
+   3.0
+  ],
+  [
+   "Morning Star",
+   "Morning Star 2",
+   "Morning Star",
+   1.2
+  ],
+  [
+   "Morning Star",
+   "Morning Star",
+   "Mayflower bottom",
+   0.5
+  ],
+  [
+   "Morning Star",
+   "Mayflower bottom",
+   "Unnamed run / Mayflower Link",
+   0.5
+  ],
+  [
+   "Town Hall Loop",
+   "Town Hall Loop / Pioche",
+   "Town Hall Loop / Pioche 2",
+   0.7
+  ],
+  [
+   "Lady Morgan Bowl",
+   "Lady Morgan Bowl / Empire Bowl",
+   "Lady Morgan Bowl / Margus",
+   3.2
+  ],
+  [
+   "Lakeshore",
+   "Lady of the Lake",
+   "Lady of the Lake 2",
+   2.4
+  ],
+  [
+   "Daylight",
+   "Daylight / Green Monster",
+   "Daylight",
+   0.5
+  ],
+  [
+   "Daylight",
+   "Daylight",
+   "Aurora bottom",
+   1.2
+  ],
+  [
+   "Little Stick",
+   "Little Stick / Silver Link",
+   "Carpenter Express top",
+   0.5
+  ],
+  [
+   "Little Stick",
+   "Carpenter Express top",
+   "Homestake Express top",
+   0.5
+  ],
+  [
+   "Little Stick",
+   "Homestake Express top",
+   "Little Stick 2",
+   0.5
+  ],
+  [
+   "Little Stick",
+   "Little Stick 2",
+   "Little Stick 5",
+   0.5
+  ],
+  [
+   "Little Stick",
+   "Little Stick 5",
+   "Little Stick",
+   1.1
+  ],
+  [
+   "Little Stick",
+   "Little Stick",
+   "Little Stick 3",
+   0.8
+  ],
+  [
+   "Little Stick",
+   "Little Stick 3",
+   "Kimberly / Little Stick",
+   0.8
+  ],
+  [
+   "Little Stick",
+   "Kimberly / Little Stick",
+   "Little Stick 4",
+   3.0
+  ],
+  [
+   "Little Stick",
+   "Little Stick 4",
+   "Little Stick 7",
+   1.4
+  ],
+  [
+   "Little Stick",
+   "Little Stick 7",
+   "Little Stick 6",
+   0.5
+  ],
+  [
+   "Little Stick",
+   "Little Stick 6",
+   "Snowflake top",
+   0.5
+  ],
+  [
+   "Little Stick",
+   "Snowflake top",
+   "Lucky Bill / Little Stick",
+   0.5
+  ],
+  [
+   "Little Stick",
+   "Lucky Bill / Little Stick",
+   "Little Stick / Rosebud",
+   0.5
+  ],
+  [
+   "North Star",
+   "North Star / Nabob",
+   "Sunset 2",
+   2.3
+  ],
+  [
+   "Unnamed run",
+   "Tug of War / Unnamed run",
+   "East Village Gondola I bottom",
+   0.5
+  ],
+  [
+   "Golden Age",
+   "Unnamed run / Golden Age",
+   "Clipper / Golden Age",
+   2.7
+  ],
+  [
+   "Home Run",
+   "Unnamed lift top 2",
+   "Home Run 3",
+   1.8
+  ],
+  [
+   "Home Run",
+   "Home Run 3",
+   "Home Run",
+   2.6
+  ],
+  [
+   "Pioche",
+   "Home Run 4",
+   "Pioche",
+   1.5
+  ],
+  [
+   "Niagra",
+   "Niagra / Minnow",
+   "Niagra",
+   0.5
+  ],
+  [
+   "Niagra",
+   "Niagra",
+   "Niagra / Minnow 2",
+   1.5
+  ],
+  [
+   "Gilt Edge",
+   "Gilt Edge / Race Course",
+   "Gilt Edge / Homeward Bound",
+   1.0
+  ],
+  [
+   "Peeler",
+   "Red Cloud top",
+   "Peeler",
+   0.5
+  ],
+  [
+   "Peeler",
+   "Peeler",
+   "Peeler 2",
+   0.5
+  ],
+  [
+   "Peeler",
+   "Peeler 2",
+   "Peeler / Star Gazer",
+   2.3
+  ],
+  [
+   "Unnamed run",
+   "Aurora top",
+   "Daylight",
+   0.5
+  ],
+  [
+   "Wide West",
+   "Snowflake top",
+   "Burns Express bottom",
+   0.5
+  ],
+  [
+   "Wide West",
+   "Burns Express bottom",
+   "Snowflake bottom",
+   1.2
+  ],
+  [
+   "Yes You Do",
+   "Little Stick",
+   "Yes You Do / Solid Muldoon",
+   1.1
+  ],
+  [
+   "Little Bdll",
+   "Little Bdll / Success",
+   "Little Bdll / Success 2",
+   1.1
+  ],
+  [
+   "Solace",
+   "Empire Express top",
+   "Solace / Orion",
+   1.7
+  ],
+  [
+   "Lone Tree",
+   "Overlooked",
+   "Yaup / Lone Tree",
+   1.7
+  ],
+  [
+   "Lone Tree",
+   "Yaup / Lone Tree",
+   "Lone Tree",
+   1.4
+  ],
+  [
+   "Lone Tree",
+   "Lone Tree",
+   "McHenry",
+   1.4
+  ],
+  [
+   "Trainer",
+   "Sterling Express bottom",
+   "Viking bottom",
+   1.0
+  ],
+  [
+   "Daly Chute 6",
+   "Daly Chute 6 3",
+   "Daly Chute 6 / Daly Runout",
+   0.5
+  ],
+  [
+   "Walker",
+   "Empire Express bottom",
+   "Walker / Webster",
+   1.5
+  ],
+  [
+   "Crest Ridge",
+   "Jordanelle Express Gondola top",
+   "Crest Ridge 2",
+   0.5
+  ],
+  [
+   "Crest Ridge",
+   "Crest Ridge 2",
+   "Crest Ridge",
+   0.7
+  ],
+  [
+   "Primrose",
+   "Primrose / Sure Thing",
+   "Torpedo / Primrose",
+   1.2
+  ],
+  [
+   "Primrose",
+   "Torpedo / Primrose",
+   "Tug of War 2",
+   1.0
+  ],
+  [
+   "Ontario",
+   "Ontario",
+   "Hidden Treasure / Ontario",
+   0.8
+  ],
+  [
+   "Ontario",
+   "Hidden Treasure / Ontario",
+   "Ontario 2",
+   0.5
+  ],
+  [
+   "Ontario",
+   "Ontario 2",
+   "Ontario 3",
+   1.2
+  ],
+  [
+   "Ontario",
+   "Ontario 3",
+   "Clipper / Golden Age",
+   0.5
+  ],
+  [
+   "Ontario",
+   "Clipper / Golden Age",
+   "Ontario 4",
+   0.5
+  ],
+  [
+   "Ontario",
+   "Ontario 4",
+   "Ontario 5",
+   0.5
+  ],
+  [
+   "Ontario",
+   "Ontario 5",
+   "Quincy Express bottom",
+   4.4
+  ],
+  [
+   "Persistence",
+   "Persistence / Exchange",
+   "Persistence / Crown Prince",
+   5.0
+  ],
+  [
+   "Matchless",
+   "Tug of War / U Bet",
+   "Spitfire / Matchless",
+   0.5
+  ],
+  [
+   "Matchless",
+   "Spitfire / Matchless",
+   "Matchless",
+   0.5
+  ],
+  [
+   "Matchless",
+   "Matchless",
+   "Matchless 3",
+   0.5
+  ],
+  [
+   "Matchless",
+   "Matchless 3",
+   "Matchless 2",
+   0.7
+  ],
+  [
+   "Matchless",
+   "Matchless 2",
+   "Age of Reason 4",
+   1.1
+  ],
+  [
+   "Fairview",
+   "Silver Hill",
+   "Fairview / Deer Hollow",
+   1.8
+  ],
+  [
+   "Bet Your Boots",
+   "Bet Your Boots / Carbenite",
+   "Bet Your Boots / Non-Descript",
+   1.8
+  ],
+  [
+   "Anchor Treess",
+   "Unnamed run 2",
+   "Anchor Treess / Daly Runout",
+   2.1
+  ],
+  [
+   "Rosebud",
+   "Dew Drop / Rosebud",
+   "Unnamed run / Rosebud",
+   0.5
+  ],
+  [
+   "Rosebud",
+   "Unnamed run / Rosebud",
+   "Rosebud 2",
+   1.4
+  ],
+  [
+   "Rosebud",
+   "Rosebud 2",
+   "Lucky Bill / Little Stick",
+   0.5
+  ],
+  [
+   "Rosebud",
+   "Lucky Bill / Little Stick",
+   "Little Stick / Rosebud",
+   0.5
+  ],
+  [
+   "Rosebud",
+   "Little Stick / Rosebud",
+   "Rosebud",
+   0.5
+  ],
+  [
+   "Rosebud",
+   "Rosebud",
+   "Snowflake bottom",
+   0.7
+  ],
+  [
+   "Rosebud",
+   "Snowflake bottom",
+   "Carpenter Express bottom",
+   0.5
+  ],
+  [
+   "Narrow Gauge",
+   "Mayflower top",
+   "Narrow Gauge",
+   0.9
+  ],
+  [
+   "Narrow Gauge",
+   "Narrow Gauge",
+   "Narrow Gauge 2",
+   2.7
+  ],
+  [
+   "Narrow Gauge",
+   "Narrow Gauge 2",
+   "Morning Star",
+   0.5
+  ],
+  [
+   "Uno",
+   "Uno / Viola",
+   "McHenry 2",
+   2.9
+  ],
+  [
+   "Kabob",
+   "Kabob / Keno",
+   "Kabob / Keno 2",
+   1.3
+  ],
+  [
+   "Ore Cart",
+   "Ore Cart / Nugget",
+   "Ore Cart / Pearl",
+   0.8
+  ],
+  [
+   "Silver Age",
+   "Overlooked 2",
+   "Yaup / Lone Tree",
+   0.7
+  ],
+  [
+   "Cataract",
+   "Cataract / Redemption",
+   "Cataract / Deep Enuf",
+   2.3
+  ],
+  [
+   "Redemption",
+   "Revelator Express top",
+   "Cataract / Redemption",
+   1.9
+  ],
+  [
+   "Redemption",
+   "Cataract / Redemption",
+   "Redemption",
+   0.7
+  ],
+  [
+   "Redemption",
+   "Redemption",
+   "Redemption 5",
+   0.5
+  ],
+  [
+   "Redemption",
+   "Redemption 5",
+   "Redemption 6",
+   1.2
+  ],
+  [
+   "Redemption",
+   "Redemption 6",
+   "Nemesis / Redemption",
+   1.0
+  ],
+  [
+   "Redemption",
+   "Nemesis / Redemption",
+   "Redemption 2",
+   0.7
+  ],
+  [
+   "Redemption",
+   "Redemption 2",
+   "Redemption 3",
+   2.0
+  ],
+  [
+   "Redemption",
+   "Redemption 3",
+   "Redemption 4",
+   1.3
+  ],
+  [
+   "Redemption",
+   "Redemption 4",
+   "Redemption / Crown Prince",
+   3.7
+  ],
+  [
+   "Crown Prince",
+   "Crown Prince / Fallon",
+   "Crown Prince 4",
+   1.8
+  ],
+  [
+   "Crown Prince",
+   "Crown Prince 4",
+   "Crown Prince 2",
+   0.5
+  ],
+  [
+   "Crown Prince",
+   "Crown Prince 2",
+   "Crown Prince 3",
+   1.1
+  ],
+  [
+   "Crown Prince",
+   "Crown Prince 3",
+   "Redemption / Crown Prince",
+   1.5
+  ],
+  [
+   "Crown Prince",
+   "Redemption / Crown Prince",
+   "Crown Prince",
+   0.5
+  ],
+  [
+   "Crown Prince",
+   "Crown Prince",
+   "Persistence / Crown Prince",
+   0.7
+  ],
+  [
+   "Crown Prince",
+   "Persistence / Crown Prince",
+   "Vulcan Express bottom",
+   0.5
+  ],
+  [
+   "Edgar's Alley",
+   "Morning Star / Edgar's Alley",
+   "Edgar's Alley 2",
+   0.5
+  ],
+  [
+   "Edgar's Alley",
+   "Edgar's Alley 2",
+   "Thunderer / Edgar's Alley",
+   0.5
+  ],
+  [
+   "Edgar's Alley",
+   "Thunderer / Edgar's Alley",
+   "Edgar's Alley",
+   1.7
+  ],
+  [
+   "Edgar's Alley",
+   "Edgar's Alley",
+   "Edgar's Alley 3",
+   0.6
+  ],
+  [
+   "Edgar's Alley",
+   "Edgar's Alley 3",
+   "Edgar's Alley / Tycoon",
+   0.9
+  ],
+  [
+   "Crest Ridge",
+   "Crest Ridge",
+   "Crest Ridge / Jordanelle",
+   2.4
+  ],
+  [
+   "Minnow",
+   "Pioche Express top",
+   "Minnow 3",
+   0.5
+  ],
+  [
+   "Minnow",
+   "Minnow 3",
+   "Niagra / Minnow",
+   0.6
+  ],
+  [
+   "Minnow",
+   "Niagra / Minnow",
+   "Pioche Access / Minnow",
+   0.7
+  ],
+  [
+   "Minnow",
+   "Pioche Access / Minnow",
+   "Niagra / Minnow 2",
+   2.3
+  ],
+  [
+   "Minnow",
+   "Niagra / Minnow 2",
+   "Minnow",
+   0.9
+  ],
+  [
+   "Minnow",
+   "Minnow",
+   "Minnow 2",
+   0.7
+  ],
+  [
+   "Minnow",
+   "Minnow 2",
+   "Unnamed run / Minnow",
+   0.6
+  ],
+  [
+   "Minnow",
+   "Unnamed run / Minnow",
+   "Neptune Express bottom",
+   0.5
+  ],
+  [
+   "Lucky Star",
+   "Lucky Star / Boulder Bumps",
+   "Lucky Star",
+   0.5
+  ],
+  [
+   "Lucky Star",
+   "Lucky Star",
+   "Lucky Star 2",
+   3.0
+  ],
+  [
+   "Lucky Star",
+   "Lucky Star 2",
+   "Northside Express bottom",
+   0.5
+  ],
+  [
+   "To The Max",
+   "To The Max / Sure Thing",
+   "Tug of War 3",
+   2.9
+  ],
+  [
+   "Glencoe",
+   "Matchless",
+   "Mayflower Link / Glencoe",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Edgar's Alley",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "Finis / Unnamed run",
+   0.5
+  ],
+  [
+   "Grizzly",
+   "Sultan Express top",
+   "Grizzly / Perseverance",
+   1.8
+  ],
+  [
+   "Sultan Connection",
+   "Wasatch Express bottom",
+   "McHenry / Sultan Connection",
+   1.6
+  ],
+  [
+   "Sultan Connection",
+   "McHenry / Sultan Connection",
+   "Sultan Connection 2",
+   1.0
+  ],
+  [
+   "Sultan Connection",
+   "Sultan Connection 2",
+   "Sultan Connection",
+   2.3
+  ],
+  [
+   "Sultan Connection",
+   "Sultan Connection",
+   "Sultan Express bottom",
+   0.5
+  ],
+  [
+   "Race Course",
+   "Race Course / Nabob",
+   "Gilt Edge / Race Course",
+   0.5
+  ],
+  [
+   "Race Course",
+   "Gilt Edge / Race Course",
+   "Little Reb / Race Course",
+   0.5
+  ],
+  [
+   "Race Course",
+   "Little Reb / Race Course",
+   "Homestake Express bottom",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Sterling Express bottom",
+   "Unnamed run 6",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 6",
+   "Sterling Express bottom",
+   0.5
+  ],
+  [
+   "Blue Bell",
+   "Northside Express top",
+   "Quincy Express top",
+   0.5
+  ],
+  [
+   "Blue Bell",
+   "Quincy Express top",
+   "Blue Bell 3",
+   1.5
+  ],
+  [
+   "Blue Bell",
+   "Blue Bell 3",
+   "Blue Bell 2",
+   1.1
+  ],
+  [
+   "Blue Bell",
+   "Blue Bell 2",
+   "Blue Bell",
+   0.5
+  ],
+  [
+   "Gemini",
+   "Gemini / Silver Buck",
+   "Silver Buck 2",
+   2.3
+  ],
+  [
+   "Unnamed run",
+   "Homestake Express top",
+   "Carpenter Express top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Quincy Express top",
+   "Northside Express top",
+   0.5
+  ],
+  [
+   "Fortune Teller",
+   "Narrow Gauge",
+   "Morning Star 2",
+   2.8
+  ],
+  [
+   "Mountaineer",
+   "Jordanelle Express Gondola top",
+   "Mountaineer 4",
+   0.7
+  ],
+  [
+   "Mountaineer",
+   "Mountaineer 4",
+   "Mountaineer 2",
+   0.5
+  ],
+  [
+   "Mountaineer",
+   "Mountaineer 2",
+   "Mountaineer",
+   0.5
+  ],
+  [
+   "Mountaineer",
+   "Mountaineer",
+   "Mountaineer 3",
+   1.3
+  ],
+  [
+   "Mountaineer",
+   "Mountaineer 3",
+   "Mountaineer / Deer Hollow",
+   1.1
+  ],
+  [
+   "Boulder Bumps",
+   "Lucky Star",
+   "Lucky Star / Boulder Bumps",
+   0.5
+  ],
+  [
+   "Boulder Bumps",
+   "Lucky Star / Boulder Bumps",
+   "Northside Express top",
+   1.0
+  ],
+  [
+   "Road to Sultan",
+   "Keetley Express top",
+   "Overlooked / Road to Sultan",
+   0.5
+  ],
+  [
+   "Road to Sultan",
+   "Overlooked / Road to Sultan",
+   "Mayflower Link / Road to Sultan",
+   0.6
+  ],
+  [
+   "Road to Sultan",
+   "Mayflower Link / Road to Sultan",
+   "Overlooked",
+   0.6
+  ],
+  [
+   "Road to Sultan",
+   "Overlooked",
+   "Sultan Express bottom",
+   0.6
+  ],
+  [
+   "Supreme",
+   "Empire Express top",
+   "Supreme 2",
+   0.5
+  ],
+  [
+   "Supreme",
+   "Supreme 2",
+   "Supreme 3",
+   0.5
+  ],
+  [
+   "Supreme",
+   "Supreme 3",
+   "Supreme 4",
+   3.0
+  ],
+  [
+   "Supreme",
+   "Supreme 4",
+   "T&G",
+   0.6
+  ],
+  [
+   "Supreme",
+   "T&G",
+   "Supreme",
+   0.5
+  ],
+  [
+   "Supreme",
+   "Supreme",
+   "Empire Express bottom",
+   1.5
+  ],
+  [
+   "Lost Boulder",
+   "Northside Express top",
+   "Lucky Star / Boulder Bumps",
+   0.9
+  ],
+  [
+   "Lost Boulder",
+   "Lucky Star / Boulder Bumps",
+   "Lucky Star",
+   0.5
+  ],
+  [
+   "Lost Boulder",
+   "Lucky Star",
+   "Lost Boulder",
+   1.4
+  ],
+  [
+   "Lost Boulder",
+   "Lost Boulder",
+   "Northside Express bottom",
+   1.9
+  ],
+  [
+   "Northern Light",
+   "Northern Light / Homeward Bound",
+   "Unnamed run / Northern Light",
+   0.5
+  ],
+  [
+   "Northern Light",
+   "Unnamed run / Northern Light",
+   "Age of Reason / Northern Light",
+   0.7
+  ],
+  [
+   "Northern Light",
+   "Age of Reason / Northern Light",
+   "Unnamed run / Golden Age",
+   1.0
+  ],
+  [
+   "Northern Light",
+   "Unnamed run / Golden Age",
+   "Northern Light / Homeward Bound 2",
+   1.4
+  ],
+  [
+   "Deep Enuf",
+   "Redemption",
+   "Cataract / Deep Enuf",
+   2.1
+  ],
+  [
+   "Deep Enuf",
+   "Cataract / Deep Enuf",
+   "Deep Enuf / Non-Descript",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Olive Branch 2",
+   "Unnamed run / Olive Branch",
+   0.5
+  ],
+  [
+   "Buckeye",
+   "Unnamed run 3",
+   "Buckeye / Orion",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Blue Bell",
+   "Unnamed run 8",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 8",
+   "Northside Express bottom",
+   0.5
+  ],
+  [
+   "American Flag",
+   "American Flag / Success",
+   "Unnamed lift bottom",
+   1.0
+  ],
+  [
+   "Legal Tender",
+   "Legal Tender / Homeward Bound",
+   "Legal Tender",
+   3.8
+  ],
+  [
+   "Legal Tender",
+   "Legal Tender",
+   "Legal Tender / Nabob",
+   1.1
+  ],
+  [
+   "Blue Bell",
+   "Blue Bell",
+   "Unnamed run / Blue Bell",
+   0.7
+  ],
+  [
+   "Nelles Loop",
+   "Nelles Loop / Jordanelle",
+   "Keetly / Nelles Loop",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Lost Boulder",
+   "Northside Express bottom",
+   1.9
+  ],
+  [
+   "Deer Hollow",
+   "Deer Hollow / Jordanelle",
+   "Deer Hollow / Lost Fawn",
+   1.4
+  ],
+  [
+   "Nabob",
+   "North Star / Nabob",
+   "Race Course / Nabob",
+   3.4
+  ],
+  [
+   "Nabob",
+   "Race Course / Nabob",
+   "Legal Tender / Nabob",
+   2.5
+  ],
+  [
+   "Nabob",
+   "Legal Tender / Nabob",
+   "McHenry 4",
+   0.5
+  ],
+  [
+   "Nabob",
+   "McHenry 4",
+   "Wasatch Express bottom",
+   0.5
+  ],
+  [
+   "Mountain Monarch",
+   "Matchless 2",
+   "Mountain Monarch",
+   1.6
+  ],
+  [
+   "Mountain Monarch",
+   "Mountain Monarch",
+   "Mountain Monarch / Green Monster",
+   1.1
+  ],
+  [
+   "Mountain Daisy",
+   "Red Cloud top",
+   "Peeler",
+   0.5
+  ],
+  [
+   "Mountain Daisy",
+   "Peeler",
+   "Blue Bell 2",
+   1.0
+  ],
+  [
+   "Perseverance Bowl",
+   "Seldom Seen / Perseverance Bowl",
+   "Thunderer / Edgar's Alley",
+   1.2
+  ],
+  [
+   "Reliance",
+   "Revelator Express top",
+   "Reliance",
+   0.5
+  ],
+  [
+   "Reliance",
+   "Reliance",
+   "Clipper",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Silver Strike Express top",
+   "Northside Express top",
+   0.5
+  ],
+  [
+   "Waterloo",
+   "Lady of the Lake 3",
+   "Waterloo",
+   2.0
+  ],
+  [
+   "Waterloo",
+   "Waterloo",
+   "Lady of the Lake 4",
+   0.5
+  ],
+  [
+   "Black Forest",
+   "Edgar's Alley 2",
+   "Unnamed run 4",
+   1.8
+  ],
+  [
+   "Pioche Loop",
+   "Pioche Loop / Pioche",
+   "Pioche Loop / Pioche 2",
+   0.8
+  ],
+  [
+   "Conviction",
+   "Empire Express top",
+   "Unnamed run 5",
+   1.5
+  ],
+  [
+   "Welcome Stranger",
+   "U Bet",
+   "Age of Reason 5",
+   1.4
+  ],
+  [
+   "Solid Muldoon",
+   "Little Stick 2",
+   "Yes You Do / Solid Muldoon",
+   2.6
+  ],
+  [
+   "Solid Muldoon",
+   "Yes You Do / Solid Muldoon",
+   "Solid Muldoon",
+   1.4
+  ],
+  [
+   "Solid Muldoon",
+   "Solid Muldoon",
+   "Little Stick 6",
+   0.5
+  ],
+  [
+   "Solid Muldoon",
+   "Little Stick 6",
+   "Snowflake top",
+   0.5
+  ],
+  [
+   "Divide",
+   "Divide / Viola",
+   "Minnow",
+   2.2
+  ],
+  [
+   "Pinafore",
+   "Pinafore / Klondyke",
+   "Pinafore / Klondyke 2",
+   1.1
+  ],
+  [
+   "Trump",
+   "Ontario 2",
+   "Trump",
+   1.0
+  ],
+  [
+   "Trump",
+   "Trump",
+   "Clipper / Golden Age",
+   1.0
+  ],
+  [
+   "Star Gazer",
+   "Peeler",
+   "Peeler / Star Gazer",
+   2.6
+  ],
+  [
+   "Star Gazer",
+   "Peeler / Star Gazer",
+   "Star Gazer / Banner",
+   0.5
+  ],
+  [
+   "Lucky Find",
+   "Hoodoo Express top",
+   "Lucky Find",
+   0.5
+  ],
+  [
+   "Lucky Find",
+   "Lucky Find",
+   "East Village Gondola I bottom",
+   1.1
+  ],
+  [
+   "Klondyke",
+   "Matchless 3",
+   "Pinafore / Klondyke",
+   0.5
+  ],
+  [
+   "Klondyke",
+   "Pinafore / Klondyke",
+   "Pinafore / Klondyke 2",
+   1.2
+  ],
+  [
+   "Klondyke",
+   "Pinafore / Klondyke 2",
+   "Mountain Monarch",
+   0.6
+  ],
+  [
+   "Silver Buck",
+   "Blue Bell 3",
+   "Gemini / Silver Buck",
+   1.3
+  ],
+  [
+   "Silver Buck",
+   "Gemini / Silver Buck",
+   "Silver Buck",
+   0.5
+  ],
+  [
+   "Ophelia",
+   "Redemption 2",
+   "Ophelia / Catch All",
+   3.3
+  ],
+  [
+   "Dynamic",
+   "Mountaineer",
+   "Dynamic / Deer Hollow",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Little Reb / Unnamed run",
+   "Unnamed run / Trainer",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "T&G / Unnamed run",
+   "Supreme",
+   0.5
+  ],
+  [
+   "Peerless",
+   "Peerless / Ruins Of Pompeii",
+   "Peerless / Perseverance",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Neptune Express top",
+   "Pioche Express top",
+   0.5
+  ],
+  [
+   "Custer",
+   "Lucky Star 2",
+   "Custer",
+   0.5
+  ],
+  [
+   "Margus",
+   "Lady Morgan Bowl / Margus",
+   "Margus / Argus",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Viking top",
+   "Unnamed run 6",
+   0.5
+  ],
+  [
+   "Bandana",
+   "Northside Express top",
+   "Ruby Express top",
+   0.5
+  ],
+  [
+   "Bandana",
+   "Ruby Express top",
+   "Bandana 2",
+   0.5
+  ],
+  [
+   "Bandana",
+   "Bandana 2",
+   "Bandana 3",
+   2.8
+  ],
+  [
+   "Bandana",
+   "Bandana 3",
+   "Bandana 4",
+   0.5
+  ],
+  [
+   "Bandana",
+   "Bandana 4",
+   "Bandana",
+   1.7
+  ],
+  [
+   "Bandana",
+   "Bandana",
+   "Ruby Express bottom",
+   0.5
+  ],
+  [
+   "Bandana",
+   "Ruby Express bottom",
+   "Bandana",
+   0.5
+  ],
+  [
+   "Webster",
+   "Webster / Pearl",
+   "Walker / Webster",
+   1.9
+  ],
+  [
+   "Webster",
+   "Walker / Webster",
+   "Custer / Webster",
+   0.5
+  ],
+  [
+   "Webster",
+   "Custer / Webster",
+   "Webster 3",
+   0.5
+  ],
+  [
+   "Webster",
+   "Webster 3",
+   "Webster",
+   0.5
+  ],
+  [
+   "Webster",
+   "Webster",
+   "Webster 2",
+   0.5
+  ],
+  [
+   "Webster",
+   "Webster 2",
+   "Lady Morgan Express bottom",
+   0.9
+  ],
+  [
+   "Know You Don't",
+   "Little Stick 3",
+   "Solid Muldoon",
+   1.7
+  ],
+  [
+   "All Right",
+   "Lady of the Lake 5",
+   "Galena Express bottom",
+   1.3
+  ],
+  [
+   "Domingo",
+   "Supreme 2",
+   "Unnamed run 5",
+   1.2
+  ],
+  [
+   "Domingo",
+   "Unnamed run 5",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Mayflower Bowl",
+   "Mayflower Bowl / Stein's Way",
+   "Mayflower Bowl",
+   0.5
+  ],
+  [
+   "Mayflower Bowl",
+   "Mayflower Bowl",
+   "Morning Star 3",
+   2.2
+  ],
+  [
+   "Pioche",
+   "Pioche 2",
+   "Jordanelle Express Gondola bottom",
+   0.5
+  ],
+  [
+   "Sunrise",
+   "Crown Point top",
+   "Sunrise / Silver Link",
+   2.0
+  ],
+  [
+   "Nettie",
+   "Nettie / Viola",
+   "Unnamed run / Nettie",
+   5.1
+  ],
+  [
+   "Champion",
+   "Little Stick 3",
+   "Solid Muldoon",
+   1.7
+  ],
+  [
+   "Champion",
+   "Solid Muldoon",
+   "Little Stick 6",
+   0.5
+  ],
+  [
+   "Champion",
+   "Little Stick 6",
+   "Snowflake top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Minnow 2",
+   "Unnamed run / Olive Branch 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Little Reb / Unnamed run",
+   "Homestake Express bottom",
+   0.5
+  ],
+  [
+   "Little Kate",
+   "Dew Drop / Rosebud",
+   "Rosebud",
+   1.2
+  ],
+  [
+   "Catch All",
+   "Catch All / Non-Descript",
+   "Revelator Express bottom",
+   0.5
+  ],
+  [
+   "Catch All",
+   "Revelator Express bottom",
+   "Nemesis / Catch All",
+   0.7
+  ],
+  [
+   "Catch All",
+   "Nemesis / Catch All",
+   "Ophelia / Catch All",
+   1.7
+  ],
+  [
+   "Catch All",
+   "Ophelia / Catch All",
+   "Catch All",
+   1.1
+  ],
+  [
+   "Catch All",
+   "Catch All",
+   "Crown Prince",
+   2.9
+  ],
+  [
+   "Solace",
+   "Solace / T&G",
+   "Solace / Orion 2",
+   0.7
+  ],
+  [
+   "Non-Descript",
+   "Revelator Express top",
+   "Bet Your Boots / Non-Descript",
+   3.2
+  ],
+  [
+   "Non-Descript",
+   "Bet Your Boots / Non-Descript",
+   "Deep Enuf / Non-Descript",
+   0.9
+  ],
+  [
+   "Non-Descript",
+   "Deep Enuf / Non-Descript",
+   "Catch All / Non-Descript",
+   0.7
+  ],
+  [
+   "Green Monster, Age of Reason",
+   "Green Monster / Age of Reason",
+   "Age of Reason / Northern Light",
+   0.5
+  ],
+  [
+   "Prospect",
+   "Hoodoo Express top",
+   "Keetley Express bottom",
+   1.4
+  ],
+  [
+   "Jordanelle",
+   "Mountaineer 2",
+   "Crest Ridge / Jordanelle",
+   0.9
+  ],
+  [
+   "Jordanelle",
+   "Crest Ridge / Jordanelle",
+   "Summit / Jordanelle",
+   0.5
+  ],
+  [
+   "Jordanelle",
+   "Summit / Jordanelle",
+   "Nelles Loop / Jordanelle",
+   0.5
+  ],
+  [
+   "Jordanelle",
+   "Nelles Loop / Jordanelle",
+   "Keetly / Nelles Loop",
+   0.5
+  ],
+  [
+   "Jordanelle",
+   "Keetly / Nelles Loop",
+   "Home Run / Jordanelle",
+   0.8
+  ],
+  [
+   "Jordanelle",
+   "Home Run / Jordanelle",
+   "Jordanelle",
+   0.5
+  ],
+  [
+   "Jordanelle",
+   "Jordanelle",
+   "Deer Hollow / Jordanelle",
+   0.5
+  ],
+  [
+   "Jordanelle",
+   "Deer Hollow / Jordanelle",
+   "Unnamed lift bottom 3",
+   0.9
+  ],
+  [
+   "Jordanelle",
+   "Unnamed lift bottom 3",
+   "Lost Fawn / Jordanelle",
+   0.8
+  ],
+  [
+   "Jordanelle",
+   "Lost Fawn / Jordanelle",
+   "Jordanelle Express Gondola bottom",
+   1.9
+  ],
+  [
+   "Little Giant",
+   "Sultan Connection",
+   "McHenry 3",
+   1.8
+  ],
+  [
+   "Ham Bug",
+   "Unnamed run / Green Monster",
+   "Ham Bug",
+   1.4
+  ],
+  [
+   "Ham Bug",
+   "Ham Bug",
+   "Clipper 3",
+   0.9
+  ],
+  [
+   "Rattler",
+   "Rattler / Wizard",
+   "Legal Tender / Nabob",
+   2.5
+  ],
+  [
+   "Rattler",
+   "Legal Tender / Nabob",
+   "McHenry 4",
+   0.5
+  ],
+  [
+   "Perseverance",
+   "Thunderer / Edgar's Alley",
+   "Grizzly / Perseverance",
+   0.7
+  ],
+  [
+   "Perseverance",
+   "Grizzly / Perseverance",
+   "Peerless / Perseverance",
+   0.5
+  ],
+  [
+   "Perseverance",
+   "Peerless / Perseverance",
+   "Edgar's Alley 3",
+   1.2
+  ],
+  [
+   "Zebra Trees",
+   "Supreme 3",
+   "Supreme 4",
+   2.9
+  ],
+  [
+   "Argus",
+   "Lady Morgan Bowl / Margus",
+   "Hillside / Argus",
+   0.7
+  ],
+  [
+   "Argus",
+   "Hillside / Argus",
+   "Margus / Argus",
+   1.3
+  ],
+  [
+   "Argus",
+   "Margus / Argus",
+   "Webster",
+   1.1
+  ],
+  [
+   "Papa Joe",
+   "Redemption 3",
+   "Catch All",
+   2.7
+  ],
+  [
+   "Gnat's Eye",
+   "Gnat's Eye / Deer Hollow",
+   "Little Stick 4",
+   1.7
+  ],
+  [
+   "Trillby",
+   "Crown Prince 2",
+   "Crown Prince 3",
+   0.7
+  ],
+  [
+   "Cresent",
+   "Mountaineer 3",
+   "Mountaineer Express bottom",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Clipper 4",
+   "Unnamed run / Green Monster",
+   1.0
+  ],
+  [
+   "Guardsman Glades",
+   "Bandana 2",
+   "Guardsman Glades / Hawkeye",
+   1.9
+  ],
+  [
+   "Stein's Way",
+   "Sultan Express top",
+   "Thunderer / Stein's Way",
+   0.5
+  ],
+  [
+   "Stein's Way",
+   "Thunderer / Stein's Way",
+   "Seldom Seen / Perseverance Bowl",
+   0.5
+  ],
+  [
+   "Stein's Way",
+   "Seldom Seen / Perseverance Bowl",
+   "Mayflower Bowl / Stein's Way",
+   0.5
+  ],
+  [
+   "Stein's Way",
+   "Mayflower Bowl / Stein's Way",
+   "Morning Star / Edgar's Alley",
+   1.0
+  ],
+  [
+   "Stein's Way",
+   "Morning Star / Edgar's Alley",
+   "Mayflower top",
+   0.5
+  ],
+  [
+   "Stein's Way",
+   "Mayflower top",
+   "Finis / Unnamed run",
+   2.0
+  ],
+  [
+   "Stein's Way",
+   "Finis / Unnamed run",
+   "Stein's Way",
+   1.9
+  ],
+  [
+   "Stein's Way",
+   "Stein's Way",
+   "Stein's Way / Tycoon",
+   1.1
+  ],
+  [
+   "Free Thinker",
+   "Free Thinker / Orient Express",
+   "Free Thinker / Orient Express 2",
+   2.3
+  ],
+  [
+   "Connector",
+   "Summit / Connector",
+   "Home Run 3",
+   0.5
+  ],
+  [
+   "Birdseye",
+   "North Star / Nabob",
+   "Sunset 2",
+   2.4
+  ],
+  [
+   "Birdseye",
+   "Sunset 2",
+   "Sunset / Birdseye",
+   0.5
+  ],
+  [
+   "Birdseye",
+   "Sunset / Birdseye",
+   "Birdseye / Homeward Bound",
+   2.8
+  ],
+  [
+   "Lost Fawn",
+   "Lost Fawn 2",
+   "Deer Hollow / Lost Fawn",
+   1.1
+  ],
+  [
+   "Lost Fawn",
+   "Deer Hollow / Lost Fawn",
+   "Lost Fawn",
+   0.5
+  ],
+  [
+   "Last Chance",
+   "Last Chance / Success",
+   "Silver Dollar / Last Chance",
+   1.2
+  ],
+  [
+   "Last Chance",
+   "Silver Dollar / Last Chance",
+   "Silver Dollar / Last Chance 2",
+   0.9
+  ],
+  [
+   "Last Chance",
+   "Silver Dollar / Last Chance 2",
+   "Dew Drop",
+   1.4
+  ],
+  [
+   "Woodside",
+   "Northside Express bottom",
+   "Webster 2",
+   2.7
+  ],
+  [
+   "Corner Stone",
+   "Lone Tree",
+   "Waterloo",
+   2.2
+  ],
+  [
+   "Big Stick",
+   "Little Stick 5",
+   "Kimberly / Little Stick",
+   2.2
+  ],
+  [
+   "Big Stick",
+   "Kimberly / Little Stick",
+   "Little Stick 6",
+   1.8
+  ],
+  [
+   "Lower Lily",
+   "Silver Buck 3",
+   "Unnamed run / Blue Bell",
+   0.9
+  ],
+  [
+   "Ruins Of Pompeii",
+   "Ruins Of Pompeii / Tycoon",
+   "Peerless / Ruins Of Pompeii",
+   0.5
+  ],
+  [
+   "Ruins Of Pompeii",
+   "Peerless / Ruins Of Pompeii",
+   "Ruins Of Pompeii",
+   1.0
+  ],
+  [
+   "Ruins Of Pompeii",
+   "Ruins Of Pompeii",
+   "Ruins Of Pompeii / Triangle Trees",
+   1.2
+  ],
+  [
+   "Banner",
+   "Unnamed run / Blue Bell",
+   "Silver Buck 2",
+   1.1
+  ],
+  [
+   "Banner",
+   "Silver Buck 2",
+   "Star Gazer / Banner",
+   2.4
+  ],
+  [
+   "Banner",
+   "Star Gazer / Banner",
+   "Red Cloud bottom",
+   0.8
+  ],
+  [
+   "Lily",
+   "Blue Bell",
+   "Silver Buck",
+   0.8
+  ],
+  [
+   "Magnet",
+   "Magnet / Pearl",
+   "Webster 3",
+   3.1
+  ],
+  [
+   "Sure Thing",
+   "Tug of War / U Bet",
+   "To The Max / Sure Thing",
+   2.8
+  ],
+  [
+   "Sure Thing",
+   "To The Max / Sure Thing",
+   "Primrose / Sure Thing",
+   1.7
+  ],
+  [
+   "Sure Thing",
+   "Primrose / Sure Thing",
+   "Sure Thing",
+   0.5
+  ],
+  [
+   "Sure Thing",
+   "Sure Thing",
+   "Sure Thing 2",
+   0.5
+  ],
+  [
+   "Sure Thing",
+   "Sure Thing 2",
+   "Sure Thing / Green Monster",
+   1.2
+  ],
+  [
+   "Navigator",
+   "Kimberly",
+   "Unnamed lift top 2",
+   1.8
+  ],
+  [
+   "Navigator",
+   "Unnamed lift top 2",
+   "Navigator / Deer Hollow",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "McHenry / Unnamed run",
+   "Lady of the Lake / Unnamed run",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Lady of the Lake / Unnamed run",
+   "Aurora bottom",
+   0.5
+  ],
+  [
+   "Clipper",
+   "Clipper 5",
+   "Dream / Clipper",
+   0.5
+  ],
+  [
+   "Evergreen",
+   "Evergreen / Tycoon",
+   "Ruins Of Pompeii",
+   1.3
+  ],
+  [
+   "Centennial",
+   "Lady Morgan Express top",
+   "Lady Morgan Express bottom",
+   4.9
+  ],
+  [
+   "Unnamed run",
+   "Trump",
+   "Ontario 3",
+   0.7
+  ],
+  [
+   "Nugget",
+   "Supreme",
+   "Ore Cart / Nugget",
+   0.5
+  ],
+  [
+   "Nugget",
+   "Ore Cart / Nugget",
+   "Nugget / Pearl",
+   0.6
+  ],
+  [
+   "Paradise",
+   "Narrow Gauge",
+   "Narrow Gauge 2",
+   2.9
+  ],
+  [
+   "Gnat's Eye",
+   "Little Stick 4",
+   "Burns Express top",
+   0.5
+  ],
+  [
+   "Gnat's Eye",
+   "Burns Express top",
+   "Little Stick 7",
+   1.5
+  ],
+  [
+   "Carbenite",
+   "Pinyon Express top",
+   "Bet Your Boots / Carbenite",
+   1.5
+  ],
+  [
+   "Carbenite",
+   "Bet Your Boots / Carbenite",
+   "Vulcan Express top",
+   3.6
+  ],
+  [
+   "Carbenite",
+   "Vulcan Express top",
+   "Carbenite / Green Monster, Carbenite",
+   0.5
+  ],
+  [
+   "Dispute",
+   "Minnow 3",
+   "Niagra",
+   0.7
+  ],
+  [
+   "Green Monster, Carbenite",
+   "Carbenite / Green Monster, Carbenite",
+   "Green Monster, Carbenite / Green Monster",
+   0.5
+  ],
+  [
+   "Ontario",
+   "Northside Express top",
+   "Quincy Express top",
+   0.5
+  ],
+  [
+   "Ontario",
+   "Quincy Express top",
+   "Ontario",
+   0.5
+  ],
+  [
+   "Fallon",
+   "Redemption 4",
+   "Crown Prince / Fallon",
+   1.0
+  ],
+  [
+   "Fallon",
+   "Crown Prince / Fallon",
+   "Crown Prince 4",
+   1.0
+  ],
+  [
+   "Homeward Bound",
+   "Sultan Express top",
+   "Legal Tender / Homeward Bound",
+   0.5
+  ],
+  [
+   "Homeward Bound",
+   "Legal Tender / Homeward Bound",
+   "North Star / Nabob",
+   0.5
+  ],
+  [
+   "Homeward Bound",
+   "North Star / Nabob",
+   "Sterling Express top",
+   0.5
+  ],
+  [
+   "Homeward Bound",
+   "Sterling Express top",
+   "Homeward Bound",
+   0.5
+  ],
+  [
+   "Homeward Bound",
+   "Homeward Bound",
+   "Northern Light / Homeward Bound",
+   1.0
+  ],
+  [
+   "Homeward Bound",
+   "Northern Light / Homeward Bound",
+   "Sunset / Homeward Bound",
+   1.5
+  ],
+  [
+   "Homeward Bound",
+   "Sunset / Homeward Bound",
+   "Northern Light / Homeward Bound 2",
+   1.1
+  ],
+  [
+   "Homeward Bound",
+   "Northern Light / Homeward Bound 2",
+   "Ontario 5",
+   2.1
+  ],
+  [
+   "Homeward Bound",
+   "Ontario 5",
+   "Sunset Glade / Homeward Bound",
+   2.8
+  ],
+  [
+   "Homeward Bound",
+   "Sunset Glade / Homeward Bound",
+   "Gilt Edge / Homeward Bound",
+   1.0
+  ],
+  [
+   "Homeward Bound",
+   "Gilt Edge / Homeward Bound",
+   "Unnamed run / Homeward Bound",
+   1.1
+  ],
+  [
+   "Homeward Bound",
+   "Unnamed run / Homeward Bound",
+   "Birdseye / Homeward Bound",
+   0.5
+  ],
+  [
+   "Homeward Bound",
+   "Birdseye / Homeward Bound",
+   "Little Reb / Unnamed run",
+   0.5
+  ],
+  [
+   "Success",
+   "Homestake Express top",
+   "Little Stick 2",
+   0.5
+  ],
+  [
+   "Success",
+   "Little Stick 2",
+   "Little Bdll / Success",
+   0.6
+  ],
+  [
+   "Success",
+   "Little Bdll / Success",
+   "Last Chance / Success",
+   0.7
+  ],
+  [
+   "Success",
+   "Last Chance / Success",
+   "Little Bdll / Success 2",
+   0.6
+  ],
+  [
+   "Success",
+   "Little Bdll / Success 2",
+   "Dew Drop / Success",
+   0.5
+  ],
+  [
+   "Success",
+   "Dew Drop / Success",
+   "Success 2",
+   1.0
+  ],
+  [
+   "Success",
+   "Success 2",
+   "Lucky Bill / Success",
+   0.5
+  ],
+  [
+   "Success",
+   "Lucky Bill / Success",
+   "Success",
+   0.5
+  ],
+  [
+   "Success",
+   "Success",
+   "Dew Drop / Rosebud",
+   0.5
+  ],
+  [
+   "Success",
+   "Dew Drop / Rosebud",
+   "Unnamed run / Rosebud",
+   0.5
+  ],
+  [
+   "Success",
+   "Unnamed run / Rosebud",
+   "American Flag / Success",
+   0.8
+  ],
+  [
+   "Success",
+   "American Flag / Success",
+   "Carpenter Express bottom",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 7",
+   "Unnamed run / Star",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "East Village Gondola II top",
+   "Clipper",
+   0.5
+  ],
+  [
+   "Dream Meadow",
+   "Dream / Clipper",
+   "Clipper 2",
+   1.6
+  ],
+  [
+   "Sidewinder",
+   "Northside Express top",
+   "Quincy Express top",
+   0.5
+  ],
+  [
+   "Sidewinder",
+   "Quincy Express top",
+   "Unnamed run 8",
+   4.6
+  ],
+  [
+   "Evening Star",
+   "Sure Thing",
+   "Torpedo / Evening Star",
+   3.8
+  ],
+  [
+   "Evening Star",
+   "Torpedo / Evening Star",
+   "Hoodoo Express top",
+   0.5
+  ],
+  [
+   "Evening Star",
+   "Hoodoo Express top",
+   "Lucky Find",
+   0.5
+  ],
+  [
+   "Olive Branch",
+   "Niagra / Minnow 2",
+   "Unnamed run / Olive Branch 2",
+   0.5
+  ],
+  [
+   "Olive Branch",
+   "Unnamed run / Olive Branch 2",
+   "Unnamed run / Olive Branch",
+   0.5
+  ],
+  [
+   "Olive Branch",
+   "Unnamed run / Olive Branch",
+   "Unnamed run / Olive Branch 3",
+   0.8
+  ],
+  [
+   "Olive Branch",
+   "Unnamed run / Olive Branch 3",
+   "Unnamed run / Minnow",
+   0.5
+  ],
+  [
+   "Rising Star",
+   "Kimberly 2",
+   "Rising Star / Roamer",
+   0.9
+  ],
+  [
+   "Triangle Trees",
+   "Ruins Of Pompeii / Triangle Trees",
+   "Sultan Connection 2",
+   2.8
+  ],
+  [
+   "Tycoon",
+   "Sultan Express top",
+   "Ruins Of Pompeii / Tycoon",
+   0.5
+  ],
+  [
+   "Tycoon",
+   "Ruins Of Pompeii / Tycoon",
+   "Evergreen / Tycoon",
+   0.5
+  ],
+  [
+   "Tycoon",
+   "Evergreen / Tycoon",
+   "Tycoon",
+   0.5
+  ],
+  [
+   "Tycoon",
+   "Tycoon",
+   "Ruins Of Pompeii / Triangle Trees",
+   2.4
+  ],
+  [
+   "Tycoon",
+   "Ruins Of Pompeii / Triangle Trees",
+   "Edgar's Alley / Tycoon",
+   1.4
+  ],
+  [
+   "Tycoon",
+   "Edgar's Alley / Tycoon",
+   "Finis / Tycoon",
+   0.5
+  ],
+  [
+   "Tycoon",
+   "Finis / Tycoon",
+   "Stein's Way / Tycoon",
+   1.3
+  ],
+  [
+   "Tycoon",
+   "Stein's Way / Tycoon",
+   "Sultan Express bottom",
+   0.5
+  ],
+  [
+   "Free Will",
+   "Clipper",
+   "Redemption 5",
+   2.8
+  ],
+  [
+   "Pioche",
+   "Pioche",
+   "Pioche Loop / Pioche",
+   0.6
+  ],
+  [
+   "Pioche",
+   "Pioche Loop / Pioche",
+   "Pioche Loop / Pioche 2",
+   0.5
+  ],
+  [
+   "Pioche",
+   "Pioche Loop / Pioche 2",
+   "Town Hall Loop / Pioche",
+   0.6
+  ],
+  [
+   "Pioche",
+   "Town Hall Loop / Pioche",
+   "Town Hall Loop / Pioche 2",
+   0.5
+  ],
+  [
+   "Pioche",
+   "Town Hall Loop / Pioche 2",
+   "Pioche 2",
+   1.1
+  ],
+  [
+   "Pearl",
+   "Lady Morgan Express top",
+   "Lady Morgan Bowl / Margus",
+   0.5
+  ],
+  [
+   "Pearl",
+   "Lady Morgan Bowl / Margus",
+   "Magnet / Pearl",
+   0.5
+  ],
+  [
+   "Pearl",
+   "Magnet / Pearl",
+   "Dakota / Pearl",
+   0.5
+  ],
+  [
+   "Pearl",
+   "Dakota / Pearl",
+   "Dakota / Pearl 2",
+   2.6
+  ],
+  [
+   "Pearl",
+   "Dakota / Pearl 2",
+   "T&G / Unnamed run",
+   0.5
+  ],
+  [
+   "Pearl",
+   "T&G / Unnamed run",
+   "Webster / Pearl",
+   1.3
+  ],
+  [
+   "Pearl",
+   "Webster / Pearl",
+   "Nugget / Pearl",
+   0.6
+  ],
+  [
+   "Pearl",
+   "Nugget / Pearl",
+   "Ore Cart / Pearl",
+   0.5
+  ],
+  [
+   "Pearl",
+   "Ore Cart / Pearl",
+   "Empire Express bottom",
+   0.5
+  ],
+  [
+   "Daly Runout",
+   "Anchor Treess / Daly Runout",
+   "Daly Bowl / Daly Runout",
+   0.7
+  ],
+  [
+   "Daly Runout",
+   "Daly Bowl / Daly Runout",
+   "Daly Chute 6 3",
+   0.7
+  ],
+  [
+   "Daly Runout",
+   "Daly Chute 6 3",
+   "Daly Chute 6 / Daly Runout",
+   0.5
+  ],
+  [
+   "Daly Runout",
+   "Daly Chute 6 / Daly Runout",
+   "Daly Runout / Orion",
+   0.5
+  ],
+  [
+   "Viola",
+   "Pioche Express top",
+   "Neptune Express top",
+   0.5
+  ],
+  [
+   "Viola",
+   "Neptune Express top",
+   "Divide / Viola",
+   0.8
+  ],
+  [
+   "Viola",
+   "Divide / Viola",
+   "Uno / Viola",
+   0.5
+  ],
+  [
+   "Viola",
+   "Uno / Viola",
+   "Nettie / Viola",
+   0.7
+  ],
+  [
+   "Viola",
+   "Nettie / Viola",
+   "Ampheon / Viola",
+   0.8
+  ],
+  [
+   "Viola",
+   "Ampheon / Viola",
+   "Ampheon / Viola 2",
+   1.6
+  ],
+  [
+   "Viola",
+   "Ampheon / Viola 2",
+   "Unnamed run / Nettie",
+   0.5
+  ],
+  [
+   "Viola",
+   "Unnamed run / Nettie",
+   "Neptune Express bottom",
+   0.9
+  ],
+  [
+   "Lucky Bud",
+   "Success",
+   "Rosebud 2",
+   0.7
+  ],
+  [
+   "Pay Rock",
+   "Pay Rock / Carbenite",
+   "Joker / Pay Rock",
+   5.5
+  ],
+  [
+   "Pay Rock",
+   "Joker / Pay Rock",
+   "Vulcan Express bottom",
+   0.5
+  ],
+  [
+   "Caledonia",
+   "Matchless",
+   "Matchless 3",
+   0.5
+  ],
+  [
+   "Caledonia",
+   "Matchless 3",
+   "Spitfire / Caledonia",
+   2.5
+  ],
+  [
+   "Caledonia",
+   "Spitfire / Caledonia",
+   "Sure Thing 2",
+   0.5
+  ],
+  [
+   "Reward",
+   "Tycoon",
+   "Wasatch Express bottom",
+   4.2
+  ],
+  [
+   "Green Monster",
+   "Green Monster, Carbenite / Green Monster",
+   "Green Monster",
+   0.5
+  ],
+  [
+   "Green Monster",
+   "Green Monster",
+   "Age of Reason 3",
+   3.6
+  ],
+  [
+   "Green Monster",
+   "Age of Reason 3",
+   "Age of Reason",
+   1.4
+  ],
+  [
+   "Green Monster",
+   "Age of Reason",
+   "Unnamed run / Green Monster 2",
+   3.4
+  ],
+  [
+   "Green Monster",
+   "Unnamed run / Green Monster 2",
+   "Mayflower Link / Glencoe",
+   1.0
+  ],
+  [
+   "Green Monster",
+   "Mayflower Link / Glencoe",
+   "Age of Reason / Green Monster",
+   2.2
+  ],
+  [
+   "Green Monster",
+   "Age of Reason / Green Monster",
+   "Mountain Monarch / Green Monster",
+   0.5
+  ],
+  [
+   "Green Monster",
+   "Mountain Monarch / Green Monster",
+   "Sure Thing / Green Monster",
+   0.5
+  ],
+  [
+   "Green Monster",
+   "Sure Thing / Green Monster",
+   "Daylight / Green Monster",
+   3.5
+  ],
+  [
+   "Green Monster",
+   "Daylight / Green Monster",
+   "Daylight",
+   0.5
+  ],
+  [
+   "Green Monster",
+   "Daylight",
+   "Aurora top",
+   0.5
+  ],
+  [
+   "Green Monster",
+   "Aurora top",
+   "Keetley Express bottom",
+   1.4
+  ],
+  [
+   "Carbenite",
+   "Green Monster, Carbenite / Green Monster",
+   "Green Monster",
+   0.5
+  ],
+  [
+   "Carbenite",
+   "Green Monster",
+   "Pay Rock / Carbenite",
+   1.0
+  ],
+  [
+   "Carbenite",
+   "Pay Rock / Carbenite",
+   "U Bet 2",
+   0.5
+  ],
+  [
+   "Hellcat",
+   "Redemption 6",
+   "Cataract / Deep Enuf",
+   1.5
+  ],
+  [
+   "Mayflower Chutes",
+   "Mayflower Bowl",
+   "Morning Star 4",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Ontario 4",
+   "Ontario 5",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Empire Express bottom",
+   "X-Files / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "X-Files / Unnamed run",
+   "Bandana",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Bandana",
+   "Ruby Express bottom",
+   0.5
+  ],
+  [
+   "Silver Link",
+   "Homestake Express top",
+   "Little Stick / Silver Link",
+   0.5
+  ],
+  [
+   "Silver Link",
+   "Little Stick / Silver Link",
+   "Sunrise / Silver Link",
+   0.6
+  ],
+  [
+   "Silver Link",
+   "Sunrise / Silver Link",
+   "Homestake Express bottom",
+   1.2
+  ],
+  [
+   "Blue Ledge",
+   "Sultan Express top",
+   "Thunderer / Edgar's Alley",
+   1.4
+  ],
+  [
+   "Star",
+   "Stein's Way",
+   "Unnamed run / Star",
+   0.5
+  ],
+  [
+   "Star",
+   "Unnamed run / Star",
+   "Star",
+   0.5
+  ],
+  [
+   "Star",
+   "Star",
+   "Mayflower Link",
+   0.5
+  ],
+  [
+   "Connector",
+   "Silver Hill / Connector",
+   "Summit / Connector",
+   0.5
+  ],
+  [
+   "Roamer",
+   "Homestake Express top",
+   "Little Stick 5",
+   0.5
+  ],
+  [
+   "Roamer",
+   "Little Stick 5",
+   "Rising Star / Roamer",
+   1.1
+  ],
+  [
+   "Roamer",
+   "Rising Star / Roamer",
+   "Kimberly / Little Stick",
+   1.5
+  ],
+  [
+   "Deer Hollow",
+   "Jordanelle Express Gondola top",
+   "Silver Hill / Connector",
+   0.5
+  ],
+  [
+   "Deer Hollow",
+   "Silver Hill / Connector",
+   "Silver Hill",
+   0.5
+  ],
+  [
+   "Deer Hollow",
+   "Silver Hill",
+   "Gnat's Eye / Deer Hollow",
+   0.5
+  ],
+  [
+   "Deer Hollow",
+   "Gnat's Eye / Deer Hollow",
+   "Navigator / Deer Hollow",
+   0.9
+  ],
+  [
+   "Deer Hollow",
+   "Navigator / Deer Hollow",
+   "Little Stick 4",
+   0.7
+  ],
+  [
+   "Deer Hollow",
+   "Little Stick 4",
+   "Burns Express top",
+   0.5
+  ],
+  [
+   "Deer Hollow",
+   "Burns Express top",
+   "Fairview / Deer Hollow",
+   0.8
+  ],
+  [
+   "Deer Hollow",
+   "Fairview / Deer Hollow",
+   "Silver Hill / Deer Hollow",
+   0.7
+  ],
+  [
+   "Deer Hollow",
+   "Silver Hill / Deer Hollow",
+   "Deer Hollow",
+   1.2
+  ],
+  [
+   "Deer Hollow",
+   "Deer Hollow",
+   "Dynamic / Deer Hollow",
+   0.9
+  ],
+  [
+   "Deer Hollow",
+   "Dynamic / Deer Hollow",
+   "Mountaineer / Deer Hollow",
+   0.5
+  ],
+  [
+   "Deer Hollow",
+   "Mountaineer / Deer Hollow",
+   "Mountaineer Express bottom",
+   0.6
+  ],
+  [
+   "Pinto",
+   "Reliance",
+   "Clipper 5",
+   1.3
+  ],
+  [
+   "Wizard",
+   "Legal Tender / Homeward Bound",
+   "Rattler / Wizard",
+   2.4
+  ],
+  [
+   "Wizard",
+   "Rattler / Wizard",
+   "Legal Tender",
+   1.5
+  ],
+  [
+   "White Owl",
+   "Success 2",
+   "Solid Muldoon",
+   1.3
+  ],
+  [
+   "White Owl",
+   "Solid Muldoon",
+   "Snowflake top",
+   0.5
+  ],
+  [
+   "Hawkeye",
+   "Bandana 2",
+   "Guardsman Glades / Hawkeye",
+   1.8
+  ],
+  [
+   "Hawkeye",
+   "Guardsman Glades / Hawkeye",
+   "Lucky Star 2",
+   2.6
+  ],
+  [
+   "Hawkeye",
+   "Lucky Star 2",
+   "Northside Express bottom",
+   0.5
+  ],
+  [
+   "Green Monster",
+   "Age of Reason / Northern Light",
+   "Bet Your Boots / Carbenite",
+   1.8
+  ],
+  [
+   "Green Monster",
+   "Bet Your Boots / Carbenite",
+   "Vulcan Express top",
+   6.6
+  ],
+  [
+   "Green Monster",
+   "Vulcan Express top",
+   "Carbenite / Green Monster, Carbenite",
+   0.5
+  ],
+  [
+   "Three Ply",
+   "Peeler 2",
+   "Red Cloud bottom",
+   3.2
+  ],
+  [
+   "Ridge Cross",
+   "Crest Ridge 2",
+   "Ridge Cross",
+   1.1
+  ],
+  [
+   "Lucky Jack",
+   "Bandana 4",
+   "Ruby Express bottom",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Stein's Way",
+   "Unnamed run 7",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 7",
+   "Overlooked / Road to Sultan",
+   0.6
+  ],
+  [
+   "Lost Fawn",
+   "Jordanelle",
+   "Lost Fawn 3",
+   0.5
+  ],
+  [
+   "Lost Fawn",
+   "Lost Fawn 3",
+   "Lost Fawn 2",
+   0.5
+  ],
+  [
+   "Square Deal",
+   "Red Cloud top",
+   "Hidden Treasure 2",
+   2.5
+  ],
+  [
+   "Orion",
+   "Empire Express top",
+   "Unnamed run 2",
+   1.5
+  ],
+  [
+   "Orion",
+   "Unnamed run 2",
+   "Unnamed run 9",
+   0.5
+  ],
+  [
+   "Orion",
+   "Unnamed run 9",
+   "Solace / Orion",
+   0.5
+  ],
+  [
+   "Orion",
+   "Solace / Orion",
+   "Anchor Treess / Daly Runout",
+   1.1
+  ],
+  [
+   "Orion",
+   "Anchor Treess / Daly Runout",
+   "Buckeye / Orion",
+   0.7
+  ],
+  [
+   "Orion",
+   "Buckeye / Orion",
+   "Solace / Orion 2",
+   0.9
+  ],
+  [
+   "Orion",
+   "Solace / Orion 2",
+   "Daly Runout / Orion",
+   0.5
+  ],
+  [
+   "Orion",
+   "Daly Runout / Orion",
+   "X-Files / Unnamed run",
+   1.6
+  ],
+  [
+   "Mayflower Link",
+   "Keetley Express top",
+   "Unnamed run 7",
+   0.5
+  ],
+  [
+   "Mayflower Link",
+   "Unnamed run 7",
+   "Lady of the Lake / Mayflower Link",
+   1.1
+  ],
+  [
+   "Keno",
+   "North Star / Nabob",
+   "Kabob / Keno",
+   3.1
+  ],
+  [
+   "Keno",
+   "Kabob / Keno",
+   "Kabob / Keno 2",
+   1.2
+  ],
+  [
+   "Keno",
+   "Kabob / Keno 2",
+   "Legal Tender / Nabob",
+   0.9
+  ],
+  [
+   "Straddle Bug",
+   "Ham Bug",
+   "Pinyon Express bottom",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Viking bottom",
+   "Judge bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Judge bottom",
+   "Red Cloud bottom",
+   0.5
+  ],
+  [
+   "Solace",
+   "Unnamed run 9",
+   "Solace / Orion",
+   0.5
+  ],
+  [
+   "Solace",
+   "Solace / Orion",
+   "Unnamed run 3",
+   0.6
+  ],
+  [
+   "Solace",
+   "Unnamed run 3",
+   "Solace / Unnamed run",
+   1.0
+  ],
+  [
+   "Empire Bowl",
+   "Supreme 3",
+   "Lady Morgan Bowl / Empire Bowl",
+   0.5
+  ],
+  [
+   "Empire Bowl",
+   "Lady Morgan Bowl / Empire Bowl",
+   "T&G / Unnamed run",
+   3.5
+  ],
+  [
+   "Empire Bowl",
+   "T&G / Unnamed run",
+   "T&G",
+   0.5
+  ],
+  [
+   "Orient Express",
+   "Mayflower top",
+   "Free Thinker / Orient Express",
+   0.8
+  ],
+  [
+   "Orient Express",
+   "Free Thinker / Orient Express",
+   "Free Thinker / Orient Express 2",
+   2.6
+  ],
+  [
+   "Orient Express",
+   "Free Thinker / Orient Express 2",
+   "Unnamed run / Star",
+   0.6
+  ],
+  [
+   "Orient Express",
+   "Unnamed run / Star",
+   "Star",
+   0.5
+  ],
+  [
+   "Cascade",
+   "Mountaineer 4",
+   "Deer Hollow",
+   2.0
+  ],
+  [
+   "Trainer",
+   "Homestake Express bottom",
+   "Unnamed run / Trainer",
+   0.5
+  ],
+  [
+   "Trainer",
+   "Unnamed run / Trainer",
+   "Sterling Express bottom",
+   0.5
+  ],
+  [
+   "Emerald",
+   "Homeward Bound",
+   "Sunset",
+   1.8
+  ],
+  [
+   "Exchange",
+   "Green Monster",
+   "Persistence / Exchange",
+   0.9
+  ],
+  [
+   "Exchange",
+   "Persistence / Exchange",
+   "Revelator Express bottom",
+   2.3
+  ],
+  [
+   "Exchange",
+   "Revelator Express bottom",
+   "Catch All / Non-Descript",
+   0.5
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Custer",
+   "Northside Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Clipper",
+   "East Village Gondola II top",
+   0.7
+  ],
+  [
+   "walk",
+   "Clipper / Golden Age",
+   "Pinyon Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Green Monster 2",
+   "Mayflower bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Mayflower Link",
+   "Mayflower bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Homestake Express bottom",
+   "Little Reb / Unnamed run",
+   0.8
+  ],
+  [
+   "walk",
+   "Homestake Express bottom",
+   "Sterling Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Homestake Express bottom",
+   "Unnamed run / Trainer",
+   0.7
+  ],
+  [
+   "walk",
+   "Homestake Express bottom",
+   "Viking top",
+   2.7
+  ],
+  [
+   "walk",
+   "Homestake Express bottom",
+   "Unnamed run 6",
+   1.7
+  ],
+  [
+   "walk",
+   "Homestake Express bottom",
+   "Birdseye / Homeward Bound",
+   1.7
+  ],
+  [
+   "walk",
+   "Wasatch Express bottom",
+   "Legal Tender / Nabob",
+   1.4
+  ],
+  [
+   "walk",
+   "Wasatch Express bottom",
+   "McHenry 4",
+   0.6
+  ],
+  [
+   "walk",
+   "Seldom Seen / Perseverance Bowl",
+   "Sultan Express top",
+   2.5
+  ],
+  [
+   "walk",
+   "Pinyon Express top",
+   "Reliance",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Overlooked / Road to Sultan",
+   "Sultan Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Torpedo / Evening Star",
+   "Hoodoo Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Burns Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Lucky Bill / Little Stick",
+   0.8
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Little Stick / Rosebud",
+   1.3
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Rosebud",
+   2.2
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Little Stick 6",
+   0.8
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Rosebud 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Burns Express bottom",
+   "Snowflake top",
+   0.6
+  ],
+  [
+   "walk",
+   "Burns Express bottom",
+   "Lucky Bill / Little Stick",
+   1.2
+  ],
+  [
+   "walk",
+   "Burns Express bottom",
+   "Little Stick / Rosebud",
+   1.7
+  ],
+  [
+   "walk",
+   "Burns Express bottom",
+   "Rosebud",
+   2.5
+  ],
+  [
+   "walk",
+   "Burns Express bottom",
+   "Little Stick 6",
+   0.8
+  ],
+  [
+   "walk",
+   "Burns Express bottom",
+   "Rosebud 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Tug of War / U Bet",
+   "East Village Gondola II bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Tug of War / Unnamed run",
+   "East Village Gondola I bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Tug of War / Unnamed run",
+   "Keetley Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Northside Express top",
+   "Ruby Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Northside Express top",
+   "Ontario",
+   2.3
+  ],
+  [
+   "walk",
+   "Northside Express top",
+   "Quincy Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Northside Express top",
+   "Silver Strike Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Northside Express top",
+   "Bandana 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Red Cloud top",
+   "Hidden Treasure",
+   3.3
+  ],
+  [
+   "walk",
+   "Red Cloud top",
+   "Peeler",
+   0.9
+  ],
+  [
+   "walk",
+   "Red Cloud top",
+   "Blue Bell 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Red Cloud top",
+   "Peeler 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Judge top",
+   3.0
+  ],
+  [
+   "walk",
+   "Little Reb / Unnamed run",
+   "Homestake Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Little Reb / Unnamed run",
+   "Sterling Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Little Reb / Unnamed run",
+   "Viking top",
+   2.1
+  ],
+  [
+   "walk",
+   "McHenry / Unnamed run",
+   "Galena Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Joker / Pay Rock",
+   "Vulcan Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Crown Point top",
+   "Kimberly 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Aurora bottom",
+   "Lady of the Lake / Unnamed run",
+   0.8
+  ],
+  [
+   "walk",
+   "Red Cloud bottom",
+   "Judge bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Red Cloud bottom",
+   "Quincy Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Red Cloud bottom",
+   "Viking bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Red Cloud bottom",
+   "Star Gazer / Banner",
+   2.6
+  ],
+  [
+   "walk",
+   "Lucky Bill / Little Stick",
+   "Snowflake top",
+   0.8
+  ],
+  [
+   "walk",
+   "Lucky Bill / Little Stick",
+   "Burns Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Northside Express bottom",
+   "Custer",
+   3.1
+  ],
+  [
+   "walk",
+   "Northside Express bottom",
+   "Unnamed run 8",
+   1.0
+  ],
+  [
+   "walk",
+   "Keetley Express top",
+   "Overlooked / Road to Sultan",
+   1.3
+  ],
+  [
+   "walk",
+   "Keetley Express top",
+   "Lady of the Lake / Mayflower Link",
+   3.2
+  ],
+  [
+   "walk",
+   "Keetley Express top",
+   "Mayflower Link / Road to Sultan",
+   1.2
+  ],
+  [
+   "walk",
+   "Keetley Express top",
+   "Overlooked",
+   2.4
+  ],
+  [
+   "walk",
+   "Keetley Express top",
+   "Sultan Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Keetley Express top",
+   "Sultan Connection",
+   3.3
+  ],
+  [
+   "walk",
+   "Keetley Express top",
+   "Stein's Way / Tycoon",
+   2.9
+  ],
+  [
+   "walk",
+   "Keetley Express top",
+   "Unnamed run 7",
+   1.0
+  ],
+  [
+   "walk",
+   "Keetley Express top",
+   "Unnamed run / Star",
+   3.3
+  ],
+  [
+   "walk",
+   "Keetley Express top",
+   "Stein's Way",
+   2.5
+  ],
+  [
+   "walk",
+   "Ruby Express bottom",
+   "Empire Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Ruby Express bottom",
+   "Ore Cart / Pearl",
+   2.6
+  ],
+  [
+   "walk",
+   "Ruby Express bottom",
+   "X-Files / Unnamed run",
+   1.2
+  ],
+  [
+   "walk",
+   "Ruby Express bottom",
+   "Bandana",
+   0.6
+  ],
+  [
+   "walk",
+   "Lady of the Lake / Unnamed run",
+   "Aurora bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Mayflower Link / Road to Sultan",
+   "Sultan Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Pioche Express top",
+   "Neptune Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Pioche Express top",
+   "Minnow 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Judge bottom",
+   "Red Cloud bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Judge bottom",
+   "Quincy Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Judge bottom",
+   "Viking bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Judge bottom",
+   "Star Gazer / Banner",
+   3.0
+  ],
+  [
+   "walk",
+   "Burns Express top",
+   "Fairview / Deer Hollow",
+   2.4
+  ],
+  [
+   "walk",
+   "Burns Express top",
+   "Little Stick 4",
+   1.0
+  ],
+  [
+   "walk",
+   "Silver Hill / Connector",
+   "Jordanelle Express Gondola top",
+   1.6
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Northside Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Ontario",
+   2.5
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Quincy Express top",
+   1.2
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Silver Strike Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Bandana 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Pioche Access",
+   "Pioche 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Homestake Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Little Reb / Unnamed run",
+   2.2
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Judge bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Unnamed run / Homeward Bound",
+   0.7
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Quincy Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Sterling Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Viking bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Unnamed run / Trainer",
+   2.6
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Viking top",
+   2.3
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Unnamed run 6",
+   2.9
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Birdseye / Homeward Bound",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Homeward Bound",
+   "Homestake Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Homeward Bound",
+   "Judge top",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Homeward Bound",
+   "Sterling Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Homeward Bound",
+   "Viking top",
+   2.9
+  ],
+  [
+   "walk",
+   "Mountaineer Express bottom",
+   "Mountaineer / Deer Hollow",
+   2.0
+  ],
+  [
+   "walk",
+   "Revelator Express top",
+   "Pinyon Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Revelator Express top",
+   "Clipper 4",
+   2.8
+  ],
+  [
+   "walk",
+   "Revelator Express top",
+   "Reliance",
+   1.9
+  ],
+  [
+   "walk",
+   "Carpenter Express top",
+   "Little Stick / Silver Link",
+   1.8
+  ],
+  [
+   "walk",
+   "Carpenter Express top",
+   "Little Bdll / Success",
+   2.5
+  ],
+  [
+   "walk",
+   "Carpenter Express top",
+   "Homestake Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Carpenter Express top",
+   "Little Stick 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Carpenter Express top",
+   "Little Stick 5",
+   2.0
+  ],
+  [
+   "walk",
+   "Quincy Express bottom",
+   "Red Cloud bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Quincy Express bottom",
+   "Judge bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Quincy Express bottom",
+   "Viking bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Quincy Express bottom",
+   "Star Gazer / Banner",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Nettie",
+   "Neptune Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Minnow",
+   "Neptune Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Thunderer / Stein's Way",
+   "Sultan Express top",
+   1.8
+  ],
+  [
+   "walk",
+   "Thunderer / Stein's Way",
+   "Wasatch Express top",
+   2.3
+  ],
+  [
+   "walk",
+   "Thunderer / Stein's Way",
+   "Sterling Express top",
+   3.2
+  ],
+  [
+   "walk",
+   "Thunderer / Edgar's Alley",
+   "Mayflower top",
+   2.8
+  ],
+  [
+   "walk",
+   "Morning Star / Edgar's Alley",
+   "Mayflower top",
+   0.9
+  ],
+  [
+   "walk",
+   "Lady Morgan Bowl / Margus",
+   "Lady Morgan Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Daylight / Green Monster",
+   "Aurora top",
+   1.6
+  ],
+  [
+   "walk",
+   "Daylight / Green Monster",
+   "Hoodoo Express top",
+   2.1
+  ],
+  [
+   "walk",
+   "Little Stick / Silver Link",
+   "Carpenter Express top",
+   1.8
+  ],
+  [
+   "walk",
+   "Little Stick / Silver Link",
+   "Homestake Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Little Stick / Rosebud",
+   "Snowflake bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "North Star / Nabob",
+   "Sultan Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "North Star / Nabob",
+   "Wasatch Express top",
+   1.1
+  ],
+  [
+   "walk",
+   "North Star / Nabob",
+   "Sterling Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "East Village Gondola I bottom",
+   "Tug of War / Unnamed run",
+   1.4
+  ],
+  [
+   "walk",
+   "East Village Gondola I bottom",
+   "Keetley Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Aurora top",
+   "Aurora bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Aurora top",
+   "Lady of the Lake / Unnamed run",
+   2.9
+  ],
+  [
+   "walk",
+   "Aurora top",
+   "Daylight / Green Monster",
+   1.6
+  ],
+  [
+   "walk",
+   "Aurora top",
+   "Daylight",
+   0.8
+  ],
+  [
+   "walk",
+   "Aurora top",
+   "Hoodoo Express top",
+   2.7
+  ],
+  [
+   "walk",
+   "Aurora top",
+   "Lucky Find",
+   2.9
+  ],
+  [
+   "walk",
+   "Daylight",
+   "Aurora top",
+   0.8
+  ],
+  [
+   "walk",
+   "Daylight",
+   "Hoodoo Express top",
+   2.6
+  ],
+  [
+   "walk",
+   "Snowflake bottom",
+   "Carpenter Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Snowflake bottom",
+   "Unnamed lift bottom 4",
+   3.3
+  ],
+  [
+   "walk",
+   "Empire Express top",
+   "Supreme 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Empire Express top",
+   "Supreme 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Overlooked",
+   "Sultan Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Homestake Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Little Reb / Unnamed run",
+   1.0
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Unnamed run / Trainer",
+   0.7
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Viking top",
+   1.3
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Unnamed run 6",
+   0.7
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Birdseye / Homeward Bound",
+   1.6
+  ],
+  [
+   "walk",
+   "Viking bottom",
+   "Red Cloud bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Viking bottom",
+   "Judge bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Viking bottom",
+   "Quincy Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Viking bottom",
+   "Star Gazer / Banner",
+   3.4
+  ],
+  [
+   "walk",
+   "Empire Express bottom",
+   "Ruby Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Empire Express bottom",
+   "Ore Cart / Pearl",
+   1.0
+  ],
+  [
+   "walk",
+   "Empire Express bottom",
+   "X-Files / Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "Empire Express bottom",
+   "Bandana",
+   1.1
+  ],
+  [
+   "walk",
+   "Jordanelle Express Gondola top",
+   "Ridge Cross",
+   3.4
+  ],
+  [
+   "walk",
+   "Jordanelle Express Gondola top",
+   "Silver Hill / Connector",
+   1.6
+  ],
+  [
+   "walk",
+   "Jordanelle Express Gondola top",
+   "Summit / Connector",
+   2.6
+  ],
+  [
+   "walk",
+   "Jordanelle Express Gondola top",
+   "Crest Ridge",
+   2.1
+  ],
+  [
+   "walk",
+   "Jordanelle Express Gondola top",
+   "Silver Hill",
+   1.9
+  ],
+  [
+   "walk",
+   "Jordanelle Express Gondola top",
+   "Gnat's Eye / Deer Hollow",
+   2.7
+  ],
+  [
+   "walk",
+   "Jordanelle Express Gondola top",
+   "Crest Ridge 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Jordanelle Express Gondola top",
+   "Mountaineer 4",
+   2.6
+  ],
+  [
+   "walk",
+   "Persistence / Crown Prince",
+   "Vulcan Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Fairview / Deer Hollow",
+   "Unnamed lift bottom 4",
+   2.7
+  ],
+  [
+   "walk",
+   "Fairview / Deer Hollow",
+   "Unnamed lift top 4",
+   1.5
+  ],
+  [
+   "walk",
+   "Carpenter Express bottom",
+   "Snowflake bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Carpenter Express bottom",
+   "Unnamed lift bottom 4",
+   2.9
+  ],
+  [
+   "walk",
+   "Mayflower top",
+   "Thunderer / Edgar's Alley",
+   2.8
+  ],
+  [
+   "walk",
+   "Mayflower top",
+   "Narrow Gauge",
+   3.4
+  ],
+  [
+   "walk",
+   "Mayflower top",
+   "Free Thinker / Orient Express",
+   3.0
+  ],
+  [
+   "walk",
+   "Mayflower top",
+   "Morning Star 4",
+   2.0
+  ],
+  [
+   "walk",
+   "Morning Star",
+   "Mayflower bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "McHenry 2",
+   "Galena Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Homestake Express top",
+   "Carpenter Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Homestake Express top",
+   "Little Stick / Silver Link",
+   1.6
+  ],
+  [
+   "walk",
+   "Homestake Express top",
+   "Little Bdll / Success",
+   3.0
+  ],
+  [
+   "walk",
+   "Homestake Express top",
+   "Little Stick 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Homestake Express top",
+   "Sunrise / Silver Link",
+   3.4
+  ],
+  [
+   "walk",
+   "Homestake Express top",
+   "Little Stick 5",
+   1.8
+  ],
+  [
+   "walk",
+   "Ore Cart / Pearl",
+   "Ruby Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Ore Cart / Pearl",
+   "Empire Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Vulcan Express bottom",
+   "Persistence / Crown Prince",
+   1.7
+  ],
+  [
+   "walk",
+   "Galena Express bottom",
+   "McHenry / Unnamed run",
+   1.4
+  ],
+  [
+   "walk",
+   "Sultan Express bottom",
+   "Sultan Connection",
+   0.7
+  ],
+  [
+   "walk",
+   "Sultan Express bottom",
+   "Stein's Way / Tycoon",
+   1.4
+  ],
+  [
+   "walk",
+   "Sultan Express top",
+   "Seldom Seen / Perseverance Bowl",
+   2.5
+  ],
+  [
+   "walk",
+   "Sultan Express top",
+   "Thunderer / Stein's Way",
+   1.8
+  ],
+  [
+   "walk",
+   "Sultan Express top",
+   "North Star / Nabob",
+   1.7
+  ],
+  [
+   "walk",
+   "Sultan Express top",
+   "Legal Tender / Homeward Bound",
+   1.0
+  ],
+  [
+   "walk",
+   "Sultan Express top",
+   "Peerless / Ruins Of Pompeii",
+   3.4
+  ],
+  [
+   "walk",
+   "Sultan Express top",
+   "Ruins Of Pompeii / Tycoon",
+   1.5
+  ],
+  [
+   "walk",
+   "Sultan Express top",
+   "Evergreen / Tycoon",
+   2.7
+  ],
+  [
+   "walk",
+   "Sultan Express top",
+   "Homeward Bound",
+   3.1
+  ],
+  [
+   "walk",
+   "Sultan Express top",
+   "Wasatch Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Sultan Express top",
+   "Sterling Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Quincy Express top",
+   "Northside Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Quincy Express top",
+   "Ruby Express top",
+   1.2
+  ],
+  [
+   "walk",
+   "Quincy Express top",
+   "Ontario",
+   2.6
+  ],
+  [
+   "walk",
+   "Quincy Express top",
+   "Lucky Star / Boulder Bumps",
+   3.3
+  ],
+  [
+   "walk",
+   "Quincy Express top",
+   "Silver Strike Express top",
+   1.1
+  ],
+  [
+   "walk",
+   "Quincy Express top",
+   "Bandana 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Mountaineer / Deer Hollow",
+   "Mountaineer Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Deep Enuf / Non-Descript",
+   "Revelator Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Legal Tender / Homeward Bound",
+   "Sultan Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Legal Tender / Homeward Bound",
+   "Wasatch Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Legal Tender / Homeward Bound",
+   "Sterling Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Legal Tender / Nabob",
+   "Wasatch Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Deer Hollow / Jordanelle",
+   "Unnamed lift bottom 3",
+   2.4
+  ],
+  [
+   "walk",
+   "X-Files / Unnamed run",
+   "Ruby Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "X-Files / Unnamed run",
+   "Empire Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Silver Strike Express top",
+   "Northside Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Silver Strike Express top",
+   "Ruby Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Silver Strike Express top",
+   "Ontario",
+   1.7
+  ],
+  [
+   "walk",
+   "Silver Strike Express top",
+   "Quincy Express top",
+   1.1
+  ],
+  [
+   "walk",
+   "Silver Strike Express top",
+   "Bandana 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Edgar's Alley 2",
+   "Mayflower top",
+   1.5
+  ],
+  [
+   "walk",
+   "Little Stick 2",
+   "Carpenter Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Little Stick 2",
+   "Homestake Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Peeler",
+   "Red Cloud top",
+   0.9
+  ],
+  [
+   "walk",
+   "Star Gazer / Banner",
+   "Red Cloud bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Star Gazer / Banner",
+   "Judge bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Star Gazer / Banner",
+   "Quincy Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Star Gazer / Banner",
+   "Viking bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Hoodoo Express top",
+   "Daylight / Green Monster",
+   2.1
+  ],
+  [
+   "walk",
+   "Hoodoo Express top",
+   "Aurora top",
+   2.7
+  ],
+  [
+   "walk",
+   "Hoodoo Express top",
+   "Daylight",
+   2.6
+  ],
+  [
+   "walk",
+   "Hoodoo Express top",
+   "Lucky Find",
+   0.6
+  ],
+  [
+   "walk",
+   "Blue Bell 3",
+   "Red Cloud top",
+   2.7
+  ],
+  [
+   "walk",
+   "Pioche 2",
+   "Jordanelle Express Gondola bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Dynamic / Deer Hollow",
+   "Mountaineer Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Trainer",
+   "Homestake Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Trainer",
+   "Sterling Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Trainer",
+   "Viking top",
+   1.9
+  ],
+  [
+   "walk",
+   "Neptune Express top",
+   "Pioche Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Neptune Express top",
+   "Divide / Viola",
+   2.8
+  ],
+  [
+   "walk",
+   "Neptune Express top",
+   "Minnow 3",
+   2.1
+  ],
+  [
+   "walk",
+   "Neptune Express top",
+   "Niagra",
+   3.1
+  ],
+  [
+   "walk",
+   "Lucky Star 2",
+   "Northside Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Homestake Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Little Reb / Unnamed run",
+   2.1
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Red Cloud bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Judge bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Unnamed run / Homeward Bound",
+   2.9
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Sterling Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Viking bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Unnamed run / Trainer",
+   1.9
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Unnamed run 6",
+   1.2
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Birdseye / Homeward Bound",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Homestake Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Sterling Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Viking top",
+   1.2
+  ],
+  [
+   "walk",
+   "Bandana",
+   "Ruby Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Bandana",
+   "Empire Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Solid Muldoon",
+   "Snowflake top",
+   1.7
+  ],
+  [
+   "walk",
+   "Solid Muldoon",
+   "Burns Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Olive Branch 3",
+   "Neptune Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Rosebud",
+   "Snowflake bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Catch All / Non-Descript",
+   "Revelator Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Keetley Express bottom",
+   "Tug of War / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Keetley Express bottom",
+   "East Village Gondola I bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Sultan Connection",
+   "Sultan Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Clipper 3",
+   "Pinyon Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "McHenry 4",
+   "Wasatch Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Little Stick 4",
+   "Burns Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Bandana 2",
+   "Northside Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Bandana 2",
+   "Ruby Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Bandana 2",
+   "Quincy Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Stein's Way / Tycoon",
+   "Sultan Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Birdseye / Homeward Bound",
+   "Homestake Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Birdseye / Homeward Bound",
+   "Sterling Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Birdseye / Homeward Bound",
+   "Viking top",
+   2.5
+  ],
+  [
+   "walk",
+   "Webster 2",
+   "Lady Morgan Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Waterloo",
+   "Galena Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Little Stick 5",
+   "Carpenter Express top",
+   2.0
+  ],
+  [
+   "walk",
+   "Little Stick 5",
+   "Homestake Express top",
+   1.8
+  ],
+  [
+   "walk",
+   "Little Stick 6",
+   "Snowflake top",
+   0.8
+  ],
+  [
+   "walk",
+   "Little Stick 6",
+   "Burns Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Navigator / Deer Hollow",
+   "Burns Express top",
+   2.5
+  ],
+  [
+   "walk",
+   "Lady Morgan Express top",
+   "Dakota / Pearl",
+   3.5
+  ],
+  [
+   "walk",
+   "Lady Morgan Express top",
+   "Hillside / Argus",
+   2.6
+  ],
+  [
+   "walk",
+   "Lady Morgan Express top",
+   "Lady Morgan Bowl / Margus",
+   1.0
+  ],
+  [
+   "walk",
+   "Lady Morgan Express top",
+   "Magnet / Pearl",
+   2.5
+  ],
+  [
+   "walk",
+   "Trump",
+   "Pinyon Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Ontario 3",
+   "Pinyon Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Nugget / Pearl",
+   "Empire Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Narrow Gauge 2",
+   "Mayflower bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Little Stick 7",
+   "Snowflake top",
+   1.4
+  ],
+  [
+   "walk",
+   "Little Stick 7",
+   "Burns Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Carbenite / Green Monster, Carbenite",
+   "Vulcan Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Minnow 3",
+   "Pioche Express top",
+   2.0
+  ],
+  [
+   "walk",
+   "Minnow 3",
+   "Neptune Express top",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Keetley Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Star",
+   "Mayflower bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "East Village Gondola II top",
+   "Clipper",
+   0.7
+  ],
+  [
+   "walk",
+   "East Village Gondola II top",
+   "Clipper 5",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run 8",
+   "Northside Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Lucky Find",
+   "Aurora top",
+   2.9
+  ],
+  [
+   "walk",
+   "Lucky Find",
+   "Hoodoo Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Rosebud 2",
+   "Snowflake top",
+   1.7
+  ],
+  [
+   "walk",
+   "Rosebud 2",
+   "Burns Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Mayflower Bowl",
+   "Mayflower top",
+   3.1
+  ],
+  [
+   "walk",
+   "Stein's Way",
+   "Keetley Express top",
+   2.5
+  ],
+  [
+   "walk",
+   "Mayflower Link",
+   "Mayflower bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Reliance",
+   "Pinyon Express top",
+   3.1
+  ],
+  [
+   "walk",
+   "Peeler 2",
+   "Red Cloud top",
+   1.2
+  ],
+  [
+   "walk",
+   "Crest Ridge 2",
+   "Jordanelle Express Gondola top",
+   1.3
+  ],
+  [
+   "walk",
+   "Hidden Treasure 2",
+   "Red Cloud bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Hidden Treasure 2",
+   "Judge bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Hidden Treasure 2",
+   "Quincy Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Hidden Treasure 2",
+   "Viking bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Pinyon Express bottom",
+   "Clipper / Golden Age",
+   1.0
+  ],
+  [
+   "walk",
+   "Pinyon Express bottom",
+   "Ontario 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Pinyon Express bottom",
+   "Ontario 4",
+   2.3
+  ],
+  [
+   "walk",
+   "Pinyon Express bottom",
+   "Ontario 5",
+   3.0
+  ],
+  [
+   "walk",
+   "Star",
+   "Mayflower bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Sultan Express top",
+   3.1
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Sterling Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Revelator Express bottom",
+   "Nemesis / Catch All",
+   2.7
+  ],
+  [
+   "walk",
+   "Revelator Express bottom",
+   "Catch All / Non-Descript",
+   0.7
+  ],
+  [
+   "walk",
+   "East Village Gondola II bottom",
+   "Tug of War / U Bet",
+   1.0
+  ],
+  [
+   "walk",
+   "East Village Gondola II bottom",
+   "Spitfire / Matchless",
+   2.8
+  ],
+  [
+   "walk",
+   "East Village Gondola II bottom",
+   "U Bet",
+   2.0
+  ],
+  [
+   "walk",
+   "Mayflower bottom",
+   "Unnamed run / Green Monster 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Mayflower bottom",
+   "Unnamed run / Mayflower Link",
+   0.6
+  ],
+  [
+   "walk",
+   "Mayflower bottom",
+   "Morning Star",
+   0.9
+  ],
+  [
+   "walk",
+   "Mayflower bottom",
+   "Mayflower Link",
+   0.9
+  ],
+  [
+   "walk",
+   "Wasatch Express top",
+   "Seldom Seen / Perseverance Bowl",
+   3.0
+  ],
+  [
+   "walk",
+   "Wasatch Express top",
+   "Thunderer / Stein's Way",
+   2.3
+  ],
+  [
+   "walk",
+   "Wasatch Express top",
+   "North Star / Nabob",
+   1.1
+  ],
+  [
+   "walk",
+   "Wasatch Express top",
+   "Sultan Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Wasatch Express top",
+   "Legal Tender / Homeward Bound",
+   0.6
+  ],
+  [
+   "walk",
+   "Wasatch Express top",
+   "Ruins Of Pompeii / Tycoon",
+   1.9
+  ],
+  [
+   "walk",
+   "Wasatch Express top",
+   "Evergreen / Tycoon",
+   3.0
+  ],
+  [
+   "walk",
+   "Wasatch Express top",
+   "Homeward Bound",
+   2.3
+  ],
+  [
+   "walk",
+   "Wasatch Express top",
+   "Sterling Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Vulcan Express top",
+   "Carbenite / Green Monster, Carbenite",
+   0.8
+  ],
+  [
+   "walk",
+   "Vulcan Express top",
+   "Green Monster, Carbenite / Green Monster",
+   1.4
+  ],
+  [
+   "walk",
+   "Vulcan Express top",
+   "Green Monster",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Lost Fawn / Jordanelle",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 3",
+   "Unnamed lift bottom 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Snowflake bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Carpenter Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Silver Hill / Deer Hollow",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Fairview / Deer Hollow",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Unnamed lift bottom 4",
+   2.3
+  ],
+  [
+   "walk",
+   "Sterling Express top",
+   "Thunderer / Stein's Way",
+   3.2
+  ],
+  [
+   "walk",
+   "Sterling Express top",
+   "North Star / Nabob",
+   0.7
+  ],
+  [
+   "walk",
+   "Sterling Express top",
+   "Sultan Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Sterling Express top",
+   "Legal Tender / Homeward Bound",
+   0.9
+  ],
+  [
+   "walk",
+   "Sterling Express top",
+   "Ruins Of Pompeii / Tycoon",
+   2.3
+  ],
+  [
+   "walk",
+   "Sterling Express top",
+   "Evergreen / Tycoon",
+   3.3
+  ],
+  [
+   "walk",
+   "Sterling Express top",
+   "Homeward Bound",
+   1.5
+  ],
+  [
+   "walk",
+   "Sterling Express top",
+   "Wasatch Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Little Reb / Unnamed run",
+   "Unnamed run / Trainer",
+   1.5
+  ],
+  [
+   "walk",
+   "Little Reb / Unnamed run",
+   "Unnamed run 6",
+   1.6
+  ],
+  [
+   "walk",
+   "Little Reb / Unnamed run",
+   "Birdseye / Homeward Bound",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Homeward Bound",
+   "Little Reb / Unnamed run",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Homeward Bound",
+   "Unnamed run / Trainer",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Homeward Bound",
+   "Unnamed run 6",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Homeward Bound",
+   "Birdseye / Homeward Bound",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Trainer",
+   "Little Reb / Unnamed run",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Trainer",
+   "Unnamed run 6",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Trainer",
+   "Birdseye / Homeward Bound",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Little Reb / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Unnamed run / Trainer",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Birdseye / Homeward Bound",
+   2.3
+  ],
+  [
+   "walk",
+   "Birdseye / Homeward Bound",
+   "Little Reb / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Birdseye / Homeward Bound",
+   "Unnamed run / Trainer",
+   2.3
+  ],
+  [
+   "walk",
+   "Birdseye / Homeward Bound",
+   "Unnamed run 6",
+   2.3
+  ],
+  [
+   "walk",
+   "Legal Tender / Nabob",
+   "McHenry 4",
+   2.0
+  ],
+  [
+   "walk",
+   "McHenry 4",
+   "Legal Tender / Nabob",
+   2.0
+  ],
+  [
+   "walk",
+   "Lucky Bill / Little Stick",
+   "Little Stick / Rosebud",
+   2.1
+  ],
+  [
+   "walk",
+   "Lucky Bill / Little Stick",
+   "Rosebud",
+   3.0
+  ],
+  [
+   "walk",
+   "Lucky Bill / Little Stick",
+   "Little Stick 6",
+   1.6
+  ],
+  [
+   "walk",
+   "Lucky Bill / Little Stick",
+   "Rosebud 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Solid Muldoon",
+   "Lucky Bill / Little Stick",
+   2.5
+  ],
+  [
+   "walk",
+   "Solid Muldoon",
+   "Little Stick / Rosebud",
+   3.0
+  ],
+  [
+   "walk",
+   "Solid Muldoon",
+   "Rosebud",
+   3.9
+  ],
+  [
+   "walk",
+   "Solid Muldoon",
+   "Little Stick 6",
+   2.5
+  ],
+  [
+   "walk",
+   "Solid Muldoon",
+   "Rosebud 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Little Stick 6",
+   "Lucky Bill / Little Stick",
+   1.6
+  ],
+  [
+   "walk",
+   "Little Stick 6",
+   "Little Stick / Rosebud",
+   2.1
+  ],
+  [
+   "walk",
+   "Little Stick 6",
+   "Rosebud",
+   3.0
+  ],
+  [
+   "walk",
+   "Little Stick 6",
+   "Rosebud 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Little Stick 7",
+   "Lucky Bill / Little Stick",
+   2.2
+  ],
+  [
+   "walk",
+   "Little Stick 7",
+   "Little Stick / Rosebud",
+   2.7
+  ],
+  [
+   "walk",
+   "Little Stick 7",
+   "Rosebud",
+   3.6
+  ],
+  [
+   "walk",
+   "Little Stick 7",
+   "Little Stick 6",
+   2.0
+  ],
+  [
+   "walk",
+   "Little Stick 7",
+   "Rosebud 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Rosebud 2",
+   "Lucky Bill / Little Stick",
+   2.4
+  ],
+  [
+   "walk",
+   "Rosebud 2",
+   "Little Stick / Rosebud",
+   3.0
+  ],
+  [
+   "walk",
+   "Rosebud 2",
+   "Rosebud",
+   3.9
+  ],
+  [
+   "walk",
+   "Rosebud 2",
+   "Little Stick 6",
+   2.4
+  ],
+  [
+   "walk",
+   "Bandana 2",
+   "Ontario",
+   3.4
+  ],
+  [
+   "walk",
+   "Bandana 2",
+   "Silver Strike Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Peeler",
+   "Hidden Treasure",
+   4.3
+  ],
+  [
+   "walk",
+   "Peeler",
+   "Blue Bell 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Peeler",
+   "Peeler 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Blue Bell 3",
+   "Hidden Treasure",
+   6.1
+  ],
+  [
+   "walk",
+   "Blue Bell 3",
+   "Peeler",
+   3.7
+  ],
+  [
+   "walk",
+   "Blue Bell 3",
+   "Peeler 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Peeler 2",
+   "Hidden Treasure",
+   4.5
+  ],
+  [
+   "walk",
+   "Peeler 2",
+   "Peeler",
+   2.1
+  ],
+  [
+   "walk",
+   "Peeler 2",
+   "Blue Bell 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Quincy Express bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Star Gazer / Banner",
+   5.6
+  ],
+  [
+   "walk",
+   "Hidden Treasure 2",
+   "Star Gazer / Banner",
+   5.0
+  ],
+  [
+   "walk",
+   "Custer",
+   "Unnamed run 8",
+   4.1
+  ],
+  [
+   "walk",
+   "Lucky Star 2",
+   "Custer",
+   4.7
+  ],
+  [
+   "walk",
+   "Lucky Star 2",
+   "Unnamed run 8",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run 8",
+   "Custer",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Overlooked / Road to Sultan",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Lady of the Lake / Mayflower Link",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Mayflower Link / Road to Sultan",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Overlooked",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Sultan Express bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Sultan Connection",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Stein's Way / Tycoon",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Unnamed run / Star",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Stein's Way",
+   3.5
+  ],
+  [
+   "walk",
+   "Stein's Way",
+   "Overlooked / Road to Sultan",
+   3.9
+  ],
+  [
+   "walk",
+   "Stein's Way",
+   "Lady of the Lake / Mayflower Link",
+   5.7
+  ],
+  [
+   "walk",
+   "Stein's Way",
+   "Mayflower Link / Road to Sultan",
+   3.7
+  ],
+  [
+   "walk",
+   "Stein's Way",
+   "Overlooked",
+   4.9
+  ],
+  [
+   "walk",
+   "Stein's Way",
+   "Sultan Express bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Stein's Way",
+   "Sultan Connection",
+   5.8
+  ],
+  [
+   "walk",
+   "Stein's Way",
+   "Stein's Way / Tycoon",
+   5.4
+  ],
+  [
+   "walk",
+   "Stein's Way",
+   "Unnamed run 7",
+   3.5
+  ],
+  [
+   "walk",
+   "Stein's Way",
+   "Unnamed run / Star",
+   5.8
+  ],
+  [
+   "walk",
+   "Ore Cart / Pearl",
+   "X-Files / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Ore Cart / Pearl",
+   "Bandana",
+   2.1
+  ],
+  [
+   "walk",
+   "X-Files / Unnamed run",
+   "Ore Cart / Pearl",
+   1.6
+  ],
+  [
+   "walk",
+   "X-Files / Unnamed run",
+   "Bandana",
+   1.7
+  ],
+  [
+   "walk",
+   "Bandana",
+   "Ore Cart / Pearl",
+   2.1
+  ],
+  [
+   "walk",
+   "Bandana",
+   "X-Files / Unnamed run",
+   1.7
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Red Cloud bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Judge top",
+   "Star Gazer / Banner",
+   6.3
+  ],
+  [
+   "walk",
+   "Little Stick 4",
+   "Fairview / Deer Hollow",
+   3.4
+  ],
+  [
+   "walk",
+   "Navigator / Deer Hollow",
+   "Fairview / Deer Hollow",
+   4.9
+  ],
+  [
+   "walk",
+   "Navigator / Deer Hollow",
+   "Little Stick 4",
+   3.6
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Homestake Express bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Little Reb / Unnamed run",
+   5.2
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Judge bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Unnamed run / Homeward Bound",
+   3.7
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Quincy Express bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Sterling Express bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Viking bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Unnamed run / Trainer",
+   5.6
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Viking top",
+   5.3
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Unnamed run 6",
+   5.9
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Birdseye / Homeward Bound",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Homeward Bound",
+   "Judge bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Homeward Bound",
+   "Quincy Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Homeward Bound",
+   "Viking bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Homeward Bound",
+   "Red Cloud bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Viking top",
+   "Judge top",
+   3.6
+  ],
+  [
+   "walk",
+   "Dynamic / Deer Hollow",
+   "Mountaineer / Deer Hollow",
+   4.9
+  ],
+  [
+   "walk",
+   "Little Stick / Silver Link",
+   "Little Bdll / Success",
+   4.3
+  ],
+  [
+   "walk",
+   "Little Stick / Silver Link",
+   "Little Stick 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Little Stick / Silver Link",
+   "Little Stick 5",
+   3.4
+  ],
+  [
+   "walk",
+   "Little Stick 2",
+   "Little Stick / Silver Link",
+   2.2
+  ],
+  [
+   "walk",
+   "Little Stick 2",
+   "Little Bdll / Success",
+   3.1
+  ],
+  [
+   "walk",
+   "Little Stick 2",
+   "Little Stick 5",
+   2.4
+  ],
+  [
+   "walk",
+   "Little Stick 5",
+   "Little Stick / Silver Link",
+   3.4
+  ],
+  [
+   "walk",
+   "Little Stick 5",
+   "Little Bdll / Success",
+   4.5
+  ],
+  [
+   "walk",
+   "Little Stick 5",
+   "Little Stick 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Snowflake bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Burns Express bottom",
+   "Snowflake bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Lucky Bill / Little Stick",
+   "Snowflake bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Solid Muldoon",
+   "Snowflake bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Little Stick 6",
+   "Snowflake bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Little Stick 7",
+   "Snowflake bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Rosebud 2",
+   "Snowflake bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Daylight / Green Monster",
+   "Aurora bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Daylight / Green Monster",
+   "Lady of the Lake / Unnamed run",
+   4.5
+  ],
+  [
+   "walk",
+   "Daylight / Green Monster",
+   "Daylight",
+   2.4
+  ],
+  [
+   "walk",
+   "Daylight / Green Monster",
+   "Lucky Find",
+   2.6
+  ],
+  [
+   "walk",
+   "Daylight",
+   "Aurora bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Daylight",
+   "Lady of the Lake / Unnamed run",
+   3.8
+  ],
+  [
+   "walk",
+   "Daylight",
+   "Daylight / Green Monster",
+   2.4
+  ],
+  [
+   "walk",
+   "Daylight",
+   "Lucky Find",
+   3.2
+  ],
+  [
+   "walk",
+   "Hoodoo Express top",
+   "Aurora bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Hoodoo Express top",
+   "Lady of the Lake / Unnamed run",
+   5.6
+  ],
+  [
+   "walk",
+   "Lucky Find",
+   "Aurora bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Lucky Find",
+   "Lady of the Lake / Unnamed run",
+   5.9
+  ],
+  [
+   "walk",
+   "Lucky Find",
+   "Daylight / Green Monster",
+   2.6
+  ],
+  [
+   "walk",
+   "Lucky Find",
+   "Daylight",
+   3.2
+  ],
+  [
+   "walk",
+   "Little Stick / Rosebud",
+   "Carpenter Express bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Little Stick / Rosebud",
+   "Unnamed lift bottom 4",
+   6.7
+  ],
+  [
+   "walk",
+   "Rosebud",
+   "Carpenter Express bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Rosebud",
+   "Unnamed lift bottom 4",
+   5.8
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Carpenter Express bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Burns Express bottom",
+   "Carpenter Express bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Lucky Bill / Little Stick",
+   "Carpenter Express bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Little Stick 6",
+   "Carpenter Express bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Little Reb / Race Course",
+   "Red Cloud bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Nugget / Pearl",
+   "Ruby Express bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Nugget / Pearl",
+   "Ore Cart / Pearl",
+   3.2
+  ],
+  [
+   "walk",
+   "Nugget / Pearl",
+   "X-Files / Unnamed run",
+   2.8
+  ],
+  [
+   "walk",
+   "Nugget / Pearl",
+   "Bandana",
+   3.3
+  ],
+  [
+   "walk",
+   "Silver Hill / Connector",
+   "Ridge Cross",
+   5.0
+  ],
+  [
+   "walk",
+   "Silver Hill / Connector",
+   "Summit / Connector",
+   4.2
+  ],
+  [
+   "walk",
+   "Silver Hill / Connector",
+   "Crest Ridge",
+   3.6
+  ],
+  [
+   "walk",
+   "Silver Hill / Connector",
+   "Silver Hill",
+   3.4
+  ],
+  [
+   "walk",
+   "Silver Hill / Connector",
+   "Gnat's Eye / Deer Hollow",
+   4.3
+  ],
+  [
+   "walk",
+   "Silver Hill / Connector",
+   "Crest Ridge 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Silver Hill / Connector",
+   "Mountaineer 4",
+   4.2
+  ],
+  [
+   "walk",
+   "Crest Ridge 2",
+   "Ridge Cross",
+   4.7
+  ],
+  [
+   "walk",
+   "Crest Ridge 2",
+   "Silver Hill / Connector",
+   2.9
+  ],
+  [
+   "walk",
+   "Crest Ridge 2",
+   "Summit / Connector",
+   3.9
+  ],
+  [
+   "walk",
+   "Crest Ridge 2",
+   "Crest Ridge",
+   3.4
+  ],
+  [
+   "walk",
+   "Crest Ridge 2",
+   "Silver Hill",
+   3.2
+  ],
+  [
+   "walk",
+   "Crest Ridge 2",
+   "Gnat's Eye / Deer Hollow",
+   4.0
+  ],
+  [
+   "walk",
+   "Crest Ridge 2",
+   "Mountaineer 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Burns Express top",
+   "Unnamed lift bottom 4",
+   5.1
+  ],
+  [
+   "walk",
+   "Burns Express top",
+   "Unnamed lift top 4",
+   3.9
+  ],
+  [
+   "walk",
+   "Little Stick 4",
+   "Unnamed lift bottom 4",
+   6.1
+  ],
+  [
+   "walk",
+   "Little Stick 4",
+   "Unnamed lift top 4",
+   4.9
+  ],
+  [
+   "walk",
+   "Navigator / Deer Hollow",
+   "Unnamed lift top 4",
+   6.4
+  ],
+  [
+   "walk",
+   "Thunderer / Edgar's Alley",
+   "Narrow Gauge",
+   6.2
+  ],
+  [
+   "walk",
+   "Thunderer / Edgar's Alley",
+   "Free Thinker / Orient Express",
+   5.7
+  ],
+  [
+   "walk",
+   "Thunderer / Edgar's Alley",
+   "Morning Star 4",
+   4.8
+  ],
+  [
+   "walk",
+   "Morning Star / Edgar's Alley",
+   "Thunderer / Edgar's Alley",
+   3.7
+  ],
+  [
+   "walk",
+   "Morning Star / Edgar's Alley",
+   "Narrow Gauge",
+   4.3
+  ],
+  [
+   "walk",
+   "Morning Star / Edgar's Alley",
+   "Free Thinker / Orient Express",
+   3.9
+  ],
+  [
+   "walk",
+   "Morning Star / Edgar's Alley",
+   "Morning Star 4",
+   2.9
+  ],
+  [
+   "walk",
+   "Edgar's Alley 2",
+   "Thunderer / Edgar's Alley",
+   4.3
+  ],
+  [
+   "walk",
+   "Edgar's Alley 2",
+   "Narrow Gauge",
+   4.9
+  ],
+  [
+   "walk",
+   "Edgar's Alley 2",
+   "Free Thinker / Orient Express",
+   4.4
+  ],
+  [
+   "walk",
+   "Edgar's Alley 2",
+   "Morning Star 4",
+   3.5
+  ],
+  [
+   "walk",
+   "Mayflower Bowl",
+   "Thunderer / Edgar's Alley",
+   5.9
+  ],
+  [
+   "walk",
+   "Mayflower Bowl",
+   "Narrow Gauge",
+   6.5
+  ],
+  [
+   "walk",
+   "Mayflower Bowl",
+   "Free Thinker / Orient Express",
+   6.1
+  ],
+  [
+   "walk",
+   "Mayflower Bowl",
+   "Morning Star 4",
+   5.1
+  ],
+  [
+   "walk",
+   "Carpenter Express top",
+   "Sunrise / Silver Link",
+   4.0
+  ],
+  [
+   "walk",
+   "Little Stick / Silver Link",
+   "Sunrise / Silver Link",
+   5.0
+  ],
+  [
+   "walk",
+   "Little Stick 2",
+   "Sunrise / Silver Link",
+   4.1
+  ],
+  [
+   "walk",
+   "Little Stick 5",
+   "Sunrise / Silver Link",
+   5.2
+  ],
+  [
+   "walk",
+   "Joker / Pay Rock",
+   "Persistence / Crown Prince",
+   2.9
+  ],
+  [
+   "walk",
+   "McHenry 2",
+   "McHenry / Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Waterloo",
+   "McHenry / Unnamed run",
+   4.5
+  ],
+  [
+   "walk",
+   "Overlooked / Road to Sultan",
+   "Sultan Connection",
+   2.3
+  ],
+  [
+   "walk",
+   "Overlooked / Road to Sultan",
+   "Stein's Way / Tycoon",
+   3.0
+  ],
+  [
+   "walk",
+   "Mayflower Link / Road to Sultan",
+   "Sultan Connection",
+   4.0
+  ],
+  [
+   "walk",
+   "Mayflower Link / Road to Sultan",
+   "Stein's Way / Tycoon",
+   4.7
+  ],
+  [
+   "walk",
+   "Overlooked",
+   "Sultan Connection",
+   2.5
+  ],
+  [
+   "walk",
+   "Overlooked",
+   "Stein's Way / Tycoon",
+   3.2
+  ],
+  [
+   "walk",
+   "Sultan Connection",
+   "Stein's Way / Tycoon",
+   2.1
+  ],
+  [
+   "walk",
+   "Stein's Way / Tycoon",
+   "Sultan Connection",
+   2.1
+  ],
+  [
+   "walk",
+   "Seldom Seen / Perseverance Bowl",
+   "Thunderer / Stein's Way",
+   4.2
+  ],
+  [
+   "walk",
+   "Seldom Seen / Perseverance Bowl",
+   "North Star / Nabob",
+   4.1
+  ],
+  [
+   "walk",
+   "Seldom Seen / Perseverance Bowl",
+   "Legal Tender / Homeward Bound",
+   3.5
+  ],
+  [
+   "walk",
+   "Seldom Seen / Perseverance Bowl",
+   "Peerless / Ruins Of Pompeii",
+   5.9
+  ],
+  [
+   "walk",
+   "Seldom Seen / Perseverance Bowl",
+   "Ruins Of Pompeii / Tycoon",
+   4.0
+  ],
+  [
+   "walk",
+   "Seldom Seen / Perseverance Bowl",
+   "Evergreen / Tycoon",
+   5.2
+  ],
+  [
+   "walk",
+   "Seldom Seen / Perseverance Bowl",
+   "Homeward Bound",
+   5.5
+  ],
+  [
+   "walk",
+   "Seldom Seen / Perseverance Bowl",
+   "Wasatch Express top",
+   3.2
+  ],
+  [
+   "walk",
+   "Seldom Seen / Perseverance Bowl",
+   "Sterling Express top",
+   4.1
+  ],
+  [
+   "walk",
+   "Thunderer / Stein's Way",
+   "Seldom Seen / Perseverance Bowl",
+   4.2
+  ],
+  [
+   "walk",
+   "Thunderer / Stein's Way",
+   "North Star / Nabob",
+   3.4
+  ],
+  [
+   "walk",
+   "Thunderer / Stein's Way",
+   "Legal Tender / Homeward Bound",
+   2.8
+  ],
+  [
+   "walk",
+   "Thunderer / Stein's Way",
+   "Peerless / Ruins Of Pompeii",
+   5.2
+  ],
+  [
+   "walk",
+   "Thunderer / Stein's Way",
+   "Ruins Of Pompeii / Tycoon",
+   3.3
+  ],
+  [
+   "walk",
+   "Thunderer / Stein's Way",
+   "Evergreen / Tycoon",
+   4.5
+  ],
+  [
+   "walk",
+   "Thunderer / Stein's Way",
+   "Homeward Bound",
+   4.6
+  ],
+  [
+   "walk",
+   "North Star / Nabob",
+   "Seldom Seen / Perseverance Bowl",
+   4.1
+  ],
+  [
+   "walk",
+   "North Star / Nabob",
+   "Thunderer / Stein's Way",
+   3.4
+  ],
+  [
+   "walk",
+   "North Star / Nabob",
+   "Legal Tender / Homeward Bound",
+   1.6
+  ],
+  [
+   "walk",
+   "North Star / Nabob",
+   "Peerless / Ruins Of Pompeii",
+   5.1
+  ],
+  [
+   "walk",
+   "North Star / Nabob",
+   "Ruins Of Pompeii / Tycoon",
+   3.0
+  ],
+  [
+   "walk",
+   "North Star / Nabob",
+   "Evergreen / Tycoon",
+   4.0
+  ],
+  [
+   "walk",
+   "North Star / Nabob",
+   "Homeward Bound",
+   2.2
+  ],
+  [
+   "walk",
+   "Legal Tender / Homeward Bound",
+   "Seldom Seen / Perseverance Bowl",
+   3.5
+  ],
+  [
+   "walk",
+   "Legal Tender / Homeward Bound",
+   "Thunderer / Stein's Way",
+   2.8
+  ],
+  [
+   "walk",
+   "Legal Tender / Homeward Bound",
+   "North Star / Nabob",
+   1.6
+  ],
+  [
+   "walk",
+   "Legal Tender / Homeward Bound",
+   "Peerless / Ruins Of Pompeii",
+   4.4
+  ],
+  [
+   "walk",
+   "Legal Tender / Homeward Bound",
+   "Ruins Of Pompeii / Tycoon",
+   2.5
+  ],
+  [
+   "walk",
+   "Legal Tender / Homeward Bound",
+   "Evergreen / Tycoon",
+   3.7
+  ],
+  [
+   "walk",
+   "Legal Tender / Homeward Bound",
+   "Homeward Bound",
+   2.4
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Seldom Seen / Perseverance Bowl",
+   5.4
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Thunderer / Stein's Way",
+   4.7
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "North Star / Nabob",
+   2.2
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Legal Tender / Homeward Bound",
+   2.4
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Peerless / Ruins Of Pompeii",
+   6.5
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Ruins Of Pompeii / Tycoon",
+   3.9
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Evergreen / Tycoon",
+   4.8
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Wasatch Express top",
+   2.4
+  ],
+  [
+   "walk",
+   "Wasatch Express top",
+   "Peerless / Ruins Of Pompeii",
+   4.2
+  ],
+  [
+   "walk",
+   "Sterling Express top",
+   "Seldom Seen / Perseverance Bowl",
+   3.9
+  ],
+  [
+   "walk",
+   "Sterling Express top",
+   "Peerless / Ruins Of Pompeii",
+   5.1
+  ],
+  [
+   "walk",
+   "Northside Express top",
+   "Lucky Star / Boulder Bumps",
+   3.9
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Lucky Star / Boulder Bumps",
+   4.5
+  ],
+  [
+   "walk",
+   "Silver Strike Express top",
+   "Lucky Star / Boulder Bumps",
+   4.4
+  ],
+  [
+   "walk",
+   "Bandana 2",
+   "Lucky Star / Boulder Bumps",
+   4.9
+  ],
+  [
+   "walk",
+   "Torpedo / Evening Star",
+   "Daylight / Green Monster",
+   3.4
+  ],
+  [
+   "walk",
+   "Torpedo / Evening Star",
+   "Aurora top",
+   4.0
+  ],
+  [
+   "walk",
+   "Torpedo / Evening Star",
+   "Daylight",
+   3.9
+  ],
+  [
+   "walk",
+   "Torpedo / Evening Star",
+   "Lucky Find",
+   1.9
+  ],
+  [
+   "walk",
+   "Pioche Access",
+   "Jordanelle Express Gondola bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Pioche Express top",
+   "Divide / Viola",
+   3.7
+  ],
+  [
+   "walk",
+   "Pioche Express top",
+   "Niagra",
+   4.1
+  ],
+  [
+   "walk",
+   "Minnow 3",
+   "Divide / Viola",
+   4.9
+  ],
+  [
+   "walk",
+   "Minnow 3",
+   "Niagra",
+   5.2
+  ],
+  [
+   "walk",
+   "Homestake Express bottom",
+   "Red Cloud bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Homestake Express bottom",
+   "Judge bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Homestake Express bottom",
+   "Unnamed run / Homeward Bound",
+   5.5
+  ],
+  [
+   "walk",
+   "Homestake Express bottom",
+   "Viking bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Homestake Express bottom",
+   "Quincy Express bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Homestake Express bottom",
+   "Judge top",
+   6.2
+  ],
+  [
+   "walk",
+   "Little Reb / Unnamed run",
+   "Red Cloud bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Little Reb / Unnamed run",
+   "Judge bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Little Reb / Unnamed run",
+   "Unnamed run / Homeward Bound",
+   5.0
+  ],
+  [
+   "walk",
+   "Little Reb / Unnamed run",
+   "Viking bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Little Reb / Unnamed run",
+   "Quincy Express bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Little Reb / Unnamed run",
+   "Judge top",
+   5.7
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Red Cloud bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Judge bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Unnamed run / Homeward Bound",
+   4.1
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Viking bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Quincy Express bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Star Gazer / Banner",
+   6.9
+  ],
+  [
+   "walk",
+   "Sterling Express bottom",
+   "Judge top",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Trainer",
+   "Red Cloud bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Trainer",
+   "Judge bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Trainer",
+   "Unnamed run / Homeward Bound",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Trainer",
+   "Viking bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Trainer",
+   "Quincy Express bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Trainer",
+   "Judge top",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Red Cloud bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Judge bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Unnamed run / Homeward Bound",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Viking bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Quincy Express bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Star Gazer / Banner",
+   6.9
+  ],
+  [
+   "walk",
+   "Unnamed run 6",
+   "Judge top",
+   4.8
+  ],
+  [
+   "walk",
+   "Birdseye / Homeward Bound",
+   "Red Cloud bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Birdseye / Homeward Bound",
+   "Judge bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Birdseye / Homeward Bound",
+   "Unnamed run / Homeward Bound",
+   5.3
+  ],
+  [
+   "walk",
+   "Birdseye / Homeward Bound",
+   "Viking bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Birdseye / Homeward Bound",
+   "Quincy Express bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Birdseye / Homeward Bound",
+   "Judge top",
+   6.0
+  ],
+  [
+   "walk",
+   "Lady Morgan Bowl / Margus",
+   "Dakota / Pearl",
+   4.4
+  ],
+  [
+   "walk",
+   "Lady Morgan Bowl / Margus",
+   "Hillside / Argus",
+   3.6
+  ],
+  [
+   "walk",
+   "Lady Morgan Bowl / Margus",
+   "Magnet / Pearl",
+   3.5
+  ],
+  [
+   "walk",
+   "Keetley Express top",
+   "Mayflower bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Clipper",
+   "Clipper 5",
+   4.1
+  ],
+  [
+   "walk",
+   "Clipper / Golden Age",
+   "Ontario 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Clipper / Golden Age",
+   "Ontario 4",
+   3.3
+  ],
+  [
+   "walk",
+   "Clipper / Golden Age",
+   "Ontario 5",
+   4.0
+  ],
+  [
+   "walk",
+   "Clipper 3",
+   "Clipper / Golden Age",
+   2.2
+  ],
+  [
+   "walk",
+   "Clipper 3",
+   "Ontario 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Clipper 3",
+   "Ontario 4",
+   3.5
+  ],
+  [
+   "walk",
+   "Clipper 3",
+   "Ontario 5",
+   4.3
+  ],
+  [
+   "walk",
+   "Trump",
+   "Clipper / Golden Age",
+   3.6
+  ],
+  [
+   "walk",
+   "Trump",
+   "Ontario 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Trump",
+   "Ontario 4",
+   5.0
+  ],
+  [
+   "walk",
+   "Trump",
+   "Ontario 5",
+   5.7
+  ],
+  [
+   "walk",
+   "Ontario 3",
+   "Clipper / Golden Age",
+   3.0
+  ],
+  [
+   "walk",
+   "Ontario 3",
+   "Ontario 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Ontario 3",
+   "Ontario 5",
+   5.0
+  ],
+  [
+   "walk",
+   "Deep Enuf / Non-Descript",
+   "Nemesis / Catch All",
+   5.4
+  ],
+  [
+   "walk",
+   "Deep Enuf / Non-Descript",
+   "Catch All / Non-Descript",
+   3.5
+  ],
+  [
+   "walk",
+   "Catch All / Non-Descript",
+   "Nemesis / Catch All",
+   3.4
+  ],
+  [
+   "walk",
+   "Tug of War / U Bet",
+   "Spitfire / Matchless",
+   3.8
+  ],
+  [
+   "walk",
+   "Tug of War / U Bet",
+   "U Bet",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Green Monster 2",
+   "Unnamed run / Mayflower Link",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Green Monster 2",
+   "Morning Star",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Green Monster 2",
+   "Mayflower Link",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Mayflower Link",
+   "Unnamed run / Green Monster 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Mayflower Link",
+   "Morning Star",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Mayflower Link",
+   "Mayflower Link",
+   1.4
+  ],
+  [
+   "walk",
+   "Morning Star",
+   "Unnamed run / Green Monster 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Morning Star",
+   "Unnamed run / Mayflower Link",
+   1.5
+  ],
+  [
+   "walk",
+   "Morning Star",
+   "Mayflower Link",
+   1.8
+  ],
+  [
+   "walk",
+   "Narrow Gauge 2",
+   "Unnamed run / Green Monster 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Narrow Gauge 2",
+   "Unnamed run / Mayflower Link",
+   3.1
+  ],
+  [
+   "walk",
+   "Narrow Gauge 2",
+   "Morning Star",
+   3.4
+  ],
+  [
+   "walk",
+   "Narrow Gauge 2",
+   "Mayflower Link",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Star",
+   "Unnamed run / Green Monster 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Star",
+   "Unnamed run / Mayflower Link",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Star",
+   "Morning Star",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Star",
+   "Mayflower Link",
+   3.9
+  ],
+  [
+   "walk",
+   "Mayflower Link",
+   "Unnamed run / Green Monster 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Mayflower Link",
+   "Unnamed run / Mayflower Link",
+   1.4
+  ],
+  [
+   "walk",
+   "Mayflower Link",
+   "Morning Star",
+   1.8
+  ],
+  [
+   "walk",
+   "Star",
+   "Unnamed run / Green Monster 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Star",
+   "Unnamed run / Mayflower Link",
+   2.8
+  ],
+  [
+   "walk",
+   "Star",
+   "Morning Star",
+   3.1
+  ],
+  [
+   "walk",
+   "Star",
+   "Mayflower Link",
+   3.1
+  ],
+  [
+   "walk",
+   "Keetley Express top",
+   "Unnamed run / Mayflower Link",
+   6.9
+  ],
+  [
+   "walk",
+   "Carbenite / Green Monster, Carbenite",
+   "Green Monster, Carbenite / Green Monster",
+   2.2
+  ],
+  [
+   "walk",
+   "Carbenite / Green Monster, Carbenite",
+   "Green Monster",
+   3.2
+  ],
+  [
+   "walk",
+   "Deer Hollow / Jordanelle",
+   "Lost Fawn / Jordanelle",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top 3",
+   "Lost Fawn / Jordanelle",
+   4.2
+  ],
+  [
+   "walk",
+   "Fairview / Deer Hollow",
+   "Snowflake bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Fairview / Deer Hollow",
+   "Carpenter Express bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Snowflake bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Carpenter Express bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Fairview / Deer Hollow",
+   "Silver Hill / Deer Hollow",
+   3.5
+  ],
+  [
+   "walk",
+   "Burns Express top",
+   "Silver Hill / Deer Hollow",
+   5.9
+  ],
+  [
+   "walk",
+   "Little Stick 4",
+   "Silver Hill / Deer Hollow",
+   6.9
+  ]
+ ],
+ "base": "Mountaineer Express bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Utah",
+  "total_lifts": "32",
+  "downhill_trails": "377",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": "https://www.deervalley.com/"
+ }
+}

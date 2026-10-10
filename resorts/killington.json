@@ -1,0 +1,8943 @@
+{
+ "name": "Killington Resort",
+ "source": "OpenSkiMap ski area ac774efde21231d04a2cd3a7b6cfd380dfcb4bef",
+ "origin_lonlat": [
+  -72.79865802870223,
+  43.61045533501948
+ ],
+ "nodes": {
+  "Unnamed run / Pipe Dream": [
+   -513,
+   -652,
+   1083.3
+  ],
+  "Unnamed run / Bear Trax": [
+   -406,
+   -610,
+   1066.9
+  ],
+  "Vagabond / Frolic": [
+   -1691,
+   1315,
+   987.5
+  ],
+  "Vagabond / Great Northern": [
+   -1318,
+   1165,
+   870.4
+  ],
+  "Chute, Bunny Buster - Upper / Great Northern": [
+   -1141,
+   799,
+   949.3
+  ],
+  "Chute, Bunny Buster - Upper / Chute": [
+   -1087,
+   809,
+   941.8
+  ],
+  "North Ridge Quad top": [
+   -1729,
+   -476,
+   1211.6
+  ],
+  "Ridge Run / Great Northern": [
+   -1726,
+   -79,
+   1115.6
+  ],
+  "Royal Flush - Upper / Full House": [
+   -1550,
+   575,
+   1062.2
+  ],
+  "Royal Flush - Upper / Great Northern": [
+   -1372,
+   485,
+   1016.2
+  ],
+  "Catwalk - Lower / Low Traverse": [
+   -1561,
+   -465,
+   1200.1
+  ],
+  "Catwalk - Lower / Double Dipper - Lower": [
+   -1525,
+   -307,
+   1155.2
+  ],
+  "Valley Plunge / Great Eastern": [
+   3050,
+   452,
+   475.6
+  ],
+  "Valley Plunge / Field Goal": [
+   3274,
+   439,
+   388.1
+  ],
+  "Nivis Walk": [
+   -573,
+   -251,
+   1102.0
+  ],
+  "The Stash / Stash Way": [
+   -96,
+   -413,
+   1075.4
+  ],
+  "The Stash": [
+   238,
+   -600,
+   959.5
+  ],
+  "Scarecrow / Frolic": [
+   -1641,
+   1489,
+   969.1
+  ],
+  "Scarecrow / Caper": [
+   -1379,
+   1348,
+   899.0
+  ],
+  "Superstar Express Six top": [
+   -327,
+   -278,
+   1130.5
+  ],
+  "Superstar / Flume": [
+   -363,
+   677,
+   767.8
+  ],
+  "Unnamed run / Great Eastern": [
+   106,
+   -28,
+   1012.6
+  ],
+  "Unnamed run / Great Eastern 2": [
+   155,
+   -29,
+   999.2
+  ],
+  "Bear Cub / Bear Trax": [
+   70,
+   -694,
+   999.3
+  ],
+  "Bear Mountain Quad bottom": [
+   1186,
+   -918,
+   635.2
+  ],
+  "Unnamed run / Bittersweet": [
+   60,
+   2,
+   1017.8
+  ],
+  "Unnamed run": [
+   65,
+   49,
+   1006.5
+  ],
+  "Flume / Cascade": [
+   -1122,
+   -73,
+   1013.3
+  ],
+  "Roundabout / Bear Trax": [
+   -46,
+   -643,
+   1010.1
+  ],
+  "Roundabout / Pipe Dream": [
+   -189,
+   -1008,
+   925.7
+  ],
+  "The Jug - Upper / Solitude": [
+   -1182,
+   -598,
+   1165.5
+  ],
+  "The Jug - Upper / Escape": [
+   -830,
+   -781,
+   1102.1
+  ],
+  "Dream Maker / The North Way": [
+   489,
+   -299,
+   912.1
+  ],
+  "Lil' Stash / Header": [
+   -427,
+   1692,
+   722.5
+  ],
+  "Lil' Stash / Easy Street": [
+   -262,
+   1777,
+   697.5
+  ],
+  "Bittersweet": [
+   15,
+   215,
+   953.8
+  ],
+  "Bittersweet / Skyebits": [
+   53,
+   374,
+   895.6
+  ],
+  "Great Eastern": [
+   2989,
+   341,
+   492.3
+  ],
+  "Great Eastern 2": [
+   3120,
+   341,
+   455.6
+  ],
+  "Cascade / Great Northern": [
+   -1465,
+   -480,
+   1190.9
+  ],
+  "Cascade / Double Dipper - Lower": [
+   -1186,
+   210,
+   885.6
+  ],
+  "Low Road / Bittersweet": [
+   78,
+   441,
+   877.2
+  ],
+  "Low Road / Highlander": [
+   1,
+   735,
+   790.4
+  ],
+  "Bear Trax / Blue Heaven": [
+   -1502,
+   -703,
+   1210.6
+  ],
+  "Bear Trax": [
+   -1424,
+   -668,
+   1203.7
+  ],
+  "Twister / Easy Street": [
+   -1664,
+   1718,
+   987.9
+  ],
+  "Twister / Easy Street 2": [
+   -1259,
+   1794,
+   870.0
+  ],
+  "Skye Peak Express Quad top": [
+   -91,
+   -292,
+   1096.8
+  ],
+  "Unnamed run / Dream Maker Headwall": [
+   -60,
+   -255,
+   1089.0
+  ],
+  "Bear Cub": [
+   -126,
+   -1115,
+   894.3
+  ],
+  "Dream Maker Headwall": [
+   -21,
+   -231,
+   1077.1
+  ],
+  "Dream Maker Headwall / The North Way": [
+   223,
+   -310,
+   974.2
+  ],
+  "Ovation / Nivis Walk": [
+   -456,
+   -232,
+   1116.1
+  ],
+  "Superstar": [
+   -267,
+   296,
+   927.9
+  ],
+  "Escape / Bear Trax": [
+   -329,
+   -626,
+   1050.6
+  ],
+  "Nivis Walk / Gateway": [
+   -373,
+   -281,
+   1130.5
+  ],
+  "Nivis Walk / Launch Pad": [
+   -635,
+   -274,
+   1106.9
+  ],
+  "Bear Cub 2": [
+   751,
+   -1783,
+   768.8
+  ],
+  "Sunrise Trail / Sundog": [
+   1400,
+   -1572,
+   689.6
+  ],
+  "Mouse Run - Lower / Chute": [
+   -821,
+   968,
+   840.5
+  ],
+  "Mouse Run - Lower / Great Northern - Lower": [
+   -636,
+   931,
+   786.7
+  ],
+  "Escapade / Helter Skelter": [
+   -1321,
+   -569,
+   1197.2
+  ],
+  "Pipe Dream": [
+   -243,
+   -1027,
+   939.2
+  ],
+  "Skyeship Express Gondola Stage 1 bottom": [
+   3348,
+   470,
+   355.9
+  ],
+  "Sundog": [
+   1347,
+   -1519,
+   697.2
+  ],
+  "Skyeburst - Lower / Skyeburst - Middle": [
+   709,
+   -457,
+   806.0
+  ],
+  "Dream Maker": [
+   1165,
+   -790,
+   652.7
+  ],
+  "Breakaway / Pipe Dream": [
+   -827,
+   -642,
+   1120.8
+  ],
+  "The Jug - Lower": [
+   -430,
+   -968,
+   969.0
+  ],
+  "Skyeburst - Lower": [
+   891,
+   -442,
+   776.5
+  ],
+  "Dream Maker 2": [
+   1049,
+   -476,
+   762.8
+  ],
+  "Great Eastern 3": [
+   1121,
+   -42,
+   800.8
+  ],
+  "Unnamed run / Home Stretch - Upper": [
+   1113,
+   92,
+   781.9
+  ],
+  "Snowshed Crossover / Outer Limits": [
+   329,
+   -929,
+   990.9
+  ],
+  "Snowshed Crossover / Bear Claw": [
+   248,
+   -803,
+   979.8
+  ],
+  "Magic Snow Play Park / Treezy Zone": [
+   -238,
+   1849,
+   694.0
+  ],
+  "Ramshead Express Quad bottom": [
+   -61,
+   1703,
+   673.4
+  ],
+  "Dream Maker 3": [
+   730,
+   -193,
+   857.7
+  ],
+  "Great Eastern 4": [
+   2475,
+   92,
+   566.4
+  ],
+  "East Fall - Lower / East Fall - Upper": [
+   -1551,
+   134,
+   1039.2
+  ],
+  "Canyon Quad top": [
+   -1634,
+   -435,
+   1206.5
+  ],
+  "Low Traverse / Great Northern": [
+   -1455,
+   -415,
+   1176.6
+  ],
+  "Unnamed run 3": [
+   -452,
+   738,
+   768.3
+  ],
+  "Conclusion - Lower / Conclusion": [
+   -911,
+   744,
+   920.0
+  ],
+  "Conclusion - Lower / Unnamed run": [
+   -531,
+   824,
+   777.2
+  ],
+  "The Jug - Lower 2": [
+   -639,
+   -872,
+   1042.7
+  ],
+  "The Jug - Lower 3": [
+   -474,
+   -954,
+   978.9
+  ],
+  "Squeeze Play / Easy Street": [
+   -1502,
+   1542,
+   940.5
+  ],
+  "Squeeze Play / Timberline": [
+   -326,
+   1605,
+   709.5
+  ],
+  "Escape": [
+   -623,
+   -678,
+   1094.0
+  ],
+  "Escape 2": [
+   -581,
+   -709,
+   1087.7
+  ],
+  "Sunrise Village Triple bottom": [
+   2083,
+   -1547,
+   627.0
+  ],
+  "Skyebits / Bittersweet": [
+   -37,
+   621,
+   808.0
+  ],
+  "Great Northern - Lower": [
+   139,
+   1660,
+   669.6
+  ],
+  "The North Way / Skyeburst - Upper": [
+   142,
+   -406,
+   999.6
+  ],
+  "Dream Maker 4": [
+   533,
+   -207,
+   906.9
+  ],
+  "Great Northern / Killink": [
+   -1555,
+   327,
+   1037.8
+  ],
+  "Great Northern": [
+   -1486,
+   413,
+   1028.0
+  ],
+  "K-1 Express Gondola top": [
+   -1630,
+   -648,
+   1260.8
+  ],
+  "Great Northern / Caper": [
+   -1231,
+   1127,
+   856.1
+  ],
+  "Timberline / Easy Street": [
+   -1353,
+   1605,
+   908.3
+  ],
+  "Timberline / Great Northern - Lower": [
+   -175,
+   1629,
+   690.0
+  ],
+  "Patsy's / Frolic": [
+   -1747,
+   1190,
+   1001.3
+  ],
+  "Vagabond": [
+   -1446,
+   1145,
+   903.9
+  ],
+  "Sunrise Village Triple top": [
+   1169,
+   -1690,
+   756.9
+  ],
+  "Sunrise Trail": [
+   1223,
+   -1874,
+   716.4
+  ],
+  "The Stairs": [
+   172,
+   120,
+   965.3
+  ],
+  "The Stairs / High Road": [
+   494,
+   569,
+   782.5
+  ],
+  "Full House / Killink": [
+   -1597,
+   583,
+   1073.2
+  ],
+  "Great Northern 2": [
+   -1318,
+   537,
+   1010.6
+  ],
+  "The Throne / Racer's Edge": [
+   -1494,
+   321,
+   1015.2
+  ],
+  "Caper / Easy Street": [
+   -1564,
+   1562,
+   955.7
+  ],
+  "Bear Claw": [
+   321,
+   -842,
+   972.3
+  ],
+  "K-1 Express Gondola bottom": [
+   -421,
+   808,
+   762.1
+  ],
+  "Needle's Eye Express Quad top": [
+   102,
+   25,
+   1012.8
+  ],
+  "Downdraft / Cascade - Headwall": [
+   -1556,
+   -565,
+   1239.0
+  ],
+  "Double Dipper - Lower": [
+   -1236,
+   62,
+   943.8
+  ],
+  "Skyelark - Lower / Somewhere": [
+   -71,
+   286,
+   930.4
+  ],
+  "Skyelark - Lower / Bittersweet": [
+   -105,
+   660,
+   791.5
+  ],
+  "Great Eastern 5": [
+   -91,
+   -76,
+   1043.2
+  ],
+  "Edgemont/Whiffletree / Snowshed Slope": [
+   217,
+   1004,
+   765.3
+  ],
+  "Great Northern 3": [
+   -1474,
+   -596,
+   1221.4
+  ],
+  "Bear Cub 3": [
+   948,
+   -1601,
+   732.4
+  ],
+  "Great Eastern 6": [
+   367,
+   -48,
+   959.0
+  ],
+  "Cruise Control / Unnamed run": [
+   893,
+   313,
+   752.9
+  ],
+  "Great Bear - Upper / Chute": [
+   -1337,
+   798,
+   993.8
+  ],
+  "Great Northern 4": [
+   -1214,
+   1010,
+   899.3
+  ],
+  "Great Eastern 7": [
+   253,
+   -25,
+   974.6
+  ],
+  "Snowdon Six bottom": [
+   -500,
+   1113,
+   746.8
+  ],
+  "South Ridge Quad top": [
+   -1253,
+   -574,
+   1177.2
+  ],
+  "Great Northern 5": [
+   -1467,
+   -350,
+   1160.3
+  ],
+  "Royal Flush - Lower / Spillway": [
+   -1095,
+   295,
+   858.9
+  ],
+  "Great Eastern 8": [
+   -24,
+   -56,
+   1036.0
+  ],
+  "Bittersweet / Highlander": [
+   -194,
+   682,
+   775.0
+  ],
+  "Great Northern 6": [
+   -1615,
+   -710,
+   1241.6
+  ],
+  "Mouse Run - Upper": [
+   -1430,
+   629,
+   1039.7
+  ],
+  "Great Northern 7": [
+   -1145,
+   707,
+   972.6
+  ],
+  "Vertigo - Lower": [
+   227,
+   164,
+   932.0
+  ],
+  "Vertigo - Lower / Northbrook Trail": [
+   719,
+   528,
+   736.7
+  ],
+  "Great Eastern 9": [
+   247,
+   -68,
+   980.9
+  ],
+  "Chunnel / Needle's Eye": [
+   275,
+   50,
+   955.9
+  ],
+  "Bear Trax 2": [
+   -257,
+   -621,
+   1041.6
+  ],
+  "Pipe Dream 2": [
+   -277,
+   -971,
+   952.5
+  ],
+  "The Stash / Stash Way 2": [
+   -143,
+   -481,
+   1065.6
+  ],
+  "Ramshead Express Quad top": [
+   -1718,
+   1678,
+   996.8
+  ],
+  "Unnamed run / Killink": [
+   -1551,
+   259,
+   1031.9
+  ],
+  "East Fall - Lower": [
+   -1485,
+   145,
+   1004.9
+  ],
+  "Low Rider / North Star": [
+   -1642,
+   735,
+   1069.1
+  ],
+  "Great Eastern 10": [
+   -353,
+   -350,
+   1116.9
+  ],
+  "Bear Trax 3": [
+   -455,
+   -559,
+   1079.8
+  ],
+  "Needle's Eye / Northbrook Trail": [
+   860,
+   488,
+   726.3
+  ],
+  "Bear Cub 4": [
+   51,
+   -891,
+   957.6
+  ],
+  "Easy Street": [
+   -1634,
+   1667,
+   974.7
+  ],
+  "Superstar 2": [
+   -277,
+   207,
+   958.5
+  ],
+  "High Road / Northbrook Trail": [
+   647,
+   601,
+   742.6
+  ],
+  "Idler / Learn To Ski And Ride Area": [
+   -181,
+   905,
+   749.6
+  ],
+  "Idler / Yodeler": [
+   54,
+   1548,
+   684.5
+  ],
+  "Vagabond 2": [
+   -1406,
+   1126,
+   898.7
+  ],
+  "Shorty / Bear Claw": [
+   496,
+   -562,
+   883.7
+  ],
+  "Northbrook Quad bottom": [
+   987,
+   560,
+   715.9
+  ],
+  "Great Eastern 11": [
+   1412,
+   -126,
+   753.3
+  ],
+  "Skyeburst - Middle / Skyeburst - Upper": [
+   517,
+   -522,
+   872.7
+  ],
+  "Learn To Snowboard Carpet top": [
+   53,
+   1469,
+   690.0
+  ],
+  "Unnamed run / Bear Claw": [
+   436,
+   -666,
+   925.3
+  ],
+  "Wildfire": [
+   576,
+   -624,
+   873.6
+  ],
+  "Chute": [
+   -914,
+   936,
+   871.0
+  ],
+  "Bunny Buster - Lower": [
+   -451,
+   850,
+   763.6
+  ],
+  "Needle's Eye Express Quad bottom": [
+   918,
+   518,
+   718.7
+  ],
+  "Great Eastern 12": [
+   1734,
+   76,
+   663.1
+  ],
+  "Snowdon Six top": [
+   -1718,
+   676,
+   1084.7
+  ],
+  "Skyewalker": [
+   -384,
+   -402,
+   1106.8
+  ],
+  "Caper / Great Northern - Lower": [
+   -885,
+   1111,
+   817.5
+  ],
+  "Stash Way / Gateway": [
+   -174,
+   -516,
+   1062.8
+  ],
+  "Great Northern 8": [
+   -1600,
+   -226,
+   1145.8
+  ],
+  "Cascade Runout": [
+   -871,
+   385,
+   818.5
+  ],
+  "Alpine Training Venue Poma top": [
+   -1728,
+   1806,
+   999.2
+  ],
+  "Unnamed run / Alpine Training Venue": [
+   -1629,
+   1759,
+   971.8
+  ],
+  "North Ridge Quad bottom": [
+   -1546,
+   205,
+   1034.3
+  ],
+  "Unnamed run / Skyeburst - Upper": [
+   55,
+   -368,
+   1034.4
+  ],
+  "Northbrook Trail / Snowshed Slope": [
+   224,
+   864,
+   791.2
+  ],
+  "Great Northern 9": [
+   -1669,
+   -164,
+   1137.6
+  ],
+  "Great Northern 10": [
+   -1119,
+   749,
+   955.8
+  ],
+  "Old Superstar": [
+   -408,
+   34,
+   1014.4
+  ],
+  "Superstar 3": [
+   -287,
+   112,
+   986.0
+  ],
+  "Great Eastern 13": [
+   2924,
+   317,
+   505.5
+  ],
+  "Bear Trax 4": [
+   -1414,
+   -593,
+   1214.3
+  ],
+  "Snowshed Express Quad top": [
+   243,
+   555,
+   836.4
+  ],
+  "Snowdon Triple top": [
+   -1686,
+   588,
+   1083.6
+  ],
+  "Bunny Buster - Upper": [
+   -1689,
+   639,
+   1083.4
+  ],
+  "Trail Creek / Snowshed Slope": [
+   190,
+   1442,
+   694.5
+  ],
+  "Caper": [
+   -1084,
+   1096,
+   842.1
+  ],
+  "Outer Limits": [
+   368,
+   -973,
+   990.3
+  ],
+  "Bear Cub 5": [
+   1106,
+   -1230,
+   663.8
+  ],
+  "Great Northern 11": [
+   -1167,
+   662,
+   985.1
+  ],
+  "Unnamed run / Alpine Training Venue 2": [
+   -1243,
+   1879,
+   861.8
+  ],
+  "Alpine Training Venue Poma bottom": [
+   -1231,
+   1929,
+   860.0
+  ],
+  "Highlander": [
+   95,
+   791,
+   795.3
+  ],
+  "Learn To Snowboard Carpet bottom": [
+   58,
+   1623,
+   676.3
+  ],
+  "Bear Cub 6": [
+   1039,
+   -1416,
+   677.9
+  ],
+  "Ovation": [
+   -440,
+   245,
+   939.7
+  ],
+  "Flume": [
+   -485,
+   563,
+   785.2
+  ],
+  "Skyeship Express Gondola Stage 2 top": [
+   -180,
+   -324,
+   1125.2
+  ],
+  "Tin Man / Frolic": [
+   -1672,
+   1422,
+   980.0
+  ],
+  "Caper 2": [
+   -1366,
+   1228,
+   875.3
+  ],
+  "Solitude": [
+   -603,
+   -1433,
+   1010.9
+  ],
+  "Easy Street 2": [
+   -335,
+   1820,
+   706.9
+  ],
+  "Dream Maker 5": [
+   1001,
+   -401,
+   792.3
+  ],
+  "Dream Maker 6": [
+   1183,
+   -843,
+   641.1
+  ],
+  "Great Eastern 14": [
+   2594,
+   124,
+   554.3
+  ],
+  "Great Eastern 15": [
+   3227,
+   168,
+   430.6
+  ],
+  "Bear Trax 5": [
+   -1081,
+   -559,
+   1154.9
+  ],
+  "Great Northern 12": [
+   -1667,
+   74,
+   1077.2
+  ],
+  "Easy Street 3": [
+   -1166,
+   1857,
+   848.0
+  ],
+  "Cruise Control": [
+   577,
+   -100,
+   901.2
+  ],
+  "Highridge / Snowshed Slope": [
+   235,
+   706,
+   819.6
+  ],
+  "Great Eastern 16": [
+   1256,
+   -57,
+   776.0
+  ],
+  "Great Eastern 17": [
+   3344,
+   296,
+   374.8
+  ],
+  "Needle's Eye": [
+   323,
+   72,
+   938.6
+  ],
+  "Chute 2": [
+   -1688,
+   707,
+   1078.2
+  ],
+  "Cascade Runout 2": [
+   -469,
+   685,
+   769.1
+  ],
+  "Great Eastern 18": [
+   -231,
+   -338,
+   1125.1
+  ],
+  "Great Bear - Upper": [
+   -1237,
+   911,
+   936.6
+  ],
+  "Great Northern 13": [
+   -1148,
+   914,
+   920.1
+  ],
+  "Skyelark - Upper": [
+   -244,
+   -262,
+   1121.8
+  ],
+  "Skyelark - Upper 2": [
+   -158,
+   7,
+   1017.8
+  ],
+  "Old Superstar / Launch Pad": [
+   -412,
+   -167,
+   1080.5
+  ],
+  "Ovation 2": [
+   -462,
+   69,
+   1005.1
+  ],
+  "Great Northern - Lower 2": [
+   -465,
+   1146,
+   745.2
+  ],
+  "Bear Trax 6": [
+   -936,
+   -513,
+   1138.4
+  ],
+  "Snowshed Double bottom": [
+   172,
+   1625,
+   669.0
+  ],
+  "Chop Chop / Racer's Edge": [
+   -1054,
+   589,
+   948.2
+  ],
+  "Cascade Runout 3": [
+   -766,
+   473,
+   801.5
+  ],
+  "Great Eastern 19": [
+   -65,
+   -212,
+   1079.2
+  ],
+  "Easy Street 4": [
+   -1616,
+   1607,
+   968.8
+  ],
+  "Northbrook Quad top": [
+   291,
+   528,
+   837.8
+  ],
+  "Snowplay Carpet II bottom": [
+   -109,
+   1731,
+   673.3
+  ],
+  "Snowplay Carpet II top": [
+   -164,
+   1769,
+   681.5
+  ],
+  "South Ridge Quad bottom": [
+   -183,
+   -1087,
+   915.5
+  ],
+  "Unnamed lift bottom": [
+   -384,
+   840,
+   759.9
+  ],
+  "Snowshed Express Quad bottom": [
+   225,
+   1632,
+   665.9
+  ],
+  "Snowplay Carpet I top": [
+   -101,
+   1779,
+   675.0
+  ],
+  "Snowshed Double top": [
+   208,
+   637,
+   830.2
+  ],
+  "Superstar Express Six bottom": [
+   -248,
+   718,
+   764.0
+  ],
+  "Skye Peak Express Quad bottom": [
+   1246,
+   -861,
+   635.6
+  ],
+  "Bear Mountain Quad top": [
+   386,
+   -928,
+   993.5
+  ],
+  "Canyon Quad bottom": [
+   -1028,
+   356,
+   847.8
+  ]
+ },
+ "lifts": [
+  [
+   "Northbrook Quad",
+   "Northbrook Quad bottom",
+   "Northbrook Quad top",
+   8.0
+  ],
+  [
+   "Needle's Eye Express Quad",
+   "Needle's Eye Express Quad bottom",
+   "Needle's Eye Express Quad top",
+   6.4
+  ],
+  [
+   "K-1 Express Gondola",
+   "K-1 Express Gondola bottom",
+   "K-1 Express Gondola top",
+   10.2
+  ],
+  [
+   "K-1 Express Gondola",
+   "K-1 Express Gondola top",
+   "K-1 Express Gondola bottom",
+   10.2
+  ],
+  [
+   "Snowplay Carpet II",
+   "Snowplay Carpet II bottom",
+   "Snowplay Carpet II top",
+   4.4
+  ],
+  [
+   "South Ridge Quad",
+   "South Ridge Quad bottom",
+   "South Ridge Quad top",
+   11.8
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom",
+   "K-1 Express Gondola bottom",
+   3.1
+  ],
+  [
+   "Unnamed lift",
+   "K-1 Express Gondola bottom",
+   "Unnamed lift bottom",
+   3.1
+  ],
+  [
+   "Snowshed Express Quad",
+   "Snowshed Express Quad bottom",
+   "Snowshed Express Quad top",
+   6.6
+  ],
+  [
+   "Skyeship Express Gondola Stage 2",
+   "Northbrook Quad bottom",
+   "Skyeship Express Gondola Stage 2 top",
+   8.1
+  ],
+  [
+   "Ramshead Express Quad",
+   "Ramshead Express Quad bottom",
+   "Ramshead Express Quad top",
+   8.6
+  ],
+  [
+   "Sunrise Village Triple",
+   "Sunrise Village Triple bottom",
+   "Sunrise Village Triple top",
+   10.0
+  ],
+  [
+   "Snowplay Carpet I",
+   "Snowplay Carpet II bottom",
+   "Snowplay Carpet I top",
+   3.9
+  ],
+  [
+   "Snowshed Double",
+   "Snowshed Double bottom",
+   "Snowshed Double top",
+   10.2
+  ],
+  [
+   "Superstar Express Six",
+   "Superstar Express Six bottom",
+   "Superstar Express Six top",
+   6.6
+  ],
+  [
+   "Skyeship Express Gondola Stage 1",
+   "Skyeship Express Gondola Stage 1 bottom",
+   "Northbrook Quad bottom",
+   11.1
+  ],
+  [
+   "Snowdon Six",
+   "Snowdon Six bottom",
+   "Snowdon Six top",
+   12.9
+  ],
+  [
+   "Skye Peak Express Quad",
+   "Skye Peak Express Quad bottom",
+   "Skye Peak Express Quad top",
+   8.1
+  ],
+  [
+   "North Ridge Quad",
+   "North Ridge Quad bottom",
+   "North Ridge Quad top",
+   8.0
+  ],
+  [
+   "Alpine Training Venue Poma",
+   "Alpine Training Venue Poma bottom",
+   "Alpine Training Venue Poma top",
+   6.0
+  ],
+  [
+   "Bear Mountain Quad",
+   "Bear Mountain Quad bottom",
+   "Bear Mountain Quad top",
+   9.2
+  ],
+  [
+   "Canyon Quad",
+   "Canyon Quad bottom",
+   "Canyon Quad top",
+   11.0
+  ],
+  [
+   "Snowdon Triple",
+   "K-1 Express Gondola bottom",
+   "Snowdon Triple top",
+   12.6
+  ],
+  [
+   "Learn To Snowboard Carpet",
+   "Learn To Snowboard Carpet bottom",
+   "Learn To Snowboard Carpet top",
+   5.9
+  ]
+ ],
+ "runs": [
+  [
+   "Unnamed run",
+   "Unnamed run / Pipe Dream",
+   "Unnamed run / Bear Trax",
+   0.5
+  ],
+  [
+   "Vagabond",
+   "Vagabond / Frolic",
+   "Vagabond",
+   1.2
+  ],
+  [
+   "Vagabond",
+   "Vagabond",
+   "Vagabond 2",
+   0.5
+  ],
+  [
+   "Vagabond",
+   "Vagabond 2",
+   "Vagabond / Great Northern",
+   0.5
+  ],
+  [
+   "Chute, Bunny Buster - Upper",
+   "Chute, Bunny Buster - Upper / Great Northern",
+   "Chute, Bunny Buster - Upper / Chute",
+   0.5
+  ],
+  [
+   "Ridge Run",
+   "North Ridge Quad top",
+   "Ridge Run / Great Northern",
+   1.7
+  ],
+  [
+   "Royal Flush - Upper",
+   "Royal Flush - Upper / Full House",
+   "Royal Flush - Upper / Great Northern",
+   0.7
+  ],
+  [
+   "Catwalk - Lower",
+   "Catwalk - Lower / Low Traverse",
+   "Catwalk - Lower / Double Dipper - Lower",
+   0.6
+  ],
+  [
+   "Valley Plunge",
+   "Valley Plunge / Great Eastern",
+   "Valley Plunge / Field Goal",
+   0.8
+  ],
+  [
+   "The Stash",
+   "The Stash / Stash Way",
+   "The Stash",
+   1.6
+  ],
+  [
+   "Scarecrow",
+   "Scarecrow / Frolic",
+   "Scarecrow / Caper",
+   1.1
+  ],
+  [
+   "Superstar",
+   "Superstar Express Six top",
+   "Superstar 3",
+   1.6
+  ],
+  [
+   "Superstar",
+   "Superstar 3",
+   "Superstar 2",
+   0.5
+  ],
+  [
+   "Superstar",
+   "Superstar 2",
+   "Superstar",
+   0.5
+  ],
+  [
+   "Superstar",
+   "Superstar",
+   "Superstar / Flume",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Great Eastern",
+   "Unnamed run / Great Eastern 2",
+   0.5
+  ],
+  [
+   "Bear Cub",
+   "Bear Cub / Bear Trax",
+   "Bear Cub 4",
+   0.8
+  ],
+  [
+   "Bear Cub",
+   "Bear Cub 4",
+   "Bear Cub",
+   2.2
+  ],
+  [
+   "Bear Cub",
+   "Bear Cub",
+   "Bear Cub 2",
+   4.9
+  ],
+  [
+   "Bear Cub",
+   "Bear Cub 2",
+   "Bear Cub 3",
+   1.0
+  ],
+  [
+   "Bear Cub",
+   "Bear Cub 3",
+   "Bear Cub 6",
+   1.3
+  ],
+  [
+   "Bear Cub",
+   "Bear Cub 6",
+   "Bear Cub 5",
+   0.9
+  ],
+  [
+   "Bear Cub",
+   "Bear Cub 5",
+   "Bear Mountain Quad bottom",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Bittersweet",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Flume",
+   "Flume / Cascade",
+   "Flume",
+   3.8
+  ],
+  [
+   "Flume",
+   "Flume",
+   "Superstar / Flume",
+   0.7
+  ],
+  [
+   "Roundabout",
+   "Roundabout / Bear Trax",
+   "Roundabout / Pipe Dream",
+   1.6
+  ],
+  [
+   "The Jug - Upper",
+   "The Jug - Upper / Solitude",
+   "The Jug - Upper / Escape",
+   1.5
+  ],
+  [
+   "Dream Maker",
+   "Dream Maker / The North Way",
+   "Dream Maker 4",
+   0.5
+  ],
+  [
+   "Dream Maker",
+   "Dream Maker 4",
+   "Dream Maker 3",
+   0.6
+  ],
+  [
+   "Dream Maker",
+   "Dream Maker 3",
+   "Dream Maker 5",
+   1.5
+  ],
+  [
+   "Dream Maker",
+   "Dream Maker 5",
+   "Dream Maker 2",
+   0.5
+  ],
+  [
+   "Dream Maker",
+   "Dream Maker 2",
+   "Dream Maker",
+   1.4
+  ],
+  [
+   "Dream Maker",
+   "Dream Maker",
+   "Dream Maker 6",
+   0.5
+  ],
+  [
+   "Dream Maker",
+   "Dream Maker 6",
+   "Bear Mountain Quad bottom",
+   0.5
+  ],
+  [
+   "Lil' Stash",
+   "Lil' Stash / Header",
+   "Lil' Stash / Easy Street",
+   0.7
+  ],
+  [
+   "Bittersweet",
+   "Bittersweet",
+   "Bittersweet / Skyebits",
+   0.6
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern",
+   "Great Eastern 2",
+   0.5
+  ],
+  [
+   "Cascade",
+   "Cascade / Great Northern",
+   "Flume / Cascade",
+   2.2
+  ],
+  [
+   "Cascade",
+   "Flume / Cascade",
+   "Cascade / Double Dipper - Lower",
+   1.5
+  ],
+  [
+   "Low Road",
+   "Low Road / Bittersweet",
+   "Low Road / Highlander",
+   2.0
+  ],
+  [
+   "Bear Trax",
+   "Bear Trax / Blue Heaven",
+   "Bear Trax",
+   0.5
+  ],
+  [
+   "Twister",
+   "Twister / Easy Street",
+   "Twister / Easy Street 2",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Skye Peak Express Quad top",
+   "Unnamed run / Dream Maker Headwall",
+   0.5
+  ],
+  [
+   "Pipe Dream",
+   "Unnamed run / Pipe Dream",
+   "Pipe Dream 2",
+   1.7
+  ],
+  [
+   "Pipe Dream",
+   "Pipe Dream 2",
+   "Pipe Dream",
+   0.5
+  ],
+  [
+   "Pipe Dream",
+   "Pipe Dream",
+   "Roundabout / Pipe Dream",
+   0.5
+  ],
+  [
+   "Pipe Dream",
+   "Roundabout / Pipe Dream",
+   "Bear Cub",
+   0.6
+  ],
+  [
+   "Dream Maker Headwall",
+   "Dream Maker Headwall",
+   "Dream Maker Headwall / The North Way",
+   1.0
+  ],
+  [
+   "Ovation",
+   "Ovation / Nivis Walk",
+   "Ovation 2",
+   1.2
+  ],
+  [
+   "Ovation",
+   "Ovation 2",
+   "Ovation",
+   0.8
+  ],
+  [
+   "Ovation",
+   "Ovation",
+   "Superstar",
+   0.8
+  ],
+  [
+   "Dream Maker Headwall",
+   "Unnamed run / Dream Maker Headwall",
+   "Dream Maker Headwall",
+   0.5
+  ],
+  [
+   "Escape",
+   "The Jug - Upper / Escape",
+   "Escape",
+   1.0
+  ],
+  [
+   "Escape",
+   "Escape",
+   "Escape 2",
+   0.5
+  ],
+  [
+   "Escape",
+   "Escape 2",
+   "Escape / Bear Trax",
+   1.1
+  ],
+  [
+   "Nivis Walk",
+   "Nivis Walk / Gateway",
+   "Ovation / Nivis Walk",
+   0.5
+  ],
+  [
+   "Nivis Walk",
+   "Ovation / Nivis Walk",
+   "Nivis Walk",
+   0.5
+  ],
+  [
+   "Nivis Walk",
+   "Nivis Walk",
+   "Nivis Walk / Launch Pad",
+   0.5
+  ],
+  [
+   "Sunrise Trail",
+   "Bear Cub 2",
+   "Sunrise Trail",
+   2.7
+  ],
+  [
+   "Sunrise Trail",
+   "Sunrise Trail",
+   "Sunrise Trail / Sundog",
+   1.5
+  ],
+  [
+   "Mouse Run - Lower",
+   "Mouse Run - Lower / Chute",
+   "Mouse Run - Lower / Great Northern - Lower",
+   0.7
+  ],
+  [
+   "Escapade",
+   "Escapade / Helter Skelter",
+   "Flume / Cascade",
+   2.3
+  ],
+  [
+   "The Jug - Lower",
+   "The Jug - Upper / Escape",
+   "The Jug - Lower 2",
+   0.8
+  ],
+  [
+   "The Jug - Lower",
+   "The Jug - Lower 2",
+   "The Jug - Lower 3",
+   0.8
+  ],
+  [
+   "The Jug - Lower",
+   "The Jug - Lower 3",
+   "The Jug - Lower",
+   0.5
+  ],
+  [
+   "The Jug - Lower",
+   "The Jug - Lower",
+   "Pipe Dream",
+   0.8
+  ],
+  [
+   "Great Eastern",
+   "Superstar Express Six top",
+   "Great Eastern 18",
+   0.5
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 18",
+   "Great Eastern 10",
+   0.6
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 10",
+   "Great Eastern 18",
+   0.5
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 18",
+   "Skye Peak Express Quad top",
+   0.8
+  ],
+  [
+   "Great Eastern",
+   "Skye Peak Express Quad top",
+   "Unnamed run / Dream Maker Headwall",
+   0.5
+  ],
+  [
+   "Great Eastern",
+   "Unnamed run / Dream Maker Headwall",
+   "Great Eastern 19",
+   0.5
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 19",
+   "Great Eastern 5",
+   0.5
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 5",
+   "Great Eastern 8",
+   0.5
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 8",
+   "Unnamed run / Great Eastern",
+   0.5
+  ],
+  [
+   "Great Eastern",
+   "Unnamed run / Great Eastern",
+   "Unnamed run / Great Eastern 2",
+   0.5
+  ],
+  [
+   "Great Eastern",
+   "Unnamed run / Great Eastern 2",
+   "Great Eastern 9",
+   0.5
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 9",
+   "Great Eastern 7",
+   0.5
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 7",
+   "Great Eastern 6",
+   0.5
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 6",
+   "Dream Maker 4",
+   1.5
+  ],
+  [
+   "Great Eastern",
+   "Dream Maker 4",
+   "Great Eastern 3",
+   2.9
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 3",
+   "Great Eastern 16",
+   0.6
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 16",
+   "Great Eastern 11",
+   0.8
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 11",
+   "Great Eastern 12",
+   2.2
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 12",
+   "Great Eastern 4",
+   3.4
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 4",
+   "Great Eastern 14",
+   0.6
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 14",
+   "Great Eastern 13",
+   1.7
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 13",
+   "Great Eastern",
+   0.5
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern",
+   "Valley Plunge / Great Eastern",
+   0.8
+  ],
+  [
+   "Great Eastern",
+   "Valley Plunge / Great Eastern",
+   "Great Eastern 2",
+   0.6
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 2",
+   "Great Eastern 15",
+   0.9
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 15",
+   "Great Eastern 17",
+   1.9
+  ],
+  [
+   "Great Eastern",
+   "Great Eastern 17",
+   "Skyeship Express Gondola Stage 1 bottom",
+   0.7
+  ],
+  [
+   "Skyeburst - Lower",
+   "Skyeburst - Lower / Skyeburst - Middle",
+   "Skyeburst - Lower",
+   0.7
+  ],
+  [
+   "Skyeburst - Lower",
+   "Skyeburst - Lower",
+   "Dream Maker",
+   1.9
+  ],
+  [
+   "Breakaway",
+   "Breakaway / Pipe Dream",
+   "The Jug - Lower 3",
+   2.1
+  ],
+  [
+   "Breakaway",
+   "The Jug - Lower 3",
+   "The Jug - Lower",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Skyeburst - Lower",
+   "Dream Maker 2",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Great Eastern 3",
+   "Unnamed run / Home Stretch - Upper",
+   0.5
+  ],
+  [
+   "Snowshed Crossover",
+   "Snowshed Crossover / Outer Limits",
+   "Snowshed Crossover / Bear Claw",
+   0.5
+  ],
+  [
+   "Magic Snow Play Park",
+   "Magic Snow Play Park / Treezy Zone",
+   "Snowplay Carpet II top",
+   0.5
+  ],
+  [
+   "Magic Snow Play Park",
+   "Snowplay Carpet II top",
+   "Snowplay Carpet II bottom",
+   0.5
+  ],
+  [
+   "Magic Snow Play Park",
+   "Snowplay Carpet II bottom",
+   "Ramshead Express Quad bottom",
+   0.5
+  ],
+  [
+   "Home Stretch - Upper",
+   "Dream Maker 3",
+   "Unnamed run / Home Stretch - Upper",
+   2.0
+  ],
+  [
+   "Home Stretch - Upper",
+   "Unnamed run / Home Stretch - Upper",
+   "Great Eastern 4",
+   6.6
+  ],
+  [
+   "Double Dipper - Lower",
+   "Catwalk - Lower / Double Dipper - Lower",
+   "Double Dipper - Lower",
+   2.0
+  ],
+  [
+   "Double Dipper - Lower",
+   "Double Dipper - Lower",
+   "Cascade / Double Dipper - Lower",
+   0.7
+  ],
+  [
+   "East Fall - Lower",
+   "East Fall - Lower / East Fall - Upper",
+   "East Fall - Lower",
+   0.5
+  ],
+  [
+   "East Fall - Lower",
+   "East Fall - Lower",
+   "Cascade / Double Dipper - Lower",
+   1.3
+  ],
+  [
+   "Low Traverse",
+   "Canyon Quad top",
+   "Catwalk - Lower / Low Traverse",
+   0.5
+  ],
+  [
+   "Low Traverse",
+   "Catwalk - Lower / Low Traverse",
+   "Low Traverse / Great Northern",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Superstar / Flume",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Conclusion - Lower",
+   "Conclusion - Lower / Conclusion",
+   "Conclusion - Lower / Unnamed run",
+   1.6
+  ],
+  [
+   "Jug Handle",
+   "The Jug - Lower 2",
+   "The Jug - Lower 3",
+   0.8
+  ],
+  [
+   "Outer Limits",
+   "Snowshed Crossover / Outer Limits",
+   "Outer Limits",
+   0.5
+  ],
+  [
+   "Outer Limits",
+   "Outer Limits",
+   "Bear Mountain Quad bottom",
+   3.7
+  ],
+  [
+   "Squeeze Play",
+   "Squeeze Play / Easy Street",
+   "Squeeze Play / Timberline",
+   5.0
+  ],
+  [
+   "Unnamed run",
+   "Escape",
+   "Escape 2",
+   0.5
+  ],
+  [
+   "Sundog",
+   "Sundog",
+   "Sunrise Trail / Sundog",
+   0.5
+  ],
+  [
+   "Sundog",
+   "Sunrise Trail / Sundog",
+   "Sunrise Village Triple bottom",
+   3.1
+  ],
+  [
+   "Skyebits",
+   "Bittersweet / Skyebits",
+   "Skyebits / Bittersweet",
+   1.0
+  ],
+  [
+   "Great Northern - Lower",
+   "Great Northern - Lower",
+   "Ramshead Express Quad bottom",
+   0.7
+  ],
+  [
+   "The North Way",
+   "The North Way / Skyeburst - Upper",
+   "Dream Maker Headwall / The North Way",
+   0.5
+  ],
+  [
+   "The North Way",
+   "Dream Maker Headwall / The North Way",
+   "Dream Maker / The North Way",
+   1.2
+  ],
+  [
+   "The North Way",
+   "Dream Maker / The North Way",
+   "Dream Maker 4",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Great Northern / Killink",
+   "Great Northern",
+   0.5
+  ],
+  [
+   "Solitude",
+   "The Jug - Upper / Solitude",
+   "Solitude",
+   8.9
+  ],
+  [
+   "Solitude",
+   "Solitude",
+   "Bear Cub 2",
+   12.4
+  ],
+  [
+   "Great Northern",
+   "K-1 Express Gondola top",
+   "Great Northern 6",
+   0.6
+  ],
+  [
+   "Great Northern",
+   "Great Northern 6",
+   "Great Northern 3",
+   0.8
+  ],
+  [
+   "Great Northern",
+   "Great Northern 3",
+   "Cascade / Great Northern",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Cascade / Great Northern",
+   "Low Traverse / Great Northern",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Low Traverse / Great Northern",
+   "Great Northern 5",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Great Northern 5",
+   "Catwalk - Lower / Double Dipper - Lower",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Catwalk - Lower / Double Dipper - Lower",
+   "Great Northern 8",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Great Northern 8",
+   "Great Northern 9",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Great Northern 9",
+   "Ridge Run / Great Northern",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Ridge Run / Great Northern",
+   "Great Northern 12",
+   0.8
+  ],
+  [
+   "Great Northern",
+   "Great Northern 12",
+   "Great Northern",
+   1.9
+  ],
+  [
+   "Great Northern",
+   "Great Northern",
+   "Royal Flush - Upper / Great Northern",
+   0.6
+  ],
+  [
+   "Great Northern",
+   "Royal Flush - Upper / Great Northern",
+   "Great Northern 2",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Great Northern 2",
+   "Great Northern 11",
+   0.8
+  ],
+  [
+   "Great Northern",
+   "Great Northern 11",
+   "Great Northern 7",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Great Northern 7",
+   "Great Northern 10",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Great Northern 10",
+   "Chute, Bunny Buster - Upper / Great Northern",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Chute, Bunny Buster - Upper / Great Northern",
+   "Great Northern 13",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Great Northern 13",
+   "Great Northern 4",
+   0.5
+  ],
+  [
+   "Great Northern",
+   "Great Northern 4",
+   "Vagabond / Great Northern",
+   0.8
+  ],
+  [
+   "Great Northern",
+   "Vagabond / Great Northern",
+   "Great Northern / Caper",
+   0.5
+  ],
+  [
+   "Timberline",
+   "Timberline / Easy Street",
+   "Squeeze Play / Timberline",
+   4.4
+  ],
+  [
+   "Timberline",
+   "Squeeze Play / Timberline",
+   "Timberline / Great Northern - Lower",
+   0.7
+  ],
+  [
+   "Patsy's",
+   "Patsy's / Frolic",
+   "Vagabond",
+   1.3
+  ],
+  [
+   "Rendezvous",
+   "Sunrise Village Triple top",
+   "Sunrise Trail",
+   1.2
+  ],
+  [
+   "The Stairs",
+   "The Stairs",
+   "The Stairs / High Road",
+   2.3
+  ],
+  [
+   "Full House",
+   "Full House / Killink",
+   "Royal Flush - Upper / Full House",
+   0.5
+  ],
+  [
+   "Full House",
+   "Royal Flush - Upper / Full House",
+   "Great Northern 2",
+   1.0
+  ],
+  [
+   "The Throne",
+   "The Throne / Racer's Edge",
+   "Cascade / Double Dipper - Lower",
+   1.4
+  ],
+  [
+   "Caper",
+   "Caper / Easy Street",
+   "Scarecrow / Caper",
+   1.1
+  ],
+  [
+   "Caper",
+   "Scarecrow / Caper",
+   "Caper 2",
+   0.5
+  ],
+  [
+   "Caper",
+   "Caper 2",
+   "Vagabond / Great Northern",
+   0.5
+  ],
+  [
+   "Caper",
+   "Vagabond / Great Northern",
+   "Great Northern / Caper",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Conclusion - Lower / Unnamed run",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Bear Claw",
+   "Snowshed Crossover / Bear Claw",
+   "Bear Claw",
+   0.5
+  ],
+  [
+   "Double Dipper - Upper",
+   "Canyon Quad top",
+   "Catwalk - Lower / Double Dipper - Lower",
+   0.7
+  ],
+  [
+   "Cascade Runout",
+   "Cascade / Double Dipper - Lower",
+   "Cascade Runout",
+   1.4
+  ],
+  [
+   "Cascade Runout",
+   "Cascade Runout",
+   "Cascade Runout 3",
+   0.6
+  ],
+  [
+   "Cascade Runout",
+   "Cascade Runout 3",
+   "Cascade Runout 2",
+   1.6
+  ],
+  [
+   "Cascade Runout",
+   "Cascade Runout 2",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Cascade Runout",
+   "Unnamed run 3",
+   "K-1 Express Gondola bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Needle's Eye Express Quad top",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Downdraft",
+   "Downdraft / Cascade - Headwall",
+   "Catwalk - Lower / Low Traverse",
+   0.5
+  ],
+  [
+   "Downdraft",
+   "Catwalk - Lower / Low Traverse",
+   "Low Traverse / Great Northern",
+   0.5
+  ],
+  [
+   "Downdraft",
+   "Low Traverse / Great Northern",
+   "Great Northern 5",
+   0.5
+  ],
+  [
+   "Downdraft",
+   "Great Northern 5",
+   "Double Dipper - Lower",
+   2.1
+  ],
+  [
+   "Skyelark - Lower",
+   "Skyelark - Lower / Somewhere",
+   "Skyelark - Lower / Bittersweet",
+   1.5
+  ],
+  [
+   "Somewhere",
+   "Great Eastern 5",
+   "Skyelark - Lower / Somewhere",
+   1.4
+  ],
+  [
+   "Bear Trax",
+   "Great Northern 3",
+   "Bear Trax 4",
+   0.5
+  ],
+  [
+   "Bear Trax",
+   "Bear Trax 4",
+   "Bear Trax",
+   0.5
+  ],
+  [
+   "Bear Trax",
+   "Bear Trax",
+   "South Ridge Quad top",
+   0.9
+  ],
+  [
+   "Bear Trax",
+   "South Ridge Quad top",
+   "The Jug - Upper / Solitude",
+   0.5
+  ],
+  [
+   "Bear Trax",
+   "The Jug - Upper / Solitude",
+   "Bear Trax 5",
+   0.5
+  ],
+  [
+   "Bear Trax",
+   "Bear Trax 5",
+   "Bear Trax 6",
+   0.6
+  ],
+  [
+   "Bear Trax",
+   "Bear Trax 6",
+   "Bear Trax 3",
+   2.2
+  ],
+  [
+   "Bear Trax",
+   "Bear Trax 3",
+   "Unnamed run / Bear Trax",
+   0.5
+  ],
+  [
+   "Bear Trax",
+   "Unnamed run / Bear Trax",
+   "Escape / Bear Trax",
+   0.5
+  ],
+  [
+   "Bear Trax",
+   "Escape / Bear Trax",
+   "Bear Trax 2",
+   0.5
+  ],
+  [
+   "Bear Trax",
+   "Bear Trax 2",
+   "Roundabout / Bear Trax",
+   0.9
+  ],
+  [
+   "Bear Trax",
+   "Roundabout / Bear Trax",
+   "Bear Cub / Bear Trax",
+   0.5
+  ],
+  [
+   "Bear Trax",
+   "Bear Cub / Bear Trax",
+   "Snowshed Crossover / Bear Claw",
+   0.9
+  ],
+  [
+   "Bear View",
+   "Sunrise Village Triple top",
+   "Bear Cub 3",
+   0.8
+  ],
+  [
+   "Cruise Control",
+   "Great Eastern 6",
+   "Cruise Control",
+   1.0
+  ],
+  [
+   "Cruise Control",
+   "Cruise Control",
+   "Cruise Control / Unnamed run",
+   2.3
+  ],
+  [
+   "Great Bear - Upper",
+   "Great Bear - Upper / Chute",
+   "Great Bear - Upper",
+   0.5
+  ],
+  [
+   "Great Bear - Upper",
+   "Great Bear - Upper",
+   "Great Northern 4",
+   0.5
+  ],
+  [
+   "Thimble",
+   "Dream Maker Headwall",
+   "Great Eastern 9",
+   1.3
+  ],
+  [
+   "Thimble",
+   "Great Eastern 9",
+   "Great Eastern 7",
+   0.5
+  ],
+  [
+   "Chute",
+   "Chute, Bunny Buster - Upper / Chute",
+   "Chute",
+   1.0
+  ],
+  [
+   "Chute",
+   "Chute",
+   "Mouse Run - Lower / Chute",
+   0.5
+  ],
+  [
+   "Chute",
+   "Mouse Run - Lower / Chute",
+   "Snowdon Six bottom",
+   1.5
+  ],
+  [
+   "Home Run",
+   "South Ridge Quad top",
+   "Great Northern 5",
+   1.2
+  ],
+  [
+   "Royal Flush - Lower",
+   "Royal Flush - Upper / Great Northern",
+   "Royal Flush - Lower / Spillway",
+   1.4
+  ],
+  [
+   "Bittersweet",
+   "Great Eastern 8",
+   "Unnamed run / Bittersweet",
+   0.5
+  ],
+  [
+   "Bittersweet",
+   "Unnamed run / Bittersweet",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Bittersweet",
+   "Unnamed run",
+   "Bittersweet",
+   0.7
+  ],
+  [
+   "Bittersweet",
+   "Bittersweet",
+   "Bittersweet / Skyebits",
+   0.8
+  ],
+  [
+   "Bittersweet",
+   "Bittersweet / Skyebits",
+   "Low Road / Bittersweet",
+   0.5
+  ],
+  [
+   "Bittersweet",
+   "Low Road / Bittersweet",
+   "Skyebits / Bittersweet",
+   0.9
+  ],
+  [
+   "Bittersweet",
+   "Skyebits / Bittersweet",
+   "Skyelark - Lower / Bittersweet",
+   0.5
+  ],
+  [
+   "Bittersweet",
+   "Skyelark - Lower / Bittersweet",
+   "Bittersweet / Highlander",
+   0.5
+  ],
+  [
+   "Blue Heaven",
+   "Great Northern 6",
+   "Bear Trax / Blue Heaven",
+   0.5
+  ],
+  [
+   "Blue Heaven",
+   "Bear Trax / Blue Heaven",
+   "The Jug - Upper / Solitude",
+   1.5
+  ],
+  [
+   "Mouse Run - Upper",
+   "Mouse Run - Upper",
+   "Great Northern 7",
+   1.1
+  ],
+  [
+   "Vertigo - Lower",
+   "Vertigo - Lower",
+   "Vertigo - Lower / Northbrook Trail",
+   2.5
+  ],
+  [
+   "Chunnel",
+   "Great Eastern 9",
+   "Great Eastern 7",
+   0.5
+  ],
+  [
+   "Chunnel",
+   "Great Eastern 7",
+   "Chunnel / Needle's Eye",
+   0.5
+  ],
+  [
+   "Roundabout Glade",
+   "Bear Trax 2",
+   "Pipe Dream 2",
+   1.4
+  ],
+  [
+   "Wildfire",
+   "Snowshed Crossover / Outer Limits",
+   "Wildfire",
+   1.6
+  ],
+  [
+   "Wildfire",
+   "Wildfire",
+   "Bear Mountain Quad bottom",
+   3.5
+  ],
+  [
+   "The Stash",
+   "The Stash / Stash Way 2",
+   "Bear Cub / Bear Trax",
+   1.3
+  ],
+  [
+   "The Stash",
+   "Bear Cub / Bear Trax",
+   "The Stash",
+   0.6
+  ],
+  [
+   "Easy Street",
+   "Ramshead Express Quad top",
+   "Twister / Easy Street",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Twister / Easy Street",
+   "Easy Street",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Easy Street",
+   "Easy Street 4",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Easy Street 4",
+   "Caper / Easy Street",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Caper / Easy Street",
+   "Squeeze Play / Easy Street",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Squeeze Play / Easy Street",
+   "Timberline / Easy Street",
+   0.7
+  ],
+  [
+   "Easy Street",
+   "Timberline / Easy Street",
+   "Twister / Easy Street 2",
+   0.9
+  ],
+  [
+   "Easy Street",
+   "Twister / Easy Street 2",
+   "Easy Street 3",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Easy Street 3",
+   "Easy Street 2",
+   3.9
+  ],
+  [
+   "Easy Street",
+   "Easy Street 2",
+   "Lil' Stash / Easy Street",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Lil' Stash / Easy Street",
+   "Snowplay Carpet II top",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Snowplay Carpet II top",
+   "Snowplay Carpet II bottom",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Snowplay Carpet II bottom",
+   "Ramshead Express Quad bottom",
+   0.5
+  ],
+  [
+   "Pipe Dream",
+   "Escape 2",
+   "Unnamed run / Pipe Dream",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Killink",
+   "North Ridge Quad bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "North Ridge Quad bottom",
+   "East Fall - Lower",
+   0.5
+  ],
+  [
+   "Low Rider",
+   "Low Rider / North Star",
+   "Vagabond / Great Northern",
+   2.3
+  ],
+  [
+   "Skyewalker",
+   "Great Eastern 10",
+   "Skyewalker",
+   0.5
+  ],
+  [
+   "Skyewalker",
+   "Skyewalker",
+   "Bear Trax 3",
+   0.6
+  ],
+  [
+   "Needle's Eye",
+   "Chunnel / Needle's Eye",
+   "Needle's Eye",
+   0.5
+  ],
+  [
+   "Needle's Eye",
+   "Needle's Eye",
+   "Needle's Eye / Northbrook Trail",
+   2.8
+  ],
+  [
+   "Ridgeview",
+   "Snowshed Crossover / Outer Limits",
+   "Bear Cub 4",
+   1.2
+  ],
+  [
+   "Header",
+   "Easy Street",
+   "Lil' Stash / Header",
+   5.0
+  ],
+  [
+   "Header",
+   "Lil' Stash / Header",
+   "Snowplay Carpet II bottom",
+   1.5
+  ],
+  [
+   "Header",
+   "Snowplay Carpet II bottom",
+   "Ramshead Express Quad bottom",
+   0.5
+  ],
+  [
+   "High Road",
+   "Superstar 2",
+   "Skyelark - Lower / Somewhere",
+   0.8
+  ],
+  [
+   "High Road",
+   "Skyelark - Lower / Somewhere",
+   "Bittersweet / Skyebits",
+   0.6
+  ],
+  [
+   "High Road",
+   "Bittersweet / Skyebits",
+   "Northbrook Quad top",
+   1.3
+  ],
+  [
+   "High Road",
+   "Northbrook Quad top",
+   "The Stairs / High Road",
+   0.8
+  ],
+  [
+   "High Road",
+   "The Stairs / High Road",
+   "High Road / Northbrook Trail",
+   0.7
+  ],
+  [
+   "Idler",
+   "Idler / Learn To Ski And Ride Area",
+   "Learn To Snowboard Carpet top",
+   2.6
+  ],
+  [
+   "Idler",
+   "Learn To Snowboard Carpet top",
+   "Idler / Yodeler",
+   0.5
+  ],
+  [
+   "Conclusion",
+   "Great Northern 7",
+   "Conclusion - Lower / Conclusion",
+   0.9
+  ],
+  [
+   "North Star",
+   "Low Rider / North Star",
+   "Vagabond 2",
+   2.0
+  ],
+  [
+   "Shorty",
+   "The Stash",
+   "Shorty / Bear Claw",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Cruise Control / Unnamed run",
+   "Needle's Eye Express Quad bottom",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Needle's Eye Express Quad bottom",
+   "Northbrook Quad bottom",
+   0.5
+  ],
+  [
+   "Bearly",
+   "Great Eastern 11",
+   "Dream Maker 6",
+   4.0
+  ],
+  [
+   "Bearly",
+   "Dream Maker 6",
+   "Bear Mountain Quad bottom",
+   0.5
+  ],
+  [
+   "Skyeburst - Middle",
+   "Skyeburst - Middle / Skyeburst - Upper",
+   "Skyeburst - Lower / Skyeburst - Middle",
+   0.8
+  ],
+  [
+   "High Traverse",
+   "North Ridge Quad top",
+   "Canyon Quad top",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "Canyon Quad top",
+   "Catwalk - Lower / Low Traverse",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "Catwalk - Lower / Low Traverse",
+   "Cascade / Great Northern",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "Cascade / Great Northern",
+   "South Ridge Quad top",
+   1.0
+  ],
+  [
+   "Learn To Ski And Ride Area",
+   "Superstar / Flume",
+   "Superstar Express Six bottom",
+   0.5
+  ],
+  [
+   "Learn To Ski And Ride Area",
+   "Superstar Express Six bottom",
+   "Idler / Learn To Ski And Ride Area",
+   0.8
+  ],
+  [
+   "Learn To Ski And Ride Area",
+   "Idler / Learn To Ski And Ride Area",
+   "Learn To Snowboard Carpet top",
+   3.2
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Bear Claw",
+   "Wildfire",
+   0.5
+  ],
+  [
+   "Bunny Buster - Lower",
+   "Chute",
+   "Conclusion - Lower / Unnamed run",
+   1.6
+  ],
+  [
+   "Bunny Buster - Lower",
+   "Conclusion - Lower / Unnamed run",
+   "Bunny Buster - Lower",
+   0.5
+  ],
+  [
+   "Carpenter's Run",
+   "Needle's Eye Express Quad bottom",
+   "Great Eastern 12",
+   3.9
+  ],
+  [
+   "Chute",
+   "Snowdon Six top",
+   "Chute 2",
+   0.5
+  ],
+  [
+   "Chute",
+   "Chute 2",
+   "Low Rider / North Star",
+   0.5
+  ],
+  [
+   "Chute",
+   "Low Rider / North Star",
+   "Great Bear - Upper / Chute",
+   1.4
+  ],
+  [
+   "Chute",
+   "Great Bear - Upper / Chute",
+   "Chute, Bunny Buster - Upper / Great Northern",
+   0.9
+  ],
+  [
+   "South Ridge Link",
+   "Skyewalker",
+   "Escape 2",
+   1.4
+  ],
+  [
+   "Caper",
+   "Great Northern / Caper",
+   "Caper",
+   0.5
+  ],
+  [
+   "Caper",
+   "Caper",
+   "Caper / Great Northern - Lower",
+   0.9
+  ],
+  [
+   "Stash Way",
+   "Skye Peak Express Quad top",
+   "The Stash / Stash Way",
+   0.5
+  ],
+  [
+   "Stash Way",
+   "The Stash / Stash Way",
+   "The Stash / Stash Way 2",
+   0.5
+  ],
+  [
+   "Stash Way",
+   "The Stash / Stash Way 2",
+   "Stash Way / Gateway",
+   0.5
+  ],
+  [
+   "East Fall - Upper",
+   "Great Northern 8",
+   "East Fall - Lower / East Fall - Upper",
+   1.5
+  ],
+  [
+   "Spillway",
+   "Cascade / Double Dipper - Lower",
+   "Royal Flush - Lower / Spillway",
+   0.5
+  ],
+  [
+   "Spillway",
+   "Royal Flush - Lower / Spillway",
+   "Canyon Quad bottom",
+   0.5
+  ],
+  [
+   "Spillway",
+   "Canyon Quad bottom",
+   "Cascade Runout",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Alpine Training Venue Poma top",
+   "Unnamed run / Alpine Training Venue",
+   0.5
+  ],
+  [
+   "Rime",
+   "North Ridge Quad top",
+   "Great Northern 9",
+   1.2
+  ],
+  [
+   "Rime",
+   "Great Northern 9",
+   "East Fall - Lower / East Fall - Upper",
+   1.3
+  ],
+  [
+   "Rime",
+   "East Fall - Lower / East Fall - Upper",
+   "North Ridge Quad bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Dream Maker Headwall",
+   "Unnamed run / Skyeburst - Upper",
+   0.6
+  ],
+  [
+   "Northbrook Trail",
+   "Northbrook Trail / Snowshed Slope",
+   "High Road / Northbrook Trail",
+   2.2
+  ],
+  [
+   "Northbrook Trail",
+   "High Road / Northbrook Trail",
+   "Vertigo - Lower / Northbrook Trail",
+   0.5
+  ],
+  [
+   "Northbrook Trail",
+   "Vertigo - Lower / Northbrook Trail",
+   "Needle's Eye / Northbrook Trail",
+   0.6
+  ],
+  [
+   "Northbrook Trail",
+   "Needle's Eye / Northbrook Trail",
+   "Needle's Eye Express Quad bottom",
+   0.5
+  ],
+  [
+   "Northbrook Trail",
+   "Needle's Eye Express Quad bottom",
+   "Northbrook Quad bottom",
+   0.5
+  ],
+  [
+   "Powerline",
+   "North Ridge Quad top",
+   "Great Northern 9",
+   1.2
+  ],
+  [
+   "Mouse Trap",
+   "Great Northern 10",
+   "Chute, Bunny Buster - Upper / Chute",
+   0.5
+  ],
+  [
+   "Mouse Trap",
+   "Chute, Bunny Buster - Upper / Chute",
+   "Chute",
+   1.1
+  ],
+  [
+   "Old Superstar",
+   "Old Superstar",
+   "Superstar 3",
+   0.5
+  ],
+  [
+   "Field Goal",
+   "Great Eastern 13",
+   "Great Eastern 2",
+   3.2
+  ],
+  [
+   "Field Goal",
+   "Great Eastern 2",
+   "Valley Plunge / Field Goal",
+   2.8
+  ],
+  [
+   "Field Goal",
+   "Valley Plunge / Field Goal",
+   "Skyeship Express Gondola Stage 1 bottom",
+   1.3
+  ],
+  [
+   "Helter Skelter",
+   "Bear Trax 4",
+   "Escapade / Helter Skelter",
+   0.5
+  ],
+  [
+   "Helter Skelter",
+   "Escapade / Helter Skelter",
+   "South Ridge Quad top",
+   0.5
+  ],
+  [
+   "Highlander",
+   "Snowshed Express Quad top",
+   "Snowshed Double top",
+   0.5
+  ],
+  [
+   "Highlander",
+   "Snowshed Double top",
+   "Highlander",
+   0.7
+  ],
+  [
+   "Highlander",
+   "Highlander",
+   "Low Road / Highlander",
+   0.5
+  ],
+  [
+   "Highlander",
+   "Low Road / Highlander",
+   "Bittersweet / Highlander",
+   0.8
+  ],
+  [
+   "Highlander",
+   "Bittersweet / Highlander",
+   "Superstar / Flume",
+   0.7
+  ],
+  [
+   "Pipe Dream",
+   "South Ridge Quad top",
+   "The Jug - Upper / Solitude",
+   0.5
+  ],
+  [
+   "Pipe Dream",
+   "The Jug - Upper / Solitude",
+   "Breakaway / Pipe Dream",
+   1.5
+  ],
+  [
+   "Pipe Dream",
+   "Breakaway / Pipe Dream",
+   "Escape",
+   0.9
+  ],
+  [
+   "Pipe Dream",
+   "Escape",
+   "Escape 2",
+   0.5
+  ],
+  [
+   "Cascade - Headwall",
+   "K-1 Express Gondola top",
+   "Downdraft / Cascade - Headwall",
+   0.5
+  ],
+  [
+   "Cascade - Headwall",
+   "Downdraft / Cascade - Headwall",
+   "Cascade / Great Northern",
+   0.5
+  ],
+  [
+   "Killink",
+   "Snowdon Triple top",
+   "Full House / Killink",
+   0.5
+  ],
+  [
+   "Killink",
+   "Full House / Killink",
+   "Great Northern / Killink",
+   1.2
+  ],
+  [
+   "Killink",
+   "Great Northern / Killink",
+   "Unnamed run / Killink",
+   0.5
+  ],
+  [
+   "Killink",
+   "Unnamed run / Killink",
+   "North Ridge Quad bottom",
+   0.5
+  ],
+  [
+   "Bunny Buster - Upper",
+   "Bunny Buster - Upper",
+   "Chute, Bunny Buster - Upper / Great Northern",
+   2.3
+  ],
+  [
+   "Great Bear - Lower",
+   "Great Northern 4",
+   "Caper",
+   0.6
+  ],
+  [
+   "Devil's Fiddle",
+   "Outer Limits",
+   "Bear Cub 5",
+   3.6
+  ],
+  [
+   "Mouse Run - Upper",
+   "Full House / Killink",
+   "Royal Flush - Upper / Full House",
+   0.5
+  ],
+  [
+   "Mouse Run - Upper",
+   "Royal Flush - Upper / Full House",
+   "Mouse Run - Upper",
+   0.5
+  ],
+  [
+   "Mouse Run - Upper",
+   "Mouse Run - Upper",
+   "Great Northern 11",
+   1.1
+  ],
+  [
+   "Conclusion",
+   "Great Northern 10",
+   "Conclusion - Lower / Conclusion",
+   0.7
+  ],
+  [
+   "Skyelark - Upper",
+   "Superstar Express Six top",
+   "Skyelark - Upper",
+   0.5
+  ],
+  [
+   "Skyelark - Upper",
+   "Skyelark - Upper",
+   "Skyelark - Upper 2",
+   1.6
+  ],
+  [
+   "Skyelark - Upper",
+   "Skyelark - Upper 2",
+   "Skyelark - Lower / Somewhere",
+   1.3
+  ],
+  [
+   "Gateway",
+   "Nivis Walk / Gateway",
+   "Great Eastern 10",
+   0.5
+  ],
+  [
+   "Gateway",
+   "Great Eastern 10",
+   "Stash Way / Gateway",
+   1.0
+  ],
+  [
+   "Gateway",
+   "Stash Way / Gateway",
+   "Roundabout / Bear Trax",
+   0.7
+  ],
+  [
+   "Escape",
+   "Escape 2",
+   "Escape / Bear Trax",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Alpine Training Venue 2",
+   "Alpine Training Venue Poma bottom",
+   0.5
+  ],
+  [
+   "Yodeler",
+   "Highlander",
+   "Learn To Snowboard Carpet top",
+   2.8
+  ],
+  [
+   "Yodeler",
+   "Learn To Snowboard Carpet top",
+   "Idler / Yodeler",
+   0.5
+  ],
+  [
+   "Yodeler",
+   "Idler / Yodeler",
+   "Learn To Snowboard Carpet bottom",
+   0.5
+  ],
+  [
+   "Ovation",
+   "Ovation",
+   "Flume",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Skyeship Express Gondola Stage 2 top",
+   "Skye Peak Express Quad top",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Skye Peak Express Quad top",
+   "Unnamed run / Dream Maker Headwall",
+   0.5
+  ],
+  [
+   "Sundog",
+   "Bear Cub 3",
+   "Sundog",
+   1.7
+  ],
+  [
+   "Tin Man",
+   "Tin Man / Frolic",
+   "Caper 2",
+   1.4
+  ],
+  [
+   "Nowhere",
+   "Great Eastern 5",
+   "Great Eastern 8",
+   0.5
+  ],
+  [
+   "Nowhere",
+   "Great Eastern 8",
+   "Bittersweet",
+   1.1
+  ],
+  [
+   "Reason",
+   "North Ridge Quad top",
+   "Canyon Quad top",
+   0.5
+  ],
+  [
+   "Reason",
+   "Canyon Quad top",
+   "Great Northern 8",
+   0.7
+  ],
+  [
+   "Great Northern - Lower",
+   "Great Northern / Caper",
+   "Caper",
+   0.5
+  ],
+  [
+   "Great Northern - Lower",
+   "Caper",
+   "Caper / Great Northern - Lower",
+   0.8
+  ],
+  [
+   "Great Northern - Lower",
+   "Caper / Great Northern - Lower",
+   "Mouse Run - Lower / Great Northern - Lower",
+   1.4
+  ],
+  [
+   "Great Northern - Lower",
+   "Mouse Run - Lower / Great Northern - Lower",
+   "Snowdon Six bottom",
+   1.6
+  ],
+  [
+   "Great Northern - Lower",
+   "Snowdon Six bottom",
+   "Great Northern - Lower 2",
+   0.5
+  ],
+  [
+   "Great Northern - Lower",
+   "Great Northern - Lower 2",
+   "Timberline / Great Northern - Lower",
+   2.4
+  ],
+  [
+   "Great Northern - Lower",
+   "Timberline / Great Northern - Lower",
+   "Ramshead Express Quad bottom",
+   0.6
+  ],
+  [
+   "Sassafras",
+   "Solitude",
+   "Pipe Dream",
+   4.2
+  ],
+  [
+   "Treezy Zone",
+   "Easy Street 2",
+   "Magic Snow Play Park / Treezy Zone",
+   0.5
+  ],
+  [
+   "Superpipe",
+   "Dream Maker 5",
+   "Dream Maker",
+   2.0
+  ],
+  [
+   "Superpipe",
+   "Dream Maker",
+   "Dream Maker 6",
+   0.5
+  ],
+  [
+   "Home Stretch - Lower",
+   "Great Eastern 14",
+   "Great Eastern 13",
+   1.6
+  ],
+  [
+   "Home Stretch - Lower",
+   "Great Eastern 13",
+   "Great Eastern 15",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "The Jug - Upper / Solitude",
+   "Bear Trax 5",
+   0.5
+  ],
+  [
+   "Ridge Run",
+   "Great Northern 12",
+   "North Ridge Quad bottom",
+   0.8
+  ],
+  [
+   "Ridge Run",
+   "North Ridge Quad bottom",
+   "Unnamed run / Killink",
+   0.5
+  ],
+  [
+   "Skyeburst - Upper",
+   "Skye Peak Express Quad top",
+   "Unnamed run / Skyeburst - Upper",
+   0.6
+  ],
+  [
+   "Skyeburst - Upper",
+   "Unnamed run / Skyeburst - Upper",
+   "The North Way / Skyeburst - Upper",
+   0.5
+  ],
+  [
+   "Skyeburst - Upper",
+   "The North Way / Skyeburst - Upper",
+   "Skyeburst - Middle / Skyeburst - Upper",
+   1.7
+  ],
+  [
+   "Alpine Training Venue",
+   "Twister / Easy Street",
+   "Unnamed run / Alpine Training Venue",
+   0.5
+  ],
+  [
+   "Alpine Training Venue",
+   "Unnamed run / Alpine Training Venue",
+   "Unnamed run / Alpine Training Venue 2",
+   1.8
+  ],
+  [
+   "Alpine Training Venue",
+   "Unnamed run / Alpine Training Venue 2",
+   "Easy Street 3",
+   0.5
+  ],
+  [
+   "Snowshed Crossover",
+   "Snowshed Crossover / Bear Claw",
+   "The Stash",
+   0.7
+  ],
+  [
+   "Snowshed Crossover",
+   "The Stash",
+   "Dream Maker / The North Way",
+   1.6
+  ],
+  [
+   "Snowshed Crossover",
+   "Dream Maker / The North Way",
+   "Dream Maker 4",
+   0.5
+  ],
+  [
+   "Snowshed Crossover",
+   "Dream Maker 4",
+   "Cruise Control",
+   0.5
+  ],
+  [
+   "Northbrook Crossover",
+   "Great Eastern 16",
+   "Unnamed run / Home Stretch - Upper",
+   0.8
+  ],
+  [
+   "Northbrook Crossover",
+   "Unnamed run / Home Stretch - Upper",
+   "Cruise Control / Unnamed run",
+   1.3
+  ],
+  [
+   "Touch Down",
+   "Valley Plunge / Great Eastern",
+   "Valley Plunge / Field Goal",
+   1.8
+  ],
+  [
+   "Touch Down",
+   "Valley Plunge / Field Goal",
+   "Great Eastern 17",
+   0.8
+  ],
+  [
+   "Panic Button",
+   "Unnamed run / Great Eastern",
+   "Needle's Eye Express Quad top",
+   0.5
+  ],
+  [
+   "Panic Button",
+   "Needle's Eye Express Quad top",
+   "Chunnel / Needle's Eye",
+   0.5
+  ],
+  [
+   "Panic Button",
+   "Chunnel / Needle's Eye",
+   "Needle's Eye",
+   0.5
+  ],
+  [
+   "Frolic",
+   "Chute 2",
+   "Low Rider / North Star",
+   0.5
+  ],
+  [
+   "Frolic",
+   "Low Rider / North Star",
+   "Patsy's / Frolic",
+   2.2
+  ],
+  [
+   "Frolic",
+   "Patsy's / Frolic",
+   "Vagabond / Frolic",
+   0.6
+  ],
+  [
+   "Frolic",
+   "Vagabond / Frolic",
+   "Tin Man / Frolic",
+   0.5
+  ],
+  [
+   "Frolic",
+   "Tin Man / Frolic",
+   "Scarecrow / Frolic",
+   0.5
+  ],
+  [
+   "Frolic",
+   "Scarecrow / Frolic",
+   "Caper / Easy Street",
+   0.5
+  ],
+  [
+   "Highline Race Trail",
+   "Great Northern 11",
+   "Cascade Runout 2",
+   3.1
+  ],
+  [
+   "FIS",
+   "Great Northern 3",
+   "Cascade / Great Northern",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Great Eastern 8",
+   "Unnamed run / Bittersweet",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Bittersweet",
+   "Needle's Eye Express Quad top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Skyeship Express Gondola Stage 2 top",
+   "Great Eastern 18",
+   0.5
+  ],
+  [
+   "Great Bear - Upper",
+   "Great Bear - Upper",
+   "Great Northern 13",
+   0.5
+  ],
+  [
+   "Skye Hawk",
+   "Skyelark - Upper",
+   "Skyelark - Upper 2",
+   1.1
+  ],
+  [
+   "Bear Claw",
+   "Snowshed Crossover / Outer Limits",
+   "Bear Claw",
+   0.5
+  ],
+  [
+   "Bear Claw",
+   "Bear Claw",
+   "Unnamed run / Bear Claw",
+   0.9
+  ],
+  [
+   "Bear Claw",
+   "Unnamed run / Bear Claw",
+   "Shorty / Bear Claw",
+   0.5
+  ],
+  [
+   "Bear Claw",
+   "Shorty / Bear Claw",
+   "Skyeburst - Middle / Skyeburst - Upper",
+   0.5
+  ],
+  [
+   "Bear Claw",
+   "Skyeburst - Middle / Skyeburst - Upper",
+   "Skyeburst - Lower / Skyeburst - Middle",
+   0.9
+  ],
+  [
+   "Old Superstar",
+   "Old Superstar / Launch Pad",
+   "Old Superstar",
+   0.8
+  ],
+  [
+   "Old Superstar",
+   "Old Superstar",
+   "Ovation 2",
+   0.5
+  ],
+  [
+   "Caper",
+   "Caper / Great Northern - Lower",
+   "Great Northern - Lower 2",
+   1.9
+  ],
+  [
+   "Launch Pad",
+   "Bear Trax 6",
+   "Nivis Walk / Launch Pad",
+   1.5
+  ],
+  [
+   "Launch Pad",
+   "Nivis Walk / Launch Pad",
+   "Nivis Walk",
+   0.5
+  ],
+  [
+   "Launch Pad",
+   "Nivis Walk",
+   "Old Superstar / Launch Pad",
+   0.7
+  ],
+  [
+   "Launch Pad",
+   "Old Superstar / Launch Pad",
+   "Great Eastern 5",
+   1.5
+  ],
+  [
+   "Launch Pad",
+   "Great Eastern 5",
+   "Great Eastern 8",
+   0.5
+  ],
+  [
+   "Snowshed Slope",
+   "Snowshed Express Quad top",
+   "Snowshed Double top",
+   0.5
+  ],
+  [
+   "Snowshed Slope",
+   "Snowshed Double top",
+   "Highridge / Snowshed Slope",
+   0.5
+  ],
+  [
+   "Snowshed Slope",
+   "Highridge / Snowshed Slope",
+   "Northbrook Trail / Snowshed Slope",
+   0.7
+  ],
+  [
+   "Snowshed Slope",
+   "Northbrook Trail / Snowshed Slope",
+   "Edgemont/Whiffletree / Snowshed Slope",
+   0.6
+  ],
+  [
+   "Snowshed Slope",
+   "Edgemont/Whiffletree / Snowshed Slope",
+   "Trail Creek / Snowshed Slope",
+   1.8
+  ],
+  [
+   "Snowshed Slope",
+   "Trail Creek / Snowshed Slope",
+   "Snowshed Double bottom",
+   0.8
+  ],
+  [
+   "Chop Chop",
+   "Chop Chop / Racer's Edge",
+   "Cascade Runout 3",
+   1.3
+  ],
+  [
+   "Needle's Eye",
+   "Great Eastern 19",
+   "Unnamed run / Great Eastern",
+   1.1
+  ],
+  [
+   "Needle's Eye",
+   "Unnamed run / Great Eastern",
+   "Unnamed run / Great Eastern 2",
+   0.5
+  ],
+  [
+   "Needle's Eye",
+   "Unnamed run / Great Eastern 2",
+   "Chunnel / Needle's Eye",
+   0.5
+  ],
+  [
+   "Racer's Edge",
+   "Unnamed run / Killink",
+   "The Throne / Racer's Edge",
+   0.5
+  ],
+  [
+   "Racer's Edge",
+   "The Throne / Racer's Edge",
+   "Chop Chop / Racer's Edge",
+   2.2
+  ],
+  [
+   "Racer's Edge",
+   "Chop Chop / Racer's Edge",
+   "Conclusion - Lower / Conclusion",
+   0.9
+  ],
+  [
+   "Racer's Edge",
+   "Conclusion - Lower / Conclusion",
+   "Chute",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Ramshead Express Quad top",
+   "Easy Street",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Easy Street",
+   "Easy Street 4",
+   0.5
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "North Ridge Quad top",
+   "Catwalk - Lower / Low Traverse",
+   2.3
+  ],
+  [
+   "walk",
+   "North Ridge Quad top",
+   "Canyon Quad top",
+   1.4
+  ],
+  [
+   "walk",
+   "Catwalk - Lower / Low Traverse",
+   "North Ridge Quad top",
+   2.3
+  ],
+  [
+   "walk",
+   "Catwalk - Lower / Low Traverse",
+   "Canyon Quad top",
+   1.1
+  ],
+  [
+   "walk",
+   "Valley Plunge / Field Goal",
+   "Skyeship Express Gondola Stage 1 bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Nivis Walk",
+   3.4
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Skye Peak Express Quad top",
+   3.3
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Ovation / Nivis Walk",
+   1.9
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Nivis Walk / Gateway",
+   0.6
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Great Eastern 10",
+   1.1
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Skyewalker",
+   1.9
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Skyeship Express Gondola Stage 2 top",
+   2.1
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Great Eastern 18",
+   1.6
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Skyelark - Upper",
+   1.2
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Old Superstar / Launch Pad",
+   1.9
+  ],
+  [
+   "walk",
+   "Superstar / Flume",
+   "K-1 Express Gondola bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Superstar / Flume",
+   "Unnamed lift bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Superstar / Flume",
+   "Superstar Express Six bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern",
+   "Needle's Eye Express Quad top",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern 2",
+   "Needle's Eye Express Quad top",
+   1.0
+  ],
+  [
+   "walk",
+   "Bear Mountain Quad bottom",
+   "Dream Maker 6",
+   1.1
+  ],
+  [
+   "walk",
+   "Bear Mountain Quad bottom",
+   "Skye Peak Express Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Bittersweet",
+   "Needle's Eye Express Quad top",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Needle's Eye Express Quad top",
+   0.6
+  ],
+  [
+   "walk",
+   "Roundabout / Pipe Dream",
+   "South Ridge Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "The Jug - Upper / Solitude",
+   "South Ridge Quad top",
+   1.0
+  ],
+  [
+   "walk",
+   "Lil' Stash / Easy Street",
+   "Ramshead Express Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Lil' Stash / Easy Street",
+   "Snowplay Carpet II bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Lil' Stash / Easy Street",
+   "Snowplay Carpet II top",
+   1.4
+  ],
+  [
+   "walk",
+   "Lil' Stash / Easy Street",
+   "Snowplay Carpet I top",
+   2.2
+  ],
+  [
+   "walk",
+   "Cascade / Great Northern",
+   "South Ridge Quad top",
+   3.2
+  ],
+  [
+   "walk",
+   "Cascade / Double Dipper - Lower",
+   "Canyon Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Low Road / Bittersweet",
+   "Snowshed Express Quad top",
+   2.8
+  ],
+  [
+   "walk",
+   "Low Road / Bittersweet",
+   "Northbrook Quad top",
+   3.2
+  ],
+  [
+   "walk",
+   "Low Road / Bittersweet",
+   "Snowshed Double top",
+   3.3
+  ],
+  [
+   "walk",
+   "Low Road / Highlander",
+   "Superstar Express Six bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Bear Trax",
+   "South Ridge Quad top",
+   2.7
+  ],
+  [
+   "walk",
+   "Twister / Easy Street",
+   "Ramshead Express Quad top",
+   0.9
+  ],
+  [
+   "walk",
+   "Twister / Easy Street",
+   "Alpine Training Venue Poma top",
+   1.5
+  ],
+  [
+   "walk",
+   "Twister / Easy Street 2",
+   "Alpine Training Venue Poma bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "The Stash / Stash Way",
+   1.7
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "Unnamed run / Dream Maker Headwall",
+   0.7
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "Dream Maker Headwall",
+   1.3
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "Great Eastern 5",
+   3.0
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "Great Eastern 8",
+   3.4
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "The Stash / Stash Way 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "Stash Way / Gateway",
+   3.3
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "Unnamed run / Skyeburst - Upper",
+   2.3
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "Great Eastern 19",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "Skye Peak Express Quad top",
+   0.7
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Superstar Express Six top",
+   1.9
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Superstar Express Six top",
+   0.6
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Skyeship Express Gondola Stage 2 top",
+   2.8
+  ],
+  [
+   "walk",
+   "Mouse Run - Lower / Great Northern - Lower",
+   "K-1 Express Gondola bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Mouse Run - Lower / Great Northern - Lower",
+   "Snowdon Six bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Escapade / Helter Skelter",
+   "South Ridge Quad top",
+   0.9
+  ],
+  [
+   "walk",
+   "Pipe Dream",
+   "South Ridge Quad bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Dream Maker",
+   "Bear Mountain Quad bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Dream Maker",
+   "Skye Peak Express Quad bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Snowshed Crossover / Outer Limits",
+   "Bear Mountain Quad top",
+   0.8
+  ],
+  [
+   "walk",
+   "Snowshed Crossover / Bear Claw",
+   "Bear Mountain Quad top",
+   2.6
+  ],
+  [
+   "walk",
+   "Magic Snow Play Park / Treezy Zone",
+   "Ramshead Express Quad bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Magic Snow Play Park / Treezy Zone",
+   "Snowplay Carpet II bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Magic Snow Play Park / Treezy Zone",
+   "Snowplay Carpet II top",
+   1.5
+  ],
+  [
+   "walk",
+   "Magic Snow Play Park / Treezy Zone",
+   "Snowplay Carpet I top",
+   2.1
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad bottom",
+   "Great Northern - Lower",
+   2.8
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad bottom",
+   "Idler / Yodeler",
+   2.7
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad bottom",
+   "Learn To Snowboard Carpet bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad bottom",
+   "Snowshed Double bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad bottom",
+   "Snowplay Carpet II bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad bottom",
+   "Snowplay Carpet II top",
+   1.7
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad bottom",
+   "Snowplay Carpet I top",
+   1.2
+  ],
+  [
+   "walk",
+   "East Fall - Lower / East Fall - Upper",
+   "North Ridge Quad bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Canyon Quad top",
+   "North Ridge Quad top",
+   1.4
+  ],
+  [
+   "walk",
+   "Canyon Quad top",
+   "Catwalk - Lower / Low Traverse",
+   1.1
+  ],
+  [
+   "walk",
+   "Canyon Quad top",
+   "Catwalk - Lower / Double Dipper - Lower",
+   2.3
+  ],
+  [
+   "walk",
+   "Canyon Quad top",
+   "Cascade / Great Northern",
+   2.4
+  ],
+  [
+   "walk",
+   "Canyon Quad top",
+   "Low Traverse / Great Northern",
+   2.5
+  ],
+  [
+   "walk",
+   "Canyon Quad top",
+   "Great Northern 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Canyon Quad top",
+   "Great Northern 5",
+   2.6
+  ],
+  [
+   "walk",
+   "Canyon Quad top",
+   "Great Northern 8",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "K-1 Express Gondola bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Unnamed lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Superstar Express Six bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Conclusion - Lower / Unnamed run",
+   "K-1 Express Gondola bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Conclusion - Lower / Unnamed run",
+   "Unnamed lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Squeeze Play / Timberline",
+   "Snowplay Carpet II top",
+   3.2
+  ],
+  [
+   "walk",
+   "Skyebits / Bittersweet",
+   "Superstar Express Six bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Great Northern - Lower",
+   "Ramshead Express Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Great Northern - Lower",
+   "Learn To Snowboard Carpet bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Great Northern - Lower",
+   "Snowshed Double bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Great Northern - Lower",
+   "Snowshed Express Quad bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Great Northern / Killink",
+   "North Ridge Quad bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Great Northern",
+   "North Ridge Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "North Ridge Quad top",
+   2.8
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Catwalk - Lower / Low Traverse",
+   2.7
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Cascade / Great Northern",
+   3.3
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Bear Trax / Blue Heaven",
+   1.9
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Bear Trax",
+   2.9
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Canyon Quad top",
+   3.0
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Downdraft / Cascade - Headwall",
+   1.5
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Great Northern 3",
+   2.3
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Great Northern 6",
+   0.9
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Bear Trax 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Timberline / Great Northern - Lower",
+   "Ramshead Express Quad bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Timberline / Great Northern - Lower",
+   "Learn To Snowboard Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Timberline / Great Northern - Lower",
+   "Snowplay Carpet II bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Timberline / Great Northern - Lower",
+   "Snowplay Carpet II top",
+   1.9
+  ],
+  [
+   "walk",
+   "Timberline / Great Northern - Lower",
+   "Snowplay Carpet I top",
+   2.3
+  ],
+  [
+   "walk",
+   "Sunrise Village Triple top",
+   "Sundog",
+   3.4
+  ],
+  [
+   "walk",
+   "Sunrise Village Triple top",
+   "Sunrise Trail",
+   2.7
+  ],
+  [
+   "walk",
+   "Sunrise Village Triple top",
+   "Bear Cub 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Full House / Killink",
+   "Snowdon Six top",
+   2.1
+  ],
+  [
+   "walk",
+   "Full House / Killink",
+   "Snowdon Triple top",
+   1.2
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola bottom",
+   "Superstar / Flume",
+   2.0
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola bottom",
+   "Unnamed run 3",
+   1.1
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola bottom",
+   "Bunny Buster - Lower",
+   0.7
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola bottom",
+   "Cascade Runout 2",
+   1.8
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola bottom",
+   "Unnamed lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola bottom",
+   "Superstar Express Six bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad top",
+   "Unnamed run / Great Eastern",
+   0.7
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad top",
+   "Unnamed run / Great Eastern 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad top",
+   "Unnamed run / Bittersweet",
+   0.7
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad top",
+   "Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad top",
+   "Bittersweet",
+   2.9
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad top",
+   "The Stairs",
+   1.6
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad top",
+   "Great Eastern 7",
+   2.2
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad top",
+   "Vertigo - Lower",
+   2.6
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad top",
+   "Great Eastern 9",
+   2.4
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad top",
+   "Chunnel / Needle's Eye",
+   2.4
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad top",
+   "Needle's Eye",
+   3.1
+  ],
+  [
+   "walk",
+   "Downdraft / Cascade - Headwall",
+   "North Ridge Quad top",
+   2.7
+  ],
+  [
+   "walk",
+   "Downdraft / Cascade - Headwall",
+   "Canyon Quad top",
+   2.1
+  ],
+  [
+   "walk",
+   "Skyelark - Lower / Bittersweet",
+   "Superstar Express Six bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Great Eastern 5",
+   "Needle's Eye Express Quad top",
+   3.0
+  ],
+  [
+   "walk",
+   "Great Northern 3",
+   "Canyon Quad top",
+   3.2
+  ],
+  [
+   "walk",
+   "Great Northern 3",
+   "South Ridge Quad top",
+   3.1
+  ],
+  [
+   "walk",
+   "Cruise Control / Unnamed run",
+   "Needle's Eye Express Quad bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Snowdon Six bottom",
+   "Great Northern - Lower 2",
+   0.7
+  ],
+  [
+   "walk",
+   "South Ridge Quad top",
+   "The Jug - Upper / Solitude",
+   1.0
+  ],
+  [
+   "walk",
+   "South Ridge Quad top",
+   "Cascade / Great Northern",
+   3.2
+  ],
+  [
+   "walk",
+   "South Ridge Quad top",
+   "Bear Trax 5",
+   2.4
+  ],
+  [
+   "walk",
+   "Royal Flush - Lower / Spillway",
+   "Canyon Quad bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Great Eastern 8",
+   "Needle's Eye Express Quad top",
+   2.1
+  ],
+  [
+   "walk",
+   "Bittersweet / Highlander",
+   "Unnamed lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Bittersweet / Highlander",
+   "Superstar Express Six bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Vertigo - Lower / Northbrook Trail",
+   "Needle's Eye Express Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Pipe Dream 2",
+   "South Ridge Quad bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad top",
+   "Scarecrow / Frolic",
+   2.8
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad top",
+   "Twister / Easy Street",
+   0.9
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad top",
+   "Caper / Easy Street",
+   2.7
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad top",
+   "Easy Street",
+   1.2
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad top",
+   "Alpine Training Venue Poma top",
+   1.8
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad top",
+   "Unnamed run / Alpine Training Venue",
+   1.7
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad top",
+   "Easy Street 4",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Killink",
+   "North Ridge Quad bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Low Rider / North Star",
+   "Snowdon Triple top",
+   2.1
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Superstar Express Six top",
+   1.1
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Skyeship Express Gondola Stage 2 top",
+   2.4
+  ],
+  [
+   "walk",
+   "Needle's Eye / Northbrook Trail",
+   "Northbrook Quad bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Needle's Eye / Northbrook Trail",
+   "Needle's Eye Express Quad bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Idler / Learn To Ski And Ride Area",
+   "Unnamed lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Idler / Learn To Ski And Ride Area",
+   "Superstar Express Six bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Idler / Yodeler",
+   "Ramshead Express Quad bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Idler / Yodeler",
+   "Learn To Snowboard Carpet top",
+   1.1
+  ],
+  [
+   "walk",
+   "Idler / Yodeler",
+   "Learn To Snowboard Carpet bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Idler / Yodeler",
+   "Snowshed Double bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Idler / Yodeler",
+   "Snowplay Carpet II bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Idler / Yodeler",
+   "Snowshed Express Quad bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Northbrook Quad bottom",
+   "Needle's Eye / Northbrook Trail",
+   2.0
+  ],
+  [
+   "walk",
+   "Northbrook Quad bottom",
+   "Needle's Eye Express Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet top",
+   "Great Northern - Lower",
+   2.9
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet top",
+   "Idler / Yodeler",
+   1.1
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet top",
+   "Trail Creek / Snowshed Slope",
+   1.9
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet top",
+   "Learn To Snowboard Carpet bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet top",
+   "Snowshed Double bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet top",
+   "Snowshed Express Quad bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Bunny Buster - Lower",
+   "Superstar / Flume",
+   2.7
+  ],
+  [
+   "walk",
+   "Bunny Buster - Lower",
+   "Unnamed run 3",
+   1.6
+  ],
+  [
+   "walk",
+   "Bunny Buster - Lower",
+   "Conclusion - Lower / Unnamed run",
+   1.2
+  ],
+  [
+   "walk",
+   "Bunny Buster - Lower",
+   "K-1 Express Gondola bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Bunny Buster - Lower",
+   "Cascade Runout 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Bunny Buster - Lower",
+   "Unnamed lift bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Bunny Buster - Lower",
+   "Superstar Express Six bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad bottom",
+   "Needle's Eye / Northbrook Trail",
+   0.9
+  ],
+  [
+   "walk",
+   "Needle's Eye Express Quad bottom",
+   "Northbrook Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Snowdon Six top",
+   "Royal Flush - Upper / Full House",
+   2.7
+  ],
+  [
+   "walk",
+   "Snowdon Six top",
+   "Full House / Killink",
+   2.1
+  ],
+  [
+   "walk",
+   "Snowdon Six top",
+   "Low Rider / North Star",
+   1.3
+  ],
+  [
+   "walk",
+   "Snowdon Six top",
+   "Snowdon Triple top",
+   1.3
+  ],
+  [
+   "walk",
+   "Snowdon Six top",
+   "Bunny Buster - Upper",
+   0.7
+  ],
+  [
+   "walk",
+   "Snowdon Six top",
+   "Chute 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Alpine Training Venue Poma top",
+   "Twister / Easy Street",
+   1.5
+  ],
+  [
+   "walk",
+   "Alpine Training Venue Poma top",
+   "Ramshead Express Quad top",
+   1.8
+  ],
+  [
+   "walk",
+   "Alpine Training Venue Poma top",
+   "Easy Street",
+   2.3
+  ],
+  [
+   "walk",
+   "Alpine Training Venue Poma top",
+   "Unnamed run / Alpine Training Venue",
+   1.5
+  ],
+  [
+   "walk",
+   "Alpine Training Venue Poma top",
+   "Easy Street 4",
+   3.2
+  ],
+  [
+   "walk",
+   "North Ridge Quad bottom",
+   "East Fall - Lower / East Fall - Upper",
+   1.0
+  ],
+  [
+   "walk",
+   "North Ridge Quad bottom",
+   "Great Northern / Killink",
+   1.7
+  ],
+  [
+   "walk",
+   "North Ridge Quad bottom",
+   "Great Northern",
+   3.0
+  ],
+  [
+   "walk",
+   "North Ridge Quad bottom",
+   "The Throne / Racer's Edge",
+   1.8
+  ],
+  [
+   "walk",
+   "North Ridge Quad bottom",
+   "Unnamed run / Killink",
+   0.8
+  ],
+  [
+   "walk",
+   "North Ridge Quad bottom",
+   "East Fall - Lower",
+   1.2
+  ],
+  [
+   "walk",
+   "Bear Trax 4",
+   "South Ridge Quad top",
+   2.3
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad top",
+   "Highridge / Snowshed Slope",
+   2.1
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad top",
+   "Northbrook Quad top",
+   0.8
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad top",
+   "Snowshed Double top",
+   1.2
+  ],
+  [
+   "walk",
+   "Snowdon Triple top",
+   "Royal Flush - Upper / Full House",
+   1.9
+  ],
+  [
+   "walk",
+   "Snowdon Triple top",
+   "Full House / Killink",
+   1.2
+  ],
+  [
+   "walk",
+   "Snowdon Triple top",
+   "Low Rider / North Star",
+   2.1
+  ],
+  [
+   "walk",
+   "Snowdon Triple top",
+   "Snowdon Six top",
+   1.3
+  ],
+  [
+   "walk",
+   "Snowdon Triple top",
+   "Bunny Buster - Upper",
+   0.7
+  ],
+  [
+   "walk",
+   "Snowdon Triple top",
+   "Chute 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Bunny Buster - Upper",
+   "Snowdon Six top",
+   0.7
+  ],
+  [
+   "walk",
+   "Bunny Buster - Upper",
+   "Snowdon Triple top",
+   0.7
+  ],
+  [
+   "walk",
+   "Trail Creek / Snowshed Slope",
+   "Learn To Snowboard Carpet top",
+   1.9
+  ],
+  [
+   "walk",
+   "Trail Creek / Snowshed Slope",
+   "Learn To Snowboard Carpet bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Trail Creek / Snowshed Slope",
+   "Snowshed Double bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Trail Creek / Snowshed Slope",
+   "Snowshed Express Quad bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Outer Limits",
+   "Bear Mountain Quad top",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Alpine Training Venue 2",
+   "Alpine Training Venue Poma bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Alpine Training Venue Poma bottom",
+   "Twister / Easy Street 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Alpine Training Venue Poma bottom",
+   "Unnamed run / Alpine Training Venue 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Alpine Training Venue Poma bottom",
+   "Easy Street 3",
+   1.3
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet bottom",
+   "Ramshead Express Quad bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet bottom",
+   "Great Northern - Lower",
+   1.2
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet bottom",
+   "Timberline / Great Northern - Lower",
+   3.2
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet bottom",
+   "Idler / Yodeler",
+   1.1
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet bottom",
+   "Learn To Snowboard Carpet top",
+   2.1
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet bottom",
+   "Snowshed Double bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet bottom",
+   "Snowplay Carpet II bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet bottom",
+   "Snowshed Express Quad bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet bottom",
+   "Snowplay Carpet I top",
+   3.1
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "The Stash / Stash Way",
+   1.7
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Superstar Express Six top",
+   2.1
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Skye Peak Express Quad top",
+   1.3
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Unnamed run / Dream Maker Headwall",
+   1.9
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Dream Maker Headwall",
+   2.6
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Nivis Walk / Gateway",
+   2.8
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "The Stash / Stash Way 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Great Eastern 10",
+   2.4
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Skyewalker",
+   3.0
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Stash Way / Gateway",
+   2.7
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Unnamed run / Skyeburst - Upper",
+   3.3
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Great Eastern 18",
+   0.7
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Skyelark - Upper",
+   1.2
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Great Eastern 19",
+   2.2
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Snowplay Carpet II bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Snowplay Carpet II top",
+   2.5
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Snowplay Carpet I top",
+   3.3
+  ],
+  [
+   "walk",
+   "Dream Maker 6",
+   "Bear Mountain Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Dream Maker 6",
+   "Skye Peak Express Quad bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Great Northern 12",
+   "North Ridge Quad bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Easy Street 3",
+   "Alpine Training Venue Poma bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Highridge / Snowshed Slope",
+   "Snowshed Double top",
+   1.0
+  ],
+  [
+   "walk",
+   "Great Eastern 17",
+   "Skyeship Express Gondola Stage 1 bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Chute 2",
+   "Snowdon Six top",
+   0.6
+  ],
+  [
+   "walk",
+   "Chute 2",
+   "Snowdon Triple top",
+   1.7
+  ],
+  [
+   "walk",
+   "Cascade Runout 2",
+   "K-1 Express Gondola bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Cascade Runout 2",
+   "Unnamed lift bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Cascade Runout 2",
+   "Superstar Express Six bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Superstar Express Six top",
+   1.6
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Skye Peak Express Quad top",
+   2.1
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Skyeship Express Gondola Stage 2 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Superstar Express Six top",
+   1.2
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Skye Peak Express Quad top",
+   2.2
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Skyeship Express Gondola Stage 2 top",
+   1.2
+  ],
+  [
+   "walk",
+   "Great Northern - Lower 2",
+   "Snowdon Six bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Snowshed Double bottom",
+   "Ramshead Express Quad bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Snowshed Double bottom",
+   "Great Northern - Lower",
+   0.7
+  ],
+  [
+   "walk",
+   "Snowshed Double bottom",
+   "Learn To Snowboard Carpet bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Snowshed Double bottom",
+   "Snowshed Express Quad bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Chop Chop / Racer's Edge",
+   "Canyon Quad bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Northbrook Quad top",
+   "The Stairs / High Road",
+   2.9
+  ],
+  [
+   "walk",
+   "Northbrook Quad top",
+   "Snowshed Express Quad top",
+   0.8
+  ],
+  [
+   "walk",
+   "Northbrook Quad top",
+   "Highridge / Snowshed Slope",
+   2.6
+  ],
+  [
+   "walk",
+   "Northbrook Quad top",
+   "Snowshed Double top",
+   1.9
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II bottom",
+   "Ramshead Express Quad bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II bottom",
+   "Idler / Yodeler",
+   3.4
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II bottom",
+   "Learn To Snowboard Carpet bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II bottom",
+   "Snowplay Carpet II top",
+   0.9
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II bottom",
+   "Snowplay Carpet I top",
+   0.7
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II top",
+   "Magic Snow Play Park / Treezy Zone",
+   1.5
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II top",
+   "Ramshead Express Quad bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II top",
+   "Timberline / Great Northern - Lower",
+   1.9
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II top",
+   "Snowplay Carpet II bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II top",
+   "Snowplay Carpet I top",
+   0.9
+  ],
+  [
+   "walk",
+   "South Ridge Quad bottom",
+   "Roundabout / Pipe Dream",
+   1.1
+  ],
+  [
+   "walk",
+   "South Ridge Quad bottom",
+   "Bear Cub",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Superstar / Flume",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed run 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "K-1 Express Gondola bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Idler / Learn To Ski And Ride Area",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Bunny Buster - Lower",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Cascade Runout 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Superstar Express Six bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad bottom",
+   "Great Northern - Lower",
+   1.3
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad bottom",
+   "Learn To Snowboard Carpet bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad bottom",
+   "Snowshed Double bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Snowplay Carpet I top",
+   "Ramshead Express Quad bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Snowplay Carpet I top",
+   "Timberline / Great Northern - Lower",
+   2.3
+  ],
+  [
+   "walk",
+   "Snowplay Carpet I top",
+   "Learn To Snowboard Carpet bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Snowplay Carpet I top",
+   "Snowplay Carpet II bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Snowplay Carpet I top",
+   "Snowplay Carpet II top",
+   0.9
+  ],
+  [
+   "walk",
+   "Snowshed Double top",
+   "Low Road / Highlander",
+   3.2
+  ],
+  [
+   "walk",
+   "Snowshed Double top",
+   "Skyebits / Bittersweet",
+   3.4
+  ],
+  [
+   "walk",
+   "Snowshed Double top",
+   "Northbrook Trail / Snowshed Slope",
+   3.2
+  ],
+  [
+   "walk",
+   "Snowshed Double top",
+   "Snowshed Express Quad top",
+   1.2
+  ],
+  [
+   "walk",
+   "Snowshed Double top",
+   "Highlander",
+   2.7
+  ],
+  [
+   "walk",
+   "Snowshed Double top",
+   "Highridge / Snowshed Slope",
+   1.0
+  ],
+  [
+   "walk",
+   "Snowshed Double top",
+   "Northbrook Quad top",
+   1.9
+  ],
+  [
+   "walk",
+   "Superstar Express Six bottom",
+   "Superstar / Flume",
+   1.7
+  ],
+  [
+   "walk",
+   "Superstar Express Six bottom",
+   "Unnamed run 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Superstar Express Six bottom",
+   "K-1 Express Gondola bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Superstar Express Six bottom",
+   "Bittersweet / Highlander",
+   0.9
+  ],
+  [
+   "walk",
+   "Superstar Express Six bottom",
+   "Idler / Learn To Ski And Ride Area",
+   2.8
+  ],
+  [
+   "walk",
+   "Superstar Express Six bottom",
+   "Bunny Buster - Lower",
+   3.4
+  ],
+  [
+   "walk",
+   "Superstar Express Six bottom",
+   "Cascade Runout 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Superstar Express Six bottom",
+   "Unnamed lift bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad bottom",
+   "Bear Mountain Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad bottom",
+   "Dream Maker 6",
+   0.9
+  ],
+  [
+   "walk",
+   "Bear Mountain Quad top",
+   "Snowshed Crossover / Outer Limits",
+   0.8
+  ],
+  [
+   "walk",
+   "Bear Mountain Quad top",
+   "Snowshed Crossover / Bear Claw",
+   2.6
+  ],
+  [
+   "walk",
+   "Bear Mountain Quad top",
+   "Bear Claw",
+   1.5
+  ],
+  [
+   "walk",
+   "Bear Mountain Quad top",
+   "Outer Limits",
+   0.7
+  ],
+  [
+   "walk",
+   "Canyon Quad bottom",
+   "Royal Flush - Lower / Spillway",
+   1.2
+  ],
+  [
+   "walk",
+   "Canyon Quad bottom",
+   "Cascade Runout",
+   2.2
+  ],
+  [
+   "walk",
+   "Downdraft / Cascade - Headwall",
+   "Catwalk - Lower / Low Traverse",
+   3.2
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Nivis Walk",
+   5.3
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Skye Peak Express Quad top",
+   5.2
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Nivis Walk / Gateway",
+   2.5
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Great Eastern 10",
+   3.0
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Skyewalker",
+   3.8
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Skyeship Express Gondola Stage 2 top",
+   4.0
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Great Eastern 18",
+   3.5
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Skyelark - Upper",
+   3.1
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Old Superstar / Launch Pad",
+   3.8
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Nivis Walk",
+   4.1
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Skye Peak Express Quad top",
+   3.9
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Ovation / Nivis Walk",
+   2.5
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Great Eastern 10",
+   1.7
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Skyewalker",
+   2.5
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Great Eastern 18",
+   2.2
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Skyelark - Upper",
+   1.8
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Old Superstar / Launch Pad",
+   2.6
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Nivis Walk",
+   4.5
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Skye Peak Express Quad top",
+   3.8
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Ovation / Nivis Walk",
+   3.0
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Nivis Walk / Gateway",
+   1.7
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Skyewalker",
+   3.0
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Great Eastern 18",
+   2.6
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Skyelark - Upper",
+   2.2
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Old Superstar / Launch Pad",
+   3.0
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Nivis Walk",
+   5.6
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Ovation / Nivis Walk",
+   4.0
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Old Superstar / Launch Pad",
+   4.1
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Nivis Walk",
+   5.0
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Ovation / Nivis Walk",
+   3.5
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Nivis Walk / Gateway",
+   2.2
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Great Eastern 10",
+   2.6
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Skyewalker",
+   3.5
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Skyelark - Upper",
+   2.0
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Old Superstar / Launch Pad",
+   3.5
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Nivis Walk",
+   4.6
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Ovation / Nivis Walk",
+   3.1
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Nivis Walk / Gateway",
+   1.8
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Great Eastern 10",
+   2.2
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Skyewalker",
+   3.1
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Great Eastern 18",
+   2.0
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Old Superstar / Launch Pad",
+   3.1
+  ],
+  [
+   "walk",
+   "Dream Maker",
+   "Dream Maker 6",
+   2.4
+  ],
+  [
+   "walk",
+   "Canyon Quad top",
+   "South Ridge Quad top",
+   5.6
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "South Ridge Quad top",
+   5.3
+  ],
+  [
+   "walk",
+   "Snowshed Double top",
+   "Superstar Express Six bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "The Stash / Stash Way",
+   3.8
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Unnamed run / Dream Maker Headwall",
+   3.9
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Dream Maker Headwall",
+   4.6
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Great Eastern 5",
+   6.3
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Great Eastern 8",
+   6.7
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "The Stash / Stash Way 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Stash Way / Gateway",
+   4.8
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Unnamed run / Skyeburst - Upper",
+   5.5
+  ],
+  [
+   "walk",
+   "Superstar Express Six top",
+   "Great Eastern 19",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "The Stash / Stash Way",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "Dream Maker Headwall",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "Great Eastern 5",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "Great Eastern 8",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "The Stash / Stash Way 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "Stash Way / Gateway",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "Unnamed run / Skyeburst - Upper",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "Great Eastern 19",
+   1.8
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Great Eastern 5",
+   4.3
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Great Eastern 8",
+   4.7
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "The Stash / Stash Way",
+   2.4
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Unnamed run / Dream Maker Headwall",
+   2.7
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Dream Maker Headwall",
+   3.3
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Great Eastern 5",
+   5.1
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Great Eastern 8",
+   5.5
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "The Stash / Stash Way 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Stash Way / Gateway",
+   3.4
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Unnamed run / Skyeburst - Upper",
+   4.1
+  ],
+  [
+   "walk",
+   "Great Eastern 18",
+   "Great Eastern 19",
+   3.0
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "The Stash / Stash Way",
+   2.9
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Unnamed run / Dream Maker Headwall",
+   2.8
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Dream Maker Headwall",
+   3.5
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Great Eastern 5",
+   5.2
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Great Eastern 8",
+   5.6
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "The Stash / Stash Way 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Stash Way / Gateway",
+   3.9
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Unnamed run / Skyeburst - Upper",
+   4.5
+  ],
+  [
+   "walk",
+   "Skyelark - Upper",
+   "Great Eastern 19",
+   3.3
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "The Stash / Stash Way",
+   5.7
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Unnamed run / Dream Maker Headwall",
+   5.8
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Dream Maker Headwall",
+   6.5
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Great Eastern 19",
+   6.3
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "The Stash / Stash Way",
+   4.4
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Unnamed run / Dream Maker Headwall",
+   4.6
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Dream Maker Headwall",
+   5.2
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Great Eastern 5",
+   6.9
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "The Stash / Stash Way 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Unnamed run / Skyeburst - Upper",
+   6.1
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Great Eastern 19",
+   5.0
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "The Stash / Stash Way",
+   4.1
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Unnamed run / Dream Maker Headwall",
+   4.3
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Dream Maker Headwall",
+   5.0
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Unnamed run / Skyeburst - Upper",
+   5.7
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Great Eastern 19",
+   4.7
+  ],
+  [
+   "walk",
+   "Lil' Stash / Easy Street",
+   "Great Northern - Lower",
+   5.8
+  ],
+  [
+   "walk",
+   "Lil' Stash / Easy Street",
+   "Idler / Yodeler",
+   5.6
+  ],
+  [
+   "walk",
+   "Lil' Stash / Easy Street",
+   "Learn To Snowboard Carpet bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Lil' Stash / Easy Street",
+   "Snowshed Double bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Magic Snow Play Park / Treezy Zone",
+   "Great Northern - Lower",
+   6.0
+  ],
+  [
+   "walk",
+   "Magic Snow Play Park / Treezy Zone",
+   "Idler / Yodeler",
+   5.8
+  ],
+  [
+   "walk",
+   "Magic Snow Play Park / Treezy Zone",
+   "Learn To Snowboard Carpet bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Magic Snow Play Park / Treezy Zone",
+   "Snowshed Double bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Great Northern - Lower",
+   "Idler / Yodeler",
+   2.3
+  ],
+  [
+   "walk",
+   "Great Northern - Lower",
+   "Snowplay Carpet II bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Great Northern - Lower",
+   "Snowplay Carpet II top",
+   4.5
+  ],
+  [
+   "walk",
+   "Great Northern - Lower",
+   "Snowplay Carpet I top",
+   4.0
+  ],
+  [
+   "walk",
+   "Timberline / Great Northern - Lower",
+   "Great Northern - Lower",
+   4.5
+  ],
+  [
+   "walk",
+   "Timberline / Great Northern - Lower",
+   "Idler / Yodeler",
+   4.3
+  ],
+  [
+   "walk",
+   "Timberline / Great Northern - Lower",
+   "Snowshed Double bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Idler / Yodeler",
+   "Great Northern - Lower",
+   2.3
+  ],
+  [
+   "walk",
+   "Idler / Yodeler",
+   "Snowplay Carpet II top",
+   4.3
+  ],
+  [
+   "walk",
+   "Idler / Yodeler",
+   "Snowplay Carpet I top",
+   3.9
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet bottom",
+   "Snowplay Carpet II top",
+   3.7
+  ],
+  [
+   "walk",
+   "Snowshed Double bottom",
+   "Idler / Yodeler",
+   2.6
+  ],
+  [
+   "walk",
+   "Snowshed Double bottom",
+   "Snowplay Carpet II bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Snowshed Double bottom",
+   "Snowplay Carpet II top",
+   5.1
+  ],
+  [
+   "walk",
+   "Snowshed Double bottom",
+   "Snowplay Carpet I top",
+   4.6
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II bottom",
+   "Great Northern - Lower",
+   3.6
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II bottom",
+   "Snowshed Double bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II top",
+   "Great Northern - Lower",
+   4.5
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II top",
+   "Idler / Yodeler",
+   4.3
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II top",
+   "Learn To Snowboard Carpet bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II top",
+   "Snowshed Double bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Snowplay Carpet I top",
+   "Great Northern - Lower",
+   4.0
+  ],
+  [
+   "walk",
+   "Snowplay Carpet I top",
+   "Idler / Yodeler",
+   3.9
+  ],
+  [
+   "walk",
+   "Snowplay Carpet I top",
+   "Snowshed Double bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "North Ridge Quad top",
+   "Catwalk - Lower / Double Dipper - Lower",
+   3.8
+  ],
+  [
+   "walk",
+   "North Ridge Quad top",
+   "Cascade / Great Northern",
+   3.9
+  ],
+  [
+   "walk",
+   "North Ridge Quad top",
+   "Low Traverse / Great Northern",
+   3.9
+  ],
+  [
+   "walk",
+   "North Ridge Quad top",
+   "Great Northern 3",
+   4.6
+  ],
+  [
+   "walk",
+   "North Ridge Quad top",
+   "Great Northern 5",
+   4.0
+  ],
+  [
+   "walk",
+   "North Ridge Quad top",
+   "Great Northern 8",
+   4.4
+  ],
+  [
+   "walk",
+   "Catwalk - Lower / Low Traverse",
+   "Catwalk - Lower / Double Dipper - Lower",
+   3.4
+  ],
+  [
+   "walk",
+   "Catwalk - Lower / Low Traverse",
+   "Cascade / Great Northern",
+   3.5
+  ],
+  [
+   "walk",
+   "Catwalk - Lower / Low Traverse",
+   "Low Traverse / Great Northern",
+   3.6
+  ],
+  [
+   "walk",
+   "Catwalk - Lower / Low Traverse",
+   "Great Northern 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Catwalk - Lower / Low Traverse",
+   "Great Northern 5",
+   3.7
+  ],
+  [
+   "walk",
+   "Catwalk - Lower / Low Traverse",
+   "Great Northern 8",
+   4.0
+  ],
+  [
+   "walk",
+   "Catwalk - Lower / Low Traverse",
+   "South Ridge Quad top",
+   6.8
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Catwalk - Lower / Double Dipper - Lower",
+   5.3
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Low Traverse / Great Northern",
+   5.5
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Great Northern 5",
+   5.6
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "Great Northern 8",
+   5.9
+  ],
+  [
+   "walk",
+   "Downdraft / Cascade - Headwall",
+   "Catwalk - Lower / Double Dipper - Lower",
+   4.4
+  ],
+  [
+   "walk",
+   "Downdraft / Cascade - Headwall",
+   "Cascade / Great Northern",
+   4.5
+  ],
+  [
+   "walk",
+   "Downdraft / Cascade - Headwall",
+   "Low Traverse / Great Northern",
+   4.6
+  ],
+  [
+   "walk",
+   "Downdraft / Cascade - Headwall",
+   "Great Northern 3",
+   5.3
+  ],
+  [
+   "walk",
+   "Downdraft / Cascade - Headwall",
+   "Great Northern 5",
+   4.7
+  ],
+  [
+   "walk",
+   "Downdraft / Cascade - Headwall",
+   "Great Northern 8",
+   5.0
+  ],
+  [
+   "walk",
+   "Great Northern 3",
+   "North Ridge Quad top",
+   4.6
+  ],
+  [
+   "walk",
+   "Great Northern 3",
+   "Catwalk - Lower / Low Traverse",
+   4.3
+  ],
+  [
+   "walk",
+   "Great Northern 3",
+   "Catwalk - Lower / Double Dipper - Lower",
+   5.5
+  ],
+  [
+   "walk",
+   "Great Northern 3",
+   "Cascade / Great Northern",
+   5.6
+  ],
+  [
+   "walk",
+   "Great Northern 3",
+   "Low Traverse / Great Northern",
+   5.7
+  ],
+  [
+   "walk",
+   "Great Northern 3",
+   "Great Northern 5",
+   5.8
+  ],
+  [
+   "walk",
+   "Great Northern 3",
+   "Great Northern 8",
+   6.1
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad bottom",
+   "Snowshed Express Quad bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet top",
+   "Ramshead Express Quad bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet top",
+   "Snowplay Carpet II bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad bottom",
+   "Ramshead Express Quad bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad bottom",
+   "Idler / Yodeler",
+   3.4
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad bottom",
+   "Snowplay Carpet II bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad bottom",
+   "Snowplay Carpet II top",
+   5.8
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad bottom",
+   "Snowplay Carpet I top",
+   5.3
+  ],
+  [
+   "walk",
+   "Timberline / Great Northern - Lower",
+   "Snowshed Express Quad bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II bottom",
+   "Snowshed Express Quad bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II top",
+   "Snowshed Express Quad bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Snowplay Carpet I top",
+   "Snowshed Express Quad bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Superstar / Flume",
+   "Unnamed run 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Superstar / Flume",
+   "Bunny Buster - Lower",
+   2.7
+  ],
+  [
+   "walk",
+   "Superstar / Flume",
+   "Cascade Runout 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Mouse Run - Lower / Great Northern - Lower",
+   "Superstar / Flume",
+   5.4
+  ],
+  [
+   "walk",
+   "Mouse Run - Lower / Great Northern - Lower",
+   "Unnamed run 3",
+   4.5
+  ],
+  [
+   "walk",
+   "Mouse Run - Lower / Great Northern - Lower",
+   "Bunny Buster - Lower",
+   4.2
+  ],
+  [
+   "walk",
+   "Mouse Run - Lower / Great Northern - Lower",
+   "Cascade Runout 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Mouse Run - Lower / Great Northern - Lower",
+   "Unnamed lift bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Mouse Run - Lower / Great Northern - Lower",
+   "Superstar Express Six bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Superstar / Flume",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Bunny Buster - Lower",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Cascade Runout 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Conclusion - Lower / Unnamed run",
+   "Superstar / Flume",
+   3.5
+  ],
+  [
+   "walk",
+   "Conclusion - Lower / Unnamed run",
+   "Unnamed run 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Conclusion - Lower / Unnamed run",
+   "Bunny Buster - Lower",
+   2.3
+  ],
+  [
+   "walk",
+   "Conclusion - Lower / Unnamed run",
+   "Cascade Runout 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Conclusion - Lower / Unnamed run",
+   "Superstar Express Six bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Cascade Runout 2",
+   "Superstar / Flume",
+   3.8
+  ],
+  [
+   "walk",
+   "Cascade Runout 2",
+   "Unnamed run 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Cascade Runout 2",
+   "Bunny Buster - Lower",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern",
+   "Unnamed run / Great Eastern 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern",
+   "Unnamed run / Bittersweet",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern",
+   "Unnamed run",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern",
+   "Bittersweet",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern",
+   "The Stairs",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern",
+   "Great Eastern 7",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern",
+   "Vertigo - Lower",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern",
+   "Great Eastern 9",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern",
+   "Chunnel / Needle's Eye",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern",
+   "Needle's Eye",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern 2",
+   "Unnamed run / Great Eastern",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern 2",
+   "Unnamed run / Bittersweet",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern 2",
+   "Unnamed run",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern 2",
+   "Bittersweet",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern 2",
+   "The Stairs",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern 2",
+   "Great Eastern 7",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern 2",
+   "Vertigo - Lower",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern 2",
+   "Great Eastern 9",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern 2",
+   "Chunnel / Needle's Eye",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Great Eastern 2",
+   "Needle's Eye",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Bittersweet",
+   "Unnamed run / Great Eastern",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Bittersweet",
+   "Unnamed run / Great Eastern 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Bittersweet",
+   "Unnamed run",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Bittersweet",
+   "Bittersweet",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Bittersweet",
+   "The Stairs",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Bittersweet",
+   "Great Eastern 7",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Bittersweet",
+   "Vertigo - Lower",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Bittersweet",
+   "Great Eastern 9",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Bittersweet",
+   "Chunnel / Needle's Eye",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Bittersweet",
+   "Needle's Eye",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Unnamed run / Great Eastern",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Unnamed run / Great Eastern 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Unnamed run / Bittersweet",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Bittersweet",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "The Stairs",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Great Eastern 7",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Vertigo - Lower",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Great Eastern 9",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Chunnel / Needle's Eye",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Needle's Eye",
+   3.8
+  ],
+  [
+   "walk",
+   "Great Eastern 5",
+   "Unnamed run / Great Eastern",
+   3.7
+  ],
+  [
+   "walk",
+   "Great Eastern 5",
+   "Unnamed run / Great Eastern 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Great Eastern 5",
+   "Unnamed run / Bittersweet",
+   3.7
+  ],
+  [
+   "walk",
+   "Great Eastern 5",
+   "Unnamed run",
+   3.6
+  ],
+  [
+   "walk",
+   "Great Eastern 5",
+   "Bittersweet",
+   5.9
+  ],
+  [
+   "walk",
+   "Great Eastern 5",
+   "The Stairs",
+   4.7
+  ],
+  [
+   "walk",
+   "Great Eastern 5",
+   "Great Eastern 7",
+   5.2
+  ],
+  [
+   "walk",
+   "Great Eastern 5",
+   "Vertigo - Lower",
+   5.6
+  ],
+  [
+   "walk",
+   "Great Eastern 5",
+   "Great Eastern 9",
+   5.4
+  ],
+  [
+   "walk",
+   "Great Eastern 5",
+   "Chunnel / Needle's Eye",
+   5.4
+  ],
+  [
+   "walk",
+   "Great Eastern 5",
+   "Needle's Eye",
+   6.2
+  ],
+  [
+   "walk",
+   "Great Eastern 8",
+   "Unnamed run / Great Eastern",
+   2.8
+  ],
+  [
+   "walk",
+   "Great Eastern 8",
+   "Unnamed run / Great Eastern 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Great Eastern 8",
+   "Unnamed run / Bittersweet",
+   2.7
+  ],
+  [
+   "walk",
+   "Great Eastern 8",
+   "Unnamed run",
+   2.7
+  ],
+  [
+   "walk",
+   "Great Eastern 8",
+   "Bittersweet",
+   5.0
+  ],
+  [
+   "walk",
+   "Great Eastern 8",
+   "The Stairs",
+   3.7
+  ],
+  [
+   "walk",
+   "Great Eastern 8",
+   "Great Eastern 7",
+   4.3
+  ],
+  [
+   "walk",
+   "Great Eastern 8",
+   "Vertigo - Lower",
+   4.7
+  ],
+  [
+   "walk",
+   "Great Eastern 8",
+   "Great Eastern 9",
+   4.5
+  ],
+  [
+   "walk",
+   "Great Eastern 8",
+   "Chunnel / Needle's Eye",
+   4.5
+  ],
+  [
+   "walk",
+   "Great Eastern 8",
+   "Needle's Eye",
+   5.2
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "Needle's Eye Express Quad top",
+   5.5
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "Unnamed run / Great Eastern",
+   6.2
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "Unnamed run / Bittersweet",
+   6.1
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "Unnamed run",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "Needle's Eye Express Quad top",
+   6.1
+  ],
+  [
+   "walk",
+   "Mouse Run - Lower / Great Northern - Lower",
+   "Great Northern - Lower 2",
+   3.8
+  ],
+  [
+   "walk",
+   "The Jug - Upper / Solitude",
+   "Cascade / Great Northern",
+   4.3
+  ],
+  [
+   "walk",
+   "The Jug - Upper / Solitude",
+   "Bear Trax 5",
+   3.5
+  ],
+  [
+   "walk",
+   "Cascade / Great Northern",
+   "The Jug - Upper / Solitude",
+   4.3
+  ],
+  [
+   "walk",
+   "Cascade / Great Northern",
+   "Bear Trax 5",
+   5.6
+  ],
+  [
+   "walk",
+   "Bear Trax",
+   "The Jug - Upper / Solitude",
+   3.8
+  ],
+  [
+   "walk",
+   "Bear Trax",
+   "Cascade / Great Northern",
+   5.9
+  ],
+  [
+   "walk",
+   "Bear Trax",
+   "Bear Trax 5",
+   5.1
+  ],
+  [
+   "walk",
+   "Escapade / Helter Skelter",
+   "The Jug - Upper / Solitude",
+   2.0
+  ],
+  [
+   "walk",
+   "Escapade / Helter Skelter",
+   "Cascade / Great Northern",
+   4.1
+  ],
+  [
+   "walk",
+   "Escapade / Helter Skelter",
+   "Bear Trax 5",
+   3.3
+  ],
+  [
+   "walk",
+   "Great Northern 3",
+   "The Jug - Upper / Solitude",
+   4.1
+  ],
+  [
+   "walk",
+   "Great Northern 3",
+   "Bear Trax 5",
+   5.5
+  ],
+  [
+   "walk",
+   "Bear Trax 4",
+   "The Jug - Upper / Solitude",
+   3.3
+  ],
+  [
+   "walk",
+   "Bear Trax 4",
+   "Cascade / Great Northern",
+   5.5
+  ],
+  [
+   "walk",
+   "Bear Trax 4",
+   "Bear Trax 5",
+   4.7
+  ],
+  [
+   "walk",
+   "Canyon Quad top",
+   "The Jug - Upper / Solitude",
+   6.7
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola top",
+   "The Jug - Upper / Solitude",
+   6.4
+  ],
+  [
+   "walk",
+   "Skye Peak Express Quad top",
+   "Unnamed run / Great Eastern 2",
+   6.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "Unnamed run / Great Eastern",
+   6.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "Unnamed run / Bittersweet",
+   6.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Dream Maker Headwall",
+   "Unnamed run",
+   6.8
+  ],
+  [
+   "walk",
+   "Skyeship Express Gondola Stage 2 top",
+   "Needle's Eye Express Quad top",
+   6.8
+  ],
+  [
+   "walk",
+   "Twister / Easy Street",
+   "Scarecrow / Frolic",
+   3.8
+  ],
+  [
+   "walk",
+   "Twister / Easy Street",
+   "Caper / Easy Street",
+   3.6
+  ],
+  [
+   "walk",
+   "Twister / Easy Street",
+   "Easy Street",
+   2.1
+  ],
+  [
+   "walk",
+   "Twister / Easy Street",
+   "Unnamed run / Alpine Training Venue",
+   2.6
+  ],
+  [
+   "walk",
+   "Twister / Easy Street",
+   "Easy Street 4",
+   2.6
+  ],
+  [
+   "walk",
+   "Alpine Training Venue Poma top",
+   "Scarecrow / Frolic",
+   4.6
+  ],
+  [
+   "walk",
+   "Alpine Training Venue Poma top",
+   "Caper / Easy Street",
+   4.5
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad bottom",
+   "Learn To Snowboard Carpet top",
+   3.8
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet top",
+   "Snowplay Carpet II top",
+   5.4
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet top",
+   "Snowplay Carpet I top",
+   5.0
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II bottom",
+   "Learn To Snowboard Carpet top",
+   4.5
+  ],
+  [
+   "walk",
+   "Lil' Stash / Easy Street",
+   "Learn To Snowboard Carpet top",
+   6.7
+  ],
+  [
+   "walk",
+   "Great Northern - Lower",
+   "Learn To Snowboard Carpet top",
+   3.4
+  ],
+  [
+   "walk",
+   "Timberline / Great Northern - Lower",
+   "Learn To Snowboard Carpet top",
+   5.4
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II top",
+   "Learn To Snowboard Carpet top",
+   5.4
+  ],
+  [
+   "walk",
+   "Snowplay Carpet I top",
+   "Learn To Snowboard Carpet top",
+   5.0
+  ],
+  [
+   "walk",
+   "Idler / Yodeler",
+   "Trail Creek / Snowshed Slope",
+   3.0
+  ],
+  [
+   "walk",
+   "Trail Creek / Snowshed Slope",
+   "Great Northern - Lower",
+   3.2
+  ],
+  [
+   "walk",
+   "Trail Creek / Snowshed Slope",
+   "Idler / Yodeler",
+   3.0
+  ],
+  [
+   "walk",
+   "Trail Creek / Snowshed Slope",
+   "Ramshead Express Quad bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Trail Creek / Snowshed Slope",
+   "Snowplay Carpet II bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Trail Creek / Snowshed Slope",
+   "Snowplay Carpet I top",
+   6.2
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet bottom",
+   "Trail Creek / Snowshed Slope",
+   4.1
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad bottom",
+   "Trail Creek / Snowshed Slope",
+   5.7
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II bottom",
+   "Trail Creek / Snowshed Slope",
+   6.4
+  ],
+  [
+   "walk",
+   "Snowplay Carpet I top",
+   "Trail Creek / Snowshed Slope",
+   6.9
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola bottom",
+   "Conclusion - Lower / Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Conclusion - Lower / Unnamed run",
+   2.1
+  ],
+  [
+   "walk",
+   "Superstar Express Six bottom",
+   "Conclusion - Lower / Unnamed run",
+   4.5
+  ],
+  [
+   "walk",
+   "Superstar / Flume",
+   "Conclusion - Lower / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "Mouse Run - Lower / Great Northern - Lower",
+   "Conclusion - Lower / Unnamed run",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Conclusion - Lower / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Cascade Runout 2",
+   "Conclusion - Lower / Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Cruise Control / Unnamed run",
+   "Needle's Eye / Northbrook Trail",
+   3.8
+  ],
+  [
+   "walk",
+   "Cruise Control / Unnamed run",
+   "Northbrook Quad bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Vertigo - Lower / Northbrook Trail",
+   "Needle's Eye / Northbrook Trail",
+   3.7
+  ],
+  [
+   "walk",
+   "Vertigo - Lower / Northbrook Trail",
+   "Northbrook Quad bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Full House / Killink",
+   "Royal Flush - Upper / Full House",
+   3.1
+  ],
+  [
+   "walk",
+   "Full House / Killink",
+   "Low Rider / North Star",
+   3.4
+  ],
+  [
+   "walk",
+   "Full House / Killink",
+   "Bunny Buster - Upper",
+   1.9
+  ],
+  [
+   "walk",
+   "Full House / Killink",
+   "Chute 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Bunny Buster - Upper",
+   "Royal Flush - Upper / Full House",
+   2.6
+  ],
+  [
+   "walk",
+   "Bunny Buster - Upper",
+   "Full House / Killink",
+   1.9
+  ],
+  [
+   "walk",
+   "Bunny Buster - Upper",
+   "Low Rider / North Star",
+   2.0
+  ],
+  [
+   "walk",
+   "Bunny Buster - Upper",
+   "Chute 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Chute 2",
+   "Royal Flush - Upper / Full House",
+   3.3
+  ],
+  [
+   "walk",
+   "Chute 2",
+   "Full House / Killink",
+   2.7
+  ],
+  [
+   "walk",
+   "Chute 2",
+   "Low Rider / North Star",
+   1.9
+  ],
+  [
+   "walk",
+   "Chute 2",
+   "Bunny Buster - Upper",
+   1.2
+  ],
+  [
+   "walk",
+   "East Fall - Lower / East Fall - Upper",
+   "Great Northern / Killink",
+   2.7
+  ],
+  [
+   "walk",
+   "East Fall - Lower / East Fall - Upper",
+   "Great Northern",
+   4.0
+  ],
+  [
+   "walk",
+   "East Fall - Lower / East Fall - Upper",
+   "The Throne / Racer's Edge",
+   2.8
+  ],
+  [
+   "walk",
+   "East Fall - Lower / East Fall - Upper",
+   "Unnamed run / Killink",
+   1.7
+  ],
+  [
+   "walk",
+   "East Fall - Lower / East Fall - Upper",
+   "East Fall - Lower",
+   2.2
+  ],
+  [
+   "walk",
+   "Great Northern / Killink",
+   "East Fall - Lower / East Fall - Upper",
+   2.7
+  ],
+  [
+   "walk",
+   "Great Northern / Killink",
+   "Great Northern",
+   4.7
+  ],
+  [
+   "walk",
+   "Great Northern / Killink",
+   "The Throne / Racer's Edge",
+   3.5
+  ],
+  [
+   "walk",
+   "Great Northern / Killink",
+   "Unnamed run / Killink",
+   2.5
+  ],
+  [
+   "walk",
+   "Great Northern / Killink",
+   "East Fall - Lower",
+   2.9
+  ],
+  [
+   "walk",
+   "Great Northern",
+   "East Fall - Lower / East Fall - Upper",
+   4.0
+  ],
+  [
+   "walk",
+   "Great Northern",
+   "Great Northern / Killink",
+   4.7
+  ],
+  [
+   "walk",
+   "Great Northern",
+   "The Throne / Racer's Edge",
+   4.8
+  ],
+  [
+   "walk",
+   "Great Northern",
+   "Unnamed run / Killink",
+   3.8
+  ],
+  [
+   "walk",
+   "Great Northern",
+   "East Fall - Lower",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Killink",
+   "East Fall - Lower / East Fall - Upper",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Killink",
+   "Great Northern / Killink",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Killink",
+   "Great Northern",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Killink",
+   "The Throne / Racer's Edge",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Killink",
+   "East Fall - Lower",
+   2.0
+  ],
+  [
+   "walk",
+   "Great Northern 12",
+   "East Fall - Lower / East Fall - Upper",
+   3.5
+  ],
+  [
+   "walk",
+   "Great Northern 12",
+   "Great Northern / Killink",
+   4.2
+  ],
+  [
+   "walk",
+   "Great Northern 12",
+   "Great Northern",
+   5.5
+  ],
+  [
+   "walk",
+   "Great Northern 12",
+   "The Throne / Racer's Edge",
+   4.2
+  ],
+  [
+   "walk",
+   "Great Northern 12",
+   "Unnamed run / Killink",
+   3.2
+  ],
+  [
+   "walk",
+   "Great Northern 12",
+   "East Fall - Lower",
+   3.7
+  ],
+  [
+   "walk",
+   "Low Road / Bittersweet",
+   "Highridge / Snowshed Slope",
+   4.3
+  ],
+  [
+   "walk",
+   "Low Rider / North Star",
+   "Royal Flush - Upper / Full House",
+   4.0
+  ],
+  [
+   "walk",
+   "Low Rider / North Star",
+   "Full House / Killink",
+   3.4
+  ],
+  [
+   "walk",
+   "Low Rider / North Star",
+   "Snowdon Six top",
+   3.4
+  ],
+  [
+   "walk",
+   "Low Rider / North Star",
+   "Bunny Buster - Upper",
+   2.8
+  ],
+  [
+   "walk",
+   "Low Rider / North Star",
+   "Chute 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Twister / Easy Street 2",
+   "Unnamed run / Alpine Training Venue 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Twister / Easy Street 2",
+   "Easy Street 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Alpine Training Venue 2",
+   "Twister / Easy Street 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Alpine Training Venue 2",
+   "Easy Street 3",
+   2.1
+  ],
+  [
+   "walk",
+   "Easy Street 3",
+   "Twister / Easy Street 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Easy Street 3",
+   "Unnamed run / Alpine Training Venue 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad bottom",
+   "Timberline / Great Northern - Lower",
+   3.5
+  ],
+  [
+   "walk",
+   "Great Northern - Lower",
+   "Timberline / Great Northern - Lower",
+   4.5
+  ],
+  [
+   "walk",
+   "Great Northern - Lower",
+   "Trail Creek / Snowshed Slope",
+   5.3
+  ],
+  [
+   "walk",
+   "Idler / Yodeler",
+   "Timberline / Great Northern - Lower",
+   4.3
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet top",
+   "Timberline / Great Northern - Lower",
+   5.4
+  ],
+  [
+   "walk",
+   "Trail Creek / Snowshed Slope",
+   "Timberline / Great Northern - Lower",
+   6.4
+  ],
+  [
+   "walk",
+   "Trail Creek / Snowshed Slope",
+   "Snowplay Carpet II top",
+   6.8
+  ],
+  [
+   "walk",
+   "Snowshed Double bottom",
+   "Timberline / Great Northern - Lower",
+   4.8
+  ],
+  [
+   "walk",
+   "Snowshed Double bottom",
+   "Learn To Snowboard Carpet top",
+   3.7
+  ],
+  [
+   "walk",
+   "Snowshed Double bottom",
+   "Trail Creek / Snowshed Slope",
+   5.7
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II bottom",
+   "Timberline / Great Northern - Lower",
+   2.9
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad bottom",
+   "Timberline / Great Northern - Lower",
+   5.6
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad bottom",
+   "Learn To Snowboard Carpet top",
+   4.5
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad bottom",
+   "Trail Creek / Snowshed Slope",
+   6.4
+  ],
+  [
+   "walk",
+   "Nivis Walk / Gateway",
+   "Stash Way / Gateway",
+   5.4
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "The Stash / Stash Way 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Stash Way / Gateway",
+   5.1
+  ],
+  [
+   "walk",
+   "Great Eastern 10",
+   "Great Eastern 5",
+   6.7
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "The Stash / Stash Way 2",
+   6.3
+  ],
+  [
+   "walk",
+   "Ovation / Nivis Walk",
+   "Stash Way / Gateway",
+   6.7
+  ],
+  [
+   "walk",
+   "Low Road / Bittersweet",
+   "The Stairs / High Road",
+   6.1
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad top",
+   "The Stairs / High Road",
+   3.6
+  ],
+  [
+   "walk",
+   "Snowshed Double top",
+   "The Stairs / High Road",
+   4.8
+  ],
+  [
+   "walk",
+   "Magic Snow Play Park / Treezy Zone",
+   "Learn To Snowboard Carpet top",
+   6.9
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Ramshead Express Quad bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Idler / Yodeler",
+   6.8
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Learn To Snowboard Carpet bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Lil' Stash / Easy Street",
+   "Magic Snow Play Park / Treezy Zone",
+   2.9
+  ],
+  [
+   "walk",
+   "Lil' Stash / Easy Street",
+   "Timberline / Great Northern - Lower",
+   3.3
+  ],
+  [
+   "walk",
+   "Magic Snow Play Park / Treezy Zone",
+   "Timberline / Great Northern - Lower",
+   3.5
+  ],
+  [
+   "walk",
+   "Ramshead Express Quad bottom",
+   "Magic Snow Play Park / Treezy Zone",
+   3.2
+  ],
+  [
+   "walk",
+   "Squeeze Play / Timberline",
+   "Magic Snow Play Park / Treezy Zone",
+   4.7
+  ],
+  [
+   "walk",
+   "Squeeze Play / Timberline",
+   "Ramshead Express Quad bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Squeeze Play / Timberline",
+   "Timberline / Great Northern - Lower",
+   5.1
+  ],
+  [
+   "walk",
+   "Squeeze Play / Timberline",
+   "Snowplay Carpet II bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Squeeze Play / Timberline",
+   "Snowplay Carpet I top",
+   4.1
+  ],
+  [
+   "walk",
+   "Squeeze Play / Timberline",
+   "Learn To Snowboard Carpet bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Timberline / Great Northern - Lower",
+   "Magic Snow Play Park / Treezy Zone",
+   3.5
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Magic Snow Play Park / Treezy Zone",
+   4.0
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Timberline / Great Northern - Lower",
+   4.4
+  ],
+  [
+   "walk",
+   "Snowplay Carpet II bottom",
+   "Magic Snow Play Park / Treezy Zone",
+   2.4
+  ],
+  [
+   "walk",
+   "Snowplay Carpet I top",
+   "Magic Snow Play Park / Treezy Zone",
+   2.4
+  ],
+  [
+   "walk",
+   "Great Northern - Lower",
+   "Magic Snow Play Park / Treezy Zone",
+   6.1
+  ],
+  [
+   "walk",
+   "Idler / Yodeler",
+   "Magic Snow Play Park / Treezy Zone",
+   5.8
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet bottom",
+   "Magic Snow Play Park / Treezy Zone",
+   5.2
+  ],
+  [
+   "walk",
+   "Snowshed Double bottom",
+   "Magic Snow Play Park / Treezy Zone",
+   6.6
+  ],
+  [
+   "walk",
+   "Learn To Snowboard Carpet top",
+   "Magic Snow Play Park / Treezy Zone",
+   6.9
+  ],
+  [
+   "walk",
+   "Roundabout / Pipe Dream",
+   "Bear Cub",
+   2.0
+  ],
+  [
+   "walk",
+   "Pipe Dream",
+   "Roundabout / Pipe Dream",
+   2.3
+  ],
+  [
+   "walk",
+   "Pipe Dream",
+   "Bear Cub",
+   2.1
+  ],
+  [
+   "walk",
+   "Pipe Dream 2",
+   "Roundabout / Pipe Dream",
+   3.2
+  ],
+  [
+   "walk",
+   "Pipe Dream 2",
+   "Bear Cub",
+   3.0
+  ],
+  [
+   "walk",
+   "Superstar / Flume",
+   "Idler / Learn To Ski And Ride Area",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Idler / Learn To Ski And Ride Area",
+   4.7
+  ],
+  [
+   "walk",
+   "Conclusion - Lower / Unnamed run",
+   "Idler / Learn To Ski And Ride Area",
+   5.0
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola bottom",
+   "Idler / Learn To Ski And Ride Area",
+   3.6
+  ],
+  [
+   "walk",
+   "Bittersweet / Highlander",
+   "Superstar / Flume",
+   2.6
+  ],
+  [
+   "walk",
+   "Bittersweet / Highlander",
+   "Unnamed run 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Bittersweet / Highlander",
+   "K-1 Express Gondola bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Bittersweet / Highlander",
+   "Idler / Learn To Ski And Ride Area",
+   3.7
+  ],
+  [
+   "walk",
+   "Bittersweet / Highlander",
+   "Bunny Buster - Lower",
+   4.3
+  ],
+  [
+   "walk",
+   "Bittersweet / Highlander",
+   "Cascade Runout 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Bittersweet / Highlander",
+   "Conclusion - Lower / Unnamed run",
+   5.4
+  ],
+  [
+   "walk",
+   "Idler / Learn To Ski And Ride Area",
+   "Superstar / Flume",
+   4.5
+  ],
+  [
+   "walk",
+   "Idler / Learn To Ski And Ride Area",
+   "Unnamed run 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Idler / Learn To Ski And Ride Area",
+   "K-1 Express Gondola bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Idler / Learn To Ski And Ride Area",
+   "Bunny Buster - Lower",
+   3.9
+  ],
+  [
+   "walk",
+   "Idler / Learn To Ski And Ride Area",
+   "Cascade Runout 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Idler / Learn To Ski And Ride Area",
+   "Conclusion - Lower / Unnamed run",
+   5.1
+  ],
+  [
+   "walk",
+   "Bunny Buster - Lower",
+   "Idler / Learn To Ski And Ride Area",
+   3.9
+  ],
+  [
+   "walk",
+   "Cascade Runout 2",
+   "Idler / Learn To Ski And Ride Area",
+   5.4
+  ],
+  [
+   "walk",
+   "Low Road / Bittersweet",
+   "Low Road / Highlander",
+   6.4
+  ],
+  [
+   "walk",
+   "Low Road / Bittersweet",
+   "Skyebits / Bittersweet",
+   6.7
+  ],
+  [
+   "walk",
+   "Low Road / Bittersweet",
+   "Northbrook Trail / Snowshed Slope",
+   6.4
+  ],
+  [
+   "walk",
+   "Low Road / Bittersweet",
+   "Highlander",
+   5.9
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad top",
+   "Low Road / Highlander",
+   4.4
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad top",
+   "Skyebits / Bittersweet",
+   4.6
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad top",
+   "Northbrook Trail / Snowshed Slope",
+   4.4
+  ],
+  [
+   "walk",
+   "Snowshed Express Quad top",
+   "Highlander",
+   3.9
+  ],
+  [
+   "walk",
+   "Highridge / Snowshed Slope",
+   "Low Road / Highlander",
+   4.2
+  ],
+  [
+   "walk",
+   "Highridge / Snowshed Slope",
+   "Skyebits / Bittersweet",
+   4.4
+  ],
+  [
+   "walk",
+   "Highridge / Snowshed Slope",
+   "Northbrook Trail / Snowshed Slope",
+   4.2
+  ],
+  [
+   "walk",
+   "Highridge / Snowshed Slope",
+   "Snowshed Express Quad top",
+   2.3
+  ],
+  [
+   "walk",
+   "Highridge / Snowshed Slope",
+   "Highlander",
+   3.7
+  ],
+  [
+   "walk",
+   "Highridge / Snowshed Slope",
+   "Northbrook Quad top",
+   2.9
+  ],
+  [
+   "walk",
+   "Highridge / Snowshed Slope",
+   "The Stairs / High Road",
+   5.8
+  ],
+  [
+   "walk",
+   "Northbrook Quad top",
+   "Low Road / Highlander",
+   5.1
+  ],
+  [
+   "walk",
+   "Northbrook Quad top",
+   "Skyebits / Bittersweet",
+   5.3
+  ],
+  [
+   "walk",
+   "Northbrook Quad top",
+   "Northbrook Trail / Snowshed Slope",
+   5.1
+  ],
+  [
+   "walk",
+   "Northbrook Quad top",
+   "Highlander",
+   4.6
+  ],
+  [
+   "walk",
+   "Superstar / Flume",
+   "Bittersweet / Highlander",
+   2.6
+  ],
+  [
+   "walk",
+   "Low Road / Highlander",
+   "Superstar / Flume",
+   5.2
+  ],
+  [
+   "walk",
+   "Low Road / Highlander",
+   "Unnamed run 3",
+   6.3
+  ],
+  [
+   "walk",
+   "Low Road / Highlander",
+   "K-1 Express Gondola bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Low Road / Highlander",
+   "Bittersweet / Highlander",
+   4.4
+  ],
+  [
+   "walk",
+   "Low Road / Highlander",
+   "Idler / Learn To Ski And Ride Area",
+   6.2
+  ],
+  [
+   "walk",
+   "Low Road / Highlander",
+   "Bunny Buster - Lower",
+   6.8
+  ],
+  [
+   "walk",
+   "Low Road / Highlander",
+   "Cascade Runout 2",
+   6.6
+  ],
+  [
+   "walk",
+   "Low Road / Highlander",
+   "Unnamed lift bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Bittersweet / Highlander",
+   3.7
+  ],
+  [
+   "walk",
+   "Skyebits / Bittersweet",
+   "Superstar / Flume",
+   4.9
+  ],
+  [
+   "walk",
+   "Skyebits / Bittersweet",
+   "Unnamed run 3",
+   6.1
+  ],
+  [
+   "walk",
+   "Skyebits / Bittersweet",
+   "K-1 Express Gondola bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Skyebits / Bittersweet",
+   "Bittersweet / Highlander",
+   4.1
+  ],
+  [
+   "walk",
+   "Skyebits / Bittersweet",
+   "Idler / Learn To Ski And Ride Area",
+   6.0
+  ],
+  [
+   "walk",
+   "Skyebits / Bittersweet",
+   "Bunny Buster - Lower",
+   6.6
+  ],
+  [
+   "walk",
+   "Skyebits / Bittersweet",
+   "Cascade Runout 2",
+   6.3
+  ],
+  [
+   "walk",
+   "Skyebits / Bittersweet",
+   "Unnamed lift bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "K-1 Express Gondola bottom",
+   "Bittersweet / Highlander",
+   3.6
+  ],
+  [
+   "walk",
+   "Skyelark - Lower / Bittersweet",
+   "Superstar / Flume",
+   3.8
+  ],
+  [
+   "walk",
+   "Skyelark - Lower / Bittersweet",
+   "Unnamed run 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Skyelark - Lower / Bittersweet",
+   "K-1 Express Gondola bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Skyelark - Lower / Bittersweet",
+   "Bittersweet / Highlander",
+   3.1
+  ],
+  [
+   "walk",
+   "Skyelark - Lower / Bittersweet",
+   "Idler / Learn To Ski And Ride Area",
+   4.9
+  ],
+  [
+   "walk",
+   "Skyelark - Lower / Bittersweet",
+   "Bunny Buster - Lower",
+   5.5
+  ],
+  [
+   "walk",
+   "Skyelark - Lower / Bittersweet",
+   "Cascade Runout 2",
+   5.2
+  ],
+  [
+   "walk",
+   "Skyelark - Lower / Bittersweet",
+   "Unnamed lift bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Skyelark - Lower / Bittersweet",
+   "Conclusion - Lower / Unnamed run",
+   6.7
+  ],
+  [
+   "walk",
+   "Idler / Learn To Ski And Ride Area",
+   "Bittersweet / Highlander",
+   3.7
+  ],
+  [
+   "walk",
+   "Bunny Buster - Lower",
+   "Bittersweet / Highlander",
+   4.3
+  ],
+  [
+   "walk",
+   "Cascade Runout 2",
+   "Bittersweet / Highlander",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Bittersweet / Highlander",
+   3.4
+  ],
+  [
+   "walk",
+   "Conclusion - Lower / Unnamed run",
+   "Bittersweet / Highlander",
+   5.1
+  ],
+  [
+   "walk",
+   "Snowshed Crossover / Outer Limits",
+   "Snowshed Crossover / Bear Claw",
+   3.4
+  ],
+  [
+   "walk",
+   "Snowshed Crossover / Outer Limits",
+   "Bear Claw",
+   2.3
+  ],
+  [
+   "walk",
+   "Snowshed Crossover / Outer Limits",
+   "Outer Limits",
+   1.5
+  ],
+  [
+   "walk",
+   "Snowshed Crossover / Bear Claw",
+   "Snowshed Crossover / Outer Limits",
+   3.4
+  ],
+  [
+   "walk",
+   "Snowshed Crossover / Bear Claw",
+   "Bear Claw",
+   4.1
+  ],
+  [
+   "walk",
+   "Snowshed Crossover / Bear Claw",
+   "Outer Limits",
+   3.3
+  ],
+  [
+   "walk",
+   "Outer Limits",
+   "Snowshed Crossover / Outer Limits",
+   1.5
+  ],
+  [
+   "walk",
+   "Outer Limits",
+   "Snowshed Crossover / Bear Claw",
+   3.3
+  ],
+  [
+   "walk",
+   "Outer Limits",
+   "Bear Claw",
+   2.2
+  ],
+  [
+   "walk",
+   "Cascade / Double Dipper - Lower",
+   "Royal Flush - Lower / Spillway",
+   4.2
+  ],
+  [
+   "walk",
+   "Cascade / Double Dipper - Lower",
+   "Cascade Runout",
+   5.2
+  ],
+  [
+   "walk",
+   "Royal Flush - Lower / Spillway",
+   "Cascade Runout",
+   3.5
+  ],
+  [
+   "walk",
+   "Chop Chop / Racer's Edge",
+   "Royal Flush - Lower / Spillway",
+   4.5
+  ],
+  [
+   "walk",
+   "Chop Chop / Racer's Edge",
+   "Cascade Runout",
+   5.5
+  ]
+ ],
+ "base": "Skyeship Express Gondola Stage 1 bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Vermont",
+  "total_lifts": "22",
+  "downhill_trails": "181",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": "https://www.killington.com/"
+ }
+}

@@ -1,0 +1,5152 @@
+{
+ "name": "Palisades Tahoe Olympic Valley",
+ "source": "OpenSkiMap ski area fa7bea0bfe372c06b3cccc3e8113949837d688fb",
+ "origin_lonlat": [
+  -120.24987398266818,
+  39.19086967576968
+ ],
+ "nodes": {
+  "Land Bridge": [
+   -631,
+   148,
+   2418.4
+  ],
+  "Land Bridge / Oregon Trail": [
+   -635,
+   1402,
+   2086.4
+  ],
+  "Gold Coast Express top": [
+   -2175,
+   -161,
+   2581.0
+  ],
+  "Gold Coast Face / Gold Coast": [
+   -1696,
+   -160,
+   2464.0
+  ],
+  "Shirley Lake Express bottom": [
+   -1969,
+   1045,
+   2328.7
+  ],
+  "Solitude bottom": [
+   -1732,
+   1181,
+   2299.2
+  ],
+  "Solitude top": [
+   -1490,
+   503,
+   2500.0
+  ],
+  "Monkey Flower / Mules Ear": [
+   -1142,
+   267,
+   2449.4
+  ],
+  "Home Run / Mountain Run": [
+   253,
+   -224,
+   2082.8
+  ],
+  "Home Run / Easy Street": [
+   1210,
+   499,
+   1901.4
+  ],
+  "Spring Bowl / Mountain Run": [
+   -383,
+   -479,
+   2239.7
+  ],
+  "Headwall Express bottom": [
+   92,
+   -343,
+   2096.2
+  ],
+  "Bailey's Beach bottom": [
+   -1025,
+   255,
+   2442.7
+  ],
+  "KT22 Express bottom": [
+   1147,
+   502,
+   1899.2
+  ],
+  "Belmont top": [
+   -1317,
+   133,
+   2484.3
+  ],
+  "Big Blue Express bottom": [
+   -836,
+   -280,
+   2355.1
+  ],
+  "High Voltage / The Attic": [
+   -2799,
+   592,
+   2609.0
+  ],
+  "High Voltage / Shirley Access": [
+   -2302,
+   822,
+   2391.9
+  ],
+  "Granite Chief top": [
+   -2847,
+   656,
+   2629.4
+  ],
+  "The Attic / Tomlinson's - 1st": [
+   -1996,
+   713,
+   2379.9
+  ],
+  "Red Dog Glades / Lower Dog Leg": [
+   1652,
+   1,
+   2141.7
+  ],
+  "First Venture top": [
+   1819,
+   457,
+   1916.5
+  ],
+  "Standteiner's - 4th / Bailey's": [
+   -1655,
+   411,
+   2504.9
+  ],
+  "Standteiner's - 4th / Marillac's - 5th": [
+   -1821,
+   754,
+   2391.9
+  ],
+  "Reuter's 6th / Freeway": [
+   -1612,
+   638,
+   2451.6
+  ],
+  "Reuter's 6th / Freeway 2": [
+   -1680,
+   1131,
+   2305.0
+  ],
+  "First Venture bottom": [
+   1762,
+   581,
+   1889.6
+  ],
+  "Cornice Bowl / Bullet": [
+   -738,
+   -1083,
+   2455.0
+  ],
+  "Mountain Run": [
+   -179,
+   -549,
+   2182.7
+  ],
+  "Snow Flower / Bailey's": [
+   -1820,
+   253,
+   2528.7
+  ],
+  "Riviera": [
+   -1421,
+   -180,
+   2432.7
+  ],
+  "Oregon Trail / Freeway": [
+   -1439,
+   1129,
+   2362.1
+  ],
+  "Tucker top": [
+   1760,
+   515,
+   1896.9
+  ],
+  "The Attic": [
+   -2417,
+   465,
+   2568.8
+  ],
+  "Magoos / Main Backside": [
+   -2410,
+   671,
+   2451.0
+  ],
+  "Strawberry Fields": [
+   982,
+   -717,
+   2282.8
+  ],
+  "Strawberry Fields / Nose": [
+   998,
+   -289,
+   2173.9
+  ],
+  "Dead Tree / The Saddle": [
+   439,
+   -842,
+   2379.6
+  ],
+  "Mountain Run 2": [
+   152,
+   -367,
+   2096.1
+  ],
+  "Racers / Siberia Bowl": [
+   -1806,
+   -909,
+   2587.7
+  ],
+  "Racers / Mainline": [
+   -1647,
+   -399,
+   2448.4
+  ],
+  "Big Blue Express top": [
+   -1778,
+   285,
+   2523.0
+  ],
+  "Mainline / Siberia Ridge Line": [
+   -2123,
+   -447,
+   2573.3
+  ],
+  "Mainline / Yellow Trail": [
+   -1426,
+   -302,
+   2425.2
+  ],
+  "High Voltage": [
+   -2361,
+   741,
+   2416.9
+  ],
+  "Rainbow Bowl / Trail 90": [
+   -1447,
+   576,
+   2481.2
+  ],
+  "Rainbow Bowl / Marillac's - 5th": [
+   -1951,
+   973,
+   2329.8
+  ],
+  "Emigrant top": [
+   -2277,
+   160,
+   2664.5
+  ],
+  "Emigrant Face / Emigrant": [
+   -2082,
+   7,
+   2564.3
+  ],
+  "Champs Elysees / Tamara's": [
+   1233,
+   -518,
+   2135.0
+  ],
+  "Poppy / Lupine": [
+   -1159,
+   344,
+   2451.9
+  ],
+  "Exhibition top": [
+   1035,
+   -185,
+   2148.2
+  ],
+  "Champs Elysees": [
+   1551,
+   -133,
+   2180.8
+  ],
+  "Christmas Tree / Lower Dog Leg": [
+   1437,
+   213,
+   2003.8
+  ],
+  "Newport / Bullet": [
+   -1411,
+   -959,
+   2627.5
+  ],
+  "Newport / Sunnyside": [
+   -952,
+   -511,
+   2385.8
+  ],
+  "Atkinson's - 3rd / Bailey's": [
+   -1727,
+   339,
+   2513.5
+  ],
+  "Atkinson's - 3rd / Marillac's - 5th": [
+   -1853,
+   782,
+   2377.5
+  ],
+  "Freeway / Bailey's": [
+   -1558,
+   479,
+   2498.5
+  ],
+  "Emigrant / Eagle Pass": [
+   -1576,
+   -141,
+   2446.7
+  ],
+  "Bailey's Beach top": [
+   -1056,
+   523,
+   2477.7
+  ],
+  "Hogsback / Headwall Face": [
+   -1126,
+   -874,
+   2575.2
+  ],
+  "Newport": [
+   -1022,
+   -515,
+   2396.2
+  ],
+  "Tomlinson's - 1st / Ramp Run": [
+   -1884,
+   213,
+   2539.1
+  ],
+  "Tomlinson's - 1st / Marillac's - 5th": [
+   -1943,
+   916,
+   2335.4
+  ],
+  "The Attic 2": [
+   -2325,
+   481,
+   2565.7
+  ],
+  "Granite Chief bottom": [
+   -2021,
+   1075,
+   2326.0
+  ],
+  "Moseley's (aka West Face) / The Saddle": [
+   632,
+   -699,
+   2411.2
+  ],
+  "Home Run": [
+   384,
+   -160,
+   2062.9
+  ],
+  "Yellow Trail / Siberia Bowl": [
+   -1561,
+   -613,
+   2498.6
+  ],
+  "Yellow Trail / Gold Coast": [
+   -1341,
+   -281,
+   2416.6
+  ],
+  "Shirley Lake Express top": [
+   -1939,
+   163,
+   2546.8
+  ],
+  "Ramp Run / Gold Coast": [
+   -1449,
+   -211,
+   2429.1
+  ],
+  "Headwall Face": [
+   -844,
+   -635,
+   2382.1
+  ],
+  "Champs Elysees 3": [
+   1629,
+   -100,
+   2186.1
+  ],
+  "Bullet": [
+   -401,
+   -1046,
+   2378.4
+  ],
+  "Bullet 2": [
+   -217,
+   -742,
+   2237.1
+  ],
+  "Wa She Shu top": [
+   -907,
+   -602,
+   2404.2
+  ],
+  "Mountain Run 3": [
+   -895,
+   -326,
+   2362.0
+  ],
+  "The Attic 3": [
+   -2281,
+   463,
+   2562.7
+  ],
+  "Shirley Access": [
+   -2151,
+   786,
+   2374.6
+  ],
+  "KT22 Express top": [
+   655,
+   -870,
+   2436.8
+  ],
+  "Mountain Run 4": [
+   -29,
+   -627,
+   2153.7
+  ],
+  "Land Bridge 2": [
+   -799,
+   1075,
+   2185.4
+  ],
+  "The Saddle": [
+   232,
+   -767,
+   2241.2
+  ],
+  "Mountain Run 5": [
+   89,
+   -476,
+   2111.7
+  ],
+  "The Saddle 2": [
+   584,
+   -732,
+   2416.5
+  ],
+  "Home Run 2": [
+   307,
+   -188,
+   2075.3
+  ],
+  "The Saddle 3": [
+   568,
+   -787,
+   2417.1
+  ],
+  "Juniper Spire": [
+   -47,
+   -183,
+   2152.6
+  ],
+  "Bullet 3": [
+   -1260,
+   -914,
+   2602.6
+  ],
+  "Newport 2": [
+   -1304,
+   -613,
+   2458.3
+  ],
+  "Siberia Express top": [
+   -1935,
+   -896,
+   2645.2
+  ],
+  "Siberia Ridge Line": [
+   -2120,
+   -354,
+   2567.3
+  ],
+  "Tamara's / Red Dog Ridge": [
+   988,
+   -914,
+   2392.2
+  ],
+  "Lower Dog Leg": [
+   1520,
+   173,
+   2038.7
+  ],
+  "Boone bottom": [
+   1450,
+   491,
+   1899.5
+  ],
+  "Monkey Flower": [
+   -1214,
+   272,
+   2457.2
+  ],
+  "Gold Coast Express bottom": [
+   -1256,
+   -330,
+   2411.9
+  ],
+  "The Attic 4": [
+   -2625,
+   474,
+   2587.8
+  ],
+  "Bailey's": [
+   -2097,
+   -44,
+   2565.3
+  ],
+  "Home Run 3": [
+   610,
+   -19,
+   2029.8
+  ],
+  "Tomlinson's - 1st": [
+   -1918,
+   876,
+   2338.9
+  ],
+  "Exhibition bottom": [
+   1274,
+   533,
+   1901.7
+  ],
+  "Mountain Run 6": [
+   -934,
+   -313,
+   2367.8
+  ],
+  "Mountain Run 7": [
+   -605,
+   -574,
+   2284.2
+  ],
+  "Christmas Tree": [
+   1520,
+   -70,
+   2156.9
+  ],
+  "Cushman's / Lower Champs Elysees": [
+   1345,
+   -13,
+   2057.6
+  ],
+  "Red Dog Ridge / Heidi's": [
+   1505,
+   -484,
+   2251.3
+  ],
+  "Bullet 4": [
+   -248,
+   -1037,
+   2360.9
+  ],
+  "Emigrant Face": [
+   -2132,
+   46,
+   2589.2
+  ],
+  "Main Backside": [
+   -2552,
+   490,
+   2570.2
+  ],
+  "High Voltage 2": [
+   -2472,
+   711,
+   2453.9
+  ],
+  "The Attic 5": [
+   -2004,
+   570,
+   2425.5
+  ],
+  "Lower Champs Elysees": [
+   1253,
+   -328,
+   2088.7
+  ],
+  "Red Dog Ridge": [
+   839,
+   -912,
+   2409.5
+  ],
+  "The Saddle 4": [
+   640,
+   -814,
+   2431.4
+  ],
+  "Broken Arrow bottom": [
+   -821,
+   -233,
+   2355.6
+  ],
+  "Easy Street": [
+   985,
+   22,
+   2033.9
+  ],
+  "High Camp Carpet bottom": [
+   -1199,
+   458,
+   2471.0
+  ],
+  "High Camp Carpet top": [
+   -1222,
+   544,
+   2478.9
+  ],
+  "Olympic Lady bottom": [
+   1221,
+   -229,
+   2069.9
+  ],
+  "Olympic Lady top": [
+   936,
+   -898,
+   2409.1
+  ],
+  "Belmont bottom": [
+   -1087,
+   253,
+   2448.8
+  ],
+  "Emigrant bottom": [
+   -1520,
+   -187,
+   2435.5
+  ],
+  "Wylee bottom": [
+   1392,
+   509,
+   1902.5
+  ],
+  "Snow Venture Carpet bottom": [
+   1797,
+   625,
+   1889.1
+  ],
+  "Snow Venture Carpet top": [
+   1812,
+   565,
+   1894.4
+  ],
+  "Headwall Express top": [
+   -1369,
+   -938,
+   2631.7
+  ],
+  "Wa She Shu bottom": [
+   1047,
+   479,
+   1899.5
+  ],
+  "Broken Arrow top": [
+   -516,
+   154,
+   2445.8
+  ],
+  "Murphy bottom": [
+   1350,
+   522,
+   1900.6
+  ],
+  "Murphy top": [
+   1367,
+   475,
+   1905.9
+  ],
+  "Tucker bottom": [
+   1717,
+   562,
+   1890.1
+  ],
+  "Silverado bottom": [
+   -589,
+   1404,
+   2081.0
+  ],
+  "Far East Express bottom": [
+   1672,
+   578,
+   1890.7
+  ],
+  "Far East Express top": [
+   1573,
+   -83,
+   2183.1
+  ],
+  "Aerial Tram bottom": [
+   1201,
+   657,
+   1895.3
+  ],
+  "Aerial Tram top": [
+   -974,
+   500,
+   2474.7
+  ],
+  "Siberia Express bottom": [
+   -918,
+   -374,
+   2366.4
+  ]
+ },
+ "lifts": [
+  [
+   "Bailey's Beach",
+   "Bailey's Beach bottom",
+   "Bailey's Beach top",
+   4.8
+  ],
+  [
+   "High Camp Carpet",
+   "High Camp Carpet bottom",
+   "High Camp Carpet top",
+   4.8
+  ],
+  [
+   "Olympic Lady",
+   "Olympic Lady bottom",
+   "Olympic Lady top",
+   8.9
+  ],
+  [
+   "Gold Coast Express",
+   "Gold Coast Express bottom",
+   "Gold Coast Express top",
+   6.2
+  ],
+  [
+   "First Venture",
+   "First Venture bottom",
+   "First Venture top",
+   4.1
+  ],
+  [
+   "Belmont",
+   "Belmont bottom",
+   "Belmont top",
+   4.7
+  ],
+  [
+   "KT22 Express",
+   "KT22 Express bottom",
+   "KT22 Express top",
+   8.1
+  ],
+  [
+   "Emigrant",
+   "Emigrant bottom",
+   "Emigrant top",
+   9.2
+  ],
+  [
+   "Solitude",
+   "Solitude bottom",
+   "Solitude top",
+   8.0
+  ],
+  [
+   "Snow Venture Carpet",
+   "Snow Venture Carpet bottom",
+   "Snow Venture Carpet top",
+   4.3
+  ],
+  [
+   "Headwall Express",
+   "Headwall Express bottom",
+   "Headwall Express top",
+   8.6
+  ],
+  [
+   "Wa She Shu",
+   "Wa She Shu bottom",
+   "Wa She Shu top",
+   19.7
+  ],
+  [
+   "Exhibition",
+   "Exhibition bottom",
+   "Exhibition top",
+   8.6
+  ],
+  [
+   "Big Blue Express",
+   "Big Blue Express bottom",
+   "Big Blue Express top",
+   6.6
+  ],
+  [
+   "Broken Arrow",
+   "Broken Arrow bottom",
+   "Broken Arrow top",
+   6.6
+  ],
+  [
+   "Murphy",
+   "Murphy bottom",
+   "Murphy top",
+   4.0
+  ],
+  [
+   "Granite Chief",
+   "Granite Chief bottom",
+   "Granite Chief top",
+   10.1
+  ],
+  [
+   "Shirley Lake Express",
+   "Shirley Lake Express bottom",
+   "Shirley Lake Express top",
+   5.9
+  ],
+  [
+   "Tucker",
+   "Tucker bottom",
+   "Tucker top",
+   4.3
+  ],
+  [
+   "Silverado",
+   "Silverado bottom",
+   "Solitude top",
+   12.6
+  ],
+  [
+   "Far East Express",
+   "Far East Express bottom",
+   "Far East Express top",
+   5.5
+  ],
+  [
+   "Mountain Meadow",
+   "Belmont bottom",
+   "Solitude top",
+   6.0
+  ],
+  [
+   "Boone",
+   "Boone bottom",
+   "Wylee bottom",
+   3.6
+  ],
+  [
+   "Aerial Tram",
+   "Aerial Tram bottom",
+   "Aerial Tram top",
+   7.7
+  ],
+  [
+   "Aerial Tram",
+   "Aerial Tram top",
+   "Aerial Tram bottom",
+   7.7
+  ],
+  [
+   "Siberia Express",
+   "Siberia Express bottom",
+   "Siberia Express top",
+   6.9
+  ]
+ ],
+ "runs": [
+  [
+   "Land Bridge",
+   "Land Bridge",
+   "Land Bridge 2",
+   4.0
+  ],
+  [
+   "Land Bridge",
+   "Land Bridge 2",
+   "Land Bridge / Oregon Trail",
+   1.8
+  ],
+  [
+   "Gold Coast Face",
+   "Gold Coast Express top",
+   "Gold Coast Face / Gold Coast",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "Shirley Lake Express bottom",
+   "Solitude bottom",
+   1.5
+  ],
+  [
+   "Monkey Flower",
+   "Solitude top",
+   "Monkey Flower",
+   1.4
+  ],
+  [
+   "Monkey Flower",
+   "Monkey Flower",
+   "Monkey Flower / Mules Ear",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Home Run / Mountain Run",
+   "Home Run 2",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Home Run 2",
+   "Home Run",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Home Run",
+   "Home Run 3",
+   1.1
+  ],
+  [
+   "Home Run",
+   "Home Run 3",
+   "Home Run / Easy Street",
+   3.5
+  ],
+  [
+   "Spring Bowl",
+   "Spring Bowl / Mountain Run",
+   "Headwall Express bottom",
+   2.0
+  ],
+  [
+   "Mountain Run",
+   "Bailey's Beach bottom",
+   "Mountain Run 6",
+   2.6
+  ],
+  [
+   "Mountain Run",
+   "Mountain Run 6",
+   "Mountain Run 3",
+   0.5
+  ],
+  [
+   "Mountain Run",
+   "Mountain Run 3",
+   "Mountain Run 7",
+   1.7
+  ],
+  [
+   "Mountain Run",
+   "Mountain Run 7",
+   "Spring Bowl / Mountain Run",
+   1.1
+  ],
+  [
+   "Mountain Run",
+   "Spring Bowl / Mountain Run",
+   "Mountain Run",
+   1.0
+  ],
+  [
+   "Mountain Run",
+   "Mountain Run",
+   "Mountain Run 4",
+   0.8
+  ],
+  [
+   "Mountain Run",
+   "Mountain Run 4",
+   "Mountain Run 5",
+   0.8
+  ],
+  [
+   "Mountain Run",
+   "Mountain Run 5",
+   "Mountain Run 2",
+   0.6
+  ],
+  [
+   "Mountain Run",
+   "Mountain Run 2",
+   "Home Run / Mountain Run",
+   0.7
+  ],
+  [
+   "Mountain Run",
+   "Home Run / Mountain Run",
+   "Home Run 2",
+   0.5
+  ],
+  [
+   "Mountain Run",
+   "Home Run 2",
+   "KT22 Express bottom",
+   4.6
+  ],
+  [
+   "Riviera",
+   "Belmont top",
+   "Riviera",
+   1.4
+  ],
+  [
+   "Riviera",
+   "Riviera",
+   "Mountain Run 6",
+   2.5
+  ],
+  [
+   "Riviera",
+   "Mountain Run 6",
+   "Mountain Run 3",
+   0.5
+  ],
+  [
+   "Riviera",
+   "Mountain Run 3",
+   "Big Blue Express bottom",
+   0.5
+  ],
+  [
+   "High Voltage",
+   "High Voltage / The Attic",
+   "High Voltage 2",
+   1.6
+  ],
+  [
+   "High Voltage",
+   "High Voltage 2",
+   "High Voltage",
+   0.6
+  ],
+  [
+   "High Voltage",
+   "High Voltage",
+   "High Voltage / Shirley Access",
+   0.5
+  ],
+  [
+   "The Attic",
+   "Granite Chief top",
+   "High Voltage / The Attic",
+   0.5
+  ],
+  [
+   "The Attic",
+   "High Voltage / The Attic",
+   "The Attic 4",
+   0.9
+  ],
+  [
+   "The Attic",
+   "The Attic 4",
+   "The Attic",
+   0.9
+  ],
+  [
+   "The Attic",
+   "The Attic",
+   "The Attic 2",
+   0.5
+  ],
+  [
+   "The Attic",
+   "The Attic 2",
+   "The Attic 3",
+   0.5
+  ],
+  [
+   "The Attic",
+   "The Attic 3",
+   "The Attic 5",
+   1.5
+  ],
+  [
+   "The Attic",
+   "The Attic 5",
+   "The Attic / Tomlinson's - 1st",
+   0.6
+  ],
+  [
+   "Red Dog Glades",
+   "Red Dog Glades / Lower Dog Leg",
+   "First Venture top",
+   2.2
+  ],
+  [
+   "Standteiner's - 4th",
+   "Standteiner's - 4th / Bailey's",
+   "Standteiner's - 4th / Marillac's - 5th",
+   1.6
+  ],
+  [
+   "Reuter's 6th",
+   "Reuter's 6th / Freeway",
+   "Reuter's 6th / Freeway 2",
+   2.2
+  ],
+  [
+   "Pioneer",
+   "First Venture top",
+   "Tucker top",
+   0.5
+  ],
+  [
+   "Pioneer",
+   "Tucker top",
+   "First Venture bottom",
+   0.5
+  ],
+  [
+   "Cornice Bowl",
+   "Cornice Bowl / Bullet",
+   "Mountain Run",
+   3.8
+  ],
+  [
+   "Snow Flower",
+   "Snow Flower / Bailey's",
+   "Riviera",
+   2.4
+  ],
+  [
+   "Oregon Trail",
+   "Oregon Trail / Freeway",
+   "Land Bridge / Oregon Trail",
+   5.0
+  ],
+  [
+   "Start Me Up",
+   "Tucker top",
+   "First Venture bottom",
+   0.5
+  ],
+  [
+   "Magoos",
+   "The Attic",
+   "Magoos / Main Backside",
+   0.9
+  ],
+  [
+   "Strawberry Fields",
+   "Strawberry Fields",
+   "Strawberry Fields / Nose",
+   1.8
+  ],
+  [
+   "Dead Tree",
+   "Dead Tree / The Saddle",
+   "Mountain Run 2",
+   2.6
+  ],
+  [
+   "Racers",
+   "Racers / Siberia Bowl",
+   "Racers / Mainline",
+   2.3
+  ],
+  [
+   "Mules Ear",
+   "Big Blue Express top",
+   "Monkey Flower",
+   2.2
+  ],
+  [
+   "Mules Ear",
+   "Monkey Flower",
+   "Monkey Flower / Mules Ear",
+   0.5
+  ],
+  [
+   "Mules Ear",
+   "Monkey Flower / Mules Ear",
+   "Belmont bottom",
+   0.5
+  ],
+  [
+   "Mules Ear",
+   "Belmont bottom",
+   "Bailey's Beach bottom",
+   0.5
+  ],
+  [
+   "Mainline",
+   "Mainline / Siberia Ridge Line",
+   "Racers / Mainline",
+   1.9
+  ],
+  [
+   "Mainline",
+   "Racers / Mainline",
+   "Mainline / Yellow Trail",
+   1.1
+  ],
+  [
+   "Shirley Access",
+   "High Voltage",
+   "High Voltage / Shirley Access",
+   0.5
+  ],
+  [
+   "Shirley Access",
+   "High Voltage / Shirley Access",
+   "Shirley Access",
+   0.6
+  ],
+  [
+   "Shirley Access",
+   "Shirley Access",
+   "Shirley Lake Express bottom",
+   1.4
+  ],
+  [
+   "Rainbow Bowl",
+   "Rainbow Bowl / Trail 90",
+   "Rainbow Bowl / Marillac's - 5th",
+   3.0
+  ],
+  [
+   "Emigrant Face",
+   "Emigrant top",
+   "Emigrant Face",
+   0.7
+  ],
+  [
+   "Emigrant Face",
+   "Emigrant Face",
+   "Emigrant Face / Emigrant",
+   0.5
+  ],
+  [
+   "Champs Elysees",
+   "Champs Elysees 3",
+   "Champs Elysees",
+   0.5
+  ],
+  [
+   "Champs Elysees",
+   "Champs Elysees",
+   "Champs Elysees / Tamara's",
+   2.2
+  ],
+  [
+   "Poppy",
+   "Solitude top",
+   "Poppy / Lupine",
+   1.3
+  ],
+  [
+   "Easy Street",
+   "Exhibition top",
+   "Olympic Lady bottom",
+   2.6
+  ],
+  [
+   "Easy Street",
+   "Olympic Lady bottom",
+   "Easy Street",
+   2.0
+  ],
+  [
+   "Easy Street",
+   "Easy Street",
+   "Home Run / Easy Street",
+   2.9
+  ],
+  [
+   "Christmas Tree",
+   "Champs Elysees",
+   "Christmas Tree",
+   0.5
+  ],
+  [
+   "Christmas Tree",
+   "Christmas Tree",
+   "Christmas Tree / Lower Dog Leg",
+   1.4
+  ],
+  [
+   "Newport",
+   "Newport / Bullet",
+   "Newport 2",
+   3.4
+  ],
+  [
+   "Newport",
+   "Newport 2",
+   "Newport",
+   1.3
+  ],
+  [
+   "Newport",
+   "Newport",
+   "Newport / Sunnyside",
+   0.5
+  ],
+  [
+   "Atkinson's - 3rd",
+   "Atkinson's - 3rd / Bailey's",
+   "Atkinson's - 3rd / Marillac's - 5th",
+   2.0
+  ],
+  [
+   "Freeway",
+   "Freeway / Bailey's",
+   "Reuter's 6th / Freeway",
+   0.6
+  ],
+  [
+   "Freeway",
+   "Reuter's 6th / Freeway",
+   "Oregon Trail / Freeway",
+   2.6
+  ],
+  [
+   "Freeway",
+   "Oregon Trail / Freeway",
+   "Reuter's 6th / Freeway 2",
+   1.1
+  ],
+  [
+   "Freeway",
+   "Reuter's 6th / Freeway 2",
+   "Solitude bottom",
+   0.5
+  ],
+  [
+   "Emigrant",
+   "Emigrant Face / Emigrant",
+   "Emigrant / Eagle Pass",
+   2.2
+  ],
+  [
+   "Shooting Star",
+   "Bailey's Beach top",
+   "Bailey's Beach bottom",
+   1.0
+  ],
+  [
+   "Hogsback",
+   "Hogsback / Headwall Face",
+   "Newport",
+   1.7
+  ],
+  [
+   "Tomlinson's - 1st",
+   "Tomlinson's - 1st / Ramp Run",
+   "The Attic / Tomlinson's - 1st",
+   2.1
+  ],
+  [
+   "Tomlinson's - 1st",
+   "The Attic / Tomlinson's - 1st",
+   "Tomlinson's - 1st",
+   0.9
+  ],
+  [
+   "Tomlinson's - 1st",
+   "Tomlinson's - 1st",
+   "Tomlinson's - 1st / Marillac's - 5th",
+   0.5
+  ],
+  [
+   "Break It Out",
+   "The Attic 2",
+   "The Attic 3",
+   0.5
+  ],
+  [
+   "Break It Out",
+   "The Attic 3",
+   "Shirley Access",
+   1.4
+  ],
+  [
+   "Break It Out",
+   "Shirley Access",
+   "Granite Chief bottom",
+   1.6
+  ],
+  [
+   "Moseley's (aka West Face)",
+   "Moseley's (aka West Face) / The Saddle",
+   "Home Run",
+   2.7
+  ],
+  [
+   "Yellow Trail",
+   "Yellow Trail / Siberia Bowl",
+   "Mainline / Yellow Trail",
+   1.4
+  ],
+  [
+   "Yellow Trail",
+   "Mainline / Yellow Trail",
+   "Yellow Trail / Gold Coast",
+   0.5
+  ],
+  [
+   "Eagle Pass",
+   "Shirley Lake Express top",
+   "Emigrant / Eagle Pass",
+   1.9
+  ],
+  [
+   "Ramp Run",
+   "Tomlinson's - 1st / Ramp Run",
+   "Ramp Run / Gold Coast",
+   2.5
+  ],
+  [
+   "Headwall Face",
+   "Hogsback / Headwall Face",
+   "Headwall Face",
+   1.7
+  ],
+  [
+   "Bullet",
+   "Newport / Bullet",
+   "Headwall Express top",
+   0.5
+  ],
+  [
+   "Bullet",
+   "Headwall Express top",
+   "Bullet 3",
+   0.5
+  ],
+  [
+   "Bullet",
+   "Bullet 3",
+   "Hogsback / Headwall Face",
+   0.7
+  ],
+  [
+   "Bullet",
+   "Hogsback / Headwall Face",
+   "Cornice Bowl / Bullet",
+   1.9
+  ],
+  [
+   "Bullet",
+   "Cornice Bowl / Bullet",
+   "Bullet",
+   1.5
+  ],
+  [
+   "Bullet",
+   "Bullet",
+   "Bullet 4",
+   0.7
+  ],
+  [
+   "Bullet",
+   "Bullet 4",
+   "Bullet 2",
+   1.7
+  ],
+  [
+   "Bullet",
+   "Bullet 2",
+   "Mountain Run",
+   0.9
+  ],
+  [
+   "Horse Trails",
+   "Bullet",
+   "Bullet 2",
+   2.0
+  ],
+  [
+   "Sunnyside",
+   "Wa She Shu top",
+   "Newport / Sunnyside",
+   0.5
+  ],
+  [
+   "Sunnyside",
+   "Newport / Sunnyside",
+   "Siberia Express bottom",
+   0.8
+  ],
+  [
+   "Sunnyside",
+   "Siberia Express bottom",
+   "Mountain Run 6",
+   0.5
+  ],
+  [
+   "Sunnyside",
+   "Mountain Run 6",
+   "Mountain Run 3",
+   0.5
+  ],
+  [
+   "Arete",
+   "The Attic 3",
+   "Shirley Access",
+   1.6
+  ],
+  [
+   "The Saddle",
+   "KT22 Express top",
+   "The Saddle 4",
+   0.5
+  ],
+  [
+   "The Saddle",
+   "The Saddle 4",
+   "Moseley's (aka West Face) / The Saddle",
+   0.5
+  ],
+  [
+   "The Saddle",
+   "Moseley's (aka West Face) / The Saddle",
+   "The Saddle 2",
+   0.5
+  ],
+  [
+   "The Saddle",
+   "The Saddle 2",
+   "The Saddle 3",
+   0.5
+  ],
+  [
+   "The Saddle",
+   "The Saddle 3",
+   "Dead Tree / The Saddle",
+   0.5
+  ],
+  [
+   "The Saddle",
+   "Dead Tree / The Saddle",
+   "The Saddle",
+   2.4
+  ],
+  [
+   "The Saddle",
+   "The Saddle",
+   "Mountain Run 4",
+   1.4
+  ],
+  [
+   "Trail 90",
+   "Rainbow Bowl / Trail 90",
+   "Land Bridge 2",
+   4.4
+  ],
+  [
+   "Saddle Face",
+   "The Saddle",
+   "Mountain Run 5",
+   1.4
+  ],
+  [
+   "Lower Dog Leg",
+   "Champs Elysees 3",
+   "Red Dog Glades / Lower Dog Leg",
+   0.5
+  ],
+  [
+   "Lower Dog Leg",
+   "Red Dog Glades / Lower Dog Leg",
+   "Lower Dog Leg",
+   1.1
+  ],
+  [
+   "Lower Dog Leg",
+   "Lower Dog Leg",
+   "Christmas Tree / Lower Dog Leg",
+   0.5
+  ],
+  [
+   "Bailey's",
+   "Gold Coast Express top",
+   "Bailey's",
+   0.6
+  ],
+  [
+   "Bailey's",
+   "Bailey's",
+   "Emigrant Face / Emigrant",
+   0.5
+  ],
+  [
+   "Bailey's",
+   "Emigrant Face / Emigrant",
+   "Shirley Lake Express top",
+   0.9
+  ],
+  [
+   "Bailey's",
+   "Shirley Lake Express top",
+   "Tomlinson's - 1st / Ramp Run",
+   0.5
+  ],
+  [
+   "Bailey's",
+   "Tomlinson's - 1st / Ramp Run",
+   "Snow Flower / Bailey's",
+   0.5
+  ],
+  [
+   "Bailey's",
+   "Snow Flower / Bailey's",
+   "Big Blue Express top",
+   0.5
+  ],
+  [
+   "Bailey's",
+   "Big Blue Express top",
+   "Atkinson's - 3rd / Bailey's",
+   0.5
+  ],
+  [
+   "Bailey's",
+   "Atkinson's - 3rd / Bailey's",
+   "Standteiner's - 4th / Bailey's",
+   0.5
+  ],
+  [
+   "Bailey's",
+   "Standteiner's - 4th / Bailey's",
+   "Freeway / Bailey's",
+   0.5
+  ],
+  [
+   "Bailey's",
+   "Freeway / Bailey's",
+   "Solitude top",
+   0.5
+  ],
+  [
+   "Bailey's",
+   "Solitude top",
+   "High Camp Carpet top",
+   1.1
+  ],
+  [
+   "Bailey's",
+   "High Camp Carpet top",
+   "Bailey's Beach top",
+   0.7
+  ],
+  [
+   "Marillac's - 5th",
+   "Standteiner's - 4th / Bailey's",
+   "Standteiner's - 4th / Marillac's - 5th",
+   1.5
+  ],
+  [
+   "Marillac's - 5th",
+   "Standteiner's - 4th / Marillac's - 5th",
+   "Atkinson's - 3rd / Marillac's - 5th",
+   0.5
+  ],
+  [
+   "Marillac's - 5th",
+   "Atkinson's - 3rd / Marillac's - 5th",
+   "Tomlinson's - 1st",
+   0.5
+  ],
+  [
+   "Marillac's - 5th",
+   "Tomlinson's - 1st",
+   "Tomlinson's - 1st / Marillac's - 5th",
+   0.5
+  ],
+  [
+   "Marillac's - 5th",
+   "Tomlinson's - 1st / Marillac's - 5th",
+   "Rainbow Bowl / Marillac's - 5th",
+   0.5
+  ],
+  [
+   "Marillac's - 5th",
+   "Rainbow Bowl / Marillac's - 5th",
+   "Shirley Lake Express bottom",
+   0.5
+  ],
+  [
+   "75 Chute",
+   "The Saddle 2",
+   "Home Run 2",
+   2.8
+  ],
+  [
+   "Lupine",
+   "Bailey's Beach top",
+   "High Camp Carpet bottom",
+   0.6
+  ],
+  [
+   "Lupine",
+   "High Camp Carpet bottom",
+   "Poppy / Lupine",
+   0.5
+  ],
+  [
+   "Lupine",
+   "Poppy / Lupine",
+   "Bailey's Beach bottom",
+   0.7
+  ],
+  [
+   "Rock Garden",
+   "The Saddle 3",
+   "Home Run / Mountain Run",
+   3.4
+  ],
+  [
+   "Juniper Spire",
+   "Mountain Run 3",
+   "Big Blue Express bottom",
+   0.5
+  ],
+  [
+   "Juniper Spire",
+   "Big Blue Express bottom",
+   "Juniper Spire",
+   4.5
+  ],
+  [
+   "North Bowl",
+   "Bullet 3",
+   "Newport 2",
+   1.3
+  ],
+  [
+   "Siberia Ridge Line",
+   "Siberia Express top",
+   "Mainline / Siberia Ridge Line",
+   2.0
+  ],
+  [
+   "Siberia Ridge Line",
+   "Mainline / Siberia Ridge Line",
+   "Siberia Ridge Line",
+   0.5
+  ],
+  [
+   "Tamara's",
+   "Tamara's / Red Dog Ridge",
+   "Champs Elysees / Tamara's",
+   2.3
+  ],
+  [
+   "Nose",
+   "Moseley's (aka West Face) / The Saddle",
+   "Strawberry Fields / Nose",
+   2.8
+  ],
+  [
+   "Secret Garden",
+   "Lower Dog Leg",
+   "Boone bottom",
+   1.4
+  ],
+  [
+   "Larkspur",
+   "Belmont top",
+   "Monkey Flower",
+   0.7
+  ],
+  [
+   "Siberia Bowl",
+   "Siberia Express top",
+   "Racers / Siberia Bowl",
+   0.5
+  ],
+  [
+   "Siberia Bowl",
+   "Racers / Siberia Bowl",
+   "Yellow Trail / Siberia Bowl",
+   1.7
+  ],
+  [
+   "Siberia Bowl",
+   "Yellow Trail / Siberia Bowl",
+   "Gold Coast Express bottom",
+   1.8
+  ],
+  [
+   "Main Backside",
+   "The Attic 4",
+   "Main Backside",
+   0.5
+  ],
+  [
+   "Main Backside",
+   "Main Backside",
+   "Magoos / Main Backside",
+   1.1
+  ],
+  [
+   "Main Backside",
+   "Magoos / Main Backside",
+   "High Voltage",
+   0.5
+  ],
+  [
+   "Main Backside",
+   "High Voltage",
+   "High Voltage / Shirley Access",
+   0.5
+  ],
+  [
+   "Main Backside",
+   "High Voltage / Shirley Access",
+   "Granite Chief bottom",
+   1.7
+  ],
+  [
+   "Gold Coast",
+   "Bailey's",
+   "Gold Coast Face / Gold Coast",
+   2.4
+  ],
+  [
+   "Gold Coast",
+   "Gold Coast Face / Gold Coast",
+   "Emigrant / Eagle Pass",
+   0.5
+  ],
+  [
+   "Gold Coast",
+   "Emigrant / Eagle Pass",
+   "Emigrant bottom",
+   0.5
+  ],
+  [
+   "Gold Coast",
+   "Emigrant bottom",
+   "Ramp Run / Gold Coast",
+   0.5
+  ],
+  [
+   "Gold Coast",
+   "Ramp Run / Gold Coast",
+   "Yellow Trail / Gold Coast",
+   0.6
+  ],
+  [
+   "Gold Coast",
+   "Yellow Trail / Gold Coast",
+   "Gold Coast Express bottom",
+   0.5
+  ],
+  [
+   "West Face Alternates",
+   "Moseley's (aka West Face) / The Saddle",
+   "Home Run 3",
+   3.3
+  ],
+  [
+   "Hill's - 2nd",
+   "Snow Flower / Bailey's",
+   "Atkinson's - 3rd / Marillac's - 5th",
+   2.3
+  ],
+  [
+   "Hill's - 2nd",
+   "Atkinson's - 3rd / Marillac's - 5th",
+   "Tomlinson's - 1st",
+   0.8
+  ],
+  [
+   "Julia's Gold",
+   "Exhibition top",
+   "Exhibition bottom",
+   3.3
+  ],
+  [
+   "Easy Slider",
+   "Yellow Trail / Gold Coast",
+   "Mountain Run 6",
+   1.9
+  ],
+  [
+   "The Slot",
+   "Hogsback / Headwall Face",
+   "Mountain Run 7",
+   3.3
+  ],
+  [
+   "Cushman's",
+   "Christmas Tree",
+   "Cushman's / Lower Champs Elysees",
+   0.7
+  ],
+  [
+   "Red Dog Ridge",
+   "KT22 Express top",
+   "Red Dog Ridge",
+   0.6
+  ],
+  [
+   "Red Dog Ridge",
+   "Red Dog Ridge",
+   "Olympic Lady top",
+   0.5
+  ],
+  [
+   "Red Dog Ridge",
+   "Olympic Lady top",
+   "Tamara's / Red Dog Ridge",
+   0.5
+  ],
+  [
+   "Red Dog Ridge",
+   "Tamara's / Red Dog Ridge",
+   "Red Dog Ridge / Heidi's",
+   3.4
+  ],
+  [
+   "Lower Champs Elysees",
+   "Champs Elysees / Tamara's",
+   "Lower Champs Elysees",
+   0.8
+  ],
+  [
+   "Lower Champs Elysees",
+   "Lower Champs Elysees",
+   "Cushman's / Lower Champs Elysees",
+   1.4
+  ],
+  [
+   "Sun Bowl",
+   "Newport / Bullet",
+   "Bullet",
+   4.9
+  ],
+  [
+   "Sun Bowl",
+   "Bullet",
+   "Bullet 4",
+   0.6
+  ],
+  [
+   "Monument Ridge",
+   "Emigrant top",
+   "Emigrant Face",
+   1.7
+  ],
+  [
+   "Granite Alley",
+   "Main Backside",
+   "High Voltage 2",
+   1.0
+  ],
+  [
+   "Red Dog Face",
+   "Cushman's / Lower Champs Elysees",
+   "Christmas Tree / Lower Dog Leg",
+   1.0
+  ],
+  [
+   "Red Dog Face",
+   "Christmas Tree / Lower Dog Leg",
+   "Murphy top",
+   1.1
+  ],
+  [
+   "Red Dog Face",
+   "Murphy top",
+   "Exhibition bottom",
+   0.5
+  ],
+  [
+   "Shirley Bowl",
+   "Shirley Lake Express top",
+   "The Attic 5",
+   1.6
+  ],
+  [
+   "Heidi's",
+   "Red Dog Ridge / Heidi's",
+   "Lower Champs Elysees",
+   1.4
+  ],
+  [
+   "Women's Downhill",
+   "Red Dog Ridge",
+   "Strawberry Fields / Nose",
+   2.9
+  ],
+  [
+   "Women's Downhill",
+   "Strawberry Fields / Nose",
+   "Exhibition top",
+   0.5
+  ],
+  [
+   "Packers",
+   "Bailey's Beach bottom",
+   "Broken Arrow bottom",
+   2.1
+  ],
+  [
+   "Schimmelpfennig Bowl",
+   "Exhibition top",
+   "Easy Street",
+   1.1
+  ],
+  [
+   "Mystery",
+   "Gold Coast Express top",
+   "Gold Coast Face / Gold Coast",
+   1.9
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Land Bridge / Oregon Trail",
+   "Silverado bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Gold Coast Express top",
+   "Emigrant Face / Emigrant",
+   2.7
+  ],
+  [
+   "walk",
+   "Gold Coast Express top",
+   "Siberia Ridge Line",
+   2.8
+  ],
+  [
+   "walk",
+   "Gold Coast Express top",
+   "Bailey's",
+   2.0
+  ],
+  [
+   "walk",
+   "Gold Coast Express top",
+   "Emigrant Face",
+   2.9
+  ],
+  [
+   "walk",
+   "Gold Coast Face / Gold Coast",
+   "Emigrant bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Shirley Lake Express bottom",
+   "Rainbow Bowl / Marillac's - 5th",
+   1.0
+  ],
+  [
+   "walk",
+   "Shirley Lake Express bottom",
+   "Tomlinson's - 1st / Marillac's - 5th",
+   1.8
+  ],
+  [
+   "walk",
+   "Shirley Lake Express bottom",
+   "Granite Chief bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Shirley Lake Express bottom",
+   "Tomlinson's - 1st",
+   2.4
+  ],
+  [
+   "walk",
+   "Solitude bottom",
+   "Reuter's 6th / Freeway 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Solitude top",
+   "Standteiner's - 4th / Bailey's",
+   2.6
+  ],
+  [
+   "walk",
+   "Solitude top",
+   "Reuter's 6th / Freeway",
+   2.5
+  ],
+  [
+   "walk",
+   "Solitude top",
+   "Rainbow Bowl / Trail 90",
+   1.2
+  ],
+  [
+   "walk",
+   "Solitude top",
+   "Freeway / Bailey's",
+   1.0
+  ],
+  [
+   "walk",
+   "Monkey Flower / Mules Ear",
+   "Bailey's Beach bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Monkey Flower / Mules Ear",
+   "Belmont bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Home Run / Mountain Run",
+   "Headwall Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Home Run / Easy Street",
+   "KT22 Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Home Run / Easy Street",
+   "Boone bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Home Run / Easy Street",
+   "Exhibition bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Home Run / Easy Street",
+   "Wylee bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Home Run / Easy Street",
+   "Wa She Shu bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Home Run / Easy Street",
+   "Murphy bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Home Run / Easy Street",
+   "Murphy top",
+   2.2
+  ],
+  [
+   "walk",
+   "Home Run / Easy Street",
+   "Aerial Tram bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Headwall Express bottom",
+   "Home Run / Mountain Run",
+   2.8
+  ],
+  [
+   "walk",
+   "Headwall Express bottom",
+   "Mountain Run 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Bailey's Beach bottom",
+   "Monkey Flower / Mules Ear",
+   1.6
+  ],
+  [
+   "walk",
+   "Bailey's Beach bottom",
+   "Poppy / Lupine",
+   2.2
+  ],
+  [
+   "walk",
+   "Bailey's Beach bottom",
+   "Monkey Flower",
+   2.6
+  ],
+  [
+   "walk",
+   "Bailey's Beach bottom",
+   "Belmont bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "KT22 Express bottom",
+   "Home Run / Easy Street",
+   0.9
+  ],
+  [
+   "walk",
+   "KT22 Express bottom",
+   "Exhibition bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "KT22 Express bottom",
+   "Wylee bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "KT22 Express bottom",
+   "Wa She Shu bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "KT22 Express bottom",
+   "Murphy bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "KT22 Express bottom",
+   "Murphy top",
+   3.1
+  ],
+  [
+   "walk",
+   "KT22 Express bottom",
+   "Aerial Tram bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Belmont top",
+   "Monkey Flower / Mules Ear",
+   3.1
+  ],
+  [
+   "walk",
+   "Belmont top",
+   "Monkey Flower",
+   2.4
+  ],
+  [
+   "walk",
+   "Big Blue Express bottom",
+   "Mountain Run 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Big Blue Express bottom",
+   "Mountain Run 6",
+   1.4
+  ],
+  [
+   "walk",
+   "Big Blue Express bottom",
+   "Broken Arrow bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Big Blue Express bottom",
+   "Siberia Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Granite Chief top",
+   "High Voltage / The Attic",
+   1.1
+  ],
+  [
+   "walk",
+   "First Venture top",
+   "First Venture bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "First Venture top",
+   "Tucker top",
+   1.1
+  ],
+  [
+   "walk",
+   "First Venture top",
+   "Snow Venture Carpet bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "First Venture top",
+   "Snow Venture Carpet top",
+   1.5
+  ],
+  [
+   "walk",
+   "First Venture top",
+   "Tucker bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "First Venture top",
+   "Far East Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Standteiner's - 4th / Bailey's",
+   "Solitude top",
+   2.6
+  ],
+  [
+   "walk",
+   "Reuter's 6th / Freeway 2",
+   "Solitude bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "First Venture bottom",
+   "Tucker top",
+   0.9
+  ],
+  [
+   "walk",
+   "First Venture bottom",
+   "Snow Venture Carpet bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "First Venture bottom",
+   "Snow Venture Carpet top",
+   0.7
+  ],
+  [
+   "walk",
+   "First Venture bottom",
+   "Tucker bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "First Venture bottom",
+   "Far East Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Snow Flower / Bailey's",
+   "Big Blue Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Riviera",
+   "Gold Coast Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Riviera",
+   "Emigrant bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Tucker top",
+   "First Venture bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Tucker top",
+   "Snow Venture Carpet bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Tucker top",
+   "Snow Venture Carpet top",
+   1.0
+  ],
+  [
+   "walk",
+   "Tucker top",
+   "Tucker bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Tucker top",
+   "Far East Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Strawberry Fields / Nose",
+   "Exhibition top",
+   1.5
+  ],
+  [
+   "walk",
+   "Strawberry Fields / Nose",
+   "Olympic Lady bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Mountain Run 2",
+   "Headwall Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Racers / Mainline",
+   "Emigrant bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Big Blue Express top",
+   "Standteiner's - 4th / Bailey's",
+   2.4
+  ],
+  [
+   "walk",
+   "Big Blue Express top",
+   "Snow Flower / Bailey's",
+   0.7
+  ],
+  [
+   "walk",
+   "Big Blue Express top",
+   "Atkinson's - 3rd / Bailey's",
+   1.0
+  ],
+  [
+   "walk",
+   "Mainline / Yellow Trail",
+   "Gold Coast Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Mainline / Yellow Trail",
+   "Emigrant bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Rainbow Bowl / Trail 90",
+   "High Camp Carpet top",
+   3.2
+  ],
+  [
+   "walk",
+   "Rainbow Bowl / Marillac's - 5th",
+   "Shirley Lake Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Rainbow Bowl / Marillac's - 5th",
+   "Granite Chief bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Emigrant top",
+   "Emigrant Face / Emigrant",
+   3.4
+  ],
+  [
+   "walk",
+   "Emigrant top",
+   "Emigrant Face",
+   2.6
+  ],
+  [
+   "walk",
+   "Emigrant Face / Emigrant",
+   "Shirley Lake Express top",
+   2.9
+  ],
+  [
+   "walk",
+   "Poppy / Lupine",
+   "Bailey's Beach bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Poppy / Lupine",
+   "Belmont bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Exhibition top",
+   "Easy Street",
+   2.9
+  ],
+  [
+   "walk",
+   "Exhibition top",
+   "Olympic Lady bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Champs Elysees",
+   "Far East Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Newport / Bullet",
+   "Headwall Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Newport / Sunnyside",
+   "Siberia Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Atkinson's - 3rd / Bailey's",
+   "Big Blue Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Freeway / Bailey's",
+   "Solitude top",
+   1.0
+  ],
+  [
+   "walk",
+   "Emigrant / Eagle Pass",
+   "Emigrant bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Bailey's Beach top",
+   "Poppy / Lupine",
+   2.9
+  ],
+  [
+   "walk",
+   "Bailey's Beach top",
+   "High Camp Carpet bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Bailey's Beach top",
+   "High Camp Carpet top",
+   2.3
+  ],
+  [
+   "walk",
+   "Bailey's Beach top",
+   "Aerial Tram top",
+   1.2
+  ],
+  [
+   "walk",
+   "Newport",
+   "Wa She Shu top",
+   2.0
+  ],
+  [
+   "walk",
+   "Newport",
+   "Siberia Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st / Ramp Run",
+   "Big Blue Express top",
+   1.8
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st / Ramp Run",
+   "Shirley Lake Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st / Marillac's - 5th",
+   "Shirley Lake Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st / Marillac's - 5th",
+   "Granite Chief bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Granite Chief bottom",
+   "Shirley Lake Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Granite Chief bottom",
+   "Rainbow Bowl / Marillac's - 5th",
+   1.7
+  ],
+  [
+   "walk",
+   "Granite Chief bottom",
+   "Tomlinson's - 1st / Marillac's - 5th",
+   2.4
+  ],
+  [
+   "walk",
+   "Granite Chief bottom",
+   "Tomlinson's - 1st",
+   3.1
+  ],
+  [
+   "walk",
+   "Yellow Trail / Gold Coast",
+   "Gold Coast Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Shirley Lake Express top",
+   "Snow Flower / Bailey's",
+   2.1
+  ],
+  [
+   "walk",
+   "Shirley Lake Express top",
+   "Big Blue Express top",
+   2.8
+  ],
+  [
+   "walk",
+   "Shirley Lake Express top",
+   "Tomlinson's - 1st / Ramp Run",
+   1.0
+  ],
+  [
+   "walk",
+   "Ramp Run / Gold Coast",
+   "Gold Coast Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Ramp Run / Gold Coast",
+   "Emigrant bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Headwall Face",
+   "Newport / Sunnyside",
+   2.3
+  ],
+  [
+   "walk",
+   "Headwall Face",
+   "Newport",
+   3.0
+  ],
+  [
+   "walk",
+   "Headwall Face",
+   "Mountain Run 7",
+   3.4
+  ],
+  [
+   "walk",
+   "Champs Elysees 3",
+   "Far East Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Wa She Shu top",
+   "Newport / Sunnyside",
+   1.4
+  ],
+  [
+   "walk",
+   "Wa She Shu top",
+   "Newport",
+   2.0
+  ],
+  [
+   "walk",
+   "Wa She Shu top",
+   "Headwall Face",
+   1.0
+  ],
+  [
+   "walk",
+   "Wa She Shu top",
+   "Siberia Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Mountain Run 3",
+   "Big Blue Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Mountain Run 3",
+   "Broken Arrow bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Mountain Run 3",
+   "Siberia Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "KT22 Express top",
+   "Dead Tree / The Saddle",
+   3.0
+  ],
+  [
+   "walk",
+   "KT22 Express top",
+   "Moseley's (aka West Face) / The Saddle",
+   2.4
+  ],
+  [
+   "walk",
+   "KT22 Express top",
+   "The Saddle 2",
+   2.2
+  ],
+  [
+   "walk",
+   "KT22 Express top",
+   "The Saddle 3",
+   1.7
+  ],
+  [
+   "walk",
+   "KT22 Express top",
+   "Red Dog Ridge",
+   2.6
+  ],
+  [
+   "walk",
+   "KT22 Express top",
+   "The Saddle 4",
+   0.8
+  ],
+  [
+   "walk",
+   "Mountain Run 5",
+   "Headwall Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Juniper Spire",
+   "Headwall Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Siberia Express top",
+   "Racers / Siberia Bowl",
+   1.8
+  ],
+  [
+   "walk",
+   "Siberia Ridge Line",
+   "Gold Coast Express top",
+   2.8
+  ],
+  [
+   "walk",
+   "Siberia Ridge Line",
+   "Mainline / Siberia Ridge Line",
+   1.3
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "Home Run / Easy Street",
+   3.3
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "Exhibition bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "Wylee bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "Murphy bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "Murphy top",
+   1.2
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "Far East Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Monkey Flower",
+   "Bailey's Beach bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Monkey Flower",
+   "High Camp Carpet bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Monkey Flower",
+   "Belmont bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Gold Coast Express bottom",
+   "Mainline / Yellow Trail",
+   2.4
+  ],
+  [
+   "walk",
+   "Gold Coast Express bottom",
+   "Yellow Trail / Gold Coast",
+   1.4
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st",
+   "Shirley Lake Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st",
+   "Granite Chief bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Exhibition bottom",
+   "Home Run / Easy Street",
+   1.0
+  ],
+  [
+   "walk",
+   "Exhibition bottom",
+   "KT22 Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Exhibition bottom",
+   "Boone bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Exhibition bottom",
+   "Wylee bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Exhibition bottom",
+   "Wa She Shu bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Exhibition bottom",
+   "Murphy bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Exhibition bottom",
+   "Murphy top",
+   1.5
+  ],
+  [
+   "walk",
+   "Exhibition bottom",
+   "Aerial Tram bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Mountain Run 6",
+   "Big Blue Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Mountain Run 6",
+   "Broken Arrow bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Mountain Run 6",
+   "Siberia Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Cushman's / Lower Champs Elysees",
+   "Olympic Lady bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Emigrant Face",
+   "Gold Coast Express top",
+   2.9
+  ],
+  [
+   "walk",
+   "Emigrant Face",
+   "Shirley Lake Express top",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Champs Elysees",
+   "Olympic Lady bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Red Dog Ridge",
+   "Olympic Lady top",
+   1.4
+  ],
+  [
+   "walk",
+   "The Saddle 4",
+   "KT22 Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Broken Arrow bottom",
+   "Big Blue Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Broken Arrow bottom",
+   "Mountain Run 3",
+   1.6
+  ],
+  [
+   "walk",
+   "Broken Arrow bottom",
+   "Mountain Run 6",
+   1.9
+  ],
+  [
+   "walk",
+   "Broken Arrow bottom",
+   "Siberia Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "High Camp Carpet bottom",
+   "Monkey Flower / Mules Ear",
+   2.8
+  ],
+  [
+   "walk",
+   "High Camp Carpet bottom",
+   "Poppy / Lupine",
+   1.7
+  ],
+  [
+   "walk",
+   "High Camp Carpet bottom",
+   "Bailey's Beach top",
+   2.2
+  ],
+  [
+   "walk",
+   "High Camp Carpet bottom",
+   "Monkey Flower",
+   2.6
+  ],
+  [
+   "walk",
+   "High Camp Carpet bottom",
+   "High Camp Carpet top",
+   1.2
+  ],
+  [
+   "walk",
+   "High Camp Carpet bottom",
+   "Belmont bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "High Camp Carpet bottom",
+   "Aerial Tram top",
+   3.2
+  ],
+  [
+   "walk",
+   "High Camp Carpet top",
+   "Rainbow Bowl / Trail 90",
+   3.2
+  ],
+  [
+   "walk",
+   "High Camp Carpet top",
+   "Poppy / Lupine",
+   2.9
+  ],
+  [
+   "walk",
+   "High Camp Carpet top",
+   "Bailey's Beach top",
+   2.3
+  ],
+  [
+   "walk",
+   "High Camp Carpet top",
+   "High Camp Carpet bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Olympic Lady bottom",
+   "Cushman's / Lower Champs Elysees",
+   3.5
+  ],
+  [
+   "walk",
+   "Olympic Lady top",
+   "Strawberry Fields",
+   2.6
+  ],
+  [
+   "walk",
+   "Olympic Lady top",
+   "Tamara's / Red Dog Ridge",
+   0.7
+  ],
+  [
+   "walk",
+   "Olympic Lady top",
+   "Red Dog Ridge",
+   1.4
+  ],
+  [
+   "walk",
+   "Belmont bottom",
+   "Monkey Flower / Mules Ear",
+   0.8
+  ],
+  [
+   "walk",
+   "Belmont bottom",
+   "Bailey's Beach bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Belmont bottom",
+   "Poppy / Lupine",
+   1.6
+  ],
+  [
+   "walk",
+   "Belmont bottom",
+   "Monkey Flower",
+   1.8
+  ],
+  [
+   "walk",
+   "Emigrant bottom",
+   "Riviera",
+   1.4
+  ],
+  [
+   "walk",
+   "Emigrant bottom",
+   "Racers / Mainline",
+   3.4
+  ],
+  [
+   "walk",
+   "Emigrant bottom",
+   "Mainline / Yellow Trail",
+   2.1
+  ],
+  [
+   "walk",
+   "Emigrant bottom",
+   "Emigrant / Eagle Pass",
+   1.0
+  ],
+  [
+   "walk",
+   "Emigrant bottom",
+   "Yellow Trail / Gold Coast",
+   2.8
+  ],
+  [
+   "walk",
+   "Emigrant bottom",
+   "Ramp Run / Gold Coast",
+   1.0
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "Home Run / Easy Street",
+   2.5
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "KT22 Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "Boone bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "Exhibition bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "Murphy bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "Murphy top",
+   0.6
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "Aerial Tram bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet bottom",
+   "First Venture bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet bottom",
+   "Tucker top",
+   1.6
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet bottom",
+   "Snow Venture Carpet top",
+   0.9
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet bottom",
+   "Tucker bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet bottom",
+   "Far East Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet top",
+   "First Venture bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet top",
+   "Tucker top",
+   1.0
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet top",
+   "Snow Venture Carpet bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet top",
+   "Tucker bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet top",
+   "Far East Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Headwall Express top",
+   "Newport / Bullet",
+   0.7
+  ],
+  [
+   "walk",
+   "Headwall Express top",
+   "Bullet 3",
+   1.6
+  ],
+  [
+   "walk",
+   "Wa She Shu bottom",
+   "Home Run / Easy Street",
+   2.3
+  ],
+  [
+   "walk",
+   "Wa She Shu bottom",
+   "KT22 Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Wa She Shu bottom",
+   "Exhibition bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Wa She Shu bottom",
+   "Aerial Tram bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Broken Arrow top",
+   "Land Bridge",
+   1.6
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "Home Run / Easy Street",
+   2.0
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "KT22 Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "Boone bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "Exhibition bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "Wylee bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "Murphy top",
+   0.7
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "Aerial Tram bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "Home Run / Easy Street",
+   2.2
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "KT22 Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "Boone bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "Exhibition bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "Wylee bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "Murphy bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "Aerial Tram bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Tucker bottom",
+   "First Venture bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Tucker bottom",
+   "Tucker top",
+   0.9
+  ],
+  [
+   "walk",
+   "Tucker bottom",
+   "Snow Venture Carpet bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Tucker bottom",
+   "Snow Venture Carpet top",
+   1.3
+  ],
+  [
+   "walk",
+   "Tucker bottom",
+   "Far East Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Silverado bottom",
+   "Land Bridge / Oregon Trail",
+   0.6
+  ],
+  [
+   "walk",
+   "Far East Express bottom",
+   "First Venture bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Far East Express bottom",
+   "Tucker top",
+   1.5
+  ],
+  [
+   "walk",
+   "Far East Express bottom",
+   "Boone bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Far East Express bottom",
+   "Snow Venture Carpet bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Far East Express bottom",
+   "Snow Venture Carpet top",
+   2.0
+  ],
+  [
+   "walk",
+   "Far East Express bottom",
+   "Tucker bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Far East Express top",
+   "Red Dog Glades / Lower Dog Leg",
+   1.6
+  ],
+  [
+   "walk",
+   "Far East Express top",
+   "Champs Elysees",
+   0.8
+  ],
+  [
+   "walk",
+   "Far East Express top",
+   "Champs Elysees 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Far East Express top",
+   "Christmas Tree",
+   0.8
+  ],
+  [
+   "walk",
+   "Far East Express top",
+   "Cushman's / Lower Champs Elysees",
+   3.3
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Home Run / Easy Street",
+   2.2
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "KT22 Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Exhibition bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Wylee bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Wa She Shu bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Murphy bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Murphy top",
+   3.4
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Poppy / Lupine",
+   3.4
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Bailey's Beach top",
+   1.2
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "High Camp Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Siberia Express bottom",
+   "Big Blue Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Siberia Express bottom",
+   "Mountain Run 3",
+   0.7
+  ],
+  [
+   "walk",
+   "Siberia Express bottom",
+   "Mountain Run 6",
+   0.9
+  ],
+  [
+   "walk",
+   "Siberia Express bottom",
+   "Broken Arrow bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Siberia Ridge Line",
+   "Emigrant Face / Emigrant",
+   5.5
+  ],
+  [
+   "walk",
+   "Siberia Ridge Line",
+   "Bailey's",
+   4.7
+  ],
+  [
+   "walk",
+   "Siberia Ridge Line",
+   "Emigrant Face",
+   5.7
+  ],
+  [
+   "walk",
+   "Emigrant Face",
+   "Emigrant Face / Emigrant",
+   5.6
+  ],
+  [
+   "walk",
+   "Emigrant Face",
+   "Siberia Ridge Line",
+   5.7
+  ],
+  [
+   "walk",
+   "Emigrant Face",
+   "Bailey's",
+   4.9
+  ],
+  [
+   "walk",
+   "Rainbow Bowl / Marillac's - 5th",
+   "Tomlinson's - 1st / Marillac's - 5th",
+   2.8
+  ],
+  [
+   "walk",
+   "Rainbow Bowl / Marillac's - 5th",
+   "Tomlinson's - 1st",
+   3.5
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st / Marillac's - 5th",
+   "Rainbow Bowl / Marillac's - 5th",
+   2.8
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st / Marillac's - 5th",
+   "Tomlinson's - 1st",
+   4.3
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st",
+   "Rainbow Bowl / Marillac's - 5th",
+   3.5
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st",
+   "Tomlinson's - 1st / Marillac's - 5th",
+   4.3
+  ],
+  [
+   "walk",
+   "Standteiner's - 4th / Bailey's",
+   "Reuter's 6th / Freeway",
+   5.2
+  ],
+  [
+   "walk",
+   "Standteiner's - 4th / Bailey's",
+   "Rainbow Bowl / Trail 90",
+   3.8
+  ],
+  [
+   "walk",
+   "Standteiner's - 4th / Bailey's",
+   "Freeway / Bailey's",
+   3.6
+  ],
+  [
+   "walk",
+   "Freeway / Bailey's",
+   "Standteiner's - 4th / Bailey's",
+   3.6
+  ],
+  [
+   "walk",
+   "Freeway / Bailey's",
+   "Reuter's 6th / Freeway",
+   3.5
+  ],
+  [
+   "walk",
+   "Freeway / Bailey's",
+   "Rainbow Bowl / Trail 90",
+   2.2
+  ],
+  [
+   "walk",
+   "Belmont top",
+   "Bailey's Beach bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Belmont top",
+   "Belmont bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "High Camp Carpet bottom",
+   "Bailey's Beach bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "KT22 Express bottom",
+   "Boone bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "KT22 Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "Wa She Shu bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "Aerial Tram bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "Wa She Shu bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Wa She Shu bottom",
+   "Boone bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Wa She Shu bottom",
+   "Wylee bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Wa She Shu bottom",
+   "Murphy bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Wa She Shu bottom",
+   "Murphy top",
+   4.5
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "Wa She Shu bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "Wa She Shu bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Boone bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Home Run / Mountain Run",
+   "Mountain Run 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Mountain Run 2",
+   "Home Run / Mountain Run",
+   3.7
+  ],
+  [
+   "walk",
+   "Mountain Run 5",
+   "Home Run / Mountain Run",
+   4.6
+  ],
+  [
+   "walk",
+   "Mountain Run 5",
+   "Mountain Run 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Juniper Spire",
+   "Home Run / Mountain Run",
+   5.7
+  ],
+  [
+   "walk",
+   "Juniper Spire",
+   "Mountain Run 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Monkey Flower / Mules Ear",
+   "Poppy / Lupine",
+   2.4
+  ],
+  [
+   "walk",
+   "Monkey Flower / Mules Ear",
+   "Monkey Flower",
+   2.6
+  ],
+  [
+   "walk",
+   "Poppy / Lupine",
+   "Monkey Flower / Mules Ear",
+   2.4
+  ],
+  [
+   "walk",
+   "Poppy / Lupine",
+   "Monkey Flower",
+   3.4
+  ],
+  [
+   "walk",
+   "Monkey Flower",
+   "Monkey Flower / Mules Ear",
+   2.6
+  ],
+  [
+   "walk",
+   "Monkey Flower",
+   "Poppy / Lupine",
+   3.4
+  ],
+  [
+   "walk",
+   "Belmont top",
+   "Poppy / Lupine",
+   5.5
+  ],
+  [
+   "walk",
+   "Mountain Run 3",
+   "Mountain Run 6",
+   1.6
+  ],
+  [
+   "walk",
+   "Mountain Run 6",
+   "Mountain Run 3",
+   1.6
+  ],
+  [
+   "walk",
+   "Big Blue Express top",
+   "Solitude top",
+   5.1
+  ],
+  [
+   "walk",
+   "Big Blue Express top",
+   "Rainbow Bowl / Trail 90",
+   6.2
+  ],
+  [
+   "walk",
+   "Big Blue Express top",
+   "Freeway / Bailey's",
+   6.1
+  ],
+  [
+   "walk",
+   "Emigrant bottom",
+   "Gold Coast Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Snow Flower / Bailey's",
+   "Standteiner's - 4th / Bailey's",
+   3.2
+  ],
+  [
+   "walk",
+   "Snow Flower / Bailey's",
+   "Atkinson's - 3rd / Bailey's",
+   1.8
+  ],
+  [
+   "walk",
+   "Snow Flower / Bailey's",
+   "Solitude top",
+   5.8
+  ],
+  [
+   "walk",
+   "Snow Flower / Bailey's",
+   "Freeway / Bailey's",
+   6.8
+  ],
+  [
+   "walk",
+   "Atkinson's - 3rd / Bailey's",
+   "Standteiner's - 4th / Bailey's",
+   3.5
+  ],
+  [
+   "walk",
+   "Atkinson's - 3rd / Bailey's",
+   "Snow Flower / Bailey's",
+   1.8
+  ],
+  [
+   "walk",
+   "Atkinson's - 3rd / Bailey's",
+   "Solitude top",
+   6.1
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st / Ramp Run",
+   "Standteiner's - 4th / Bailey's",
+   4.2
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st / Ramp Run",
+   "Snow Flower / Bailey's",
+   2.5
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st / Ramp Run",
+   "Atkinson's - 3rd / Bailey's",
+   2.8
+  ],
+  [
+   "walk",
+   "Tomlinson's - 1st / Ramp Run",
+   "Solitude top",
+   6.8
+  ],
+  [
+   "walk",
+   "Shirley Lake Express top",
+   "Standteiner's - 4th / Bailey's",
+   5.2
+  ],
+  [
+   "walk",
+   "Shirley Lake Express top",
+   "Atkinson's - 3rd / Bailey's",
+   3.8
+  ],
+  [
+   "walk",
+   "Gold Coast Express bottom",
+   "Emigrant bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Solitude top",
+   "High Camp Carpet top",
+   4.3
+  ],
+  [
+   "walk",
+   "Freeway / Bailey's",
+   "High Camp Carpet top",
+   5.3
+  ],
+  [
+   "walk",
+   "Gold Coast Express top",
+   "Shirley Lake Express top",
+   5.6
+  ],
+  [
+   "walk",
+   "Emigrant top",
+   "Shirley Lake Express top",
+   5.7
+  ],
+  [
+   "walk",
+   "Bailey's Beach top",
+   "Bailey's Beach bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Bailey's Beach top",
+   "Belmont bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Bailey's Beach top",
+   "Monkey Flower / Mules Ear",
+   5.0
+  ],
+  [
+   "walk",
+   "High Camp Carpet top",
+   "Bailey's Beach bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "High Camp Carpet top",
+   "Belmont bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "High Camp Carpet top",
+   "Monkey Flower / Mules Ear",
+   4.0
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Bailey's Beach bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Belmont bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Strawberry Fields / Nose",
+   "Easy Street",
+   4.5
+  ],
+  [
+   "walk",
+   "Headwall Face",
+   "Siberia Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "High Camp Carpet top",
+   "Aerial Tram top",
+   3.5
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "High Camp Carpet top",
+   3.5
+  ],
+  [
+   "walk",
+   "Headwall Face",
+   "Wa She Shu top",
+   5.0
+  ],
+  [
+   "walk",
+   "Emigrant Face / Emigrant",
+   "Snow Flower / Bailey's",
+   5.0
+  ],
+  [
+   "walk",
+   "Emigrant Face / Emigrant",
+   "Big Blue Express top",
+   5.7
+  ],
+  [
+   "walk",
+   "Emigrant Face / Emigrant",
+   "Tomlinson's - 1st / Ramp Run",
+   4.0
+  ],
+  [
+   "walk",
+   "Emigrant Face / Emigrant",
+   "Atkinson's - 3rd / Bailey's",
+   6.8
+  ],
+  [
+   "walk",
+   "Emigrant Face",
+   "Snow Flower / Bailey's",
+   5.2
+  ],
+  [
+   "walk",
+   "Emigrant Face",
+   "Big Blue Express top",
+   6.0
+  ],
+  [
+   "walk",
+   "Emigrant Face",
+   "Tomlinson's - 1st / Ramp Run",
+   4.2
+  ],
+  [
+   "walk",
+   "Gold Coast Express top",
+   "Tomlinson's - 1st / Ramp Run",
+   6.6
+  ],
+  [
+   "walk",
+   "Wa She Shu top",
+   "Mountain Run 7",
+   4.4
+  ],
+  [
+   "walk",
+   "Newport",
+   "Newport / Sunnyside",
+   3.4
+  ],
+  [
+   "walk",
+   "Newport",
+   "Headwall Face",
+   3.0
+  ],
+  [
+   "walk",
+   "Newport",
+   "Mountain Run 7",
+   6.4
+  ],
+  [
+   "walk",
+   "The Saddle 4",
+   "Dead Tree / The Saddle",
+   3.8
+  ],
+  [
+   "walk",
+   "The Saddle 4",
+   "Moseley's (aka West Face) / The Saddle",
+   3.2
+  ],
+  [
+   "walk",
+   "The Saddle 4",
+   "The Saddle 2",
+   3.0
+  ],
+  [
+   "walk",
+   "The Saddle 4",
+   "The Saddle 3",
+   2.5
+  ],
+  [
+   "walk",
+   "The Saddle 4",
+   "Red Dog Ridge",
+   3.4
+  ],
+  [
+   "walk",
+   "Gold Coast Express top",
+   "Mainline / Siberia Ridge Line",
+   4.1
+  ],
+  [
+   "walk",
+   "Home Run / Easy Street",
+   "Far East Express bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Exhibition bottom",
+   "Far East Express bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "Far East Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "Far East Express bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "Far East Express bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Far East Express bottom",
+   "Home Run / Easy Street",
+   6.6
+  ],
+  [
+   "walk",
+   "Far East Express bottom",
+   "Exhibition bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Far East Express bottom",
+   "Wylee bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Far East Express bottom",
+   "Murphy bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Far East Express bottom",
+   "Murphy top",
+   4.5
+  ],
+  [
+   "walk",
+   "Bailey's Beach bottom",
+   "High Camp Carpet bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Belmont top",
+   "High Camp Carpet bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Belmont bottom",
+   "High Camp Carpet bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Monkey Flower / Mules Ear",
+   "High Camp Carpet bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Riviera",
+   "Mainline / Yellow Trail",
+   3.4
+  ],
+  [
+   "walk",
+   "Riviera",
+   "Yellow Trail / Gold Coast",
+   4.2
+  ],
+  [
+   "walk",
+   "Mainline / Yellow Trail",
+   "Yellow Trail / Gold Coast",
+   3.8
+  ],
+  [
+   "walk",
+   "Yellow Trail / Gold Coast",
+   "Mainline / Yellow Trail",
+   3.8
+  ],
+  [
+   "walk",
+   "Yellow Trail / Gold Coast",
+   "Emigrant bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Ramp Run / Gold Coast",
+   "Mainline / Yellow Trail",
+   3.1
+  ],
+  [
+   "walk",
+   "Ramp Run / Gold Coast",
+   "Yellow Trail / Gold Coast",
+   3.9
+  ],
+  [
+   "walk",
+   "Far East Express top",
+   "Olympic Lady bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Emigrant top",
+   "Gold Coast Express top",
+   5.5
+  ],
+  [
+   "walk",
+   "Emigrant top",
+   "Tomlinson's - 1st / Ramp Run",
+   6.7
+  ],
+  [
+   "walk",
+   "KT22 Express top",
+   "Olympic Lady top",
+   4.0
+  ],
+  [
+   "walk",
+   "The Saddle 4",
+   "Olympic Lady top",
+   4.8
+  ],
+  [
+   "walk",
+   "Bailey's Beach top",
+   "Monkey Flower",
+   4.8
+  ],
+  [
+   "walk",
+   "Monkey Flower",
+   "Bailey's Beach top",
+   4.8
+  ],
+  [
+   "walk",
+   "Monkey Flower",
+   "High Camp Carpet top",
+   3.8
+  ],
+  [
+   "walk",
+   "Monkey Flower",
+   "Aerial Tram top",
+   5.8
+  ],
+  [
+   "walk",
+   "High Camp Carpet top",
+   "Monkey Flower",
+   3.8
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Monkey Flower / Mules Ear",
+   5.8
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Monkey Flower",
+   5.8
+  ],
+  [
+   "walk",
+   "Bailey's Beach bottom",
+   "High Camp Carpet top",
+   6.5
+  ],
+  [
+   "walk",
+   "Belmont top",
+   "High Camp Carpet top",
+   6.2
+  ],
+  [
+   "walk",
+   "Belmont bottom",
+   "Bailey's Beach top",
+   6.6
+  ],
+  [
+   "walk",
+   "Belmont bottom",
+   "High Camp Carpet top",
+   5.6
+  ],
+  [
+   "walk",
+   "Rainbow Bowl / Trail 90",
+   "Poppy / Lupine",
+   6.1
+  ],
+  [
+   "walk",
+   "Rainbow Bowl / Trail 90",
+   "Bailey's Beach top",
+   5.5
+  ],
+  [
+   "walk",
+   "Rainbow Bowl / Trail 90",
+   "High Camp Carpet bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Rainbow Bowl / Trail 90",
+   "Aerial Tram top",
+   6.7
+  ],
+  [
+   "walk",
+   "Bailey's Beach top",
+   "Rainbow Bowl / Trail 90",
+   5.5
+  ],
+  [
+   "walk",
+   "High Camp Carpet bottom",
+   "Rainbow Bowl / Trail 90",
+   4.4
+  ],
+  [
+   "walk",
+   "Solitude top",
+   "Bailey's Beach top",
+   6.7
+  ],
+  [
+   "walk",
+   "Solitude top",
+   "High Camp Carpet bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Freeway / Bailey's",
+   "High Camp Carpet bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Rainbow Bowl / Trail 90",
+   6.7
+  ],
+  [
+   "walk",
+   "Strawberry Fields / Nose",
+   "Cushman's / Lower Champs Elysees",
+   6.7
+  ],
+  [
+   "walk",
+   "Exhibition top",
+   "Cushman's / Lower Champs Elysees",
+   6.1
+  ],
+  [
+   "walk",
+   "Lower Champs Elysees",
+   "Cushman's / Lower Champs Elysees",
+   4.9
+  ],
+  [
+   "walk",
+   "Red Dog Ridge",
+   "Strawberry Fields",
+   4.0
+  ],
+  [
+   "walk",
+   "Red Dog Ridge",
+   "Tamara's / Red Dog Ridge",
+   2.1
+  ],
+  [
+   "walk",
+   "KT22 Express top",
+   "Strawberry Fields",
+   6.6
+  ],
+  [
+   "walk",
+   "KT22 Express top",
+   "Tamara's / Red Dog Ridge",
+   4.7
+  ],
+  [
+   "walk",
+   "The Saddle 4",
+   "Tamara's / Red Dog Ridge",
+   5.5
+  ],
+  [
+   "walk",
+   "Monkey Flower / Mules Ear",
+   "High Camp Carpet top",
+   6.4
+  ],
+  [
+   "walk",
+   "Poppy / Lupine",
+   "High Camp Carpet bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Gold Coast Face / Gold Coast",
+   "Riviera",
+   3.9
+  ],
+  [
+   "walk",
+   "Gold Coast Face / Gold Coast",
+   "Racers / Mainline",
+   5.9
+  ],
+  [
+   "walk",
+   "Gold Coast Face / Gold Coast",
+   "Mainline / Yellow Trail",
+   4.5
+  ],
+  [
+   "walk",
+   "Gold Coast Face / Gold Coast",
+   "Emigrant / Eagle Pass",
+   3.5
+  ],
+  [
+   "walk",
+   "Gold Coast Face / Gold Coast",
+   "Yellow Trail / Gold Coast",
+   5.3
+  ],
+  [
+   "walk",
+   "Gold Coast Face / Gold Coast",
+   "Ramp Run / Gold Coast",
+   3.5
+  ],
+  [
+   "walk",
+   "Gold Coast Face / Gold Coast",
+   "Gold Coast Express bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Riviera",
+   "Racers / Mainline",
+   4.8
+  ],
+  [
+   "walk",
+   "Riviera",
+   "Emigrant / Eagle Pass",
+   2.4
+  ],
+  [
+   "walk",
+   "Riviera",
+   "Ramp Run / Gold Coast",
+   2.4
+  ],
+  [
+   "walk",
+   "Racers / Mainline",
+   "Riviera",
+   4.8
+  ],
+  [
+   "walk",
+   "Racers / Mainline",
+   "Mainline / Yellow Trail",
+   5.5
+  ],
+  [
+   "walk",
+   "Racers / Mainline",
+   "Emigrant / Eagle Pass",
+   4.4
+  ],
+  [
+   "walk",
+   "Racers / Mainline",
+   "Yellow Trail / Gold Coast",
+   6.2
+  ],
+  [
+   "walk",
+   "Racers / Mainline",
+   "Ramp Run / Gold Coast",
+   4.5
+  ],
+  [
+   "walk",
+   "Mainline / Yellow Trail",
+   "Riviera",
+   3.4
+  ],
+  [
+   "walk",
+   "Mainline / Yellow Trail",
+   "Racers / Mainline",
+   5.5
+  ],
+  [
+   "walk",
+   "Mainline / Yellow Trail",
+   "Emigrant / Eagle Pass",
+   3.1
+  ],
+  [
+   "walk",
+   "Mainline / Yellow Trail",
+   "Ramp Run / Gold Coast",
+   3.1
+  ],
+  [
+   "walk",
+   "Emigrant / Eagle Pass",
+   "Riviera",
+   2.4
+  ],
+  [
+   "walk",
+   "Emigrant / Eagle Pass",
+   "Racers / Mainline",
+   4.4
+  ],
+  [
+   "walk",
+   "Emigrant / Eagle Pass",
+   "Mainline / Yellow Trail",
+   3.1
+  ],
+  [
+   "walk",
+   "Emigrant / Eagle Pass",
+   "Yellow Trail / Gold Coast",
+   3.8
+  ],
+  [
+   "walk",
+   "Emigrant / Eagle Pass",
+   "Ramp Run / Gold Coast",
+   2.0
+  ],
+  [
+   "walk",
+   "Emigrant / Eagle Pass",
+   "Gold Coast Express bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Ramp Run / Gold Coast",
+   "Riviera",
+   2.4
+  ],
+  [
+   "walk",
+   "Ramp Run / Gold Coast",
+   "Racers / Mainline",
+   4.5
+  ],
+  [
+   "walk",
+   "Ramp Run / Gold Coast",
+   "Emigrant / Eagle Pass",
+   2.0
+  ],
+  [
+   "walk",
+   "Gold Coast Express bottom",
+   "Riviera",
+   5.8
+  ],
+  [
+   "walk",
+   "Gold Coast Express bottom",
+   "Emigrant / Eagle Pass",
+   5.5
+  ],
+  [
+   "walk",
+   "Gold Coast Express bottom",
+   "Ramp Run / Gold Coast",
+   5.5
+  ],
+  [
+   "walk",
+   "Yellow Trail / Gold Coast",
+   "Emigrant / Eagle Pass",
+   6.8
+  ],
+  [
+   "walk",
+   "Yellow Trail / Gold Coast",
+   "Ramp Run / Gold Coast",
+   6.9
+  ],
+  [
+   "walk",
+   "Newport / Bullet",
+   "Bullet 3",
+   2.2
+  ],
+  [
+   "walk",
+   "First Venture top",
+   "Boone bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "First Venture top",
+   "Wylee bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "First Venture bottom",
+   "Boone bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "First Venture bottom",
+   "Wylee bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "First Venture bottom",
+   "Murphy bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "First Venture bottom",
+   "Murphy top",
+   5.7
+  ],
+  [
+   "walk",
+   "Tucker top",
+   "Boone bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Tucker top",
+   "Wylee bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Tucker top",
+   "Murphy bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Tucker top",
+   "Murphy top",
+   6.0
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "First Venture bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "Tucker top",
+   4.8
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "Snow Venture Carpet bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "Snow Venture Carpet top",
+   5.3
+  ],
+  [
+   "walk",
+   "Boone bottom",
+   "Tucker bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet bottom",
+   "Boone bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet bottom",
+   "Wylee bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet bottom",
+   "Murphy bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet bottom",
+   "Murphy top",
+   6.3
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet top",
+   "Boone bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet top",
+   "Wylee bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet top",
+   "Murphy bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Snow Venture Carpet top",
+   "Murphy top",
+   6.4
+  ],
+  [
+   "walk",
+   "Tucker bottom",
+   "Boone bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Tucker bottom",
+   "Exhibition bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Tucker bottom",
+   "Wylee bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Tucker bottom",
+   "Murphy bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Tucker bottom",
+   "Murphy top",
+   5.2
+  ],
+  [
+   "walk",
+   "Exhibition bottom",
+   "Tucker bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "First Venture bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "Tucker top",
+   5.7
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "Snow Venture Carpet bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "Snow Venture Carpet top",
+   6.1
+  ],
+  [
+   "walk",
+   "Wylee bottom",
+   "Tucker bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "First Venture bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "Tucker top",
+   6.3
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "Snow Venture Carpet bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "Snow Venture Carpet top",
+   6.7
+  ],
+  [
+   "walk",
+   "Murphy bottom",
+   "Tucker bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "First Venture bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "Tucker top",
+   6.0
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "Snow Venture Carpet bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "Snow Venture Carpet top",
+   6.4
+  ],
+  [
+   "walk",
+   "Murphy top",
+   "Tucker bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Champs Elysees",
+   "Red Dog Glades / Lower Dog Leg",
+   2.4
+  ],
+  [
+   "walk",
+   "Champs Elysees",
+   "Champs Elysees 3",
+   1.6
+  ],
+  [
+   "walk",
+   "Champs Elysees",
+   "Christmas Tree",
+   1.5
+  ],
+  [
+   "walk",
+   "Champs Elysees",
+   "Cushman's / Lower Champs Elysees",
+   4.1
+  ],
+  [
+   "walk",
+   "Champs Elysees 3",
+   "Red Dog Glades / Lower Dog Leg",
+   2.4
+  ],
+  [
+   "walk",
+   "Champs Elysees 3",
+   "Champs Elysees",
+   1.6
+  ],
+  [
+   "walk",
+   "Champs Elysees 3",
+   "Christmas Tree",
+   1.6
+  ],
+  [
+   "walk",
+   "Champs Elysees 3",
+   "Cushman's / Lower Champs Elysees",
+   4.1
+  ],
+  [
+   "walk",
+   "Newport / Sunnyside",
+   "Big Blue Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Newport / Sunnyside",
+   "Mountain Run 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Newport / Sunnyside",
+   "Mountain Run 6",
+   2.8
+  ],
+  [
+   "walk",
+   "Newport / Sunnyside",
+   "Broken Arrow bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Newport",
+   "Big Blue Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Newport",
+   "Mountain Run 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Newport",
+   "Mountain Run 6",
+   3.3
+  ],
+  [
+   "walk",
+   "Newport",
+   "Broken Arrow bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Wa She Shu top",
+   "Big Blue Express bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Wa She Shu top",
+   "Mountain Run 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Wa She Shu top",
+   "Mountain Run 6",
+   4.0
+  ],
+  [
+   "walk",
+   "Wa She Shu top",
+   "Broken Arrow bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Headwall Face",
+   "Big Blue Express bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Headwall Face",
+   "Mountain Run 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Headwall Face",
+   "Mountain Run 6",
+   5.1
+  ],
+  [
+   "walk",
+   "Headwall Face",
+   "Broken Arrow bottom",
+   6.6
+  ]
+ ],
+ "base": "First Venture bottom",
+ "info": {}
+}

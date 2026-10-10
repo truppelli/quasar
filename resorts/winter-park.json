@@ -1,0 +1,6680 @@
+{
+ "name": "Winter Park Resort",
+ "source": "OpenSkiMap ski area eac3283b22abc1d56081b11e2c4867209961f982",
+ "origin_lonlat": [
+  -105.77627071467322,
+  39.87186514003092
+ ],
+ "nodes": {
+  "Corridor": [
+   1254,
+   384,
+   2888.8
+  ],
+  "The Gondola bottom": [
+   1095,
+   1548,
+   2772.6
+  ],
+  "Super Gauge Express top": [
+   338,
+   -1455,
+   3418.4
+  ],
+  "Hobo Alley / Lonesome Whistle Upper": [
+   39,
+   -1116,
+   3329.7
+  ],
+  "Mary Jane Upper / Olympia Spur": [
+   222,
+   -646,
+   3305.7
+  ],
+  "Mary Jane Upper / Gandy Dancer": [
+   340,
+   -465,
+   3232.7
+  ],
+  "White Rabbit Lower / White Rabbit": [
+   -609,
+   616,
+   3098.3
+  ],
+  "White Rabbit Lower / Mock Turtle": [
+   -1027,
+   1327,
+   2966.3
+  ],
+  "Super Gauge Trail / Sidetrack": [
+   476,
+   -1275,
+   3388.6
+  ],
+  "Super Gauge Trail / Rainbow Cut": [
+   1284,
+   196,
+   2885.9
+  ],
+  "Wild Spur Trail / Sundance": [
+   -1098,
+   -77,
+   3255.9
+  ],
+  "Wild Spur Trail / Quickdraw": [
+   -1272,
+   480,
+   3096.6
+  ],
+  "Larkspur / Village Way": [
+   -484,
+   -2937,
+   3637.5
+  ],
+  "Larkspur / Edelweiss": [
+   168,
+   -2061,
+   3336.9
+  ],
+  "Sundance / Big Valley": [
+   -1645,
+   657,
+   3000.7
+  ],
+  "Village Way / Turnpike": [
+   130,
+   1939,
+   2857.9
+  ],
+  "Village Way / Lower Parkway": [
+   981,
+   1732,
+   2775.4
+  ],
+  "Sundance": [
+   -1191,
+   27,
+   3228.0
+  ],
+  "Stagecoach / Big Valley": [
+   -1652,
+   388,
+   3040.9
+  ],
+  "Chuck Wagon / Buckaroo": [
+   -1172,
+   962,
+   3056.0
+  ],
+  "Chuck Wagon / Lonesome Whistle Lower": [
+   -1020,
+   962,
+   3005.6
+  ],
+  "Jabberwocky / White Rabbit": [
+   -138,
+   -25,
+   3255.4
+  ],
+  "White Rabbit Lower": [
+   -846,
+   954,
+   3007.8
+  ],
+  "Explorer Express top": [
+   77,
+   408,
+   3261.4
+  ],
+  "Retta's Run / Village Way": [
+   46,
+   1174,
+   2986.1
+  ],
+  "Sundance 2": [
+   -1311,
+   335,
+   3126.4
+  ],
+  "Quickdraw / Big Valley": [
+   -1580,
+   836,
+   2982.2
+  ],
+  "Lupin / Village Way": [
+   -402,
+   -1830,
+   3489.7
+  ],
+  "Lupin / Fireberry Glade": [
+   4,
+   -2003,
+   3364.3
+  ],
+  "Allan Phipps / Village Way": [
+   -427,
+   908,
+   3064.9
+  ],
+  "Prospector Express bottom": [
+   -5,
+   1730,
+   2887.1
+  ],
+  "Short Haul / Long Haul": [
+   1351,
+   -1067,
+   3183.8
+  ],
+  "Short Haul / Long Haul 2": [
+   1617,
+   -1071,
+   3059.4
+  ],
+  "Cannonball / Derailer": [
+   1151,
+   -1118,
+   3268.9
+  ],
+  "Cannonball / Corona Way": [
+   1681,
+   -1196,
+   3042.1
+  ],
+  "Left Hand": [
+   -481,
+   -1738,
+   3489.9
+  ],
+  "Left Hand / Upper Egress": [
+   -1329,
+   -1602,
+   3230.9
+  ],
+  "Parry's Peek": [
+   1225,
+   -2353,
+   3244.4
+  ],
+  "Parry's Peek 2": [
+   1350,
+   -2087,
+   3164.8
+  ],
+  "Pony Express top": [
+   806,
+   -576,
+   3203.4
+  ],
+  "Riflesight Notch / Sleepy Hollow": [
+   1330,
+   -204,
+   2940.4
+  ],
+  "Whistlestop / Lonesome Whistle Lower": [
+   -551,
+   13,
+   3183.9
+  ],
+  "White Rabbit / Hook Up": [
+   -83,
+   -87,
+   3256.1
+  ],
+  "Village Way / Lower Parkway 2": [
+   646,
+   1950,
+   2856.6
+  ],
+  "Turnpike / Easy Way": [
+   86,
+   1811,
+   2875.9
+  ],
+  "Gemini Express bottom": [
+   995,
+   1792,
+   2772.8
+  ],
+  "Brian's Run / Hughes": [
+   796,
+   1164,
+   2961.6
+  ],
+  "Brian's Run": [
+   1020,
+   1436,
+   2804.9
+  ],
+  "Rainbow Cut / Lower Arrowhead Loop": [
+   798,
+   -526,
+   3192.8
+  ],
+  "Pony Express bottom": [
+   1320,
+   255,
+   2882.2
+  ],
+  "Boiler / Needles Eye": [
+   1424,
+   -815,
+   3153.6
+  ],
+  "Boiler / Corona Way": [
+   1722,
+   -450,
+   2949.4
+  ],
+  "Lariat top": [
+   70,
+   284,
+   3260.4
+  ],
+  "Outhouse / Mary Jane": [
+   871,
+   176,
+   2973.3
+  ],
+  "Easy Way / Jack Kendrick": [
+   -476,
+   1794,
+   2977.7
+  ],
+  "Bobcat / Moose Wallow": [
+   477,
+   1739,
+   2892.4
+  ],
+  "Endeavor bottom": [
+   561,
+   1911,
+   2865.1
+  ],
+  "Railbender / Derailer": [
+   981,
+   -1176,
+   3324.6
+  ],
+  "Railbender / Sleeper": [
+   1429,
+   -293,
+   2942.8
+  ],
+  "trestle / Roundhouse": [
+   727,
+   -1577,
+   3325.2
+  ],
+  "trestle / Corona Way": [
+   1675,
+   -1266,
+   3056.8
+  ],
+  "Quickdraw": [
+   -1295,
+   578,
+   3087.7
+  ],
+  "Buckaroo / Wagon Train": [
+   -1403,
+   1522,
+   2942.9
+  ],
+  "Whistlestop": [
+   394,
+   -1380,
+   3405.9
+  ],
+  "Sidetrack / Sleeper": [
+   639,
+   -1139,
+   3315.8
+  ],
+  "Big Valley / Wagon Train": [
+   -1672,
+   1645,
+   2915.5
+  ],
+  "Railbender": [
+   1038,
+   -1157,
+   3312.0
+  ],
+  "trestle": [
+   1359,
+   -1399,
+   3145.8
+  ],
+  "Discovery top": [
+   257,
+   1498,
+   2914.8
+  ],
+  "Discovery bottom": [
+   132,
+   1781,
+   2878.9
+  ],
+  "Left Hand 2": [
+   -942,
+   -1900,
+   3444.8
+  ],
+  "Black Coal / Upper Egress": [
+   -1246,
+   -1434,
+   3220.6
+  ],
+  "Eagle Wind / Thunderbird": [
+   -814,
+   -1255,
+   3293.9
+  ],
+  "Eagle Wind bottom": [
+   -1154,
+   -621,
+   3145.6
+  ],
+  "Brakeman / Needles Eye": [
+   1392,
+   -845,
+   3166.8
+  ],
+  "Brakeman / Corona Way": [
+   1719,
+   -1020,
+   3018.2
+  ],
+  "Rendezvous / Tweedle Dee": [
+   -693,
+   1305,
+   3058.8
+  ],
+  "Rendezvous / Mock Turtle": [
+   -918,
+   1610,
+   3005.0
+  ],
+  "Olympia Express top": [
+   89,
+   -344,
+   3294.5
+  ],
+  "Hook Up / Village Way": [
+   -388,
+   -94,
+   3204.0
+  ],
+  "Riflesight Notch": [
+   1152,
+   -254,
+   3010.1
+  ],
+  "Branch Line / Shoo Fly": [
+   1305,
+   139,
+   2887.3
+  ],
+  "Cranmer": [
+   -62,
+   321,
+   3242.2
+  ],
+  "To Lower Arrowhead Loop / Mary Jane": [
+   570,
+   -348,
+   3150.0
+  ],
+  "To Lower Arrowhead Loop / Lower Arrowhead Loop": [
+   814,
+   -187,
+   3085.0
+  ],
+  "Arrow top": [
+   492,
+   1225,
+   2961.5
+  ],
+  "Village Way": [
+   472,
+   1429,
+   2917.6
+  ],
+  "Sunnyside Express top": [
+   282,
+   -1504,
+   3419.9
+  ],
+  "Switchyard / Lonesome Whistle Upper": [
+   -99,
+   -995,
+   3304.8
+  ],
+  "Corona Way": [
+   1382,
+   -2023,
+   3154.1
+  ],
+  "Galloping Goose top": [
+   1418,
+   -164,
+   2923.5
+  ],
+  "Mock Turtle / Jack Kendrick": [
+   -659,
+   1518,
+   3040.2
+  ],
+  "Looking Glass top": [
+   -552,
+   1085,
+   3098.5
+  ],
+  "Allan Phipps": [
+   -333,
+   1030,
+   3030.7
+  ],
+  "Endeavor top": [
+   376,
+   1448,
+   2920.9
+  ],
+  "Tweedle Dee / Jack Kendrick": [
+   -577,
+   1172,
+   3088.2
+  ],
+  "Upper Arrowhead Loop / Golden Spike": [
+   514,
+   -752,
+   3325.0
+  ],
+  "Wild Spur Trail / Shootout": [
+   -1377,
+   841,
+   3027.6
+  ],
+  "Big Valley": [
+   -1491,
+   1169,
+   2955.2
+  ],
+  "Panoramic Express top": [
+   -480,
+   -3048,
+   3653.3
+  ],
+  "Whistlestop 2": [
+   339,
+   -1071,
+   3378.6
+  ],
+  "Lonesome Whistle Upper / Village Way": [
+   -257,
+   -730,
+   3262.1
+  ],
+  "Long Haul / Derailer": [
+   1225,
+   -1081,
+   3239.6
+  ],
+  "Corona Way 2": [
+   1690,
+   -1096,
+   3027.8
+  ],
+  "Tweedle Dum / Jack Kendrick": [
+   -595,
+   1114,
+   3095.7
+  ],
+  "Rollins Ridge / Little Ten": [
+   769,
+   -1256,
+   3356.2
+  ],
+  "Village Way 2": [
+   402,
+   2090,
+   2835.5
+  ],
+  "Parry's Peek 3": [
+   156,
+   -2799,
+   3484.6
+  ],
+  "Calypso / Edelweiss": [
+   285,
+   -2043,
+   3327.6
+  ],
+  "Cranmer / March Hare": [
+   -148,
+   236,
+   3220.0
+  ],
+  "Cranmer 2": [
+   -184,
+   310,
+   3207.9
+  ],
+  "Village Way / Primrose": [
+   -148,
+   -1700,
+   3429.3
+  ],
+  "Big Valley 2": [
+   -1527,
+   976,
+   2969.9
+  ],
+  "Parry's Peek 4": [
+   307,
+   -2683,
+   3459.2
+  ],
+  "Kinnikinnic / Edelweiss": [
+   442,
+   -2057,
+   3308.9
+  ],
+  "Village Way 3": [
+   834,
+   1880,
+   2794.2
+  ],
+  "Village Way 4": [
+   829,
+   1977,
+   2785.5
+  ],
+  "Gandy Dancer / Mary Jane": [
+   298,
+   -459,
+   3245.6
+  ],
+  "Gandy Dancer / Mary Jane 2": [
+   763,
+   11,
+   3021.1
+  ],
+  "Engeldive / Jack Kendrick": [
+   -558,
+   1284,
+   3068.5
+  ],
+  "Hughes / Bradley's Bash": [
+   120,
+   489,
+   3256.6
+  ],
+  "Lower Hughes": [
+   730,
+   1289,
+   2917.0
+  ],
+  "Little Ten / Sleeper": [
+   796,
+   -978,
+   3256.8
+  ],
+  "Mock Turtle": [
+   -1064,
+   1584,
+   2981.0
+  ],
+  "Tin Horn / Wagon Train": [
+   -1332,
+   1500,
+   2945.9
+  ],
+  "Gambler / Lonesome Whistle Lower": [
+   -1119,
+   445,
+   3071.3
+  ],
+  "Left Hand 3": [
+   -816,
+   -1795,
+   3462.0
+  ],
+  "Medicine Man / Upper Egress": [
+   -1179,
+   -1207,
+   3192.5
+  ],
+  "Outhouse": [
+   107,
+   257,
+   3256.0
+  ],
+  "Sober Englishman / Mary Jane": [
+   469,
+   -410,
+   3187.1
+  ],
+  "Needles Eye / Derailer": [
+   1507,
+   -442,
+   2976.6
+  ],
+  "Forever Eva": [
+   886,
+   -2488,
+   3334.7
+  ],
+  "Forever Eva 2": [
+   1134,
+   -2167,
+   3200.6
+  ],
+  "Eagle Wind": [
+   -1013,
+   -880,
+   3195.4
+  ],
+  "Sharp Nose / Upper Egress": [
+   -1110,
+   -801,
+   3153.5
+  ],
+  "Moose Wallow": [
+   361,
+   1540,
+   2910.0
+  ],
+  "Eagle Wind top": [
+   -525,
+   -1774,
+   3504.2
+  ],
+  "Thunderbird / Upper Egress": [
+   -1157,
+   -1130,
+   3185.9
+  ],
+  "White Rabbit Lower 2": [
+   -936,
+   1069,
+   2990.2
+  ],
+  "Cranmer 3": [
+   15,
+   224,
+   3252.1
+  ],
+  "Explorer Express bottom": [
+   22,
+   1773,
+   2885.6
+  ],
+  "Rollins Ridge": [
+   698,
+   -1337,
+   3363.2
+  ],
+  "Roundhouse / Bluebell": [
+   487,
+   -1604,
+   3369.2
+  ],
+  "Roundhouse / Bluebell 2": [
+   1251,
+   -1999,
+   3165.0
+  ],
+  "Boiler": [
+   1548,
+   -818,
+   3132.1
+  ],
+  "Corona Way 3": [
+   1808,
+   -906,
+   2996.2
+  ],
+  "Jabberwocky": [
+   -593,
+   345,
+   3185.9
+  ],
+  "White Rabbit Lower 3": [
+   -914,
+   1012,
+   2996.7
+  ],
+  "Jack Kendrick": [
+   -122,
+   1717,
+   2898.2
+  ],
+  "Switchyard": [
+   34,
+   -1432,
+   3378.5
+  ],
+  "Thunderbird": [
+   -698,
+   -1318,
+   3323.8
+  ],
+  "Rollins Ridge 2": [
+   628,
+   -1357,
+   3364.6
+  ],
+  "Roundhouse": [
+   694,
+   -1551,
+   3328.3
+  ],
+  "Whistlestop 3": [
+   131,
+   -355,
+   3293.2
+  ],
+  "Mary Jane": [
+   1318,
+   295,
+   2881.8
+  ],
+  "Columbine Lower / Columbine Upper": [
+   879,
+   -1809,
+   3297.5
+  ],
+  "Columbine Lower / Bluebell": [
+   1135,
+   -2022,
+   3182.5
+  ],
+  "Left Hand 4": [
+   -678,
+   -1729,
+   3471.4
+  ],
+  "Thunderbird 2": [
+   -1057,
+   -1194,
+   3226.4
+  ],
+  "Parkway": [
+   438,
+   1289,
+   2945.4
+  ],
+  "Arrow bottom": [
+   1063,
+   1624,
+   2770.8
+  ],
+  "Ski Papa": [
+   52,
+   1733,
+   2883.5
+  ],
+  "Village Way 5": [
+   -614,
+   -2254,
+   3525.2
+  ],
+  "Larkspur": [
+   93,
+   -2102,
+   3344.6
+  ],
+  "Wild Spur Trail": [
+   -1163,
+   179,
+   3182.2
+  ],
+  "Lonesome Whistle Lower": [
+   -1121,
+   489,
+   3059.2
+  ],
+  "March Hare": [
+   -493,
+   574,
+   3116.1
+  ],
+  "White Rabbit Lower 4": [
+   -733,
+   834,
+   3040.5
+  ],
+  "Allan Phipps 2": [
+   -153,
+   1376,
+   2929.1
+  ],
+  "Gandy Dancer": [
+   676,
+   -34,
+   3042.1
+  ],
+  "Wild Spur Express top": [
+   -1076,
+   -144,
+   3261.3
+  ],
+  "Iron Horse top": [
+   386,
+   -947,
+   3394.6
+  ],
+  "Mary Jane Upper": [
+   251,
+   -597,
+   3294.3
+  ],
+  "Looking Glass bottom": [
+   -1105,
+   1366,
+   2959.4
+  ],
+  "Wild Spur Express bottom": [
+   -1662,
+   1794,
+   2893.9
+  ],
+  "Forget-Me-Not / Paintbrush": [
+   147,
+   -2153,
+   3345.2
+  ],
+  "Hobo Alley": [
+   231,
+   -1303,
+   3376.9
+  ],
+  "High Lonesome Trail / Village Way": [
+   -265,
+   -455,
+   3232.8
+  ],
+  "Primrose / Edelweiss": [
+   169,
+   -1995,
+   3337.3
+  ],
+  "Corona Way 4": [
+   1871,
+   -749,
+   2974.8
+  ],
+  "Unnamed run": [
+   1903,
+   -567,
+   2945.8
+  ],
+  "Phantom Bridge / Derailer": [
+   922,
+   -1197,
+   3341.6
+  ],
+  "Sleeper": [
+   1053,
+   -753,
+   3146.8
+  ],
+  "Whistlestop 4": [
+   -129,
+   81,
+   3238.8
+  ],
+  "Village Way 6": [
+   283,
+   1299,
+   2945.5
+  ],
+  "Bluebell / Edelweiss": [
+   292,
+   -1559,
+   3416.1
+  ],
+  "Sunnyside Express bottom": [
+   1310,
+   -2028,
+   3155.6
+  ],
+  "Hughes": [
+   565,
+   856,
+   3103.9
+  ],
+  "Mary Jane 2": [
+   533,
+   -377,
+   3164.8
+  ],
+  "Parry's Peek 5": [
+   424,
+   -2640,
+   3444.5
+  ],
+  "Edelweiss": [
+   489,
+   -2052,
+   3303.7
+  ],
+  "Cranmer 4": [
+   -216,
+   424,
+   3186.1
+  ],
+  "Parry's Peek 6": [
+   24,
+   -2882,
+   3523.5
+  ],
+  "Edelweiss 2": [
+   221,
+   -2038,
+   3333.8
+  ],
+  "Lower Hughes 2": [
+   856,
+   1364,
+   2875.0
+  ],
+  "Runaway": [
+   1168,
+   -1297,
+   3217.7
+  ],
+  "Parry's Peek 7": [
+   802,
+   -2608,
+   3371.9
+  ],
+  "Whistlestop 5": [
+   -85,
+   96,
+   3238.0
+  ],
+  "Dormouse / March Hare": [
+   -282,
+   333,
+   3187.2
+  ],
+  "Hughes 2": [
+   496,
+   802,
+   3129.8
+  ],
+  "Parry's Peek 8": [
+   639,
+   -2601,
+   3403.3
+  ],
+  "Bluebell": [
+   748,
+   -2112,
+   3262.0
+  ],
+  "Sleeper 2": [
+   1208,
+   -553,
+   3060.9
+  ],
+  "Shoo Fly": [
+   1343,
+   -11,
+   2908.0
+  ],
+  "Roundhouse 2": [
+   1233,
+   -1827,
+   3211.5
+  ],
+  "Edelweiss 3": [
+   257,
+   -1698,
+   3408.6
+  ],
+  "Edelweiss 4": [
+   161,
+   -1936,
+   3347.0
+  ],
+  "Sterling Way": [
+   456,
+   -821,
+   3358.6
+  ],
+  "To Lower Arrowhead Loop": [
+   654,
+   -303,
+   3126.9
+  ],
+  "Village Way 7": [
+   -541,
+   -2044,
+   3513.4
+  ],
+  "Quick Getaway": [
+   -25,
+   422,
+   3236.4
+  ],
+  "Village Way 8": [
+   -61,
+   1029,
+   3013.8
+  ],
+  "Forget-Me-Not": [
+   -127,
+   -2733,
+   3502.0
+  ],
+  "Paintbrush": [
+   147,
+   -2106,
+   3340.7
+  ],
+  "Bluebell 2": [
+   657,
+   -1692,
+   3333.6
+  ],
+  "Engeldive": [
+   -299,
+   1463,
+   2962.3
+  ],
+  "Allan Phipps 3": [
+   -106,
+   1467,
+   2911.9
+  ],
+  "Lariat bottom": [
+   21,
+   149,
+   3248.3
+  ],
+  "Bradley's Bash": [
+   193,
+   594,
+   3210.0
+  ],
+  "Village Way 9": [
+   343,
+   1328,
+   2938.9
+  ],
+  "Mary Jane 3": [
+   1120,
+   344,
+   2909.6
+  ],
+  "Lonesome Whistle Lower 2": [
+   -1133,
+   652,
+   3039.8
+  ],
+  "Sleeper 3": [
+   1439,
+   -252,
+   2932.5
+  ],
+  "Galloping Goose bottom": [
+   1325,
+   209,
+   2883.3
+  ],
+  "Olympia Express bottom": [
+   -1155,
+   1397,
+   2956.3
+  ],
+  "Spirit bottom": [
+   922,
+   1889,
+   2774.6
+  ],
+  "Spirit top": [
+   807,
+   2047,
+   2791.5
+  ],
+  "Meteor top": [
+   906,
+   1840,
+   2776.9
+  ],
+  "Super Gauge Express bottom": [
+   1363,
+   320,
+   2880.3
+  ],
+  "Iron Horse bottom": [
+   1302,
+   425,
+   2884.3
+  ],
+  "High Lonesome Express bottom": [
+   -589,
+   63,
+   3182.5
+  ],
+  "Panoramic Express bottom": [
+   1422,
+   -2038,
+   3154.3
+  ],
+  "Comet top": [
+   929,
+   1793,
+   2777.1
+  ],
+  "Challenger bottom": [
+   1438,
+   -113,
+   2918.7
+  ],
+  "Challenger top": [
+   747,
+   -1301,
+   3363.6
+  ]
+ },
+ "lifts": [
+  [
+   "Eagle Wind",
+   "Eagle Wind bottom",
+   "Eagle Wind top",
+   12.0
+  ],
+  [
+   "Explorer Express",
+   "Explorer Express bottom",
+   "Explorer Express top",
+   7.2
+  ],
+  [
+   "Discovery",
+   "Discovery bottom",
+   "Discovery top",
+   6.5
+  ],
+  [
+   "Pony Express",
+   "Pony Express bottom",
+   "Pony Express top",
+   9.8
+  ],
+  [
+   "Galloping Goose",
+   "Galloping Goose bottom",
+   "Galloping Goose top",
+   5.8
+  ],
+  [
+   "Olympia Express",
+   "Olympia Express bottom",
+   "Olympia Express top",
+   10.9
+  ],
+  [
+   "Spirit",
+   "Spirit bottom",
+   "Spirit top",
+   5.4
+  ],
+  [
+   "Meteor",
+   "Spirit bottom",
+   "Meteor top",
+   3.8
+  ],
+  [
+   "Super Gauge Express",
+   "Super Gauge Express bottom",
+   "Super Gauge Express top",
+   9.9
+  ],
+  [
+   "Wild Spur Express",
+   "Wild Spur Express bottom",
+   "Wild Spur Express top",
+   9.6
+  ],
+  [
+   "Endeavor",
+   "Endeavor bottom",
+   "Endeavor top",
+   7.9
+  ],
+  [
+   "Iron Horse",
+   "Iron Horse bottom",
+   "Iron Horse top",
+   14.6
+  ],
+  [
+   "High Lonesome Express",
+   "High Lonesome Express bottom",
+   "Super Gauge Express top",
+   10.3
+  ],
+  [
+   "Panoramic Express",
+   "Panoramic Express bottom",
+   "Panoramic Express top",
+   10.2
+  ],
+  [
+   "Arrow",
+   "Arrow bottom",
+   "Arrow top",
+   8.0
+  ],
+  [
+   "Lariat",
+   "Lariat bottom",
+   "Lariat top",
+   3.8
+  ],
+  [
+   "Gemini Express",
+   "Gemini Express bottom",
+   "Endeavor top",
+   5.6
+  ],
+  [
+   "The Gondola",
+   "The Gondola bottom",
+   "Lariat top",
+   8.1
+  ],
+  [
+   "The Gondola",
+   "Lariat top",
+   "The Gondola bottom",
+   8.1
+  ],
+  [
+   "Comet",
+   "Gemini Express bottom",
+   "Comet top",
+   3.9
+  ],
+  [
+   "Sunnyside Express",
+   "Sunnyside Express bottom",
+   "Sunnyside Express top",
+   6.8
+  ],
+  [
+   "Looking Glass",
+   "Looking Glass bottom",
+   "Looking Glass top",
+   7.0
+  ],
+  [
+   "Prospector Express",
+   "Prospector Express bottom",
+   "Looking Glass top",
+   6.2
+  ],
+  [
+   "Challenger",
+   "Challenger bottom",
+   "Challenger top",
+   12.6
+  ]
+ ],
+ "runs": [
+  [
+   "Corridor",
+   "Corridor",
+   "Iron Horse bottom",
+   0.5
+  ],
+  [
+   "Corridor",
+   "Iron Horse bottom",
+   "The Gondola bottom",
+   5.1
+  ],
+  [
+   "Hobo Alley",
+   "Super Gauge Express top",
+   "Hobo Alley",
+   0.7
+  ],
+  [
+   "Hobo Alley",
+   "Hobo Alley",
+   "Hobo Alley / Lonesome Whistle Upper",
+   1.3
+  ],
+  [
+   "Mary Jane Upper",
+   "Mary Jane Upper / Olympia Spur",
+   "Mary Jane Upper",
+   0.5
+  ],
+  [
+   "Mary Jane Upper",
+   "Mary Jane Upper",
+   "Mary Jane Upper / Gandy Dancer",
+   0.6
+  ],
+  [
+   "White Rabbit Lower",
+   "White Rabbit Lower / White Rabbit",
+   "White Rabbit Lower 4",
+   0.9
+  ],
+  [
+   "White Rabbit Lower",
+   "White Rabbit Lower 4",
+   "White Rabbit Lower",
+   0.7
+  ],
+  [
+   "White Rabbit Lower",
+   "White Rabbit Lower",
+   "White Rabbit Lower 3",
+   0.5
+  ],
+  [
+   "White Rabbit Lower",
+   "White Rabbit Lower 3",
+   "White Rabbit Lower 2",
+   0.5
+  ],
+  [
+   "White Rabbit Lower",
+   "White Rabbit Lower 2",
+   "White Rabbit Lower / Mock Turtle",
+   1.1
+  ],
+  [
+   "Super Gauge Trail",
+   "Super Gauge Trail / Sidetrack",
+   "Super Gauge Trail / Rainbow Cut",
+   7.2
+  ],
+  [
+   "Wild Spur Trail",
+   "Wild Spur Trail / Sundance",
+   "Wild Spur Trail",
+   1.0
+  ],
+  [
+   "Wild Spur Trail",
+   "Wild Spur Trail",
+   "Wild Spur Trail / Quickdraw",
+   1.4
+  ],
+  [
+   "Larkspur",
+   "Larkspur / Village Way",
+   "Larkspur",
+   4.5
+  ],
+  [
+   "Larkspur",
+   "Larkspur",
+   "Larkspur / Edelweiss",
+   0.5
+  ],
+  [
+   "Sundance",
+   "Wild Spur Trail / Sundance",
+   "Sundance",
+   0.5
+  ],
+  [
+   "Sundance",
+   "Sundance",
+   "Sundance 2",
+   1.5
+  ],
+  [
+   "Sundance",
+   "Sundance 2",
+   "Sundance / Big Valley",
+   2.1
+  ],
+  [
+   "Village Way",
+   "Village Way / Turnpike",
+   "Village Way 2",
+   1.2
+  ],
+  [
+   "Village Way",
+   "Village Way 2",
+   "Village Way 4",
+   2.0
+  ],
+  [
+   "Village Way",
+   "Village Way 4",
+   "Village Way 3",
+   0.5
+  ],
+  [
+   "Village Way",
+   "Village Way 3",
+   "Village Way / Lower Parkway",
+   1.0
+  ],
+  [
+   "Stagecoach",
+   "Sundance",
+   "Stagecoach / Big Valley",
+   2.6
+  ],
+  [
+   "Chuck Wagon",
+   "Chuck Wagon / Buckaroo",
+   "Chuck Wagon / Lonesome Whistle Lower",
+   0.6
+  ],
+  [
+   "Jabberwocky",
+   "Jabberwocky / White Rabbit",
+   "Jabberwocky",
+   2.4
+  ],
+  [
+   "Jabberwocky",
+   "Jabberwocky",
+   "White Rabbit Lower",
+   2.9
+  ],
+  [
+   "Retta's Run",
+   "Explorer Express top",
+   "Retta's Run / Village Way",
+   3.3
+  ],
+  [
+   "Quickdraw",
+   "Sundance 2",
+   "Wild Spur Trail / Quickdraw",
+   0.5
+  ],
+  [
+   "Quickdraw",
+   "Wild Spur Trail / Quickdraw",
+   "Quickdraw",
+   0.5
+  ],
+  [
+   "Quickdraw",
+   "Quickdraw",
+   "Quickdraw / Big Valley",
+   1.8
+  ],
+  [
+   "Lupin",
+   "Lupin / Village Way",
+   "Lupin / Fireberry Glade",
+   1.8
+  ],
+  [
+   "Allan Phipps",
+   "Allan Phipps / Village Way",
+   "Allan Phipps",
+   0.5
+  ],
+  [
+   "Allan Phipps",
+   "Allan Phipps",
+   "Allan Phipps 2",
+   1.7
+  ],
+  [
+   "Allan Phipps",
+   "Allan Phipps 2",
+   "Allan Phipps 3",
+   0.5
+  ],
+  [
+   "Allan Phipps",
+   "Allan Phipps 3",
+   "Prospector Express bottom",
+   1.2
+  ],
+  [
+   "Short Haul",
+   "Short Haul / Long Haul",
+   "Short Haul / Long Haul 2",
+   1.2
+  ],
+  [
+   "Cannonball",
+   "Cannonball / Derailer",
+   "Cannonball / Corona Way",
+   2.4
+  ],
+  [
+   "Left Hand",
+   "Left Hand",
+   "Left Hand 4",
+   0.7
+  ],
+  [
+   "Left Hand",
+   "Left Hand 4",
+   "Left Hand 3",
+   0.6
+  ],
+  [
+   "Left Hand",
+   "Left Hand 3",
+   "Left Hand 2",
+   0.7
+  ],
+  [
+   "Left Hand",
+   "Left Hand 2",
+   "Left Hand / Upper Egress",
+   2.3
+  ],
+  [
+   "Parry's Peek",
+   "Parry's Peek",
+   "Parry's Peek 2",
+   1.3
+  ],
+  [
+   "Riflesight Notch",
+   "Pony Express top",
+   "Riflesight Notch",
+   2.2
+  ],
+  [
+   "Riflesight Notch",
+   "Riflesight Notch",
+   "Riflesight Notch / Sleepy Hollow",
+   0.9
+  ],
+  [
+   "Whistlestop",
+   "Super Gauge Express top",
+   "Whistlestop",
+   0.5
+  ],
+  [
+   "Whistlestop",
+   "Whistlestop",
+   "Whistlestop 2",
+   1.4
+  ],
+  [
+   "Whistlestop",
+   "Whistlestop 2",
+   "Whistlestop 3",
+   3.3
+  ],
+  [
+   "Whistlestop",
+   "Whistlestop 3",
+   "Olympia Express top",
+   0.5
+  ],
+  [
+   "Whistlestop",
+   "Olympia Express top",
+   "Lariat bottom",
+   2.0
+  ],
+  [
+   "Whistlestop",
+   "Lariat bottom",
+   "Whistlestop 5",
+   0.5
+  ],
+  [
+   "Whistlestop",
+   "Whistlestop 5",
+   "Whistlestop 4",
+   0.5
+  ],
+  [
+   "Whistlestop",
+   "Whistlestop 4",
+   "High Lonesome Express bottom",
+   2.9
+  ],
+  [
+   "Whistlestop",
+   "High Lonesome Express bottom",
+   "Whistlestop / Lonesome Whistle Lower",
+   0.5
+  ],
+  [
+   "White Rabbit",
+   "White Rabbit / Hook Up",
+   "Jabberwocky / White Rabbit",
+   0.5
+  ],
+  [
+   "White Rabbit",
+   "Jabberwocky / White Rabbit",
+   "White Rabbit Lower / White Rabbit",
+   3.4
+  ],
+  [
+   "Village Way",
+   "Allan Phipps / Village Way",
+   "Village Way 8",
+   1.6
+  ],
+  [
+   "Village Way",
+   "Village Way 8",
+   "Retta's Run / Village Way",
+   0.8
+  ],
+  [
+   "Village Way",
+   "Retta's Run / Village Way",
+   "Village Way 6",
+   1.1
+  ],
+  [
+   "Village Way",
+   "Village Way 6",
+   "Village Way 9",
+   0.5
+  ],
+  [
+   "Village Way",
+   "Village Way 9",
+   "Village Way",
+   0.7
+  ],
+  [
+   "Village Way",
+   "Village Way",
+   "Village Way / Lower Parkway 2",
+   2.3
+  ],
+  [
+   "Turnpike",
+   "Turnpike / Easy Way",
+   "Village Way / Turnpike",
+   0.5
+  ],
+  [
+   "Turnpike",
+   "Village Way / Turnpike",
+   "Village Way 2",
+   1.5
+  ],
+  [
+   "Turnpike",
+   "Village Way 2",
+   "Spirit top",
+   1.8
+  ],
+  [
+   "Turnpike",
+   "Spirit top",
+   "Spirit bottom",
+   0.8
+  ],
+  [
+   "Turnpike",
+   "Spirit bottom",
+   "Gemini Express bottom",
+   0.5
+  ],
+  [
+   "Brian's Run",
+   "Brian's Run / Hughes",
+   "Brian's Run",
+   1.5
+  ],
+  [
+   "Rainbow Cut",
+   "Rainbow Cut / Lower Arrowhead Loop",
+   "Super Gauge Trail / Rainbow Cut",
+   4.0
+  ],
+  [
+   "Rainbow Cut",
+   "Super Gauge Trail / Rainbow Cut",
+   "Pony Express bottom",
+   0.5
+  ],
+  [
+   "Boiler",
+   "Boiler / Needles Eye",
+   "Boiler",
+   0.5
+  ],
+  [
+   "Boiler",
+   "Boiler",
+   "Boiler / Corona Way",
+   2.0
+  ],
+  [
+   "Outhouse",
+   "Lariat top",
+   "Outhouse",
+   0.5
+  ],
+  [
+   "Outhouse",
+   "Outhouse",
+   "Outhouse / Mary Jane",
+   3.4
+  ],
+  [
+   "Easy Way",
+   "Easy Way / Jack Kendrick",
+   "Turnpike / Easy Way",
+   5.0
+  ],
+  [
+   "Bobcat",
+   "Bobcat / Moose Wallow",
+   "Endeavor bottom",
+   0.7
+  ],
+  [
+   "Railbender",
+   "Railbender / Derailer",
+   "Railbender",
+   0.5
+  ],
+  [
+   "Railbender",
+   "Railbender",
+   "Railbender / Sleeper",
+   4.2
+  ],
+  [
+   "trestle",
+   "trestle / Roundhouse",
+   "trestle",
+   2.9
+  ],
+  [
+   "trestle",
+   "trestle",
+   "trestle / Corona Way",
+   1.6
+  ],
+  [
+   "Buckaroo",
+   "Quickdraw",
+   "Chuck Wagon / Buckaroo",
+   1.6
+  ],
+  [
+   "Buckaroo",
+   "Chuck Wagon / Buckaroo",
+   "Buckaroo / Wagon Train",
+   2.8
+  ],
+  [
+   "Sidetrack",
+   "Whistlestop",
+   "Super Gauge Trail / Sidetrack",
+   0.5
+  ],
+  [
+   "Sidetrack",
+   "Super Gauge Trail / Sidetrack",
+   "Sidetrack / Sleeper",
+   1.0
+  ],
+  [
+   "Big Valley",
+   "Stagecoach / Big Valley",
+   "Sundance / Big Valley",
+   1.0
+  ],
+  [
+   "Big Valley",
+   "Sundance / Big Valley",
+   "Quickdraw / Big Valley",
+   0.8
+  ],
+  [
+   "Big Valley",
+   "Quickdraw / Big Valley",
+   "Big Valley 2",
+   0.6
+  ],
+  [
+   "Big Valley",
+   "Big Valley 2",
+   "Big Valley",
+   0.8
+  ],
+  [
+   "Big Valley",
+   "Big Valley",
+   "Big Valley / Wagon Train",
+   2.2
+  ],
+  [
+   "Runaway",
+   "Railbender",
+   "Runaway",
+   0.8
+  ],
+  [
+   "Runaway",
+   "Runaway",
+   "trestle",
+   1.0
+  ],
+  [
+   "Bill Wilson's Way",
+   "Discovery top",
+   "Discovery bottom",
+   1.2
+  ],
+  [
+   "Black Coal",
+   "Left Hand 2",
+   "Black Coal / Upper Egress",
+   2.4
+  ],
+  [
+   "Eagle Wind",
+   "Eagle Wind / Thunderbird",
+   "Eagle Wind",
+   1.7
+  ],
+  [
+   "Eagle Wind",
+   "Eagle Wind",
+   "Eagle Wind bottom",
+   1.3
+  ],
+  [
+   "Brakeman",
+   "Brakeman / Needles Eye",
+   "Brakeman / Corona Way",
+   1.6
+  ],
+  [
+   "Rendezvous",
+   "Rendezvous / Tweedle Dee",
+   "Rendezvous / Mock Turtle",
+   2.1
+  ],
+  [
+   "Hook Up",
+   "Olympia Express top",
+   "White Rabbit / Hook Up",
+   1.1
+  ],
+  [
+   "Hook Up",
+   "White Rabbit / Hook Up",
+   "Hook Up / Village Way",
+   1.3
+  ],
+  [
+   "Branch Line",
+   "Riflesight Notch",
+   "Branch Line / Shoo Fly",
+   1.7
+  ],
+  [
+   "Cranmer",
+   "Explorer Express top",
+   "Cranmer",
+   0.5
+  ],
+  [
+   "To Lower Arrowhead Loop",
+   "To Lower Arrowhead Loop / Mary Jane",
+   "To Lower Arrowhead Loop",
+   0.5
+  ],
+  [
+   "To Lower Arrowhead Loop",
+   "To Lower Arrowhead Loop",
+   "To Lower Arrowhead Loop / Lower Arrowhead Loop",
+   0.8
+  ],
+  [
+   "Parkway",
+   "Arrow top",
+   "Parkway",
+   0.5
+  ],
+  [
+   "Parkway",
+   "Parkway",
+   "Village Way",
+   0.6
+  ],
+  [
+   "Switchyard",
+   "Sunnyside Express top",
+   "Switchyard",
+   0.9
+  ],
+  [
+   "Switchyard",
+   "Switchyard",
+   "Switchyard / Lonesome Whistle Upper",
+   2.0
+  ],
+  [
+   "Lower Egress",
+   "Eagle Wind bottom",
+   "Stagecoach / Big Valley",
+   4.9
+  ],
+  [
+   "Corona Way",
+   "Corona Way",
+   "trestle / Corona Way",
+   3.5
+  ],
+  [
+   "Corona Way",
+   "trestle / Corona Way",
+   "Cannonball / Corona Way",
+   0.5
+  ],
+  [
+   "Corona Way",
+   "Cannonball / Corona Way",
+   "Corona Way 2",
+   0.5
+  ],
+  [
+   "Corona Way",
+   "Corona Way 2",
+   "Brakeman / Corona Way",
+   0.5
+  ],
+  [
+   "Corona Way",
+   "Brakeman / Corona Way",
+   "Corona Way 3",
+   0.6
+  ],
+  [
+   "Corona Way",
+   "Corona Way 3",
+   "Corona Way 4",
+   0.7
+  ],
+  [
+   "Corona Way",
+   "Corona Way 4",
+   "Boiler / Corona Way",
+   1.5
+  ],
+  [
+   "Corona Way",
+   "Boiler / Corona Way",
+   "Galloping Goose top",
+   1.8
+  ],
+  [
+   "Mock Turtle",
+   "Mock Turtle / Jack Kendrick",
+   "Rendezvous / Mock Turtle",
+   1.0
+  ],
+  [
+   "Mock Turtle",
+   "Rendezvous / Mock Turtle",
+   "Mock Turtle",
+   0.7
+  ],
+  [
+   "Mock Turtle",
+   "Mock Turtle",
+   "White Rabbit Lower / Mock Turtle",
+   1.1
+  ],
+  [
+   "Vista Dome Cutoff",
+   "Looking Glass top",
+   "Allan Phipps",
+   0.9
+  ],
+  [
+   "Moose Wallow",
+   "Endeavor top",
+   "Moose Wallow",
+   0.5
+  ],
+  [
+   "Moose Wallow",
+   "Moose Wallow",
+   "Bobcat / Moose Wallow",
+   1.0
+  ],
+  [
+   "Moose Wallow",
+   "Bobcat / Moose Wallow",
+   "Endeavor bottom",
+   1.1
+  ],
+  [
+   "Tweedle Dee",
+   "Tweedle Dee / Jack Kendrick",
+   "Rendezvous / Tweedle Dee",
+   0.6
+  ],
+  [
+   "Tweedle Dee",
+   "Rendezvous / Tweedle Dee",
+   "White Rabbit Lower / Mock Turtle",
+   1.5
+  ],
+  [
+   "Upper Arrowhead Loop",
+   "Upper Arrowhead Loop / Golden Spike",
+   "Pony Express top",
+   1.4
+  ],
+  [
+   "Wild Spur Trail",
+   "Wild Spur Trail / Shootout",
+   "Big Valley",
+   1.4
+  ],
+  [
+   "Parry's Peek",
+   "Panoramic Express top",
+   "Parry's Peek 6",
+   2.3
+  ],
+  [
+   "Parry's Peek",
+   "Parry's Peek 6",
+   "Parry's Peek 3",
+   0.6
+  ],
+  [
+   "Parry's Peek",
+   "Parry's Peek 3",
+   "Parry's Peek 4",
+   0.8
+  ],
+  [
+   "Parry's Peek",
+   "Parry's Peek 4",
+   "Parry's Peek 5",
+   0.5
+  ],
+  [
+   "Parry's Peek",
+   "Parry's Peek 5",
+   "Parry's Peek 8",
+   0.9
+  ],
+  [
+   "Parry's Peek",
+   "Parry's Peek 8",
+   "Parry's Peek 7",
+   0.7
+  ],
+  [
+   "Parry's Peek",
+   "Parry's Peek 7",
+   "Parry's Peek",
+   2.6
+  ],
+  [
+   "Parry's Peek",
+   "Parry's Peek",
+   "Parry's Peek 2",
+   1.3
+  ],
+  [
+   "Lonesome Whistle Upper",
+   "Whistlestop 2",
+   "Hobo Alley / Lonesome Whistle Upper",
+   1.2
+  ],
+  [
+   "Lonesome Whistle Upper",
+   "Hobo Alley / Lonesome Whistle Upper",
+   "Switchyard / Lonesome Whistle Upper",
+   0.8
+  ],
+  [
+   "Lonesome Whistle Upper",
+   "Switchyard / Lonesome Whistle Upper",
+   "Lonesome Whistle Upper / Village Way",
+   1.6
+  ],
+  [
+   "Lower Parkway",
+   "Village Way / Lower Parkway 2",
+   "Village Way / Lower Parkway",
+   2.0
+  ],
+  [
+   "Long Haul",
+   "Long Haul / Derailer",
+   "Short Haul / Long Haul",
+   0.5
+  ],
+  [
+   "Long Haul",
+   "Short Haul / Long Haul",
+   "Short Haul / Long Haul 2",
+   1.3
+  ],
+  [
+   "Long Haul",
+   "Short Haul / Long Haul 2",
+   "Corona Way 2",
+   0.5
+  ],
+  [
+   "Tweedle Dum",
+   "Tweedle Dum / Jack Kendrick",
+   "White Rabbit Lower / Mock Turtle",
+   1.9
+  ],
+  [
+   "Rollins Ridge",
+   "Whistlestop",
+   "Rollins Ridge 2",
+   0.8
+  ],
+  [
+   "Rollins Ridge",
+   "Rollins Ridge 2",
+   "Rollins Ridge",
+   0.5
+  ],
+  [
+   "Rollins Ridge",
+   "Rollins Ridge",
+   "Challenger top",
+   0.5
+  ],
+  [
+   "Rollins Ridge",
+   "Challenger top",
+   "Rollins Ridge / Little Ten",
+   0.5
+  ],
+  [
+   "Village Way",
+   "Village Way / Lower Parkway 2",
+   "Village Way 2",
+   1.1
+  ],
+  [
+   "Calypso",
+   "Parry's Peek 3",
+   "Calypso / Edelweiss",
+   3.1
+  ],
+  [
+   "Cranmer",
+   "Cranmer / March Hare",
+   "Cranmer 2",
+   0.5
+  ],
+  [
+   "Village Way",
+   "Panoramic Express top",
+   "Larkspur / Village Way",
+   0.5
+  ],
+  [
+   "Village Way",
+   "Larkspur / Village Way",
+   "Village Way 5",
+   3.0
+  ],
+  [
+   "Village Way",
+   "Village Way 5",
+   "Village Way 7",
+   0.9
+  ],
+  [
+   "Village Way",
+   "Village Way 7",
+   "Lupin / Village Way",
+   1.1
+  ],
+  [
+   "Village Way",
+   "Lupin / Village Way",
+   "Village Way / Primrose",
+   1.2
+  ],
+  [
+   "Lower Hughes",
+   "Arrow top",
+   "Lower Hughes",
+   0.9
+  ],
+  [
+   "Lower Hughes",
+   "Lower Hughes",
+   "Lower Hughes 2",
+   0.6
+  ],
+  [
+   "Lower Hughes",
+   "Lower Hughes 2",
+   "The Gondola bottom",
+   1.4
+  ],
+  [
+   "Shootout",
+   "Quickdraw",
+   "Wild Spur Trail / Shootout",
+   1.2
+  ],
+  [
+   "Shootout",
+   "Wild Spur Trail / Shootout",
+   "Big Valley 2",
+   0.9
+  ],
+  [
+   "Kinnikinnic",
+   "Parry's Peek 4",
+   "Kinnikinnic / Edelweiss",
+   2.6
+  ],
+  [
+   "Spirit Chute",
+   "Village Way 3",
+   "Village Way 4",
+   0.5
+  ],
+  [
+   "Gandy Dancer",
+   "Gandy Dancer / Mary Jane",
+   "Mary Jane Upper / Gandy Dancer",
+   0.5
+  ],
+  [
+   "Gandy Dancer",
+   "Mary Jane Upper / Gandy Dancer",
+   "Gandy Dancer",
+   2.3
+  ],
+  [
+   "Gandy Dancer",
+   "Gandy Dancer",
+   "Gandy Dancer / Mary Jane 2",
+   0.5
+  ],
+  [
+   "Engeldive",
+   "Engeldive / Jack Kendrick",
+   "Engeldive",
+   1.3
+  ],
+  [
+   "Engeldive",
+   "Engeldive",
+   "Prospector Express bottom",
+   1.7
+  ],
+  [
+   "Hughes",
+   "Hughes / Bradley's Bash",
+   "Hughes 2",
+   2.0
+  ],
+  [
+   "Hughes",
+   "Hughes 2",
+   "Hughes",
+   0.5
+  ],
+  [
+   "Hughes",
+   "Hughes",
+   "Brian's Run / Hughes",
+   1.7
+  ],
+  [
+   "Hughes",
+   "Brian's Run / Hughes",
+   "Lower Hughes",
+   0.6
+  ],
+  [
+   "Little Ten",
+   "Rollins Ridge / Little Ten",
+   "Little Ten / Sleeper",
+   1.1
+  ],
+  [
+   "Tin Horn",
+   "Mock Turtle",
+   "Tin Horn / Wagon Train",
+   1.1
+  ],
+  [
+   "Gambler",
+   "Wild Spur Trail / Sundance",
+   "Gambler / Lonesome Whistle Lower",
+   2.3
+  ],
+  [
+   "Medicine Man",
+   "Left Hand 3",
+   "Medicine Man / Upper Egress",
+   3.0
+  ],
+  [
+   "Sober Englishman",
+   "Outhouse",
+   "Sober Englishman / Mary Jane",
+   3.1
+  ],
+  [
+   "Needles Eye",
+   "Brakeman / Needles Eye",
+   "Boiler / Needles Eye",
+   0.5
+  ],
+  [
+   "Needles Eye",
+   "Boiler / Needles Eye",
+   "Needles Eye / Derailer",
+   1.9
+  ],
+  [
+   "Forever Eva",
+   "Forever Eva",
+   "Forever Eva 2",
+   1.7
+  ],
+  [
+   "Sharp Nose",
+   "Eagle Wind",
+   "Sharp Nose / Upper Egress",
+   0.5
+  ],
+  [
+   "Marmot Flats",
+   "Moose Wallow",
+   "Discovery bottom",
+   1.5
+  ],
+  [
+   "Thunderbird",
+   "Eagle Wind top",
+   "Thunderbird",
+   2.0
+  ],
+  [
+   "Thunderbird",
+   "Thunderbird",
+   "Eagle Wind / Thunderbird",
+   0.6
+  ],
+  [
+   "Thunderbird",
+   "Eagle Wind / Thunderbird",
+   "Thunderbird 2",
+   1.1
+  ],
+  [
+   "Thunderbird",
+   "Thunderbird 2",
+   "Thunderbird / Upper Egress",
+   0.5
+  ],
+  [
+   "Lonesome Whistle Lower",
+   "Whistlestop / Lonesome Whistle Lower",
+   "Gambler / Lonesome Whistle Lower",
+   3.1
+  ],
+  [
+   "Lonesome Whistle Lower",
+   "Gambler / Lonesome Whistle Lower",
+   "Lonesome Whistle Lower",
+   0.5
+  ],
+  [
+   "Lonesome Whistle Lower",
+   "Lonesome Whistle Lower",
+   "Lonesome Whistle Lower 2",
+   0.6
+  ],
+  [
+   "Lonesome Whistle Lower",
+   "Lonesome Whistle Lower 2",
+   "Chuck Wagon / Lonesome Whistle Lower",
+   1.4
+  ],
+  [
+   "Lonesome Whistle Lower",
+   "Chuck Wagon / Lonesome Whistle Lower",
+   "White Rabbit Lower 2",
+   0.6
+  ],
+  [
+   "Cranmer",
+   "Cranmer 3",
+   "Cranmer",
+   0.5
+  ],
+  [
+   "Cranmer",
+   "Cranmer",
+   "Cranmer 2",
+   0.6
+  ],
+  [
+   "Cranmer",
+   "Cranmer 2",
+   "Cranmer 4",
+   0.5
+  ],
+  [
+   "Cranmer",
+   "Cranmer 4",
+   "Prospector Express bottom",
+   5.9
+  ],
+  [
+   "Cranmer",
+   "Prospector Express bottom",
+   "Explorer Express bottom",
+   0.5
+  ],
+  [
+   "Shoo Fly",
+   "Galloping Goose top",
+   "Shoo Fly",
+   0.6
+  ],
+  [
+   "Shoo Fly",
+   "Shoo Fly",
+   "Branch Line / Shoo Fly",
+   0.6
+  ],
+  [
+   "Shoo Fly",
+   "Branch Line / Shoo Fly",
+   "Super Gauge Trail / Rainbow Cut",
+   0.5
+  ],
+  [
+   "Shoo Fly",
+   "Super Gauge Trail / Rainbow Cut",
+   "Pony Express bottom",
+   0.5
+  ],
+  [
+   "Jack Kendrick",
+   "Looking Glass top",
+   "Tweedle Dum / Jack Kendrick",
+   0.5
+  ],
+  [
+   "Jack Kendrick",
+   "Tweedle Dum / Jack Kendrick",
+   "Tweedle Dee / Jack Kendrick",
+   0.5
+  ],
+  [
+   "Jack Kendrick",
+   "Tweedle Dee / Jack Kendrick",
+   "Engeldive / Jack Kendrick",
+   0.6
+  ],
+  [
+   "Jack Kendrick",
+   "Engeldive / Jack Kendrick",
+   "Mock Turtle / Jack Kendrick",
+   0.9
+  ],
+  [
+   "Jack Kendrick",
+   "Mock Turtle / Jack Kendrick",
+   "Easy Way / Jack Kendrick",
+   1.8
+  ],
+  [
+   "Jack Kendrick",
+   "Easy Way / Jack Kendrick",
+   "Jack Kendrick",
+   1.6
+  ],
+  [
+   "Jack Kendrick",
+   "Jack Kendrick",
+   "Prospector Express bottom",
+   0.6
+  ],
+  [
+   "Sleeper",
+   "Rollins Ridge",
+   "Sidetrack / Sleeper",
+   0.8
+  ],
+  [
+   "Sleeper",
+   "Sidetrack / Sleeper",
+   "Little Ten / Sleeper",
+   1.0
+  ],
+  [
+   "Sleeper",
+   "Little Ten / Sleeper",
+   "Sleeper",
+   1.5
+  ],
+  [
+   "Sleeper",
+   "Sleeper",
+   "Sleeper 2",
+   1.1
+  ],
+  [
+   "Sleeper",
+   "Sleeper 2",
+   "Railbender / Sleeper",
+   1.5
+  ],
+  [
+   "Sleeper",
+   "Railbender / Sleeper",
+   "Sleeper 3",
+   0.5
+  ],
+  [
+   "Sleeper",
+   "Sleeper 3",
+   "Galloping Goose top",
+   0.5
+  ],
+  [
+   "Roundhouse",
+   "Roundhouse / Bluebell",
+   "Roundhouse",
+   0.8
+  ],
+  [
+   "Roundhouse",
+   "Roundhouse",
+   "trestle / Roundhouse",
+   0.5
+  ],
+  [
+   "Roundhouse",
+   "trestle / Roundhouse",
+   "Roundhouse 2",
+   2.7
+  ],
+  [
+   "Roundhouse",
+   "Roundhouse 2",
+   "Roundhouse / Bluebell 2",
+   0.9
+  ],
+  [
+   "Coupler",
+   "Boiler",
+   "Corona Way 3",
+   1.1
+  ],
+  [
+   "Vista Dome",
+   "Looking Glass top",
+   "Allan Phipps / Village Way",
+   0.8
+  ],
+  [
+   "Cheshire Cat",
+   "Jabberwocky",
+   "White Rabbit Lower 3",
+   3.3
+  ],
+  [
+   "Butch's Breezeway",
+   "Tweedle Dum / Jack Kendrick",
+   "Tweedle Dee / Jack Kendrick",
+   0.5
+  ],
+  [
+   "Butch's Breezeway",
+   "Tweedle Dee / Jack Kendrick",
+   "Engeldive / Jack Kendrick",
+   0.5
+  ],
+  [
+   "Butch's Breezeway",
+   "Engeldive / Jack Kendrick",
+   "Jack Kendrick",
+   3.4
+  ],
+  [
+   "Thunderbird Traverse",
+   "Switchyard",
+   "Thunderbird",
+   3.1
+  ],
+  [
+   "Porcupine",
+   "Endeavor top",
+   "Bobcat / Moose Wallow",
+   1.2
+  ],
+  [
+   "Porcupine",
+   "Bobcat / Moose Wallow",
+   "Endeavor bottom",
+   0.8
+  ],
+  [
+   "Bellmar Bowl",
+   "Rollins Ridge 2",
+   "Roundhouse",
+   0.8
+  ],
+  [
+   "Mary Jane",
+   "Whistlestop 3",
+   "Gandy Dancer / Mary Jane",
+   0.7
+  ],
+  [
+   "Mary Jane",
+   "Gandy Dancer / Mary Jane",
+   "Mary Jane Upper / Gandy Dancer",
+   0.5
+  ],
+  [
+   "Mary Jane",
+   "Mary Jane Upper / Gandy Dancer",
+   "Sober Englishman / Mary Jane",
+   0.6
+  ],
+  [
+   "Mary Jane",
+   "Sober Englishman / Mary Jane",
+   "Mary Jane 2",
+   0.5
+  ],
+  [
+   "Mary Jane",
+   "Mary Jane 2",
+   "To Lower Arrowhead Loop / Mary Jane",
+   0.5
+  ],
+  [
+   "Mary Jane",
+   "To Lower Arrowhead Loop / Mary Jane",
+   "To Lower Arrowhead Loop",
+   0.5
+  ],
+  [
+   "Mary Jane",
+   "To Lower Arrowhead Loop",
+   "Gandy Dancer / Mary Jane 2",
+   1.3
+  ],
+  [
+   "Mary Jane",
+   "Gandy Dancer / Mary Jane 2",
+   "Outhouse / Mary Jane",
+   0.9
+  ],
+  [
+   "Mary Jane",
+   "Outhouse / Mary Jane",
+   "Mary Jane 3",
+   1.3
+  ],
+  [
+   "Mary Jane",
+   "Mary Jane 3",
+   "Mary Jane",
+   0.9
+  ],
+  [
+   "Columbine Lower",
+   "Columbine Lower / Columbine Upper",
+   "Columbine Lower / Bluebell",
+   1.4
+  ],
+  [
+   "Little Raven",
+   "Left Hand 4",
+   "Thunderbird 2",
+   2.8
+  ],
+  [
+   "Larry Sale",
+   "Parkway",
+   "Arrow bottom",
+   3.1
+  ],
+  [
+   "Ski Papa",
+   "Discovery top",
+   "Ski Papa",
+   1.3
+  ],
+  [
+   "Sky Pilot",
+   "Village Way 5",
+   "Larkspur",
+   3.0
+  ],
+  [
+   "Aces & Eights",
+   "Wild Spur Trail",
+   "Gambler / Lonesome Whistle Lower",
+   1.1
+  ],
+  [
+   "Aces & Eights",
+   "Gambler / Lonesome Whistle Lower",
+   "Lonesome Whistle Lower",
+   0.5
+  ],
+  [
+   "March Hare",
+   "March Hare",
+   "White Rabbit Lower 4",
+   1.4
+  ],
+  [
+   "Over'N'Underwood",
+   "Looking Glass top",
+   "Allan Phipps 2",
+   2.1
+  ],
+  [
+   "Drunken Frenchman",
+   "Whistlestop 3",
+   "Gandy Dancer",
+   2.9
+  ],
+  [
+   "Tie Siding",
+   "Galloping Goose top",
+   "Challenger bottom",
+   0.5
+  ],
+  [
+   "Tie Siding",
+   "Challenger bottom",
+   "Galloping Goose bottom",
+   1.4
+  ],
+  [
+   "Tie Siding",
+   "Galloping Goose bottom",
+   "Pony Express bottom",
+   0.5
+  ],
+  [
+   "Gunbarrel",
+   "Wild Spur Express top",
+   "Wild Spur Trail / Sundance",
+   0.5
+  ],
+  [
+   "Gunbarrel",
+   "Wild Spur Trail / Sundance",
+   "Whistlestop / Lonesome Whistle Lower",
+   2.9
+  ],
+  [
+   "Narrow Gauge",
+   "Iron Horse top",
+   "Mary Jane Upper",
+   1.5
+  ],
+  [
+   "Wagon Train",
+   "Looking Glass bottom",
+   "Olympia Express bottom",
+   0.5
+  ],
+  [
+   "Wagon Train",
+   "Olympia Express bottom",
+   "Tin Horn / Wagon Train",
+   0.8
+  ],
+  [
+   "Wagon Train",
+   "Tin Horn / Wagon Train",
+   "Buckaroo / Wagon Train",
+   0.5
+  ],
+  [
+   "Wagon Train",
+   "Buckaroo / Wagon Train",
+   "Big Valley / Wagon Train",
+   1.4
+  ],
+  [
+   "Wagon Train",
+   "Big Valley / Wagon Train",
+   "Wild Spur Express bottom",
+   0.8
+  ],
+  [
+   "Forget-Me-Not",
+   "Panoramic Express top",
+   "Forget-Me-Not",
+   2.0
+  ],
+  [
+   "Forget-Me-Not",
+   "Forget-Me-Not",
+   "Forget-Me-Not / Paintbrush",
+   2.8
+  ],
+  [
+   "High Lonesome Trail",
+   "Hobo Alley",
+   "High Lonesome Trail / Village Way",
+   4.0
+  ],
+  [
+   "Mad Tea Party",
+   "Allan Phipps / Village Way",
+   "White Rabbit Lower",
+   1.5
+  ],
+  [
+   "Primrose",
+   "Village Way / Primrose",
+   "Primrose / Edelweiss",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Corona Way 4",
+   "Unnamed run",
+   0.7
+  ],
+  [
+   "Phantom Bridge",
+   "Phantom Bridge / Derailer",
+   "Sleeper",
+   2.0
+  ],
+  [
+   "Dormouse",
+   "Olympia Express top",
+   "Whistlestop 4",
+   1.9
+  ],
+  [
+   "Bradley's Bash",
+   "Explorer Express top",
+   "Hughes / Bradley's Bash",
+   0.5
+  ],
+  [
+   "Bradley's Bash",
+   "Hughes / Bradley's Bash",
+   "Bradley's Bash",
+   0.5
+  ],
+  [
+   "Bradley's Bash",
+   "Bradley's Bash",
+   "Village Way 6",
+   3.2
+  ],
+  [
+   "Bluebell",
+   "Bluebell / Edelweiss",
+   "Roundhouse / Bluebell",
+   0.7
+  ],
+  [
+   "Bluebell",
+   "Roundhouse / Bluebell",
+   "Bluebell 2",
+   0.8
+  ],
+  [
+   "Bluebell",
+   "Bluebell 2",
+   "Bluebell",
+   1.9
+  ],
+  [
+   "Bluebell",
+   "Bluebell",
+   "Columbine Lower / Bluebell",
+   1.6
+  ],
+  [
+   "Bluebell",
+   "Columbine Lower / Bluebell",
+   "Roundhouse / Bluebell 2",
+   0.5
+  ],
+  [
+   "Bluebell",
+   "Roundhouse / Bluebell 2",
+   "Sunnyside Express bottom",
+   0.5
+  ],
+  [
+   "Edelweiss",
+   "Bluebell / Edelweiss",
+   "Edelweiss 3",
+   0.5
+  ],
+  [
+   "Edelweiss",
+   "Edelweiss 3",
+   "Edelweiss 4",
+   1.3
+  ],
+  [
+   "Edelweiss",
+   "Edelweiss 4",
+   "Primrose / Edelweiss",
+   0.5
+  ],
+  [
+   "Edelweiss",
+   "Primrose / Edelweiss",
+   "Larkspur / Edelweiss",
+   0.5
+  ],
+  [
+   "Edelweiss",
+   "Larkspur / Edelweiss",
+   "Edelweiss 2",
+   0.5
+  ],
+  [
+   "Edelweiss",
+   "Edelweiss 2",
+   "Calypso / Edelweiss",
+   0.5
+  ],
+  [
+   "Edelweiss",
+   "Calypso / Edelweiss",
+   "Kinnikinnic / Edelweiss",
+   0.7
+  ],
+  [
+   "Edelweiss",
+   "Kinnikinnic / Edelweiss",
+   "Edelweiss",
+   0.5
+  ],
+  [
+   "Edelweiss",
+   "Edelweiss",
+   "Bluebell",
+   1.0
+  ],
+  [
+   "Edelweiss",
+   "Bluebell",
+   "Sunnyside Express bottom",
+   2.6
+  ],
+  [
+   "Little Pierre",
+   "Hughes",
+   "Lower Hughes",
+   1.9
+  ],
+  [
+   "Sterling Way",
+   "Iron Horse top",
+   "Sterling Way",
+   0.5
+  ],
+  [
+   "Sterling Way",
+   "Sterling Way",
+   "Mary Jane 2",
+   2.1
+  ],
+  [
+   "Willett's Way",
+   "Parry's Peek 5",
+   "Edelweiss",
+   2.4
+  ],
+  [
+   "Quick Getaway",
+   "Explorer Express top",
+   "Quick Getaway",
+   0.5
+  ],
+  [
+   "Quick Getaway",
+   "Quick Getaway",
+   "Cranmer 4",
+   0.9
+  ],
+  [
+   "Paintbrush",
+   "Parry's Peek 6",
+   "Forget-Me-Not / Paintbrush",
+   3.1
+  ],
+  [
+   "Paintbrush",
+   "Forget-Me-Not / Paintbrush",
+   "Paintbrush",
+   0.5
+  ],
+  [
+   "Paintbrush",
+   "Paintbrush",
+   "Larkspur / Edelweiss",
+   0.5
+  ],
+  [
+   "Paintbrush",
+   "Larkspur / Edelweiss",
+   "Edelweiss 2",
+   0.5
+  ],
+  [
+   "Norwegian",
+   "Brian's Run / Hughes",
+   "Lower Hughes 2",
+   0.7
+  ],
+  [
+   "Village Way",
+   "Village Way / Primrose",
+   "Switchyard",
+   1.3
+  ],
+  [
+   "Village Way",
+   "Switchyard",
+   "Switchyard / Lonesome Whistle Upper",
+   2.1
+  ],
+  [
+   "Village Way",
+   "Switchyard / Lonesome Whistle Upper",
+   "Lonesome Whistle Upper / Village Way",
+   1.1
+  ],
+  [
+   "Village Way",
+   "Lonesome Whistle Upper / Village Way",
+   "High Lonesome Trail / Village Way",
+   1.2
+  ],
+  [
+   "Village Way",
+   "High Lonesome Trail / Village Way",
+   "Hook Up / Village Way",
+   1.8
+  ],
+  [
+   "Village Way",
+   "Hook Up / Village Way",
+   "Whistlestop / Lonesome Whistle Lower",
+   0.8
+  ],
+  [
+   "Village Way",
+   "Whistlestop / Lonesome Whistle Lower",
+   "High Lonesome Express bottom",
+   0.5
+  ],
+  [
+   "Village Way",
+   "High Lonesome Express bottom",
+   "White Rabbit Lower / White Rabbit",
+   3.7
+  ],
+  [
+   "Village Way",
+   "White Rabbit Lower / White Rabbit",
+   "Allan Phipps / Village Way",
+   1.6
+  ],
+  [
+   "Runaway",
+   "Runaway",
+   "trestle",
+   0.9
+  ],
+  [
+   "Forever Eva",
+   "Parry's Peek 7",
+   "Forever Eva",
+   0.5
+  ],
+  [
+   "Forever Eva",
+   "Forever Eva",
+   "Forever Eva 2",
+   1.8
+  ],
+  [
+   "Forever Eva",
+   "Forever Eva 2",
+   "Parry's Peek 2",
+   1.0
+  ],
+  [
+   "Olympia Spur",
+   "Iron Horse top",
+   "Mary Jane Upper / Olympia Spur",
+   1.7
+  ],
+  [
+   "Dormouse",
+   "Whistlestop 5",
+   "Whistlestop 4",
+   0.5
+  ],
+  [
+   "Dormouse",
+   "Whistlestop 4",
+   "Dormouse / March Hare",
+   1.2
+  ],
+  [
+   "Mulligan's Mile",
+   "Hughes 2",
+   "Arrow top",
+   1.8
+  ],
+  [
+   "Johnstone Junction",
+   "Parry's Peek 8",
+   "Bluebell",
+   2.1
+  ],
+  [
+   "Sleepy Hollow",
+   "Sleeper 2",
+   "Riflesight Notch / Sleepy Hollow",
+   1.5
+  ],
+  [
+   "Sleepy Hollow",
+   "Riflesight Notch / Sleepy Hollow",
+   "Shoo Fly",
+   0.8
+  ],
+  [
+   "Roundhouse",
+   "Roundhouse 2",
+   "Sunnyside Express bottom",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Edelweiss 3",
+   "Edelweiss 4",
+   2.3
+  ],
+  [
+   "Golden Spike",
+   "Sterling Way",
+   "Upper Arrowhead Loop / Golden Spike",
+   0.5
+  ],
+  [
+   "Golden Spike",
+   "Upper Arrowhead Loop / Golden Spike",
+   "To Lower Arrowhead Loop",
+   2.2
+  ],
+  [
+   "Fireberry Glade",
+   "Village Way 7",
+   "Lupin / Fireberry Glade",
+   2.3
+  ],
+  [
+   "Fireberry Glade",
+   "Lupin / Fireberry Glade",
+   "Primrose / Edelweiss",
+   0.7
+  ],
+  [
+   "OutRigger Trail",
+   "Quick Getaway",
+   "Village Way 8",
+   2.6
+  ],
+  [
+   "Juniper",
+   "Forget-Me-Not",
+   "Forget-Me-Not / Paintbrush",
+   2.8
+  ],
+  [
+   "Juniper",
+   "Forget-Me-Not / Paintbrush",
+   "Paintbrush",
+   0.5
+  ],
+  [
+   "Upper Egress",
+   "Left Hand / Upper Egress",
+   "Black Coal / Upper Egress",
+   0.8
+  ],
+  [
+   "Upper Egress",
+   "Black Coal / Upper Egress",
+   "Medicine Man / Upper Egress",
+   1.0
+  ],
+  [
+   "Upper Egress",
+   "Medicine Man / Upper Egress",
+   "Thunderbird / Upper Egress",
+   0.5
+  ],
+  [
+   "Upper Egress",
+   "Thunderbird / Upper Egress",
+   "Sharp Nose / Upper Egress",
+   1.4
+  ],
+  [
+   "Upper Egress",
+   "Sharp Nose / Upper Egress",
+   "Eagle Wind bottom",
+   0.8
+  ],
+  [
+   "Columbine Upper",
+   "Bluebell 2",
+   "Columbine Lower / Columbine Upper",
+   0.9
+  ],
+  [
+   "Engeldive",
+   "Engeldive",
+   "Allan Phipps 3",
+   0.7
+  ],
+  [
+   "March Hare",
+   "Lariat bottom",
+   "Cranmer / March Hare",
+   0.7
+  ],
+  [
+   "March Hare",
+   "Cranmer / March Hare",
+   "Dormouse / March Hare",
+   0.7
+  ],
+  [
+   "March Hare",
+   "Dormouse / March Hare",
+   "March Hare",
+   1.4
+  ],
+  [
+   "March Hare",
+   "March Hare",
+   "White Rabbit Lower / White Rabbit",
+   0.5
+  ],
+  [
+   "Balch",
+   "Bradley's Bash",
+   "Village Way 9",
+   3.3
+  ],
+  [
+   "Lower Arrowhead Loop",
+   "Pony Express top",
+   "Rainbow Cut / Lower Arrowhead Loop",
+   0.5
+  ],
+  [
+   "Lower Arrowhead Loop",
+   "Rainbow Cut / Lower Arrowhead Loop",
+   "To Lower Arrowhead Loop / Lower Arrowhead Loop",
+   1.4
+  ],
+  [
+   "Lower Arrowhead Loop",
+   "To Lower Arrowhead Loop / Lower Arrowhead Loop",
+   "Mary Jane 3",
+   2.7
+  ],
+  [
+   "Dilly Dally Alley",
+   "Lonesome Whistle Lower",
+   "Lonesome Whistle Lower 2",
+   0.6
+  ],
+  [
+   "Derailer",
+   "Rollins Ridge / Little Ten",
+   "Phantom Bridge / Derailer",
+   0.6
+  ],
+  [
+   "Derailer",
+   "Phantom Bridge / Derailer",
+   "Railbender / Derailer",
+   0.5
+  ],
+  [
+   "Derailer",
+   "Railbender / Derailer",
+   "Railbender",
+   0.5
+  ],
+  [
+   "Derailer",
+   "Railbender",
+   "Cannonball / Derailer",
+   0.5
+  ],
+  [
+   "Derailer",
+   "Cannonball / Derailer",
+   "Long Haul / Derailer",
+   0.5
+  ],
+  [
+   "Derailer",
+   "Long Haul / Derailer",
+   "Brakeman / Needles Eye",
+   1.3
+  ],
+  [
+   "Derailer",
+   "Brakeman / Needles Eye",
+   "Boiler / Needles Eye",
+   0.5
+  ],
+  [
+   "Derailer",
+   "Boiler / Needles Eye",
+   "Needles Eye / Derailer",
+   1.7
+  ],
+  [
+   "Derailer",
+   "Needles Eye / Derailer",
+   "Railbender / Sleeper",
+   0.9
+  ],
+  [
+   "Derailer",
+   "Railbender / Sleeper",
+   "Sleeper 3",
+   0.5
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Corridor",
+   "Pony Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Corridor",
+   "Galloping Goose bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Corridor",
+   "Super Gauge Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Corridor",
+   "Iron Horse bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "The Gondola bottom",
+   "Village Way / Lower Parkway",
+   3.0
+  ],
+  [
+   "walk",
+   "The Gondola bottom",
+   "Arrow bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Super Gauge Express top",
+   "Super Gauge Trail / Sidetrack",
+   3.2
+  ],
+  [
+   "walk",
+   "Super Gauge Express top",
+   "Whistlestop",
+   1.3
+  ],
+  [
+   "walk",
+   "Super Gauge Express top",
+   "Sunnyside Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Super Gauge Express top",
+   "Roundhouse / Bluebell",
+   2.9
+  ],
+  [
+   "walk",
+   "Super Gauge Express top",
+   "Hobo Alley",
+   2.6
+  ],
+  [
+   "walk",
+   "Super Gauge Express top",
+   "Bluebell / Edelweiss",
+   1.6
+  ],
+  [
+   "walk",
+   "White Rabbit Lower / Mock Turtle",
+   "Looking Glass bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "White Rabbit Lower / Mock Turtle",
+   "Olympia Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Super Gauge Trail / Rainbow Cut",
+   "Pony Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Super Gauge Trail / Rainbow Cut",
+   "Galloping Goose bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Super Gauge Trail / Rainbow Cut",
+   "Super Gauge Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Super Gauge Trail / Rainbow Cut",
+   "Iron Horse bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Wild Spur Trail / Sundance",
+   "Wild Spur Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway",
+   "The Gondola bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway",
+   "Gemini Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway",
+   "Arrow bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway",
+   "Spirit bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway",
+   "Meteor top",
+   1.8
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway",
+   "Comet top",
+   1.1
+  ],
+  [
+   "walk",
+   "Jabberwocky / White Rabbit",
+   "Lariat bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Explorer Express top",
+   "Lariat top",
+   1.7
+  ],
+  [
+   "walk",
+   "Explorer Express top",
+   "Cranmer",
+   2.3
+  ],
+  [
+   "walk",
+   "Explorer Express top",
+   "Hughes / Bradley's Bash",
+   1.3
+  ],
+  [
+   "walk",
+   "Explorer Express top",
+   "Outhouse",
+   2.1
+  ],
+  [
+   "walk",
+   "Explorer Express top",
+   "Cranmer 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Explorer Express top",
+   "Quick Getaway",
+   1.4
+  ],
+  [
+   "walk",
+   "Explorer Express top",
+   "Bradley's Bash",
+   3.0
+  ],
+  [
+   "walk",
+   "Lupin / Village Way",
+   "Eagle Wind top",
+   1.9
+  ],
+  [
+   "walk",
+   "Prospector Express bottom",
+   "Village Way / Turnpike",
+   3.5
+  ],
+  [
+   "walk",
+   "Prospector Express bottom",
+   "Turnpike / Easy Way",
+   1.7
+  ],
+  [
+   "walk",
+   "Prospector Express bottom",
+   "Discovery bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Prospector Express bottom",
+   "Explorer Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Prospector Express bottom",
+   "Jack Kendrick",
+   1.6
+  ],
+  [
+   "walk",
+   "Prospector Express bottom",
+   "Ski Papa",
+   0.8
+  ],
+  [
+   "walk",
+   "Left Hand",
+   "Eagle Wind top",
+   0.8
+  ],
+  [
+   "walk",
+   "Parry's Peek 2",
+   "Corona Way",
+   1.0
+  ],
+  [
+   "walk",
+   "Parry's Peek 2",
+   "Roundhouse / Bluebell 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Parry's Peek 2",
+   "Sunnyside Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Parry's Peek 2",
+   "Panoramic Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Pony Express top",
+   "Rainbow Cut / Lower Arrowhead Loop",
+   0.7
+  ],
+  [
+   "walk",
+   "Riflesight Notch / Sleepy Hollow",
+   "Galloping Goose top",
+   1.3
+  ],
+  [
+   "walk",
+   "Riflesight Notch / Sleepy Hollow",
+   "Challenger bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Whistlestop / Lonesome Whistle Lower",
+   "High Lonesome Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway 2",
+   "Endeavor bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway 2",
+   "Spirit top",
+   2.6
+  ],
+  [
+   "walk",
+   "Turnpike / Easy Way",
+   "Prospector Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Turnpike / Easy Way",
+   "Discovery bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Turnpike / Easy Way",
+   "Explorer Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Gemini Express bottom",
+   "Village Way / Lower Parkway",
+   0.9
+  ],
+  [
+   "walk",
+   "Gemini Express bottom",
+   "Village Way 4",
+   3.5
+  ],
+  [
+   "walk",
+   "Gemini Express bottom",
+   "Arrow bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Gemini Express bottom",
+   "Spirit bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Gemini Express bottom",
+   "Meteor top",
+   1.4
+  ],
+  [
+   "walk",
+   "Gemini Express bottom",
+   "Comet top",
+   0.9
+  ],
+  [
+   "walk",
+   "Brian's Run",
+   "The Gondola bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Brian's Run",
+   "Arrow bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Rainbow Cut / Lower Arrowhead Loop",
+   "Pony Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Pony Express bottom",
+   "Corridor",
+   2.0
+  ],
+  [
+   "walk",
+   "Pony Express bottom",
+   "Super Gauge Trail / Rainbow Cut",
+   1.0
+  ],
+  [
+   "walk",
+   "Pony Express bottom",
+   "Branch Line / Shoo Fly",
+   1.6
+  ],
+  [
+   "walk",
+   "Pony Express bottom",
+   "Mary Jane",
+   0.6
+  ],
+  [
+   "walk",
+   "Pony Express bottom",
+   "Galloping Goose bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Pony Express bottom",
+   "Super Gauge Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Pony Express bottom",
+   "Iron Horse bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Lariat top",
+   "Explorer Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Lariat top",
+   "Cranmer",
+   1.9
+  ],
+  [
+   "walk",
+   "Lariat top",
+   "Cranmer / March Hare",
+   3.1
+  ],
+  [
+   "walk",
+   "Lariat top",
+   "Hughes / Bradley's Bash",
+   2.9
+  ],
+  [
+   "walk",
+   "Lariat top",
+   "Outhouse",
+   0.6
+  ],
+  [
+   "walk",
+   "Lariat top",
+   "Cranmer 3",
+   1.1
+  ],
+  [
+   "walk",
+   "Lariat top",
+   "Whistlestop 5",
+   3.4
+  ],
+  [
+   "walk",
+   "Lariat top",
+   "Quick Getaway",
+   2.3
+  ],
+  [
+   "walk",
+   "Lariat top",
+   "Lariat bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Bobcat / Moose Wallow",
+   "Endeavor bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Endeavor bottom",
+   "Village Way / Lower Parkway 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Endeavor bottom",
+   "Village Way 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Railbender / Sleeper",
+   "Galloping Goose top",
+   1.8
+  ],
+  [
+   "walk",
+   "Railbender / Sleeper",
+   "Challenger bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Whistlestop",
+   "Super Gauge Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Whistlestop",
+   "Sunnyside Express top",
+   2.3
+  ],
+  [
+   "walk",
+   "Big Valley / Wagon Train",
+   "Wild Spur Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Village Way",
+   3.1
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Endeavor top",
+   1.8
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Moose Wallow",
+   1.6
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Village Way / Turnpike",
+   2.2
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Prospector Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Turnpike / Easy Way",
+   0.8
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Explorer Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Ski Papa",
+   1.3
+  ],
+  [
+   "walk",
+   "Eagle Wind bottom",
+   "Sharp Nose / Upper Egress",
+   2.6
+  ],
+  [
+   "walk",
+   "Olympia Express top",
+   "Gandy Dancer / Mary Jane",
+   3.3
+  ],
+  [
+   "walk",
+   "Olympia Express top",
+   "Whistlestop 3",
+   0.6
+  ],
+  [
+   "walk",
+   "Branch Line / Shoo Fly",
+   "Pony Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Branch Line / Shoo Fly",
+   "Galloping Goose bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Branch Line / Shoo Fly",
+   "Super Gauge Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Cranmer",
+   "Lariat bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Arrow top",
+   "Village Way",
+   2.9
+  ],
+  [
+   "walk",
+   "Arrow top",
+   "Lower Hughes",
+   3.4
+  ],
+  [
+   "walk",
+   "Arrow top",
+   "Parkway",
+   1.2
+  ],
+  [
+   "walk",
+   "Arrow top",
+   "Village Way 6",
+   3.1
+  ],
+  [
+   "walk",
+   "Arrow top",
+   "Village Way 9",
+   2.5
+  ],
+  [
+   "walk",
+   "Village Way",
+   "Discovery top",
+   3.1
+  ],
+  [
+   "walk",
+   "Village Way",
+   "Endeavor top",
+   1.4
+  ],
+  [
+   "walk",
+   "Sunnyside Express top",
+   "Super Gauge Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Sunnyside Express top",
+   "Whistlestop",
+   2.3
+  ],
+  [
+   "walk",
+   "Sunnyside Express top",
+   "Roundhouse / Bluebell",
+   3.2
+  ],
+  [
+   "walk",
+   "Sunnyside Express top",
+   "Hobo Alley",
+   2.9
+  ],
+  [
+   "walk",
+   "Sunnyside Express top",
+   "Bluebell / Edelweiss",
+   0.8
+  ],
+  [
+   "walk",
+   "Sunnyside Express top",
+   "Edelweiss 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Corona Way",
+   "Sunnyside Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Corona Way",
+   "Panoramic Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Galloping Goose top",
+   "Shoo Fly",
+   2.4
+  ],
+  [
+   "walk",
+   "Galloping Goose top",
+   "Sleeper 3",
+   1.3
+  ],
+  [
+   "walk",
+   "Galloping Goose top",
+   "Challenger bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Looking Glass top",
+   "Allan Phipps / Village Way",
+   3.0
+  ],
+  [
+   "walk",
+   "Looking Glass top",
+   "Allan Phipps",
+   3.1
+  ],
+  [
+   "walk",
+   "Looking Glass top",
+   "Tweedle Dee / Jack Kendrick",
+   1.3
+  ],
+  [
+   "walk",
+   "Looking Glass top",
+   "Tweedle Dum / Jack Kendrick",
+   0.7
+  ],
+  [
+   "walk",
+   "Looking Glass top",
+   "Engeldive / Jack Kendrick",
+   2.8
+  ],
+  [
+   "walk",
+   "Endeavor top",
+   "Discovery top",
+   1.8
+  ],
+  [
+   "walk",
+   "Endeavor top",
+   "Village Way",
+   1.4
+  ],
+  [
+   "walk",
+   "Endeavor top",
+   "Moose Wallow",
+   1.3
+  ],
+  [
+   "walk",
+   "Tweedle Dee / Jack Kendrick",
+   "Looking Glass top",
+   1.3
+  ],
+  [
+   "walk",
+   "Panoramic Express top",
+   "Larkspur / Village Way",
+   1.5
+  ],
+  [
+   "walk",
+   "Tweedle Dum / Jack Kendrick",
+   "Looking Glass top",
+   0.7
+  ],
+  [
+   "walk",
+   "Rollins Ridge / Little Ten",
+   "Challenger top",
+   0.7
+  ],
+  [
+   "walk",
+   "Village Way 3",
+   "Gemini Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Village Way 3",
+   "Spirit bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Village Way 3",
+   "Spirit top",
+   2.4
+  ],
+  [
+   "walk",
+   "Village Way 3",
+   "Meteor top",
+   1.1
+  ],
+  [
+   "walk",
+   "Village Way 3",
+   "Comet top",
+   1.8
+  ],
+  [
+   "walk",
+   "Village Way 4",
+   "Gemini Express bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Village Way 4",
+   "Spirit bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Village Way 4",
+   "Spirit top",
+   1.0
+  ],
+  [
+   "walk",
+   "Village Way 4",
+   "Meteor top",
+   2.2
+  ],
+  [
+   "walk",
+   "Village Way 4",
+   "Comet top",
+   2.9
+  ],
+  [
+   "walk",
+   "Hughes / Bradley's Bash",
+   "Explorer Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Hughes / Bradley's Bash",
+   "Lariat top",
+   2.9
+  ],
+  [
+   "walk",
+   "Mock Turtle",
+   "Looking Glass bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Mock Turtle",
+   "Olympia Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Tin Horn / Wagon Train",
+   "Olympia Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Outhouse",
+   "Explorer Express top",
+   2.1
+  ],
+  [
+   "walk",
+   "Outhouse",
+   "Lariat top",
+   0.6
+  ],
+  [
+   "walk",
+   "Outhouse",
+   "Lariat bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Forever Eva 2",
+   "Sunnyside Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Sharp Nose / Upper Egress",
+   "Eagle Wind bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Moose Wallow",
+   "Discovery top",
+   1.6
+  ],
+  [
+   "walk",
+   "Moose Wallow",
+   "Endeavor top",
+   1.3
+  ],
+  [
+   "walk",
+   "Eagle Wind top",
+   "Lupin / Village Way",
+   1.9
+  ],
+  [
+   "walk",
+   "Eagle Wind top",
+   "Left Hand",
+   0.8
+  ],
+  [
+   "walk",
+   "Eagle Wind top",
+   "Left Hand 4",
+   2.2
+  ],
+  [
+   "walk",
+   "Cranmer 3",
+   "Explorer Express top",
+   2.7
+  ],
+  [
+   "walk",
+   "Cranmer 3",
+   "Lariat top",
+   1.1
+  ],
+  [
+   "walk",
+   "Cranmer 3",
+   "Lariat bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Explorer Express bottom",
+   "Village Way / Turnpike",
+   2.8
+  ],
+  [
+   "walk",
+   "Explorer Express bottom",
+   "Prospector Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Explorer Express bottom",
+   "Turnpike / Easy Way",
+   1.0
+  ],
+  [
+   "walk",
+   "Explorer Express bottom",
+   "Discovery bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Explorer Express bottom",
+   "Jack Kendrick",
+   2.1
+  ],
+  [
+   "walk",
+   "Explorer Express bottom",
+   "Ski Papa",
+   0.7
+  ],
+  [
+   "walk",
+   "Rollins Ridge",
+   "Challenger top",
+   0.9
+  ],
+  [
+   "walk",
+   "Roundhouse / Bluebell 2",
+   "Sunnyside Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Roundhouse / Bluebell 2",
+   "Panoramic Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Jack Kendrick",
+   "Prospector Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Jack Kendrick",
+   "Explorer Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Rollins Ridge 2",
+   "Challenger top",
+   1.8
+  ],
+  [
+   "walk",
+   "Whistlestop 3",
+   "Olympia Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Mary Jane",
+   "Corridor",
+   1.5
+  ],
+  [
+   "walk",
+   "Mary Jane",
+   "Super Gauge Trail / Rainbow Cut",
+   1.4
+  ],
+  [
+   "walk",
+   "Mary Jane",
+   "Pony Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Mary Jane",
+   "Branch Line / Shoo Fly",
+   2.2
+  ],
+  [
+   "walk",
+   "Mary Jane",
+   "Galloping Goose bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Mary Jane",
+   "Super Gauge Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Mary Jane",
+   "Iron Horse bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Columbine Lower / Bluebell",
+   "Sunnyside Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Parkway",
+   "Endeavor top",
+   2.4
+  ],
+  [
+   "walk",
+   "Arrow bottom",
+   "The Gondola bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Arrow bottom",
+   "Village Way / Lower Parkway",
+   1.9
+  ],
+  [
+   "walk",
+   "Arrow bottom",
+   "Gemini Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Arrow bottom",
+   "Comet top",
+   3.0
+  ],
+  [
+   "walk",
+   "Ski Papa",
+   "Village Way / Turnpike",
+   3.1
+  ],
+  [
+   "walk",
+   "Ski Papa",
+   "Prospector Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Ski Papa",
+   "Turnpike / Easy Way",
+   1.2
+  ],
+  [
+   "walk",
+   "Ski Papa",
+   "Discovery bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Ski Papa",
+   "Explorer Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Ski Papa",
+   "Jack Kendrick",
+   2.4
+  ],
+  [
+   "walk",
+   "Wild Spur Express top",
+   "Wild Spur Trail / Sundance",
+   1.0
+  ],
+  [
+   "walk",
+   "Wild Spur Express top",
+   "Sundance",
+   2.9
+  ],
+  [
+   "walk",
+   "Iron Horse top",
+   "Upper Arrowhead Loop / Golden Spike",
+   3.2
+  ],
+  [
+   "walk",
+   "Iron Horse top",
+   "Whistlestop 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Iron Horse top",
+   "Sterling Way",
+   2.0
+  ],
+  [
+   "walk",
+   "Looking Glass bottom",
+   "White Rabbit Lower / Mock Turtle",
+   1.2
+  ],
+  [
+   "walk",
+   "Looking Glass bottom",
+   "Olympia Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Boiler / Corona Way",
+   3.0
+  ],
+  [
+   "walk",
+   "Whistlestop 4",
+   "Lariat bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Village Way 6",
+   "Discovery top",
+   2.8
+  ],
+  [
+   "walk",
+   "Village Way 6",
+   "Endeavor top",
+   2.4
+  ],
+  [
+   "walk",
+   "Bluebell / Edelweiss",
+   "Super Gauge Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Bluebell / Edelweiss",
+   "Sunnyside Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Sunnyside Express bottom",
+   "Parry's Peek 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Sunnyside Express bottom",
+   "Corona Way",
+   1.0
+  ],
+  [
+   "walk",
+   "Sunnyside Express bottom",
+   "Roundhouse / Bluebell 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Sunnyside Express bottom",
+   "Panoramic Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Whistlestop 5",
+   "Lariat bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Shoo Fly",
+   "Galloping Goose bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Shoo Fly",
+   "Challenger bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Roundhouse 2",
+   "Sunnyside Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Edelweiss 3",
+   "Sunnyside Express top",
+   2.7
+  ],
+  [
+   "walk",
+   "Lariat bottom",
+   "Jabberwocky / White Rabbit",
+   3.3
+  ],
+  [
+   "walk",
+   "Lariat bottom",
+   "Lariat top",
+   2.0
+  ],
+  [
+   "walk",
+   "Lariat bottom",
+   "Cranmer",
+   2.6
+  ],
+  [
+   "walk",
+   "Lariat bottom",
+   "Cranmer / March Hare",
+   2.6
+  ],
+  [
+   "walk",
+   "Lariat bottom",
+   "Outhouse",
+   1.9
+  ],
+  [
+   "walk",
+   "Lariat bottom",
+   "Cranmer 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Lariat bottom",
+   "Whistlestop 4",
+   2.3
+  ],
+  [
+   "walk",
+   "Lariat bottom",
+   "Whistlestop 5",
+   1.6
+  ],
+  [
+   "walk",
+   "Village Way 9",
+   "Discovery top",
+   2.7
+  ],
+  [
+   "walk",
+   "Village Way 9",
+   "Endeavor top",
+   1.7
+  ],
+  [
+   "walk",
+   "Mary Jane 3",
+   "Pony Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Mary Jane 3",
+   "Galloping Goose bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Mary Jane 3",
+   "Super Gauge Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Mary Jane 3",
+   "Iron Horse bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Sleeper 3",
+   "Galloping Goose top",
+   1.3
+  ],
+  [
+   "walk",
+   "Sleeper 3",
+   "Challenger bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Galloping Goose bottom",
+   "Corridor",
+   2.6
+  ],
+  [
+   "walk",
+   "Galloping Goose bottom",
+   "Super Gauge Trail / Rainbow Cut",
+   0.6
+  ],
+  [
+   "walk",
+   "Galloping Goose bottom",
+   "Pony Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Galloping Goose bottom",
+   "Branch Line / Shoo Fly",
+   1.0
+  ],
+  [
+   "walk",
+   "Galloping Goose bottom",
+   "Mary Jane",
+   1.2
+  ],
+  [
+   "walk",
+   "Galloping Goose bottom",
+   "Super Gauge Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Galloping Goose bottom",
+   "Iron Horse bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Olympia Express bottom",
+   "White Rabbit Lower / Mock Turtle",
+   2.0
+  ],
+  [
+   "walk",
+   "Olympia Express bottom",
+   "Tin Horn / Wagon Train",
+   2.8
+  ],
+  [
+   "walk",
+   "Olympia Express bottom",
+   "Looking Glass bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Spirit bottom",
+   "Village Way / Lower Parkway",
+   2.3
+  ],
+  [
+   "walk",
+   "Spirit bottom",
+   "Gemini Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Spirit bottom",
+   "Village Way 4",
+   1.8
+  ],
+  [
+   "walk",
+   "Spirit bottom",
+   "Meteor top",
+   0.7
+  ],
+  [
+   "walk",
+   "Spirit bottom",
+   "Comet top",
+   1.3
+  ],
+  [
+   "walk",
+   "Spirit top",
+   "Village Way 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Spirit top",
+   "Village Way 4",
+   1.0
+  ],
+  [
+   "walk",
+   "Spirit top",
+   "Spirit bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Spirit top",
+   "Meteor top",
+   3.2
+  ],
+  [
+   "walk",
+   "Meteor top",
+   "Village Way / Lower Parkway",
+   1.8
+  ],
+  [
+   "walk",
+   "Meteor top",
+   "Gemini Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Meteor top",
+   "Village Way 4",
+   2.2
+  ],
+  [
+   "walk",
+   "Meteor top",
+   "Spirit bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Meteor top",
+   "Spirit top",
+   3.2
+  ],
+  [
+   "walk",
+   "Meteor top",
+   "Comet top",
+   0.7
+  ],
+  [
+   "walk",
+   "Super Gauge Express bottom",
+   "Corridor",
+   1.8
+  ],
+  [
+   "walk",
+   "Super Gauge Express bottom",
+   "Super Gauge Trail / Rainbow Cut",
+   2.0
+  ],
+  [
+   "walk",
+   "Super Gauge Express bottom",
+   "Pony Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Super Gauge Express bottom",
+   "Branch Line / Shoo Fly",
+   2.6
+  ],
+  [
+   "walk",
+   "Super Gauge Express bottom",
+   "Mary Jane",
+   0.7
+  ],
+  [
+   "walk",
+   "Super Gauge Express bottom",
+   "Galloping Goose bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Super Gauge Express bottom",
+   "Iron Horse bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Iron Horse bottom",
+   "Corridor",
+   0.9
+  ],
+  [
+   "walk",
+   "Iron Horse bottom",
+   "Super Gauge Trail / Rainbow Cut",
+   3.2
+  ],
+  [
+   "walk",
+   "Iron Horse bottom",
+   "Pony Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Iron Horse bottom",
+   "Mary Jane",
+   1.8
+  ],
+  [
+   "walk",
+   "Iron Horse bottom",
+   "Galloping Goose bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Iron Horse bottom",
+   "Super Gauge Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "High Lonesome Express bottom",
+   "Whistlestop / Lonesome Whistle Lower",
+   0.9
+  ],
+  [
+   "walk",
+   "Panoramic Express bottom",
+   "Parry's Peek 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Panoramic Express bottom",
+   "Corona Way",
+   0.6
+  ],
+  [
+   "walk",
+   "Panoramic Express bottom",
+   "Roundhouse / Bluebell 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Panoramic Express bottom",
+   "Sunnyside Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Comet top",
+   "Village Way / Lower Parkway",
+   1.1
+  ],
+  [
+   "walk",
+   "Comet top",
+   "Gemini Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Comet top",
+   "Village Way 4",
+   2.9
+  ],
+  [
+   "walk",
+   "Comet top",
+   "Arrow bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Comet top",
+   "Spirit bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Comet top",
+   "Meteor top",
+   0.7
+  ],
+  [
+   "walk",
+   "Challenger bottom",
+   "Galloping Goose top",
+   0.8
+  ],
+  [
+   "walk",
+   "Challenger bottom",
+   "Shoo Fly",
+   1.9
+  ],
+  [
+   "walk",
+   "Challenger bottom",
+   "Sleeper 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Challenger top",
+   "Sidetrack / Sleeper",
+   2.7
+  ],
+  [
+   "walk",
+   "Challenger top",
+   "Rollins Ridge / Little Ten",
+   0.7
+  ],
+  [
+   "walk",
+   "Challenger top",
+   "Rollins Ridge",
+   0.9
+  ],
+  [
+   "walk",
+   "Challenger top",
+   "Rollins Ridge 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Challenger top",
+   "Phantom Bridge / Derailer",
+   2.8
+  ],
+  [
+   "walk",
+   "Brian's Run",
+   "Village Way / Lower Parkway",
+   4.6
+  ],
+  [
+   "walk",
+   "Whistlestop",
+   "Super Gauge Trail / Sidetrack",
+   4.4
+  ],
+  [
+   "walk",
+   "Whistlestop",
+   "Roundhouse / Bluebell",
+   4.2
+  ],
+  [
+   "walk",
+   "Whistlestop",
+   "Hobo Alley",
+   3.9
+  ],
+  [
+   "walk",
+   "Whistlestop",
+   "Bluebell / Edelweiss",
+   2.9
+  ],
+  [
+   "walk",
+   "Sunnyside Express top",
+   "Super Gauge Trail / Sidetrack",
+   4.2
+  ],
+  [
+   "walk",
+   "Bluebell / Edelweiss",
+   "Super Gauge Trail / Sidetrack",
+   4.7
+  ],
+  [
+   "walk",
+   "Bluebell / Edelweiss",
+   "Whistlestop",
+   2.9
+  ],
+  [
+   "walk",
+   "Bluebell / Edelweiss",
+   "Roundhouse / Bluebell",
+   3.9
+  ],
+  [
+   "walk",
+   "Bluebell / Edelweiss",
+   "Hobo Alley",
+   3.7
+  ],
+  [
+   "walk",
+   "The Gondola bottom",
+   "Gemini Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "The Gondola bottom",
+   "Spirit bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "The Gondola bottom",
+   "Meteor top",
+   4.8
+  ],
+  [
+   "walk",
+   "The Gondola bottom",
+   "Comet top",
+   4.1
+  ],
+  [
+   "walk",
+   "Gemini Express bottom",
+   "The Gondola bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Arrow bottom",
+   "Spirit bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Arrow bottom",
+   "Meteor top",
+   3.7
+  ],
+  [
+   "walk",
+   "Spirit bottom",
+   "The Gondola bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Spirit bottom",
+   "Arrow bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Meteor top",
+   "The Gondola bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Meteor top",
+   "Arrow bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Comet top",
+   "The Gondola bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Brian's Run",
+   "Gemini Express bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Brian's Run",
+   "Meteor top",
+   6.4
+  ],
+  [
+   "walk",
+   "Brian's Run",
+   "Comet top",
+   5.7
+  ],
+  [
+   "walk",
+   "Lariat top",
+   "Bradley's Bash",
+   4.8
+  ],
+  [
+   "walk",
+   "Hughes / Bradley's Bash",
+   "Cranmer",
+   3.5
+  ],
+  [
+   "walk",
+   "Hughes / Bradley's Bash",
+   "Outhouse",
+   3.4
+  ],
+  [
+   "walk",
+   "Hughes / Bradley's Bash",
+   "Cranmer 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Hughes / Bradley's Bash",
+   "Quick Getaway",
+   2.7
+  ],
+  [
+   "walk",
+   "Hughes / Bradley's Bash",
+   "Bradley's Bash",
+   4.3
+  ],
+  [
+   "walk",
+   "Outhouse",
+   "Cranmer",
+   2.5
+  ],
+  [
+   "walk",
+   "Outhouse",
+   "Hughes / Bradley's Bash",
+   3.4
+  ],
+  [
+   "walk",
+   "Outhouse",
+   "Cranmer 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Outhouse",
+   "Quick Getaway",
+   3.0
+  ],
+  [
+   "walk",
+   "Outhouse",
+   "Bradley's Bash",
+   5.2
+  ],
+  [
+   "walk",
+   "Cranmer 3",
+   "Cranmer",
+   3.0
+  ],
+  [
+   "walk",
+   "Cranmer 3",
+   "Hughes / Bradley's Bash",
+   4.0
+  ],
+  [
+   "walk",
+   "Cranmer 3",
+   "Outhouse",
+   1.8
+  ],
+  [
+   "walk",
+   "Cranmer 3",
+   "Quick Getaway",
+   3.4
+  ],
+  [
+   "walk",
+   "Cranmer 3",
+   "Bradley's Bash",
+   5.7
+  ],
+  [
+   "walk",
+   "Turnpike / Easy Way",
+   "Village Way / Turnpike",
+   3.0
+  ],
+  [
+   "walk",
+   "Turnpike / Easy Way",
+   "Jack Kendrick",
+   3.2
+  ],
+  [
+   "walk",
+   "Turnpike / Easy Way",
+   "Ski Papa",
+   1.7
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Jack Kendrick",
+   3.7
+  ],
+  [
+   "walk",
+   "Jack Kendrick",
+   "Village Way / Turnpike",
+   4.9
+  ],
+  [
+   "walk",
+   "Jack Kendrick",
+   "Turnpike / Easy Way",
+   3.2
+  ],
+  [
+   "walk",
+   "Jack Kendrick",
+   "Discovery bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Jack Kendrick",
+   "Ski Papa",
+   2.4
+  ],
+  [
+   "walk",
+   "Endeavor bottom",
+   "Spirit top",
+   3.9
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway",
+   "Village Way 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Village Way 3",
+   "Village Way / Lower Parkway",
+   2.9
+  ],
+  [
+   "walk",
+   "Village Way 3",
+   "Village Way 4",
+   3.0
+  ],
+  [
+   "walk",
+   "Village Way 3",
+   "Arrow bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Village Way 3",
+   "The Gondola bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Village Way 4",
+   "Village Way / Lower Parkway",
+   4.0
+  ],
+  [
+   "walk",
+   "Village Way 4",
+   "Arrow bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Arrow bottom",
+   "Village Way 4",
+   5.9
+  ],
+  [
+   "walk",
+   "Corridor",
+   "Super Gauge Trail / Rainbow Cut",
+   3.0
+  ],
+  [
+   "walk",
+   "Corridor",
+   "Branch Line / Shoo Fly",
+   3.6
+  ],
+  [
+   "walk",
+   "Corridor",
+   "Mary Jane",
+   2.5
+  ],
+  [
+   "walk",
+   "Super Gauge Trail / Rainbow Cut",
+   "Corridor",
+   3.0
+  ],
+  [
+   "walk",
+   "Super Gauge Trail / Rainbow Cut",
+   "Branch Line / Shoo Fly",
+   1.6
+  ],
+  [
+   "walk",
+   "Super Gauge Trail / Rainbow Cut",
+   "Mary Jane",
+   1.5
+  ],
+  [
+   "walk",
+   "Branch Line / Shoo Fly",
+   "Corridor",
+   3.6
+  ],
+  [
+   "walk",
+   "Branch Line / Shoo Fly",
+   "Super Gauge Trail / Rainbow Cut",
+   1.6
+  ],
+  [
+   "walk",
+   "Branch Line / Shoo Fly",
+   "Mary Jane",
+   2.2
+  ],
+  [
+   "walk",
+   "Branch Line / Shoo Fly",
+   "Iron Horse bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Mary Jane 3",
+   "Corridor",
+   3.7
+  ],
+  [
+   "walk",
+   "Mary Jane 3",
+   "Super Gauge Trail / Rainbow Cut",
+   4.0
+  ],
+  [
+   "walk",
+   "Mary Jane 3",
+   "Branch Line / Shoo Fly",
+   4.4
+  ],
+  [
+   "walk",
+   "Mary Jane 3",
+   "Mary Jane",
+   3.6
+  ],
+  [
+   "walk",
+   "Iron Horse bottom",
+   "Branch Line / Shoo Fly",
+   4.0
+  ],
+  [
+   "walk",
+   "Explorer Express top",
+   "Cranmer / March Hare",
+   4.8
+  ],
+  [
+   "walk",
+   "Explorer Express top",
+   "Whistlestop 5",
+   5.1
+  ],
+  [
+   "walk",
+   "Explorer Express top",
+   "Lariat bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Hughes / Bradley's Bash",
+   "Cranmer / March Hare",
+   6.0
+  ],
+  [
+   "walk",
+   "Hughes / Bradley's Bash",
+   "Whistlestop 5",
+   6.3
+  ],
+  [
+   "walk",
+   "Hughes / Bradley's Bash",
+   "Lariat bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Outhouse",
+   "Cranmer / March Hare",
+   3.7
+  ],
+  [
+   "walk",
+   "Outhouse",
+   "Whistlestop 5",
+   3.6
+  ],
+  [
+   "walk",
+   "Cranmer 3",
+   "Cranmer / March Hare",
+   3.7
+  ],
+  [
+   "walk",
+   "Cranmer 3",
+   "Whistlestop 5",
+   2.7
+  ],
+  [
+   "walk",
+   "Lariat bottom",
+   "Explorer Express top",
+   3.7
+  ],
+  [
+   "walk",
+   "Lariat bottom",
+   "Hughes / Bradley's Bash",
+   4.9
+  ],
+  [
+   "walk",
+   "Lariat bottom",
+   "Quick Getaway",
+   4.3
+  ],
+  [
+   "walk",
+   "Lariat bottom",
+   "Bradley's Bash",
+   6.8
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway 2",
+   "Village Way 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Bobcat / Moose Wallow",
+   "Village Way / Lower Parkway 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Bobcat / Moose Wallow",
+   "Village Way 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Bobcat / Moose Wallow",
+   "Spirit top",
+   6.6
+  ],
+  [
+   "walk",
+   "Village Way",
+   "Moose Wallow",
+   2.7
+  ],
+  [
+   "walk",
+   "Moose Wallow",
+   "Village Way",
+   2.7
+  ],
+  [
+   "walk",
+   "Village Way 6",
+   "Village Way",
+   3.8
+  ],
+  [
+   "walk",
+   "Village Way 6",
+   "Moose Wallow",
+   3.7
+  ],
+  [
+   "walk",
+   "Village Way 9",
+   "Village Way",
+   3.1
+  ],
+  [
+   "walk",
+   "Village Way 9",
+   "Moose Wallow",
+   3.0
+  ],
+  [
+   "walk",
+   "Whistlestop 3",
+   "Gandy Dancer / Mary Jane",
+   3.9
+  ],
+  [
+   "walk",
+   "Arrow top",
+   "Discovery top",
+   5.2
+  ],
+  [
+   "walk",
+   "Arrow top",
+   "Endeavor top",
+   3.5
+  ],
+  [
+   "walk",
+   "Super Gauge Express top",
+   "Edelweiss 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Whistlestop",
+   "Edelweiss 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Bluebell / Edelweiss",
+   "Edelweiss 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Edelweiss 3",
+   "Super Gauge Express top",
+   3.8
+  ],
+  [
+   "walk",
+   "Edelweiss 3",
+   "Whistlestop",
+   5.0
+  ],
+  [
+   "walk",
+   "Edelweiss 3",
+   "Roundhouse / Bluebell",
+   5.9
+  ],
+  [
+   "walk",
+   "Edelweiss 3",
+   "Hobo Alley",
+   5.6
+  ],
+  [
+   "walk",
+   "Edelweiss 3",
+   "Bluebell / Edelweiss",
+   3.5
+  ],
+  [
+   "walk",
+   "Edelweiss 3",
+   "Super Gauge Trail / Sidetrack",
+   6.9
+  ],
+  [
+   "walk",
+   "Riflesight Notch / Sleepy Hollow",
+   "Shoo Fly",
+   3.7
+  ],
+  [
+   "walk",
+   "Riflesight Notch / Sleepy Hollow",
+   "Sleeper 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Railbender / Sleeper",
+   "Shoo Fly",
+   4.2
+  ],
+  [
+   "walk",
+   "Railbender / Sleeper",
+   "Sleeper 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Sleeper 3",
+   "Shoo Fly",
+   3.6
+  ],
+  [
+   "walk",
+   "Tweedle Dee / Jack Kendrick",
+   "Allan Phipps / Village Way",
+   4.3
+  ],
+  [
+   "walk",
+   "Tweedle Dee / Jack Kendrick",
+   "Allan Phipps",
+   4.4
+  ],
+  [
+   "walk",
+   "Tweedle Dee / Jack Kendrick",
+   "Tweedle Dum / Jack Kendrick",
+   2.0
+  ],
+  [
+   "walk",
+   "Tweedle Dee / Jack Kendrick",
+   "Engeldive / Jack Kendrick",
+   4.0
+  ],
+  [
+   "walk",
+   "Tweedle Dum / Jack Kendrick",
+   "Allan Phipps / Village Way",
+   3.7
+  ],
+  [
+   "walk",
+   "Tweedle Dum / Jack Kendrick",
+   "Allan Phipps",
+   3.9
+  ],
+  [
+   "walk",
+   "Tweedle Dum / Jack Kendrick",
+   "Tweedle Dee / Jack Kendrick",
+   2.0
+  ],
+  [
+   "walk",
+   "Tweedle Dum / Jack Kendrick",
+   "Engeldive / Jack Kendrick",
+   3.5
+  ],
+  [
+   "walk",
+   "Parkway",
+   "Discovery top",
+   4.2
+  ],
+  [
+   "walk",
+   "Parkway",
+   "Village Way",
+   3.7
+  ],
+  [
+   "walk",
+   "Parkway",
+   "Moose Wallow",
+   3.7
+  ],
+  [
+   "walk",
+   "Arrow top",
+   "Moose Wallow",
+   4.8
+  ],
+  [
+   "walk",
+   "Spirit top",
+   "Gemini Express bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Spirit top",
+   "Comet top",
+   3.9
+  ],
+  [
+   "walk",
+   "Spirit top",
+   "Village Way / Lower Parkway",
+   5.0
+  ],
+  [
+   "walk",
+   "Gemini Express bottom",
+   "Spirit top",
+   4.5
+  ],
+  [
+   "walk",
+   "Spirit bottom",
+   "Spirit top",
+   2.8
+  ],
+  [
+   "walk",
+   "Comet top",
+   "Spirit top",
+   3.9
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway",
+   "Spirit top",
+   5.0
+  ],
+  [
+   "walk",
+   "Lupin / Village Way",
+   "Left Hand",
+   2.7
+  ],
+  [
+   "walk",
+   "Lupin / Village Way",
+   "Left Hand 4",
+   4.1
+  ],
+  [
+   "walk",
+   "Left Hand",
+   "Lupin / Village Way",
+   2.7
+  ],
+  [
+   "walk",
+   "Left Hand",
+   "Left Hand 4",
+   3.0
+  ],
+  [
+   "walk",
+   "Brian's Run",
+   "Spirit bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Wild Spur Trail / Sundance",
+   "Sundance",
+   3.9
+  ],
+  [
+   "walk",
+   "Mock Turtle",
+   "White Rabbit Lower / Mock Turtle",
+   4.3
+  ],
+  [
+   "walk",
+   "Corona Way",
+   "Parry's Peek 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Corona Way",
+   "Roundhouse / Bluebell 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Forever Eva 2",
+   "Parry's Peek 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Forever Eva 2",
+   "Corona Way",
+   4.1
+  ],
+  [
+   "walk",
+   "Forever Eva 2",
+   "Roundhouse / Bluebell 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Forever Eva 2",
+   "Panoramic Express bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Roundhouse / Bluebell 2",
+   "Parry's Peek 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Roundhouse / Bluebell 2",
+   "Corona Way",
+   1.9
+  ],
+  [
+   "walk",
+   "Columbine Lower / Bluebell",
+   "Parry's Peek 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Columbine Lower / Bluebell",
+   "Corona Way",
+   3.4
+  ],
+  [
+   "walk",
+   "Columbine Lower / Bluebell",
+   "Roundhouse / Bluebell 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Columbine Lower / Bluebell",
+   "Panoramic Express bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Roundhouse 2",
+   "Parry's Peek 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Roundhouse 2",
+   "Corona Way",
+   4.0
+  ],
+  [
+   "walk",
+   "Roundhouse 2",
+   "Roundhouse / Bluebell 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Roundhouse 2",
+   "Panoramic Express bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Galloping Goose top",
+   "Galloping Goose bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Challenger bottom",
+   "Galloping Goose bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Riflesight Notch / Sleepy Hollow",
+   "Galloping Goose bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Sleeper 3",
+   "Galloping Goose bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Jabberwocky / White Rabbit",
+   "Lariat top",
+   5.3
+  ],
+  [
+   "walk",
+   "Jabberwocky / White Rabbit",
+   "Cranmer",
+   5.9
+  ],
+  [
+   "walk",
+   "Jabberwocky / White Rabbit",
+   "Cranmer / March Hare",
+   5.9
+  ],
+  [
+   "walk",
+   "Jabberwocky / White Rabbit",
+   "Outhouse",
+   5.2
+  ],
+  [
+   "walk",
+   "Jabberwocky / White Rabbit",
+   "Cranmer 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Jabberwocky / White Rabbit",
+   "Whistlestop 4",
+   5.6
+  ],
+  [
+   "walk",
+   "Jabberwocky / White Rabbit",
+   "Whistlestop 5",
+   4.9
+  ],
+  [
+   "walk",
+   "Lariat top",
+   "Jabberwocky / White Rabbit",
+   5.3
+  ],
+  [
+   "walk",
+   "Lariat top",
+   "Whistlestop 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Cranmer",
+   "Jabberwocky / White Rabbit",
+   5.9
+  ],
+  [
+   "walk",
+   "Cranmer",
+   "Lariat top",
+   4.6
+  ],
+  [
+   "walk",
+   "Cranmer",
+   "Cranmer / March Hare",
+   5.3
+  ],
+  [
+   "walk",
+   "Cranmer",
+   "Outhouse",
+   4.6
+  ],
+  [
+   "walk",
+   "Cranmer",
+   "Cranmer 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Cranmer",
+   "Whistlestop 4",
+   4.9
+  ],
+  [
+   "walk",
+   "Cranmer",
+   "Whistlestop 5",
+   4.3
+  ],
+  [
+   "walk",
+   "Cranmer",
+   "Explorer Express top",
+   6.4
+  ],
+  [
+   "walk",
+   "Outhouse",
+   "Jabberwocky / White Rabbit",
+   5.2
+  ],
+  [
+   "walk",
+   "Outhouse",
+   "Whistlestop 4",
+   4.2
+  ],
+  [
+   "walk",
+   "Cranmer 3",
+   "Jabberwocky / White Rabbit",
+   4.3
+  ],
+  [
+   "walk",
+   "Cranmer 3",
+   "Whistlestop 4",
+   3.3
+  ],
+  [
+   "walk",
+   "Whistlestop 4",
+   "Jabberwocky / White Rabbit",
+   5.6
+  ],
+  [
+   "walk",
+   "Whistlestop 4",
+   "Lariat top",
+   4.3
+  ],
+  [
+   "walk",
+   "Whistlestop 4",
+   "Cranmer",
+   4.9
+  ],
+  [
+   "walk",
+   "Whistlestop 4",
+   "Cranmer / March Hare",
+   4.9
+  ],
+  [
+   "walk",
+   "Whistlestop 4",
+   "Outhouse",
+   4.2
+  ],
+  [
+   "walk",
+   "Whistlestop 4",
+   "Cranmer 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Whistlestop 4",
+   "Whistlestop 5",
+   3.9
+  ],
+  [
+   "walk",
+   "Whistlestop 4",
+   "Explorer Express top",
+   6.0
+  ],
+  [
+   "walk",
+   "Whistlestop 4",
+   "Quick Getaway",
+   6.6
+  ],
+  [
+   "walk",
+   "Whistlestop 5",
+   "Jabberwocky / White Rabbit",
+   4.9
+  ],
+  [
+   "walk",
+   "Whistlestop 5",
+   "Lariat top",
+   3.6
+  ],
+  [
+   "walk",
+   "Whistlestop 5",
+   "Cranmer",
+   4.3
+  ],
+  [
+   "walk",
+   "Whistlestop 5",
+   "Cranmer / March Hare",
+   4.3
+  ],
+  [
+   "walk",
+   "Whistlestop 5",
+   "Outhouse",
+   3.6
+  ],
+  [
+   "walk",
+   "Whistlestop 5",
+   "Cranmer 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Whistlestop 5",
+   "Whistlestop 4",
+   3.9
+  ],
+  [
+   "walk",
+   "Whistlestop 5",
+   "Explorer Express top",
+   5.4
+  ],
+  [
+   "walk",
+   "Whistlestop 5",
+   "Hughes / Bradley's Bash",
+   6.6
+  ],
+  [
+   "walk",
+   "Whistlestop 5",
+   "Quick Getaway",
+   6.0
+  ],
+  [
+   "walk",
+   "Explorer Express top",
+   "Whistlestop 4",
+   6.0
+  ],
+  [
+   "walk",
+   "Shoo Fly",
+   "Corridor",
+   5.7
+  ],
+  [
+   "walk",
+   "Shoo Fly",
+   "Super Gauge Trail / Rainbow Cut",
+   3.7
+  ],
+  [
+   "walk",
+   "Shoo Fly",
+   "Pony Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Shoo Fly",
+   "Branch Line / Shoo Fly",
+   4.1
+  ],
+  [
+   "walk",
+   "Shoo Fly",
+   "Mary Jane",
+   4.3
+  ],
+  [
+   "walk",
+   "Shoo Fly",
+   "Super Gauge Express bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Shoo Fly",
+   "Iron Horse bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Galloping Goose top",
+   "Super Gauge Trail / Rainbow Cut",
+   6.0
+  ],
+  [
+   "walk",
+   "Galloping Goose top",
+   "Pony Express bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Galloping Goose top",
+   "Branch Line / Shoo Fly",
+   6.4
+  ],
+  [
+   "walk",
+   "Galloping Goose top",
+   "Mary Jane",
+   6.6
+  ],
+  [
+   "walk",
+   "Challenger bottom",
+   "Super Gauge Trail / Rainbow Cut",
+   5.6
+  ],
+  [
+   "walk",
+   "Challenger bottom",
+   "Pony Express bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Challenger bottom",
+   "Branch Line / Shoo Fly",
+   6.0
+  ],
+  [
+   "walk",
+   "Challenger bottom",
+   "Mary Jane",
+   6.2
+  ],
+  [
+   "walk",
+   "Challenger bottom",
+   "Super Gauge Express bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "White Rabbit Lower / Mock Turtle",
+   "Tin Horn / Wagon Train",
+   4.9
+  ],
+  [
+   "walk",
+   "Mock Turtle",
+   "Tin Horn / Wagon Train",
+   5.7
+  ],
+  [
+   "walk",
+   "Tin Horn / Wagon Train",
+   "White Rabbit Lower / Mock Turtle",
+   4.9
+  ],
+  [
+   "walk",
+   "Tin Horn / Wagon Train",
+   "Looking Glass bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Looking Glass bottom",
+   "Tin Horn / Wagon Train",
+   3.6
+  ],
+  [
+   "walk",
+   "Spirit top",
+   "Arrow bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway 2",
+   "Village Way 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway 2",
+   "Village Way 4",
+   3.6
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway 2",
+   "Spirit bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway 2",
+   "Meteor top",
+   5.8
+  ],
+  [
+   "walk",
+   "Village Way / Lower Parkway 2",
+   "Comet top",
+   6.5
+  ],
+  [
+   "walk",
+   "Village Way 4",
+   "Village Way 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Meteor top",
+   "Village Way 3",
+   5.6
+  ],
+  [
+   "walk",
+   "Endeavor bottom",
+   "Village Way 3",
+   6.3
+  ],
+  [
+   "walk",
+   "Endeavor bottom",
+   "Village Way 4",
+   4.9
+  ],
+  [
+   "walk",
+   "Endeavor bottom",
+   "Spirit bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Gemini Express bottom",
+   "Village Way 3",
+   6.8
+  ],
+  [
+   "walk",
+   "Spirit bottom",
+   "Village Way 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Comet top",
+   "Village Way 3",
+   6.3
+  ],
+  [
+   "walk",
+   "Arrow bottom",
+   "Spirit top",
+   6.9
+  ],
+  [
+   "walk",
+   "Shoo Fly",
+   "Galloping Goose top",
+   2.7
+  ],
+  [
+   "walk",
+   "Shoo Fly",
+   "Sleeper 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Rollins Ridge / Little Ten",
+   "Sidetrack / Sleeper",
+   3.4
+  ],
+  [
+   "walk",
+   "Rollins Ridge / Little Ten",
+   "Rollins Ridge",
+   1.6
+  ],
+  [
+   "walk",
+   "Rollins Ridge / Little Ten",
+   "Rollins Ridge 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Rollins Ridge / Little Ten",
+   "Phantom Bridge / Derailer",
+   3.5
+  ],
+  [
+   "walk",
+   "Rollins Ridge",
+   "Sidetrack / Sleeper",
+   3.6
+  ],
+  [
+   "walk",
+   "Rollins Ridge",
+   "Rollins Ridge / Little Ten",
+   1.6
+  ],
+  [
+   "walk",
+   "Rollins Ridge",
+   "Rollins Ridge 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Rollins Ridge",
+   "Phantom Bridge / Derailer",
+   3.7
+  ],
+  [
+   "walk",
+   "Rollins Ridge 2",
+   "Sidetrack / Sleeper",
+   4.5
+  ],
+  [
+   "walk",
+   "Rollins Ridge 2",
+   "Rollins Ridge / Little Ten",
+   2.5
+  ],
+  [
+   "walk",
+   "Rollins Ridge 2",
+   "Rollins Ridge",
+   2.7
+  ],
+  [
+   "walk",
+   "Rollins Ridge 2",
+   "Phantom Bridge / Derailer",
+   4.7
+  ]
+ ],
+ "base": "Prospector Express bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "24",
+  "downhill_trails": "197",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": "https://www.winterparkresort.com"
+ }
+}

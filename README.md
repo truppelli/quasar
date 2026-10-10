@@ -4,7 +4,7 @@ Given where a skier is now and how much time they have, find a near-optimal rout
 
 ## Problem
 
-We model a ski resort as a directed graph. Nodes are trail junctions and lift terminals. Runs give vertical drop and take time. Lifts only take time. Walk links are short walks or skates that bridge gaps in the map data; they're free and can be repeated. A **route** is a walk from the skier's current node to a finish node (by default the base) that fits inside their **time budget**.
+We model a ski resort as a directed graph. Nodes are trail junctions and lift terminals. Runs give vertical drop and take time. Lifts only take time. Walk links are short walks or skates that bridge gaps in the map data. They can be repeated, and any height they climb is subtracted from the score, so a route can't farm points by skiing a dip and walking back up. A **route** is a walk from the skier's current node to a finish node (by default the base) that fits inside their **time budget**.
 
 ```text
 maximize   Σ vertical(first descent of each run)  +  RUN_REPEAT_CREDIT × Σ vertical(repeat descents)
@@ -12,13 +12,13 @@ maximize   Σ vertical(first descent of each run)  +  RUN_REPEAT_CREDIT × Σ ve
 subject to total minutes ≤ budget,  walk starts at `start` and ends at `end`
 ```
 
-Repeats have to be allowed. On real resorts, many trails funnel into a few run-outs back to the base, so a strict "each run once" rule caps a day at two or three laps. Partial credit means a typical repeat lap (300–700 m of drop) still nets +100 to +300, so long budgets fill the day once the new runs run out, while new runs are still worth twice as much. Crystal at 480 min plans 480 min and 9,400 m. The planner returns two numbers: `score`, which is the objective above, and `vertical_m`, which is everything skied, repeats included.
+Repeats have to be allowed. On real resorts, many trails funnel into a few run-outs back to the base, so a strict "each run once" rule caps a day at two or three laps. Partial credit means a typical repeat lap (300–700 m of drop) still nets +100 to +300, so long budgets fill the day once the new runs run out, while new runs are still worth twice as much. Crystal at 480 min plans 480 min and 12,100 m. The planner returns two numbers: `score`, which is the objective above, and `vertical_m`, which is everything skied, repeats included.
 
 Because of the time budget, this is an orienteering / prize-collecting problem, which is NP-hard.
 
 The classical solver works in two tiers:
 - **Exact branch-and-bound** for small resorts. It never takes a leg that leaves too little time to get back.
-- **Beam search** for big resorts, when the exact search would visit more than 300k nodes. Results are flagged `optimal: false`.
+- **Beam search** when the exact search doesn't finish within 300k nodes (20k on graphs over 60 edges, so whole resorts lose only a fraction of a second; lift pods still finish exactly). It keeps the 500 best partial routes per minute, at most 5 per junction so one spot can't crowd out the rest. Results are flagged `optimal: false`.
 
 The quantum side is **QWOA**: QAOA whose mixer is a continuous-time quantum walk over the feasible routes ([Marsh & Wang 2020](https://arxiv.org/abs/1912.07353)). Every state the walk reaches is a valid route, so no probability is spent on invalid ones, which is unlike a penalty QUBO with the standard X mixer. QWOA's results are reported as **near-optimal** and compared with the exact optimum.
 
@@ -30,11 +30,11 @@ The quantum side is **QWOA**: QAOA whose mixer is a continuous-time quantum walk
 | 1 lift pod (synthetic) | 7 | 876 | 1.5 × 10⁵ | 10 |
 | 3 lift pods (synthetic) | 23 | 30,643 | 1.5 × 10⁶ | 15 |
 | 4 lift pods (synthetic) | 31 | 181,268 | 2.0 × 10⁷ | 18 |
-| Crystal Mountain, WA (real) | 233 | can't enumerate | beyond 300k-node cap | — |
-| Whistler Blackcomb (real) | 2,402 | can't enumerate | far beyond cap | — |
+| Crystal Mountain, WA (real) | 434 | can't enumerate | beam search only | — |
+| Whistler Blackcomb (real) | 3,340 | can't enumerate | beam search only | — |
 
 - On synthetic resorts, the B&B tree grows by about 10^0.09 per extra lift or run. The budget sets the tree depth (budget ÷ shortest edge), so longer days also mean much bigger trees.
-- Real resorts are already past exact search. With beam search, Whistler takes 3–10 s per plan (the full 8-hour day is the slow end) and Crystal 1–5 s.
+- Real resorts are already past exact search. Across the 22 included resorts, a 2-hour plan takes at most 2.3 s. A full 8-hour day takes 6–22 s; Whistler is the slowest.
 - **Near-term (IonQ):** run QWOA on single lift pods with a few hundred routes. The feasible routes are indexed classically, which is fine for validating the algorithm but gives no quantum advantage.
 
 ## Lift pods (QWOA-sized instances)
@@ -50,17 +50,17 @@ Measured with QWOA simulated at p=3 (`--pod`, default budgets):
 
 | Crystal pod | budget | routes | qubits | P(optimal) QWOA vs random | beam vs optimal |
 | --- | --- | --- | --- | --- | --- |
-| Rainier Express | 18 min | 319 | 9 | 0.024 vs 0.009 | 95.8% |
-| Green Valley | 37 min | 477 | 9 | 0.015 vs 0.002 | 100% |
-| Quicksilver | 34 min | 509 | 9 | 0.015 vs 0.002 | 100% |
-| Chinook Express | 24 min | 392 | 9 | 0.010 vs 0.003 | 100% |
-| Forest Queen Express | 20 min | 380 | 9 | 0.005 vs 0.003 | 100% |
-| Mt. Rainier Gondola | 35 min | 293 | 9 | 0.015 vs 0.007 | 99.5% |
-| Gold Hills | 88 min | 147 | 8 | 0.110 vs 0.034 | 100% |
-| Discovery | 120 min | 238 | 8 | 0.018 vs 0.004 | 100% |
-| Magic Carpet | 59 min | 397 | 9 | 0.009 vs 0.003 | 100% |
+| Rainier Express | 18 min | 470 | 9 | 0.018 vs 0.006 | 95.8% |
+| Green Valley | 28 min | 474 | 9 | 0.010 vs 0.002 | 100% |
+| Mt. Rainier Gondola | 34 min | 254 | 8 | 0.018 vs 0.008 | 100% |
+| Quicksilver | 25 min | 349 | 9 | 0.039 vs 0.011 | 100% |
+| Gold Hills | 43 min | 471 | 9 | 0.019 vs 0.002 | 100% |
+| Chinook Express | 22 min | 334 | 9 | 0.010 vs 0.003 | 100% |
+| Discovery | 61 min | 506 | 9 | 0.014 vs 0.002 | 100% |
+| Forest Queen Express | 16 min | 450 | 9 | 0.300 vs 0.011 | 100% |
+| Magic Carpet | 59 min | 509 | 9 | 0.008 vs 0.002 | 100% |
 
-- All 9 Crystal pods fit in 9 qubits. Only 11 of Whistler's 34 pods do: its map data splits trails into many short segments, so most pods have too many routes even for a single lap.
+- All 9 Crystal pods fit in 9 qubits. Only 9 of Whistler's 34 pods do: its map data splits trails into many short segments, so most pods have too many routes even for a single lap.
 - QWOA beats random sampling on every pod, but at p=3 the chance of sampling the optimum stays in the low percent. Deeper circuits (larger p) are the next lever.
 - Pods are QWOA instances, not a planner. They can overlap, and whole-day plans still run `plan()` on the full resort.
 
@@ -86,16 +86,16 @@ What it costs on hardware (Aria, two-qubit MS gates):
 | 6 | 185 | 357 | 529 |
 | 9 | 900 | 1,778 | 2,656 |
 
-(Measured on random scores with 3/4 of the register filled. Real pods cost more when M is awkward for state preparation: Rainier Express, with 319 routes on 9 qubits at p=3, needs 6,002.)
+(Measured on random scores with 3/4 of the register filled. Real pods cost more when M is awkward for state preparation: Rainier Express, with 470 routes on 9 qubits at p=3, needs 6,016.)
 
 - **Too deep for today's hardware:** two-qubit errors compound, so the 9-qubit pods from `--pods` would return mostly noise.
 - **First run on hardware:** 4 qubits, p=1, sized with `--max-routes 16`.
 
 | Crystal pod (≤ 16 routes) | budget | routes | p | MS gates | P(optimal) vs random |
 | --- | --- | --- | --- | --- | --- |
-| Discovery | 27 min | 16 | 1 | 34 | 0.214 vs 0.062 |
-| Mt. Rainier Gondola | 31 min | 13 | 1 | 55 | 0.514 vs 0.154 |
-| Chinook Express | 18 min | 10 | 2 | 113 | 0.410 vs 0.100 |
+| Discovery | 18 min | 14 | 1 | 67 | 0.183 vs 0.071 |
+| Mt. Rainier Gondola | 30 min | 15 | 1 | 67 | 0.508 vs 0.133 |
+| Chinook Express | 18 min | 12 | 2 | 103 | 0.353 vs 0.083 |
 
 ## Quantum speedup (large fault-tolerant machine)
 
@@ -114,7 +114,7 @@ Measured with a 90-minute budget (`python speedup.py`; the 39-edge row comes fro
 | 31 | 2.0 × 10⁷ | 21 | 1.9 × 10⁶ | 10.6× |
 | 39 | 8.5 × 10⁷ | 21 | 3.9 × 10⁶ | 21.8× |
 
-A step on an error-corrected machine is much slower than a classical step (`--overhead`, assumed to be 10⁴). Because of that, the quadratic speedup only shows up in wall-clock time once T > (overhead · n^1.5 · log n)² ≈ 1.8 × 10¹³ nodes. By extrapolating the five-size fit, that's a resort with roughly **100 lifts+runs** (99). Crystal (233 edges) and Whistler (2,402) are well past that size. The speedup is quadratic, not exponential, so the overhead matters a lot ([Babbush et al. 2021](https://arxiv.org/abs/2011.04149)).
+A step on an error-corrected machine is much slower than a classical step (`--overhead`, assumed to be 10⁴). Because of that, the quadratic speedup only shows up in wall-clock time once T > (overhead · n^1.5 · log n)² ≈ 1.8 × 10¹³ nodes. By extrapolating the five-size fit, that's a resort with roughly **100 lifts+runs** (99). All 22 real resorts (434–3,340 edges) are well past that size. The speedup is quadratic, not exponential, so the overhead matters a lot ([Babbush et al. 2021](https://arxiv.org/abs/2011.04149)).
 
 ## Run
 
@@ -167,15 +167,20 @@ Build a resort graph from them:
 ```sh
 python datasets.py "Crystal Mountain" --region Washington   # -> resorts/crystal-mountain-washington.json
 python datasets.py "Whistler Blackcomb"                     # -> resorts/whistler-blackcomb.json
+python datasets.py --top-us                                 # the 3D map's 20 resorts, same slugs (~2 min)
 ```
+
+The routing graphs cover 22 resorts: Crystal Mountain (WA), Whistler Blackcomb, and the 3D map's 20 US resorts. The 20 use the 3D map's slugs and OpenSkiMap ids (`extract.TOP_US`), so `resorts/vail.json` and `resorts/geo/vail.geojson` describe the same ski area.
 
 - **OpenSkiMap** provides the graph. Only lines that mention the ski area's id get parsed, so a 1 GB scan takes about 2 s.
   - Run and lift ends within 40 m are merged into one junction.
   - Runs are split wherever another trail joins them.
-  - Walk links of up to 150 m bridge gaps in the map data.
+  - Walk links of up to 250 m bridge gaps in the map data. They may climb at most 15 m.
+  - Lifts tagged two-way, and untagged gondolas, cable cars and funiculars, can be ridden down as well as up (village and transfer gondolas, trams). Chairs only go down when tagged.
   - Run times come from length at 4 m/s. Lift times come from duration or speed by lift type, plus 3 minutes of waiting.
   - These settings are calibration knobs at the top of `datasets.py`.
-  - Junctions that can't make a round trip from the base are dropped, and the build names the lifts that are lost this way.
+  - Junctions that can't make a round trip from the base are dropped, and the build names the lifts that are lost this way. 12 of the 20 resorts keep every lift. Big Sky (5 lost) and Snowmass (4) have the largest gaps.
+  - The default base is the lift bottom in the lowest quarter of the resort's elevation where the most runs finish. In the app, the skier picks their own start anyway.
 - **Global Ski Atlas** adds catalogue facts (`info`: lift and trail counts, website) and a lift-count cross-check. Its coverage is partial: Crystal Mountain WA isn't listed, and vertical drop is often missing.
 - **Known data issues:**
   - Run direction comes from the order of points in the map data.

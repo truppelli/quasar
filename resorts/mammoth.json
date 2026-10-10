@@ -1,0 +1,9878 @@
+{
+ "name": "Mammoth Mountain",
+ "source": "OpenSkiMap ski area ba4944ecd2e640acedf666287f228427b607680e",
+ "origin_lonlat": [
+  -119.02226497938469,
+  37.64107235441029
+ ],
+ "nodes": {
+  "World Cup / St. Anton": [
+   -1121,
+   -470,
+   3077.8
+  ],
+  "World Cup / Silver Tip": [
+   -1385,
+   33,
+   2960.5
+  ],
+  "Silver Tip": [
+   -1178,
+   28,
+   3005.2
+  ],
+  "Unnamed run": [
+   1624,
+   300,
+   2568.9
+  ],
+  "Festival Poma bottom": [
+   1806,
+   331,
+   2545.3
+  ],
+  "Chair 13 top": [
+   -2402,
+   96,
+   2960.6
+  ],
+  "White Bark Ridge / Upper Road Runner": [
+   -2630,
+   450,
+   2850.9
+  ],
+  "Downhill / Follow Me": [
+   544,
+   -68,
+   2840.9
+  ],
+  "Downhill / Clover Leaf": [
+   1204,
+   178,
+   2651.8
+  ],
+  "Gus Pasture / Jills Run": [
+   -1075,
+   1142,
+   2728.4
+  ],
+  "Gus Pasture": [
+   -1209,
+   1083,
+   2719.6
+  ],
+  "Commin Through / St. Anton": [
+   -1732,
+   372,
+   2804.2
+  ],
+  "Commin Through / Unnamed run": [
+   -1982,
+   735,
+   2767.4
+  ],
+  "Unnamed run / Solitude": [
+   -95,
+   -679,
+   3034.0
+  ],
+  "Unnamed run 2": [
+   69,
+   -656,
+   3022.2
+  ],
+  "Chair 25 top": [
+   368,
+   -568,
+   3054.3
+  ],
+  "Sunshine Glades / Repeat": [
+   1002,
+   -676,
+   2772.7
+  ],
+  "The Wall / Glades": [
+   -1174,
+   224,
+   2981.7
+  ],
+  "The Wall / Broadway": [
+   -1048,
+   440,
+   2866.4
+  ],
+  "Lower Dry Creek": [
+   -221,
+   200,
+   2812.8
+  ],
+  "Lower Dry Creek / Easy Rider": [
+   -291,
+   589,
+   2737.8
+  ],
+  "Lodgepole": [
+   -2156,
+   76,
+   2913.9
+  ],
+  "Lodgepole / Bristlecone": [
+   -1931,
+   465,
+   2792.3
+  ],
+  "Gold Rush Express top": [
+   56,
+   -551,
+   3024.8
+  ],
+  "Easy Over / Forest Trail Park": [
+   -956,
+   803,
+   2805.9
+  ],
+  "Easy Over": [
+   -705,
+   917,
+   2754.7
+  ],
+  "Glades / Powder Bowl": [
+   -1223,
+   584,
+   2809.5
+  ],
+  "Lower Grizzly / Follow Me": [
+   928,
+   -297,
+   2802.8
+  ],
+  "Lower Grizzly / Clover Leaf": [
+   1366,
+   219,
+   2625.4
+  ],
+  "Blue Ox / Powder Bowl": [
+   -1420,
+   267,
+   2921.9
+  ],
+  "Blue Ox / Terry's Run": [
+   -1634,
+   556,
+   2764.7
+  ],
+  "Ski Back Trail": [
+   3204,
+   1245,
+   2461.9
+  ],
+  "Ski Back Trail 2": [
+   3235,
+   1217,
+   2456.9
+  ],
+  "Roller Coaster Express top": [
+   193,
+   -174,
+   2907.6
+  ],
+  "Follow Me / Unnamed run": [
+   1041,
+   -396,
+   2785.7
+  ],
+  "Unnamed run / South Park": [
+   286,
+   236,
+   2799.6
+  ],
+  "Unnamed run / Roller Coaster": [
+   381,
+   194,
+   2787.1
+  ],
+  "Face Lift Express top": [
+   -915,
+   -711,
+   3205.0
+  ],
+  "St. Anton": [
+   -1459,
+   827,
+   2739.1
+  ],
+  "Back For More / Unnamed run": [
+   330,
+   -617,
+   3050.6
+  ],
+  "Back For More / Holiday": [
+   1157,
+   -957,
+   2730.1
+  ],
+  "Chair 21 top": [
+   145,
+   177,
+   2831.9
+  ],
+  "Unnamed run / South Park 2": [
+   200,
+   148,
+   2831.5
+  ],
+  "Jibs & More / X-Course": [
+   244,
+   320,
+   2782.8
+  ],
+  "Jibs & More / X-Course 2": [
+   830,
+   747,
+   2660.7
+  ],
+  "Old 10 Breakover / Wall Street": [
+   -51,
+   59,
+   2868.6
+  ],
+  "Old 10 Breakover / Wall Street 2": [
+   -144,
+   694,
+   2719.9
+  ],
+  "Chair 8 bottom": [
+   1760,
+   282,
+   2546.5
+  ],
+  "Pumpkin / Holiday": [
+   1185,
+   -1363,
+   2696.3
+  ],
+  "Pumpkin / Lupin": [
+   2302,
+   -521,
+   2538.7
+  ],
+  "Waterfall / China Bowl": [
+   -560,
+   -306,
+   2995.8
+  ],
+  "Face of Five": [
+   -368,
+   -801,
+   3135.9
+  ],
+  "Face of Five 2": [
+   -154,
+   -126,
+   2865.6
+  ],
+  "Canyon Express bottom": [
+   1736,
+   391,
+   2544.9
+  ],
+  "Eagle Express top": [
+   1173,
+   -609,
+   2759.2
+  ],
+  "Unnamed run / Lupin": [
+   1125,
+   -600,
+   2760.3
+  ],
+  "Unnamed run / Lupin 2": [
+   2659,
+   -511,
+   2482.1
+  ],
+  "Unnamed run 3": [
+   2701,
+   -587,
+   2477.7
+  ],
+  "Unnamed run / Lost In The Woods": [
+   95,
+   180,
+   2826.6
+  ],
+  "Easy Rider / Comeback Trail": [
+   -337,
+   306,
+   2801.5
+  ],
+  "Gold Rush Express bottom": [
+   -434,
+   1075,
+   2677.8
+  ],
+  "Havent The Foggiest / Unnamed run": [
+   283,
+   -645,
+   3048.5
+  ],
+  "Havent The Foggiest / Sleepy Hollow": [
+   1136,
+   -1052,
+   2723.9
+  ],
+  "Critters / Secret Spot": [
+   -2374,
+   220,
+   2915.5
+  ],
+  "Critters": [
+   -2087,
+   537,
+   2806.2
+  ],
+  "Red Tail / Blue Jay": [
+   1394,
+   -208,
+   2721.2
+  ],
+  "Red Tail / Hully Gully": [
+   1339,
+   0,
+   2656.8
+  ],
+  "Unnamed run / Sunset": [
+   124,
+   -647,
+   3022.5
+  ],
+  "Oops / Surprise": [
+   -2503,
+   -178,
+   2928.6
+  ],
+  "Oops / Surprise 2": [
+   -2760,
+   -280,
+   2845.1
+  ],
+  "Water Tank / Lupin": [
+   1586,
+   -573,
+   2697.4
+  ],
+  "Pumpkin": [
+   2019,
+   -635,
+   2584.7
+  ],
+  "Follow Me": [
+   413,
+   -113,
+   2867.8
+  ],
+  "Side Show": [
+   580,
+   165,
+   2768.9
+  ],
+  "Forest Trail Park / Mambo": [
+   -874,
+   477,
+   2876.8
+  ],
+  "Forest Trail Park / Saint Moritz": [
+   -1156,
+   1012,
+   2739.9
+  ],
+  "Training Wheels / Upper Road Runner": [
+   -2433,
+   -99,
+   2947.8
+  ],
+  "Chair 14 bottom": [
+   -2885,
+   -268,
+   2839.6
+  ],
+  "Unnamed run / Quicksilver": [
+   186,
+   -833,
+   2997.5
+  ],
+  "Unnamed run / Goldhill": [
+   416,
+   -1134,
+   2893.8
+  ],
+  "Rooster Tail / East Bowl": [
+   -849,
+   -671,
+   3176.1
+  ],
+  "Rooster Tail": [
+   -737,
+   -713,
+   3130.4
+  ],
+  "Canyon Express top": [
+   178,
+   -252,
+   2922.8
+  ],
+  "Follow Me 2": [
+   269,
+   -172,
+   2893.3
+  ],
+  "Ricochet": [
+   -409,
+   -1365,
+   3195.6
+  ],
+  "Ricochet 2": [
+   302,
+   -1458,
+   2905.2
+  ],
+  "Unnamed run / Redwing": [
+   1275,
+   -291,
+   2739.9
+  ],
+  "Unnamed run / Chickadee": [
+   1522,
+   -334,
+   2705.3
+  ],
+  "Panorama Gondola Upper top": [
+   -990,
+   -1131,
+   3360.3
+  ],
+  "Fascination / Powder Bowl": [
+   -1331,
+   388,
+   2891.0
+  ],
+  "Fascination": [
+   -1393,
+   812,
+   2743.8
+  ],
+  "Chair 8 top": [
+   1080,
+   -377,
+   2784.4
+  ],
+  "Saint Moritz / Phantoms Escape": [
+   -879,
+   987,
+   2773.9
+  ],
+  "Quicksilver / Holiday": [
+   1160,
+   -1153,
+   2716.9
+  ],
+  "Sunset / Solitude": [
+   -72,
+   -164,
+   2880.3
+  ],
+  "Ricochet 3": [
+   -360,
+   -1397,
+   3190.9
+  ],
+  "Roger's Ridge": [
+   -720,
+   257,
+   2929.6
+  ],
+  "Roger's Ridge / Comeback Trail": [
+   -409,
+   431,
+   2781.4
+  ],
+  "Crosswalk": [
+   263,
+   -41,
+   2861.6
+  ],
+  "Crosswalk / Roller Coaster": [
+   522,
+   341,
+   2752.3
+  ],
+  "Easy Rider": [
+   -308,
+   868,
+   2700.3
+  ],
+  "Follow Me 3": [
+   595,
+   -58,
+   2837.3
+  ],
+  "Downhill": [
+   732,
+   182,
+   2736.4
+  ],
+  "Juniper / Lupin": [
+   1453,
+   -548,
+   2720.6
+  ],
+  "Juniper / Sleepy Hollow": [
+   1759,
+   -820,
+   2623.8
+  ],
+  "Crosswalk 2": [
+   425,
+   121,
+   2796.3
+  ],
+  "High Five Express top": [
+   -429,
+   -902,
+   3166.8
+  ],
+  "Solitude / Unnamed run": [
+   -109,
+   -23,
+   2851.9
+  ],
+  "Hully Gully / Clover Leaf": [
+   1550,
+   279,
+   2586.0
+  ],
+  "Secret Spot": [
+   -2408,
+   181,
+   2936.8
+  ],
+  "Secret Spot / Lower Road Runner": [
+   -2186,
+   568,
+   2800.8
+  ],
+  "Unnamed run / Sesame Street West": [
+   -1833,
+   667,
+   2781.5
+  ],
+  "Chair 12 bottom": [
+   -2035,
+   858,
+   2755.2
+  ],
+  "Unnamed run / Wall Street": [
+   40,
+   -96,
+   2884.5
+  ],
+  "High Five Express bottom": [
+   -219,
+   -10,
+   2843.1
+  ],
+  "Wall Street / Unnamed run": [
+   -213,
+   887,
+   2694.1
+  ],
+  "Chair 25 bottom": [
+   1570,
+   -1009,
+   2646.2
+  ],
+  "Phantoms Escape": [
+   -598,
+   1145,
+   2686.1
+  ],
+  "Wall Street": [
+   90,
+   -137,
+   2895.4
+  ],
+  "Ginger Bread / Round About": [
+   1166,
+   437,
+   2653.0
+  ],
+  "Ginger Bread / Spring Canyon": [
+   1348,
+   394,
+   2621.5
+  ],
+  "Little Bird / Roller Coaster": [
+   751,
+   525,
+   2692.3
+  ],
+  "Little Bird": [
+   1706,
+   532,
+   2550.3
+  ],
+  "Encore / The Acts": [
+   751,
+   5,
+   2789.8
+  ],
+  "Downhill 2": [
+   1010,
+   149,
+   2684.3
+  ],
+  "Ralphie's / Powder Bowl": [
+   -1265,
+   524,
+   2838.0
+  ],
+  "Ralphie's": [
+   -1318,
+   792,
+   2754.4
+  ],
+  "New Critters": [
+   -2197,
+   125,
+   2912.9
+  ],
+  "Critters 2": [
+   -2150,
+   345,
+   2857.9
+  ],
+  "Powder Bowl / Broadway": [
+   -1214,
+   730,
+   2770.1
+  ],
+  "Christmas Tree / Chickadee": [
+   1458,
+   -396,
+   2717.4
+  ],
+  "Christmas Tree / Lupin": [
+   2063,
+   -539,
+   2588.3
+  ],
+  "Agee's Run / Terry's Run": [
+   -1671,
+   468,
+   2783.0
+  ],
+  "Upper Road Runner": [
+   -1945,
+   -998,
+   3111.8
+  ],
+  "Santiago / Arriba": [
+   -2660,
+   -514,
+   2860.2
+  ],
+  "Mambo / Saint Moritz": [
+   -954,
+   1041,
+   2763.9
+  ],
+  "Stump Alley Express bottom": [
+   -502,
+   1155,
+   2677.0
+  ],
+  "Roller Coaster Express bottom": [
+   995,
+   679,
+   2658.6
+  ],
+  "Gretel": [
+   1659,
+   637,
+   2557.6
+  ],
+  "China Bowl / Christmas Bowl": [
+   -626,
+   -357,
+   3024.6
+  ],
+  "China Bowl / Coyote": [
+   -558,
+   -203,
+   2960.7
+  ],
+  "Eagle Express bottom": [
+   2812,
+   -500,
+   2468.6
+  ],
+  "Stump Alley": [
+   -875,
+   307,
+   2902.5
+  ],
+  "Pumpkin 2": [
+   2176,
+   -561,
+   2556.8
+  ],
+  "Lower Road Runner": [
+   -1471,
+   999,
+   2720.3
+  ],
+  "South Park": [
+   864,
+   669,
+   2663.8
+  ],
+  "St. Anton 2": [
+   -1521,
+   757,
+   2746.3
+  ],
+  "Follow Me 4": [
+   882,
+   -230,
+   2802.4
+  ],
+  "Lower Grizzly": [
+   1170,
+   -23,
+   2676.0
+  ],
+  "East Bowl / Center Bowl": [
+   -818,
+   -212,
+   3004.0
+  ],
+  "Spring Canyon / Round About": [
+   994,
+   434,
+   2682.3
+  ],
+  "Follow Me 5": [
+   667,
+   -49,
+   2830.1
+  ],
+  "Forest Trail Park": [
+   -1026,
+   806,
+   2802.3
+  ],
+  "Main Park Half Pipe / Main Park": [
+   -1176,
+   937,
+   2740.4
+  ],
+  "Sunset": [
+   21,
+   -314,
+   2920.0
+  ],
+  "Lodgepole 2": [
+   -2067,
+   368,
+   2844.1
+  ],
+  "Ponderosa": [
+   -1968,
+   545,
+   2787.4
+  ],
+  "Gretel 2": [
+   1255,
+   782,
+   2633.8
+  ],
+  "Hully Gully": [
+   1136,
+   -246,
+   2726.4
+  ],
+  "Downhill 3": [
+   1107,
+   156,
+   2671.9
+  ],
+  "St. Anton 3": [
+   -1057,
+   -578,
+   3105.3
+  ],
+  "Saddle Bowl": [
+   -852,
+   78,
+   2938.2
+  ],
+  "Unnamed run 4": [
+   -174,
+   17,
+   2844.7
+  ],
+  "Unnamed run / Coyote": [
+   -263,
+   156,
+   2831.3
+  ],
+  "Easy Rider 2": [
+   -273,
+   743,
+   2715.4
+  ],
+  "Chair 21 bottom": [
+   -196,
+   956,
+   2687.0
+  ],
+  "Saint Moritz 2": [
+   -1204,
+   1037,
+   2726.8
+  ],
+  "Blue Jay": [
+   1642,
+   -117,
+   2659.3
+  ],
+  "Unnamed run / Swell": [
+   1529,
+   87,
+   2633.0
+  ],
+  "Unbound Express top": [
+   -897,
+   360,
+   2896.8
+  ],
+  "Main Park": [
+   -1222,
+   984,
+   2726.4
+  ],
+  "Lupin": [
+   2721,
+   -497,
+   2472.3
+  ],
+  "Unnamed run 5": [
+   2758,
+   -550,
+   2469.3
+  ],
+  "Roger's Ridge 2": [
+   -614,
+   387,
+   2891.4
+  ],
+  "Comeback Trail": [
+   -390,
+   372,
+   2790.8
+  ],
+  "Gretel 3": [
+   1116,
+   677,
+   2659.5
+  ],
+  "Little Bird 2": [
+   1516,
+   524,
+   2587.7
+  ],
+  "Stump Alley 2": [
+   -799,
+   457,
+   2872.6
+  ],
+  "Stump Alley 3": [
+   -596,
+   849,
+   2749.6
+  ],
+  "South Park 2": [
+   115,
+   -6,
+   2872.7
+  ],
+  "Lost In The Woods": [
+   -151,
+   891,
+   2692.2
+  ],
+  "Follow Me 6": [
+   810,
+   -135,
+   2817.3
+  ],
+  "Chair 22 bottom": [
+   1295,
+   114,
+   2635.2
+  ],
+  "Roller Coaster": [
+   216,
+   -17,
+   2860.7
+  ],
+  "Roller Coaster 2": [
+   804,
+   568,
+   2682.0
+  ],
+  "Unnamed run / Round Robin": [
+   742,
+   292,
+   2731.8
+  ],
+  "Spring Canyon": [
+   1066,
+   338,
+   2666.7
+  ],
+  "Cloud Nine Express top": [
+   -379,
+   -1325,
+   3188.4
+  ],
+  "Goldhill / Unnamed run": [
+   1247,
+   -1410,
+   2689.9
+  ],
+  "Ricochet / Slot": [
+   711,
+   -1476,
+   2784.9
+  ],
+  "Chickadee": [
+   1255,
+   -553,
+   2748.5
+  ],
+  "Upper Road Runner 2": [
+   -1885,
+   -721,
+   3149.5
+  ],
+  "Arriba": [
+   -2797,
+   -344,
+   2843.2
+  ],
+  "Round Robin": [
+   639,
+   283,
+   2755.2
+  ],
+  "Round Robin 2": [
+   1428,
+   346,
+   2615.7
+  ],
+  "Mambo": [
+   -840,
+   621,
+   2844.2
+  ],
+  "Easy Over 2": [
+   -726,
+   881,
+   2762.0
+  ],
+  "Back For More": [
+   921,
+   -807,
+   2785.2
+  ],
+  "East Bowl": [
+   -893,
+   -607,
+   3155.5
+  ],
+  "Face Lift Express bottom": [
+   -801,
+   2,
+   2934.7
+  ],
+  "Powder Bowl": [
+   -1390,
+   332,
+   2908.9
+  ],
+  "St. Anton 4": [
+   -1449,
+   785,
+   2744.6
+  ],
+  "Cloud Nine Express bottom": [
+   1283,
+   -1442,
+   2687.0
+  ],
+  "Sesame Street West / Unnamed run": [
+   -1824,
+   627,
+   2783.7
+  ],
+  "Lower Road Runner 2": [
+   -1509,
+   976,
+   2724.6
+  ],
+  "Chair 22 top": [
+   452,
+   -437,
+   3077.1
+  ],
+  "Little Bird 3": [
+   1365,
+   507,
+   2612.9
+  ],
+  "Ricochet 4": [
+   216,
+   -1472,
+   2933.1
+  ],
+  "Dragon Alley / Slot": [
+   1006,
+   -1569,
+   2734.3
+  ],
+  "Comeback Trail 2": [
+   -425,
+   700,
+   2733.1
+  ],
+  "Old Comeback Trail": [
+   -461,
+   950,
+   2698.3
+  ],
+  "Christmas Bowl": [
+   -734,
+   -40,
+   2938.3
+  ],
+  "Unnamed run 6": [
+   364,
+   -1131,
+   2902.5
+  ],
+  "Slot": [
+   1178,
+   -1456,
+   2696.7
+  ],
+  "Red Tail": [
+   1310,
+   -45,
+   2665.8
+  ],
+  "Lost In The Woods 2": [
+   108,
+   411,
+   2757.8
+  ],
+  "Dry Creek": [
+   -684,
+   -790,
+   3122.3
+  ],
+  "Dry Creek / Sanctuary": [
+   -363,
+   -405,
+   2935.4
+  ],
+  "Broadway": [
+   -1133,
+   52,
+   3000.1
+  ],
+  "Broadway 2": [
+   -1325,
+   923,
+   2727.2
+  ],
+  "Commin Through": [
+   -1981,
+   647,
+   2772.2
+  ],
+  "West Bowl": [
+   -961,
+   -558,
+   3137.9
+  ],
+  "West Bowl 2": [
+   -968,
+   -121,
+   2976.1
+  ],
+  "St. Anton 5": [
+   -1281,
+   -323,
+   3015.0
+  ],
+  "St. Anton 6": [
+   -1596,
+   -48,
+   2915.0
+  ],
+  "Chickadee 2": [
+   1565,
+   -292,
+   2691.2
+  ],
+  "Pumpkin 3": [
+   2248,
+   -516,
+   2547.8
+  ],
+  "Sanctuary": [
+   -485,
+   -836,
+   3147.1
+  ],
+  "Unnamed run 7": [
+   -224,
+   82,
+   2837.2
+  ],
+  "Chair 20 bottom": [
+   905,
+   774,
+   2656.4
+  ],
+  "Chair 20 top": [
+   271,
+   278,
+   2797.4
+  ],
+  "Village Gondola top": [
+   1831,
+   368,
+   2545.0
+  ],
+  "Village Gondola bottom": [
+   3260,
+   990,
+   2455.9
+  ],
+  "Chair 23 bottom": [
+   -1367,
+   -43,
+   2963.4
+  ],
+  "Schoolyard Express bottom": [
+   1765,
+   504,
+   2546.3
+  ],
+  "Schoolyard Express top": [
+   802,
+   411,
+   2704.7
+  ],
+  "Panorama Gondola Upper bottom": [
+   -714,
+   158,
+   2932.0
+  ],
+  "Discovery Express bottom": [
+   -1415,
+   1077,
+   2713.6
+  ],
+  "Discovery Express top": [
+   -1789,
+   654,
+   2784.8
+  ],
+  "Chair 13 bottom": [
+   -2946,
+   -337,
+   2837.1
+  ],
+  "Unnamed lift bottom": [
+   2882,
+   -469,
+   2465.2
+  ],
+  "Unnamed lift bottom 2": [
+   2847,
+   -441,
+   2465.9
+  ],
+  "Unnamed lift top": [
+   2827,
+   -402,
+   2468.8
+  ],
+  "Chair 12 top": [
+   -2347,
+   17,
+   2972.0
+  ],
+  "Stump Alley Express top": [
+   -1103,
+   -43,
+   2997.9
+  ],
+  "Unbound Express bottom": [
+   -1266,
+   1046,
+   2712.5
+  ],
+  "Broadway Express bottom": [
+   -1383,
+   1018,
+   2713.0
+  ],
+  "Broadway Express top": [
+   -1186,
+   106,
+   3006.5
+  ],
+  "Festival Poma top": [
+   1837,
+   213,
+   2565.9
+  ],
+  "Panorama Gondola Lower bottom": [
+   -1367,
+   1104,
+   2712.4
+  ],
+  "Chair 14 top": [
+   -1909,
+   -524,
+   3172.0
+  ],
+  "Chair 7 bottom": [
+   1799,
+   635,
+   2544.6
+  ],
+  "Chair 7 top": [
+   1101,
+   752,
+   2670.4
+  ]
+ },
+ "lifts": [
+  [
+   "Chair 20",
+   "Chair 20 bottom",
+   "Chair 20 top",
+   9.0
+  ],
+  [
+   "Village Gondola",
+   "Village Gondola bottom",
+   "Village Gondola top",
+   7.0
+  ],
+  [
+   "Village Gondola",
+   "Village Gondola top",
+   "Village Gondola bottom",
+   7.0
+  ],
+  [
+   "Schoolyard Express",
+   "Schoolyard Express bottom",
+   "Schoolyard Express top",
+   6.0
+  ],
+  [
+   "Face Lift Express",
+   "Face Lift Express bottom",
+   "Face Lift Express top",
+   5.0
+  ],
+  [
+   "Cloud Nine Express",
+   "Cloud Nine Express bottom",
+   "Cloud Nine Express top",
+   9.0
+  ],
+  [
+   "Chair 21",
+   "Chair 21 bottom",
+   "Chair 21 top",
+   9.0
+  ],
+  [
+   "Panorama Gondola Upper",
+   "Panorama Gondola Upper bottom",
+   "Panorama Gondola Upper top",
+   9.0
+  ],
+  [
+   "Discovery Express",
+   "Discovery Express bottom",
+   "Discovery Express top",
+   5.0
+  ],
+  [
+   "Chair 13",
+   "Chair 13 bottom",
+   "Chair 13 top",
+   7.0
+  ],
+  [
+   "Canyon Express",
+   "Canyon Express bottom",
+   "Canyon Express top",
+   9.0
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top",
+   3.9
+  ],
+  [
+   "Chair 12",
+   "Chair 12 bottom",
+   "Chair 12 top",
+   9.0
+  ],
+  [
+   "Stump Alley Express",
+   "Stump Alley Express bottom",
+   "Stump Alley Express top",
+   8.0
+  ],
+  [
+   "Gold Rush Express",
+   "Gold Rush Express bottom",
+   "Gold Rush Express top",
+   8.0
+  ],
+  [
+   "Chair 8",
+   "Chair 8 bottom",
+   "Chair 8 top",
+   9.0
+  ],
+  [
+   "Eagle Express",
+   "Eagle Express bottom",
+   "Eagle Express top",
+   8.0
+  ],
+  [
+   "Roller Coaster Express",
+   "Roller Coaster Express bottom",
+   "Roller Coaster Express top",
+   7.0
+  ],
+  [
+   "Chair 22",
+   "Chair 22 bottom",
+   "Chair 22 top",
+   10.0
+  ],
+  [
+   "Unbound Express",
+   "Unbound Express bottom",
+   "Unbound Express top",
+   5.0
+  ],
+  [
+   "Chair 25",
+   "Chair 25 bottom",
+   "Chair 25 top",
+   12.0
+  ],
+  [
+   "Broadway Express",
+   "Broadway Express bottom",
+   "Broadway Express top",
+   7.0
+  ],
+  [
+   "Festival Poma",
+   "Festival Poma bottom",
+   "Festival Poma top",
+   3.7
+  ],
+  [
+   "Panorama Gondola Lower",
+   "Panorama Gondola Lower bottom",
+   "Panorama Gondola Upper bottom",
+   9.0
+  ],
+  [
+   "High Five Express",
+   "High Five Express bottom",
+   "High Five Express top",
+   6.0
+  ],
+  [
+   "Chair 14",
+   "Chair 14 bottom",
+   "Chair 14 top",
+   10.0
+  ],
+  [
+   "Chair 7",
+   "Chair 7 bottom",
+   "Chair 7 top",
+   9.0
+  ]
+ ],
+ "runs": [
+  [
+   "World Cup",
+   "World Cup / St. Anton",
+   "Chair 23 bottom",
+   2.0
+  ],
+  [
+   "World Cup",
+   "Chair 23 bottom",
+   "World Cup / Silver Tip",
+   0.5
+  ],
+  [
+   "Silver Tip",
+   "Silver Tip",
+   "World Cup / Silver Tip",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Festival Poma bottom",
+   0.7
+  ],
+  [
+   "White Bark Ridge",
+   "Chair 13 top",
+   "White Bark Ridge / Upper Road Runner",
+   1.7
+  ],
+  [
+   "Downhill",
+   "Downhill / Follow Me",
+   "Downhill",
+   1.3
+  ],
+  [
+   "Downhill",
+   "Downhill",
+   "Downhill 2",
+   1.2
+  ],
+  [
+   "Downhill",
+   "Downhill 2",
+   "Downhill 3",
+   0.5
+  ],
+  [
+   "Downhill",
+   "Downhill 3",
+   "Downhill / Clover Leaf",
+   0.5
+  ],
+  [
+   "Gus Pasture",
+   "Gus Pasture / Jills Run",
+   "Gus Pasture",
+   0.5
+  ],
+  [
+   "Commin Through",
+   "Commin Through / St. Anton",
+   "Commin Through",
+   1.4
+  ],
+  [
+   "Commin Through",
+   "Commin Through",
+   "Commin Through / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Solitude",
+   "Unnamed run 2",
+   0.6
+  ],
+  [
+   "Sunshine Glades",
+   "Chair 25 top",
+   "Sunshine Glades / Repeat",
+   2.9
+  ],
+  [
+   "The Wall",
+   "The Wall / Glades",
+   "The Wall / Broadway",
+   1.0
+  ],
+  [
+   "Lower Dry Creek",
+   "Lower Dry Creek",
+   "Lower Dry Creek / Easy Rider",
+   1.6
+  ],
+  [
+   "Lodgepole",
+   "Lodgepole",
+   "Lodgepole 2",
+   1.2
+  ],
+  [
+   "Lodgepole",
+   "Lodgepole 2",
+   "Lodgepole / Bristlecone",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Gold Rush Express top",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Easy Over",
+   "Easy Over / Forest Trail Park",
+   "Easy Over 2",
+   1.0
+  ],
+  [
+   "Easy Over",
+   "Easy Over 2",
+   "Easy Over",
+   0.5
+  ],
+  [
+   "Glades",
+   "The Wall / Glades",
+   "Glades / Powder Bowl",
+   1.6
+  ],
+  [
+   "Lower Grizzly",
+   "Lower Grizzly / Follow Me",
+   "Lower Grizzly",
+   1.6
+  ],
+  [
+   "Lower Grizzly",
+   "Lower Grizzly",
+   "Chair 22 bottom",
+   0.8
+  ],
+  [
+   "Lower Grizzly",
+   "Chair 22 bottom",
+   "Lower Grizzly / Clover Leaf",
+   0.5
+  ],
+  [
+   "Blue Ox",
+   "Blue Ox / Powder Bowl",
+   "Blue Ox / Terry's Run",
+   1.5
+  ],
+  [
+   "Ski Back Trail",
+   "Ski Back Trail",
+   "Ski Back Trail 2",
+   0.5
+  ],
+  [
+   "Follow Me",
+   "Roller Coaster Express top",
+   "Follow Me 2",
+   0.5
+  ],
+  [
+   "Follow Me",
+   "Follow Me 2",
+   "Follow Me",
+   0.7
+  ],
+  [
+   "Follow Me",
+   "Follow Me",
+   "Downhill / Follow Me",
+   0.6
+  ],
+  [
+   "Follow Me",
+   "Downhill / Follow Me",
+   "Follow Me 3",
+   0.5
+  ],
+  [
+   "Follow Me",
+   "Follow Me 3",
+   "Follow Me 5",
+   0.5
+  ],
+  [
+   "Follow Me",
+   "Follow Me 5",
+   "Follow Me 6",
+   0.7
+  ],
+  [
+   "Follow Me",
+   "Follow Me 6",
+   "Follow Me 4",
+   0.5
+  ],
+  [
+   "Follow Me",
+   "Follow Me 4",
+   "Lower Grizzly / Follow Me",
+   0.5
+  ],
+  [
+   "Follow Me",
+   "Lower Grizzly / Follow Me",
+   "Follow Me / Unnamed run",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / South Park",
+   "Unnamed run / Roller Coaster",
+   0.5
+  ],
+  [
+   "St. Anton",
+   "Face Lift Express top",
+   "St. Anton 3",
+   1.5
+  ],
+  [
+   "St. Anton",
+   "St. Anton 3",
+   "World Cup / St. Anton",
+   0.6
+  ],
+  [
+   "St. Anton",
+   "World Cup / St. Anton",
+   "St. Anton 5",
+   0.8
+  ],
+  [
+   "St. Anton",
+   "St. Anton 5",
+   "St. Anton 6",
+   1.8
+  ],
+  [
+   "St. Anton",
+   "St. Anton 6",
+   "Commin Through / St. Anton",
+   1.9
+  ],
+  [
+   "St. Anton",
+   "Commin Through / St. Anton",
+   "St. Anton 2",
+   2.0
+  ],
+  [
+   "St. Anton",
+   "St. Anton 2",
+   "St. Anton 4",
+   0.5
+  ],
+  [
+   "St. Anton",
+   "St. Anton 4",
+   "St. Anton",
+   0.5
+  ],
+  [
+   "Back For More",
+   "Back For More / Unnamed run",
+   "Back For More",
+   3.3
+  ],
+  [
+   "Back For More",
+   "Back For More",
+   "Back For More / Holiday",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Chair 21 top",
+   "Unnamed run / South Park 2",
+   0.5
+  ],
+  [
+   "Jibs & More",
+   "Jibs & More / X-Course",
+   "Jibs & More / X-Course 2",
+   3.0
+  ],
+  [
+   "Old 10 Breakover",
+   "Old 10 Breakover / Wall Street",
+   "Old 10 Breakover / Wall Street 2",
+   2.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Chair 8 bottom",
+   0.5
+  ],
+  [
+   "Pumpkin",
+   "Pumpkin / Holiday",
+   "Pumpkin",
+   4.7
+  ],
+  [
+   "Pumpkin",
+   "Pumpkin",
+   "Pumpkin 2",
+   0.6
+  ],
+  [
+   "Pumpkin",
+   "Pumpkin 2",
+   "Pumpkin 3",
+   0.5
+  ],
+  [
+   "Pumpkin",
+   "Pumpkin 3",
+   "Pumpkin / Lupin",
+   0.5
+  ],
+  [
+   "Face of Five",
+   "Face of Five",
+   "Face of Five 2",
+   3.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Canyon Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Eagle Express top",
+   "Unnamed run / Lupin",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Lupin 2",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Chair 21 top",
+   "Unnamed run / Lost In The Woods",
+   0.5
+  ],
+  [
+   "Easy Rider",
+   "Easy Rider / Comeback Trail",
+   "Lower Dry Creek / Easy Rider",
+   1.1
+  ],
+  [
+   "Easy Rider",
+   "Lower Dry Creek / Easy Rider",
+   "Easy Rider 2",
+   0.6
+  ],
+  [
+   "Easy Rider",
+   "Easy Rider 2",
+   "Easy Rider",
+   0.5
+  ],
+  [
+   "Easy Rider",
+   "Easy Rider",
+   "Gold Rush Express bottom",
+   1.0
+  ],
+  [
+   "Havent The Foggiest",
+   "Havent The Foggiest / Unnamed run",
+   "Havent The Foggiest / Sleepy Hollow",
+   4.4
+  ],
+  [
+   "Critters",
+   "Critters / Secret Spot",
+   "Critters 2",
+   1.0
+  ],
+  [
+   "Critters",
+   "Critters 2",
+   "Critters",
+   0.8
+  ],
+  [
+   "Red Tail",
+   "Red Tail / Blue Jay",
+   "Red Tail",
+   0.8
+  ],
+  [
+   "Red Tail",
+   "Red Tail",
+   "Red Tail / Hully Gully",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Chair 25 top",
+   "Back For More / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Back For More / Unnamed run",
+   "Havent The Foggiest / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Havent The Foggiest / Unnamed run",
+   "Unnamed run / Sunset",
+   0.6
+  ],
+  [
+   "Oops",
+   "Oops / Surprise",
+   "Oops / Surprise 2",
+   1.1
+  ],
+  [
+   "Water Tank",
+   "Water Tank / Lupin",
+   "Pumpkin",
+   1.8
+  ],
+  [
+   "Side Show",
+   "Follow Me",
+   "Side Show",
+   1.3
+  ],
+  [
+   "Forest Trail Park",
+   "Forest Trail Park / Mambo",
+   "Easy Over / Forest Trail Park",
+   1.3
+  ],
+  [
+   "Forest Trail Park",
+   "Easy Over / Forest Trail Park",
+   "Forest Trail Park",
+   0.5
+  ],
+  [
+   "Forest Trail Park",
+   "Forest Trail Park",
+   "Forest Trail Park / Saint Moritz",
+   0.9
+  ],
+  [
+   "Training Wheels",
+   "Training Wheels / Upper Road Runner",
+   "Chair 14 bottom",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Quicksilver",
+   "Unnamed run 6",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 6",
+   "Unnamed run / Goldhill",
+   0.5
+  ],
+  [
+   "Rooster Tail",
+   "Rooster Tail / East Bowl",
+   "Rooster Tail",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Canyon Express top",
+   "Follow Me 2",
+   0.5
+  ],
+  [
+   "Ricochet",
+   "Ricochet",
+   "Ricochet 3",
+   0.5
+  ],
+  [
+   "Ricochet",
+   "Ricochet 3",
+   "Ricochet 4",
+   2.6
+  ],
+  [
+   "Ricochet",
+   "Ricochet 4",
+   "Ricochet 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Redwing",
+   "Unnamed run / Chickadee",
+   0.9
+  ],
+  [
+   "Upper Road Runner",
+   "Panorama Gondola Upper top",
+   "Upper Road Runner 2",
+   5.9
+  ],
+  [
+   "Upper Road Runner",
+   "Upper Road Runner 2",
+   "Upper Road Runner",
+   1.1
+  ],
+  [
+   "Upper Road Runner",
+   "Upper Road Runner",
+   "Training Wheels / Upper Road Runner",
+   4.8
+  ],
+  [
+   "Upper Road Runner",
+   "Training Wheels / Upper Road Runner",
+   "White Bark Ridge / Upper Road Runner",
+   2.7
+  ],
+  [
+   "Fascination",
+   "Fascination / Powder Bowl",
+   "Fascination",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Chair 8 top",
+   "Follow Me / Unnamed run",
+   0.5
+  ],
+  [
+   "Quicksilver",
+   "Unnamed run 2",
+   "Unnamed run / Quicksilver",
+   0.8
+  ],
+  [
+   "Quicksilver",
+   "Unnamed run / Quicksilver",
+   "Quicksilver / Holiday",
+   4.6
+  ],
+  [
+   "Sunset",
+   "Unnamed run / Sunset",
+   "Sunset",
+   1.4
+  ],
+  [
+   "Sunset",
+   "Sunset",
+   "Sunset / Solitude",
+   0.8
+  ],
+  [
+   "Roger's Ridge",
+   "Roger's Ridge",
+   "Roger's Ridge 2",
+   0.6
+  ],
+  [
+   "Roger's Ridge",
+   "Roger's Ridge 2",
+   "Roger's Ridge / Comeback Trail",
+   1.0
+  ],
+  [
+   "Crosswalk",
+   "Crosswalk",
+   "Crosswalk 2",
+   0.8
+  ],
+  [
+   "Crosswalk",
+   "Crosswalk 2",
+   "Crosswalk / Roller Coaster",
+   1.1
+  ],
+  [
+   "Comeback Trail",
+   "Easy Rider / Comeback Trail",
+   "Comeback Trail",
+   0.5
+  ],
+  [
+   "Comeback Trail",
+   "Comeback Trail",
+   "Roger's Ridge / Comeback Trail",
+   0.5
+  ],
+  [
+   "Comeback Trail",
+   "Roger's Ridge / Comeback Trail",
+   "Comeback Trail 2",
+   1.1
+  ],
+  [
+   "Comeback Trail",
+   "Comeback Trail 2",
+   "Easy Rider",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Follow Me 3",
+   "Downhill",
+   1.1
+  ],
+  [
+   "Juniper",
+   "Juniper / Lupin",
+   "Juniper / Sleepy Hollow",
+   1.7
+  ],
+  [
+   "Avalanche",
+   "Follow Me 2",
+   "Crosswalk 2",
+   1.2
+  ],
+  [
+   "Solitude",
+   "High Five Express top",
+   "Unnamed run / Solitude",
+   1.7
+  ],
+  [
+   "Solitude",
+   "Unnamed run / Solitude",
+   "Sunset / Solitude",
+   2.3
+  ],
+  [
+   "Solitude",
+   "Sunset / Solitude",
+   "Solitude / Unnamed run",
+   0.6
+  ],
+  [
+   "Hully Gully",
+   "Follow Me / Unnamed run",
+   "Hully Gully",
+   0.7
+  ],
+  [
+   "Hully Gully",
+   "Hully Gully",
+   "Red Tail",
+   1.2
+  ],
+  [
+   "Hully Gully",
+   "Red Tail",
+   "Red Tail / Hully Gully",
+   0.5
+  ],
+  [
+   "Hully Gully",
+   "Red Tail / Hully Gully",
+   "Hully Gully / Clover Leaf",
+   1.6
+  ],
+  [
+   "Secret Spot",
+   "Secret Spot",
+   "Critters / Secret Spot",
+   0.5
+  ],
+  [
+   "Secret Spot",
+   "Critters / Secret Spot",
+   "Secret Spot / Lower Road Runner",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Sesame Street West",
+   "Commin Through / Unnamed run",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Commin Through / Unnamed run",
+   "Chair 12 bottom",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Wall Street",
+   "Solitude / Unnamed run",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Solitude / Unnamed run",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "High Five Express bottom",
+   0.5
+  ],
+  [
+   "Wall Street",
+   "Roller Coaster Express top",
+   "Wall Street",
+   0.5
+  ],
+  [
+   "Wall Street",
+   "Wall Street",
+   "Unnamed run / Wall Street",
+   0.5
+  ],
+  [
+   "Wall Street",
+   "Unnamed run / Wall Street",
+   "Old 10 Breakover / Wall Street",
+   0.7
+  ],
+  [
+   "Wall Street",
+   "Old 10 Breakover / Wall Street",
+   "Old 10 Breakover / Wall Street 2",
+   2.8
+  ],
+  [
+   "Wall Street",
+   "Old 10 Breakover / Wall Street 2",
+   "Wall Street / Unnamed run",
+   0.9
+  ],
+  [
+   "Manzanita",
+   "Eagle Express top",
+   "Chair 25 bottom",
+   2.5
+  ],
+  [
+   "Phantoms Escape",
+   "Saint Moritz / Phantoms Escape",
+   "Phantoms Escape",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Canyon Express top",
+   "Wall Street",
+   0.5
+  ],
+  [
+   "Ginger Bread",
+   "Ginger Bread / Round About",
+   "Ginger Bread / Spring Canyon",
+   0.8
+  ],
+  [
+   "Little Bird",
+   "Little Bird / Roller Coaster",
+   "Little Bird 3",
+   2.5
+  ],
+  [
+   "Little Bird",
+   "Little Bird 3",
+   "Little Bird 2",
+   0.7
+  ],
+  [
+   "Little Bird",
+   "Little Bird 2",
+   "Little Bird",
+   0.8
+  ],
+  [
+   "Encore",
+   "Encore / The Acts",
+   "Downhill 2",
+   1.2
+  ],
+  [
+   "Ralphie's",
+   "Ralphie's / Powder Bowl",
+   "Ralphie's",
+   1.1
+  ],
+  [
+   "New Critters",
+   "New Critters",
+   "Critters 2",
+   0.8
+  ],
+  [
+   "Powder Bowl",
+   "World Cup / Silver Tip",
+   "Blue Ox / Powder Bowl",
+   0.9
+  ],
+  [
+   "Powder Bowl",
+   "Blue Ox / Powder Bowl",
+   "Powder Bowl",
+   0.5
+  ],
+  [
+   "Powder Bowl",
+   "Powder Bowl",
+   "Fascination / Powder Bowl",
+   0.5
+  ],
+  [
+   "Powder Bowl",
+   "Fascination / Powder Bowl",
+   "Ralphie's / Powder Bowl",
+   0.7
+  ],
+  [
+   "Powder Bowl",
+   "Ralphie's / Powder Bowl",
+   "Glades / Powder Bowl",
+   0.5
+  ],
+  [
+   "Powder Bowl",
+   "Glades / Powder Bowl",
+   "Powder Bowl / Broadway",
+   0.6
+  ],
+  [
+   "Christmas Tree",
+   "Christmas Tree / Chickadee",
+   "Christmas Tree / Lupin",
+   2.6
+  ],
+  [
+   "X-Course",
+   "Jibs & More / X-Course",
+   "Jibs & More / X-Course 2",
+   3.2
+  ],
+  [
+   "Agee's Run",
+   "Blue Ox / Powder Bowl",
+   "Agee's Run / Terry's Run",
+   1.4
+  ],
+  [
+   "Santiago",
+   "Upper Road Runner",
+   "Santiago / Arriba",
+   4.2
+  ],
+  [
+   "Mambo",
+   "Mambo / Saint Moritz",
+   "Stump Alley Express bottom",
+   2.3
+  ],
+  [
+   "Gretel",
+   "Roller Coaster Express bottom",
+   "Gretel 3",
+   0.5
+  ],
+  [
+   "Gretel",
+   "Gretel 3",
+   "Gretel 2",
+   0.8
+  ],
+  [
+   "Gretel",
+   "Gretel 2",
+   "Gretel",
+   2.0
+  ],
+  [
+   "China Bowl",
+   "China Bowl / Christmas Bowl",
+   "Waterfall / China Bowl",
+   0.5
+  ],
+  [
+   "China Bowl",
+   "Waterfall / China Bowl",
+   "China Bowl / Coyote",
+   0.5
+  ],
+  [
+   "Lupin",
+   "Unnamed run / Lupin",
+   "Eagle Express top",
+   0.5
+  ],
+  [
+   "Lupin",
+   "Eagle Express top",
+   "Juniper / Lupin",
+   1.3
+  ],
+  [
+   "Lupin",
+   "Juniper / Lupin",
+   "Water Tank / Lupin",
+   0.5
+  ],
+  [
+   "Lupin",
+   "Water Tank / Lupin",
+   "Christmas Tree / Lupin",
+   2.1
+  ],
+  [
+   "Lupin",
+   "Christmas Tree / Lupin",
+   "Pumpkin 2",
+   0.5
+  ],
+  [
+   "Lupin",
+   "Pumpkin 2",
+   "Pumpkin 3",
+   0.5
+  ],
+  [
+   "Lupin",
+   "Pumpkin 3",
+   "Pumpkin / Lupin",
+   0.5
+  ],
+  [
+   "Lupin",
+   "Pumpkin / Lupin",
+   "Unnamed run / Lupin 2",
+   1.5
+  ],
+  [
+   "Lupin",
+   "Unnamed run / Lupin 2",
+   "Lupin",
+   0.5
+  ],
+  [
+   "Lupin",
+   "Lupin",
+   "Eagle Express bottom",
+   0.5
+  ],
+  [
+   "Stump Alley",
+   "Stump Alley",
+   "Stump Alley 2",
+   0.6
+  ],
+  [
+   "Stump Alley",
+   "Stump Alley 2",
+   "Stump Alley 3",
+   1.9
+  ],
+  [
+   "Stump Alley",
+   "Stump Alley 3",
+   "Stump Alley Express bottom",
+   1.6
+  ],
+  [
+   "Sleepy Hollow",
+   "Havent The Foggiest / Sleepy Hollow",
+   "Chair 25 bottom",
+   1.7
+  ],
+  [
+   "Sleepy Hollow",
+   "Chair 25 bottom",
+   "Juniper / Sleepy Hollow",
+   1.2
+  ],
+  [
+   "Sleepy Hollow",
+   "Juniper / Sleepy Hollow",
+   "Pumpkin",
+   1.3
+  ],
+  [
+   "Sleepy Hollow",
+   "Pumpkin",
+   "Pumpkin 2",
+   0.7
+  ],
+  [
+   "Lower Road Runner",
+   "Commin Through / Unnamed run",
+   "Lower Road Runner 2",
+   2.6
+  ],
+  [
+   "Lower Road Runner",
+   "Lower Road Runner 2",
+   "Lower Road Runner",
+   0.5
+  ],
+  [
+   "South Park",
+   "Wall Street",
+   "South Park 2",
+   0.5
+  ],
+  [
+   "South Park",
+   "South Park 2",
+   "Unnamed run / South Park 2",
+   0.8
+  ],
+  [
+   "South Park",
+   "Unnamed run / South Park 2",
+   "Unnamed run / South Park",
+   0.5
+  ],
+  [
+   "South Park",
+   "Unnamed run / South Park",
+   "South Park",
+   3.1
+  ],
+  [
+   "Terry's Run",
+   "World Cup / Silver Tip",
+   "Agee's Run / Terry's Run",
+   2.2
+  ],
+  [
+   "Terry's Run",
+   "Agee's Run / Terry's Run",
+   "Blue Ox / Terry's Run",
+   0.5
+  ],
+  [
+   "Terry's Run",
+   "Blue Ox / Terry's Run",
+   "St. Anton 2",
+   1.0
+  ],
+  [
+   "Lower Shaft",
+   "Follow Me 4",
+   "Lower Grizzly",
+   1.4
+  ],
+  [
+   "Clover Leaf",
+   "Downhill / Clover Leaf",
+   "Lower Grizzly / Clover Leaf",
+   0.6
+  ],
+  [
+   "Clover Leaf",
+   "Lower Grizzly / Clover Leaf",
+   "Hully Gully / Clover Leaf",
+   0.8
+  ],
+  [
+   "Clover Leaf",
+   "Hully Gully / Clover Leaf",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Holiday",
+   "Follow Me / Unnamed run",
+   "Unnamed run / Lupin",
+   0.8
+  ],
+  [
+   "Holiday",
+   "Unnamed run / Lupin",
+   "Back For More / Holiday",
+   1.6
+  ],
+  [
+   "Holiday",
+   "Back For More / Holiday",
+   "Havent The Foggiest / Sleepy Hollow",
+   0.5
+  ],
+  [
+   "Holiday",
+   "Havent The Foggiest / Sleepy Hollow",
+   "Quicksilver / Holiday",
+   0.5
+  ],
+  [
+   "Holiday",
+   "Quicksilver / Holiday",
+   "Pumpkin / Holiday",
+   0.9
+  ],
+  [
+   "East Bowl",
+   "Face Lift Express top",
+   "Rooster Tail / East Bowl",
+   0.5
+  ],
+  [
+   "East Bowl",
+   "Rooster Tail / East Bowl",
+   "East Bowl",
+   0.5
+  ],
+  [
+   "East Bowl",
+   "East Bowl",
+   "East Bowl / Center Bowl",
+   1.9
+  ],
+  [
+   "Spring Canyon",
+   "Spring Canyon / Round About",
+   "Spring Canyon",
+   0.5
+  ],
+  [
+   "Spring Canyon",
+   "Spring Canyon",
+   "Ginger Bread / Spring Canyon",
+   1.3
+  ],
+  [
+   "The Acts",
+   "Follow Me 5",
+   "Encore / The Acts",
+   0.5
+  ],
+  [
+   "The Acts",
+   "Encore / The Acts",
+   "Downhill",
+   0.8
+  ],
+  [
+   "Main Park Half Pipe",
+   "Forest Trail Park",
+   "Main Park Half Pipe / Main Park",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Sunset",
+   "Wall Street",
+   0.7
+  ],
+  [
+   "Ponderosa",
+   "Lodgepole 2",
+   "Ponderosa",
+   0.8
+  ],
+  [
+   "Ski Back Trail",
+   "Gretel 2",
+   "Ski Back Trail",
+   9.6
+  ],
+  [
+   "Unnamed run",
+   "Hully Gully",
+   "Downhill 3",
+   1.6
+  ],
+  [
+   "Mambo",
+   "Forest Trail Park / Mambo",
+   "Mambo",
+   0.5
+  ],
+  [
+   "Mambo",
+   "Mambo",
+   "Saint Moritz / Phantoms Escape",
+   1.6
+  ],
+  [
+   "Saddle Bowl",
+   "St. Anton 3",
+   "World Cup / St. Anton",
+   0.5
+  ],
+  [
+   "Saddle Bowl",
+   "World Cup / St. Anton",
+   "Saddle Bowl",
+   2.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "Unnamed run 7",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 7",
+   "Unnamed run / Coyote",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Easy Rider 2",
+   "Wall Street / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Wall Street / Unnamed run",
+   "Chair 21 bottom",
+   0.5
+  ],
+  [
+   "Blue Jay",
+   "Red Tail / Blue Jay",
+   "Blue Jay",
+   1.1
+  ],
+  [
+   "Blue Jay",
+   "Blue Jay",
+   "Chair 8 bottom",
+   1.9
+  ],
+  [
+   "Saint Moritz",
+   "Mambo / Saint Moritz",
+   "Forest Trail Park / Saint Moritz",
+   0.8
+  ],
+  [
+   "Saint Moritz",
+   "Forest Trail Park / Saint Moritz",
+   "Saint Moritz 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Blue Jay",
+   "Unnamed run / Swell",
+   0.9
+  ],
+  [
+   "Main Park",
+   "Unbound Express top",
+   "Main Park Half Pipe / Main Park",
+   2.6
+  ],
+  [
+   "Main Park",
+   "Main Park Half Pipe / Main Park",
+   "Main Park",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Lupin",
+   "Unnamed run 5",
+   0.5
+  ],
+  [
+   "Chickadee",
+   "Eagle Express top",
+   "Chickadee",
+   0.5
+  ],
+  [
+   "Chickadee",
+   "Chickadee",
+   "Christmas Tree / Chickadee",
+   1.1
+  ],
+  [
+   "Chickadee",
+   "Christmas Tree / Chickadee",
+   "Unnamed run / Chickadee",
+   0.5
+  ],
+  [
+   "Chickadee",
+   "Unnamed run / Chickadee",
+   "Chickadee 2",
+   0.5
+  ],
+  [
+   "Chickadee",
+   "Chickadee 2",
+   "Blue Jay",
+   0.7
+  ],
+  [
+   "Roger's Right",
+   "Roger's Ridge 2",
+   "Comeback Trail",
+   1.1
+  ],
+  [
+   "Hansel",
+   "Gretel 3",
+   "Little Bird 2",
+   1.8
+  ],
+  [
+   "Knee Deep",
+   "Stump Alley 2",
+   "Stump Alley 3",
+   2.2
+  ],
+  [
+   "Coyote",
+   "China Bowl / Coyote",
+   "Unnamed run 7",
+   1.8
+  ],
+  [
+   "Coyote",
+   "Unnamed run 7",
+   "Unnamed run / Coyote",
+   0.5
+  ],
+  [
+   "Coyote",
+   "Unnamed run / Coyote",
+   "Easy Rider / Comeback Trail",
+   0.7
+  ],
+  [
+   "Lost In The Woods",
+   "South Park 2",
+   "Unnamed run / Lost In The Woods",
+   0.7
+  ],
+  [
+   "Lost In The Woods",
+   "Unnamed run / Lost In The Woods",
+   "Lost In The Woods 2",
+   1.0
+  ],
+  [
+   "Lost In The Woods",
+   "Lost In The Woods 2",
+   "Lost In The Woods",
+   2.3
+  ],
+  [
+   "Lower Viva",
+   "Follow Me 6",
+   "Chair 22 bottom",
+   2.3
+  ],
+  [
+   "Saint Moritz, Mambo",
+   "Saint Moritz / Phantoms Escape",
+   "Mambo / Saint Moritz",
+   0.5
+  ],
+  [
+   "Roller Coaster",
+   "Roller Coaster",
+   "Unnamed run / Roller Coaster",
+   1.0
+  ],
+  [
+   "Roller Coaster",
+   "Unnamed run / Roller Coaster",
+   "Crosswalk / Roller Coaster",
+   0.9
+  ],
+  [
+   "Roller Coaster",
+   "Crosswalk / Roller Coaster",
+   "Little Bird / Roller Coaster",
+   1.2
+  ],
+  [
+   "Roller Coaster",
+   "Little Bird / Roller Coaster",
+   "Roller Coaster 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Round Robin",
+   "Spring Canyon",
+   1.5
+  ],
+  [
+   "Goldhill",
+   "Cloud Nine Express top",
+   "Unnamed run 6",
+   4.5
+  ],
+  [
+   "Goldhill",
+   "Unnamed run 6",
+   "Unnamed run / Goldhill",
+   0.5
+  ],
+  [
+   "Goldhill",
+   "Unnamed run / Goldhill",
+   "Pumpkin / Holiday",
+   3.5
+  ],
+  [
+   "Goldhill",
+   "Pumpkin / Holiday",
+   "Goldhill / Unnamed run",
+   0.5
+  ],
+  [
+   "Ricochet",
+   "Ricochet 2",
+   "Ricochet / Slot",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Chickadee",
+   "Juniper / Lupin",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Juniper / Lupin",
+   "Water Tank / Lupin",
+   0.6
+  ],
+  [
+   "Arriba",
+   "Upper Road Runner 2",
+   "Santiago / Arriba",
+   3.6
+  ],
+  [
+   "Arriba",
+   "Santiago / Arriba",
+   "Arriba",
+   0.9
+  ],
+  [
+   "Round Robin",
+   "Round Robin",
+   "Unnamed run / Round Robin",
+   0.5
+  ],
+  [
+   "Round Robin",
+   "Unnamed run / Round Robin",
+   "Round Robin 2",
+   3.0
+  ],
+  [
+   "Patrolmens",
+   "Mambo",
+   "Easy Over 2",
+   1.1
+  ],
+  [
+   "Repeat",
+   "Back For More",
+   "Sunshine Glades / Repeat",
+   0.5
+  ],
+  [
+   "Repeat",
+   "Sunshine Glades / Repeat",
+   "Unnamed run / Lupin",
+   0.6
+  ],
+  [
+   "Center Bowl",
+   "East Bowl",
+   "East Bowl / Center Bowl",
+   1.6
+  ],
+  [
+   "Center Bowl",
+   "East Bowl / Center Bowl",
+   "Face Lift Express bottom",
+   0.9
+  ],
+  [
+   "Andy's Double Gold",
+   "Powder Bowl",
+   "St. Anton 4",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Goldhill / Unnamed run",
+   "Cloud Nine Express bottom",
+   0.5
+  ],
+  [
+   "Sesame Street West",
+   "Sesame Street West / Unnamed run",
+   "Unnamed run / Sesame Street West",
+   0.5
+  ],
+  [
+   "Sesame Street West",
+   "Unnamed run / Sesame Street West",
+   "Lower Road Runner 2",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Chair 22 top",
+   "Unnamed run / Sunset",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Sunset",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Sesame Street West / Unnamed run",
+   "Discovery Express top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Discovery Express top",
+   "Lower Road Runner 2",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Unnamed run / Sunset",
+   0.5
+  ],
+  [
+   "Round About",
+   "Schoolyard Express top",
+   "Spring Canyon / Round About",
+   0.8
+  ],
+  [
+   "Round About",
+   "Spring Canyon / Round About",
+   "Ginger Bread / Round About",
+   0.7
+  ],
+  [
+   "Round About",
+   "Ginger Bread / Round About",
+   "Little Bird 3",
+   0.9
+  ],
+  [
+   "Dragon Alley",
+   "Ricochet 4",
+   "Dragon Alley / Slot",
+   3.4
+  ],
+  [
+   "Old Comeback Trail",
+   "Comeback Trail 2",
+   "Old Comeback Trail",
+   1.0
+  ],
+  [
+   "Christmas Bowl",
+   "Rooster Tail / East Bowl",
+   "China Bowl / Christmas Bowl",
+   1.6
+  ],
+  [
+   "Christmas Bowl",
+   "China Bowl / Christmas Bowl",
+   "Christmas Bowl",
+   1.4
+  ],
+  [
+   "Slot",
+   "Unnamed run 6",
+   "Ricochet / Slot",
+   2.0
+  ],
+  [
+   "Slot",
+   "Ricochet / Slot",
+   "Dragon Alley / Slot",
+   1.3
+  ],
+  [
+   "Slot",
+   "Dragon Alley / Slot",
+   "Slot",
+   0.8
+  ],
+  [
+   "Jills Run",
+   "Mambo / Saint Moritz",
+   "Gus Pasture / Jills Run",
+   0.9
+  ],
+  [
+   "Redwing",
+   "Unnamed run / Redwing",
+   "Red Tail",
+   0.9
+  ],
+  [
+   "Big Bird",
+   "Lost In The Woods 2",
+   "Jibs & More / X-Course 2",
+   4.1
+  ],
+  [
+   "Dry Creek",
+   "Dry Creek",
+   "Dry Creek / Sanctuary",
+   2.1
+  ],
+  [
+   "Broadway",
+   "Broadway",
+   "The Wall / Broadway",
+   1.7
+  ],
+  [
+   "Broadway",
+   "The Wall / Broadway",
+   "Powder Bowl / Broadway",
+   1.5
+  ],
+  [
+   "Broadway",
+   "Powder Bowl / Broadway",
+   "Broadway 2",
+   0.9
+  ],
+  [
+   "Lower Road Runner",
+   "White Bark Ridge / Upper Road Runner",
+   "Secret Spot / Lower Road Runner",
+   2.3
+  ],
+  [
+   "Lower Road Runner",
+   "Secret Spot / Lower Road Runner",
+   "Commin Through",
+   0.8
+  ],
+  [
+   "West Bowl",
+   "West Bowl",
+   "West Bowl 2",
+   1.8
+  ],
+  [
+   "Gremlin's Gulch",
+   "St. Anton 5",
+   "St. Anton 6",
+   1.7
+  ],
+  [
+   "Bridges",
+   "Chickadee 2",
+   "Pumpkin 3",
+   3.1
+  ],
+  [
+   "Sanctuary",
+   "Sanctuary",
+   "Dry Creek / Sanctuary",
+   2.0
+  ],
+  [
+   "Sanctuary",
+   "Dry Creek / Sanctuary",
+   "High Five Express bottom",
+   1.9
+  ],
+  [
+   "Sanctuary",
+   "High Five Express bottom",
+   "Unnamed run 7",
+   0.5
+  ],
+  [
+   "Surprise",
+   "Training Wheels / Upper Road Runner",
+   "Oops / Surprise",
+   0.5
+  ],
+  [
+   "Surprise",
+   "Oops / Surprise",
+   "Oops / Surprise 2",
+   1.3
+  ],
+  [
+   "Swell",
+   "Follow Me / Unnamed run",
+   "Chair 8 top",
+   0.5
+  ],
+  [
+   "Swell",
+   "Chair 8 top",
+   "Unnamed run / Redwing",
+   0.8
+  ],
+  [
+   "Swell",
+   "Unnamed run / Redwing",
+   "Red Tail / Blue Jay",
+   0.6
+  ],
+  [
+   "Swell",
+   "Red Tail / Blue Jay",
+   "Unnamed run / Swell",
+   1.4
+  ],
+  [
+   "Swell",
+   "Unnamed run / Swell",
+   "Hully Gully / Clover Leaf",
+   0.8
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "World Cup / Silver Tip",
+   "Chair 23 bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Silver Tip",
+   "Chair 23 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Silver Tip",
+   "Stump Alley Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Silver Tip",
+   "Broadway Express top",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Festival Poma bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Chair 8 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Canyon Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Village Gondola top",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Schoolyard Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Festival Poma top",
+   3.2
+  ],
+  [
+   "walk",
+   "Festival Poma bottom",
+   "Chair 8 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Festival Poma bottom",
+   "Canyon Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Festival Poma bottom",
+   "Little Bird",
+   3.1
+  ],
+  [
+   "walk",
+   "Festival Poma bottom",
+   "Village Gondola top",
+   0.6
+  ],
+  [
+   "walk",
+   "Festival Poma bottom",
+   "Schoolyard Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Chair 13 top",
+   "Lodgepole",
+   3.4
+  ],
+  [
+   "walk",
+   "Chair 13 top",
+   "Critters / Secret Spot",
+   1.8
+  ],
+  [
+   "walk",
+   "Chair 13 top",
+   "Training Wheels / Upper Road Runner",
+   2.7
+  ],
+  [
+   "walk",
+   "Chair 13 top",
+   "Secret Spot",
+   1.2
+  ],
+  [
+   "walk",
+   "Chair 13 top",
+   "New Critters",
+   2.9
+  ],
+  [
+   "walk",
+   "Chair 13 top",
+   "Chair 12 top",
+   1.3
+  ],
+  [
+   "walk",
+   "Downhill / Clover Leaf",
+   "Chair 22 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Gus Pasture / Jills Run",
+   "Unbound Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Gus Pasture / Jills Run",
+   2.0
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Saint Moritz 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Main Park",
+   1.4
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Broadway 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Discovery Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Unbound Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Broadway Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Panorama Gondola Lower bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Commin Through / Unnamed run",
+   "Chair 12 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Solitude",
+   "Gold Rush Express top",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Gold Rush Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Chair 25 top",
+   "Back For More / Unnamed run",
+   0.9
+  ],
+  [
+   "walk",
+   "Chair 25 top",
+   "Havent The Foggiest / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Sunshine Glades / Repeat",
+   "Eagle Express top",
+   2.5
+  ],
+  [
+   "walk",
+   "Lodgepole / Bristlecone",
+   "Commin Through / St. Anton",
+   3.0
+  ],
+  [
+   "walk",
+   "Lodgepole / Bristlecone",
+   "Critters",
+   2.4
+  ],
+  [
+   "walk",
+   "Lodgepole / Bristlecone",
+   "Unnamed run / Sesame Street West",
+   3.1
+  ],
+  [
+   "walk",
+   "Lodgepole / Bristlecone",
+   "Ponderosa",
+   1.2
+  ],
+  [
+   "walk",
+   "Lodgepole / Bristlecone",
+   "Sesame Street West / Unnamed run",
+   2.7
+  ],
+  [
+   "walk",
+   "Lodgepole / Bristlecone",
+   "Commin Through",
+   2.6
+  ],
+  [
+   "walk",
+   "Lodgepole / Bristlecone",
+   "Discovery Express top",
+   3.3
+  ],
+  [
+   "walk",
+   "Gold Rush Express top",
+   "Unnamed run / Solitude",
+   2.8
+  ],
+  [
+   "walk",
+   "Gold Rush Express top",
+   "Unnamed run 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Gold Rush Express top",
+   "Unnamed run / Sunset",
+   1.6
+  ],
+  [
+   "walk",
+   "Gold Rush Express top",
+   "Sunset",
+   3.3
+  ],
+  [
+   "walk",
+   "Easy Over",
+   "Stump Alley 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Easy Over",
+   "Easy Over 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Easy Over",
+   "Old Comeback Trail",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Grizzly / Follow Me",
+   "Chair 8 top",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Grizzly / Clover Leaf",
+   "Chair 22 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Ski Back Trail 2",
+   "Ski Back Trail",
+   0.6
+  ],
+  [
+   "walk",
+   "Ski Back Trail 2",
+   "Village Gondola bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Roller Coaster Express top",
+   "Follow Me",
+   3.2
+  ],
+  [
+   "walk",
+   "Roller Coaster Express top",
+   "Follow Me 2",
+   1.1
+  ],
+  [
+   "walk",
+   "Roller Coaster Express top",
+   "Crosswalk",
+   2.1
+  ],
+  [
+   "walk",
+   "Roller Coaster Express top",
+   "Unnamed run / Wall Street",
+   2.4
+  ],
+  [
+   "walk",
+   "Roller Coaster Express top",
+   "Wall Street",
+   1.5
+  ],
+  [
+   "walk",
+   "Roller Coaster Express top",
+   "Sunset",
+   3.1
+  ],
+  [
+   "walk",
+   "Roller Coaster Express top",
+   "South Park 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Roller Coaster Express top",
+   "Roller Coaster",
+   2.2
+  ],
+  [
+   "walk",
+   "Follow Me / Unnamed run",
+   "Chair 8 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park",
+   "Chair 20 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Roller Coaster",
+   "Chair 20 top",
+   1.9
+  ],
+  [
+   "walk",
+   "Face Lift Express top",
+   "Rooster Tail / East Bowl",
+   1.1
+  ],
+  [
+   "walk",
+   "Face Lift Express top",
+   "Rooster Tail",
+   2.5
+  ],
+  [
+   "walk",
+   "Face Lift Express top",
+   "St. Anton 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Face Lift Express top",
+   "East Bowl",
+   1.5
+  ],
+  [
+   "walk",
+   "Face Lift Express top",
+   "Dry Creek",
+   3.4
+  ],
+  [
+   "walk",
+   "Face Lift Express top",
+   "West Bowl",
+   2.2
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Fascination",
+   0.9
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Lower Road Runner",
+   2.4
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "St. Anton 2",
+   1.3
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "St. Anton 4",
+   0.6
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Lower Road Runner 2",
+   2.2
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Broadway 2",
+   2.3
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Broadway Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Back For More / Unnamed run",
+   "Chair 25 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Chair 21 top",
+   "Unnamed run / South Park",
+   2.1
+  ],
+  [
+   "walk",
+   "Chair 21 top",
+   "Unnamed run / Roller Coaster",
+   3.3
+  ],
+  [
+   "walk",
+   "Chair 21 top",
+   "Unnamed run / South Park 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Chair 21 top",
+   "Jibs & More / X-Course",
+   2.4
+  ],
+  [
+   "walk",
+   "Chair 21 top",
+   "Unnamed run / Lost In The Woods",
+   0.7
+  ],
+  [
+   "walk",
+   "Chair 21 top",
+   "Lost In The Woods 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Chair 21 top",
+   "Chair 20 top",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park 2",
+   "Chair 21 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park 2",
+   "Chair 20 top",
+   2.1
+  ],
+  [
+   "walk",
+   "Jibs & More / X-Course",
+   "Chair 20 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Jibs & More / X-Course 2",
+   "Roller Coaster Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Jibs & More / X-Course 2",
+   "South Park",
+   1.2
+  ],
+  [
+   "walk",
+   "Jibs & More / X-Course 2",
+   "Chair 20 bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Chair 21 top",
+   3.2
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "High Five Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Chair 8 bottom",
+   "Festival Poma bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Chair 8 bottom",
+   "Canyon Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Chair 8 bottom",
+   "Village Gondola top",
+   1.5
+  ],
+  [
+   "walk",
+   "Chair 8 bottom",
+   "Schoolyard Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Pumpkin / Holiday",
+   "Cloud Nine Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Face of Five 2",
+   "Old 10 Breakover / Wall Street",
+   2.9
+  ],
+  [
+   "walk",
+   "Face of Five 2",
+   "Sunset / Solitude",
+   1.3
+  ],
+  [
+   "walk",
+   "Face of Five 2",
+   "Solitude / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Face of Five 2",
+   "High Five Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Face of Five 2",
+   "Unnamed run 4",
+   2.0
+  ],
+  [
+   "walk",
+   "Face of Five 2",
+   "Unnamed run 7",
+   3.1
+  ],
+  [
+   "walk",
+   "Canyon Express bottom",
+   "Festival Poma bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Canyon Express bottom",
+   "Chair 8 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Canyon Express bottom",
+   "Little Bird",
+   2.0
+  ],
+  [
+   "walk",
+   "Canyon Express bottom",
+   "Village Gondola top",
+   1.4
+  ],
+  [
+   "walk",
+   "Canyon Express bottom",
+   "Schoolyard Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Eagle Express top",
+   "Sunshine Glades / Repeat",
+   2.5
+  ],
+  [
+   "walk",
+   "Eagle Express top",
+   "Unnamed run / Lupin",
+   0.7
+  ],
+  [
+   "walk",
+   "Eagle Express top",
+   "Chickadee",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Lupin",
+   "Eagle Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Lupin 2",
+   "Eagle Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Lupin 2",
+   "Unnamed lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Lupin 2",
+   "Unnamed lift bottom 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Lupin 2",
+   "Unnamed lift top",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Unnamed run / Lupin 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Eagle Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Lupin",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Unnamed run 5",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Unnamed lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Unnamed lift bottom 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Unnamed lift top",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Lost In The Woods",
+   "Chair 21 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Lost In The Woods",
+   "Chair 20 top",
+   2.8
+  ],
+  [
+   "walk",
+   "Gold Rush Express bottom",
+   "Phantoms Escape",
+   2.5
+  ],
+  [
+   "walk",
+   "Gold Rush Express bottom",
+   "Stump Alley Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Havent The Foggiest / Unnamed run",
+   "Chair 25 top",
+   1.6
+  ],
+  [
+   "walk",
+   "Havent The Foggiest / Unnamed run",
+   "Gold Rush Express top",
+   3.4
+  ],
+  [
+   "walk",
+   "Critters",
+   "Commin Through / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Critters",
+   "Lodgepole / Bristlecone",
+   2.4
+  ],
+  [
+   "walk",
+   "Critters",
+   "Secret Spot / Lower Road Runner",
+   1.4
+  ],
+  [
+   "walk",
+   "Critters",
+   "Ponderosa",
+   1.7
+  ],
+  [
+   "walk",
+   "Critters",
+   "Commin Through",
+   2.1
+  ],
+  [
+   "walk",
+   "Red Tail / Hully Gully",
+   "Chair 22 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "Gold Rush Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Oops / Surprise 2",
+   "Chair 14 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Oops / Surprise 2",
+   "Arriba",
+   1.0
+  ],
+  [
+   "walk",
+   "Oops / Surprise 2",
+   "Chair 13 bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Side Show",
+   "Crosswalk / Roller Coaster",
+   2.6
+  ],
+  [
+   "walk",
+   "Side Show",
+   "Downhill",
+   2.1
+  ],
+  [
+   "walk",
+   "Side Show",
+   "Unnamed run / Round Robin",
+   2.9
+  ],
+  [
+   "walk",
+   "Side Show",
+   "Round Robin",
+   1.8
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Unbound Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Broadway Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Panorama Gondola Lower bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Training Wheels / Upper Road Runner",
+   "Chair 13 top",
+   2.7
+  ],
+  [
+   "walk",
+   "Chair 14 bottom",
+   "Oops / Surprise 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Chair 14 bottom",
+   "Arriba",
+   1.6
+  ],
+  [
+   "walk",
+   "Chair 14 bottom",
+   "Chair 13 bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Rooster Tail",
+   "Dry Creek",
+   1.3
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Roller Coaster Express top",
+   1.1
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Follow Me 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Crosswalk",
+   3.1
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Unnamed run / Wall Street",
+   2.9
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Wall Street",
+   2.0
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Sunset",
+   2.3
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Roller Coaster",
+   3.3
+  ],
+  [
+   "walk",
+   "Follow Me 2",
+   "Roller Coaster Express top",
+   1.1
+  ],
+  [
+   "walk",
+   "Ricochet",
+   "Cloud Nine Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Fascination",
+   "St. Anton",
+   0.9
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Ralphie's",
+   1.1
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Lower Road Runner",
+   2.8
+  ],
+  [
+   "walk",
+   "Fascination",
+   "St. Anton 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Main Park",
+   3.4
+  ],
+  [
+   "walk",
+   "Fascination",
+   "St. Anton 4",
+   0.9
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Lower Road Runner 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Broadway 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Broadway Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Chair 8 top",
+   "Follow Me / Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "Chair 8 top",
+   "Eagle Express top",
+   3.5
+  ],
+  [
+   "walk",
+   "Chair 8 top",
+   "Unnamed run / Lupin",
+   3.2
+  ],
+  [
+   "walk",
+   "Chair 8 top",
+   "Unnamed run / Redwing",
+   3.0
+  ],
+  [
+   "walk",
+   "Chair 8 top",
+   "Hully Gully",
+   2.0
+  ],
+  [
+   "walk",
+   "Chair 8 top",
+   "Chickadee",
+   3.4
+  ],
+  [
+   "walk",
+   "Sunset / Solitude",
+   "High Five Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Ricochet 3",
+   "Cloud Nine Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Roger's Ridge",
+   "Unbound Express top",
+   2.8
+  ],
+  [
+   "walk",
+   "Roger's Ridge",
+   "Panorama Gondola Upper bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Crosswalk",
+   "Chair 21 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Gold Rush Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Chair 21 bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Downhill",
+   "Schoolyard Express top",
+   3.3
+  ],
+  [
+   "walk",
+   "Crosswalk 2",
+   "Chair 20 top",
+   3.0
+  ],
+  [
+   "walk",
+   "High Five Express top",
+   "Face of Five",
+   1.6
+  ],
+  [
+   "walk",
+   "High Five Express top",
+   "Sanctuary",
+   1.2
+  ],
+  [
+   "walk",
+   "Solitude / Unnamed run",
+   "High Five Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Hully Gully / Clover Leaf",
+   "Chair 8 bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Hully Gully / Clover Leaf",
+   "Canyon Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Sesame Street West",
+   "Discovery Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Chair 12 bottom",
+   "Commin Through / Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "High Five Express bottom",
+   "Lower Dry Creek",
+   2.9
+  ],
+  [
+   "walk",
+   "High Five Express bottom",
+   "Solitude / Unnamed run",
+   1.5
+  ],
+  [
+   "walk",
+   "High Five Express bottom",
+   "Unnamed run 4",
+   0.7
+  ],
+  [
+   "walk",
+   "High Five Express bottom",
+   "Unnamed run / Coyote",
+   2.4
+  ],
+  [
+   "walk",
+   "High Five Express bottom",
+   "Unnamed run 7",
+   1.3
+  ],
+  [
+   "walk",
+   "Wall Street / Unnamed run",
+   "Chair 21 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Phantoms Escape",
+   "Gold Rush Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Phantoms Escape",
+   "Stump Alley Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Phantoms Escape",
+   "Old Comeback Trail",
+   3.3
+  ],
+  [
+   "walk",
+   "Wall Street",
+   "Roller Coaster Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Ginger Bread / Spring Canyon",
+   "Lower Grizzly / Clover Leaf",
+   2.4
+  ],
+  [
+   "walk",
+   "Ginger Bread / Spring Canyon",
+   "Hully Gully / Clover Leaf",
+   3.2
+  ],
+  [
+   "walk",
+   "Ginger Bread / Spring Canyon",
+   "Little Bird 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Ginger Bread / Spring Canyon",
+   "Round Robin 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Ginger Bread / Spring Canyon",
+   "Little Bird 3",
+   1.6
+  ],
+  [
+   "walk",
+   "Little Bird / Roller Coaster",
+   "Schoolyard Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Little Bird",
+   "Festival Poma bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Little Bird",
+   "Canyon Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Little Bird",
+   "Gretel",
+   1.6
+  ],
+  [
+   "walk",
+   "Little Bird",
+   "Village Gondola top",
+   2.9
+  ],
+  [
+   "walk",
+   "Little Bird",
+   "Schoolyard Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Little Bird",
+   "Chair 7 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "St. Anton",
+   2.0
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Fascination",
+   1.1
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "St. Anton 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Main Park Half Pipe / Main Park",
+   2.8
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Main Park",
+   3.0
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "St. Anton 4",
+   1.8
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Broadway 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Broadway Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Agee's Run / Terry's Run",
+   "Discovery Express top",
+   3.1
+  ],
+  [
+   "walk",
+   "Stump Alley Express bottom",
+   "Gold Rush Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Stump Alley Express bottom",
+   "Phantoms Escape",
+   1.3
+  ],
+  [
+   "walk",
+   "Roller Coaster Express bottom",
+   "Jibs & More / X-Course 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Roller Coaster Express bottom",
+   "South Park",
+   1.8
+  ],
+  [
+   "walk",
+   "Roller Coaster Express bottom",
+   "Gretel 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Roller Coaster Express bottom",
+   "Chair 20 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Roller Coaster Express bottom",
+   "Chair 7 top",
+   1.8
+  ],
+  [
+   "walk",
+   "Gretel",
+   "Little Bird",
+   1.6
+  ],
+  [
+   "walk",
+   "Gretel",
+   "Schoolyard Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Gretel",
+   "Chair 7 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Eagle Express bottom",
+   "Unnamed run / Lupin 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Eagle Express bottom",
+   "Unnamed run 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Eagle Express bottom",
+   "Lupin",
+   1.3
+  ],
+  [
+   "walk",
+   "Eagle Express bottom",
+   "Unnamed run 5",
+   1.0
+  ],
+  [
+   "walk",
+   "Eagle Express bottom",
+   "Unnamed lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Eagle Express bottom",
+   "Unnamed lift bottom 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Eagle Express bottom",
+   "Unnamed lift top",
+   1.4
+  ],
+  [
+   "walk",
+   "Stump Alley",
+   "Unbound Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Main Park",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Lower Road Runner 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Broadway 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Discovery Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Unbound Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Broadway Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Panorama Gondola Lower bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "South Park",
+   "Jibs & More / X-Course 2",
+   1.2
+  ],
+  [
+   "walk",
+   "South Park",
+   "Roller Coaster Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "South Park",
+   "Chair 20 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Follow Me 4",
+   "Chair 8 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Grizzly",
+   "Chair 22 bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "East Bowl / Center Bowl",
+   "Face Lift Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Spring Canyon / Round About",
+   "Roller Coaster Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "Unbound Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "Broadway Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Roller Coaster Express top",
+   3.1
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Canyon Express top",
+   2.3
+  ],
+  [
+   "walk",
+   "Ponderosa",
+   "Commin Through / Unnamed run",
+   2.6
+  ],
+  [
+   "walk",
+   "Ponderosa",
+   "Lodgepole / Bristlecone",
+   1.2
+  ],
+  [
+   "walk",
+   "Ponderosa",
+   "Secret Spot / Lower Road Runner",
+   3.0
+  ],
+  [
+   "walk",
+   "Ponderosa",
+   "Unnamed run / Sesame Street West",
+   2.5
+  ],
+  [
+   "walk",
+   "Ponderosa",
+   "Sesame Street West / Unnamed run",
+   2.3
+  ],
+  [
+   "walk",
+   "Ponderosa",
+   "Commin Through",
+   1.4
+  ],
+  [
+   "walk",
+   "Ponderosa",
+   "Discovery Express top",
+   2.9
+  ],
+  [
+   "walk",
+   "Downhill 3",
+   "Chair 22 bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Saddle Bowl",
+   "Roger's Ridge",
+   3.1
+  ],
+  [
+   "walk",
+   "Saddle Bowl",
+   "Stump Alley",
+   3.2
+  ],
+  [
+   "walk",
+   "Saddle Bowl",
+   "Face Lift Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Saddle Bowl",
+   "Christmas Bowl",
+   2.3
+  ],
+  [
+   "walk",
+   "Saddle Bowl",
+   "Panorama Gondola Upper bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "High Five Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Coyote",
+   "High Five Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Easy Rider 2",
+   "Chair 21 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Chair 21 bottom",
+   "Easy Rider",
+   2.0
+  ],
+  [
+   "walk",
+   "Chair 21 bottom",
+   "Wall Street / Unnamed run",
+   1.0
+  ],
+  [
+   "walk",
+   "Chair 21 bottom",
+   "Lost In The Woods",
+   1.1
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Gus Pasture / Jills Run",
+   2.3
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Gus Pasture",
+   0.6
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Forest Trail Park / Saint Moritz",
+   0.8
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Main Park Half Pipe / Main Park",
+   1.4
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Main Park",
+   0.8
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Broadway 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Discovery Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Unbound Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Broadway Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Panorama Gondola Lower bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Swell",
+   "Chair 22 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Unbound Express top",
+   "The Wall / Broadway",
+   2.4
+  ],
+  [
+   "walk",
+   "Unbound Express top",
+   "Forest Trail Park / Mambo",
+   1.7
+  ],
+  [
+   "walk",
+   "Unbound Express top",
+   "Stump Alley",
+   0.8
+  ],
+  [
+   "walk",
+   "Unbound Express top",
+   "Stump Alley 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Gus Pasture / Jills Run",
+   3.0
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Gus Pasture",
+   1.4
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Forest Trail Park / Saint Moritz",
+   1.0
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Lower Road Runner",
+   3.5
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Main Park Half Pipe / Main Park",
+   0.9
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Saint Moritz 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Broadway 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Discovery Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Unbound Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Broadway Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Panorama Gondola Lower bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Lupin",
+   "Eagle Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Lupin",
+   "Unnamed lift bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Lupin",
+   "Unnamed lift bottom 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Lupin",
+   "Unnamed lift top",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Unnamed run / Lupin 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Unnamed run 3",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Eagle Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Lupin",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Unnamed lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Unnamed lift bottom 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Unnamed lift top",
+   2.3
+  ],
+  [
+   "walk",
+   "Gretel 3",
+   "Roller Coaster Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Gretel 3",
+   "Chair 20 bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Gretel 3",
+   "Chair 7 top",
+   1.1
+  ],
+  [
+   "walk",
+   "Little Bird 2",
+   "Schoolyard Express bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "South Park 2",
+   "Chair 21 top",
+   2.6
+  ],
+  [
+   "walk",
+   "Lost In The Woods",
+   "Easy Rider",
+   2.2
+  ],
+  [
+   "walk",
+   "Lost In The Woods",
+   "Wall Street / Unnamed run",
+   0.9
+  ],
+  [
+   "walk",
+   "Lost In The Woods",
+   "Chair 21 bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Chair 22 bottom",
+   "Lower Grizzly / Clover Leaf",
+   1.8
+  ],
+  [
+   "walk",
+   "Chair 22 bottom",
+   "Unnamed run / Swell",
+   3.3
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Chair 21 top",
+   2.9
+  ],
+  [
+   "walk",
+   "Roller Coaster 2",
+   "Jibs & More / X-Course 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Roller Coaster 2",
+   "Little Bird / Roller Coaster",
+   1.0
+  ],
+  [
+   "walk",
+   "Roller Coaster 2",
+   "Roller Coaster Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Roller Coaster 2",
+   "South Park",
+   1.6
+  ],
+  [
+   "walk",
+   "Roller Coaster 2",
+   "Spring Canyon / Round About",
+   3.2
+  ],
+  [
+   "walk",
+   "Roller Coaster 2",
+   "Chair 20 bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Round Robin",
+   "Schoolyard Express top",
+   1.9
+  ],
+  [
+   "walk",
+   "Cloud Nine Express top",
+   "Ricochet",
+   0.7
+  ],
+  [
+   "walk",
+   "Cloud Nine Express top",
+   "Ricochet 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Goldhill / Unnamed run",
+   "Cloud Nine Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Chickadee",
+   "Eagle Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Arriba",
+   "Oops / Surprise 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Arriba",
+   "Chair 14 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Arriba",
+   "Chair 13 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Round Robin",
+   "Schoolyard Express top",
+   2.9
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Unnamed run",
+   2.8
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Lower Grizzly / Clover Leaf",
+   2.0
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Hully Gully / Clover Leaf",
+   1.9
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Ginger Bread / Spring Canyon",
+   1.3
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Little Bird 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Little Bird 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Face Lift Express bottom",
+   "Saddle Bowl",
+   1.3
+  ],
+  [
+   "walk",
+   "Face Lift Express bottom",
+   "Christmas Bowl",
+   1.1
+  ],
+  [
+   "walk",
+   "Face Lift Express bottom",
+   "Panorama Gondola Upper bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "St. Anton 4",
+   "Broadway Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Cloud Nine Express bottom",
+   "Pumpkin / Holiday",
+   1.8
+  ],
+  [
+   "walk",
+   "Cloud Nine Express bottom",
+   "Goldhill / Unnamed run",
+   0.7
+  ],
+  [
+   "walk",
+   "Cloud Nine Express bottom",
+   "Slot",
+   1.5
+  ],
+  [
+   "walk",
+   "Sesame Street West / Unnamed run",
+   "Discovery Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Discovery Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Broadway Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Panorama Gondola Lower bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Chair 22 top",
+   "Chair 25 top",
+   2.2
+  ],
+  [
+   "walk",
+   "Chair 22 top",
+   "Back For More / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Old Comeback Trail",
+   "Gold Rush Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Old Comeback Trail",
+   "Easy Rider",
+   2.4
+  ],
+  [
+   "walk",
+   "Old Comeback Trail",
+   "Phantoms Escape",
+   3.3
+  ],
+  [
+   "walk",
+   "Old Comeback Trail",
+   "Stump Alley Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Christmas Bowl",
+   "Saddle Bowl",
+   2.3
+  ],
+  [
+   "walk",
+   "Christmas Bowl",
+   "Face Lift Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Christmas Bowl",
+   "Panorama Gondola Upper bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Slot",
+   "Pumpkin / Holiday",
+   1.3
+  ],
+  [
+   "walk",
+   "Slot",
+   "Goldhill / Unnamed run",
+   1.2
+  ],
+  [
+   "walk",
+   "Slot",
+   "Cloud Nine Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Red Tail",
+   "Chair 22 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Broadway",
+   "Stump Alley Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Broadway",
+   "Broadway Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Gus Pasture",
+   2.7
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "St. Anton",
+   2.3
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Forest Trail Park / Saint Moritz",
+   2.7
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Lower Road Runner",
+   2.3
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Main Park Half Pipe / Main Park",
+   2.1
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Saint Moritz 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Main Park",
+   1.7
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Lower Road Runner 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Discovery Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Unbound Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Broadway Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Panorama Gondola Lower bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Commin Through",
+   "Chair 12 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Commin Through",
+   "Discovery Express top",
+   2.7
+  ],
+  [
+   "walk",
+   "West Bowl 2",
+   "Saddle Bowl",
+   3.2
+  ],
+  [
+   "walk",
+   "West Bowl 2",
+   "Face Lift Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "West Bowl 2",
+   "Christmas Bowl",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "High Five Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Chair 20 bottom",
+   "Jibs & More / X-Course 2",
+   1.1
+  ],
+  [
+   "walk",
+   "Chair 20 bottom",
+   "Roller Coaster Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Chair 20 bottom",
+   "South Park",
+   1.6
+  ],
+  [
+   "walk",
+   "Chair 20 bottom",
+   "Gretel 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Chair 20 bottom",
+   "Chair 7 top",
+   2.7
+  ],
+  [
+   "walk",
+   "Chair 20 top",
+   "Unnamed run / South Park",
+   0.6
+  ],
+  [
+   "walk",
+   "Chair 20 top",
+   "Unnamed run / Roller Coaster",
+   1.9
+  ],
+  [
+   "walk",
+   "Chair 20 top",
+   "Jibs & More / X-Course",
+   0.7
+  ],
+  [
+   "walk",
+   "Chair 20 top",
+   "Crosswalk 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Chair 20 top",
+   "Lost In The Woods 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Village Gondola top",
+   "Festival Poma bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Village Gondola top",
+   "Chair 8 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Village Gondola top",
+   "Canyon Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Village Gondola top",
+   "Little Bird",
+   2.9
+  ],
+  [
+   "walk",
+   "Village Gondola top",
+   "Schoolyard Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Village Gondola bottom",
+   "Ski Back Trail 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Chair 23 bottom",
+   "World Cup / Silver Tip",
+   1.1
+  ],
+  [
+   "walk",
+   "Chair 23 bottom",
+   "St. Anton 6",
+   3.2
+  ],
+  [
+   "walk",
+   "Schoolyard Express bottom",
+   "Festival Poma bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Schoolyard Express bottom",
+   "Chair 8 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Schoolyard Express bottom",
+   "Canyon Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Schoolyard Express bottom",
+   "Little Bird",
+   0.9
+  ],
+  [
+   "walk",
+   "Schoolyard Express bottom",
+   "Gretel",
+   2.4
+  ],
+  [
+   "walk",
+   "Schoolyard Express bottom",
+   "Village Gondola top",
+   2.1
+  ],
+  [
+   "walk",
+   "Schoolyard Express bottom",
+   "Chair 7 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Schoolyard Express top",
+   "Little Bird / Roller Coaster",
+   1.7
+  ],
+  [
+   "walk",
+   "Schoolyard Express top",
+   "Spring Canyon / Round About",
+   2.7
+  ],
+  [
+   "walk",
+   "Schoolyard Express top",
+   "Roller Coaster 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Panorama Gondola Upper bottom",
+   "Roger's Ridge",
+   1.4
+  ],
+  [
+   "walk",
+   "Panorama Gondola Upper bottom",
+   "Stump Alley",
+   3.1
+  ],
+  [
+   "walk",
+   "Panorama Gondola Upper bottom",
+   "Saddle Bowl",
+   2.2
+  ],
+  [
+   "walk",
+   "Panorama Gondola Upper bottom",
+   "Roger's Ridge 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Panorama Gondola Upper bottom",
+   "Face Lift Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Panorama Gondola Upper bottom",
+   "Christmas Bowl",
+   2.8
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Gus Pasture",
+   2.9
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Lower Road Runner",
+   1.3
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Saint Moritz 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Main Park",
+   3.0
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Lower Road Runner 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Broadway 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Unbound Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Broadway Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Panorama Gondola Lower bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Discovery Express top",
+   "Commin Through / Unnamed run",
+   2.9
+  ],
+  [
+   "walk",
+   "Discovery Express top",
+   "Lodgepole / Bristlecone",
+   3.3
+  ],
+  [
+   "walk",
+   "Discovery Express top",
+   "Blue Ox / Terry's Run",
+   2.6
+  ],
+  [
+   "walk",
+   "Discovery Express top",
+   "Unnamed run / Sesame Street West",
+   0.6
+  ],
+  [
+   "walk",
+   "Discovery Express top",
+   "Agee's Run / Terry's Run",
+   3.1
+  ],
+  [
+   "walk",
+   "Discovery Express top",
+   "Ponderosa",
+   2.9
+  ],
+  [
+   "walk",
+   "Discovery Express top",
+   "Sesame Street West / Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "Discovery Express top",
+   "Commin Through",
+   2.7
+  ],
+  [
+   "walk",
+   "Chair 13 bottom",
+   "Oops / Surprise 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Chair 13 bottom",
+   "Chair 14 bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Chair 13 bottom",
+   "Arriba",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed run 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Eagle Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Lupin",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed run 5",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift bottom 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed run 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Eagle Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Lupin",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed run 5",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed run / Lupin 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed run 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Eagle Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Lupin",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed run 5",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Chair 12 top",
+   "Chair 13 top",
+   1.3
+  ],
+  [
+   "walk",
+   "Chair 12 top",
+   "Lodgepole",
+   2.8
+  ],
+  [
+   "walk",
+   "Chair 12 top",
+   "Critters / Secret Spot",
+   2.8
+  ],
+  [
+   "walk",
+   "Chair 12 top",
+   "Oops / Surprise",
+   3.5
+  ],
+  [
+   "walk",
+   "Chair 12 top",
+   "Training Wheels / Upper Road Runner",
+   2.0
+  ],
+  [
+   "walk",
+   "Chair 12 top",
+   "Secret Spot",
+   2.4
+  ],
+  [
+   "walk",
+   "Chair 12 top",
+   "New Critters",
+   2.6
+  ],
+  [
+   "walk",
+   "Stump Alley Express top",
+   "Silver Tip",
+   1.4
+  ],
+  [
+   "walk",
+   "Stump Alley Express top",
+   "Broadway",
+   1.4
+  ],
+  [
+   "walk",
+   "Stump Alley Express top",
+   "West Bowl 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Stump Alley Express top",
+   "Broadway Express top",
+   2.4
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Gus Pasture",
+   0.9
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Lower Road Runner",
+   2.9
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Saint Moritz 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Main Park",
+   1.1
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Broadway 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Discovery Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Broadway Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Panorama Gondola Lower bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Gus Pasture",
+   2.6
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Lower Road Runner",
+   1.2
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Saint Moritz 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Main Park",
+   2.3
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Lower Road Runner 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Broadway 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Discovery Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Unbound Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Panorama Gondola Lower bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Broadway Express top",
+   "World Cup / Silver Tip",
+   2.9
+  ],
+  [
+   "walk",
+   "Broadway Express top",
+   "Silver Tip",
+   1.1
+  ],
+  [
+   "walk",
+   "Broadway Express top",
+   "The Wall / Glades",
+   1.6
+  ],
+  [
+   "walk",
+   "Broadway Express top",
+   "Broadway",
+   1.0
+  ],
+  [
+   "walk",
+   "Broadway Express top",
+   "Chair 23 bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Broadway Express top",
+   "Stump Alley Express top",
+   2.4
+  ],
+  [
+   "walk",
+   "Festival Poma top",
+   "Unnamed run",
+   3.2
+  ],
+  [
+   "walk",
+   "Festival Poma top",
+   "Festival Poma bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Festival Poma top",
+   "Chair 8 bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Festival Poma top",
+   "Canyon Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Festival Poma top",
+   "Village Gondola top",
+   2.1
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Gus Pasture",
+   2.2
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Lower Road Runner",
+   2.1
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Saint Moritz 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Main Park",
+   2.6
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Lower Road Runner 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Broadway 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Discovery Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Unbound Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Broadway Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Chair 14 top",
+   "Upper Road Runner 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "Little Bird",
+   1.9
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "Gretel",
+   1.9
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "Schoolyard Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "Roller Coaster Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "Gretel 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "Gretel 3",
+   1.1
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "Chair 20 bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Stump Alley Express top",
+   "Chair 23 bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Festival Poma bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Chair 8 bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Canyon Express bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Village Gondola top",
+   5.8
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Schoolyard Express bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Festival Poma top",
+   6.0
+  ],
+  [
+   "walk",
+   "Festival Poma top",
+   "Schoolyard Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Little Bird",
+   4.0
+  ],
+  [
+   "walk",
+   "Chair 8 bottom",
+   "Little Bird",
+   3.5
+  ],
+  [
+   "walk",
+   "Little Bird",
+   "Chair 8 bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Festival Poma top",
+   "Little Bird",
+   4.8
+  ],
+  [
+   "walk",
+   "Training Wheels / Upper Road Runner",
+   "Lodgepole",
+   6.2
+  ],
+  [
+   "walk",
+   "Training Wheels / Upper Road Runner",
+   "Critters / Secret Spot",
+   4.5
+  ],
+  [
+   "walk",
+   "Training Wheels / Upper Road Runner",
+   "Secret Spot",
+   3.9
+  ],
+  [
+   "walk",
+   "Training Wheels / Upper Road Runner",
+   "New Critters",
+   5.6
+  ],
+  [
+   "walk",
+   "Training Wheels / Upper Road Runner",
+   "Chair 12 top",
+   4.1
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Gus Pasture / Jills Run",
+   4.6
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Gus Pasture / Jills Run",
+   4.9
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Gus Pasture / Jills Run",
+   3.0
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Gus Pasture / Jills Run",
+   4.6
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Gus Pasture / Jills Run",
+   4.2
+  ],
+  [
+   "walk",
+   "Critters",
+   "Chair 12 bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Ponderosa",
+   "Chair 12 bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Discovery Express top",
+   "Chair 12 bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Back For More / Unnamed run",
+   "Havent The Foggiest / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Havent The Foggiest / Unnamed run",
+   "Back For More / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Chair 22 top",
+   "Havent The Foggiest / Unnamed run",
+   3.8
+  ],
+  [
+   "walk",
+   "Critters",
+   "Commin Through / St. Anton",
+   5.4
+  ],
+  [
+   "walk",
+   "Critters",
+   "Unnamed run / Sesame Street West",
+   4.2
+  ],
+  [
+   "walk",
+   "Critters",
+   "Sesame Street West / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "Critters",
+   "Discovery Express top",
+   4.6
+  ],
+  [
+   "walk",
+   "Ponderosa",
+   "Commin Through / St. Anton",
+   4.3
+  ],
+  [
+   "walk",
+   "Ponderosa",
+   "Critters",
+   3.6
+  ],
+  [
+   "walk",
+   "Discovery Express top",
+   "Commin Through / St. Anton",
+   6.3
+  ],
+  [
+   "walk",
+   "Discovery Express top",
+   "Critters",
+   5.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Solitude",
+   "Unnamed run 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Solitude",
+   "Unnamed run / Sunset",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Solitude",
+   "Sunset",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed run / Solitude",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed run / Sunset",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Sunset",
+   4.8
+  ],
+  [
+   "walk",
+   "Havent The Foggiest / Unnamed run",
+   "Unnamed run / Solitude",
+   6.2
+  ],
+  [
+   "walk",
+   "Havent The Foggiest / Unnamed run",
+   "Unnamed run 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Havent The Foggiest / Unnamed run",
+   "Unnamed run / Sunset",
+   5.1
+  ],
+  [
+   "walk",
+   "Havent The Foggiest / Unnamed run",
+   "Sunset",
+   6.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "Unnamed run / Solitude",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "Unnamed run 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "Sunset",
+   5.0
+  ],
+  [
+   "walk",
+   "Ginger Bread / Spring Canyon",
+   "Chair 22 bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Chair 22 bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Village Gondola bottom",
+   "Ski Back Trail",
+   3.8
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Follow Me",
+   4.3
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "South Park 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Follow Me 2",
+   "Follow Me",
+   4.2
+  ],
+  [
+   "walk",
+   "Follow Me 2",
+   "Crosswalk",
+   3.2
+  ],
+  [
+   "walk",
+   "Follow Me 2",
+   "Unnamed run / Wall Street",
+   3.4
+  ],
+  [
+   "walk",
+   "Follow Me 2",
+   "Wall Street",
+   2.6
+  ],
+  [
+   "walk",
+   "Follow Me 2",
+   "Sunset",
+   4.1
+  ],
+  [
+   "walk",
+   "Follow Me 2",
+   "South Park 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Follow Me 2",
+   "Roller Coaster",
+   3.3
+  ],
+  [
+   "walk",
+   "Wall Street",
+   "Follow Me",
+   4.7
+  ],
+  [
+   "walk",
+   "Wall Street",
+   "Follow Me 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Wall Street",
+   "Crosswalk",
+   3.6
+  ],
+  [
+   "walk",
+   "Wall Street",
+   "Unnamed run / Wall Street",
+   3.9
+  ],
+  [
+   "walk",
+   "Wall Street",
+   "Sunset",
+   4.6
+  ],
+  [
+   "walk",
+   "Wall Street",
+   "South Park 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Wall Street",
+   "Roller Coaster",
+   3.7
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Follow Me",
+   6.2
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Follow Me 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Crosswalk",
+   5.2
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Unnamed run / Wall Street",
+   5.2
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Wall Street",
+   4.4
+  ],
+  [
+   "walk",
+   "Sunset",
+   "South Park 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Roller Coaster",
+   5.3
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Lower Road Runner",
+   3.9
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Lower Road Runner 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Fascination",
+   3.2
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "St. Anton 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "St. Anton 4",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park 2",
+   "Unnamed run / South Park",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park 2",
+   "Unnamed run / Roller Coaster",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park 2",
+   "Jibs & More / X-Course",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park 2",
+   "Unnamed run / Lost In The Woods",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park 2",
+   "Lost In The Woods 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Unnamed run / South Park",
+   5.3
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Unnamed run / Roller Coaster",
+   6.5
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Unnamed run / South Park 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Jibs & More / X-Course",
+   5.6
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Unnamed run / Lost In The Woods",
+   3.9
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Lost In The Woods 2",
+   6.5
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Chair 20 top",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Lost In The Woods",
+   "Unnamed run / South Park",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Lost In The Woods",
+   "Unnamed run / Roller Coaster",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Lost In The Woods",
+   "Unnamed run / South Park 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Lost In The Woods",
+   "Jibs & More / X-Course",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Lost In The Woods",
+   "Lost In The Woods 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Crosswalk",
+   "Unnamed run / South Park",
+   5.6
+  ],
+  [
+   "walk",
+   "Crosswalk",
+   "Unnamed run / Roller Coaster",
+   6.7
+  ],
+  [
+   "walk",
+   "Crosswalk",
+   "Unnamed run / South Park 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Crosswalk",
+   "Jibs & More / X-Course",
+   5.9
+  ],
+  [
+   "walk",
+   "Crosswalk",
+   "Unnamed run / Lost In The Woods",
+   4.1
+  ],
+  [
+   "walk",
+   "Crosswalk",
+   "Lost In The Woods 2",
+   6.7
+  ],
+  [
+   "walk",
+   "Crosswalk",
+   "Chair 20 top",
+   5.7
+  ],
+  [
+   "walk",
+   "South Park 2",
+   "Unnamed run / South Park",
+   4.7
+  ],
+  [
+   "walk",
+   "South Park 2",
+   "Unnamed run / Roller Coaster",
+   5.9
+  ],
+  [
+   "walk",
+   "South Park 2",
+   "Unnamed run / South Park 2",
+   3.4
+  ],
+  [
+   "walk",
+   "South Park 2",
+   "Jibs & More / X-Course",
+   5.0
+  ],
+  [
+   "walk",
+   "South Park 2",
+   "Unnamed run / Lost In The Woods",
+   3.3
+  ],
+  [
+   "walk",
+   "South Park 2",
+   "Lost In The Woods 2",
+   5.9
+  ],
+  [
+   "walk",
+   "South Park 2",
+   "Chair 20 top",
+   4.8
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Unnamed run / South Park",
+   5.0
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Unnamed run / Roller Coaster",
+   6.1
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Unnamed run / South Park 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Jibs & More / X-Course",
+   5.3
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Unnamed run / Lost In The Woods",
+   3.6
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Lost In The Woods 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Chair 20 top",
+   5.1
+  ],
+  [
+   "walk",
+   "Face of Five 2",
+   "Chair 21 top",
+   6.1
+  ],
+  [
+   "walk",
+   "Face of Five 2",
+   "Unnamed run / Lost In The Woods",
+   6.8
+  ],
+  [
+   "walk",
+   "Hully Gully / Clover Leaf",
+   "Festival Poma bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Hully Gully / Clover Leaf",
+   "Village Gondola top",
+   4.4
+  ],
+  [
+   "walk",
+   "Hully Gully / Clover Leaf",
+   "Schoolyard Express bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Hully Gully / Clover Leaf",
+   "Little Bird",
+   5.0
+  ],
+  [
+   "walk",
+   "Round Robin 2",
+   "Little Bird",
+   6.8
+  ],
+  [
+   "walk",
+   "Sunshine Glades / Repeat",
+   "Unnamed run / Lupin",
+   3.2
+  ],
+  [
+   "walk",
+   "Sunshine Glades / Repeat",
+   "Chickadee",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Lupin",
+   "Sunshine Glades / Repeat",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Lupin",
+   "Chickadee",
+   2.1
+  ],
+  [
+   "walk",
+   "Chair 8 top",
+   "Sunshine Glades / Repeat",
+   6.0
+  ],
+  [
+   "walk",
+   "Chickadee",
+   "Sunshine Glades / Repeat",
+   3.9
+  ],
+  [
+   "walk",
+   "Chickadee",
+   "Unnamed run / Lupin",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed run / Lupin 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed run / Lupin 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Phantoms Escape",
+   5.8
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Stump Alley Express bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Chair 25 top",
+   "Gold Rush Express top",
+   5.0
+  ],
+  [
+   "walk",
+   "Chair 25 top",
+   "Unnamed run 2",
+   6.5
+  ],
+  [
+   "walk",
+   "Chair 25 top",
+   "Unnamed run / Sunset",
+   6.7
+  ],
+  [
+   "walk",
+   "Back For More / Unnamed run",
+   "Gold Rush Express top",
+   5.9
+  ],
+  [
+   "walk",
+   "Lodgepole / Bristlecone",
+   "Commin Through / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "Lodgepole / Bristlecone",
+   "Secret Spot / Lower Road Runner",
+   3.8
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Ralphie's",
+   2.0
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Main Park",
+   3.9
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Ralphie's",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Grizzly / Follow Me",
+   "Follow Me / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Grizzly / Follow Me",
+   "Eagle Express top",
+   5.9
+  ],
+  [
+   "walk",
+   "Lower Grizzly / Follow Me",
+   "Unnamed run / Lupin",
+   5.5
+  ],
+  [
+   "walk",
+   "Lower Grizzly / Follow Me",
+   "Unnamed run / Redwing",
+   5.3
+  ],
+  [
+   "walk",
+   "Lower Grizzly / Follow Me",
+   "Hully Gully",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Grizzly / Follow Me",
+   "Chickadee",
+   5.8
+  ],
+  [
+   "walk",
+   "Follow Me / Unnamed run",
+   "Eagle Express top",
+   4.1
+  ],
+  [
+   "walk",
+   "Follow Me / Unnamed run",
+   "Unnamed run / Lupin",
+   3.8
+  ],
+  [
+   "walk",
+   "Follow Me / Unnamed run",
+   "Unnamed run / Redwing",
+   3.6
+  ],
+  [
+   "walk",
+   "Follow Me / Unnamed run",
+   "Hully Gully",
+   2.6
+  ],
+  [
+   "walk",
+   "Follow Me / Unnamed run",
+   "Chickadee",
+   4.1
+  ],
+  [
+   "walk",
+   "Follow Me / Unnamed run",
+   "Sunshine Glades / Repeat",
+   6.6
+  ],
+  [
+   "walk",
+   "Follow Me 4",
+   "Follow Me / Unnamed run",
+   4.0
+  ],
+  [
+   "walk",
+   "Follow Me 4",
+   "Eagle Express top",
+   6.9
+  ],
+  [
+   "walk",
+   "Follow Me 4",
+   "Unnamed run / Lupin",
+   6.6
+  ],
+  [
+   "walk",
+   "Follow Me 4",
+   "Unnamed run / Redwing",
+   6.4
+  ],
+  [
+   "walk",
+   "Follow Me 4",
+   "Hully Gully",
+   5.4
+  ],
+  [
+   "walk",
+   "Follow Me 4",
+   "Chickadee",
+   6.9
+  ],
+  [
+   "walk",
+   "Saddle Bowl",
+   "Unbound Express top",
+   4.0
+  ],
+  [
+   "walk",
+   "Panorama Gondola Upper bottom",
+   "Unbound Express top",
+   3.8
+  ],
+  [
+   "walk",
+   "Roller Coaster Express top",
+   "Chair 21 top",
+   5.1
+  ],
+  [
+   "walk",
+   "Roller Coaster Express top",
+   "Unnamed run / South Park 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Roller Coaster Express top",
+   "Unnamed run / Lost In The Woods",
+   5.8
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Chair 21 top",
+   6.2
+  ],
+  [
+   "walk",
+   "Follow Me 2",
+   "Chair 21 top",
+   6.1
+  ],
+  [
+   "walk",
+   "Chair 21 bottom",
+   "Gold Rush Express bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Chair 21 bottom",
+   "Stump Alley Express bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Lost In The Woods",
+   "Gold Rush Express bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Old Comeback Trail",
+   "Chair 21 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Side Show",
+   "Schoolyard Express top",
+   4.7
+  ],
+  [
+   "walk",
+   "Ginger Bread / Spring Canyon",
+   "Chair 8 bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Ginger Bread / Spring Canyon",
+   "Canyon Express bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Commin Through",
+   "Commin Through / Unnamed run",
+   4.9
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Lower Dry Creek",
+   5.4
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Solitude / Unnamed run",
+   4.0
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Unnamed run 4",
+   3.2
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Unnamed run / Coyote",
+   4.9
+  ],
+  [
+   "walk",
+   "Old 10 Breakover / Wall Street",
+   "Unnamed run 7",
+   3.8
+  ],
+  [
+   "walk",
+   "Face of Five 2",
+   "Lower Dry Creek",
+   4.8
+  ],
+  [
+   "walk",
+   "Face of Five 2",
+   "Unnamed run / Coyote",
+   4.2
+  ],
+  [
+   "walk",
+   "Sunset / Solitude",
+   "Lower Dry Creek",
+   5.9
+  ],
+  [
+   "walk",
+   "Sunset / Solitude",
+   "Solitude / Unnamed run",
+   4.5
+  ],
+  [
+   "walk",
+   "Sunset / Solitude",
+   "Unnamed run 4",
+   3.7
+  ],
+  [
+   "walk",
+   "Sunset / Solitude",
+   "Unnamed run / Coyote",
+   5.3
+  ],
+  [
+   "walk",
+   "Sunset / Solitude",
+   "Unnamed run 7",
+   4.2
+  ],
+  [
+   "walk",
+   "Solitude / Unnamed run",
+   "Lower Dry Creek",
+   4.4
+  ],
+  [
+   "walk",
+   "Solitude / Unnamed run",
+   "Unnamed run 4",
+   2.2
+  ],
+  [
+   "walk",
+   "Solitude / Unnamed run",
+   "Unnamed run / Coyote",
+   3.9
+  ],
+  [
+   "walk",
+   "Solitude / Unnamed run",
+   "Unnamed run 7",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Lower Dry Creek",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Solitude / Unnamed run",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Unnamed run / Coyote",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Unnamed run 7",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Coyote",
+   "Lower Dry Creek",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Coyote",
+   "Solitude / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Coyote",
+   "Unnamed run 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Coyote",
+   "Unnamed run 7",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Lower Dry Creek",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Solitude / Unnamed run",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Unnamed run 4",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Unnamed run / Coyote",
+   3.6
+  ],
+  [
+   "walk",
+   "Gold Rush Express bottom",
+   "Old Comeback Trail",
+   5.8
+  ],
+  [
+   "walk",
+   "Stump Alley Express bottom",
+   "Old Comeback Trail",
+   4.6
+  ],
+  [
+   "walk",
+   "Roller Coaster 2",
+   "Schoolyard Express top",
+   2.7
+  ],
+  [
+   "walk",
+   "Festival Poma bottom",
+   "Gretel",
+   4.7
+  ],
+  [
+   "walk",
+   "Festival Poma bottom",
+   "Chair 7 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Canyon Express bottom",
+   "Gretel",
+   3.6
+  ],
+  [
+   "walk",
+   "Canyon Express bottom",
+   "Chair 7 bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Gretel",
+   "Festival Poma bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Gretel",
+   "Canyon Express bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Gretel",
+   "Village Gondola top",
+   4.5
+  ],
+  [
+   "walk",
+   "Gretel",
+   "Chair 8 bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Village Gondola top",
+   "Gretel",
+   4.5
+  ],
+  [
+   "walk",
+   "Village Gondola top",
+   "Chair 7 bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "Festival Poma bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "Canyon Express bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "Village Gondola top",
+   4.0
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "Chair 8 bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Gretel",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Chair 7 bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Chair 8 bottom",
+   "Gretel",
+   5.1
+  ],
+  [
+   "walk",
+   "Chair 8 bottom",
+   "Chair 7 bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Festival Poma top",
+   "Gretel",
+   6.4
+  ],
+  [
+   "walk",
+   "Festival Poma top",
+   "Chair 7 bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Hully Gully / Clover Leaf",
+   "Gretel",
+   6.6
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Main Park Half Pipe / Main Park",
+   3.9
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Main Park Half Pipe / Main Park",
+   4.4
+  ],
+  [
+   "walk",
+   "Jibs & More / X-Course 2",
+   "Gretel 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Jibs & More / X-Course 2",
+   "Chair 7 top",
+   3.8
+  ],
+  [
+   "walk",
+   "South Park",
+   "Gretel 3",
+   3.5
+  ],
+  [
+   "walk",
+   "South Park",
+   "Chair 7 top",
+   3.6
+  ],
+  [
+   "walk",
+   "Spring Canyon / Round About",
+   "Jibs & More / X-Course 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Spring Canyon / Round About",
+   "South Park",
+   5.2
+  ],
+  [
+   "walk",
+   "Spring Canyon / Round About",
+   "Gretel 3",
+   5.1
+  ],
+  [
+   "walk",
+   "Spring Canyon / Round About",
+   "Chair 20 bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Spring Canyon / Round About",
+   "Chair 7 top",
+   5.2
+  ],
+  [
+   "walk",
+   "Gretel 3",
+   "Jibs & More / X-Course 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Gretel 3",
+   "South Park",
+   3.5
+  ],
+  [
+   "walk",
+   "Roller Coaster 2",
+   "Gretel 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Roller Coaster 2",
+   "Chair 7 top",
+   4.8
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "Jibs & More / X-Course 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "South Park",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Lupin 2",
+   "Unnamed run 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Lupin 2",
+   "Lupin",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Lupin 2",
+   "Unnamed run 5",
+   3.1
+  ],
+  [
+   "walk",
+   "Lupin",
+   "Unnamed run / Lupin 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Lupin",
+   "Unnamed run 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Lupin",
+   "Unnamed run 5",
+   2.3
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Discovery Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Unbound Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Panorama Gondola Lower bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Discovery Express bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Unbound Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Panorama Gondola Lower bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Lower Road Runner 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Lower Road Runner 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Discovery Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Unbound Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Panorama Gondola Lower bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Schoolyard Express top",
+   "Roller Coaster Express bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Gold Rush Express top",
+   "Roller Coaster Express top",
+   6.4
+  ],
+  [
+   "walk",
+   "Gold Rush Express top",
+   "Canyon Express top",
+   5.7
+  ],
+  [
+   "walk",
+   "Roller Coaster Express top",
+   "Canyon Express top",
+   5.4
+  ],
+  [
+   "walk",
+   "Follow Me 2",
+   "Canyon Express top",
+   6.5
+  ],
+  [
+   "walk",
+   "Wall Street",
+   "Canyon Express top",
+   6.9
+  ],
+  [
+   "walk",
+   "Lodgepole / Bristlecone",
+   "Chair 12 bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Discovery Express top",
+   "Secret Spot / Lower Road Runner",
+   6.0
+  ],
+  [
+   "walk",
+   "Face Lift Express bottom",
+   "Roger's Ridge",
+   3.9
+  ],
+  [
+   "walk",
+   "Face Lift Express bottom",
+   "Stump Alley",
+   4.5
+  ],
+  [
+   "walk",
+   "Face Lift Express bottom",
+   "Unbound Express top",
+   5.3
+  ],
+  [
+   "walk",
+   "Christmas Bowl",
+   "Roger's Ridge",
+   4.1
+  ],
+  [
+   "walk",
+   "Christmas Bowl",
+   "Stump Alley",
+   5.5
+  ],
+  [
+   "walk",
+   "Christmas Bowl",
+   "Unbound Express top",
+   6.3
+  ],
+  [
+   "walk",
+   "West Bowl 2",
+   "Roger's Ridge",
+   6.3
+  ],
+  [
+   "walk",
+   "West Bowl 2",
+   "Stump Alley",
+   6.4
+  ],
+  [
+   "walk",
+   "West Bowl 2",
+   "Panorama Gondola Upper bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Wall Street / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Lost In The Woods",
+   3.1
+  ],
+  [
+   "walk",
+   "Wall Street / Unnamed run",
+   "Easy Rider",
+   3.0
+  ],
+  [
+   "walk",
+   "Wall Street / Unnamed run",
+   "Lost In The Woods",
+   2.1
+  ],
+  [
+   "walk",
+   "Wall Street / Unnamed run",
+   "Gold Rush Express bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Easy Rider 2",
+   "Easy Rider",
+   5.1
+  ],
+  [
+   "walk",
+   "Easy Rider 2",
+   "Wall Street / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Easy Rider 2",
+   "Lost In The Woods",
+   4.2
+  ],
+  [
+   "walk",
+   "Old Comeback Trail",
+   "Wall Street / Unnamed run",
+   5.4
+  ],
+  [
+   "walk",
+   "Old Comeback Trail",
+   "Lost In The Woods",
+   5.5
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Forest Trail Park / Saint Moritz",
+   1.4
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Main Park Half Pipe / Main Park",
+   2.1
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Forest Trail Park / Saint Moritz",
+   3.7
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Main Park Half Pipe / Main Park",
+   3.9
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Forest Trail Park / Saint Moritz",
+   1.6
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Main Park Half Pipe / Main Park",
+   2.0
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Forest Trail Park / Saint Moritz",
+   3.3
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Main Park Half Pipe / Main Park",
+   3.2
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Forest Trail Park / Saint Moritz",
+   3.2
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Main Park Half Pipe / Main Park",
+   3.5
+  ],
+  [
+   "walk",
+   "Roger's Ridge",
+   "The Wall / Broadway",
+   5.2
+  ],
+  [
+   "walk",
+   "Roger's Ridge",
+   "Forest Trail Park / Mambo",
+   4.5
+  ],
+  [
+   "walk",
+   "Roger's Ridge",
+   "Stump Alley",
+   3.6
+  ],
+  [
+   "walk",
+   "Roger's Ridge",
+   "Stump Alley 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Stump Alley",
+   "The Wall / Broadway",
+   3.2
+  ],
+  [
+   "walk",
+   "Stump Alley",
+   "Forest Trail Park / Mambo",
+   2.4
+  ],
+  [
+   "walk",
+   "Stump Alley",
+   "Stump Alley 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Saddle Bowl",
+   "The Wall / Broadway",
+   6.4
+  ],
+  [
+   "walk",
+   "Saddle Bowl",
+   "Forest Trail Park / Mambo",
+   5.6
+  ],
+  [
+   "walk",
+   "Saddle Bowl",
+   "Stump Alley 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Panorama Gondola Upper bottom",
+   "The Wall / Broadway",
+   6.2
+  ],
+  [
+   "walk",
+   "Panorama Gondola Upper bottom",
+   "Forest Trail Park / Mambo",
+   5.5
+  ],
+  [
+   "walk",
+   "Panorama Gondola Upper bottom",
+   "Stump Alley 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Face Lift Express bottom",
+   "Forest Trail Park / Mambo",
+   6.9
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Lower Road Runner",
+   3.8
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Lower Road Runner 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Gus Pasture / Jills Run",
+   6.4
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Gus Pasture",
+   4.6
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Forest Trail Park / Saint Moritz",
+   4.4
+  ],
+  [
+   "walk",
+   "Fascination",
+   "Saint Moritz 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Gus Pasture / Jills Run",
+   6.0
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Gus Pasture",
+   4.4
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Forest Trail Park / Saint Moritz",
+   4.0
+  ],
+  [
+   "walk",
+   "Ralphie's",
+   "Saint Moritz 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Gus Pasture / Jills Run",
+   5.9
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Gus Pasture",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Forest Trail Park / Saint Moritz",
+   4.5
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Main Park Half Pipe / Main Park",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Saint Moritz 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Lower Road Runner",
+   3.7
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Lower Road Runner 2",
+   4.3
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Gus Pasture",
+   5.0
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Forest Trail Park / Saint Moritz",
+   4.9
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Saint Moritz 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Ginger Bread / Spring Canyon",
+   "Schoolyard Express bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Canyon Express top",
+   "Unnamed run / Lost In The Woods",
+   6.9
+  ],
+  [
+   "walk",
+   "Follow Me 2",
+   "Unnamed run / Lost In The Woods",
+   6.8
+  ],
+  [
+   "walk",
+   "Wall Street",
+   "Chair 21 top",
+   6.6
+  ],
+  [
+   "walk",
+   "Downhill / Clover Leaf",
+   "Lower Grizzly / Clover Leaf",
+   3.3
+  ],
+  [
+   "walk",
+   "Downhill / Clover Leaf",
+   "Unnamed run / Swell",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower Grizzly / Clover Leaf",
+   "Unnamed run / Swell",
+   5.0
+  ],
+  [
+   "walk",
+   "Red Tail / Hully Gully",
+   "Lower Grizzly / Clover Leaf",
+   3.5
+  ],
+  [
+   "walk",
+   "Red Tail / Hully Gully",
+   "Unnamed run / Swell",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Grizzly",
+   "Lower Grizzly / Clover Leaf",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Grizzly",
+   "Unnamed run / Swell",
+   5.8
+  ],
+  [
+   "walk",
+   "Downhill 3",
+   "Lower Grizzly / Clover Leaf",
+   4.4
+  ],
+  [
+   "walk",
+   "Downhill 3",
+   "Unnamed run / Swell",
+   5.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Swell",
+   "Lower Grizzly / Clover Leaf",
+   5.0
+  ],
+  [
+   "walk",
+   "Red Tail",
+   "Lower Grizzly / Clover Leaf",
+   4.0
+  ],
+  [
+   "walk",
+   "Red Tail",
+   "Unnamed run / Swell",
+   5.5
+  ],
+  [
+   "walk",
+   "Schoolyard Express top",
+   "Jibs & More / X-Course 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Schoolyard Express top",
+   "South Park",
+   3.8
+  ],
+  [
+   "walk",
+   "Schoolyard Express top",
+   "Chair 20 bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Schoolyard Express top",
+   "Gretel 3",
+   6.9
+  ],
+  [
+   "walk",
+   "Ricochet",
+   "Ricochet 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Ricochet 3",
+   "Ricochet",
+   1.7
+  ],
+  [
+   "walk",
+   "Ginger Bread / Spring Canyon",
+   "Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Ginger Bread / Spring Canyon",
+   "Festival Poma bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "East Bowl / Center Bowl",
+   "Saddle Bowl",
+   4.3
+  ],
+  [
+   "walk",
+   "East Bowl / Center Bowl",
+   "Christmas Bowl",
+   4.1
+  ],
+  [
+   "walk",
+   "East Bowl / Center Bowl",
+   "Panorama Gondola Upper bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Pumpkin / Holiday",
+   "Goldhill / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Pumpkin / Holiday",
+   "Slot",
+   3.2
+  ],
+  [
+   "walk",
+   "Goldhill / Unnamed run",
+   "Pumpkin / Holiday",
+   2.4
+  ],
+  [
+   "walk",
+   "Goldhill / Unnamed run",
+   "Slot",
+   2.1
+  ],
+  [
+   "walk",
+   "Easy Over",
+   "Gold Rush Express bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Easy Over",
+   "Easy Rider",
+   5.8
+  ],
+  [
+   "walk",
+   "Easy Over",
+   "Phantoms Escape",
+   6.7
+  ],
+  [
+   "walk",
+   "Easy Over",
+   "Stump Alley Express bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Phantoms Escape",
+   "Easy Rider",
+   5.7
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "St. Anton",
+   5.0
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "Fascination",
+   6.0
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "St. Anton 2",
+   6.3
+  ],
+  [
+   "walk",
+   "Gus Pasture",
+   "St. Anton 4",
+   5.6
+  ],
+  [
+   "walk",
+   "St. Anton",
+   "Gus Pasture / Jills Run",
+   6.9
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "St. Anton",
+   4.6
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Fascination",
+   5.5
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "St. Anton 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "St. Anton 4",
+   5.2
+  ],
+  [
+   "walk",
+   "Lower Road Runner",
+   "Ralphie's",
+   6.6
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "St. Anton",
+   4.6
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Fascination",
+   5.5
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "St. Anton 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "St. Anton 4",
+   5.2
+  ],
+  [
+   "walk",
+   "Saint Moritz 2",
+   "Ralphie's",
+   6.6
+  ],
+  [
+   "walk",
+   "Main Park",
+   "St. Anton",
+   3.9
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Fascination",
+   4.9
+  ],
+  [
+   "walk",
+   "Main Park",
+   "St. Anton 2",
+   5.2
+  ],
+  [
+   "walk",
+   "Main Park",
+   "St. Anton 4",
+   4.6
+  ],
+  [
+   "walk",
+   "Main Park",
+   "Ralphie's",
+   6.0
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "St. Anton",
+   4.8
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Fascination",
+   5.7
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "St. Anton 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "St. Anton 4",
+   5.4
+  ],
+  [
+   "walk",
+   "Discovery Express bottom",
+   "Ralphie's",
+   6.8
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "St. Anton",
+   4.2
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Fascination",
+   5.1
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "St. Anton 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "St. Anton 4",
+   4.8
+  ],
+  [
+   "walk",
+   "Unbound Express bottom",
+   "Ralphie's",
+   6.2
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "St. Anton",
+   3.8
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Fascination",
+   4.8
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "St. Anton 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "St. Anton 4",
+   4.4
+  ],
+  [
+   "walk",
+   "Broadway Express bottom",
+   "Ralphie's",
+   5.9
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "St. Anton",
+   4.9
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Fascination",
+   5.8
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "St. Anton 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "St. Anton 4",
+   5.5
+  ],
+  [
+   "walk",
+   "Panorama Gondola Lower bottom",
+   "Ralphie's",
+   6.9
+  ],
+  [
+   "walk",
+   "Stump Alley Express top",
+   "Saddle Bowl",
+   5.4
+  ],
+  [
+   "walk",
+   "Stump Alley Express top",
+   "Face Lift Express bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Stump Alley Express top",
+   "Christmas Bowl",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park",
+   "Unnamed run / Roller Coaster",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park",
+   "Jibs & More / X-Course",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park",
+   "Crosswalk 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park",
+   "Lost In The Woods 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Roller Coaster",
+   "Unnamed run / South Park",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Roller Coaster",
+   "Jibs & More / X-Course",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Roller Coaster",
+   "Crosswalk 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Roller Coaster",
+   "Lost In The Woods 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Chair 21 top",
+   "Crosswalk 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run / South Park 2",
+   "Crosswalk 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Jibs & More / X-Course",
+   "Unnamed run / South Park",
+   1.3
+  ],
+  [
+   "walk",
+   "Jibs & More / X-Course",
+   "Unnamed run / Roller Coaster",
+   2.6
+  ],
+  [
+   "walk",
+   "Jibs & More / X-Course",
+   "Crosswalk 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Jibs & More / X-Course",
+   "Lost In The Woods 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Lost In The Woods",
+   "Crosswalk 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Crosswalk 2",
+   "Unnamed run / South Park",
+   3.7
+  ],
+  [
+   "walk",
+   "Crosswalk 2",
+   "Unnamed run / Roller Coaster",
+   5.0
+  ],
+  [
+   "walk",
+   "Crosswalk 2",
+   "Jibs & More / X-Course",
+   3.7
+  ],
+  [
+   "walk",
+   "Crosswalk 2",
+   "Lost In The Woods 2",
+   6.0
+  ],
+  [
+   "walk",
+   "World Cup / Silver Tip",
+   "St. Anton 6",
+   4.3
+  ],
+  [
+   "walk",
+   "Silver Tip",
+   "World Cup / Silver Tip",
+   3.9
+  ],
+  [
+   "walk",
+   "Silver Tip",
+   "St. Anton 6",
+   6.0
+  ],
+  [
+   "walk",
+   "Broadway Express top",
+   "St. Anton 6",
+   6.4
+  ],
+  [
+   "walk",
+   "Stump Alley Express top",
+   "World Cup / Silver Tip",
+   5.3
+  ],
+  [
+   "walk",
+   "Little Bird 2",
+   "Festival Poma bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Little Bird 2",
+   "Chair 8 bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Little Bird 2",
+   "Canyon Express bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Little Bird 2",
+   "Little Bird",
+   4.4
+  ],
+  [
+   "walk",
+   "Little Bird 2",
+   "Gretel",
+   5.8
+  ],
+  [
+   "walk",
+   "Little Bird 2",
+   "Village Gondola top",
+   5.6
+  ],
+  [
+   "walk",
+   "Little Bird 2",
+   "Chair 7 bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Hully Gully / Clover Leaf",
+   "Chair 7 bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Downhill",
+   "Little Bird / Roller Coaster",
+   5.1
+  ],
+  [
+   "walk",
+   "Downhill",
+   "Spring Canyon / Round About",
+   6.0
+  ],
+  [
+   "walk",
+   "Downhill",
+   "Roller Coaster 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Little Bird / Roller Coaster",
+   "Spring Canyon / Round About",
+   4.4
+  ],
+  [
+   "walk",
+   "Little Bird / Roller Coaster",
+   "Roller Coaster 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Little Bird / Roller Coaster",
+   "Jibs & More / X-Course 2",
+   6.4
+  ],
+  [
+   "walk",
+   "Little Bird / Roller Coaster",
+   "South Park",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Round Robin",
+   "Little Bird / Roller Coaster",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Round Robin",
+   "Spring Canyon / Round About",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Round Robin",
+   "Roller Coaster 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Round Robin",
+   "Jibs & More / X-Course 2",
+   6.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Round Robin",
+   "South Park",
+   5.7
+  ],
+  [
+   "walk",
+   "Round Robin",
+   "Little Bird / Roller Coaster",
+   4.6
+  ],
+  [
+   "walk",
+   "Round Robin",
+   "Spring Canyon / Round About",
+   5.6
+  ],
+  [
+   "walk",
+   "Round Robin",
+   "Roller Coaster 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Round Robin",
+   "South Park",
+   6.7
+  ],
+  [
+   "walk",
+   "Side Show",
+   "Little Bird / Roller Coaster",
+   6.5
+  ],
+  [
+   "walk",
+   "Side Show",
+   "Roller Coaster 2",
+   6.9
+  ],
+  [
+   "walk",
+   "Roger's Ridge",
+   "Saddle Bowl",
+   3.6
+  ],
+  [
+   "walk",
+   "Roger's Ridge",
+   "Roger's Ridge 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Roger's Ridge",
+   "Face Lift Express bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Roger's Ridge",
+   "Christmas Bowl",
+   4.1
+  ],
+  [
+   "walk",
+   "Saddle Bowl",
+   "Roger's Ridge 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Face Lift Express bottom",
+   "Roger's Ridge 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Christmas Bowl",
+   "Roger's Ridge 2",
+   6.2
+  ],
+  [
+   "walk",
+   "East Bowl / Center Bowl",
+   "Roger's Ridge",
+   6.8
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Gus Pasture",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Lower Road Runner",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Saint Moritz 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Main Park",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Broadway 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Unbound Express bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Gus Pasture / Jills Run",
+   6.5
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Forest Trail Park / Saint Moritz",
+   5.1
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Main Park Half Pipe / Main Park",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "St. Anton",
+   5.7
+  ],
+  [
+   "walk",
+   "Lodgepole / Bristlecone",
+   "Blue Ox / Terry's Run",
+   5.8
+  ],
+  [
+   "walk",
+   "Lodgepole / Bristlecone",
+   "Agee's Run / Terry's Run",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Sesame Street West",
+   "Commin Through / Unnamed run",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Sesame Street West",
+   "Lodgepole / Bristlecone",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Sesame Street West",
+   "Blue Ox / Terry's Run",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Sesame Street West",
+   "Agee's Run / Terry's Run",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Sesame Street West",
+   "Ponderosa",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Sesame Street West",
+   "Sesame Street West / Unnamed run",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Sesame Street West",
+   "Commin Through",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Sesame Street West",
+   "Chair 12 bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Sesame Street West",
+   "Critters",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Sesame Street West",
+   "Secret Spot / Lower Road Runner",
+   6.6
+  ],
+  [
+   "walk",
+   "Agee's Run / Terry's Run",
+   "Commin Through / Unnamed run",
+   6.0
+  ],
+  [
+   "walk",
+   "Agee's Run / Terry's Run",
+   "Lodgepole / Bristlecone",
+   6.3
+  ],
+  [
+   "walk",
+   "Agee's Run / Terry's Run",
+   "Blue Ox / Terry's Run",
+   5.6
+  ],
+  [
+   "walk",
+   "Agee's Run / Terry's Run",
+   "Unnamed run / Sesame Street West",
+   3.7
+  ],
+  [
+   "walk",
+   "Agee's Run / Terry's Run",
+   "Ponderosa",
+   6.0
+  ],
+  [
+   "walk",
+   "Agee's Run / Terry's Run",
+   "Sesame Street West / Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Agee's Run / Terry's Run",
+   "Commin Through",
+   5.7
+  ],
+  [
+   "walk",
+   "Ponderosa",
+   "Blue Ox / Terry's Run",
+   5.5
+  ],
+  [
+   "walk",
+   "Ponderosa",
+   "Agee's Run / Terry's Run",
+   6.0
+  ],
+  [
+   "walk",
+   "Sesame Street West / Unnamed run",
+   "Commin Through / Unnamed run",
+   3.5
+  ],
+  [
+   "walk",
+   "Sesame Street West / Unnamed run",
+   "Lodgepole / Bristlecone",
+   3.9
+  ],
+  [
+   "walk",
+   "Sesame Street West / Unnamed run",
+   "Blue Ox / Terry's Run",
+   3.2
+  ],
+  [
+   "walk",
+   "Sesame Street West / Unnamed run",
+   "Unnamed run / Sesame Street West",
+   1.2
+  ],
+  [
+   "walk",
+   "Sesame Street West / Unnamed run",
+   "Agee's Run / Terry's Run",
+   3.7
+  ],
+  [
+   "walk",
+   "Sesame Street West / Unnamed run",
+   "Ponderosa",
+   3.5
+  ],
+  [
+   "walk",
+   "Sesame Street West / Unnamed run",
+   "Commin Through",
+   3.3
+  ],
+  [
+   "walk",
+   "Sesame Street West / Unnamed run",
+   "Chair 12 bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Sesame Street West / Unnamed run",
+   "Commin Through / St. Anton",
+   6.9
+  ],
+  [
+   "walk",
+   "Sesame Street West / Unnamed run",
+   "Critters",
+   6.3
+  ],
+  [
+   "walk",
+   "Sesame Street West / Unnamed run",
+   "Secret Spot / Lower Road Runner",
+   6.6
+  ],
+  [
+   "walk",
+   "Commin Through",
+   "Lodgepole / Bristlecone",
+   5.9
+  ],
+  [
+   "walk",
+   "Commin Through",
+   "Blue Ox / Terry's Run",
+   5.2
+  ],
+  [
+   "walk",
+   "Commin Through",
+   "Unnamed run / Sesame Street West",
+   3.3
+  ],
+  [
+   "walk",
+   "Commin Through",
+   "Agee's Run / Terry's Run",
+   5.7
+  ],
+  [
+   "walk",
+   "Commin Through",
+   "Ponderosa",
+   5.6
+  ],
+  [
+   "walk",
+   "Commin Through",
+   "Sesame Street West / Unnamed run",
+   3.3
+  ],
+  [
+   "walk",
+   "Chair 13 top",
+   "Oops / Surprise",
+   4.8
+  ],
+  [
+   "walk",
+   "Silver Tip",
+   "Broadway",
+   2.1
+  ],
+  [
+   "walk",
+   "Silver Tip",
+   "West Bowl 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Silver Tip",
+   "Saddle Bowl",
+   6.8
+  ],
+  [
+   "walk",
+   "Silver Tip",
+   "Face Lift Express bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Broadway",
+   "Silver Tip",
+   2.1
+  ],
+  [
+   "walk",
+   "Broadway",
+   "West Bowl 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Broadway",
+   "Chair 23 bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Broadway",
+   "Saddle Bowl",
+   6.8
+  ],
+  [
+   "walk",
+   "Broadway",
+   "Face Lift Express bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Broadway",
+   "World Cup / Silver Tip",
+   4.0
+  ],
+  [
+   "walk",
+   "Broadway Express top",
+   "West Bowl 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Gus Pasture / Jills Run",
+   "Gus Pasture",
+   3.9
+  ],
+  [
+   "walk",
+   "Gus Pasture / Jills Run",
+   "Lower Road Runner",
+   5.9
+  ],
+  [
+   "walk",
+   "Gus Pasture / Jills Run",
+   "Saint Moritz 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Gus Pasture / Jills Run",
+   "Main Park",
+   4.0
+  ],
+  [
+   "walk",
+   "Gus Pasture / Jills Run",
+   "Broadway 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Gus Pasture / Jills Run",
+   "Discovery Express bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Gus Pasture / Jills Run",
+   "Broadway Express bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Gus Pasture / Jills Run",
+   "Panorama Gondola Lower bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Gus Pasture / Jills Run",
+   "Lower Road Runner 2",
+   6.5
+  ],
+  [
+   "walk",
+   "Gus Pasture / Jills Run",
+   "Forest Trail Park / Saint Moritz",
+   4.6
+  ],
+  [
+   "walk",
+   "Gus Pasture / Jills Run",
+   "Main Park Half Pipe / Main Park",
+   4.9
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Gus Pasture",
+   2.5
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Lower Road Runner",
+   4.4
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Saint Moritz 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Main Park",
+   2.6
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Broadway 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Discovery Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Gus Pasture / Jills Run",
+   4.6
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Lower Road Runner 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Main Park Half Pipe / Main Park",
+   3.6
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "St. Anton",
+   5.8
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "Fascination",
+   6.7
+  ],
+  [
+   "walk",
+   "Forest Trail Park / Saint Moritz",
+   "St. Anton 4",
+   6.4
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "Gus Pasture",
+   2.9
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "Lower Road Runner",
+   4.3
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "Saint Moritz 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "Main Park",
+   3.0
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "Broadway 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "Discovery Express bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "Panorama Gondola Lower bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "Gus Pasture / Jills Run",
+   4.9
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "Lower Road Runner 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "Forest Trail Park / Saint Moritz",
+   3.6
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "St. Anton",
+   6.1
+  ],
+  [
+   "walk",
+   "Main Park Half Pipe / Main Park",
+   "St. Anton 4",
+   6.7
+  ],
+  [
+   "walk",
+   "St. Anton 4",
+   "Gus Pasture",
+   5.9
+  ],
+  [
+   "walk",
+   "St. Anton 4",
+   "Lower Road Runner",
+   4.6
+  ],
+  [
+   "walk",
+   "St. Anton 4",
+   "Saint Moritz 2",
+   5.9
+  ],
+  [
+   "walk",
+   "St. Anton 4",
+   "Main Park",
+   5.6
+  ],
+  [
+   "walk",
+   "St. Anton 4",
+   "Lower Road Runner 2",
+   5.2
+  ],
+  [
+   "walk",
+   "St. Anton 4",
+   "Broadway 2",
+   4.9
+  ],
+  [
+   "walk",
+   "St. Anton 4",
+   "Discovery Express bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "St. Anton 4",
+   "Unbound Express bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "St. Anton 4",
+   "Panorama Gondola Lower bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "St. Anton 4",
+   "Forest Trail Park / Saint Moritz",
+   6.6
+  ],
+  [
+   "walk",
+   "St. Anton 4",
+   "Main Park Half Pipe / Main Park",
+   6.6
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "Fascination",
+   6.6
+  ],
+  [
+   "walk",
+   "Lower Road Runner 2",
+   "St. Anton 4",
+   6.3
+  ],
+  [
+   "walk",
+   "Silver Tip",
+   "The Wall / Glades",
+   2.7
+  ],
+  [
+   "walk",
+   "Broadway",
+   "The Wall / Glades",
+   2.7
+  ],
+  [
+   "walk",
+   "Stump Alley Express top",
+   "The Wall / Glades",
+   4.0
+  ],
+  [
+   "walk",
+   "Roller Coaster Express bottom",
+   "Gretel 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Gretel 3",
+   "Gretel 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Chair 20 bottom",
+   "Gretel 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Jibs & More / X-Course 2",
+   "Gretel 2",
+   6.0
+  ],
+  [
+   "walk",
+   "South Park",
+   "Gretel 2",
+   5.8
+  ]
+ ],
+ "base": "Chair 8 bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "California",
+  "total_lifts": "27",
+  "downhill_trails": "184",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

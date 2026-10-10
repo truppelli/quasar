@@ -1,0 +1,11811 @@
+{
+ "name": "Park City Mountain Resort",
+ "source": "OpenSkiMap ski area 3dad9d62b112c018cb658fd1eb49bcd41c96f257",
+ "origin_lonlat": [
+  -111.55068401314738,
+  40.654548867791895
+ ],
+ "nodes": {
+  "Fright Gully / Moraine": [
+   -3451,
+   543,
+   2866.2
+  ],
+  "Fright Gully / Moraine 2": [
+   -2956,
+   584,
+   2694.8
+  ],
+  "Heavy Metal / Mercury": [
+   33,
+   537,
+   2596.9
+  ],
+  "Heavy Metal / Lead Foot": [
+   41,
+   928,
+   2414.6
+  ],
+  "Gold Finger / Platinum Woods": [
+   -46,
+   584,
+   2577.5
+  ],
+  "Dreamcatcher bottom": [
+   -599,
+   516,
+   2368.9
+  ],
+  "McConkey's Hi-Speed Six-Pack top": [
+   1410,
+   -4660,
+   2954.3
+  ],
+  "Eagle Lift bottom": [
+   3402,
+   -173,
+   2109.2
+  ],
+  "Aspen Grove / Moraine": [
+   -3005,
+   500,
+   2713.4
+  ],
+  "Aspen Grove / Moraine 2": [
+   -2610,
+   702,
+   2597.2
+  ],
+  "Road To Thaynes Canyon / Climax": [
+   2105,
+   -631,
+   2313.9
+  ],
+  "King Con Express bottom": [
+   2007,
+   -319,
+   2217.7
+  ],
+  "Backstreet / Oops": [
+   -1465,
+   -328,
+   2656.2
+  ],
+  "Backstreet": [
+   -1587,
+   41,
+   2610.0
+  ],
+  "Crescent Hi-Speed Quad bottom": [
+   3558,
+   -475,
+   2132.9
+  ],
+  "Creole / King's Crown": [
+   3818,
+   -1446,
+   2368.4
+  ],
+  "Creole / Quit 'N Time": [
+   4304,
+   -945,
+   2159.1
+  ],
+  "Orange Bubble Express top": [
+   -3110,
+   2948,
+   2570.6
+  ],
+  "Echo / Eclipse": [
+   -2425,
+   3517,
+   2343.9
+  ],
+  "Unnamed run": [
+   2543,
+   -2671,
+   2661.8
+  ],
+  "Unnamed run / Silver Skis": [
+   2915,
+   -2261,
+   2597.2
+  ],
+  "Sun Peak Express top": [
+   -3239,
+   3140,
+   2631.3
+  ],
+  "Tree Time / EZ Street": [
+   -3311,
+   3427,
+   2493.1
+  ],
+  "Silverado / Doc's Run": [
+   -1941,
+   3224,
+   2517.9
+  ],
+  "Silverado / Eagle": [
+   -1537,
+   3344,
+   2294.2
+  ],
+  "Dreamcatcher top": [
+   -1102,
+   -614,
+   2822.9
+  ],
+  "Trance / Off Ramp": [
+   -197,
+   -789,
+   2553.6
+  ],
+  "Silverlode Hi-Speed Six-Pack top": [
+   1783,
+   -3108,
+   2824.1
+  ],
+  "Unnamed run / Parley's Park": [
+   1729,
+   -3127,
+   2816.9
+  ],
+  "Georgeanna / Woodside": [
+   1879,
+   -3987,
+   2704.8
+  ],
+  "Thaynes Lift top": [
+   1503,
+   -3675,
+   2857.3
+  ],
+  "Lucky Boy / Mid Mtn": [
+   2243,
+   -3468,
+   2637.3
+  ],
+  "Creole": [
+   3887,
+   -1399,
+   2350.7
+  ],
+  "Unnamed run / Mainline": [
+   -2319,
+   2566,
+   2453.0
+  ],
+  "Short Cut bottom": [
+   -2093,
+   2760,
+   2423.1
+  ],
+  "Mainline / Gallery": [
+   -3115,
+   2742,
+   2548.2
+  ],
+  "High Card / Chance": [
+   2303,
+   -1376,
+   2524.7
+  ],
+  "High Card / Broadway": [
+   1971,
+   -1290,
+   2399.3
+  ],
+  "East Face / P-Zone": [
+   1339,
+   -4253,
+   2787.9
+  ],
+  "Grizzly / Boomer": [
+   -2354,
+   3141,
+   2503.1
+  ],
+  "Grizzly / Boomer 2": [
+   -2334,
+   3426,
+   2359.6
+  ],
+  "Half Moon / Jupiter Access": [
+   799,
+   -3396,
+   2629.3
+  ],
+  "TNT / Parley's Park": [
+   1604,
+   -1886,
+   2512.1
+  ],
+  "TNT / Thaynes Canyon": [
+   1722,
+   -1023,
+   2318.4
+  ],
+  "Dynamite / Parley's Park": [
+   1781,
+   -2351,
+   2677.0
+  ],
+  "Dynamite / Hidden Splendor": [
+   2071,
+   -2171,
+   2546.9
+  ],
+  "The Drop / Tranquility": [
+   -1567,
+   1786,
+   2414.3
+  ],
+  "The Drop / Another World": [
+   -1480,
+   2055,
+   2303.9
+  ],
+  "Silver King / Unnamed run": [
+   2462,
+   -1788,
+   2604.1
+  ],
+  "Silver King / Homerun": [
+   3238,
+   -1552,
+   2293.4
+  ],
+  "Climax / Seldom Seen": [
+   2468,
+   -909,
+   2464.5
+  ],
+  "1/2 Load / Unnamed run": [
+   2662,
+   -2301,
+   2649.2
+  ],
+  "1/2 Load / 3/4 Load": [
+   2490,
+   -2309,
+   2598.5
+  ],
+  "Thaynes Lift bottom": [
+   968,
+   -3083,
+   2597.7
+  ],
+  "Road To Thaynes Canyon": [
+   1843,
+   -761,
+   2278.8
+  ],
+  "Paradise / Sidewinder": [
+   -2504,
+   1736,
+   2685.5
+  ],
+  "Paradise / Another World": [
+   -1562,
+   2014,
+   2327.4
+  ],
+  "Parley's Park / Unnamed run": [
+   1674,
+   -3228,
+   2817.2
+  ],
+  "Silverlode Hi-Speed Six-Pack bottom": [
+   1892,
+   -1530,
+   2429.5
+  ],
+  "Crescent Hi-Speed Quad top": [
+   2700,
+   -2443,
+   2667.3
+  ],
+  "Shaft / Lower Silver Skis": [
+   3153,
+   -1784,
+   2358.0
+  ],
+  "Pigment / Twilight": [
+   -1147,
+   -70,
+   2653.8
+  ],
+  "Pigment / Apparition": [
+   -926,
+   285,
+   2472.4
+  ],
+  "Saddleback Express top": [
+   -3585,
+   2242,
+   2779.6
+  ],
+  "Kokopelli / Upper Mainline": [
+   -3147,
+   2808,
+   2555.0
+  ],
+  "Super Condor Express top": [
+   -3583,
+   3883,
+   2738.3
+  ],
+  "A Chute / Lone Pine": [
+   -3574,
+   3583,
+   2553.9
+  ],
+  "Mid-Mountain Meadows / Mid Mtn": [
+   2052,
+   -3154,
+   2762.1
+  ],
+  "Mid-Mountain Meadows / Mid Mtn 2": [
+   2185,
+   -3460,
+   2647.6
+  ],
+  "South fork / Another World": [
+   -1850,
+   1545,
+   2465.2
+  ],
+  "South fork / Another World 2": [
+   -1686,
+   1831,
+   2401.8
+  ],
+  "Another World / Fantasy Ridge": [
+   -2752,
+   1386,
+   2699.4
+  ],
+  "Tombstone Express bottom": [
+   -877,
+   2318,
+   2196.9
+  ],
+  "Chance / Courchevel": [
+   2370,
+   -1446,
+   2550.1
+  ],
+  "Chance / Broadway": [
+   1971,
+   -1230,
+   2391.3
+  ],
+  "Bugle Ridge / Pipe Dream": [
+   -747,
+   -558,
+   2663.0
+  ],
+  "Bugle Ridge / Bugle Ridge Bypass": [
+   -542,
+   -740,
+   2591.2
+  ],
+  "Tower / Arrowhead": [
+   -1646,
+   3581,
+   2337.9
+  ],
+  "Tower / Willow Draw": [
+   -1515,
+   3914,
+   2174.9
+  ],
+  "Twister / Apex Ridge": [
+   -2730,
+   3901,
+   2528.4
+  ],
+  "Twister / Snow Draw": [
+   -2575,
+   4058,
+   2405.6
+  ],
+  "Ligity Split / Temptation": [
+   2573,
+   -646,
+   2426.9
+  ],
+  "Silver Star Lift bottom": [
+   2919,
+   375,
+   2106.6
+  ],
+  "Serenity / Powder Alley": [
+   -1760,
+   525,
+   2613.2
+  ],
+  "Serenity / Harmony": [
+   -1037,
+   1114,
+   2418.0
+  ],
+  "Red Pine Gondola top": [
+   -2280,
+   2608,
+   2448.6
+  ],
+  "Retreat / Raptor Way": [
+   -1056,
+   3225,
+   2246.7
+  ],
+  "Sunrise Gondola bottom": [
+   -506,
+   3157,
+   2116.6
+  ],
+  "Pioneer Lift top": [
+   1466,
+   -3748,
+   2873.2
+  ],
+  "Sampson / Red Fox": [
+   1787,
+   -4005,
+   2725.9
+  ],
+  "Dreamscape top": [
+   -1153,
+   -642,
+   2828.1
+  ],
+  "Deja Vu / Panorama": [
+   -1447,
+   -206,
+   2645.7
+  ],
+  "Puma Bowl / P-Zone": [
+   1552,
+   -4045,
+   2761.7
+  ],
+  "Solace / Upper Crowning Glory": [
+   -2380,
+   278,
+   2793.8
+  ],
+  "Solace / Royal": [
+   -2041,
+   144,
+   2626.6
+  ],
+  "Silver Star Lift top": [
+   2399,
+   -293,
+   2335.6
+  ],
+  "Unnamed run / Spiro": [
+   2391,
+   -253,
+   2326.5
+  ],
+  "Erika's Gold / Sitka": [
+   2495,
+   -1522,
+   2584.0
+  ],
+  "Erika's Gold / Ladie's SL": [
+   3104,
+   -1083,
+   2250.8
+  ],
+  "Escape / Powder Alley": [
+   -2102,
+   929,
+   2533.2
+  ],
+  "Escape / Lower Crowning Glory": [
+   -1557,
+   1186,
+   2441.9
+  ],
+  "King Con Express top": [
+   2468,
+   -1569,
+   2586.8
+  ],
+  "Sitka / Broadway": [
+   2019,
+   -983,
+   2354.8
+  ],
+  "Renny's Ridge / Canis Lupis": [
+   -3806,
+   4043,
+   2669.1
+  ],
+  "Town": [
+   4367,
+   -832,
+   2135.7
+  ],
+  "Town 2": [
+   4397,
+   -748,
+   2128.3
+  ],
+  "Unnamed run / Jupiter Access": [
+   1437,
+   -3715,
+   2861.9
+  ],
+  "Kokopelli": [
+   -3728,
+   2656,
+   2660.8
+  ],
+  "Painted horse / Upper MAinline": [
+   -3271,
+   2879,
+   2589.8
+  ],
+  "Apex Ridge / Upper Apex Ridge": [
+   -2860,
+   3923,
+   2572.1
+  ],
+  "Apex Ridge / Flume": [
+   -1772,
+   3918,
+   2200.3
+  ],
+  "Keystone / Jupiter Access": [
+   742,
+   -3575,
+   2655.3
+  ],
+  "Raptor Way": [
+   -1206,
+   3080,
+   2289.7
+  ],
+  "Raptor Way / Willow Draw": [
+   -873,
+   3672,
+   2133.7
+  ],
+  "Eagle Lift top": [
+   2589,
+   -806,
+   2458.2
+  ],
+  "Fools Paradise / Alpenglow": [
+   -1168,
+   -454,
+   2777.2
+  ],
+  "Fools Paradise / Illusion": [
+   -882,
+   88,
+   2506.4
+  ],
+  "Eaglet Lift top": [
+   2556,
+   -1210,
+   2529.4
+  ],
+  "Outlaw / Doc's Run": [
+   -1062,
+   3378,
+   2269.2
+  ],
+  "Outlaw / Willow Draw": [
+   -963,
+   3714,
+   2143.3
+  ],
+  "Unnamed run / Dawn": [
+   -1982,
+   -486,
+   2724.7
+  ],
+  "Unnamed run / Elk Dance": [
+   -2003,
+   -261,
+   2668.6
+  ],
+  "Powder Keg / Home Run": [
+   2187,
+   -2984,
+   2732.6
+  ],
+  "Powder Keg / Hidden Splendor": [
+   2130,
+   -2044,
+   2520.7
+  ],
+  "Muckers / Home Run": [
+   2141,
+   -3020,
+   2741.6
+  ],
+  "Muckers / Shortliner": [
+   2551,
+   -3144,
+   2620.5
+  ],
+  "Mid Mtn / Shortline": [
+   2496,
+   -3371,
+   2590.7
+  ],
+  "Seldom Seen / Hot Spot": [
+   2148,
+   -545,
+   2292.1
+  ],
+  "High Meadow Express top": [
+   -2891,
+   2684,
+   2530.6
+  ],
+  "Junipers / Boa": [
+   -3292,
+   4443,
+   2470.6
+  ],
+  "Sitka": [
+   2432,
+   -1255,
+   2524.9
+  ],
+  "Snowdancer / White Pine": [
+   -517,
+   474,
+   2401.0
+  ],
+  "Twilight / Alpenglow": [
+   -1223,
+   -290,
+   2721.2
+  ],
+  "Twilight / Harmony": [
+   -1142,
+   592,
+   2498.9
+  ],
+  "First Time Lift bottom": [
+   3472,
+   -71,
+   2105.0
+  ],
+  "C.B.'s Run": [
+   3417,
+   -121,
+   2105.6
+  ],
+  "Lower Silver Skis / Homerun": [
+   3207,
+   -1989,
+   2422.5
+  ],
+  "Lower Silver Skis / Homerun 2": [
+   3217,
+   -1614,
+   2309.7
+  ],
+  "Pinball Alley / Red Pine Road": [
+   -3106,
+   1498,
+   2628.3
+  ],
+  "Pinball Alley / Red Pine Road 2": [
+   -2854,
+   1847,
+   2519.1
+  ],
+  "Eaglet Lift bottom": [
+   2648,
+   -813,
+   2454.5
+  ],
+  "Shortline / Shortliner": [
+   2613,
+   -3206,
+   2603.8
+  ],
+  "McConkey's Hi-Speed Six-Pack bottom": [
+   2465,
+   -3450,
+   2590.5
+  ],
+  "Treasure Hollow / Homerun": [
+   3252,
+   -2114,
+   2445.9
+  ],
+  "Treasure Hollow / Waterfall": [
+   3362,
+   -1263,
+   2243.8
+  ],
+  "100 turns / Boa": [
+   -2920,
+   4617,
+   2382.8
+  ],
+  "3/4 Load / Unnamed run": [
+   2647,
+   -2026,
+   2629.1
+  ],
+  "3/4 Load / Claim Jumper": [
+   2452,
+   -2266,
+   2589.4
+  ],
+  "Jupiter Lift top": [
+   -212,
+   -4932,
+   3041.0
+  ],
+  "Main Bowl / Shadow Ridge": [
+   -4,
+   -4555,
+   2879.3
+  ],
+  "Lucky Boy": [
+   1698,
+   -3597,
+   2745.2
+  ],
+  "Mid Mtn": [
+   1981,
+   -3445,
+   2679.7
+  ],
+  "Powder Alley / Upper Crowning Glory": [
+   -2166,
+   381,
+   2700.8
+  ],
+  "Peak 5 bottom": [
+   -2139,
+   956,
+   2529.3
+  ],
+  "Rendezvous Ridge / Upper Apex Ridge": [
+   -2979,
+   3941,
+   2602.2
+  ],
+  "Rendezvous Ridge / Boa": [
+   -2225,
+   4232,
+   2273.5
+  ],
+  "Mellow Moose": [
+   -2753,
+   2663,
+   2510.8
+  ],
+  "Mellow Moose 2": [
+   -2524,
+   2568,
+   2476.9
+  ],
+  "Newport / Lost Prospector": [
+   1845,
+   -2549,
+   2717.9
+  ],
+  "Newport / Hidden Splendor": [
+   2075,
+   -2248,
+   2564.0
+  ],
+  "Heckler / Blanche": [
+   3641,
+   -1375,
+   2322.7
+  ],
+  "Heckler / PayDay": [
+   3615,
+   -769,
+   2188.4
+  ],
+  "Backstreet / Panorama": [
+   -1553,
+   79,
+   2604.1
+  ],
+  "Mikey's / Motherlode Meadows": [
+   1551,
+   -2900,
+   2742.4
+  ],
+  "Thaynes Canyon": [
+   1173,
+   -2662,
+   2538.6
+  ],
+  "Abyss / Harmony": [
+   -2550,
+   218,
+   2838.4
+  ],
+  "Abyss / Talus Garden": [
+   -2384,
+   702,
+   2579.3
+  ],
+  "Claim Jumper / Home Run": [
+   2398,
+   -2822,
+   2695.4
+  ],
+  "Claim Jumper / King Con": [
+   1932,
+   -1489,
+   2428.2
+  ],
+  "Lower Silver Skis": [
+   3159,
+   -1880,
+   2386.0
+  ],
+  "Saddle Chutes / Boa": [
+   -3618,
+   4311,
+   2569.2
+  ],
+  "Sleeper / Alpenglow": [
+   -1374,
+   146,
+   2619.8
+  ],
+  "Sleeper / Harmony": [
+   -1512,
+   321,
+   2542.6
+  ],
+  "Georgeanna": [
+   1525,
+   -4688,
+   2935.9
+  ],
+  "Georgeanna 2": [
+   1843,
+   -4243,
+   2726.6
+  ],
+  "Short Cut top": [
+   -2063,
+   3196,
+   2526.6
+  ],
+  "Doc's Run / Sunrise": [
+   -594,
+   3517,
+   2121.1
+  ],
+  "South fork": [
+   -1617,
+   1758,
+   2418.1
+  ],
+  "Another World": [
+   -1222,
+   2165,
+   2257.4
+  ],
+  "Golden Glades / The Draw": [
+   -1497,
+   3167,
+   2360.1
+  ],
+  "Golden Glades / Road D.O.": [
+   -1200,
+   3356,
+   2269.6
+  ],
+  "Flying Salmon / Snow Dancer": [
+   -3283,
+   2009,
+   2629.2
+  ],
+  "Mellow Moose 3": [
+   -2614,
+   2571,
+   2488.4
+  ],
+  "Parley's Park": [
+   1753,
+   -2594,
+   2722.5
+  ],
+  "Thaynes Canyon 2": [
+   1287,
+   -2217,
+   2491.7
+  ],
+  "Mystic Pines / Upper Crowning Glory": [
+   -2461,
+   244,
+   2826.3
+  ],
+  "Mystic Pines / Upper Crowning Glory 2": [
+   -2116,
+   747,
+   2587.3
+  ],
+  "Tin Cup / Upper White Pine": [
+   495,
+   21,
+   2619.9
+  ],
+  "Tin Cup / Upper White Pine 2": [
+   369,
+   -101,
+   2549.1
+  ],
+  "Hidden Splendor / Lost Prospector": [
+   1875,
+   -2954,
+   2795.3
+  ],
+  "Claim Jumper": [
+   2207,
+   -1902,
+   2493.2
+  ],
+  "Dynamite": [
+   1984,
+   -2225,
+   2582.1
+  ],
+  "McDonald's Meadow / Panorama": [
+   -1505,
+   -427,
+   2664.2
+  ],
+  "Funnel Cloud / Condor Woods": [
+   -3510,
+   3921,
+   2725.7
+  ],
+  "Funnel Cloud / Alley": [
+   -3430,
+   3522,
+   2519.2
+  ],
+  "Tombstone Express top": [
+   -2654,
+   1581,
+   2723.2
+  ],
+  "Deshutes / Red Pine Road": [
+   -2744,
+   1917,
+   2508.0
+  ],
+  "Ladie's SL / Gotcha Cut-Off": [
+   2781,
+   -1100,
+   2374.5
+  ],
+  "Ladie's SL / Homerun": [
+   3401,
+   -840,
+   2176.1
+  ],
+  "Lazy Day / Unnamed run": [
+   -2175,
+   -476,
+   2732.3
+  ],
+  "Lazy Day / Elk Dance": [
+   -1970,
+   -34,
+   2629.9
+  ],
+  "Outlaw": [
+   -1027,
+   3411,
+   2251.5
+  ],
+  "Sixes / Willow Draw": [
+   -906,
+   3700,
+   2137.0
+  ],
+  "Lead Foot / Copperhead": [
+   290,
+   582,
+   2587.2
+  ],
+  "Lead Foot / Mercury": [
+   -340,
+   1410,
+   2294.3
+  ],
+  "Ligity Split": [
+   2686,
+   -109,
+   2219.9
+  ],
+  "Indicator / 6 Bells": [
+   83,
+   -4437,
+   2825.3
+  ],
+  "Lone Pine / Alley": [
+   -3535,
+   3540,
+   2531.6
+  ],
+  "Transitions / Upper MAinline": [
+   -3385,
+   3057,
+   2611.8
+  ],
+  "Transitions / Eclipse": [
+   -2699,
+   3360,
+   2455.3
+  ],
+  "STH / EZ Street": [
+   -2984,
+   3445,
+   2454.1
+  ],
+  "STH / Spider Monkey": [
+   -2480,
+   3613,
+   2320.9
+  ],
+  "Illusion / Bogeyman": [
+   -630,
+   -201,
+   2539.5
+  ],
+  "Ninety-Nine 90 Express top": [
+   -3630,
+   385,
+   2991.5
+  ],
+  "94 Turns / Moraine": [
+   -3117,
+   461,
+   2741.3
+  ],
+  "Nail Driver / PayDay": [
+   3743,
+   -1916,
+   2489.4
+  ],
+  "Treasure Hollow": [
+   3462,
+   -1569,
+   2293.1
+  ],
+  "3 Kings Lift top": [
+   3131,
+   -805,
+   2244.5
+  ],
+  "C.B.'s Run 2": [
+   3078,
+   -599,
+   2235.9
+  ],
+  "Shadow Lands / Sandman": [
+   -813,
+   -822,
+   2633.5
+  ],
+  "Sticks and Stones / Upper Apex Ridge": [
+   -3141,
+   3948,
+   2657.2
+  ],
+  "Sticks and Stones / Alley": [
+   -2849,
+   3606,
+   2431.3
+  ],
+  "Twilight": [
+   -1142,
+   295,
+   2543.5
+  ],
+  "Apparition / Pipe Dream": [
+   -657,
+   443,
+   2398.3
+  ],
+  "Bonanza Hi-Speed Six-Pack bottom": [
+   3167,
+   -2563,
+   2479.9
+  ],
+  "Alley / Western Boundary": [
+   -3710,
+   3509,
+   2540.2
+  ],
+  "Alley / Spider Monkey": [
+   -2774,
+   3595,
+   2415.7
+  ],
+  "Diablo / Upper Lookout Ridge": [
+   -1444,
+   3579,
+   2305.5
+  ],
+  "Diablo / Willow Draw": [
+   -1323,
+   3801,
+   2154.6
+  ],
+  "Canis Lupis / Boa": [
+   -3053,
+   4518,
+   2413.8
+  ],
+  "Oops / Winter Way": [
+   -1553,
+   -410,
+   2653.7
+  ],
+  "First Time Lift top": [
+   3336,
+   -658,
+   2189.0
+  ],
+  "Dutch Hallow / Fantasy Ridge": [
+   -3491,
+   780,
+   2835.7
+  ],
+  "Dutch Hallow / Silver Spur": [
+   -2694,
+   800,
+   2611.0
+  ],
+  "Unnamed run / Rhapsody": [
+   -1717,
+   1442,
+   2450.0
+  ],
+  "Dreamscape bottom": [
+   -1672,
+   249,
+   2564.1
+  ],
+  "Aplande / Upper Apex Ridge": [
+   -3203,
+   3960,
+   2667.6
+  ],
+  "Aplande / Devil's Friend": [
+   -2659,
+   4508,
+   2336.7
+  ],
+  "Silver Horse / Unnamed run": [
+   -2589,
+   2446,
+   2498.1
+  ],
+  "High Meadow Express bottom": [
+   -2301,
+   2514,
+   2447.0
+  ],
+  "G-Force / Boomer": [
+   -2141,
+   3164,
+   2524.3
+  ],
+  "G-Force / Boomer 2": [
+   -2302,
+   3469,
+   2348.9
+  ],
+  "Widowmaker / PayDay": [
+   3687,
+   -2015,
+   2496.3
+  ],
+  "Treasure Hollow 2": [
+   3463,
+   -1746,
+   2337.5
+  ],
+  "Buckkeye / Sun Dog": [
+   1567,
+   -4321,
+   2818.0
+  ],
+  "Georgeanna 3": [
+   1858,
+   -4072,
+   2708.7
+  ],
+  "10th Mountain / Hawk Eye": [
+   1783,
+   -3755,
+   2798.4
+  ],
+  "Lucky Boy 2": [
+   2015,
+   -3668,
+   2684.9
+  ],
+  "Double Nickel / Copperhead": [
+   357,
+   743,
+   2565.6
+  ],
+  "Double Nickel / Copperhead 2": [
+   -317,
+   1573,
+   2253.8
+  ],
+  "Mel's Alley / Jonesy's": [
+   1988,
+   -3108,
+   2772.8
+  ],
+  "Mel's Alley / Prospector": [
+   1850,
+   -1853,
+   2503.2
+  ],
+  "Payday Hi-Speed Six-Pack top": [
+   3577,
+   -2149,
+   2516.2
+  ],
+  "Spiro / Temptation": [
+   2435,
+   -442,
+   2376.8
+  ],
+  "Spiro / Temptation 2": [
+   2099,
+   -103,
+   2242.8
+  ],
+  "Parley's Park 2": [
+   1731,
+   -2734,
+   2741.4
+  ],
+  "Thaynes Canyon 3": [
+   1259,
+   -2400,
+   2506.9
+  ],
+  "Canis Lupis": [
+   -3284,
+   4403,
+   2461.1
+  ],
+  "Flat Iron": [
+   2647,
+   -3264,
+   2580.1
+  ],
+  "Flat Iron / Jonesy's": [
+   2924,
+   -2926,
+   2550.1
+  ],
+  "Trance": [
+   -1134,
+   -1219,
+   2689.1
+  ],
+  "Reaper / Sandman": [
+   -707,
+   -786,
+   2616.2
+  ],
+  "Treasure Hollow 3": [
+   3324,
+   -2015,
+   2415.2
+  ],
+  "Kokopelli 2": [
+   -3643,
+   2250,
+   2775.4
+  ],
+  "Mellow Moose 4": [
+   -2568,
+   2569,
+   2481.1
+  ],
+  "Jupiter Lift bottom": [
+   222,
+   -4049,
+   2729.8
+  ],
+  "Quarter Moon / Jupiter Access": [
+   885,
+   -3196,
+   2608.6
+  ],
+  "Thunder / Cloud 9": [
+   -2192,
+   1896,
+   2557.2
+  ],
+  "Paradise": [
+   -1969,
+   1798,
+   2447.6
+  ],
+  "Shortliner / Homerun": [
+   2551,
+   -3098,
+   2616.5
+  ],
+  "King Con Ridge": [
+   2463,
+   -975,
+   2477.4
+  ],
+  "Blaster / Belmont": [
+   2090,
+   -3053,
+   2755.8
+  ],
+  "Muckers": [
+   2361,
+   -2968,
+   2699.6
+  ],
+  "King Con / Rose Bud": [
+   2406,
+   -1573,
+   2577.2
+  ],
+  "Quicksilver Gondola bottom": [
+   1855,
+   -1458,
+   2429.7
+  ],
+  "Main Bowl": [
+   -207,
+   -4880,
+   3033.3
+  ],
+  "Shadow Ridge / Unnamed run": [
+   17,
+   -4483,
+   2857.6
+  ],
+  "Badlands / Upper Lookout Ridge": [
+   -1827,
+   3418,
+   2446.0
+  ],
+  "Badlands / Flume": [
+   -1873,
+   3867,
+   2214.8
+  ],
+  "Thaynes Canyon 4": [
+   1281,
+   -2339,
+   2499.2
+  ],
+  "Thaynes Canyon 5": [
+   1762,
+   -918,
+   2299.9
+  ],
+  "Men's SL / Gotcha Cut-Off": [
+   2831,
+   -1233,
+   2388.4
+  ],
+  "Rhino / Unnamed run": [
+   -429,
+   -4303,
+   2833.7
+  ],
+  "Fantasy Ridge / Moraine": [
+   -3614,
+   444,
+   2960.0
+  ],
+  "Iron Man / Copperhead": [
+   247,
+   561,
+   2590.7
+  ],
+  "King Con Ridge 2": [
+   2463,
+   -1038,
+   2489.9
+  ],
+  "Eureka / Monitor": [
+   2081,
+   -767,
+   2326.2
+  ],
+  "The Highway / Upper White Pine": [
+   698,
+   -295,
+   2573.0
+  ],
+  "Blanche / Drift": [
+   3761,
+   -1636,
+   2392.9
+  ],
+  "Treasure Hollow 4": [
+   3424,
+   -1475,
+   2269.8
+  ],
+  "Sanctuary / Lower Crowning Glory": [
+   -1194,
+   1520,
+   2330.8
+  ],
+  "Iron Mountain Express bottom": [
+   -416,
+   1731,
+   2204.3
+  ],
+  "Portuguse Gap": [
+   -341,
+   -4761,
+   2998.2
+  ],
+  "Portuguse Gap 2": [
+   -332,
+   -4318,
+   2826.3
+  ],
+  "Red Pine Road / Vertigo": [
+   -2678,
+   1523,
+   2714.5
+  ],
+  "Red Pine Road": [
+   -2264,
+   2448,
+   2446.6
+  ],
+  "Iron Mountain Express top": [
+   334,
+   389,
+   2656.0
+  ],
+  "Flatiron top": [
+   233,
+   16,
+   2543.0
+  ],
+  "Spider Monkey / EZ Street": [
+   -3181,
+   3448,
+   2475.7
+  ],
+  "Sun Peak Express bottom": [
+   -2264,
+   3637,
+   2302.2
+  ],
+  "Charlie Brown / Red Pine Chute": [
+   -3767,
+   486,
+   2992.9
+  ],
+  "Charlie Brown / Red Pine Chute 2": [
+   -3605,
+   1033,
+   2735.3
+  ],
+  "Panorama": [
+   -1595,
+   193,
+   2577.7
+  ],
+  "Road D.O.": [
+   -1414,
+   3338,
+   2260.1
+  ],
+  "Raptor Way 2": [
+   -910,
+   3474,
+   2200.8
+  ],
+  "Apex Ridge": [
+   -2146,
+   3937,
+   2345.1
+  ],
+  "Spur / Boa": [
+   -2345,
+   4355,
+   2293.6
+  ],
+  "Quantum Leap / Vertigo": [
+   -2625,
+   1542,
+   2718.9
+  ],
+  "Another World 2": [
+   -2061,
+   1470,
+   2506.0
+  ],
+  "Day Break top": [
+   -2133,
+   -805,
+   2811.3
+  ],
+  "Bogeyman / Phantasm": [
+   -950,
+   -550,
+   2760.7
+  ],
+  "Bogeyman / Pipe Dream": [
+   -625,
+   353,
+   2416.4
+  ],
+  "King Con Ridge 3": [
+   2447,
+   -1150,
+   2507.8
+  ],
+  "Liberty / Broadway": [
+   2072,
+   -809,
+   2331.8
+  ],
+  "Road To Thaynes Canyon 2": [
+   2078,
+   -587,
+   2309.9
+  ],
+  "Road To Thaynes Canyon 3": [
+   1939,
+   -444,
+   2235.9
+  ],
+  "Fantasy Ridge": [
+   -3578,
+   631,
+   2916.6
+  ],
+  "Fright Gully": [
+   -3086,
+   593,
+   2709.3
+  ],
+  "Flying Salmon": [
+   -2850,
+   2407,
+   2538.5
+  ],
+  "Unnamed run 2": [
+   1025,
+   -56,
+   2539.4
+  ],
+  "Golden spruce": [
+   191,
+   -20,
+   2542.0
+  ],
+  "Snowdancer": [
+   -218,
+   40,
+   2491.5
+  ],
+  "Five Trees / Boa": [
+   -3680,
+   4239,
+   2597.7
+  ],
+  "Constellation / Jupiter Access": [
+   758,
+   -3445,
+   2633.0
+  ],
+  "94 Turns": [
+   -3182,
+   412,
+   2777.2
+  ],
+  "Talus Garden / Moraine": [
+   -2201,
+   935,
+   2529.5
+  ],
+  "Cascade": [
+   -464,
+   1153,
+   2275.6
+  ],
+  "Ectasy / Pine Draw": [
+   -3618,
+   2596,
+   2634.9
+  ],
+  "Another World 3": [
+   -2310,
+   1320,
+   2557.6
+  ],
+  "Spiro": [
+   2368,
+   -214,
+   2311.5
+  ],
+  "Waterfall / Crescent": [
+   3293,
+   -1943,
+   2403.7
+  ],
+  "Doc's Run": [
+   -1718,
+   3119,
+   2434.8
+  ],
+  "Doc's Run 2": [
+   -1325,
+   3178,
+   2343.7
+  ],
+  "High Peak / Boa": [
+   -3720,
+   4166,
+   2625.2
+  ],
+  "Parley's Park 3": [
+   1765,
+   -2442,
+   2695.7
+  ],
+  "Thaynes Canyon 6": [
+   1347,
+   -1944,
+   2471.8
+  ],
+  "Encore / Sidewinder": [
+   -2256,
+   2241,
+   2478.7
+  ],
+  "Encore / Chicane": [
+   -1869,
+   2322,
+   2388.8
+  ],
+  "Mine Shaft / Eclipse": [
+   -2831,
+   3294,
+   2501.1
+  ],
+  "C.B.'s Run 3": [
+   2809,
+   -738,
+   2360.4
+  ],
+  "Ladie's SL": [
+   3339,
+   -861,
+   2187.0
+  ],
+  "Thaynes Canyon 7": [
+   1408,
+   -1734,
+   2445.7
+  ],
+  "Thaynes Canyon 8": [
+   1462,
+   -1637,
+   2430.5
+  ],
+  "Snow Dancer": [
+   -2956,
+   2166,
+   2586.4
+  ],
+  "Snow Dancer 2": [
+   -2681,
+   2338,
+   2520.8
+  ],
+  "First Time": [
+   3490,
+   -117,
+   2106.4
+  ],
+  "Payday Hi-Speed Six-Pack bottom": [
+   3608,
+   -412,
+   2128.8
+  ],
+  "Black Hole / Flume": [
+   -2163,
+   3673,
+   2276.2
+  ],
+  "Chicane Bypass / Chicane": [
+   -1672,
+   2335,
+   2339.2
+  ],
+  "Another World 4": [
+   -1398,
+   2091,
+   2286.1
+  ],
+  "Parley's Park 4": [
+   1606,
+   -2054,
+   2560.6
+  ],
+  "Thaynes Canyon 9": [
+   1376,
+   -1853,
+   2463.9
+  ],
+  "Thaynes Canyon 10": [
+   1287,
+   -2267,
+   2495.0
+  ],
+  "Thaynes Canyon 11": [
+   1239,
+   -2474,
+   2515.3
+  ],
+  "Panorama 2": [
+   -1765,
+   -858,
+   2746.3
+  ],
+  "Serenity": [
+   -1309,
+   792,
+   2516.9
+  ],
+  "Sanctuary": [
+   -1345,
+   1242,
+   2418.5
+  ],
+  "Unnamed lift top": [
+   734,
+   -110,
+   2595.9
+  ],
+  "Elk Dance / Harmony": [
+   -1935,
+   133,
+   2603.9
+  ],
+  "Bugle Ridge Bypass / Pipe Dream": [
+   -639,
+   -560,
+   2638.8
+  ],
+  "Flatiron bottom": [
+   -159,
+   -628,
+   2542.2
+  ],
+  "Commitment / Picabo's Run": [
+   2927,
+   -584,
+   2309.7
+  ],
+  "C.B.'s Run 4": [
+   3201,
+   -312,
+   2148.1
+  ],
+  "Crescent / Silver Queen": [
+   2767,
+   -2386,
+   2658.8
+  ],
+  "Treasure Hollow 5": [
+   3336,
+   -1940,
+   2396.4
+  ],
+  "Black Forest / Tycoon": [
+   2429,
+   -4049,
+   2755.7
+  ],
+  "Woodside": [
+   2323,
+   -3599,
+   2630.3
+  ],
+  "Mainline": [
+   -2400,
+   2590,
+   2461.6
+  ],
+  "Georgeanna 4": [
+   1753,
+   -4710,
+   2916.8
+  ],
+  "Georgeanna 5": [
+   1892,
+   -4286,
+   2737.9
+  ],
+  "Rhapsody": [
+   -2173,
+   982,
+   2528.3
+  ],
+  "Mel's Alley": [
+   1965,
+   -2093,
+   2567.9
+  ],
+  "Detonator / Prospector": [
+   1854,
+   -1735,
+   2471.2
+  ],
+  "Deja Vu": [
+   -1159,
+   -549,
+   2807.3
+  ],
+  "Fools Paradise": [
+   -886,
+   -24,
+   2532.4
+  ],
+  "Magic Line": [
+   -3727,
+   418,
+   3001.4
+  ],
+  "Magic Line / End Zone": [
+   -3455,
+   1029,
+   2713.6
+  ],
+  "Silver Hollow": [
+   3144,
+   -882,
+   2232.4
+  ],
+  "Moraine": [
+   -3676,
+   421,
+   2989.4
+  ],
+  "White Water / Harmony": [
+   -1044,
+   744,
+   2474.8
+  ],
+  "Cascade 2": [
+   -606,
+   698,
+   2337.7
+  ],
+  "McDonald's Meadow": [
+   -1244,
+   -681,
+   2815.4
+  ],
+  "McDonald's Meadow 2": [
+   -1526,
+   -487,
+   2672.6
+  ],
+  "Red Pine Road 2": [
+   -3187,
+   1347,
+   2658.3
+  ],
+  "Red Pine Road 3": [
+   -2284,
+   2365,
+   2458.1
+  ],
+  "Sampson": [
+   1755,
+   -4031,
+   2731.3
+  ],
+  "Town Lift bottom": [
+   4408,
+   -791,
+   2131.2
+  ],
+  "Upper Apex Ridge": [
+   -3051,
+   3970,
+   2635.3
+  ],
+  "Sidewinder": [
+   -2409,
+   1902,
+   2605.3
+  ],
+  "Escapade Woods / Chicane": [
+   -1396,
+   2324,
+   2262.8
+  ],
+  "Unnamed run 3": [
+   2446,
+   -1705,
+   2597.7
+  ],
+  "Erika's Gold": [
+   3089,
+   -1210,
+   2284.0
+  ],
+  "Powder Alley": [
+   -2067,
+   311,
+   2667.4
+  ],
+  "Royal / Harmony": [
+   -1989,
+   144,
+   2616.6
+  ],
+  "Mid Mtn 2": [
+   2295,
+   -3435,
+   2632.9
+  ],
+  "Pioneer Lift bottom": [
+   2569,
+   -3420,
+   2576.3
+  ],
+  "Thaynes Canyon 12": [
+   1166,
+   -2710,
+   2546.1
+  ],
+  "Orange Bubble Express bottom": [
+   -543,
+   3588,
+   2107.2
+  ],
+  "King's Crown": [
+   3806,
+   -922,
+   2268.7
+  ],
+  "Creole 2": [
+   4010,
+   -1118,
+   2240.0
+  ],
+  "The Pines / Pine Draw": [
+   -3439,
+   2682,
+   2604.9
+  ],
+  "Upper Apex Ridge 2": [
+   -3309,
+   3931,
+   2696.5
+  ],
+  "Alley": [
+   -2973,
+   3586,
+   2454.7
+  ],
+  "Canis Lupis 2": [
+   -3556,
+   4350,
+   2547.6
+  ],
+  "Parley's Park 5": [
+   1769,
+   -2399,
+   2686.4
+  ],
+  "P-Zone": [
+   1209,
+   -4693,
+   2962.0
+  ],
+  "Sampson 2": [
+   1601,
+   -4040,
+   2751.1
+  ],
+  "Woodside 2": [
+   2064,
+   -3858,
+   2675.9
+  ],
+  "Unnamed run 4": [
+   996,
+   -27,
+   2536.0
+  ],
+  "Doc's Run 3": [
+   -1104,
+   3340,
+   2281.2
+  ],
+  "Raptor Way 3": [
+   -1107,
+   3196,
+   2255.5
+  ],
+  "Silver Horse": [
+   -2955,
+   2386,
+   2580.0
+  ],
+  "Kestrel / Boa": [
+   -2611,
+   4482,
+   2331.2
+  ],
+  "Upper White Pine": [
+   298,
+   -27,
+   2545.5
+  ],
+  "Red Pine Road 4": [
+   -2962,
+   1728,
+   2555.6
+  ],
+  "Trance 2": [
+   -1471,
+   -1183,
+   2735.2
+  ],
+  "Bugle Ridge Bypass": [
+   -643,
+   -745,
+   2607.7
+  ],
+  "Harmony": [
+   -826,
+   2314,
+   2197.8
+  ],
+  "Bonanza Hi-Speed Six-Pack top": [
+   1683,
+   -3272,
+   2821.0
+  ],
+  "Lead Foot": [
+   -133,
+   1126,
+   2348.5
+  ],
+  "Mercury": [
+   94,
+   514,
+   2606.2
+  ],
+  "Rendezvous Ridge": [
+   -2671,
+   4135,
+   2474.2
+  ],
+  "Thrasher / Boa": [
+   -2514,
+   4442,
+   2316.3
+  ],
+  "Powder Alley 2": [
+   -1987,
+   915,
+   2552.2
+  ],
+  "Harmony 2": [
+   -871,
+   2054,
+   2231.3
+  ],
+  "Another World 5": [
+   -2437,
+   1211,
+   2590.0
+  ],
+  "Ninety-Nine 90 Express bottom": [
+   -2232,
+   999,
+   2528.5
+  ],
+  "Sunrise Gondola top": [
+   -2214,
+   2476,
+   2443.5
+  ],
+  "Doc's Run 4": [
+   -1803,
+   3168,
+   2472.0
+  ],
+  "Escape": [
+   -1697,
+   1166,
+   2500.6
+  ],
+  "Rhapsody 2": [
+   -1741,
+   1387,
+   2456.0
+  ],
+  "Upper Lookout Ridge": [
+   -1672,
+   3472,
+   2388.4
+  ],
+  "Flume": [
+   -1997,
+   3790,
+   2236.3
+  ],
+  "Transitions": [
+   -3028,
+   3195,
+   2590.4
+  ],
+  "Spider Monkey": [
+   -3035,
+   3480,
+   2450.3
+  ],
+  "Kokopelli 3": [
+   -3752,
+   2585,
+   2662.9
+  ],
+  "Silver Hollow 2": [
+   3027,
+   -847,
+   2262.1
+  ],
+  "002": [
+   -1917,
+   -848,
+   2771.8
+  ],
+  "Backstreet 2": [
+   -1567,
+   -261,
+   2639.1
+  ],
+  "Paradise 2": [
+   -2469,
+   1779,
+   2662.3
+  ],
+  "Chicane": [
+   -1322,
+   2290,
+   2244.5
+  ],
+  "Phantasm / Pipe Dream": [
+   -1020,
+   -561,
+   2789.5
+  ],
+  "Upper White Pine 2": [
+   343,
+   -72,
+   2548.6
+  ],
+  "Rendezvous Ridge 2": [
+   -2884,
+   3990,
+   2566.0
+  ],
+  "Apex Ridge 2": [
+   -2804,
+   3902,
+   2555.7
+  ],
+  "Snow Draw": [
+   -2721,
+   4049,
+   2471.7
+  ],
+  "Unnamed run 5": [
+   3110,
+   -654,
+   2230.3
+  ],
+  "Paradise Chutes / Diamond Ridge": [
+   -2203,
+   1603,
+   2596.1
+  ],
+  "Upper Apex Ridge 3": [
+   -3447,
+   3923,
+   2715.2
+  ],
+  "Alley 2": [
+   -3294,
+   3527,
+   2501.1
+  ],
+  "Cloud 9": [
+   -2112,
+   1943,
+   2531.7
+  ],
+  "Paradise 3": [
+   -1809,
+   1846,
+   2403.1
+  ],
+  "Double Jack / Single Jack": [
+   1107,
+   -3096,
+   2607.3
+  ],
+  "Motherlode Express top": [
+   1662,
+   -3188,
+   2817.9
+  ],
+  "Mellow Moose 5": [
+   -2691,
+   2610,
+   2498.8
+  ],
+  "King Con Ridge 4": [
+   2440,
+   -1193,
+   2514.9
+  ],
+  "Shamus / Broadway": [
+   2032,
+   -929,
+   2346.8
+  ],
+  "Alpenglow": [
+   -1342,
+   49,
+   2635.1
+  ],
+  "Twilight 2": [
+   -1188,
+   254,
+   2563.0
+  ],
+  "Claim Jumper 2": [
+   2478,
+   -2434,
+   2618.8
+  ],
+  "Elk Ridge": [
+   -3399,
+   2320,
+   2728.8
+  ],
+  "Claim Jumper 3": [
+   2352,
+   -2050,
+   2533.5
+  ],
+  "Courchevel / Broadway": [
+   2003,
+   -1028,
+   2361.3
+  ],
+  "Copperhead": [
+   404,
+   877,
+   2553.3
+  ],
+  "Georgeanna 6": [
+   2026,
+   -4491,
+   2856.2
+  ],
+  "Molly's": [
+   1853,
+   -4372,
+   2769.4
+  ],
+  "Short Fuse / Home Run": [
+   2317,
+   -2899,
+   2711.5
+  ],
+  "Claim Jumper 4": [
+   2473,
+   -2532,
+   2645.0
+  ],
+  "Powder Keg": [
+   2277,
+   -2461,
+   2667.3
+  ],
+  "Hidden Splendor": [
+   2185,
+   -1994,
+   2507.6
+  ],
+  "Deja Vu 2": [
+   -1227,
+   -500,
+   2783.8
+  ],
+  "Silver Cliff": [
+   -122,
+   -4965,
+   3045.1
+  ],
+  "Boomer": [
+   -2265,
+   3116,
+   2513.7
+  ],
+  "Boomer 2": [
+   -2533,
+   3323,
+   2408.3
+  ],
+  "Parley's Park 6": [
+   1733,
+   -2973,
+   2784.1
+  ],
+  "Sidewinder 2": [
+   -2563,
+   1627,
+   2711.4
+  ],
+  "Another World 6": [
+   -1799,
+   1667,
+   2454.8
+  ],
+  "Oops": [
+   -1488,
+   -387,
+   2659.5
+  ],
+  "Red Fox": [
+   1656,
+   -3757,
+   2824.5
+  ],
+  "C.B.'s Run 5": [
+   2903,
+   -704,
+   2325.9
+  ],
+  "C.B.'s Run 6": [
+   3157,
+   -475,
+   2195.9
+  ],
+  "Cascade 3": [
+   -608,
+   557,
+   2364.0
+  ],
+  "Homerun": [
+   3240,
+   -2447,
+   2488.8
+  ],
+  "Homerun 2": [
+   3246,
+   -2398,
+   2485.0
+  ],
+  "Georgeanna 7": [
+   2239,
+   -4270,
+   2803.7
+  ],
+  "Eclipse": [
+   -2603,
+   3411,
+   2417.0
+  ],
+  "Upper Lookout Ridge 2": [
+   -1562,
+   3490,
+   2354.9
+  ],
+  "Willow Draw": [
+   -1054,
+   3680,
+   2155.5
+  ],
+  "The Draw": [
+   -1605,
+   3164,
+   2384.8
+  ],
+  "Unnamed lift bottom": [
+   -2188,
+   2561,
+   2447.2
+  ],
+  "Unnamed lift bottom 2": [
+   2770,
+   490,
+   2118.9
+  ],
+  "Town Lift top": [
+   3304,
+   -2417,
+   2489.9
+  ],
+  "Over and Out bottom": [
+   -883,
+   2368,
+   2197.7
+  ],
+  "Over and Out top": [
+   -1174,
+   3039,
+   2281.7
+  ],
+  "Peak 5 top": [
+   -2514,
+   234,
+   2838.9
+  ],
+  "Unnamed lift bottom 3": [
+   -2207,
+   2707,
+   2444.4
+  ],
+  "Unnamed lift top 2": [
+   -2324,
+   2654,
+   2453.6
+  ],
+  "Frostwood Gondola bottom": [
+   -12,
+   3847,
+   2057.1
+  ],
+  "Frostwood Gondola top": [
+   -481,
+   3561,
+   2107.5
+  ],
+  "Unnamed lift bottom 4": [
+   1120,
+   -3,
+   2523.2
+  ],
+  "Timberline bottom": [
+   -768,
+   2296,
+   2198.4
+  ],
+  "Quicksilver Gondola top": [
+   235,
+   -38,
+   2542.4
+  ],
+  "Red Pine Gondola bottom": [
+   -524,
+   3425,
+   2110.5
+  ],
+  "Cabriolet bottom": [
+   295,
+   3684,
+   2050.8
+  ],
+  "Cabriolet top": [
+   -475,
+   3409,
+   2110.1
+  ],
+  "Ripcord bottom": [
+   -1266,
+   3778,
+   2149.7
+  ],
+  "Ripcord top": [
+   -1156,
+   3732,
+   2156.8
+  ],
+  "Motherlode Express bottom": [
+   1414,
+   -1659,
+   2428.1
+  ],
+  "Unnamed lift bottom 5": [
+   -2196,
+   2639,
+   2444.1
+  ],
+  "Super Condor Express bottom": [
+   -1717,
+   3905,
+   2197.6
+  ]
+ },
+ "lifts": [
+  [
+   "Pioneer Lift",
+   "Pioneer Lift bottom",
+   "Pioneer Lift top",
+   11.7
+  ],
+  [
+   "Orange Bubble Express",
+   "Orange Bubble Express bottom",
+   "Orange Bubble Express top",
+   12.1
+  ],
+  [
+   "Silver Star Lift",
+   "Silver Star Lift bottom",
+   "Silver Star Lift top",
+   9.6
+  ],
+  [
+   "Silver Star Lift",
+   "Silver Star Lift top",
+   "Silver Star Lift bottom",
+   9.6
+  ],
+  [
+   "King Con Express",
+   "King Con Express bottom",
+   "King Con Express top",
+   7.6
+  ],
+  [
+   "Sun Peak Express",
+   "Sun Peak Express bottom",
+   "Sun Peak Express top",
+   6.8
+  ],
+  [
+   "Town Lift",
+   "Town Lift bottom",
+   "Town Lift top",
+   17.6
+  ],
+  [
+   "Town Lift",
+   "Town Lift top",
+   "Town Lift bottom",
+   17.6
+  ],
+  [
+   "Over and Out",
+   "Over and Out bottom",
+   "Over and Out top",
+   8.5
+  ],
+  [
+   "Dreamscape",
+   "Dreamscape bottom",
+   "Dreamscape top",
+   10.6
+  ],
+  [
+   "Peak 5",
+   "Peak 5 bottom",
+   "Peak 5 top",
+   9.2
+  ],
+  [
+   "Payday Hi-Speed Six-Pack",
+   "Payday Hi-Speed Six-Pack bottom",
+   "Payday Hi-Speed Six-Pack top",
+   9.0
+  ],
+  [
+   "Iron Mountain Express",
+   "Iron Mountain Express bottom",
+   "Iron Mountain Express top",
+   8.4
+  ],
+  [
+   "Sunrise Gondola",
+   "Sunrise Gondola bottom",
+   "Sunrise Gondola top",
+   9.2
+  ],
+  [
+   "Sunrise Gondola",
+   "Sunrise Gondola top",
+   "Sunrise Gondola bottom",
+   9.2
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 3",
+   "Unnamed lift top 2",
+   5.7
+  ],
+  [
+   "Bonanza Hi-Speed Six-Pack",
+   "Bonanza Hi-Speed Six-Pack bottom",
+   "Bonanza Hi-Speed Six-Pack top",
+   8.6
+  ],
+  [
+   "Frostwood Gondola",
+   "Frostwood Gondola bottom",
+   "Frostwood Gondola top",
+   4.8
+  ],
+  [
+   "Frostwood Gondola",
+   "Frostwood Gondola top",
+   "Frostwood Gondola bottom",
+   4.8
+  ],
+  [
+   "McConkey's Hi-Speed Six-Pack",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   "McConkey's Hi-Speed Six-Pack top",
+   14.9
+  ],
+  [
+   "Eagle Lift",
+   "Eagle Lift bottom",
+   "Eagle Lift top",
+   11.2
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 4",
+   "Unnamed lift top",
+   5.2
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift top",
+   "Unnamed lift bottom 4",
+   5.2
+  ],
+  [
+   "High Meadow Express",
+   "High Meadow Express bottom",
+   "High Meadow Express top",
+   5.0
+  ],
+  [
+   "Timberline",
+   "Timberline bottom",
+   "Iron Mountain Express bottom",
+   7.7
+  ],
+  [
+   "Timberline",
+   "Iron Mountain Express bottom",
+   "Timberline bottom",
+   7.7
+  ],
+  [
+   "Jupiter Lift",
+   "Jupiter Lift bottom",
+   "Jupiter Lift top",
+   10.5
+  ],
+  [
+   "Thaynes Lift",
+   "Thaynes Lift bottom",
+   "Thaynes Lift top",
+   9.1
+  ],
+  [
+   "Crescent Hi-Speed Quad",
+   "Crescent Hi-Speed Quad bottom",
+   "Crescent Hi-Speed Quad top",
+   10.4
+  ],
+  [
+   "Ninety-Nine 90 Express",
+   "Ninety-Nine 90 Express bottom",
+   "Ninety-Nine 90 Express top",
+   8.4
+  ],
+  [
+   "Eaglet Lift",
+   "Eaglet Lift bottom",
+   "Eaglet Lift top",
+   6.0
+  ],
+  [
+   "Quicksilver Gondola",
+   "Quicksilver Gondola bottom",
+   "Quicksilver Gondola top",
+   11.5
+  ],
+  [
+   "Quicksilver Gondola",
+   "Quicksilver Gondola top",
+   "Quicksilver Gondola bottom",
+   11.5
+  ],
+  [
+   "Red Pine Gondola",
+   "Red Pine Gondola bottom",
+   "Red Pine Gondola top",
+   9.8
+  ],
+  [
+   "Red Pine Gondola",
+   "Red Pine Gondola top",
+   "Red Pine Gondola bottom",
+   9.8
+  ],
+  [
+   "Cabriolet",
+   "Cabriolet bottom",
+   "Cabriolet top",
+   5.7
+  ],
+  [
+   "Cabriolet",
+   "Cabriolet top",
+   "Cabriolet bottom",
+   5.7
+  ],
+  [
+   "3 Kings Lift",
+   "Eagle Lift bottom",
+   "3 Kings Lift top",
+   8.0
+  ],
+  [
+   "Ripcord",
+   "Ripcord bottom",
+   "Ripcord top",
+   3.7
+  ],
+  [
+   "Day Break",
+   "Dreamscape bottom",
+   "Day Break top",
+   11.4
+  ],
+  [
+   "Motherlode Express",
+   "Motherlode Express bottom",
+   "Motherlode Express top",
+   8.3
+  ],
+  [
+   "Dreamcatcher",
+   "Dreamcatcher bottom",
+   "Dreamcatcher top",
+   12.8
+  ],
+  [
+   "Silverlode Hi-Speed Six-Pack",
+   "Silverlode Hi-Speed Six-Pack bottom",
+   "Silverlode Hi-Speed Six-Pack top",
+   8.5
+  ],
+  [
+   "First Time Lift",
+   "First Time Lift bottom",
+   "First Time Lift top",
+   7.2
+  ],
+  [
+   "Saddleback Express",
+   "High Meadow Express bottom",
+   "Saddleback Express top",
+   7.5
+  ],
+  [
+   "Tombstone Express",
+   "Tombstone Express bottom",
+   "Tombstone Express top",
+   9.8
+  ],
+  [
+   "Short Cut",
+   "Short Cut bottom",
+   "Short Cut top",
+   6.3
+  ],
+  [
+   "Flatiron",
+   "Flatiron bottom",
+   "Flatiron top",
+   8.5
+  ],
+  [
+   "Flatiron",
+   "Flatiron top",
+   "Flatiron bottom",
+   8.5
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 5",
+   "Unnamed lift bottom",
+   4.2
+  ],
+  [
+   "Super Condor Express",
+   "Super Condor Express bottom",
+   "Super Condor Express top",
+   9.5
+  ]
+ ],
+ "runs": [
+  [
+   "Fright Gully",
+   "Fright Gully / Moraine",
+   "Fright Gully",
+   1.6
+  ],
+  [
+   "Fright Gully",
+   "Fright Gully",
+   "Fright Gully / Moraine 2",
+   0.6
+  ],
+  [
+   "Heavy Metal",
+   "Heavy Metal / Mercury",
+   "Heavy Metal / Lead Foot",
+   1.7
+  ],
+  [
+   "Gold Finger",
+   "Gold Finger / Platinum Woods",
+   "Dreamcatcher bottom",
+   2.8
+  ],
+  [
+   "Aspen Grove",
+   "Aspen Grove / Moraine",
+   "Aspen Grove / Moraine 2",
+   1.9
+  ],
+  [
+   "Road To Thaynes Canyon",
+   "Road To Thaynes Canyon / Climax",
+   "Road To Thaynes Canyon 2",
+   0.5
+  ],
+  [
+   "Road To Thaynes Canyon",
+   "Road To Thaynes Canyon 2",
+   "Road To Thaynes Canyon",
+   1.2
+  ],
+  [
+   "Road To Thaynes Canyon",
+   "Road To Thaynes Canyon",
+   "Road To Thaynes Canyon 3",
+   1.5
+  ],
+  [
+   "Road To Thaynes Canyon",
+   "Road To Thaynes Canyon 3",
+   "King Con Express bottom",
+   0.7
+  ],
+  [
+   "Backstreet",
+   "Backstreet / Oops",
+   "Backstreet 2",
+   0.5
+  ],
+  [
+   "Backstreet",
+   "Backstreet 2",
+   "Backstreet",
+   1.7
+  ],
+  [
+   "Creole",
+   "Creole / King's Crown",
+   "Creole",
+   0.5
+  ],
+  [
+   "Creole",
+   "Creole",
+   "Creole 2",
+   1.4
+  ],
+  [
+   "Creole",
+   "Creole 2",
+   "Creole / Quit 'N Time",
+   1.7
+  ],
+  [
+   "Echo",
+   "Orange Bubble Express top",
+   "Echo / Eclipse",
+   3.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Unnamed run / Silver Skis",
+   2.3
+  ],
+  [
+   "Tree Time",
+   "Sun Peak Express top",
+   "Tree Time / EZ Street",
+   1.3
+  ],
+  [
+   "Silverado",
+   "Silverado / Doc's Run",
+   "Silverado / Eagle",
+   1.9
+  ],
+  [
+   "Trance",
+   "Dreamcatcher top",
+   "Trance 2",
+   3.0
+  ],
+  [
+   "Trance",
+   "Trance 2",
+   "Trance",
+   1.4
+  ],
+  [
+   "Trance",
+   "Trance",
+   "Trance / Off Ramp",
+   4.5
+  ],
+  [
+   "Unnamed run",
+   "Silverlode Hi-Speed Six-Pack top",
+   "Unnamed run / Parley's Park",
+   0.5
+  ],
+  [
+   "Georgeanna",
+   "McConkey's Hi-Speed Six-Pack top",
+   "Georgeanna",
+   0.5
+  ],
+  [
+   "Georgeanna",
+   "Georgeanna",
+   "Georgeanna 4",
+   1.0
+  ],
+  [
+   "Georgeanna",
+   "Georgeanna 4",
+   "Georgeanna 6",
+   1.5
+  ],
+  [
+   "Georgeanna",
+   "Georgeanna 6",
+   "Georgeanna 7",
+   1.3
+  ],
+  [
+   "Georgeanna",
+   "Georgeanna 7",
+   "Georgeanna 5",
+   1.8
+  ],
+  [
+   "Georgeanna",
+   "Georgeanna 5",
+   "Georgeanna 2",
+   0.5
+  ],
+  [
+   "Georgeanna",
+   "Georgeanna 2",
+   "Georgeanna 3",
+   0.7
+  ],
+  [
+   "Georgeanna",
+   "Georgeanna 3",
+   "Georgeanna / Woodside",
+   0.5
+  ],
+  [
+   "Lucky Boy",
+   "Thaynes Lift top",
+   "Lucky Boy",
+   0.9
+  ],
+  [
+   "Lucky Boy",
+   "Lucky Boy",
+   "Lucky Boy 2",
+   1.4
+  ],
+  [
+   "Lucky Boy",
+   "Lucky Boy 2",
+   "Lucky Boy / Mid Mtn",
+   1.3
+  ],
+  [
+   "Quit 'N Time",
+   "Creole",
+   "Creole / Quit 'N Time",
+   3.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Mainline",
+   "Red Pine Gondola top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Red Pine Gondola top",
+   "Unnamed lift bottom 5",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift bottom 5",
+   "Short Cut bottom",
+   0.8
+  ],
+  [
+   "Mainline",
+   "Mainline / Gallery",
+   "Mainline",
+   3.1
+  ],
+  [
+   "Mainline",
+   "Mainline",
+   "Unnamed run / Mainline",
+   0.5
+  ],
+  [
+   "High Card",
+   "High Card / Chance",
+   "High Card / Broadway",
+   1.4
+  ],
+  [
+   "Grizzly",
+   "Grizzly / Boomer",
+   "Grizzly / Boomer 2",
+   1.2
+  ],
+  [
+   "TNT",
+   "TNT / Parley's Park",
+   "TNT / Thaynes Canyon",
+   4.6
+  ],
+  [
+   "Dynamite",
+   "Dynamite / Parley's Park",
+   "Dynamite",
+   1.0
+  ],
+  [
+   "Dynamite",
+   "Dynamite",
+   "Dynamite / Hidden Splendor",
+   0.5
+  ],
+  [
+   "The Drop",
+   "The Drop / Tranquility",
+   "The Drop / Another World",
+   1.2
+  ],
+  [
+   "Silver King",
+   "Silver King / Unnamed run",
+   "Silver King / Homerun",
+   3.6
+  ],
+  [
+   "Climax",
+   "Climax / Seldom Seen",
+   "Road To Thaynes Canyon / Climax",
+   1.9
+  ],
+  [
+   "1/2 Load",
+   "1/2 Load / Unnamed run",
+   "1/2 Load / 3/4 Load",
+   0.6
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Lift bottom",
+   "Thaynes Canyon 12",
+   1.6
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon 12",
+   "Thaynes Canyon",
+   0.5
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon",
+   "Thaynes Canyon 11",
+   0.8
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon 11",
+   "Thaynes Canyon 3",
+   0.5
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon 3",
+   "Thaynes Canyon 4",
+   0.5
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon 4",
+   "Thaynes Canyon 10",
+   0.5
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon 10",
+   "Thaynes Canyon 2",
+   0.5
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon 2",
+   "Thaynes Canyon 6",
+   1.2
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon 6",
+   "Thaynes Canyon 9",
+   0.5
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon 9",
+   "Thaynes Canyon 7",
+   0.5
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon 7",
+   "Motherlode Express bottom",
+   0.5
+  ],
+  [
+   "Thaynes Canyon",
+   "Motherlode Express bottom",
+   "Thaynes Canyon 8",
+   0.5
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon 8",
+   "TNT / Thaynes Canyon",
+   2.9
+  ],
+  [
+   "Thaynes Canyon",
+   "TNT / Thaynes Canyon",
+   "Thaynes Canyon 5",
+   0.5
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon 5",
+   "Road To Thaynes Canyon",
+   0.8
+  ],
+  [
+   "Paradise",
+   "Paradise / Sidewinder",
+   "Paradise 2",
+   0.5
+  ],
+  [
+   "Paradise",
+   "Paradise 2",
+   "Paradise",
+   2.1
+  ],
+  [
+   "Paradise",
+   "Paradise",
+   "Paradise 3",
+   0.8
+  ],
+  [
+   "Paradise",
+   "Paradise 3",
+   "Paradise / Another World",
+   1.4
+  ],
+  [
+   "Parley's Park",
+   "Parley's Park / Unnamed run",
+   "Motherlode Express top",
+   0.5
+  ],
+  [
+   "Parley's Park",
+   "Motherlode Express top",
+   "Unnamed run / Parley's Park",
+   0.5
+  ],
+  [
+   "Parley's Park",
+   "Unnamed run / Parley's Park",
+   "Parley's Park 6",
+   0.7
+  ],
+  [
+   "Parley's Park",
+   "Parley's Park 6",
+   "Parley's Park 2",
+   1.0
+  ],
+  [
+   "Parley's Park",
+   "Parley's Park 2",
+   "Parley's Park",
+   0.6
+  ],
+  [
+   "Parley's Park",
+   "Parley's Park",
+   "Parley's Park 3",
+   0.7
+  ],
+  [
+   "Parley's Park",
+   "Parley's Park 3",
+   "Parley's Park 5",
+   0.5
+  ],
+  [
+   "Parley's Park",
+   "Parley's Park 5",
+   "Dynamite / Parley's Park",
+   0.5
+  ],
+  [
+   "Parley's Park",
+   "Dynamite / Parley's Park",
+   "Parley's Park 4",
+   1.5
+  ],
+  [
+   "Parley's Park",
+   "Parley's Park 4",
+   "TNT / Parley's Park",
+   0.8
+  ],
+  [
+   "Parley's Park",
+   "TNT / Parley's Park",
+   "Silverlode Hi-Speed Six-Pack bottom",
+   2.0
+  ],
+  [
+   "Shaft",
+   "Crescent Hi-Speed Quad top",
+   "Shaft / Lower Silver Skis",
+   3.7
+  ],
+  [
+   "Pigment",
+   "Pigment / Twilight",
+   "Pigment / Apparition",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Crescent Hi-Speed Quad top",
+   "Unnamed run",
+   1.1
+  ],
+  [
+   "Kokopelli",
+   "Saddleback Express top",
+   "Kokopelli 2",
+   0.5
+  ],
+  [
+   "Kokopelli",
+   "Kokopelli 2",
+   "Kokopelli 3",
+   1.9
+  ],
+  [
+   "Kokopelli",
+   "Kokopelli 3",
+   "Kokopelli",
+   0.5
+  ],
+  [
+   "Kokopelli",
+   "Kokopelli",
+   "Kokopelli / Upper Mainline",
+   2.5
+  ],
+  [
+   "A Chute",
+   "Super Condor Express top",
+   "A Chute / Lone Pine",
+   1.3
+  ],
+  [
+   "Mid-Mountain Meadows",
+   "Mid-Mountain Meadows / Mid Mtn",
+   "Mid-Mountain Meadows / Mid Mtn 2",
+   1.3
+  ],
+  [
+   "South fork",
+   "South fork / Another World",
+   "South fork",
+   1.3
+  ],
+  [
+   "South fork",
+   "South fork",
+   "South fork / Another World 2",
+   0.5
+  ],
+  [
+   "Another World",
+   "Another World / Fantasy Ridge",
+   "Another World 5",
+   1.5
+  ],
+  [
+   "Another World",
+   "Another World 5",
+   "Another World 3",
+   0.7
+  ],
+  [
+   "Another World",
+   "Another World 3",
+   "Another World 2",
+   1.3
+  ],
+  [
+   "Another World",
+   "Another World 2",
+   "South fork / Another World",
+   0.9
+  ],
+  [
+   "Another World",
+   "South fork / Another World",
+   "Another World 6",
+   0.6
+  ],
+  [
+   "Another World",
+   "Another World 6",
+   "South fork / Another World 2",
+   0.9
+  ],
+  [
+   "Another World",
+   "South fork / Another World 2",
+   "Paradise / Another World",
+   1.0
+  ],
+  [
+   "Another World",
+   "Paradise / Another World",
+   "The Drop / Another World",
+   0.5
+  ],
+  [
+   "Another World",
+   "The Drop / Another World",
+   "Another World 4",
+   0.5
+  ],
+  [
+   "Another World",
+   "Another World 4",
+   "Another World",
+   0.8
+  ],
+  [
+   "Another World",
+   "Another World",
+   "Tombstone Express bottom",
+   1.6
+  ],
+  [
+   "Chance",
+   "Chance / Courchevel",
+   "High Card / Chance",
+   0.5
+  ],
+  [
+   "Chance",
+   "High Card / Chance",
+   "Chance / Broadway",
+   1.6
+  ],
+  [
+   "Bugle Ridge",
+   "Bugle Ridge / Pipe Dream",
+   "Bugle Ridge / Bugle Ridge Bypass",
+   1.1
+  ],
+  [
+   "Tower",
+   "Tower / Arrowhead",
+   "Tower / Willow Draw",
+   1.5
+  ],
+  [
+   "Twister",
+   "Twister / Apex Ridge",
+   "Twister / Snow Draw",
+   1.0
+  ],
+  [
+   "Ligity Split",
+   "Ligity Split / Temptation",
+   "Ligity Split",
+   2.5
+  ],
+  [
+   "Ligity Split",
+   "Ligity Split",
+   "Silver Star Lift bottom",
+   2.7
+  ],
+  [
+   "Serenity",
+   "Serenity / Powder Alley",
+   "Serenity",
+   2.3
+  ],
+  [
+   "Serenity",
+   "Serenity",
+   "Serenity / Harmony",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Mainline",
+   "Red Pine Gondola top",
+   0.5
+  ],
+  [
+   "Retreat",
+   "Retreat / Raptor Way",
+   "Sunrise Gondola bottom",
+   2.7
+  ],
+  [
+   "Sampson",
+   "Pioneer Lift top",
+   "Sampson 2",
+   1.3
+  ],
+  [
+   "Sampson",
+   "Sampson 2",
+   "Sampson",
+   0.7
+  ],
+  [
+   "Sampson",
+   "Sampson",
+   "Sampson / Red Fox",
+   0.5
+  ],
+  [
+   "Deja Vu",
+   "Dreamscape top",
+   "Deja Vu",
+   0.5
+  ],
+  [
+   "Deja Vu",
+   "Deja Vu",
+   "Deja Vu 2",
+   0.5
+  ],
+  [
+   "Deja Vu",
+   "Deja Vu 2",
+   "Deja Vu / Panorama",
+   1.7
+  ],
+  [
+   "Solace",
+   "Solace / Upper Crowning Glory",
+   "Solace / Royal",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Silver Star Lift top",
+   "Unnamed run / Spiro",
+   0.5
+  ],
+  [
+   "Erika's Gold",
+   "Erika's Gold / Sitka",
+   "Erika's Gold",
+   3.0
+  ],
+  [
+   "Erika's Gold",
+   "Erika's Gold",
+   "Erika's Gold / Ladie's SL",
+   0.6
+  ],
+  [
+   "Escape",
+   "Escape / Powder Alley",
+   "Escape",
+   1.9
+  ],
+  [
+   "Escape",
+   "Escape",
+   "Escape / Lower Crowning Glory",
+   0.9
+  ],
+  [
+   "Sitka",
+   "King Con Express top",
+   "Erika's Gold / Sitka",
+   0.5
+  ],
+  [
+   "Sitka",
+   "Erika's Gold / Sitka",
+   "Sitka",
+   1.3
+  ],
+  [
+   "Sitka",
+   "Sitka",
+   "Sitka / Broadway",
+   2.2
+  ],
+  [
+   "Town",
+   "Town",
+   "Town Lift bottom",
+   0.5
+  ],
+  [
+   "Town",
+   "Town Lift bottom",
+   "Town 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Pioneer Lift top",
+   "Unnamed run / Jupiter Access",
+   0.5
+  ],
+  [
+   "Painted horse",
+   "Kokopelli",
+   "Painted horse / Upper MAinline",
+   2.3
+  ],
+  [
+   "Apex Ridge",
+   "Apex Ridge / Upper Apex Ridge",
+   "Apex Ridge 2",
+   0.5
+  ],
+  [
+   "Apex Ridge",
+   "Apex Ridge 2",
+   "Twister / Apex Ridge",
+   0.5
+  ],
+  [
+   "Apex Ridge",
+   "Twister / Apex Ridge",
+   "Apex Ridge",
+   2.6
+  ],
+  [
+   "Apex Ridge",
+   "Apex Ridge",
+   "Apex Ridge / Flume",
+   1.7
+  ],
+  [
+   "Keystone",
+   "Thaynes Lift top",
+   "Keystone / Jupiter Access",
+   3.4
+  ],
+  [
+   "Raptor Way",
+   "Raptor Way",
+   "Raptor Way 3",
+   0.5
+  ],
+  [
+   "Raptor Way",
+   "Raptor Way 3",
+   "Retreat / Raptor Way",
+   0.5
+  ],
+  [
+   "Raptor Way",
+   "Retreat / Raptor Way",
+   "Raptor Way 2",
+   1.2
+  ],
+  [
+   "Raptor Way",
+   "Raptor Way 2",
+   "Raptor Way / Willow Draw",
+   1.4
+  ],
+  [
+   "C.B.'s Run",
+   "Eagle Lift top",
+   "Eaglet Lift bottom",
+   0.5
+  ],
+  [
+   "C.B.'s Run",
+   "Eaglet Lift bottom",
+   "C.B.'s Run 3",
+   0.7
+  ],
+  [
+   "C.B.'s Run",
+   "C.B.'s Run 3",
+   "C.B.'s Run 5",
+   0.5
+  ],
+  [
+   "C.B.'s Run",
+   "C.B.'s Run 5",
+   "C.B.'s Run 2",
+   0.9
+  ],
+  [
+   "C.B.'s Run",
+   "C.B.'s Run 2",
+   "C.B.'s Run 6",
+   0.6
+  ],
+  [
+   "C.B.'s Run",
+   "C.B.'s Run 6",
+   "C.B.'s Run 4",
+   0.8
+  ],
+  [
+   "C.B.'s Run",
+   "C.B.'s Run 4",
+   "Eagle Lift bottom",
+   1.1
+  ],
+  [
+   "C.B.'s Run",
+   "Eagle Lift bottom",
+   "C.B.'s Run",
+   0.5
+  ],
+  [
+   "C.B.'s Run",
+   "C.B.'s Run",
+   "Eagle Lift bottom",
+   0.5
+  ],
+  [
+   "Fools Paradise",
+   "Fools Paradise / Alpenglow",
+   "Fools Paradise",
+   2.4
+  ],
+  [
+   "Fools Paradise",
+   "Fools Paradise",
+   "Fools Paradise / Illusion",
+   0.5
+  ],
+  [
+   "Outlaw",
+   "Outlaw / Doc's Run",
+   "Outlaw",
+   0.5
+  ],
+  [
+   "Outlaw",
+   "Outlaw",
+   "Outlaw / Willow Draw",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Dawn",
+   "Unnamed run / Elk Dance",
+   0.8
+  ],
+  [
+   "Powder Keg",
+   "Powder Keg / Home Run",
+   "Powder Keg",
+   2.2
+  ],
+  [
+   "Powder Keg",
+   "Powder Keg",
+   "Powder Keg / Hidden Splendor",
+   2.0
+  ],
+  [
+   "Muckers",
+   "Muckers / Home Run",
+   "Muckers",
+   0.9
+  ],
+  [
+   "Muckers",
+   "Muckers",
+   "Muckers / Shortliner",
+   1.2
+  ],
+  [
+   "Mid Mtn",
+   "Mid-Mountain Meadows / Mid Mtn",
+   "Mid Mtn",
+   2.4
+  ],
+  [
+   "Mid Mtn",
+   "Mid Mtn",
+   "Mid-Mountain Meadows / Mid Mtn 2",
+   0.9
+  ],
+  [
+   "Mid Mtn",
+   "Mid-Mountain Meadows / Mid Mtn 2",
+   "Lucky Boy / Mid Mtn",
+   0.5
+  ],
+  [
+   "Mid Mtn",
+   "Lucky Boy / Mid Mtn",
+   "Mid Mtn 2",
+   0.5
+  ],
+  [
+   "Mid Mtn",
+   "Mid Mtn 2",
+   "Mid Mtn / Shortline",
+   0.9
+  ],
+  [
+   "Seldom Seen",
+   "Climax / Seldom Seen",
+   "Seldom Seen / Hot Spot",
+   2.4
+  ],
+  [
+   "Mellow Moose",
+   "High Meadow Express top",
+   "Mellow Moose",
+   0.7
+  ],
+  [
+   "Mellow Moose",
+   "Mellow Moose",
+   "Mellow Moose 5",
+   0.5
+  ],
+  [
+   "Mellow Moose",
+   "Mellow Moose 5",
+   "Mellow Moose 3",
+   0.5
+  ],
+  [
+   "Mellow Moose",
+   "Mellow Moose 3",
+   "Mellow Moose 4",
+   0.5
+  ],
+  [
+   "Mellow Moose",
+   "Mellow Moose 4",
+   "Mellow Moose 2",
+   0.5
+  ],
+  [
+   "Mellow Moose",
+   "Mellow Moose 2",
+   "Mainline",
+   0.5
+  ],
+  [
+   "Mellow Moose",
+   "Mainline",
+   "Unnamed run / Mainline",
+   0.5
+  ],
+  [
+   "King Con Ridge",
+   "Sitka",
+   "King Con Ridge 4",
+   0.5
+  ],
+  [
+   "King Con Ridge",
+   "King Con Ridge 4",
+   "King Con Ridge 3",
+   0.5
+  ],
+  [
+   "King Con Ridge",
+   "King Con Ridge 3",
+   "King Con Ridge 2",
+   0.5
+  ],
+  [
+   "King Con Ridge",
+   "King Con Ridge 2",
+   "King Con Ridge",
+   0.5
+  ],
+  [
+   "King Con Ridge",
+   "King Con Ridge",
+   "Climax / Seldom Seen",
+   0.5
+  ],
+  [
+   "Snowdancer",
+   "Snowdancer",
+   "Snowdancer / White Pine",
+   2.2
+  ],
+  [
+   "Twilight",
+   "Twilight / Alpenglow",
+   "Pigment / Twilight",
+   0.9
+  ],
+  [
+   "Twilight",
+   "Pigment / Twilight",
+   "Twilight 2",
+   1.5
+  ],
+  [
+   "Twilight",
+   "Twilight 2",
+   "Twilight",
+   0.5
+  ],
+  [
+   "Twilight",
+   "Twilight",
+   "Twilight / Harmony",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "First Time Lift bottom",
+   "C.B.'s Run",
+   0.5
+  ],
+  [
+   "Lower Silver Skis",
+   "Lower Silver Skis / Homerun",
+   "Lower Silver Skis",
+   0.5
+  ],
+  [
+   "Lower Silver Skis",
+   "Lower Silver Skis",
+   "Shaft / Lower Silver Skis",
+   0.5
+  ],
+  [
+   "Lower Silver Skis",
+   "Shaft / Lower Silver Skis",
+   "Lower Silver Skis / Homerun 2",
+   0.8
+  ],
+  [
+   "Pinball Alley",
+   "Pinball Alley / Red Pine Road",
+   "Pinball Alley / Red Pine Road 2",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Eagle Lift top",
+   "Eaglet Lift bottom",
+   0.5
+  ],
+  [
+   "Shortline",
+   "Shortline / Shortliner",
+   "Mid Mtn / Shortline",
+   0.7
+  ],
+  [
+   "Shortline",
+   "Mid Mtn / Shortline",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   0.5
+  ],
+  [
+   "Treasure Hollow",
+   "Treasure Hollow / Homerun",
+   "Treasure Hollow 3",
+   0.5
+  ],
+  [
+   "Treasure Hollow",
+   "Treasure Hollow 3",
+   "Treasure Hollow 5",
+   0.5
+  ],
+  [
+   "Treasure Hollow",
+   "Treasure Hollow 5",
+   "Treasure Hollow 2",
+   1.0
+  ],
+  [
+   "Treasure Hollow",
+   "Treasure Hollow 2",
+   "Treasure Hollow",
+   0.8
+  ],
+  [
+   "Treasure Hollow",
+   "Treasure Hollow",
+   "Treasure Hollow 4",
+   0.5
+  ],
+  [
+   "Treasure Hollow",
+   "Treasure Hollow 4",
+   "Treasure Hollow / Waterfall",
+   1.0
+  ],
+  [
+   "3/4 Load",
+   "3/4 Load / Unnamed run",
+   "1/2 Load / 3/4 Load",
+   1.2
+  ],
+  [
+   "3/4 Load",
+   "1/2 Load / 3/4 Load",
+   "3/4 Load / Claim Jumper",
+   0.5
+  ],
+  [
+   "Main Bowl",
+   "Jupiter Lift top",
+   "Main Bowl",
+   0.5
+  ],
+  [
+   "Main Bowl",
+   "Main Bowl",
+   "Main Bowl / Shadow Ridge",
+   1.7
+  ],
+  [
+   "Pioneer",
+   "Lucky Boy",
+   "Mid Mtn",
+   1.2
+  ],
+  [
+   "Powder Alley",
+   "Powder Alley / Upper Crowning Glory",
+   "Powder Alley",
+   0.5
+  ],
+  [
+   "Powder Alley",
+   "Powder Alley",
+   "Serenity / Powder Alley",
+   1.7
+  ],
+  [
+   "Powder Alley",
+   "Serenity / Powder Alley",
+   "Powder Alley 2",
+   2.2
+  ],
+  [
+   "Powder Alley",
+   "Powder Alley 2",
+   "Escape / Powder Alley",
+   0.5
+  ],
+  [
+   "Powder Alley",
+   "Escape / Powder Alley",
+   "Peak 5 bottom",
+   0.5
+  ],
+  [
+   "Rendezvous Ridge",
+   "Rendezvous Ridge / Upper Apex Ridge",
+   "Rendezvous Ridge 2",
+   0.5
+  ],
+  [
+   "Rendezvous Ridge",
+   "Rendezvous Ridge 2",
+   "Rendezvous Ridge",
+   1.1
+  ],
+  [
+   "Rendezvous Ridge",
+   "Rendezvous Ridge",
+   "Rendezvous Ridge / Boa",
+   2.2
+  ],
+  [
+   "Alley Cat",
+   "Mellow Moose",
+   "Mellow Moose 4",
+   1.2
+  ],
+  [
+   "Alley Cat",
+   "Mellow Moose 4",
+   "Mellow Moose 2",
+   0.5
+  ],
+  [
+   "Newport",
+   "Newport / Lost Prospector",
+   "Newport / Hidden Splendor",
+   1.6
+  ],
+  [
+   "Heckler",
+   "Heckler / Blanche",
+   "Heckler / PayDay",
+   2.5
+  ],
+  [
+   "Backstreet",
+   "Backstreet",
+   "Backstreet / Panorama",
+   0.5
+  ],
+  [
+   "Mikey's",
+   "Mikey's / Motherlode Meadows",
+   "Thaynes Canyon 12",
+   1.8
+  ],
+  [
+   "Mikey's",
+   "Thaynes Canyon 12",
+   "Thaynes Canyon",
+   0.5
+  ],
+  [
+   "Abyss",
+   "Abyss / Harmony",
+   "Abyss / Talus Garden",
+   2.6
+  ],
+  [
+   "Claim Jumper",
+   "Claim Jumper / Home Run",
+   "Claim Jumper 4",
+   1.1
+  ],
+  [
+   "Claim Jumper",
+   "Claim Jumper 4",
+   "Claim Jumper 2",
+   0.5
+  ],
+  [
+   "Claim Jumper",
+   "Claim Jumper 2",
+   "1/2 Load / 3/4 Load",
+   0.6
+  ],
+  [
+   "Claim Jumper",
+   "1/2 Load / 3/4 Load",
+   "3/4 Load / Claim Jumper",
+   0.5
+  ],
+  [
+   "Claim Jumper",
+   "3/4 Load / Claim Jumper",
+   "Claim Jumper 3",
+   0.9
+  ],
+  [
+   "Claim Jumper",
+   "Claim Jumper 3",
+   "Claim Jumper",
+   0.9
+  ],
+  [
+   "Claim Jumper",
+   "Claim Jumper",
+   "Silverlode Hi-Speed Six-Pack bottom",
+   2.0
+  ],
+  [
+   "Claim Jumper",
+   "Silverlode Hi-Speed Six-Pack bottom",
+   "Claim Jumper / King Con",
+   0.5
+  ],
+  [
+   "Silver Skis",
+   "Unnamed run / Silver Skis",
+   "Lower Silver Skis",
+   2.0
+  ],
+  [
+   "Sleeper",
+   "Sleeper / Alpenglow",
+   "Sleeper / Harmony",
+   0.9
+  ],
+  [
+   "McConkey's Bowl",
+   "Georgeanna",
+   "Georgeanna 2",
+   2.3
+  ],
+  [
+   "Doc's Run",
+   "Short Cut top",
+   "Silverado / Doc's Run",
+   0.5
+  ],
+  [
+   "Doc's Run",
+   "Silverado / Doc's Run",
+   "Doc's Run 4",
+   0.6
+  ],
+  [
+   "Doc's Run",
+   "Doc's Run 4",
+   "Doc's Run",
+   0.5
+  ],
+  [
+   "Doc's Run",
+   "Doc's Run",
+   "Doc's Run 2",
+   2.0
+  ],
+  [
+   "Doc's Run",
+   "Doc's Run 2",
+   "Doc's Run 3",
+   1.2
+  ],
+  [
+   "Doc's Run",
+   "Doc's Run 3",
+   "Outlaw / Doc's Run",
+   0.5
+  ],
+  [
+   "Doc's Run",
+   "Outlaw / Doc's Run",
+   "Outlaw",
+   0.5
+  ],
+  [
+   "Doc's Run",
+   "Outlaw",
+   "Raptor Way 2",
+   0.5
+  ],
+  [
+   "Doc's Run",
+   "Raptor Way 2",
+   "Doc's Run / Sunrise",
+   1.4
+  ],
+  [
+   "Tranquility",
+   "South fork",
+   "The Drop / Tranquility",
+   0.5
+  ],
+  [
+   "Tranquility",
+   "The Drop / Tranquility",
+   "Another World",
+   2.7
+  ],
+  [
+   "Golden Glades",
+   "Golden Glades / The Draw",
+   "Golden Glades / Road D.O.",
+   1.4
+  ],
+  [
+   "Flying Salmon",
+   "Flying Salmon / Snow Dancer",
+   "Flying Salmon",
+   2.8
+  ],
+  [
+   "Flying Salmon",
+   "Flying Salmon",
+   "Mellow Moose 3",
+   1.2
+  ],
+  [
+   "Glory Hole",
+   "Parley's Park",
+   "Thaynes Canyon 2",
+   2.6
+  ],
+  [
+   "Mystic Pines",
+   "Mystic Pines / Upper Crowning Glory",
+   "Mystic Pines / Upper Crowning Glory 2",
+   2.7
+  ],
+  [
+   "Tin Cup",
+   "Tin Cup / Upper White Pine",
+   "Tin Cup / Upper White Pine 2",
+   0.7
+  ],
+  [
+   "Hidden Splendor",
+   "Hidden Splendor / Lost Prospector",
+   "Newport / Hidden Splendor",
+   3.4
+  ],
+  [
+   "Hidden Splendor",
+   "Newport / Hidden Splendor",
+   "Dynamite / Hidden Splendor",
+   0.5
+  ],
+  [
+   "Hidden Splendor",
+   "Dynamite / Hidden Splendor",
+   "Powder Keg / Hidden Splendor",
+   0.6
+  ],
+  [
+   "Hidden Splendor",
+   "Powder Keg / Hidden Splendor",
+   "Hidden Splendor",
+   0.5
+  ],
+  [
+   "Hidden Splendor",
+   "Hidden Splendor",
+   "Claim Jumper",
+   0.5
+  ],
+  [
+   "Lost Prospector",
+   "Silverlode Hi-Speed Six-Pack top",
+   "Hidden Splendor / Lost Prospector",
+   0.7
+  ],
+  [
+   "Lost Prospector",
+   "Hidden Splendor / Lost Prospector",
+   "Newport / Lost Prospector",
+   1.7
+  ],
+  [
+   "Lost Prospector",
+   "Newport / Lost Prospector",
+   "Dynamite",
+   1.6
+  ],
+  [
+   "McDonald's Meadow",
+   "Dreamscape top",
+   "McDonald's Meadow",
+   0.5
+  ],
+  [
+   "McDonald's Meadow",
+   "McDonald's Meadow",
+   "McDonald's Meadow 2",
+   1.5
+  ],
+  [
+   "McDonald's Meadow",
+   "McDonald's Meadow 2",
+   "McDonald's Meadow / Panorama",
+   0.5
+  ],
+  [
+   "Funnel Cloud",
+   "Funnel Cloud / Condor Woods",
+   "Funnel Cloud / Alley",
+   1.8
+  ],
+  [
+   "Gallery",
+   "Saddleback Express top",
+   "Mainline / Gallery",
+   3.0
+  ],
+  [
+   "Deshutes",
+   "Tombstone Express top",
+   "Deshutes / Red Pine Road",
+   1.6
+  ],
+  [
+   "Ladie's SL",
+   "Ladie's SL / Gotcha Cut-Off",
+   "Erika's Gold / Ladie's SL",
+   1.3
+  ],
+  [
+   "Ladie's SL",
+   "Erika's Gold / Ladie's SL",
+   "Ladie's SL",
+   1.3
+  ],
+  [
+   "Ladie's SL",
+   "Ladie's SL",
+   "Ladie's SL / Homerun",
+   0.5
+  ],
+  [
+   "Lazy Day",
+   "Lazy Day / Unnamed run",
+   "Lazy Day / Elk Dance",
+   2.9
+  ],
+  [
+   "Sixes",
+   "Outlaw",
+   "Sixes / Willow Draw",
+   1.3
+  ],
+  [
+   "Lead Foot",
+   "Lead Foot / Copperhead",
+   "Heavy Metal / Lead Foot",
+   1.8
+  ],
+  [
+   "Lead Foot",
+   "Heavy Metal / Lead Foot",
+   "Lead Foot",
+   1.1
+  ],
+  [
+   "Lead Foot",
+   "Lead Foot",
+   "Lead Foot / Mercury",
+   1.5
+  ],
+  [
+   "Vista",
+   "Eagle Lift top",
+   "Ligity Split",
+   3.1
+  ],
+  [
+   "Lone Pine",
+   "Super Condor Express top",
+   "A Chute / Lone Pine",
+   1.6
+  ],
+  [
+   "Lone Pine",
+   "A Chute / Lone Pine",
+   "Lone Pine / Alley",
+   0.5
+  ],
+  [
+   "Transitions",
+   "Transitions / Upper MAinline",
+   "Transitions",
+   1.8
+  ],
+  [
+   "Transitions",
+   "Transitions",
+   "Transitions / Eclipse",
+   2.2
+  ],
+  [
+   "Upper Mainline",
+   "Orange Bubble Express top",
+   "Kokopelli / Upper Mainline",
+   0.5
+  ],
+  [
+   "Upper Mainline",
+   "Kokopelli / Upper Mainline",
+   "Mainline / Gallery",
+   0.5
+  ],
+  [
+   "Upper Mainline",
+   "Mainline / Gallery",
+   "High Meadow Express top",
+   1.0
+  ],
+  [
+   "STH",
+   "STH / EZ Street",
+   "STH / Spider Monkey",
+   2.2
+  ],
+  [
+   "Illusion",
+   "Illusion / Bogeyman",
+   "Fools Paradise / Illusion",
+   1.5
+  ],
+  [
+   "94 Turns",
+   "Ninety-Nine 90 Express top",
+   "94 Turns",
+   1.9
+  ],
+  [
+   "94 Turns",
+   "94 Turns",
+   "94 Turns / Moraine",
+   0.5
+  ],
+  [
+   "Red Fox",
+   "Pioneer Lift top",
+   "Red Fox",
+   0.7
+  ],
+  [
+   "Red Fox",
+   "Red Fox",
+   "Sampson / Red Fox",
+   1.3
+  ],
+  [
+   "Nail Driver",
+   "Nail Driver / PayDay",
+   "Treasure Hollow",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "3 Kings Lift top",
+   "Unnamed run 5",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 5",
+   "C.B.'s Run 2",
+   0.5
+  ],
+  [
+   "Shadow Lands",
+   "Dreamcatcher top",
+   "Shadow Lands / Sandman",
+   1.6
+  ],
+  [
+   "Sticks and Stones",
+   "Sticks and Stones / Upper Apex Ridge",
+   "Sticks and Stones / Alley",
+   2.0
+  ],
+  [
+   "Apparition",
+   "Twilight",
+   "Pigment / Apparition",
+   0.8
+  ],
+  [
+   "Apparition",
+   "Pigment / Apparition",
+   "Apparition / Pipe Dream",
+   1.4
+  ],
+  [
+   "Alley",
+   "Alley / Western Boundary",
+   "Lone Pine / Alley",
+   0.6
+  ],
+  [
+   "Alley",
+   "Lone Pine / Alley",
+   "Funnel Cloud / Alley",
+   0.5
+  ],
+  [
+   "Alley",
+   "Funnel Cloud / Alley",
+   "Alley 2",
+   0.6
+  ],
+  [
+   "Alley",
+   "Alley 2",
+   "Alley",
+   1.4
+  ],
+  [
+   "Alley",
+   "Alley",
+   "Sticks and Stones / Alley",
+   0.6
+  ],
+  [
+   "Alley",
+   "Sticks and Stones / Alley",
+   "Alley / Spider Monkey",
+   0.5
+  ],
+  [
+   "Diablo",
+   "Diablo / Upper Lookout Ridge",
+   "Diablo / Willow Draw",
+   1.1
+  ],
+  [
+   "Canis Lupis",
+   "Renny's Ridge / Canis Lupis",
+   "Canis Lupis 2",
+   1.6
+  ],
+  [
+   "Canis Lupis",
+   "Canis Lupis 2",
+   "Canis Lupis",
+   1.1
+  ],
+  [
+   "Canis Lupis",
+   "Canis Lupis",
+   "Canis Lupis / Boa",
+   1.1
+  ],
+  [
+   "Oops",
+   "Oops / Winter Way",
+   "Oops",
+   0.5
+  ],
+  [
+   "Oops",
+   "Oops",
+   "Backstreet / Oops",
+   0.5
+  ],
+  [
+   "First Time",
+   "First Time Lift top",
+   "First Time",
+   2.4
+  ],
+  [
+   "First Time",
+   "First Time",
+   "First Time Lift bottom",
+   0.5
+  ],
+  [
+   "Dutch Hallow",
+   "Dutch Hallow / Fantasy Ridge",
+   "Dutch Hallow / Silver Spur",
+   3.6
+  ],
+  [
+   "Powder Monkey",
+   "Georgeanna 2",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   4.3
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Rhapsody",
+   "South fork",
+   1.3
+  ],
+  [
+   "Panorama",
+   "Dreamscape top",
+   "McDonald's Meadow",
+   0.5
+  ],
+  [
+   "Panorama",
+   "McDonald's Meadow",
+   "Panorama 2",
+   2.5
+  ],
+  [
+   "Panorama",
+   "Panorama 2",
+   "McDonald's Meadow 2",
+   2.0
+  ],
+  [
+   "Panorama",
+   "McDonald's Meadow 2",
+   "McDonald's Meadow / Panorama",
+   0.5
+  ],
+  [
+   "Panorama",
+   "McDonald's Meadow / Panorama",
+   "Oops",
+   0.5
+  ],
+  [
+   "Panorama",
+   "Oops",
+   "Backstreet / Oops",
+   0.5
+  ],
+  [
+   "Panorama",
+   "Backstreet / Oops",
+   "Deja Vu / Panorama",
+   0.5
+  ],
+  [
+   "Panorama",
+   "Deja Vu / Panorama",
+   "Backstreet / Panorama",
+   1.5
+  ],
+  [
+   "Panorama",
+   "Backstreet / Panorama",
+   "Panorama",
+   0.5
+  ],
+  [
+   "Panorama",
+   "Panorama",
+   "Dreamscape bottom",
+   0.5
+  ],
+  [
+   "Aplande",
+   "Aplande / Upper Apex Ridge",
+   "Aplande / Devil's Friend",
+   3.5
+  ],
+  [
+   "Silver Horse",
+   "Saddleback Express top",
+   "Silver Horse",
+   2.8
+  ],
+  [
+   "Silver Horse",
+   "Silver Horse",
+   "Flying Salmon",
+   0.5
+  ],
+  [
+   "Silver Horse",
+   "Flying Salmon",
+   "Silver Horse / Unnamed run",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Silver Horse / Unnamed run",
+   "High Meadow Express bottom",
+   1.4
+  ],
+  [
+   "G-Force",
+   "G-Force / Boomer",
+   "G-Force / Boomer 2",
+   1.5
+  ],
+  [
+   "Widowmaker",
+   "Widowmaker / PayDay",
+   "Treasure Hollow 2",
+   1.4
+  ],
+  [
+   "Buckkeye",
+   "Buckkeye / Sun Dog",
+   "Georgeanna 3",
+   1.6
+  ],
+  [
+   "10th Mountain",
+   "10th Mountain / Hawk Eye",
+   "Lucky Boy 2",
+   1.0
+  ],
+  [
+   "Double Nickel",
+   "Double Nickel / Copperhead",
+   "Heavy Metal / Lead Foot",
+   1.6
+  ],
+  [
+   "Double Nickel",
+   "Heavy Metal / Lead Foot",
+   "Double Nickel / Copperhead 2",
+   3.1
+  ],
+  [
+   "Unnamed run",
+   "Crescent Hi-Speed Quad top",
+   "1/2 Load / Unnamed run",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "1/2 Load / Unnamed run",
+   "3/4 Load / Unnamed run",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "3/4 Load / Unnamed run",
+   "Silver King / Unnamed run",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Silver King / Unnamed run",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 3",
+   "King Con Express top",
+   0.6
+  ],
+  [
+   "Boomer",
+   "Short Cut top",
+   "G-Force / Boomer",
+   0.5
+  ],
+  [
+   "Boomer",
+   "G-Force / Boomer",
+   "Boomer",
+   0.5
+  ],
+  [
+   "Boomer",
+   "Boomer",
+   "Grizzly / Boomer",
+   0.5
+  ],
+  [
+   "Boomer",
+   "Grizzly / Boomer",
+   "Boomer 2",
+   2.3
+  ],
+  [
+   "Boomer",
+   "Boomer 2",
+   "Grizzly / Boomer 2",
+   1.0
+  ],
+  [
+   "Boomer",
+   "Grizzly / Boomer 2",
+   "G-Force / Boomer 2",
+   0.5
+  ],
+  [
+   "Mel's Alley",
+   "Mel's Alley / Jonesy's",
+   "Dynamite",
+   3.9
+  ],
+  [
+   "Mel's Alley",
+   "Dynamite",
+   "Mel's Alley",
+   0.5
+  ],
+  [
+   "Mel's Alley",
+   "Mel's Alley",
+   "Mel's Alley / Prospector",
+   1.1
+  ],
+  [
+   "Spiro",
+   "Spiro / Temptation",
+   "Silver Star Lift top",
+   0.6
+  ],
+  [
+   "Spiro",
+   "Silver Star Lift top",
+   "Unnamed run / Spiro",
+   0.5
+  ],
+  [
+   "Spiro",
+   "Unnamed run / Spiro",
+   "Spiro",
+   0.5
+  ],
+  [
+   "Spiro",
+   "Spiro",
+   "Spiro / Temptation 2",
+   1.2
+  ],
+  [
+   "Fools Gold",
+   "Parley's Park 2",
+   "Thaynes Canyon 3",
+   2.6
+  ],
+  [
+   "Condor Woods",
+   "Funnel Cloud / Condor Woods",
+   "Canis Lupis",
+   2.3
+  ],
+  [
+   "Flat Iron",
+   "Flat Iron",
+   "Flat Iron / Jonesy's",
+   1.7
+  ],
+  [
+   "Reaper",
+   "Trance",
+   "Reaper / Sandman",
+   2.5
+  ],
+  [
+   "Dividend",
+   "Payday Hi-Speed Six-Pack top",
+   "Treasure Hollow 3",
+   1.3
+  ],
+  [
+   "Snow Dancer",
+   "Kokopelli 2",
+   "Flying Salmon / Snow Dancer",
+   3.0
+  ],
+  [
+   "Snow Dancer",
+   "Flying Salmon / Snow Dancer",
+   "Snow Dancer",
+   1.5
+  ],
+  [
+   "Snow Dancer",
+   "Snow Dancer",
+   "Snow Dancer 2",
+   1.4
+  ],
+  [
+   "Snow Dancer",
+   "Snow Dancer 2",
+   "Silver Horse / Unnamed run",
+   0.6
+  ],
+  [
+   "Snow Dancer",
+   "Silver Horse / Unnamed run",
+   "Mellow Moose 4",
+   0.5
+  ],
+  [
+   "Thunder",
+   "Thunder / Cloud 9",
+   "Paradise",
+   1.0
+  ],
+  [
+   "Shortliner",
+   "Shortliner / Homerun",
+   "Muckers / Shortliner",
+   0.5
+  ],
+  [
+   "Shortliner",
+   "Muckers / Shortliner",
+   "Shortline / Shortliner",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "King Con Ridge",
+   "Climax / Seldom Seen",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Climax / Seldom Seen",
+   "Eagle Lift top",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Eagle Lift top",
+   "Eaglet Lift bottom",
+   0.5
+  ],
+  [
+   "Blaster",
+   "Blaster / Belmont",
+   "Muckers",
+   1.3
+  ],
+  [
+   "King Con",
+   "King Con / Rose Bud",
+   "Claim Jumper / King Con",
+   1.9
+  ],
+  [
+   "King Con",
+   "Claim Jumper / King Con",
+   "Quicksilver Gondola bottom",
+   0.5
+  ],
+  [
+   "Shadow Ridge",
+   "Main Bowl",
+   "Main Bowl / Shadow Ridge",
+   1.8
+  ],
+  [
+   "Shadow Ridge",
+   "Main Bowl / Shadow Ridge",
+   "Shadow Ridge / Unnamed run",
+   0.5
+  ],
+  [
+   "Badlands",
+   "Badlands / Upper Lookout Ridge",
+   "Badlands / Flume",
+   2.1
+  ],
+  [
+   "Zeke's Road",
+   "Thaynes Canyon 4",
+   "TNT / Thaynes Canyon",
+   6.0
+  ],
+  [
+   "Zeke's Road",
+   "TNT / Thaynes Canyon",
+   "Thaynes Canyon 5",
+   0.5
+  ],
+  [
+   "Men's SL",
+   "Men's SL / Gotcha Cut-Off",
+   "Erika's Gold / Ladie's SL",
+   1.5
+  ],
+  [
+   "Fantasy Ridge",
+   "Fantasy Ridge / Moraine",
+   "Fantasy Ridge",
+   0.7
+  ],
+  [
+   "Fantasy Ridge",
+   "Fantasy Ridge",
+   "Dutch Hallow / Fantasy Ridge",
+   0.8
+  ],
+  [
+   "Fantasy Ridge",
+   "Dutch Hallow / Fantasy Ridge",
+   "Another World / Fantasy Ridge",
+   4.1
+  ],
+  [
+   "Iron Man",
+   "Iron Man / Copperhead",
+   "Heavy Metal / Lead Foot",
+   1.8
+  ],
+  [
+   "Eureka",
+   "King Con Ridge 2",
+   "Eureka / Monitor",
+   2.0
+  ],
+  [
+   "Blanche",
+   "Blanche / Drift",
+   "Heckler / Blanche",
+   1.1
+  ],
+  [
+   "Blanche",
+   "Heckler / Blanche",
+   "Treasure Hollow 4",
+   1.3
+  ],
+  [
+   "Sanctuary",
+   "Serenity / Powder Alley",
+   "Sanctuary",
+   3.5
+  ],
+  [
+   "Sanctuary",
+   "Sanctuary",
+   "Sanctuary / Lower Crowning Glory",
+   1.8
+  ],
+  [
+   "Thaynes",
+   "Thaynes Lift top",
+   "Thaynes Lift bottom",
+   3.3
+  ],
+  [
+   "Cascade",
+   "Dreamcatcher bottom",
+   "Cascade 3",
+   0.5
+  ],
+  [
+   "Cascade",
+   "Cascade 3",
+   "Cascade 2",
+   0.5
+  ],
+  [
+   "Cascade",
+   "Cascade 2",
+   "Cascade",
+   2.1
+  ],
+  [
+   "Cascade",
+   "Cascade",
+   "Iron Mountain Express bottom",
+   2.4
+  ],
+  [
+   "Portuguse Gap",
+   "Portuguse Gap",
+   "Portuguse Gap 2",
+   1.9
+  ],
+  [
+   "Red Pine Road",
+   "Red Pine Road / Vertigo",
+   "Another World / Fantasy Ridge",
+   0.5
+  ],
+  [
+   "Red Pine Road",
+   "Another World / Fantasy Ridge",
+   "Red Pine Road 2",
+   1.8
+  ],
+  [
+   "Red Pine Road",
+   "Red Pine Road 2",
+   "Pinball Alley / Red Pine Road",
+   0.7
+  ],
+  [
+   "Red Pine Road",
+   "Pinball Alley / Red Pine Road",
+   "Red Pine Road 4",
+   1.2
+  ],
+  [
+   "Red Pine Road",
+   "Red Pine Road 4",
+   "Pinball Alley / Red Pine Road 2",
+   0.7
+  ],
+  [
+   "Red Pine Road",
+   "Pinball Alley / Red Pine Road 2",
+   "Deshutes / Red Pine Road",
+   0.5
+  ],
+  [
+   "Red Pine Road",
+   "Deshutes / Red Pine Road",
+   "Red Pine Road 3",
+   2.7
+  ],
+  [
+   "Red Pine Road",
+   "Red Pine Road 3",
+   "Red Pine Road",
+   0.5
+  ],
+  [
+   "Upper White Pine",
+   "Iron Mountain Express top",
+   "Tin Cup / Upper White Pine",
+   1.6
+  ],
+  [
+   "Upper White Pine",
+   "Tin Cup / Upper White Pine",
+   "Unnamed lift top",
+   1.2
+  ],
+  [
+   "Upper White Pine",
+   "Unnamed lift top",
+   "The Highway / Upper White Pine",
+   0.8
+  ],
+  [
+   "Upper White Pine",
+   "The Highway / Upper White Pine",
+   "Tin Cup / Upper White Pine 2",
+   2.1
+  ],
+  [
+   "Upper White Pine",
+   "Tin Cup / Upper White Pine 2",
+   "Upper White Pine 2",
+   0.5
+  ],
+  [
+   "Upper White Pine",
+   "Upper White Pine 2",
+   "Upper White Pine",
+   0.5
+  ],
+  [
+   "Upper White Pine",
+   "Upper White Pine",
+   "Flatiron top",
+   0.5
+  ],
+  [
+   "Spider Monkey",
+   "Spider Monkey / EZ Street",
+   "Spider Monkey",
+   0.5
+  ],
+  [
+   "Spider Monkey",
+   "Spider Monkey",
+   "Sticks and Stones / Alley",
+   1.0
+  ],
+  [
+   "Spider Monkey",
+   "Sticks and Stones / Alley",
+   "Alley / Spider Monkey",
+   0.5
+  ],
+  [
+   "Spider Monkey",
+   "Alley / Spider Monkey",
+   "STH / Spider Monkey",
+   1.3
+  ],
+  [
+   "Spider Monkey",
+   "STH / Spider Monkey",
+   "Sun Peak Express bottom",
+   0.9
+  ],
+  [
+   "Woodside",
+   "Georgeanna / Woodside",
+   "Woodside 2",
+   0.8
+  ],
+  [
+   "Woodside",
+   "Woodside 2",
+   "Woodside",
+   1.5
+  ],
+  [
+   "Woodside",
+   "Woodside",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   1.0
+  ],
+  [
+   "Charlie Brown",
+   "Charlie Brown / Red Pine Chute",
+   "Charlie Brown / Red Pine Chute 2",
+   2.6
+  ],
+  [
+   "Alpenglow",
+   "Dreamscape top",
+   "Deja Vu",
+   0.5
+  ],
+  [
+   "Alpenglow",
+   "Deja Vu",
+   "Fools Paradise / Alpenglow",
+   0.5
+  ],
+  [
+   "Alpenglow",
+   "Fools Paradise / Alpenglow",
+   "Twilight / Alpenglow",
+   0.8
+  ],
+  [
+   "Alpenglow",
+   "Twilight / Alpenglow",
+   "Alpenglow",
+   1.6
+  ],
+  [
+   "Alpenglow",
+   "Alpenglow",
+   "Sleeper / Alpenglow",
+   0.5
+  ],
+  [
+   "Alpenglow",
+   "Sleeper / Alpenglow",
+   "Panorama",
+   1.0
+  ],
+  [
+   "Road D.O.",
+   "Road D.O.",
+   "Raptor Way 2",
+   2.2
+  ],
+  [
+   "Spur",
+   "Apex Ridge",
+   "Spur / Boa",
+   2.2
+  ],
+  [
+   "Quantum Leap",
+   "Quantum Leap / Vertigo",
+   "Another World 2",
+   2.4
+  ],
+  [
+   "Dawn",
+   "Day Break top",
+   "Unnamed run / Dawn",
+   1.5
+  ],
+  [
+   "Bogeyman",
+   "Bogeyman / Phantasm",
+   "Illusion / Bogeyman",
+   2.1
+  ],
+  [
+   "Bogeyman",
+   "Illusion / Bogeyman",
+   "Bogeyman / Pipe Dream",
+   2.4
+  ],
+  [
+   "Liberty",
+   "King Con Ridge 3",
+   "Liberty / Broadway",
+   2.2
+  ],
+  [
+   "Combustion",
+   "Road To Thaynes Canyon 2",
+   "Road To Thaynes Canyon 3",
+   0.8
+  ],
+  [
+   "East Face",
+   "Fantasy Ridge",
+   "Fright Gully",
+   2.2
+  ],
+  [
+   "The Aspens",
+   "Saddleback Express top",
+   "Flying Salmon",
+   3.4
+  ],
+  [
+   "Golden spruce",
+   "Golden spruce",
+   "Snowdancer",
+   1.7
+  ],
+  [
+   "Red Pine Chute",
+   "Charlie Brown / Red Pine Chute",
+   "Charlie Brown / Red Pine Chute 2",
+   3.1
+  ],
+  [
+   "Talus Garden",
+   "94 Turns",
+   "Abyss / Talus Garden",
+   3.8
+  ],
+  [
+   "Talus Garden",
+   "Abyss / Talus Garden",
+   "Talus Garden / Moraine",
+   1.3
+  ],
+  [
+   "Platinum Woods",
+   "Gold Finger / Platinum Woods",
+   "Cascade",
+   3.2
+  ],
+  [
+   "Ectasy",
+   "Saddleback Express top",
+   "Ectasy / Pine Draw",
+   1.5
+  ],
+  [
+   "Vertigo",
+   "Red Pine Road / Vertigo",
+   "Quantum Leap / Vertigo",
+   0.5
+  ],
+  [
+   "Vertigo",
+   "Quantum Leap / Vertigo",
+   "Another World 3",
+   1.6
+  ],
+  [
+   "Silver Star",
+   "Spiro",
+   "Unnamed lift bottom 2",
+   3.8
+  ],
+  [
+   "Silver Star",
+   "Unnamed lift bottom 2",
+   "Silver Star Lift bottom",
+   0.6
+  ],
+  [
+   "Waterfall",
+   "Waterfall / Crescent",
+   "Treasure Hollow / Waterfall",
+   2.9
+  ],
+  [
+   "Monitor",
+   "King Con Ridge",
+   "Eureka / Monitor",
+   1.9
+  ],
+  [
+   "The Draw",
+   "Doc's Run",
+   "The Draw",
+   0.5
+  ],
+  [
+   "The Draw",
+   "The Draw",
+   "Golden Glades / The Draw",
+   0.5
+  ],
+  [
+   "The Draw",
+   "Golden Glades / The Draw",
+   "Doc's Run 2",
+   0.7
+  ],
+  [
+   "Sunnyside",
+   "Parley's Park 3",
+   "Parley's Park 5",
+   0.5
+  ],
+  [
+   "Sunnyside",
+   "Parley's Park 5",
+   "Thaynes Canyon 6",
+   2.6
+  ],
+  [
+   "King's Crown",
+   "Creole / King's Crown",
+   "King's Crown",
+   2.1
+  ],
+  [
+   "King's Crown",
+   "King's Crown",
+   "Crescent Hi-Speed Quad bottom",
+   2.3
+  ],
+  [
+   "Unnamed run",
+   "Silverlode Hi-Speed Six-Pack top",
+   "Unnamed run / Parley's Park",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Parley's Park",
+   "Parley's Park / Unnamed run",
+   0.5
+  ],
+  [
+   "Super Fury",
+   "Short Cut top",
+   "Sun Peak Express bottom",
+   2.1
+  ],
+  [
+   "Encore",
+   "Encore / Sidewinder",
+   "Encore / Chicane",
+   1.6
+  ],
+  [
+   "Mine Shaft",
+   "Mine Shaft / Eclipse",
+   "STH / Spider Monkey",
+   2.1
+  ],
+  [
+   "Silver Hollow",
+   "C.B.'s Run 3",
+   "Silver Hollow 2",
+   1.0
+  ],
+  [
+   "Silver Hollow",
+   "Silver Hollow 2",
+   "Silver Hollow",
+   0.5
+  ],
+  [
+   "Silver Hollow",
+   "Silver Hollow",
+   "Ladie's SL",
+   0.8
+  ],
+  [
+   "Thaynes Canyon",
+   "Thaynes Canyon 7",
+   "Motherlode Express bottom",
+   0.5
+  ],
+  [
+   "Thaynes Canyon",
+   "Motherlode Express bottom",
+   "Thaynes Canyon 8",
+   0.5
+  ],
+  [
+   "Hidden Bear",
+   "High Meadow Express top",
+   "Mellow Moose 3",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Day Break top",
+   "Lazy Day / Unnamed run",
+   1.6
+  ],
+  [
+   "Badger's Bypass",
+   "Snow Dancer",
+   "Snow Dancer 2",
+   1.3
+  ],
+  [
+   "Homerun",
+   "Unnamed run",
+   "Shortliner / Homerun",
+   1.8
+  ],
+  [
+   "Homerun",
+   "Shortliner / Homerun",
+   "Homerun",
+   4.0
+  ],
+  [
+   "Homerun",
+   "Homerun",
+   "Homerun 2",
+   0.5
+  ],
+  [
+   "Homerun",
+   "Homerun 2",
+   "Treasure Hollow / Homerun",
+   1.1
+  ],
+  [
+   "Homerun",
+   "Treasure Hollow / Homerun",
+   "Lower Silver Skis / Homerun",
+   0.6
+  ],
+  [
+   "Homerun",
+   "Lower Silver Skis / Homerun",
+   "Lower Silver Skis",
+   1.4
+  ],
+  [
+   "Homerun",
+   "Lower Silver Skis",
+   "Lower Silver Skis / Homerun 2",
+   2.0
+  ],
+  [
+   "Homerun",
+   "Lower Silver Skis / Homerun 2",
+   "Silver King / Homerun",
+   0.5
+  ],
+  [
+   "Homerun",
+   "Silver King / Homerun",
+   "Treasure Hollow / Waterfall",
+   1.4
+  ],
+  [
+   "Homerun",
+   "Treasure Hollow / Waterfall",
+   "Ladie's SL / Homerun",
+   1.8
+  ],
+  [
+   "Homerun",
+   "Ladie's SL / Homerun",
+   "Crescent Hi-Speed Quad bottom",
+   1.7
+  ],
+  [
+   "Homerun",
+   "Crescent Hi-Speed Quad bottom",
+   "First Time",
+   1.5
+  ],
+  [
+   "PayDay",
+   "Payday Hi-Speed Six-Pack top",
+   "Widowmaker / PayDay",
+   0.7
+  ],
+  [
+   "PayDay",
+   "Widowmaker / PayDay",
+   "Nail Driver / PayDay",
+   0.5
+  ],
+  [
+   "PayDay",
+   "Nail Driver / PayDay",
+   "Creole / King's Crown",
+   2.1
+  ],
+  [
+   "PayDay",
+   "Creole / King's Crown",
+   "Heckler / PayDay",
+   3.1
+  ],
+  [
+   "PayDay",
+   "Heckler / PayDay",
+   "Crescent Hi-Speed Quad bottom",
+   1.3
+  ],
+  [
+   "PayDay",
+   "Crescent Hi-Speed Quad bottom",
+   "Payday Hi-Speed Six-Pack bottom",
+   0.5
+  ],
+  [
+   "Black Hole",
+   "Short Cut top",
+   "Black Hole / Flume",
+   2.3
+  ],
+  [
+   "Flume",
+   "G-Force / Boomer 2",
+   "Sun Peak Express bottom",
+   0.6
+  ],
+  [
+   "Flume",
+   "Sun Peak Express bottom",
+   "Black Hole / Flume",
+   0.5
+  ],
+  [
+   "Flume",
+   "Black Hole / Flume",
+   "Flume",
+   0.9
+  ],
+  [
+   "Flume",
+   "Flume",
+   "Badlands / Flume",
+   0.6
+  ],
+  [
+   "Flume",
+   "Badlands / Flume",
+   "Apex Ridge / Flume",
+   0.5
+  ],
+  [
+   "Chicane Bypass",
+   "Chicane Bypass / Chicane",
+   "Another World 4",
+   2.0
+  ],
+  [
+   "Upper Apex Ridge",
+   "Super Condor Express top",
+   "Funnel Cloud / Condor Woods",
+   0.5
+  ],
+  [
+   "Upper Apex Ridge",
+   "Funnel Cloud / Condor Woods",
+   "Upper Apex Ridge 3",
+   0.5
+  ],
+  [
+   "Upper Apex Ridge",
+   "Upper Apex Ridge 3",
+   "Upper Apex Ridge 2",
+   0.5
+  ],
+  [
+   "Upper Apex Ridge",
+   "Upper Apex Ridge 2",
+   "Aplande / Upper Apex Ridge",
+   0.5
+  ],
+  [
+   "Upper Apex Ridge",
+   "Aplande / Upper Apex Ridge",
+   "Sticks and Stones / Upper Apex Ridge",
+   0.5
+  ],
+  [
+   "Upper Apex Ridge",
+   "Sticks and Stones / Upper Apex Ridge",
+   "Upper Apex Ridge",
+   0.5
+  ],
+  [
+   "Upper Apex Ridge",
+   "Upper Apex Ridge",
+   "Rendezvous Ridge / Upper Apex Ridge",
+   0.5
+  ],
+  [
+   "Upper Apex Ridge",
+   "Rendezvous Ridge / Upper Apex Ridge",
+   "Apex Ridge / Upper Apex Ridge",
+   0.5
+  ],
+  [
+   "Carbide Cut",
+   "Parley's Park 4",
+   "Thaynes Canyon 9",
+   1.2
+  ],
+  [
+   "Motherlode Meadows",
+   "Mikey's / Motherlode Meadows",
+   "Thaynes Canyon 11",
+   2.4
+  ],
+  [
+   "002",
+   "Day Break top",
+   "002",
+   0.7
+  ],
+  [
+   "002",
+   "002",
+   "Panorama 2",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Rhino / Unnamed run",
+   "Jupiter Lift bottom",
+   3.0
+  ],
+  [
+   "Comstock",
+   "Pioneer Lift top",
+   "Sampson / Red Fox",
+   1.8
+  ],
+  [
+   "Comstock",
+   "Sampson / Red Fox",
+   "Georgeanna / Woodside",
+   0.5
+  ],
+  [
+   "Showcase",
+   "Serenity",
+   "Sanctuary",
+   2.2
+  ],
+  [
+   "Jupiter Access",
+   "Unnamed run / Jupiter Access",
+   "Jupiter Lift bottom",
+   6.1
+  ],
+  [
+   "Jupiter Access",
+   "Jupiter Lift bottom",
+   "Keystone / Jupiter Access",
+   3.0
+  ],
+  [
+   "Jupiter Access",
+   "Keystone / Jupiter Access",
+   "Constellation / Jupiter Access",
+   0.6
+  ],
+  [
+   "Jupiter Access",
+   "Constellation / Jupiter Access",
+   "Half Moon / Jupiter Access",
+   0.5
+  ],
+  [
+   "Jupiter Access",
+   "Half Moon / Jupiter Access",
+   "Quarter Moon / Jupiter Access",
+   0.9
+  ],
+  [
+   "Jupiter Access",
+   "Quarter Moon / Jupiter Access",
+   "Thaynes Lift bottom",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift top",
+   "Unnamed run 2",
+   1.7
+  ],
+  [
+   "Elk Dance",
+   "Lazy Day / Unnamed run",
+   "Unnamed run / Elk Dance",
+   1.1
+  ],
+  [
+   "Elk Dance",
+   "Unnamed run / Elk Dance",
+   "Lazy Day / Elk Dance",
+   1.1
+  ],
+  [
+   "Elk Dance",
+   "Lazy Day / Elk Dance",
+   "Elk Dance / Harmony",
+   0.7
+  ],
+  [
+   "Bugle Ridge Bypass",
+   "Bugle Ridge Bypass / Pipe Dream",
+   "Bugle Ridge Bypass",
+   1.0
+  ],
+  [
+   "Bugle Ridge Bypass",
+   "Bugle Ridge Bypass",
+   "Bugle Ridge / Bugle Ridge Bypass",
+   0.5
+  ],
+  [
+   "Bugle Ridge Bypass",
+   "Bugle Ridge / Bugle Ridge Bypass",
+   "Trance / Off Ramp",
+   1.6
+  ],
+  [
+   "Bugle Ridge Bypass",
+   "Trance / Off Ramp",
+   "Flatiron bottom",
+   0.7
+  ],
+  [
+   "Commitment",
+   "Commitment / Picabo's Run",
+   "C.B.'s Run 4",
+   2.2
+  ],
+  [
+   "Crescent",
+   "Crescent / Silver Queen",
+   "Unnamed run / Silver Skis",
+   0.7
+  ],
+  [
+   "Crescent",
+   "Unnamed run / Silver Skis",
+   "Lower Silver Skis / Homerun",
+   1.8
+  ],
+  [
+   "Crescent",
+   "Lower Silver Skis / Homerun",
+   "Waterfall / Crescent",
+   0.5
+  ],
+  [
+   "Crescent",
+   "Waterfall / Crescent",
+   "Treasure Hollow 5",
+   0.5
+  ],
+  [
+   "Black Forest",
+   "Black Forest / Tycoon",
+   "Woodside",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "Silver Horse / Unnamed run",
+   "Mainline",
+   0.8
+  ],
+  [
+   "Molly's",
+   "Georgeanna 4",
+   "Molly's",
+   1.6
+  ],
+  [
+   "Molly's",
+   "Molly's",
+   "Georgeanna 5",
+   0.5
+  ],
+  [
+   "Rhapsody",
+   "Rhapsody",
+   "Rhapsody 2",
+   2.5
+  ],
+  [
+   "Rhapsody",
+   "Rhapsody 2",
+   "Unnamed run / Rhapsody",
+   0.5
+  ],
+  [
+   "Detonator",
+   "Mel's Alley",
+   "Detonator / Prospector",
+   2.2
+  ],
+  [
+   "Specter",
+   "Deja Vu",
+   "Fools Paradise / Alpenglow",
+   0.5
+  ],
+  [
+   "Specter",
+   "Fools Paradise / Alpenglow",
+   "Fools Paradise",
+   2.3
+  ],
+  [
+   "Magic Line",
+   "Magic Line",
+   "Charlie Brown / Red Pine Chute",
+   0.5
+  ],
+  [
+   "Magic Line",
+   "Charlie Brown / Red Pine Chute",
+   "Magic Line / End Zone",
+   3.0
+  ],
+  [
+   "Unnamed run",
+   "3 Kings Lift top",
+   "Silver Hollow",
+   0.5
+  ],
+  [
+   "Moraine",
+   "Moraine",
+   "Fantasy Ridge / Moraine",
+   0.5
+  ],
+  [
+   "Moraine",
+   "Fantasy Ridge / Moraine",
+   "Fright Gully / Moraine",
+   0.9
+  ],
+  [
+   "Moraine",
+   "Fright Gully / Moraine",
+   "94 Turns / Moraine",
+   1.6
+  ],
+  [
+   "Moraine",
+   "94 Turns / Moraine",
+   "Aspen Grove / Moraine",
+   0.5
+  ],
+  [
+   "Moraine",
+   "Aspen Grove / Moraine",
+   "Fright Gully / Moraine 2",
+   0.6
+  ],
+  [
+   "Moraine",
+   "Fright Gully / Moraine 2",
+   "Aspen Grove / Moraine 2",
+   1.7
+  ],
+  [
+   "Moraine",
+   "Aspen Grove / Moraine 2",
+   "Talus Garden / Moraine",
+   2.0
+  ],
+  [
+   "Moraine",
+   "Talus Garden / Moraine",
+   "Peak 5 bottom",
+   0.5
+  ],
+  [
+   "White Water",
+   "White Water / Harmony",
+   "Cascade 2",
+   1.8
+  ],
+  [
+   "Snow Meadow",
+   "McDonald's Meadow",
+   "McDonald's Meadow 2",
+   1.5
+  ],
+  [
+   "End Zone",
+   "Charlie Brown / Red Pine Chute 2",
+   "Magic Line / End Zone",
+   0.6
+  ],
+  [
+   "End Zone",
+   "Magic Line / End Zone",
+   "Red Pine Road 2",
+   1.8
+  ],
+  [
+   "Sidewinder",
+   "Tombstone Express top",
+   "Sidewinder 2",
+   0.5
+  ],
+  [
+   "Sidewinder",
+   "Sidewinder 2",
+   "Paradise / Sidewinder",
+   0.5
+  ],
+  [
+   "Sidewinder",
+   "Paradise / Sidewinder",
+   "Paradise 2",
+   0.5
+  ],
+  [
+   "Sidewinder",
+   "Paradise 2",
+   "Sidewinder",
+   0.5
+  ],
+  [
+   "Sidewinder",
+   "Sidewinder",
+   "Encore / Sidewinder",
+   1.7
+  ],
+  [
+   "Sidewinder",
+   "Encore / Sidewinder",
+   "Red Pine Road 3",
+   0.6
+  ],
+  [
+   "Sun Dog",
+   "McConkey's Hi-Speed Six-Pack top",
+   "Buckkeye / Sun Dog",
+   1.6
+  ],
+  [
+   "Sun Dog",
+   "Buckkeye / Sun Dog",
+   "Sampson",
+   1.5
+  ],
+  [
+   "Silver Spur",
+   "Another World / Fantasy Ridge",
+   "Dutch Hallow / Silver Spur",
+   2.7
+  ],
+  [
+   "Silver Spur",
+   "Dutch Hallow / Silver Spur",
+   "Escape / Powder Alley",
+   3.1
+  ],
+  [
+   "Town",
+   "Creole / Quit 'N Time",
+   "Town",
+   0.5
+  ],
+  [
+   "Town",
+   "Town",
+   "Town Lift bottom",
+   0.5
+  ],
+  [
+   "Town",
+   "Town Lift bottom",
+   "Town 2",
+   0.5
+  ],
+  [
+   "Town",
+   "Town 2",
+   "Town Lift bottom",
+   0.5
+  ],
+  [
+   "Mercury",
+   "Iron Mountain Express top",
+   "Mercury",
+   1.1
+  ],
+  [
+   "Mercury",
+   "Mercury",
+   "Heavy Metal / Mercury",
+   0.5
+  ],
+  [
+   "Mercury",
+   "Heavy Metal / Mercury",
+   "Gold Finger / Platinum Woods",
+   0.5
+  ],
+  [
+   "Mercury",
+   "Gold Finger / Platinum Woods",
+   "Lead Foot / Mercury",
+   4.0
+  ],
+  [
+   "Mercury",
+   "Lead Foot / Mercury",
+   "Iron Mountain Express bottom",
+   1.4
+  ],
+  [
+   "Devil's Friend",
+   "Upper Apex Ridge",
+   "Aplande / Devil's Friend",
+   2.9
+  ],
+  [
+   "Turtle Trail",
+   "First Time Lift top",
+   "Ladie's SL / Homerun",
+   0.7
+  ],
+  [
+   "Escapade Woods",
+   "Sidewinder",
+   "Escapade Woods / Chicane",
+   4.7
+  ],
+  [
+   "Willy's Run",
+   "Unnamed run 3",
+   "Erika's Gold",
+   3.9
+  ],
+  [
+   "Royal",
+   "Powder Alley",
+   "Solace / Royal",
+   0.6
+  ],
+  [
+   "Royal",
+   "Solace / Royal",
+   "Royal / Harmony",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Mid Mtn 2",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   "Pioneer Lift bottom",
+   0.6
+  ],
+  [
+   "Willow Draw",
+   "Apex Ridge / Flume",
+   "Super Condor Express bottom",
+   0.5
+  ],
+  [
+   "Willow Draw",
+   "Super Condor Express bottom",
+   "Tower / Willow Draw",
+   0.8
+  ],
+  [
+   "Willow Draw",
+   "Tower / Willow Draw",
+   "Diablo / Willow Draw",
+   0.9
+  ],
+  [
+   "Willow Draw",
+   "Diablo / Willow Draw",
+   "Ripcord bottom",
+   0.5
+  ],
+  [
+   "Willow Draw",
+   "Ripcord bottom",
+   "Ripcord top",
+   0.5
+  ],
+  [
+   "Willow Draw",
+   "Ripcord top",
+   "Willow Draw",
+   0.5
+  ],
+  [
+   "Willow Draw",
+   "Willow Draw",
+   "Outlaw / Willow Draw",
+   0.5
+  ],
+  [
+   "Willow Draw",
+   "Outlaw / Willow Draw",
+   "Sixes / Willow Draw",
+   0.5
+  ],
+  [
+   "Willow Draw",
+   "Sixes / Willow Draw",
+   "Raptor Way / Willow Draw",
+   0.5
+  ],
+  [
+   "Willow Draw",
+   "Raptor Way / Willow Draw",
+   "Orange Bubble Express bottom",
+   1.5
+  ],
+  [
+   "Hot Spot",
+   "Road To Thaynes Canyon / Climax",
+   "Seldom Seen / Hot Spot",
+   0.5
+  ],
+  [
+   "Hot Spot",
+   "Seldom Seen / Hot Spot",
+   "King Con Express bottom",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Crescent Hi-Speed Quad bottom",
+   "Payday Hi-Speed Six-Pack bottom",
+   0.5
+  ],
+  [
+   "RDR",
+   "King's Crown",
+   "Creole 2",
+   1.1
+  ],
+  [
+   "The Pines",
+   "Saddleback Express top",
+   "The Pines / Pine Draw",
+   2.0
+  ],
+  [
+   "Eclipse",
+   "Sun Peak Express top",
+   "Transitions",
+   0.8
+  ],
+  [
+   "Eclipse",
+   "Transitions",
+   "Mine Shaft / Eclipse",
+   1.0
+  ],
+  [
+   "Eclipse",
+   "Mine Shaft / Eclipse",
+   "Transitions / Eclipse",
+   0.6
+  ],
+  [
+   "Eclipse",
+   "Transitions / Eclipse",
+   "Eclipse",
+   0.5
+  ],
+  [
+   "Eclipse",
+   "Eclipse",
+   "Echo / Eclipse",
+   0.9
+  ],
+  [
+   "Eclipse",
+   "Echo / Eclipse",
+   "Sun Peak Express bottom",
+   0.9
+  ],
+  [
+   "Yard Sale",
+   "Upper Apex Ridge 2",
+   "Alley",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Silverlode Hi-Speed Six-Pack bottom",
+   "Claim Jumper / King Con",
+   0.5
+  ],
+  [
+   "Prospector",
+   "Parley's Park 5",
+   "Dynamite / Parley's Park",
+   0.5
+  ],
+  [
+   "Prospector",
+   "Dynamite / Parley's Park",
+   "Mel's Alley / Prospector",
+   2.2
+  ],
+  [
+   "Prospector",
+   "Mel's Alley / Prospector",
+   "Detonator / Prospector",
+   0.5
+  ],
+  [
+   "Prospector",
+   "Detonator / Prospector",
+   "Silverlode Hi-Speed Six-Pack bottom",
+   1.0
+  ],
+  [
+   "P-Zone",
+   "P-Zone",
+   "East Face / P-Zone",
+   2.1
+  ],
+  [
+   "P-Zone",
+   "East Face / P-Zone",
+   "Puma Bowl / P-Zone",
+   1.3
+  ],
+  [
+   "P-Zone",
+   "Puma Bowl / P-Zone",
+   "Sampson 2",
+   0.5
+  ],
+  [
+   "Jonesy's",
+   "Mel's Alley / Jonesy's",
+   "Mid-Mountain Meadows / Mid Mtn",
+   0.5
+  ],
+  [
+   "Jonesy's",
+   "Mid-Mountain Meadows / Mid Mtn",
+   "Shortline / Shortliner",
+   2.6
+  ],
+  [
+   "Jonesy's",
+   "Shortline / Shortliner",
+   "Flat Iron / Jonesy's",
+   1.8
+  ],
+  [
+   "Jonesy's",
+   "Flat Iron / Jonesy's",
+   "Bonanza Hi-Speed Six-Pack bottom",
+   2.4
+  ],
+  [
+   "Bonanza",
+   "Muckers / Shortliner",
+   "Bonanza Hi-Speed Six-Pack bottom",
+   3.7
+  ],
+  [
+   "3 Kings",
+   "First Time Lift top",
+   "Eagle Lift bottom",
+   1.9
+  ],
+  [
+   "Mid-Mtn Cutoff",
+   "Woodside 2",
+   "Lucky Boy / Mid Mtn",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Doc's Run 3",
+   "Raptor Way 3",
+   0.5
+  ],
+  [
+   "Wapiti",
+   "Silver Horse",
+   "Mellow Moose 3",
+   1.6
+  ],
+  [
+   "Sleep Walker",
+   "Fools Paradise / Illusion",
+   "Pigment / Apparition",
+   0.7
+  ],
+  [
+   "Upper MAinline",
+   "Sun Peak Express top",
+   "Transitions / Upper MAinline",
+   0.6
+  ],
+  [
+   "Upper MAinline",
+   "Transitions / Upper MAinline",
+   "Painted horse / Upper MAinline",
+   0.9
+  ],
+  [
+   "Upper MAinline",
+   "Painted horse / Upper MAinline",
+   "Orange Bubble Express top",
+   0.8
+  ],
+  [
+   "Kestrel",
+   "Rendezvous Ridge / Upper Apex Ridge",
+   "Rendezvous Ridge 2",
+   0.5
+  ],
+  [
+   "Kestrel",
+   "Rendezvous Ridge 2",
+   "Kestrel / Boa",
+   2.5
+  ],
+  [
+   "Blaise's Way",
+   "Tin Cup / Upper White Pine 2",
+   "Upper White Pine 2",
+   0.5
+  ],
+  [
+   "Blaise's Way",
+   "Upper White Pine 2",
+   "Upper White Pine",
+   0.5
+  ],
+  [
+   "Chimera",
+   "Dreamcatcher top",
+   "Fools Paradise",
+   2.7
+  ],
+  [
+   "Chimera",
+   "Fools Paradise",
+   "Fools Paradise / Illusion",
+   0.5
+  ],
+  [
+   "Grande",
+   "Tombstone Express top",
+   "Red Pine Road 4",
+   1.4
+  ],
+  [
+   "Belmont",
+   "Blaster / Belmont",
+   "Muckers / Shortliner",
+   2.2
+  ],
+  [
+   "Upper Lookout Ridge",
+   "Silverado / Doc's Run",
+   "Badlands / Upper Lookout Ridge",
+   0.9
+  ],
+  [
+   "Upper Lookout Ridge",
+   "Badlands / Upper Lookout Ridge",
+   "Upper Lookout Ridge",
+   0.8
+  ],
+  [
+   "Upper Lookout Ridge",
+   "Upper Lookout Ridge",
+   "Upper Lookout Ridge 2",
+   0.5
+  ],
+  [
+   "Upper Lookout Ridge",
+   "Upper Lookout Ridge 2",
+   "Diablo / Upper Lookout Ridge",
+   0.6
+  ],
+  [
+   "Sandman",
+   "Trance 2",
+   "Shadow Lands / Sandman",
+   3.1
+  ],
+  [
+   "Sandman",
+   "Shadow Lands / Sandman",
+   "Reaper / Sandman",
+   0.5
+  ],
+  [
+   "Sandman",
+   "Reaper / Sandman",
+   "Bugle Ridge Bypass",
+   0.5
+  ],
+  [
+   "Harmony",
+   "Abyss / Harmony",
+   "Peak 5 top",
+   0.5
+  ],
+  [
+   "Harmony",
+   "Peak 5 top",
+   "Solace / Royal",
+   5.5
+  ],
+  [
+   "Harmony",
+   "Solace / Royal",
+   "Royal / Harmony",
+   0.5
+  ],
+  [
+   "Harmony",
+   "Royal / Harmony",
+   "Elk Dance / Harmony",
+   0.5
+  ],
+  [
+   "Harmony",
+   "Elk Dance / Harmony",
+   "Dreamscape bottom",
+   1.2
+  ],
+  [
+   "Harmony",
+   "Dreamscape bottom",
+   "Sleeper / Harmony",
+   0.7
+  ],
+  [
+   "Harmony",
+   "Sleeper / Harmony",
+   "Twilight / Harmony",
+   2.0
+  ],
+  [
+   "Harmony",
+   "Twilight / Harmony",
+   "White Water / Harmony",
+   0.8
+  ],
+  [
+   "Harmony",
+   "White Water / Harmony",
+   "Serenity / Harmony",
+   1.7
+  ],
+  [
+   "Harmony",
+   "Serenity / Harmony",
+   "Harmony 2",
+   4.6
+  ],
+  [
+   "Harmony",
+   "Harmony 2",
+   "Harmony",
+   1.2
+  ],
+  [
+   "The Hoist",
+   "Thaynes Lift top",
+   "Thaynes Lift bottom",
+   3.5
+  ],
+  [
+   "Cobalt Woods",
+   "Heavy Metal / Mercury",
+   "Lead Foot",
+   2.7
+  ],
+  [
+   "Copperhead",
+   "Mercury",
+   "Iron Man / Copperhead",
+   0.5
+  ],
+  [
+   "Copperhead",
+   "Iron Man / Copperhead",
+   "Lead Foot / Copperhead",
+   0.5
+  ],
+  [
+   "Copperhead",
+   "Lead Foot / Copperhead",
+   "Double Nickel / Copperhead",
+   0.8
+  ],
+  [
+   "Copperhead",
+   "Double Nickel / Copperhead",
+   "Copperhead",
+   0.6
+  ],
+  [
+   "Copperhead",
+   "Copperhead",
+   "Double Nickel / Copperhead 2",
+   6.0
+  ],
+  [
+   "Copperhead",
+   "Double Nickel / Copperhead 2",
+   "Iron Mountain Express bottom",
+   0.8
+  ],
+  [
+   "Thrasher",
+   "Rendezvous Ridge",
+   "Thrasher / Boa",
+   1.5
+  ],
+  [
+   "Lower Crowning Glory",
+   "Powder Alley 2",
+   "Escape / Lower Crowning Glory",
+   2.1
+  ],
+  [
+   "Lower Crowning Glory",
+   "Escape / Lower Crowning Glory",
+   "Sanctuary / Lower Crowning Glory",
+   2.1
+  ],
+  [
+   "Lower Crowning Glory",
+   "Sanctuary / Lower Crowning Glory",
+   "Harmony 2",
+   3.0
+  ],
+  [
+   "Western Boundary",
+   "Super Condor Express top",
+   "Alley / Western Boundary",
+   1.7
+  ],
+  [
+   "Fortune Teller",
+   "Jupiter Lift top",
+   "Main Bowl / Shadow Ridge",
+   1.8
+  ],
+  [
+   "Ripsaw",
+   "Another World 5",
+   "Ninety-Nine 90 Express bottom",
+   1.3
+  ],
+  [
+   "Chicane",
+   "Sunrise Gondola top",
+   "Encore / Chicane",
+   1.7
+  ],
+  [
+   "Chicane",
+   "Encore / Chicane",
+   "Chicane Bypass / Chicane",
+   0.9
+  ],
+  [
+   "Chicane",
+   "Chicane Bypass / Chicane",
+   "Escapade Woods / Chicane",
+   1.2
+  ],
+  [
+   "Chicane",
+   "Escapade Woods / Chicane",
+   "Chicane",
+   0.5
+  ],
+  [
+   "Chicane",
+   "Chicane",
+   "Tombstone Express bottom",
+   2.0
+  ],
+  [
+   "Eagle",
+   "Doc's Run 4",
+   "Silverado / Eagle",
+   1.4
+  ],
+  [
+   "Peace",
+   "Escape",
+   "Rhapsody 2",
+   0.9
+  ],
+  [
+   "Boa",
+   "Super Condor Express top",
+   "Renny's Ridge / Canis Lupis",
+   1.6
+  ],
+  [
+   "Boa",
+   "Renny's Ridge / Canis Lupis",
+   "High Peak / Boa",
+   0.7
+  ],
+  [
+   "Boa",
+   "High Peak / Boa",
+   "Five Trees / Boa",
+   0.5
+  ],
+  [
+   "Boa",
+   "Five Trees / Boa",
+   "Saddle Chutes / Boa",
+   0.5
+  ],
+  [
+   "Boa",
+   "Saddle Chutes / Boa",
+   "Canis Lupis 2",
+   0.5
+  ],
+  [
+   "Boa",
+   "Canis Lupis 2",
+   "Junipers / Boa",
+   1.2
+  ],
+  [
+   "Boa",
+   "Junipers / Boa",
+   "Canis Lupis / Boa",
+   1.2
+  ],
+  [
+   "Boa",
+   "Canis Lupis / Boa",
+   "100 turns / Boa",
+   0.7
+  ],
+  [
+   "Boa",
+   "100 turns / Boa",
+   "Aplande / Devil's Friend",
+   1.2
+  ],
+  [
+   "Boa",
+   "Aplande / Devil's Friend",
+   "Kestrel / Boa",
+   0.5
+  ],
+  [
+   "Boa",
+   "Kestrel / Boa",
+   "Thrasher / Boa",
+   0.5
+  ],
+  [
+   "Boa",
+   "Thrasher / Boa",
+   "Spur / Boa",
+   0.8
+  ],
+  [
+   "Boa",
+   "Spur / Boa",
+   "Rendezvous Ridge / Boa",
+   0.7
+  ],
+  [
+   "Boa",
+   "Rendezvous Ridge / Boa",
+   "Apex Ridge / Flume",
+   2.4
+  ],
+  [
+   "Arrowhead",
+   "Upper Lookout Ridge",
+   "Tower / Arrowhead",
+   0.5
+  ],
+  [
+   "Arrowhead",
+   "Tower / Arrowhead",
+   "Badlands / Flume",
+   2.0
+  ],
+  [
+   "Arrowhead",
+   "Badlands / Flume",
+   "Flume",
+   0.6
+  ],
+  [
+   "Massacre",
+   "Transitions",
+   "Spider Monkey",
+   1.2
+  ],
+  [
+   "Temptation",
+   "Eagle Lift top",
+   "Ligity Split / Temptation",
+   0.8
+  ],
+  [
+   "Temptation",
+   "Ligity Split / Temptation",
+   "Spiro / Temptation",
+   1.0
+  ],
+  [
+   "Temptation",
+   "Spiro / Temptation",
+   "Silver Star Lift top",
+   0.7
+  ],
+  [
+   "Temptation",
+   "Silver Star Lift top",
+   "Spiro / Temptation 2",
+   1.4
+  ],
+  [
+   "Temptation",
+   "Spiro / Temptation 2",
+   "King Con Express bottom",
+   1.1
+  ],
+  [
+   "Pine Draw",
+   "Kokopelli 3",
+   "Ectasy / Pine Draw",
+   0.5
+  ],
+  [
+   "Pine Draw",
+   "Ectasy / Pine Draw",
+   "The Pines / Pine Draw",
+   0.8
+  ],
+  [
+   "Pine Draw",
+   "The Pines / Pine Draw",
+   "Mainline / Gallery",
+   1.4
+  ],
+  [
+   "Gotcha Cut-Off",
+   "Eagle Lift top",
+   "Eaglet Lift bottom",
+   0.5
+  ],
+  [
+   "Gotcha Cut-Off",
+   "Eaglet Lift bottom",
+   "Men's SL / Gotcha Cut-Off",
+   3.1
+  ],
+  [
+   "Gotcha Cut-Off",
+   "Men's SL / Gotcha Cut-Off",
+   "Ladie's SL / Gotcha Cut-Off",
+   0.6
+  ],
+  [
+   "Gotcha Cut-Off",
+   "Ladie's SL / Gotcha Cut-Off",
+   "Silver Hollow 2",
+   4.0
+  ],
+  [
+   "Winter Way",
+   "002",
+   "Oops / Winter Way",
+   2.4
+  ],
+  [
+   "Winter Way",
+   "Oops / Winter Way",
+   "Backstreet 2",
+   0.6
+  ],
+  [
+   "Cloud 9",
+   "Paradise 2",
+   "Thunder / Cloud 9",
+   1.2
+  ],
+  [
+   "Cloud 9",
+   "Thunder / Cloud 9",
+   "Cloud 9",
+   0.5
+  ],
+  [
+   "Cloud 9",
+   "Cloud 9",
+   "Chicane",
+   3.8
+  ],
+  [
+   "Phantasm",
+   "Phantasm / Pipe Dream",
+   "Bogeyman / Phantasm",
+   0.5
+  ],
+  [
+   "Phantasm",
+   "Bogeyman / Phantasm",
+   "Fools Paradise / Illusion",
+   2.9
+  ],
+  [
+   "Chrome Alley",
+   "Mercury",
+   "Upper White Pine",
+   2.3
+  ],
+  [
+   "Chrome Alley",
+   "Upper White Pine",
+   "Upper White Pine 2",
+   0.5
+  ],
+  [
+   "Snow Draw",
+   "Rendezvous Ridge 2",
+   "Snow Draw",
+   0.6
+  ],
+  [
+   "Snow Draw",
+   "Snow Draw",
+   "Twister / Snow Draw",
+   0.7
+  ],
+  [
+   "Snow Draw",
+   "Twister / Snow Draw",
+   "Rendezvous Ridge / Boa",
+   1.8
+  ],
+  [
+   "Jupiter Access",
+   "Thaynes Lift top",
+   "Unnamed run / Jupiter Access",
+   0.5
+  ],
+  [
+   "Renegade",
+   "Apex Ridge 2",
+   "Snow Draw",
+   0.7
+  ],
+  [
+   "Pick'n Shovel",
+   "Unnamed run 5",
+   "Eagle Lift bottom",
+   2.3
+  ],
+  [
+   "Pick'n Shovel",
+   "Eagle Lift bottom",
+   "C.B.'s Run",
+   0.5
+  ],
+  [
+   "Paradise Chutes",
+   "Paradise Chutes / Diamond Ridge",
+   "Paradise",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Shadow Ridge / Unnamed run",
+   "Indicator / 6 Bells",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Indicator / 6 Bells",
+   "Jupiter Lift bottom",
+   1.8
+  ],
+  [
+   "After Shock",
+   "Upper Apex Ridge 3",
+   "Alley 2",
+   1.9
+  ],
+  [
+   "Lightning",
+   "Cloud 9",
+   "Paradise 3",
+   1.3
+  ],
+  [
+   "Double Jack",
+   "Parley's Park / Unnamed run",
+   "Double Jack / Single Jack",
+   2.5
+  ],
+  [
+   "Unnamed run",
+   "Motherlode Express top",
+   "Parley's Park / Unnamed run",
+   0.5
+  ],
+  [
+   "Elk Ridge",
+   "Saddleback Express top",
+   "Elk Ridge",
+   0.7
+  ],
+  [
+   "Elk Ridge",
+   "Elk Ridge",
+   "Mellow Moose 5",
+   3.4
+  ],
+  [
+   "Shamus",
+   "King Con Ridge 4",
+   "King Con Ridge 3",
+   0.5
+  ],
+  [
+   "Shamus",
+   "King Con Ridge 3",
+   "Shamus / Broadway",
+   2.0
+  ],
+  [
+   "Mirage",
+   "Alpenglow",
+   "Twilight 2",
+   1.0
+  ],
+  [
+   "Road D.O.",
+   "Road D.O.",
+   "Golden Glades / Road D.O.",
+   0.7
+  ],
+  [
+   "Road D.O.",
+   "Golden Glades / Road D.O.",
+   "Doc's Run 3",
+   0.5
+  ],
+  [
+   "Road D.O.",
+   "Doc's Run 3",
+   "Outlaw / Doc's Run",
+   0.5
+  ],
+  [
+   "Upper First Time",
+   "3 Kings Lift top",
+   "First Time Lift top",
+   1.1
+  ],
+  [
+   "1/4 Load",
+   "Crescent Hi-Speed Quad top",
+   "Claim Jumper 2",
+   0.9
+  ],
+  [
+   "Shadows",
+   "Elk Ridge",
+   "Mainline / Gallery",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "High Meadow Express bottom",
+   "Unnamed run / Mainline",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Mainline",
+   "High Meadow Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "High Meadow Express bottom",
+   "Sunrise Gondola top",
+   0.5
+  ],
+  [
+   "Rose Bud",
+   "King Con Express top",
+   "King Con / Rose Bud",
+   0.5
+  ],
+  [
+   "Rose Bud",
+   "King Con / Rose Bud",
+   "Claim Jumper 3",
+   2.1
+  ],
+  [
+   "Upper Crowning Glory",
+   "Abyss / Harmony",
+   "Peak 5 top",
+   0.5
+  ],
+  [
+   "Upper Crowning Glory",
+   "Peak 5 top",
+   "Mystic Pines / Upper Crowning Glory",
+   0.5
+  ],
+  [
+   "Upper Crowning Glory",
+   "Mystic Pines / Upper Crowning Glory",
+   "Solace / Upper Crowning Glory",
+   0.5
+  ],
+  [
+   "Upper Crowning Glory",
+   "Solace / Upper Crowning Glory",
+   "Powder Alley / Upper Crowning Glory",
+   1.1
+  ],
+  [
+   "Upper Crowning Glory",
+   "Powder Alley / Upper Crowning Glory",
+   "Mystic Pines / Upper Crowning Glory 2",
+   1.7
+  ],
+  [
+   "Upper Crowning Glory",
+   "Mystic Pines / Upper Crowning Glory 2",
+   "Powder Alley 2",
+   0.9
+  ],
+  [
+   "Courchevel",
+   "King Con Express top",
+   "King Con / Rose Bud",
+   0.5
+  ],
+  [
+   "Courchevel",
+   "King Con / Rose Bud",
+   "Chance / Courchevel",
+   0.5
+  ],
+  [
+   "Courchevel",
+   "Chance / Courchevel",
+   "Courchevel / Broadway",
+   2.6
+  ],
+  [
+   "Silver Streak",
+   "Copperhead",
+   "Double Nickel / Copperhead 2",
+   4.6
+  ],
+  [
+   "Molly's",
+   "Georgeanna 6",
+   "Molly's",
+   0.8
+  ],
+  [
+   "Short Fuse",
+   "Short Fuse / Home Run",
+   "Claim Jumper 4",
+   1.6
+  ],
+  [
+   "Sunrise",
+   "Doc's Run 3",
+   "Doc's Run / Sunrise",
+   2.4
+  ],
+  [
+   "Assesment",
+   "Powder Keg",
+   "Hidden Splendor",
+   2.1
+  ],
+  [
+   "Bliss",
+   "Deja Vu 2",
+   "Backstreet / Oops",
+   1.2
+  ],
+  [
+   "Home Run",
+   "Thaynes Lift top",
+   "Bonanza Hi-Speed Six-Pack top",
+   1.7
+  ],
+  [
+   "Home Run",
+   "Bonanza Hi-Speed Six-Pack top",
+   "Parley's Park / Unnamed run",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Parley's Park / Unnamed run",
+   "Mel's Alley / Jonesy's",
+   1.4
+  ],
+  [
+   "Home Run",
+   "Mel's Alley / Jonesy's",
+   "Blaster / Belmont",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Blaster / Belmont",
+   "Muckers / Home Run",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Muckers / Home Run",
+   "Powder Keg / Home Run",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Powder Keg / Home Run",
+   "Short Fuse / Home Run",
+   0.7
+  ],
+  [
+   "Home Run",
+   "Short Fuse / Home Run",
+   "Claim Jumper / Home Run",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Claim Jumper / Home Run",
+   "Unnamed run",
+   0.9
+  ],
+  [
+   "Silver Cliff",
+   "Silver Cliff",
+   "Shadow Ridge / Unnamed run",
+   2.3
+  ],
+  [
+   "Broken Arrow",
+   "Boomer",
+   "Grizzly / Boomer",
+   0.5
+  ],
+  [
+   "Broken Arrow",
+   "Grizzly / Boomer",
+   "Boomer 2",
+   1.6
+  ],
+  [
+   "Single Jack",
+   "Parley's Park 6",
+   "Mikey's / Motherlode Meadows",
+   0.7
+  ],
+  [
+   "Single Jack",
+   "Mikey's / Motherlode Meadows",
+   "Double Jack / Single Jack",
+   2.2
+  ],
+  [
+   "Single Jack",
+   "Double Jack / Single Jack",
+   "Thaynes Lift bottom",
+   0.6
+  ],
+  [
+   "Diamond Ridge",
+   "Sidewinder 2",
+   "Paradise Chutes / Diamond Ridge",
+   1.5
+  ],
+  [
+   "Diamond Ridge",
+   "Paradise Chutes / Diamond Ridge",
+   "Another World 6",
+   1.9
+  ],
+  [
+   "Day Dream",
+   "Dreamscape top",
+   "McDonald's Meadow / Panorama",
+   1.7
+  ],
+  [
+   "Day Dream",
+   "McDonald's Meadow / Panorama",
+   "Oops",
+   0.5
+  ],
+  [
+   "Lookout Ridge",
+   "Diablo / Upper Lookout Ridge",
+   "Willow Draw",
+   1.7
+  ],
+  [
+   "Lookout Ridge",
+   "Willow Draw",
+   "Outlaw / Willow Draw",
+   0.5
+  ],
+  [
+   "Flat Iron",
+   "Mid Mtn / Shortline",
+   "Flat Iron",
+   0.7
+  ],
+  [
+   "Hawk Eye",
+   "Red Fox",
+   "10th Mountain / Hawk Eye",
+   0.5
+  ],
+  [
+   "Hawk Eye",
+   "10th Mountain / Hawk Eye",
+   "Georgeanna / Woodside",
+   1.2
+  ],
+  [
+   "Picabo's Run",
+   "C.B.'s Run 5",
+   "Commitment / Picabo's Run",
+   0.6
+  ],
+  [
+   "Picabo's Run",
+   "Commitment / Picabo's Run",
+   "C.B.'s Run 6",
+   1.2
+  ],
+  [
+   "White Pine",
+   "Flatiron top",
+   "Snowdancer / White Pine",
+   3.7
+  ],
+  [
+   "White Pine",
+   "Snowdancer / White Pine",
+   "Dreamcatcher bottom",
+   0.5
+  ],
+  [
+   "White Pine",
+   "Dreamcatcher bottom",
+   "Cascade 3",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Claim Jumper / King Con",
+   "High Card / Broadway",
+   0.7
+  ],
+  [
+   "Broadway",
+   "High Card / Broadway",
+   "Chance / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Chance / Broadway",
+   "Courchevel / Broadway",
+   0.8
+  ],
+  [
+   "Broadway",
+   "Courchevel / Broadway",
+   "Sitka / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Sitka / Broadway",
+   "Shamus / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Shamus / Broadway",
+   "Liberty / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Liberty / Broadway",
+   "Eureka / Monitor",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Eureka / Monitor",
+   "Road To Thaynes Canyon / Climax",
+   0.6
+  ],
+  [
+   "Drift",
+   "Homerun",
+   "Homerun 2",
+   0.5
+  ],
+  [
+   "Drift",
+   "Homerun 2",
+   "Blanche / Drift",
+   3.7
+  ],
+  [
+   "Drift",
+   "Blanche / Drift",
+   "Creole / King's Crown",
+   0.9
+  ],
+  [
+   "Silver Queen",
+   "Crescent Hi-Speed Quad top",
+   "Crescent / Silver Queen",
+   0.5
+  ],
+  [
+   "Silver Queen",
+   "Crescent / Silver Queen",
+   "Homerun 2",
+   2.2
+  ],
+  [
+   "Tycoon",
+   "Georgeanna 7",
+   "Black Forest / Tycoon",
+   1.1
+  ],
+  [
+   "Tycoon",
+   "Black Forest / Tycoon",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   2.9
+  ],
+  [
+   "EZ Street",
+   "Upper Apex Ridge",
+   "A Chute / Lone Pine",
+   2.8
+  ],
+  [
+   "EZ Street",
+   "A Chute / Lone Pine",
+   "Alley / Western Boundary",
+   0.7
+  ],
+  [
+   "EZ Street",
+   "Alley / Western Boundary",
+   "Tree Time / EZ Street",
+   1.8
+  ],
+  [
+   "EZ Street",
+   "Tree Time / EZ Street",
+   "Spider Monkey / EZ Street",
+   0.5
+  ],
+  [
+   "EZ Street",
+   "Spider Monkey / EZ Street",
+   "Spider Monkey",
+   0.7
+  ],
+  [
+   "EZ Street",
+   "Spider Monkey",
+   "STH / EZ Street",
+   0.5
+  ],
+  [
+   "EZ Street",
+   "STH / EZ Street",
+   "Eclipse",
+   1.6
+  ],
+  [
+   "Thunder Rd",
+   "Upper Lookout Ridge 2",
+   "Silverado / Eagle",
+   1.0
+  ],
+  [
+   "Thunder Rd",
+   "Silverado / Eagle",
+   "Road D.O.",
+   0.6
+  ],
+  [
+   "Thunder Rd",
+   "Road D.O.",
+   "Willow Draw",
+   2.1
+  ],
+  [
+   "Lynx",
+   "The Draw",
+   "Road D.O.",
+   1.1
+  ],
+  [
+   "Pipe Dream",
+   "Dreamcatcher top",
+   "Phantasm / Pipe Dream",
+   0.5
+  ],
+  [
+   "Pipe Dream",
+   "Phantasm / Pipe Dream",
+   "Bogeyman / Phantasm",
+   0.5
+  ],
+  [
+   "Pipe Dream",
+   "Bogeyman / Phantasm",
+   "Bugle Ridge / Pipe Dream",
+   0.9
+  ],
+  [
+   "Pipe Dream",
+   "Bugle Ridge / Pipe Dream",
+   "Bugle Ridge Bypass / Pipe Dream",
+   0.5
+  ],
+  [
+   "Pipe Dream",
+   "Bugle Ridge Bypass / Pipe Dream",
+   "Bogeyman / Pipe Dream",
+   5.0
+  ],
+  [
+   "Pipe Dream",
+   "Bogeyman / Pipe Dream",
+   "Apparition / Pipe Dream",
+   0.5
+  ],
+  [
+   "Pipe Dream",
+   "Apparition / Pipe Dream",
+   "Dreamcatcher bottom",
+   0.5
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Dreamcatcher bottom",
+   "Cascade 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Dreamcatcher bottom",
+   "Cascade 3",
+   0.6
+  ],
+  [
+   "walk",
+   "McConkey's Hi-Speed Six-Pack top",
+   "Georgeanna",
+   1.6
+  ],
+  [
+   "walk",
+   "McConkey's Hi-Speed Six-Pack top",
+   "P-Zone",
+   2.8
+  ],
+  [
+   "walk",
+   "Eagle Lift bottom",
+   "First Time Lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Eagle Lift bottom",
+   "C.B.'s Run",
+   0.7
+  ],
+  [
+   "walk",
+   "Eagle Lift bottom",
+   "First Time",
+   1.4
+  ],
+  [
+   "walk",
+   "Backstreet",
+   "Dreamscape bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Crescent Hi-Speed Quad bottom",
+   "Payday Hi-Speed Six-Pack bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Creole / Quit 'N Time",
+   "Town Lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Orange Bubble Express top",
+   "Mainline / Gallery",
+   2.9
+  ],
+  [
+   "walk",
+   "Orange Bubble Express top",
+   "Kokopelli / Upper Mainline",
+   2.0
+  ],
+  [
+   "walk",
+   "Echo / Eclipse",
+   "Sun Peak Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Sun Peak Express top",
+   "Orange Bubble Express top",
+   3.2
+  ],
+  [
+   "walk",
+   "Sun Peak Express top",
+   "Transitions / Upper MAinline",
+   2.3
+  ],
+  [
+   "walk",
+   "Sun Peak Express top",
+   "Transitions",
+   3.0
+  ],
+  [
+   "walk",
+   "Silverado / Doc's Run",
+   "Short Cut top",
+   1.7
+  ],
+  [
+   "walk",
+   "Dreamcatcher top",
+   "Dreamscape top",
+   0.8
+  ],
+  [
+   "walk",
+   "Dreamcatcher top",
+   "Fools Paradise / Alpenglow",
+   2.4
+  ],
+  [
+   "walk",
+   "Dreamcatcher top",
+   "Bogeyman / Phantasm",
+   2.3
+  ],
+  [
+   "walk",
+   "Dreamcatcher top",
+   "Deja Vu",
+   1.2
+  ],
+  [
+   "walk",
+   "Dreamcatcher top",
+   "McDonald's Meadow",
+   2.2
+  ],
+  [
+   "walk",
+   "Dreamcatcher top",
+   "Phantasm / Pipe Dream",
+   1.4
+  ],
+  [
+   "walk",
+   "Dreamcatcher top",
+   "Deja Vu 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Trance / Off Ramp",
+   "Flatiron bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Silverlode Hi-Speed Six-Pack top",
+   "Unnamed run / Parley's Park",
+   0.8
+  ],
+  [
+   "walk",
+   "Silverlode Hi-Speed Six-Pack top",
+   "Parley's Park / Unnamed run",
+   2.3
+  ],
+  [
+   "walk",
+   "Silverlode Hi-Speed Six-Pack top",
+   "Hidden Splendor / Lost Prospector",
+   2.5
+  ],
+  [
+   "walk",
+   "Silverlode Hi-Speed Six-Pack top",
+   "Mel's Alley / Jonesy's",
+   2.9
+  ],
+  [
+   "walk",
+   "Silverlode Hi-Speed Six-Pack top",
+   "Bonanza Hi-Speed Six-Pack top",
+   2.7
+  ],
+  [
+   "walk",
+   "Silverlode Hi-Speed Six-Pack top",
+   "Motherlode Express top",
+   2.0
+  ],
+  [
+   "walk",
+   "Silverlode Hi-Speed Six-Pack top",
+   "Parley's Park 6",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Parley's Park",
+   "Silverlode Hi-Speed Six-Pack top",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Parley's Park",
+   "Bonanza Hi-Speed Six-Pack top",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Parley's Park",
+   "Motherlode Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Thaynes Lift top",
+   "Unnamed run / Jupiter Access",
+   1.1
+  ],
+  [
+   "walk",
+   "Thaynes Lift top",
+   "Lucky Boy",
+   2.9
+  ],
+  [
+   "walk",
+   "Thaynes Lift top",
+   "Red Fox",
+   2.4
+  ],
+  [
+   "walk",
+   "Lucky Boy / Mid Mtn",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Mainline",
+   "Red Pine Gondola top",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Mainline",
+   "High Meadow Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Mainline",
+   "Sunrise Gondola top",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Mainline",
+   "Unnamed lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Mainline",
+   "Unnamed lift bottom 3",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Mainline",
+   "Unnamed lift top 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Mainline",
+   "Unnamed lift bottom 5",
+   2.0
+  ],
+  [
+   "walk",
+   "Mainline / Gallery",
+   "High Meadow Express top",
+   3.2
+  ],
+  [
+   "walk",
+   "Grizzly / Boomer 2",
+   "Sun Peak Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Silver King / Unnamed run",
+   "King Con Express top",
+   3.1
+  ],
+  [
+   "walk",
+   "Climax / Seldom Seen",
+   "Eagle Lift top",
+   2.2
+  ],
+  [
+   "walk",
+   "Climax / Seldom Seen",
+   "Eaglet Lift bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Thaynes Lift bottom",
+   "Quarter Moon / Jupiter Access",
+   1.9
+  ],
+  [
+   "walk",
+   "Thaynes Lift bottom",
+   "Double Jack / Single Jack",
+   1.9
+  ],
+  [
+   "walk",
+   "Parley's Park / Unnamed run",
+   "Silverlode Hi-Speed Six-Pack top",
+   2.3
+  ],
+  [
+   "walk",
+   "Parley's Park / Unnamed run",
+   "Bonanza Hi-Speed Six-Pack top",
+   0.6
+  ],
+  [
+   "walk",
+   "Parley's Park / Unnamed run",
+   "Motherlode Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Silverlode Hi-Speed Six-Pack bottom",
+   "Claim Jumper / King Con",
+   0.8
+  ],
+  [
+   "walk",
+   "Silverlode Hi-Speed Six-Pack bottom",
+   "Quicksilver Gondola bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Crescent Hi-Speed Quad top",
+   "1/2 Load / Unnamed run",
+   2.0
+  ],
+  [
+   "walk",
+   "Crescent Hi-Speed Quad top",
+   "1/2 Load / 3/4 Load",
+   3.5
+  ],
+  [
+   "walk",
+   "Crescent Hi-Speed Quad top",
+   "Crescent / Silver Queen",
+   1.2
+  ],
+  [
+   "walk",
+   "Crescent Hi-Speed Quad top",
+   "Claim Jumper 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Crescent Hi-Speed Quad top",
+   "Claim Jumper 4",
+   3.4
+  ],
+  [
+   "walk",
+   "Saddleback Express top",
+   "Kokopelli 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Saddleback Express top",
+   "Elk Ridge",
+   2.8
+  ],
+  [
+   "walk",
+   "Super Condor Express top",
+   "Funnel Cloud / Condor Woods",
+   1.1
+  ],
+  [
+   "walk",
+   "Super Condor Express top",
+   "Upper Apex Ridge 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Tombstone Express bottom",
+   "Harmony",
+   0.7
+  ],
+  [
+   "walk",
+   "Tombstone Express bottom",
+   "Over and Out bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Tombstone Express bottom",
+   "Timberline bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Silver Star Lift bottom",
+   "Unnamed lift bottom 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Red Pine Gondola top",
+   "Unnamed run / Mainline",
+   0.8
+  ],
+  [
+   "walk",
+   "Red Pine Gondola top",
+   "Short Cut bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Red Pine Gondola top",
+   "High Meadow Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Red Pine Gondola top",
+   "Red Pine Road",
+   2.2
+  ],
+  [
+   "walk",
+   "Red Pine Gondola top",
+   "Mainline",
+   1.7
+  ],
+  [
+   "walk",
+   "Red Pine Gondola top",
+   "Red Pine Road 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Red Pine Gondola top",
+   "Sunrise Gondola top",
+   2.0
+  ],
+  [
+   "walk",
+   "Red Pine Gondola top",
+   "Unnamed lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Red Pine Gondola top",
+   "Unnamed lift bottom 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Red Pine Gondola top",
+   "Unnamed lift top 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Red Pine Gondola top",
+   "Unnamed lift bottom 5",
+   1.2
+  ],
+  [
+   "walk",
+   "Pioneer Lift top",
+   "Thaynes Lift top",
+   1.1
+  ],
+  [
+   "walk",
+   "Pioneer Lift top",
+   "Unnamed run / Jupiter Access",
+   0.6
+  ],
+  [
+   "walk",
+   "Pioneer Lift top",
+   "Red Fox",
+   2.6
+  ],
+  [
+   "walk",
+   "Dreamscape top",
+   "Dreamcatcher top",
+   0.8
+  ],
+  [
+   "walk",
+   "Dreamscape top",
+   "Fools Paradise / Alpenglow",
+   2.6
+  ],
+  [
+   "walk",
+   "Dreamscape top",
+   "Bogeyman / Phantasm",
+   3.1
+  ],
+  [
+   "walk",
+   "Dreamscape top",
+   "Deja Vu",
+   1.3
+  ],
+  [
+   "walk",
+   "Dreamscape top",
+   "McDonald's Meadow",
+   1.4
+  ],
+  [
+   "walk",
+   "Dreamscape top",
+   "Phantasm / Pipe Dream",
+   2.2
+  ],
+  [
+   "walk",
+   "Dreamscape top",
+   "Deja Vu 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Silver Star Lift top",
+   "Unnamed run / Spiro",
+   0.6
+  ],
+  [
+   "walk",
+   "Silver Star Lift top",
+   "Spiro",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Spiro",
+   "Silver Star Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Erika's Gold / Sitka",
+   "King Con Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Escape / Powder Alley",
+   "Peak 5 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Escape / Powder Alley",
+   "Ninety-Nine 90 Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "King Con Express top",
+   "Chance / Courchevel",
+   2.2
+  ],
+  [
+   "walk",
+   "King Con Express top",
+   "Erika's Gold / Sitka",
+   0.8
+  ],
+  [
+   "walk",
+   "King Con Express top",
+   "King Con / Rose Bud",
+   0.9
+  ],
+  [
+   "walk",
+   "King Con Express top",
+   "Unnamed run 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Town",
+   "Town Lift bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Town 2",
+   "Town Lift bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Jupiter Access",
+   "Thaynes Lift top",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Jupiter Access",
+   "Pioneer Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Painted horse / Upper MAinline",
+   "Orange Bubble Express top",
+   2.4
+  ],
+  [
+   "walk",
+   "Apex Ridge / Flume",
+   "Super Condor Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Raptor Way",
+   "Over and Out top",
+   0.7
+  ],
+  [
+   "walk",
+   "Eagle Lift top",
+   "Climax / Seldom Seen",
+   2.2
+  ],
+  [
+   "walk",
+   "Eagle Lift top",
+   "Ligity Split / Temptation",
+   2.2
+  ],
+  [
+   "walk",
+   "Eagle Lift top",
+   "Eaglet Lift bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Eagle Lift top",
+   "C.B.'s Run 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Eaglet Lift top",
+   "Sitka",
+   1.8
+  ],
+  [
+   "walk",
+   "Eaglet Lift top",
+   "King Con Ridge 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Eaglet Lift top",
+   "King Con Ridge 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Eaglet Lift top",
+   "King Con Ridge 4",
+   1.6
+  ],
+  [
+   "walk",
+   "Outlaw / Willow Draw",
+   "Ripcord top",
+   2.7
+  ],
+  [
+   "walk",
+   "Mid Mtn / Shortline",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Mid Mtn / Shortline",
+   "Pioneer Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "High Meadow Express top",
+   "Mellow Moose",
+   1.9
+  ],
+  [
+   "walk",
+   "High Meadow Express top",
+   "Mellow Moose 5",
+   3.0
+  ],
+  [
+   "walk",
+   "Sitka",
+   "Eaglet Lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "Snowdancer / White Pine",
+   "Dreamcatcher bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "First Time Lift bottom",
+   "Eagle Lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "First Time Lift bottom",
+   "C.B.'s Run",
+   1.0
+  ],
+  [
+   "walk",
+   "First Time Lift bottom",
+   "First Time",
+   0.7
+  ],
+  [
+   "walk",
+   "C.B.'s Run",
+   "Eagle Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "C.B.'s Run",
+   "First Time Lift bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Eaglet Lift bottom",
+   "Climax / Seldom Seen",
+   2.8
+  ],
+  [
+   "walk",
+   "Eaglet Lift bottom",
+   "Ligity Split / Temptation",
+   2.5
+  ],
+  [
+   "walk",
+   "Eaglet Lift bottom",
+   "Eagle Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Eaglet Lift bottom",
+   "C.B.'s Run 3",
+   2.5
+  ],
+  [
+   "walk",
+   "Shortline / Shortliner",
+   "Pioneer Lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   "Mid Mtn / Shortline",
+   1.2
+  ],
+  [
+   "walk",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   "Pioneer Lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Jupiter Lift top",
+   "Main Bowl",
+   0.7
+  ],
+  [
+   "walk",
+   "Jupiter Lift top",
+   "Portuguse Gap",
+   3.0
+  ],
+  [
+   "walk",
+   "Jupiter Lift top",
+   "Silver Cliff",
+   1.3
+  ],
+  [
+   "walk",
+   "Peak 5 bottom",
+   "Escape / Powder Alley",
+   0.6
+  ],
+  [
+   "walk",
+   "Peak 5 bottom",
+   "Talus Garden / Moraine",
+   0.9
+  ],
+  [
+   "walk",
+   "Peak 5 bottom",
+   "Rhapsody",
+   0.6
+  ],
+  [
+   "walk",
+   "Peak 5 bottom",
+   "Ninety-Nine 90 Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Mellow Moose 2",
+   "Red Pine Gondola top",
+   3.4
+  ],
+  [
+   "walk",
+   "Mellow Moose 2",
+   "High Meadow Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Mellow Moose 2",
+   "Unnamed lift top 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Backstreet / Panorama",
+   "Dreamscape bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Abyss / Harmony",
+   "Peak 5 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Claim Jumper / King Con",
+   "Silverlode Hi-Speed Six-Pack bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Claim Jumper / King Con",
+   "Quicksilver Gondola bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Short Cut top",
+   "Silverado / Doc's Run",
+   1.7
+  ],
+  [
+   "walk",
+   "Short Cut top",
+   "G-Force / Boomer",
+   1.2
+  ],
+  [
+   "walk",
+   "Short Cut top",
+   "Boomer",
+   3.0
+  ],
+  [
+   "walk",
+   "Doc's Run / Sunrise",
+   "Orange Bubble Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Doc's Run / Sunrise",
+   "Frostwood Gondola top",
+   1.7
+  ],
+  [
+   "walk",
+   "Doc's Run / Sunrise",
+   "Red Pine Gondola bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Doc's Run / Sunrise",
+   "Cabriolet top",
+   2.2
+  ],
+  [
+   "walk",
+   "Mystic Pines / Upper Crowning Glory",
+   "Peak 5 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Mystic Pines / Upper Crowning Glory 2",
+   "Peak 5 bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Tin Cup / Upper White Pine 2",
+   "Flatiron top",
+   2.5
+  ],
+  [
+   "walk",
+   "Tin Cup / Upper White Pine 2",
+   "Quicksilver Gondola top",
+   2.1
+  ],
+  [
+   "walk",
+   "Funnel Cloud / Condor Woods",
+   "Super Condor Express top",
+   1.1
+  ],
+  [
+   "walk",
+   "Tombstone Express top",
+   "Paradise / Sidewinder",
+   3.0
+  ],
+  [
+   "walk",
+   "Tombstone Express top",
+   "Another World / Fantasy Ridge",
+   3.0
+  ],
+  [
+   "walk",
+   "Tombstone Express top",
+   "Red Pine Road / Vertigo",
+   0.9
+  ],
+  [
+   "walk",
+   "Tombstone Express top",
+   "Quantum Leap / Vertigo",
+   0.7
+  ],
+  [
+   "walk",
+   "Tombstone Express top",
+   "Sidewinder 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Ladie's SL / Homerun",
+   "First Time Lift top",
+   2.7
+  ],
+  [
+   "walk",
+   "STH / Spider Monkey",
+   "Sun Peak Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Ninety-Nine 90 Express top",
+   "Fright Gully / Moraine",
+   3.3
+  ],
+  [
+   "walk",
+   "Ninety-Nine 90 Express top",
+   "Fantasy Ridge / Moraine",
+   0.8
+  ],
+  [
+   "walk",
+   "Ninety-Nine 90 Express top",
+   "Charlie Brown / Red Pine Chute",
+   2.4
+  ],
+  [
+   "walk",
+   "Ninety-Nine 90 Express top",
+   "Magic Line",
+   1.4
+  ],
+  [
+   "walk",
+   "Ninety-Nine 90 Express top",
+   "Moraine",
+   0.8
+  ],
+  [
+   "walk",
+   "3 Kings Lift top",
+   "C.B.'s Run 2",
+   2.9
+  ],
+  [
+   "walk",
+   "3 Kings Lift top",
+   "Ladie's SL",
+   3.0
+  ],
+  [
+   "walk",
+   "3 Kings Lift top",
+   "Silver Hollow",
+   1.1
+  ],
+  [
+   "walk",
+   "3 Kings Lift top",
+   "Unnamed run 5",
+   2.1
+  ],
+  [
+   "walk",
+   "C.B.'s Run 2",
+   "3 Kings Lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Apparition / Pipe Dream",
+   "Dreamcatcher bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Bonanza Hi-Speed Six-Pack bottom",
+   "Homerun",
+   1.9
+  ],
+  [
+   "walk",
+   "Bonanza Hi-Speed Six-Pack bottom",
+   "Homerun 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Bonanza Hi-Speed Six-Pack bottom",
+   "Town Lift top",
+   2.8
+  ],
+  [
+   "walk",
+   "Diablo / Willow Draw",
+   "Ripcord bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Diablo / Willow Draw",
+   "Ripcord top",
+   2.5
+  ],
+  [
+   "walk",
+   "First Time Lift top",
+   "Ladie's SL / Homerun",
+   2.7
+  ],
+  [
+   "walk",
+   "First Time Lift top",
+   "Ladie's SL",
+   2.8
+  ],
+  [
+   "walk",
+   "Dreamscape bottom",
+   "Sleeper / Harmony",
+   2.4
+  ],
+  [
+   "walk",
+   "Dreamscape bottom",
+   "Panorama",
+   1.3
+  ],
+  [
+   "walk",
+   "High Meadow Express bottom",
+   "Unnamed run / Mainline",
+   0.8
+  ],
+  [
+   "walk",
+   "High Meadow Express bottom",
+   "Red Pine Gondola top",
+   1.3
+  ],
+  [
+   "walk",
+   "High Meadow Express bottom",
+   "Red Pine Road",
+   1.1
+  ],
+  [
+   "walk",
+   "High Meadow Express bottom",
+   "Mainline",
+   1.7
+  ],
+  [
+   "walk",
+   "High Meadow Express bottom",
+   "Red Pine Road 3",
+   2.1
+  ],
+  [
+   "walk",
+   "High Meadow Express bottom",
+   "Sunrise Gondola top",
+   1.3
+  ],
+  [
+   "walk",
+   "High Meadow Express bottom",
+   "Unnamed lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "High Meadow Express bottom",
+   "Unnamed lift bottom 3",
+   3.0
+  ],
+  [
+   "walk",
+   "High Meadow Express bottom",
+   "Unnamed lift top 2",
+   2.0
+  ],
+  [
+   "walk",
+   "High Meadow Express bottom",
+   "Unnamed lift bottom 5",
+   2.3
+  ],
+  [
+   "walk",
+   "G-Force / Boomer",
+   "Short Cut top",
+   1.2
+  ],
+  [
+   "walk",
+   "G-Force / Boomer 2",
+   "Sun Peak Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Double Nickel / Copperhead 2",
+   "Iron Mountain Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Payday Hi-Speed Six-Pack top",
+   "Widowmaker / PayDay",
+   2.4
+  ],
+  [
+   "walk",
+   "Spiro / Temptation",
+   "Silver Star Lift top",
+   2.1
+  ],
+  [
+   "walk",
+   "Spiro / Temptation 2",
+   "King Con Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Flat Iron",
+   "Pioneer Lift bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Kokopelli 2",
+   "Saddleback Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Quarter Moon / Jupiter Access",
+   "Thaynes Lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "King Con Ridge",
+   "Eagle Lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "King Con Ridge",
+   "Eaglet Lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "King Con / Rose Bud",
+   "King Con Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Quicksilver Gondola bottom",
+   "High Card / Broadway",
+   2.8
+  ],
+  [
+   "walk",
+   "Quicksilver Gondola bottom",
+   "Silverlode Hi-Speed Six-Pack bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Quicksilver Gondola bottom",
+   "Claim Jumper / King Con",
+   1.2
+  ],
+  [
+   "walk",
+   "Main Bowl",
+   "Jupiter Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Badlands / Flume",
+   "Super Condor Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Portuguse Gap 2",
+   "Rhino / Unnamed run",
+   1.4
+  ],
+  [
+   "walk",
+   "Red Pine Road / Vertigo",
+   "Tombstone Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Red Pine Road",
+   "Unnamed run / Mainline",
+   1.8
+  ],
+  [
+   "walk",
+   "Red Pine Road",
+   "Red Pine Gondola top",
+   2.2
+  ],
+  [
+   "walk",
+   "Red Pine Road",
+   "High Meadow Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Red Pine Road",
+   "Mainline",
+   2.7
+  ],
+  [
+   "walk",
+   "Red Pine Road",
+   "Red Pine Road 3",
+   1.2
+  ],
+  [
+   "walk",
+   "Red Pine Road",
+   "Sunrise Gondola top",
+   0.8
+  ],
+  [
+   "walk",
+   "Red Pine Road",
+   "Unnamed lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Red Pine Road",
+   "Unnamed lift top 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Red Pine Road",
+   "Unnamed lift bottom 5",
+   2.8
+  ],
+  [
+   "walk",
+   "Iron Mountain Express top",
+   "Lead Foot / Copperhead",
+   2.8
+  ],
+  [
+   "walk",
+   "Iron Mountain Express top",
+   "Iron Man / Copperhead",
+   2.7
+  ],
+  [
+   "walk",
+   "Flatiron top",
+   "Tin Cup / Upper White Pine 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Flatiron top",
+   "Golden spruce",
+   0.8
+  ],
+  [
+   "walk",
+   "Flatiron top",
+   "Upper White Pine",
+   1.1
+  ],
+  [
+   "walk",
+   "Flatiron top",
+   "Upper White Pine 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Flatiron top",
+   "Quicksilver Gondola top",
+   0.8
+  ],
+  [
+   "walk",
+   "Sun Peak Express bottom",
+   "Black Hole / Flume",
+   1.5
+  ],
+  [
+   "walk",
+   "Charlie Brown / Red Pine Chute",
+   "Ninety-Nine 90 Express top",
+   2.4
+  ],
+  [
+   "walk",
+   "Panorama",
+   "Dreamscape bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Quantum Leap / Vertigo",
+   "Tombstone Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Day Break top",
+   "002",
+   3.1
+  ],
+  [
+   "walk",
+   "Bogeyman / Pipe Dream",
+   "Dreamcatcher bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Road To Thaynes Canyon 3",
+   "King Con Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed lift bottom 4",
+   1.5
+  ],
+  [
+   "walk",
+   "Golden spruce",
+   "Flatiron top",
+   0.8
+  ],
+  [
+   "walk",
+   "Golden spruce",
+   "Quicksilver Gondola top",
+   0.7
+  ],
+  [
+   "walk",
+   "Talus Garden / Moraine",
+   "Peak 5 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Talus Garden / Moraine",
+   "Ninety-Nine 90 Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Doc's Run 2",
+   "Over and Out top",
+   2.9
+  ],
+  [
+   "walk",
+   "Encore / Sidewinder",
+   "Sunrise Gondola top",
+   3.3
+  ],
+  [
+   "walk",
+   "Ladie's SL",
+   "First Time Lift top",
+   2.8
+  ],
+  [
+   "walk",
+   "Thaynes Canyon 7",
+   "Motherlode Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Thaynes Canyon 8",
+   "Motherlode Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "First Time",
+   "Eagle Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "First Time",
+   "First Time Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Payday Hi-Speed Six-Pack bottom",
+   "Crescent Hi-Speed Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Thaynes Canyon 9",
+   "Motherlode Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "The Highway / Upper White Pine",
+   2.6
+  ],
+  [
+   "walk",
+   "Flatiron bottom",
+   "Trance / Off Ramp",
+   2.3
+  ],
+  [
+   "walk",
+   "C.B.'s Run 4",
+   "Eagle Lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Crescent / Silver Queen",
+   "Crescent Hi-Speed Quad top",
+   1.2
+  ],
+  [
+   "walk",
+   "Woodside",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Mainline",
+   "Red Pine Gondola top",
+   1.7
+  ],
+  [
+   "walk",
+   "Mainline",
+   "High Meadow Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Mainline",
+   "Sunrise Gondola top",
+   3.0
+  ],
+  [
+   "walk",
+   "Mainline",
+   "Unnamed lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Mainline",
+   "Unnamed lift bottom 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Mainline",
+   "Unnamed lift top 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Mainline",
+   "Unnamed lift bottom 5",
+   2.9
+  ],
+  [
+   "walk",
+   "Rhapsody",
+   "Peak 5 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Rhapsody",
+   "Ninety-Nine 90 Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Detonator / Prospector",
+   "Silverlode Hi-Speed Six-Pack bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Magic Line",
+   "Ninety-Nine 90 Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Silver Hollow",
+   "3 Kings Lift top",
+   1.1
+  ],
+  [
+   "walk",
+   "Moraine",
+   "Ninety-Nine 90 Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "McDonald's Meadow",
+   "Dreamcatcher top",
+   2.2
+  ],
+  [
+   "walk",
+   "McDonald's Meadow",
+   "Dreamscape top",
+   1.4
+  ],
+  [
+   "walk",
+   "Red Pine Road 3",
+   "Red Pine Gondola top",
+   3.4
+  ],
+  [
+   "walk",
+   "Red Pine Road 3",
+   "High Meadow Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Red Pine Road 3",
+   "Sunrise Gondola top",
+   1.8
+  ],
+  [
+   "walk",
+   "Red Pine Road 3",
+   "Unnamed lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Town Lift bottom",
+   "Town",
+   0.8
+  ],
+  [
+   "walk",
+   "Town Lift bottom",
+   "Town 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "King Con Express top",
+   1.9
+  ],
+  [
+   "walk",
+   "Mid Mtn 2",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Pioneer Lift bottom",
+   "Mid Mtn / Shortline",
+   1.2
+  ],
+  [
+   "walk",
+   "Pioneer Lift bottom",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Pioneer Lift bottom",
+   "Flat Iron",
+   2.4
+  ],
+  [
+   "walk",
+   "Orange Bubble Express bottom",
+   "Doc's Run / Sunrise",
+   1.2
+  ],
+  [
+   "walk",
+   "Orange Bubble Express bottom",
+   "Frostwood Gondola top",
+   0.9
+  ],
+  [
+   "walk",
+   "Orange Bubble Express bottom",
+   "Red Pine Gondola bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Orange Bubble Express bottom",
+   "Cabriolet top",
+   2.7
+  ],
+  [
+   "walk",
+   "P-Zone",
+   "McConkey's Hi-Speed Six-Pack top",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Unnamed run 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Unnamed lift bottom 4",
+   1.8
+  ],
+  [
+   "walk",
+   "Upper White Pine",
+   "Flatiron top",
+   1.1
+  ],
+  [
+   "walk",
+   "Upper White Pine",
+   "Quicksilver Gondola top",
+   0.9
+  ],
+  [
+   "walk",
+   "Harmony",
+   "Tombstone Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Harmony",
+   "Over and Out bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Harmony",
+   "Timberline bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Bonanza Hi-Speed Six-Pack top",
+   "Silverlode Hi-Speed Six-Pack top",
+   2.7
+  ],
+  [
+   "walk",
+   "Bonanza Hi-Speed Six-Pack top",
+   "Unnamed run / Parley's Park",
+   2.1
+  ],
+  [
+   "walk",
+   "Bonanza Hi-Speed Six-Pack top",
+   "Parley's Park / Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "Bonanza Hi-Speed Six-Pack top",
+   "Motherlode Express top",
+   1.2
+  ],
+  [
+   "walk",
+   "Powder Alley 2",
+   "Peak 5 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Ninety-Nine 90 Express bottom",
+   "Escape / Powder Alley",
+   2.1
+  ],
+  [
+   "walk",
+   "Ninety-Nine 90 Express bottom",
+   "Peak 5 bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Ninety-Nine 90 Express bottom",
+   "Talus Garden / Moraine",
+   1.0
+  ],
+  [
+   "walk",
+   "Ninety-Nine 90 Express bottom",
+   "Rhapsody",
+   0.8
+  ],
+  [
+   "walk",
+   "Sunrise Gondola top",
+   "Unnamed run / Mainline",
+   1.9
+  ],
+  [
+   "walk",
+   "Sunrise Gondola top",
+   "Red Pine Gondola top",
+   2.0
+  ],
+  [
+   "walk",
+   "Sunrise Gondola top",
+   "High Meadow Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Sunrise Gondola top",
+   "Red Pine Road",
+   0.8
+  ],
+  [
+   "walk",
+   "Sunrise Gondola top",
+   "Red Pine Road 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Sunrise Gondola top",
+   "Unnamed lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Sunrise Gondola top",
+   "Unnamed lift bottom 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Sunrise Gondola top",
+   "Unnamed lift top 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Sunrise Gondola top",
+   "Unnamed lift bottom 5",
+   2.3
+  ],
+  [
+   "walk",
+   "Silver Hollow 2",
+   "3 Kings Lift top",
+   1.6
+  ],
+  [
+   "walk",
+   "Upper White Pine 2",
+   "Flatiron top",
+   2.0
+  ],
+  [
+   "walk",
+   "Upper White Pine 2",
+   "Quicksilver Gondola top",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "3 Kings Lift top",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "First Time Lift top",
+   3.1
+  ],
+  [
+   "walk",
+   "Double Jack / Single Jack",
+   "Thaynes Lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Motherlode Express top",
+   "Silverlode Hi-Speed Six-Pack top",
+   2.0
+  ],
+  [
+   "walk",
+   "Motherlode Express top",
+   "Unnamed run / Parley's Park",
+   1.3
+  ],
+  [
+   "walk",
+   "Motherlode Express top",
+   "Parley's Park / Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "Motherlode Express top",
+   "Bonanza Hi-Speed Six-Pack top",
+   1.2
+  ],
+  [
+   "walk",
+   "Motherlode Express top",
+   "Parley's Park 6",
+   3.2
+  ],
+  [
+   "walk",
+   "King Con Ridge 4",
+   "Eaglet Lift top",
+   1.6
+  ],
+  [
+   "walk",
+   "Silver Cliff",
+   "Jupiter Lift top",
+   1.3
+  ],
+  [
+   "walk",
+   "Boomer",
+   "Short Cut top",
+   3.0
+  ],
+  [
+   "walk",
+   "Sidewinder 2",
+   "Tombstone Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "C.B.'s Run 5",
+   "3 Kings Lift top",
+   3.5
+  ],
+  [
+   "walk",
+   "Cascade 3",
+   "Dreamcatcher bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Homerun",
+   "Bonanza Hi-Speed Six-Pack bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Homerun",
+   "Town Lift top",
+   1.0
+  ],
+  [
+   "walk",
+   "Homerun 2",
+   "Bonanza Hi-Speed Six-Pack bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Homerun 2",
+   "Town Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Willow Draw",
+   "Ripcord bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Willow Draw",
+   "Ripcord top",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed run / Mainline",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Short Cut bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Red Pine Gondola top",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "High Meadow Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Red Pine Road",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Mainline",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Red Pine Road 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Sunrise Gondola top",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift bottom 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift top 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift bottom 5",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Silver Star Lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Town Lift top",
+   "Bonanza Hi-Speed Six-Pack bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Town Lift top",
+   "Homerun",
+   1.0
+  ],
+  [
+   "walk",
+   "Town Lift top",
+   "Homerun 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Over and Out bottom",
+   "Tombstone Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Over and Out bottom",
+   "Harmony",
+   1.1
+  ],
+  [
+   "walk",
+   "Over and Out bottom",
+   "Timberline bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Over and Out top",
+   "Retreat / Raptor Way",
+   3.1
+  ],
+  [
+   "walk",
+   "Over and Out top",
+   "Raptor Way",
+   0.7
+  ],
+  [
+   "walk",
+   "Over and Out top",
+   "Raptor Way 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Peak 5 top",
+   "Solace / Upper Crowning Glory",
+   1.9
+  ],
+  [
+   "walk",
+   "Peak 5 top",
+   "Abyss / Harmony",
+   0.6
+  ],
+  [
+   "walk",
+   "Peak 5 top",
+   "Mystic Pines / Upper Crowning Glory",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Unnamed run / Mainline",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Short Cut bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Red Pine Gondola top",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "High Meadow Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Sunrise Gondola top",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Unnamed lift bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Unnamed lift top 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Unnamed lift bottom 5",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed run / Mainline",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Red Pine Gondola top",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "High Meadow Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Red Pine Road",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Mainline",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Sunrise Gondola top",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 5",
+   1.8
+  ],
+  [
+   "walk",
+   "Frostwood Gondola top",
+   "Doc's Run / Sunrise",
+   1.7
+  ],
+  [
+   "walk",
+   "Frostwood Gondola top",
+   "Orange Bubble Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Frostwood Gondola top",
+   "Red Pine Gondola bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Frostwood Gondola top",
+   "Cabriolet top",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Unnamed run 4",
+   1.8
+  ],
+  [
+   "walk",
+   "Timberline bottom",
+   "Tombstone Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Timberline bottom",
+   "Harmony",
+   0.8
+  ],
+  [
+   "walk",
+   "Timberline bottom",
+   "Over and Out bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Quicksilver Gondola top",
+   "Tin Cup / Upper White Pine 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Quicksilver Gondola top",
+   "Flatiron top",
+   0.8
+  ],
+  [
+   "walk",
+   "Quicksilver Gondola top",
+   "Golden spruce",
+   0.7
+  ],
+  [
+   "walk",
+   "Quicksilver Gondola top",
+   "Upper White Pine",
+   0.9
+  ],
+  [
+   "walk",
+   "Quicksilver Gondola top",
+   "Upper White Pine 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Red Pine Gondola bottom",
+   "Doc's Run / Sunrise",
+   1.6
+  ],
+  [
+   "walk",
+   "Red Pine Gondola bottom",
+   "Orange Bubble Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Red Pine Gondola bottom",
+   "Frostwood Gondola top",
+   2.0
+  ],
+  [
+   "walk",
+   "Red Pine Gondola bottom",
+   "Cabriolet top",
+   0.7
+  ],
+  [
+   "walk",
+   "Cabriolet top",
+   "Doc's Run / Sunrise",
+   2.2
+  ],
+  [
+   "walk",
+   "Cabriolet top",
+   "Orange Bubble Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Cabriolet top",
+   "Frostwood Gondola top",
+   2.1
+  ],
+  [
+   "walk",
+   "Cabriolet top",
+   "Red Pine Gondola bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Ripcord bottom",
+   "Diablo / Willow Draw",
+   0.9
+  ],
+  [
+   "walk",
+   "Ripcord bottom",
+   "Willow Draw",
+   3.2
+  ],
+  [
+   "walk",
+   "Ripcord bottom",
+   "Ripcord top",
+   1.7
+  ],
+  [
+   "walk",
+   "Ripcord top",
+   "Outlaw / Willow Draw",
+   2.7
+  ],
+  [
+   "walk",
+   "Ripcord top",
+   "Diablo / Willow Draw",
+   2.5
+  ],
+  [
+   "walk",
+   "Ripcord top",
+   "Willow Draw",
+   1.6
+  ],
+  [
+   "walk",
+   "Ripcord top",
+   "Ripcord bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Motherlode Express bottom",
+   "Thaynes Canyon 8",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 5",
+   "Unnamed run / Mainline",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 5",
+   "Short Cut bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 5",
+   "Red Pine Gondola top",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 5",
+   "High Meadow Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 5",
+   "Red Pine Road",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 5",
+   "Sunrise Gondola top",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 5",
+   "Unnamed lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 5",
+   "Unnamed lift bottom 3",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 5",
+   "Unnamed lift top 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Super Condor Express bottom",
+   "Tower / Willow Draw",
+   2.8
+  ],
+  [
+   "walk",
+   "Super Condor Express bottom",
+   "Apex Ridge / Flume",
+   0.8
+  ],
+  [
+   "walk",
+   "Snowdancer / White Pine",
+   "Cascade 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Snowdancer / White Pine",
+   "Cascade 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Apparition / Pipe Dream",
+   "Cascade 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Apparition / Pipe Dream",
+   "Cascade 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Bogeyman / Pipe Dream",
+   "Cascade 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Bogeyman / Pipe Dream",
+   "Cascade 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Cascade 3",
+   "Cascade 2",
+   3.1
+  ],
+  [
+   "walk",
+   "P-Zone",
+   "Georgeanna",
+   4.5
+  ],
+  [
+   "walk",
+   "C.B.'s Run",
+   "First Time",
+   1.7
+  ],
+  [
+   "walk",
+   "First Time",
+   "C.B.'s Run",
+   1.7
+  ],
+  [
+   "walk",
+   "C.B.'s Run 4",
+   "First Time Lift bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "C.B.'s Run 4",
+   "C.B.'s Run",
+   4.1
+  ],
+  [
+   "walk",
+   "C.B.'s Run 4",
+   "First Time",
+   4.8
+  ],
+  [
+   "walk",
+   "Sun Peak Express top",
+   "Mainline / Gallery",
+   6.1
+  ],
+  [
+   "walk",
+   "Sun Peak Express top",
+   "Kokopelli / Upper Mainline",
+   5.2
+  ],
+  [
+   "walk",
+   "Painted horse / Upper MAinline",
+   "Mainline / Gallery",
+   5.3
+  ],
+  [
+   "walk",
+   "Painted horse / Upper MAinline",
+   "Kokopelli / Upper Mainline",
+   4.4
+  ],
+  [
+   "walk",
+   "McDonald's Meadow",
+   "Fools Paradise / Alpenglow",
+   4.0
+  ],
+  [
+   "walk",
+   "McDonald's Meadow",
+   "Bogeyman / Phantasm",
+   4.5
+  ],
+  [
+   "walk",
+   "McDonald's Meadow",
+   "Deja Vu",
+   2.7
+  ],
+  [
+   "walk",
+   "McDonald's Meadow",
+   "Phantasm / Pipe Dream",
+   3.5
+  ],
+  [
+   "walk",
+   "McDonald's Meadow",
+   "Deja Vu 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Parley's Park",
+   "Parley's Park / Unnamed run",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Parley's Park",
+   "Hidden Splendor / Lost Prospector",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Parley's Park",
+   "Mel's Alley / Jonesy's",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Parley's Park",
+   "Parley's Park 6",
+   2.8
+  ],
+  [
+   "walk",
+   "Parley's Park / Unnamed run",
+   "Unnamed run / Parley's Park",
+   1.8
+  ],
+  [
+   "walk",
+   "Parley's Park / Unnamed run",
+   "Hidden Splendor / Lost Prospector",
+   4.7
+  ],
+  [
+   "walk",
+   "Parley's Park / Unnamed run",
+   "Mel's Alley / Jonesy's",
+   5.1
+  ],
+  [
+   "walk",
+   "Parley's Park / Unnamed run",
+   "Parley's Park 6",
+   3.7
+  ],
+  [
+   "walk",
+   "Bonanza Hi-Speed Six-Pack top",
+   "Hidden Splendor / Lost Prospector",
+   5.2
+  ],
+  [
+   "walk",
+   "Bonanza Hi-Speed Six-Pack top",
+   "Mel's Alley / Jonesy's",
+   5.5
+  ],
+  [
+   "walk",
+   "Bonanza Hi-Speed Six-Pack top",
+   "Parley's Park 6",
+   4.4
+  ],
+  [
+   "walk",
+   "Motherlode Express top",
+   "Hidden Splendor / Lost Prospector",
+   4.5
+  ],
+  [
+   "walk",
+   "Motherlode Express top",
+   "Mel's Alley / Jonesy's",
+   4.9
+  ],
+  [
+   "walk",
+   "Pioneer Lift top",
+   "Lucky Boy",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Jupiter Access",
+   "Lucky Boy",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Jupiter Access",
+   "Red Fox",
+   3.2
+  ],
+  [
+   "walk",
+   "Red Pine Road",
+   "Unnamed lift bottom 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Orange Bubble Express top",
+   "High Meadow Express top",
+   6.1
+  ],
+  [
+   "walk",
+   "Quarter Moon / Jupiter Access",
+   "Double Jack / Single Jack",
+   3.9
+  ],
+  [
+   "walk",
+   "Double Jack / Single Jack",
+   "Quarter Moon / Jupiter Access",
+   3.9
+  ],
+  [
+   "walk",
+   "Detonator / Prospector",
+   "Claim Jumper / King Con",
+   3.7
+  ],
+  [
+   "walk",
+   "Detonator / Prospector",
+   "Quicksilver Gondola bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Crescent / Silver Queen",
+   "1/2 Load / Unnamed run",
+   3.3
+  ],
+  [
+   "walk",
+   "Crescent / Silver Queen",
+   "1/2 Load / 3/4 Load",
+   4.7
+  ],
+  [
+   "walk",
+   "Crescent / Silver Queen",
+   "Claim Jumper 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Crescent / Silver Queen",
+   "Claim Jumper 4",
+   4.6
+  ],
+  [
+   "walk",
+   "Kokopelli 2",
+   "Elk Ridge",
+   3.6
+  ],
+  [
+   "walk",
+   "Funnel Cloud / Condor Woods",
+   "Upper Apex Ridge 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Mainline",
+   "Short Cut bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Mainline",
+   "Red Pine Road",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Mainline",
+   "Mainline",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Mainline",
+   "Red Pine Road 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Mellow Moose 2",
+   "Unnamed run / Mainline",
+   3.9
+  ],
+  [
+   "walk",
+   "Mellow Moose 2",
+   "Short Cut bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Mellow Moose 2",
+   "Red Pine Road",
+   4.2
+  ],
+  [
+   "walk",
+   "Mellow Moose 2",
+   "Mainline",
+   4.4
+  ],
+  [
+   "walk",
+   "Mellow Moose 2",
+   "Red Pine Road 3",
+   5.3
+  ],
+  [
+   "walk",
+   "Mellow Moose 2",
+   "Sunrise Gondola top",
+   4.5
+  ],
+  [
+   "walk",
+   "Mellow Moose 2",
+   "Unnamed lift bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Mellow Moose 2",
+   "Unnamed lift bottom 3",
+   4.8
+  ],
+  [
+   "walk",
+   "Mellow Moose 2",
+   "Unnamed lift bottom 5",
+   4.7
+  ],
+  [
+   "walk",
+   "High Meadow Express bottom",
+   "Short Cut bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Red Pine Road",
+   "Short Cut bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Mainline",
+   "Unnamed run / Mainline",
+   2.5
+  ],
+  [
+   "walk",
+   "Mainline",
+   "Short Cut bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Mainline",
+   "Red Pine Road",
+   2.8
+  ],
+  [
+   "walk",
+   "Mainline",
+   "Red Pine Road 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Red Pine Road 3",
+   "Unnamed run / Mainline",
+   2.8
+  ],
+  [
+   "walk",
+   "Red Pine Road 3",
+   "Short Cut bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Red Pine Road 3",
+   "Red Pine Road",
+   2.6
+  ],
+  [
+   "walk",
+   "Red Pine Road 3",
+   "Mainline",
+   3.8
+  ],
+  [
+   "walk",
+   "Red Pine Road 3",
+   "Unnamed lift bottom 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Red Pine Road 3",
+   "Unnamed lift top 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Red Pine Road 3",
+   "Unnamed lift bottom 5",
+   4.1
+  ],
+  [
+   "walk",
+   "Sunrise Gondola top",
+   "Short Cut bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Sunrise Gondola top",
+   "Mainline",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Red Pine Road",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Mainline",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Red Pine Road 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Short Cut bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Red Pine Road 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 5",
+   "Mainline",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 5",
+   "Red Pine Road 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Spiro",
+   "Spiro",
+   1.8
+  ],
+  [
+   "walk",
+   "Spiro / Temptation",
+   "Unnamed run / Spiro",
+   2.7
+  ],
+  [
+   "walk",
+   "Spiro / Temptation",
+   "Spiro",
+   3.3
+  ],
+  [
+   "walk",
+   "Silver King / Unnamed run",
+   "Chance / Courchevel",
+   5.2
+  ],
+  [
+   "walk",
+   "Silver King / Unnamed run",
+   "Erika's Gold / Sitka",
+   3.8
+  ],
+  [
+   "walk",
+   "Silver King / Unnamed run",
+   "King Con / Rose Bud",
+   3.9
+  ],
+  [
+   "walk",
+   "Silver King / Unnamed run",
+   "Unnamed run 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Erika's Gold / Sitka",
+   "Chance / Courchevel",
+   2.9
+  ],
+  [
+   "walk",
+   "Erika's Gold / Sitka",
+   "King Con / Rose Bud",
+   1.6
+  ],
+  [
+   "walk",
+   "Erika's Gold / Sitka",
+   "Unnamed run 3",
+   2.7
+  ],
+  [
+   "walk",
+   "King Con / Rose Bud",
+   "Chance / Courchevel",
+   3.0
+  ],
+  [
+   "walk",
+   "King Con / Rose Bud",
+   "Erika's Gold / Sitka",
+   1.6
+  ],
+  [
+   "walk",
+   "King Con / Rose Bud",
+   "Unnamed run 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Chance / Courchevel",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Erika's Gold / Sitka",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "King Con / Rose Bud",
+   2.8
+  ],
+  [
+   "walk",
+   "Thaynes Lift top",
+   "Pioneer Lift top",
+   1.7
+  ],
+  [
+   "walk",
+   "Climax / Seldom Seen",
+   "Ligity Split / Temptation",
+   4.4
+  ],
+  [
+   "walk",
+   "Climax / Seldom Seen",
+   "C.B.'s Run 3",
+   5.3
+  ],
+  [
+   "walk",
+   "King Con Ridge",
+   "Climax / Seldom Seen",
+   5.1
+  ],
+  [
+   "walk",
+   "King Con Ridge",
+   "Ligity Split / Temptation",
+   5.2
+  ],
+  [
+   "walk",
+   "King Con Ridge",
+   "C.B.'s Run 3",
+   5.9
+  ],
+  [
+   "walk",
+   "Sitka",
+   "King Con Ridge 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Sitka",
+   "King Con Ridge 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Sitka",
+   "King Con Ridge 4",
+   3.5
+  ],
+  [
+   "walk",
+   "King Con Ridge 4",
+   "Sitka",
+   3.5
+  ],
+  [
+   "walk",
+   "King Con Ridge 4",
+   "King Con Ridge 2",
+   4.3
+  ],
+  [
+   "walk",
+   "King Con Ridge 4",
+   "King Con Ridge 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Mainline / Gallery",
+   "Mellow Moose",
+   5.2
+  ],
+  [
+   "walk",
+   "Mainline / Gallery",
+   "Mellow Moose 5",
+   6.2
+  ],
+  [
+   "walk",
+   "Lucky Boy / Mid Mtn",
+   "Mid Mtn / Shortline",
+   4.3
+  ],
+  [
+   "walk",
+   "Lucky Boy / Mid Mtn",
+   "Pioneer Lift bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Woodside",
+   "Mid Mtn / Shortline",
+   4.0
+  ],
+  [
+   "walk",
+   "Woodside",
+   "Pioneer Lift bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Mid Mtn 2",
+   "Mid Mtn / Shortline",
+   3.6
+  ],
+  [
+   "walk",
+   "Mid Mtn 2",
+   "Pioneer Lift bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Main Bowl",
+   "Portuguse Gap",
+   3.7
+  ],
+  [
+   "walk",
+   "Main Bowl",
+   "Silver Cliff",
+   2.1
+  ],
+  [
+   "walk",
+   "Silver Cliff",
+   "Main Bowl",
+   2.1
+  ],
+  [
+   "walk",
+   "Silver Cliff",
+   "Portuguse Gap",
+   4.3
+  ],
+  [
+   "walk",
+   "Escape / Powder Alley",
+   "Talus Garden / Moraine",
+   1.5
+  ],
+  [
+   "walk",
+   "Escape / Powder Alley",
+   "Rhapsody",
+   1.2
+  ],
+  [
+   "walk",
+   "Mystic Pines / Upper Crowning Glory 2",
+   "Escape / Powder Alley",
+   3.6
+  ],
+  [
+   "walk",
+   "Mystic Pines / Upper Crowning Glory 2",
+   "Talus Garden / Moraine",
+   3.8
+  ],
+  [
+   "walk",
+   "Mystic Pines / Upper Crowning Glory 2",
+   "Rhapsody",
+   3.5
+  ],
+  [
+   "walk",
+   "Mystic Pines / Upper Crowning Glory 2",
+   "Ninety-Nine 90 Express bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Talus Garden / Moraine",
+   "Escape / Powder Alley",
+   1.5
+  ],
+  [
+   "walk",
+   "Talus Garden / Moraine",
+   "Rhapsody",
+   1.5
+  ],
+  [
+   "walk",
+   "Rhapsody",
+   "Escape / Powder Alley",
+   1.2
+  ],
+  [
+   "walk",
+   "Rhapsody",
+   "Talus Garden / Moraine",
+   1.5
+  ],
+  [
+   "walk",
+   "Powder Alley 2",
+   "Escape / Powder Alley",
+   2.8
+  ],
+  [
+   "walk",
+   "Powder Alley 2",
+   "Talus Garden / Moraine",
+   3.1
+  ],
+  [
+   "walk",
+   "Powder Alley 2",
+   "Rhapsody",
+   2.8
+  ],
+  [
+   "walk",
+   "Powder Alley 2",
+   "Ninety-Nine 90 Express bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Silverado / Doc's Run",
+   "G-Force / Boomer",
+   2.9
+  ],
+  [
+   "walk",
+   "Silverado / Doc's Run",
+   "Boomer",
+   4.8
+  ],
+  [
+   "walk",
+   "G-Force / Boomer",
+   "Silverado / Doc's Run",
+   2.9
+  ],
+  [
+   "walk",
+   "G-Force / Boomer",
+   "Boomer",
+   4.2
+  ],
+  [
+   "walk",
+   "Boomer",
+   "Silverado / Doc's Run",
+   4.8
+  ],
+  [
+   "walk",
+   "Boomer",
+   "G-Force / Boomer",
+   4.2
+  ],
+  [
+   "walk",
+   "Red Pine Road / Vertigo",
+   "Paradise / Sidewinder",
+   3.9
+  ],
+  [
+   "walk",
+   "Red Pine Road / Vertigo",
+   "Another World / Fantasy Ridge",
+   3.9
+  ],
+  [
+   "walk",
+   "Red Pine Road / Vertigo",
+   "Quantum Leap / Vertigo",
+   1.6
+  ],
+  [
+   "walk",
+   "Red Pine Road / Vertigo",
+   "Sidewinder 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Quantum Leap / Vertigo",
+   "Paradise / Sidewinder",
+   3.7
+  ],
+  [
+   "walk",
+   "Quantum Leap / Vertigo",
+   "Another World / Fantasy Ridge",
+   3.7
+  ],
+  [
+   "walk",
+   "Quantum Leap / Vertigo",
+   "Red Pine Road / Vertigo",
+   1.6
+  ],
+  [
+   "walk",
+   "Quantum Leap / Vertigo",
+   "Sidewinder 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Sidewinder 2",
+   "Paradise / Sidewinder",
+   4.4
+  ],
+  [
+   "walk",
+   "Sidewinder 2",
+   "Another World / Fantasy Ridge",
+   4.5
+  ],
+  [
+   "walk",
+   "Sidewinder 2",
+   "Red Pine Road / Vertigo",
+   2.3
+  ],
+  [
+   "walk",
+   "Sidewinder 2",
+   "Quantum Leap / Vertigo",
+   2.1
+  ],
+  [
+   "walk",
+   "Charlie Brown / Red Pine Chute",
+   "Fright Gully / Moraine",
+   5.7
+  ],
+  [
+   "walk",
+   "Charlie Brown / Red Pine Chute",
+   "Fantasy Ridge / Moraine",
+   3.2
+  ],
+  [
+   "walk",
+   "Charlie Brown / Red Pine Chute",
+   "Magic Line",
+   3.8
+  ],
+  [
+   "walk",
+   "Charlie Brown / Red Pine Chute",
+   "Moraine",
+   3.2
+  ],
+  [
+   "walk",
+   "Magic Line",
+   "Fright Gully / Moraine",
+   4.7
+  ],
+  [
+   "walk",
+   "Magic Line",
+   "Fantasy Ridge / Moraine",
+   2.3
+  ],
+  [
+   "walk",
+   "Magic Line",
+   "Charlie Brown / Red Pine Chute",
+   3.8
+  ],
+  [
+   "walk",
+   "Magic Line",
+   "Moraine",
+   2.2
+  ],
+  [
+   "walk",
+   "Moraine",
+   "Fright Gully / Moraine",
+   4.1
+  ],
+  [
+   "walk",
+   "Moraine",
+   "Fantasy Ridge / Moraine",
+   1.7
+  ],
+  [
+   "walk",
+   "Moraine",
+   "Charlie Brown / Red Pine Chute",
+   3.2
+  ],
+  [
+   "walk",
+   "Moraine",
+   "Magic Line",
+   2.2
+  ],
+  [
+   "walk",
+   "C.B.'s Run 2",
+   "Ladie's SL",
+   5.9
+  ],
+  [
+   "walk",
+   "C.B.'s Run 2",
+   "Silver Hollow",
+   4.0
+  ],
+  [
+   "walk",
+   "C.B.'s Run 2",
+   "Unnamed run 5",
+   5.1
+  ],
+  [
+   "walk",
+   "Silver Hollow",
+   "C.B.'s Run 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Silver Hollow",
+   "Ladie's SL",
+   4.1
+  ],
+  [
+   "walk",
+   "Silver Hollow",
+   "Unnamed run 5",
+   3.2
+  ],
+  [
+   "walk",
+   "Silver Hollow 2",
+   "C.B.'s Run 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Silver Hollow 2",
+   "Ladie's SL",
+   4.6
+  ],
+  [
+   "walk",
+   "Silver Hollow 2",
+   "Silver Hollow",
+   2.7
+  ],
+  [
+   "walk",
+   "Silver Hollow 2",
+   "Unnamed run 5",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "C.B.'s Run 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Ladie's SL",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Silver Hollow",
+   3.2
+  ],
+  [
+   "walk",
+   "C.B.'s Run 5",
+   "C.B.'s Run 2",
+   6.4
+  ],
+  [
+   "walk",
+   "C.B.'s Run 5",
+   "Ladie's SL",
+   6.5
+  ],
+  [
+   "walk",
+   "C.B.'s Run 5",
+   "Silver Hollow",
+   4.6
+  ],
+  [
+   "walk",
+   "C.B.'s Run 5",
+   "Unnamed run 5",
+   5.6
+  ],
+  [
+   "walk",
+   "Homerun",
+   "Homerun 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Homerun 2",
+   "Homerun",
+   1.8
+  ],
+  [
+   "walk",
+   "Ladie's SL / Homerun",
+   "Ladie's SL",
+   5.5
+  ],
+  [
+   "walk",
+   "Ladie's SL",
+   "Ladie's SL / Homerun",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Ladie's SL / Homerun",
+   5.8
+  ],
+  [
+   "walk",
+   "Backstreet",
+   "Sleeper / Harmony",
+   5.6
+  ],
+  [
+   "walk",
+   "Backstreet",
+   "Panorama",
+   4.4
+  ],
+  [
+   "walk",
+   "Backstreet / Panorama",
+   "Sleeper / Harmony",
+   5.3
+  ],
+  [
+   "walk",
+   "Backstreet / Panorama",
+   "Panorama",
+   4.2
+  ],
+  [
+   "walk",
+   "Panorama",
+   "Sleeper / Harmony",
+   3.7
+  ],
+  [
+   "walk",
+   "Silverlode Hi-Speed Six-Pack bottom",
+   "High Card / Broadway",
+   4.0
+  ],
+  [
+   "walk",
+   "Claim Jumper / King Con",
+   "High Card / Broadway",
+   4.0
+  ],
+  [
+   "walk",
+   "Detonator / Prospector",
+   "High Card / Broadway",
+   6.8
+  ],
+  [
+   "walk",
+   "Tin Cup / Upper White Pine 2",
+   "Golden spruce",
+   2.7
+  ],
+  [
+   "walk",
+   "Tin Cup / Upper White Pine 2",
+   "Upper White Pine",
+   3.0
+  ],
+  [
+   "walk",
+   "Tin Cup / Upper White Pine 2",
+   "Upper White Pine 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Golden spruce",
+   "Tin Cup / Upper White Pine 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Golden spruce",
+   "Upper White Pine",
+   1.6
+  ],
+  [
+   "walk",
+   "Golden spruce",
+   "Upper White Pine 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Upper White Pine",
+   "Tin Cup / Upper White Pine 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Upper White Pine",
+   "Golden spruce",
+   1.6
+  ],
+  [
+   "walk",
+   "Upper White Pine",
+   "Upper White Pine 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Upper White Pine 2",
+   "Tin Cup / Upper White Pine 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Upper White Pine 2",
+   "Golden spruce",
+   2.2
+  ],
+  [
+   "walk",
+   "Upper White Pine 2",
+   "Upper White Pine",
+   2.5
+  ],
+  [
+   "walk",
+   "Echo / Eclipse",
+   "Black Hole / Flume",
+   4.3
+  ],
+  [
+   "walk",
+   "Grizzly / Boomer 2",
+   "Black Hole / Flume",
+   4.6
+  ],
+  [
+   "walk",
+   "STH / Spider Monkey",
+   "Black Hole / Flume",
+   4.5
+  ],
+  [
+   "walk",
+   "G-Force / Boomer 2",
+   "Black Hole / Flume",
+   3.9
+  ],
+  [
+   "walk",
+   "3 Kings Lift top",
+   "First Time Lift top",
+   5.3
+  ],
+  [
+   "walk",
+   "Silver Hollow",
+   "First Time Lift top",
+   6.3
+  ],
+  [
+   "walk",
+   "Creole / Quit 'N Time",
+   "Town",
+   3.4
+  ],
+  [
+   "walk",
+   "Creole / Quit 'N Time",
+   "Town 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Town",
+   "Town 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Town 2",
+   "Town",
+   1.4
+  ],
+  [
+   "walk",
+   "Mid Mtn / Shortline",
+   "Flat Iron",
+   3.6
+  ],
+  [
+   "walk",
+   "Shortline / Shortliner",
+   "Mid Mtn / Shortline",
+   4.3
+  ],
+  [
+   "walk",
+   "Shortline / Shortliner",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Shortline / Shortliner",
+   "Flat Iron",
+   5.5
+  ],
+  [
+   "walk",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   "Flat Iron",
+   3.9
+  ],
+  [
+   "walk",
+   "Flat Iron",
+   "Mid Mtn / Shortline",
+   3.6
+  ],
+  [
+   "walk",
+   "Flat Iron",
+   "McConkey's Hi-Speed Six-Pack bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Woodside",
+   "Flat Iron",
+   6.8
+  ],
+  [
+   "walk",
+   "Mid Mtn 2",
+   "Flat Iron",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Unnamed run 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Encore / Sidewinder",
+   "Unnamed run / Mainline",
+   5.2
+  ],
+  [
+   "walk",
+   "Encore / Sidewinder",
+   "Red Pine Gondola top",
+   5.4
+  ],
+  [
+   "walk",
+   "Encore / Sidewinder",
+   "High Meadow Express bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Encore / Sidewinder",
+   "Red Pine Road",
+   4.1
+  ],
+  [
+   "walk",
+   "Encore / Sidewinder",
+   "Red Pine Road 3",
+   5.1
+  ],
+  [
+   "walk",
+   "Encore / Sidewinder",
+   "Unnamed lift bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Encore / Sidewinder",
+   "Unnamed lift bottom 3",
+   6.5
+  ],
+  [
+   "walk",
+   "Encore / Sidewinder",
+   "Unnamed lift top 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Encore / Sidewinder",
+   "Unnamed lift bottom 5",
+   5.6
+  ],
+  [
+   "walk",
+   "Encore / Sidewinder",
+   "Mainline",
+   6.4
+  ],
+  [
+   "walk",
+   "Silver Hollow 2",
+   "First Time Lift top",
+   6.8
+  ],
+  [
+   "walk",
+   "Raptor Way",
+   "Retreat / Raptor Way",
+   3.8
+  ],
+  [
+   "walk",
+   "Raptor Way",
+   "Raptor Way 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Doc's Run 2",
+   "Retreat / Raptor Way",
+   5.9
+  ],
+  [
+   "walk",
+   "Doc's Run 2",
+   "Raptor Way",
+   3.6
+  ],
+  [
+   "walk",
+   "Doc's Run 2",
+   "Raptor Way 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Abyss / Harmony",
+   "Solace / Upper Crowning Glory",
+   2.5
+  ],
+  [
+   "walk",
+   "Abyss / Harmony",
+   "Mystic Pines / Upper Crowning Glory",
+   1.3
+  ],
+  [
+   "walk",
+   "Mystic Pines / Upper Crowning Glory",
+   "Solace / Upper Crowning Glory",
+   2.7
+  ],
+  [
+   "walk",
+   "Mystic Pines / Upper Crowning Glory",
+   "Abyss / Harmony",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed run 4",
+   3.3
+  ],
+  [
+   "walk",
+   "Diablo / Willow Draw",
+   "Willow Draw",
+   4.1
+  ],
+  [
+   "walk",
+   "Willow Draw",
+   "Diablo / Willow Draw",
+   4.1
+  ],
+  [
+   "walk",
+   "Outlaw / Willow Draw",
+   "Diablo / Willow Draw",
+   5.2
+  ],
+  [
+   "walk",
+   "Outlaw / Willow Draw",
+   "Willow Draw",
+   4.3
+  ],
+  [
+   "walk",
+   "Outlaw / Willow Draw",
+   "Ripcord bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Diablo / Willow Draw",
+   "Outlaw / Willow Draw",
+   5.2
+  ],
+  [
+   "walk",
+   "Willow Draw",
+   "Outlaw / Willow Draw",
+   4.3
+  ],
+  [
+   "walk",
+   "Ripcord bottom",
+   "Outlaw / Willow Draw",
+   4.3
+  ],
+  [
+   "walk",
+   "Thaynes Canyon 7",
+   "Thaynes Canyon 8",
+   1.8
+  ],
+  [
+   "walk",
+   "Thaynes Canyon 9",
+   "Thaynes Canyon 8",
+   3.5
+  ],
+  [
+   "walk",
+   "Apex Ridge / Flume",
+   "Tower / Willow Draw",
+   3.6
+  ],
+  [
+   "walk",
+   "Badlands / Flume",
+   "Tower / Willow Draw",
+   5.0
+  ],
+  [
+   "walk",
+   "Badlands / Flume",
+   "Apex Ridge / Flume",
+   3.0
+  ]
+ ],
+ "base": "Eagle Lift bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Utah",
+  "total_lifts": "41",
+  "downhill_trails": "469",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}
