@@ -2,6 +2,8 @@
 
 Given where a skier is now and how much time they have, find a near-optimal route that covers the most *unique* vertical. A run scores its full vertical the first time and half on repeats. Repeat lift rides cost a little.
 
+> **Qollab hackathon submission.** This effort is supported by Qollab & IonQ. Student Track, Quantum Impact theme, Colorado School of Mines node. MIT license. Run `python main.py` for the hackathon demo: QWOA against a penalty-QUBO QAOA baseline on one lift pod, with both circuits packed into one IonQ job ([details](#baseline-penalty-qubo-qaoa)). Demo video outline: [docs/demo-video.md](docs/demo-video.md). Credits: [contributions.md](contributions.md).
+
 ## Problem
 
 We model a ski resort as a directed graph. Nodes are trail junctions and lift terminals. Runs give vertical drop and take time. Lifts only take time. Walk links are short walks or skates that bridge gaps in the map data. They can be repeated, and any height they climb is subtracted from the score, so a route can't farm points by skiing a dip and walking back up. A **route** is a walk from the skier's current node to a finish node (by default the base) that fits inside their **time budget**.
@@ -96,6 +98,39 @@ What it costs on hardware (Aria, two-qubit MS gates):
 | Discovery | 18 min | 14 | 1 | 67 | 0.183 vs 0.071 |
 | Mt. Rainier Gondola | 30 min | 15 | 1 | 67 | 0.508 vs 0.133 |
 | Chinook Express | 18 min | 12 | 2 | 103 | 0.353 vs 0.083 |
+
+## Baseline: penalty-QUBO QAOA
+
+`qaoa.py` runs the textbook alternative on the same lift pod: standard QAOA with an X mixer over a penalty QUBO ([Lucas 2014](https://arxiv.org/abs/1302.5843)). It compares the result with QWOA at the same p, then packs both circuits into **one job** with `circuit.pack`, because an IonQ run takes one circuit. `circuit.unpack` splits the counts again.
+
+```sh
+python main.py                                                     # Qollab entry point: toy pod, same as python qaoa.py
+python qaoa.py resorts/crystal-mountain-washington.json --pod "Quicksilver" --max-routes 4
+python qaoa.py ... --ionq simulator                                # send the packed job to IonQ (needs IONQ_API_KEY)
+```
+
+- **Encoding:** the QUBO's variables are each edge's use count, in binary, plus binary slack for the time budget. The cost is −score, plus `PENALTY` × (in − out)² at every node, plus `PENALTY` × (minutes + slack − budget)².
+- **Scoring:** a bitstring counts as a route only if its edge counts equal a feasible route's (the key `quasar.search` uses). Routes are then scored exactly.
+- **Self-check:** the run checks that the Qiskit circuit matches the NumPy simulation, and that the QUBO equals −score, up to a constant, on every route. Link climbs are included in the score. The QUBO check is skipped when a run or lift needs 3+ count bits, because there the QUBO only approximates "used at least once".
+- **Help the baseline gets:** count bounds come from the same enumeration QWOA uses, which keeps the qubit count low. Without it, the QUBO would need even more qubits.
+
+Measured with `qaoa.py`, 1,000 shots, with both circuits in one packed job on the local sampler:
+
+| pod | budget | routes | qubits QWOA / QAOA | Aria MS gates at p=1 | P(optimal) p=1: QWOA / QAOA / random QAOA | P(optimal) p=2: QWOA / QAOA | QAOA shots that are routes (p=1) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Toy Lift A | 65 min | 16 | 4 / 16 | 34 / 240 | 0.368 / 0.006 / 0.006 | 0.516 / 0.006 | 4.5% |
+| Crystal Quicksilver | 17 min | 3 | 2 / 15 | 7 / 210 | 0.502 / 0.006 / 0.008 | 0.512 / 0.003 | 3.1% |
+| Crystal Gold Hills | 11 min | 4 | 2 / 14 | 4 / 182 | 0.999 / 0.012 / 0.016 | 1.000 / 0.014 | 2.4% |
+| Crystal Discovery | 13 min | 6 | 3 / 18 | 24 / 306 | 0.896 / 0.001 / 0.001 | 0.999 / 0.002 | 0.5% |
+| Crystal Green Valley | 14 min | 7 | 3 / 19 | 24 / 342 | 0.843 / 0.000 / 0.0005 | 1.000 / 0.000 | 1.1% |
+| Crystal Gold Hills | 13 min | 7 | 3 / 20 | 24 / 380 | 0.631 / 0.001 / 0.0005 | 0.801 / 0.001 | 0.1% |
+
+- **Qubits and gates:** the penalty QUBO needs 4–8× the qubits and 7–46× the two-qubit gates of QWOA on the same pod.
+- **Wasted shots:** 95–99.9% of its shots aren't routes at all.
+- **P(optimal):** at p=1 and p=2, QAOA's chance of the optimum stays at random-guess level. The angle optimizer minimizes expected cost, and the penalties dominate that cost, so the angles learn to avoid big violations rather than to find good routes.
+- **Penalties don't separate routes from non-routes:** the cheapest non-route sits at most 1.5 best-scores above the optimum, and on Discovery and the 13-minute Gold Hills pod a non-route ties it. In both, the tying non-route is a subtour: the optimal route plus a detached loop (a run and a link back up to its start) that never touches the base. Flow penalties can't see subtours. On the toy pod, the cheapest non-route costs less than any route that scores under 78% of the best.
+- This is the README's argument for QWOA, now measured: QWOA's mixer keeps every shot on a feasible route.
+- **Caveat:** the comparison relies on the classical enumeration, so neither algorithm shows a speedup here.
 
 ## Quantum speedup (large fault-tolerant machine)
 

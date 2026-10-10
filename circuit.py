@@ -44,6 +44,28 @@ def qwoa_circuit(scores, theta):
     return qc
 
 
+def pack(circuits):
+    """Several unmeasured circuits side by side on disjoint qubits, as one circuit: IonQ runs one circuit per job,
+    so everything a run measures goes into it. Measure the result with measure_all() and split counts with unpack."""
+    qc = QuantumCircuit(sum(c.num_qubits for c in circuits))
+    at = 0
+    for c in circuits:
+        qc.compose(c, range(at, at + c.num_qubits), inplace=True)
+        at += c.num_qubits
+    return qc
+
+
+def unpack(counts, sizes):
+    """Split {packed outcome: count} (int keys, or bitstrings as backends return them) into one dict per circuit."""
+    out = [{} for _ in sizes]
+    for k, c in counts.items():
+        k = int(k.replace(" ", ""), 2) if isinstance(k, str) else k
+        for d, n in zip(out, sizes):
+            d[k & (2**n - 1)] = d.get(k & (2**n - 1), 0) + c
+            k >>= n
+    return out
+
+
 def native_counts(qc, backend):
     """Gate counts after compiling to an IonQ backend's native gates. Offline: no API key or job needed."""
     warnings.simplefilter("ignore", IonQTranspileLevelWarning)  # fires on backend creation; we pass level 1 below
