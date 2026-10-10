@@ -1,4 +1,4 @@
-"""QUASAR visualizer: python serve.py, then open http://localhost:8000
+"""QUASAR visualizer: python serve.py [port], then open http://localhost:8000 (or your port)
 
 GET /                         the map page (viz.html)
 GET /resorts                  resort names in resorts/
@@ -11,7 +11,9 @@ POST /feedback                {resort, like: [run ids], dislike: [run ids], leve
 """
 
 import json
+import sys
 import time
+from functools import lru_cache
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
@@ -23,7 +25,12 @@ RESORTS = ROOT / "resorts"
 GEO_DIRS = [ROOT / "data" / "geo", RESORTS / "geo"]  # curated last so it wins on a slug clash
 FEEDBACK = ROOT / "feedback.jsonl"
 MAX_BODY = 64_000
-MAX_MINUTES = 240  # ponytail: search is exponential in the budget; cap until large resorts get pod decomposition
+MAX_MINUTES = 480  # a full ski day; beam search keeps big resorts to a few seconds
+
+
+@lru_cache(maxsize=32)  # ponytail: built once per process; restart serve.py after rebuilding a resort
+def resort(name):
+    return quasar.load(RESORTS / f"{name}.json")
 
 
 def resort_names():
@@ -74,9 +81,9 @@ def api(path, q):
     name = q.get("resort", "")
     if name not in resort_names():
         return 400, {"error": f"unknown resort {name!r}"}
-    r = quasar.load(RESORTS / f"{name}.json")
+    r = resort(name)
     if path == "/resort":
-        return 200, {k: r[k] for k in ("name", "base", "nodes", "edges")}
+        return 200, {k: r.get(k) for k in ("name", "base", "nodes", "edges", "info", "source")}
     if path == "/plan":
         start, end = q.get("start", r["base"]), q.get("end", r["base"])
         if start not in r["nodes"] or end not in r["nodes"]:
@@ -132,5 +139,6 @@ if __name__ == "__main__":
     assert rec["like"] == [run] and len(rec["note"]) == 1000
     FEEDBACK.unlink()
     FEEDBACK = real
-    print("QUASAR visualizer on http://localhost:8000")
-    ThreadingHTTPServer(("127.0.0.1", 8000), Handler).serve_forever()
+    port = int(sys.argv[1]) if len(sys.argv) > 1 else 8000
+    print(f"QUASAR visualizer on http://localhost:{port}")
+    ThreadingHTTPServer(("127.0.0.1", port), Handler).serve_forever()

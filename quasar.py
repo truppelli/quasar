@@ -1,28 +1,35 @@
 """QUASAR: the ski route with the most vertical in the skier's time budget, starting where they stand.
 
-Runs are skied at most once; lifts may repeat at a cost. Exact classical branch-and-bound finds the optimum;
-QWOA (QAOA whose mixer is a continuous-time quantum walk over feasible routes) searches the same routes.
+A run's vertical scores only the first time; re-skiing a run or re-riding a lift is allowed but costs points.
+Exact branch-and-bound finds the optimum on small resorts, beam search handles big ones, and QWOA (QAOA whose
+mixer is a continuous-time quantum walk over feasible routes) searches the same routes.
 """
 
 import argparse
+import heapq
 import json
 
 import numpy as np
 from scipy.optimize import minimize
 
-LIFT_REPEAT_COST = 100  # metres of vertical one repeat ride of the same lift costs; per-user preference knob
+# Per-user preference knobs, in metres of vertical one repeat costs. Repeats are needed on real resorts, where
+# many trails funnel into a few run-outs back to the base.
+LIFT_REPEAT_COST = 100
+RUN_REPEAT_COST = 100
 
 
 def load(path):
-    with open(path) as f:
+    with open(path, encoding="utf-8") as f:
         return build(json.load(f))
 
 
 def build(r):
-    """Resort dict: nodes {name: [x, y, elevation_m]}, lifts/runs [[name, from, to, minutes], ...]."""
+    """Resort dict: nodes {name: [x, y, elevation_m]}, lifts/runs/links [[name, from, to, minutes], ...].
+
+    Links are short walks/skates between trails: no vertical, free to repeat."""
     nodes, edges = r["nodes"], []
-    for kind in ("lift", "run"):
-        for name, u, v, mins in r[kind + "s"]:
+    for kind in ("lift", "run", "link"):
+        for name, u, v, mins in r.get(kind + "s", []):
             if u not in nodes or v not in nodes or mins <= 0:
                 raise ValueError(f"{r.get('name')}: bad {kind} {name!r}")
             drop = nodes[u][2] - nodes[v][2] if kind == "run" else 0
@@ -40,22 +47,22 @@ def build(r):
     return {**r, "edges": edges}
 
 
-def search(resort, start, end, minutes, prune=True):
+def search(resort, start, end, minutes, prune=True, max_nodes=None):
     """DFS over partial routes from start. Returns ({edge-count tuple: (score, path)}, tree nodes visited, max depth).
 
     prune=True is exact branch-and-bound (keeps only what's needed for the optimum);
     prune=False enumerates every feasible route, i.e. the QWOA search space.
+    max_nodes stops early with the best route so far (tree == max_nodes means it may not be optimal).
     """
     edges = resort["edges"]
-    out = {}
-    for i, e in enumerate(edges):
-        out.setdefault(e["from"], []).append(i)
-    rate = max(e["vertical"] / e["minutes"] for e in edges)  # upper bound on metres per minute
+    out, home, rate = _prep(edges, end)
     sols, counts, path = {}, [0] * len(edges), []
     best, tree, depth = -np.inf, 0, 0
 
     def dfs(node, left, score):
         nonlocal best, tree, depth
+        if tree == max_nodes:
+            return
         tree += 1
         depth = max(depth, len(path))
         if node == end:
@@ -65,9 +72,9 @@ def search(resort, start, end, minutes, prune=True):
             return
         for i in out.get(node, []):
             e = edges[i]
-            if e["minutes"] > left or (e["kind"] == "run" and counts[i]):
+            gain = _gain(edges, i, path, counts[i], left, home)
+            if gain is None:
                 continue
-            gain = e["vertical"] if e["kind"] == "run" else -LIFT_REPEAT_COST * (counts[i] > 0)
             counts[i] += 1
             path.append(i)
             dfs(e["to"], left - e["minutes"], score + gain)
@@ -78,20 +85,90 @@ def search(resort, start, end, minutes, prune=True):
     return sols, tree, depth
 
 
+def _prep(edges, end):
+    """Outgoing edges per node (best m/min first), fastest minutes home to `end`, and a max m/min bound."""
+    out = {}
+    for i, e in enumerate(edges):
+        out.setdefault(e["from"], []).append(i)
+    for v in out.values():  # most vertical per minute first, so good routes turn up early
+        v.sort(key=lambda i: -edges[i]["vertical"] / edges[i]["minutes"])
+    home, heap = {end: 0}, [(0, end)]  # Dijkstra on reversed edges
+    while heap:
+        d, n = heapq.heappop(heap)
+        if d > home[n]:
+            continue
+        for e in edges:
+            if e["to"] == n and d + e["minutes"] < home.get(e["from"], np.inf):
+                home[e["from"]] = d + e["minutes"]
+                heapq.heappush(heap, (home[e["from"]], e["from"]))
+    return out, home, max(e["vertical"] / e["minutes"] for e in edges)
+
+
+def _gain(edges, i, path, times_used, left, home):
+    """Score for taking edge i next, or None if not allowed (chained link, can't get home in time)."""
+    e = edges[i]
+    if e["minutes"] + home.get(e["to"], np.inf) > left:
+        return None
+    if e["kind"] == "link" and path and edges[path[-1]]["kind"] == "link":
+        return None  # links bridge one gap; chaining them just walks in circles
+    if not times_used:
+        return e["vertical"]
+    return {"run": -RUN_REPEAT_COST, "lift": -LIFT_REPEAT_COST, "link": 0}[e["kind"]]
+
+
+def beam(resort, start, end, minutes, width=500):
+    """Heuristic for resorts too big for exact search: partial routes are bucketed by minutes used and only the
+    `width` best-scoring ones per minute are extended, so routes are compared at equal elapsed time.
+
+    ponytail: not monotone in `minutes` (a longer budget can score below a shorter one); wider beams or a local
+    search pass over the result are the upgrade path.
+    """
+    edges = resort["edges"]
+    out, home, _ = _prep(edges, end)
+    best = (0, ()) if start == end else (-np.inf, None)
+    buckets = {0: {(start, ()): (0, start, 0.0, ())}}  # minute -> {(node, trails used): (score, node, used, path)}
+    for t in range(int(minutes) + 1):
+        bucket = sorted(buckets.pop(t, {}).values(), key=lambda st: -st[0])[:width]
+        for score, node, used, path in bucket:
+            for i in out.get(node, []):
+                gain = _gain(edges, i, path, path.count(i), minutes - used, home)
+                if gain is None:
+                    continue
+                e = edges[i]
+                st = (score + gain, e["to"], used + e["minutes"], path + (i,))
+                if e["to"] == end and st[0] > best[0]:
+                    best = (st[0], st[3])
+                slot = buckets.setdefault(max(int(st[2]), t + 1), {})
+                key = (e["to"], frozenset(st[3]))  # same place, same trails: keep the better one
+                if key not in slot or slot[key][0] < st[0]:
+                    slot[key] = st
+    return best if best[1] is not None else None
+
+
 def describe(resort, score, path):
     legs = [resort["edges"][i] for i in path]
     return {
-        "score": score,
-        "vertical_m": sum(e["vertical"] for e in legs),
-        "minutes": sum(e["minutes"] for e in legs),
+        "score": round(score, 1),
+        "vertical_m": round(sum(e["vertical"] for e in legs), 1),  # everything skied, repeats included
+        "minutes": round(sum(e["minutes"] for e in legs), 1),
         "route": legs,
     }
 
 
-def plan(resort, start, minutes, end=None):
-    """Exact optimal route via branch-and-bound (the app path). None if `end` is unreachable in time."""
-    sols, _, _ = search(resort, start, end or resort["base"], minutes)
-    return describe(resort, *max(sols.values(), key=lambda s: s[0])) if sols else None
+def plan(resort, start, minutes, end=None, max_nodes=300_000):
+    """Best route (the app path): exact branch-and-bound if it finishes within max_nodes, else beam search.
+
+    None if `end` is unreachable in time. "optimal" says whether the route is proven best.
+    """
+    end = end or resort["base"]
+    sols, tree, _ = search(resort, start, end, minutes, max_nodes=max_nodes)
+    found = [max(sols.values(), key=lambda s: s[0])] if sols else []
+    exact = tree < max_nodes
+    if not exact and (b := beam(resort, start, end, minutes)):
+        found.append(b)
+    if not found:
+        return None
+    return {**describe(resort, *max(found, key=lambda s: s[0])), "optimal": exact}
 
 
 def qwoa(scores, p=3, restarts=5, seed=0):
@@ -120,8 +197,9 @@ def qwoa(scores, p=3, restarts=5, seed=0):
 
 
 def show(plan_):
-    print(f"  {plan_['vertical_m']} m vertical in {plan_['minutes']} min (score {plan_['score']})")
-    print("  " + " > ".join(e["name"] for e in plan_["route"]))
+    print(f"  {plan_['vertical_m']:.0f} m vertical in {plan_['minutes']:.0f} min (score {plan_['score']:.0f})")
+    names = [e["name"] for e in plan_["route"] if e["kind"] != "link"]
+    print("  " + " > ".join(n for k, n in enumerate(names) if k == 0 or n != names[k - 1]))
 
 
 if __name__ == "__main__":
@@ -144,10 +222,15 @@ if __name__ == "__main__":
         raise SystemExit
     if best is None:
         raise SystemExit(f"can't get from {start} to {end} in {a.minutes} min")
-    print(f"{r['name']}: {start} -> {end}, {a.minutes} min")
-    print("classical branch-and-bound optimum:")
+    print(f"{r['name']}: {start} -> {end}, {a.minutes:g} min")
+    print("classical branch-and-bound optimum:" if best["optimal"] else "beam search (too big to prove optimal):")
     show(best)
+    if not best["optimal"]:
+        print("(QWOA demo needs every route enumerated; run it on a small resort such as resorts/toy.json)")
+        raise SystemExit
 
+    b = beam(r, start, end, a.minutes)
+    assert b and abs(b[0] - best["score"]) < 1e-6, f"beam search found {b and b[0]}, optimum is {best['score']}"
     sols, _, _ = search(r, start, end, a.minutes, prune=False)
     routes = list(sols.values())
     scores = np.array([s for s, _ in routes])

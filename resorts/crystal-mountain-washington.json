@@ -1,0 +1,1886 @@
+{
+ "name": "Crystal Mountain",
+ "source": "OpenSkiMap ski area 89f555b5b8a62c0c002adaa796997b635f38e6da",
+ "origin_lonlat": [
+  -121.48882427998085,
+  46.93521755071488
+ ],
+ "nodes": {
+  "Discovery top": [
+   1079,
+   -493,
+   1389.8
+  ],
+  "Discovery Meadow": [
+   1092,
+   -138,
+   1350.2
+  ],
+  "Grubstake / Back Traverse to Lucky Shot": [
+   -888,
+   260,
+   2067.1
+  ],
+  "Grubstake / Green Valley": [
+   -371,
+   315,
+   1874.0
+  ],
+  "Lucky Shot / Back Traverse to Lucky Shot": [
+   -1017,
+   -471,
+   1952.8
+  ],
+  "Lucky Shot / Upper Arwine's": [
+   -485,
+   -469,
+   1737.3
+  ],
+  "Snorting Elk / Kelley's Gap Road": [
+   -98,
+   651,
+   1795.7
+  ],
+  "Rolling Knolls / Downhill": [
+   -223,
+   -1035,
+   1719.1
+  ],
+  "Rolling Knolls / Broadway": [
+   167,
+   -725,
+   1569.8
+  ],
+  "Last Scream / Back Traverse to Lucky Shot": [
+   -966,
+   -375,
+   1958.8
+  ],
+  "Lucky Shot": [
+   -890,
+   -428,
+   1899.7
+  ],
+  "Mel's Right / Mel's Left": [
+   -189,
+   -558,
+   1664.7
+  ],
+  "Mel's Right / Mel's Left 2": [
+   -56,
+   -647,
+   1610.3
+  ],
+  "Upper Arwine's": [
+   -1,
+   -500,
+   1630.9
+  ],
+  "Green Valley bottom": [
+   -77,
+   515,
+   1790.2
+  ],
+  "Kelley's Gap Road / Unnamed run": [
+   949,
+   94,
+   1347.5
+  ],
+  "Lumpy Lane / Tinkerbell": [
+   525,
+   -885,
+   1497.5
+  ],
+  "Lumpy Lane": [
+   539,
+   -770,
+   1481.7
+  ],
+  "The Doors / Front Traverse": [
+   -772,
+   -161,
+   1999.3
+  ],
+  "The Doors / Little Shot": [
+   -673,
+   -312,
+   1863.4
+  ],
+  "Kelley's Gap Road": [
+   178,
+   525,
+   1694.3
+  ],
+  "Kelley's Gap Road 2": [
+   230,
+   490,
+   1668.7
+  ],
+  "Gold Hills top": [
+   1579,
+   -503,
+   1531.0
+  ],
+  "Gold Hills bottom": [
+   1142,
+   -202,
+   1356.5
+  ],
+  "Kelley's Gap Road 3": [
+   513,
+   395,
+   1553.6
+  ],
+  "West Face / Green Valley": [
+   -115,
+   326,
+   1825.9
+  ],
+  "Quicksilver top": [
+   478,
+   -1346,
+   1600.9
+  ],
+  "Quicksilver / Tinkerbell": [
+   666,
+   -933,
+   1477.0
+  ],
+  "Kelley's Gap Road 4": [
+   12,
+   666,
+   1768.9
+  ],
+  "Kelley's Gap Road 5": [
+   123,
+   558,
+   1702.9
+  ],
+  "The Plunge / Upper Ferk's Run": [
+   -320,
+   32,
+   1916.9
+  ],
+  "The Plunge / Middle Ferk's Run": [
+   -160,
+   -77,
+   1788.1
+  ],
+  "Deer Fly / Lower Ferk's Run": [
+   67,
+   -354,
+   1631.3
+  ],
+  "Deer Fly / Lower Arwine's": [
+   664,
+   -516,
+   1427.9
+  ],
+  "Queens": [
+   -1011,
+   -1232,
+   1897.7
+  ],
+  "Forest Queen Express bottom": [
+   381,
+   -1060,
+   1547.7
+  ],
+  "Sudden Drop": [
+   605,
+   -693,
+   1454.4
+  ],
+  "Sudden Drop / Lower Arwine's": [
+   727,
+   -542,
+   1409.8
+  ],
+  "Mel's Left / Gandy's Run": [
+   -333,
+   -543,
+   1700.6
+  ],
+  "Frisco / Downhill": [
+   -431,
+   -1015,
+   1764.2
+  ],
+  "Lucky Shot 2": [
+   -703,
+   -415,
+   1842.6
+  ],
+  "Middle Ferk's Run / Upper Ferk's Run": [
+   -282,
+   103,
+   1905.2
+  ],
+  "Middle Ferk's Run": [
+   20,
+   -323,
+   1650.0
+  ],
+  "Afterburn / Downhill": [
+   186,
+   -948,
+   1597.0
+  ],
+  "Afterburn / Broadway": [
+   287,
+   -907,
+   1558.3
+  ],
+  "Tinkerbell / Snow Garden": [
+   350,
+   -1274,
+   1575.1
+  ],
+  "Tinkerbell": [
+   962,
+   -450,
+   1383.9
+  ],
+  "Lower Magoo / Chappelle's": [
+   20,
+   -1155,
+   1632.8
+  ],
+  "Lower Magoo / Broadway": [
+   326,
+   -960,
+   1553.9
+  ],
+  "Little Magoo / Mr Magoo": [
+   -164,
+   -1113,
+   1696.1
+  ],
+  "Little Magoo / Downhill": [
+   -109,
+   -1064,
+   1689.2
+  ],
+  "Lucky Shot 3": [
+   -742,
+   -406,
+   1864.0
+  ],
+  "Little Shot": [
+   -397,
+   -389,
+   1737.5
+  ],
+  "Forest Queen Express top": [
+   -963,
+   -1186,
+   1900.4
+  ],
+  "Breakover / Front Traverse": [
+   -707,
+   -94,
+   2010.4
+  ],
+  "Little Shot 2": [
+   -452,
+   -299,
+   1788.7
+  ],
+  "Rainier Express top": [
+   -865,
+   35,
+   2079.3
+  ],
+  "Back Traverse to Lucky Shot": [
+   -959,
+   -324,
+   1971.7
+  ],
+  "Front Traverse": [
+   -760,
+   -19,
+   2044.2
+  ],
+  "Pro Course / Bill's face": [
+   -374,
+   117,
+   1904.3
+  ],
+  "Downhill": [
+   -743,
+   -1073,
+   1825.2
+  ],
+  "Kelley's Gap Road 6": [
+   270,
+   430,
+   1649.4
+  ],
+  "Kelley's Gap Road 7": [
+   487,
+   458,
+   1565.6
+  ],
+  "Mel's Left": [
+   -29,
+   -608,
+   1612.1
+  ],
+  "Queens 2": [
+   53,
+   -1329,
+   1629.5
+  ],
+  "Green Valley": [
+   -648,
+   204,
+   1957.5
+  ],
+  "Middle Arwine's": [
+   37,
+   -524,
+   1617.3
+  ],
+  "Middle Arwine's / Broadway": [
+   206,
+   -675,
+   1571.6
+  ],
+  "Little Portillo": [
+   -754,
+   -501,
+   1871.7
+  ],
+  "Side Burn / Broadway": [
+   262,
+   -817,
+   1564.2
+  ],
+  "Kelley's Gap Road 8": [
+   735,
+   90,
+   1422.3
+  ],
+  "Sled Face": [
+   898,
+   62,
+   1361.8
+  ],
+  "Rainier Express bottom": [
+   51,
+   -680,
+   1602.4
+  ],
+  "Tinkerbell 2": [
+   404,
+   -1023,
+   1545.9
+  ],
+  "Chinook Express bottom": [
+   1030,
+   -35,
+   1343.9
+  ],
+  "Downhill 2": [
+   -912,
+   -1219,
+   1880.6
+  ],
+  "Ms. Magoo": [
+   -22,
+   -1150,
+   1646.0
+  ],
+  "Lower Arwine's 2": [
+   1036,
+   -165,
+   1356.5
+  ],
+  "Snow Garden": [
+   316,
+   -1347,
+   1588.7
+  ],
+  "CMAC": [
+   1396,
+   -408,
+   1451.6
+  ],
+  "Jump Hill": [
+   1138,
+   -375,
+   1378.8
+  ],
+  "Back Traverse to Lucky Shot 2": [
+   -911,
+   -277,
+   1988.1
+  ],
+  "Lucky Shot 4": [
+   -833,
+   -408,
+   1883.7
+  ],
+  "Rolling Knolls": [
+   -97,
+   -812,
+   1641.0
+  ],
+  "Wally's Way": [
+   5,
+   -714,
+   1601.3
+  ],
+  "Mel's Right": [
+   -112,
+   -655,
+   1619.6
+  ],
+  "Green Valley 2": [
+   -206,
+   278,
+   1842.3
+  ],
+  "Boondoggle": [
+   521,
+   -1362,
+   1599.8
+  ],
+  "Boondoggle 2": [
+   714,
+   -991,
+   1468.1
+  ],
+  "Green Valley top": [
+   -850,
+   285,
+   2066.5
+  ],
+  "Mt. Rainier Gondola bottom": [
+   1058,
+   50,
+   1337.7
+  ],
+  "Quicksilver bottom": [
+   999,
+   -471,
+   1381.7
+  ],
+  "Discovery bottom": [
+   1109,
+   -44,
+   1342.9
+  ],
+  "Magic Carpet top": [
+   1138,
+   -113,
+   1349.4
+  ]
+ },
+ "lifts": [
+  [
+   "Rainier Express",
+   "Rainier Express bottom",
+   "Rainier Express top",
+   7.2
+  ],
+  [
+   "Green Valley",
+   "Green Valley bottom",
+   "Green Valley top",
+   9.3
+  ],
+  [
+   "Mt. Rainier Gondola",
+   "Mt. Rainier Gondola bottom",
+   "Rainier Express top",
+   15.0
+  ],
+  [
+   "Quicksilver",
+   "Quicksilver bottom",
+   "Quicksilver top",
+   10.5
+  ],
+  [
+   "Gold Hills",
+   "Gold Hills bottom",
+   "Gold Hills top",
+   7.3
+  ],
+  [
+   "Chinook Express",
+   "Chinook Express bottom",
+   "Rainier Express bottom",
+   7.0
+  ],
+  [
+   "Discovery",
+   "Discovery bottom",
+   "Discovery top",
+   6.2
+  ],
+  [
+   "Forest Queen Express",
+   "Forest Queen Express bottom",
+   "Forest Queen Express top",
+   7.7
+  ],
+  [
+   "Magic Carpet",
+   "Discovery bottom",
+   "Magic Carpet top",
+   4.3
+  ]
+ ],
+ "runs": [
+  [
+   "Discovery Meadow",
+   "Discovery top",
+   "Discovery Meadow",
+   1.5
+  ],
+  [
+   "Grubstake",
+   "Grubstake / Back Traverse to Lucky Shot",
+   "Green Valley top",
+   0.5
+  ],
+  [
+   "Grubstake",
+   "Green Valley top",
+   "Grubstake / Green Valley",
+   2.4
+  ],
+  [
+   "Lucky Shot",
+   "Lucky Shot / Back Traverse to Lucky Shot",
+   "Lucky Shot",
+   0.6
+  ],
+  [
+   "Lucky Shot",
+   "Lucky Shot",
+   "Lucky Shot 4",
+   0.5
+  ],
+  [
+   "Lucky Shot",
+   "Lucky Shot 4",
+   "Lucky Shot 3",
+   0.5
+  ],
+  [
+   "Lucky Shot",
+   "Lucky Shot 3",
+   "Lucky Shot 2",
+   0.5
+  ],
+  [
+   "Lucky Shot",
+   "Lucky Shot 2",
+   "Lucky Shot / Upper Arwine's",
+   1.1
+  ],
+  [
+   "Rolling Knolls",
+   "Rolling Knolls / Downhill",
+   "Rolling Knolls",
+   1.2
+  ],
+  [
+   "Rolling Knolls",
+   "Rolling Knolls",
+   "Rolling Knolls / Broadway",
+   1.2
+  ],
+  [
+   "Last Scream",
+   "Last Scream / Back Traverse to Lucky Shot",
+   "Lucky Shot",
+   0.5
+  ],
+  [
+   "Back Traverse to Lucky Shot",
+   "Grubstake / Back Traverse to Lucky Shot",
+   "Back Traverse to Lucky Shot 2",
+   2.3
+  ],
+  [
+   "Back Traverse to Lucky Shot",
+   "Back Traverse to Lucky Shot 2",
+   "Back Traverse to Lucky Shot",
+   0.5
+  ],
+  [
+   "Back Traverse to Lucky Shot",
+   "Back Traverse to Lucky Shot",
+   "Last Scream / Back Traverse to Lucky Shot",
+   0.5
+  ],
+  [
+   "Back Traverse to Lucky Shot",
+   "Last Scream / Back Traverse to Lucky Shot",
+   "Lucky Shot / Back Traverse to Lucky Shot",
+   0.5
+  ],
+  [
+   "Mel's Right",
+   "Mel's Right / Mel's Left",
+   "Mel's Right",
+   0.5
+  ],
+  [
+   "Mel's Right",
+   "Mel's Right",
+   "Mel's Right / Mel's Left 2",
+   0.5
+  ],
+  [
+   "Upper Arwine's",
+   "Lucky Shot / Upper Arwine's",
+   "Upper Arwine's",
+   2.0
+  ],
+  [
+   "Kelley's Gap Road",
+   "Green Valley bottom",
+   "Snorting Elk / Kelley's Gap Road",
+   0.5
+  ],
+  [
+   "Kelley's Gap Road",
+   "Snorting Elk / Kelley's Gap Road",
+   "Kelley's Gap Road 4",
+   0.5
+  ],
+  [
+   "Kelley's Gap Road",
+   "Kelley's Gap Road 4",
+   "Kelley's Gap Road 5",
+   1.9
+  ],
+  [
+   "Kelley's Gap Road",
+   "Kelley's Gap Road 5",
+   "Kelley's Gap Road",
+   0.5
+  ],
+  [
+   "Kelley's Gap Road",
+   "Kelley's Gap Road",
+   "Kelley's Gap Road 2",
+   0.5
+  ],
+  [
+   "Kelley's Gap Road",
+   "Kelley's Gap Road 2",
+   "Kelley's Gap Road 6",
+   0.6
+  ],
+  [
+   "Kelley's Gap Road",
+   "Kelley's Gap Road 6",
+   "Kelley's Gap Road 2",
+   0.5
+  ],
+  [
+   "Kelley's Gap Road",
+   "Kelley's Gap Road 2",
+   "Kelley's Gap Road 7",
+   2.1
+  ],
+  [
+   "Kelley's Gap Road",
+   "Kelley's Gap Road 7",
+   "Kelley's Gap Road 3",
+   0.5
+  ],
+  [
+   "Kelley's Gap Road",
+   "Kelley's Gap Road 3",
+   "Kelley's Gap Road 8",
+   4.1
+  ],
+  [
+   "Kelley's Gap Road",
+   "Kelley's Gap Road 8",
+   "Kelley's Gap Road / Unnamed run",
+   1.9
+  ],
+  [
+   "Lumpy Lane",
+   "Lumpy Lane / Tinkerbell",
+   "Lumpy Lane",
+   0.5
+  ],
+  [
+   "The Doors",
+   "The Doors / Front Traverse",
+   "The Doors / Little Shot",
+   0.8
+  ],
+  [
+   "Middle Sluiceway",
+   "Kelley's Gap Road",
+   "Kelley's Gap Road 2",
+   0.5
+  ],
+  [
+   "CMAC",
+   "Gold Hills top",
+   "CMAC",
+   0.8
+  ],
+  [
+   "CMAC",
+   "CMAC",
+   "Gold Hills bottom",
+   1.4
+  ],
+  [
+   "Quicksilver",
+   "Quicksilver top",
+   "Quicksilver / Tinkerbell",
+   1.9
+  ],
+  [
+   "Upper Sluiceway",
+   "Kelley's Gap Road 4",
+   "Kelley's Gap Road 5",
+   0.6
+  ],
+  [
+   "The Plunge",
+   "The Plunge / Upper Ferk's Run",
+   "The Plunge / Middle Ferk's Run",
+   0.8
+  ],
+  [
+   "Deer Fly",
+   "Deer Fly / Lower Ferk's Run",
+   "Deer Fly / Lower Arwine's",
+   2.7
+  ],
+  [
+   "Queens",
+   "Queens",
+   "Queens 2",
+   5.9
+  ],
+  [
+   "Queens",
+   "Queens 2",
+   "Forest Queen Express bottom",
+   1.8
+  ],
+  [
+   "Sudden Drop",
+   "Sudden Drop",
+   "Sudden Drop / Lower Arwine's",
+   0.7
+  ],
+  [
+   "Mel's Left",
+   "Mel's Left / Gandy's Run",
+   "Mel's Right / Mel's Left",
+   0.5
+  ],
+  [
+   "Mel's Left",
+   "Mel's Right / Mel's Left",
+   "Mel's Left",
+   0.7
+  ],
+  [
+   "Mel's Left",
+   "Mel's Left",
+   "Mel's Right / Mel's Left 2",
+   0.5
+  ],
+  [
+   "Little Portillo",
+   "Lucky Shot / Back Traverse to Lucky Shot",
+   "Little Portillo",
+   1.5
+  ],
+  [
+   "Little Portillo",
+   "Little Portillo",
+   "Lucky Shot 2",
+   0.5
+  ],
+  [
+   "Middle Ferk's Run",
+   "Middle Ferk's Run / Upper Ferk's Run",
+   "The Plunge / Middle Ferk's Run",
+   0.9
+  ],
+  [
+   "Middle Ferk's Run",
+   "The Plunge / Middle Ferk's Run",
+   "Middle Ferk's Run",
+   1.4
+  ],
+  [
+   "Afterburn",
+   "Afterburn / Downhill",
+   "Afterburn / Broadway",
+   0.5
+  ],
+  [
+   "Tinkerbell",
+   "Tinkerbell / Snow Garden",
+   "Forest Queen Express bottom",
+   0.8
+  ],
+  [
+   "Tinkerbell",
+   "Forest Queen Express bottom",
+   "Tinkerbell 2",
+   0.5
+  ],
+  [
+   "Tinkerbell",
+   "Tinkerbell 2",
+   "Lumpy Lane / Tinkerbell",
+   0.7
+  ],
+  [
+   "Tinkerbell",
+   "Lumpy Lane / Tinkerbell",
+   "Quicksilver / Tinkerbell",
+   0.5
+  ],
+  [
+   "Tinkerbell",
+   "Quicksilver / Tinkerbell",
+   "Tinkerbell",
+   2.3
+  ],
+  [
+   "Lower Magoo",
+   "Lower Magoo / Chappelle's",
+   "Lower Magoo / Broadway",
+   1.4
+  ],
+  [
+   "Little Magoo",
+   "Little Magoo / Mr Magoo",
+   "Little Magoo / Downhill",
+   0.5
+  ],
+  [
+   "Green Valley",
+   "Grubstake / Back Traverse to Lucky Shot",
+   "Green Valley",
+   1.1
+  ],
+  [
+   "Green Valley",
+   "Green Valley",
+   "Grubstake / Green Valley",
+   1.6
+  ],
+  [
+   "Green Valley",
+   "Grubstake / Green Valley",
+   "Green Valley 2",
+   0.7
+  ],
+  [
+   "Green Valley",
+   "Green Valley 2",
+   "West Face / Green Valley",
+   0.5
+  ],
+  [
+   "Green Valley",
+   "West Face / Green Valley",
+   "Green Valley bottom",
+   0.9
+  ],
+  [
+   "Little Shot",
+   "Lucky Shot 3",
+   "Lucky Shot 2",
+   0.5
+  ],
+  [
+   "Little Shot",
+   "Lucky Shot 2",
+   "The Doors / Little Shot",
+   0.5
+  ],
+  [
+   "Little Shot",
+   "The Doors / Little Shot",
+   "Lucky Shot 2",
+   0.5
+  ],
+  [
+   "Little Shot",
+   "Lucky Shot 2",
+   "Little Shot 2",
+   1.0
+  ],
+  [
+   "Little Shot",
+   "Little Shot 2",
+   "Little Shot",
+   0.8
+  ],
+  [
+   "Downhill",
+   "Forest Queen Express top",
+   "Downhill 2",
+   0.5
+  ],
+  [
+   "Downhill",
+   "Downhill 2",
+   "Downhill",
+   0.9
+  ],
+  [
+   "Downhill",
+   "Downhill",
+   "Frisco / Downhill",
+   1.3
+  ],
+  [
+   "Downhill",
+   "Frisco / Downhill",
+   "Rolling Knolls / Downhill",
+   0.9
+  ],
+  [
+   "Downhill",
+   "Rolling Knolls / Downhill",
+   "Little Magoo / Downhill",
+   0.5
+  ],
+  [
+   "Downhill",
+   "Little Magoo / Downhill",
+   "Afterburn / Downhill",
+   1.4
+  ],
+  [
+   "Breakover",
+   "Breakover / Front Traverse",
+   "Little Shot 2",
+   1.5
+  ],
+  [
+   "Front Traverse",
+   "Rainier Express top",
+   "Front Traverse",
+   0.5
+  ],
+  [
+   "Front Traverse",
+   "Front Traverse",
+   "Breakover / Front Traverse",
+   0.7
+  ],
+  [
+   "Front Traverse",
+   "Breakover / Front Traverse",
+   "The Doors / Front Traverse",
+   0.5
+  ],
+  [
+   "Front Traverse",
+   "The Doors / Front Traverse",
+   "Back Traverse to Lucky Shot 2",
+   0.7
+  ],
+  [
+   "Front Traverse",
+   "Back Traverse to Lucky Shot 2",
+   "Back Traverse to Lucky Shot",
+   0.5
+  ],
+  [
+   "Pro Course",
+   "Front Traverse",
+   "Pro Course / Bill's face",
+   1.8
+  ],
+  [
+   "Mr Magoo",
+   "Downhill",
+   "Little Magoo / Mr Magoo",
+   2.4
+  ],
+  [
+   "Berry Patch",
+   "Kelley's Gap Road 6",
+   "Kelley's Gap Road 7",
+   0.9
+  ],
+  [
+   "Snow Garden",
+   "Queens 2",
+   "Snow Garden",
+   1.2
+  ],
+  [
+   "Snow Garden",
+   "Snow Garden",
+   "Tinkerbell / Snow Garden",
+   0.5
+  ],
+  [
+   "Lower Grub",
+   "Green Valley",
+   "Grubstake / Green Valley",
+   1.2
+  ],
+  [
+   "Middle Arwine's",
+   "Middle Arwine's",
+   "Middle Arwine's / Broadway",
+   0.8
+  ],
+  [
+   "Side Burn",
+   "Afterburn / Downhill",
+   "Side Burn / Broadway",
+   0.5
+  ],
+  [
+   "Sled Face",
+   "Kelley's Gap Road 8",
+   "Sled Face",
+   0.6
+  ],
+  [
+   "Broadway",
+   "Rainier Express bottom",
+   "Middle Arwine's / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Middle Arwine's / Broadway",
+   "Rolling Knolls / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Rolling Knolls / Broadway",
+   "Middle Arwine's / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Middle Arwine's / Broadway",
+   "Side Burn / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Side Burn / Broadway",
+   "Afterburn / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Afterburn / Broadway",
+   "Lower Magoo / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Lower Magoo / Broadway",
+   "Tinkerbell 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Kelley's Gap Road / Unnamed run",
+   "Chinook Express bottom",
+   0.7
+  ],
+  [
+   "Chappelle's",
+   "Downhill 2",
+   "Lower Magoo / Chappelle's",
+   4.9
+  ],
+  [
+   "Ms. Magoo",
+   "Little Magoo / Mr Magoo",
+   "Ms. Magoo",
+   0.5
+  ],
+  [
+   "Lower Arwine's",
+   "Deer Fly / Lower Arwine's",
+   "Sudden Drop / Lower Arwine's",
+   0.5
+  ],
+  [
+   "Lower Arwine's",
+   "Sudden Drop / Lower Arwine's",
+   "Lower Arwine's 2",
+   1.9
+  ],
+  [
+   "Easy Street",
+   "Tinkerbell / Snow Garden",
+   "Snow Garden",
+   0.8
+  ],
+  [
+   "Jump Hill",
+   "CMAC",
+   "Jump Hill",
+   1.1
+  ],
+  [
+   "Gold Hills",
+   "Gold Hills top",
+   "Gold Hills bottom",
+   2.7
+  ],
+  [
+   "Elevator Shaft",
+   "Back Traverse to Lucky Shot 2",
+   "Lucky Shot 4",
+   0.6
+  ],
+  [
+   "Upper Ferk's Run",
+   "Front Traverse",
+   "The Plunge / Upper Ferk's Run",
+   1.9
+  ],
+  [
+   "Upper Ferk's Run",
+   "The Plunge / Upper Ferk's Run",
+   "Middle Ferk's Run / Upper Ferk's Run",
+   0.5
+  ],
+  [
+   "Wally's Way",
+   "Rolling Knolls",
+   "Wally's Way",
+   0.7
+  ],
+  [
+   "Gandy's Run",
+   "Lucky Shot / Upper Arwine's",
+   "Mel's Left / Gandy's Run",
+   0.5
+  ],
+  [
+   "Gandy's Run",
+   "Mel's Left / Gandy's Run",
+   "Mel's Right",
+   1.2
+  ],
+  [
+   "Bill's face",
+   "Pro Course / Bill's face",
+   "Green Valley 2",
+   1.0
+  ],
+  [
+   "Boondoggle",
+   "Boondoggle",
+   "Boondoggle 2",
+   2.0
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Discovery top",
+   "Tinkerbell",
+   1.7
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Jump Hill",
+   1.8
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Quicksilver bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Discovery Meadow",
+   "Gold Hills bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Discovery Meadow",
+   "Chinook Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Discovery Meadow",
+   "Lower Arwine's 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Discovery Meadow",
+   "Discovery bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Discovery Meadow",
+   "Magic Carpet top",
+   0.7
+  ],
+  [
+   "walk",
+   "Grubstake / Back Traverse to Lucky Shot",
+   "Green Valley top",
+   0.6
+  ],
+  [
+   "walk",
+   "Snorting Elk / Kelley's Gap Road",
+   "Green Valley bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Mel's Right / Mel's Left 2",
+   "Mel's Left",
+   0.7
+  ],
+  [
+   "walk",
+   "Mel's Right / Mel's Left 2",
+   "Rainier Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Mel's Right / Mel's Left 2",
+   "Wally's Way",
+   1.3
+  ],
+  [
+   "walk",
+   "Mel's Right / Mel's Left 2",
+   "Mel's Right",
+   0.8
+  ],
+  [
+   "walk",
+   "Upper Arwine's",
+   "Mel's Left",
+   1.6
+  ],
+  [
+   "walk",
+   "Upper Arwine's",
+   "Middle Arwine's",
+   0.6
+  ],
+  [
+   "walk",
+   "Green Valley bottom",
+   "Snorting Elk / Kelley's Gap Road",
+   1.9
+  ],
+  [
+   "walk",
+   "Kelley's Gap Road / Unnamed run",
+   "Mt. Rainier Gondola bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Lumpy Lane",
+   "Sudden Drop",
+   1.4
+  ],
+  [
+   "walk",
+   "Gold Hills bottom",
+   "Discovery Meadow",
+   1.1
+  ],
+  [
+   "walk",
+   "Gold Hills bottom",
+   "Lower Arwine's 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Gold Hills bottom",
+   "Magic Carpet top",
+   1.2
+  ],
+  [
+   "walk",
+   "Quicksilver top",
+   "Tinkerbell / Snow Garden",
+   2.0
+  ],
+  [
+   "walk",
+   "Quicksilver top",
+   "Boondoggle",
+   0.6
+  ],
+  [
+   "walk",
+   "Queens",
+   "Forest Queen Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Forest Queen Express bottom",
+   "Lower Magoo / Broadway",
+   1.6
+  ],
+  [
+   "walk",
+   "Forest Queen Express bottom",
+   "Tinkerbell 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Middle Ferk's Run",
+   "Deer Fly / Lower Ferk's Run",
+   0.8
+  ],
+  [
+   "walk",
+   "Tinkerbell",
+   "Discovery top",
+   1.7
+  ],
+  [
+   "walk",
+   "Tinkerbell",
+   "Quicksilver bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Lower Magoo / Broadway",
+   "Forest Queen Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Little Shot",
+   "Lucky Shot / Upper Arwine's",
+   1.6
+  ],
+  [
+   "walk",
+   "Forest Queen Express top",
+   "Queens",
+   0.9
+  ],
+  [
+   "walk",
+   "Forest Queen Express top",
+   "Downhill 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Rainier Express top",
+   "Front Traverse",
+   1.6
+  ],
+  [
+   "walk",
+   "Mel's Left",
+   "Rainier Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Sled Face",
+   "Kelley's Gap Road / Unnamed run",
+   0.8
+  ],
+  [
+   "walk",
+   "Rainier Express bottom",
+   "Rolling Knolls / Broadway",
+   1.7
+  ],
+  [
+   "walk",
+   "Rainier Express bottom",
+   "Mel's Right / Mel's Left 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Rainier Express bottom",
+   "Mel's Left",
+   1.5
+  ],
+  [
+   "walk",
+   "Rainier Express bottom",
+   "Wally's Way",
+   0.8
+  ],
+  [
+   "walk",
+   "Tinkerbell 2",
+   "Forest Queen Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Chinook Express bottom",
+   "Discovery Meadow",
+   1.7
+  ],
+  [
+   "walk",
+   "Chinook Express bottom",
+   "Lower Arwine's 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Chinook Express bottom",
+   "Mt. Rainier Gondola bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Chinook Express bottom",
+   "Discovery bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Chinook Express bottom",
+   "Magic Carpet top",
+   1.8
+  ],
+  [
+   "walk",
+   "Ms. Magoo",
+   "Lower Magoo / Chappelle's",
+   0.6
+  ],
+  [
+   "walk",
+   "Lower Arwine's 2",
+   "Discovery Meadow",
+   0.9
+  ],
+  [
+   "walk",
+   "Lower Arwine's 2",
+   "Gold Hills bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Lower Arwine's 2",
+   "Chinook Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Arwine's 2",
+   "Discovery bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Arwine's 2",
+   "Magic Carpet top",
+   1.6
+  ],
+  [
+   "walk",
+   "Jump Hill",
+   "Discovery top",
+   1.8
+  ],
+  [
+   "walk",
+   "Wally's Way",
+   "Mel's Right / Mel's Left 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Wally's Way",
+   "Mel's Left",
+   1.6
+  ],
+  [
+   "walk",
+   "Wally's Way",
+   "Rainier Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Boondoggle",
+   "Quicksilver top",
+   0.6
+  ],
+  [
+   "walk",
+   "Boondoggle 2",
+   "Quicksilver / Tinkerbell",
+   1.0
+  ],
+  [
+   "walk",
+   "Green Valley top",
+   "Grubstake / Back Traverse to Lucky Shot",
+   0.6
+  ],
+  [
+   "walk",
+   "Mt. Rainier Gondola bottom",
+   "Kelley's Gap Road / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Mt. Rainier Gondola bottom",
+   "Chinook Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Mt. Rainier Gondola bottom",
+   "Discovery bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Quicksilver bottom",
+   "Discovery top",
+   1.2
+  ],
+  [
+   "walk",
+   "Quicksilver bottom",
+   "Tinkerbell",
+   0.6
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Discovery Meadow",
+   1.3
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Chinook Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Lower Arwine's 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Mt. Rainier Gondola bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Magic Carpet top",
+   1.0
+  ],
+  [
+   "walk",
+   "Magic Carpet top",
+   "Discovery Meadow",
+   0.7
+  ],
+  [
+   "walk",
+   "Magic Carpet top",
+   "Gold Hills bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Magic Carpet top",
+   "Chinook Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Magic Carpet top",
+   "Lower Arwine's 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Magic Carpet top",
+   "Discovery bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Tinkerbell",
+   "Jump Hill",
+   3.6
+  ],
+  [
+   "walk",
+   "Jump Hill",
+   "Tinkerbell",
+   3.6
+  ],
+  [
+   "walk",
+   "Jump Hill",
+   "Quicksilver bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Quicksilver bottom",
+   "Jump Hill",
+   3.0
+  ],
+  [
+   "walk",
+   "Gold Hills bottom",
+   "Chinook Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Gold Hills bottom",
+   "Discovery bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Chinook Express bottom",
+   "Gold Hills bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Gold Hills bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Rainier Express bottom",
+   "Mel's Right",
+   2.3
+  ],
+  [
+   "walk",
+   "Wally's Way",
+   "Mel's Right",
+   2.0
+  ],
+  [
+   "walk",
+   "Sled Face",
+   "Mt. Rainier Gondola bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Boondoggle",
+   "Tinkerbell / Snow Garden",
+   2.7
+  ],
+  [
+   "walk",
+   "Lower Magoo / Broadway",
+   "Tinkerbell 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Tinkerbell 2",
+   "Lower Magoo / Broadway",
+   2.2
+  ],
+  [
+   "walk",
+   "Queens",
+   "Downhill 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Upper Arwine's",
+   "Rainier Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Mel's Right / Mel's Left 2",
+   "Rolling Knolls / Broadway",
+   3.3
+  ],
+  [
+   "walk",
+   "Mel's Left",
+   "Rolling Knolls / Broadway",
+   3.2
+  ],
+  [
+   "walk",
+   "Mel's Left",
+   "Mel's Right / Mel's Left 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Mel's Left",
+   "Wally's Way",
+   2.3
+  ],
+  [
+   "walk",
+   "Mel's Left",
+   "Mel's Right",
+   3.8
+  ],
+  [
+   "walk",
+   "Wally's Way",
+   "Rolling Knolls / Broadway",
+   2.5
+  ],
+  [
+   "walk",
+   "Upper Arwine's",
+   "Wally's Way",
+   3.8
+  ],
+  [
+   "walk",
+   "Discovery Meadow",
+   "Mt. Rainier Gondola bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Arwine's 2",
+   "Mt. Rainier Gondola bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Mt. Rainier Gondola bottom",
+   "Discovery Meadow",
+   2.8
+  ],
+  [
+   "walk",
+   "Mt. Rainier Gondola bottom",
+   "Lower Arwine's 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Mt. Rainier Gondola bottom",
+   "Magic Carpet top",
+   2.5
+  ],
+  [
+   "walk",
+   "Mt. Rainier Gondola bottom",
+   "Gold Hills bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Magic Carpet top",
+   "Mt. Rainier Gondola bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Gold Hills bottom",
+   "Mt. Rainier Gondola bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Kelley's Gap Road / Unnamed run",
+   "Chinook Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Kelley's Gap Road / Unnamed run",
+   "Discovery bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Chinook Express bottom",
+   "Kelley's Gap Road / Unnamed run",
+   2.9
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Kelley's Gap Road / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Sled Face",
+   "Chinook Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Sled Face",
+   "Discovery bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Magic Carpet top",
+   "Kelley's Gap Road / Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Kelley's Gap Road / Unnamed run",
+   "Magic Carpet top",
+   4.2
+  ]
+ ],
+ "base": "Mt. Rainier Gondola bottom",
+ "info": {}
+}
