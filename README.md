@@ -130,6 +130,8 @@ Each `resorts/*.json` file contains:
 
 ## Contributing
 
+Planned work and milestones are in [docs/roadmap.md](docs/roadmap.md).
+
 `main` only changes through pull requests. Every feature goes on its own branch (`feature/<name>`) and is merged through a pull request after CI passes. CI checks ruff lint and formatting (ruff pinned in `requirements.txt`), and runs the planner, beam search, QWOA and visualizer self-checks plus a small speedup analysis.
 
 ```sh
