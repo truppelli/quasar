@@ -1,0 +1,23 @@
+{
+  "name": "Toy Peak",
+  "base": "base",
+  "nodes": {
+    "base":   [0, 0, 2000],
+    "mid":    [400, 900, 2500],
+    "ridge":  [-700, 1000, 2600],
+    "summit": [100, 1700, 2900]
+  },
+  "lifts": [
+    ["Lift A", "base", "mid", 8],
+    ["Lift B", "mid", "summit", 7],
+    ["Lift C", "base", "ridge", 10]
+  ],
+  "runs": [
+    ["Summit Glades", "summit", "mid", 5],
+    ["Big Bowl", "summit", "base", 10],
+    ["Mid Cruiser", "mid", "base", 6],
+    ["Mid Steeps", "mid", "base", 5],
+    ["Ridge Run", "ridge", "base", 7],
+    ["Traverse", "summit", "ridge", 4]
+  ]
+}
