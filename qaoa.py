@@ -17,7 +17,7 @@ import argparse
 import sys
 
 import numpy as np
-from qiskit import QuantumCircuit
+from qiskit import QuantumCircuit, transpile
 from qiskit.primitives import StatevectorSampler
 from qiskit.quantum_info import Statevector
 from scipy.optimize import minimize
@@ -199,9 +199,12 @@ if __name__ == "__main__":
     packed.measure_all()
     sizes = [qc_w.num_qubits, n]
     if a.ionq:
+        from dotenv import load_dotenv  # installed with qiskit-ionq
         from qiskit_ionq import IonQProvider
 
-        job = IonQProvider().get_backend(a.ionq).run(packed, shots=a.shots)
+        load_dotenv(".env")  # qiskit-ionq only finds .env near its own install, not in the repo
+        backend = IonQProvider().get_backend(a.ionq)
+        job = backend.run(transpile(packed, backend=backend, optimization_level=1), shots=a.shots)
         counts, where = job.get_counts(), f"IonQ {a.ionq} job {job.job_id()}"
     elif packed.num_qubits <= MAX_SIM_QUBITS:
         res = StatevectorSampler(seed=0).run([packed], shots=a.shots).result()[0]
