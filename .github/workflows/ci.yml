@@ -23,6 +23,10 @@ jobs:
           python quasar.py --minutes 5
           python quasar.py resorts/crystal-mountain-washington.json --pods
           python quasar.py resorts/crystal-mountain-washington.json --pod "Rainier Express"
+      - name: QWOA circuit (Qiskit) matches the simulation; IonQ native gate counts
+        run: |
+          python circuit.py
+          python circuit.py resorts/crystal-mountain-washington.json --pod "Discovery" --max-routes 16 --p 1
       - name: Visualizer API self-checks
         # serve.py runs its asserts, then serves; timeout's exit 124 means it got as far as serving
         run: timeout 5 python serve.py || [ $? -eq 124 ]

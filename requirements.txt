@@ -1,4 +1,6 @@
 numpy
 scipy
 pyarrow
+qiskit
+qiskit-ionq
 ruff==0.17.0
