@@ -128,6 +128,9 @@ function writeHash() {
   history.replaceState(null, "", "#" + Object.entries(h).filter(([, v]) => v).map(([k, v]) => `${k}=${v}`).join("&"));
 }
 
+// Read the link before MapLibre writes its own map= camera param into the hash.
+const START = readHash();
+
 // ---- Map: satellite imagery draped on AWS Terrarium elevation, plus hillshade for relief.
 const DEM = { type: "raster-dem", tiles: ["https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png"], encoding: "terrarium", tileSize: 256, maxzoom: 15,
   attribution: '<a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md">Terrain: Mapzen/AWS</a>' };
@@ -287,7 +290,7 @@ function renderTrip() {
   $("trip-empty").style.display = liked.length ? "none" : "";
   const vert = liked.reduce((s, f) => s + (f.properties.vertical_m || 0), 0);
   $("trip").innerHTML = liked.map((f) => `<li data-id="${f.properties.id}"><span class="dot" style="background:${f.properties.color}"></span>${esc(f.properties.name || "Unnamed run")}</li>`).join("")
-    + (liked.length ? `<li class="muted" style="cursor:default">${liked.length} runs · ${fmtVert(vert)} vertical${dislikes.size ? ` · ${dislikes.size} skipped` : ""}</li>` : "");
+    + (liked.length ? `<li class="muted" style="cursor:default">${liked.length} run${liked.length === 1 ? "" : "s"} · ${fmtVert(vert)} vertical${dislikes.size ? ` · ${dislikes.size} skipped` : ""}</li>` : "");
 }
 $("trip").addEventListener("click", (e) => {
   const li = e.target.closest("li[data-id]");
@@ -386,7 +389,7 @@ $("search").addEventListener("change", () => {
 map.on("load", async () => {
   resorts = await getJSON("/geo");
   $("resorts").innerHTML = resorts.map((r) => `<option value="${esc(r.name)}">${esc(r.region || "")}</option>`).join("");
-  const h = readHash();
+  const h = START;
   const slug = resorts.some((r) => r.slug === h.resort) ? h.resort : "vail";
   (h.like || "").split(",").filter(Boolean).forEach((id) => likes.add(id));
   (h.dislike || "").split(",").filter(Boolean).forEach((id) => dislikes.add(id));
