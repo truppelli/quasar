@@ -12,7 +12,7 @@ maximize   Σ vertical(first descent of each run)
 subject to total minutes ≤ budget,  walk starts at `start` and ends at `end`
 ```
 
-Repeats have to be allowed. On real resorts, many trails funnel into a few run-outs back to the base, so a strict "each run once" rule caps a day at two or three laps. The planner returns two numbers: `score`, which is the objective above, and `vertical_m`, which is everything skied, repeats included.
+Repeats have to be allowed. On real resorts, many trails funnel into a few run-outs back to the base, so a strict "each run once" rule caps a day at two or three laps. The planner returns two numbers: `score`, which is the objective above, and `vertical_m`, which is everything skied, repeats included. Once a resort's unique runs are used up, a repeat lap scores negative (−RUN_REPEAT_COST − LIFT_REPEAT_COST), so long budgets can return shorter days. Crystal at 480 min plans about 210 min.
 
 Because of the time budget, this is an orienteering / prize-collecting problem, which is NP-hard.
 

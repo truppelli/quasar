@@ -88,10 +88,10 @@ def lift_speed(p):
 def build_graph(area):
     aid = area["id"]
 
-    def mine(f):  # unknown status counts as open, same rule as the 3D map's extract.py
+    def mine(f):  # operating only, same rule as the 3D map's extract.py
         p = f["properties"]
         ours = any(a["properties"]["id"] == aid for a in p.get("skiAreas") or [])
-        return ours and p["status"] in ("operating", None)
+        return ours and p["status"] == "operating"
 
     runs = [f for f in features(OSD / "runs.geojson", aid) if mine(f) and "downhill" in f["properties"]["uses"]]
     lifts = [f for f in features(OSD / "lifts.geojson", aid) if mine(f)]
