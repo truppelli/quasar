@@ -56,6 +56,14 @@ python quasar.py --minutes 90 --json                # plan only, for the app / v
 python speedup.py                                   # speedup table (~1 min)
 ```
 
+## Visualizer
+
+```sh
+python serve.py    # then open http://localhost:8000
+```
+
+The visualizer draws the resort map: runs are solid blue lines and lifts are dashed grey. Click a junction, or use the dropdown, to set where the skier is, then set the minutes they have left. The near-optimal route appears in orange, with numbers showing the order. `serve.py` is a standard-library JSON API (`/resorts`, `/resort`, `/plan`) that the app can reuse.
+
 ## Resort data
 
 Each resort is a file in `resorts/*.json`:
