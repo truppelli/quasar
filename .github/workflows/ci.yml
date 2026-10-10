@@ -21,6 +21,8 @@ jobs:
           python quasar.py
           python quasar.py --start summit --minutes 25
           python quasar.py --minutes 5
+          python quasar.py resorts/crystal-mountain-washington.json --pods
+          python quasar.py resorts/crystal-mountain-washington.json --pod "Rainier Express"
       - name: Visualizer API self-checks
         # serve.py runs its asserts, then serves; timeout's exit 124 means it got as far as serving
         run: timeout 5 python serve.py || [ $? -eq 124 ]

@@ -33,7 +33,7 @@ This is the core product: a skier sees the mountain, says what they like, and ge
 
 Validate the quantum algorithm on real hardware with honest claims.
 
-- **Lift-pod decomposition.** Split a resort into pods (one lift plus the runs it serves) and solve each pod separately, linked by traverses. The pods are small enough to enumerate (a few hundred routes, roughly 6–10 qubits).
+- **Lift-pod decomposition** *(done: `quasar.py --pods` / `--pod`)*. Split a resort into pods (one lift plus the runs it serves) and solve each pod separately, linked by traverses. The pods are small enough to enumerate (a few hundred routes, roughly 6–10 qubits).
 - **Qiskit circuit for QWOA.** Port the NumPy QWOA to a Qiskit circuit: a phase separator over route indices, plus a complete-graph walk mixer, which is a Grover-style diffusion over the feasible-route register. Run it on a simulator first, then on IonQ through the `qiskit-ionq` provider.
 - **Benchmark against exact.** For each pod, report the probability of sampling the optimum, the approximation ratio and the shot count, compared with branch-and-bound. Publish the table in the README next to the speedup analysis.
 - **Batch, not interactive.** Hardware runs are offline jobs whose results are cached and served. `/plan` stays classical so the app is fast.
