@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QUASAR 3D Mountains</title>
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<style>
+  :root {
+    --panel: rgba(16, 22, 32, 0.88); --line: rgba(255, 255, 255, 0.12); --text: #eef2f7; --muted: #9aa7b8;
+    --accent: #ffb020; --good: #3ecf8e; --bad: #ff5d5d;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: #0b0f16; color: var(--text); font: 14px/1.4 system-ui, -apple-system, Segoe UI, sans-serif; }
+  #map { position: fixed; inset: 0; }
+  .panel { position: fixed; background: var(--panel); backdrop-filter: blur(10px); border: 1px solid var(--line); border-radius: 14px; z-index: 2; }
+  #side { top: 12px; left: 12px; width: 340px; max-height: calc(100% - 24px); overflow-y: auto; padding: 16px; }
+  #card { right: 12px; bottom: 32px; width: 320px; padding: 14px 16px; display: none; }
+  h1 { font-size: 17px; margin: 0 0 10px; letter-spacing: .02em; }
+  h1 span { color: var(--accent); }
+  h2 { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 18px 0 8px; }
+  input, textarea, button { font: inherit; color: var(--text); }
+  input[list], textarea { width: 100%; background: rgba(255,255,255,.06); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
+  textarea { min-height: 60px; resize: vertical; }
+  .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin-top: 10px; }
+  .stat { background: rgba(255,255,255,.05); border-radius: 8px; padding: 6px 8px; }
+  .stat b { display: block; font-size: 16px; }
+  .stat small { color: var(--muted); font-size: 11px; }
+  .lvl { display: grid; grid-template-columns: 18px 1fr auto; align-items: center; gap: 8px; padding: 6px 0; border-top: 1px solid var(--line); }
+  .lvl:first-of-type { border-top: 0; }
+  .sw { width: 14px; height: 14px; border-radius: 3px; border: 2px solid #fff; cursor: pointer; }
+  .sw.off { opacity: .25; }
+  .lvl label { cursor: pointer; }
+  .lvl small { color: var(--muted); }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 7px; overflow: hidden; }
+  .seg button { background: none; border: 0; padding: 3px 8px; font-size: 12px; cursor: pointer; color: var(--muted); }
+  .seg button[aria-pressed="true"] { background: var(--accent); color: #111; font-weight: 600; }
+  .btn { background: rgba(255,255,255,.08); border: 1px solid var(--line); border-radius: 8px; padding: 7px 12px; cursor: pointer; }
+  .btn:hover { background: rgba(255,255,255,.14); }
+  .btn.primary { background: var(--accent); color: #111; border-color: var(--accent); font-weight: 600; }
+  .row { display: flex; gap: 8px; margin-top: 10px; align-items: center; }
+  #trip { list-style: none; padding: 0; margin: 0; }
+  #trip li { display: flex; align-items: center; gap: 8px; padding: 4px 0; cursor: pointer; }
+  #trip li:hover { color: var(--accent); }
+  .dot { width: 10px; height: 10px; border-radius: 50%; flex: none; border: 1.5px solid #fff; }
+  .muted { color: var(--muted); }
+  #status { font-size: 12px; }
+  #card h3 { margin: 0 24px 4px 0; font-size: 16px; }
+  #card .close { position: absolute; top: 8px; right: 10px; background: none; border: 0; color: var(--muted); font-size: 18px; cursor: pointer; }
+  .badge { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; color: var(--muted); }
+  #profile { width: 100%; height: 80px; margin: 8px 0 4px; display: block; }
+  .vote { flex: 1; }
+  .vote[aria-pressed="true"].like { background: var(--good); color: #111; border-color: var(--good); }
+  .vote[aria-pressed="true"].nope { background: var(--bad); color: #111; border-color: var(--bad); }
+  .maplibregl-ctrl-attrib { font-size: 10px; }
+  @media (max-width: 720px) {
+    #side { left: 8px; right: 8px; width: auto; top: 8px; max-height: 42%; }
+    #card { left: 8px; right: 8px; width: auto; bottom: 28px; }
+  }
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+<aside id="side" class="panel">
+  <h1><span>QUASAR</span> 3D Mountains</h1>
+  <input id="search" list="resorts" placeholder="Search resorts…" aria-label="Resort">
+  <datalist id="resorts"></datalist>
+  <div class="stats" id="stats"></div>
+
+  <h2>Runs by skill level</h2>
+  <div class="muted" style="font-size:12px;margin-bottom:4px">Swatch toggles the runs on the map. Tell us what you want to ski.</div>
+  <div id="levels"></div>
+
+  <h2>My trip</h2>
+  <ul id="trip"></ul>
+  <div id="trip-empty" class="muted">Click a run, then 👍 the ones you want to ski.</div>
+  <textarea id="note" placeholder="Anything else? (dates, group, must-skis…)" aria-label="Note" style="margin-top:10px"></textarea>
+  <div class="row">
+    <button class="btn primary" id="save">Send feedback</button>
+    <button class="btn" id="share">Copy link</button>
+    <span id="status" class="muted"></span>
+  </div>
+</aside>
+
+<section id="card" class="panel" aria-live="polite">
+  <button class="close" id="close" aria-label="Close">×</button>
+  <h3 id="c-name"></h3>
+  <div class="badge" id="c-badge"></div>
+  <div id="c-body"></div>
+</section>
+
+<script>
+const $ = (id) => document.getElementById(id);
+
+// Normalized skill level per OpenSkiData difficulty + regional colour convention.
+const LEVELS = {
+  easy:         { na: ["Beginner", "#2fb84a"], eu: ["Easy", "#2f7bf5"] },
+  intermediate: { na: ["Intermediate", "#2f7bf5"], eu: ["Intermediate", "#e5302f"] },
+  advanced:     { na: ["Black diamond", "#111111"], eu: ["Advanced", "#111111"] },
+  expert:       { na: ["Double black", "#111111"], eu: ["Expert", "#111111"] },
+  freeride:     { na: ["Freeride / extreme", "#ff8a1f"], eu: ["Freeride / extreme", "#ff8a1f"] },
+  other:        { na: ["Unrated", "#9aa7b8"], eu: ["Unrated", "#9aa7b8"] },
+};
+const levelOf = (d) => ({ novice: "easy", easy: "easy", intermediate: "intermediate", advanced: "advanced", expert: "expert", freeride: "freeride", extreme: "freeride" })[d] || "other";
+const INTEREST = ["Skip", "Maybe", "Want"];
+
+let resorts = [], resort = null, geo = null, imperial = true;
+let hidden = new Set(), likes = new Set(), dislikes = new Set(), interest = {}, selected = null;
+
+const fmtLen = (m) => imperial ? `${(m / 1609.34).toFixed(m < 1609 ? 2 : 1)} mi` : `${(m / 1000).toFixed(1)} km`;
+const fmtVert = (m) => imperial ? `${Math.round(m * 3.28084).toLocaleString()} ft` : `${Math.round(m).toLocaleString()} m`;
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
+
+// ---- URL hash: resort + votes + interest, so a link reproduces the trip. MapLibre owns the `map=` camera param.
+function readHash() {
+  return Object.fromEntries(location.hash.slice(1).split("&").filter(Boolean).map((kv) => kv.split("=")));
+}
+function writeHash() {
+  const h = readHash();
+  Object.assign(h, {
+    resort: resort?.slug || "",
+    like: [...likes].join(","),
+    dislike: [...dislikes].join(","),
+    lv: Object.entries(interest).map(([k, v]) => `${k}:${v}`).join(","),
+  });
+  history.replaceState(null, "", "#" + Object.entries(h).filter(([, v]) => v).map(([k, v]) => `${k}=${v}`).join("&"));
+}
+
+// ---- Map: satellite imagery draped on AWS Terrarium elevation, plus hillshade for relief.
+const DEM = { type: "raster-dem", tiles: ["https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png"], encoding: "terrarium", tileSize: 256, maxzoom: 15,
+  attribution: '<a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md">Terrain: Mapzen/AWS</a>' };
+const map = new maplibregl.Map({
+  container: "map",
+  hash: "map",
+  center: [-106.8, 39.6], zoom: 5, pitch: 0,
+  maxPitch: 80,
+  style: {
+    version: 8,
+    glyphs: "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
+    sources: {
+      sat: { type: "raster", tileSize: 256, maxzoom: 19,
+        tiles: ["https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"],
+        attribution: "Imagery © Esri, Maxar, Earthstar Geographics" },
+      dem: DEM,
+      hs: DEM,
+      ski: { type: "geojson", data: { type: "FeatureCollection", features: [] }, promoteId: "id", attribution: '<a href="https://openskimap.org">OpenSkiMap</a> © OpenStreetMap contributors' },
+      ends: { type: "geojson", data: { type: "FeatureCollection", features: [] } },
+    },
+    terrain: { source: "dem", exaggeration: 1.3 },
+    sky: { "sky-color": "#6fa8dc", "horizon-color": "#dfe9f3", "fog-color": "#dfe9f3", "sky-horizon-blend": 0.6, "horizon-fog-blend": 0.6, "fog-ground-blend": 0.3 },
+    layers: [
+      { id: "sat", type: "raster", source: "sat" },
+      { id: "hillshade", type: "hillshade", source: "hs", paint: { "hillshade-exaggeration": 0.35, "hillshade-shadow-color": "#0a1a2e" } },
+      // Votes glow under the run: gold = want, red = not for me.
+      { id: "vote", type: "line", source: "ski", filter: ["==", ["get", "kind"], "run"], layout: { "line-cap": "round", "line-join": "round" },
+        paint: { "line-width": 12, "line-blur": 4,
+          "line-color": ["case", ["==", ["feature-state", "vote"], 1], "#ffd23f", "#ff4d4d"],
+          "line-opacity": ["case", ["==", ["coalesce", ["feature-state", "vote"], 0], 0], 0, 0.85] } },
+      { id: "run-casing", type: "line", source: "ski", filter: ["==", ["get", "kind"], "run"], layout: { "line-cap": "round", "line-join": "round" },
+        paint: { "line-color": "#fff", "line-width": ["case", ["boolean", ["feature-state", "hover"], false], 7, ["boolean", ["feature-state", "sel"], false], 8, 4.5] } },
+      { id: "run", type: "line", source: "ski", filter: ["==", ["get", "kind"], "run"], layout: { "line-cap": "round", "line-join": "round" },
+        paint: { "line-color": ["get", "color"], "line-width": ["case", ["boolean", ["feature-state", "hover"], false], 4.5, ["boolean", ["feature-state", "sel"], false], 5, 2.5] } },
+      { id: "lift", type: "line", source: "ski", filter: ["==", ["get", "kind"], "lift"],
+        paint: { "line-color": "#ffffff", "line-width": ["case", ["boolean", ["feature-state", "sel"], false], 3.5, 1.8], "line-dasharray": [3, 1.5] } },
+      { id: "lift-ends", type: "circle", source: "ends", paint: { "circle-radius": 3.5, "circle-color": "#ffffff", "circle-stroke-color": "#111", "circle-stroke-width": 1.5 } },
+      { id: "labels", type: "symbol", source: "ski", minzoom: 13.5,
+        layout: { "symbol-placement": "line", "text-field": ["get", "name"], "text-font": ["Open Sans Semibold"], "text-size": 11, "text-max-angle": 30, "symbol-spacing": 300 },
+        paint: { "text-color": "#fff", "text-halo-color": "rgba(0,0,0,.8)", "text-halo-width": 1.4 } },
+    ],
+  },
+});
+map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), "top-right");
+map.addControl(new maplibregl.ScaleControl({ unit: "imperial" }), "bottom-left");
+
+function setRunFilter() {
+  const f = ["all", ["==", ["get", "kind"], "run"], ["!", ["in", ["get", "level"], ["literal", [...hidden]]]]];
+  for (const id of ["vote", "run-casing", "run"]) map.setFilter(id, f);
+  map.setFilter("labels", ["any", ["==", ["get", "kind"], "lift"], f]);
+}
+
+// ---- Resort loading
+async function getJSON(url) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error(`${url}: ${r.status}`);
+  return r.json();
+}
+
+async function loadResort(slug, fly = true) {
+  const r = resorts.find((x) => x.slug === slug);
+  if (!r) return;
+  if (resort && resort.slug !== slug) { likes.clear(); dislikes.clear(); interest = {}; }
+  resort = r;
+  imperial = (r.region || "").startsWith("US");
+  $("search").value = r.name;
+  geo = await getJSON(`/geo?resort=${encodeURIComponent(slug)}`);
+  const lo = [180, 90], hi = [-180, -90];
+  const ends = [];
+  for (const f of geo.features) {
+    const p = f.properties;
+    if (p.kind === "run") {
+      p.level = levelOf(p.difficulty);
+      p.color = LEVELS[p.level][p.convention === "europe" ? "eu" : "na"][1];
+    }
+    const lines = f.geometry.type === "LineString" ? [f.geometry.coordinates] : f.geometry.type === "Polygon" ? f.geometry.coordinates : f.geometry.coordinates.flat(f.geometry.type === "MultiPolygon" ? 1 : 0);
+    for (const c of lines.flat()) { lo[0] = Math.min(lo[0], c[0]); lo[1] = Math.min(lo[1], c[1]); hi[0] = Math.max(hi[0], c[0]); hi[1] = Math.max(hi[1], c[1]); }
+    if (p.kind === "lift" && f.geometry.type === "LineString") {
+      const c = f.geometry.coordinates;
+      ends.push(c[0], c[c.length - 1]);
+    }
+  }
+  map.getSource("ski").setData(geo);
+  map.getSource("ends").setData({ type: "FeatureCollection", features: ends.map((c) => ({ type: "Feature", geometry: { type: "Point", coordinates: c }, properties: {} })) });
+  syncVotes();
+  renderStats(lo, hi);
+  renderLevels();
+  renderTrip();
+  closeCard();
+  if (fly && lo[0] <= hi[0]) map.fitBounds([lo, hi], { padding: { top: 60, bottom: 60, left: innerWidth > 720 ? 380 : 40, right: 60 }, pitch: 62, bearing: r.bearing || 0, duration: 3500, essential: true });
+  writeHash();
+}
+
+function runs() { return geo ? geo.features.filter((f) => f.properties.kind === "run") : []; }
+
+function renderStats() {
+  const rs = runs(), lifts = geo.features.length - rs.length;
+  const z = rs.flatMap((f) => f.properties.profile || []);
+  const km = rs.reduce((s, f) => s + (f.properties.length_m || 0), 0);
+  $("stats").innerHTML = [
+    [rs.length, "runs"], [lifts, "lifts"],
+    [z.length ? fmtVert(Math.max(...z) - Math.min(...z)) : "—", "vertical"],
+    [z.length ? fmtVert(Math.max(...z)) : "—", "summit"], [fmtLen(km), "of runs"], [resort.region?.replace("US-", "") || "", "region"],
+  ].map(([v, l]) => `<div class="stat"><b>${esc(v)}</b><small>${l}</small></div>`).join("");
+}
+
+function renderLevels() {
+  const count = {};
+  for (const f of runs()) count[f.properties.level] = (count[f.properties.level] || 0) + 1;
+  const conv = runs().some((f) => f.properties.convention === "europe") ? "eu" : "na";
+  $("levels").innerHTML = Object.keys(LEVELS).filter((k) => count[k]).map((k) => {
+    const [label, color] = LEVELS[k][conv];
+    const seg = INTEREST.map((t, i) => `<button data-lv="${k}" data-i="${i}" aria-pressed="${interest[k] === i}">${t}</button>`).join("");
+    return `<div class="lvl">
+      <span class="sw ${hidden.has(k) ? "off" : ""}" data-hide="${k}" style="background:${color}" role="checkbox" aria-checked="${!hidden.has(k)}" tabindex="0" aria-label="Show ${label} runs"></span>
+      <label data-hide="${k}">${label}${k === "expert" && conv === "na" ? " ◆◆" : k === "advanced" && conv === "na" ? " ◆" : ""} <small>${count[k]}</small></label>
+      <span class="seg" role="group" aria-label="Interest in ${label}">${seg}</span></div>`;
+  }).join("");
+}
+
+$("levels").addEventListener("click", (e) => {
+  const t = e.target.closest("[data-hide],[data-lv]");
+  if (!t) return;
+  if (t.dataset.hide) {
+    hidden.has(t.dataset.hide) ? hidden.delete(t.dataset.hide) : hidden.add(t.dataset.hide);
+    setRunFilter();
+  } else {
+    const i = +t.dataset.i;
+    interest[t.dataset.lv] === i ? delete interest[t.dataset.lv] : (interest[t.dataset.lv] = i);
+    // "Skip" a level hides it, so the map shows only what you'd ski.
+    if (interest[t.dataset.lv] === 0) hidden.add(t.dataset.lv); else hidden.delete(t.dataset.lv);
+    setRunFilter();
+    writeHash();
+  }
+  renderLevels();
+});
+$("levels").addEventListener("keydown", (e) => { if ((e.key === " " || e.key === "Enter") && e.target.dataset.hide) { e.preventDefault(); e.target.click(); } });
+
+// ---- Votes
+function syncVotes() {
+  map.removeFeatureState({ source: "ski" });
+  for (const id of likes) map.setFeatureState({ source: "ski", id }, { vote: 1 });
+  for (const id of dislikes) map.setFeatureState({ source: "ski", id }, { vote: -1 });
+  if (selected) map.setFeatureState({ source: "ski", id: selected }, { sel: true });
+}
+function vote(id, v) {
+  const [on, off] = v === 1 ? [likes, dislikes] : [dislikes, likes];
+  off.delete(id);
+  on.has(id) ? on.delete(id) : on.add(id);
+  syncVotes(); renderTrip(); writeHash();
+  showCard(byId(id));
+}
+const byId = (id) => geo.features.find((f) => f.properties.id === id);
+
+function renderTrip() {
+  const liked = [...likes].map(byId).filter(Boolean);
+  $("trip-empty").style.display = liked.length ? "none" : "";
+  const vert = liked.reduce((s, f) => s + (f.properties.vertical_m || 0), 0);
+  $("trip").innerHTML = liked.map((f) => `<li data-id="${f.properties.id}"><span class="dot" style="background:${f.properties.color}"></span>${esc(f.properties.name || "Unnamed run")}</li>`).join("")
+    + (liked.length ? `<li class="muted" style="cursor:default">${liked.length} runs · ${fmtVert(vert)} vertical${dislikes.size ? ` · ${dislikes.size} skipped` : ""}</li>` : "");
+}
+$("trip").addEventListener("click", (e) => {
+  const li = e.target.closest("li[data-id]");
+  if (!li) return;
+  const f = byId(li.dataset.id);
+  select(f);
+  const c = f.geometry.coordinates.flat(f.geometry.type === "LineString" ? 0 : 1);
+  const b = c.reduce((b, p) => [[Math.min(b[0][0], p[0]), Math.min(b[0][1], p[1])], [Math.max(b[1][0], p[0]), Math.max(b[1][1], p[1])]], [[180, 90], [-180, -90]]);
+  map.fitBounds(b, { padding: 160, pitch: 65, maxZoom: 16, duration: 2000 });
+});
+
+// ---- Run / lift card
+function profileSVG(h) {
+  const W = 288, H = 80, lo = Math.min(...h), hi = Math.max(...h), span = hi - lo || 1;
+  const pts = h.map((z, i) => `${(i / (h.length - 1)) * W},${6 + (1 - (z - lo) / span) * (H - 12)}`).join(" ");
+  return `<svg id="profile" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Elevation profile from ${fmtVert(hi)} to ${fmtVert(lo)}">
+    <defs><linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb020" stop-opacity=".55"/><stop offset="1" stop-color="#ffb020" stop-opacity="0"/></linearGradient></defs>
+    <polygon points="0,${H} ${pts} ${W},${H}" fill="url(#pg)"/><polyline points="${pts}" fill="none" stroke="#ffb020" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>
+    <div class="row muted" style="justify-content:space-between;margin:0;font-size:11px"><span>${fmtVert(h[0])}</span><span>${fmtVert(h[h.length - 1])}</span></div>`;
+}
+
+function showCard(f) {
+  const p = f.properties;
+  $("card").style.display = "block";
+  $("c-name").textContent = p.name || (p.kind === "lift" ? "Unnamed lift" : "Unnamed run");
+  if (p.kind === "lift") {
+    $("c-badge").innerHTML = `🚡 ${esc((p.liftType || "lift").replace(/_/g, " "))}`;
+    $("c-body").innerHTML = `<div class="stats">${[[p.capacity ? `${p.capacity}/h` : "—", "capacity"], [p.duration ? `${Math.round(p.duration / 60)} min` : "—", "ride"]].map(([v, l]) => `<div class="stat"><b>${v}</b><small>${l}</small></div>`).join("")}</div>`;
+    return;
+  }
+  const conv = p.convention === "europe" ? "eu" : "na";
+  const extras = [p.gladed && "🌲 gladed", p.lit && "💡 night", p.grooming && `⛷ ${p.grooming}`].filter(Boolean).join(" · ");
+  $("c-badge").innerHTML = `<span class="dot" style="background:${p.color}"></span>${LEVELS[p.level][conv][0]}${extras ? " · " + esc(extras) : ""}`;
+  $("c-body").innerHTML = (p.profile ? profileSVG(p.profile) : "")
+    + `<div class="stats">${[[p.length_m ? fmtLen(p.length_m) : "—", "length"], [p.vertical_m != null ? fmtVert(p.vertical_m) : "—", "drop"], [p.max_pitch != null ? `${p.avg_pitch}° / ${p.max_pitch}°` : "—", "avg / max pitch"]]
+      .map(([v, l]) => `<div class="stat"><b>${v}</b><small>${l}</small></div>`).join("")}</div>
+    <div class="row"><button class="btn vote like" aria-pressed="${likes.has(p.id)}" data-v="1">👍 Want to ski</button>
+    <button class="btn vote nope" aria-pressed="${dislikes.has(p.id)}" data-v="-1">👎 Not for me</button></div>`;
+  $("c-body").onclick = (e) => { const b = e.target.closest("[data-v]"); if (b) vote(p.id, +b.dataset.v); };
+}
+function select(f) {
+  if (selected) map.setFeatureState({ source: "ski", id: selected }, { sel: false });
+  selected = f.properties.id;
+  map.setFeatureState({ source: "ski", id: selected }, { sel: true });
+  showCard(f);
+}
+function closeCard() {
+  if (selected) map.setFeatureState({ source: "ski", id: selected }, { sel: false });
+  selected = null;
+  $("card").style.display = "none";
+}
+$("close").onclick = closeCard;
+
+// ---- Map interaction
+let hover = null;
+for (const layer of ["run", "lift"]) {
+  map.on("mousemove", layer, (e) => {
+    map.getCanvas().style.cursor = "pointer";
+    if (hover) map.setFeatureState({ source: "ski", id: hover }, { hover: false });
+    hover = e.features[0].properties.id;
+    map.setFeatureState({ source: "ski", id: hover }, { hover: true });
+  });
+  map.on("mouseleave", layer, () => {
+    map.getCanvas().style.cursor = "";
+    if (hover) map.setFeatureState({ source: "ski", id: hover }, { hover: false });
+    hover = null;
+  });
+}
+map.on("click", (e) => {
+  // Fat-finger box so thin lines are easy to hit on touch screens.
+  const box = [[e.point.x - 8, e.point.y - 8], [e.point.x + 8, e.point.y + 8]];
+  const hit = map.queryRenderedFeatures(box, { layers: ["run", "lift"] })[0];
+  hit ? select(byId(hit.properties.id)) : closeCard();
+});
+
+// ---- Feedback + share
+$("save").onclick = async () => {
+  if (!resort) return;
+  $("status").textContent = "Sending…";
+  try {
+    const r = await fetch("/feedback", { method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ resort: resort.slug, like: [...likes], dislike: [...dislikes], levels: interest, note: $("note").value }) });
+    $("status").textContent = r.ok ? "Thanks — saved ✓" : "Couldn't save, try again";
+  } catch { $("status").textContent = "Couldn't reach the server"; }
+};
+$("share").onclick = async () => {
+  try { await navigator.clipboard.writeText(location.href); $("status").textContent = "Link copied ✓"; }
+  catch { $("status").textContent = "Copy the URL from the address bar"; }
+};
+$("search").addEventListener("change", () => {
+  const r = resorts.find((x) => x.name.toLowerCase() === $("search").value.trim().toLowerCase());
+  if (r) loadResort(r.slug);
+});
+
+// ---- Boot: restore from the link if there is one
+map.on("load", async () => {
+  resorts = await getJSON("/geo");
+  $("resorts").innerHTML = resorts.map((r) => `<option value="${esc(r.name)}">${esc(r.region || "")}</option>`).join("");
+  const h = readHash();
+  const slug = resorts.some((r) => r.slug === h.resort) ? h.resort : "vail";
+  (h.like || "").split(",").filter(Boolean).forEach((id) => likes.add(id));
+  (h.dislike || "").split(",").filter(Boolean).forEach((id) => dislikes.add(id));
+  for (const kv of (h.lv || "").split(",").filter(Boolean)) {
+    const [k, v] = kv.split(":");
+    if (LEVELS[k] && [0, 1, 2].includes(+v)) { interest[k] = +v; if (+v === 0) hidden.add(k); }
+  }
+  resort = resorts.find((r) => r.slug === slug);
+  setRunFilter();
+  await loadResort(slug, !h.map);
+});
+</script>
+</body>
+</html>

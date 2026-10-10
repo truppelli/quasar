@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# QUASAR: raw datasets (too big for git) and collected feedback
+data/
+feedback.jsonl

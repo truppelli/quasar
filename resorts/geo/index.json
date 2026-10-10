@@ -1,0 +1,202 @@
+[
+ {
+  "slug": "alta",
+  "name": "Alta Ski Area",
+  "region": "US-UT",
+  "center": [
+   -111.6247808,
+   40.58003895
+  ],
+  "bearing": 180
+ },
+ {
+  "slug": "snowmass",
+  "name": "Aspen Snowmass",
+  "region": "US-CO",
+  "center": [
+   -106.95020554999999,
+   39.186443249999996
+  ],
+  "bearing": 218
+ },
+ {
+  "slug": "beaver-creek",
+  "name": "Beaver Creek",
+  "region": "US-CO",
+  "center": [
+   -106.53050185000001,
+   39.599836749999994
+  ],
+  "bearing": 216
+ },
+ {
+  "slug": "big-sky",
+  "name": "Big Sky Resort",
+  "region": "US-MT",
+  "center": [
+   -111.40868965,
+   45.2840678
+  ],
+  "bearing": 271
+ },
+ {
+  "slug": "breckenridge",
+  "name": "Breckenridge",
+  "region": "US-CO",
+  "center": [
+   -106.0782299,
+   39.47999645
+  ],
+  "bearing": 277
+ },
+ {
+  "slug": "copper-mountain",
+  "name": "Copper Mountain",
+  "region": "US-CO",
+  "center": [
+   -106.1612495,
+   39.477670200000006
+  ],
+  "bearing": 227
+ },
+ {
+  "slug": "deer-valley",
+  "name": "Deer Valley Resort",
+  "region": "US-UT",
+  "center": [
+   -111.4841408,
+   40.61501255
+  ],
+  "bearing": 258
+ },
+ {
+  "slug": "heavenly",
+  "name": "Heavenly Mountain Resort",
+  "region": "US-NV",
+  "center": [
+   -119.9119601,
+   38.939719
+  ],
+  "bearing": 206
+ },
+ {
+  "slug": "jackson-hole",
+  "name": "Jackson Hole Mountain Resort",
+  "region": "US-WY",
+  "center": [
+   -110.8494542,
+   43.5948688
+  ],
+  "bearing": 340
+ },
+ {
+  "slug": "keystone",
+  "name": "Keystone",
+  "region": "US-CO",
+  "center": [
+   -105.93435835,
+   39.5718301
+  ],
+  "bearing": 162
+ },
+ {
+  "slug": "killington",
+  "name": "Killington Resort",
+  "region": "US-VT",
+  "center": [
+   -72.78886835,
+   43.61129285
+  ],
+  "bearing": 278
+ },
+ {
+  "slug": "mammoth",
+  "name": "Mammoth Mountain",
+  "region": "US-CA",
+  "center": [
+   -119.02048350000001,
+   37.64018515
+  ],
+  "bearing": 248
+ },
+ {
+  "slug": "palisades-tahoe",
+  "name": "Palisades Tahoe Olympic Valley",
+  "region": "US-CA",
+  "center": [
+   -120.25006055,
+   39.1924255
+  ],
+  "bearing": 252
+ },
+ {
+  "slug": "park-city",
+  "name": "Park City Mountain Resort",
+  "region": "US-UT",
+  "center": [
+   -111.54873485,
+   40.65433765
+  ],
+  "bearing": 245
+ },
+ {
+  "slug": "snowbird",
+  "name": "Snowbird",
+  "region": "US-UT",
+  "center": [
+   -111.65231080000001,
+   40.5671507
+  ],
+  "bearing": 184
+ },
+ {
+  "slug": "steamboat",
+  "name": "Steamboat Ski Resort",
+  "region": "US-CO",
+  "center": [
+   -106.775179,
+   40.45387925
+  ],
+  "bearing": 126
+ },
+ {
+  "slug": "stowe",
+  "name": "Stowe Mountain Resort",
+  "region": "US-VT",
+  "center": [
+   -72.79022935,
+   44.529654050000005
+  ],
+  "bearing": 314
+ },
+ {
+  "slug": "telluride",
+  "name": "Telluride Ski Area",
+  "region": "US-CO",
+  "center": [
+   -107.8467792,
+   37.92123925
+  ],
+  "bearing": 186
+ },
+ {
+  "slug": "vail",
+  "name": "Vail",
+  "region": "US-CO",
+  "center": [
+   -106.35074125,
+   39.6029693
+  ],
+  "bearing": 177
+ },
+ {
+  "slug": "winter-park",
+  "name": "Winter Park Resort",
+  "region": "US-CO",
+  "center": [
+   -105.7755263,
+   39.86758605
+  ],
+  "bearing": 227
+ }
+]
