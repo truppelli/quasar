@@ -104,12 +104,12 @@ What it costs on hardware (Aria, two-qubit MS gates):
 `qaoa.py` runs the textbook alternative on the same lift pod: standard QAOA with an X mixer over a penalty QUBO ([Lucas 2014](https://arxiv.org/abs/1302.5843)). It compares the result with QWOA at the same p, then packs both circuits into **one job** with `circuit.pack`, because an IonQ run takes one circuit. `circuit.unpack` splits the counts again.
 
 ```sh
-python main.py                                                     # Qollab entry point: toy pod, same as python qaoa.py
+python main.py                                                     # Qollab entry point: Crystal Quicksilver on the backend from Select QPU
 python qaoa.py resorts/crystal-mountain-washington.json --pod "Quicksilver" --max-routes 4
 python qaoa.py ... --ionq simulator                                # send the packed job to IonQ's cloud simulator
 ```
 
-**IonQ key:** create a file named `.env` in the repo root with one line, `IONQ_API_KEY=<your key>`. `.env` is gitignored, so never commit the key. `qaoa.py` loads the file itself, so run it from the repo root; an `IONQ_API_KEY` environment variable works too. The packed circuit is compiled to IonQ's gate set before it is submitted. Run on the free `simulator` backend first, before spending credits on a `qpu.*` backend.
+**IonQ key:** create a file named `.env` in the repo root with one line, `IONQ_API_KEY=<your key>`. `.env` is gitignored, so never commit the key. `qaoa.py` loads the file itself, so run it from the repo root; an `IONQ_API_KEY` environment variable works too. The packed circuit is compiled to IonQ's gate set before it is submitted. Run on the free `simulator` backend first, before spending credits on a `qpu.*` backend. On Qollab, press **Run** and pick the machine in **Select QPU**: Qollab injects its own `backend` (its IonQ key, your credits), `main.py` hands it to `qaoa.py`, and no `.env` is needed.
 
 - **Encoding:** the QUBO's variables are each edge's use count, in binary, plus binary slack for the time budget. The cost is −score, plus `PENALTY` × (in − out)² at every node, plus `PENALTY` × (minutes + slack − budget)².
 - **Scoring:** a bitstring counts as a route only if its edge counts equal a feasible route's (the key `quasar.search` uses). Routes are then scored exactly.
