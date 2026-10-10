@@ -2,7 +2,7 @@
 
 GET /                         the map page (viz.html)
 GET /resorts                  resort names in resorts/
-GET /resort?resort=toy        nodes and edges for drawing
+GET /resort?resort=toy        nodes, edges and origin_lonlat (node x/y are metres from it)
 GET /plan?resort=toy&start=summit&minutes=25[&end=base]   best route JSON (quasar.plan)
 GET /3d                       the 3D mountain map (map3d.html)
 GET /geo                      3D-map resorts (index.json from resorts/geo and data/geo)
@@ -83,7 +83,7 @@ def api(path, q):
         return 400, {"error": f"unknown resort {name!r}"}
     r = resort(name)
     if path == "/resort":
-        return 200, {k: r.get(k) for k in ("name", "base", "nodes", "edges", "info", "source")}
+        return 200, {k: r.get(k) for k in ("name", "base", "nodes", "edges", "info", "source", "origin_lonlat")}
     if path == "/plan":
         start, end = q.get("start", r["base"]), q.get("end", r["base"])
         if start not in r["nodes"] or end not in r["nodes"]:
