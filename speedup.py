@@ -42,7 +42,7 @@ def quantum_steps(T, n):
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--minutes", type=float, default=90)
-    ap.add_argument("--max-zones", type=int, default=5)
+    ap.add_argument("--max-zones", type=int, default=4)
     ap.add_argument(
         "--overhead",
         type=float,

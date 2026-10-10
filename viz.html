@@ -37,6 +37,10 @@
   .node { cursor: pointer; }
   .node:focus { outline: none; }
   .node:focus circle, .node:hover circle { stroke-width: 4; }
+  .badge { display: inline-block; font-size: 12px; padding: 2px 8px; border-radius: 10px; margin-bottom: 10px;
+    border: 1px solid var(--border); color: var(--muted); }
+  .info { font-size: 12px; color: var(--muted); margin: 0 0 12px; }
+  .info a { color: var(--run); }
 </style>
 </head>
 <body>
@@ -45,7 +49,7 @@
   <label>Resort <select id="resort"></select></label>
   <label>You are at <select id="start"></select></label>
   <label>Finish at <select id="end"></select></label>
-  <label>Minutes left <input id="minutes" type="number" min="0" max="240" step="5" value="60"></label>
+  <label>Minutes left <input id="minutes" type="number" min="0" max="480" step="5" value="60"></label>
 </header>
 <main>
   <svg id="map" viewBox="0 0 1000 700" role="img" aria-label="Resort map with planned route">
@@ -57,16 +61,17 @@
     <g id="edges"></g><g id="route"></g><g id="nodes"></g>
   </svg>
   <aside aria-live="polite">
+    <p class="info" id="info"></p>
     <div id="summary"></div>
     <ol id="steps"></ol>
-    <div class="legend">Solid blue: runs · dashed grey: lifts · orange: your route (numbers give the order).
-      Click a junction to set where you are.</div>
+    <div class="legend">Solid blue: runs · dashed grey: lifts · dotted: short walks · orange: your route
+      (numbers give the order on small maps). Click a junction to set where you are.</div>
   </aside>
 </main>
 <script>
 const $ = id => document.getElementById(id);
 const NS = "http://www.w3.org/2000/svg";
-let resort, pos, geom = {};
+let resort, pos, big, geom = {}, planId = 0;
 
 function el(tag, attrs, parent, text) {
   const e = document.createElementNS(NS, tag);
@@ -112,19 +117,29 @@ function drawResort() {
   for (const g of ["edges", "route", "nodes"]) $(g).replaceChildren();
   const p = project(resort.nodes);
   geom = {};
+  big = Object.keys(resort.nodes).length > 40;  // real resorts: thinner lines, no labels (hover for names)
   curves(resort.edges, p);
+  const style = {
+    run: { stroke: "var(--run)", dash: "" }, lift: { stroke: "var(--lift)", dash: "7 5" },
+    link: { stroke: "var(--muted)", dash: "2 3" },
+  };
   for (const e of resort.edges) {
-    const lift = e.kind === "lift";
-    const path = el("path", { d: geom[e.id].d, fill: "none", stroke: lift ? "var(--lift)" : "var(--run)",
-      "stroke-width": 2.5, "stroke-dasharray": lift ? "7 5" : "", "marker-end": "url(#arrow)" }, $("edges"));
-    el("title", {}, path, `${e.name} (${e.kind}, ${e.minutes} min${lift ? "" : `, ${e.vertical} m`})`);
+    const s = style[e.kind];
+    const path = el("path", { d: geom[e.id].d, fill: "none", stroke: s.stroke, "stroke-dasharray": s.dash,
+      "stroke-width": e.kind === "link" ? 1 : big ? 1.4 : 2.5,
+      "marker-end": e.kind === "link" || big ? "" : "url(#arrow)" }, $("edges"));
+    el("title", {}, path, `${e.name} (${e.kind}, ${e.minutes} min${e.kind === "run" ? `, ${e.vertical} m` : ""})`);
   }
-  const elev = Object.values(resort.nodes).map(n => n[2]);
   for (const [name, [x, y]] of Object.entries(p)) {
     const g = el("g", { class: "node", tabindex: 0, role: "button", "aria-label": `Start at ${name}` }, $("nodes"));
-    el("circle", { cx: x, cy: y, r: 11, fill: "var(--node)", stroke: "var(--text)", "stroke-width": 2 }, g);
-    el("text", { x: x + 15, y: y - 10, fill: "var(--text)", "font-size": 15, "font-weight": 600 }, g, name);
-    el("text", { x: x + 15, y: y + 7, fill: "var(--muted)", "font-size": 12 }, g, `${resort.nodes[name][2]} m`);
+    el("title", {}, g, `${name}, ${resort.nodes[name][2]} m`);
+    if (big) el("circle", { cx: x, cy: y, r: 9, fill: "transparent" }, g);  // bigger click target
+    el("circle", { cx: x, cy: y, r: big ? 3 : 11, fill: "var(--node)", stroke: "var(--text)",
+      "stroke-width": big ? 1 : 2 }, g);
+    if (!big) {
+      el("text", { x: x + 15, y: y - 10, fill: "var(--text)", "font-size": 15, "font-weight": 600 }, g, name);
+      el("text", { x: x + 15, y: y + 7, fill: "var(--muted)", "font-size": 12 }, g, `${resort.nodes[name][2]} m`);
+    }
     const pick = () => { $("start").value = name; plan(); };
     g.addEventListener("click", pick);
     g.addEventListener("keydown", ev => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); pick(); } });
@@ -138,6 +153,14 @@ async function loadResort() {
     $(id).replaceChildren(...Object.keys(resort.nodes).sort().map(n => new Option(n, n)));
     $(id).value = resort.base;
   }
+  const info = resort.info || {}, facts = [info.state, info.country].filter(Boolean).join(", ");
+  $("info").textContent = [facts, info.total_lifts && `${info.total_lifts} lifts`,
+    info.downhill_trails && `${info.downhill_trails} trails`].filter(Boolean).join(" · ");
+  if (/^https?:\/\//.test(info.website || "")) {
+    const a = document.createElement("a");
+    a.href = info.website; a.textContent = " website"; a.target = "_blank"; a.rel = "noopener";
+    $("info").appendChild(a);
+  }
   drawResort();
   plan();
 }
@@ -145,27 +168,34 @@ async function loadResort() {
 async function plan() {
   const q = new URLSearchParams({ resort: $("resort").value, start: $("start").value,
     end: $("end").value, minutes: $("minutes").value });
+  const id = ++planId;
+  $("summary").textContent = "Planning…";
   const res = await get(`/plan?${q}`);
+  if (id !== planId) return;  // a newer request superseded this one
   $("route").replaceChildren();
   $("steps").replaceChildren();
   // skier marker
   const [sx, sy] = pos[$("start").value];
-  el("circle", { cx: sx, cy: sy, r: 17, fill: "none", stroke: "var(--route)", "stroke-width": 3 }, $("route"));
+  el("circle", { cx: sx, cy: sy, r: big ? 9 : 17, fill: "none", stroke: "var(--route)", "stroke-width": 3 },
+    $("route"));
   if (res.error) {
     $("summary").innerHTML = `<p class="err"></p>`;
     $("summary").firstChild.textContent = res.error;
     return;
   }
-  $("summary").innerHTML = `<div class="stats"><div><b>${res.vertical_m}</b><span>m vertical</span></div>
-    <div><b>${res.minutes}</b><span>of ${$("minutes").value} min</span></div>
-    <div><b>${res.route.filter(e => e.kind === "run").length}</b><span>runs</span></div></div>`;
+  const runs = new Set(res.route.filter(e => e.kind === "run").map(e => e.name)).size;
+  $("summary").innerHTML = `<span class="badge">${res.optimal ? "proven optimal" : "near-optimal (beam search)"}</span>
+    <div class="stats"><div><b>${Math.round(res.vertical_m)}</b><span>m vertical</span></div>
+    <div><b>${Math.round(res.minutes)}</b><span>of ${$("minutes").value} min</span></div>
+    <div><b>${runs}</b><span>different runs</span></div></div>`;
   const order = {};
   res.route.forEach((e, i) => (order[e.id] ||= []).push(i + 1));
   for (const id in order) {
-    el("path", { d: geom[id].d, fill: "none", stroke: "var(--route)", "stroke-width": 7, opacity: .55,
+    el("path", { d: geom[id].d, fill: "none", stroke: "var(--route)", "stroke-width": big ? 4 : 7, opacity: .6,
       "stroke-linecap": "round" }, $("route"));
   }
   for (const id in order) {
+    if (big) break;
     const { mx, my } = geom[id], label = order[id].join(",");
     el("rect", { x: mx - 6 - 4 * label.length, y: my - 11, width: 12 + 8 * label.length, height: 22, rx: 11,
       fill: "var(--route)" }, $("route"));
@@ -173,11 +203,21 @@ async function plan() {
       $("route"), label);
   }
   if (!res.route.length) $("summary").insertAdjacentHTML("beforeend", "<p>Not enough time for a run.</p>");
+  // consecutive segments of the same run (or walk) read as one step
+  const steps = [];
   for (const e of res.route) {
+    const last = steps[steps.length - 1];
+    if (last && last.kind === e.kind && last.name === e.name && e.kind !== "lift") {
+      last.vertical += e.vertical; last.minutes += e.minutes;
+    } else steps.push({ ...e, name: e.kind === "link" ? "Walk" : e.name });
+  }
+  for (const e of steps) {
     const li = document.createElement("li");
     li.textContent = `${e.name} `;
     const s = document.createElement("small");
-    s.textContent = e.kind === "lift" ? `lift · ${e.minutes} min` : `${e.vertical} m · ${e.minutes} min`;
+    const mins = `${Math.round(e.minutes * 10) / 10} min`;
+    s.textContent = e.kind === "run" ? `${Math.round(e.vertical)} m · ${mins}` : e.kind === "lift" ? `lift · ${mins}`
+      : `walk · ${mins}`;
     li.appendChild(s);
     $("steps").appendChild(li);
   }

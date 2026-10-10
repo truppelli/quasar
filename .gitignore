@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# raw datasets (~1 GB); build resorts with datasets.py
+data/
