@@ -9,6 +9,18 @@ import sys
 sys.path.insert(0, ".")  # Qollab may run this without __file__; run it from the repo root
 import qaoa  # Qollab only ships files the code imports, or names in a string like the path below
 
-if len(sys.argv) <= 1:
-    sys.argv = ["main.py", "resorts/crystal-mountain-washington.json", "--pod", "Quicksilver", "--max-routes", "4"]
-qaoa.main(globals().get("backend"))
+ran = False
+
+
+def main():
+    """Qollab's runner calls main() after running this file; run the job once, so a QPU run is never paid twice."""
+    global ran
+    if ran:
+        return
+    ran = True
+    if len(sys.argv) <= 1:
+        sys.argv = ["main.py", "resorts/crystal-mountain-washington.json", "--pod", "Quicksilver", "--max-routes", "4"]
+    qaoa.main(globals().get("backend"))
+
+
+main()
