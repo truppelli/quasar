@@ -18,7 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 SRC = ROOT / "data" / "openskidata"
 
-# Most-visited US resorts (approximate annual skier visits). slug -> OpenSkiData ski area id.
+# 20 popular US resorts, picked by approximate skier visits (no official per-resort numbers). slug -> OpenSkiData ski area id.
 TOP_US = {
     "vail": "88a22ba23468cf120025366ef40f004c9043546e",
     "breckenridge": "e1eb4ed2f10fc217647fa66ff48d640814d0c4f7",
@@ -65,12 +65,12 @@ def haversine_m(a, b):
 
 
 def run_stats(geom, profile):
-    """Length, vertical and pitch from the line and its 25 m elevation profile. None for area (polygon) runs."""
+    """Length, drop and pitch from the line and its ~25 m DEM profile (max pitch is per sample, so noisy). None for area (polygon) runs."""
     if geom["type"] != "LineString" or not profile or len(profile.get("heights", [])) < 2:
         return {}
     c, h, res = geom["coordinates"], profile["heights"], profile["resolution"]
     length = sum(haversine_m(a, b) for a, b in itertools.pairwise(c))
-    vertical = max(h) - min(h)
+    vertical = abs(h[0] - h[-1])  # top-to-bottom drop, not elevation range
     steepest = max(abs(b - a) for a, b in itertools.pairwise(h))
     return {
         "length_m": round(length),
@@ -99,7 +99,7 @@ def slim(f):
 
 def wanted(f):
     p = f["properties"]
-    if p.get("status") not in (None, "operating"):
+    if p.get("status") != "operating":  # same rule as the planner graph
         return False
     return p["type"] == "lift" or "downhill" in (p.get("uses") or [])
 
@@ -107,9 +107,8 @@ def wanted(f):
 def extract(areas, out):
     """areas: {ski_area_id: slug}. Writes <slug>.geojson per area plus index.json."""
     out.mkdir(parents=True, exist_ok=True)
-    groups = defaultdict(
-        list
-    )  # ponytail: holds every kept feature in memory (~GBs for --all); stream to files if RAM runs out
+    # ponytail: holds every kept feature in memory (~GBs for --all); stream to files if RAM runs out
+    groups = defaultdict(list)
     for name in ("runs", "lifts"):
         for f in features(SRC / f"{name}.geojson"):
             ids = [a["properties"]["id"] for a in f["properties"].get("skiAreas", [])]

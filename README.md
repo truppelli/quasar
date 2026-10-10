@@ -70,12 +70,12 @@ The visualizer draws the resort map: runs are solid blue lines and lifts are das
 python serve.py    # then open http://localhost:8000/3d
 ```
 
-Each resort is shown in 3D: satellite imagery and hillshade over terrain, with runs colored by difficulty (using the region's color convention) and lifts as dashed lines. Click a run to see its elevation profile, length, vertical drop and pitch. Mark a run 👍 or 👎, rate each skill level (Skip, Maybe or Want), then **Send feedback** to append the choices to `feedback.jsonl`. **Copy link** shares the current view, the runs you voted on and your skill-level choices.
+Each resort is shown in 3D: satellite imagery and hillshade over terrain, with runs colored by difficulty (European colors for European resorts, North American colors elsewhere) and lifts as dashed lines. Click a run to see its elevation profile, length, vertical drop, and average and steepest pitch (the steepest is per 25 m elevation sample, so treat it as approximate). Mark a run 👍 or 👎, rate each skill level (Skip, Maybe or Want), then **Send feedback** to append the choices to `feedback.jsonl`. **Copy link** shares the current view, the runs you voted on and your skill-level choices.
 
-The 20 most-visited US resorts are already included in `resorts/geo/`. They are cut from the [OpenSkiData](https://openskimap.org) dump in `data/openskidata/`:
+Twenty popular US resorts, picked by approximate skier visits, are already included in `resorts/geo/`. They are cut from the [OpenSkiData](https://openskimap.org) dump in `data/openskidata/`:
 
 ```sh
-python extract.py          # rebuild the 20 curated resorts (~15 s)
+python extract.py          # rebuild the 20 curated resorts (took 14 s on a laptop)
 python extract.py --all    # every downhill ski area into data/geo/ (local only; served alongside the curated set)
 ```
 

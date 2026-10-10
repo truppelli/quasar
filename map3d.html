@@ -322,7 +322,7 @@ function showCard(f) {
   const extras = [p.gladed && "🌲 gladed", p.lit && "💡 night", p.grooming && `⛷ ${p.grooming}`].filter(Boolean).join(" · ");
   $("c-badge").innerHTML = `<span class="dot" style="background:${p.color}"></span>${LEVELS[p.level][conv][0]}${extras ? " · " + esc(extras) : ""}`;
   $("c-body").innerHTML = (p.profile ? profileSVG(p.profile) : "")
-    + `<div class="stats">${[[p.length_m ? fmtLen(p.length_m) : "—", "length"], [p.vertical_m != null ? fmtVert(p.vertical_m) : "—", "drop"], [p.max_pitch != null ? `${p.avg_pitch}° / ${p.max_pitch}°` : "—", "avg / max pitch"]]
+    + `<div class="stats">${[[p.length_m ? fmtLen(p.length_m) : "—", "length"], [p.vertical_m != null ? fmtVert(p.vertical_m) : "—", "drop"], [p.max_pitch != null ? `${p.avg_pitch}° / ${p.max_pitch}°` : "—", "avg / steepest"]]
       .map(([v, l]) => `<div class="stat"><b>${v}</b><small>${l}</small></div>`).join("")}</div>
     <div class="row"><button class="btn vote like" aria-pressed="${likes.has(p.id)}" data-v="1">👍 Want to ski</button>
     <button class="btn vote nope" aria-pressed="${dislikes.has(p.id)}" data-v="-1">👎 Not for me</button></div>`;
