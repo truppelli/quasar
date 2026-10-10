@@ -1,6 +1,6 @@
 """QUASAR: the ski route with the most vertical in the skier's time budget, starting where they stand.
 
-A run's vertical scores only the first time; re-skiing a run or re-riding a lift is allowed but costs points.
+A run scores its full vertical the first time and partial credit on repeats; repeat lift rides cost points.
 Exact branch-and-bound finds the optimum on small resorts, beam search handles big ones, and QWOA (QAOA whose
 mixer is a continuous-time quantum walk over feasible routes) searches the same routes.
 """
@@ -12,10 +12,10 @@ import json
 import numpy as np
 from scipy.optimize import minimize
 
-# Per-user preference knobs, in metres of vertical one repeat costs. Repeats are needed on real resorts, where
-# many trails funnel into a few run-outs back to the base.
-LIFT_REPEAT_COST = 100
-RUN_REPEAT_COST = 100
+# Per-user preference knobs. Repeats are needed on real resorts, where many trails funnel into a few run-outs
+# back to the base. Partial credit keeps long days skiing once new runs run out, while new runs still win 2:1.
+RUN_REPEAT_CREDIT = 0.5  # share of a run's vertical a repeat descent scores
+LIFT_REPEAT_COST = 50  # metres of vertical one repeat ride of the same lift costs
 
 
 def load(path):
@@ -113,7 +113,7 @@ def _gain(edges, i, path, times_used, left, home):
         return None  # links bridge one gap; chaining them just walks in circles
     if not times_used:
         return e["vertical"]
-    return {"run": -RUN_REPEAT_COST, "lift": -LIFT_REPEAT_COST, "link": 0}[e["kind"]]
+    return {"run": RUN_REPEAT_CREDIT * e["vertical"], "lift": -LIFT_REPEAT_COST, "link": 0}[e["kind"]]
 
 
 def beam(resort, start, end, minutes, width=500):

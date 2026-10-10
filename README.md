@@ -1,18 +1,18 @@
 # QUASAR — Quantitative Unique Alpine Ski Altitude Routing
 
-Given where a skier is now and how much time they have, find a near-optimal route that covers the most *unique* vertical. Each run's vertical scores only the first time. Repeat runs and repeat lift rides are allowed, but they cost points.
+Given where a skier is now and how much time they have, find a near-optimal route that covers the most *unique* vertical. A run scores its full vertical the first time and half on repeats. Repeat lift rides cost a little.
 
 ## Problem
 
 We model a ski resort as a directed graph. Nodes are trail junctions and lift terminals. Runs give vertical drop and take time. Lifts only take time. Walk links are short walks or skates that bridge gaps in the map data; they're free and can be repeated. A **route** is a walk from the skier's current node to a finish node (by default the base) that fits inside their **time budget**.
 
 ```text
-maximize   Σ vertical(first descent of each run)
-           − RUN_REPEAT_COST × (repeat descents)  − LIFT_REPEAT_COST × (repeat lift rides)
+maximize   Σ vertical(first descent of each run)  +  RUN_REPEAT_CREDIT × Σ vertical(repeat descents)
+           − LIFT_REPEAT_COST × (repeat lift rides)            [defaults: 0.5 and 50 m]
 subject to total minutes ≤ budget,  walk starts at `start` and ends at `end`
 ```
 
-Repeats have to be allowed. On real resorts, many trails funnel into a few run-outs back to the base, so a strict "each run once" rule caps a day at two or three laps. The planner returns two numbers: `score`, which is the objective above, and `vertical_m`, which is everything skied, repeats included. Once a resort's unique runs are used up, a repeat lap scores negative (−RUN_REPEAT_COST − LIFT_REPEAT_COST), so long budgets can return shorter days. Crystal at 480 min plans about 210 min.
+Repeats have to be allowed. On real resorts, many trails funnel into a few run-outs back to the base, so a strict "each run once" rule caps a day at two or three laps. Partial credit means a typical repeat lap (300–700 m of drop) still nets +100 to +300, so long budgets fill the day once the new runs run out, while new runs are still worth twice as much. Crystal at 480 min plans 480 min and 9,400 m. The planner returns two numbers: `score`, which is the objective above, and `vertical_m`, which is everything skied, repeats included.
 
 Because of the time budget, this is an orienteering / prize-collecting problem, which is NP-hard.
 
@@ -26,15 +26,15 @@ The quantum side is **QWOA**: QAOA whose mixer is a continuous-time quantum walk
 
 | Instance (90 min budget) | Edges | Feasible routes \|F\| | B&B tree T | QWOA qubits ⌈log₂\|F\|⌉ |
 | --- | --- | --- | --- | --- |
-| Toy Peak | 9 | 428 | 6,810 | 9 |
-| 1 lift pod (synthetic) | 7 | 876 | 1.3 × 10⁵ | 10 |
-| 3 lift pods (synthetic) | 23 | 30,643 | 1.3 × 10⁶ | 15 |
-| 4 lift pods (synthetic) | 31 | 181,268 | 1.7 × 10⁷ | 18 |
+| Toy Peak | 9 | 428 | 9,168 | 9 |
+| 1 lift pod (synthetic) | 7 | 876 | 1.5 × 10⁵ | 10 |
+| 3 lift pods (synthetic) | 23 | 30,643 | 1.5 × 10⁶ | 15 |
+| 4 lift pods (synthetic) | 31 | 181,268 | 2.0 × 10⁷ | 18 |
 | Crystal Mountain, WA (real) | 233 | can't enumerate | beyond 300k-node cap | — |
 | Whistler Blackcomb (real) | 2,402 | can't enumerate | far beyond cap | — |
 
 - On synthetic resorts, the B&B tree grows by about 10^0.09 per extra lift or run. The budget sets the tree depth (budget ÷ shortest edge), so longer days also mean much bigger trees.
-- Real resorts are already past exact search. With beam search, Whistler takes 3–10 s per plan (the full 8-hour day is the slow end) and Crystal about 1–3 s.
+- Real resorts are already past exact search. With beam search, Whistler takes 3–10 s per plan (the full 8-hour day is the slow end) and Crystal 1–5 s.
 - **Near-term (IonQ):** run QWOA on single lift pods with a few hundred routes. The feasible routes are indexed classically, which is fine for validating the algorithm but gives no quantum advantage.
 
 ## Quantum speedup (large fault-tolerant machine)
@@ -48,13 +48,13 @@ Measured with a 90-minute budget (`python speedup.py`; the 39-edge row comes fro
 
 | edges | B&B tree T | depth n | quantum steps | step speedup |
 | --- | --- | --- | --- | --- |
-| 7 | 1.3 × 10⁵ | 17 | 1.0 × 10⁵ | 1.2× |
-| 15 | 4.0 × 10⁵ | 17 | 1.8 × 10⁵ | 2.2× |
-| 23 | 1.3 × 10⁶ | 17 | 3.3 × 10⁵ | 4.0× |
-| 31 | 1.7 × 10⁷ | 19 | 1.5 × 10⁶ | 11.8× |
-| 39 | 7.5 × 10⁷ | 19 | 3.0 × 10⁶ | 24.6× |
+| 7 | 1.5 × 10⁵ | 18 | 1.2 × 10⁵ | 1.2× |
+| 15 | 4.9 × 10⁵ | 18 | 2.2 × 10⁵ | 2.2× |
+| 23 | 1.5 × 10⁶ | 18 | 3.9 × 10⁵ | 3.8× |
+| 31 | 2.0 × 10⁷ | 21 | 1.9 × 10⁶ | 10.6× |
+| 39 | 8.5 × 10⁷ | 21 | 3.9 × 10⁶ | 21.8× |
 
-A step on an error-corrected machine is much slower than a classical step (`--overhead`, assumed to be 10⁴). Because of that, the quadratic speedup only shows up in wall-clock time once T > (overhead · n^1.5 · log n)² ≈ 1.2 × 10¹³ nodes. By extrapolation, that's a resort with roughly **100 lifts+runs** (98–130, depending on how many sizes are fitted). Crystal (233 edges) and Whistler (2,402) are well past that size. The speedup is quadratic, not exponential, so the overhead matters a lot ([Babbush et al. 2021](https://arxiv.org/abs/2011.04149)).
+A step on an error-corrected machine is much slower than a classical step (`--overhead`, assumed to be 10⁴). Because of that, the quadratic speedup only shows up in wall-clock time once T > (overhead · n^1.5 · log n)² ≈ 1.8 × 10¹³ nodes. By extrapolating the five-size fit, that's a resort with roughly **100 lifts+runs** (99). Crystal (233 edges) and Whistler (2,402) are well past that size. The speedup is quadratic, not exponential, so the overhead matters a lot ([Babbush et al. 2021](https://arxiv.org/abs/2011.04149)).
 
 ## Run
 
