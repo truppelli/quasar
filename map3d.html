@@ -21,7 +21,11 @@
   h1 span { color: var(--accent); }
   h2 { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 18px 0 8px; }
   input, textarea, button { font: inherit; color: var(--text); }
-  input[list], textarea { width: 100%; background: rgba(255,255,255,.06); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
+  input[list], input[type=number], textarea { width: 100%; background: rgba(255,255,255,.06); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
+  #minutes { width: 76px; padding: 6px 8px; }
+  #route { padding-left: 22px; margin: 6px 0 0; font-size: 13px; }
+  #route li { padding: 2px 0; }
+  #route small { color: var(--muted); }
   textarea { min-height: 60px; resize: vertical; }
   .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin-top: 10px; }
   .stat { background: rgba(255,255,255,.05); border-radius: 8px; padding: 6px 8px; }
@@ -68,6 +72,15 @@
   <input id="search" list="resorts" placeholder="Search resorts…" aria-label="Resort">
   <datalist id="resorts"></datalist>
   <div class="stats" id="stats"></div>
+
+  <h2>Plan my day</h2>
+  <div class="row" style="margin-top:0">
+    <input id="minutes" type="number" min="10" max="480" step="10" value="120" aria-label="Minutes to ski">
+    <span class="muted">min from the base</span>
+    <button class="btn primary" id="plan" style="margin-left:auto">Plan route</button>
+  </div>
+  <div id="plan-out" class="muted" style="font-size:12px;margin-top:8px"></div>
+  <ol id="route"></ol>
 
   <h2>Runs by skill level</h2>
   <div class="muted" style="font-size:12px;margin-bottom:4px">Swatch toggles the runs on the map. Tell us what you want to ski.</div>
@@ -124,6 +137,7 @@ function writeHash() {
     like: [...likes].join(","),
     dislike: [...dislikes].join(","),
     lv: Object.entries(interest).map(([k, v]) => `${k}:${v}`).join(","),
+    min: route ? $("minutes").value : "",
   });
   history.replaceState(null, "", "#" + Object.entries(h).filter(([, v]) => v).map(([k, v]) => `${k}=${v}`).join("&"));
 }
@@ -150,6 +164,8 @@ const map = new maplibregl.Map({
       hs: DEM,
       ski: { type: "geojson", data: { type: "FeatureCollection", features: [] }, promoteId: "id", attribution: '<a href="https://openskimap.org">OpenSkiMap</a> © OpenStreetMap contributors' },
       ends: { type: "geojson", data: { type: "FeatureCollection", features: [] } },
+      route: { type: "geojson", data: { type: "FeatureCollection", features: [] } },
+      steps: { type: "geojson", data: { type: "FeatureCollection", features: [] } },
     },
     terrain: { source: "dem", exaggeration: 1.3 },
     sky: { "sky-color": "#6fa8dc", "horizon-color": "#dfe9f3", "fog-color": "#dfe9f3", "sky-horizon-blend": 0.6, "horizon-fog-blend": 0.6, "fog-ground-blend": 0.3 },
@@ -168,6 +184,13 @@ const map = new maplibregl.Map({
       { id: "lift", type: "line", source: "ski", filter: ["==", ["get", "kind"], "lift"],
         paint: { "line-color": "#ffffff", "line-width": ["case", ["boolean", ["feature-state", "sel"], false], 3.5, 1.8], "line-dasharray": [3, 1.5] } },
       { id: "lift-ends", type: "circle", source: "ends", paint: { "circle-radius": 3.5, "circle-color": "#ffffff", "circle-stroke-color": "#111", "circle-stroke-width": 1.5 } },
+      // Planned route: orange line, numbered at the middle of each lift and run.
+      { id: "route-casing", type: "line", source: "route", layout: { "line-cap": "round", "line-join": "round" }, paint: { "line-color": "#111", "line-width": 9, "line-opacity": 0.55 } },
+      { id: "route", type: "line", source: "route", layout: { "line-cap": "round", "line-join": "round" }, paint: { "line-color": "#ff7a00", "line-width": 5 } },
+      { id: "steps", type: "circle", source: "steps", paint: { "circle-radius": 9, "circle-color": "#ff7a00", "circle-stroke-color": "#fff", "circle-stroke-width": 2 } },
+      { id: "step-num", type: "symbol", source: "steps",
+        layout: { "text-field": ["to-string", ["get", "n"]], "text-font": ["Open Sans Semibold"], "text-size": 11, "text-allow-overlap": true, "text-ignore-placement": true },
+        paint: { "text-color": "#111" } },
       { id: "labels", type: "symbol", source: "ski", minzoom: 13.5,
         layout: { "symbol-placement": "line", "text-field": ["get", "name"], "text-font": ["Open Sans Semibold"], "text-size": 11, "text-max-angle": 30, "symbol-spacing": 300 },
         paint: { "text-color": "#fff", "text-halo-color": "rgba(0,0,0,.8)", "text-halo-width": 1.4 } },
@@ -193,7 +216,7 @@ async function getJSON(url) {
 async function loadResort(slug, fly = true) {
   const r = resorts.find((x) => x.slug === slug);
   if (!r) return;
-  if (resort && resort.slug !== slug) { likes.clear(); dislikes.clear(); interest = {}; }
+  if (resort && resort.slug !== slug) { likes.clear(); dislikes.clear(); interest = {}; route = null; $("plan-out").textContent = ""; }
   resort = r;
   imperial = (r.region || "").startsWith("US");
   $("search").value = r.name;
@@ -216,6 +239,7 @@ async function loadResort(slug, fly = true) {
   map.getSource("ski").setData(geo);
   map.getSource("ends").setData({ type: "FeatureCollection", features: ends.map((c) => ({ type: "Feature", geometry: { type: "Point", coordinates: c }, properties: {} })) });
   syncVotes();
+  drawRoute(false);
   renderStats(lo, hi);
   renderLevels();
   renderTrip();
@@ -366,6 +390,71 @@ map.on("click", (e) => {
   hit ? select(byId(hit.properties.id)) : closeCard();
 });
 
+// ---- Plan my day: /plan on the resort's routing graph, drawn along the map's own run and lift lines.
+let graph = null, route = null;
+const R = Math.PI / 180;
+
+function lonlat(node) {  // graph nodes are metres east/north of origin_lonlat (datasets.py's projection)
+  const [x, y] = graph.nodes[node], [lon0, lat0] = graph.origin_lonlat;
+  return [lon0 + x / (111320 * Math.cos(lat0 * R)), lat0 + y / 110540];
+}
+
+// The map line with this leg's name and kind whose nearest points to the leg's ends are closest, cut to that span.
+// Graph legs are trails split at junctions, so this is usually a slice of one line. Links: straight walk.
+function legLine(leg) {
+  const a = lonlat(leg.from), b = lonlat(leg.to), kx = 111320 * Math.cos(a[1] * R);
+  const d = (p, q) => Math.hypot((p[0] - q[0]) * kx, (p[1] - q[1]) * 110540);
+  let best = null;
+  for (const f of geo.features) {
+    if (f.properties.kind !== leg.kind || f.properties.name !== leg.name || f.geometry.type !== "LineString") continue;
+    const c = f.geometry.coordinates, near = (p) => c.reduce((bi, q, i) => (d(q, p) < d(c[bi], p) ? i : bi), 0);
+    const i = near(a), j = near(b), cost = d(c[i], a) + d(c[j], b);
+    if (i !== j && (!best || cost < best.cost)) best = { cost, line: i < j ? c.slice(i, j + 1) : c.slice(j, i + 1).reverse() };
+  }
+  return best && best.cost < 200 ? best.line.map((p) => p.slice(0, 2)) : [a, b];  // ponytail: 200 m match radius
+}
+
+function drawRoute(fit) {
+  const legs = route?.route || [], lines = legs.map(legLine);
+  const fc = (features) => ({ type: "FeatureCollection", features });
+  map.getSource("route").setData(fc(lines.map((c) => ({ type: "Feature", geometry: { type: "LineString", coordinates: c }, properties: {} }))));
+  // One numbered step per lift ride or trail: the graph splits trails at every junction, so merge back-to-back pieces.
+  const steps = [];
+  legs.forEach((l, i) => {
+    if (l.kind === "link") return;
+    const s = steps[steps.length - 1];
+    if (s && s.kind === l.kind && s.name === l.name) { s.minutes += l.minutes; s.vertical += l.vertical; s.lines.push(lines[i]); }
+    else steps.push({ kind: l.kind, name: l.name, minutes: l.minutes, vertical: l.vertical, lines: [lines[i]] });
+  });
+  const mid = (s) => { const c = s.lines[Math.floor(s.lines.length / 2)]; return c[Math.floor(c.length / 2)]; };
+  map.getSource("steps").setData(fc(steps.map((s, i) => ({ type: "Feature", geometry: { type: "Point", coordinates: mid(s) }, properties: { n: i + 1 } }))));
+  $("route").innerHTML = steps.map((s) => `<li>${s.kind === "lift" ? "🚡" : "⛷"} ${esc(s.name)} <small>${Math.round(s.minutes)} min${s.vertical ? ` · ${fmtVert(s.vertical)}` : ""}</small></li>`).join("");
+  if (route) $("plan-out").textContent = `${steps.length} lifts and runs · ${fmtVert(route.vertical_m)} skied · ${Math.round(route.minutes)} min · ${route.optimal ? "proven best route" : "best found (beam search)"}`;
+  if (fit && lines.length) {
+    const b = lines.flat().reduce((b, p) => [[Math.min(b[0][0], p[0]), Math.min(b[0][1], p[1])], [Math.max(b[1][0], p[0]), Math.max(b[1][1], p[1])]], [[180, 90], [-180, -90]]);
+    map.fitBounds(b, { padding: { top: 60, bottom: 60, left: innerWidth > 720 ? 380 : 40, right: 60 }, pitch: 62, maxZoom: 15.5, duration: 2500 });
+  }
+}
+
+async function planRoute() {
+  const slug = resort.slug, minutes = $("minutes").value;
+  $("plan-out").textContent = "Planning…";
+  try {
+    if (graph?.slug !== slug) graph = { slug, ...(await getJSON(`/resort?resort=${encodeURIComponent(slug)}`)) };
+    const r = await fetch(`/plan?resort=${encodeURIComponent(slug)}&minutes=${encodeURIComponent(minutes)}`), body = await r.json();
+    if (resort.slug !== slug) return;  // switched resorts while planning
+    route = r.ok && !body.error ? body : null;
+    if (!route) $("plan-out").textContent = body.error || "No route";
+  } catch {
+    route = null;
+    $("plan-out").textContent = "Couldn't plan here: no routing graph for this resort, or the server is down";
+  }
+  drawRoute(true);
+  writeHash();
+}
+$("plan").onclick = planRoute;
+$("minutes").addEventListener("keydown", (e) => { if (e.key === "Enter") planRoute(); });
+
 // ---- Feedback + share
 $("save").onclick = async () => {
   if (!resort) return;
@@ -399,7 +488,8 @@ map.on("load", async () => {
   }
   resort = resorts.find((r) => r.slug === slug);
   setRunFilter();
-  await loadResort(slug, !h.map);
+  await loadResort(slug, !h.map && !h.min);
+  if (+h.min > 0) { $("minutes").value = h.min; await planRoute(); }  // a shared link replays its route
 });
 </script>
 </body>
