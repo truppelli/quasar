@@ -79,7 +79,22 @@ The visualizer draws the resort map:
 
 Click a junction, or use the dropdown, to set where the skier is, then set the minutes they have left. The route appears in orange, labeled either proven optimal or near-optimal (beam search). The side panel shows the step list and the resort's Global Ski Atlas facts, if the atlas lists it.
 
-`serve.py` is a standard-library JSON API (`/resorts`, `/resort`, `/plan`) that the app can reuse.
+`serve.py` is a standard-library JSON API (`/resorts`, `/resort`, `/plan`, `/geo`, `POST /feedback`) that the app can reuse.
+
+## 3D mountain map
+
+```sh
+python serve.py [port]    # then open http://localhost:8000/3d (or your port)
+```
+
+Each resort is shown in 3D: satellite imagery and hillshade over terrain, with runs colored by difficulty (European colors for European resorts, North American colors elsewhere) and lifts as dashed lines. Click a run to see its elevation profile, length, vertical drop, and average and steepest pitch (the steepest is per 25 m elevation sample, so treat it as approximate). Mark a run 👍 or 👎, rate each skill level (Skip, Maybe or Want), then **Send feedback** to append the choices to `feedback.jsonl`. **Copy link** shares the current view, the runs you voted on and your skill-level choices.
+
+Twenty popular US resorts, picked by approximate skier visits, are already included in `resorts/geo/`. They are cut from the [OpenSkiData](https://openskimap.org) dump in `data/openskidata/`:
+
+```sh
+python extract.py          # rebuild the 20 curated resorts (took 14 s on a laptop)
+python extract.py --all    # every downhill ski area into data/geo/ (local only; served alongside the curated set)
+```
 
 ## Resort data
 
