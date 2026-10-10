@@ -50,17 +50,17 @@ Measured with QWOA simulated at p=3 (`--pod`, default budgets):
 
 | Crystal pod | budget | routes | qubits | P(optimal) QWOA vs random | beam vs optimal |
 | --- | --- | --- | --- | --- | --- |
-| Rainier Express | 18 min | 319 | 9 | 0.024 vs 0.009 | 95.8% |
-| Green Valley | 37 min | 477 | 9 | 0.015 vs 0.002 | 100% |
-| Quicksilver | 34 min | 509 | 9 | 0.015 vs 0.002 | 100% |
-| Chinook Express | 24 min | 392 | 9 | 0.010 vs 0.003 | 100% |
-| Forest Queen Express | 20 min | 380 | 9 | 0.005 vs 0.003 | 100% |
-| Mt. Rainier Gondola | 35 min | 293 | 9 | 0.015 vs 0.007 | 99.5% |
-| Gold Hills | 88 min | 147 | 8 | 0.110 vs 0.034 | 100% |
-| Discovery | 120 min | 238 | 8 | 0.018 vs 0.004 | 100% |
-| Magic Carpet | 59 min | 397 | 9 | 0.009 vs 0.003 | 100% |
+| Rainier Express | 18 min | 470 | 9 | 0.018 vs 0.006 | 95.8% |
+| Green Valley | 28 min | 474 | 9 | 0.010 vs 0.002 | 100% |
+| Mt. Rainier Gondola | 34 min | 254 | 8 | 0.018 vs 0.008 | 100% |
+| Quicksilver | 25 min | 349 | 9 | 0.039 vs 0.011 | 100% |
+| Gold Hills | 43 min | 471 | 9 | 0.019 vs 0.002 | 100% |
+| Chinook Express | 22 min | 334 | 9 | 0.010 vs 0.003 | 100% |
+| Discovery | 61 min | 506 | 9 | 0.014 vs 0.002 | 100% |
+| Forest Queen Express | 16 min | 450 | 9 | 0.300 vs 0.011 | 100% |
+| Magic Carpet | 59 min | 509 | 9 | 0.008 vs 0.002 | 100% |
 
-- All 9 Crystal pods fit in 9 qubits. Only 11 of Whistler's 34 pods do: its map data splits trails into many short segments, so most pods have too many routes even for a single lap.
+- All 9 Crystal pods fit in 9 qubits. Only 9 of Whistler's 34 pods do: its map data splits trails into many short segments, so most pods have too many routes even for a single lap.
 - QWOA beats random sampling on every pod, but at p=3 the chance of sampling the optimum stays in the low percent. Deeper circuits (larger p) are the next lever.
 - Pods are QWOA instances, not a planner. They can overlap, and whole-day plans still run `plan()` on the full resort.
 
@@ -86,16 +86,16 @@ What it costs on hardware (Aria, two-qubit MS gates):
 | 6 | 185 | 357 | 529 |
 | 9 | 900 | 1,778 | 2,656 |
 
-(Measured on random scores with 3/4 of the register filled. Real pods cost more when M is awkward for state preparation: Rainier Express, with 319 routes on 9 qubits at p=3, needs 6,002.)
+(Measured on random scores with 3/4 of the register filled. Real pods cost more when M is awkward for state preparation: Rainier Express, with 470 routes on 9 qubits at p=3, needs 6,016.)
 
 - **Too deep for today's hardware:** two-qubit errors compound, so the 9-qubit pods from `--pods` would return mostly noise.
 - **First run on hardware:** 4 qubits, p=1, sized with `--max-routes 16`.
 
 | Crystal pod (≤ 16 routes) | budget | routes | p | MS gates | P(optimal) vs random |
 | --- | --- | --- | --- | --- | --- |
-| Discovery | 27 min | 16 | 1 | 34 | 0.214 vs 0.062 |
-| Mt. Rainier Gondola | 31 min | 13 | 1 | 55 | 0.514 vs 0.154 |
-| Chinook Express | 18 min | 10 | 2 | 113 | 0.410 vs 0.100 |
+| Discovery | 18 min | 14 | 1 | 67 | 0.183 vs 0.071 |
+| Mt. Rainier Gondola | 30 min | 15 | 1 | 67 | 0.508 vs 0.133 |
+| Chinook Express | 18 min | 12 | 2 | 103 | 0.353 vs 0.083 |
 
 ## Quantum speedup (large fault-tolerant machine)
 
