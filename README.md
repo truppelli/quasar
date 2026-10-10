@@ -135,14 +135,15 @@ Measured with `qaoa.py`, 1,000 shots, with both circuits in one packed job on th
 - This is the README's argument for QWOA, now measured: QWOA's mixer keeps every shot on a feasible route.
 - **Caveat:** the comparison relies on the classical enumeration, so neither algorithm shows a speedup here.
 
-**On IonQ's cloud simulator** (one job each, both circuits packed, p=1, 1,000 shots, on 2026-10-10):
+**On IonQ's cloud simulators** (one job each, both circuits packed, p=1, 1,000 shots, on 2026-10-10; the last row ran through Qollab's Run button on IonQ's noise model of Forte Enterprise 1):
 
 | pod | qubits | IonQ job | optimum sampled, QWOA / QAOA | QAOA shots that aren't routes | same run, local sampler |
 | --- | --- | --- | --- | --- | --- |
 | Toy Lift A, 30 min | 14 | `01a127b5-4e08-74b1-b1c7-0b5a0401d869` | 362 / 26 | 845 | 385 / 21, 836 |
 | Crystal Quicksilver, 17 min | 17 | `01a127b5-c03b-77c3-9eea-603be2344480` | 500 / 12 | 979 | 478 / 3, 981 |
+| Crystal Quicksilver, 17 min, Forte Enterprise 1 noise model | 17 | `01a127eb-df06-712f-bc02-6f6e9b626fd6` | 485 / 5 | 980 | 478 / 3, 981 |
 
-IonQ's simulator agrees with the local sampler within shot noise. This also checks that `circuit.unpack` reads IonQ's bitstring counts correctly. These are cloud-simulator runs, not QPU runs; a hardware run is the next step (roadmap Milestone 2).
+IonQ's simulator agrees with the local sampler within shot noise. This also checks that `circuit.unpack` reads IonQ's bitstring counts correctly. The noise model barely moves QWOA: its half of the job is 2 qubits and 7 MS gates, too shallow for gate errors to pile up, and QAOA was already at random-guess level. These are simulator runs, not QPU runs. The same job is queued on IonQ Forte 1 hardware through Qollab (job `01a1281a-4614-78ed-bc86-1a60b5c18f9b`); its result goes here when it returns.
 
 ## Quantum speedup (large fault-tolerant machine)
 
