@@ -179,18 +179,18 @@ def describe(resort, score, path):
     }
 
 
-def plan(resort, start, minutes, end=None, max_nodes=300_000, exact_max_edges=60):
-    """Best route (the app path): exact branch-and-bound on small graphs if it finishes within max_nodes,
-    else beam search. Real resorts (hundreds of edges) go straight to beam search; exact never finishes there.
+def plan(resort, start, minutes, end=None, max_nodes=None):
+    """Best route (the app path): exact branch-and-bound if it finishes within max_nodes, else beam search.
 
+    Default cap: 300k nodes on small graphs (<= 60 edges), 20k on bigger ones. Lift pods finish well inside 20k;
+    whole resorts never finish, so they only lose a fraction of a second before beam search.
     None if `end` is unreachable in time. "optimal" says whether the route is proven best.
     """
     end = end or resort["base"]
-    found, exact = [], False
-    if len(resort["edges"]) <= exact_max_edges:
-        sols, tree, _ = search(resort, start, end, minutes, max_nodes=max_nodes)
-        found = [max(sols.values(), key=lambda s: s[0])] if sols else []
-        exact = tree < max_nodes
+    max_nodes = max_nodes or (300_000 if len(resort["edges"]) <= 60 else 20_000)
+    sols, tree, _ = search(resort, start, end, minutes, max_nodes=max_nodes)
+    found = [max(sols.values(), key=lambda s: s[0])] if sols else []
+    exact = tree < max_nodes
     if not exact and (b := beam(resort, start, end, minutes)):
         found.append(b)
     if not found:
@@ -255,7 +255,7 @@ def pod_budget(pod, max_routes=512, max_minutes=120, max_nodes=50_000):
     lift = pod["edges"][0]  # build() puts lifts first and a pod has one
     _, home, _ = _prep(pod["edges"], pod["base"])
     best = None
-    for m in range(int(np.ceil(lift["minutes"] + home.get(lift["to"], np.inf))), max_minutes + 1):
+    for m in range(int(np.ceil(lift["minutes"] + home.get((lift["to"], False), np.inf))), max_minutes + 1):
         sols, tree, _ = search(pod, pod["base"], pod["base"], m, prune=False, max_nodes=max_nodes)
         if tree == max_nodes or len(sols) > max_routes:
             break

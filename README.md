@@ -18,7 +18,7 @@ Because of the time budget, this is an orienteering / prize-collecting problem, 
 
 The classical solver works in two tiers:
 - **Exact branch-and-bound** for small resorts. It never takes a leg that leaves too little time to get back.
-- **Beam search** for real resorts (more than 60 edges), or when the exact search would visit more than 300k nodes. It keeps the 500 best partial routes per minute, at most 5 per junction so one spot can't crowd out the rest. Results are flagged `optimal: false`.
+- **Beam search** when the exact search doesn't finish within 300k nodes (20k on graphs over 60 edges, so whole resorts lose only a fraction of a second; lift pods still finish exactly). It keeps the 500 best partial routes per minute, at most 5 per junction so one spot can't crowd out the rest. Results are flagged `optimal: false`.
 
 The quantum side is **QWOA**: QAOA whose mixer is a continuous-time quantum walk over the feasible routes ([Marsh & Wang 2020](https://arxiv.org/abs/1912.07353)). Every state the walk reaches is a valid route, so no probability is spent on invalid ones, which is unlike a penalty QUBO with the standard X mixer. QWOA's results are reported as **near-optimal** and compared with the exact optimum.
 
@@ -34,7 +34,7 @@ The quantum side is **QWOA**: QAOA whose mixer is a continuous-time quantum walk
 | Whistler Blackcomb (real) | 3,340 | can't enumerate | beam search only | — |
 
 - On synthetic resorts, the B&B tree grows by about 10^0.09 per extra lift or run. The budget sets the tree depth (budget ÷ shortest edge), so longer days also mean much bigger trees.
-- Real resorts are already past exact search. Across the 22 included resorts, a 2-hour plan takes at most 1.7 s. A full 8-hour day takes 4–19 s; Whistler is the slowest.
+- Real resorts are already past exact search. Across the 22 included resorts, a 2-hour plan takes at most 2.3 s. A full 8-hour day takes 6–22 s; Whistler is the slowest.
 - **Near-term (IonQ):** run QWOA on single lift pods with a few hundred routes. The feasible routes are indexed classically, which is fine for validating the algorithm but gives no quantum advantage.
 
 ## Lift pods (QWOA-sized instances)
