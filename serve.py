@@ -11,6 +11,7 @@ POST /feedback                {resort, like: [run ids], dislike: [run ids], leve
 """
 
 import json
+import os
 import sys
 import time
 from functools import lru_cache
@@ -141,4 +142,4 @@ if __name__ == "__main__":
     FEEDBACK = real
     port = int(sys.argv[1]) if len(sys.argv) > 1 else 8000
     print(f"QUASAR visualizer on http://localhost:{port}")
-    ThreadingHTTPServer(("127.0.0.1", port), Handler).serve_forever()
+    ThreadingHTTPServer((os.environ.get("HOST", "127.0.0.1"), port), Handler).serve_forever()  # HOST=0.0.0.0 in Docker

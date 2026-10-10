@@ -514,7 +514,7 @@ $("search").addEventListener("change", () => {
 });
 
 // ---- Boot: restore from the link if there is one
-map.on("load", async () => {
+map.once("style.load", async () => {  // the style, not every first tile: resorts appear while imagery streams in
   resorts = await getJSON("/geo");
   $("resorts").innerHTML = resorts.map((r) => `<option value="${esc(r.name)}">${esc(r.region || "")}</option>`).join("");
   const h = START;
