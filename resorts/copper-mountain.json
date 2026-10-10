@@ -1,0 +1,5826 @@
+{
+ "name": "Copper Mountain",
+ "source": "OpenSkiMap ski area 0bab3102857cf4c7243d3db844c283a24413fa28",
+ "origin_lonlat": [
+  -106.1621814799739,
+  39.48217846072814
+ ],
+ "nodes": {
+  "Freefall Glade / Black Bear Glade": [
+   1336,
+   923,
+   3263.9
+  ],
+  "Freefall Glade / Bee Traverse": [
+   1545,
+   1546,
+   2998.3
+  ],
+  "Frank's Fave / Collage": [
+   692,
+   1500,
+   3064.2
+  ],
+  "American Eagle bottom": [
+   563,
+   1910,
+   2976.7
+  ],
+  "The Moz / High Point": [
+   -704,
+   -581,
+   3511.5
+  ],
+  "Timberline Express bottom": [
+   -993,
+   780,
+   3192.4
+  ],
+  "Blackjack bottom": [
+   -89,
+   -2325,
+   3405.3
+  ],
+  "Sierra top": [
+   -953,
+   -1335,
+   3699.4
+  ],
+  "Sierra bottom": [
+   -377,
+   -675,
+   3466.8
+  ],
+  "Easy Feelin' / Central Park": [
+   -381,
+   734,
+   3258.8
+  ],
+  "Woodward Express bottom": [
+   -80,
+   1903,
+   2990.8
+  ],
+  "Clear Cut / I-Way": [
+   -1355,
+   678,
+   3264.0
+  ],
+  "Clear Cut / Copperfield": [
+   -1103,
+   611,
+   3210.2
+  ],
+  "Green Acres / Skid Road": [
+   1013,
+   1725,
+   2989.7
+  ],
+  "Pitchfork bottom": [
+   986,
+   1905,
+   2971.9
+  ],
+  "Central Park / Loverly Lane": [
+   35,
+   1372,
+   3125.9
+  ],
+  "Loverly Lane / Scooter": [
+   -96,
+   1563,
+   3087.5
+  ],
+  "Jacque's Pique / Gold Digger": [
+   -1259,
+   -573,
+   3473.9
+  ],
+  "Jacque's Pique / Copperfield": [
+   -1194,
+   317,
+   3256.1
+  ],
+  "Hallelujah / Ptarmigan": [
+   543,
+   -57,
+   3434.9
+  ],
+  "Scooter / Vein Glory": [
+   -348,
+   1012,
+   3211.1
+  ],
+  "Scooter / Sno-Deal": [
+   -77,
+   1665,
+   3063.2
+  ],
+  "Matchless / West Ridge Traverse": [
+   -1106,
+   -1587,
+   3735.4
+  ],
+  "Colorado Boulevard": [
+   -803,
+   -2143,
+   3510.7
+  ],
+  "Coppertone / West Village Traverse": [
+   140,
+   1308,
+   3131.9
+  ],
+  "Coppertone / Loverly": [
+   60,
+   1443,
+   3113.3
+  ],
+  "Triple Treat / Andy's Encore": [
+   1202,
+   72,
+   3496.8
+  ],
+  "Alpine bottom": [
+   1972,
+   1347,
+   2985.6
+  ],
+  "Log Chute / Soliloquy": [
+   -1570,
+   -7,
+   3341.2
+  ],
+  "Log Chute / Soliloquy 2": [
+   -1419,
+   246,
+   3298.6
+  ],
+  "Excelerator top": [
+   830,
+   -727,
+   3665.6
+  ],
+  "Mountain Chief top": [
+   -1082,
+   -1531,
+   3751.3
+  ],
+  "Far West / Colman's Retreat": [
+   -1350,
+   -879,
+   3526.4
+  ],
+  "Collage": [
+   836,
+   -684,
+   3653.1
+  ],
+  "Brennan's Grin / CDL's Trail #20": [
+   640,
+   30,
+   3430.6
+  ],
+  "Timberline Express top": [
+   -873,
+   -644,
+   3529.6
+  ],
+  "Tempo / Copperfield": [
+   -1062,
+   -520,
+   3484.0
+  ],
+  "Tempo / Copperfield 2": [
+   -1134,
+   -194,
+   3393.9
+  ],
+  "Foul Play / Fair Play": [
+   457,
+   813,
+   3250.0
+  ],
+  "Foul Play / Skid Road": [
+   295,
+   1172,
+   3141.2
+  ],
+  "Collage 2": [
+   997,
+   -273,
+   3564.4
+  ],
+  "West Encore / Andy's Encore": [
+   1166,
+   463,
+   3427.2
+  ],
+  "Too Much / Far East": [
+   1238,
+   49,
+   3488.5
+  ],
+  "Little Burn / Windsong": [
+   -919,
+   -563,
+   3512.2
+  ],
+  "The Moz": [
+   -963,
+   637,
+   3203.9
+  ],
+  "Falcon Alley": [
+   -1004,
+   -2790,
+   3739.0
+  ],
+  "Falcon Alley 2": [
+   -1028,
+   -2275,
+   3533.2
+  ],
+  "Sno-Deal": [
+   18,
+   1801,
+   3018.0
+  ],
+  "Black Bear Glade / Rosi's Run": [
+   1281,
+   866,
+   3281.5
+  ],
+  "Rendezvous top": [
+   -278,
+   -1605,
+   3611.2
+  ],
+  "Wheeler Creek / Coppertone": [
+   -64,
+   -473,
+   3399.6
+  ],
+  "Six Shooter": [
+   -952,
+   -1526,
+   3733.6
+  ],
+  "Matchless": [
+   -994,
+   -1823,
+   3610.2
+  ],
+  "Slip Knot / Coppertone": [
+   -34,
+   -434,
+   3393.5
+  ],
+  "Excelerator bottom": [
+   602,
+   180,
+   3409.1
+  ],
+  "Alpine top": [
+   1208,
+   21,
+   3504.1
+  ],
+  "Lallarookn / West Ridge Traverse": [
+   -1885,
+   -2291,
+   3757.5
+  ],
+  "Colorado Boulevard 2": [
+   -1431,
+   -2477,
+   3607.2
+  ],
+  "Unnamed run / Liberty": [
+   -182,
+   590,
+   3274.7
+  ],
+  "Unnamed run / Carefree": [
+   -132,
+   827,
+   3223.9
+  ],
+  "Iron Mask / West Ridge Traverse": [
+   -1773,
+   -2193,
+   3762.0
+  ],
+  "Colorado Boulevard 3": [
+   -1101,
+   -2219,
+   3547.6
+  ],
+  "Looking Glass / Coppertone": [
+   9,
+   -348,
+   3379.4
+  ],
+  "American Flyer top": [
+   -685,
+   -819,
+   3556.0
+  ],
+  "Coppertone / Coppertone, EZ Road": [
+   91,
+   918,
+   3179.0
+  ],
+  "West Encore": [
+   1108,
+   -209,
+   3556.0
+  ],
+  "Oh No / Andy's Encore": [
+   1161,
+   818,
+   3304.9
+  ],
+  "Green Acres": [
+   921,
+   1867,
+   2973.8
+  ],
+  "Gem bottom": [
+   876,
+   1898,
+   2972.4
+  ],
+  "Lyman Lane / I-Way": [
+   -1398,
+   738,
+   3270.2
+  ],
+  "Lyman Lane / Pine Cone Alley": [
+   -868,
+   1245,
+   3159.3
+  ],
+  "Rug Rat bottom": [
+   -197,
+   1914,
+   2998.2
+  ],
+  "Kaboom": [
+   -912,
+   -1355,
+   3698.5
+  ],
+  "Revenge": [
+   -411,
+   -715,
+   3471.0
+  ],
+  "Mine Dump / Ptarmigan": [
+   775,
+   -723,
+   3662.7
+  ],
+  "CDL's Trail #20": [
+   622,
+   90,
+   3423.2
+  ],
+  "Loverly": [
+   413,
+   1894,
+   2979.7
+  ],
+  "Kaboom 2": [
+   -540,
+   -1082,
+   3540.2
+  ],
+  "Ore-Deal / Andy's Encore": [
+   1001,
+   1174,
+   3201.5
+  ],
+  "Ore-Deal / Overlode": [
+   1132,
+   1668,
+   3007.3
+  ],
+  "Blackjack top": [
+   -332,
+   -1700,
+   3627.3
+  ],
+  "Colorado Boulevard 4": [
+   -256,
+   -2253,
+   3438.2
+  ],
+  "Bouncer / Rhapsody": [
+   626,
+   215,
+   3404.8
+  ],
+  "Super Bee top": [
+   885,
+   -709,
+   3655.9
+  ],
+  "Triple Zero / Double Zero": [
+   1139,
+   -946,
+   3532.8
+  ],
+  "Copperfield / Soliloquy": [
+   -1016,
+   -660,
+   3528.1
+  ],
+  "Wheeler Creek": [
+   -187,
+   -916,
+   3495.7
+  ],
+  "Coppertone": [
+   -627,
+   -662,
+   3532.9
+  ],
+  "Pitchfork top": [
+   944,
+   1786,
+   2988.2
+  ],
+  "Coppertone, EZ Road": [
+   159,
+   1254,
+   3135.6
+  ],
+  "American Flyer bottom": [
+   367,
+   1898,
+   2979.8
+  ],
+  "Little Trees / Timber Ridge": [
+   -973,
+   -977,
+   3628.1
+  ],
+  "Little Trees": [
+   -717,
+   -941,
+   3552.0
+  ],
+  "Boulderado": [
+   -615,
+   -2930,
+   3751.8
+  ],
+  "Boulderado / Valentine's": [
+   -145,
+   -2561,
+   3434.2
+  ],
+  "Union Gap / Union Park": [
+   -402,
+   -959,
+   3516.4
+  ],
+  "Wheeler Creek 2": [
+   -109,
+   -494,
+   3408.2
+  ],
+  "Rhapsody / Main Vein": [
+   605,
+   583,
+   3311.6
+  ],
+  "Pine Cone Alley / Prospector": [
+   -685,
+   1597,
+   3088.4
+  ],
+  "Slot Car Track / Cabin Chute": [
+   1241,
+   -360,
+   3517.9
+  ],
+  "Far East": [
+   1400,
+   128,
+   3446.7
+  ],
+  "Cache Glades / See & Ski": [
+   167,
+   -3,
+   3350.1
+  ],
+  "Collage 3": [
+   977,
+   -355,
+   3581.6
+  ],
+  "Bridgeway / Woodwinds Traverse": [
+   149,
+   1821,
+   3008.4
+  ],
+  "Bridgeway": [
+   67,
+   1907,
+   2987.9
+  ],
+  "Leap Frog / Skid Road": [
+   222,
+   996,
+   3170.7
+  ],
+  "Sail Away Glade / EZ Road": [
+   323,
+   240,
+   3365.0
+  ],
+  "Coppertone 2": [
+   47,
+   430,
+   3272.3
+  ],
+  "I-Way / Roundabout": [
+   -1482,
+   656,
+   3290.6
+  ],
+  "I-Way / Soliloquy": [
+   -1198,
+   535,
+   3232.3
+  ],
+  "Julie's Vision": [
+   -890,
+   -1535,
+   3733.2
+  ],
+  "Mountain Chief bottom": [
+   -756,
+   -2151,
+   3502.4
+  ],
+  "High Point": [
+   -271,
+   328,
+   3341.5
+  ],
+  "Woodwinds / Woodwinds Traverse": [
+   -838,
+   896,
+   3176.1
+  ],
+  "Gold Digger / Colman's Retreat": [
+   -1019,
+   -1347,
+   3685.8
+  ],
+  "Fair Play / Bittersweet": [
+   486,
+   523,
+   3337.1
+  ],
+  "Fair Play / Skid Road": [
+   480,
+   1360,
+   3102.1
+  ],
+  "West Ridge Traverse": [
+   -1256,
+   -1741,
+   3728.9
+  ],
+  "Colorado Boulevard 5": [
+   -953,
+   -2143,
+   3527.3
+  ],
+  "Overlode / Skid Road": [
+   1160,
+   1754,
+   2981.8
+  ],
+  "Too Much": [
+   1846,
+   940,
+   3125.3
+  ],
+  "Bee Traverse / Treble Cliff": [
+   1391,
+   1623,
+   2998.4
+  ],
+  "Coppertone 3": [
+   -528,
+   -545,
+   3504.3
+  ],
+  "High Point 2": [
+   -439,
+   -366,
+   3467.1
+  ],
+  "Western Slope / The Taco / Curecanti": [
+   -831,
+   -2850,
+   3753.3
+  ],
+  "Coppertone 4": [
+   50,
+   766,
+   3206.1
+  ],
+  "High Point 3": [
+   -322,
+   578,
+   3286.1
+  ],
+  "Colman's Retreat / Soliloquy": [
+   -1456,
+   -413,
+   3419.0
+  ],
+  "Resolution top": [
+   948,
+   -642,
+   3647.9
+  ],
+  "Alicante": [
+   -397,
+   -1711,
+   3631.5
+  ],
+  "Colorado Boulevard 6": [
+   -407,
+   -2175,
+   3467.4
+  ],
+  "Treble Cliff / Rosi's Run": [
+   1259,
+   1161,
+   3199.8
+  ],
+  "Stinger top": [
+   1368,
+   1718,
+   2981.4
+  ],
+  "Ptarmigan": [
+   618,
+   -493,
+   3566.9
+  ],
+  "Super Bee bottom": [
+   1346,
+   1852,
+   2960.1
+  ],
+  "Buzzard's Alley / Union Park": [
+   -390,
+   -1218,
+   3548.3
+  ],
+  "Fairway / Roundabout": [
+   -1290,
+   1160,
+   3202.7
+  ],
+  "Fairway / Roundabout 2": [
+   -1004,
+   1711,
+   3090.8
+  ],
+  "Hidden Vein / Vein Glory": [
+   -282,
+   1417,
+   3114.1
+  ],
+  "Easy Feelin'": [
+   -195,
+   1844,
+   3014.6
+  ],
+  "American Eagle top": [
+   483,
+   128,
+   3420.2
+  ],
+  "Main Vein": [
+   530,
+   1574,
+   3060.3
+  ],
+  "Main Vein 2": [
+   519,
+   1898,
+   2976.6
+  ],
+  "Coppertone 5": [
+   29,
+   158,
+   3305.4
+  ],
+  "Atlantic Cornice / Spaulding Ridge": [
+   828,
+   -775,
+   3669.4
+  ],
+  "Woodward Express top": [
+   -459,
+   482,
+   3297.0
+  ],
+  "Home Run": [
+   1496,
+   1768,
+   2958.9
+  ],
+  "Oh No": [
+   1288,
+   747,
+   3309.6
+  ],
+  "Timber Road / Woodwinds Traverse": [
+   -952,
+   796,
+   3187.2
+  ],
+  "Fairway": [
+   -967,
+   1413,
+   3133.9
+  ],
+  "Loverly 2": [
+   272,
+   1848,
+   2997.2
+  ],
+  "West Ridge Traverse 2": [
+   -1519,
+   -2007,
+   3745.6
+  ],
+  "Colorado Boulevard 7": [
+   -1006,
+   -2160,
+   3531.1
+  ],
+  "The Taco / Curecanti": [
+   -581,
+   -2284,
+   3485.5
+  ],
+  "Main Vein 3": [
+   518,
+   267,
+   3407.9
+  ],
+  "Highline / Hodson's Cut": [
+   2098,
+   -992,
+   3226.6
+  ],
+  "High Point 4": [
+   -300,
+   32,
+   3406.6
+  ],
+  "High Point 5": [
+   -274,
+   107,
+   3397.3
+  ],
+  "Andy's Encore": [
+   992,
+   -596,
+   3639.2
+  ],
+  "Drain Pipe / Sawtooth": [
+   1280,
+   -613,
+   3534.1
+  ],
+  "High Point 6": [
+   -577,
+   -478,
+   3495.3
+  ],
+  "Resolution bottom": [
+   2213,
+   -926,
+   3213.8
+  ],
+  "Soliloquy": [
+   -1622,
+   -179,
+   3369.7
+  ],
+  "Endeavor / Timber Ridge": [
+   -929,
+   -1092,
+   3663.0
+  ],
+  "Revenge 2": [
+   -666,
+   -985,
+   3539.5
+  ],
+  "Ram's Run": [
+   -668,
+   -2872,
+   3750.9
+  ],
+  "Ram's Run 2": [
+   -327,
+   -2272,
+   3443.0
+  ],
+  "West Ten Mile": [
+   -1622,
+   660,
+   3297.1
+  ],
+  "Roundabout": [
+   -1165,
+   1593,
+   3116.7
+  ],
+  "Rhapsody": [
+   635,
+   311,
+   3392.0
+  ],
+  "Buffalo Stampede": [
+   -642,
+   -2798,
+   3712.1
+  ],
+  "Buffalo Stampede 2": [
+   -498,
+   -2265,
+   3470.7
+  ],
+  "Woodwinds": [
+   -354,
+   356,
+   3329.0
+  ],
+  "Valentine's / Denverite": [
+   -167,
+   -2394,
+   3420.6
+  ],
+  "Coppertone 6": [
+   -656,
+   -739,
+   3545.0
+  ],
+  "Colorado Boulevard 8": [
+   -696,
+   -2128,
+   3502.5
+  ],
+  "Ram's Run 3": [
+   -622,
+   -2883,
+   3744.6
+  ],
+  "Timber Road": [
+   -894,
+   1084,
+   3174.4
+  ],
+  "Union Park": [
+   -329,
+   -1610,
+   3614.7
+  ],
+  "Rendezvous bottom": [
+   -314,
+   -642,
+   3461.2
+  ],
+  "Colorado Boulevard 9": [
+   -907,
+   -2137,
+   3522.6
+  ],
+  "Sno-Deal 2": [
+   4,
+   1909,
+   2989.5
+  ],
+  "Roundabout 2": [
+   -558,
+   1792,
+   3047.0
+  ],
+  "Denverite": [
+   -486,
+   -2731,
+   3635.9
+  ],
+  "The Springs": [
+   -248,
+   -2348,
+   3432.4
+  ],
+  "Collage 4": [
+   1031,
+   391,
+   3444.4
+  ],
+  "Kokomo Express bottom": [
+   -164,
+   1881,
+   2996.2
+  ],
+  "Kokomo Express top": [
+   -983,
+   1633,
+   3100.6
+  ],
+  "Stinger bottom": [
+   1390,
+   1835,
+   2959.3
+  ],
+  "Slingshot top": [
+   -253,
+   1925,
+   3003.0
+  ],
+  "Easy Rider bottom": [
+   628,
+   1939,
+   2978.1
+  ],
+  "Celebrity Ridge bottom": [
+   -1136,
+   -1286,
+   3672.4
+  ],
+  "Lumberjack bottom": [
+   -1043,
+   1792,
+   3087.6
+  ],
+  "Lumberjack top": [
+   -1569,
+   633,
+   3301.3
+  ],
+  "Three Bears top": [
+   -779,
+   -2865,
+   3755.8
+  ]
+ },
+ "lifts": [
+  [
+   "Excelerator",
+   "Excelerator bottom",
+   "Excelerator top",
+   5.9
+  ],
+  [
+   "Kokomo Express",
+   "Kokomo Express bottom",
+   "Kokomo Express top",
+   6.7
+  ],
+  [
+   "Stinger",
+   "Stinger bottom",
+   "Stinger top",
+   5.5
+  ],
+  [
+   "Pitchfork",
+   "Pitchfork bottom",
+   "Pitchfork top",
+   4.1
+  ],
+  [
+   "Sierra",
+   "Sierra bottom",
+   "Sierra top",
+   9.5
+  ],
+  [
+   "Blackjack",
+   "Blackjack bottom",
+   "Blackjack top",
+   8.5
+  ],
+  [
+   "Super Bee",
+   "Super Bee bottom",
+   "Super Bee top",
+   11.1
+  ],
+  [
+   "Mountain Chief",
+   "Mountain Chief bottom",
+   "Mountain Chief top",
+   7.7
+  ],
+  [
+   "Slingshot",
+   "Rug Rat bottom",
+   "Slingshot top",
+   3.8
+  ],
+  [
+   "Woodward Express",
+   "Woodward Express bottom",
+   "Woodward Express top",
+   7.8
+  ],
+  [
+   "Gem",
+   "Gem bottom",
+   "Pitchfork top",
+   4.3
+  ],
+  [
+   "Timberline Express",
+   "Timberline Express bottom",
+   "Timberline Express top",
+   7.9
+  ],
+  [
+   "Resolution",
+   "Resolution bottom",
+   "Resolution top",
+   11.8
+  ],
+  [
+   "Alpine",
+   "Alpine bottom",
+   "Alpine top",
+   14.2
+  ],
+  [
+   "Celebrity Ridge",
+   "Celebrity Ridge bottom",
+   "Mountain Chief top",
+   5.9
+  ],
+  [
+   "Rendezvous",
+   "Rendezvous bottom",
+   "Rendezvous top",
+   9.1
+  ],
+  [
+   "American Flyer",
+   "American Flyer bottom",
+   "American Flyer top",
+   12.9
+  ],
+  [
+   "Lumberjack",
+   "Lumberjack bottom",
+   "Lumberjack top",
+   11.6
+  ],
+  [
+   "Three Bears",
+   "Blackjack bottom",
+   "Three Bears top",
+   9.3
+  ],
+  [
+   "American Eagle",
+   "American Eagle bottom",
+   "American Eagle top",
+   9.2
+  ]
+ ],
+ "runs": [
+  [
+   "Freefall Glade",
+   "Freefall Glade / Black Bear Glade",
+   "Freefall Glade / Bee Traverse",
+   2.9
+  ],
+  [
+   "Frank's Fave",
+   "Frank's Fave / Collage",
+   "American Eagle bottom",
+   1.9
+  ],
+  [
+   "The Moz",
+   "The Moz / High Point",
+   "The Moz",
+   5.2
+  ],
+  [
+   "The Moz",
+   "The Moz",
+   "Timberline Express bottom",
+   0.6
+  ],
+  [
+   "Colorado Boulevard",
+   "Colorado Boulevard 2",
+   "Colorado Boulevard 3",
+   1.6
+  ],
+  [
+   "Colorado Boulevard",
+   "Colorado Boulevard 3",
+   "Colorado Boulevard 7",
+   0.5
+  ],
+  [
+   "Colorado Boulevard",
+   "Colorado Boulevard 7",
+   "Colorado Boulevard 5",
+   0.5
+  ],
+  [
+   "Colorado Boulevard",
+   "Colorado Boulevard 5",
+   "Colorado Boulevard 9",
+   0.5
+  ],
+  [
+   "Colorado Boulevard",
+   "Colorado Boulevard 9",
+   "Colorado Boulevard",
+   0.5
+  ],
+  [
+   "Colorado Boulevard",
+   "Colorado Boulevard",
+   "Mountain Chief bottom",
+   0.5
+  ],
+  [
+   "Colorado Boulevard",
+   "Mountain Chief bottom",
+   "Colorado Boulevard 8",
+   0.5
+  ],
+  [
+   "Colorado Boulevard",
+   "Colorado Boulevard 8",
+   "Colorado Boulevard 6",
+   1.2
+  ],
+  [
+   "Colorado Boulevard",
+   "Colorado Boulevard 6",
+   "Colorado Boulevard 4",
+   0.7
+  ],
+  [
+   "Colorado Boulevard",
+   "Colorado Boulevard 4",
+   "Blackjack bottom",
+   0.8
+  ],
+  [
+   "Revenge",
+   "Sierra top",
+   "Revenge 2",
+   1.9
+  ],
+  [
+   "Revenge",
+   "Revenge 2",
+   "Revenge",
+   1.6
+  ],
+  [
+   "Revenge",
+   "Revenge",
+   "Sierra bottom",
+   0.5
+  ],
+  [
+   "Easy Feelin'",
+   "Easy Feelin' / Central Park",
+   "Easy Feelin'",
+   5.3
+  ],
+  [
+   "Easy Feelin'",
+   "Easy Feelin'",
+   "Rug Rat bottom",
+   0.5
+  ],
+  [
+   "Easy Feelin'",
+   "Rug Rat bottom",
+   "Kokomo Express bottom",
+   0.5
+  ],
+  [
+   "Easy Feelin'",
+   "Kokomo Express bottom",
+   "Woodward Express bottom",
+   0.5
+  ],
+  [
+   "Clear Cut",
+   "Clear Cut / I-Way",
+   "Clear Cut / Copperfield",
+   1.0
+  ],
+  [
+   "Green Acres",
+   "Green Acres / Skid Road",
+   "Pitchfork top",
+   0.5
+  ],
+  [
+   "Green Acres",
+   "Pitchfork top",
+   "Pitchfork bottom",
+   0.5
+  ],
+  [
+   "Central Park",
+   "Easy Feelin' / Central Park",
+   "Central Park / Loverly Lane",
+   3.1
+  ],
+  [
+   "Loverly Lane",
+   "Central Park / Loverly Lane",
+   "Loverly Lane / Scooter",
+   0.8
+  ],
+  [
+   "Jacque's Pique",
+   "Jacque's Pique / Gold Digger",
+   "Jacque's Pique / Copperfield",
+   3.8
+  ],
+  [
+   "Scooter",
+   "Scooter / Vein Glory",
+   "Loverly Lane / Scooter",
+   2.5
+  ],
+  [
+   "Scooter",
+   "Loverly Lane / Scooter",
+   "Scooter / Sno-Deal",
+   0.5
+  ],
+  [
+   "Matchless",
+   "Matchless / West Ridge Traverse",
+   "Matchless",
+   1.1
+  ],
+  [
+   "Matchless",
+   "Matchless",
+   "Colorado Boulevard",
+   1.6
+  ],
+  [
+   "Coppertone",
+   "Coppertone / West Village Traverse",
+   "Coppertone / Loverly",
+   0.5
+  ],
+  [
+   "Triple Treat",
+   "Triple Treat / Andy's Encore",
+   "Alpine bottom",
+   6.5
+  ],
+  [
+   "Minor Matter",
+   "Easy Feelin' / Central Park",
+   "Timberline Express bottom",
+   2.7
+  ],
+  [
+   "Log Chute",
+   "Log Chute / Soliloquy",
+   "Log Chute / Soliloquy 2",
+   1.2
+  ],
+  [
+   "Collage",
+   "Excelerator top",
+   "Collage",
+   0.5
+  ],
+  [
+   "Collage",
+   "Collage",
+   "Collage 3",
+   1.5
+  ],
+  [
+   "Collage",
+   "Collage 3",
+   "Collage 2",
+   0.5
+  ],
+  [
+   "Collage",
+   "Collage 2",
+   "Collage 4",
+   2.9
+  ],
+  [
+   "Collage",
+   "Collage 4",
+   "Frank's Fave / Collage",
+   5.4
+  ],
+  [
+   "Far West",
+   "Mountain Chief top",
+   "Celebrity Ridge bottom",
+   1.0
+  ],
+  [
+   "Far West",
+   "Celebrity Ridge bottom",
+   "Far West / Colman's Retreat",
+   1.9
+  ],
+  [
+   "Brennan's Grin",
+   "Collage",
+   "Brennan's Grin / CDL's Trail #20",
+   3.4
+  ],
+  [
+   "High Point",
+   "Timberline Express top",
+   "The Moz / High Point",
+   0.6
+  ],
+  [
+   "High Point",
+   "The Moz / High Point",
+   "High Point 6",
+   0.7
+  ],
+  [
+   "High Point",
+   "High Point 6",
+   "High Point 2",
+   0.7
+  ],
+  [
+   "High Point",
+   "High Point 2",
+   "High Point 4",
+   1.8
+  ],
+  [
+   "High Point",
+   "High Point 4",
+   "High Point 5",
+   0.5
+  ],
+  [
+   "High Point",
+   "High Point 5",
+   "High Point",
+   0.9
+  ],
+  [
+   "High Point",
+   "High Point",
+   "High Point 3",
+   1.1
+  ],
+  [
+   "High Point",
+   "High Point 3",
+   "Easy Feelin' / Central Park",
+   0.7
+  ],
+  [
+   "Tempo",
+   "Tempo / Copperfield",
+   "Tempo / Copperfield 2",
+   1.4
+  ],
+  [
+   "Foul Play",
+   "Foul Play / Fair Play",
+   "Foul Play / Skid Road",
+   1.6
+  ],
+  [
+   "West Encore",
+   "Collage 2",
+   "West Encore",
+   0.5
+  ],
+  [
+   "West Encore",
+   "West Encore",
+   "West Encore / Andy's Encore",
+   2.8
+  ],
+  [
+   "Too Much",
+   "Too Much / Far East",
+   "Too Much",
+   4.7
+  ],
+  [
+   "Too Much",
+   "Too Much",
+   "Alpine bottom",
+   2.0
+  ],
+  [
+   "Little Burn",
+   "Little Burn / Windsong",
+   "The Moz",
+   5.0
+  ],
+  [
+   "Falcon Alley",
+   "Falcon Alley",
+   "Falcon Alley 2",
+   2.3
+  ],
+  [
+   "Sno-Deal",
+   "Scooter / Sno-Deal",
+   "Sno-Deal",
+   0.7
+  ],
+  [
+   "Black Bear Glade",
+   "Black Bear Glade / Rosi's Run",
+   "Freefall Glade / Black Bear Glade",
+   0.5
+  ],
+  [
+   "Wheeler Creek",
+   "Rendezvous top",
+   "Wheeler Creek",
+   2.9
+  ],
+  [
+   "Wheeler Creek",
+   "Wheeler Creek",
+   "Wheeler Creek 2",
+   1.9
+  ],
+  [
+   "Wheeler Creek",
+   "Wheeler Creek 2",
+   "Wheeler Creek / Coppertone",
+   0.5
+  ],
+  [
+   "Six Shooter",
+   "Six Shooter",
+   "Matchless",
+   1.2
+  ],
+  [
+   "CDL's Trail #20",
+   "Collage",
+   "Brennan's Grin / CDL's Trail #20",
+   3.2
+  ],
+  [
+   "CDL's Trail #20",
+   "Brennan's Grin / CDL's Trail #20",
+   "CDL's Trail #20",
+   0.5
+  ],
+  [
+   "CDL's Trail #20",
+   "CDL's Trail #20",
+   "Excelerator bottom",
+   0.5
+  ],
+  [
+   "Far East",
+   "Alpine top",
+   "Too Much / Far East",
+   0.5
+  ],
+  [
+   "Far East",
+   "Too Much / Far East",
+   "Far East",
+   0.8
+  ],
+  [
+   "Far East",
+   "Far East",
+   "Alpine bottom",
+   6.3
+  ],
+  [
+   "Lallarookn",
+   "Lallarookn / West Ridge Traverse",
+   "Colorado Boulevard 2",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Liberty",
+   "Unnamed run / Carefree",
+   0.9
+  ],
+  [
+   "Iron Mask",
+   "Iron Mask / West Ridge Traverse",
+   "Colorado Boulevard 3",
+   2.9
+  ],
+  [
+   "Coppertone",
+   "American Flyer top",
+   "Coppertone 6",
+   0.5
+  ],
+  [
+   "Coppertone",
+   "Coppertone 6",
+   "Coppertone",
+   0.5
+  ],
+  [
+   "Coppertone",
+   "Coppertone",
+   "Coppertone 3",
+   0.6
+  ],
+  [
+   "Coppertone",
+   "Coppertone 3",
+   "Wheeler Creek 2",
+   1.9
+  ],
+  [
+   "Coppertone",
+   "Wheeler Creek 2",
+   "Wheeler Creek / Coppertone",
+   0.5
+  ],
+  [
+   "Coppertone",
+   "Wheeler Creek / Coppertone",
+   "Slip Knot / Coppertone",
+   0.5
+  ],
+  [
+   "Coppertone",
+   "Slip Knot / Coppertone",
+   "Looking Glass / Coppertone",
+   0.5
+  ],
+  [
+   "Coppertone",
+   "Looking Glass / Coppertone",
+   "Coppertone 5",
+   2.2
+  ],
+  [
+   "Coppertone",
+   "Coppertone 5",
+   "Coppertone 2",
+   1.1
+  ],
+  [
+   "Coppertone",
+   "Coppertone 2",
+   "Coppertone 4",
+   1.4
+  ],
+  [
+   "Coppertone",
+   "Coppertone 4",
+   "Coppertone / Coppertone, EZ Road",
+   0.7
+  ],
+  [
+   "Oh No",
+   "West Encore",
+   "Far East",
+   1.8
+  ],
+  [
+   "Oh No",
+   "Far East",
+   "Oh No",
+   2.7
+  ],
+  [
+   "Oh No",
+   "Oh No",
+   "Oh No / Andy's Encore",
+   0.6
+  ],
+  [
+   "Green Acres",
+   "Green Acres",
+   "Gem bottom",
+   0.5
+  ],
+  [
+   "Lyman Lane",
+   "Lyman Lane / I-Way",
+   "Lyman Lane / Pine Cone Alley",
+   3.0
+  ],
+  [
+   "West Village Traverse",
+   "Coppertone / West Village Traverse",
+   "Easy Feelin'",
+   4.7
+  ],
+  [
+   "West Village Traverse",
+   "Easy Feelin'",
+   "Slingshot top",
+   0.6
+  ],
+  [
+   "West Village Traverse",
+   "Slingshot top",
+   "Rug Rat bottom",
+   0.5
+  ],
+  [
+   "Kaboom",
+   "Kaboom",
+   "Kaboom 2",
+   1.9
+  ],
+  [
+   "Kaboom",
+   "Kaboom 2",
+   "Revenge",
+   1.7
+  ],
+  [
+   "Mine Dump",
+   "Mine Dump / Ptarmigan",
+   "Brennan's Grin / CDL's Trail #20",
+   3.2
+  ],
+  [
+   "Mine Dump",
+   "Brennan's Grin / CDL's Trail #20",
+   "CDL's Trail #20",
+   0.5
+  ],
+  [
+   "Loverly",
+   "Central Park / Loverly Lane",
+   "Coppertone / Loverly",
+   0.5
+  ],
+  [
+   "Loverly",
+   "Coppertone / Loverly",
+   "Loverly 2",
+   2.1
+  ],
+  [
+   "Loverly",
+   "Loverly 2",
+   "American Flyer bottom",
+   0.5
+  ],
+  [
+   "Loverly",
+   "American Flyer bottom",
+   "Loverly",
+   0.5
+  ],
+  [
+   "Ore-Deal",
+   "Ore-Deal / Andy's Encore",
+   "Ore-Deal / Overlode",
+   2.2
+  ],
+  [
+   "Rattler",
+   "Blackjack top",
+   "Colorado Boulevard 4",
+   2.4
+  ],
+  [
+   "Bouncer",
+   "Bouncer / Rhapsody",
+   "American Eagle bottom",
+   7.5
+  ],
+  [
+   "West Ridge Traverse",
+   "Mountain Chief top",
+   "Matchless / West Ridge Traverse",
+   0.5
+  ],
+  [
+   "West Ridge Traverse",
+   "Matchless / West Ridge Traverse",
+   "West Ridge Traverse",
+   0.9
+  ],
+  [
+   "West Ridge Traverse",
+   "West Ridge Traverse",
+   "West Ridge Traverse 2",
+   1.6
+  ],
+  [
+   "West Ridge Traverse",
+   "West Ridge Traverse 2",
+   "Iron Mask / West Ridge Traverse",
+   1.3
+  ],
+  [
+   "West Ridge Traverse",
+   "Iron Mask / West Ridge Traverse",
+   "Lallarookn / West Ridge Traverse",
+   0.6
+  ],
+  [
+   "Triple Zero",
+   "Super Bee top",
+   "Triple Zero / Double Zero",
+   1.5
+  ],
+  [
+   "Copperfield",
+   "Copperfield / Soliloquy",
+   "Tempo / Copperfield",
+   0.5
+  ],
+  [
+   "Copperfield",
+   "Tempo / Copperfield",
+   "Tempo / Copperfield 2",
+   1.4
+  ],
+  [
+   "Copperfield",
+   "Tempo / Copperfield 2",
+   "Jacque's Pique / Copperfield",
+   2.2
+  ],
+  [
+   "Copperfield",
+   "Jacque's Pique / Copperfield",
+   "Clear Cut / Copperfield",
+   1.3
+  ],
+  [
+   "Copperfield",
+   "Clear Cut / Copperfield",
+   "Timberline Express bottom",
+   0.8
+  ],
+  [
+   "Upper Sluice",
+   "Coppertone",
+   "Revenge",
+   0.9
+  ],
+  [
+   "Coppertone, EZ Road",
+   "Coppertone / Coppertone, EZ Road",
+   "Coppertone, EZ Road",
+   1.3
+  ],
+  [
+   "Coppertone, EZ Road",
+   "Coppertone, EZ Road",
+   "Coppertone / West Village Traverse",
+   0.5
+  ],
+  [
+   "Green Acres",
+   "Pitchfork top",
+   "Green Acres",
+   0.5
+  ],
+  [
+   "Green Acres",
+   "Green Acres",
+   "Pitchfork bottom",
+   0.5
+  ],
+  [
+   "Lower Carefree",
+   "Coppertone, EZ Road",
+   "American Flyer bottom",
+   3.1
+  ],
+  [
+   "Little Trees",
+   "Little Trees / Timber Ridge",
+   "Little Trees",
+   1.0
+  ],
+  [
+   "Windsong",
+   "Timberline Express top",
+   "Little Burn / Windsong",
+   0.5
+  ],
+  [
+   "Windsong",
+   "Little Burn / Windsong",
+   "Timberline Express bottom",
+   6.0
+  ],
+  [
+   "Boulderado",
+   "Boulderado",
+   "Boulderado / Valentine's",
+   3.3
+  ],
+  [
+   "Union Gap",
+   "Union Gap / Union Park",
+   "Wheeler Creek 2",
+   2.3
+  ],
+  [
+   "Rhapsody",
+   "Excelerator bottom",
+   "Bouncer / Rhapsody",
+   0.5
+  ],
+  [
+   "Rhapsody",
+   "Bouncer / Rhapsody",
+   "Rhapsody",
+   0.5
+  ],
+  [
+   "Rhapsody",
+   "Rhapsody",
+   "Rhapsody / Main Vein",
+   1.3
+  ],
+  [
+   "Pine Cone Alley",
+   "Lyman Lane / Pine Cone Alley",
+   "Pine Cone Alley / Prospector",
+   1.6
+  ],
+  [
+   "Slot Car Track",
+   "Slot Car Track / Cabin Chute",
+   "Far East",
+   2.1
+  ],
+  [
+   "Copperopolis",
+   "Collage 3",
+   "Collage 2",
+   0.5
+  ],
+  [
+   "Copperopolis",
+   "Collage 2",
+   "CDL's Trail #20",
+   2.3
+  ],
+  [
+   "Copperopolis",
+   "CDL's Trail #20",
+   "Excelerator bottom",
+   0.5
+  ],
+  [
+   "Bridgeway",
+   "Bridgeway / Woodwinds Traverse",
+   "Bridgeway",
+   0.5
+  ],
+  [
+   "Leap Frog",
+   "Leap Frog / Skid Road",
+   "Coppertone, EZ Road",
+   1.0
+  ],
+  [
+   "Sail Away Glade",
+   "Sail Away Glade / EZ Road",
+   "Coppertone 2",
+   1.6
+  ],
+  [
+   "I-Way",
+   "I-Way / Roundabout",
+   "Lyman Lane / I-Way",
+   0.5
+  ],
+  [
+   "I-Way",
+   "Lyman Lane / I-Way",
+   "Clear Cut / I-Way",
+   0.5
+  ],
+  [
+   "I-Way",
+   "Clear Cut / I-Way",
+   "I-Way / Soliloquy",
+   1.0
+  ],
+  [
+   "Julie's Vision",
+   "Julie's Vision",
+   "Colorado Boulevard",
+   2.7
+  ],
+  [
+   "Julie's Vision",
+   "Colorado Boulevard",
+   "Mountain Chief bottom",
+   0.5
+  ],
+  [
+   "Woodwinds",
+   "High Point",
+   "Woodwinds",
+   0.5
+  ],
+  [
+   "Woodwinds",
+   "Woodwinds",
+   "Woodwinds / Woodwinds Traverse",
+   3.2
+  ],
+  [
+   "Gold Digger",
+   "Gold Digger / Colman's Retreat",
+   "Jacque's Pique / Gold Digger",
+   3.4
+  ],
+  [
+   "Fair Play",
+   "Fair Play / Bittersweet",
+   "Foul Play / Fair Play",
+   1.1
+  ],
+  [
+   "Fair Play",
+   "Foul Play / Fair Play",
+   "Fair Play / Skid Road",
+   2.4
+  ],
+  [
+   "Sluice",
+   "Sierra bottom",
+   "Rendezvous bottom",
+   0.5
+  ],
+  [
+   "Sluice",
+   "Rendezvous bottom",
+   "Wheeler Creek 2",
+   1.0
+  ],
+  [
+   "Bradley's Plunge",
+   "West Ridge Traverse",
+   "Colorado Boulevard 5",
+   2.2
+  ],
+  [
+   "Andy's Encore",
+   "Super Bee top",
+   "Resolution top",
+   0.5
+  ],
+  [
+   "Andy's Encore",
+   "Resolution top",
+   "Andy's Encore",
+   0.5
+  ],
+  [
+   "Andy's Encore",
+   "Andy's Encore",
+   "West Encore",
+   1.7
+  ],
+  [
+   "Andy's Encore",
+   "West Encore",
+   "Alpine top",
+   1.1
+  ],
+  [
+   "Andy's Encore",
+   "Alpine top",
+   "Triple Treat / Andy's Encore",
+   0.5
+  ],
+  [
+   "Andy's Encore",
+   "Triple Treat / Andy's Encore",
+   "West Encore / Andy's Encore",
+   1.6
+  ],
+  [
+   "Andy's Encore",
+   "West Encore / Andy's Encore",
+   "Oh No / Andy's Encore",
+   1.6
+  ],
+  [
+   "Andy's Encore",
+   "Oh No / Andy's Encore",
+   "Ore-Deal / Andy's Encore",
+   1.7
+  ],
+  [
+   "Andy's Encore",
+   "Ore-Deal / Andy's Encore",
+   "Frank's Fave / Collage",
+   2.1
+  ],
+  [
+   "Overlode",
+   "Oh No / Andy's Encore",
+   "Ore-Deal / Overlode",
+   3.7
+  ],
+  [
+   "Overlode",
+   "Ore-Deal / Overlode",
+   "Overlode / Skid Road",
+   0.5
+  ],
+  [
+   "Bee Traverse",
+   "Too Much",
+   "Freefall Glade / Bee Traverse",
+   2.9
+  ],
+  [
+   "Bee Traverse",
+   "Freefall Glade / Bee Traverse",
+   "Bee Traverse / Treble Cliff",
+   0.7
+  ],
+  [
+   "High Point",
+   "Coppertone 3",
+   "High Point 2",
+   0.7
+  ],
+  [
+   "Liberty",
+   "High Point",
+   "Unnamed run / Liberty",
+   1.1
+  ],
+  [
+   "Liberty",
+   "Unnamed run / Liberty",
+   "Coppertone 4",
+   1.3
+  ],
+  [
+   "Carefree",
+   "High Point 3",
+   "Unnamed run / Carefree",
+   1.2
+  ],
+  [
+   "Carefree",
+   "Unnamed run / Carefree",
+   "Coppertone, EZ Road",
+   2.2
+  ],
+  [
+   "Colman's Retreat",
+   "Gold Digger / Colman's Retreat",
+   "Far West / Colman's Retreat",
+   2.4
+  ],
+  [
+   "Colman's Retreat",
+   "Far West / Colman's Retreat",
+   "Colman's Retreat / Soliloquy",
+   2.1
+  ],
+  [
+   "Double Zero",
+   "Resolution top",
+   "Triple Zero / Double Zero",
+   1.5
+  ],
+  [
+   "Alicante",
+   "Alicante",
+   "Colorado Boulevard 6",
+   1.9
+  ],
+  [
+   "Treble Cliff",
+   "Treble Cliff / Rosi's Run",
+   "Bee Traverse / Treble Cliff",
+   2.1
+  ],
+  [
+   "Treble Cliff",
+   "Bee Traverse / Treble Cliff",
+   "Stinger top",
+   0.5
+  ],
+  [
+   "Skid Road",
+   "Coppertone 4",
+   "Leap Frog / Skid Road",
+   1.1
+  ],
+  [
+   "Skid Road",
+   "Leap Frog / Skid Road",
+   "Foul Play / Skid Road",
+   0.8
+  ],
+  [
+   "Skid Road",
+   "Foul Play / Skid Road",
+   "Fair Play / Skid Road",
+   1.1
+  ],
+  [
+   "Skid Road",
+   "Fair Play / Skid Road",
+   "Frank's Fave / Collage",
+   1.1
+  ],
+  [
+   "Skid Road",
+   "Frank's Fave / Collage",
+   "Green Acres / Skid Road",
+   1.7
+  ],
+  [
+   "Skid Road",
+   "Green Acres / Skid Road",
+   "Overlode / Skid Road",
+   0.7
+  ],
+  [
+   "Skid Road",
+   "Overlode / Skid Road",
+   "Super Bee bottom",
+   1.0
+  ],
+  [
+   "Fairway",
+   "Fairway / Roundabout",
+   "Fairway",
+   1.7
+  ],
+  [
+   "Fairway",
+   "Fairway",
+   "Kokomo Express top",
+   1.0
+  ],
+  [
+   "Fairway",
+   "Kokomo Express top",
+   "Fairway / Roundabout 2",
+   0.5
+  ],
+  [
+   "Hidden Vein",
+   "Hidden Vein / Vein Glory",
+   "Easy Feelin'",
+   2.0
+  ],
+  [
+   "Main Vein",
+   "American Eagle top",
+   "Main Vein 3",
+   0.6
+  ],
+  [
+   "Main Vein",
+   "Main Vein 3",
+   "Rhapsody / Main Vein",
+   1.5
+  ],
+  [
+   "Main Vein",
+   "Rhapsody / Main Vein",
+   "Main Vein",
+   4.3
+  ],
+  [
+   "Main Vein",
+   "Main Vein",
+   "Main Vein 2",
+   1.3
+  ],
+  [
+   "Soliloquy",
+   "American Flyer top",
+   "Copperfield / Soliloquy",
+   1.3
+  ],
+  [
+   "Soliloquy",
+   "Copperfield / Soliloquy",
+   "Jacque's Pique / Gold Digger",
+   1.1
+  ],
+  [
+   "Soliloquy",
+   "Jacque's Pique / Gold Digger",
+   "Colman's Retreat / Soliloquy",
+   1.1
+  ],
+  [
+   "Soliloquy",
+   "Colman's Retreat / Soliloquy",
+   "Soliloquy",
+   1.3
+  ],
+  [
+   "Soliloquy",
+   "Soliloquy",
+   "Log Chute / Soliloquy",
+   0.8
+  ],
+  [
+   "Soliloquy",
+   "Log Chute / Soliloquy",
+   "Log Chute / Soliloquy 2",
+   1.2
+  ],
+  [
+   "Soliloquy",
+   "Log Chute / Soliloquy 2",
+   "I-Way / Soliloquy",
+   1.6
+  ],
+  [
+   "Soliloquy",
+   "I-Way / Soliloquy",
+   "Clear Cut / Copperfield",
+   0.5
+  ],
+  [
+   "See & Ski",
+   "Cache Glades / See & Ski",
+   "Coppertone 5",
+   0.7
+  ],
+  [
+   "Ptarmigan",
+   "Mine Dump / Ptarmigan",
+   "Ptarmigan",
+   1.2
+  ],
+  [
+   "Ptarmigan",
+   "Ptarmigan",
+   "Hallelujah / Ptarmigan",
+   1.9
+  ],
+  [
+   "Ptarmigan",
+   "Hallelujah / Ptarmigan",
+   "Excelerator bottom",
+   1.1
+  ],
+  [
+   "Vein Glory",
+   "Woodward Express top",
+   "Easy Feelin' / Central Park",
+   1.0
+  ],
+  [
+   "Vein Glory",
+   "Easy Feelin' / Central Park",
+   "Scooter / Vein Glory",
+   1.2
+  ],
+  [
+   "Vein Glory",
+   "Scooter / Vein Glory",
+   "Hidden Vein / Vein Glory",
+   1.8
+  ],
+  [
+   "Vein Glory",
+   "Hidden Vein / Vein Glory",
+   "Easy Feelin'",
+   1.9
+  ],
+  [
+   "Vein Glory",
+   "Easy Feelin'",
+   "Rug Rat bottom",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Stinger top",
+   "Home Run",
+   0.5
+  ],
+  [
+   "Formidable",
+   "Oh No",
+   "Alpine bottom",
+   4.1
+  ],
+  [
+   "Timber Road",
+   "Timber Road / Woodwinds Traverse",
+   "Timber Road",
+   1.1
+  ],
+  [
+   "Timber Road",
+   "Timber Road",
+   "Lyman Lane / Pine Cone Alley",
+   0.7
+  ],
+  [
+   "Timber Road",
+   "Lyman Lane / Pine Cone Alley",
+   "Fairway",
+   0.8
+  ],
+  [
+   "Woodwinds Traverse",
+   "Timberline Express bottom",
+   "Timber Road / Woodwinds Traverse",
+   0.5
+  ],
+  [
+   "Woodwinds Traverse",
+   "Timber Road / Woodwinds Traverse",
+   "Woodwinds / Woodwinds Traverse",
+   0.5
+  ],
+  [
+   "Woodwinds Traverse",
+   "Woodwinds / Woodwinds Traverse",
+   "Scooter / Sno-Deal",
+   4.6
+  ],
+  [
+   "Woodwinds Traverse",
+   "Scooter / Sno-Deal",
+   "Bridgeway / Woodwinds Traverse",
+   1.3
+  ],
+  [
+   "Woodwinds Traverse",
+   "Bridgeway / Woodwinds Traverse",
+   "Loverly 2",
+   0.5
+  ],
+  [
+   "Schaefer's",
+   "West Ridge Traverse 2",
+   "Colorado Boulevard 7",
+   2.4
+  ],
+  [
+   "The Taco / Curecanti",
+   "Western Slope / The Taco / Curecanti",
+   "The Taco / Curecanti",
+   2.7
+  ],
+  [
+   "Bittersweet",
+   "Main Vein 3",
+   "Fair Play / Bittersweet",
+   1.0
+  ],
+  [
+   "Bittersweet",
+   "Fair Play / Bittersweet",
+   "Leap Frog / Skid Road",
+   2.4
+  ],
+  [
+   "Family Cross",
+   "High Point 2",
+   "High Point 4",
+   1.9
+  ],
+  [
+   "I-Dropper",
+   "High Point 5",
+   "Coppertone 4",
+   3.1
+  ],
+  [
+   "Spaulding Ridge",
+   "Atlantic Cornice / Spaulding Ridge",
+   "Excelerator top",
+   0.5
+  ],
+  [
+   "Drain Pipe",
+   "Andy's Encore",
+   "Drain Pipe / Sawtooth",
+   1.2
+  ],
+  [
+   "American Flyer",
+   "High Point 6",
+   "Timberline Express bottom",
+   5.7
+  ],
+  [
+   "Hodson's Cut",
+   "Triple Zero / Double Zero",
+   "Highline / Hodson's Cut",
+   4.2
+  ],
+  [
+   "Hodson's Cut",
+   "Highline / Hodson's Cut",
+   "Resolution bottom",
+   0.6
+  ],
+  [
+   "Roundabout",
+   "Soliloquy",
+   "I-Way / Roundabout",
+   3.5
+  ],
+  [
+   "Roundabout",
+   "I-Way / Roundabout",
+   "Fairway / Roundabout",
+   2.3
+  ],
+  [
+   "Roundabout",
+   "Fairway / Roundabout",
+   "Roundabout",
+   1.9
+  ],
+  [
+   "Roundabout",
+   "Roundabout",
+   "Fairway / Roundabout 2",
+   0.8
+  ],
+  [
+   "Roundabout",
+   "Fairway / Roundabout 2",
+   "Roundabout 2",
+   1.9
+  ],
+  [
+   "Roundabout",
+   "Roundabout 2",
+   "Slingshot top",
+   1.4
+  ],
+  [
+   "Roundabout",
+   "Slingshot top",
+   "Rug Rat bottom",
+   0.5
+  ],
+  [
+   "Endeavor",
+   "Endeavor / Timber Ridge",
+   "Revenge 2",
+   1.2
+  ],
+  [
+   "Ram's Run",
+   "Ram's Run",
+   "Ram's Run 3",
+   0.5
+  ],
+  [
+   "Ram's Run",
+   "Ram's Run 3",
+   "Ram's Run 2",
+   3.0
+  ],
+  [
+   "West Ten Mile",
+   "West Ten Mile",
+   "Roundabout",
+   4.8
+  ],
+  [
+   "EZ Road",
+   "Rhapsody",
+   "Sail Away Glade / EZ Road",
+   1.7
+  ],
+  [
+   "EZ Road",
+   "Sail Away Glade / EZ Road",
+   "Cache Glades / See & Ski",
+   1.2
+  ],
+  [
+   "EZ Road",
+   "Cache Glades / See & Ski",
+   "Unnamed run / Liberty",
+   4.5
+  ],
+  [
+   "EZ Road",
+   "Unnamed run / Liberty",
+   "Unnamed run / Carefree",
+   1.3
+  ],
+  [
+   "EZ Road",
+   "Unnamed run / Carefree",
+   "Coppertone / Coppertone, EZ Road",
+   1.2
+  ],
+  [
+   "Buffalo Stampede",
+   "Buffalo Stampede",
+   "Buffalo Stampede 2",
+   2.4
+  ],
+  [
+   "Cabin Chute",
+   "West Encore",
+   "Slot Car Track / Cabin Chute",
+   0.6
+  ],
+  [
+   "Cabin Chute",
+   "Slot Car Track / Cabin Chute",
+   "Resolution bottom",
+   5.2
+  ],
+  [
+   "High Point Bypass",
+   "High Point 4",
+   "High Point 5",
+   0.5
+  ],
+  [
+   "High Point Bypass",
+   "High Point 5",
+   "Woodwinds",
+   3.4
+  ],
+  [
+   "Valentine's",
+   "Boulderado / Valentine's",
+   "Valentine's / Denverite",
+   0.7
+  ],
+  [
+   "Indian Ridge",
+   "Coppertone 6",
+   "Revenge",
+   1.0
+  ],
+  [
+   "Indian Ridge",
+   "Revenge",
+   "Sierra bottom",
+   0.5
+  ],
+  [
+   "Denverite",
+   "Ram's Run 3",
+   "Denverite",
+   0.8
+  ],
+  [
+   "Denverite",
+   "Denverite",
+   "Valentine's / Denverite",
+   2.1
+  ],
+  [
+   "Denverite",
+   "Valentine's / Denverite",
+   "Blackjack bottom",
+   0.5
+  ],
+  [
+   "Jackstraw Trees",
+   "Lyman Lane / I-Way",
+   "Timber Road",
+   2.5
+  ],
+  [
+   "Union Park",
+   "Union Park",
+   "Buzzard's Alley / Union Park",
+   1.5
+  ],
+  [
+   "Union Park",
+   "Buzzard's Alley / Union Park",
+   "Union Gap / Union Park",
+   1.1
+  ],
+  [
+   "Union Park",
+   "Union Gap / Union Park",
+   "Rendezvous bottom",
+   1.4
+  ],
+  [
+   "Otto Bahn",
+   "Rendezvous top",
+   "Colorado Boulevard 9",
+   4.0
+  ],
+  [
+   "Otto Bahn",
+   "Colorado Boulevard 9",
+   "Colorado Boulevard 5",
+   0.5
+  ],
+  [
+   "Otto Bahn",
+   "Colorado Boulevard 5",
+   "Colorado Boulevard 9",
+   0.5
+  ],
+  [
+   "Sno-Deal",
+   "Scooter / Sno-Deal",
+   "Sno-Deal",
+   0.6
+  ],
+  [
+   "Sno-Deal",
+   "Sno-Deal",
+   "Sno-Deal 2",
+   0.5
+  ],
+  [
+   "Green Acres",
+   "Pitchfork top",
+   "Green Acres",
+   0.5
+  ],
+  [
+   "Prospector",
+   "Fairway",
+   "Pine Cone Alley / Prospector",
+   1.2
+  ],
+  [
+   "Prospector",
+   "Pine Cone Alley / Prospector",
+   "Roundabout 2",
+   1.0
+  ],
+  [
+   "Timber Ridge",
+   "Sierra top",
+   "Endeavor / Timber Ridge",
+   1.0
+  ],
+  [
+   "Timber Ridge",
+   "Endeavor / Timber Ridge",
+   "Little Trees / Timber Ridge",
+   0.5
+  ],
+  [
+   "Timber Ridge",
+   "Little Trees / Timber Ridge",
+   "Copperfield / Soliloquy",
+   1.9
+  ],
+  [
+   "Sawtooth",
+   "Drain Pipe / Sawtooth",
+   "Resolution bottom",
+   4.3
+  ],
+  [
+   "The Springs",
+   "Denverite",
+   "The Springs",
+   2.0
+  ],
+  [
+   "Rosi's Run",
+   "Oh No",
+   "Black Bear Glade / Rosi's Run",
+   0.5
+  ],
+  [
+   "Rosi's Run",
+   "Black Bear Glade / Rosi's Run",
+   "Treble Cliff / Rosi's Run",
+   1.3
+  ],
+  [
+   "Rosi's Run",
+   "Treble Cliff / Rosi's Run",
+   "Super Bee bottom",
+   3.1
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Freefall Glade / Bee Traverse",
+   "Stinger top",
+   3.4
+  ],
+  [
+   "walk",
+   "American Eagle bottom",
+   "Loverly",
+   2.1
+  ],
+  [
+   "walk",
+   "American Eagle bottom",
+   "American Flyer bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "American Eagle bottom",
+   "Main Vein 2",
+   0.6
+  ],
+  [
+   "walk",
+   "American Eagle bottom",
+   "Easy Rider bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Timberline Express bottom",
+   "The Moz",
+   2.0
+  ],
+  [
+   "walk",
+   "Timberline Express bottom",
+   "Woodwinds / Woodwinds Traverse",
+   2.7
+  ],
+  [
+   "walk",
+   "Timberline Express bottom",
+   "Timber Road / Woodwinds Traverse",
+   0.6
+  ],
+  [
+   "walk",
+   "Sierra top",
+   "Kaboom",
+   0.6
+  ],
+  [
+   "walk",
+   "Sierra top",
+   "Gold Digger / Colman's Retreat",
+   0.9
+  ],
+  [
+   "walk",
+   "Sierra top",
+   "Endeavor / Timber Ridge",
+   3.4
+  ],
+  [
+   "walk",
+   "Sierra top",
+   "Celebrity Ridge bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Sierra bottom",
+   "Revenge",
+   0.7
+  ],
+  [
+   "walk",
+   "Sierra bottom",
+   "Rendezvous bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Woodward Express bottom",
+   "Rug Rat bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Woodward Express bottom",
+   "Bridgeway",
+   2.0
+  ],
+  [
+   "walk",
+   "Woodward Express bottom",
+   "Sno-Deal 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Woodward Express bottom",
+   "Kokomo Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Woodward Express bottom",
+   "Slingshot top",
+   2.4
+  ],
+  [
+   "walk",
+   "Clear Cut / Copperfield",
+   "Timberline Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Green Acres / Skid Road",
+   "Pitchfork bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Green Acres / Skid Road",
+   "Gem bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Green Acres / Skid Road",
+   "Pitchfork top",
+   1.3
+  ],
+  [
+   "walk",
+   "Pitchfork bottom",
+   "Green Acres",
+   1.0
+  ],
+  [
+   "walk",
+   "Pitchfork bottom",
+   "Gem bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Pitchfork bottom",
+   "Overlode / Skid Road",
+   3.2
+  ],
+  [
+   "walk",
+   "Hallelujah / Ptarmigan",
+   "Excelerator bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Hallelujah / Ptarmigan",
+   "American Eagle top",
+   2.7
+  ],
+  [
+   "walk",
+   "Scooter / Sno-Deal",
+   "Woodward Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Scooter / Sno-Deal",
+   "Kokomo Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Colorado Boulevard",
+   "Mountain Chief bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Triple Treat / Andy's Encore",
+   "Alpine top",
+   0.7
+  ],
+  [
+   "walk",
+   "Excelerator top",
+   "Collage",
+   0.6
+  ],
+  [
+   "walk",
+   "Excelerator top",
+   "Mine Dump / Ptarmigan",
+   0.8
+  ],
+  [
+   "walk",
+   "Excelerator top",
+   "Super Bee top",
+   0.8
+  ],
+  [
+   "walk",
+   "Excelerator top",
+   "Resolution top",
+   2.0
+  ],
+  [
+   "walk",
+   "Excelerator top",
+   "Atlantic Cornice / Spaulding Ridge",
+   0.7
+  ],
+  [
+   "walk",
+   "Excelerator top",
+   "Andy's Encore",
+   2.9
+  ],
+  [
+   "walk",
+   "Mountain Chief top",
+   "Sierra top",
+   3.3
+  ],
+  [
+   "walk",
+   "Mountain Chief top",
+   "Matchless / West Ridge Traverse",
+   0.8
+  ],
+  [
+   "walk",
+   "Mountain Chief top",
+   "Six Shooter",
+   1.8
+  ],
+  [
+   "walk",
+   "Mountain Chief top",
+   "Kaboom",
+   3.4
+  ],
+  [
+   "walk",
+   "Mountain Chief top",
+   "Julie's Vision",
+   2.7
+  ],
+  [
+   "walk",
+   "Mountain Chief top",
+   "Gold Digger / Colman's Retreat",
+   2.7
+  ],
+  [
+   "walk",
+   "Collage",
+   "Excelerator top",
+   0.6
+  ],
+  [
+   "walk",
+   "Collage",
+   "Super Bee top",
+   0.8
+  ],
+  [
+   "walk",
+   "Collage",
+   "Resolution top",
+   1.7
+  ],
+  [
+   "walk",
+   "Brennan's Grin / CDL's Trail #20",
+   "Excelerator bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Brennan's Grin / CDL's Trail #20",
+   "American Eagle top",
+   2.6
+  ],
+  [
+   "walk",
+   "Timberline Express top",
+   "The Moz / High Point",
+   2.5
+  ],
+  [
+   "walk",
+   "Timberline Express top",
+   "Tempo / Copperfield",
+   3.1
+  ],
+  [
+   "walk",
+   "Timberline Express top",
+   "Little Burn / Windsong",
+   1.3
+  ],
+  [
+   "walk",
+   "Timberline Express top",
+   "Copperfield / Soliloquy",
+   2.0
+  ],
+  [
+   "walk",
+   "Timberline Express top",
+   "Coppertone",
+   3.4
+  ],
+  [
+   "walk",
+   "The Moz",
+   "Timberline Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Falcon Alley 2",
+   "Colorado Boulevard 3",
+   1.3
+  ],
+  [
+   "walk",
+   "Falcon Alley 2",
+   "Colorado Boulevard 5",
+   2.1
+  ],
+  [
+   "walk",
+   "Falcon Alley 2",
+   "Colorado Boulevard 7",
+   1.6
+  ],
+  [
+   "walk",
+   "Falcon Alley 2",
+   "Colorado Boulevard 9",
+   2.6
+  ],
+  [
+   "walk",
+   "Sno-Deal",
+   "Woodward Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Sno-Deal",
+   "Rug Rat bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Sno-Deal",
+   "Kokomo Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Rendezvous top",
+   "Union Park",
+   0.7
+  ],
+  [
+   "walk",
+   "Six Shooter",
+   "Sierra top",
+   2.7
+  ],
+  [
+   "walk",
+   "Excelerator bottom",
+   "CDL's Trail #20",
+   1.3
+  ],
+  [
+   "walk",
+   "Excelerator bottom",
+   "Bouncer / Rhapsody",
+   0.6
+  ],
+  [
+   "walk",
+   "Excelerator bottom",
+   "American Eagle top",
+   1.8
+  ],
+  [
+   "walk",
+   "Excelerator bottom",
+   "Main Vein 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Excelerator bottom",
+   "Rhapsody",
+   1.9
+  ],
+  [
+   "walk",
+   "Alpine top",
+   "Triple Treat / Andy's Encore",
+   0.7
+  ],
+  [
+   "walk",
+   "Alpine top",
+   "Too Much / Far East",
+   0.6
+  ],
+  [
+   "walk",
+   "Alpine top",
+   "Far East",
+   3.1
+  ],
+  [
+   "walk",
+   "American Flyer top",
+   "The Moz / High Point",
+   3.3
+  ],
+  [
+   "walk",
+   "American Flyer top",
+   "Coppertone",
+   2.3
+  ],
+  [
+   "walk",
+   "American Flyer top",
+   "Little Trees",
+   1.7
+  ],
+  [
+   "walk",
+   "American Flyer top",
+   "Revenge 2",
+   2.3
+  ],
+  [
+   "walk",
+   "American Flyer top",
+   "Coppertone 6",
+   1.2
+  ],
+  [
+   "walk",
+   "Green Acres",
+   "Pitchfork bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Green Acres",
+   "Gem bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Green Acres",
+   "Pitchfork top",
+   1.2
+  ],
+  [
+   "walk",
+   "Gem bottom",
+   "Pitchfork bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Gem bottom",
+   "Green Acres",
+   0.8
+  ],
+  [
+   "walk",
+   "Rug Rat bottom",
+   "Woodward Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Rug Rat bottom",
+   "Sno-Deal 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Rug Rat bottom",
+   "Kokomo Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Rug Rat bottom",
+   "Slingshot top",
+   0.8
+  ],
+  [
+   "walk",
+   "Kaboom",
+   "Sierra top",
+   0.6
+  ],
+  [
+   "walk",
+   "Kaboom",
+   "Celebrity Ridge bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Revenge",
+   "Sierra bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Revenge",
+   "Rendezvous bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Mine Dump / Ptarmigan",
+   "Excelerator top",
+   0.8
+  ],
+  [
+   "walk",
+   "Mine Dump / Ptarmigan",
+   "Super Bee top",
+   1.5
+  ],
+  [
+   "walk",
+   "Mine Dump / Ptarmigan",
+   "Resolution top",
+   2.7
+  ],
+  [
+   "walk",
+   "CDL's Trail #20",
+   "Excelerator bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "CDL's Trail #20",
+   "American Eagle top",
+   2.0
+  ],
+  [
+   "walk",
+   "Loverly",
+   "American Eagle bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Loverly",
+   "American Flyer bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Loverly",
+   "Main Vein 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Loverly",
+   "Easy Rider bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Ore-Deal / Overlode",
+   "Pitchfork top",
+   3.1
+  ],
+  [
+   "walk",
+   "Ore-Deal / Overlode",
+   "Stinger top",
+   3.3
+  ],
+  [
+   "walk",
+   "Blackjack top",
+   "Rendezvous top",
+   1.5
+  ],
+  [
+   "walk",
+   "Blackjack top",
+   "Alicante",
+   0.9
+  ],
+  [
+   "walk",
+   "Blackjack top",
+   "Union Park",
+   1.3
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 4",
+   "Blackjack bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Bouncer / Rhapsody",
+   "Excelerator bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Super Bee top",
+   "Excelerator top",
+   0.8
+  ],
+  [
+   "walk",
+   "Super Bee top",
+   "Collage",
+   0.8
+  ],
+  [
+   "walk",
+   "Super Bee top",
+   "Mine Dump / Ptarmigan",
+   1.5
+  ],
+  [
+   "walk",
+   "Super Bee top",
+   "Resolution top",
+   1.3
+  ],
+  [
+   "walk",
+   "Super Bee top",
+   "Atlantic Cornice / Spaulding Ridge",
+   1.2
+  ],
+  [
+   "walk",
+   "Super Bee top",
+   "Andy's Encore",
+   2.2
+  ],
+  [
+   "walk",
+   "Copperfield / Soliloquy",
+   "Timberline Express top",
+   2.0
+  ],
+  [
+   "walk",
+   "Coppertone",
+   "Timberline Express top",
+   3.4
+  ],
+  [
+   "walk",
+   "Pitchfork top",
+   "Green Acres / Skid Road",
+   1.3
+  ],
+  [
+   "walk",
+   "Pitchfork top",
+   "Pitchfork bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Pitchfork top",
+   "Green Acres",
+   1.2
+  ],
+  [
+   "walk",
+   "Pitchfork top",
+   "Gem bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Pitchfork top",
+   "Overlode / Skid Road",
+   3.0
+  ],
+  [
+   "walk",
+   "American Flyer bottom",
+   "American Eagle bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "American Flyer bottom",
+   "Loverly",
+   0.6
+  ],
+  [
+   "walk",
+   "American Flyer bottom",
+   "Main Vein 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Little Trees",
+   "American Flyer top",
+   1.7
+  ],
+  [
+   "walk",
+   "Little Trees",
+   "Kaboom 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Little Trees",
+   "Revenge 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Little Trees",
+   "Coppertone 6",
+   2.9
+  ],
+  [
+   "walk",
+   "Boulderado",
+   "Three Bears top",
+   2.4
+  ],
+  [
+   "walk",
+   "Boulderado / Valentine's",
+   "Blackjack bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Bridgeway / Woodwinds Traverse",
+   "Woodward Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Bridgeway / Woodwinds Traverse",
+   "American Flyer bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Bridgeway",
+   "Woodward Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Bridgeway",
+   "Loverly 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Bridgeway",
+   "Sno-Deal 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Bridgeway",
+   "Kokomo Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "I-Way / Roundabout",
+   "Lumberjack top",
+   1.3
+  ],
+  [
+   "walk",
+   "Julie's Vision",
+   "Sierra top",
+   2.9
+  ],
+  [
+   "walk",
+   "Mountain Chief bottom",
+   "Colorado Boulevard",
+   0.7
+  ],
+  [
+   "walk",
+   "Mountain Chief bottom",
+   "The Taco / Curecanti",
+   3.1
+  ],
+  [
+   "walk",
+   "Mountain Chief bottom",
+   "Colorado Boulevard 8",
+   0.9
+  ],
+  [
+   "walk",
+   "High Point",
+   "Woodward Express top",
+   3.4
+  ],
+  [
+   "walk",
+   "Gold Digger / Colman's Retreat",
+   "Sierra top",
+   0.9
+  ],
+  [
+   "walk",
+   "Gold Digger / Colman's Retreat",
+   "Celebrity Ridge bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 5",
+   "Mountain Chief bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Overlode / Skid Road",
+   "Pitchfork bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Overlode / Skid Road",
+   "Pitchfork top",
+   3.0
+  ],
+  [
+   "walk",
+   "Overlode / Skid Road",
+   "Stinger top",
+   2.9
+  ],
+  [
+   "walk",
+   "Overlode / Skid Road",
+   "Super Bee bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Overlode / Skid Road",
+   "Stinger bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Bee Traverse / Treble Cliff",
+   "Stinger top",
+   1.4
+  ],
+  [
+   "walk",
+   "Bee Traverse / Treble Cliff",
+   "Super Bee bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Bee Traverse / Treble Cliff",
+   "Stinger bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Coppertone 3",
+   "Sierra bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Coppertone 3",
+   "Rendezvous bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Western Slope / The Taco / Curecanti",
+   "Three Bears top",
+   0.8
+  ],
+  [
+   "walk",
+   "High Point 3",
+   "Woodward Express top",
+   2.3
+  ],
+  [
+   "walk",
+   "Resolution top",
+   "Collage",
+   1.7
+  ],
+  [
+   "walk",
+   "Resolution top",
+   "Mine Dump / Ptarmigan",
+   2.7
+  ],
+  [
+   "walk",
+   "Resolution top",
+   "Super Bee top",
+   1.3
+  ],
+  [
+   "walk",
+   "Resolution top",
+   "Andy's Encore",
+   0.9
+  ],
+  [
+   "walk",
+   "Alicante",
+   "Rendezvous top",
+   2.2
+  ],
+  [
+   "walk",
+   "Alicante",
+   "Blackjack top",
+   0.9
+  ],
+  [
+   "walk",
+   "Stinger top",
+   "Overlode / Skid Road",
+   2.9
+  ],
+  [
+   "walk",
+   "Stinger top",
+   "Super Bee bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Stinger top",
+   "Home Run",
+   1.9
+  ],
+  [
+   "walk",
+   "Stinger top",
+   "Stinger bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Super Bee bottom",
+   "Home Run",
+   2.4
+  ],
+  [
+   "walk",
+   "Super Bee bottom",
+   "Stinger bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Fairway / Roundabout 2",
+   "Kokomo Express top",
+   1.1
+  ],
+  [
+   "walk",
+   "Fairway / Roundabout 2",
+   "Lumberjack bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Easy Feelin'",
+   "Woodward Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Easy Feelin'",
+   "Rug Rat bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Easy Feelin'",
+   "Kokomo Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Easy Feelin'",
+   "Slingshot top",
+   1.4
+  ],
+  [
+   "walk",
+   "American Eagle top",
+   "Hallelujah / Ptarmigan",
+   2.7
+  ],
+  [
+   "walk",
+   "American Eagle top",
+   "Brennan's Grin / CDL's Trail #20",
+   2.6
+  ],
+  [
+   "walk",
+   "American Eagle top",
+   "Excelerator bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "American Eagle top",
+   "CDL's Trail #20",
+   2.0
+  ],
+  [
+   "walk",
+   "American Eagle top",
+   "Bouncer / Rhapsody",
+   2.3
+  ],
+  [
+   "walk",
+   "American Eagle top",
+   "Sail Away Glade / EZ Road",
+   2.7
+  ],
+  [
+   "walk",
+   "American Eagle top",
+   "Main Vein 3",
+   2.0
+  ],
+  [
+   "walk",
+   "American Eagle top",
+   "Rhapsody",
+   3.3
+  ],
+  [
+   "walk",
+   "Main Vein 2",
+   "American Eagle bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Main Vein 2",
+   "Loverly",
+   1.5
+  ],
+  [
+   "walk",
+   "Main Vein 2",
+   "American Flyer bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Main Vein 2",
+   "Easy Rider bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Atlantic Cornice / Spaulding Ridge",
+   "Excelerator top",
+   0.7
+  ],
+  [
+   "walk",
+   "Atlantic Cornice / Spaulding Ridge",
+   "Super Bee top",
+   1.2
+  ],
+  [
+   "walk",
+   "Atlantic Cornice / Spaulding Ridge",
+   "Resolution top",
+   2.5
+  ],
+  [
+   "walk",
+   "Woodward Express top",
+   "High Point 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Home Run",
+   "Super Bee bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Home Run",
+   "Stinger bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Timber Road / Woodwinds Traverse",
+   "Timberline Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Fairway",
+   "Kokomo Express top",
+   3.1
+  ],
+  [
+   "walk",
+   "Loverly 2",
+   "American Flyer bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "The Taco / Curecanti",
+   "Colorado Boulevard 6",
+   2.9
+  ],
+  [
+   "walk",
+   "The Taco / Curecanti",
+   "Buffalo Stampede 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Main Vein 3",
+   "Excelerator bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Main Vein 3",
+   "American Eagle top",
+   2.0
+  ],
+  [
+   "walk",
+   "Highline / Hodson's Cut",
+   "Resolution bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Andy's Encore",
+   "Resolution top",
+   0.9
+  ],
+  [
+   "walk",
+   "Resolution bottom",
+   "Highline / Hodson's Cut",
+   1.8
+  ],
+  [
+   "walk",
+   "Ram's Run",
+   "Three Bears top",
+   1.5
+  ],
+  [
+   "walk",
+   "Ram's Run 2",
+   "Blackjack bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Ram's Run 2",
+   "Colorado Boulevard 4",
+   1.0
+  ],
+  [
+   "walk",
+   "Ram's Run 2",
+   "Valentine's / Denverite",
+   2.8
+  ],
+  [
+   "walk",
+   "Ram's Run 2",
+   "The Springs",
+   1.5
+  ],
+  [
+   "walk",
+   "West Ten Mile",
+   "Lumberjack top",
+   0.8
+  ],
+  [
+   "walk",
+   "Roundabout",
+   "Kokomo Express top",
+   2.6
+  ],
+  [
+   "walk",
+   "Roundabout",
+   "Lumberjack bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Buffalo Stampede 2",
+   "Colorado Boulevard 4",
+   3.4
+  ],
+  [
+   "walk",
+   "Buffalo Stampede 2",
+   "Colorado Boulevard 6",
+   1.8
+  ],
+  [
+   "walk",
+   "Buffalo Stampede 2",
+   "The Taco / Curecanti",
+   1.2
+  ],
+  [
+   "walk",
+   "Buffalo Stampede 2",
+   "Ram's Run 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Woodwinds",
+   "Woodward Express top",
+   2.3
+  ],
+  [
+   "walk",
+   "Valentine's / Denverite",
+   "Blackjack bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Coppertone 6",
+   "Timberline Express top",
+   3.3
+  ],
+  [
+   "walk",
+   "Coppertone 6",
+   "American Flyer top",
+   1.2
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 8",
+   "Mountain Chief bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Ram's Run 3",
+   "Three Bears top",
+   2.2
+  ],
+  [
+   "walk",
+   "Union Park",
+   "Rendezvous top",
+   0.7
+  ],
+  [
+   "walk",
+   "Union Park",
+   "Blackjack top",
+   1.3
+  ],
+  [
+   "walk",
+   "Rendezvous bottom",
+   "Sierra bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Rendezvous bottom",
+   "Revenge",
+   1.7
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 9",
+   "Mountain Chief bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Sno-Deal 2",
+   "Woodward Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Sno-Deal 2",
+   "Rug Rat bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Sno-Deal 2",
+   "Bridgeway",
+   0.9
+  ],
+  [
+   "walk",
+   "Sno-Deal 2",
+   "Kokomo Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "The Springs",
+   "Blackjack bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "The Springs",
+   "Colorado Boulevard 4",
+   1.3
+  ],
+  [
+   "walk",
+   "The Springs",
+   "Boulderado / Valentine's",
+   3.3
+  ],
+  [
+   "walk",
+   "The Springs",
+   "Ram's Run 2",
+   1.5
+  ],
+  [
+   "walk",
+   "The Springs",
+   "Valentine's / Denverite",
+   1.3
+  ],
+  [
+   "walk",
+   "Kokomo Express bottom",
+   "Woodward Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Kokomo Express bottom",
+   "Rug Rat bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Kokomo Express bottom",
+   "Bridgeway",
+   3.2
+  ],
+  [
+   "walk",
+   "Kokomo Express bottom",
+   "Sno-Deal 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Kokomo Express bottom",
+   "Slingshot top",
+   1.4
+  ],
+  [
+   "walk",
+   "Kokomo Express top",
+   "Fairway / Roundabout 2",
+   1.1
+  ],
+  [
+   "walk",
+   "Kokomo Express top",
+   "Lumberjack bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Stinger bottom",
+   "Super Bee bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Stinger bottom",
+   "Home Run",
+   1.7
+  ],
+  [
+   "walk",
+   "Slingshot top",
+   "Woodward Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Slingshot top",
+   "Rug Rat bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Slingshot top",
+   "Easy Feelin'",
+   1.4
+  ],
+  [
+   "walk",
+   "Slingshot top",
+   "Kokomo Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "American Eagle bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Loverly",
+   3.0
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Main Vein 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Celebrity Ridge bottom",
+   "Gold Digger / Colman's Retreat",
+   1.8
+  ],
+  [
+   "walk",
+   "Lumberjack bottom",
+   "Fairway / Roundabout 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Lumberjack bottom",
+   "Kokomo Express top",
+   2.4
+  ],
+  [
+   "walk",
+   "Lumberjack top",
+   "Clear Cut / I-Way",
+   3.0
+  ],
+  [
+   "walk",
+   "Lumberjack top",
+   "Lyman Lane / I-Way",
+   2.8
+  ],
+  [
+   "walk",
+   "Lumberjack top",
+   "I-Way / Roundabout",
+   1.3
+  ],
+  [
+   "walk",
+   "Lumberjack top",
+   "West Ten Mile",
+   0.8
+  ],
+  [
+   "walk",
+   "Three Bears top",
+   "Falcon Alley",
+   3.3
+  ],
+  [
+   "walk",
+   "Three Bears top",
+   "Boulderado",
+   2.4
+  ],
+  [
+   "walk",
+   "Three Bears top",
+   "Western Slope / The Taco / Curecanti",
+   0.8
+  ],
+  [
+   "walk",
+   "Three Bears top",
+   "Ram's Run",
+   1.5
+  ],
+  [
+   "walk",
+   "Three Bears top",
+   "Buffalo Stampede",
+   2.1
+  ],
+  [
+   "walk",
+   "Three Bears top",
+   "Ram's Run 3",
+   2.2
+  ],
+  [
+   "walk",
+   "American Flyer bottom",
+   "Easy Rider bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "American Flyer bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Clear Cut / Copperfield",
+   "The Moz",
+   4.8
+  ],
+  [
+   "walk",
+   "Clear Cut / Copperfield",
+   "Woodwinds / Woodwinds Traverse",
+   5.5
+  ],
+  [
+   "walk",
+   "Clear Cut / Copperfield",
+   "Timber Road / Woodwinds Traverse",
+   3.4
+  ],
+  [
+   "walk",
+   "The Moz",
+   "Woodwinds / Woodwinds Traverse",
+   4.7
+  ],
+  [
+   "walk",
+   "The Moz",
+   "Timber Road / Woodwinds Traverse",
+   2.6
+  ],
+  [
+   "walk",
+   "Timber Road / Woodwinds Traverse",
+   "The Moz",
+   2.6
+  ],
+  [
+   "walk",
+   "Timber Road / Woodwinds Traverse",
+   "Woodwinds / Woodwinds Traverse",
+   3.3
+  ],
+  [
+   "walk",
+   "Mountain Chief top",
+   "Endeavor / Timber Ridge",
+   6.7
+  ],
+  [
+   "walk",
+   "Mountain Chief top",
+   "Celebrity Ridge bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Six Shooter",
+   "Kaboom",
+   3.3
+  ],
+  [
+   "walk",
+   "Six Shooter",
+   "Gold Digger / Colman's Retreat",
+   3.6
+  ],
+  [
+   "walk",
+   "Six Shooter",
+   "Endeavor / Timber Ridge",
+   6.0
+  ],
+  [
+   "walk",
+   "Six Shooter",
+   "Celebrity Ridge bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Kaboom",
+   "Gold Digger / Colman's Retreat",
+   1.6
+  ],
+  [
+   "walk",
+   "Kaboom",
+   "Endeavor / Timber Ridge",
+   4.0
+  ],
+  [
+   "walk",
+   "Julie's Vision",
+   "Kaboom",
+   3.5
+  ],
+  [
+   "walk",
+   "Julie's Vision",
+   "Gold Digger / Colman's Retreat",
+   3.8
+  ],
+  [
+   "walk",
+   "Julie's Vision",
+   "Endeavor / Timber Ridge",
+   6.3
+  ],
+  [
+   "walk",
+   "Julie's Vision",
+   "Celebrity Ridge bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Gold Digger / Colman's Retreat",
+   "Kaboom",
+   1.6
+  ],
+  [
+   "walk",
+   "Gold Digger / Colman's Retreat",
+   "Endeavor / Timber Ridge",
+   4.3
+  ],
+  [
+   "walk",
+   "Coppertone 3",
+   "Revenge",
+   3.5
+  ],
+  [
+   "walk",
+   "Scooter / Sno-Deal",
+   "Rug Rat bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Scooter / Sno-Deal",
+   "Bridgeway",
+   5.4
+  ],
+  [
+   "walk",
+   "Scooter / Sno-Deal",
+   "Sno-Deal 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Scooter / Sno-Deal",
+   "Slingshot top",
+   4.6
+  ],
+  [
+   "walk",
+   "Sno-Deal",
+   "Bridgeway",
+   4.0
+  ],
+  [
+   "walk",
+   "Sno-Deal",
+   "Sno-Deal 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Sno-Deal",
+   "Slingshot top",
+   4.1
+  ],
+  [
+   "walk",
+   "Rug Rat bottom",
+   "Bridgeway",
+   3.7
+  ],
+  [
+   "walk",
+   "Bridgeway / Woodwinds Traverse",
+   "Rug Rat bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Bridgeway / Woodwinds Traverse",
+   "Bridgeway",
+   5.4
+  ],
+  [
+   "walk",
+   "Bridgeway / Woodwinds Traverse",
+   "Sno-Deal 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Bridgeway / Woodwinds Traverse",
+   "Kokomo Express bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Bridgeway / Woodwinds Traverse",
+   "Slingshot top",
+   5.8
+  ],
+  [
+   "walk",
+   "Bridgeway",
+   "Rug Rat bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Bridgeway",
+   "Slingshot top",
+   4.5
+  ],
+  [
+   "walk",
+   "Easy Feelin'",
+   "Bridgeway",
+   3.8
+  ],
+  [
+   "walk",
+   "Easy Feelin'",
+   "Sno-Deal 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Sno-Deal 2",
+   "Slingshot top",
+   3.6
+  ],
+  [
+   "walk",
+   "Slingshot top",
+   "Bridgeway",
+   4.5
+  ],
+  [
+   "walk",
+   "Slingshot top",
+   "Sno-Deal 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Green Acres / Skid Road",
+   "Green Acres",
+   2.5
+  ],
+  [
+   "walk",
+   "Green Acres / Skid Road",
+   "Overlode / Skid Road",
+   4.3
+  ],
+  [
+   "walk",
+   "Green Acres",
+   "Overlode / Skid Road",
+   4.2
+  ],
+  [
+   "walk",
+   "Gem bottom",
+   "Overlode / Skid Road",
+   4.7
+  ],
+  [
+   "walk",
+   "Overlode / Skid Road",
+   "Green Acres",
+   4.2
+  ],
+  [
+   "walk",
+   "Overlode / Skid Road",
+   "Gem bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Collage",
+   "Mine Dump / Ptarmigan",
+   1.4
+  ],
+  [
+   "walk",
+   "Collage",
+   "Atlantic Cornice / Spaulding Ridge",
+   1.3
+  ],
+  [
+   "walk",
+   "Collage",
+   "Andy's Encore",
+   2.6
+  ],
+  [
+   "walk",
+   "Mine Dump / Ptarmigan",
+   "Collage",
+   1.4
+  ],
+  [
+   "walk",
+   "Mine Dump / Ptarmigan",
+   "Atlantic Cornice / Spaulding Ridge",
+   1.4
+  ],
+  [
+   "walk",
+   "Mine Dump / Ptarmigan",
+   "Andy's Encore",
+   3.5
+  ],
+  [
+   "walk",
+   "Atlantic Cornice / Spaulding Ridge",
+   "Collage",
+   1.3
+  ],
+  [
+   "walk",
+   "Atlantic Cornice / Spaulding Ridge",
+   "Mine Dump / Ptarmigan",
+   1.4
+  ],
+  [
+   "walk",
+   "Atlantic Cornice / Spaulding Ridge",
+   "Andy's Encore",
+   3.4
+  ],
+  [
+   "walk",
+   "Resolution top",
+   "Excelerator top",
+   2.1
+  ],
+  [
+   "walk",
+   "Resolution top",
+   "Atlantic Cornice / Spaulding Ridge",
+   2.5
+  ],
+  [
+   "walk",
+   "Copperfield / Soliloquy",
+   "The Moz / High Point",
+   4.5
+  ],
+  [
+   "walk",
+   "Copperfield / Soliloquy",
+   "Tempo / Copperfield",
+   5.1
+  ],
+  [
+   "walk",
+   "Copperfield / Soliloquy",
+   "Little Burn / Windsong",
+   3.3
+  ],
+  [
+   "walk",
+   "Copperfield / Soliloquy",
+   "Coppertone",
+   5.4
+  ],
+  [
+   "walk",
+   "Coppertone",
+   "The Moz / High Point",
+   5.9
+  ],
+  [
+   "walk",
+   "Coppertone",
+   "Tempo / Copperfield",
+   6.6
+  ],
+  [
+   "walk",
+   "Coppertone",
+   "Little Burn / Windsong",
+   4.7
+  ],
+  [
+   "walk",
+   "Coppertone",
+   "Copperfield / Soliloquy",
+   5.4
+  ],
+  [
+   "walk",
+   "Coppertone 6",
+   "The Moz / High Point",
+   4.5
+  ],
+  [
+   "walk",
+   "Coppertone 6",
+   "Tempo / Copperfield",
+   6.4
+  ],
+  [
+   "walk",
+   "Coppertone 6",
+   "Little Burn / Windsong",
+   4.6
+  ],
+  [
+   "walk",
+   "Coppertone 6",
+   "Copperfield / Soliloquy",
+   5.3
+  ],
+  [
+   "walk",
+   "Coppertone 6",
+   "Coppertone",
+   3.5
+  ],
+  [
+   "walk",
+   "Alicante",
+   "Union Park",
+   2.2
+  ],
+  [
+   "walk",
+   "Hallelujah / Ptarmigan",
+   "CDL's Trail #20",
+   4.7
+  ],
+  [
+   "walk",
+   "Hallelujah / Ptarmigan",
+   "Bouncer / Rhapsody",
+   4.0
+  ],
+  [
+   "walk",
+   "Hallelujah / Ptarmigan",
+   "Main Vein 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Hallelujah / Ptarmigan",
+   "Rhapsody",
+   5.3
+  ],
+  [
+   "walk",
+   "Brennan's Grin / CDL's Trail #20",
+   "CDL's Trail #20",
+   3.4
+  ],
+  [
+   "walk",
+   "Brennan's Grin / CDL's Trail #20",
+   "Bouncer / Rhapsody",
+   2.7
+  ],
+  [
+   "walk",
+   "Brennan's Grin / CDL's Trail #20",
+   "Main Vein 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Brennan's Grin / CDL's Trail #20",
+   "Rhapsody",
+   4.0
+  ],
+  [
+   "walk",
+   "CDL's Trail #20",
+   "Bouncer / Rhapsody",
+   1.9
+  ],
+  [
+   "walk",
+   "CDL's Trail #20",
+   "Main Vein 3",
+   3.0
+  ],
+  [
+   "walk",
+   "CDL's Trail #20",
+   "Rhapsody",
+   3.2
+  ],
+  [
+   "walk",
+   "Bouncer / Rhapsody",
+   "CDL's Trail #20",
+   1.9
+  ],
+  [
+   "walk",
+   "Bouncer / Rhapsody",
+   "American Eagle top",
+   2.4
+  ],
+  [
+   "walk",
+   "Bouncer / Rhapsody",
+   "Main Vein 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Bouncer / Rhapsody",
+   "Rhapsody",
+   2.5
+  ],
+  [
+   "walk",
+   "Main Vein 3",
+   "CDL's Trail #20",
+   3.0
+  ],
+  [
+   "walk",
+   "Main Vein 3",
+   "Bouncer / Rhapsody",
+   2.3
+  ],
+  [
+   "walk",
+   "Main Vein 3",
+   "Rhapsody",
+   3.6
+  ],
+  [
+   "walk",
+   "Triple Treat / Andy's Encore",
+   "Too Much / Far East",
+   1.3
+  ],
+  [
+   "walk",
+   "Triple Treat / Andy's Encore",
+   "Far East",
+   3.8
+  ],
+  [
+   "walk",
+   "Little Trees",
+   "The Moz / High Point",
+   5.1
+  ],
+  [
+   "walk",
+   "Little Trees",
+   "Coppertone",
+   4.1
+  ],
+  [
+   "walk",
+   "Coppertone 6",
+   "Little Trees",
+   2.9
+  ],
+  [
+   "walk",
+   "Coppertone 6",
+   "Revenge 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Pitchfork bottom",
+   "Pitchfork top",
+   2.2
+  ],
+  [
+   "walk",
+   "Gem bottom",
+   "Pitchfork top",
+   1.9
+  ],
+  [
+   "walk",
+   "Union Park",
+   "Alicante",
+   2.2
+  ],
+  [
+   "walk",
+   "Buffalo Stampede 2",
+   "Blackjack bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "American Flyer top",
+   "Timberline Express top",
+   4.5
+  ],
+  [
+   "walk",
+   "Green Acres",
+   "Green Acres / Skid Road",
+   2.5
+  ],
+  [
+   "walk",
+   "Ore-Deal / Overlode",
+   "Green Acres / Skid Road",
+   4.4
+  ],
+  [
+   "walk",
+   "Ore-Deal / Overlode",
+   "Pitchfork bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Ore-Deal / Overlode",
+   "Green Acres",
+   4.3
+  ],
+  [
+   "walk",
+   "Ore-Deal / Overlode",
+   "Gem bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Ore-Deal / Overlode",
+   "Overlode / Skid Road",
+   6.1
+  ],
+  [
+   "walk",
+   "Overlode / Skid Road",
+   "Green Acres / Skid Road",
+   4.3
+  ],
+  [
+   "walk",
+   "Pitchfork bottom",
+   "Green Acres / Skid Road",
+   3.5
+  ],
+  [
+   "walk",
+   "Gem bottom",
+   "Green Acres / Skid Road",
+   3.2
+  ],
+  [
+   "walk",
+   "Bridgeway / Woodwinds Traverse",
+   "American Eagle bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Bridgeway / Woodwinds Traverse",
+   "Loverly",
+   3.9
+  ],
+  [
+   "walk",
+   "Bridgeway / Woodwinds Traverse",
+   "Main Vein 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Bridgeway / Woodwinds Traverse",
+   "Easy Rider bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Loverly 2",
+   "American Eagle bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Loverly 2",
+   "Loverly",
+   2.1
+  ],
+  [
+   "walk",
+   "Loverly 2",
+   "Main Vein 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Loverly 2",
+   "Easy Rider bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "American Flyer top",
+   "Kaboom 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Coppertone 6",
+   "Kaboom 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Woodward Express bottom",
+   "Loverly 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Sno-Deal 2",
+   "Loverly 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Kokomo Express bottom",
+   "Loverly 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Rug Rat bottom",
+   "Loverly 2",
+   6.6
+  ],
+  [
+   "walk",
+   "Easy Feelin'",
+   "Loverly 2",
+   6.8
+  ],
+  [
+   "walk",
+   "Colorado Boulevard",
+   "The Taco / Curecanti",
+   3.7
+  ],
+  [
+   "walk",
+   "Colorado Boulevard",
+   "Colorado Boulevard 8",
+   1.6
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 5",
+   "Colorado Boulevard",
+   3.4
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 5",
+   "The Taco / Curecanti",
+   5.8
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 5",
+   "Colorado Boulevard 8",
+   3.6
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 8",
+   "Colorado Boulevard",
+   1.6
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 8",
+   "The Taco / Curecanti",
+   3.9
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 9",
+   "Colorado Boulevard",
+   2.8
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 9",
+   "The Taco / Curecanti",
+   5.2
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 9",
+   "Colorado Boulevard 8",
+   3.0
+  ],
+  [
+   "walk",
+   "Celebrity Ridge bottom",
+   "Sierra top",
+   2.8
+  ],
+  [
+   "walk",
+   "Celebrity Ridge bottom",
+   "Kaboom",
+   3.4
+  ],
+  [
+   "walk",
+   "Celebrity Ridge bottom",
+   "Endeavor / Timber Ridge",
+   6.2
+  ],
+  [
+   "walk",
+   "Falcon Alley 2",
+   "Mountain Chief bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Falcon Alley 2",
+   "Colorado Boulevard",
+   5.3
+  ],
+  [
+   "walk",
+   "Falcon Alley 2",
+   "Colorado Boulevard 8",
+   5.6
+  ],
+  [
+   "walk",
+   "Pitchfork bottom",
+   "Stinger top",
+   6.1
+  ],
+  [
+   "walk",
+   "Pitchfork bottom",
+   "Super Bee bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Pitchfork bottom",
+   "Stinger bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Pitchfork top",
+   "Stinger top",
+   6.0
+  ],
+  [
+   "walk",
+   "Pitchfork top",
+   "Super Bee bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Pitchfork top",
+   "Stinger bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Stinger top",
+   "Pitchfork bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Stinger top",
+   "Pitchfork top",
+   6.0
+  ],
+  [
+   "walk",
+   "Andy's Encore",
+   "Collage",
+   2.6
+  ],
+  [
+   "walk",
+   "Andy's Encore",
+   "Mine Dump / Ptarmigan",
+   3.5
+  ],
+  [
+   "walk",
+   "Andy's Encore",
+   "Super Bee top",
+   2.2
+  ],
+  [
+   "walk",
+   "Andy's Encore",
+   "Excelerator top",
+   3.0
+  ],
+  [
+   "walk",
+   "Andy's Encore",
+   "Atlantic Cornice / Spaulding Ridge",
+   3.4
+  ],
+  [
+   "walk",
+   "Freefall Glade / Bee Traverse",
+   "Overlode / Skid Road",
+   6.4
+  ],
+  [
+   "walk",
+   "Freefall Glade / Bee Traverse",
+   "Super Bee bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Freefall Glade / Bee Traverse",
+   "Home Run",
+   5.3
+  ],
+  [
+   "walk",
+   "Freefall Glade / Bee Traverse",
+   "Stinger bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Ore-Deal / Overlode",
+   "Super Bee bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Ore-Deal / Overlode",
+   "Home Run",
+   5.3
+  ],
+  [
+   "walk",
+   "Ore-Deal / Overlode",
+   "Stinger bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Overlode / Skid Road",
+   "Home Run",
+   4.8
+  ],
+  [
+   "walk",
+   "Bee Traverse / Treble Cliff",
+   "Overlode / Skid Road",
+   4.3
+  ],
+  [
+   "walk",
+   "Bee Traverse / Treble Cliff",
+   "Home Run",
+   3.3
+  ],
+  [
+   "walk",
+   "Hallelujah / Ptarmigan",
+   "Brennan's Grin / CDL's Trail #20",
+   5.3
+  ],
+  [
+   "walk",
+   "Hallelujah / Ptarmigan",
+   "Sail Away Glade / EZ Road",
+   5.4
+  ],
+  [
+   "walk",
+   "Brennan's Grin / CDL's Trail #20",
+   "Hallelujah / Ptarmigan",
+   5.3
+  ],
+  [
+   "walk",
+   "Brennan's Grin / CDL's Trail #20",
+   "Sail Away Glade / EZ Road",
+   5.3
+  ],
+  [
+   "walk",
+   "Excelerator bottom",
+   "Hallelujah / Ptarmigan",
+   4.5
+  ],
+  [
+   "walk",
+   "Excelerator bottom",
+   "Brennan's Grin / CDL's Trail #20",
+   4.4
+  ],
+  [
+   "walk",
+   "Excelerator bottom",
+   "Sail Away Glade / EZ Road",
+   4.5
+  ],
+  [
+   "walk",
+   "CDL's Trail #20",
+   "Hallelujah / Ptarmigan",
+   4.7
+  ],
+  [
+   "walk",
+   "CDL's Trail #20",
+   "Brennan's Grin / CDL's Trail #20",
+   4.6
+  ],
+  [
+   "walk",
+   "CDL's Trail #20",
+   "Sail Away Glade / EZ Road",
+   4.7
+  ],
+  [
+   "walk",
+   "Main Vein 3",
+   "Hallelujah / Ptarmigan",
+   4.7
+  ],
+  [
+   "walk",
+   "Main Vein 3",
+   "Brennan's Grin / CDL's Trail #20",
+   4.6
+  ],
+  [
+   "walk",
+   "Main Vein 3",
+   "Sail Away Glade / EZ Road",
+   4.7
+  ],
+  [
+   "walk",
+   "Bouncer / Rhapsody",
+   "Hallelujah / Ptarmigan",
+   5.1
+  ],
+  [
+   "walk",
+   "Bouncer / Rhapsody",
+   "Brennan's Grin / CDL's Trail #20",
+   5.0
+  ],
+  [
+   "walk",
+   "Bouncer / Rhapsody",
+   "Sail Away Glade / EZ Road",
+   5.1
+  ],
+  [
+   "walk",
+   "High Point",
+   "High Point 3",
+   5.7
+  ],
+  [
+   "walk",
+   "Woodwinds",
+   "High Point 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Bridgeway",
+   "American Flyer bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Bridgeway",
+   "Loverly",
+   5.1
+  ],
+  [
+   "walk",
+   "Bridgeway",
+   "Main Vein 2",
+   6.6
+  ],
+  [
+   "walk",
+   "Woodward Express bottom",
+   "American Flyer bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Sno-Deal 2",
+   "American Flyer bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Sno-Deal 2",
+   "Loverly",
+   6.0
+  ],
+  [
+   "walk",
+   "Mountain Chief bottom",
+   "Colorado Boulevard 6",
+   5.9
+  ],
+  [
+   "walk",
+   "Mountain Chief bottom",
+   "Buffalo Stampede 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Colorado Boulevard",
+   "Colorado Boulevard 6",
+   6.6
+  ],
+  [
+   "walk",
+   "Colorado Boulevard",
+   "Buffalo Stampede 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 8",
+   "Colorado Boulevard 6",
+   6.8
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 8",
+   "Buffalo Stampede 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Colorado Boulevard 9",
+   "Buffalo Stampede 2",
+   6.3
+  ],
+  [
+   "walk",
+   "Buffalo Stampede 2",
+   "Valentine's / Denverite",
+   5.2
+  ],
+  [
+   "walk",
+   "Buffalo Stampede 2",
+   "The Springs",
+   3.9
+  ],
+  [
+   "walk",
+   "The Taco / Curecanti",
+   "Colorado Boulevard 4",
+   4.5
+  ],
+  [
+   "walk",
+   "The Taco / Curecanti",
+   "Ram's Run 2",
+   3.6
+  ],
+  [
+   "walk",
+   "The Taco / Curecanti",
+   "Blackjack bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "The Taco / Curecanti",
+   "Valentine's / Denverite",
+   6.3
+  ],
+  [
+   "walk",
+   "The Taco / Curecanti",
+   "The Springs",
+   5.1
+  ],
+  [
+   "walk",
+   "Mountain Chief bottom",
+   "Ram's Run 2",
+   6.6
+  ],
+  [
+   "walk",
+   "American Flyer top",
+   "Little Burn / Windsong",
+   5.8
+  ],
+  [
+   "walk",
+   "American Flyer top",
+   "Copperfield / Soliloquy",
+   6.5
+  ],
+  [
+   "walk",
+   "Little Trees",
+   "Timberline Express top",
+   6.2
+  ],
+  [
+   "walk",
+   "Rendezvous top",
+   "Blackjack top",
+   2.0
+  ],
+  [
+   "walk",
+   "Rendezvous top",
+   "Alicante",
+   2.9
+  ],
+  [
+   "walk",
+   "Ram's Run 2",
+   "Boulderado / Valentine's",
+   4.8
+  ],
+  [
+   "walk",
+   "Fairway",
+   "Fairway / Roundabout 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Fairway",
+   "Lumberjack bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Roundabout",
+   "Fairway / Roundabout 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Woodward Express bottom",
+   "Easy Feelin'",
+   3.8
+  ],
+  [
+   "walk",
+   "Rug Rat bottom",
+   "Easy Feelin'",
+   2.2
+  ],
+  [
+   "walk",
+   "Kokomo Express bottom",
+   "Easy Feelin'",
+   2.7
+  ],
+  [
+   "walk",
+   "Scooter / Sno-Deal",
+   "Easy Feelin'",
+   6.0
+  ],
+  [
+   "walk",
+   "Sno-Deal",
+   "Easy Feelin'",
+   5.5
+  ],
+  [
+   "walk",
+   "Bridgeway",
+   "Easy Feelin'",
+   5.8
+  ],
+  [
+   "walk",
+   "Sno-Deal 2",
+   "Easy Feelin'",
+   5.0
+  ],
+  [
+   "walk",
+   "I-Way / Roundabout",
+   "Clear Cut / I-Way",
+   4.3
+  ],
+  [
+   "walk",
+   "I-Way / Roundabout",
+   "Lyman Lane / I-Way",
+   4.0
+  ],
+  [
+   "walk",
+   "I-Way / Roundabout",
+   "West Ten Mile",
+   2.1
+  ],
+  [
+   "walk",
+   "West Ten Mile",
+   "Clear Cut / I-Way",
+   3.9
+  ],
+  [
+   "walk",
+   "West Ten Mile",
+   "Lyman Lane / I-Way",
+   3.6
+  ],
+  [
+   "walk",
+   "West Ten Mile",
+   "I-Way / Roundabout",
+   2.1
+  ],
+  [
+   "walk",
+   "Boulderado",
+   "Falcon Alley",
+   5.7
+  ],
+  [
+   "walk",
+   "Boulderado",
+   "Western Slope / The Taco / Curecanti",
+   3.2
+  ],
+  [
+   "walk",
+   "Boulderado",
+   "Ram's Run",
+   4.0
+  ],
+  [
+   "walk",
+   "Boulderado",
+   "Buffalo Stampede",
+   4.5
+  ],
+  [
+   "walk",
+   "Boulderado",
+   "Ram's Run 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Western Slope / The Taco / Curecanti",
+   "Falcon Alley",
+   4.0
+  ],
+  [
+   "walk",
+   "Western Slope / The Taco / Curecanti",
+   "Boulderado",
+   3.2
+  ],
+  [
+   "walk",
+   "Western Slope / The Taco / Curecanti",
+   "Ram's Run",
+   2.3
+  ],
+  [
+   "walk",
+   "Western Slope / The Taco / Curecanti",
+   "Buffalo Stampede",
+   2.9
+  ],
+  [
+   "walk",
+   "Western Slope / The Taco / Curecanti",
+   "Ram's Run 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Ram's Run",
+   "Falcon Alley",
+   4.8
+  ],
+  [
+   "walk",
+   "Ram's Run",
+   "Boulderado",
+   4.0
+  ],
+  [
+   "walk",
+   "Ram's Run",
+   "Western Slope / The Taco / Curecanti",
+   2.3
+  ],
+  [
+   "walk",
+   "Ram's Run",
+   "Buffalo Stampede",
+   3.6
+  ],
+  [
+   "walk",
+   "Ram's Run",
+   "Ram's Run 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Ram's Run 3",
+   "Falcon Alley",
+   5.5
+  ],
+  [
+   "walk",
+   "Ram's Run 3",
+   "Boulderado",
+   4.6
+  ],
+  [
+   "walk",
+   "Ram's Run 3",
+   "Western Slope / The Taco / Curecanti",
+   2.9
+  ],
+  [
+   "walk",
+   "Ram's Run 3",
+   "Ram's Run",
+   3.7
+  ],
+  [
+   "walk",
+   "Ram's Run 3",
+   "Buffalo Stampede",
+   4.3
+  ]
+ ],
+ "base": "Alpine bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "23",
+  "downhill_trails": "156",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

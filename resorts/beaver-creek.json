@@ -1,0 +1,7766 @@
+{
+ "name": "Beaver Creek",
+ "source": "OpenSkiMap ski area 7017f6efbc9eec1b154159dc64b3c62edad86e57",
+ "origin_lonlat": [
+  -106.52943019557388,
+  39.59938929031548
+ ],
+ "nodes": {
+  "Beano / Unnamed run": [
+   285,
+   -1753,
+   2708.8
+  ],
+  "Larkspur Express Lift bottom": [
+   358,
+   -1584,
+   2699.7
+  ],
+  "Upper Beaver Creek Mountain Express Lift top": [
+   -912,
+   -575,
+   3011.0
+  ],
+  "Unnamed run": [
+   -871,
+   -571,
+   3007.2
+  ],
+  "Grouse Mountain Express Lift bottom": [
+   336,
+   -1738,
+   2710.9
+  ],
+  "Mccoy Park Express Lift bottom": [
+   -1495,
+   3,
+   2880.9
+  ],
+  "Reunion Lift bottom": [
+   -1419,
+   35,
+   2870.8
+  ],
+  "Sourdough's Slide / Cabin Fever": [
+   -1564,
+   779,
+   2899.5
+  ],
+  "Sourdough's Slide / Unnamed run": [
+   -1436,
+   1502,
+   2706.4
+  ],
+  "Maverick / Meander": [
+   -533,
+   696,
+   2802.9
+  ],
+  "Maverick / Easy Come Easy Go": [
+   -817,
+   1297,
+   2717.1
+  ],
+  "Haw / Settlers Way": [
+   532,
+   920,
+   2516.3
+  ],
+  "Haw / Borders Loop": [
+   636,
+   1067,
+   2450.9
+  ],
+  "Reunion Lift top": [
+   -889,
+   -657,
+   3022.1
+  ],
+  "Kinship / Exploration": [
+   -1116,
+   -790,
+   2975.3
+  ],
+  "Raven Ridge / Screech Owl": [
+   536,
+   -3313,
+   3255.2
+  ],
+  "Ridgepoint Skiway / Leave the Beav": [
+   -562,
+   3244,
+   2363.9
+  ],
+  "Ridgepoint Skiway": [
+   3,
+   3301,
+   2333.6
+  ],
+  "Ripsaw / Cinch": [
+   2386,
+   -2186,
+   3185.9
+  ],
+  "Ripsaw": [
+   2691,
+   -2020,
+   3134.7
+  ],
+  "Grouse Mountain Express Lift top": [
+   508,
+   -3266,
+   3260.1
+  ],
+  "Bald Eagle / Ruffed Grouse": [
+   237,
+   -1991,
+   2744.8
+  ],
+  "Raven Ridge": [
+   480,
+   -2884,
+   3141.0
+  ],
+  "Raven Ridge 2": [
+   354,
+   -1858,
+   2728.7
+  ],
+  "Corkscrew / Dally": [
+   1820,
+   -1000,
+   2882.0
+  ],
+  "Corkscrew / Latigo-Lower": [
+   1670,
+   -775,
+   2813.9
+  ],
+  "1876 / Bear Trap": [
+   1348,
+   -340,
+   2712.0
+  ],
+  "1876 / Haymeadow": [
+   1181,
+   313,
+   2502.4
+  ],
+  "Springtooth / Little Brave": [
+   -1980,
+   1862,
+   2707.8
+  ],
+  "Springtooth / Lower Stirrup": [
+   -1621,
+   1980,
+   2623.8
+  ],
+  "Goshawk-Lower / West Fall Road": [
+   1302,
+   -2158,
+   2997.1
+  ],
+  "Goshawk-Lower / Kestral": [
+   938,
+   -2084,
+   2864.4
+  ],
+  "Yarrow / Primrose": [
+   -1194,
+   -1636,
+   3125.4
+  ],
+  "Yarrow / Larkspur Bowl": [
+   -527,
+   -1614,
+   2921.8
+  ],
+  "Elkhorn Skiway": [
+   -171,
+   1636,
+   2559.1
+  ],
+  "Elkhorn Skiway 2": [
+   -92,
+   3274,
+   2360.1
+  ],
+  "Unnamed run / Intertwine": [
+   -783,
+   746,
+   2846.7
+  ],
+  "Unnamed run 2": [
+   -731,
+   739,
+   2846.5
+  ],
+  "Bitterroot / Beaver Creek Mountain Expressway": [
+   -837,
+   -547,
+   3000.3
+  ],
+  "Bitterroot": [
+   -564,
+   -258,
+   2942.5
+  ],
+  "Unnamed lift bottom": [
+   1666,
+   213,
+   2564.6
+  ],
+  "1876": [
+   1227,
+   279,
+   2513.0
+  ],
+  "Moonshine / Centennial (Willy's Face)": [
+   1310,
+   -732,
+   2789.9
+  ],
+  "Moonshine / Dally": [
+   602,
+   -510,
+   2564.2
+  ],
+  "Bitterroot / Beaver Creek Mountain Expressway 2": [
+   -703,
+   -578,
+   2991.3
+  ],
+  "Bitterroot / Beaver Creek Mountain Expressway 3": [
+   -640,
+   -554,
+   2987.6
+  ],
+  "Red Buffalo Express Lift top": [
+   1798,
+   -3661,
+   3481.5
+  ],
+  "Golden Eagle Flyway / Solitude": [
+   1667,
+   -2994,
+   3372.5
+  ],
+  "Home Fire / Tall Timber": [
+   -1274,
+   3100,
+   2498.4
+  ],
+  "Home Fire / Ridge Runner": [
+   -1440,
+   2841,
+   2526.9
+  ],
+  "Gold Dust / Cinch": [
+   2189,
+   -1228,
+   3015.0
+  ],
+  "Gold Dust / Cinch 2": [
+   1802,
+   -169,
+   2657.6
+  ],
+  "Elkhorn Lift bottom": [
+   892,
+   1037,
+   2425.2
+  ],
+  "Raven Ridge 3": [
+   553,
+   -2606,
+   3054.9
+  ],
+  "Raven Ridge 4": [
+   388,
+   -1896,
+   2743.9
+  ],
+  "President Ford's / Bitterroot": [
+   -543,
+   -443,
+   2975.0
+  ],
+  "President Ford's / Thresher Glade": [
+   194,
+   66,
+   2660.6
+  ],
+  "Spider / Sheephorn Escape": [
+   2312,
+   -2105,
+   3175.1
+  ],
+  "Spider / Stone Creek Meadows": [
+   2388,
+   -1457,
+   2950.0
+  ],
+  "Sheephorn Escape / Sheephorn-Lower": [
+   1979,
+   -2312,
+   3242.7
+  ],
+  "Sheephorn Escape / Cinch": [
+   2266,
+   -2069,
+   3169.3
+  ],
+  "Goshawk-Upper / Cinch": [
+   1793,
+   -2479,
+   3273.7
+  ],
+  "Goshawk-Upper": [
+   1487,
+   -2295,
+   3124.8
+  ],
+  "Creekside Skiway / President Ford's": [
+   871,
+   439,
+   2475.2
+  ],
+  "Unnamed run / Redtail": [
+   471,
+   -1747,
+   2735.2
+  ],
+  "Second Chance / Bedstraw": [
+   -571,
+   1876,
+   2652.1
+  ],
+  "Second Chance / Sawbuck": [
+   -1114,
+   2244,
+   2506.4
+  ],
+  "Birds of Prey Express Lift top": [
+   1599,
+   -2898,
+   3353.7
+  ],
+  "Unnamed run / Golden Eagle-Upper": [
+   1389,
+   -2996,
+   3314.8
+  ],
+  "Unnamed lift top": [
+   -1052,
+   2516,
+   2478.2
+  ],
+  "Bachelor Gulch Express Lift bottom": [
+   -1041,
+   2565,
+   2472.7
+  ],
+  "Golden Eagle-Middle / Golden Eagle-Upper": [
+   1192,
+   -2621,
+   3120.9
+  ],
+  "Golden Eagle-Middle / West Fall Road": [
+   805,
+   -2486,
+   2972.3
+  ],
+  "Goshawk-Upper / Solitude": [
+   1716,
+   -2691,
+   3310.0
+  ],
+  "Goshawk-Upper 2": [
+   1588,
+   -2474,
+   3230.4
+  ],
+  "Helmut's / Gary's": [
+   1698,
+   -1631,
+   3080.4
+  ],
+  "Helmut's / Centennial (Willy's Face)": [
+   1525,
+   -1181,
+   2920.3
+  ],
+  "Gee / Settlers Way": [
+   604,
+   938,
+   2491.2
+  ],
+  "Gee / Borders Loop": [
+   688,
+   1046,
+   2447.8
+  ],
+  "Cresta / Piece O'Cake": [
+   -2128,
+   1562,
+   2760.8
+  ],
+  "Cresta / Little Brave": [
+   -2791,
+   3391,
+   2275.9
+  ],
+  "Cresta": [
+   -2671,
+   2347,
+   2542.6
+  ],
+  "Cresta 2": [
+   -2796,
+   2695,
+   2432.4
+  ],
+  "Upper Stirrup / Cabin Fever": [
+   -1848,
+   988,
+   2857.1
+  ],
+  "Arrow Bahn Express Lift top": [
+   -2058,
+   1430,
+   2780.4
+  ],
+  "Bridle / Cinch": [
+   2573,
+   -996,
+   2952.3
+  ],
+  "Bridle / Stone Creek Meadows": [
+   2525,
+   -1384,
+   2905.1
+  ],
+  "Borders Skiway / McCoy Skiway": [
+   -275,
+   1308,
+   2642.6
+  ],
+  "Borders Skiway / Borders Loop": [
+   11,
+   1029,
+   2576.5
+  ],
+  "Lower Beaver Creek Mountain Express Lift top": [
+   -1158,
+   1979,
+   2565.6
+  ],
+  "Unnamed run / Cabin Fever": [
+   -1244,
+   2232,
+   2532.6
+  ],
+  "Elkhorn Lift top": [
+   -609,
+   492,
+   2824.8
+  ],
+  "Lamplighter / Intertwine": [
+   -529,
+   847,
+   2818.1
+  ],
+  "Everkrisp / Piece O'Cake": [
+   -1825,
+   2357,
+   2606.5
+  ],
+  "Everkrisp": [
+   -1778,
+   2386,
+   2603.2
+  ],
+  "Powell / Red Buffalo": [
+   1851,
+   -3676,
+   3478.4
+  ],
+  "Powell / Piney": [
+   2041,
+   -2968,
+   3358.9
+  ],
+  "Intertwine": [
+   -644,
+   867,
+   2829.4
+  ],
+  "Centennial": [
+   1849,
+   -2453,
+   3272.2
+  ],
+  "Centennial Express Lift top": [
+   1714,
+   -1855,
+   3114.8
+  ],
+  "Latigo-Upper / Cinch": [
+   2063,
+   -1397,
+   3036.4
+  ],
+  "Primrose / Overshot": [
+   -976,
+   426,
+   2902.4
+  ],
+  "Primrose": [
+   -1133,
+   611,
+   2884.0
+  ],
+  "Tranquility / Journey": [
+   -1994,
+   -1282,
+   3089.3
+  ],
+  "Tranquility / Exploration": [
+   -1385,
+   -554,
+   2932.7
+  ],
+  "Golden Eagle Flyway": [
+   1540,
+   -3081,
+   3388.9
+  ],
+  "Wapiti-Upper / Little Brave": [
+   -2002,
+   1746,
+   2732.2
+  ],
+  "Wapiti-Upper / Wapiti-Lower": [
+   -2094,
+   2005,
+   2659.4
+  ],
+  "Wapiti-Lower / Golden Bear": [
+   -2404,
+   2648,
+   2464.5
+  ],
+  "Unnamed lift top 2": [
+   1582,
+   104,
+   2573.8
+  ],
+  "Buckaroo Bowl / Unnamed run": [
+   1139,
+   371,
+   2483.2
+  ],
+  "Cresta 3": [
+   -2381,
+   1913,
+   2660.4
+  ],
+  "Crossbow / Pow Wow": [
+   -2548,
+   1937,
+   2631.3
+  ],
+  "Venture / Journey": [
+   -1955,
+   -1741,
+   3142.1
+  ],
+  "Venture / Bliss": [
+   -1703,
+   -1266,
+   3055.0
+  ],
+  "Cresta 4": [
+   -2557,
+   2153,
+   2607.7
+  ],
+  "Cresta 5": [
+   -2889,
+   3115,
+   2303.7
+  ],
+  "Assay / Cinch": [
+   2142,
+   -99,
+   2736.3
+  ],
+  "Gary's / Dally": [
+   1708,
+   -1042,
+   2875.6
+  ],
+  "Coyote Glade / Intertwine": [
+   -1288,
+   772,
+   2905.9
+  ],
+  "Coyote Glade / Sawbuck": [
+   -1002,
+   1561,
+   2650.9
+  ],
+  "Unnamed run / Ridge Runner": [
+   -1712,
+   2680,
+   2583.0
+  ],
+  "Unnamed run / Everkrisp": [
+   -1646,
+   2580,
+   2572.9
+  ],
+  "Centennial 2": [
+   1820,
+   -3172,
+   3412.5
+  ],
+  "Red Buffalo Express Lift bottom": [
+   2335,
+   -2380,
+   3233.5
+  ],
+  "Centennial (Willy's Face) / Cinch": [
+   1613,
+   -1704,
+   3092.1
+  ],
+  "Centennial (Willy's Face) / Dally": [
+   1023,
+   276,
+   2485.2
+  ],
+  "Tomahawk": [
+   -2707,
+   2887,
+   2392.4
+  ],
+  "Cresta 6": [
+   -2801,
+   3352,
+   2277.8
+  ],
+  "Elkhorn Skiway / McCoy Skiway": [
+   -195,
+   1547,
+   2574.0
+  ],
+  "Keller Glade / Cinch": [
+   2130,
+   -2033,
+   3155.7
+  ],
+  "Keller Glade / C Prime": [
+   2107,
+   -1739,
+   3039.3
+  ],
+  "Endeavor / Unwind": [
+   -1304,
+   -1478,
+   3099.0
+  ],
+  "Endeavor / Enchantment": [
+   -1325,
+   -962,
+   2981.7
+  ],
+  "Slanderous Sam's / Booth Gardens": [
+   2226,
+   -2981,
+   3336.5
+  ],
+  "Slanderous Sam's / Piney": [
+   2269,
+   -2452,
+   3247.0
+  ],
+  "Centennial (Willy's Face)": [
+   1165,
+   -138,
+   2651.4
+  ],
+  "Buckboard": [
+   1051,
+   -77,
+   2611.7
+  ],
+  "Borders Pines Chateau Skiway / Intertwine": [
+   618,
+   559,
+   2527.0
+  ],
+  "Borders Pines Chateau Skiway / Settlers Way": [
+   699,
+   961,
+   2459.7
+  ],
+  "Fool's Gold / Cinch": [
+   2001,
+   -774,
+   2895.7
+  ],
+  "Gold Dust": [
+   2104,
+   -638,
+   2849.5
+  ],
+  "Unnamed run / Exploration": [
+   -957,
+   -490,
+   2996.6
+  ],
+  "Enchantment / Sanctuary": [
+   -1320,
+   -1709,
+   3141.9
+  ],
+  "Thresher Glade / Beaver Creek Mountain Expressway": [
+   -591,
+   -628,
+   2980.6
+  ],
+  "Mccoy Park Express Lift top": [
+   -1820,
+   -1817,
+   3153.9
+  ],
+  "Unnamed run / Red Buffalo": [
+   2393,
+   -2495,
+   3243.5
+  ],
+  "Unnamed run / Cinch": [
+   2489,
+   -2334,
+   3210.2
+  ],
+  "Lower Stirrup / Unnamed run": [
+   -1386,
+   2033,
+   2574.0
+  ],
+  "Everkrisp 2": [
+   -1576,
+   2580,
+   2563.8
+  ],
+  "Unnamed run / Cinch 2": [
+   1682,
+   -1888,
+   3113.3
+  ],
+  "Highlands Lift bottom": [
+   1519,
+   514,
+   2510.1
+  ],
+  "Golden Eagle Flyway 2": [
+   1777,
+   -3627,
+   3475.9
+  ],
+  "Centennial 3": [
+   1807,
+   -2628,
+   3301.3
+  ],
+  "Everkrisp / Cabin Fever": [
+   -1229,
+   2380,
+   2512.7
+  ],
+  "Centennial / Cinch": [
+   1754,
+   -1953,
+   3116.7
+  ],
+  "Unwind": [
+   -1168,
+   -1443,
+   3089.4
+  ],
+  "Unwind / Primrose": [
+   -1089,
+   -1392,
+   3069.4
+  ],
+  "Cinch / Piney": [
+   2114,
+   -2813,
+   3318.9
+  ],
+  "Journey": [
+   -1961,
+   -976,
+   3060.0
+  ],
+  "Splendor / Exploration": [
+   -1437,
+   -216,
+   2903.7
+  ],
+  "Cinch Express Lift bottom": [
+   1835,
+   -1814,
+   3102.2
+  ],
+  "Latigo-Upper": [
+   1825,
+   -1770,
+   3102.3
+  ],
+  "Arrow Bahn Express Lift bottom": [
+   -2840,
+   3673,
+   2258.8
+  ],
+  "Journey 2": [
+   -1988,
+   -1122,
+   3077.9
+  ],
+  "Tranquility": [
+   -1621,
+   -964,
+   3009.8
+  ],
+  "Helmut's": [
+   1663,
+   -1508,
+   3051.3
+  ],
+  "Addy's / Dally": [
+   1665,
+   -1043,
+   2870.7
+  ],
+  "Everkrisp 3": [
+   -1736,
+   2581,
+   2588.8
+  ],
+  "Ridge Runner": [
+   -1561,
+   2910,
+   2541.4
+  ],
+  "West Fall Road / Redtail": [
+   1423,
+   -1969,
+   3023.0
+  ],
+  "Three Tree Gully / Primrose": [
+   -998,
+   -1247,
+   3053.2
+  ],
+  "Three Tree Gully / Bluebell": [
+   -471,
+   -1408,
+   2894.0
+  ],
+  "Bluebell / Ford's Way": [
+   -236,
+   -1631,
+   2824.1
+  ],
+  "Upper Stirrup": [
+   -1948,
+   1115,
+   2834.0
+  ],
+  "Primrose 2": [
+   -957,
+   172,
+   2940.2
+  ],
+  "Cinch": [
+   1912,
+   -2019,
+   3130.1
+  ],
+  "Bald Eagle": [
+   326,
+   -2780,
+   3104.7
+  ],
+  "Bald Eagle 2": [
+   219,
+   -2045,
+   2747.5
+  ],
+  "Latigo-Upper 2": [
+   1916,
+   -1659,
+   3078.9
+  ],
+  "Rose Bowl Express Lift bottom": [
+   2796,
+   -1161,
+   2856.1
+  ],
+  "Sheephorn-Upper": [
+   1922,
+   -2912,
+   3360.6
+  ],
+  "Sheephorn-Upper 2": [
+   2057,
+   -2495,
+   3272.3
+  ],
+  "Bachelor Gulch Express Lift top": [
+   -1392,
+   755,
+   2913.9
+  ],
+  "Cinch 2": [
+   2502,
+   -2293,
+   3201.2
+  ],
+  "Stone Creek Meadows": [
+   2729,
+   -1215,
+   2862.4
+  ],
+  "Ridge Runner 2": [
+   -1683,
+   2903,
+   2556.6
+  ],
+  "Primrose 3": [
+   -1148,
+   649,
+   2878.8
+  ],
+  "Stacker / Intertwine": [
+   542,
+   363,
+   2568.0
+  ],
+  "Stacker / Intertwine 2": [
+   786,
+   422,
+   2504.3
+  ],
+  "Lupine / Loco": [
+   -1013,
+   -1962,
+   3145.8
+  ],
+  "Lupine / Larkspur Bowl": [
+   -943,
+   -1769,
+   3053.2
+  ],
+  "Highlands Skiway / Charter Skiway": [
+   1262,
+   495,
+   2490.8
+  ],
+  "Elkhorn Skiway / Bedstraw": [
+   -363,
+   2409,
+   2513.2
+  ],
+  "Elkhorn Skiway 3": [
+   -303,
+   2296,
+   2497.8
+  ],
+  "Rihubarb Skiway / Leave the Beav": [
+   -858,
+   2759,
+   2417.9
+  ],
+  "Stacker / Bitterroot": [
+   -503,
+   -179,
+   2928.3
+  ],
+  "President Ford's": [
+   106,
+   31,
+   2694.5
+  ],
+  "Cold Snap / Roughlock": [
+   -1688,
+   2239,
+   2589.5
+  ],
+  "Everkrisp 4": [
+   -1739,
+   2404,
+   2599.3
+  ],
+  "Home Run / Settlers Way": [
+   91,
+   750,
+   2639.1
+  ],
+  "Home Run / Borders Loop": [
+   417,
+   1219,
+   2484.5
+  ],
+  "Piece O'Cake / Golden Bear": [
+   -2668,
+   3211,
+   2305.3
+  ],
+  "Piece O'Cake": [
+   -2024,
+   1642,
+   2754.1
+  ],
+  "Cinch 3": [
+   1610,
+   -1829,
+   3105.1
+  ],
+  "Harrier-Upper": [
+   1277,
+   -1571,
+   2984.6
+  ],
+  "Larkspur Express Lift top": [
+   -1280,
+   -1875,
+   3161.5
+  ],
+  "Sanctuary / Exploration": [
+   -1318,
+   -828,
+   2955.8
+  ],
+  "Centennial (Willy's Face) 2": [
+   1553,
+   -1613,
+   3070.2
+  ],
+  "Moonshine": [
+   880,
+   -654,
+   2688.0
+  ],
+  "Spider": [
+   2423,
+   -1787,
+   3038.2
+  ],
+  "Stone Creek Meadows 2": [
+   2618,
+   -1310,
+   2884.2
+  ],
+  "Roughlock": [
+   -1520,
+   2359,
+   2558.3
+  ],
+  "Roughlock 2": [
+   -1341,
+   2488,
+   2507.3
+  ],
+  "Centennial (Willy's Face) 3": [
+   1469,
+   -900,
+   2842.6
+  ],
+  "Bear Trap / Haymeadow": [
+   1413,
+   179,
+   2549.8
+  ],
+  "Bear Paw / Roughlock": [
+   -1737,
+   2187,
+   2599.3
+  ],
+  "Ford's Way / Larkspur Bowl": [
+   58,
+   -1725,
+   2745.8
+  ],
+  "Solitude": [
+   1673,
+   -2838,
+   3344.5
+  ],
+  "Cinch 4": [
+   1507,
+   271,
+   2543.6
+  ],
+  "Haymeadow Express bottom": [
+   1203,
+   517,
+   2473.3
+  ],
+  "Ridgepoint Skiway 2": [
+   -98,
+   3365,
+   2341.9
+  ],
+  "Elkhorn Skiway / Leave the Beav": [
+   -283,
+   3467,
+   2324.7
+  ],
+  "Sawbuck": [
+   -842,
+   1339,
+   2707.2
+  ],
+  "Sawbuck 2": [
+   -1068,
+   1784,
+   2598.8
+  ],
+  "Rose Bowl Express Lift top": [
+   2116,
+   -2436,
+   3259.6
+  ],
+  "Cinch 5": [
+   2059,
+   -2372,
+   3252.0
+  ],
+  "Easy Come Easy Go / Sawbuck": [
+   -851,
+   1517,
+   2661.7
+  ],
+  "McCoy Skiway / Bedstraw": [
+   -430,
+   1189,
+   2730.1
+  ],
+  "Dally": [
+   707,
+   -1101,
+   2753.7
+  ],
+  "Harrier-Lower / Dally": [
+   543,
+   -682,
+   2592.6
+  ],
+  "Home Run": [
+   137,
+   844,
+   2618.2
+  ],
+  "Borders Loop / Settlers Way": [
+   762,
+   978,
+   2441.7
+  ],
+  "Latigo-Lower / Haymeadow": [
+   1696,
+   -73,
+   2622.9
+  ],
+  "Leave the Beav": [
+   -1055,
+   2725,
+   2464.6
+  ],
+  "Lower Stirrup": [
+   -2050,
+   1518,
+   2772.0
+  ],
+  "Dally 2": [
+   645,
+   -1126,
+   2747.5
+  ],
+  "Harrier-Lower": [
+   528,
+   -731,
+   2600.6
+  ],
+  "Haymeadow Express top": [
+   1539,
+   107,
+   2575.9
+  ],
+  "Solitaire / Sawbuck": [
+   -943,
+   955,
+   2796.9
+  ],
+  "Solitaire / Sawbuck 2": [
+   -864,
+   1108,
+   2759.9
+  ],
+  "Red Buffalo": [
+   2226,
+   -3279,
+   3379.7
+  ],
+  "Piece O'Cake 2": [
+   -2131,
+   1519,
+   2764.5
+  ],
+  "Paintbrush": [
+   -484,
+   -1368,
+   2895.1
+  ],
+  "Paintbrush / Beaver Creek Mountain Expressway": [
+   116,
+   -1623,
+   2731.5
+  ],
+  "Harrier-Upper 2": [
+   810,
+   -1275,
+   2826.4
+  ],
+  "Strawberry Park Express Lift top": [
+   -889,
+   -516,
+   3004.2
+  ],
+  "Roughlock / Ridge Runner": [
+   -1257,
+   2526,
+   2490.6
+  ],
+  "Leave the Beav 2": [
+   -1093,
+   2557,
+   2474.3
+  ],
+  "Centennial Express Lift bottom": [
+   1066,
+   379,
+   2475.0
+  ],
+  "Powell": [
+   1907,
+   -3308,
+   3429.7
+  ],
+  "Sheephorn-Upper 3": [
+   2267,
+   -2386,
+   3235.8
+  ],
+  "Maverick": [
+   -457,
+   1114,
+   2752.2
+  ],
+  "Bedstraw": [
+   -487,
+   2466,
+   2505.7
+  ],
+  "Lower Beaver Creek Mountain Express Lift bottom": [
+   -299,
+   3727,
+   2287.8
+  ],
+  "Birds of Prey Express Lift bottom": [
+   364,
+   -1488,
+   2695.7
+  ],
+  "Sheephorn-Upper 4": [
+   2174,
+   -2451,
+   3253.3
+  ],
+  "Screech Owl / Golden Eagle-Lower": [
+   709,
+   -2326,
+   2950.6
+  ],
+  "Cinch 6": [
+   2111,
+   -1346,
+   3029.7
+  ],
+  "Gold Dust 2": [
+   2156,
+   -827,
+   2893.2
+  ],
+  "Exploration": [
+   -1373,
+   -657,
+   2941.9
+  ],
+  "Cinch 7": [
+   2299,
+   -2349,
+   3229.5
+  ],
+  "Dally Alley / Dally": [
+   260,
+   -1282,
+   2660.1
+  ],
+  "Lamplighter": [
+   -656,
+   719,
+   2841.8
+  ],
+  "Sawbuck 3": [
+   -1093,
+   2413,
+   2493.1
+  ],
+  "Journey 3": [
+   -1832,
+   -579,
+   2996.5
+  ],
+  "Piece O'Cake 3": [
+   -1875,
+   2120,
+   2638.8
+  ],
+  "Redtail": [
+   705,
+   -1900,
+   2802.2
+  ],
+  "Mystic Island": [
+   2022,
+   -3371,
+   3418.0
+  ],
+  "Lower Stirrup 2": [
+   -1619,
+   1520,
+   2726.3
+  ],
+  "Gunders": [
+   -1360,
+   1510,
+   2696.1
+  ],
+  "Gold Dust 3": [
+   2161,
+   -699,
+   2851.7
+  ],
+  "Gold Dust 4": [
+   2024,
+   -442,
+   2765.8
+  ],
+  "Settlers Way / Intertwine": [
+   -186,
+   462,
+   2739.3
+  ],
+  "Settlers Way": [
+   795,
+   1002,
+   2437.0
+  ],
+  "Moonshine 2": [
+   1025,
+   -646,
+   2717.4
+  ],
+  "Dally 3": [
+   631,
+   -449,
+   2557.4
+  ],
+  "C Prime": [
+   2305,
+   -1611,
+   2984.0
+  ],
+  "Red Buffalo 2": [
+   1894,
+   -3651,
+   3474.4
+  ],
+  "Red Buffalo 3": [
+   2429,
+   -2588,
+   3259.3
+  ],
+  "Journey 4": [
+   -1874,
+   -783,
+   3038.4
+  ],
+  "Splendor": [
+   -1635,
+   -630,
+   2974.6
+  ],
+  "Screech Owl": [
+   750,
+   -2378,
+   2953.4
+  ],
+  "Golden Eagle-Lower": [
+   625,
+   -2070,
+   2865.6
+  ],
+  "Redtail 2": [
+   515,
+   -1785,
+   2753.2
+  ],
+  "Saddleridge Way": [
+   1581,
+   686,
+   2509.2
+  ],
+  "Primrose 4": [
+   -1359,
+   1036,
+   2840.2
+  ],
+  "Enchantment": [
+   -1348,
+   -1667,
+   3134.3
+  ],
+  "Sanctuary": [
+   -1410,
+   -1117,
+   3013.7
+  ],
+  "Overshot / Bitterroot": [
+   -516,
+   323,
+   2840.0
+  ],
+  "Strawberry Park Express Lift bottom": [
+   927,
+   399,
+   2474.1
+  ],
+  "Discovery / Freedom": [
+   -1201,
+   -1363,
+   3070.0
+  ],
+  "Exploration 2": [
+   -1243,
+   -881,
+   2963.5
+  ],
+  "Primrose 5": [
+   -841,
+   -1206,
+   3046.0
+  ],
+  "Intertwine 2": [
+   -275,
+   452,
+   2770.5
+  ],
+  "Unwind 2": [
+   -1219,
+   -1447,
+   3093.4
+  ],
+  "Sanctuary 2": [
+   -1331,
+   -913,
+   2972.6
+  ],
+  "Exploration 3": [
+   -1439,
+   -32,
+   2881.2
+  ],
+  "Loco": [
+   -844,
+   -1953,
+   3113.7
+  ],
+  "Larkspur Bowl": [
+   -729,
+   -1682,
+   2979.9
+  ],
+  "Second Chance": [
+   -862,
+   2065,
+   2567.3
+  ],
+  "Legacy": [
+   -600,
+   2338,
+   2535.3
+  ],
+  "Moonshine 3": [
+   1241,
+   -690,
+   2768.7
+  ],
+  "Unnamed lift bottom 2": [
+   1577,
+   154,
+   2569.7
+  ],
+  "Unnamed lift bottom 3": [
+   1133,
+   454,
+   2474.5
+  ],
+  "Unnamed lift bottom 4": [
+   1635,
+   110,
+   2573.6
+  ],
+  "Riverfront Express Gondola bottom": [
+   380,
+   3724,
+   2268.6
+  ]
+ },
+ "lifts": [
+  [
+   "Reunion Lift",
+   "Reunion Lift bottom",
+   "Reunion Lift top",
+   9.0
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top 2",
+   3.8
+  ],
+  [
+   "Elkhorn Lift",
+   "Elkhorn Lift bottom",
+   "Elkhorn Lift top",
+   17.0
+  ],
+  [
+   "Mccoy Park Express Lift",
+   "Mccoy Park Express Lift bottom",
+   "Mccoy Park Express Lift top",
+   9.0
+  ],
+  [
+   "Grouse Mountain Express Lift",
+   "Grouse Mountain Express Lift bottom",
+   "Grouse Mountain Express Lift top",
+   9.0
+  ],
+  [
+   "Haymeadow Express",
+   "Haymeadow Express bottom",
+   "Haymeadow Express top",
+   5.0
+  ],
+  [
+   "Haymeadow Express",
+   "Haymeadow Express top",
+   "Haymeadow Express bottom",
+   5.0
+  ],
+  [
+   "Lower Beaver Creek Mountain Express Lift",
+   "Lower Beaver Creek Mountain Express Lift bottom",
+   "Lower Beaver Creek Mountain Express Lift top",
+   10.0
+  ],
+  [
+   "Lower Beaver Creek Mountain Express Lift",
+   "Lower Beaver Creek Mountain Express Lift top",
+   "Lower Beaver Creek Mountain Express Lift bottom",
+   10.0
+  ],
+  [
+   "Bachelor Gulch Express Lift",
+   "Bachelor Gulch Express Lift bottom",
+   "Bachelor Gulch Express Lift top",
+   10.0
+  ],
+  [
+   "Red Buffalo Express Lift",
+   "Red Buffalo Express Lift bottom",
+   "Red Buffalo Express Lift top",
+   8.0
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom",
+   "Unnamed lift bottom 4",
+   4.9
+  ],
+  [
+   "Birds of Prey Express Lift",
+   "Birds of Prey Express Lift bottom",
+   "Birds of Prey Express Lift top",
+   10.0
+  ],
+  [
+   "Cinch Express Lift",
+   "Cinch Express Lift bottom",
+   "Red Buffalo Express Lift top",
+   10.0
+  ],
+  [
+   "Rose Bowl Express Lift",
+   "Rose Bowl Express Lift bottom",
+   "Rose Bowl Express Lift top",
+   8.0
+  ],
+  [
+   "Strawberry Park Express Lift",
+   "Strawberry Park Express Lift bottom",
+   "Strawberry Park Express Lift top",
+   11.0
+  ],
+  [
+   "Larkspur Express Lift",
+   "Larkspur Express Lift bottom",
+   "Larkspur Express Lift top",
+   9.0
+  ],
+  [
+   "Unnamed lift",
+   "Bachelor Gulch Express Lift bottom",
+   "Unnamed lift top",
+   3.7
+  ],
+  [
+   "Upper Beaver Creek Mountain Express Lift",
+   "Lower Beaver Creek Mountain Express Lift top",
+   "Upper Beaver Creek Mountain Express Lift top",
+   13.0
+  ],
+  [
+   "Arrow Bahn Express Lift",
+   "Arrow Bahn Express Lift bottom",
+   "Arrow Bahn Express Lift top",
+   12.0
+  ],
+  [
+   "Centennial Express Lift",
+   "Centennial Express Lift bottom",
+   "Centennial Express Lift top",
+   12.0
+  ],
+  [
+   "Centennial Express Lift",
+   "Centennial Express Lift top",
+   "Centennial Express Lift bottom",
+   12.0
+  ],
+  [
+   "Riverfront Express Gondola",
+   "Riverfront Express Gondola bottom",
+   "Lower Beaver Creek Mountain Express Lift bottom",
+   6.0
+  ],
+  [
+   "Riverfront Express Gondola",
+   "Lower Beaver Creek Mountain Express Lift bottom",
+   "Riverfront Express Gondola bottom",
+   6.0
+  ],
+  [
+   "Highlands Lift",
+   "Highlands Lift bottom",
+   "Unnamed lift bottom",
+   6.0
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 4",
+   "Unnamed lift top 2",
+   3.9
+  ]
+ ],
+ "runs": [
+  [
+   "Beano",
+   "Beano / Unnamed run",
+   "Grouse Mountain Express Lift bottom",
+   0.5
+  ],
+  [
+   "Beano",
+   "Grouse Mountain Express Lift bottom",
+   "Larkspur Express Lift bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Upper Beaver Creek Mountain Express Lift top",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Beano / Unnamed run",
+   "Grouse Mountain Express Lift bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Mccoy Park Express Lift bottom",
+   "Reunion Lift bottom",
+   0.5
+  ],
+  [
+   "Sourdough's Slide",
+   "Sourdough's Slide / Cabin Fever",
+   "Sourdough's Slide / Unnamed run",
+   3.2
+  ],
+  [
+   "Maverick",
+   "Maverick / Meander",
+   "Maverick",
+   1.9
+  ],
+  [
+   "Maverick",
+   "Maverick",
+   "Maverick / Easy Come Easy Go",
+   1.8
+  ],
+  [
+   "Haw",
+   "Haw / Settlers Way",
+   "Haw / Borders Loop",
+   0.7
+  ],
+  [
+   "Kinship",
+   "Reunion Lift top",
+   "Kinship / Exploration",
+   1.2
+  ],
+  [
+   "Raven Ridge",
+   "Raven Ridge / Screech Owl",
+   "Grouse Mountain Express Lift top",
+   0.5
+  ],
+  [
+   "Raven Ridge",
+   "Grouse Mountain Express Lift top",
+   "Raven Ridge",
+   1.6
+  ],
+  [
+   "Raven Ridge",
+   "Raven Ridge",
+   "Raven Ridge 3",
+   1.2
+  ],
+  [
+   "Raven Ridge",
+   "Raven Ridge 3",
+   "Raven Ridge 4",
+   3.6
+  ],
+  [
+   "Raven Ridge",
+   "Raven Ridge 4",
+   "Raven Ridge 2",
+   0.5
+  ],
+  [
+   "Raven Ridge",
+   "Raven Ridge 2",
+   "Grouse Mountain Express Lift bottom",
+   0.6
+  ],
+  [
+   "Ridgepoint Skiway",
+   "Ridgepoint Skiway / Leave the Beav",
+   "Ridgepoint Skiway 2",
+   1.9
+  ],
+  [
+   "Ridgepoint Skiway",
+   "Ridgepoint Skiway 2",
+   "Ridgepoint Skiway",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Reunion Lift top",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Upper Beaver Creek Mountain Express Lift top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Upper Beaver Creek Mountain Express Lift top",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Ripsaw",
+   "Ripsaw / Cinch",
+   "Ripsaw",
+   1.5
+  ],
+  [
+   "Bald Eagle",
+   "Grouse Mountain Express Lift top",
+   "Bald Eagle",
+   2.1
+  ],
+  [
+   "Bald Eagle",
+   "Bald Eagle",
+   "Bald Eagle 2",
+   3.9
+  ],
+  [
+   "Bald Eagle",
+   "Bald Eagle 2",
+   "Bald Eagle / Ruffed Grouse",
+   0.5
+  ],
+  [
+   "Ruffed Grouse",
+   "Raven Ridge",
+   "Bald Eagle / Ruffed Grouse",
+   4.2
+  ],
+  [
+   "Ruffed Grouse",
+   "Bald Eagle / Ruffed Grouse",
+   "Raven Ridge 2",
+   0.8
+  ],
+  [
+   "Corkscrew",
+   "Corkscrew / Dally",
+   "Corkscrew / Latigo-Lower",
+   1.1
+  ],
+  [
+   "1876",
+   "1876 / Bear Trap",
+   "1876",
+   2.8
+  ],
+  [
+   "1876",
+   "1876",
+   "1876 / Haymeadow",
+   0.5
+  ],
+  [
+   "Springtooth",
+   "Springtooth / Little Brave",
+   "Springtooth / Lower Stirrup",
+   1.5
+  ],
+  [
+   "Goshawk-Lower",
+   "Goshawk-Lower / West Fall Road",
+   "Goshawk-Lower / Kestral",
+   1.5
+  ],
+  [
+   "Yarrow",
+   "Yarrow / Primrose",
+   "Yarrow / Larkspur Bowl",
+   2.9
+  ],
+  [
+   "Elkhorn Skiway",
+   "Elkhorn Skiway",
+   "Elkhorn Skiway 3",
+   2.8
+  ],
+  [
+   "Elkhorn Skiway",
+   "Elkhorn Skiway 3",
+   "Elkhorn Skiway 2",
+   5.4
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Intertwine",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Bitterroot",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   "Bitterroot",
+   1.5
+  ],
+  [
+   "Cinch",
+   "Unnamed lift bottom",
+   "Cinch 4",
+   0.6
+  ],
+  [
+   "Cinch",
+   "Cinch 4",
+   "1876",
+   1.2
+  ],
+  [
+   "Moonshine",
+   "Moonshine / Centennial (Willy's Face)",
+   "Moonshine 3",
+   0.5
+  ],
+  [
+   "Moonshine",
+   "Moonshine 3",
+   "Moonshine 2",
+   0.9
+  ],
+  [
+   "Moonshine",
+   "Moonshine 2",
+   "Moonshine",
+   0.6
+  ],
+  [
+   "Moonshine",
+   "Moonshine",
+   "Moonshine / Dally",
+   1.4
+  ],
+  [
+   "Bitterroot",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   "Bitterroot / Beaver Creek Mountain Expressway 3",
+   0.5
+  ],
+  [
+   "Golden Eagle Flyway",
+   "Red Buffalo Express Lift top",
+   "Golden Eagle Flyway 2",
+   0.5
+  ],
+  [
+   "Golden Eagle Flyway",
+   "Golden Eagle Flyway 2",
+   "Golden Eagle Flyway",
+   2.5
+  ],
+  [
+   "Golden Eagle Flyway",
+   "Golden Eagle Flyway",
+   "Golden Eagle Flyway / Solitude",
+   0.7
+  ],
+  [
+   "Home Fire",
+   "Home Fire / Tall Timber",
+   "Home Fire / Ridge Runner",
+   1.4
+  ],
+  [
+   "Gold Dust",
+   "Gold Dust / Cinch",
+   "Gold Dust 2",
+   1.6
+  ],
+  [
+   "Gold Dust",
+   "Gold Dust 2",
+   "Gold Dust 3",
+   0.6
+  ],
+  [
+   "Gold Dust",
+   "Gold Dust 3",
+   "Gold Dust",
+   0.5
+  ],
+  [
+   "Gold Dust",
+   "Gold Dust",
+   "Gold Dust 4",
+   0.9
+  ],
+  [
+   "Gold Dust",
+   "Gold Dust 4",
+   "Gold Dust / Cinch 2",
+   1.6
+  ],
+  [
+   "Ptarmigan",
+   "Raven Ridge 3",
+   "Raven Ridge 4",
+   3.4
+  ],
+  [
+   "President Ford's",
+   "President Ford's / Bitterroot",
+   "President Ford's",
+   3.6
+  ],
+  [
+   "President Ford's",
+   "President Ford's",
+   "President Ford's / Thresher Glade",
+   0.5
+  ],
+  [
+   "Spider",
+   "Spider / Sheephorn Escape",
+   "Spider",
+   1.4
+  ],
+  [
+   "Spider",
+   "Spider",
+   "Spider / Stone Creek Meadows",
+   1.5
+  ],
+  [
+   "Sheephorn Escape",
+   "Sheephorn Escape / Sheephorn-Lower",
+   "Spider / Sheephorn Escape",
+   1.8
+  ],
+  [
+   "Sheephorn Escape",
+   "Spider / Sheephorn Escape",
+   "Sheephorn Escape / Cinch",
+   0.5
+  ],
+  [
+   "Goshawk-Upper",
+   "Goshawk-Upper / Cinch",
+   "Goshawk-Upper",
+   1.5
+  ],
+  [
+   "Creekside Skiway",
+   "Creekside Skiway / President Ford's",
+   "Elkhorn Lift bottom",
+   3.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Redtail",
+   "Larkspur Express Lift bottom",
+   0.7
+  ],
+  [
+   "Second Chance",
+   "Second Chance / Bedstraw",
+   "Second Chance",
+   3.2
+  ],
+  [
+   "Second Chance",
+   "Second Chance",
+   "Second Chance / Sawbuck",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Birds of Prey Express Lift top",
+   "Unnamed run / Golden Eagle-Upper",
+   0.9
+  ],
+  [
+   "Bachelor Gulch Ski School",
+   "Unnamed lift top",
+   "Bachelor Gulch Express Lift bottom",
+   0.5
+  ],
+  [
+   "Golden Eagle-Middle",
+   "Golden Eagle-Middle / Golden Eagle-Upper",
+   "Golden Eagle-Middle / West Fall Road",
+   1.9
+  ],
+  [
+   "Goshawk-Upper",
+   "Goshawk-Upper / Solitude",
+   "Goshawk-Upper 2",
+   1.0
+  ],
+  [
+   "Helmut's",
+   "Helmut's / Gary's",
+   "Helmut's",
+   0.5
+  ],
+  [
+   "Helmut's",
+   "Helmut's",
+   "Helmut's / Centennial (Willy's Face)",
+   1.6
+  ],
+  [
+   "Gee",
+   "Gee / Settlers Way",
+   "Gee / Borders Loop",
+   0.5
+  ],
+  [
+   "Cresta",
+   "Cresta / Piece O'Cake",
+   "Cresta 3",
+   1.7
+  ],
+  [
+   "Cresta",
+   "Cresta 3",
+   "Cresta 4",
+   1.2
+  ],
+  [
+   "Cresta",
+   "Cresta 4",
+   "Cresta",
+   1.0
+  ],
+  [
+   "Cresta",
+   "Cresta",
+   "Cresta 2",
+   1.6
+  ],
+  [
+   "Cresta",
+   "Cresta 2",
+   "Cresta 5",
+   1.9
+  ],
+  [
+   "Cresta",
+   "Cresta 5",
+   "Cresta 6",
+   1.1
+  ],
+  [
+   "Cresta",
+   "Cresta 6",
+   "Cresta / Little Brave",
+   0.5
+  ],
+  [
+   "Wampum Skiway",
+   "Cresta",
+   "Cresta 2",
+   4.7
+  ],
+  [
+   "Upper Stirrup",
+   "Upper Stirrup / Cabin Fever",
+   "Upper Stirrup",
+   0.5
+  ],
+  [
+   "Upper Stirrup",
+   "Upper Stirrup",
+   "Arrow Bahn Express Lift top",
+   1.8
+  ],
+  [
+   "Bridle",
+   "Bridle / Cinch",
+   "Bridle / Stone Creek Meadows",
+   1.6
+  ],
+  [
+   "Borders Skiway",
+   "Borders Skiway / McCoy Skiway",
+   "Borders Skiway / Borders Loop",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Lower Beaver Creek Mountain Express Lift top",
+   "Unnamed run / Cabin Fever",
+   1.0
+  ],
+  [
+   "Lamplighter",
+   "Elkhorn Lift top",
+   "Lamplighter",
+   1.1
+  ],
+  [
+   "Lamplighter",
+   "Lamplighter",
+   "Lamplighter / Intertwine",
+   0.8
+  ],
+  [
+   "Everkrisp",
+   "Everkrisp / Piece O'Cake",
+   "Everkrisp",
+   0.5
+  ],
+  [
+   "Powell",
+   "Powell / Red Buffalo",
+   "Powell",
+   1.4
+  ],
+  [
+   "Powell",
+   "Powell",
+   "Powell / Piney",
+   1.7
+  ],
+  [
+   "Centennial",
+   "Red Buffalo Express Lift top",
+   "Golden Eagle Flyway 2",
+   0.5
+  ],
+  [
+   "Centennial",
+   "Golden Eagle Flyway 2",
+   "Centennial 2",
+   1.8
+  ],
+  [
+   "Centennial",
+   "Centennial 2",
+   "Centennial 3",
+   2.4
+  ],
+  [
+   "Centennial",
+   "Centennial 3",
+   "Centennial",
+   0.7
+  ],
+  [
+   "Latigo-Upper",
+   "Centennial Express Lift top",
+   "Cinch Express Lift bottom",
+   0.5
+  ],
+  [
+   "Latigo-Upper",
+   "Cinch Express Lift bottom",
+   "Latigo-Upper",
+   0.5
+  ],
+  [
+   "Latigo-Upper",
+   "Latigo-Upper",
+   "Latigo-Upper 2",
+   0.5
+  ],
+  [
+   "Latigo-Upper",
+   "Latigo-Upper 2",
+   "Latigo-Upper / Cinch",
+   1.3
+  ],
+  [
+   "Primrose",
+   "Primrose / Overshot",
+   "Primrose",
+   1.0
+  ],
+  [
+   "Tranquility",
+   "Tranquility / Journey",
+   "Tranquility",
+   2.0
+  ],
+  [
+   "Tranquility",
+   "Tranquility",
+   "Tranquility / Exploration",
+   2.0
+  ],
+  [
+   "Golden Eagle-Upper",
+   "Golden Eagle Flyway",
+   "Unnamed run / Golden Eagle-Upper",
+   0.7
+  ],
+  [
+   "Golden Eagle-Upper",
+   "Unnamed run / Golden Eagle-Upper",
+   "Golden Eagle-Middle / Golden Eagle-Upper",
+   2.0
+  ],
+  [
+   "Wapiti-Upper",
+   "Wapiti-Upper / Little Brave",
+   "Wapiti-Upper / Wapiti-Lower",
+   1.0
+  ],
+  [
+   "Wapiti-Lower",
+   "Wapiti-Upper / Wapiti-Lower",
+   "Wapiti-Lower / Golden Bear",
+   3.1
+  ],
+  [
+   "Buckaroo Bowl",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 2",
+   0.5
+  ],
+  [
+   "Buckaroo Bowl",
+   "Unnamed lift bottom 2",
+   "Cinch 4",
+   0.6
+  ],
+  [
+   "Buckaroo Bowl",
+   "Cinch 4",
+   "Buckaroo Bowl / Unnamed run",
+   1.6
+  ],
+  [
+   "Crossbow",
+   "Cresta 3",
+   "Crossbow / Pow Wow",
+   0.6
+  ],
+  [
+   "Venture",
+   "Venture / Journey",
+   "Venture / Bliss",
+   2.2
+  ],
+  [
+   "Tomahawk",
+   "Cresta 4",
+   "Tomahawk",
+   3.5
+  ],
+  [
+   "Tomahawk",
+   "Tomahawk",
+   "Cresta 5",
+   1.3
+  ],
+  [
+   "Assay",
+   "Assay / Cinch",
+   "Unnamed lift bottom",
+   2.4
+  ],
+  [
+   "Gary's",
+   "Helmut's / Gary's",
+   "Gary's / Dally",
+   2.5
+  ],
+  [
+   "Primrose",
+   "Primrose",
+   "Primrose 3",
+   0.5
+  ],
+  [
+   "Primrose",
+   "Primrose 3",
+   "Primrose 4",
+   1.9
+  ],
+  [
+   "Primrose",
+   "Primrose 4",
+   "Arrow Bahn Express Lift top",
+   3.6
+  ],
+  [
+   "Coyote Glade",
+   "Coyote Glade / Intertwine",
+   "Coyote Glade / Sawbuck",
+   3.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Ridge Runner",
+   "Unnamed run / Everkrisp",
+   0.5
+  ],
+  [
+   "Sheephorn-Upper",
+   "Centennial 2",
+   "Sheephorn-Upper",
+   1.1
+  ],
+  [
+   "Sheephorn-Upper",
+   "Sheephorn-Upper",
+   "Sheephorn-Upper 2",
+   2.0
+  ],
+  [
+   "Sheephorn-Upper",
+   "Sheephorn-Upper 2",
+   "Rose Bowl Express Lift top",
+   0.5
+  ],
+  [
+   "Sheephorn-Upper",
+   "Rose Bowl Express Lift top",
+   "Sheephorn-Upper 4",
+   0.5
+  ],
+  [
+   "Sheephorn-Upper",
+   "Sheephorn-Upper 4",
+   "Sheephorn-Upper 3",
+   0.5
+  ],
+  [
+   "Sheephorn-Upper",
+   "Sheephorn-Upper 3",
+   "Red Buffalo Express Lift bottom",
+   0.5
+  ],
+  [
+   "Centennial (Willy's Face)",
+   "Centennial (Willy's Face) / Cinch",
+   "Centennial (Willy's Face) 2",
+   0.5
+  ],
+  [
+   "Centennial (Willy's Face)",
+   "Centennial (Willy's Face) 2",
+   "Helmut's / Centennial (Willy's Face)",
+   2.0
+  ],
+  [
+   "Centennial (Willy's Face)",
+   "Helmut's / Centennial (Willy's Face)",
+   "Centennial (Willy's Face) 3",
+   1.3
+  ],
+  [
+   "Centennial (Willy's Face)",
+   "Centennial (Willy's Face) 3",
+   "Moonshine / Centennial (Willy's Face)",
+   1.0
+  ],
+  [
+   "Centennial (Willy's Face)",
+   "Moonshine / Centennial (Willy's Face)",
+   "Centennial (Willy's Face)",
+   2.7
+  ],
+  [
+   "Centennial (Willy's Face)",
+   "Centennial (Willy's Face)",
+   "Centennial (Willy's Face) / Dally",
+   2.0
+  ],
+  [
+   "Flint",
+   "Tomahawk",
+   "Cresta 6",
+   1.9
+  ],
+  [
+   "Elkhorn Skiway",
+   "Elkhorn Skiway / McCoy Skiway",
+   "Elkhorn Skiway",
+   0.5
+  ],
+  [
+   "Keller Glade",
+   "Keller Glade / Cinch",
+   "Keller Glade / C Prime",
+   1.2
+  ],
+  [
+   "Endeavor",
+   "Endeavor / Unwind",
+   "Endeavor / Enchantment",
+   2.1
+  ],
+  [
+   "Slanderous Sam's",
+   "Slanderous Sam's / Booth Gardens",
+   "Slanderous Sam's / Piney",
+   2.6
+  ],
+  [
+   "Buckboard",
+   "Centennial (Willy's Face)",
+   "Buckboard",
+   0.5
+  ],
+  [
+   "Borders Pines Chateau Skiway",
+   "Borders Pines Chateau Skiway / Intertwine",
+   "Borders Pines Chateau Skiway / Settlers Way",
+   1.7
+  ],
+  [
+   "Fool's Gold",
+   "Fool's Gold / Cinch",
+   "Gold Dust",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Upper Beaver Creek Mountain Express Lift top",
+   "Strawberry Park Express Lift top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Strawberry Park Express Lift top",
+   "Unnamed run / Exploration",
+   0.5
+  ],
+  [
+   "Enchantment",
+   "Enchantment / Sanctuary",
+   "Enchantment",
+   0.5
+  ],
+  [
+   "Enchantment",
+   "Enchantment",
+   "Endeavor / Enchantment",
+   4.0
+  ],
+  [
+   "Thresher Glade",
+   "Thresher Glade / Beaver Creek Mountain Expressway",
+   "President Ford's / Thresher Glade",
+   5.1
+  ],
+  [
+   "Journey",
+   "Mccoy Park Express Lift top",
+   "Venture / Journey",
+   0.5
+  ],
+  [
+   "Journey",
+   "Venture / Journey",
+   "Tranquility / Journey",
+   2.2
+  ],
+  [
+   "Journey",
+   "Tranquility / Journey",
+   "Journey 2",
+   0.7
+  ],
+  [
+   "Journey",
+   "Journey 2",
+   "Journey",
+   0.6
+  ],
+  [
+   "Journey",
+   "Journey",
+   "Journey 4",
+   0.9
+  ],
+  [
+   "Journey",
+   "Journey 4",
+   "Journey 3",
+   1.0
+  ],
+  [
+   "Journey",
+   "Journey 3",
+   "Mccoy Park Express Lift bottom",
+   2.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Red Buffalo",
+   "Unnamed run / Cinch",
+   0.7
+  ],
+  [
+   "Lower Stirrup",
+   "Arrow Bahn Express Lift top",
+   "Lower Stirrup",
+   0.5
+  ],
+  [
+   "Lower Stirrup",
+   "Lower Stirrup",
+   "Lower Stirrup 2",
+   2.0
+  ],
+  [
+   "Lower Stirrup",
+   "Lower Stirrup 2",
+   "Springtooth / Lower Stirrup",
+   3.8
+  ],
+  [
+   "Lower Stirrup",
+   "Springtooth / Lower Stirrup",
+   "Lower Stirrup / Unnamed run",
+   1.4
+  ],
+  [
+   "Everkrisp",
+   "Everkrisp",
+   "Everkrisp 4",
+   0.5
+  ],
+  [
+   "Everkrisp",
+   "Everkrisp 4",
+   "Everkrisp 3",
+   0.6
+  ],
+  [
+   "Everkrisp",
+   "Everkrisp 3",
+   "Unnamed run / Everkrisp",
+   0.5
+  ],
+  [
+   "Everkrisp",
+   "Unnamed run / Everkrisp",
+   "Everkrisp 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Centennial Express Lift top",
+   "Unnamed run / Cinch 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift bottom",
+   "Highlands Lift bottom",
+   1.4
+  ],
+  [
+   "Solitude",
+   "Golden Eagle Flyway 2",
+   "Golden Eagle Flyway / Solitude",
+   2.7
+  ],
+  [
+   "Solitude",
+   "Golden Eagle Flyway / Solitude",
+   "Solitude",
+   0.7
+  ],
+  [
+   "Solitude",
+   "Solitude",
+   "Goshawk-Upper / Solitude",
+   0.7
+  ],
+  [
+   "Solitude",
+   "Goshawk-Upper / Solitude",
+   "Centennial 3",
+   0.5
+  ],
+  [
+   "Everkrisp",
+   "Everkrisp 2",
+   "Everkrisp / Cabin Fever",
+   2.1
+  ],
+  [
+   "Centennial",
+   "Centennial",
+   "Centennial / Cinch",
+   2.1
+  ],
+  [
+   "Unwind",
+   "Unwind",
+   "Unwind / Primrose",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Cinch / Piney",
+   "Centennial",
+   1.8
+  ],
+  [
+   "Cinch",
+   "Centennial",
+   "Goshawk-Upper / Cinch",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Goshawk-Upper / Cinch",
+   "Centennial",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Centennial",
+   "Cinch 5",
+   0.9
+  ],
+  [
+   "Cinch",
+   "Cinch 5",
+   "Sheephorn-Upper 3",
+   0.9
+  ],
+  [
+   "Cinch",
+   "Sheephorn-Upper 3",
+   "Cinch 7",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Cinch 7",
+   "Red Buffalo Express Lift bottom",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Red Buffalo Express Lift bottom",
+   "Unnamed run / Cinch",
+   0.6
+  ],
+  [
+   "Cinch",
+   "Unnamed run / Cinch",
+   "Cinch 2",
+   0.6
+  ],
+  [
+   "Cinch",
+   "Cinch 2",
+   "Ripsaw / Cinch",
+   0.7
+  ],
+  [
+   "Cinch",
+   "Ripsaw / Cinch",
+   "Spider / Sheephorn Escape",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Spider / Sheephorn Escape",
+   "Sheephorn Escape / Cinch",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Sheephorn Escape / Cinch",
+   "Keller Glade / Cinch",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Keller Glade / Cinch",
+   "Cinch",
+   0.9
+  ],
+  [
+   "Cinch",
+   "Cinch",
+   "Centennial / Cinch",
+   0.7
+  ],
+  [
+   "Cinch",
+   "Centennial / Cinch",
+   "Unnamed run / Cinch 2",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Unnamed run / Cinch 2",
+   "Cinch 3",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Cinch 3",
+   "Centennial (Willy's Face) / Cinch",
+   0.6
+  ],
+  [
+   "Cinch",
+   "Centennial (Willy's Face) / Cinch",
+   "Helmut's / Gary's",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Helmut's / Gary's",
+   "Latigo-Upper / Cinch",
+   1.8
+  ],
+  [
+   "Cinch",
+   "Latigo-Upper / Cinch",
+   "Cinch 6",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Cinch 6",
+   "Gold Dust / Cinch",
+   0.6
+  ],
+  [
+   "Cinch",
+   "Gold Dust / Cinch",
+   "Bridle / Cinch",
+   2.8
+  ],
+  [
+   "Cinch",
+   "Bridle / Cinch",
+   "Fool's Gold / Cinch",
+   3.2
+  ],
+  [
+   "Cinch",
+   "Fool's Gold / Cinch",
+   "Gold Dust 2",
+   0.9
+  ],
+  [
+   "Cinch",
+   "Gold Dust 2",
+   "Gold Dust 3",
+   1.9
+  ],
+  [
+   "Cinch",
+   "Gold Dust 3",
+   "Assay / Cinch",
+   4.7
+  ],
+  [
+   "Cinch",
+   "Assay / Cinch",
+   "Gold Dust / Cinch 2",
+   3.3
+  ],
+  [
+   "Cinch",
+   "Gold Dust / Cinch 2",
+   "Haymeadow Express top",
+   3.4
+  ],
+  [
+   "Cinch",
+   "Haymeadow Express top",
+   "Unnamed lift top 2",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 4",
+   0.5
+  ],
+  [
+   "Cinch",
+   "Unnamed lift bottom 4",
+   "Unnamed lift bottom",
+   0.5
+  ],
+  [
+   "Splendor",
+   "Journey",
+   "Splendor",
+   2.0
+  ],
+  [
+   "Splendor",
+   "Splendor",
+   "Splendor / Exploration",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Cinch Express Lift bottom",
+   "Latigo-Upper",
+   0.5
+  ],
+  [
+   "Affinity",
+   "Journey 2",
+   "Tranquility",
+   1.6
+  ],
+  [
+   "Addy's",
+   "Helmut's",
+   "Addy's / Dally",
+   2.1
+  ],
+  [
+   "Ridge Runner",
+   "Everkrisp 3",
+   "Unnamed run / Ridge Runner",
+   0.5
+  ],
+  [
+   "Ridge Runner",
+   "Unnamed run / Ridge Runner",
+   "Ridge Runner 2",
+   0.9
+  ],
+  [
+   "Ridge Runner",
+   "Ridge Runner 2",
+   "Ridge Runner",
+   0.5
+  ],
+  [
+   "West Fall Road",
+   "West Fall Road / Redtail",
+   "Goshawk-Lower / West Fall Road",
+   0.8
+  ],
+  [
+   "West Fall Road",
+   "Goshawk-Lower / West Fall Road",
+   "Golden Eagle-Middle / West Fall Road",
+   2.5
+  ],
+  [
+   "Dally",
+   "Fool's Gold / Cinch",
+   "Corkscrew / Dally",
+   1.1
+  ],
+  [
+   "Dally",
+   "Corkscrew / Dally",
+   "Gary's / Dally",
+   0.5
+  ],
+  [
+   "Dally",
+   "Gary's / Dally",
+   "Addy's / Dally",
+   0.5
+  ],
+  [
+   "Dally",
+   "Addy's / Dally",
+   "Centennial (Willy's Face) 3",
+   1.0
+  ],
+  [
+   "Dally",
+   "Centennial (Willy's Face) 3",
+   "Dally",
+   3.6
+  ],
+  [
+   "Dally",
+   "Dally",
+   "Dally 2",
+   0.5
+  ],
+  [
+   "Dally",
+   "Dally 2",
+   "Larkspur Express Lift bottom",
+   2.4
+  ],
+  [
+   "Three Tree Gully",
+   "Three Tree Gully / Primrose",
+   "Three Tree Gully / Bluebell",
+   2.5
+  ],
+  [
+   "Bluebell",
+   "Three Tree Gully / Bluebell",
+   "Bluebell / Ford's Way",
+   1.4
+  ],
+  [
+   "Aspen Alley",
+   "Upper Stirrup",
+   "Arrow Bahn Express Lift top",
+   1.4
+  ],
+  [
+   "Primrose",
+   "Unwind / Primrose",
+   "Three Tree Gully / Primrose",
+   0.6
+  ],
+  [
+   "Primrose",
+   "Three Tree Gully / Primrose",
+   "Primrose 5",
+   0.7
+  ],
+  [
+   "Primrose",
+   "Primrose 5",
+   "Unnamed run",
+   2.9
+  ],
+  [
+   "Primrose",
+   "Unnamed run",
+   "Upper Beaver Creek Mountain Express Lift top",
+   0.5
+  ],
+  [
+   "Primrose",
+   "Upper Beaver Creek Mountain Express Lift top",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Primrose",
+   "Unnamed run",
+   "Strawberry Park Express Lift top",
+   0.5
+  ],
+  [
+   "Primrose",
+   "Strawberry Park Express Lift top",
+   "Primrose 2",
+   3.4
+  ],
+  [
+   "Unnamed run",
+   "Cinch",
+   "Cinch Express Lift bottom",
+   0.8
+  ],
+  [
+   "Osprey",
+   "Bald Eagle",
+   "Bald Eagle 2",
+   3.6
+  ],
+  [
+   "Stone Creek Meadows",
+   "Latigo-Upper 2",
+   "Spider / Stone Creek Meadows",
+   2.1
+  ],
+  [
+   "Stone Creek Meadows",
+   "Spider / Stone Creek Meadows",
+   "Bridle / Stone Creek Meadows",
+   0.7
+  ],
+  [
+   "Stone Creek Meadows",
+   "Bridle / Stone Creek Meadows",
+   "Stone Creek Meadows 2",
+   0.5
+  ],
+  [
+   "Stone Creek Meadows",
+   "Stone Creek Meadows 2",
+   "Stone Creek Meadows",
+   0.6
+  ],
+  [
+   "Stone Creek Meadows",
+   "Stone Creek Meadows",
+   "Rose Bowl Express Lift bottom",
+   0.5
+  ],
+  [
+   "Mystic Maze",
+   "Sheephorn-Upper",
+   "Sheephorn-Upper 2",
+   1.8
+  ],
+  [
+   "Intertwine",
+   "Bachelor Gulch Express Lift top",
+   "Coyote Glade / Intertwine",
+   0.5
+  ],
+  [
+   "Intertwine",
+   "Coyote Glade / Intertwine",
+   "Primrose",
+   1.0
+  ],
+  [
+   "Ripsaw",
+   "Cinch 2",
+   "Ripsaw",
+   1.3
+  ],
+  [
+   "Ripsaw",
+   "Ripsaw",
+   "Stone Creek Meadows",
+   3.7
+  ],
+  [
+   "Tall Timber",
+   "Ridge Runner 2",
+   "Home Fire / Tall Timber",
+   3.2
+  ],
+  [
+   "Intertwine",
+   "Primrose 3",
+   "Unnamed run / Intertwine",
+   1.5
+  ],
+  [
+   "Intertwine",
+   "Unnamed run / Intertwine",
+   "Intertwine",
+   0.8
+  ],
+  [
+   "Stacker",
+   "Stacker / Intertwine",
+   "Stacker / Intertwine 2",
+   1.0
+  ],
+  [
+   "Kestral",
+   "Golden Eagle-Middle / Golden Eagle-Upper",
+   "Goshawk-Lower / Kestral",
+   2.8
+  ],
+  [
+   "Lupine",
+   "Lupine / Loco",
+   "Lupine / Larkspur Bowl",
+   0.8
+  ],
+  [
+   "Redtail",
+   "Unnamed run / Cinch 2",
+   "West Fall Road / Redtail",
+   1.1
+  ],
+  [
+   "Redtail",
+   "West Fall Road / Redtail",
+   "Redtail",
+   3.2
+  ],
+  [
+   "Redtail",
+   "Redtail",
+   "Redtail 2",
+   0.9
+  ],
+  [
+   "Redtail",
+   "Redtail 2",
+   "Unnamed run / Redtail",
+   0.5
+  ],
+  [
+   "Redtail",
+   "Unnamed run / Redtail",
+   "Grouse Mountain Express Lift bottom",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Lower Stirrup / Unnamed run",
+   "Lower Beaver Creek Mountain Express Lift top",
+   0.8
+  ],
+  [
+   "Highlands Skiway",
+   "Highlands Lift bottom",
+   "Highlands Skiway / Charter Skiway",
+   0.9
+  ],
+  [
+   "Elkhorn Skiway",
+   "Elkhorn Skiway / Bedstraw",
+   "Elkhorn Skiway 3",
+   0.5
+  ],
+  [
+   "Stacker",
+   "Stacker / Bitterroot",
+   "President Ford's",
+   2.9
+  ],
+  [
+   "Cold Snap",
+   "Cold Snap / Roughlock",
+   "Everkrisp 4",
+   0.6
+  ],
+  [
+   "Home Run",
+   "Home Run / Settlers Way",
+   "Home Run",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Home Run",
+   "Home Run / Borders Loop",
+   2.1
+  ],
+  [
+   "Piece O'Cake",
+   "Arrow Bahn Express Lift top",
+   "Lower Stirrup",
+   0.5
+  ],
+  [
+   "Piece O'Cake",
+   "Lower Stirrup",
+   "Piece O'Cake 2",
+   0.5
+  ],
+  [
+   "Piece O'Cake",
+   "Piece O'Cake 2",
+   "Cresta / Piece O'Cake",
+   0.5
+  ],
+  [
+   "Piece O'Cake",
+   "Cresta / Piece O'Cake",
+   "Piece O'Cake",
+   0.6
+  ],
+  [
+   "Piece O'Cake",
+   "Piece O'Cake",
+   "Wapiti-Upper / Wapiti-Lower",
+   3.4
+  ],
+  [
+   "Piece O'Cake",
+   "Wapiti-Upper / Wapiti-Lower",
+   "Piece O'Cake 3",
+   1.1
+  ],
+  [
+   "Piece O'Cake",
+   "Piece O'Cake 3",
+   "Everkrisp / Piece O'Cake",
+   0.9
+  ],
+  [
+   "Piece O'Cake",
+   "Everkrisp / Piece O'Cake",
+   "Tomahawk",
+   9.4
+  ],
+  [
+   "Piece O'Cake",
+   "Tomahawk",
+   "Piece O'Cake / Golden Bear",
+   2.8
+  ],
+  [
+   "Golden Bear",
+   "Piece O'Cake",
+   "Wapiti-Lower / Golden Bear",
+   4.7
+  ],
+  [
+   "Golden Bear",
+   "Wapiti-Lower / Golden Bear",
+   "Piece O'Cake / Golden Bear",
+   2.7
+  ],
+  [
+   "Harrier-Upper",
+   "Cinch 3",
+   "Harrier-Upper",
+   1.7
+  ],
+  [
+   "Gunders",
+   "Bachelor Gulch Express Lift top",
+   "Primrose 4",
+   1.0
+  ],
+  [
+   "Gunders",
+   "Primrose 4",
+   "Gunders",
+   2.1
+  ],
+  [
+   "Gunders",
+   "Gunders",
+   "Lower Beaver Creek Mountain Express Lift top",
+   2.3
+  ],
+  [
+   "Sanctuary",
+   "Larkspur Express Lift top",
+   "Enchantment / Sanctuary",
+   0.7
+  ],
+  [
+   "Sanctuary",
+   "Enchantment / Sanctuary",
+   "Enchantment",
+   0.5
+  ],
+  [
+   "Sanctuary",
+   "Enchantment",
+   "Sanctuary",
+   2.3
+  ],
+  [
+   "Sanctuary",
+   "Sanctuary",
+   "Endeavor / Enchantment",
+   0.8
+  ],
+  [
+   "Sanctuary",
+   "Endeavor / Enchantment",
+   "Sanctuary 2",
+   0.5
+  ],
+  [
+   "Sanctuary",
+   "Sanctuary 2",
+   "Sanctuary / Exploration",
+   0.5
+  ],
+  [
+   "Stickline",
+   "Centennial (Willy's Face) 2",
+   "Moonshine",
+   5.3
+  ],
+  [
+   "Web",
+   "Spider",
+   "Stone Creek Meadows 2",
+   2.2
+  ],
+  [
+   "Roughlock",
+   "Roughlock",
+   "Roughlock 2",
+   0.8
+  ],
+  [
+   "Bear Trap",
+   "Centennial (Willy's Face) 3",
+   "1876 / Bear Trap",
+   2.3
+  ],
+  [
+   "Bear Trap",
+   "1876 / Bear Trap",
+   "Bear Trap / Haymeadow",
+   2.3
+  ],
+  [
+   "Red Buffalo",
+   "Red Buffalo Express Lift top",
+   "Powell / Red Buffalo",
+   0.5
+  ],
+  [
+   "Red Buffalo",
+   "Powell / Red Buffalo",
+   "Red Buffalo 2",
+   0.5
+  ],
+  [
+   "Red Buffalo",
+   "Red Buffalo 2",
+   "Red Buffalo",
+   2.1
+  ],
+  [
+   "Red Buffalo",
+   "Red Buffalo",
+   "Red Buffalo 3",
+   3.1
+  ],
+  [
+   "Red Buffalo",
+   "Red Buffalo 3",
+   "Unnamed run / Red Buffalo",
+   0.5
+  ],
+  [
+   "Red Buffalo",
+   "Unnamed run / Red Buffalo",
+   "Red Buffalo Express Lift bottom",
+   0.5
+  ],
+  [
+   "Bear Paw",
+   "Bear Paw / Roughlock",
+   "Lower Stirrup / Unnamed run",
+   1.5
+  ],
+  [
+   "Charter Skiway",
+   "Highlands Skiway / Charter Skiway",
+   "Elkhorn Lift bottom",
+   3.9
+  ],
+  [
+   "Goshawk-Upper",
+   "Goshawk-Upper 2",
+   "Goshawk-Upper",
+   0.8
+  ],
+  [
+   "Goshawk-Upper",
+   "Goshawk-Upper",
+   "Goshawk-Lower / West Fall Road",
+   1.1
+  ],
+  [
+   "Ford's Way",
+   "Bluebell / Ford's Way",
+   "Ford's Way / Larkspur Bowl",
+   2.8
+  ],
+  [
+   "Unnamed run",
+   "Birds of Prey Express Lift top",
+   "Solitude",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Cinch 4",
+   "Highlands Skiway / Charter Skiway",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "Highlands Skiway / Charter Skiway",
+   "Buckaroo Bowl / Unnamed run",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Buckaroo Bowl / Unnamed run",
+   "Unnamed lift bottom 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift bottom 3",
+   "Haymeadow Express bottom",
+   0.5
+  ],
+  [
+   "Elkhorn Skiway",
+   "Ridgepoint Skiway 2",
+   "Elkhorn Skiway / Leave the Beav",
+   0.8
+  ],
+  [
+   "Sawbuck",
+   "Sawbuck",
+   "Coyote Glade / Sawbuck",
+   1.1
+  ],
+  [
+   "Sawbuck",
+   "Coyote Glade / Sawbuck",
+   "Sawbuck 2",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Rose Bowl Express Lift top",
+   "Cinch 5",
+   0.5
+  ],
+  [
+   "Easy Come Easy Go",
+   "Maverick / Easy Come Easy Go",
+   "Easy Come Easy Go / Sawbuck",
+   2.2
+  ],
+  [
+   "McCoy Skiway",
+   "McCoy Skiway / Bedstraw",
+   "Borders Skiway / McCoy Skiway",
+   1.7
+  ],
+  [
+   "McCoy Skiway",
+   "Borders Skiway / McCoy Skiway",
+   "Elkhorn Skiway / McCoy Skiway",
+   1.1
+  ],
+  [
+   "Unwind",
+   "Mccoy Park Express Lift top",
+   "Endeavor / Unwind",
+   2.5
+  ],
+  [
+   "Unwind",
+   "Endeavor / Unwind",
+   "Unwind 2",
+   0.5
+  ],
+  [
+   "Unwind",
+   "Unwind 2",
+   "Unwind",
+   0.5
+  ],
+  [
+   "Harrier-Lower",
+   "Dally",
+   "Harrier-Lower",
+   1.8
+  ],
+  [
+   "Harrier-Lower",
+   "Harrier-Lower",
+   "Harrier-Lower / Dally",
+   0.5
+  ],
+  [
+   "Borders Loop",
+   "Home Run",
+   "Borders Skiway / Borders Loop",
+   1.1
+  ],
+  [
+   "Borders Loop",
+   "Borders Skiway / Borders Loop",
+   "Home Run / Borders Loop",
+   2.0
+  ],
+  [
+   "Borders Loop",
+   "Home Run / Borders Loop",
+   "Haw / Borders Loop",
+   1.2
+  ],
+  [
+   "Borders Loop",
+   "Haw / Borders Loop",
+   "Gee / Borders Loop",
+   0.5
+  ],
+  [
+   "Borders Loop",
+   "Gee / Borders Loop",
+   "Borders Loop / Settlers Way",
+   0.5
+  ],
+  [
+   "Meander",
+   "Elkhorn Lift top",
+   "Maverick / Meander",
+   0.8
+  ],
+  [
+   "Latigo-Lower",
+   "Latigo-Upper / Cinch",
+   "Gary's / Dally",
+   2.3
+  ],
+  [
+   "Latigo-Lower",
+   "Gary's / Dally",
+   "Corkscrew / Latigo-Lower",
+   1.2
+  ],
+  [
+   "Latigo-Lower",
+   "Corkscrew / Latigo-Lower",
+   "Latigo-Lower / Haymeadow",
+   3.2
+  ],
+  [
+   "Leave the Beav",
+   "Bachelor Gulch Express Lift bottom",
+   "Leave the Beav 2",
+   0.5
+  ],
+  [
+   "Leave the Beav",
+   "Leave the Beav 2",
+   "Leave the Beav",
+   0.6
+  ],
+  [
+   "Little Brave",
+   "Lower Stirrup",
+   "Piece O'Cake",
+   0.5
+  ],
+  [
+   "Little Brave",
+   "Piece O'Cake",
+   "Wapiti-Upper / Little Brave",
+   0.5
+  ],
+  [
+   "Little Brave",
+   "Wapiti-Upper / Little Brave",
+   "Springtooth / Little Brave",
+   0.5
+  ],
+  [
+   "Little Brave",
+   "Springtooth / Little Brave",
+   "Piece O'Cake 3",
+   1.2
+  ],
+  [
+   "Little Brave",
+   "Piece O'Cake 3",
+   "Everkrisp / Piece O'Cake",
+   1.0
+  ],
+  [
+   "Little Brave",
+   "Everkrisp / Piece O'Cake",
+   "Piece O'Cake / Golden Bear",
+   6.4
+  ],
+  [
+   "Harrier-Lower",
+   "Dally 2",
+   "Harrier-Lower",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Haymeadow Express top",
+   "Unnamed lift top 2",
+   0.5
+  ],
+  [
+   "Solitaire",
+   "Solitaire / Sawbuck",
+   "Solitaire / Sawbuck 2",
+   1.5
+  ],
+  [
+   "Mystic Island",
+   "Powell / Red Buffalo",
+   "Red Buffalo 2",
+   0.5
+  ],
+  [
+   "Mystic Island",
+   "Red Buffalo 2",
+   "Mystic Island",
+   1.2
+  ],
+  [
+   "Mystic Island",
+   "Mystic Island",
+   "Red Buffalo",
+   1.0
+  ],
+  [
+   "Cabin Fever",
+   "Bachelor Gulch Express Lift top",
+   "Sourdough's Slide / Cabin Fever",
+   0.6
+  ],
+  [
+   "Cabin Fever",
+   "Sourdough's Slide / Cabin Fever",
+   "Upper Stirrup / Cabin Fever",
+   1.5
+  ],
+  [
+   "Cabin Fever",
+   "Upper Stirrup / Cabin Fever",
+   "Lower Stirrup 2",
+   2.5
+  ],
+  [
+   "Cabin Fever",
+   "Lower Stirrup 2",
+   "Lower Stirrup / Unnamed run",
+   2.6
+  ],
+  [
+   "Cabin Fever",
+   "Lower Stirrup / Unnamed run",
+   "Unnamed run / Cabin Fever",
+   1.1
+  ],
+  [
+   "Cabin Fever",
+   "Unnamed run / Cabin Fever",
+   "Everkrisp / Cabin Fever",
+   0.6
+  ],
+  [
+   "Cabin Fever",
+   "Everkrisp / Cabin Fever",
+   "Leave the Beav 2",
+   0.9
+  ],
+  [
+   "Cabin Fever",
+   "Leave the Beav 2",
+   "Bachelor Gulch Express Lift bottom",
+   0.5
+  ],
+  [
+   "Pow Wow",
+   "Piece O'Cake 2",
+   "Crossbow / Pow Wow",
+   2.7
+  ],
+  [
+   "Pow Wow",
+   "Crossbow / Pow Wow",
+   "Cresta 4",
+   0.9
+  ],
+  [
+   "Larkspur Bowl",
+   "Larkspur Express Lift top",
+   "Lupine / Larkspur Bowl",
+   1.5
+  ],
+  [
+   "Larkspur Bowl",
+   "Lupine / Larkspur Bowl",
+   "Larkspur Bowl",
+   1.0
+  ],
+  [
+   "Larkspur Bowl",
+   "Larkspur Bowl",
+   "Yarrow / Larkspur Bowl",
+   0.9
+  ],
+  [
+   "Larkspur Bowl",
+   "Yarrow / Larkspur Bowl",
+   "Bluebell / Ford's Way",
+   1.3
+  ],
+  [
+   "Larkspur Bowl",
+   "Bluebell / Ford's Way",
+   "Ford's Way / Larkspur Bowl",
+   1.3
+  ],
+  [
+   "Larkspur Bowl",
+   "Ford's Way / Larkspur Bowl",
+   "Beano / Unnamed run",
+   0.9
+  ],
+  [
+   "Paintbrush",
+   "Paintbrush",
+   "Three Tree Gully / Bluebell",
+   0.5
+  ],
+  [
+   "Paintbrush",
+   "Three Tree Gully / Bluebell",
+   "Paintbrush",
+   0.5
+  ],
+  [
+   "Paintbrush",
+   "Paintbrush",
+   "Paintbrush / Beaver Creek Mountain Expressway",
+   2.6
+  ],
+  [
+   "Harrier-Upper",
+   "Harrier-Upper 2",
+   "Dally",
+   0.8
+  ],
+  [
+   "Exploration",
+   "Unnamed run / Exploration",
+   "Kinship / Exploration",
+   1.3
+  ],
+  [
+   "Exploration",
+   "Kinship / Exploration",
+   "Exploration 2",
+   0.7
+  ],
+  [
+   "Exploration",
+   "Exploration 2",
+   "Sanctuary / Exploration",
+   0.5
+  ],
+  [
+   "Exploration",
+   "Sanctuary / Exploration",
+   "Exploration",
+   0.8
+  ],
+  [
+   "Exploration",
+   "Exploration",
+   "Tranquility / Exploration",
+   0.5
+  ],
+  [
+   "Exploration",
+   "Tranquility / Exploration",
+   "Splendor / Exploration",
+   1.5
+  ],
+  [
+   "Exploration",
+   "Splendor / Exploration",
+   "Exploration 3",
+   0.8
+  ],
+  [
+   "Exploration",
+   "Exploration 3",
+   "Reunion Lift bottom",
+   0.5
+  ],
+  [
+   "Beaver Creek Mountain Expressway",
+   "Strawberry Park Express Lift top",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Beaver Creek Mountain Expressway",
+   "Unnamed run",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   0.5
+  ],
+  [
+   "Beaver Creek Mountain Expressway",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   0.5
+  ],
+  [
+   "Beaver Creek Mountain Expressway",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   "Bitterroot / Beaver Creek Mountain Expressway 3",
+   0.5
+  ],
+  [
+   "Beaver Creek Mountain Expressway",
+   "Bitterroot / Beaver Creek Mountain Expressway 3",
+   "Thresher Glade / Beaver Creek Mountain Expressway",
+   0.5
+  ],
+  [
+   "Beaver Creek Mountain Expressway",
+   "Thresher Glade / Beaver Creek Mountain Expressway",
+   "Paintbrush",
+   3.4
+  ],
+  [
+   "Beaver Creek Mountain Expressway",
+   "Paintbrush",
+   "Three Tree Gully / Bluebell",
+   0.5
+  ],
+  [
+   "Beaver Creek Mountain Expressway",
+   "Three Tree Gully / Bluebell",
+   "Paintbrush",
+   0.5
+  ],
+  [
+   "Beaver Creek Mountain Expressway",
+   "Paintbrush",
+   "Ford's Way / Larkspur Bowl",
+   5.8
+  ],
+  [
+   "Beaver Creek Mountain Expressway",
+   "Ford's Way / Larkspur Bowl",
+   "Paintbrush / Beaver Creek Mountain Expressway",
+   0.5
+  ],
+  [
+   "Beaver Creek Mountain Expressway",
+   "Paintbrush / Beaver Creek Mountain Expressway",
+   "Beano / Unnamed run",
+   1.0
+  ],
+  [
+   "Roughlock",
+   "Roughlock / Ridge Runner",
+   "Leave the Beav 2",
+   0.6
+  ],
+  [
+   "Haymeadow",
+   "Latigo-Lower / Haymeadow",
+   "Bear Trap / Haymeadow",
+   1.5
+  ],
+  [
+   "Haymeadow",
+   "Bear Trap / Haymeadow",
+   "1876",
+   0.9
+  ],
+  [
+   "Haymeadow",
+   "1876",
+   "1876 / Haymeadow",
+   0.5
+  ],
+  [
+   "Haymeadow",
+   "1876 / Haymeadow",
+   "Buckaroo Bowl / Unnamed run",
+   0.5
+  ],
+  [
+   "Haymeadow",
+   "Buckaroo Bowl / Unnamed run",
+   "Centennial Express Lift bottom",
+   0.5
+  ],
+  [
+   "Piney",
+   "Powell",
+   "Powell / Piney",
+   1.5
+  ],
+  [
+   "Piney",
+   "Powell / Piney",
+   "Cinch / Piney",
+   0.8
+  ],
+  [
+   "Piney",
+   "Cinch / Piney",
+   "Slanderous Sam's / Piney",
+   1.7
+  ],
+  [
+   "Piney",
+   "Slanderous Sam's / Piney",
+   "Sheephorn-Upper 3",
+   0.5
+  ],
+  [
+   "Bedstraw",
+   "Maverick",
+   "McCoy Skiway / Bedstraw",
+   0.5
+  ],
+  [
+   "Bedstraw",
+   "McCoy Skiway / Bedstraw",
+   "Second Chance / Bedstraw",
+   3.3
+  ],
+  [
+   "Bedstraw",
+   "Second Chance / Bedstraw",
+   "Elkhorn Skiway / Bedstraw",
+   5.5
+  ],
+  [
+   "Bedstraw",
+   "Elkhorn Skiway / Bedstraw",
+   "Bedstraw",
+   0.6
+  ],
+  [
+   "Leave the Beav",
+   "Leave the Beav",
+   "Rihubarb Skiway / Leave the Beav",
+   1.3
+  ],
+  [
+   "Leave the Beav",
+   "Rihubarb Skiway / Leave the Beav",
+   "Ridgepoint Skiway / Leave the Beav",
+   2.5
+  ],
+  [
+   "Leave the Beav",
+   "Ridgepoint Skiway / Leave the Beav",
+   "Elkhorn Skiway / Leave the Beav",
+   1.5
+  ],
+  [
+   "Leave the Beav",
+   "Elkhorn Skiway / Leave the Beav",
+   "Lower Beaver Creek Mountain Express Lift bottom",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Larkspur Express Lift bottom",
+   "Birds of Prey Express Lift bottom",
+   0.5
+  ],
+  [
+   "Elkhorn Skiway",
+   "Elkhorn Skiway 2",
+   "Ridgepoint Skiway 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Rose Bowl Express Lift top",
+   "Sheephorn-Upper 4",
+   0.5
+  ],
+  [
+   "Screech Owl",
+   "Grouse Mountain Express Lift top",
+   "Raven Ridge / Screech Owl",
+   0.5
+  ],
+  [
+   "Screech Owl",
+   "Raven Ridge / Screech Owl",
+   "Screech Owl",
+   4.7
+  ],
+  [
+   "Screech Owl",
+   "Screech Owl",
+   "Screech Owl / Golden Eagle-Lower",
+   0.5
+  ],
+  [
+   "Loco",
+   "Larkspur Express Lift top",
+   "Lupine / Loco",
+   1.0
+  ],
+  [
+   "Loco",
+   "Lupine / Loco",
+   "Loco",
+   0.7
+  ],
+  [
+   "Loco",
+   "Loco",
+   "Bluebell / Ford's Way",
+   3.2
+  ],
+  [
+   "Barrell Stave",
+   "Cinch 6",
+   "Gold Dust 2",
+   2.2
+  ],
+  [
+   "Bliss",
+   "Mccoy Park Express Lift top",
+   "Venture / Bliss",
+   2.2
+  ],
+  [
+   "Bliss",
+   "Venture / Bliss",
+   "Exploration",
+   3.0
+  ],
+  [
+   "Powell",
+   "Cinch 7",
+   "Spider / Sheephorn Escape",
+   0.9
+  ],
+  [
+   "C Prime",
+   "Latigo-Upper",
+   "Keller Glade / C Prime",
+   1.1
+  ],
+  [
+   "C Prime",
+   "Keller Glade / C Prime",
+   "C Prime",
+   1.0
+  ],
+  [
+   "C Prime",
+   "C Prime",
+   "Spider / Stone Creek Meadows",
+   0.7
+  ],
+  [
+   "Sawbuck",
+   "Primrose 3",
+   "Solitaire / Sawbuck",
+   1.4
+  ],
+  [
+   "Sawbuck",
+   "Solitaire / Sawbuck",
+   "Solitaire / Sawbuck 2",
+   0.8
+  ],
+  [
+   "Sawbuck",
+   "Solitaire / Sawbuck 2",
+   "Maverick / Easy Come Easy Go",
+   0.8
+  ],
+  [
+   "Sawbuck",
+   "Maverick / Easy Come Easy Go",
+   "Sawbuck",
+   0.5
+  ],
+  [
+   "Sawbuck",
+   "Sawbuck",
+   "Easy Come Easy Go / Sawbuck",
+   0.6
+  ],
+  [
+   "Sawbuck",
+   "Easy Come Easy Go / Sawbuck",
+   "Sawbuck 2",
+   1.6
+  ],
+  [
+   "Sawbuck",
+   "Sawbuck 2",
+   "Lower Beaver Creek Mountain Express Lift top",
+   1.0
+  ],
+  [
+   "Sawbuck",
+   "Lower Beaver Creek Mountain Express Lift top",
+   "Second Chance / Sawbuck",
+   1.2
+  ],
+  [
+   "Sawbuck",
+   "Second Chance / Sawbuck",
+   "Sawbuck 3",
+   0.7
+  ],
+  [
+   "Sawbuck",
+   "Sawbuck 3",
+   "Leave the Beav 2",
+   0.6
+  ],
+  [
+   "Dally Alley",
+   "Birds of Prey Express Lift bottom",
+   "Dally Alley / Dally",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Lamplighter",
+   0.5
+  ],
+  [
+   "Harrier-Upper",
+   "Centennial (Willy's Face) 2",
+   "Harrier-Upper",
+   0.9
+  ],
+  [
+   "Harrier-Upper",
+   "Harrier-Upper",
+   "Harrier-Upper 2",
+   2.4
+  ],
+  [
+   "Harrier-Upper",
+   "Harrier-Upper 2",
+   "Dally 2",
+   1.0
+  ],
+  [
+   "Reflection",
+   "Journey 3",
+   "Mccoy Park Express Lift bottom",
+   3.1
+  ],
+  [
+   "Unnamed run",
+   "Red Buffalo Express Lift bottom",
+   "Cinch 7",
+   0.5
+  ],
+  [
+   "Dally",
+   "Larkspur Express Lift bottom",
+   "Dally Alley / Dally",
+   1.2
+  ],
+  [
+   "Dally",
+   "Dally Alley / Dally",
+   "Harrier-Lower",
+   2.6
+  ],
+  [
+   "Dally",
+   "Harrier-Lower",
+   "Harrier-Lower / Dally",
+   0.5
+  ],
+  [
+   "Dally",
+   "Harrier-Lower / Dally",
+   "Moonshine / Dally",
+   0.8
+  ],
+  [
+   "Dally",
+   "Moonshine / Dally",
+   "Dally 3",
+   0.5
+  ],
+  [
+   "Dally",
+   "Dally 3",
+   "Centennial (Willy's Face) / Dally",
+   3.5
+  ],
+  [
+   "Dally",
+   "Centennial (Willy's Face) / Dally",
+   "Centennial Express Lift bottom",
+   0.6
+  ],
+  [
+   "Goshawk Connector",
+   "Goshawk-Upper 2",
+   "Golden Eagle-Middle / Golden Eagle-Upper",
+   1.7
+  ],
+  [
+   "Roughlock",
+   "Piece O'Cake 3",
+   "Bear Paw / Roughlock",
+   0.5
+  ],
+  [
+   "Roughlock",
+   "Bear Paw / Roughlock",
+   "Cold Snap / Roughlock",
+   0.5
+  ],
+  [
+   "Roughlock",
+   "Cold Snap / Roughlock",
+   "Roughlock",
+   0.9
+  ],
+  [
+   "Peregrine",
+   "Goshawk-Lower / Kestral",
+   "Redtail",
+   1.1
+  ],
+  [
+   "Booth Gardens",
+   "Mystic Island",
+   "Slanderous Sam's / Booth Gardens",
+   1.8
+  ],
+  [
+   "Booth Gardens",
+   "Slanderous Sam's / Booth Gardens",
+   "Unnamed run / Red Buffalo",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Lower Stirrup 2",
+   "Sourdough's Slide / Unnamed run",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Sourdough's Slide / Unnamed run",
+   "Gunders",
+   0.5
+  ],
+  [
+   "Gold Rush",
+   "Gold Dust 3",
+   "Gold Dust 4",
+   1.4
+  ],
+  [
+   "Ridge Runner",
+   "Ridge Runner",
+   "Home Fire / Ridge Runner",
+   0.5
+  ],
+  [
+   "Ridge Runner",
+   "Home Fire / Ridge Runner",
+   "Roughlock / Ridge Runner",
+   1.8
+  ],
+  [
+   "Settlers Way",
+   "Settlers Way / Intertwine",
+   "Home Run / Settlers Way",
+   1.7
+  ],
+  [
+   "Settlers Way",
+   "Home Run / Settlers Way",
+   "Haw / Settlers Way",
+   2.1
+  ],
+  [
+   "Settlers Way",
+   "Haw / Settlers Way",
+   "Gee / Settlers Way",
+   0.5
+  ],
+  [
+   "Settlers Way",
+   "Gee / Settlers Way",
+   "Borders Pines Chateau Skiway / Settlers Way",
+   0.5
+  ],
+  [
+   "Settlers Way",
+   "Borders Pines Chateau Skiway / Settlers Way",
+   "Borders Loop / Settlers Way",
+   0.5
+  ],
+  [
+   "Settlers Way",
+   "Borders Loop / Settlers Way",
+   "Settlers Way",
+   0.5
+  ],
+  [
+   "Bootleg",
+   "Moonshine 2",
+   "Dally 3",
+   1.9
+  ],
+  [
+   "Sheephorn-Lower",
+   "Cinch 5",
+   "Sheephorn Escape / Sheephorn-Lower",
+   0.5
+  ],
+  [
+   "Sheephorn-Lower",
+   "Sheephorn Escape / Sheephorn-Lower",
+   "Cinch",
+   1.3
+  ],
+  [
+   "Cataract",
+   "Spider / Sheephorn Escape",
+   "Sheephorn Escape / Cinch",
+   0.5
+  ],
+  [
+   "Cataract",
+   "Sheephorn Escape / Cinch",
+   "C Prime",
+   1.9
+  ],
+  [
+   "Jack Rabbit Alley",
+   "Red Buffalo 2",
+   "Mystic Island",
+   1.3
+  ],
+  [
+   "Jack Rabbit Alley",
+   "Mystic Island",
+   "Red Buffalo 3",
+   4.1
+  ],
+  [
+   "Harmony",
+   "Journey 4",
+   "Splendor",
+   1.1
+  ],
+  [
+   "Primrose",
+   "Larkspur Express Lift top",
+   "Yarrow / Primrose",
+   0.9
+  ],
+  [
+   "Primrose",
+   "Yarrow / Primrose",
+   "Unwind",
+   0.9
+  ],
+  [
+   "Primrose",
+   "Unwind",
+   "Unwind / Primrose",
+   0.5
+  ],
+  [
+   "Roughlock",
+   "Roughlock 2",
+   "Roughlock / Ridge Runner",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Sheephorn-Upper 3",
+   "Red Buffalo Express Lift bottom",
+   0.5
+  ],
+  [
+   "Golden Eagle-Lower",
+   "Screech Owl",
+   "Screech Owl / Golden Eagle-Lower",
+   0.5
+  ],
+  [
+   "Golden Eagle-Lower",
+   "Screech Owl / Golden Eagle-Lower",
+   "Golden Eagle-Lower",
+   1.2
+  ],
+  [
+   "Golden Eagle-Lower",
+   "Golden Eagle-Middle / West Fall Road",
+   "Screech Owl",
+   0.5
+  ],
+  [
+   "Golden Eagle-Lower",
+   "Screech Owl",
+   "Screech Owl / Golden Eagle-Lower",
+   0.5
+  ],
+  [
+   "Golden Eagle-Lower",
+   "Screech Owl / Golden Eagle-Lower",
+   "Golden Eagle-Lower",
+   1.2
+  ],
+  [
+   "Golden Eagle-Lower",
+   "Golden Eagle-Lower",
+   "Redtail 2",
+   1.4
+  ],
+  [
+   "Saddleridge Way",
+   "Unnamed lift bottom",
+   "Saddleridge Way",
+   3.4
+  ],
+  [
+   "Grubstake",
+   "Primrose 4",
+   "Lower Beaver Creek Mountain Express Lift top",
+   4.4
+  ],
+  [
+   "Serenity",
+   "Enchantment",
+   "Sanctuary",
+   2.5
+  ],
+  [
+   "President Ford's",
+   "President Ford's / Thresher Glade",
+   "Creekside Skiway / President Ford's",
+   3.3
+  ],
+  [
+   "Overshot",
+   "Primrose / Overshot",
+   "Overshot / Bitterroot",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Red Buffalo Express Lift top",
+   "Powell / Red Buffalo",
+   0.5
+  ],
+  [
+   "Discovery",
+   "Discovery / Freedom",
+   "Exploration 2",
+   2.4
+  ],
+  [
+   "Intertwine",
+   "Intertwine",
+   "Lamplighter / Intertwine",
+   0.5
+  ],
+  [
+   "Intertwine",
+   "Lamplighter / Intertwine",
+   "Maverick / Meander",
+   0.7
+  ],
+  [
+   "Intertwine",
+   "Maverick / Meander",
+   "Intertwine 2",
+   1.5
+  ],
+  [
+   "Intertwine",
+   "Intertwine 2",
+   "Settlers Way / Intertwine",
+   1.3
+  ],
+  [
+   "Intertwine",
+   "Settlers Way / Intertwine",
+   "Stacker / Intertwine",
+   4.5
+  ],
+  [
+   "Intertwine",
+   "Stacker / Intertwine",
+   "Borders Pines Chateau Skiway / Intertwine",
+   2.0
+  ],
+  [
+   "Intertwine",
+   "Borders Pines Chateau Skiway / Intertwine",
+   "Stacker / Intertwine 2",
+   0.9
+  ],
+  [
+   "Intertwine",
+   "Stacker / Intertwine 2",
+   "Creekside Skiway / President Ford's",
+   0.5
+  ],
+  [
+   "Intertwine",
+   "Creekside Skiway / President Ford's",
+   "Strawberry Park Express Lift bottom",
+   0.5
+  ],
+  [
+   "Bitterroot",
+   "Primrose 5",
+   "Bitterroot / Beaver Creek Mountain Expressway 3",
+   2.9
+  ],
+  [
+   "Bitterroot",
+   "Bitterroot / Beaver Creek Mountain Expressway 3",
+   "President Ford's / Bitterroot",
+   0.6
+  ],
+  [
+   "Bitterroot",
+   "President Ford's / Bitterroot",
+   "Bitterroot",
+   0.8
+  ],
+  [
+   "Bitterroot",
+   "Bitterroot",
+   "Stacker / Bitterroot",
+   0.5
+  ],
+  [
+   "Bitterroot",
+   "Stacker / Bitterroot",
+   "Overshot / Bitterroot",
+   2.3
+  ],
+  [
+   "Bitterroot",
+   "Overshot / Bitterroot",
+   "Intertwine 2",
+   1.2
+  ],
+  [
+   "West Fall Road",
+   "Helmut's / Gary's",
+   "Centennial (Willy's Face) 2",
+   0.5
+  ],
+  [
+   "West Fall Road",
+   "Centennial (Willy's Face) 2",
+   "West Fall Road / Redtail",
+   2.0
+  ],
+  [
+   "Freedom",
+   "Unwind 2",
+   "Unwind",
+   0.5
+  ],
+  [
+   "Freedom",
+   "Unwind",
+   "Unwind 2",
+   0.5
+  ],
+  [
+   "Freedom",
+   "Unwind 2",
+   "Discovery / Freedom",
+   0.5
+  ],
+  [
+   "Freedom",
+   "Discovery / Freedom",
+   "Endeavor / Enchantment",
+   1.8
+  ],
+  [
+   "Freedom",
+   "Endeavor / Enchantment",
+   "Sanctuary 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Cinch 2",
+   "Centennial Express Lift top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Exploration 3",
+   "Mccoy Park Express Lift bottom",
+   0.5
+  ],
+  [
+   "Shooting Star",
+   "Loco",
+   "Larkspur Bowl",
+   1.2
+  ],
+  [
+   "Legacy",
+   "Second Chance",
+   "Legacy",
+   1.7
+  ],
+  [
+   "Gold Dust",
+   "Gold Dust / Cinch 2",
+   "Latigo-Lower / Haymeadow",
+   0.5
+  ],
+  [
+   "Buckboard",
+   "Moonshine 3",
+   "Buckboard",
+   2.6
+  ],
+  [
+   "Buckboard",
+   "Buckboard",
+   "Centennial (Willy's Face) / Dally",
+   1.7
+  ],
+  [
+   "Little Brave",
+   "Piece O'Cake / Golden Bear",
+   "Cresta 6",
+   0.7
+  ],
+  [
+   "Little Brave",
+   "Cresta 6",
+   "Cresta / Little Brave",
+   0.5
+  ],
+  [
+   "Little Brave",
+   "Cresta / Little Brave",
+   "Arrow Bahn Express Lift bottom",
+   1.2
+  ],
+  [
+   "Primrose",
+   "Primrose 2",
+   "Primrose / Overshot",
+   1.0
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Beano / Unnamed run",
+   "Larkspur Express Lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Beano / Unnamed run",
+   "Grouse Mountain Express Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Larkspur Express Lift bottom",
+   "Beano / Unnamed run",
+   2.6
+  ],
+  [
+   "walk",
+   "Larkspur Express Lift bottom",
+   "Grouse Mountain Express Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Larkspur Express Lift bottom",
+   "Birds of Prey Express Lift bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Upper Beaver Creek Mountain Express Lift top",
+   "Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "Upper Beaver Creek Mountain Express Lift top",
+   "Reunion Lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "Upper Beaver Creek Mountain Express Lift top",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   1.1
+  ],
+  [
+   "walk",
+   "Upper Beaver Creek Mountain Express Lift top",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Upper Beaver Creek Mountain Express Lift top",
+   "Unnamed run / Exploration",
+   1.3
+  ],
+  [
+   "walk",
+   "Upper Beaver Creek Mountain Express Lift top",
+   "Strawberry Park Express Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Upper Beaver Creek Mountain Express Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Reunion Lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Strawberry Park Express Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Grouse Mountain Express Lift bottom",
+   "Beano / Unnamed run",
+   0.7
+  ],
+  [
+   "walk",
+   "Grouse Mountain Express Lift bottom",
+   "Larkspur Express Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Mccoy Park Express Lift bottom",
+   "Reunion Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Mccoy Park Express Lift bottom",
+   "Exploration 3",
+   0.9
+  ],
+  [
+   "walk",
+   "Reunion Lift bottom",
+   "Mccoy Park Express Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Reunion Lift bottom",
+   "Exploration 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Sourdough's Slide / Cabin Fever",
+   "Bachelor Gulch Express Lift top",
+   2.4
+  ],
+  [
+   "walk",
+   "Reunion Lift top",
+   "Upper Beaver Creek Mountain Express Lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "Reunion Lift top",
+   "Unnamed run",
+   1.2
+  ],
+  [
+   "walk",
+   "Reunion Lift top",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   1.7
+  ],
+  [
+   "walk",
+   "Reunion Lift top",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Reunion Lift top",
+   "Unnamed run / Exploration",
+   2.5
+  ],
+  [
+   "walk",
+   "Reunion Lift top",
+   "Strawberry Park Express Lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Raven Ridge / Screech Owl",
+   "Grouse Mountain Express Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Ridgepoint Skiway",
+   "Ridgepoint Skiway 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Grouse Mountain Express Lift top",
+   "Raven Ridge / Screech Owl",
+   0.8
+  ],
+  [
+   "walk",
+   "Raven Ridge 2",
+   "Grouse Mountain Express Lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "1876 / Haymeadow",
+   "Haymeadow Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "1876 / Haymeadow",
+   "Centennial Express Lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "1876 / Haymeadow",
+   "Unnamed lift bottom 3",
+   2.1
+  ],
+  [
+   "walk",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   "Upper Beaver Creek Mountain Express Lift top",
+   1.1
+  ],
+  [
+   "walk",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   "Strawberry Park Express Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift top 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Cinch 4",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Haymeadow Express top",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift bottom 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift bottom 4",
+   1.5
+  ],
+  [
+   "walk",
+   "1876",
+   "Haymeadow Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "1876",
+   "Centennial Express Lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "1876",
+   "Unnamed lift bottom 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   "Strawberry Park Express Lift top",
+   2.7
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift top",
+   "Powell / Red Buffalo",
+   0.8
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift top",
+   "Golden Eagle Flyway 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift top",
+   "Red Buffalo 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Golden Eagle Flyway / Solitude",
+   "Birds of Prey Express Lift top",
+   1.6
+  ],
+  [
+   "walk",
+   "Elkhorn Lift bottom",
+   "Settlers Way",
+   1.4
+  ],
+  [
+   "walk",
+   "Raven Ridge 4",
+   "Grouse Mountain Express Lift bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Creekside Skiway / President Ford's",
+   "Centennial Express Lift bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Creekside Skiway / President Ford's",
+   "Strawberry Park Express Lift bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Redtail",
+   "Larkspur Express Lift bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Redtail",
+   "Grouse Mountain Express Lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Birds of Prey Express Lift top",
+   "Unnamed run / Golden Eagle-Upper",
+   3.2
+  ],
+  [
+   "walk",
+   "Birds of Prey Express Lift top",
+   "Goshawk-Upper / Solitude",
+   3.3
+  ],
+  [
+   "walk",
+   "Birds of Prey Express Lift top",
+   "Solitude",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Bachelor Gulch Express Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Leave the Beav",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Roughlock / Ridge Runner",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Leave the Beav 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Sawbuck 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Bachelor Gulch Express Lift bottom",
+   "Unnamed lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Bachelor Gulch Express Lift bottom",
+   "Leave the Beav",
+   2.2
+  ],
+  [
+   "walk",
+   "Bachelor Gulch Express Lift bottom",
+   "Leave the Beav 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Gee / Borders Loop",
+   "Elkhorn Lift bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Arrow Bahn Express Lift top",
+   "Cresta / Piece O'Cake",
+   2.1
+  ],
+  [
+   "walk",
+   "Arrow Bahn Express Lift top",
+   "Piece O'Cake",
+   3.0
+  ],
+  [
+   "walk",
+   "Arrow Bahn Express Lift top",
+   "Lower Stirrup",
+   1.2
+  ],
+  [
+   "walk",
+   "Arrow Bahn Express Lift top",
+   "Piece O'Cake 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Lower Beaver Creek Mountain Express Lift top",
+   "Lower Stirrup / Unnamed run",
+   3.2
+  ],
+  [
+   "walk",
+   "Elkhorn Lift top",
+   "Maverick / Meander",
+   3.0
+  ],
+  [
+   "walk",
+   "Powell / Red Buffalo",
+   "Red Buffalo Express Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Centennial Express Lift top",
+   "Helmut's / Gary's",
+   3.1
+  ],
+  [
+   "walk",
+   "Centennial Express Lift top",
+   "Centennial (Willy's Face) / Cinch",
+   2.5
+  ],
+  [
+   "walk",
+   "Centennial Express Lift top",
+   "Unnamed run / Cinch 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Centennial Express Lift top",
+   "Centennial / Cinch",
+   1.5
+  ],
+  [
+   "walk",
+   "Centennial Express Lift top",
+   "Cinch Express Lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Centennial Express Lift top",
+   "Latigo-Upper",
+   1.9
+  ],
+  [
+   "walk",
+   "Centennial Express Lift top",
+   "Cinch 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Golden Eagle Flyway",
+   "Birds of Prey Express Lift top",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Bear Trap / Haymeadow",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Cinch 4",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Haymeadow Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 4",
+   0.7
+  ],
+  [
+   "walk",
+   "Buckaroo Bowl / Unnamed run",
+   "Haymeadow Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Buckaroo Bowl / Unnamed run",
+   "Centennial Express Lift bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Buckaroo Bowl / Unnamed run",
+   "Strawberry Park Express Lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Buckaroo Bowl / Unnamed run",
+   "Unnamed lift bottom 3",
+   1.2
+  ],
+  [
+   "walk",
+   "Venture / Journey",
+   "Mccoy Park Express Lift top",
+   2.2
+  ],
+  [
+   "walk",
+   "Coyote Glade / Intertwine",
+   "Bachelor Gulch Express Lift top",
+   1.5
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift bottom",
+   "Ripsaw / Cinch",
+   2.8
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift bottom",
+   "Slanderous Sam's / Piney",
+   1.4
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift bottom",
+   "Unnamed run / Red Buffalo",
+   1.8
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift bottom",
+   "Unnamed run / Cinch",
+   2.2
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift bottom",
+   "Cinch 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift bottom",
+   "Sheephorn-Upper 3",
+   0.9
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift bottom",
+   "Cinch 7",
+   0.7
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Cinch",
+   "Cinch Express Lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Dally",
+   "Centennial Express Lift bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Dally",
+   "Strawberry Park Express Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Dally",
+   "Unnamed lift bottom 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Slanderous Sam's / Piney",
+   "Red Buffalo Express Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Slanderous Sam's / Piney",
+   "Rose Bowl Express Lift top",
+   2.1
+  ],
+  [
+   "walk",
+   "Borders Pines Chateau Skiway / Settlers Way",
+   "Elkhorn Lift bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Exploration",
+   "Upper Beaver Creek Mountain Express Lift top",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Exploration",
+   "Strawberry Park Express Lift top",
+   1.0
+  ],
+  [
+   "walk",
+   "Mccoy Park Express Lift top",
+   "Venture / Journey",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Red Buffalo",
+   "Red Buffalo Express Lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Stirrup / Unnamed run",
+   "Lower Beaver Creek Mountain Express Lift top",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Cinch 2",
+   "Centennial Express Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Cinch 2",
+   "Cinch Express Lift bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Highlands Lift bottom",
+   "Saddleridge Way",
+   2.5
+  ],
+  [
+   "walk",
+   "Golden Eagle Flyway 2",
+   "Red Buffalo Express Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Everkrisp / Cabin Fever",
+   "Unnamed lift top",
+   3.1
+  ],
+  [
+   "walk",
+   "Centennial / Cinch",
+   "Centennial Express Lift top",
+   1.5
+  ],
+  [
+   "walk",
+   "Centennial / Cinch",
+   "Cinch Express Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Splendor / Exploration",
+   "Mccoy Park Express Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Cinch Express Lift bottom",
+   "Helmut's / Gary's",
+   3.2
+  ],
+  [
+   "walk",
+   "Cinch Express Lift bottom",
+   "Centennial Express Lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "Cinch Express Lift bottom",
+   "Centennial (Willy's Face) / Cinch",
+   3.4
+  ],
+  [
+   "walk",
+   "Cinch Express Lift bottom",
+   "Unnamed run / Cinch 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Cinch Express Lift bottom",
+   "Centennial / Cinch",
+   2.2
+  ],
+  [
+   "walk",
+   "Cinch Express Lift bottom",
+   "Latigo-Upper",
+   0.6
+  ],
+  [
+   "walk",
+   "Cinch Express Lift bottom",
+   "Latigo-Upper 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Cinch Express Lift bottom",
+   "Cinch 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Latigo-Upper",
+   "Centennial Express Lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Latigo-Upper",
+   "Cinch Express Lift bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Cinch",
+   "Cinch Express Lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift bottom",
+   "Stone Creek Meadows",
+   1.2
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 2",
+   "Rose Bowl Express Lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "Bachelor Gulch Express Lift top",
+   "Sourdough's Slide / Cabin Fever",
+   2.4
+  ],
+  [
+   "walk",
+   "Bachelor Gulch Express Lift top",
+   "Coyote Glade / Intertwine",
+   1.5
+  ],
+  [
+   "walk",
+   "Stone Creek Meadows",
+   "Rose Bowl Express Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Stacker / Intertwine 2",
+   "Strawberry Park Express Lift bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Highlands Skiway / Charter Skiway",
+   "Haymeadow Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Highlands Skiway / Charter Skiway",
+   "Centennial Express Lift bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Highlands Skiway / Charter Skiway",
+   "Unnamed lift bottom 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Cinch 3",
+   "Centennial Express Lift top",
+   1.5
+  ],
+  [
+   "walk",
+   "Cinch 3",
+   "Cinch Express Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Larkspur Express Lift top",
+   "Enchantment / Sanctuary",
+   2.4
+  ],
+  [
+   "walk",
+   "Larkspur Express Lift top",
+   "Enchantment",
+   3.0
+  ],
+  [
+   "walk",
+   "Stone Creek Meadows 2",
+   "Rose Bowl Express Lift bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Solitude",
+   "Birds of Prey Express Lift top",
+   1.3
+  ],
+  [
+   "walk",
+   "Cinch 4",
+   "Highlands Lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Haymeadow Express bottom",
+   "Buckaroo Bowl / Unnamed run",
+   2.2
+  ],
+  [
+   "walk",
+   "Haymeadow Express bottom",
+   "Centennial Express Lift bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Haymeadow Express bottom",
+   "Unnamed lift bottom 3",
+   1.3
+  ],
+  [
+   "walk",
+   "Sawbuck 2",
+   "Lower Beaver Creek Mountain Express Lift top",
+   3.0
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift top",
+   "Sheephorn Escape / Sheephorn-Lower",
+   2.6
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift top",
+   "Red Buffalo Express Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift top",
+   "Slanderous Sam's / Piney",
+   2.1
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift top",
+   "Sheephorn-Upper 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift top",
+   "Cinch 5",
+   1.2
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift top",
+   "Sheephorn-Upper 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift top",
+   "Sheephorn-Upper 4",
+   0.8
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift top",
+   "Cinch 7",
+   2.8
+  ],
+  [
+   "walk",
+   "Cinch 5",
+   "Rose Bowl Express Lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "Borders Loop / Settlers Way",
+   "Elkhorn Lift bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Latigo-Lower / Haymeadow",
+   "Unnamed lift top 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Latigo-Lower / Haymeadow",
+   "Haymeadow Express top",
+   3.3
+  ],
+  [
+   "walk",
+   "Latigo-Lower / Haymeadow",
+   "Unnamed lift bottom 4",
+   2.7
+  ],
+  [
+   "walk",
+   "Leave the Beav",
+   "Unnamed lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Leave the Beav",
+   "Bachelor Gulch Express Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Lower Stirrup",
+   "Arrow Bahn Express Lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "Haymeadow Express top",
+   "Unnamed lift bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Haymeadow Express top",
+   "Unnamed lift top 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Haymeadow Express top",
+   "Bear Trap / Haymeadow",
+   2.0
+  ],
+  [
+   "walk",
+   "Haymeadow Express top",
+   "Cinch 4",
+   2.3
+  ],
+  [
+   "walk",
+   "Haymeadow Express top",
+   "Unnamed lift bottom 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Haymeadow Express top",
+   "Unnamed lift bottom 4",
+   1.3
+  ],
+  [
+   "walk",
+   "Paintbrush / Beaver Creek Mountain Expressway",
+   "Larkspur Express Lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Paintbrush / Beaver Creek Mountain Expressway",
+   "Grouse Mountain Express Lift bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Strawberry Park Express Lift top",
+   "Upper Beaver Creek Mountain Express Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Strawberry Park Express Lift top",
+   "Unnamed run",
+   0.8
+  ],
+  [
+   "walk",
+   "Strawberry Park Express Lift top",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   0.8
+  ],
+  [
+   "walk",
+   "Strawberry Park Express Lift top",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Strawberry Park Express Lift top",
+   "Unnamed run / Exploration",
+   1.0
+  ],
+  [
+   "walk",
+   "Roughlock / Ridge Runner",
+   "Unnamed lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Roughlock / Ridge Runner",
+   "Bachelor Gulch Express Lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Leave the Beav 2",
+   "Unnamed lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Leave the Beav 2",
+   "Bachelor Gulch Express Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Centennial Express Lift bottom",
+   "Creekside Skiway / President Ford's",
+   2.8
+  ],
+  [
+   "walk",
+   "Centennial Express Lift bottom",
+   "Buckaroo Bowl / Unnamed run",
+   1.0
+  ],
+  [
+   "walk",
+   "Centennial Express Lift bottom",
+   "Centennial (Willy's Face) / Dally",
+   1.6
+  ],
+  [
+   "walk",
+   "Centennial Express Lift bottom",
+   "Haymeadow Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Centennial Express Lift bottom",
+   "Strawberry Park Express Lift bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Centennial Express Lift bottom",
+   "Unnamed lift bottom 3",
+   1.4
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 3",
+   "Red Buffalo Express Lift bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Bedstraw",
+   "Elkhorn Skiway / Bedstraw",
+   1.9
+  ],
+  [
+   "walk",
+   "Birds of Prey Express Lift bottom",
+   "Larkspur Express Lift bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Birds of Prey Express Lift bottom",
+   "Dally Alley / Dally",
+   3.2
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 4",
+   "Red Buffalo Express Lift bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 4",
+   "Rose Bowl Express Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Cinch 7",
+   "Red Buffalo Express Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Lamplighter",
+   "Elkhorn Lift top",
+   3.2
+  ],
+  [
+   "walk",
+   "Sawbuck 3",
+   "Unnamed lift top",
+   1.5
+  ],
+  [
+   "walk",
+   "Sawbuck 3",
+   "Bachelor Gulch Express Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Settlers Way",
+   "Haw / Borders Loop",
+   2.4
+  ],
+  [
+   "walk",
+   "Settlers Way",
+   "Elkhorn Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Settlers Way",
+   "Gee / Borders Loop",
+   1.6
+  ],
+  [
+   "walk",
+   "Settlers Way",
+   "Borders Loop / Settlers Way",
+   0.6
+  ],
+  [
+   "walk",
+   "Red Buffalo 2",
+   "Red Buffalo Express Lift top",
+   1.3
+  ],
+  [
+   "walk",
+   "Red Buffalo 3",
+   "Red Buffalo Express Lift bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Redtail 2",
+   "Grouse Mountain Express Lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Saddleridge Way",
+   "Highlands Lift bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Overshot / Bitterroot",
+   "Elkhorn Lift top",
+   2.7
+  ],
+  [
+   "walk",
+   "Strawberry Park Express Lift bottom",
+   "Creekside Skiway / President Ford's",
+   0.9
+  ],
+  [
+   "walk",
+   "Strawberry Park Express Lift bottom",
+   "Buckaroo Bowl / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Strawberry Park Express Lift bottom",
+   "Centennial (Willy's Face) / Dally",
+   2.2
+  ],
+  [
+   "walk",
+   "Strawberry Park Express Lift bottom",
+   "Centennial Express Lift bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Strawberry Park Express Lift bottom",
+   "Unnamed lift bottom 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Exploration 3",
+   "Mccoy Park Express Lift bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Exploration 3",
+   "Reunion Lift bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Legacy",
+   "Elkhorn Skiway / Bedstraw",
+   3.4
+  ],
+  [
+   "walk",
+   "Legacy",
+   "Bedstraw",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Bear Trap / Haymeadow",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Cinch 4",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Haymeadow Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift bottom 4",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Buckaroo Bowl / Unnamed run",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Centennial (Willy's Face) / Dally",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Haymeadow Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Centennial Express Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Strawberry Park Express Lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Unnamed lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Unnamed lift top 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Bear Trap / Haymeadow",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Cinch 4",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Haymeadow Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Unnamed lift bottom 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Beano / Unnamed run",
+   "Birds of Prey Express Lift bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Grouse Mountain Express Lift bottom",
+   "Birds of Prey Express Lift bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Redtail",
+   "Beano / Unnamed run",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Redtail",
+   "Birds of Prey Express Lift bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Paintbrush / Beaver Creek Mountain Expressway",
+   "Beano / Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Paintbrush / Beaver Creek Mountain Expressway",
+   "Birds of Prey Express Lift bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Birds of Prey Express Lift bottom",
+   "Beano / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "Birds of Prey Express Lift bottom",
+   "Grouse Mountain Express Lift bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Unnamed run / Exploration",
+   1.8
+  ],
+  [
+   "walk",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   "Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   "Reunion Lift top",
+   2.3
+  ],
+  [
+   "walk",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   "Unnamed run / Exploration",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Exploration",
+   "Unnamed run",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Exploration",
+   "Reunion Lift top",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Exploration",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Exploration",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Strawberry Park Express Lift top",
+   "Reunion Lift top",
+   2.0
+  ],
+  [
+   "walk",
+   "Raven Ridge 2",
+   "Beano / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Raven Ridge 2",
+   "Larkspur Express Lift bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Raven Ridge 2",
+   "Birds of Prey Express Lift bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Raven Ridge 4",
+   "Beano / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Raven Ridge 4",
+   "Larkspur Express Lift bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Raven Ridge 4",
+   "Birds of Prey Express Lift bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Redtail 2",
+   "Beano / Unnamed run",
+   3.3
+  ],
+  [
+   "walk",
+   "Redtail 2",
+   "Larkspur Express Lift bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Redtail 2",
+   "Birds of Prey Express Lift bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Splendor / Exploration",
+   "Reunion Lift bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Splendor / Exploration",
+   "Exploration 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Powell / Red Buffalo",
+   "Golden Eagle Flyway 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Powell / Red Buffalo",
+   "Red Buffalo 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Golden Eagle Flyway 2",
+   "Powell / Red Buffalo",
+   1.3
+  ],
+  [
+   "walk",
+   "Golden Eagle Flyway 2",
+   "Red Buffalo 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Red Buffalo 2",
+   "Powell / Red Buffalo",
+   2.1
+  ],
+  [
+   "walk",
+   "Red Buffalo 2",
+   "Golden Eagle Flyway 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Gee / Borders Loop",
+   "Settlers Way",
+   4.3
+  ],
+  [
+   "walk",
+   "Borders Pines Chateau Skiway / Settlers Way",
+   "Settlers Way",
+   4.3
+  ],
+  [
+   "walk",
+   "Borders Loop / Settlers Way",
+   "Settlers Way",
+   3.4
+  ],
+  [
+   "walk",
+   "Golden Eagle Flyway / Solitude",
+   "Unnamed run / Golden Eagle-Upper",
+   4.9
+  ],
+  [
+   "walk",
+   "Golden Eagle Flyway / Solitude",
+   "Goshawk-Upper / Solitude",
+   4.9
+  ],
+  [
+   "walk",
+   "Golden Eagle Flyway / Solitude",
+   "Solitude",
+   3.0
+  ],
+  [
+   "walk",
+   "Golden Eagle Flyway",
+   "Unnamed run / Golden Eagle-Upper",
+   5.9
+  ],
+  [
+   "walk",
+   "Golden Eagle Flyway",
+   "Goshawk-Upper / Solitude",
+   6.0
+  ],
+  [
+   "walk",
+   "Golden Eagle Flyway",
+   "Solitude",
+   4.0
+  ],
+  [
+   "walk",
+   "Solitude",
+   "Unnamed run / Golden Eagle-Upper",
+   4.5
+  ],
+  [
+   "walk",
+   "Solitude",
+   "Goshawk-Upper / Solitude",
+   4.6
+  ],
+  [
+   "walk",
+   "Bachelor Gulch Express Lift bottom",
+   "Roughlock / Ridge Runner",
+   3.5
+  ],
+  [
+   "walk",
+   "Bachelor Gulch Express Lift bottom",
+   "Sawbuck 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Everkrisp / Cabin Fever",
+   "Bachelor Gulch Express Lift bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Everkrisp / Cabin Fever",
+   "Leave the Beav",
+   6.0
+  ],
+  [
+   "walk",
+   "Everkrisp / Cabin Fever",
+   "Roughlock / Ridge Runner",
+   6.0
+  ],
+  [
+   "walk",
+   "Everkrisp / Cabin Fever",
+   "Leave the Beav 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Everkrisp / Cabin Fever",
+   "Sawbuck 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Leave the Beav",
+   "Roughlock / Ridge Runner",
+   5.8
+  ],
+  [
+   "walk",
+   "Leave the Beav",
+   "Leave the Beav 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Leave the Beav",
+   "Sawbuck 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Roughlock / Ridge Runner",
+   "Leave the Beav",
+   5.3
+  ],
+  [
+   "walk",
+   "Roughlock / Ridge Runner",
+   "Leave the Beav 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Roughlock / Ridge Runner",
+   "Sawbuck 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Leave the Beav 2",
+   "Leave the Beav",
+   3.0
+  ],
+  [
+   "walk",
+   "Leave the Beav 2",
+   "Roughlock / Ridge Runner",
+   3.7
+  ],
+  [
+   "walk",
+   "Leave the Beav 2",
+   "Sawbuck 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Sawbuck 3",
+   "Leave the Beav",
+   4.4
+  ],
+  [
+   "walk",
+   "Sawbuck 3",
+   "Roughlock / Ridge Runner",
+   4.4
+  ],
+  [
+   "walk",
+   "Sawbuck 3",
+   "Leave the Beav 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Stirrup",
+   "Cresta / Piece O'Cake",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Stirrup",
+   "Piece O'Cake",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Stirrup",
+   "Piece O'Cake 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Sawbuck 2",
+   "Lower Stirrup / Unnamed run",
+   6.2
+  ],
+  [
+   "walk",
+   "Lamplighter",
+   "Maverick / Meander",
+   6.2
+  ],
+  [
+   "walk",
+   "Overshot / Bitterroot",
+   "Maverick / Meander",
+   5.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Cinch 2",
+   "Helmut's / Gary's",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Cinch 2",
+   "Centennial (Willy's Face) / Cinch",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Cinch 2",
+   "Centennial / Cinch",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Cinch 2",
+   "Latigo-Upper",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Cinch 2",
+   "Cinch 3",
+   2.1
+  ],
+  [
+   "walk",
+   "Centennial / Cinch",
+   "Helmut's / Gary's",
+   4.6
+  ],
+  [
+   "walk",
+   "Centennial / Cinch",
+   "Centennial (Willy's Face) / Cinch",
+   4.0
+  ],
+  [
+   "walk",
+   "Centennial / Cinch",
+   "Unnamed run / Cinch 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Centennial / Cinch",
+   "Latigo-Upper",
+   2.9
+  ],
+  [
+   "walk",
+   "Centennial / Cinch",
+   "Cinch 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Latigo-Upper",
+   "Helmut's / Gary's",
+   3.8
+  ],
+  [
+   "walk",
+   "Latigo-Upper",
+   "Centennial (Willy's Face) / Cinch",
+   4.1
+  ],
+  [
+   "walk",
+   "Latigo-Upper",
+   "Unnamed run / Cinch 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Latigo-Upper",
+   "Centennial / Cinch",
+   2.9
+  ],
+  [
+   "walk",
+   "Latigo-Upper",
+   "Cinch 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Cinch 3",
+   "Helmut's / Gary's",
+   4.6
+  ],
+  [
+   "walk",
+   "Cinch 3",
+   "Centennial (Willy's Face) / Cinch",
+   4.0
+  ],
+  [
+   "walk",
+   "Cinch 3",
+   "Unnamed run / Cinch 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Cinch 3",
+   "Centennial / Cinch",
+   3.0
+  ],
+  [
+   "walk",
+   "Cinch 3",
+   "Latigo-Upper",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Bear Trap / Haymeadow",
+   3.8
+  ],
+  [
+   "walk",
+   "Latigo-Lower / Haymeadow",
+   "Unnamed lift bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Latigo-Lower / Haymeadow",
+   "Bear Trap / Haymeadow",
+   5.3
+  ],
+  [
+   "walk",
+   "Latigo-Lower / Haymeadow",
+   "Cinch 4",
+   5.5
+  ],
+  [
+   "walk",
+   "Latigo-Lower / Haymeadow",
+   "Unnamed lift bottom 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Haymeadow Express bottom",
+   "Strawberry Park Express Lift bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Strawberry Park Express Lift bottom",
+   "Haymeadow Express bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Slanderous Sam's / Piney",
+   "Ripsaw / Cinch",
+   4.1
+  ],
+  [
+   "walk",
+   "Slanderous Sam's / Piney",
+   "Unnamed run / Red Buffalo",
+   3.1
+  ],
+  [
+   "walk",
+   "Slanderous Sam's / Piney",
+   "Unnamed run / Cinch",
+   3.6
+  ],
+  [
+   "walk",
+   "Slanderous Sam's / Piney",
+   "Cinch 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Slanderous Sam's / Piney",
+   "Sheephorn-Upper 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Slanderous Sam's / Piney",
+   "Cinch 7",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Red Buffalo",
+   "Ripsaw / Cinch",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Red Buffalo",
+   "Slanderous Sam's / Piney",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Red Buffalo",
+   "Unnamed run / Cinch",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Red Buffalo",
+   "Cinch 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Red Buffalo",
+   "Sheephorn-Upper 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Red Buffalo",
+   "Cinch 7",
+   2.5
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift top",
+   "Ripsaw / Cinch",
+   5.9
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift top",
+   "Unnamed run / Red Buffalo",
+   4.9
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift top",
+   "Unnamed run / Cinch",
+   5.4
+  ],
+  [
+   "walk",
+   "Rose Bowl Express Lift top",
+   "Cinch 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 3",
+   "Ripsaw / Cinch",
+   3.7
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 3",
+   "Slanderous Sam's / Piney",
+   2.3
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 3",
+   "Unnamed run / Red Buffalo",
+   2.7
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 3",
+   "Unnamed run / Cinch",
+   3.2
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 3",
+   "Cinch 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 3",
+   "Cinch 7",
+   1.6
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 4",
+   "Ripsaw / Cinch",
+   5.2
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 4",
+   "Slanderous Sam's / Piney",
+   3.0
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 4",
+   "Unnamed run / Red Buffalo",
+   4.2
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 4",
+   "Unnamed run / Cinch",
+   4.7
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 4",
+   "Cinch 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 4",
+   "Sheephorn-Upper 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 4",
+   "Cinch 7",
+   3.1
+  ],
+  [
+   "walk",
+   "Cinch 7",
+   "Ripsaw / Cinch",
+   3.4
+  ],
+  [
+   "walk",
+   "Cinch 7",
+   "Slanderous Sam's / Piney",
+   2.0
+  ],
+  [
+   "walk",
+   "Cinch 7",
+   "Unnamed run / Red Buffalo",
+   2.5
+  ],
+  [
+   "walk",
+   "Cinch 7",
+   "Unnamed run / Cinch",
+   2.9
+  ],
+  [
+   "walk",
+   "Cinch 7",
+   "Cinch 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Cinch 7",
+   "Sheephorn-Upper 3",
+   1.6
+  ],
+  [
+   "walk",
+   "Red Buffalo 3",
+   "Ripsaw / Cinch",
+   6.0
+  ],
+  [
+   "walk",
+   "Red Buffalo 3",
+   "Slanderous Sam's / Piney",
+   4.5
+  ],
+  [
+   "walk",
+   "Red Buffalo 3",
+   "Unnamed run / Red Buffalo",
+   5.0
+  ],
+  [
+   "walk",
+   "Red Buffalo 3",
+   "Unnamed run / Cinch",
+   5.4
+  ],
+  [
+   "walk",
+   "Red Buffalo 3",
+   "Cinch 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Red Buffalo 3",
+   "Sheephorn-Upper 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Red Buffalo 3",
+   "Cinch 7",
+   3.8
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift bottom",
+   "Rose Bowl Express Lift top",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Red Buffalo",
+   "Rose Bowl Express Lift top",
+   5.3
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 3",
+   "Rose Bowl Express Lift top",
+   4.4
+  ],
+  [
+   "walk",
+   "Cinch 7",
+   "Rose Bowl Express Lift top",
+   4.1
+  ],
+  [
+   "walk",
+   "Red Buffalo 3",
+   "Rose Bowl Express Lift top",
+   6.7
+  ],
+  [
+   "walk",
+   "Cinch 4",
+   "Saddleridge Way",
+   5.9
+  ],
+  [
+   "walk",
+   "Centennial Express Lift top",
+   "Latigo-Upper 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Cinch",
+   "Helmut's / Gary's",
+   6.6
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Cinch",
+   "Centennial Express Lift top",
+   5.2
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Cinch",
+   "Unnamed run / Cinch 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Cinch",
+   "Centennial / Cinch",
+   5.7
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Cinch",
+   "Latigo-Upper",
+   4.1
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Cinch",
+   "Latigo-Upper 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Cinch",
+   "Cinch 3",
+   6.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Cinch 2",
+   "Latigo-Upper 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Centennial / Cinch",
+   "Latigo-Upper 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Latigo-Upper",
+   "Latigo-Upper 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Cinch",
+   "Helmut's / Gary's",
+   6.2
+  ],
+  [
+   "walk",
+   "Cinch",
+   "Centennial Express Lift top",
+   4.8
+  ],
+  [
+   "walk",
+   "Cinch",
+   "Centennial (Willy's Face) / Cinch",
+   6.5
+  ],
+  [
+   "walk",
+   "Cinch",
+   "Unnamed run / Cinch 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Cinch",
+   "Centennial / Cinch",
+   5.3
+  ],
+  [
+   "walk",
+   "Cinch",
+   "Latigo-Upper",
+   3.7
+  ],
+  [
+   "walk",
+   "Cinch",
+   "Latigo-Upper 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Cinch",
+   "Cinch 3",
+   6.2
+  ],
+  [
+   "walk",
+   "Cinch 3",
+   "Latigo-Upper 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Stone Creek Meadows 2",
+   "Stone Creek Meadows",
+   4.4
+  ],
+  [
+   "walk",
+   "Sourdough's Slide / Cabin Fever",
+   "Coyote Glade / Intertwine",
+   3.9
+  ],
+  [
+   "walk",
+   "Coyote Glade / Intertwine",
+   "Sourdough's Slide / Cabin Fever",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Highlands Lift bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Highlands Lift bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Haymeadow Express top",
+   "Highlands Lift bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Highlands Lift bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Highlands Lift bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "1876 / Haymeadow",
+   "Buckaroo Bowl / Unnamed run",
+   2.9
+  ],
+  [
+   "walk",
+   "1876",
+   "Buckaroo Bowl / Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Highlands Skiway / Charter Skiway",
+   "Buckaroo Bowl / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Highlands Skiway / Charter Skiway",
+   "Strawberry Park Express Lift bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Slanderous Sam's / Piney",
+   "Sheephorn Escape / Sheephorn-Lower",
+   4.7
+  ],
+  [
+   "walk",
+   "Slanderous Sam's / Piney",
+   "Sheephorn-Upper 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Slanderous Sam's / Piney",
+   "Cinch 5",
+   3.3
+  ],
+  [
+   "walk",
+   "Slanderous Sam's / Piney",
+   "Sheephorn-Upper 4",
+   3.0
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 2",
+   "Sheephorn Escape / Sheephorn-Lower",
+   3.7
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 2",
+   "Red Buffalo Express Lift bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 2",
+   "Slanderous Sam's / Piney",
+   3.3
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 2",
+   "Cinch 5",
+   2.4
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 2",
+   "Sheephorn-Upper 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 2",
+   "Sheephorn-Upper 4",
+   2.0
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 2",
+   "Cinch 7",
+   4.0
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 2",
+   "Unnamed run / Red Buffalo",
+   6.1
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 2",
+   "Unnamed run / Cinch",
+   6.5
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 2",
+   "Cinch 2",
+   6.9
+  ],
+  [
+   "walk",
+   "Cinch 5",
+   "Sheephorn Escape / Sheephorn-Lower",
+   3.8
+  ],
+  [
+   "walk",
+   "Cinch 5",
+   "Red Buffalo Express Lift bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Cinch 5",
+   "Slanderous Sam's / Piney",
+   3.3
+  ],
+  [
+   "walk",
+   "Cinch 5",
+   "Sheephorn-Upper 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Cinch 5",
+   "Sheephorn-Upper 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Cinch 5",
+   "Sheephorn-Upper 4",
+   2.0
+  ],
+  [
+   "walk",
+   "Cinch 5",
+   "Cinch 7",
+   4.0
+  ],
+  [
+   "walk",
+   "Cinch 5",
+   "Unnamed run / Red Buffalo",
+   6.1
+  ],
+  [
+   "walk",
+   "Cinch 5",
+   "Unnamed run / Cinch",
+   6.6
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 4",
+   "Sheephorn Escape / Sheephorn-Lower",
+   3.4
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 4",
+   "Sheephorn-Upper 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 4",
+   "Cinch 5",
+   2.0
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift bottom",
+   "Sheephorn Escape / Sheephorn-Lower",
+   6.1
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift bottom",
+   "Sheephorn-Upper 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift bottom",
+   "Cinch 5",
+   4.7
+  ],
+  [
+   "walk",
+   "Red Buffalo Express Lift bottom",
+   "Sheephorn-Upper 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Red Buffalo",
+   "Sheephorn-Upper 2",
+   6.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Red Buffalo",
+   "Cinch 5",
+   6.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Red Buffalo",
+   "Sheephorn-Upper 4",
+   6.1
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 3",
+   "Sheephorn-Upper 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 3",
+   "Cinch 5",
+   5.6
+  ],
+  [
+   "walk",
+   "Sheephorn-Upper 3",
+   "Sheephorn-Upper 4",
+   5.3
+  ],
+  [
+   "walk",
+   "Cinch 7",
+   "Sheephorn Escape / Sheephorn-Lower",
+   6.7
+  ],
+  [
+   "walk",
+   "Cinch 7",
+   "Sheephorn-Upper 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Cinch 7",
+   "Cinch 5",
+   5.3
+  ],
+  [
+   "walk",
+   "Cinch 7",
+   "Sheephorn-Upper 4",
+   5.0
+  ],
+  [
+   "walk",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   "Upper Beaver Creek Mountain Express Lift top",
+   3.6
+  ],
+  [
+   "walk",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   "Unnamed run",
+   3.5
+  ],
+  [
+   "walk",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   "Bitterroot / Beaver Creek Mountain Expressway",
+   3.6
+  ],
+  [
+   "walk",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   "Unnamed run / Exploration",
+   3.7
+  ],
+  [
+   "walk",
+   "Bitterroot / Beaver Creek Mountain Expressway 2",
+   "Reunion Lift top",
+   4.7
+  ],
+  [
+   "walk",
+   "1876 / Haymeadow",
+   "Creekside Skiway / President Ford's",
+   4.7
+  ],
+  [
+   "walk",
+   "1876 / Haymeadow",
+   "Centennial (Willy's Face) / Dally",
+   3.4
+  ],
+  [
+   "walk",
+   "1876 / Haymeadow",
+   "Strawberry Park Express Lift bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "1876",
+   "Creekside Skiway / President Ford's",
+   5.5
+  ],
+  [
+   "walk",
+   "1876",
+   "Centennial (Willy's Face) / Dally",
+   4.2
+  ],
+  [
+   "walk",
+   "1876",
+   "Strawberry Park Express Lift bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Creekside Skiway / President Ford's",
+   "Buckaroo Bowl / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "Creekside Skiway / President Ford's",
+   "Centennial (Willy's Face) / Dally",
+   3.1
+  ],
+  [
+   "walk",
+   "Creekside Skiway / President Ford's",
+   "Haymeadow Express bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Creekside Skiway / President Ford's",
+   "Unnamed lift bottom 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Buckaroo Bowl / Unnamed run",
+   "Creekside Skiway / President Ford's",
+   3.9
+  ],
+  [
+   "walk",
+   "Buckaroo Bowl / Unnamed run",
+   "Centennial (Willy's Face) / Dally",
+   2.6
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Dally",
+   "Creekside Skiway / President Ford's",
+   3.1
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Dally",
+   "Buckaroo Bowl / Unnamed run",
+   2.6
+  ],
+  [
+   "walk",
+   "Centennial (Willy's Face) / Dally",
+   "Haymeadow Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Highlands Skiway / Charter Skiway",
+   "Creekside Skiway / President Ford's",
+   5.8
+  ],
+  [
+   "walk",
+   "Highlands Skiway / Charter Skiway",
+   "Centennial (Willy's Face) / Dally",
+   4.7
+  ],
+  [
+   "walk",
+   "Haymeadow Express bottom",
+   "Creekside Skiway / President Ford's",
+   5.2
+  ],
+  [
+   "walk",
+   "Haymeadow Express bottom",
+   "Centennial (Willy's Face) / Dally",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Creekside Skiway / President Ford's",
+   3.9
+  ],
+  [
+   "walk",
+   "Larkspur Express Lift bottom",
+   "Dally Alley / Dally",
+   4.5
+  ],
+  [
+   "walk",
+   "Grouse Mountain Express Lift bottom",
+   "Dally Alley / Dally",
+   6.7
+  ],
+  [
+   "walk",
+   "Elkhorn Lift bottom",
+   "Haw / Borders Loop",
+   3.8
+  ],
+  [
+   "walk",
+   "Elkhorn Lift bottom",
+   "Gee / Borders Loop",
+   3.0
+  ],
+  [
+   "walk",
+   "Elkhorn Lift bottom",
+   "Borders Loop / Settlers Way",
+   2.0
+  ],
+  [
+   "walk",
+   "Gee / Borders Loop",
+   "Haw / Borders Loop",
+   6.7
+  ],
+  [
+   "walk",
+   "Gee / Borders Loop",
+   "Borders Loop / Settlers Way",
+   4.8
+  ],
+  [
+   "walk",
+   "Borders Pines Chateau Skiway / Settlers Way",
+   "Haw / Borders Loop",
+   6.7
+  ],
+  [
+   "walk",
+   "Borders Pines Chateau Skiway / Settlers Way",
+   "Gee / Borders Loop",
+   5.9
+  ],
+  [
+   "walk",
+   "Borders Pines Chateau Skiway / Settlers Way",
+   "Borders Loop / Settlers Way",
+   4.9
+  ],
+  [
+   "walk",
+   "Borders Loop / Settlers Way",
+   "Haw / Borders Loop",
+   5.8
+  ],
+  [
+   "walk",
+   "Borders Loop / Settlers Way",
+   "Gee / Borders Loop",
+   5.0
+  ],
+  [
+   "walk",
+   "Stacker / Intertwine 2",
+   "Creekside Skiway / President Ford's",
+   2.9
+  ],
+  [
+   "walk",
+   "Stacker / Intertwine 2",
+   "Buckaroo Bowl / Unnamed run",
+   5.0
+  ],
+  [
+   "walk",
+   "Stacker / Intertwine 2",
+   "Centennial (Willy's Face) / Dally",
+   4.2
+  ],
+  [
+   "walk",
+   "Stacker / Intertwine 2",
+   "Centennial Express Lift bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Stacker / Intertwine 2",
+   "Unnamed lift bottom 3",
+   4.9
+  ],
+  [
+   "walk",
+   "Stacker / Intertwine 2",
+   "Haymeadow Express bottom",
+   6.3
+  ]
+ ],
+ "base": "Elkhorn Lift bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "24",
+  "downhill_trails": "217",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": "https://www.beavercreek.com/"
+ }
+}

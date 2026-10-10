@@ -1,0 +1,6989 @@
+{
+ "name": "Breckenridge",
+ "source": "OpenSkiMap ski area e1eb4ed2f10fc217647fa66ff48d640814d0c4f7",
+ "origin_lonlat": [
+  -106.07447827804798,
+  39.47323635008239
+ ],
+ "nodes": {
+  "Independence SuperChair top": [
+   -1665,
+   920,
+   3475.3
+  ],
+  "Monte Cristo / Lost Horizon": [
+   -506,
+   1772,
+   3207.7
+  ],
+  "Lobo / Hombre": [
+   -1735,
+   -602,
+   3632.1
+  ],
+  "Lobo / Double Barrel": [
+   -1326,
+   -952,
+   3441.4
+  ],
+  "Chair bottom": [
+   1180,
+   -65,
+   3038.2
+  ],
+  "Lower Sawmill": [
+   1339,
+   -107,
+   3035.4
+  ],
+  "Double Barrel / Lower Boneyard": [
+   -889,
+   -846,
+   3357.8
+  ],
+  "Hombre / No Name": [
+   -1741,
+   -533,
+   3637.9
+  ],
+  "Double Barrel 2": [
+   -1244,
+   -925,
+   3425.4
+  ],
+  "Rounder's / Columbine": [
+   -836,
+   67,
+   3395.5
+  ],
+  "Rounder's / Swinger": [
+   -124,
+   459,
+   3158.2
+  ],
+  "Snowflake top": [
+   503,
+   182,
+   3150.1
+  ],
+  "Peak 8 kids Carpet 2 bottom": [
+   663,
+   739,
+   3039.2
+  ],
+  "Tunnel / Lower Boneyard": [
+   -645,
+   -900,
+   3268.5
+  ],
+  "Peak 8 SuperConnect Upper bottom": [
+   47,
+   -260,
+   3153.9
+  ],
+  "Peak 8 SuperConnect Upper top": [
+   -858,
+   -402,
+   3434.8
+  ],
+  "Chair bottom 2": [
+   -450,
+   -765,
+   3226.3
+  ],
+  "Pika": [
+   -1742,
+   107,
+   3698.7
+  ],
+  "Pika / Lower Forget-Me-Not": [
+   -1216,
+   709,
+   3416.8
+  ],
+  "West Snowbird / Middle Snowbird": [
+   -1657,
+   -498,
+   3626.2
+  ],
+  "Double Barrel 3": [
+   -1031,
+   -873,
+   3390.0
+  ],
+  "Mercury SuperChair top": [
+   -584,
+   -1663,
+   3506.6
+  ],
+  "Briar Rose / Country Boy": [
+   988,
+   -1199,
+   3167.2
+  ],
+  "Falcon SuperChair top": [
+   -13,
+   -2192,
+   3534.4
+  ],
+  "Cimarron / union": [
+   70,
+   -2183,
+   3521.2
+  ],
+  "Rounder's": [
+   -523,
+   262,
+   3295.1
+  ],
+  "Rounder's 2": [
+   -150,
+   427,
+   3163.4
+  ],
+  "Independence SuperChair bottom": [
+   605,
+   1355,
+   3050.4
+  ],
+  "Daydream / Barton's Breezeway": [
+   -1945,
+   2508,
+   3413.3
+  ],
+  "Horseshoe Bowl T-Bar bottom": [
+   -837,
+   669,
+   3348.0
+  ],
+  "Northstar / Little Johnny": [
+   87,
+   664,
+   3125.1
+  ],
+  "Wirepatch / Peak 6 Parkway": [
+   -494,
+   1233,
+   3239.8
+  ],
+  "Wirepatch / Lower Duke's Run": [
+   -256,
+   635,
+   3176.2
+  ],
+  "Silverthorne / Lower American": [
+   1521,
+   -662,
+   3062.1
+  ],
+  "Silverthorne": [
+   1853,
+   -315,
+   3013.7
+  ],
+  "Blue Sky": [
+   1888,
+   354,
+   2973.6
+  ],
+  "Snowflake bottom": [
+   1830,
+   531,
+   2962.2
+  ],
+  "Colorado SuperChair top": [
+   -942,
+   -273,
+   3435.9
+  ],
+  "Boreas": [
+   -185,
+   384,
+   3172.2
+  ],
+  "Bronc / Doublejack": [
+   945,
+   -1747,
+   3249.3
+  ],
+  "Bronc / Flapjack": [
+   1161,
+   -1813,
+   3152.9
+  ],
+  "Crosscut / Lower 4 O'Clock": [
+   929,
+   97,
+   3093.1
+  ],
+  "Park Lane Terrain Park / 4 O'Clock": [
+   -117,
+   -37,
+   3260.1
+  ],
+  "FIVE SuperChair bottom": [
+   621,
+   773,
+   3034.8
+  ],
+  "Kensho SuperChair top": [
+   -2914,
+   2340,
+   3748.6
+  ],
+  "Bliss / Euphoria": [
+   -2525,
+   2072,
+   3556.1
+  ],
+  "Double Barrel 4": [
+   -1125,
+   -891,
+   3405.0
+  ],
+  "Wirepatch / Lost Horizon": [
+   -6,
+   1675,
+   3152.3
+  ],
+  "Bliss": [
+   -2584,
+   2082,
+   3570.3
+  ],
+  "Euphoria / Delirium": [
+   -1711,
+   1833,
+   3405.2
+  ],
+  "Spitfire / Upper Lehman": [
+   85,
+   -1593,
+   3334.4
+  ],
+  "A-Chair top": [
+   774,
+   -1471,
+   3212.5
+  ],
+  "Lower Lehman / Silverthorne": [
+   2002,
+   -130,
+   2972.9
+  ],
+  "Pioneer": [
+   -473,
+   1124,
+   3245.0
+  ],
+  "Rip's Ride top": [
+   608,
+   218,
+   3131.9
+  ],
+  "Rip's Ride bottom": [
+   724,
+   695,
+   3040.7
+  ],
+  "Lower Cashier / Cashier": [
+   1147,
+   -721,
+   3101.1
+  ],
+  "Lower Cashier / Lower Sundown": [
+   1372,
+   -381,
+   3034.8
+  ],
+  "Tunnel": [
+   -409,
+   -683,
+   3222.0
+  ],
+  "union / Upper Lehman": [
+   -213,
+   -1692,
+   3401.7
+  ],
+  "Double Barrel 5": [
+   -981,
+   -866,
+   3377.7
+  ],
+  "Beaver Run SuperChair top": [
+   -356,
+   -1430,
+   3444.4
+  ],
+  "Monte Cristo": [
+   -1075,
+   1405,
+   3310.6
+  ],
+  "Wirepatch / Wirepatch, Peak 6 Parkway": [
+   -521,
+   1287,
+   3243.9
+  ],
+  "White Crown / Ptarmigan": [
+   -1376,
+   648,
+   3462.3
+  ],
+  "Lower Forget-Me-Not": [
+   -1606,
+   853,
+   3467.9
+  ],
+  "Chair top": [
+   -692,
+   -1588,
+   3519.0
+  ],
+  "Chair top 2": [
+   -147,
+   -1162,
+   3420.2
+  ],
+  "Northstar": [
+   -588,
+   703,
+   3265.9
+  ],
+  "Alpine Alley / Imperial Ridge": [
+   -1685,
+   -67,
+   3709.9
+  ],
+  "Imperial SuperChair bottom": [
+   -1610,
+   -443,
+   3624.3
+  ],
+  "Rounder's 3": [
+   -557,
+   229,
+   3310.7
+  ],
+  "Lower American / American": [
+   778,
+   -626,
+   3143.7
+  ],
+  "Unnamed run": [
+   1241,
+   151,
+   3025.6
+  ],
+  "American / Peak 8 Transfer": [
+   330,
+   -805,
+   3243.6
+  ],
+  "Lower Lehman": [
+   1434,
+   -1162,
+   3105.7
+  ],
+  "Red Rover / Lower Sundown": [
+   1598,
+   -311,
+   3006.7
+  ],
+  "Beaver Run SuperChair bottom": [
+   1977,
+   -6,
+   2960.9
+  ],
+  "Unnamed run 2": [
+   1187,
+   42,
+   3032.0
+  ],
+  "Lower 4 O'Clock": [
+   1143,
+   182,
+   3056.6
+  ],
+  "Duke's Run / Columbine": [
+   -778,
+   433,
+   3357.7
+  ],
+  "Pathfinder": [
+   -644,
+   475,
+   3314.7
+  ],
+  "Pioneer 2": [
+   -953,
+   974,
+   3343.7
+  ],
+  "Claimjumper": [
+   -733,
+   900,
+   3307.0
+  ],
+  "Shock / Gold King": [
+   169,
+   -652,
+   3263.1
+  ],
+  "QuickSilver SuperChair bottom": [
+   2280,
+   242,
+   2936.4
+  ],
+  "Briar Rose": [
+   -259,
+   -1552,
+   3426.9
+  ],
+  "Sizzler / Upper Lehman": [
+   -4,
+   -1652,
+   3358.6
+  ],
+  "Gondola Ski Back": [
+   1954,
+   1077,
+   2941.5
+  ],
+  "Gondola Ski Back 2": [
+   2160,
+   1189,
+   2918.0
+  ],
+  "QuickSilver SuperChair top": [
+   1243,
+   -1116,
+   3126.1
+  ],
+  "Falcon SuperChair bottom": [
+   1401,
+   -1198,
+   3108.4
+  ],
+  "Forget Me Not 2": [
+   -1447,
+   701,
+   3460.3
+  ],
+  "Peak 8 SuperConnect Lower bottom": [
+   1653,
+   -271,
+   3001.4
+  ],
+  "Lower Sawmill 2": [
+   1882,
+   -21,
+   2968.2
+  ],
+  "Camelback Platter top": [
+   2047,
+   -44,
+   2959.2
+  ],
+  "Springmeier / Swinger": [
+   598,
+   813,
+   3034.0
+  ],
+  "Claimjumper 2": [
+   -113,
+   1000,
+   3172.1
+  ],
+  "Frosty's Freeway": [
+   -874,
+   -681,
+   3360.8
+  ],
+  "Frosty's Freeway 2": [
+   -534,
+   -785,
+   3249.6
+  ],
+  "Upper 4 O'Clock": [
+   -1688,
+   -438,
+   3638.4
+  ],
+  "4 O'Clock": [
+   -862,
+   -285,
+   3428.1
+  ],
+  "Lower Sawmill 3": [
+   2255,
+   276,
+   2941.2
+  ],
+  "Claimjumper / Lower Forget-Me-Not": [
+   -1265,
+   744,
+   3419.1
+  ],
+  "Rocky Mountain SuperChair bottom": [
+   568,
+   847,
+   3033.7
+  ],
+  "Nirvana / Barton's Breezeway": [
+   -2103,
+   2700,
+   3438.9
+  ],
+  "Pathfinder 2": [
+   -864,
+   -145,
+   3416.1
+  ],
+  "Shock": [
+   82,
+   -382,
+   3172.9
+  ],
+  "Eldorado / Wellington": [
+   997,
+   -1034,
+   3161.0
+  ],
+  "Mercury SuperChair bottom": [
+   1395,
+   -566,
+   3060.8
+  ],
+  "Barton's Breezeway / Lost Horizon": [
+   -909,
+   2059,
+   3260.0
+  ],
+  "Lower American": [
+   886,
+   -674,
+   3133.3
+  ],
+  "Columbia / Lower Sundown": [
+   981,
+   -573,
+   3100.4
+  ],
+  "Springmeier / Callie's Alley": [
+   -505,
+   -96,
+   3349.3
+  ],
+  "Lower Lehman 2": [
+   1326,
+   -1230,
+   3117.6
+  ],
+  "Lower American 2": [
+   981,
+   -705,
+   3120.7
+  ],
+  "Reverie": [
+   -2852,
+   2364,
+   3738.9
+  ],
+  "Barton's Breezeway": [
+   -1803,
+   2240,
+   3386.2
+  ],
+  "Delirium / Lost Horizon": [
+   -1080,
+   2153,
+   3277.9
+  ],
+  "Cimarron / Flapjack": [
+   1138,
+   -1871,
+   3157.7
+  ],
+  "Corsair / Crystal": [
+   209,
+   -2031,
+   3489.6
+  ],
+  "Corsair / Upper Lehman": [
+   291,
+   -1563,
+   3299.2
+  ],
+  "Callie's Alley / Crescendo": [
+   -576,
+   -141,
+   3365.5
+  ],
+  "Spruce": [
+   -398,
+   178,
+   3255.9
+  ],
+  "Ptarmigan": [
+   -1763,
+   187,
+   3681.7
+  ],
+  "Freeway Terrain Park & Pipe / Lower 4 O'Clock": [
+   238,
+   52,
+   3223.6
+  ],
+  "Centennial": [
+   415,
+   -1970,
+   3427.2
+  ],
+  "Doublejack / Flapjack": [
+   1341,
+   -1322,
+   3125.8
+  ],
+  "Intuition": [
+   -2944,
+   2378,
+   3745.2
+  ],
+  "Cashier": [
+   775,
+   -1048,
+   3206.3
+  ],
+  "Peak 6 Parkway / Lincoln Meadows": [
+   -433,
+   1664,
+   3210.7
+  ],
+  "Rocky Mountain SuperChair top": [
+   -955,
+   233,
+   3402.7
+  ],
+  "Claimjumper 3": [
+   514,
+   843,
+   3041.4
+  ],
+  "junction 2": [
+   2203,
+   1170,
+   2917.5
+  ],
+  "Columbine": [
+   -865,
+   288,
+   3375.8
+  ],
+  "Pioneer 3": [
+   -420,
+   1144,
+   3228.9
+  ],
+  "Pioneer 4": [
+   277,
+   1302,
+   3098.5
+  ],
+  "Barton's Breezeway 2": [
+   -1714,
+   2142,
+   3375.7
+  ],
+  "Peerless / Gold King": [
+   -52,
+   -934,
+   3377.1
+  ],
+  "Peak 8 Transfer": [
+   320,
+   -693,
+   3233.2
+  ],
+  "Lobo": [
+   -1718,
+   -656,
+   3619.8
+  ],
+  "Double Barrel 7": [
+   -1437,
+   -967,
+   3456.2
+  ],
+  "Sundown Access / Lower Peerless": [
+   861,
+   -433,
+   3112.7
+  ],
+  "Sundown Access / Lower Bonanza": [
+   1229,
+   -431,
+   3048.8
+  ],
+  "Wirepatch": [
+   -1086,
+   1135,
+   3354.6
+  ],
+  "Lost Horizon": [
+   -184,
+   1706,
+   3168.9
+  ],
+  "Crystal": [
+   759,
+   -1684,
+   3280.5
+  ],
+  "Lower Lehman 3": [
+   834,
+   -1485,
+   3198.1
+  ],
+  "Sawmill": [
+   995,
+   -127,
+   3053.3
+  ],
+  "Chair bottom 3": [
+   -844,
+   -842,
+   3347.3
+  ],
+  "Trygve's / Lower 4 O'Clock": [
+   638,
+   117,
+   3138.7
+  ],
+  "Admin Carpet 1 bottom": [
+   770,
+   700,
+   3045.2
+  ],
+  "Sawmill / Lower 4 O'Clock": [
+   440,
+   34,
+   3193.2
+  ],
+  "Double Barrel 8": [
+   -1513,
+   -968,
+   3467.7
+  ],
+  "Springmeier": [
+   319,
+   578,
+   3096.2
+  ],
+  "Imperial Ridge / Imperial Bowl": [
+   -2232,
+   -34,
+   3891.1
+  ],
+  "Wellington": [
+   1211,
+   -1071,
+   3125.0
+  ],
+  "A-Chair bottom": [
+   1683,
+   -416,
+   3026.6
+  ],
+  "Columbia / Sundown": [
+   147,
+   -1107,
+   3347.3
+  ],
+  "Gondola Ski Back / Lower 4 O'Clock": [
+   1763,
+   738,
+   2971.3
+  ],
+  "Gondola Ski Back 3": [
+   1923,
+   1044,
+   2946.0
+  ],
+  "Unnamed run 4": [
+   1326,
+   -1166,
+   3116.9
+  ],
+  "Pioneer 5": [
+   -227,
+   1177,
+   3197.7
+  ],
+  "Claimjumper 4": [
+   66,
+   1095,
+   3140.7
+  ],
+  "Village Carpet A bottom": [
+   2310,
+   341,
+   2936.4
+  ],
+  "Upper 4 O'Clock 2": [
+   -1565,
+   -428,
+   3614.6
+  ],
+  "Monte Cristo 2": [
+   -1336,
+   1114,
+   3388.2
+  ],
+  "Frontier": [
+   1409,
+   -1012,
+   3101.2
+  ],
+  "Silverthorne 2": [
+   1406,
+   -876,
+   3090.6
+  ],
+  "Lower 4 O'Clock 2": [
+   1836,
+   578,
+   2958.9
+  ],
+  "Cashier 2": [
+   541,
+   -1224,
+   3269.2
+  ],
+  "Lower Lehman 4": [
+   1137,
+   -1209,
+   3140.5
+  ],
+  "Delirium 3": [
+   -1312,
+   1972,
+   3329.6
+  ],
+  "Lower 4 O'Clock 3": [
+   1851,
+   716,
+   2955.5
+  ],
+  "Crosscut": [
+   1128,
+   -54,
+   3040.1
+  ],
+  "Imperial SuperChair top": [
+   -2287,
+   -35,
+   3911.8
+  ],
+  "Gold King": [
+   -111,
+   -1041,
+   3412.0
+  ],
+  "Little Burn": [
+   -245,
+   -1279,
+   3429.1
+  ],
+  "Twister": [
+   530,
+   338,
+   3121.8
+  ],
+  "Lower Sawmill 4": [
+   1811,
+   -80,
+   2977.4
+  ],
+  "Chair top 3": [
+   -1742,
+   -479,
+   3647.2
+  ],
+  "Admin Carpet 1 top": [
+   789,
+   662,
+   3051.4
+  ],
+  "Zendo Chair bottom": [
+   -432,
+   1708,
+   3208.7
+  ],
+  "Zendo Chair top": [
+   -1149,
+   2068,
+   3305.0
+  ],
+  "Horseshoe Bowl T-Bar top": [
+   -1738,
+   -2,
+   3720.9
+  ],
+  "Peak 8 kids Carpet 2 top": [
+   657,
+   691,
+   3045.2
+  ],
+  "FIVE SuperChair top": [
+   -50,
+   12,
+   3251.7
+  ],
+  "BR Kids Carpet bottom": [
+   2044,
+   9,
+   2958.5
+  ],
+  "Kensho SuperChair bottom": [
+   -1171,
+   2161,
+   3280.2
+  ],
+  "Admin Carpet 2 bottom": [
+   832,
+   710,
+   3044.7
+  ],
+  "Camelback Platter bottom": [
+   2228,
+   97,
+   2943.4
+  ],
+  "El Dorado Carpet bottom": [
+   1112,
+   -914,
+   3126.9
+  ],
+  "El Dorado Carpet top": [
+   1037,
+   -983,
+   3146.8
+  ],
+  "BreckConnect Gondola bottom": [
+   2306,
+   1346,
+   2912.8
+  ],
+  "BreckConnect Gondola top": [
+   651,
+   866,
+   3029.2
+  ],
+  "Trygve's Platter bottom": [
+   790,
+   416,
+   3095.8
+  ],
+  "Trygve's Platter top": [
+   677,
+   267,
+   3119.4
+  ],
+  "Freedom Superchair bottom": [
+   -159,
+   1651,
+   3169.9
+  ],
+  "Tweener Carpet bottom": [
+   2259,
+   137,
+   2941.2
+  ],
+  "El Dorado Platter bottom": [
+   1226,
+   -772,
+   3099.2
+  ],
+  "El Dorado Platter top": [
+   1126,
+   -873,
+   3120.5
+  ],
+  "Peak 8 kids Carpet 1 bottom": [
+   621,
+   721,
+   3041.9
+  ]
+ },
+ "lifts": [
+  [
+   "Chair",
+   "Chair bottom 3",
+   "Chair top 3",
+   10.4
+  ],
+  [
+   "Admin Carpet 1",
+   "Admin Carpet 1 bottom",
+   "Admin Carpet 1 top",
+   3.8
+  ],
+  [
+   "Zendo Chair",
+   "Zendo Chair bottom",
+   "Zendo Chair top",
+   9.5
+  ],
+  [
+   "Rocky Mountain SuperChair",
+   "Rocky Mountain SuperChair bottom",
+   "Rocky Mountain SuperChair top",
+   15.0
+  ],
+  [
+   "Horseshoe Bowl T-Bar",
+   "Horseshoe Bowl T-Bar bottom",
+   "Horseshoe Bowl T-Bar top",
+   9.7
+  ],
+  [
+   "Peak 8 kids Carpet 2",
+   "Peak 8 kids Carpet 2 bottom",
+   "Peak 8 kids Carpet 2 top",
+   3.6
+  ],
+  [
+   "FIVE SuperChair",
+   "FIVE SuperChair bottom",
+   "FIVE SuperChair top",
+   10.3
+  ],
+  [
+   "Chair",
+   "Chair bottom",
+   "Chair top 2",
+   15.7
+  ],
+  [
+   "Rip's Ride",
+   "Rip's Ride bottom",
+   "Rip's Ride top",
+   5.0
+  ],
+  [
+   "Mercury SuperChair",
+   "Mercury SuperChair bottom",
+   "Mercury SuperChair top",
+   9.0
+  ],
+  [
+   "Chair",
+   "Chair bottom 2",
+   "Chair top",
+   9.8
+  ],
+  [
+   "Snowflake",
+   "Snowflake bottom",
+   "Snowflake top",
+   13.9
+  ],
+  [
+   "Peak 8 SuperConnect Upper",
+   "Peak 8 SuperConnect Upper bottom",
+   "Peak 8 SuperConnect Upper top",
+   10.1
+  ],
+  [
+   "Kensho SuperChair",
+   "Kensho SuperChair bottom",
+   "Kensho SuperChair top",
+   9.0
+  ],
+  [
+   "Falcon SuperChair",
+   "Falcon SuperChair bottom",
+   "Falcon SuperChair top",
+   15.8
+  ],
+  [
+   "A-Chair",
+   "A-Chair bottom",
+   "A-Chair top",
+   13.3
+  ],
+  [
+   "Camelback Platter",
+   "Camelback Platter bottom",
+   "Camelback Platter top",
+   4.1
+  ],
+  [
+   "Beaver Run SuperChair",
+   "Beaver Run SuperChair bottom",
+   "Beaver Run SuperChair top",
+   22.9
+  ],
+  [
+   "Imperial SuperChair",
+   "Imperial SuperChair bottom",
+   "Imperial SuperChair top",
+   9.1
+  ],
+  [
+   "El Dorado Carpet",
+   "El Dorado Carpet bottom",
+   "El Dorado Carpet top",
+   5.2
+  ],
+  [
+   "QuickSilver SuperChair",
+   "QuickSilver SuperChair bottom",
+   "QuickSilver SuperChair top",
+   8.1
+  ],
+  [
+   "BreckConnect Gondola",
+   "BreckConnect Gondola bottom",
+   "BreckConnect Gondola top",
+   10.7
+  ],
+  [
+   "BreckConnect Gondola",
+   "BreckConnect Gondola top",
+   "BreckConnect Gondola bottom",
+   10.7
+  ],
+  [
+   "Colorado SuperChair",
+   "Rocky Mountain SuperChair bottom",
+   "Colorado SuperChair top",
+   16.7
+  ],
+  [
+   "Trygve's Platter",
+   "Trygve's Platter bottom",
+   "Trygve's Platter top",
+   4.0
+  ],
+  [
+   "Independence SuperChair",
+   "Independence SuperChair bottom",
+   "Independence SuperChair top",
+   19.8
+  ],
+  [
+   "Freedom Superchair",
+   "Freedom Superchair bottom",
+   "Independence SuperChair top",
+   15.6
+  ],
+  [
+   "Tweener Carpet",
+   "Tweener Carpet bottom",
+   "Camelback Platter bottom",
+   3.5
+  ],
+  [
+   "El Dorado Platter",
+   "El Dorado Platter bottom",
+   "El Dorado Platter top",
+   3.8
+  ],
+  [
+   "Peak 8 kids Carpet 1",
+   "Peak 8 kids Carpet 1 bottom",
+   "Peak 8 kids Carpet 2 top",
+   3.3
+  ],
+  [
+   "Peak 8 SuperConnect Lower",
+   "Peak 8 SuperConnect Lower bottom",
+   "Peak 8 SuperConnect Upper bottom",
+   14.4
+  ]
+ ],
+ "runs": [
+  [
+   "Monte Cristo",
+   "Independence SuperChair top",
+   "Monte Cristo 2",
+   1.6
+  ],
+  [
+   "Monte Cristo",
+   "Monte Cristo 2",
+   "Monte Cristo",
+   1.8
+  ],
+  [
+   "Monte Cristo",
+   "Monte Cristo",
+   "Monte Cristo / Lost Horizon",
+   3.0
+  ],
+  [
+   "Lobo",
+   "Lobo / Hombre",
+   "Lobo",
+   0.5
+  ],
+  [
+   "Lobo",
+   "Lobo",
+   "Lobo / Double Barrel",
+   2.1
+  ],
+  [
+   "Lower Sawmill",
+   "Chair bottom",
+   "Lower Sawmill",
+   0.5
+  ],
+  [
+   "Double Barrel",
+   "Double Barrel 8",
+   "Double Barrel 7",
+   0.5
+  ],
+  [
+   "Double Barrel",
+   "Double Barrel 7",
+   "Lobo / Double Barrel",
+   0.5
+  ],
+  [
+   "Double Barrel",
+   "Lobo / Double Barrel",
+   "Double Barrel 2",
+   0.5
+  ],
+  [
+   "Double Barrel",
+   "Double Barrel 2",
+   "Double Barrel 4",
+   0.5
+  ],
+  [
+   "Double Barrel",
+   "Double Barrel 4",
+   "Double Barrel 3",
+   0.5
+  ],
+  [
+   "Double Barrel",
+   "Double Barrel 3",
+   "Double Barrel 5",
+   0.5
+  ],
+  [
+   "Double Barrel",
+   "Double Barrel 5",
+   "Double Barrel / Lower Boneyard",
+   0.5
+  ],
+  [
+   "Hombre",
+   "Hombre / No Name",
+   "Lobo / Hombre",
+   0.5
+  ],
+  [
+   "Hombre",
+   "Lobo / Hombre",
+   "Double Barrel 2",
+   2.5
+  ],
+  [
+   "Rounder's",
+   "Rounder's / Columbine",
+   "Rounder's 3",
+   1.3
+  ],
+  [
+   "Rounder's",
+   "Rounder's 3",
+   "Rounder's",
+   0.5
+  ],
+  [
+   "Rounder's",
+   "Rounder's",
+   "Rounder's 2",
+   2.0
+  ],
+  [
+   "Rounder's",
+   "Rounder's 2",
+   "Rounder's / Swinger",
+   0.5
+  ],
+  [
+   "Twister",
+   "Snowflake top",
+   "Twister",
+   0.6
+  ],
+  [
+   "Twister",
+   "Twister",
+   "Peak 8 kids Carpet 2 top",
+   1.6
+  ],
+  [
+   "Twister",
+   "Peak 8 kids Carpet 2 top",
+   "Peak 8 kids Carpet 2 bottom",
+   0.5
+  ],
+  [
+   "Tunnel",
+   "Tunnel / Lower Boneyard",
+   "Chair bottom 2",
+   0.9
+  ],
+  [
+   "Tunnel",
+   "Chair bottom 2",
+   "Tunnel",
+   0.5
+  ],
+  [
+   "Tunnel",
+   "Tunnel",
+   "Peak 8 SuperConnect Upper bottom",
+   2.6
+  ],
+  [
+   "Frosty's Freeway",
+   "Peak 8 SuperConnect Upper top",
+   "Frosty's Freeway",
+   1.5
+  ],
+  [
+   "Frosty's Freeway",
+   "Frosty's Freeway",
+   "Frosty's Freeway 2",
+   1.7
+  ],
+  [
+   "Frosty's Freeway",
+   "Frosty's Freeway 2",
+   "Chair bottom 2",
+   0.5
+  ],
+  [
+   "Pika",
+   "Pika",
+   "Pika / Lower Forget-Me-Not",
+   3.5
+  ],
+  [
+   "West Snowbird",
+   "West Snowbird / Middle Snowbird",
+   "Double Barrel 4",
+   2.9
+  ],
+  [
+   "West Snowbird",
+   "Double Barrel 4",
+   "Double Barrel 3",
+   0.5
+  ],
+  [
+   "Briar Rose",
+   "Mercury SuperChair top",
+   "Briar Rose",
+   1.3
+  ],
+  [
+   "Briar Rose",
+   "Briar Rose",
+   "Briar Rose / Country Boy",
+   5.6
+  ],
+  [
+   "Cimarron",
+   "Falcon SuperChair top",
+   "Cimarron / union",
+   0.5
+  ],
+  [
+   "Boreas",
+   "Rounder's",
+   "Boreas",
+   1.5
+  ],
+  [
+   "Boreas",
+   "Boreas",
+   "Rounder's 2",
+   0.5
+  ],
+  [
+   "Pioneer",
+   "Independence SuperChair top",
+   "Pioneer 2",
+   3.1
+  ],
+  [
+   "Pioneer",
+   "Pioneer 2",
+   "Pioneer",
+   2.1
+  ],
+  [
+   "Pioneer",
+   "Pioneer",
+   "Pioneer 3",
+   0.5
+  ],
+  [
+   "Pioneer",
+   "Pioneer 3",
+   "Pioneer 5",
+   0.7
+  ],
+  [
+   "Pioneer",
+   "Pioneer 5",
+   "Pioneer 4",
+   2.2
+  ],
+  [
+   "Pioneer",
+   "Pioneer 4",
+   "Independence SuperChair bottom",
+   1.4
+  ],
+  [
+   "Northstar",
+   "Horseshoe Bowl T-Bar bottom",
+   "Northstar",
+   1.0
+  ],
+  [
+   "Northstar",
+   "Northstar",
+   "Northstar / Little Johnny",
+   3.0
+  ],
+  [
+   "Wirepatch",
+   "Wirepatch / Peak 6 Parkway",
+   "Pioneer 3",
+   0.5
+  ],
+  [
+   "Wirepatch",
+   "Pioneer 3",
+   "Wirepatch / Lower Duke's Run",
+   2.3
+  ],
+  [
+   "Silverthorne",
+   "Silverthorne / Lower American",
+   "Silverthorne",
+   1.9
+  ],
+  [
+   "Blue Sky",
+   "Blue Sky",
+   "Snowflake bottom",
+   0.7
+  ],
+  [
+   "Spruce",
+   "Colorado SuperChair top",
+   "Spruce",
+   2.9
+  ],
+  [
+   "Spruce",
+   "Spruce",
+   "Boreas",
+   1.3
+  ],
+  [
+   "Bronc",
+   "Bronc / Doublejack",
+   "Bronc / Flapjack",
+   0.9
+  ],
+  [
+   "Crosscut",
+   "Crosscut / Lower 4 O'Clock",
+   "Crosscut",
+   0.9
+  ],
+  [
+   "Crosscut",
+   "Crosscut",
+   "Chair bottom",
+   0.5
+  ],
+  [
+   "Park Lane Terrain Park",
+   "Park Lane Terrain Park / 4 O'Clock",
+   "FIVE SuperChair top",
+   0.5
+  ],
+  [
+   "Park Lane Terrain Park",
+   "FIVE SuperChair top",
+   "Peak 8 kids Carpet 1 bottom",
+   4.3
+  ],
+  [
+   "Park Lane Terrain Park",
+   "Peak 8 kids Carpet 1 bottom",
+   "FIVE SuperChair bottom",
+   0.5
+  ],
+  [
+   "Sawmill",
+   "Peak 8 SuperConnect Upper bottom",
+   "Sawmill",
+   4.0
+  ],
+  [
+   "Sawmill",
+   "Sawmill",
+   "Crosscut",
+   0.6
+  ],
+  [
+   "Sawmill",
+   "Crosscut",
+   "Chair bottom",
+   0.5
+  ],
+  [
+   "Bliss",
+   "Kensho SuperChair top",
+   "Bliss",
+   2.0
+  ],
+  [
+   "Bliss",
+   "Bliss",
+   "Bliss / Euphoria",
+   0.5
+  ],
+  [
+   "No Name",
+   "Hombre / No Name",
+   "Double Barrel 2",
+   2.7
+  ],
+  [
+   "No Name",
+   "Double Barrel 2",
+   "Double Barrel 4",
+   0.5
+  ],
+  [
+   "Wirepatch",
+   "Independence SuperChair top",
+   "Wirepatch",
+   2.5
+  ],
+  [
+   "Wirepatch",
+   "Wirepatch",
+   "Wirepatch / Lost Horizon",
+   5.4
+  ],
+  [
+   "Euphoria",
+   "Bliss",
+   "Bliss / Euphoria",
+   0.5
+  ],
+  [
+   "Euphoria",
+   "Bliss / Euphoria",
+   "Euphoria / Delirium",
+   3.8
+  ],
+  [
+   "Spitfire",
+   "Falcon SuperChair top",
+   "Spitfire / Upper Lehman",
+   2.6
+  ],
+  [
+   "Lower Lehman",
+   "A-Chair top",
+   "Lower Lehman 3",
+   0.5
+  ],
+  [
+   "Lower Lehman",
+   "Lower Lehman 3",
+   "Lower Lehman 4",
+   1.7
+  ],
+  [
+   "Lower Lehman",
+   "Lower Lehman 4",
+   "Lower Lehman 2",
+   0.6
+  ],
+  [
+   "Lower Lehman",
+   "Lower Lehman 2",
+   "Falcon SuperChair bottom",
+   0.5
+  ],
+  [
+   "Lower Lehman",
+   "Falcon SuperChair bottom",
+   "Lower Lehman",
+   0.5
+  ],
+  [
+   "Lower Lehman",
+   "Lower Lehman",
+   "Lower Lehman / Silverthorne",
+   5.4
+  ],
+  [
+   "Peak 6 Parkway",
+   "Pioneer",
+   "Wirepatch / Peak 6 Parkway",
+   0.5
+  ],
+  [
+   "Dyersville",
+   "Rip's Ride top",
+   "Rip's Ride bottom",
+   2.0
+  ],
+  [
+   "Lower Cashier",
+   "Lower Cashier / Cashier",
+   "Lower Cashier / Lower Sundown",
+   1.6
+  ],
+  [
+   "union",
+   "Cimarron / union",
+   "union / Upper Lehman",
+   4.3
+  ],
+  [
+   "Middle Snowbird",
+   "West Snowbird / Middle Snowbird",
+   "Double Barrel 3",
+   3.2
+  ],
+  [
+   "Middle Snowbird",
+   "Double Barrel 3",
+   "Double Barrel 5",
+   0.5
+  ],
+  [
+   "4 O'Clock",
+   "Colorado SuperChair top",
+   "4 O'Clock",
+   0.5
+  ],
+  [
+   "4 O'Clock",
+   "4 O'Clock",
+   "Park Lane Terrain Park / 4 O'Clock",
+   3.4
+  ],
+  [
+   "Cashier",
+   "Beaver Run SuperChair top",
+   "Cashier 2",
+   3.9
+  ],
+  [
+   "Cashier",
+   "Cashier 2",
+   "Cashier",
+   1.3
+  ],
+  [
+   "Cashier",
+   "Cashier",
+   "Lower Cashier / Cashier",
+   2.2
+  ],
+  [
+   "Wirepatch",
+   "Monte Cristo",
+   "Wirepatch / Wirepatch, Peak 6 Parkway",
+   2.6
+  ],
+  [
+   "Lower Forget-Me-Not",
+   "Independence SuperChair top",
+   "Lower Forget-Me-Not",
+   0.5
+  ],
+  [
+   "Wirepatch, Peak 6 Parkway",
+   "Wirepatch / Wirepatch, Peak 6 Parkway",
+   "Wirepatch / Peak 6 Parkway",
+   0.5
+  ],
+  [
+   "Little Burn",
+   "Chair top",
+   "Mercury SuperChair top",
+   0.5
+  ],
+  [
+   "Little Burn",
+   "Mercury SuperChair top",
+   "Beaver Run SuperChair top",
+   1.5
+  ],
+  [
+   "Little Burn",
+   "Beaver Run SuperChair top",
+   "Little Burn",
+   0.8
+  ],
+  [
+   "Little Burn",
+   "Little Burn",
+   "Chair top 2",
+   0.6
+  ],
+  [
+   "Pathfinder",
+   "Colorado SuperChair top",
+   "Pathfinder 2",
+   0.5
+  ],
+  [
+   "Pathfinder",
+   "Pathfinder 2",
+   "Pathfinder",
+   2.9
+  ],
+  [
+   "Pathfinder",
+   "Pathfinder",
+   "Northstar",
+   1.1
+  ],
+  [
+   "Alpine Alley",
+   "Alpine Alley / Imperial Ridge",
+   "Imperial SuperChair bottom",
+   1.7
+  ],
+  [
+   "High Anxiety",
+   "Rounder's 3",
+   "Rounder's",
+   0.5
+  ],
+  [
+   "High Anxiety",
+   "Rounder's",
+   "Boreas",
+   1.6
+  ],
+  [
+   "Lower American",
+   "Lower American / American",
+   "Lower American",
+   0.5
+  ],
+  [
+   "Lower American",
+   "Lower American",
+   "Lower American 2",
+   0.5
+  ],
+  [
+   "Lower American",
+   "Lower American 2",
+   "Lower Cashier / Cashier",
+   0.7
+  ],
+  [
+   "Lower American",
+   "Lower Cashier / Cashier",
+   "Silverthorne / Lower American",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Chair bottom",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "American",
+   "American / Peak 8 Transfer",
+   "Lower American / American",
+   1.9
+  ],
+  [
+   "Red Rover",
+   "Lower Lehman",
+   "Red Rover / Lower Sundown",
+   3.7
+  ],
+  [
+   "Lower Sawmill",
+   "Lower Sawmill",
+   "Lower Sawmill 4",
+   2.0
+  ],
+  [
+   "Lower Sawmill",
+   "Lower Sawmill 4",
+   "Lower Sawmill 2",
+   0.5
+  ],
+  [
+   "Lower Sawmill",
+   "Lower Sawmill 2",
+   "Beaver Run SuperChair bottom",
+   0.5
+  ],
+  [
+   "Lower 4 O'Clock",
+   "Unnamed run 2",
+   "Lower 4 O'Clock",
+   0.6
+  ],
+  [
+   "Duke's Run",
+   "Duke's Run / Columbine",
+   "Pathfinder",
+   0.5
+  ],
+  [
+   "Snowflake",
+   "Lower Sawmill",
+   "Snowflake bottom",
+   3.8
+  ],
+  [
+   "Claimjumper",
+   "Pioneer 2",
+   "Claimjumper",
+   0.8
+  ],
+  [
+   "Shock",
+   "Shock / Gold King",
+   "Shock",
+   1.2
+  ],
+  [
+   "Shock",
+   "Shock",
+   "Peak 8 SuperConnect Upper bottom",
+   0.6
+  ],
+  [
+   "Silverthorne",
+   "Silverthorne",
+   "Lower Lehman / Silverthorne",
+   0.9
+  ],
+  [
+   "Silverthorne",
+   "Lower Lehman / Silverthorne",
+   "Camelback Platter top",
+   0.5
+  ],
+  [
+   "Silverthorne",
+   "Camelback Platter top",
+   "Camelback Platter bottom",
+   1.0
+  ],
+  [
+   "Silverthorne",
+   "Camelback Platter bottom",
+   "Tweener Carpet bottom",
+   0.5
+  ],
+  [
+   "Silverthorne",
+   "Tweener Carpet bottom",
+   "QuickSilver SuperChair bottom",
+   0.5
+  ],
+  [
+   "Sizzler",
+   "Briar Rose",
+   "Sizzler / Upper Lehman",
+   1.1
+  ],
+  [
+   "Gondola Ski Back",
+   "Gondola Ski Back",
+   "Gondola Ski Back 2",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "QuickSilver SuperChair top",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "Falcon SuperChair bottom",
+   0.5
+  ],
+  [
+   "Lower Boneyard",
+   "Double Barrel / Lower Boneyard",
+   "Chair bottom 3",
+   0.5
+  ],
+  [
+   "Lower Boneyard",
+   "Chair bottom 3",
+   "Tunnel / Lower Boneyard",
+   0.8
+  ],
+  [
+   "King's Way",
+   "Silverthorne",
+   "Peak 8 SuperConnect Lower bottom",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Lower Sawmill 2",
+   "Beaver Run SuperChair bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Beaver Run SuperChair bottom",
+   "Camelback Platter top",
+   0.5
+  ],
+  [
+   "Springmeier",
+   "Park Lane Terrain Park / 4 O'Clock",
+   "Springmeier",
+   3.2
+  ],
+  [
+   "Springmeier",
+   "Springmeier",
+   "Springmeier / Swinger",
+   1.6
+  ],
+  [
+   "Claimjumper",
+   "Claimjumper 2",
+   "Claimjumper 4",
+   0.7
+  ],
+  [
+   "Claimjumper",
+   "Claimjumper 4",
+   "Independence SuperChair bottom",
+   2.6
+  ],
+  [
+   "Lower Psychopath",
+   "Frosty's Freeway",
+   "Frosty's Freeway 2",
+   1.4
+  ],
+  [
+   "Upper 4 O'Clock",
+   "Upper 4 O'Clock",
+   "Imperial SuperChair bottom",
+   0.5
+  ],
+  [
+   "Upper 4 O'Clock",
+   "Imperial SuperChair bottom",
+   "Upper 4 O'Clock 2",
+   0.5
+  ],
+  [
+   "Upper 4 O'Clock",
+   "Upper 4 O'Clock 2",
+   "4 O'Clock",
+   3.1
+  ],
+  [
+   "Lower Sawmill",
+   "Lower Sawmill 3",
+   "QuickSilver SuperChair bottom",
+   0.5
+  ],
+  [
+   "Claimjumper",
+   "Claimjumper / Lower Forget-Me-Not",
+   "Claimjumper",
+   2.2
+  ],
+  [
+   "Claimjumper",
+   "Claimjumper",
+   "Claimjumper 2",
+   2.8
+  ],
+  [
+   "Claimjumper",
+   "Claimjumper 2",
+   "Claimjumper 3",
+   2.9
+  ],
+  [
+   "Claimjumper",
+   "Claimjumper 3",
+   "Rocky Mountain SuperChair bottom",
+   0.5
+  ],
+  [
+   "Columbine",
+   "Pathfinder 2",
+   "Rounder's / Columbine",
+   0.8
+  ],
+  [
+   "Columbine",
+   "Rounder's / Columbine",
+   "Columbine",
+   1.0
+  ],
+  [
+   "Columbine",
+   "Columbine",
+   "Duke's Run / Columbine",
+   0.8
+  ],
+  [
+   "Columbine",
+   "Duke's Run / Columbine",
+   "Horseshoe Bowl T-Bar bottom",
+   1.0
+  ],
+  [
+   "Peak 8 Transfer",
+   "American / Peak 8 Transfer",
+   "Peak 8 Transfer",
+   0.5
+  ],
+  [
+   "Peak 8 Transfer",
+   "Peak 8 Transfer",
+   "Shock",
+   2.5
+  ],
+  [
+   "Eldorado",
+   "Eldorado / Wellington",
+   "El Dorado Carpet top",
+   0.5
+  ],
+  [
+   "Eldorado",
+   "El Dorado Carpet top",
+   "El Dorado Carpet bottom",
+   0.5
+  ],
+  [
+   "Eldorado",
+   "El Dorado Carpet bottom",
+   "El Dorado Platter top",
+   0.5
+  ],
+  [
+   "Eldorado",
+   "El Dorado Platter top",
+   "El Dorado Platter bottom",
+   0.5
+  ],
+  [
+   "Eldorado",
+   "El Dorado Platter bottom",
+   "Mercury SuperChair bottom",
+   1.2
+  ],
+  [
+   "Barton's Breezeway",
+   "Nirvana / Barton's Breezeway",
+   "Daydream / Barton's Breezeway",
+   0.9
+  ],
+  [
+   "Barton's Breezeway",
+   "Daydream / Barton's Breezeway",
+   "Barton's Breezeway",
+   1.3
+  ],
+  [
+   "Barton's Breezeway",
+   "Barton's Breezeway",
+   "Barton's Breezeway 2",
+   0.6
+  ],
+  [
+   "Barton's Breezeway",
+   "Barton's Breezeway 2",
+   "Zendo Chair top",
+   2.7
+  ],
+  [
+   "Barton's Breezeway",
+   "Zendo Chair top",
+   "Barton's Breezeway / Lost Horizon",
+   1.0
+  ],
+  [
+   "Columbia",
+   "Lower American",
+   "Columbia / Lower Sundown",
+   0.5
+  ],
+  [
+   "Springmeier",
+   "Springmeier / Callie's Alley",
+   "Park Lane Terrain Park / 4 O'Clock",
+   1.6
+  ],
+  [
+   "Centennial",
+   "Falcon SuperChair top",
+   "Cimarron / union",
+   0.5
+  ],
+  [
+   "Centennial",
+   "Cimarron / union",
+   "Centennial",
+   1.7
+  ],
+  [
+   "Centennial",
+   "Centennial",
+   "Lower Lehman 2",
+   5.2
+  ],
+  [
+   "Bonanza",
+   "Beaver Run SuperChair top",
+   "Lower American 2",
+   6.6
+  ],
+  [
+   "Reverie",
+   "Reverie",
+   "Barton's Breezeway",
+   4.6
+  ],
+  [
+   "Delirium",
+   "Euphoria / Delirium",
+   "Delirium 3",
+   1.9
+  ],
+  [
+   "Delirium",
+   "Delirium 3",
+   "Zendo Chair top",
+   0.8
+  ],
+  [
+   "Delirium",
+   "Zendo Chair top",
+   "Delirium / Lost Horizon",
+   0.5
+  ],
+  [
+   "Cimarron",
+   "Cimarron / union",
+   "Cimarron / Flapjack",
+   5.0
+  ],
+  [
+   "Corsair",
+   "Corsair / Crystal",
+   "Corsair / Upper Lehman",
+   2.1
+  ],
+  [
+   "Callie's Alley",
+   "Callie's Alley / Crescendo",
+   "Springmeier / Callie's Alley",
+   0.5
+  ],
+  [
+   "Callie's Alley",
+   "Springmeier / Callie's Alley",
+   "Spruce",
+   1.2
+  ],
+  [
+   "Columbine",
+   "Colorado SuperChair top",
+   "Pathfinder 2",
+   0.5
+  ],
+  [
+   "Ptarmigan",
+   "Ptarmigan",
+   "White Crown / Ptarmigan",
+   2.6
+  ],
+  [
+   "Freeway Terrain Park & Pipe",
+   "Freeway Terrain Park & Pipe / Lower 4 O'Clock",
+   "Peak 8 kids Carpet 1 bottom",
+   3.2
+  ],
+  [
+   "Freeway Terrain Park & Pipe",
+   "Peak 8 kids Carpet 1 bottom",
+   "FIVE SuperChair bottom",
+   0.5
+  ],
+  [
+   "Doublejack",
+   "Centennial",
+   "Bronc / Doublejack",
+   2.4
+  ],
+  [
+   "Doublejack",
+   "Bronc / Doublejack",
+   "Doublejack / Flapjack",
+   2.5
+  ],
+  [
+   "Intuition",
+   "Intuition",
+   "Nirvana / Barton's Breezeway",
+   5.9
+  ],
+  [
+   "Wellington",
+   "Cashier",
+   "Eldorado / Wellington",
+   0.8
+  ],
+  [
+   "Wellington",
+   "Eldorado / Wellington",
+   "Wellington",
+   0.9
+  ],
+  [
+   "Wellington",
+   "Wellington",
+   "QuickSilver SuperChair top",
+   0.5
+  ],
+  [
+   "Peak 6 Parkway",
+   "Wirepatch / Wirepatch, Peak 6 Parkway",
+   "Peak 6 Parkway / Lincoln Meadows",
+   1.5
+  ],
+  [
+   "Little Johnny",
+   "Rocky Mountain SuperChair top",
+   "Northstar / Little Johnny",
+   4.8
+  ],
+  [
+   "Little Johnny",
+   "Northstar / Little Johnny",
+   "Claimjumper 3",
+   2.0
+  ],
+  [
+   "Crystal",
+   "Falcon SuperChair top",
+   "Corsair / Crystal",
+   1.1
+  ],
+  [
+   "Crystal",
+   "Corsair / Crystal",
+   "Crystal",
+   2.9
+  ],
+  [
+   "Crystal",
+   "Crystal",
+   "Lower Lehman 2",
+   3.2
+  ],
+  [
+   "Columbine",
+   "Rocky Mountain SuperChair top",
+   "Columbine",
+   0.5
+  ],
+  [
+   "Swan City",
+   "Pioneer 3",
+   "Pioneer 4",
+   3.1
+  ],
+  [
+   "Déjà Vu",
+   "Bliss / Euphoria",
+   "Barton's Breezeway 2",
+   3.4
+  ],
+  [
+   "Peerless",
+   "Peerless / Gold King",
+   "Peak 8 Transfer",
+   1.8
+  ],
+  [
+   "Lost Horizon",
+   "Monte Cristo / Lost Horizon",
+   "Lost Horizon",
+   1.2
+  ],
+  [
+   "Lost Horizon",
+   "Lost Horizon",
+   "Wirepatch / Lost Horizon",
+   0.8
+  ],
+  [
+   "Lost Horizon",
+   "Wirepatch / Lost Horizon",
+   "Independence SuperChair bottom",
+   3.0
+  ],
+  [
+   "Solitude",
+   "Lobo",
+   "Double Barrel 7",
+   1.8
+  ],
+  [
+   "Sundown Access",
+   "Sundown Access / Lower Peerless",
+   "Sundown Access / Lower Bonanza",
+   1.5
+  ],
+  [
+   "Lincoln Meadows",
+   "Wirepatch",
+   "Peak 6 Parkway / Lincoln Meadows",
+   3.5
+  ],
+  [
+   "Lincoln Meadows",
+   "Peak 6 Parkway / Lincoln Meadows",
+   "Lost Horizon",
+   1.1
+  ],
+  [
+   "Silverthorne",
+   "A-Chair top",
+   "Lower Lehman 4",
+   1.8
+  ],
+  [
+   "Silverthorne",
+   "Lower Lehman 4",
+   "QuickSilver SuperChair top",
+   0.6
+  ],
+  [
+   "Silverthorne",
+   "QuickSilver SuperChair top",
+   "Silverthorne 2",
+   1.2
+  ],
+  [
+   "Silverthorne",
+   "Silverthorne 2",
+   "Silverthorne / Lower American",
+   1.0
+  ],
+  [
+   "Grits",
+   "Crystal",
+   "Lower Lehman 3",
+   0.8
+  ],
+  [
+   "Gold King",
+   "Chair top 2",
+   "Gold King",
+   0.5
+  ],
+  [
+   "Gold King",
+   "Gold King",
+   "Peerless / Gold King",
+   0.5
+  ],
+  [
+   "Gold King",
+   "Peerless / Gold King",
+   "Shock / Gold King",
+   1.7
+  ],
+  [
+   "Gold King",
+   "Shock / Gold King",
+   "Sawmill",
+   4.3
+  ],
+  [
+   "Lower Duke's Run",
+   "Pathfinder",
+   "Wirepatch / Lower Duke's Run",
+   1.8
+  ],
+  [
+   "Lower Duke's Run",
+   "Wirepatch / Lower Duke's Run",
+   "Northstar / Little Johnny",
+   1.5
+  ],
+  [
+   "Lost Horizon",
+   "Delirium / Lost Horizon",
+   "Barton's Breezeway / Lost Horizon",
+   0.7
+  ],
+  [
+   "Lost Horizon",
+   "Barton's Breezeway / Lost Horizon",
+   "Monte Cristo / Lost Horizon",
+   2.1
+  ],
+  [
+   "Adios",
+   "Imperial SuperChair bottom",
+   "Upper 4 O'Clock 2",
+   0.5
+  ],
+  [
+   "Adios",
+   "Upper 4 O'Clock 2",
+   "Double Barrel / Lower Boneyard",
+   3.3
+  ],
+  [
+   "Adios",
+   "Double Barrel / Lower Boneyard",
+   "Chair bottom 3",
+   0.5
+  ],
+  [
+   "Trygve's",
+   "Trygve's / Lower 4 O'Clock",
+   "Trygve's Platter bottom",
+   1.3
+  ],
+  [
+   "Trygve's",
+   "Trygve's Platter bottom",
+   "Admin Carpet 1 top",
+   1.1
+  ],
+  [
+   "Trygve's",
+   "Admin Carpet 1 top",
+   "Admin Carpet 1 bottom",
+   0.5
+  ],
+  [
+   "Sawmill",
+   "Sawmill / Lower 4 O'Clock",
+   "Peak 8 SuperConnect Upper bottom",
+   2.0
+  ],
+  [
+   "Too Much",
+   "Lobo",
+   "Double Barrel 8",
+   1.4
+  ],
+  [
+   "Power line",
+   "Park Lane Terrain Park / 4 O'Clock",
+   "Springmeier",
+   3.2
+  ],
+  [
+   "Imperial Ridge",
+   "Imperial Ridge / Imperial Bowl",
+   "Horseshoe Bowl T-Bar top",
+   2.1
+  ],
+  [
+   "Imperial Ridge",
+   "Horseshoe Bowl T-Bar top",
+   "Alpine Alley / Imperial Ridge",
+   0.5
+  ],
+  [
+   "Swinger",
+   "Park Lane Terrain Park / 4 O'Clock",
+   "Rounder's 2",
+   1.9
+  ],
+  [
+   "Swinger",
+   "Rounder's 2",
+   "Rounder's / Swinger",
+   0.5
+  ],
+  [
+   "Swinger",
+   "Rounder's / Swinger",
+   "Claimjumper 3",
+   3.2
+  ],
+  [
+   "Swinger",
+   "Claimjumper 3",
+   "Rocky Mountain SuperChair bottom",
+   0.5
+  ],
+  [
+   "Swinger",
+   "Rocky Mountain SuperChair bottom",
+   "Springmeier / Swinger",
+   0.5
+  ],
+  [
+   "Swinger",
+   "Springmeier / Swinger",
+   "Rocky Mountain SuperChair bottom",
+   0.5
+  ],
+  [
+   "A Lift Line",
+   "Wellington",
+   "Silverthorne / Lower American",
+   2.2
+  ],
+  [
+   "A Lift Line",
+   "Silverthorne / Lower American",
+   "A-Chair bottom",
+   1.2
+  ],
+  [
+   "Amen",
+   "Hombre / No Name",
+   "Double Barrel 2",
+   2.6
+  ],
+  [
+   "Columbia",
+   "Columbia / Sundown",
+   "Lower American",
+   3.6
+  ],
+  [
+   "union",
+   "Falcon SuperChair top",
+   "Cimarron / union",
+   0.5
+  ],
+  [
+   "Gondola Ski Back",
+   "Gondola Ski Back / Lower 4 O'Clock",
+   "Gondola Ski Back 3",
+   1.4
+  ],
+  [
+   "Gondola Ski Back",
+   "Gondola Ski Back 3",
+   "Gondola Ski Back",
+   0.5
+  ],
+  [
+   "Lower Forget-Me-Not",
+   "Lower Forget-Me-Not",
+   "Claimjumper / Lower Forget-Me-Not",
+   1.4
+  ],
+  [
+   "Lower Forget-Me-Not",
+   "Claimjumper / Lower Forget-Me-Not",
+   "Pika / Lower Forget-Me-Not",
+   0.5
+  ],
+  [
+   "Lower Forget-Me-Not",
+   "Pika / Lower Forget-Me-Not",
+   "Horseshoe Bowl T-Bar bottom",
+   1.6
+  ],
+  [
+   "East Snowbird",
+   "Imperial SuperChair bottom",
+   "Double Barrel / Lower Boneyard",
+   3.5
+  ],
+  [
+   "Frontier",
+   "Unnamed run 4",
+   "Frontier",
+   0.6
+  ],
+  [
+   "Frontier",
+   "Frontier",
+   "Silverthorne",
+   3.6
+  ],
+  [
+   "Lower Bonanza",
+   "Lower American 2",
+   "Sundown Access / Lower Bonanza",
+   1.6
+  ],
+  [
+   "Fort Mary B",
+   "Pioneer 5",
+   "Claimjumper 4",
+   1.2
+  ],
+  [
+   "Lower Sawmill",
+   "Beaver Run SuperChair bottom",
+   "Camelback Platter top",
+   0.5
+  ],
+  [
+   "Lower Sawmill",
+   "Camelback Platter top",
+   "BR Kids Carpet bottom",
+   0.5
+  ],
+  [
+   "Lower Sawmill",
+   "BR Kids Carpet bottom",
+   "Lower Sawmill 3",
+   1.3
+  ],
+  [
+   "Lower Sawmill",
+   "Lower Sawmill 3",
+   "QuickSilver SuperChair bottom",
+   0.5
+  ],
+  [
+   "Lower Sawmill",
+   "QuickSilver SuperChair bottom",
+   "Lower Sawmill 3",
+   0.5
+  ],
+  [
+   "Lower Sawmill",
+   "Lower Sawmill 3",
+   "Village Carpet A bottom",
+   0.5
+  ],
+  [
+   "Psychopath",
+   "Upper 4 O'Clock 2",
+   "Frosty's Freeway",
+   3.2
+  ],
+  [
+   "Angels Rest",
+   "Monte Cristo 2",
+   "Monte Cristo / Lost Horizon",
+   4.5
+  ],
+  [
+   "American",
+   "Chair top 2",
+   "American / Peak 8 Transfer",
+   2.6
+  ],
+  [
+   "Silverthorne",
+   "Frontier",
+   "Silverthorne 2",
+   0.5
+  ],
+  [
+   "Lower 4 O'Clock",
+   "Park Lane Terrain Park / 4 O'Clock",
+   "FIVE SuperChair top",
+   0.5
+  ],
+  [
+   "Lower 4 O'Clock",
+   "FIVE SuperChair top",
+   "Freeway Terrain Park & Pipe / Lower 4 O'Clock",
+   1.1
+  ],
+  [
+   "Lower 4 O'Clock",
+   "Freeway Terrain Park & Pipe / Lower 4 O'Clock",
+   "Sawmill / Lower 4 O'Clock",
+   0.9
+  ],
+  [
+   "Lower 4 O'Clock",
+   "Sawmill / Lower 4 O'Clock",
+   "Trygve's / Lower 4 O'Clock",
+   1.0
+  ],
+  [
+   "Lower 4 O'Clock",
+   "Trygve's / Lower 4 O'Clock",
+   "Crosscut / Lower 4 O'Clock",
+   1.2
+  ],
+  [
+   "Lower 4 O'Clock",
+   "Crosscut / Lower 4 O'Clock",
+   "Lower 4 O'Clock",
+   1.0
+  ],
+  [
+   "Lower 4 O'Clock",
+   "Lower 4 O'Clock",
+   "Gondola Ski Back / Lower 4 O'Clock",
+   3.7
+  ],
+  [
+   "Lower 4 O'Clock",
+   "Gondola Ski Back / Lower 4 O'Clock",
+   "Lower 4 O'Clock 3",
+   0.5
+  ],
+  [
+   "Lower 4 O'Clock",
+   "Lower 4 O'Clock 3",
+   "Lower 4 O'Clock 2",
+   0.6
+  ],
+  [
+   "Country Boy",
+   "Cashier 2",
+   "Briar Rose / Country Boy",
+   1.9
+  ],
+  [
+   "Country Boy",
+   "Briar Rose / Country Boy",
+   "Lower Lehman 4",
+   0.6
+  ],
+  [
+   "Flapjack",
+   "Cimarron / Flapjack",
+   "Bronc / Flapjack",
+   0.5
+  ],
+  [
+   "Flapjack",
+   "Bronc / Flapjack",
+   "Doublejack / Flapjack",
+   2.3
+  ],
+  [
+   "Flapjack",
+   "Doublejack / Flapjack",
+   "Lower Lehman 2",
+   0.5
+  ],
+  [
+   "Wanderlust",
+   "Independence SuperChair top",
+   "Delirium 3",
+   5.6
+  ],
+  [
+   "Lower Peerless",
+   "Peak 8 Transfer",
+   "Sundown Access / Lower Peerless",
+   2.4
+  ],
+  [
+   "Lower Peerless",
+   "Sundown Access / Lower Peerless",
+   "Crosscut",
+   2.0
+  ],
+  [
+   "Imperial Bowl",
+   "Imperial SuperChair top",
+   "Imperial Ridge / Imperial Bowl",
+   0.5
+  ],
+  [
+   "Imperial Bowl",
+   "Imperial Ridge / Imperial Bowl",
+   "Imperial SuperChair bottom",
+   3.2
+  ],
+  [
+   "Volunteer",
+   "Gold King",
+   "Lower American / American",
+   5.4
+  ],
+  [
+   "Sundown",
+   "Little Burn",
+   "Columbia / Sundown",
+   1.7
+  ],
+  [
+   "Sundown",
+   "Columbia / Sundown",
+   "Lower American / American",
+   3.4
+  ],
+  [
+   "Upper Lehman",
+   "Mercury SuperChair top",
+   "union / Upper Lehman",
+   1.5
+  ],
+  [
+   "Upper Lehman",
+   "union / Upper Lehman",
+   "Sizzler / Upper Lehman",
+   1.0
+  ],
+  [
+   "Upper Lehman",
+   "Sizzler / Upper Lehman",
+   "Spitfire / Upper Lehman",
+   0.5
+  ],
+  [
+   "Upper Lehman",
+   "Spitfire / Upper Lehman",
+   "Corsair / Upper Lehman",
+   0.9
+  ],
+  [
+   "Upper Lehman",
+   "Corsair / Upper Lehman",
+   "A-Chair top",
+   2.1
+  ],
+  [
+   "Twister",
+   "Rip's Ride top",
+   "Twister",
+   0.5
+  ],
+  [
+   "Lower Sundown",
+   "Lower American / American",
+   "Columbia / Lower Sundown",
+   0.8
+  ],
+  [
+   "Lower Sundown",
+   "Columbia / Lower Sundown",
+   "Sundown Access / Lower Bonanza",
+   1.2
+  ],
+  [
+   "Lower Sundown",
+   "Sundown Access / Lower Bonanza",
+   "Lower Cashier / Lower Sundown",
+   0.7
+  ],
+  [
+   "Lower Sundown",
+   "Lower Cashier / Lower Sundown",
+   "Red Rover / Lower Sundown",
+   1.0
+  ],
+  [
+   "Lower Sundown",
+   "Red Rover / Lower Sundown",
+   "Peak 8 SuperConnect Lower bottom",
+   0.5
+  ],
+  [
+   "Lower Sundown",
+   "Peak 8 SuperConnect Lower bottom",
+   "Lower Sawmill 4",
+   1.0
+  ],
+  [
+   "Crescendo",
+   "Colorado SuperChair top",
+   "4 O'Clock",
+   0.5
+  ],
+  [
+   "Crescendo",
+   "4 O'Clock",
+   "Callie's Alley / Crescendo",
+   1.4
+  ],
+  [
+   "Crescendo",
+   "Callie's Alley / Crescendo",
+   "Springmeier / Callie's Alley",
+   0.5
+  ],
+  [
+   "Crescendo",
+   "Springmeier / Callie's Alley",
+   "Boreas",
+   2.7
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Independence SuperChair top",
+   "Lower Forget-Me-Not",
+   1.2
+  ],
+  [
+   "walk",
+   "Monte Cristo / Lost Horizon",
+   "Zendo Chair bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Lobo / Hombre",
+   "Imperial SuperChair bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Chair bottom",
+   "Lower Sawmill",
+   2.3
+  ],
+  [
+   "walk",
+   "Chair bottom",
+   "Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Chair bottom",
+   "Unnamed run 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Chair bottom",
+   "Crosscut",
+   0.7
+  ],
+  [
+   "walk",
+   "Lower Sawmill",
+   "Chair bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Double Barrel / Lower Boneyard",
+   "Chair bottom 3",
+   0.6
+  ],
+  [
+   "walk",
+   "Hombre / No Name",
+   "Imperial SuperChair bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Hombre / No Name",
+   "Chair top 3",
+   0.7
+  ],
+  [
+   "walk",
+   "Rounder's / Columbine",
+   "Rocky Mountain SuperChair top",
+   2.8
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Rip's Ride top",
+   1.5
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Trygve's / Lower 4 O'Clock",
+   2.1
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Twister",
+   2.2
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Trygve's Platter top",
+   2.7
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 bottom",
+   "FIVE SuperChair bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 bottom",
+   "Rip's Ride bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 bottom",
+   "Springmeier / Swinger",
+   1.4
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 bottom",
+   "Rocky Mountain SuperChair bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 bottom",
+   "Claimjumper 3",
+   2.5
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 bottom",
+   "Admin Carpet 1 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 bottom",
+   "Admin Carpet 1 top",
+   2.1
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 bottom",
+   "Peak 8 kids Carpet 2 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 bottom",
+   "Admin Carpet 2 bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 bottom",
+   "BreckConnect Gondola top",
+   1.8
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 bottom",
+   "Peak 8 kids Carpet 1 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Tunnel / Lower Boneyard",
+   "Chair bottom 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Peak 8 SuperConnect Upper top",
+   "Colorado SuperChair top",
+   2.1
+  ],
+  [
+   "walk",
+   "Peak 8 SuperConnect Upper top",
+   "4 O'Clock",
+   1.6
+  ],
+  [
+   "walk",
+   "Chair bottom 2",
+   "Tunnel",
+   1.3
+  ],
+  [
+   "walk",
+   "West Snowbird / Middle Snowbird",
+   "Imperial SuperChair bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Double Barrel 3",
+   "Chair bottom 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Mercury SuperChair top",
+   "Chair top",
+   1.8
+  ],
+  [
+   "walk",
+   "Briar Rose / Country Boy",
+   "El Dorado Carpet top",
+   3.1
+  ],
+  [
+   "walk",
+   "Falcon SuperChair top",
+   "Cimarron / union",
+   1.2
+  ],
+  [
+   "walk",
+   "Cimarron / union",
+   "Falcon SuperChair top",
+   1.2
+  ],
+  [
+   "walk",
+   "Horseshoe Bowl T-Bar bottom",
+   "Duke's Run / Columbine",
+   3.4
+  ],
+  [
+   "walk",
+   "Silverthorne / Lower American",
+   "Mercury SuperChair bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Silverthorne",
+   "Peak 8 SuperConnect Lower bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Silverthorne",
+   "A-Chair bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Blue Sky",
+   "Snowflake bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Snowflake bottom",
+   "Blue Sky",
+   2.6
+  ],
+  [
+   "walk",
+   "Snowflake bottom",
+   "Gondola Ski Back / Lower 4 O'Clock",
+   3.0
+  ],
+  [
+   "walk",
+   "Snowflake bottom",
+   "Lower 4 O'Clock 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Snowflake bottom",
+   "Lower 4 O'Clock 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Colorado SuperChair top",
+   "Peak 8 SuperConnect Upper top",
+   2.1
+  ],
+  [
+   "walk",
+   "Colorado SuperChair top",
+   "4 O'Clock",
+   1.1
+  ],
+  [
+   "walk",
+   "Colorado SuperChair top",
+   "Pathfinder 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Park Lane Terrain Park / 4 O'Clock",
+   "FIVE SuperChair top",
+   1.2
+  ],
+  [
+   "walk",
+   "FIVE SuperChair bottom",
+   "Peak 8 kids Carpet 2 bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "FIVE SuperChair bottom",
+   "Rip's Ride bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "FIVE SuperChair bottom",
+   "Springmeier / Swinger",
+   0.6
+  ],
+  [
+   "walk",
+   "FIVE SuperChair bottom",
+   "Rocky Mountain SuperChair bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "FIVE SuperChair bottom",
+   "Claimjumper 3",
+   1.8
+  ],
+  [
+   "walk",
+   "FIVE SuperChair bottom",
+   "Admin Carpet 1 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "FIVE SuperChair bottom",
+   "Peak 8 kids Carpet 2 top",
+   1.2
+  ],
+  [
+   "walk",
+   "FIVE SuperChair bottom",
+   "Admin Carpet 2 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "FIVE SuperChair bottom",
+   "BreckConnect Gondola top",
+   1.4
+  ],
+  [
+   "walk",
+   "FIVE SuperChair bottom",
+   "Peak 8 kids Carpet 1 bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Kensho SuperChair top",
+   "Reverie",
+   0.9
+  ],
+  [
+   "walk",
+   "Kensho SuperChair top",
+   "Intuition",
+   0.7
+  ],
+  [
+   "walk",
+   "A-Chair top",
+   "Lower Lehman 3",
+   0.9
+  ],
+  [
+   "walk",
+   "Lower Lehman / Silverthorne",
+   "Beaver Run SuperChair bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Lehman / Silverthorne",
+   "Camelback Platter top",
+   1.3
+  ],
+  [
+   "walk",
+   "Lower Lehman / Silverthorne",
+   "BR Kids Carpet bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Rip's Ride top",
+   "Trygve's / Lower 4 O'Clock",
+   1.5
+  ],
+  [
+   "walk",
+   "Rip's Ride top",
+   "Twister",
+   2.0
+  ],
+  [
+   "walk",
+   "Rip's Ride top",
+   "Trygve's Platter top",
+   1.2
+  ],
+  [
+   "walk",
+   "Rip's Ride bottom",
+   "Peak 8 kids Carpet 2 bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Rip's Ride bottom",
+   "FIVE SuperChair bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Rip's Ride bottom",
+   "Springmeier / Swinger",
+   2.4
+  ],
+  [
+   "walk",
+   "Rip's Ride bottom",
+   "Rocky Mountain SuperChair bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Rip's Ride bottom",
+   "Admin Carpet 1 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Rip's Ride bottom",
+   "Admin Carpet 1 top",
+   1.0
+  ],
+  [
+   "walk",
+   "Rip's Ride bottom",
+   "Peak 8 kids Carpet 2 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Rip's Ride bottom",
+   "Admin Carpet 2 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Rip's Ride bottom",
+   "BreckConnect Gondola top",
+   2.6
+  ],
+  [
+   "walk",
+   "Rip's Ride bottom",
+   "Peak 8 kids Carpet 1 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Lower Cashier / Cashier",
+   "El Dorado Platter bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Tunnel",
+   "Chair bottom 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Double Barrel 5",
+   "Chair bottom 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Beaver Run SuperChair top",
+   "Briar Rose",
+   2.2
+  ],
+  [
+   "walk",
+   "Beaver Run SuperChair top",
+   "Little Burn",
+   2.6
+  ],
+  [
+   "walk",
+   "White Crown / Ptarmigan",
+   "Pika / Lower Forget-Me-Not",
+   2.4
+  ],
+  [
+   "walk",
+   "White Crown / Ptarmigan",
+   "Forget Me Not 2",
+   1.2
+  ],
+  [
+   "walk",
+   "White Crown / Ptarmigan",
+   "Claimjumper / Lower Forget-Me-Not",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Forget-Me-Not",
+   "Independence SuperChair top",
+   1.2
+  ],
+  [
+   "walk",
+   "Chair top",
+   "Mercury SuperChair top",
+   1.8
+  ],
+  [
+   "walk",
+   "Chair top 2",
+   "Peerless / Gold King",
+   3.4
+  ],
+  [
+   "walk",
+   "Chair top 2",
+   "Gold King",
+   1.7
+  ],
+  [
+   "walk",
+   "Chair top 2",
+   "Little Burn",
+   2.1
+  ],
+  [
+   "walk",
+   "Alpine Alley / Imperial Ridge",
+   "Horseshoe Bowl T-Bar top",
+   1.2
+  ],
+  [
+   "walk",
+   "Imperial SuperChair bottom",
+   "Lobo / Hombre",
+   2.8
+  ],
+  [
+   "walk",
+   "Imperial SuperChair bottom",
+   "Hombre / No Name",
+   2.2
+  ],
+  [
+   "walk",
+   "Imperial SuperChair bottom",
+   "West Snowbird / Middle Snowbird",
+   1.0
+  ],
+  [
+   "walk",
+   "Imperial SuperChair bottom",
+   "Upper 4 O'Clock",
+   1.1
+  ],
+  [
+   "walk",
+   "Imperial SuperChair bottom",
+   "Lobo",
+   3.3
+  ],
+  [
+   "walk",
+   "Imperial SuperChair bottom",
+   "Upper 4 O'Clock 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Chair bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Unnamed run 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Crosscut",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Lehman",
+   "Falcon SuperChair bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Red Rover / Lower Sundown",
+   "Peak 8 SuperConnect Lower bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Beaver Run SuperChair bottom",
+   "Lower Lehman / Silverthorne",
+   1.8
+  ],
+  [
+   "walk",
+   "Beaver Run SuperChair bottom",
+   "Lower Sawmill 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Beaver Run SuperChair bottom",
+   "Camelback Platter top",
+   1.1
+  ],
+  [
+   "walk",
+   "Beaver Run SuperChair bottom",
+   "BR Kids Carpet bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Chair bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock",
+   "Chair bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Duke's Run / Columbine",
+   "Horseshoe Bowl T-Bar bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair bottom",
+   "Lower Sawmill 3",
+   0.6
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair bottom",
+   "Village Carpet A bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair bottom",
+   "Camelback Platter bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair bottom",
+   "Tweener Carpet bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Gondola Ski Back 2",
+   "junction 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Gondola Ski Back 2",
+   "BreckConnect Gondola bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "Lower Lehman",
+   2.7
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "Falcon SuperChair bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "Lower Lehman 2",
+   2.0
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "Doublejack / Flapjack",
+   3.2
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "Wellington",
+   0.8
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "Unnamed run 4",
+   1.3
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "Frontier",
+   2.7
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "Lower Lehman 4",
+   1.9
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "El Dorado Carpet bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Falcon SuperChair bottom",
+   "Lower Lehman",
+   0.7
+  ],
+  [
+   "walk",
+   "Falcon SuperChair bottom",
+   "Lower Lehman 2",
+   1.1
+  ],
+  [
+   "walk",
+   "Falcon SuperChair bottom",
+   "Unnamed run 4",
+   1.1
+  ],
+  [
+   "walk",
+   "Falcon SuperChair bottom",
+   "Frontier",
+   2.6
+  ],
+  [
+   "walk",
+   "Forget Me Not 2",
+   "Pika / Lower Forget-Me-Not",
+   3.2
+  ],
+  [
+   "walk",
+   "Forget Me Not 2",
+   "White Crown / Ptarmigan",
+   1.2
+  ],
+  [
+   "walk",
+   "Forget Me Not 2",
+   "Lower Forget-Me-Not",
+   3.1
+  ],
+  [
+   "walk",
+   "Forget Me Not 2",
+   "Claimjumper / Lower Forget-Me-Not",
+   2.6
+  ],
+  [
+   "walk",
+   "Peak 8 SuperConnect Lower bottom",
+   "Silverthorne",
+   2.8
+  ],
+  [
+   "walk",
+   "Peak 8 SuperConnect Lower bottom",
+   "Red Rover / Lower Sundown",
+   0.9
+  ],
+  [
+   "walk",
+   "Peak 8 SuperConnect Lower bottom",
+   "Lower Sawmill 4",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Sawmill 2",
+   "Beaver Run SuperChair bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Lower Sawmill 2",
+   "Camelback Platter top",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Sawmill 2",
+   "BR Kids Carpet bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Camelback Platter top",
+   "Lower Lehman / Silverthorne",
+   1.3
+  ],
+  [
+   "walk",
+   "Camelback Platter top",
+   "Beaver Run SuperChair bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Camelback Platter top",
+   "Lower Sawmill 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Camelback Platter top",
+   "BR Kids Carpet bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Camelback Platter top",
+   "Camelback Platter bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Springmeier / Swinger",
+   "Peak 8 kids Carpet 2 bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Springmeier / Swinger",
+   "FIVE SuperChair bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Springmeier / Swinger",
+   "Rip's Ride bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Springmeier / Swinger",
+   "Rocky Mountain SuperChair bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Springmeier / Swinger",
+   "Admin Carpet 1 bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Springmeier / Swinger",
+   "Peak 8 kids Carpet 2 top",
+   1.9
+  ],
+  [
+   "walk",
+   "Springmeier / Swinger",
+   "BreckConnect Gondola top",
+   1.0
+  ],
+  [
+   "walk",
+   "Springmeier / Swinger",
+   "Peak 8 kids Carpet 1 bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Frosty's Freeway",
+   "Chair bottom 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Frosty's Freeway 2",
+   "Chair bottom 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock",
+   "Imperial SuperChair bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock",
+   "Chair top 3",
+   0.9
+  ],
+  [
+   "walk",
+   "4 O'Clock",
+   "Peak 8 SuperConnect Upper top",
+   1.6
+  ],
+  [
+   "walk",
+   "4 O'Clock",
+   "Colorado SuperChair top",
+   1.1
+  ],
+  [
+   "walk",
+   "Lower Sawmill 3",
+   "QuickSilver SuperChair bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Lower Sawmill 3",
+   "Village Carpet A bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Lower Sawmill 3",
+   "Camelback Platter bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Sawmill 3",
+   "Tweener Carpet bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair bottom",
+   "Peak 8 kids Carpet 2 bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair bottom",
+   "FIVE SuperChair bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair bottom",
+   "Rip's Ride bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair bottom",
+   "Springmeier / Swinger",
+   0.6
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair bottom",
+   "Claimjumper 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair bottom",
+   "Admin Carpet 1 bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair bottom",
+   "Peak 8 kids Carpet 2 top",
+   2.5
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair bottom",
+   "BreckConnect Gondola top",
+   1.2
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair bottom",
+   "Peak 8 kids Carpet 1 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Shock",
+   "Peak 8 SuperConnect Upper bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Eldorado / Wellington",
+   "El Dorado Carpet bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Eldorado / Wellington",
+   "El Dorado Carpet top",
+   0.9
+  ],
+  [
+   "walk",
+   "Eldorado / Wellington",
+   "El Dorado Platter top",
+   2.9
+  ],
+  [
+   "walk",
+   "Mercury SuperChair bottom",
+   "Silverthorne / Lower American",
+   2.2
+  ],
+  [
+   "walk",
+   "Mercury SuperChair bottom",
+   "Lower Cashier / Lower Sundown",
+   2.6
+  ],
+  [
+   "walk",
+   "Mercury SuperChair bottom",
+   "Sundown Access / Lower Bonanza",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Lehman 2",
+   "QuickSilver SuperChair top",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Lehman 2",
+   "Falcon SuperChair bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Lower American 2",
+   "El Dorado Carpet bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower American 2",
+   "El Dorado Platter top",
+   3.1
+  ],
+  [
+   "walk",
+   "Reverie",
+   "Kensho SuperChair top",
+   0.9
+  ],
+  [
+   "walk",
+   "Delirium / Lost Horizon",
+   "Kensho SuperChair bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Doublejack / Flapjack",
+   "QuickSilver SuperChair top",
+   3.2
+  ],
+  [
+   "walk",
+   "Doublejack / Flapjack",
+   "Falcon SuperChair bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Intuition",
+   "Kensho SuperChair top",
+   0.7
+  ],
+  [
+   "walk",
+   "Peak 6 Parkway / Lincoln Meadows",
+   "Zendo Chair bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair top",
+   "Rounder's / Columbine",
+   2.8
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair top",
+   "Columbine",
+   1.5
+  ],
+  [
+   "walk",
+   "Claimjumper 3",
+   "Peak 8 kids Carpet 2 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Claimjumper 3",
+   "FIVE SuperChair bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Claimjumper 3",
+   "Rocky Mountain SuperChair bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Claimjumper 3",
+   "Peak 8 kids Carpet 2 top",
+   2.9
+  ],
+  [
+   "walk",
+   "Claimjumper 3",
+   "BreckConnect Gondola top",
+   1.9
+  ],
+  [
+   "walk",
+   "Claimjumper 3",
+   "Peak 8 kids Carpet 1 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "junction 2",
+   "Gondola Ski Back 2",
+   0.7
+  ],
+  [
+   "walk",
+   "junction 2",
+   "BreckConnect Gondola bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Lobo",
+   "Imperial SuperChair bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Sundown Access / Lower Bonanza",
+   "Mercury SuperChair bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Lost Horizon",
+   "Freedom Superchair bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Crystal",
+   "A-Chair top",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Lehman 3",
+   "A-Chair top",
+   0.9
+  ],
+  [
+   "walk",
+   "Sawmill",
+   "Chair bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Chair bottom 3",
+   "Double Barrel / Lower Boneyard",
+   0.6
+  ],
+  [
+   "walk",
+   "Chair bottom 3",
+   "Tunnel / Lower Boneyard",
+   2.9
+  ],
+  [
+   "walk",
+   "Chair bottom 3",
+   "Frosty's Freeway",
+   2.3
+  ],
+  [
+   "walk",
+   "Trygve's / Lower 4 O'Clock",
+   "Snowflake top",
+   2.1
+  ],
+  [
+   "walk",
+   "Trygve's / Lower 4 O'Clock",
+   "Rip's Ride top",
+   1.5
+  ],
+  [
+   "walk",
+   "Trygve's / Lower 4 O'Clock",
+   "Trygve's Platter top",
+   2.2
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 bottom",
+   "Peak 8 kids Carpet 2 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 bottom",
+   "FIVE SuperChair bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 bottom",
+   "Rip's Ride bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 bottom",
+   "Springmeier / Swinger",
+   2.9
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 bottom",
+   "Rocky Mountain SuperChair bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 bottom",
+   "Admin Carpet 1 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 bottom",
+   "Peak 8 kids Carpet 2 top",
+   1.6
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 bottom",
+   "Admin Carpet 2 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 bottom",
+   "BreckConnect Gondola top",
+   2.8
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 bottom",
+   "Peak 8 kids Carpet 1 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Sawmill / Lower 4 O'Clock",
+   "Snowflake top",
+   2.2
+  ],
+  [
+   "walk",
+   "Sawmill / Lower 4 O'Clock",
+   "Rip's Ride top",
+   3.5
+  ],
+  [
+   "walk",
+   "Wellington",
+   "QuickSilver SuperChair top",
+   0.8
+  ],
+  [
+   "walk",
+   "Wellington",
+   "Falcon SuperChair bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Wellington",
+   "El Dorado Carpet bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Wellington",
+   "El Dorado Platter top",
+   3.0
+  ],
+  [
+   "walk",
+   "A-Chair bottom",
+   "Silverthorne",
+   2.7
+  ],
+  [
+   "walk",
+   "A-Chair bottom",
+   "Red Rover / Lower Sundown",
+   1.9
+  ],
+  [
+   "walk",
+   "A-Chair bottom",
+   "Peak 8 SuperConnect Lower bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Gondola Ski Back / Lower 4 O'Clock",
+   "Snowflake bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "QuickSilver SuperChair top",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Falcon SuperChair bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Village Carpet A bottom",
+   "QuickSilver SuperChair bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Village Carpet A bottom",
+   "Lower Sawmill 3",
+   1.2
+  ],
+  [
+   "walk",
+   "Village Carpet A bottom",
+   "Tweener Carpet bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock 2",
+   "Imperial SuperChair bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Frontier",
+   "Falcon SuperChair bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Silverthorne 2",
+   "El Dorado Platter bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock 2",
+   "Blue Sky",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock 2",
+   "Snowflake bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock 2",
+   "Gondola Ski Back / Lower 4 O'Clock",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock 2",
+   "Lower 4 O'Clock 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Lower Lehman 4",
+   "QuickSilver SuperChair top",
+   1.9
+  ],
+  [
+   "walk",
+   "Lower Lehman 4",
+   "El Dorado Carpet top",
+   3.4
+  ],
+  [
+   "walk",
+   "Delirium 3",
+   "Zendo Chair top",
+   2.6
+  ],
+  [
+   "walk",
+   "Delirium 3",
+   "Kensho SuperChair bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock 3",
+   "Snowflake bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Crosscut",
+   "Chair bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Imperial SuperChair top",
+   "Imperial Ridge / Imperial Bowl",
+   0.8
+  ],
+  [
+   "walk",
+   "Gold King",
+   "Chair top 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Little Burn",
+   "Chair top 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Twister",
+   "Rip's Ride top",
+   2.0
+  ],
+  [
+   "walk",
+   "Twister",
+   "Trygve's Platter top",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Sawmill 4",
+   "Beaver Run SuperChair bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Sawmill 4",
+   "Camelback Platter top",
+   3.3
+  ],
+  [
+   "walk",
+   "Chair top 3",
+   "Lobo / Hombre",
+   1.7
+  ],
+  [
+   "walk",
+   "Chair top 3",
+   "Hombre / No Name",
+   0.7
+  ],
+  [
+   "walk",
+   "Chair top 3",
+   "West Snowbird / Middle Snowbird",
+   1.2
+  ],
+  [
+   "walk",
+   "Chair top 3",
+   "Imperial SuperChair bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Chair top 3",
+   "Upper 4 O'Clock",
+   0.9
+  ],
+  [
+   "walk",
+   "Chair top 3",
+   "Lobo",
+   2.5
+  ],
+  [
+   "walk",
+   "Chair top 3",
+   "Upper 4 O'Clock 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 top",
+   "Peak 8 kids Carpet 2 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 top",
+   "FIVE SuperChair bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 top",
+   "Rip's Ride bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 top",
+   "Springmeier / Swinger",
+   3.4
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 top",
+   "Admin Carpet 1 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 top",
+   "Peak 8 kids Carpet 2 top",
+   1.9
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 top",
+   "Admin Carpet 2 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 top",
+   "BreckConnect Gondola top",
+   3.4
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 top",
+   "Peak 8 kids Carpet 1 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Zendo Chair bottom",
+   "Monte Cristo / Lost Horizon",
+   1.4
+  ],
+  [
+   "walk",
+   "Zendo Chair bottom",
+   "Peak 6 Parkway / Lincoln Meadows",
+   0.6
+  ],
+  [
+   "walk",
+   "Zendo Chair bottom",
+   "Lost Horizon",
+   3.4
+  ],
+  [
+   "walk",
+   "Zendo Chair top",
+   "Barton's Breezeway / Lost Horizon",
+   3.3
+  ],
+  [
+   "walk",
+   "Zendo Chair top",
+   "Delirium / Lost Horizon",
+   1.5
+  ],
+  [
+   "walk",
+   "Zendo Chair top",
+   "Kensho SuperChair bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Horseshoe Bowl T-Bar top",
+   "Pika",
+   1.5
+  ],
+  [
+   "walk",
+   "Horseshoe Bowl T-Bar top",
+   "Alpine Alley / Imperial Ridge",
+   1.2
+  ],
+  [
+   "walk",
+   "Horseshoe Bowl T-Bar top",
+   "Ptarmigan",
+   2.7
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 top",
+   "Peak 8 kids Carpet 2 bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 top",
+   "FIVE SuperChair bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 top",
+   "Rip's Ride bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 top",
+   "Springmeier / Swinger",
+   1.9
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 top",
+   "Rocky Mountain SuperChair bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 top",
+   "Claimjumper 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 top",
+   "Admin Carpet 1 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 top",
+   "Admin Carpet 1 top",
+   1.9
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 top",
+   "Admin Carpet 2 bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 top",
+   "BreckConnect Gondola top",
+   2.4
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 2 top",
+   "Peak 8 kids Carpet 1 bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "FIVE SuperChair top",
+   "Park Lane Terrain Park / 4 O'Clock",
+   1.2
+  ],
+  [
+   "walk",
+   "BR Kids Carpet bottom",
+   "Lower Lehman / Silverthorne",
+   2.0
+  ],
+  [
+   "walk",
+   "BR Kids Carpet bottom",
+   "Beaver Run SuperChair bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "BR Kids Carpet bottom",
+   "Lower Sawmill 2",
+   2.3
+  ],
+  [
+   "walk",
+   "BR Kids Carpet bottom",
+   "Camelback Platter top",
+   0.7
+  ],
+  [
+   "walk",
+   "BR Kids Carpet bottom",
+   "Camelback Platter bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "BR Kids Carpet bottom",
+   "Tweener Carpet bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Kensho SuperChair bottom",
+   "Delirium / Lost Horizon",
+   1.3
+  ],
+  [
+   "walk",
+   "Admin Carpet 2 bottom",
+   "Peak 8 kids Carpet 2 bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Admin Carpet 2 bottom",
+   "FIVE SuperChair bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Admin Carpet 2 bottom",
+   "Rip's Ride bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Admin Carpet 2 bottom",
+   "Admin Carpet 1 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Admin Carpet 2 bottom",
+   "Admin Carpet 1 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Admin Carpet 2 bottom",
+   "Peak 8 kids Carpet 2 top",
+   2.4
+  ],
+  [
+   "walk",
+   "Admin Carpet 2 bottom",
+   "BreckConnect Gondola top",
+   3.3
+  ],
+  [
+   "walk",
+   "Admin Carpet 2 bottom",
+   "Peak 8 kids Carpet 1 bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Camelback Platter bottom",
+   "QuickSilver SuperChair bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Camelback Platter bottom",
+   "Lower Sawmill 3",
+   2.5
+  ],
+  [
+   "walk",
+   "Camelback Platter bottom",
+   "Tweener Carpet bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "Lower Cashier / Cashier",
+   2.7
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "QuickSilver SuperChair top",
+   3.3
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "Lower American 2",
+   3.4
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "Wellington",
+   2.6
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "El Dorado Platter bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "El Dorado Platter top",
+   0.6
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "QuickSilver SuperChair top",
+   3.4
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "Eldorado / Wellington",
+   0.9
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "Wellington",
+   2.7
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "Lower Lehman 4",
+   3.4
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "El Dorado Carpet bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "El Dorado Platter top",
+   2.0
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola bottom",
+   "Gondola Ski Back 2",
+   3.0
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola bottom",
+   "junction 2",
+   2.8
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola top",
+   "Peak 8 kids Carpet 2 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola top",
+   "FIVE SuperChair bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola top",
+   "Rip's Ride bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola top",
+   "Springmeier / Swinger",
+   1.0
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola top",
+   "Rocky Mountain SuperChair bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola top",
+   "Claimjumper 3",
+   1.9
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola top",
+   "Peak 8 kids Carpet 1 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Trygve's Platter bottom",
+   "Admin Carpet 1 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Trygve's Platter top",
+   "Rip's Ride top",
+   1.2
+  ],
+  [
+   "walk",
+   "Trygve's Platter top",
+   "Twister",
+   2.3
+  ],
+  [
+   "walk",
+   "Trygve's Platter top",
+   "Trygve's Platter bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Freedom Superchair bottom",
+   "Wirepatch / Lost Horizon",
+   2.2
+  ],
+  [
+   "walk",
+   "Freedom Superchair bottom",
+   "Lost Horizon",
+   0.8
+  ],
+  [
+   "walk",
+   "Tweener Carpet bottom",
+   "QuickSilver SuperChair bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Tweener Carpet bottom",
+   "Lower Sawmill 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Tweener Carpet bottom",
+   "Village Carpet A bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Tweener Carpet bottom",
+   "Camelback Platter bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "El Dorado Platter bottom",
+   "Lower Cashier / Cashier",
+   1.3
+  ],
+  [
+   "walk",
+   "El Dorado Platter bottom",
+   "Silverthorne 2",
+   2.9
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "Lower Cashier / Cashier",
+   2.1
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "Lower American 2",
+   3.1
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "Wellington",
+   3.0
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "El Dorado Carpet bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "El Dorado Platter bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 1 bottom",
+   "Peak 8 kids Carpet 2 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 1 bottom",
+   "FIVE SuperChair bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 1 bottom",
+   "Rip's Ride bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 1 bottom",
+   "Springmeier / Swinger",
+   1.3
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 1 bottom",
+   "Rocky Mountain SuperChair bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 1 bottom",
+   "Claimjumper 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 1 bottom",
+   "Admin Carpet 1 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 1 bottom",
+   "Admin Carpet 1 top",
+   2.5
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 1 bottom",
+   "Peak 8 kids Carpet 2 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 1 bottom",
+   "Admin Carpet 2 bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Peak 8 kids Carpet 1 bottom",
+   "BreckConnect Gondola top",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Sawmill",
+   "Unnamed run",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower Sawmill",
+   "Unnamed run 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Sawmill",
+   "Crosscut",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Lower Sawmill",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Lower Sawmill",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed run",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Crosscut",
+   2.2
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock",
+   "Lower Sawmill",
+   5.8
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock",
+   "Unnamed run",
+   6.6
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock",
+   "Unnamed run 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock",
+   "Crosscut",
+   4.2
+  ],
+  [
+   "walk",
+   "Sawmill",
+   "Lower Sawmill",
+   5.0
+  ],
+  [
+   "walk",
+   "Sawmill",
+   "Unnamed run",
+   5.8
+  ],
+  [
+   "walk",
+   "Sawmill",
+   "Unnamed run 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Sawmill",
+   "Crosscut",
+   3.4
+  ],
+  [
+   "walk",
+   "Crosscut",
+   "Lower Sawmill",
+   3.0
+  ],
+  [
+   "walk",
+   "Crosscut",
+   "Unnamed run",
+   3.8
+  ],
+  [
+   "walk",
+   "Crosscut",
+   "Unnamed run 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Imperial SuperChair bottom",
+   "Chair top 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Trygve's / Lower 4 O'Clock",
+   "Twister",
+   3.5
+  ],
+  [
+   "walk",
+   "Sawmill / Lower 4 O'Clock",
+   "Trygve's / Lower 4 O'Clock",
+   4.3
+  ],
+  [
+   "walk",
+   "Sawmill / Lower 4 O'Clock",
+   "Twister",
+   4.4
+  ],
+  [
+   "walk",
+   "Sawmill / Lower 4 O'Clock",
+   "Trygve's Platter top",
+   4.6
+  ],
+  [
+   "walk",
+   "FIVE SuperChair bottom",
+   "Admin Carpet 1 top",
+   2.8
+  ],
+  [
+   "walk",
+   "Rip's Ride bottom",
+   "Claimjumper 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Springmeier / Swinger",
+   "Claimjumper 3",
+   1.4
+  ],
+  [
+   "walk",
+   "Springmeier / Swinger",
+   "Admin Carpet 1 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Springmeier / Swinger",
+   "Admin Carpet 2 bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair bottom",
+   "Admin Carpet 1 top",
+   4.0
+  ],
+  [
+   "walk",
+   "Rocky Mountain SuperChair bottom",
+   "Admin Carpet 2 bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Claimjumper 3",
+   "Rip's Ride bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Claimjumper 3",
+   "Springmeier / Swinger",
+   1.4
+  ],
+  [
+   "walk",
+   "Claimjumper 3",
+   "Admin Carpet 1 bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Claimjumper 3",
+   "Admin Carpet 1 top",
+   4.6
+  ],
+  [
+   "walk",
+   "Claimjumper 3",
+   "Admin Carpet 2 bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 bottom",
+   "Claimjumper 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 top",
+   "Rocky Mountain SuperChair bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Admin Carpet 1 top",
+   "Claimjumper 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Admin Carpet 2 bottom",
+   "Springmeier / Swinger",
+   3.7
+  ],
+  [
+   "walk",
+   "Admin Carpet 2 bottom",
+   "Rocky Mountain SuperChair bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Admin Carpet 2 bottom",
+   "Claimjumper 3",
+   4.8
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola top",
+   "Admin Carpet 1 bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola top",
+   "Admin Carpet 1 top",
+   3.6
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola top",
+   "Peak 8 kids Carpet 2 top",
+   2.4
+  ],
+  [
+   "walk",
+   "BreckConnect Gondola top",
+   "Admin Carpet 2 bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Chair bottom 3",
+   "Chair bottom 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Tunnel / Lower Boneyard",
+   "Tunnel",
+   4.6
+  ],
+  [
+   "walk",
+   "Frosty's Freeway 2",
+   "Tunnel",
+   2.5
+  ],
+  [
+   "walk",
+   "Peak 8 SuperConnect Lower bottom",
+   "A-Chair bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Blue Sky",
+   "Gondola Ski Back / Lower 4 O'Clock",
+   5.6
+  ],
+  [
+   "walk",
+   "Blue Sky",
+   "Lower 4 O'Clock 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Blue Sky",
+   "Lower 4 O'Clock 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Gondola Ski Back / Lower 4 O'Clock",
+   "Blue Sky",
+   5.6
+  ],
+  [
+   "walk",
+   "Gondola Ski Back / Lower 4 O'Clock",
+   "Lower 4 O'Clock 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Gondola Ski Back / Lower 4 O'Clock",
+   "Lower 4 O'Clock 3",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock 3",
+   "Blue Sky",
+   5.2
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock 3",
+   "Gondola Ski Back / Lower 4 O'Clock",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower 4 O'Clock 3",
+   "Lower 4 O'Clock 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Peak 8 SuperConnect Upper top",
+   "Pathfinder 2",
+   4.2
+  ],
+  [
+   "walk",
+   "4 O'Clock",
+   "Pathfinder 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Reverie",
+   "Intuition",
+   1.6
+  ],
+  [
+   "walk",
+   "Intuition",
+   "Reverie",
+   1.6
+  ],
+  [
+   "walk",
+   "Crystal",
+   "Lower Lehman 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Twister",
+   "Trygve's / Lower 4 O'Clock",
+   3.5
+  ],
+  [
+   "walk",
+   "Trygve's Platter top",
+   "Trygve's / Lower 4 O'Clock",
+   2.6
+  ],
+  [
+   "walk",
+   "Forget Me Not 2",
+   "Independence SuperChair top",
+   4.3
+  ],
+  [
+   "walk",
+   "Gold King",
+   "Peerless / Gold King",
+   5.2
+  ],
+  [
+   "walk",
+   "Gold King",
+   "Little Burn",
+   3.9
+  ],
+  [
+   "walk",
+   "Little Burn",
+   "Peerless / Gold King",
+   5.6
+  ],
+  [
+   "walk",
+   "Little Burn",
+   "Gold King",
+   3.9
+  ],
+  [
+   "walk",
+   "Lobo / Hombre",
+   "Hombre / No Name",
+   5.0
+  ],
+  [
+   "walk",
+   "Lobo / Hombre",
+   "West Snowbird / Middle Snowbird",
+   3.8
+  ],
+  [
+   "walk",
+   "Lobo / Hombre",
+   "Upper 4 O'Clock",
+   3.9
+  ],
+  [
+   "walk",
+   "Lobo / Hombre",
+   "Lobo",
+   6.1
+  ],
+  [
+   "walk",
+   "Lobo / Hombre",
+   "Upper 4 O'Clock 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Lobo / Hombre",
+   "Chair top 3",
+   4.8
+  ],
+  [
+   "walk",
+   "Hombre / No Name",
+   "Lobo / Hombre",
+   2.5
+  ],
+  [
+   "walk",
+   "Hombre / No Name",
+   "West Snowbird / Middle Snowbird",
+   1.9
+  ],
+  [
+   "walk",
+   "Hombre / No Name",
+   "Upper 4 O'Clock",
+   1.7
+  ],
+  [
+   "walk",
+   "Hombre / No Name",
+   "Lobo",
+   3.2
+  ],
+  [
+   "walk",
+   "Hombre / No Name",
+   "Upper 4 O'Clock 2",
+   2.9
+  ],
+  [
+   "walk",
+   "West Snowbird / Middle Snowbird",
+   "Lobo / Hombre",
+   3.8
+  ],
+  [
+   "walk",
+   "West Snowbird / Middle Snowbird",
+   "Hombre / No Name",
+   3.2
+  ],
+  [
+   "walk",
+   "West Snowbird / Middle Snowbird",
+   "Upper 4 O'Clock",
+   2.1
+  ],
+  [
+   "walk",
+   "West Snowbird / Middle Snowbird",
+   "Lobo",
+   4.3
+  ],
+  [
+   "walk",
+   "West Snowbird / Middle Snowbird",
+   "Upper 4 O'Clock 2",
+   1.7
+  ],
+  [
+   "walk",
+   "West Snowbird / Middle Snowbird",
+   "Chair top 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock",
+   "Lobo / Hombre",
+   2.6
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock",
+   "Hombre / No Name",
+   1.7
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock",
+   "West Snowbird / Middle Snowbird",
+   2.1
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock",
+   "Lobo",
+   3.4
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock",
+   "Upper 4 O'Clock 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Lobo",
+   "Lobo / Hombre",
+   6.1
+  ],
+  [
+   "walk",
+   "Lobo",
+   "Hombre / No Name",
+   5.5
+  ],
+  [
+   "walk",
+   "Lobo",
+   "West Snowbird / Middle Snowbird",
+   4.3
+  ],
+  [
+   "walk",
+   "Lobo",
+   "Upper 4 O'Clock",
+   4.4
+  ],
+  [
+   "walk",
+   "Lobo",
+   "Upper 4 O'Clock 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Lobo",
+   "Chair top 3",
+   5.4
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock 2",
+   "Lobo / Hombre",
+   3.5
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock 2",
+   "Hombre / No Name",
+   2.9
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock 2",
+   "West Snowbird / Middle Snowbird",
+   1.7
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock 2",
+   "Upper 4 O'Clock",
+   1.7
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock 2",
+   "Lobo",
+   4.0
+  ],
+  [
+   "walk",
+   "Upper 4 O'Clock 2",
+   "Chair top 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Lower Lehman / Silverthorne",
+   "Lower Sawmill 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Sawmill 2",
+   "Lower Lehman / Silverthorne",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Sawmill 4",
+   "Lower Lehman / Silverthorne",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Sawmill 4",
+   "Lower Sawmill 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Sawmill 4",
+   "BR Kids Carpet bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Village Carpet A bottom",
+   "Camelback Platter bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Camelback Platter bottom",
+   "Village Carpet A bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Lehman 2",
+   "Lower Lehman",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Lehman 2",
+   "Doublejack / Flapjack",
+   5.1
+  ],
+  [
+   "walk",
+   "Lower Lehman 2",
+   "Wellington",
+   2.7
+  ],
+  [
+   "walk",
+   "Lower Lehman 2",
+   "Unnamed run 4",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Lehman 2",
+   "Frontier",
+   3.7
+  ],
+  [
+   "walk",
+   "Lower Lehman 2",
+   "Lower Lehman 4",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Lehman 2",
+   "El Dorado Carpet bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Doublejack / Flapjack",
+   "Lower Lehman",
+   2.6
+  ],
+  [
+   "walk",
+   "Doublejack / Flapjack",
+   "Lower Lehman 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Doublejack / Flapjack",
+   "Wellington",
+   3.9
+  ],
+  [
+   "walk",
+   "Doublejack / Flapjack",
+   "Unnamed run 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Doublejack / Flapjack",
+   "Frontier",
+   4.5
+  ],
+  [
+   "walk",
+   "Doublejack / Flapjack",
+   "Lower Lehman 4",
+   5.1
+  ],
+  [
+   "walk",
+   "Doublejack / Flapjack",
+   "El Dorado Carpet bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Wellington",
+   "Lower Lehman",
+   3.5
+  ],
+  [
+   "walk",
+   "Wellington",
+   "Lower Lehman 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Wellington",
+   "Doublejack / Flapjack",
+   3.9
+  ],
+  [
+   "walk",
+   "Wellington",
+   "Unnamed run 4",
+   2.1
+  ],
+  [
+   "walk",
+   "Wellington",
+   "Frontier",
+   3.5
+  ],
+  [
+   "walk",
+   "Wellington",
+   "Lower Lehman 4",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Lower Lehman",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Lower Lehman 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Doublejack / Flapjack",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Wellington",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Frontier",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Lower Lehman 4",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "El Dorado Carpet bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Lehman 4",
+   "Lower Lehman",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Lehman 4",
+   "Falcon SuperChair bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Lehman 4",
+   "Lower Lehman 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Lehman 4",
+   "Doublejack / Flapjack",
+   5.1
+  ],
+  [
+   "walk",
+   "Lower Lehman 4",
+   "Wellington",
+   2.7
+  ],
+  [
+   "walk",
+   "Lower Lehman 4",
+   "Unnamed run 4",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Lehman 4",
+   "Frontier",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Lehman 4",
+   "El Dorado Carpet bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "Lower Lehman",
+   6.1
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "Falcon SuperChair bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "Lower Lehman 2",
+   5.3
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "Doublejack / Flapjack",
+   6.5
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "Unnamed run 4",
+   4.7
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "Frontier",
+   6.1
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "Lower Lehman 4",
+   5.3
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "Lower Lehman",
+   6.1
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "Falcon SuperChair bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "Lower Lehman 2",
+   5.4
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "Doublejack / Flapjack",
+   6.6
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "Unnamed run 4",
+   4.7
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "Frontier",
+   6.1
+  ],
+  [
+   "walk",
+   "Lower Lehman",
+   "Lower Lehman 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Lehman",
+   "Unnamed run 4",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Lehman",
+   "Frontier",
+   3.3
+  ],
+  [
+   "walk",
+   "Frontier",
+   "Lower Lehman",
+   3.3
+  ],
+  [
+   "walk",
+   "Frontier",
+   "Lower Lehman 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Frontier",
+   "Unnamed run 4",
+   3.7
+  ],
+  [
+   "walk",
+   "White Crown / Ptarmigan",
+   "Lower Forget-Me-Not",
+   4.3
+  ],
+  [
+   "walk",
+   "White Crown / Ptarmigan",
+   "Independence SuperChair top",
+   5.5
+  ],
+  [
+   "walk",
+   "Silverthorne",
+   "Red Rover / Lower Sundown",
+   3.8
+  ],
+  [
+   "walk",
+   "Silverthorne",
+   "Lower Sawmill 4",
+   6.3
+  ],
+  [
+   "walk",
+   "Red Rover / Lower Sundown",
+   "Silverthorne",
+   3.8
+  ],
+  [
+   "walk",
+   "Red Rover / Lower Sundown",
+   "Lower Sawmill 4",
+   4.4
+  ],
+  [
+   "walk",
+   "Red Rover / Lower Sundown",
+   "A-Chair bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "A-Chair bottom",
+   "Lower Sawmill 4",
+   5.5
+  ],
+  [
+   "walk",
+   "Lower Lehman / Silverthorne",
+   "Camelback Platter bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Beaver Run SuperChair bottom",
+   "Camelback Platter bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Sawmill 2",
+   "Camelback Platter bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Lower Sawmill 4",
+   "Camelback Platter bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Silverthorne / Lower American",
+   "Lower Cashier / Lower Sundown",
+   4.8
+  ],
+  [
+   "walk",
+   "Silverthorne / Lower American",
+   "Sundown Access / Lower Bonanza",
+   5.2
+  ],
+  [
+   "walk",
+   "Sundown Access / Lower Bonanza",
+   "Silverthorne / Lower American",
+   5.2
+  ],
+  [
+   "walk",
+   "Sundown Access / Lower Bonanza",
+   "Lower Cashier / Lower Sundown",
+   5.6
+  ],
+  [
+   "walk",
+   "Falcon SuperChair bottom",
+   "QuickSilver SuperChair top",
+   2.5
+  ],
+  [
+   "walk",
+   "Falcon SuperChair bottom",
+   "Doublejack / Flapjack",
+   5.7
+  ],
+  [
+   "walk",
+   "Falcon SuperChair bottom",
+   "Wellington",
+   3.2
+  ],
+  [
+   "walk",
+   "Falcon SuperChair bottom",
+   "Lower Lehman 4",
+   4.4
+  ],
+  [
+   "walk",
+   "Falcon SuperChair bottom",
+   "El Dorado Carpet bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Lower Lehman",
+   "QuickSilver SuperChair top",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Lehman",
+   "Doublejack / Flapjack",
+   6.3
+  ],
+  [
+   "walk",
+   "Lower Lehman",
+   "Wellington",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Lehman",
+   "Lower Lehman 4",
+   5.1
+  ],
+  [
+   "walk",
+   "Frontier",
+   "QuickSilver SuperChair top",
+   5.1
+  ],
+  [
+   "walk",
+   "Frontier",
+   "Wellington",
+   5.8
+  ],
+  [
+   "walk",
+   "Rounder's / Columbine",
+   "Columbine",
+   4.3
+  ],
+  [
+   "walk",
+   "Zendo Chair bottom",
+   "Freedom Superchair bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Double Barrel / Lower Boneyard",
+   "Tunnel / Lower Boneyard",
+   3.5
+  ],
+  [
+   "walk",
+   "Double Barrel / Lower Boneyard",
+   "Frosty's Freeway",
+   2.9
+  ],
+  [
+   "walk",
+   "Double Barrel / Lower Boneyard",
+   "Chair bottom 2",
+   6.8
+  ],
+  [
+   "walk",
+   "Double Barrel 3",
+   "Double Barrel / Lower Boneyard",
+   3.3
+  ],
+  [
+   "walk",
+   "Double Barrel 3",
+   "Tunnel / Lower Boneyard",
+   5.5
+  ],
+  [
+   "walk",
+   "Double Barrel 3",
+   "Frosty's Freeway",
+   4.9
+  ],
+  [
+   "walk",
+   "Double Barrel 5",
+   "Double Barrel / Lower Boneyard",
+   2.6
+  ],
+  [
+   "walk",
+   "Double Barrel 5",
+   "Tunnel / Lower Boneyard",
+   4.8
+  ],
+  [
+   "walk",
+   "Double Barrel 5",
+   "Frosty's Freeway",
+   4.2
+  ],
+  [
+   "walk",
+   "Frosty's Freeway",
+   "Double Barrel / Lower Boneyard",
+   2.9
+  ],
+  [
+   "walk",
+   "Frosty's Freeway",
+   "Tunnel / Lower Boneyard",
+   5.2
+  ],
+  [
+   "walk",
+   "Rip's Ride top",
+   "Snowflake top",
+   3.5
+  ],
+  [
+   "walk",
+   "Twister",
+   "Snowflake top",
+   5.5
+  ],
+  [
+   "walk",
+   "Trygve's Platter top",
+   "Snowflake top",
+   4.7
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "El Dorado Platter top",
+   3.8
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "QuickSilver SuperChair top",
+   3.8
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "Falcon SuperChair bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "Lower Lehman",
+   6.5
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "Lower Lehman 2",
+   5.7
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "Doublejack / Flapjack",
+   6.9
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "Unnamed run 4",
+   5.1
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "Frontier",
+   6.5
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "Lower Lehman 4",
+   5.7
+  ],
+  [
+   "walk",
+   "Lower Lehman 2",
+   "El Dorado Platter top",
+   5.7
+  ],
+  [
+   "walk",
+   "Doublejack / Flapjack",
+   "El Dorado Platter top",
+   6.9
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "El Dorado Platter top",
+   5.1
+  ],
+  [
+   "walk",
+   "Lower Lehman 4",
+   "El Dorado Platter top",
+   5.4
+  ],
+  [
+   "walk",
+   "Falcon SuperChair bottom",
+   "El Dorado Platter top",
+   6.2
+  ],
+  [
+   "walk",
+   "Lower Lehman",
+   "El Dorado Carpet bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Lower Lehman",
+   "El Dorado Platter top",
+   6.9
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "El Dorado Carpet top",
+   5.4
+  ],
+  [
+   "walk",
+   "Wellington",
+   "El Dorado Carpet top",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "El Dorado Carpet top",
+   6.7
+  ],
+  [
+   "walk",
+   "Beaver Run SuperChair top",
+   "Chair top 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Beaver Run SuperChair top",
+   "Gold King",
+   6.5
+  ],
+  [
+   "walk",
+   "Peak 8 SuperConnect Lower bottom",
+   "Beaver Run SuperChair bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Peak 8 SuperConnect Lower bottom",
+   "Camelback Platter top",
+   6.7
+  ],
+  [
+   "walk",
+   "Peak 8 SuperConnect Lower bottom",
+   "BR Kids Carpet bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Red Rover / Lower Sundown",
+   "Beaver Run SuperChair bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Trygve's Platter bottom",
+   "Peak 8 kids Carpet 2 bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Trygve's Platter bottom",
+   "FIVE SuperChair bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Trygve's Platter bottom",
+   "Rip's Ride bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Trygve's Platter bottom",
+   "Springmeier / Swinger",
+   6.8
+  ],
+  [
+   "walk",
+   "Trygve's Platter bottom",
+   "Admin Carpet 1 bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Trygve's Platter bottom",
+   "Peak 8 kids Carpet 2 top",
+   5.3
+  ],
+  [
+   "walk",
+   "Trygve's Platter bottom",
+   "Admin Carpet 2 bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Trygve's Platter bottom",
+   "BreckConnect Gondola top",
+   6.8
+  ],
+  [
+   "walk",
+   "Trygve's Platter bottom",
+   "Peak 8 kids Carpet 1 bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Monte Cristo / Lost Horizon",
+   "Peak 6 Parkway / Lincoln Meadows",
+   2.0
+  ],
+  [
+   "walk",
+   "Monte Cristo / Lost Horizon",
+   "Lost Horizon",
+   4.8
+  ],
+  [
+   "walk",
+   "Monte Cristo / Lost Horizon",
+   "Freedom Superchair bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Peak 6 Parkway / Lincoln Meadows",
+   "Monte Cristo / Lost Horizon",
+   2.0
+  ],
+  [
+   "walk",
+   "Peak 6 Parkway / Lincoln Meadows",
+   "Lost Horizon",
+   4.1
+  ],
+  [
+   "walk",
+   "Peak 6 Parkway / Lincoln Meadows",
+   "Freedom Superchair bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Delirium 3",
+   "Barton's Breezeway / Lost Horizon",
+   6.0
+  ],
+  [
+   "walk",
+   "Delirium 3",
+   "Delirium / Lost Horizon",
+   4.1
+  ],
+  [
+   "walk",
+   "Alpine Alley / Imperial Ridge",
+   "Pika",
+   2.7
+  ],
+  [
+   "walk",
+   "Alpine Alley / Imperial Ridge",
+   "Ptarmigan",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Lehman / Silverthorne",
+   "Tweener Carpet bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Beaver Run SuperChair bottom",
+   "Tweener Carpet bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Sawmill 2",
+   "Tweener Carpet bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Camelback Platter top",
+   "Tweener Carpet bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Camelback Platter top",
+   "QuickSilver SuperChair bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Camelback Platter top",
+   "Lower Sawmill 3",
+   5.7
+  ],
+  [
+   "walk",
+   "Camelback Platter top",
+   "Village Carpet A bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "BR Kids Carpet bottom",
+   "QuickSilver SuperChair bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "BR Kids Carpet bottom",
+   "Lower Sawmill 3",
+   5.3
+  ],
+  [
+   "walk",
+   "BR Kids Carpet bottom",
+   "Village Carpet A bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Lower Lehman / Silverthorne",
+   "QuickSilver SuperChair bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Beaver Run SuperChair bottom",
+   "QuickSilver SuperChair bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Beaver Run SuperChair bottom",
+   "Lower Sawmill 3",
+   6.3
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "Lower Cashier / Cashier",
+   5.9
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "Lower American 2",
+   6.8
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "El Dorado Platter bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Eldorado / Wellington",
+   "Lower Cashier / Cashier",
+   5.0
+  ],
+  [
+   "walk",
+   "Eldorado / Wellington",
+   "QuickSilver SuperChair top",
+   4.3
+  ],
+  [
+   "walk",
+   "Eldorado / Wellington",
+   "Lower American 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Eldorado / Wellington",
+   "Wellington",
+   3.6
+  ],
+  [
+   "walk",
+   "Eldorado / Wellington",
+   "El Dorado Platter bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower American 2",
+   "Lower Cashier / Cashier",
+   5.2
+  ],
+  [
+   "walk",
+   "Lower American 2",
+   "QuickSilver SuperChair top",
+   6.8
+  ],
+  [
+   "walk",
+   "Lower American 2",
+   "Wellington",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower American 2",
+   "El Dorado Platter bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Wellington",
+   "Lower Cashier / Cashier",
+   5.1
+  ],
+  [
+   "walk",
+   "Wellington",
+   "Lower American 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Wellington",
+   "El Dorado Platter bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "Lower Cashier / Cashier",
+   4.1
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "Lower American 2",
+   4.8
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "El Dorado Platter bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Briar Rose / Country Boy",
+   "QuickSilver SuperChair top",
+   6.5
+  ],
+  [
+   "walk",
+   "Briar Rose / Country Boy",
+   "Eldorado / Wellington",
+   4.0
+  ],
+  [
+   "walk",
+   "Briar Rose / Country Boy",
+   "Wellington",
+   5.8
+  ],
+  [
+   "walk",
+   "Briar Rose / Country Boy",
+   "Lower Lehman 4",
+   6.5
+  ],
+  [
+   "walk",
+   "Briar Rose / Country Boy",
+   "El Dorado Carpet bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Briar Rose / Country Boy",
+   "El Dorado Platter top",
+   5.0
+  ],
+  [
+   "walk",
+   "Eldorado / Wellington",
+   "Lower Lehman 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Eldorado / Wellington",
+   "Falcon SuperChair bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Eldorado / Wellington",
+   "Lower Lehman 2",
+   6.3
+  ],
+  [
+   "walk",
+   "Eldorado / Wellington",
+   "Unnamed run 4",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower Lehman 4",
+   "Eldorado / Wellington",
+   4.3
+  ],
+  [
+   "walk",
+   "QuickSilver SuperChair top",
+   "Eldorado / Wellington",
+   6.3
+  ],
+  [
+   "walk",
+   "Trygve's Platter top",
+   "Admin Carpet 1 top",
+   6.0
+  ],
+  [
+   "walk",
+   "Trygve's Platter top",
+   "Admin Carpet 1 bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Trygve's Platter top",
+   "Admin Carpet 2 bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Snowflake top",
+   "Trygve's Platter bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Rip's Ride top",
+   "Trygve's Platter bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Trygve's / Lower 4 O'Clock",
+   "Trygve's Platter bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Twister",
+   "Trygve's Platter bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Lost Horizon",
+   "Wirepatch / Lost Horizon",
+   3.0
+  ],
+  [
+   "walk",
+   "Zendo Chair bottom",
+   "Wirepatch / Lost Horizon",
+   6.4
+  ],
+  [
+   "walk",
+   "Lower Cashier / Cashier",
+   "Silverthorne 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Silverthorne 2",
+   "Lower Cashier / Cashier",
+   4.2
+  ],
+  [
+   "walk",
+   "El Dorado Carpet bottom",
+   "Silverthorne 2",
+   5.4
+  ],
+  [
+   "walk",
+   "El Dorado Platter top",
+   "Silverthorne 2",
+   4.9
+  ],
+  [
+   "walk",
+   "El Dorado Carpet top",
+   "Silverthorne 2",
+   6.8
+  ]
+ ],
+ "base": "QuickSilver SuperChair bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "35",
+  "downhill_trails": "252",
+  "elevation_low_m": 2905.0,
+  "elevation_high_m": 3957.0,
+  "vertical_drop_m": 1052.0,
+  "website": ""
+ }
+}

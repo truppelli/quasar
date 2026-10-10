@@ -26,7 +26,8 @@ def load(path):
 def build(r):
     """Resort dict: nodes {name: [x, y, elevation_m]}, lifts/runs/links [[name, from, to, minutes], ...].
 
-    Links are short walks/skates between trails: no vertical, free to repeat."""
+    Links are short walks/skates between trails: free to repeat, but any height they climb is subtracted, so
+    skiing a dip and walking back up can't farm points."""
     nodes, edges = r["nodes"], []
     for kind in ("lift", "run", "link"):
         for name, u, v, mins in r.get(kind + "s", []):
@@ -42,6 +43,7 @@ def build(r):
                     "to": v,
                     "minutes": mins,
                     "vertical": max(drop, 0),
+                    "climb": max(nodes[v][2] - nodes[u][2], 0) if kind == "link" else 0,
                 }
             )
     return {**r, "edges": edges}
@@ -92,28 +94,40 @@ def _prep(edges, end):
         out.setdefault(e["from"], []).append(i)
     for v in out.values():  # most vertical per minute first, so good routes turn up early
         v.sort(key=lambda i: -edges[i]["vertical"] / edges[i]["minutes"])
-    home, heap = {end: 0}, [(0, end)]  # Dijkstra on reversed edges
+    # Fastest minutes to `end` from (node, arrived by link?), obeying the same no-two-links rule as _gain,
+    # so "can still get home" is never optimistic. Dijkstra on reversed edges.
+    into = {}
+    for e in edges:
+        into.setdefault(e["to"], []).append(e)
+    home = {(end, False): 0, (end, True): 0}
+    heap = [(0, end, False), (0, end, True)]
     while heap:
-        d, n = heapq.heappop(heap)
-        if d > home[n]:
+        d, n, by_link = heapq.heappop(heap)
+        if d > home[(n, by_link)]:
             continue
-        for e in edges:
-            if e["to"] == n and d + e["minutes"] < home.get(e["from"], np.inf):
-                home[e["from"]] = d + e["minutes"]
-                heapq.heappush(heap, (home[e["from"]], e["from"]))
+        for e in into.get(n, []):
+            if (e["kind"] == "link") != by_link:
+                continue  # e must be the edge that arrives at n in this state
+            for f in (False, True):  # how we arrived at e["from"]
+                key = (e["from"], f)
+                if not (f and by_link) and d + e["minutes"] < home.get(key, np.inf):
+                    home[key] = d + e["minutes"]
+                    heapq.heappush(heap, (home[key], e["from"], f))
     return out, home, max(e["vertical"] / e["minutes"] for e in edges)
 
 
 def _gain(edges, i, path, times_used, left, home):
     """Score for taking edge i next, or None if not allowed (chained link, can't get home in time)."""
     e = edges[i]
-    if e["minutes"] + home.get(e["to"], np.inf) > left:
-        return None
     if e["kind"] == "link" and path and edges[path[-1]]["kind"] == "link":
         return None  # links bridge one gap; chaining them just walks in circles
+    if e["minutes"] + home.get((e["to"], e["kind"] == "link"), np.inf) > left:
+        return None
+    if e["kind"] == "link":
+        return -e["climb"]
     if not times_used:
         return e["vertical"]
-    return {"run": RUN_REPEAT_CREDIT * e["vertical"], "lift": -LIFT_REPEAT_COST, "link": 0}[e["kind"]]
+    return {"run": RUN_REPEAT_CREDIT * e["vertical"], "lift": -LIFT_REPEAT_COST}[e["kind"]]
 
 
 def beam(resort, start, end, minutes, width=500):
@@ -128,7 +142,15 @@ def beam(resort, start, end, minutes, width=500):
     best = (0, ()) if start == end else (-np.inf, None)
     buckets = {0: {(start, ()): (0, start, 0.0, ())}}  # minute -> {(node, trails used): (score, node, used, path)}
     for t in range(int(minutes) + 1):
-        bucket = sorted(buckets.pop(t, {}).values(), key=lambda st: -st[0])[:width]
+        bucket, per_node = [], {}
+        for st in sorted(buckets.pop(t, {}).values(), key=lambda st: -st[0]):
+            # diversity: at most `per_node` routes per junction, so zero-gain dithering in one spot
+            # (flat segments + walks) can't crowd out routes heading up a lift
+            if per_node.get(st[1], 0) < 5:
+                per_node[st[1]] = per_node.get(st[1], 0) + 1
+                bucket.append(st)
+                if len(bucket) == width:
+                    break
         for score, node, used, path in bucket:
             for i in out.get(node, []):
                 gain = _gain(edges, i, path, path.count(i), minutes - used, home)
@@ -155,15 +177,18 @@ def describe(resort, score, path):
     }
 
 
-def plan(resort, start, minutes, end=None, max_nodes=300_000):
-    """Best route (the app path): exact branch-and-bound if it finishes within max_nodes, else beam search.
+def plan(resort, start, minutes, end=None, max_nodes=300_000, exact_max_edges=60):
+    """Best route (the app path): exact branch-and-bound on small graphs if it finishes within max_nodes,
+    else beam search. Real resorts (hundreds of edges) go straight to beam search; exact never finishes there.
 
     None if `end` is unreachable in time. "optimal" says whether the route is proven best.
     """
     end = end or resort["base"]
-    sols, tree, _ = search(resort, start, end, minutes, max_nodes=max_nodes)
-    found = [max(sols.values(), key=lambda s: s[0])] if sols else []
-    exact = tree < max_nodes
+    found, exact = [], False
+    if len(resort["edges"]) <= exact_max_edges:
+        sols, tree, _ = search(resort, start, end, minutes, max_nodes=max_nodes)
+        found = [max(sols.values(), key=lambda s: s[0])] if sols else []
+        exact = tree < max_nodes
     if not exact and (b := beam(resort, start, end, minutes)):
         found.append(b)
     if not found:

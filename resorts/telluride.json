@@ -1,0 +1,5834 @@
+{
+ "name": "Telluride Ski Area",
+ "source": "OpenSkiMap ski area c036edc54d4fe7d4c6f93de5b9f3dcaff34a5a64",
+ "origin_lonlat": [
+  -107.83540052739647,
+  37.918230843556294
+ ],
+ "nodes": {
+  "Logpile / See Forever": [
+   706,
+   166,
+   3441.7
+  ],
+  "Logpile": [
+   839,
+   383,
+   3353.2
+  ],
+  "Sandia / Magnolia": [
+   -231,
+   -2675,
+   3502.3
+  ],
+  "Gold Hill Express bottom": [
+   37,
+   -1513,
+   3284.1
+  ],
+  "Woozley's Way / Wozzley's Way": [
+   600,
+   -949,
+   3407.3
+  ],
+  "Polar Queen Express top": [
+   483,
+   -911,
+   3409.1
+  ],
+  "Wozzley's Way / Ophir Loop": [
+   529,
+   -886,
+   3407.8
+  ],
+  "Pick'N Gad / Village Bypass": [
+   84,
+   968,
+   3174.1
+  ],
+  "Pick'N Gad / Village Bypass 2": [
+   -161,
+   1082,
+   3106.9
+  ],
+  "Dynamo / Unnamed run": [
+   1112,
+   -1625,
+   3722.3
+  ],
+  "Dynamo / Lower Woozley's Way": [
+   397,
+   -1272,
+   3335.8
+  ],
+  "Gold Hill Express top": [
+   1029,
+   -1730,
+   3732.3
+  ],
+  "Revelation Lift bottom": [
+   1418,
+   -1699,
+   3572.5
+  ],
+  "Millions / Lower Woozley's Way": [
+   221,
+   -1482,
+   3320.3
+  ],
+  "Bushwacker / Power Line": [
+   1273,
+   762,
+   3201.0
+  ],
+  "Bushwacker": [
+   1464,
+   840,
+   3124.2
+  ],
+  "Marmot / Double Cabins": [
+   -1795,
+   -508,
+   3216.0
+  ],
+  "Marmot / Lower Galloping Goose": [
+   -2516,
+   818,
+   2987.1
+  ],
+  "Little Rose / Andy's Gold": [
+   975,
+   -1781,
+   3699.1
+  ],
+  "Polar Queen Express bottom": [
+   -340,
+   303,
+   3125.1
+  ],
+  "Hoot Brown Terrain Park / Butterfly": [
+   63,
+   1471,
+   3178.5
+  ],
+  "Hoot Brown Terrain Park / Misty Maiden": [
+   -878,
+   1916,
+   2907.4
+  ],
+  "Butterfly / See Forever": [
+   186,
+   1371,
+   3203.4
+  ],
+  "Butterfly / Misty Maiden": [
+   -508,
+   1459,
+   3020.6
+  ],
+  "Telluride Trail / See Forever": [
+   223,
+   1277,
+   3215.0
+  ],
+  "Gondola Line 1 bottom": [
+   1902,
+   1943,
+   2667.9
+  ],
+  "Pandora / Milk Run": [
+   252,
+   1452,
+   3204.5
+  ],
+  "Pandora / Milk Run 2": [
+   563,
+   1561,
+   3037.3
+  ],
+  "Dynamo": [
+   647,
+   -1386,
+   3427.9
+  ],
+  "Logpile / West Drain": [
+   895,
+   529,
+   3321.7
+  ],
+  "Misty Maiden / Butterfly": [
+   -422,
+   1290,
+   3051.5
+  ],
+  "Silvertip / Polar Queen": [
+   55,
+   -457,
+   3314.5
+  ],
+  "Silvertip / Ophir Loop": [
+   156,
+   -267,
+   3241.7
+  ],
+  "Ophir Loop / Dew Drop": [
+   44,
+   -88,
+   3191.6
+  ],
+  "Lynx top": [
+   -787,
+   -1575,
+   3395.8
+  ],
+  "Ute Park bottom": [
+   -1053,
+   -862,
+   3312.7
+  ],
+  "West Drain / See Forever": [
+   590,
+   471,
+   3397.1
+  ],
+  "Chondola top": [
+   -1038,
+   1987,
+   2908.7
+  ],
+  "Sunshine Express bottom": [
+   -1854,
+   2296,
+   2792.7
+  ],
+  "Village Express top": [
+   427,
+   648,
+   3279.5
+  ],
+  "Humbolt Draw / Peek-A-Boo": [
+   -333,
+   975,
+   3065.3
+  ],
+  "Nellie / Double Cabins": [
+   -1334,
+   -849,
+   3307.1
+  ],
+  "Audrey / Galloping Goose": [
+   -696,
+   -2212,
+   3445.7
+  ],
+  "Meadows": [
+   -1352,
+   2066,
+   2866.0
+  ],
+  "Meadows 2": [
+   -1663,
+   2209,
+   2820.6
+  ],
+  "Jackpot / May Girl": [
+   -806,
+   -1959,
+   3412.1
+  ],
+  "Misty Maiden / See Forever": [
+   257,
+   1190,
+   3219.6
+  ],
+  "Misty Maiden": [
+   -24,
+   1109,
+   3147.2
+  ],
+  "Bridges / Lower Galloping Goose": [
+   -2137,
+   686,
+   3019.1
+  ],
+  "Bridges / Galloping Goose Ski Run": [
+   -2274,
+   1704,
+   2883.5
+  ],
+  "Boomerang / Lower Boomerang": [
+   -770,
+   1355,
+   2995.9
+  ],
+  "Power Line / Spiral Stairs": [
+   1162,
+   410,
+   3401.0
+  ],
+  "Oak Street Lift top": [
+   1455,
+   1326,
+   2983.1
+  ],
+  "Bailout / Cats Paw": [
+   1616,
+   1566,
+   2885.8
+  ],
+  "Polar Queen / Dew Drop": [
+   -297,
+   258,
+   3130.0
+  ],
+  "Revelation Lift top": [
+   1124,
+   -2111,
+   3813.5
+  ],
+  "See Forever": [
+   1160,
+   -1363,
+   3685.7
+  ],
+  "Hoot Brown Terrain Park": [
+   -495,
+   1611,
+   3027.5
+  ],
+  "Misty Maiden 2": [
+   -620,
+   1646,
+   2984.4
+  ],
+  "Plunge Lift top": [
+   1190,
+   -436,
+   3625.2
+  ],
+  "Telluride Trail": [
+   736,
+   1529,
+   2974.9
+  ],
+  "Boomerang": [
+   328,
+   537,
+   3265.6
+  ],
+  "Peek-A-Boo / Village Bypass": [
+   -540,
+   1296,
+   3032.8
+  ],
+  "See Forever 2": [
+   1147,
+   -389,
+   3620.7
+  ],
+  "Mammoth / Bushwacker": [
+   1413,
+   262,
+   3291.3
+  ],
+  "Ophir Loop": [
+   304,
+   -286,
+   3279.9
+  ],
+  "Plunge Lift bottom": [
+   1547,
+   1319,
+   2979.9
+  ],
+  "Bailout": [
+   1533,
+   1360,
+   2975.7
+  ],
+  "Ute Park": [
+   -825,
+   -1129,
+   3345.8
+  ],
+  "East Drain / Bushwacker": [
+   1424,
+   342,
+   3265.9
+  ],
+  "East Drain / Bushwacker 2": [
+   1560,
+   990,
+   3042.6
+  ],
+  "Magnolia / Galloping Goose": [
+   -420,
+   -2823,
+   3576.8
+  ],
+  "See Forever 3": [
+   1020,
+   -326,
+   3578.2
+  ],
+  "Apex Lift bottom": [
+   460,
+   -376,
+   3297.2
+  ],
+  "See Forever 4": [
+   968,
+   -178,
+   3554.6
+  ],
+  "The Plunge": [
+   1014,
+   43,
+   3489.2
+  ],
+  "Woozley's Way / Lower Happy Thought": [
+   574,
+   -895,
+   3399.8
+  ],
+  "See Forever / Village Bypass": [
+   275,
+   1079,
+   3233.8
+  ],
+  "Wildcat / Galloping Goose": [
+   -1196,
+   -1772,
+   3362.5
+  ],
+  "Cats Paw": [
+   1608,
+   1765,
+   2783.4
+  ],
+  "Cats Paw / Bailout": [
+   1523,
+   1634,
+   2869.7
+  ],
+  "Telluride Trail 2": [
+   1635,
+   1847,
+   2740.7
+  ],
+  "Woozley's Way": [
+   956,
+   -751,
+   3555.1
+  ],
+  "Woozley's Way 2": [
+   821,
+   -783,
+   3492.9
+  ],
+  "Telluride Trail 3": [
+   1828,
+   1931,
+   2671.2
+  ],
+  "Lift 7 bottom": [
+   1308,
+   2098,
+   2661.8
+  ],
+  "Village Express bottom": [
+   -888,
+   1983,
+   2901.7
+  ],
+  "See Forever 5": [
+   1100,
+   -2051,
+   3790.5
+  ],
+  "Majestic": [
+   1368,
+   -1713,
+   3585.1
+  ],
+  "See Forever 6": [
+   1157,
+   -1516,
+   3714.4
+  ],
+  "Electra / Lower Woozley's Way": [
+   468,
+   -1216,
+   3348.4
+  ],
+  "Little Maude / Madison": [
+   -313,
+   -1741,
+   3350.8
+  ],
+  "Lower Galloping Goose / Galloping Goose Ski Run": [
+   -1800,
+   2211,
+   2805.8
+  ],
+  "Butterfly": [
+   -69,
+   1478,
+   3140.6
+  ],
+  "Chondola bottom": [
+   -1841,
+   2340,
+   2792.6
+  ],
+  "Happy Thought / See Forever": [
+   1107,
+   -1015,
+   3629.5
+  ],
+  "Happy Thought / Lower Happy Thought": [
+   602,
+   -784,
+   3368.6
+  ],
+  "Mammoth": [
+   1160,
+   -39,
+   3426.4
+  ],
+  "Misty Maiden / Village Bypass": [
+   334,
+   907,
+   3248.3
+  ],
+  "Misty Maiden / Village Bypass 2": [
+   -260,
+   1211,
+   3078.1
+  ],
+  "Polar Queen": [
+   -149,
+   -269,
+   3273.6
+  ],
+  "Henry's South / Dew Drop": [
+   -214,
+   28,
+   3156.7
+  ],
+  "Magnolia": [
+   -72,
+   -1781,
+   3340.0
+  ],
+  "Prospect Express bottom": [
+   -67,
+   -1412,
+   3280.0
+  ],
+  "Telluride Trail 4": [
+   1197,
+   1758,
+   2829.5
+  ],
+  "See Forever 7": [
+   996,
+   -250,
+   3566.5
+  ],
+  "Ophir Loop 2": [
+   415,
+   -460,
+   3312.8
+  ],
+  "Polar Queen 2": [
+   442,
+   -891,
+   3398.1
+  ],
+  "West Drain": [
+   909,
+   794,
+   3191.7
+  ],
+  "West Drain / Easy Out": [
+   1351,
+   1452,
+   3000.7
+  ],
+  "Polar Queen 3": [
+   -62,
+   -311,
+   3296.3
+  ],
+  "Lynx bottom": [
+   -622,
+   -1807,
+   3387.8
+  ],
+  "Magnolia 2": [
+   -423,
+   -2759,
+   3562.1
+  ],
+  "Prospect Woods / Stella": [
+   -487,
+   -2416,
+   3431.9
+  ],
+  "The Plunge 2": [
+   1097,
+   336,
+   3427.3
+  ],
+  "Spiral Stairs / Bushwacker": [
+   1419,
+   688,
+   3185.5
+  ],
+  "See Forever 8": [
+   1105,
+   -818,
+   3626.1
+  ],
+  "Woozley's Way 3": [
+   992,
+   -771,
+   3571.7
+  ],
+  "Hoot Brown Terrain Park 2": [
+   -820,
+   1853,
+   2919.3
+  ],
+  "Telluride Trail 5": [
+   1109,
+   1715,
+   2861.4
+  ],
+  "West Drain 2": [
+   1162,
+   745,
+   3244.1
+  ],
+  "Telluride Trail 6": [
+   1155,
+   1733,
+   2843.9
+  ],
+  "Stumper": [
+   1088,
+   1925,
+   2766.3
+  ],
+  "Meadows 3": [
+   -1576,
+   2189,
+   2834.7
+  ],
+  "Bailout 2": [
+   1500,
+   1336,
+   2980.0
+  ],
+  "Sandia": [
+   63,
+   -1662,
+   3302.1
+  ],
+  "Magnolia 3": [
+   -32,
+   -1551,
+   3286.6
+  ],
+  "The Plunge 3": [
+   978,
+   -75,
+   3523.5
+  ],
+  "Satisfaction / Bushwacker": [
+   1424,
+   579,
+   3211.2
+  ],
+  "Telluride Trail 7": [
+   1290,
+   1797,
+   2808.6
+  ],
+  "Polar Queen 4": [
+   232,
+   -653,
+   3345.2
+  ],
+  "Dew Drop": [
+   251,
+   -429,
+   3271.1
+  ],
+  "Lower Happy Thought": [
+   582,
+   -743,
+   3358.9
+  ],
+  "Ophir Loop 3": [
+   485,
+   -654,
+   3334.3
+  ],
+  "Unnamed run / Lower Woozley's Way": [
+   301,
+   -1348,
+   3327.0
+  ],
+  "Unnamed run / Lower Woozley's Way 2": [
+   51,
+   -1457,
+   3285.8
+  ],
+  "Magnolia Headwall / Galloping Goose": [
+   -339,
+   -2829,
+   3588.4
+  ],
+  "Magnolia 4": [
+   -309,
+   -2741,
+   3546.3
+  ],
+  "Magnolia 5": [
+   -94,
+   -1661,
+   3320.8
+  ],
+  "Madison": [
+   -172,
+   -1403,
+   3300.9
+  ],
+  "Madison / Galloping Goose": [
+   -715,
+   -2342,
+   3465.5
+  ],
+  "Madison 2": [
+   -553,
+   -2298,
+   3435.6
+  ],
+  "West Drain 3": [
+   651,
+   493,
+   3375.0
+  ],
+  "Prospect Creek / Madison": [
+   -214,
+   -1339,
+   3293.8
+  ],
+  "Meadows 4": [
+   -1118,
+   1995,
+   2898.2
+  ],
+  "Meadows 5": [
+   -1449,
+   2216,
+   2848.3
+  ],
+  "Woozley's Way 4": [
+   1185,
+   -643,
+   3608.8
+  ],
+  "Apex": [
+   707,
+   -487,
+   3374.5
+  ],
+  "Misty Maiden 3": [
+   -223,
+   1193,
+   3083.3
+  ],
+  "Sunshine Express top": [
+   -1150,
+   -849,
+   3321.9
+  ],
+  "Sundance": [
+   -999,
+   493,
+   3061.3
+  ],
+  "See Forever 9": [
+   475,
+   898,
+   3322.7
+  ],
+  "Telluride Trail 8": [
+   731,
+   1487,
+   2981.7
+  ],
+  "Peek-A-Boo": [
+   -475,
+   1225,
+   3042.9
+  ],
+  "May Girl": [
+   -690,
+   -1848,
+   3394.0
+  ],
+  "Humbolt Draw / Village Bypass": [
+   415,
+   733,
+   3267.5
+  ],
+  "Humbolt Draw": [
+   314,
+   718,
+   3255.8
+  ],
+  "Hoot Brown Terrain Park 3": [
+   -336,
+   1531,
+   3068.3
+  ],
+  "Misty Maiden 4": [
+   -563,
+   1543,
+   3011.6
+  ],
+  "Runaway Train / Enchanted Forest": [
+   -1603,
+   -483,
+   3252.9
+  ],
+  "Runaway Train / Double Cabins": [
+   -1542,
+   -218,
+   3160.8
+  ],
+  "Smuggler / Village Bypass, Misty Maiden": [
+   -304,
+   1241,
+   3069.5
+  ],
+  "Meadows 6": [
+   -1726,
+   2222,
+   2812.3
+  ],
+  "Stella / Galloping Goose": [
+   -724,
+   -2599,
+   3503.5
+  ],
+  "Stella / Madison": [
+   -485,
+   -2177,
+   3412.6
+  ],
+  "Madison / Galloping Goose 2": [
+   -741,
+   -2459,
+   3485.3
+  ],
+  "Prospect Express top": [
+   -294,
+   -2914,
+   3599.3
+  ],
+  "Double Cabins": [
+   -1834,
+   -425,
+   3204.7
+  ],
+  "See Forever 10": [
+   901,
+   -118,
+   3531.0
+  ],
+  "Last Chance": [
+   915,
+   -6,
+   3486.1
+  ],
+  "Dew Drop 2": [
+   381,
+   -584,
+   3313.5
+  ],
+  "Double Cabins 2": [
+   -1193,
+   -853,
+   3317.5
+  ],
+  "Double Cabins 3": [
+   -1826,
+   -351,
+   3196.7
+  ],
+  "Galloping Goose": [
+   -718,
+   -2070,
+   3430.7
+  ],
+  "Little Maude": [
+   -459,
+   -1782,
+   3361.2
+  ],
+  "Telluride Trail 9": [
+   835,
+   1552,
+   2956.6
+  ],
+  "Polar Queen 5": [
+   4,
+   -400,
+   3307.5
+  ],
+  "Dew Drop 3": [
+   -90,
+   18,
+   3169.7
+  ],
+  "See Forever 11": [
+   571,
+   788,
+   3355.5
+  ],
+  "Boomerang 2": [
+   -145,
+   425,
+   3181.6
+  ],
+  "Cake Walk": [
+   -429,
+   420,
+   3117.1
+  ],
+  "See Forever 12": [
+   1072,
+   -1710,
+   3720.1
+  ],
+  "Majestic 2": [
+   1303,
+   -1733,
+   3605.4
+  ],
+  "Ute Park 2": [
+   -719,
+   -1284,
+   3370.1
+  ],
+  "Ute Park 3": [
+   -810,
+   -1530,
+   3391.7
+  ],
+  "Bushwacker 2": [
+   1578,
+   1097,
+   3013.6
+  ],
+  "Bushwacker 3": [
+   1510,
+   1246,
+   2989.1
+  ],
+  "Telluride Trail 10": [
+   900,
+   1582,
+   2937.3
+  ],
+  "Boomerang 3": [
+   -681,
+   1091,
+   3065.4
+  ],
+  "Ute Park 4": [
+   -836,
+   -1350,
+   3372.6
+  ],
+  "Ute Park 5": [
+   -1027,
+   -902,
+   3314.6
+  ],
+  "Double Cabins 4": [
+   -1585,
+   1354,
+   2925.6
+  ],
+  "Double Cabins 5": [
+   -1527,
+   2,
+   3121.1
+  ],
+  "Misty Maiden 5": [
+   -884,
+   1861,
+   2912.8
+  ],
+  "Village Bypass": [
+   358,
+   860,
+   3253.1
+  ],
+  "Sandia 2": [
+   93,
+   -1795,
+   3322.7
+  ],
+  "Woozley's Way 5": [
+   779,
+   -962,
+   3453.6
+  ],
+  "Lower Happy Thought 2": [
+   502,
+   -517,
+   3328.2
+  ],
+  "See Forever 13": [
+   595,
+   705,
+   3370.9
+  ],
+  "Unnamed lift bottom": [
+   -1225,
+   1627,
+   2894.3
+  ],
+  "Unnamed lift top": [
+   -1350,
+   1512,
+   2927.2
+  ],
+  "Apex Lift top": [
+   1170,
+   -848,
+   3644.9
+  ],
+  "Free Intercept Gondola bottom": [
+   -886,
+   2036,
+   2901.8
+  ],
+  "Free Intercept Gondola top": [
+   -1613,
+   1584,
+   2907.5
+  ],
+  "Gondola Line 1 top": [
+   210,
+   1447,
+   3208.0
+  ],
+  "Lift 7 top": [
+   273,
+   1256,
+   3220.6
+  ],
+  "Gondola Line 2 bottom": [
+   -833,
+   2032,
+   2906.1
+  ],
+  "Comp Hill bottom": [
+   -874,
+   1728,
+   2922.0
+  ],
+  "Comp Hill top": [
+   -601,
+   1436,
+   3030.0
+  ],
+  "Gondola Magic Carpet top": [
+   -781,
+   1948,
+   2921.6
+  ],
+  "Meadows Magic Carpet bottom": [
+   -1185,
+   2044,
+   2894.6
+  ]
+ },
+ "lifts": [
+  [
+   "Gold Hill Express",
+   "Gold Hill Express bottom",
+   "Gold Hill Express top",
+   6.8
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   4.2
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   4.2
+  ],
+  [
+   "Plunge Lift",
+   "Plunge Lift bottom",
+   "Plunge Lift top",
+   16.9
+  ],
+  [
+   "Apex Lift",
+   "Apex Lift bottom",
+   "Apex Lift top",
+   9.7
+  ],
+  [
+   "Free Intercept Gondola",
+   "Free Intercept Gondola bottom",
+   "Free Intercept Gondola top",
+   5.9
+  ],
+  [
+   "Free Intercept Gondola",
+   "Free Intercept Gondola top",
+   "Free Intercept Gondola bottom",
+   5.9
+  ],
+  [
+   "Gondola Line 1",
+   "Gondola Line 1 bottom",
+   "Gondola Line 1 top",
+   9.2
+  ],
+  [
+   "Gondola Line 1",
+   "Gondola Line 1 top",
+   "Gondola Line 1 bottom",
+   9.2
+  ],
+  [
+   "Oak Street Lift",
+   "Gondola Line 1 bottom",
+   "Oak Street Lift top",
+   9.0
+  ],
+  [
+   "Lift 7",
+   "Lift 7 bottom",
+   "Lift 7 top",
+   13.4
+  ],
+  [
+   "Chondola",
+   "Chondola bottom",
+   "Chondola top",
+   7.9
+  ],
+  [
+   "Chondola",
+   "Chondola top",
+   "Chondola bottom",
+   7.9
+  ],
+  [
+   "Gondola Line 2",
+   "Gondola Line 2 bottom",
+   "Gondola Line 1 top",
+   7.1
+  ],
+  [
+   "Gondola Line 2",
+   "Gondola Line 1 top",
+   "Gondola Line 2 bottom",
+   7.1
+  ],
+  [
+   "Lynx",
+   "Lynx bottom",
+   "Lynx top",
+   4.4
+  ],
+  [
+   "Comp Hill",
+   "Comp Hill bottom",
+   "Comp Hill top",
+   5.3
+  ],
+  [
+   "Ute Park",
+   "Ute Park bottom",
+   "Lynx top",
+   8.5
+  ],
+  [
+   "Sunshine Express",
+   "Sunshine Express bottom",
+   "Sunshine Express top",
+   13.9
+  ],
+  [
+   "Revelation Lift",
+   "Revelation Lift bottom",
+   "Revelation Lift top",
+   7.1
+  ],
+  [
+   "Gondola Magic Carpet",
+   "Gondola Line 2 bottom",
+   "Gondola Magic Carpet top",
+   4.6
+  ],
+  [
+   "Village Express",
+   "Village Express bottom",
+   "Village Express top",
+   9.4
+  ],
+  [
+   "Prospect Express",
+   "Prospect Express bottom",
+   "Prospect Express top",
+   8.2
+  ],
+  [
+   "Polar Queen Express",
+   "Polar Queen Express bottom",
+   "Polar Queen Express top",
+   8.1
+  ]
+ ],
+ "runs": [
+  [
+   "Logpile",
+   "Logpile / See Forever",
+   "Logpile",
+   1.0
+  ],
+  [
+   "Sandia",
+   "Sandia / Magnolia",
+   "Sandia 2",
+   4.4
+  ],
+  [
+   "Sandia",
+   "Sandia 2",
+   "Sandia",
+   0.6
+  ],
+  [
+   "Sandia",
+   "Sandia",
+   "Gold Hill Express bottom",
+   0.7
+  ],
+  [
+   "Woozley's Way",
+   "Woozley's Way / Wozzley's Way",
+   "Polar Queen Express top",
+   0.5
+  ],
+  [
+   "Wozzley's Way",
+   "Woozley's Way / Wozzley's Way",
+   "Wozzley's Way / Ophir Loop",
+   0.5
+  ],
+  [
+   "Pick'N Gad",
+   "Pick'N Gad / Village Bypass",
+   "Pick'N Gad / Village Bypass 2",
+   1.0
+  ],
+  [
+   "Dynamo",
+   "Dynamo / Unnamed run",
+   "Dynamo",
+   2.4
+  ],
+  [
+   "Dynamo",
+   "Dynamo",
+   "Dynamo / Lower Woozley's Way",
+   1.2
+  ],
+  [
+   "Majestic",
+   "Gold Hill Express top",
+   "Majestic 2",
+   1.4
+  ],
+  [
+   "Majestic",
+   "Majestic 2",
+   "Majestic",
+   0.5
+  ],
+  [
+   "Majestic",
+   "Majestic",
+   "Revelation Lift bottom",
+   0.5
+  ],
+  [
+   "Millions",
+   "Gold Hill Express top",
+   "Millions / Lower Woozley's Way",
+   3.8
+  ],
+  [
+   "Bushwacker",
+   "Bushwacker / Power Line",
+   "Bushwacker",
+   0.8
+  ],
+  [
+   "Marmot",
+   "Marmot / Double Cabins",
+   "Marmot / Lower Galloping Goose",
+   6.6
+  ],
+  [
+   "Little Rose",
+   "Little Rose / Andy's Gold",
+   "Gold Hill Express bottom",
+   4.4
+  ],
+  [
+   "Hoot Brown Terrain Park",
+   "Hoot Brown Terrain Park / Butterfly",
+   "Hoot Brown Terrain Park 3",
+   1.6
+  ],
+  [
+   "Hoot Brown Terrain Park",
+   "Hoot Brown Terrain Park 3",
+   "Hoot Brown Terrain Park",
+   0.8
+  ],
+  [
+   "Hoot Brown Terrain Park",
+   "Hoot Brown Terrain Park",
+   "Hoot Brown Terrain Park 2",
+   2.1
+  ],
+  [
+   "Hoot Brown Terrain Park",
+   "Hoot Brown Terrain Park 2",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   0.5
+  ],
+  [
+   "Butterfly",
+   "Butterfly / See Forever",
+   "Hoot Brown Terrain Park / Butterfly",
+   0.5
+  ],
+  [
+   "Butterfly",
+   "Hoot Brown Terrain Park / Butterfly",
+   "Butterfly",
+   0.6
+  ],
+  [
+   "Butterfly",
+   "Butterfly",
+   "Butterfly / Misty Maiden",
+   1.9
+  ],
+  [
+   "Telluride Trail",
+   "Telluride Trail / See Forever",
+   "Lift 7 top",
+   0.5
+  ],
+  [
+   "Telluride Trail",
+   "Lift 7 top",
+   "Telluride Trail 8",
+   9.7
+  ],
+  [
+   "Telluride Trail",
+   "Telluride Trail 8",
+   "Telluride Trail",
+   0.5
+  ],
+  [
+   "Telluride Trail",
+   "Telluride Trail",
+   "Telluride Trail 9",
+   0.5
+  ],
+  [
+   "Telluride Trail",
+   "Telluride Trail 9",
+   "Telluride Trail 10",
+   0.5
+  ],
+  [
+   "Telluride Trail",
+   "Telluride Trail 10",
+   "Telluride Trail 5",
+   1.1
+  ],
+  [
+   "Telluride Trail",
+   "Telluride Trail 5",
+   "Telluride Trail 6",
+   0.5
+  ],
+  [
+   "Telluride Trail",
+   "Telluride Trail 6",
+   "Telluride Trail 4",
+   0.5
+  ],
+  [
+   "Telluride Trail",
+   "Telluride Trail 4",
+   "Telluride Trail 7",
+   0.5
+  ],
+  [
+   "Telluride Trail",
+   "Telluride Trail 7",
+   "Telluride Trail 2",
+   1.5
+  ],
+  [
+   "Telluride Trail",
+   "Telluride Trail 2",
+   "Telluride Trail 3",
+   2.0
+  ],
+  [
+   "Telluride Trail",
+   "Telluride Trail 3",
+   "Gondola Line 1 bottom",
+   0.5
+  ],
+  [
+   "Pandora",
+   "Pandora / Milk Run",
+   "Pandora / Milk Run 2",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Dynamo / Unnamed run",
+   "Dynamo",
+   2.4
+  ],
+  [
+   "Logpile",
+   "Logpile",
+   "Logpile / West Drain",
+   0.5
+  ],
+  [
+   "Misty Maiden",
+   "Misty Maiden / Butterfly",
+   "Butterfly / Misty Maiden",
+   0.7
+  ],
+  [
+   "Misty Maiden",
+   "Butterfly / Misty Maiden",
+   "Misty Maiden 4",
+   0.5
+  ],
+  [
+   "Misty Maiden",
+   "Misty Maiden 4",
+   "Misty Maiden 2",
+   0.5
+  ],
+  [
+   "Misty Maiden",
+   "Misty Maiden 2",
+   "Hoot Brown Terrain Park 2",
+   1.2
+  ],
+  [
+   "Misty Maiden",
+   "Hoot Brown Terrain Park 2",
+   "Misty Maiden 5",
+   0.5
+  ],
+  [
+   "Misty Maiden",
+   "Misty Maiden 5",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   0.5
+  ],
+  [
+   "Silvertip",
+   "Silvertip / Polar Queen",
+   "Silvertip / Ophir Loop",
+   0.8
+  ],
+  [
+   "Ophir Loop",
+   "Polar Queen Express top",
+   "Wozzley's Way / Ophir Loop",
+   0.5
+  ],
+  [
+   "Ophir Loop",
+   "Wozzley's Way / Ophir Loop",
+   "Ophir Loop 3",
+   0.9
+  ],
+  [
+   "Ophir Loop",
+   "Ophir Loop 3",
+   "Ophir Loop 2",
+   0.9
+  ],
+  [
+   "Ophir Loop",
+   "Ophir Loop 2",
+   "Ophir Loop",
+   0.9
+  ],
+  [
+   "Ophir Loop",
+   "Ophir Loop",
+   "Ophir Loop / Dew Drop",
+   1.4
+  ],
+  [
+   "Ute Park",
+   "Lynx top",
+   "Ute Park 3",
+   0.5
+  ],
+  [
+   "Ute Park",
+   "Ute Park 3",
+   "Ute Park 4",
+   0.6
+  ],
+  [
+   "Ute Park",
+   "Ute Park 4",
+   "Ute Park 5",
+   2.1
+  ],
+  [
+   "Ute Park",
+   "Ute Park 5",
+   "Ute Park bottom",
+   0.5
+  ],
+  [
+   "West Drain",
+   "West Drain / See Forever",
+   "West Drain 3",
+   0.5
+  ],
+  [
+   "West Drain",
+   "West Drain 3",
+   "Logpile / West Drain",
+   1.0
+  ],
+  [
+   "Meadows",
+   "Chondola top",
+   "Meadows 4",
+   0.5
+  ],
+  [
+   "Meadows",
+   "Meadows 4",
+   "Meadows",
+   1.1
+  ],
+  [
+   "Meadows",
+   "Meadows",
+   "Meadows 3",
+   1.1
+  ],
+  [
+   "Meadows",
+   "Meadows 3",
+   "Meadows 2",
+   0.5
+  ],
+  [
+   "Meadows",
+   "Meadows 2",
+   "Meadows 6",
+   0.5
+  ],
+  [
+   "Meadows",
+   "Meadows 6",
+   "Sunshine Express bottom",
+   0.6
+  ],
+  [
+   "Humbolt Draw",
+   "Village Express top",
+   "Humbolt Draw",
+   0.5
+  ],
+  [
+   "Humbolt Draw",
+   "Humbolt Draw",
+   "Humbolt Draw / Peek-A-Boo",
+   3.1
+  ],
+  [
+   "Nellie",
+   "Lynx top",
+   "Ute Park 3",
+   0.5
+  ],
+  [
+   "Nellie",
+   "Ute Park 3",
+   "Nellie / Double Cabins",
+   3.7
+  ],
+  [
+   "Meadows",
+   "Meadows",
+   "Meadows 5",
+   0.6
+  ],
+  [
+   "Meadows",
+   "Meadows 5",
+   "Meadows 2",
+   0.9
+  ],
+  [
+   "Misty Maiden",
+   "Misty Maiden / See Forever",
+   "Misty Maiden",
+   1.2
+  ],
+  [
+   "Bridges",
+   "Bridges / Lower Galloping Goose",
+   "Bridges / Galloping Goose Ski Run",
+   4.6
+  ],
+  [
+   "Boomerang",
+   "Village Express top",
+   "Boomerang",
+   0.6
+  ],
+  [
+   "Boomerang",
+   "Boomerang",
+   "Boomerang 2",
+   2.4
+  ],
+  [
+   "Boomerang",
+   "Boomerang 2",
+   "Boomerang 3",
+   3.6
+  ],
+  [
+   "Boomerang",
+   "Boomerang 3",
+   "Boomerang / Lower Boomerang",
+   1.3
+  ],
+  [
+   "Power Line",
+   "Power Line / Spiral Stairs",
+   "Bushwacker / Power Line",
+   1.6
+  ],
+  [
+   "Bailout",
+   "Oak Street Lift top",
+   "Bailout 2",
+   0.5
+  ],
+  [
+   "Bailout",
+   "Bailout 2",
+   "Bailout",
+   0.5
+  ],
+  [
+   "Bailout",
+   "Bailout",
+   "Bailout / Cats Paw",
+   1.1
+  ],
+  [
+   "Polar Queen",
+   "Polar Queen Express top",
+   "Polar Queen 2",
+   0.5
+  ],
+  [
+   "Polar Queen",
+   "Polar Queen 2",
+   "Polar Queen 4",
+   1.3
+  ],
+  [
+   "Polar Queen",
+   "Polar Queen 4",
+   "Silvertip / Polar Queen",
+   1.1
+  ],
+  [
+   "Polar Queen",
+   "Silvertip / Polar Queen",
+   "Polar Queen 5",
+   0.5
+  ],
+  [
+   "Polar Queen",
+   "Polar Queen 5",
+   "Polar Queen 3",
+   0.5
+  ],
+  [
+   "Polar Queen",
+   "Polar Queen 3",
+   "Polar Queen",
+   0.5
+  ],
+  [
+   "Polar Queen",
+   "Polar Queen",
+   "Polar Queen / Dew Drop",
+   2.5
+  ],
+  [
+   "See Forever",
+   "Revelation Lift top",
+   "See Forever 5",
+   0.5
+  ],
+  [
+   "See Forever",
+   "See Forever 5",
+   "Gold Hill Express top",
+   1.4
+  ],
+  [
+   "See Forever",
+   "Gold Hill Express top",
+   "See Forever 12",
+   0.5
+  ],
+  [
+   "See Forever",
+   "See Forever 12",
+   "Dynamo / Unnamed run",
+   0.5
+  ],
+  [
+   "See Forever",
+   "Dynamo / Unnamed run",
+   "See Forever 6",
+   0.6
+  ],
+  [
+   "See Forever",
+   "See Forever 6",
+   "See Forever",
+   0.6
+  ],
+  [
+   "Hoot Brown Terrain Park",
+   "Hoot Brown Terrain Park",
+   "Misty Maiden 2",
+   0.5
+  ],
+  [
+   "See Forever",
+   "Plunge Lift top",
+   "See Forever 2",
+   0.5
+  ],
+  [
+   "See Forever",
+   "See Forever 2",
+   "See Forever 3",
+   0.6
+  ],
+  [
+   "See Forever",
+   "See Forever 3",
+   "See Forever 7",
+   0.5
+  ],
+  [
+   "See Forever",
+   "See Forever 7",
+   "See Forever 4",
+   0.5
+  ],
+  [
+   "See Forever",
+   "See Forever 4",
+   "See Forever 10",
+   0.5
+  ],
+  [
+   "See Forever",
+   "See Forever 10",
+   "Logpile / See Forever",
+   1.5
+  ],
+  [
+   "See Forever",
+   "Logpile / See Forever",
+   "West Drain / See Forever",
+   1.4
+  ],
+  [
+   "See Forever",
+   "West Drain / See Forever",
+   "See Forever 13",
+   1.0
+  ],
+  [
+   "See Forever",
+   "See Forever 13",
+   "See Forever 11",
+   0.5
+  ],
+  [
+   "See Forever",
+   "See Forever 11",
+   "See Forever 9",
+   0.6
+  ],
+  [
+   "See Forever",
+   "See Forever 9",
+   "Misty Maiden / See Forever",
+   1.6
+  ],
+  [
+   "See Forever",
+   "Misty Maiden / See Forever",
+   "Telluride Trail / See Forever",
+   0.5
+  ],
+  [
+   "See Forever",
+   "Telluride Trail / See Forever",
+   "Butterfly / See Forever",
+   0.5
+  ],
+  [
+   "Milk Run",
+   "Telluride Trail / See Forever",
+   "Pandora / Milk Run",
+   0.6
+  ],
+  [
+   "Milk Run",
+   "Pandora / Milk Run",
+   "Pandora / Milk Run 2",
+   1.8
+  ],
+  [
+   "Milk Run",
+   "Pandora / Milk Run 2",
+   "Telluride Trail",
+   0.8
+  ],
+  [
+   "Peek-A-Boo",
+   "Boomerang",
+   "Humbolt Draw / Peek-A-Boo",
+   3.4
+  ],
+  [
+   "Peek-A-Boo",
+   "Humbolt Draw / Peek-A-Boo",
+   "Peek-A-Boo",
+   1.2
+  ],
+  [
+   "Peek-A-Boo",
+   "Peek-A-Boo",
+   "Peek-A-Boo / Village Bypass",
+   0.5
+  ],
+  [
+   "Mammoth",
+   "See Forever 2",
+   "Mammoth",
+   1.6
+  ],
+  [
+   "Mammoth",
+   "Mammoth",
+   "Mammoth / Bushwacker",
+   1.7
+  ],
+  [
+   "Ophir Loop",
+   "Ophir Loop",
+   "Silvertip / Ophir Loop",
+   0.5
+  ],
+  [
+   "Bailout",
+   "Plunge Lift bottom",
+   "Bailout",
+   0.5
+  ],
+  [
+   "Ute Park",
+   "Lynx top",
+   "Ute Park 2",
+   1.2
+  ],
+  [
+   "Ute Park",
+   "Ute Park 2",
+   "Ute Park",
+   0.8
+  ],
+  [
+   "East Drain",
+   "East Drain / Bushwacker",
+   "East Drain / Bushwacker 2",
+   2.9
+  ],
+  [
+   "Magnolia",
+   "Magnolia / Galloping Goose",
+   "Magnolia 2",
+   0.5
+  ],
+  [
+   "Magnolia",
+   "Magnolia 2",
+   "Magnolia 4",
+   0.5
+  ],
+  [
+   "Magnolia",
+   "Magnolia 4",
+   "Sandia / Magnolia",
+   0.5
+  ],
+  [
+   "Magnolia",
+   "Sandia / Magnolia",
+   "Magnolia",
+   4.0
+  ],
+  [
+   "Magnolia",
+   "Magnolia",
+   "Gold Hill Express bottom",
+   1.3
+  ],
+  [
+   "Apex",
+   "See Forever 3",
+   "Apex",
+   1.6
+  ],
+  [
+   "Apex",
+   "Apex",
+   "Apex Lift bottom",
+   1.2
+  ],
+  [
+   "The Plunge",
+   "See Forever 4",
+   "The Plunge 3",
+   0.5
+  ],
+  [
+   "The Plunge",
+   "The Plunge 3",
+   "The Plunge",
+   0.6
+  ],
+  [
+   "The Plunge",
+   "The Plunge",
+   "The Plunge 2",
+   1.3
+  ],
+  [
+   "The Plunge",
+   "The Plunge 2",
+   "Bushwacker / Power Line",
+   2.3
+  ],
+  [
+   "Last Chance",
+   "The Plunge",
+   "Last Chance",
+   0.5
+  ],
+  [
+   "Last Chance",
+   "Last Chance",
+   "Logpile / See Forever",
+   1.1
+  ],
+  [
+   "Woozley's Way",
+   "Plunge Lift top",
+   "Woozley's Way 4",
+   0.7
+  ],
+  [
+   "Woozley's Way",
+   "Woozley's Way 4",
+   "Woozley's Way 3",
+   1.0
+  ],
+  [
+   "Woozley's Way",
+   "Woozley's Way 3",
+   "Woozley's Way",
+   0.5
+  ],
+  [
+   "Woozley's Way",
+   "Woozley's Way",
+   "Woozley's Way 2",
+   0.9
+  ],
+  [
+   "Woozley's Way",
+   "Woozley's Way 2",
+   "Woozley's Way 5",
+   0.8
+  ],
+  [
+   "Woozley's Way",
+   "Woozley's Way 5",
+   "Woozley's Way / Wozzley's Way",
+   0.8
+  ],
+  [
+   "Woozley's Way",
+   "Woozley's Way / Wozzley's Way",
+   "Woozley's Way / Lower Happy Thought",
+   0.5
+  ],
+  [
+   "See Forever",
+   "See Forever / Village Bypass",
+   "Misty Maiden / See Forever",
+   0.5
+  ],
+  [
+   "Cats Paw",
+   "Bailout / Cats Paw",
+   "Cats Paw",
+   0.8
+  ],
+  [
+   "Cats Paw",
+   "Cats Paw / Bailout",
+   "Cats Paw",
+   0.6
+  ],
+  [
+   "Cats Paw",
+   "Cats Paw",
+   "Telluride Trail 2",
+   0.5
+  ],
+  [
+   "Woozley's Way",
+   "Woozley's Way",
+   "Woozley's Way 2",
+   0.5
+  ],
+  [
+   "Mine Shaft",
+   "Bailout / Cats Paw",
+   "Telluride Trail 3",
+   2.0
+  ],
+  [
+   "Kid's Hill",
+   "Telluride Trail 2",
+   "Lift 7 bottom",
+   1.9
+  ],
+  [
+   "Lower Boomerang",
+   "Boomerang / Lower Boomerang",
+   "Misty Maiden 5",
+   2.3
+  ],
+  [
+   "Lower Boomerang",
+   "Misty Maiden 5",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   0.5
+  ],
+  [
+   "Lower Boomerang",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   "Village Express bottom",
+   0.5
+  ],
+  [
+   "Silvercloud",
+   "See Forever 5",
+   "Majestic 2",
+   1.7
+  ],
+  [
+   "Silvercloud",
+   "Majestic 2",
+   "Majestic",
+   0.5
+  ],
+  [
+   "Logpile",
+   "See Forever 4",
+   "Last Chance",
+   0.5
+  ],
+  [
+   "Logpile",
+   "Last Chance",
+   "Logpile",
+   1.8
+  ],
+  [
+   "Electra",
+   "See Forever 6",
+   "Electra / Lower Woozley's Way",
+   3.4
+  ],
+  [
+   "Little Maude",
+   "Lynx top",
+   "Little Maude",
+   1.5
+  ],
+  [
+   "Little Maude",
+   "Little Maude",
+   "Little Maude / Madison",
+   0.6
+  ],
+  [
+   "Lower Galloping Goose",
+   "Lower Galloping Goose / Galloping Goose Ski Run",
+   "Sunshine Express bottom",
+   0.5
+  ],
+  [
+   "Butterfly",
+   "Butterfly",
+   "Misty Maiden / Butterfly",
+   1.6
+  ],
+  [
+   "Meadows",
+   "Sunshine Express bottom",
+   "Chondola bottom",
+   0.5
+  ],
+  [
+   "Happy Thought",
+   "Happy Thought / See Forever",
+   "Happy Thought / Lower Happy Thought",
+   2.5
+  ],
+  [
+   "Joint Point",
+   "See Forever 4",
+   "Mammoth",
+   0.9
+  ],
+  [
+   "Misty Maiden",
+   "Misty Maiden / Village Bypass",
+   "Misty Maiden",
+   1.7
+  ],
+  [
+   "Misty Maiden",
+   "Misty Maiden",
+   "Misty Maiden 3",
+   0.9
+  ],
+  [
+   "Misty Maiden",
+   "Misty Maiden 3",
+   "Misty Maiden / Village Bypass 2",
+   0.5
+  ],
+  [
+   "Lower Boomerang",
+   "Chondola top",
+   "Village Express bottom",
+   0.5
+  ],
+  [
+   "Henry's South",
+   "Polar Queen",
+   "Henry's South / Dew Drop",
+   1.2
+  ],
+  [
+   "Magnolia",
+   "Magnolia",
+   "Magnolia 5",
+   0.5
+  ],
+  [
+   "Magnolia",
+   "Magnolia 5",
+   "Magnolia 3",
+   0.5
+  ],
+  [
+   "Magnolia",
+   "Magnolia 3",
+   "Prospect Express bottom",
+   0.6
+  ],
+  [
+   "Bailout",
+   "Bailout / Cats Paw",
+   "Cats Paw / Bailout",
+   0.5
+  ],
+  [
+   "Bailout",
+   "Cats Paw / Bailout",
+   "Telluride Trail 4",
+   1.5
+  ],
+  [
+   "Village Bypass",
+   "Misty Maiden / Butterfly",
+   "Peek-A-Boo / Village Bypass",
+   0.5
+  ],
+  [
+   "Village Bypass",
+   "Peek-A-Boo / Village Bypass",
+   "Boomerang / Lower Boomerang",
+   1.0
+  ],
+  [
+   "See Forever",
+   "Gold Hill Express top",
+   "See Forever 12",
+   0.5
+  ],
+  [
+   "See Forever",
+   "See Forever 12",
+   "Dynamo / Unnamed run",
+   0.5
+  ],
+  [
+   "See Forever",
+   "Dynamo / Unnamed run",
+   "See Forever 6",
+   0.5
+  ],
+  [
+   "See Forever",
+   "See Forever 6",
+   "See Forever",
+   0.6
+  ],
+  [
+   "See Forever",
+   "See Forever",
+   "Happy Thought / See Forever",
+   1.6
+  ],
+  [
+   "See Forever",
+   "Happy Thought / See Forever",
+   "See Forever 8",
+   0.9
+  ],
+  [
+   "See Forever",
+   "See Forever 8",
+   "Woozley's Way 4",
+   0.9
+  ],
+  [
+   "See Forever",
+   "Woozley's Way 4",
+   "See Forever 3",
+   1.5
+  ],
+  [
+   "See Forever",
+   "See Forever 3",
+   "See Forever 7",
+   0.5
+  ],
+  [
+   "Ophir Loop",
+   "Ophir Loop 2",
+   "Apex Lift bottom",
+   0.5
+  ],
+  [
+   "Dew Drop",
+   "Polar Queen 2",
+   "Dew Drop 2",
+   1.3
+  ],
+  [
+   "Dew Drop",
+   "Dew Drop 2",
+   "Dew Drop",
+   0.9
+  ],
+  [
+   "Dew Drop",
+   "Dew Drop",
+   "Silvertip / Ophir Loop",
+   0.8
+  ],
+  [
+   "Dew Drop",
+   "Silvertip / Ophir Loop",
+   "Ophir Loop / Dew Drop",
+   0.9
+  ],
+  [
+   "Dew Drop",
+   "Ophir Loop / Dew Drop",
+   "Dew Drop 3",
+   0.7
+  ],
+  [
+   "Dew Drop",
+   "Dew Drop 3",
+   "Henry's South / Dew Drop",
+   0.5
+  ],
+  [
+   "Dew Drop",
+   "Henry's South / Dew Drop",
+   "Polar Queen / Dew Drop",
+   1.0
+  ],
+  [
+   "West Drain",
+   "West Drain",
+   "West Drain / Easy Out",
+   3.5
+  ],
+  [
+   "Galloping Goose Ski Run",
+   "Bridges / Galloping Goose Ski Run",
+   "Lower Galloping Goose / Galloping Goose Ski Run",
+   3.0
+  ],
+  [
+   "West Drain",
+   "Logpile / West Drain",
+   "West Drain 2",
+   1.3
+  ],
+  [
+   "West Drain",
+   "West Drain 2",
+   "West Drain",
+   1.2
+  ],
+  [
+   "Henry's North",
+   "Polar Queen 3",
+   "Henry's South / Dew Drop",
+   1.6
+  ],
+  [
+   "Prospect Woods",
+   "Magnolia 2",
+   "Prospect Woods / Stella",
+   1.5
+  ],
+  [
+   "Spiral Stairs",
+   "The Plunge 2",
+   "Power Line / Spiral Stairs",
+   0.5
+  ],
+  [
+   "Spiral Stairs",
+   "Power Line / Spiral Stairs",
+   "Spiral Stairs / Bushwacker",
+   1.9
+  ],
+  [
+   "Woozley's Way",
+   "See Forever 8",
+   "Woozley's Way 3",
+   0.5
+  ],
+  [
+   "Misty Maiden",
+   "Hoot Brown Terrain Park 2",
+   "Misty Maiden 5",
+   0.5
+  ],
+  [
+   "Misty Maiden",
+   "Misty Maiden 5",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   0.5
+  ],
+  [
+   "Easy Out",
+   "West Drain / Easy Out",
+   "Telluride Trail 5",
+   3.0
+  ],
+  [
+   "The Plunge",
+   "West Drain 2",
+   "Bushwacker / Power Line",
+   0.5
+  ],
+  [
+   "Stumper",
+   "Telluride Trail 6",
+   "Stumper",
+   0.8
+  ],
+  [
+   "Lower Happy Thought",
+   "Polar Queen Express top",
+   "Wozzley's Way / Ophir Loop",
+   0.5
+  ],
+  [
+   "Lower Happy Thought",
+   "Wozzley's Way / Ophir Loop",
+   "Woozley's Way / Lower Happy Thought",
+   0.5
+  ],
+  [
+   "Lower Happy Thought",
+   "Woozley's Way / Lower Happy Thought",
+   "Happy Thought / Lower Happy Thought",
+   0.5
+  ],
+  [
+   "Lower Happy Thought",
+   "Happy Thought / Lower Happy Thought",
+   "Lower Happy Thought",
+   0.5
+  ],
+  [
+   "Lower Happy Thought",
+   "Lower Happy Thought",
+   "Lower Happy Thought 2",
+   0.9
+  ],
+  [
+   "Lower Happy Thought",
+   "Lower Happy Thought 2",
+   "Apex Lift bottom",
+   0.6
+  ],
+  [
+   "Lower Village Bypass",
+   "Boomerang / Lower Boomerang",
+   "Unnamed lift bottom",
+   2.2
+  ],
+  [
+   "Lower Village Bypass",
+   "Unnamed lift bottom",
+   "Meadows 3",
+   2.9
+  ],
+  [
+   "Lower Plunge",
+   "Bushwacker / Power Line",
+   "Oak Street Lift top",
+   2.5
+  ],
+  [
+   "Lower Plunge",
+   "Oak Street Lift top",
+   "Bailout 2",
+   0.5
+  ],
+  [
+   "Jaws",
+   "Bailout",
+   "Cats Paw / Bailout",
+   1.1
+  ],
+  [
+   "Sandia",
+   "Sandia",
+   "Magnolia 3",
+   0.5
+  ],
+  [
+   "Satisfaction",
+   "The Plunge 3",
+   "Satisfaction / Bushwacker",
+   3.4
+  ],
+  [
+   "O'Reilly's",
+   "Telluride Trail 7",
+   "Lift 7 bottom",
+   1.4
+  ],
+  [
+   "Alta",
+   "Polar Queen 4",
+   "Dew Drop",
+   0.8
+  ],
+  [
+   "Ophir Loop",
+   "Lower Happy Thought",
+   "Ophir Loop 3",
+   0.5
+  ],
+  [
+   "Village Bypass",
+   "Pick'N Gad / Village Bypass",
+   "Pick'N Gad / Village Bypass 2",
+   1.3
+  ],
+  [
+   "Village Bypass",
+   "Pick'N Gad / Village Bypass 2",
+   "Misty Maiden 3",
+   0.5
+  ],
+  [
+   "Village Bypass",
+   "Misty Maiden 3",
+   "Misty Maiden / Village Bypass 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Lower Woozley's Way",
+   "Unnamed run / Lower Woozley's Way 2",
+   1.1
+  ],
+  [
+   "Magnolia Headwall",
+   "Magnolia Headwall / Galloping Goose",
+   "Magnolia 4",
+   0.5
+  ],
+  [
+   "Madison",
+   "Magnolia 5",
+   "Madison",
+   1.0
+  ],
+  [
+   "Madison",
+   "Madison / Galloping Goose",
+   "Madison 2",
+   0.6
+  ],
+  [
+   "West Drain",
+   "West Drain 3",
+   "West Drain",
+   1.7
+  ],
+  [
+   "The Peaks",
+   "Meadows 4",
+   "Meadows 5",
+   2.3
+  ],
+  [
+   "Allais Alley",
+   "Woozley's Way 4",
+   "Apex",
+   2.2
+  ],
+  [
+   "Hermit",
+   "Misty Maiden / See Forever",
+   "Misty Maiden 3",
+   1.9
+  ],
+  [
+   "Sundance",
+   "Sunshine Express top",
+   "Sundance",
+   6.1
+  ],
+  [
+   "North Chute",
+   "See Forever 9",
+   "Telluride Trail 8",
+   2.9
+  ],
+  [
+   "Peek-A-Boo",
+   "Peek-A-Boo",
+   "Misty Maiden / Butterfly",
+   0.5
+  ],
+  [
+   "May Girl",
+   "Jackpot / May Girl",
+   "May Girl",
+   0.5
+  ],
+  [
+   "Humbolt Draw",
+   "Humbolt Draw / Village Bypass",
+   "Humbolt Draw",
+   0.5
+  ],
+  [
+   "Hoot Brown Terrain Park",
+   "Hoot Brown Terrain Park 3",
+   "Misty Maiden 4",
+   0.9
+  ],
+  [
+   "Runaway Train",
+   "Runaway Train / Enchanted Forest",
+   "Runaway Train / Double Cabins",
+   1.1
+  ],
+  [
+   "Village Bypass",
+   "Village Express top",
+   "Humbolt Draw / Village Bypass",
+   0.5
+  ],
+  [
+   "Village Bypass",
+   "Humbolt Draw / Village Bypass",
+   "Village Bypass",
+   0.6
+  ],
+  [
+   "Village Bypass",
+   "Village Bypass",
+   "Misty Maiden / Village Bypass",
+   0.5
+  ],
+  [
+   "Village Bypass",
+   "Misty Maiden / Village Bypass",
+   "See Forever / Village Bypass",
+   0.8
+  ],
+  [
+   "Village Bypass",
+   "See Forever / Village Bypass",
+   "Pick'N Gad / Village Bypass",
+   1.0
+  ],
+  [
+   "Smuggler",
+   "Telluride Trail / See Forever",
+   "Misty Maiden / Village Bypass 2",
+   2.0
+  ],
+  [
+   "Smuggler",
+   "Misty Maiden / Village Bypass 2",
+   "Smuggler / Village Bypass, Misty Maiden",
+   0.5
+  ],
+  [
+   "Double Cabins",
+   "Sunshine Express top",
+   "Double Cabins 2",
+   0.5
+  ],
+  [
+   "Double Cabins",
+   "Double Cabins 2",
+   "Nellie / Double Cabins",
+   0.5
+  ],
+  [
+   "Double Cabins",
+   "Nellie / Double Cabins",
+   "Marmot / Double Cabins",
+   2.5
+  ],
+  [
+   "Double Cabins",
+   "Marmot / Double Cabins",
+   "Double Cabins",
+   0.5
+  ],
+  [
+   "Double Cabins",
+   "Double Cabins",
+   "Double Cabins 3",
+   0.5
+  ],
+  [
+   "Double Cabins",
+   "Double Cabins 3",
+   "Runaway Train / Double Cabins",
+   1.5
+  ],
+  [
+   "Double Cabins",
+   "Runaway Train / Double Cabins",
+   "Double Cabins 5",
+   1.0
+  ],
+  [
+   "Double Cabins",
+   "Double Cabins 5",
+   "Double Cabins 4",
+   6.2
+  ],
+  [
+   "Double Cabins",
+   "Double Cabins 4",
+   "Meadows 6",
+   3.9
+  ],
+  [
+   "Bee's Run",
+   "Revelation Lift top",
+   "Revelation Lift bottom",
+   2.5
+  ],
+  [
+   "Stella",
+   "Stella / Galloping Goose",
+   "Prospect Woods / Stella",
+   1.2
+  ],
+  [
+   "Stella",
+   "Prospect Woods / Stella",
+   "Stella / Madison",
+   1.1
+  ],
+  [
+   "Madison",
+   "Madison / Galloping Goose 2",
+   "Madison 2",
+   1.0
+  ],
+  [
+   "Madison",
+   "Madison 2",
+   "Stella / Madison",
+   0.6
+  ],
+  [
+   "Madison",
+   "Stella / Madison",
+   "Little Maude / Madison",
+   2.0
+  ],
+  [
+   "Madison",
+   "Little Maude / Madison",
+   "Madison",
+   1.6
+  ],
+  [
+   "Madison",
+   "Madison",
+   "Prospect Creek / Madison",
+   0.5
+  ],
+  [
+   "Madison",
+   "Prospect Creek / Madison",
+   "Prospect Express bottom",
+   0.8
+  ],
+  [
+   "Galloping Goose",
+   "Prospect Express top",
+   "Magnolia Headwall / Galloping Goose",
+   0.5
+  ],
+  [
+   "Galloping Goose",
+   "Magnolia Headwall / Galloping Goose",
+   "Magnolia / Galloping Goose",
+   0.5
+  ],
+  [
+   "Galloping Goose",
+   "Magnolia / Galloping Goose",
+   "Stella / Galloping Goose",
+   1.9
+  ],
+  [
+   "Galloping Goose",
+   "Stella / Galloping Goose",
+   "Madison / Galloping Goose 2",
+   0.6
+  ],
+  [
+   "Galloping Goose",
+   "Madison / Galloping Goose 2",
+   "Madison / Galloping Goose",
+   0.5
+  ],
+  [
+   "Galloping Goose",
+   "Madison / Galloping Goose",
+   "Audrey / Galloping Goose",
+   0.6
+  ],
+  [
+   "Galloping Goose",
+   "Audrey / Galloping Goose",
+   "Galloping Goose",
+   0.6
+  ],
+  [
+   "Galloping Goose",
+   "Galloping Goose",
+   "Jackpot / May Girl",
+   0.6
+  ],
+  [
+   "Galloping Goose",
+   "Jackpot / May Girl",
+   "Wildcat / Galloping Goose",
+   2.4
+  ],
+  [
+   "Galloping Goose",
+   "Wildcat / Galloping Goose",
+   "Double Cabins",
+   7.1
+  ],
+  [
+   "Logpile",
+   "See Forever 10",
+   "Last Chance",
+   0.5
+  ],
+  [
+   "Dew Drop",
+   "Ophir Loop 3",
+   "Dew Drop 2",
+   0.5
+  ],
+  [
+   "Enchanted Forest",
+   "Double Cabins 2",
+   "Runaway Train / Enchanted Forest",
+   2.4
+  ],
+  [
+   "Enchanted Forest",
+   "Runaway Train / Enchanted Forest",
+   "Double Cabins 3",
+   1.2
+  ],
+  [
+   "May Girl",
+   "Galloping Goose",
+   "May Girl",
+   0.8
+  ],
+  [
+   "May Girl",
+   "May Girl",
+   "Lynx bottom",
+   0.5
+  ],
+  [
+   "May Girl",
+   "Lynx bottom",
+   "Little Maude",
+   0.7
+  ],
+  [
+   "Cimarron",
+   "Misty Maiden / See Forever",
+   "Telluride Trail 8",
+   2.6
+  ],
+  [
+   "Cimarron",
+   "Telluride Trail 8",
+   "Telluride Trail",
+   0.5
+  ],
+  [
+   "Cimarron",
+   "Telluride Trail",
+   "Telluride Trail 9",
+   0.5
+  ],
+  [
+   "Village Bypass, Misty Maiden",
+   "Misty Maiden / Village Bypass 2",
+   "Smuggler / Village Bypass, Misty Maiden",
+   0.5
+  ],
+  [
+   "Village Bypass, Misty Maiden",
+   "Smuggler / Village Bypass, Misty Maiden",
+   "Misty Maiden / Butterfly",
+   0.5
+  ],
+  [
+   "Gold Rush",
+   "Polar Queen 5",
+   "Dew Drop 3",
+   1.8
+  ],
+  [
+   "Lookout",
+   "See Forever 11",
+   "West Drain / Easy Out",
+   4.5
+  ],
+  [
+   "Lookout",
+   "West Drain / Easy Out",
+   "Bailout 2",
+   0.9
+  ],
+  [
+   "Lookout",
+   "Bailout 2",
+   "Bailout",
+   0.5
+  ],
+  [
+   "Lookout",
+   "Bailout",
+   "Bailout 2",
+   0.5
+  ],
+  [
+   "Lookout",
+   "Bailout 2",
+   "Plunge Lift bottom",
+   0.5
+  ],
+  [
+   "Cake Walk",
+   "Boomerang 2",
+   "Polar Queen / Dew Drop",
+   1.3
+  ],
+  [
+   "Cake Walk",
+   "Polar Queen / Dew Drop",
+   "Polar Queen Express bottom",
+   0.5
+  ],
+  [
+   "Cake Walk",
+   "Polar Queen Express bottom",
+   "Cake Walk",
+   0.7
+  ],
+  [
+   "Liberty Bell",
+   "See Forever 12",
+   "Majestic 2",
+   0.9
+  ],
+  [
+   "Ute Park",
+   "Ute Park 3",
+   "Ute Park bottom",
+   3.3
+  ],
+  [
+   "Bushwacker",
+   "Bushwacker 2",
+   "Bushwacker 3",
+   0.5
+  ],
+  [
+   "Stumper",
+   "Telluride Trail 10",
+   "Stumper",
+   1.7
+  ],
+  [
+   "Stumper",
+   "Stumper",
+   "Lift 7 bottom",
+   1.4
+  ],
+  [
+   "Cake Walk",
+   "Cake Walk",
+   "Boomerang 3",
+   3.0
+  ],
+  [
+   "Ute Park",
+   "Ute Park 4",
+   "Ute Park",
+   0.9
+  ],
+  [
+   "Ute Park",
+   "Ute Park",
+   "Ute Park 5",
+   1.3
+  ],
+  [
+   "Sheridan Headwall",
+   "Boomerang 2",
+   "Polar Queen Express bottom",
+   0.8
+  ],
+  [
+   "The Roll",
+   "Little Maude / Madison",
+   "Prospect Creek / Madison",
+   1.7
+  ],
+  [
+   "Bushwacker",
+   "Plunge Lift top",
+   "See Forever 2",
+   0.5
+  ],
+  [
+   "Bushwacker",
+   "See Forever 2",
+   "Mammoth / Bushwacker",
+   3.2
+  ],
+  [
+   "Bushwacker",
+   "Mammoth / Bushwacker",
+   "East Drain / Bushwacker",
+   0.5
+  ],
+  [
+   "Bushwacker",
+   "East Drain / Bushwacker",
+   "Satisfaction / Bushwacker",
+   1.0
+  ],
+  [
+   "Bushwacker",
+   "Satisfaction / Bushwacker",
+   "Spiral Stairs / Bushwacker",
+   0.5
+  ],
+  [
+   "Bushwacker",
+   "Spiral Stairs / Bushwacker",
+   "Bushwacker",
+   0.7
+  ],
+  [
+   "Bushwacker",
+   "Bushwacker",
+   "East Drain / Bushwacker 2",
+   0.8
+  ],
+  [
+   "Bushwacker",
+   "East Drain / Bushwacker 2",
+   "Bushwacker 2",
+   0.5
+  ],
+  [
+   "Bushwacker",
+   "Bushwacker 2",
+   "Plunge Lift bottom",
+   1.1
+  ],
+  [
+   "Sundance",
+   "Sundance",
+   "Double Cabins 4",
+   4.4
+  ],
+  [
+   "Lower Galloping Goose",
+   "Double Cabins 5",
+   "Bridges / Lower Galloping Goose",
+   3.9
+  ],
+  [
+   "Lower Galloping Goose",
+   "Bridges / Lower Galloping Goose",
+   "Marmot / Lower Galloping Goose",
+   1.7
+  ],
+  [
+   "Lower Galloping Goose",
+   "Marmot / Lower Galloping Goose",
+   "Bridges / Galloping Goose Ski Run",
+   4.5
+  ],
+  [
+   "Bailout",
+   "Bailout 2",
+   "Bailout",
+   0.5
+  ],
+  [
+   "Lower Boomerang",
+   "Misty Maiden 5",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   0.5
+  ],
+  [
+   "Lower Boomerang",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   "Chondola top",
+   0.6
+  ],
+  [
+   "Pick'N Gad",
+   "Village Bypass",
+   "Misty Maiden / Village Bypass",
+   0.5
+  ],
+  [
+   "Pick'N Gad",
+   "Misty Maiden / Village Bypass",
+   "Pick'N Gad / Village Bypass",
+   1.2
+  ],
+  [
+   "Andy's Gold",
+   "Little Rose / Andy's Gold",
+   "Sandia 2",
+   4.5
+  ],
+  [
+   "Teddy's Way",
+   "Runaway Train / Double Cabins",
+   "Sundance",
+   4.1
+  ],
+  [
+   "Cake Walk",
+   "Polar Queen / Dew Drop",
+   "Polar Queen Express bottom",
+   0.5
+  ],
+  [
+   "Lower Woozley's Way",
+   "Woozley's Way 5",
+   "Electra / Lower Woozley's Way",
+   1.7
+  ],
+  [
+   "Lower Woozley's Way",
+   "Electra / Lower Woozley's Way",
+   "Dynamo / Lower Woozley's Way",
+   0.5
+  ],
+  [
+   "Lower Woozley's Way",
+   "Dynamo / Lower Woozley's Way",
+   "Unnamed run / Lower Woozley's Way",
+   0.6
+  ],
+  [
+   "Lower Woozley's Way",
+   "Unnamed run / Lower Woozley's Way",
+   "Millions / Lower Woozley's Way",
+   0.7
+  ],
+  [
+   "Lower Woozley's Way",
+   "Millions / Lower Woozley's Way",
+   "Unnamed run / Lower Woozley's Way 2",
+   0.8
+  ],
+  [
+   "Lower Woozley's Way",
+   "Unnamed run / Lower Woozley's Way 2",
+   "Gold Hill Express bottom",
+   0.5
+  ],
+  [
+   "Ophir Loop",
+   "Lower Happy Thought 2",
+   "Ophir Loop 2",
+   0.5
+  ],
+  [
+   "Captain Jack's",
+   "See Forever 13",
+   "West Drain",
+   1.4
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Gold Hill Express bottom",
+   "Prospect Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Gold Hill Express bottom",
+   "Magnolia 3",
+   1.1
+  ],
+  [
+   "walk",
+   "Gold Hill Express bottom",
+   "Unnamed run / Lower Woozley's Way 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Woozley's Way / Wozzley's Way",
+   "Polar Queen Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Polar Queen Express top",
+   "Woozley's Way / Wozzley's Way",
+   1.7
+  ],
+  [
+   "walk",
+   "Polar Queen Express top",
+   "Wozzley's Way / Ophir Loop",
+   0.7
+  ],
+  [
+   "walk",
+   "Polar Queen Express top",
+   "Woozley's Way / Lower Happy Thought",
+   1.3
+  ],
+  [
+   "walk",
+   "Polar Queen Express top",
+   "Happy Thought / Lower Happy Thought",
+   2.4
+  ],
+  [
+   "walk",
+   "Polar Queen Express top",
+   "Polar Queen 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Polar Queen Express top",
+   "Lower Happy Thought",
+   2.7
+  ],
+  [
+   "walk",
+   "Wozzley's Way / Ophir Loop",
+   "Polar Queen Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Dynamo / Unnamed run",
+   "Gold Hill Express top",
+   1.9
+  ],
+  [
+   "walk",
+   "Gold Hill Express top",
+   "Dynamo / Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "Gold Hill Express top",
+   "Little Rose / Andy's Gold",
+   1.0
+  ],
+  [
+   "walk",
+   "Gold Hill Express top",
+   "See Forever 6",
+   3.5
+  ],
+  [
+   "walk",
+   "Gold Hill Express top",
+   "See Forever 12",
+   0.7
+  ],
+  [
+   "walk",
+   "Revelation Lift bottom",
+   "Majestic",
+   0.7
+  ],
+  [
+   "walk",
+   "Millions / Lower Woozley's Way",
+   "Gold Hill Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Polar Queen Express bottom",
+   "Polar Queen / Dew Drop",
+   0.9
+  ],
+  [
+   "walk",
+   "Polar Queen Express bottom",
+   "Cake Walk",
+   2.1
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   "Chondola top",
+   2.4
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   "Village Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   "Free Intercept Gondola bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   "Gondola Line 2 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   "Comp Hill bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   "Gondola Magic Carpet top",
+   1.4
+  ],
+  [
+   "walk",
+   "Butterfly / See Forever",
+   "Gondola Line 1 top",
+   1.1
+  ],
+  [
+   "walk",
+   "Butterfly / Misty Maiden",
+   "Comp Hill top",
+   1.3
+  ],
+  [
+   "walk",
+   "Telluride Trail / See Forever",
+   "Gondola Line 1 top",
+   2.4
+  ],
+  [
+   "walk",
+   "Telluride Trail / See Forever",
+   "Lift 7 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Gondola Line 1 bottom",
+   "Telluride Trail 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Pandora / Milk Run",
+   "Gondola Line 1 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Misty Maiden / Butterfly",
+   "Comp Hill top",
+   3.2
+  ],
+  [
+   "walk",
+   "Lynx top",
+   "Ute Park 3",
+   0.7
+  ],
+  [
+   "walk",
+   "Lynx top",
+   "Ute Park 4",
+   3.2
+  ],
+  [
+   "walk",
+   "Ute Park bottom",
+   "Sunshine Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Ute Park bottom",
+   "Double Cabins 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Ute Park bottom",
+   "Ute Park 5",
+   0.7
+  ],
+  [
+   "walk",
+   "West Drain / See Forever",
+   "Village Express top",
+   3.3
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   2.4
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Village Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Meadows 4",
+   1.1
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Misty Maiden 5",
+   2.8
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Free Intercept Gondola bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Gondola Line 2 bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Meadows Magic Carpet bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Sunshine Express bottom",
+   "Lower Galloping Goose / Galloping Goose Ski Run",
+   1.4
+  ],
+  [
+   "walk",
+   "Sunshine Express bottom",
+   "Chondola bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Village Express top",
+   "Boomerang",
+   2.1
+  ],
+  [
+   "walk",
+   "Village Express top",
+   "Humbolt Draw / Village Bypass",
+   1.2
+  ],
+  [
+   "walk",
+   "Village Express top",
+   "Humbolt Draw",
+   1.9
+  ],
+  [
+   "walk",
+   "Village Express top",
+   "Village Bypass",
+   3.1
+  ],
+  [
+   "walk",
+   "Nellie / Double Cabins",
+   "Sunshine Express top",
+   2.6
+  ],
+  [
+   "walk",
+   "Meadows 2",
+   "Sunshine Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Meadows 2",
+   "Chondola bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Jackpot / May Girl",
+   "Lynx bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Misty Maiden / See Forever",
+   "Lift 7 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Oak Street Lift top",
+   "Plunge Lift bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Oak Street Lift top",
+   "Bailout",
+   1.2
+  ],
+  [
+   "walk",
+   "Oak Street Lift top",
+   "Bailout 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Oak Street Lift top",
+   "Bushwacker 3",
+   1.3
+  ],
+  [
+   "walk",
+   "Polar Queen / Dew Drop",
+   "Polar Queen Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Revelation Lift top",
+   "See Forever 5",
+   0.9
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park",
+   "Comp Hill top",
+   2.8
+  ],
+  [
+   "walk",
+   "Plunge Lift top",
+   "See Forever 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Plunge Lift top",
+   "See Forever 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Plunge Lift top",
+   "Woozley's Way 4",
+   2.9
+  ],
+  [
+   "walk",
+   "Boomerang",
+   "Village Express top",
+   2.1
+  ],
+  [
+   "walk",
+   "Peek-A-Boo / Village Bypass",
+   "Comp Hill top",
+   2.1
+  ],
+  [
+   "walk",
+   "See Forever 2",
+   "Plunge Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Plunge Lift bottom",
+   "Oak Street Lift top",
+   1.3
+  ],
+  [
+   "walk",
+   "Plunge Lift bottom",
+   "Bailout",
+   0.6
+  ],
+  [
+   "walk",
+   "Plunge Lift bottom",
+   "Bailout 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Plunge Lift bottom",
+   "Bushwacker 3",
+   1.1
+  ],
+  [
+   "walk",
+   "Bailout",
+   "Oak Street Lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "Bailout",
+   "Plunge Lift bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Apex Lift bottom",
+   "Ophir Loop",
+   2.5
+  ],
+  [
+   "walk",
+   "Apex Lift bottom",
+   "Dew Drop",
+   3.0
+  ],
+  [
+   "walk",
+   "Woozley's Way / Lower Happy Thought",
+   "Polar Queen Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "See Forever / Village Bypass",
+   "Lift 7 top",
+   2.4
+  ],
+  [
+   "walk",
+   "Telluride Trail 3",
+   "Gondola Line 1 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   0.9
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Chondola top",
+   2.1
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Meadows 4",
+   3.2
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Misty Maiden 5",
+   1.7
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Free Intercept Gondola bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Gondola Line 2 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Majestic",
+   "Revelation Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Lower Galloping Goose / Galloping Goose Ski Run",
+   "Sunshine Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Lower Galloping Goose / Galloping Goose Ski Run",
+   "Chondola bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Chondola bottom",
+   "Sunshine Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Chondola bottom",
+   "Lower Galloping Goose / Galloping Goose Ski Run",
+   1.9
+  ],
+  [
+   "walk",
+   "Prospect Express bottom",
+   "Gold Hill Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Prospect Express bottom",
+   "Magnolia 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Prospect Express bottom",
+   "Unnamed run / Lower Woozley's Way 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Prospect Express bottom",
+   "Prospect Creek / Madison",
+   2.3
+  ],
+  [
+   "walk",
+   "Ophir Loop 2",
+   "Apex Lift bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Polar Queen 2",
+   "Polar Queen Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "West Drain / Easy Out",
+   "Oak Street Lift top",
+   2.3
+  ],
+  [
+   "walk",
+   "West Drain / Easy Out",
+   "Plunge Lift bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Lynx bottom",
+   "May Girl",
+   1.1
+  ],
+  [
+   "walk",
+   "Lynx bottom",
+   "Little Maude",
+   2.3
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park 2",
+   "Village Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park 2",
+   "Free Intercept Gondola bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park 2",
+   "Gondola Line 2 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park 2",
+   "Comp Hill bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park 2",
+   "Gondola Magic Carpet top",
+   1.4
+  ],
+  [
+   "walk",
+   "Bailout 2",
+   "Oak Street Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Bailout 2",
+   "Plunge Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Sandia",
+   "Gold Hill Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Magnolia 3",
+   "Gold Hill Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Magnolia 3",
+   "Prospect Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Lower Woozley's Way 2",
+   "Gold Hill Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Lower Woozley's Way 2",
+   "Prospect Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Magnolia Headwall / Galloping Goose",
+   "Prospect Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Magnolia 5",
+   "Gold Hill Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Madison",
+   "Gold Hill Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Madison",
+   "Prospect Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Prospect Creek / Madison",
+   "Prospect Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Meadows 4",
+   "Chondola top",
+   1.1
+  ],
+  [
+   "walk",
+   "Meadows 4",
+   "Village Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Meadows 4",
+   "Free Intercept Gondola bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Meadows 4",
+   "Meadows Magic Carpet bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Sunshine Express top",
+   "Ute Park bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Sunshine Express top",
+   "Nellie / Double Cabins",
+   2.6
+  ],
+  [
+   "walk",
+   "Sunshine Express top",
+   "Double Cabins 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Sunshine Express top",
+   "Ute Park 5",
+   1.9
+  ],
+  [
+   "walk",
+   "Peek-A-Boo",
+   "Comp Hill top",
+   3.4
+  ],
+  [
+   "walk",
+   "May Girl",
+   "Lynx bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Humbolt Draw / Village Bypass",
+   "Village Express top",
+   1.2
+  ],
+  [
+   "walk",
+   "Meadows 6",
+   "Sunshine Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Meadows 6",
+   "Chondola bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Prospect Express top",
+   "Sandia / Magnolia",
+   3.4
+  ],
+  [
+   "walk",
+   "Prospect Express top",
+   "Magnolia / Galloping Goose",
+   2.2
+  ],
+  [
+   "walk",
+   "Prospect Express top",
+   "Magnolia 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Prospect Express top",
+   "Magnolia Headwall / Galloping Goose",
+   1.3
+  ],
+  [
+   "walk",
+   "Prospect Express top",
+   "Magnolia 4",
+   2.4
+  ],
+  [
+   "walk",
+   "Dew Drop 2",
+   "Apex Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Double Cabins 2",
+   "Ute Park bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Double Cabins 2",
+   "Sunshine Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "See Forever 11",
+   "Village Express top",
+   2.8
+  ],
+  [
+   "walk",
+   "Boomerang 2",
+   "Polar Queen Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Cake Walk",
+   "Polar Queen Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "See Forever 12",
+   "Gold Hill Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Majestic 2",
+   "Revelation Lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Ute Park 3",
+   "Lynx top",
+   0.7
+  ],
+  [
+   "walk",
+   "Bushwacker 2",
+   "Plunge Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Bushwacker 3",
+   "Oak Street Lift top",
+   1.3
+  ],
+  [
+   "walk",
+   "Bushwacker 3",
+   "Plunge Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Bushwacker 3",
+   "Bailout",
+   1.6
+  ],
+  [
+   "walk",
+   "Bushwacker 3",
+   "Bailout 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Ute Park 5",
+   "Ute Park bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Ute Park 5",
+   "Sunshine Express top",
+   1.9
+  ],
+  [
+   "walk",
+   "Double Cabins 4",
+   "Free Intercept Gondola top",
+   3.2
+  ],
+  [
+   "walk",
+   "Misty Maiden 5",
+   "Chondola top",
+   2.8
+  ],
+  [
+   "walk",
+   "Misty Maiden 5",
+   "Village Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Misty Maiden 5",
+   "Free Intercept Gondola bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Misty Maiden 5",
+   "Gondola Line 2 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Misty Maiden 5",
+   "Comp Hill bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Misty Maiden 5",
+   "Gondola Magic Carpet top",
+   1.9
+  ],
+  [
+   "walk",
+   "Lower Happy Thought 2",
+   "Apex Lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "See Forever 13",
+   "Village Express top",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Apex Lift top",
+   "Woozley's Way",
+   3.3
+  ],
+  [
+   "walk",
+   "Apex Lift top",
+   "Happy Thought / See Forever",
+   2.5
+  ],
+  [
+   "walk",
+   "Apex Lift top",
+   "See Forever 8",
+   1.0
+  ],
+  [
+   "walk",
+   "Apex Lift top",
+   "Woozley's Way 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Apex Lift top",
+   "Woozley's Way 4",
+   2.9
+  ],
+  [
+   "walk",
+   "Free Intercept Gondola bottom",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   1.7
+  ],
+  [
+   "walk",
+   "Free Intercept Gondola bottom",
+   "Chondola top",
+   2.2
+  ],
+  [
+   "walk",
+   "Free Intercept Gondola bottom",
+   "Village Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Free Intercept Gondola bottom",
+   "Meadows 4",
+   3.3
+  ],
+  [
+   "walk",
+   "Free Intercept Gondola bottom",
+   "Misty Maiden 5",
+   2.4
+  ],
+  [
+   "walk",
+   "Free Intercept Gondola bottom",
+   "Gondola Line 2 bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Gondola Line 1 top",
+   "Hoot Brown Terrain Park / Butterfly",
+   2.1
+  ],
+  [
+   "walk",
+   "Gondola Line 1 top",
+   "Butterfly / See Forever",
+   1.1
+  ],
+  [
+   "walk",
+   "Gondola Line 1 top",
+   "Telluride Trail / See Forever",
+   2.4
+  ],
+  [
+   "walk",
+   "Gondola Line 1 top",
+   "Pandora / Milk Run",
+   0.6
+  ],
+  [
+   "walk",
+   "Gondola Line 1 top",
+   "Lift 7 top",
+   2.8
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Butterfly / See Forever",
+   2.0
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Telluride Trail / See Forever",
+   0.8
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Pandora / Milk Run",
+   2.7
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Misty Maiden / See Forever",
+   0.9
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "See Forever / Village Bypass",
+   2.4
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Gondola Line 1 top",
+   2.8
+  ],
+  [
+   "walk",
+   "Gondola Line 2 bottom",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   1.7
+  ],
+  [
+   "walk",
+   "Gondola Line 2 bottom",
+   "Chondola top",
+   2.9
+  ],
+  [
+   "walk",
+   "Gondola Line 2 bottom",
+   "Village Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Gondola Line 2 bottom",
+   "Hoot Brown Terrain Park 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Gondola Line 2 bottom",
+   "Misty Maiden 5",
+   2.5
+  ],
+  [
+   "walk",
+   "Gondola Line 2 bottom",
+   "Free Intercept Gondola bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Comp Hill bottom",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   2.6
+  ],
+  [
+   "walk",
+   "Comp Hill bottom",
+   "Hoot Brown Terrain Park 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Comp Hill bottom",
+   "Misty Maiden 5",
+   1.9
+  ],
+  [
+   "walk",
+   "Comp Hill bottom",
+   "Gondola Magic Carpet top",
+   3.3
+  ],
+  [
+   "walk",
+   "Comp Hill top",
+   "Butterfly / Misty Maiden",
+   1.3
+  ],
+  [
+   "walk",
+   "Comp Hill top",
+   "Boomerang / Lower Boomerang",
+   2.6
+  ],
+  [
+   "walk",
+   "Comp Hill top",
+   "Hoot Brown Terrain Park",
+   2.8
+  ],
+  [
+   "walk",
+   "Comp Hill top",
+   "Misty Maiden 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Comp Hill top",
+   "Peek-A-Boo / Village Bypass",
+   2.1
+  ],
+  [
+   "walk",
+   "Comp Hill top",
+   "Peek-A-Boo",
+   3.4
+  ],
+  [
+   "walk",
+   "Comp Hill top",
+   "Misty Maiden 4",
+   1.6
+  ],
+  [
+   "walk",
+   "Gondola Magic Carpet top",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   1.4
+  ],
+  [
+   "walk",
+   "Gondola Magic Carpet top",
+   "Village Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Gondola Magic Carpet top",
+   "Hoot Brown Terrain Park 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Gondola Magic Carpet top",
+   "Misty Maiden 5",
+   1.9
+  ],
+  [
+   "walk",
+   "Gondola Magic Carpet top",
+   "Free Intercept Gondola bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Gondola Magic Carpet top",
+   "Gondola Line 2 bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Gondola Magic Carpet top",
+   "Comp Hill bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Meadows Magic Carpet bottom",
+   "Chondola top",
+   2.2
+  ],
+  [
+   "walk",
+   "Meadows Magic Carpet bottom",
+   "Meadows",
+   2.3
+  ],
+  [
+   "walk",
+   "Meadows Magic Carpet bottom",
+   "Meadows 4",
+   1.2
+  ],
+  [
+   "walk",
+   "Millions / Lower Woozley's Way",
+   "Prospect Express bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Millions / Lower Woozley's Way",
+   "Magnolia 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Millions / Lower Woozley's Way",
+   "Unnamed run / Lower Woozley's Way 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Sandia",
+   "Prospect Express bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Sandia",
+   "Magnolia 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Sandia",
+   "Unnamed run / Lower Woozley's Way 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Magnolia 3",
+   "Unnamed run / Lower Woozley's Way 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Lower Woozley's Way 2",
+   "Magnolia 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Magnolia 5",
+   "Prospect Express bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Magnolia 5",
+   "Magnolia 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Magnolia 5",
+   "Unnamed run / Lower Woozley's Way 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Madison",
+   "Magnolia 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Madison",
+   "Unnamed run / Lower Woozley's Way 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Woozley's Way / Wozzley's Way",
+   "Wozzley's Way / Ophir Loop",
+   2.4
+  ],
+  [
+   "walk",
+   "Woozley's Way / Wozzley's Way",
+   "Woozley's Way / Lower Happy Thought",
+   3.0
+  ],
+  [
+   "walk",
+   "Woozley's Way / Wozzley's Way",
+   "Happy Thought / Lower Happy Thought",
+   4.1
+  ],
+  [
+   "walk",
+   "Woozley's Way / Wozzley's Way",
+   "Polar Queen 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Woozley's Way / Wozzley's Way",
+   "Lower Happy Thought",
+   4.4
+  ],
+  [
+   "walk",
+   "Wozzley's Way / Ophir Loop",
+   "Woozley's Way / Wozzley's Way",
+   2.4
+  ],
+  [
+   "walk",
+   "Wozzley's Way / Ophir Loop",
+   "Woozley's Way / Lower Happy Thought",
+   2.0
+  ],
+  [
+   "walk",
+   "Wozzley's Way / Ophir Loop",
+   "Happy Thought / Lower Happy Thought",
+   3.1
+  ],
+  [
+   "walk",
+   "Wozzley's Way / Ophir Loop",
+   "Polar Queen 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Wozzley's Way / Ophir Loop",
+   "Lower Happy Thought",
+   3.4
+  ],
+  [
+   "walk",
+   "Woozley's Way / Lower Happy Thought",
+   "Woozley's Way / Wozzley's Way",
+   3.0
+  ],
+  [
+   "walk",
+   "Woozley's Way / Lower Happy Thought",
+   "Wozzley's Way / Ophir Loop",
+   2.0
+  ],
+  [
+   "walk",
+   "Woozley's Way / Lower Happy Thought",
+   "Happy Thought / Lower Happy Thought",
+   3.7
+  ],
+  [
+   "walk",
+   "Woozley's Way / Lower Happy Thought",
+   "Polar Queen 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Woozley's Way / Lower Happy Thought",
+   "Lower Happy Thought",
+   4.0
+  ],
+  [
+   "walk",
+   "Polar Queen 2",
+   "Woozley's Way / Wozzley's Way",
+   2.3
+  ],
+  [
+   "walk",
+   "Polar Queen 2",
+   "Wozzley's Way / Ophir Loop",
+   1.4
+  ],
+  [
+   "walk",
+   "Polar Queen 2",
+   "Woozley's Way / Lower Happy Thought",
+   1.9
+  ],
+  [
+   "walk",
+   "Polar Queen 2",
+   "Happy Thought / Lower Happy Thought",
+   3.0
+  ],
+  [
+   "walk",
+   "Polar Queen 2",
+   "Lower Happy Thought",
+   3.3
+  ],
+  [
+   "walk",
+   "Dynamo / Unnamed run",
+   "Little Rose / Andy's Gold",
+   2.9
+  ],
+  [
+   "walk",
+   "Dynamo / Unnamed run",
+   "See Forever 6",
+   5.3
+  ],
+  [
+   "walk",
+   "Dynamo / Unnamed run",
+   "See Forever 12",
+   2.5
+  ],
+  [
+   "walk",
+   "See Forever 12",
+   "Dynamo / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "See Forever 12",
+   "Little Rose / Andy's Gold",
+   1.7
+  ],
+  [
+   "walk",
+   "See Forever 12",
+   "See Forever 6",
+   4.1
+  ],
+  [
+   "walk",
+   "Majestic 2",
+   "Majestic",
+   2.4
+  ],
+  [
+   "walk",
+   "Polar Queen / Dew Drop",
+   "Cake Walk",
+   2.9
+  ],
+  [
+   "walk",
+   "Boomerang 2",
+   "Polar Queen / Dew Drop",
+   4.0
+  ],
+  [
+   "walk",
+   "Boomerang 2",
+   "Cake Walk",
+   5.2
+  ],
+  [
+   "walk",
+   "Cake Walk",
+   "Polar Queen / Dew Drop",
+   2.9
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Comp Hill bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Gondola Magic Carpet top",
+   3.9
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Comp Hill bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Gondola Magic Carpet top",
+   2.4
+  ],
+  [
+   "walk",
+   "Free Intercept Gondola bottom",
+   "Comp Hill bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Free Intercept Gondola bottom",
+   "Gondola Magic Carpet top",
+   3.1
+  ],
+  [
+   "walk",
+   "Gondola Line 2 bottom",
+   "Comp Hill bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Gondola Line 2 bottom",
+   "Gondola Magic Carpet top",
+   3.1
+  ],
+  [
+   "walk",
+   "Comp Hill bottom",
+   "Chondola top",
+   4.6
+  ],
+  [
+   "walk",
+   "Comp Hill bottom",
+   "Village Express bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Comp Hill bottom",
+   "Free Intercept Gondola bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Comp Hill bottom",
+   "Gondola Line 2 bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Gondola Magic Carpet top",
+   "Chondola top",
+   3.7
+  ],
+  [
+   "walk",
+   "Ute Park 3",
+   "Ute Park 4",
+   3.9
+  ],
+  [
+   "walk",
+   "Double Cabins 2",
+   "Ute Park 5",
+   2.5
+  ],
+  [
+   "walk",
+   "Ute Park 5",
+   "Double Cabins 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   "Meadows 4",
+   3.5
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   "Misty Maiden 5",
+   2.6
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   "Meadows Magic Carpet bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Meadows Magic Carpet bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Meadows 4",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   3.5
+  ],
+  [
+   "walk",
+   "Meadows 4",
+   "Misty Maiden 5",
+   3.9
+  ],
+  [
+   "walk",
+   "Meadows 4",
+   "Gondola Line 2 bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Meadows 4",
+   "Comp Hill bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Meadows 4",
+   "Gondola Magic Carpet top",
+   5.0
+  ],
+  [
+   "walk",
+   "Misty Maiden 5",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   2.6
+  ],
+  [
+   "walk",
+   "Misty Maiden 5",
+   "Meadows 4",
+   3.9
+  ],
+  [
+   "walk",
+   "Misty Maiden 5",
+   "Meadows Magic Carpet bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Free Intercept Gondola bottom",
+   "Meadows Magic Carpet bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Gondola Line 2 bottom",
+   "Meadows 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Gondola Line 2 bottom",
+   "Meadows Magic Carpet bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Meadows Magic Carpet bottom",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   4.6
+  ],
+  [
+   "walk",
+   "Meadows Magic Carpet bottom",
+   "Village Express bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Meadows Magic Carpet bottom",
+   "Misty Maiden 5",
+   5.0
+  ],
+  [
+   "walk",
+   "Meadows Magic Carpet bottom",
+   "Free Intercept Gondola bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Meadows Magic Carpet bottom",
+   "Gondola Line 2 bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Meadows Magic Carpet bottom",
+   "Gondola Magic Carpet top",
+   6.0
+  ],
+  [
+   "walk",
+   "Comp Hill bottom",
+   "Meadows 4",
+   5.7
+  ],
+  [
+   "walk",
+   "Gondola Magic Carpet top",
+   "Meadows 4",
+   4.8
+  ],
+  [
+   "walk",
+   "Gondola Magic Carpet top",
+   "Meadows Magic Carpet bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Meadows 2",
+   "Lower Galloping Goose / Galloping Goose Ski Run",
+   4.3
+  ],
+  [
+   "walk",
+   "Meadows 6",
+   "Lower Galloping Goose / Galloping Goose Ski Run",
+   3.4
+  ],
+  [
+   "walk",
+   "West Drain / See Forever",
+   "Boomerang",
+   5.4
+  ],
+  [
+   "walk",
+   "West Drain / See Forever",
+   "Humbolt Draw / Village Bypass",
+   4.5
+  ],
+  [
+   "walk",
+   "West Drain / See Forever",
+   "Humbolt Draw",
+   5.2
+  ],
+  [
+   "walk",
+   "West Drain / See Forever",
+   "Village Bypass",
+   6.4
+  ],
+  [
+   "walk",
+   "Boomerang",
+   "Humbolt Draw / Village Bypass",
+   3.3
+  ],
+  [
+   "walk",
+   "Boomerang",
+   "Humbolt Draw",
+   3.9
+  ],
+  [
+   "walk",
+   "Boomerang",
+   "Village Bypass",
+   5.2
+  ],
+  [
+   "walk",
+   "Humbolt Draw / Village Bypass",
+   "Boomerang",
+   3.3
+  ],
+  [
+   "walk",
+   "Humbolt Draw / Village Bypass",
+   "Humbolt Draw",
+   3.0
+  ],
+  [
+   "walk",
+   "Humbolt Draw / Village Bypass",
+   "Village Bypass",
+   4.3
+  ],
+  [
+   "walk",
+   "See Forever 11",
+   "Boomerang",
+   4.9
+  ],
+  [
+   "walk",
+   "See Forever 11",
+   "Humbolt Draw / Village Bypass",
+   4.0
+  ],
+  [
+   "walk",
+   "See Forever 11",
+   "Humbolt Draw",
+   4.7
+  ],
+  [
+   "walk",
+   "See Forever 11",
+   "Village Bypass",
+   5.9
+  ],
+  [
+   "walk",
+   "See Forever 13",
+   "Boomerang",
+   4.5
+  ],
+  [
+   "walk",
+   "See Forever 13",
+   "Humbolt Draw / Village Bypass",
+   3.7
+  ],
+  [
+   "walk",
+   "See Forever 13",
+   "Humbolt Draw",
+   4.3
+  ],
+  [
+   "walk",
+   "See Forever 13",
+   "Village Bypass",
+   5.6
+  ],
+  [
+   "walk",
+   "Bailout",
+   "Bailout 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Bailout",
+   "Bushwacker 3",
+   1.7
+  ],
+  [
+   "walk",
+   "West Drain / Easy Out",
+   "Bailout",
+   3.5
+  ],
+  [
+   "walk",
+   "West Drain / Easy Out",
+   "Bailout 2",
+   2.9
+  ],
+  [
+   "walk",
+   "West Drain / Easy Out",
+   "Bushwacker 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Bailout 2",
+   "Bailout",
+   1.3
+  ],
+  [
+   "walk",
+   "Bailout 2",
+   "Bushwacker 3",
+   1.8
+  ],
+  [
+   "walk",
+   "See Forever 2",
+   "See Forever 3",
+   3.7
+  ],
+  [
+   "walk",
+   "See Forever 2",
+   "Woozley's Way 4",
+   3.8
+  ],
+  [
+   "walk",
+   "Bushwacker 2",
+   "Oak Street Lift top",
+   4.4
+  ],
+  [
+   "walk",
+   "Bushwacker 2",
+   "Bailout",
+   3.7
+  ],
+  [
+   "walk",
+   "Bushwacker 2",
+   "Bailout 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Bushwacker 2",
+   "Bushwacker 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Ophir Loop 2",
+   "Ophir Loop",
+   3.8
+  ],
+  [
+   "walk",
+   "Ophir Loop 2",
+   "Dew Drop",
+   4.3
+  ],
+  [
+   "walk",
+   "Dew Drop 2",
+   "Ophir Loop",
+   5.6
+  ],
+  [
+   "walk",
+   "Dew Drop 2",
+   "Dew Drop",
+   6.1
+  ],
+  [
+   "walk",
+   "Lower Happy Thought 2",
+   "Ophir Loop",
+   4.6
+  ],
+  [
+   "walk",
+   "Lower Happy Thought 2",
+   "Dew Drop",
+   5.0
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park 2",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   2.8
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park 2",
+   "Chondola top",
+   4.1
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park 2",
+   "Meadows 4",
+   5.2
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park 2",
+   "Misty Maiden 5",
+   3.3
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park 2",
+   "Meadows Magic Carpet bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Gold Hill Express bottom",
+   "Prospect Creek / Madison",
+   4.3
+  ],
+  [
+   "walk",
+   "Magnolia 3",
+   "Prospect Creek / Madison",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Lower Woozley's Way 2",
+   "Prospect Creek / Madison",
+   4.0
+  ],
+  [
+   "walk",
+   "Madison",
+   "Prospect Creek / Madison",
+   3.7
+  ],
+  [
+   "walk",
+   "Prospect Creek / Madison",
+   "Gold Hill Express bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Prospect Creek / Madison",
+   "Magnolia 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Prospect Creek / Madison",
+   "Unnamed run / Lower Woozley's Way 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Millions / Lower Woozley's Way",
+   "Prospect Creek / Madison",
+   6.9
+  ],
+  [
+   "walk",
+   "Sandia",
+   "Prospect Creek / Madison",
+   6.4
+  ],
+  [
+   "walk",
+   "Jackpot / May Girl",
+   "May Girl",
+   4.4
+  ],
+  [
+   "walk",
+   "Jackpot / May Girl",
+   "Little Maude",
+   5.6
+  ],
+  [
+   "walk",
+   "May Girl",
+   "Little Maude",
+   3.4
+  ],
+  [
+   "walk",
+   "Ute Park bottom",
+   "Nellie / Double Cabins",
+   3.9
+  ],
+  [
+   "walk",
+   "Nellie / Double Cabins",
+   "Ute Park bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Nellie / Double Cabins",
+   "Double Cabins 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Nellie / Double Cabins",
+   "Ute Park 5",
+   4.4
+  ],
+  [
+   "walk",
+   "Double Cabins 2",
+   "Nellie / Double Cabins",
+   3.1
+  ],
+  [
+   "walk",
+   "Ute Park 5",
+   "Nellie / Double Cabins",
+   4.4
+  ],
+  [
+   "walk",
+   "Magnolia Headwall / Galloping Goose",
+   "Sandia / Magnolia",
+   4.8
+  ],
+  [
+   "walk",
+   "Magnolia Headwall / Galloping Goose",
+   "Magnolia / Galloping Goose",
+   3.5
+  ],
+  [
+   "walk",
+   "Magnolia Headwall / Galloping Goose",
+   "Magnolia 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Magnolia Headwall / Galloping Goose",
+   "Magnolia 4",
+   3.7
+  ],
+  [
+   "walk",
+   "Comp Hill bottom",
+   "Meadows Magic Carpet bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Meadows Magic Carpet bottom",
+   "Comp Hill bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Butterfly / See Forever",
+   "Hoot Brown Terrain Park / Butterfly",
+   3.2
+  ],
+  [
+   "walk",
+   "Butterfly / See Forever",
+   "Telluride Trail / See Forever",
+   3.5
+  ],
+  [
+   "walk",
+   "Butterfly / See Forever",
+   "Pandora / Milk Run",
+   1.7
+  ],
+  [
+   "walk",
+   "Butterfly / See Forever",
+   "Lift 7 top",
+   3.9
+  ],
+  [
+   "walk",
+   "Telluride Trail / See Forever",
+   "Hoot Brown Terrain Park / Butterfly",
+   4.4
+  ],
+  [
+   "walk",
+   "Telluride Trail / See Forever",
+   "Butterfly / See Forever",
+   2.8
+  ],
+  [
+   "walk",
+   "Telluride Trail / See Forever",
+   "Pandora / Milk Run",
+   2.9
+  ],
+  [
+   "walk",
+   "Pandora / Milk Run",
+   "Hoot Brown Terrain Park / Butterfly",
+   2.7
+  ],
+  [
+   "walk",
+   "Pandora / Milk Run",
+   "Butterfly / See Forever",
+   1.7
+  ],
+  [
+   "walk",
+   "Pandora / Milk Run",
+   "Telluride Trail / See Forever",
+   2.9
+  ],
+  [
+   "walk",
+   "Pandora / Milk Run",
+   "Lift 7 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Hoot Brown Terrain Park / Butterfly",
+   4.9
+  ],
+  [
+   "walk",
+   "Telluride Trail / See Forever",
+   "Misty Maiden / See Forever",
+   1.7
+  ],
+  [
+   "walk",
+   "Telluride Trail / See Forever",
+   "See Forever / Village Bypass",
+   3.2
+  ],
+  [
+   "walk",
+   "Misty Maiden / See Forever",
+   "Butterfly / See Forever",
+   3.0
+  ],
+  [
+   "walk",
+   "Misty Maiden / See Forever",
+   "Telluride Trail / See Forever",
+   1.7
+  ],
+  [
+   "walk",
+   "Misty Maiden / See Forever",
+   "Pandora / Milk Run",
+   3.7
+  ],
+  [
+   "walk",
+   "Misty Maiden / See Forever",
+   "See Forever / Village Bypass",
+   3.4
+  ],
+  [
+   "walk",
+   "Misty Maiden / See Forever",
+   "Gondola Line 1 top",
+   3.7
+  ],
+  [
+   "walk",
+   "Misty Maiden / See Forever",
+   "Hoot Brown Terrain Park / Butterfly",
+   5.8
+  ],
+  [
+   "walk",
+   "See Forever / Village Bypass",
+   "Butterfly / See Forever",
+   4.5
+  ],
+  [
+   "walk",
+   "See Forever / Village Bypass",
+   "Telluride Trail / See Forever",
+   3.2
+  ],
+  [
+   "walk",
+   "See Forever / Village Bypass",
+   "Pandora / Milk Run",
+   5.2
+  ],
+  [
+   "walk",
+   "See Forever / Village Bypass",
+   "Misty Maiden / See Forever",
+   3.4
+  ],
+  [
+   "walk",
+   "See Forever / Village Bypass",
+   "Gondola Line 1 top",
+   5.2
+  ],
+  [
+   "walk",
+   "Gondola Line 1 top",
+   "Misty Maiden / See Forever",
+   3.7
+  ],
+  [
+   "walk",
+   "Gondola Line 1 top",
+   "See Forever / Village Bypass",
+   5.2
+  ],
+  [
+   "walk",
+   "Butterfly / See Forever",
+   "Misty Maiden / See Forever",
+   4.8
+  ],
+  [
+   "walk",
+   "Butterfly / See Forever",
+   "See Forever / Village Bypass",
+   6.3
+  ],
+  [
+   "walk",
+   "Pandora / Milk Run",
+   "Misty Maiden / See Forever",
+   4.3
+  ],
+  [
+   "walk",
+   "Pandora / Milk Run",
+   "See Forever / Village Bypass",
+   5.8
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park / Misty Maiden",
+   "Hoot Brown Terrain Park 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Hoot Brown Terrain Park 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Hoot Brown Terrain Park 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Misty Maiden 5",
+   "Hoot Brown Terrain Park 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Free Intercept Gondola bottom",
+   "Hoot Brown Terrain Park 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Meadows 4",
+   "Hoot Brown Terrain Park 2",
+   6.4
+  ],
+  [
+   "walk",
+   "Butterfly / Misty Maiden",
+   "Boomerang / Lower Boomerang",
+   3.9
+  ],
+  [
+   "walk",
+   "Butterfly / Misty Maiden",
+   "Hoot Brown Terrain Park",
+   4.2
+  ],
+  [
+   "walk",
+   "Butterfly / Misty Maiden",
+   "Misty Maiden 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Butterfly / Misty Maiden",
+   "Peek-A-Boo / Village Bypass",
+   3.4
+  ],
+  [
+   "walk",
+   "Butterfly / Misty Maiden",
+   "Peek-A-Boo",
+   4.7
+  ],
+  [
+   "walk",
+   "Butterfly / Misty Maiden",
+   "Misty Maiden 4",
+   2.9
+  ],
+  [
+   "walk",
+   "Misty Maiden / Butterfly",
+   "Butterfly / Misty Maiden",
+   4.5
+  ],
+  [
+   "walk",
+   "Misty Maiden / Butterfly",
+   "Boomerang / Lower Boomerang",
+   5.8
+  ],
+  [
+   "walk",
+   "Misty Maiden / Butterfly",
+   "Hoot Brown Terrain Park",
+   6.0
+  ],
+  [
+   "walk",
+   "Misty Maiden / Butterfly",
+   "Misty Maiden 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Misty Maiden / Butterfly",
+   "Peek-A-Boo / Village Bypass",
+   5.3
+  ],
+  [
+   "walk",
+   "Misty Maiden / Butterfly",
+   "Peek-A-Boo",
+   6.6
+  ],
+  [
+   "walk",
+   "Misty Maiden / Butterfly",
+   "Misty Maiden 4",
+   4.8
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park",
+   "Butterfly / Misty Maiden",
+   4.2
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park",
+   "Boomerang / Lower Boomerang",
+   5.4
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park",
+   "Misty Maiden 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park",
+   "Peek-A-Boo / Village Bypass",
+   5.0
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park",
+   "Peek-A-Boo",
+   6.2
+  ],
+  [
+   "walk",
+   "Hoot Brown Terrain Park",
+   "Misty Maiden 4",
+   4.4
+  ],
+  [
+   "walk",
+   "Peek-A-Boo / Village Bypass",
+   "Butterfly / Misty Maiden",
+   3.4
+  ],
+  [
+   "walk",
+   "Peek-A-Boo / Village Bypass",
+   "Boomerang / Lower Boomerang",
+   4.7
+  ],
+  [
+   "walk",
+   "Peek-A-Boo / Village Bypass",
+   "Hoot Brown Terrain Park",
+   5.0
+  ],
+  [
+   "walk",
+   "Peek-A-Boo / Village Bypass",
+   "Misty Maiden 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Peek-A-Boo / Village Bypass",
+   "Peek-A-Boo",
+   5.5
+  ],
+  [
+   "walk",
+   "Peek-A-Boo / Village Bypass",
+   "Misty Maiden 4",
+   3.7
+  ],
+  [
+   "walk",
+   "Peek-A-Boo",
+   "Butterfly / Misty Maiden",
+   4.7
+  ],
+  [
+   "walk",
+   "Peek-A-Boo",
+   "Boomerang / Lower Boomerang",
+   6.0
+  ],
+  [
+   "walk",
+   "Peek-A-Boo",
+   "Hoot Brown Terrain Park",
+   6.2
+  ],
+  [
+   "walk",
+   "Peek-A-Boo",
+   "Misty Maiden 2",
+   6.3
+  ],
+  [
+   "walk",
+   "Peek-A-Boo",
+   "Peek-A-Boo / Village Bypass",
+   5.5
+  ],
+  [
+   "walk",
+   "Peek-A-Boo",
+   "Misty Maiden 4",
+   5.0
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Meadows",
+   4.5
+  ],
+  [
+   "walk",
+   "Meadows 4",
+   "Meadows",
+   3.5
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Meadows",
+   6.6
+  ],
+  [
+   "walk",
+   "Free Intercept Gondola bottom",
+   "Meadows",
+   6.7
+  ]
+ ],
+ "base": "Lift 7 bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "18",
+  "downhill_trails": "194",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

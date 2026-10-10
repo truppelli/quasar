@@ -1,0 +1,5695 @@
+{
+ "name": "Keystone",
+ "source": "OpenSkiMap ski area 7d855b81e131f7cb7bdbc7b55e47a18d3ccb5e67",
+ "origin_lonlat": [
+  -105.93904617017391,
+  39.57481364095656
+ ],
+ "nodes": {
+  "Tenderfoot Glades / Ptarmigan": [
+   1466,
+   -1429,
+   3632.7
+  ],
+  "Tenderfoot Glades / Coyote Caper": [
+   996,
+   -2426,
+   3304.1
+  ],
+  "A-51 bottom": [
+   -1603,
+   2023,
+   3170.9
+  ],
+  "Two Sled / Schoolmarm": [
+   -1301,
+   2363,
+   3121.6
+  ],
+  "Ruby Express top": [
+   -202,
+   487,
+   3547.3
+  ],
+  "Spring Dipper": [
+   63,
+   1559,
+   3322.3
+  ],
+  "Unnamed run / River Run": [
+   -227,
+   3299,
+   2849.8
+  ],
+  "River Run Gondola bottom": [
+   -198,
+   3430,
+   2847.9
+  ],
+  "Red / Ten Mile": [
+   1811,
+   -1332,
+   3690.0
+  ],
+  "Red / Jane's Journey": [
+   1139,
+   -1034,
+   3473.9
+  ],
+  "Coyote Caper / Conquest": [
+   1909,
+   -2536,
+   3426.3
+  ],
+  "Coyote Caper / Anticipation": [
+   133,
+   -2838,
+   3211.9
+  ],
+  "to lower go devil / Ballhooter": [
+   -1238,
+   2579,
+   3089.3
+  ],
+  "to lower go devil / Richter": [
+   -1621,
+   2570,
+   3034.6
+  ],
+  "Eagle's Nest / Silver Heels": [
+   1772,
+   -2020,
+   3482.3
+  ],
+  "Wild Card / Lower Prospector": [
+   -198,
+   -737,
+   3207.0
+  ],
+  "Outpost Gondola top": [
+   -119,
+   464,
+   3545.9
+  ],
+  "Quandary / Ten Mile": [
+   884,
+   -1666,
+   3514.5
+  ],
+  "Quandary / Prospector": [
+   363,
+   -1081,
+   3342.2
+  ],
+  "HooDoo / Freda's": [
+   -1266,
+   1772,
+   3233.3
+  ],
+  "HooDoo / Last Chance": [
+   -1123,
+   2282,
+   3121.5
+  ],
+  "A-51 top": [
+   -1593,
+   1367,
+   3314.2
+  ],
+  "Richter / Go Devil": [
+   -1656,
+   2625,
+   3021.7
+  ],
+  "Two Sled": [
+   -1415,
+   2310,
+   3136.6
+  ],
+  "Last Hoot / Unnamed run": [
+   -1312,
+   3239,
+   2830.1
+  ],
+  "Ida Belle / Schoolmarm": [
+   -1142,
+   1038,
+   3393.9
+  ],
+  "Ida Belle / Paymaster": [
+   -1031,
+   1350,
+   3305.7
+  ],
+  "Wildcat / Oh, Bob": [
+   581,
+   -2923,
+   3355.1
+  ],
+  "Wildcat / The Willows": [
+   -47,
+   -2998,
+   3188.7
+  ],
+  "Torrey's / Wichita": [
+   2030,
+   -1121,
+   3728.8
+  ],
+  "Torrey's / Jane's Journey": [
+   1263,
+   -1034,
+   3499.5
+  ],
+  "Acapulco Road / Schoolmarm": [
+   -1322,
+   1245,
+   3341.7
+  ],
+  "Acapulco Road / Silver Spoon": [
+   -1202,
+   1497,
+   3277.4
+  ],
+  "Whipsaw / Spring Dipper": [
+   32,
+   1642,
+   3306.6
+  ],
+  "Whipsaw / Missouri": [
+   -52,
+   2620,
+   3062.2
+  ],
+  "The Trap / Unnamed run": [
+   1833,
+   -3169,
+   3624.6
+  ],
+  "Coyote Caper": [
+   1672,
+   -2406,
+   3384.3
+  ],
+  "Last Chance / Schoolmarm": [
+   -1340,
+   2159,
+   3169.8
+  ],
+  "Last Chance / Silver Spoon": [
+   -889,
+   2330,
+   3089.7
+  ],
+  "Anticipation / Ten Mile": [
+   562,
+   -1735,
+   3487.8
+  ],
+  "Outback Express bottom": [
+   -78,
+   -2931,
+   3186.9
+  ],
+  "Outback Express top": [
+   1634,
+   -3283,
+   3637.7
+  ],
+  "South Bowl Trees / Mr. Toad's Wild Ride": [
+   1399,
+   -4093,
+   3378.7
+  ],
+  "Outpost Gondola bottom": [
+   594,
+   -1655,
+   3489.7
+  ],
+  "Ranger top": [
+   -256,
+   496,
+   3545.4
+  ],
+  "Upper Frenchman / Frenchman": [
+   -489,
+   898,
+   3425.7
+  ],
+  "Foxtrot Glades / Foxtrot": [
+   1024,
+   -1997,
+   3423.3
+  ],
+  "Bergman Express bottom": [
+   636,
+   -1192,
+   3416.3
+  ],
+  "Paymaster / Ski-Daddle": [
+   -746,
+   676,
+   3462.7
+  ],
+  "Paymaster / Modest Girl": [
+   -776,
+   2342,
+   3074.1
+  ],
+  "Santiago Express top": [
+   277,
+   -1673,
+   3548.6
+  ],
+  "Last Alamo / Lower Prospector": [
+   -9,
+   -829,
+   3249.3
+  ],
+  "Peru Express top": [
+   -1550,
+   1359,
+   3313.5
+  ],
+  "River Run / Missouri": [
+   -245,
+   2820,
+   2999.0
+  ],
+  "Ptarmigan / Jane's Journey": [
+   959,
+   -1106,
+   3455.4
+  ],
+  "Cat Dancer / Starfire": [
+   -1009,
+   -1072,
+   3063.7
+  ],
+  "Flying Dutchman": [
+   -216,
+   1413,
+   3328.9
+  ],
+  "to lower go devil": [
+   -1464,
+   2729,
+   3062.5
+  ],
+  "Last Hoot": [
+   -1342,
+   3152,
+   2853.5
+  ],
+  "Diamond Back / Scout": [
+   -400,
+   158,
+   3489.9
+  ],
+  "Diamond Back / Lower Prospector": [
+   -939,
+   -955,
+   3087.4
+  ],
+  "Black Hawk / Starfire": [
+   -29,
+   -1445,
+   3422.9
+  ],
+  "Cat Dancer": [
+   -599,
+   -1512,
+   3145.1
+  ],
+  "Swandyke / Spring Dipper": [
+   88,
+   2127,
+   3203.0
+  ],
+  "Whipsaw": [
+   -41,
+   2559,
+   3063.4
+  ],
+  "Unnamed run / Victory Chutes": [
+   2037,
+   -3181,
+   3614.3
+  ],
+  "Haywood / Ballhooter": [
+   -924,
+   2780,
+   3004.1
+  ],
+  "Haywood / Unnamed run": [
+   -1243,
+   3265,
+   2831.0
+  ],
+  "Last Chance": [
+   -1180,
+   2256,
+   3129.1
+  ],
+  "to lower go devil 2": [
+   -1559,
+   2695,
+   3049.4
+  ],
+  "packsadle line / Go Devil Lower": [
+   -1473,
+   3120,
+   2857.9
+  ],
+  "Ute / Ten Mile": [
+   1135,
+   -1552,
+   3562.7
+  ],
+  "Ute / Buffalo": [
+   765,
+   -1198,
+   3430.5
+  ],
+  "Montezuma Express top": [
+   -179,
+   540,
+   3549.8
+  ],
+  "Bighorn / Porcupine": [
+   1221,
+   -3217,
+   3554.4
+  ],
+  "Bighorn / The Willows": [
+   173,
+   -3335,
+   3218.5
+  ],
+  "Richter": [
+   -1663,
+   2268,
+   3104.5
+  ],
+  "Acapulco Road": [
+   -1432,
+   1419,
+   3298.8
+  ],
+  "The Alley / Schoolmarm": [
+   -1349,
+   1980,
+   3199.0
+  ],
+  "Frenchman / Wild Irishman": [
+   -544,
+   715,
+   3458.9
+  ],
+  "Paymaster": [
+   -736,
+   2263,
+   3084.4
+  ],
+  "Beger / Spring Dipper": [
+   -351,
+   2522,
+   3067.5
+  ],
+  "Beger / Jaybird": [
+   -495,
+   2955,
+   2941.1
+  ],
+  "Buffalo / Ten Mile": [
+   1355,
+   -1483,
+   3611.9
+  ],
+  "Nuchu / Silver Heels": [
+   2002,
+   -1372,
+   3728.8
+  ],
+  "Coyote Caper 2": [
+   1270,
+   -2348,
+   3331.0
+  ],
+  "Uneva / Wichita": [
+   1532,
+   -718,
+   3608.2
+  ],
+  "Schoolmarm": [
+   -652,
+   3020,
+   2948.3
+  ],
+  "Schoolmarm 2": [
+   -1120,
+   3267,
+   2839.4
+  ],
+  "Oh, Bob / Elk Run": [
+   1112,
+   -3202,
+   3526.0
+  ],
+  "Oh, Bob / Elk Run 2": [
+   473,
+   -3060,
+   3306.9
+  ],
+  "bullet glades / Bullet": [
+   -258,
+   -1128,
+   3313.2
+  ],
+  "bullet glades / Lower Prospector": [
+   -500,
+   -786,
+   3151.3
+  ],
+  "Starfire": [
+   203,
+   -1603,
+   3525.9
+  ],
+  "Ambush / Lower Prospector": [
+   -334,
+   -709,
+   3180.1
+  ],
+  "Unnamed run / Jaybird": [
+   -523,
+   2582,
+   3043.0
+  ],
+  "Montezuma Express bottom": [
+   -591,
+   2570,
+   3041.5
+  ],
+  "Badger / Bushwhacker": [
+   1285,
+   -2830,
+   3513.0
+  ],
+  "Coyote Caper 3": [
+   833,
+   -2415,
+   3290.8
+  ],
+  "Powder Cap / Mine Shaft": [
+   -397,
+   -718,
+   3169.9
+  ],
+  "Unnamed run": [
+   1926,
+   -3170,
+   3619.2
+  ],
+  "Easy Street / Schoolmarm": [
+   -1338,
+   1925,
+   3208.9
+  ],
+  "Beger": [
+   -357,
+   2832,
+   2987.4
+  ],
+  "River Run": [
+   -262,
+   2965,
+   2945.9
+  ],
+  "Silver Spoon / Schoolmarm": [
+   -1230,
+   1132,
+   3367.4
+  ],
+  "Silver Spoon / Schoolmarm 2": [
+   -938,
+   2682,
+   3025.9
+  ],
+  "Prospector / Unnamed run": [
+   395,
+   -1681,
+   3535.6
+  ],
+  "Spring Dipper / Jaybird": [
+   -409,
+   2544,
+   3058.8
+  ],
+  "Porcupine / Elk Run": [
+   1291,
+   -3226,
+   3570.9
+  ],
+  "Porcupine / The Willows": [
+   261,
+   -3466,
+   3230.7
+  ],
+  "Jane's Journey / Wichita": [
+   1336,
+   -951,
+   3518.6
+  ],
+  "Ballhooter / Schoolmarm": [
+   -1264,
+   2530,
+   3100.2
+  ],
+  "Elk Run / The Willows": [
+   100,
+   -3149,
+   3203.8
+  ],
+  "Ranger bottom": [
+   -434,
+   202,
+   3487.5
+  ],
+  "Scout": [
+   -392,
+   227,
+   3497.3
+  ],
+  "Ski-Daddle / Schoolmarm": [
+   -882,
+   740,
+   3449.0
+  ],
+  "Starfire 2": [
+   244,
+   -1624,
+   3543.4
+  ],
+  "Cat Dancer 2": [
+   -526,
+   -1615,
+   3189.7
+  ],
+  "Bergman Express top": [
+   2106,
+   -1265,
+   3743.1
+  ],
+  "Jaybird / Flying Dutchman": [
+   -466,
+   2255,
+   3129.8
+  ],
+  "Schoolmarm 3": [
+   -626,
+   3116,
+   2910.7
+  ],
+  "Flying Dutchman 2": [
+   -121,
+   559,
+   3539.3
+  ],
+  "Bachelor / Flying Dutchman": [
+   -324,
+   1296,
+   3347.1
+  ],
+  "Anticipation": [
+   590,
+   -1908,
+   3448.2
+  ],
+  "Anticipation 2": [
+   657,
+   -2121,
+   3398.2
+  ],
+  "Crosscut / Flying Dutchman": [
+   -278,
+   1598,
+   3288.3
+  ],
+  "Crosscut / Flying Dutchman 2": [
+   -315,
+   1799,
+   3225.7
+  ],
+  "Coyote Caper 4": [
+   747,
+   -2505,
+   3283.7
+  ],
+  "Wayback top": [
+   301,
+   -1757,
+   3549.9
+  ],
+  "Powder Cap": [
+   -4,
+   -1237,
+   3352.6
+  ],
+  "sampler / Bullet": [
+   -209,
+   -1180,
+   3333.1
+  ],
+  "Diamond Back": [
+   -455,
+   49,
+   3475.3
+  ],
+  "Mine Shaft / Lower Prospector": [
+   -437,
+   -730,
+   3163.9
+  ],
+  "Silver Spoon": [
+   -1109,
+   1682,
+   3241.2
+  ],
+  "Paymaster 2": [
+   -937,
+   1865,
+   3195.8
+  ],
+  "Ruby Express bottom": [
+   -1045,
+   -1046,
+   3060.8
+  ],
+  "Flying Dutchman 3": [
+   -163,
+   1175,
+   3396.0
+  ],
+  "Spring Dipper 2": [
+   -203,
+   2299,
+   3123.7
+  ],
+  "Discovery bottom": [
+   -1497,
+   3293,
+   2829.2
+  ],
+  "Orfint Boy / Modest Girl": [
+   -671,
+   2560,
+   3044.4
+  ],
+  "Orfint Boy / Bobtail": [
+   -687,
+   2714,
+   3005.8
+  ],
+  "HooDoo": [
+   -1129,
+   2173,
+   3151.7
+  ],
+  "Silver Spoon 2": [
+   -970,
+   2277,
+   3109.7
+  ],
+  "Spring Dipper 3": [
+   -302,
+   2491,
+   3076.0
+  ],
+  "The Alley": [
+   -1430,
+   1881,
+   3216.1
+  ],
+  "Elk Run": [
+   1413,
+   -3242,
+   3597.0
+  ],
+  "Wildfire / Mr. Toad's Wild Ride": [
+   650,
+   -3772,
+   3305.4
+  ],
+  "Lower Prospector": [
+   -700,
+   -907,
+   3116.9
+  ],
+  "Santiago Express bottom": [
+   -983,
+   -1135,
+   3062.6
+  ],
+  "Cat Dancer 3": [
+   224,
+   -1784,
+   3523.8
+  ],
+  "Cat Dancer 4": [
+   -417,
+   -1752,
+   3256.1
+  ],
+  "River Run 2": [
+   -254,
+   3078,
+   2907.2
+  ],
+  "Prospector": [
+   601,
+   -1479,
+   3453.8
+  ],
+  "Quandary": [
+   677,
+   -1241,
+   3429.1
+  ],
+  "Summit Express top": [
+   -144,
+   517,
+   3549.4
+  ],
+  "Flying Dutchman 4": [
+   -280,
+   1525,
+   3304.2
+  ],
+  "Anticipation 3": [
+   538,
+   -2507,
+   3274.8
+  ],
+  "Spring Dipper 4": [
+   -8,
+   1113,
+   3433.2
+  ],
+  "Jackwhacker": [
+   -73,
+   1460,
+   3328.2
+  ],
+  "Peru Express bottom": [
+   -1272,
+   3217,
+   2830.2
+  ],
+  "Porcupine": [
+   379,
+   -3489,
+   3255.6
+  ],
+  "Unnamed run 2": [
+   1624,
+   -3242,
+   3637.0
+  ],
+  "Tenderfoot Glades": [
+   1056,
+   -2400,
+   3310.8
+  ],
+  "Anticipation 4": [
+   689,
+   -2163,
+   3385.6
+  ],
+  "Wichita": [
+   1989,
+   -1063,
+   3717.1
+  ],
+  "Coyote Caper 5": [
+   1543,
+   -2340,
+   3359.9
+  ],
+  "Discovery top": [
+   -1585,
+   3109,
+   2860.4
+  ],
+  "Wichita 2": [
+   1679,
+   -765,
+   3607.9
+  ],
+  "Richter 2": [
+   -1858,
+   1978,
+   3214.6
+  ],
+  "Wayback bottom": [
+   -345,
+   -2677,
+   3155.1
+  ],
+  "Quandary 2": [
+   747,
+   -1526,
+   3473.2
+  ],
+  "Unnamed run 3": [
+   1693,
+   -3191,
+   3632.1
+  ],
+  "Coyote Caper 6": [
+   1458,
+   -2328,
+   3349.7
+  ],
+  "Jaybird": [
+   -879,
+   2771,
+   2997.3
+  ],
+  "Jaybird 2": [
+   -551,
+   2284,
+   3113.0
+  ],
+  "Starfire 3": [
+   -191,
+   -1255,
+   3355.2
+  ],
+  "Black Hawk": [
+   -555,
+   -1513,
+   3164.5
+  ],
+  "Schoolmarm 4": [
+   -546,
+   602,
+   3488.4
+  ],
+  "Paymaster 3": [
+   -784,
+   2117,
+   3122.3
+  ],
+  "Bighorn": [
+   1152,
+   -3281,
+   3531.1
+  ],
+  "Lodgepole": [
+   520,
+   -3710,
+   3287.0
+  ],
+  "Last Chance 2": [
+   -1074,
+   2315,
+   3112.8
+  ],
+  "Schoolmarm 5": [
+   -956,
+   2602,
+   3036.1
+  ],
+  "Ambush": [
+   -286,
+   -708,
+   3187.9
+  ],
+  "Jaybird 3": [
+   -445,
+   2565,
+   3051.2
+  ],
+  "Jaybird 4": [
+   -734,
+   2785,
+   2978.1
+  ],
+  "Victory Chutes": [
+   2016,
+   -2588,
+   3439.8
+  ],
+  "Summit Express bottom": [
+   -182,
+   3296,
+   2848.2
+  ],
+  "Bushwhacker": [
+   1440,
+   -3030,
+   3573.8
+  ],
+  "Unnamed lift bottom": [
+   -141,
+   2549,
+   3063.2
+  ],
+  "Unnamed lift top": [
+   -107,
+   2506,
+   3068.9
+  ],
+  "Unnamed lift bottom 2": [
+   -224,
+   2580,
+   3064.7
+  ],
+  "Unnamed lift bottom 3": [
+   -1496,
+   3237,
+   2831.4
+  ],
+  "Unnamed lift top 2": [
+   -1530,
+   3192,
+   2837.4
+  ],
+  "Unnamed lift bottom 4": [
+   -1593,
+   3286,
+   2830.2
+  ],
+  "Unnamed lift top 3": [
+   -1620,
+   3216,
+   2839.8
+  ],
+  "Kokomo bottom": [
+   -375,
+   477,
+   3530.6
+  ],
+  "Kokomo top": [
+   -294,
+   472,
+   3541.3
+  ],
+  "Unnamed lift bottom 5": [
+   117,
+   439,
+   3509.9
+  ],
+  "Unnamed lift top 4": [
+   -5,
+   451,
+   3539.6
+  ]
+ },
+ "lifts": [
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   4.2
+  ],
+  [
+   "Montezuma Express",
+   "Montezuma Express bottom",
+   "Montezuma Express top",
+   10.0
+  ],
+  [
+   "A-51",
+   "A-51 bottom",
+   "A-51 top",
+   11.4
+  ],
+  [
+   "Summit Express",
+   "Summit Express bottom",
+   "Summit Express top",
+   11.5
+  ],
+  [
+   "Ruby Express",
+   "Ruby Express bottom",
+   "Ruby Express top",
+   8.3
+  ],
+  [
+   "Outback Express",
+   "Outback Express bottom",
+   "Outback Express top",
+   8.8
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 3",
+   "Unnamed lift top 2",
+   4.2
+  ],
+  [
+   "Santiago Express",
+   "Santiago Express bottom",
+   "Santiago Express top",
+   7.4
+  ],
+  [
+   "Discovery",
+   "Discovery bottom",
+   "Discovery top",
+   5.0
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 4",
+   "Unnamed lift top 3",
+   4.6
+  ],
+  [
+   "Outpost Gondola",
+   "Outpost Gondola bottom",
+   "Outpost Gondola top",
+   10.5
+  ],
+  [
+   "Outpost Gondola",
+   "Outpost Gondola top",
+   "Outpost Gondola bottom",
+   10.5
+  ],
+  [
+   "River Run Gondola",
+   "River Run Gondola bottom",
+   "Montezuma Express top",
+   12.6
+  ],
+  [
+   "River Run Gondola",
+   "Montezuma Express top",
+   "River Run Gondola bottom",
+   12.6
+  ],
+  [
+   "Kokomo",
+   "Kokomo bottom",
+   "Kokomo top",
+   4.7
+  ],
+  [
+   "Peru Express",
+   "Peru Express bottom",
+   "Peru Express top",
+   9.3
+  ],
+  [
+   "Peru Express",
+   "Peru Express top",
+   "Peru Express bottom",
+   9.3
+  ],
+  [
+   "Bergman Express",
+   "Bergman Express bottom",
+   "Bergman Express top",
+   7.7
+  ],
+  [
+   "Ranger",
+   "Ranger bottom",
+   "Ranger top",
+   5.6
+  ],
+  [
+   "Wayback",
+   "Wayback bottom",
+   "Wayback top",
+   11.7
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 5",
+   "Unnamed lift top 4",
+   5.6
+  ]
+ ],
+ "runs": [
+  [
+   "Tenderfoot Glades",
+   "Tenderfoot Glades / Ptarmigan",
+   "Tenderfoot Glades",
+   4.7
+  ],
+  [
+   "Tenderfoot Glades",
+   "Tenderfoot Glades",
+   "Tenderfoot Glades / Coyote Caper",
+   0.5
+  ],
+  [
+   "Two Sled",
+   "A-51 bottom",
+   "Two Sled",
+   1.5
+  ],
+  [
+   "Two Sled",
+   "Two Sled",
+   "Two Sled / Schoolmarm",
+   0.6
+  ],
+  [
+   "Spring Dipper",
+   "Ruby Express top",
+   "Summit Express top",
+   0.5
+  ],
+  [
+   "Spring Dipper",
+   "Summit Express top",
+   "Outpost Gondola top",
+   0.5
+  ],
+  [
+   "Spring Dipper",
+   "Outpost Gondola top",
+   "Spring Dipper 4",
+   2.9
+  ],
+  [
+   "Spring Dipper",
+   "Spring Dipper 4",
+   "Spring Dipper",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / River Run",
+   "River Run Gondola bottom",
+   0.5
+  ],
+  [
+   "Red",
+   "Red / Ten Mile",
+   "Red / Jane's Journey",
+   3.2
+  ],
+  [
+   "Coyote Caper",
+   "Coyote Caper / Conquest",
+   "Coyote Caper",
+   1.0
+  ],
+  [
+   "Coyote Caper",
+   "Coyote Caper",
+   "Coyote Caper 5",
+   0.6
+  ],
+  [
+   "Coyote Caper",
+   "Coyote Caper 5",
+   "Coyote Caper 6",
+   0.5
+  ],
+  [
+   "Coyote Caper",
+   "Coyote Caper 6",
+   "Coyote Caper 2",
+   0.8
+  ],
+  [
+   "Coyote Caper",
+   "Coyote Caper 2",
+   "Tenderfoot Glades",
+   0.9
+  ],
+  [
+   "Coyote Caper",
+   "Tenderfoot Glades",
+   "Tenderfoot Glades / Coyote Caper",
+   0.5
+  ],
+  [
+   "Coyote Caper",
+   "Tenderfoot Glades / Coyote Caper",
+   "Coyote Caper 3",
+   0.7
+  ],
+  [
+   "Coyote Caper",
+   "Coyote Caper 3",
+   "Coyote Caper 4",
+   0.6
+  ],
+  [
+   "Coyote Caper",
+   "Coyote Caper 4",
+   "Coyote Caper / Anticipation",
+   3.0
+  ],
+  [
+   "to lower go devil",
+   "to lower go devil / Ballhooter",
+   "to lower go devil",
+   1.1
+  ],
+  [
+   "to lower go devil",
+   "to lower go devil",
+   "to lower go devil 2",
+   0.5
+  ],
+  [
+   "to lower go devil",
+   "to lower go devil 2",
+   "to lower go devil / Richter",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Outpost Gondola top",
+   "Ruby Express top",
+   0.5
+  ],
+  [
+   "Quandary",
+   "Quandary / Ten Mile",
+   "Quandary 2",
+   0.8
+  ],
+  [
+   "Quandary",
+   "Quandary 2",
+   "Quandary",
+   1.2
+  ],
+  [
+   "Quandary",
+   "Quandary",
+   "Bergman Express bottom",
+   0.5
+  ],
+  [
+   "Quandary",
+   "Bergman Express bottom",
+   "Quandary / Prospector",
+   1.3
+  ],
+  [
+   "HooDoo",
+   "HooDoo / Freda's",
+   "HooDoo",
+   1.7
+  ],
+  [
+   "HooDoo",
+   "HooDoo",
+   "HooDoo / Last Chance",
+   0.5
+  ],
+  [
+   "Richter",
+   "A-51 top",
+   "Richter 2",
+   2.8
+  ],
+  [
+   "Richter",
+   "Richter 2",
+   "Richter",
+   1.5
+  ],
+  [
+   "Richter",
+   "Richter",
+   "to lower go devil / Richter",
+   1.4
+  ],
+  [
+   "Richter",
+   "to lower go devil / Richter",
+   "Richter / Go Devil",
+   0.5
+  ],
+  [
+   "Last Hoot",
+   "Two Sled",
+   "Last Hoot",
+   3.9
+  ],
+  [
+   "Last Hoot",
+   "Last Hoot",
+   "Last Hoot / Unnamed run",
+   0.5
+  ],
+  [
+   "Ida Belle",
+   "Ida Belle / Schoolmarm",
+   "Ida Belle / Paymaster",
+   1.4
+  ],
+  [
+   "Wildcat",
+   "Wildcat / Oh, Bob",
+   "Wildcat / The Willows",
+   2.7
+  ],
+  [
+   "Torrey's",
+   "Torrey's / Wichita",
+   "Torrey's / Jane's Journey",
+   3.2
+  ],
+  [
+   "Acapulco Road",
+   "Acapulco Road / Schoolmarm",
+   "Peru Express top",
+   1.0
+  ],
+  [
+   "Acapulco Road",
+   "Peru Express top",
+   "Acapulco Road",
+   0.5
+  ],
+  [
+   "Acapulco Road",
+   "Acapulco Road",
+   "Acapulco Road / Silver Spoon",
+   1.1
+  ],
+  [
+   "Whipsaw",
+   "Whipsaw / Spring Dipper",
+   "Whipsaw",
+   3.9
+  ],
+  [
+   "Whipsaw",
+   "Whipsaw",
+   "Whipsaw / Missouri",
+   0.5
+  ],
+  [
+   "The Trap",
+   "The Trap / Unnamed run",
+   "Coyote Caper",
+   3.3
+  ],
+  [
+   "Last Chance",
+   "Last Chance / Schoolmarm",
+   "Last Chance",
+   0.7
+  ],
+  [
+   "Last Chance",
+   "Last Chance",
+   "HooDoo / Last Chance",
+   0.5
+  ],
+  [
+   "Last Chance",
+   "HooDoo / Last Chance",
+   "Last Chance 2",
+   0.5
+  ],
+  [
+   "Last Chance",
+   "Last Chance 2",
+   "Last Chance / Silver Spoon",
+   0.7
+  ],
+  [
+   "Anticipation",
+   "Anticipation / Ten Mile",
+   "Anticipation",
+   0.6
+  ],
+  [
+   "Anticipation",
+   "Anticipation",
+   "Anticipation 2",
+   0.9
+  ],
+  [
+   "Anticipation",
+   "Anticipation 2",
+   "Anticipation 4",
+   0.5
+  ],
+  [
+   "Anticipation",
+   "Anticipation 4",
+   "Anticipation 3",
+   2.2
+  ],
+  [
+   "Anticipation",
+   "Anticipation 3",
+   "Coyote Caper / Anticipation",
+   2.3
+  ],
+  [
+   "Anticipation",
+   "Coyote Caper / Anticipation",
+   "Outback Express bottom",
+   1.0
+  ],
+  [
+   "South Bowl Trees",
+   "Outback Express top",
+   "South Bowl Trees / Mr. Toad's Wild Ride",
+   3.6
+  ],
+  [
+   "Upper Frenchman",
+   "Ranger top",
+   "Upper Frenchman / Frenchman",
+   1.9
+  ],
+  [
+   "Foxtrot Glades",
+   "Foxtrot Glades / Foxtrot",
+   "Tenderfoot Glades / Coyote Caper",
+   1.7
+  ],
+  [
+   "Paymaster",
+   "Paymaster / Ski-Daddle",
+   "Ida Belle / Paymaster",
+   3.1
+  ],
+  [
+   "Paymaster",
+   "Ida Belle / Paymaster",
+   "Paymaster 2",
+   2.3
+  ],
+  [
+   "Paymaster",
+   "Paymaster 2",
+   "Paymaster 3",
+   1.3
+  ],
+  [
+   "Paymaster",
+   "Paymaster 3",
+   "Paymaster",
+   0.7
+  ],
+  [
+   "Paymaster",
+   "Paymaster",
+   "Paymaster / Modest Girl",
+   0.5
+  ],
+  [
+   "Last Alamo",
+   "Santiago Express top",
+   "Last Alamo / Lower Prospector",
+   3.9
+  ],
+  [
+   "Unnamed run",
+   "A-51 top",
+   "Peru Express top",
+   0.5
+  ],
+  [
+   "River Run",
+   "River Run / Missouri",
+   "River Run",
+   0.5
+  ],
+  [
+   "River Run",
+   "River Run",
+   "River Run 2",
+   0.5
+  ],
+  [
+   "River Run",
+   "River Run 2",
+   "Unnamed run / River Run",
+   1.0
+  ],
+  [
+   "Ptarmigan",
+   "Tenderfoot Glades / Ptarmigan",
+   "Ptarmigan / Jane's Journey",
+   2.6
+  ],
+  [
+   "Cat Dancer",
+   "Santiago Express top",
+   "Wayback top",
+   0.5
+  ],
+  [
+   "Cat Dancer",
+   "Wayback top",
+   "Cat Dancer 3",
+   0.5
+  ],
+  [
+   "Cat Dancer",
+   "Cat Dancer 3",
+   "Cat Dancer 4",
+   3.0
+  ],
+  [
+   "Cat Dancer",
+   "Cat Dancer 4",
+   "Cat Dancer 2",
+   0.8
+  ],
+  [
+   "Cat Dancer",
+   "Cat Dancer 2",
+   "Cat Dancer",
+   0.6
+  ],
+  [
+   "Cat Dancer",
+   "Cat Dancer",
+   "Santiago Express bottom",
+   2.3
+  ],
+  [
+   "Cat Dancer",
+   "Santiago Express bottom",
+   "Cat Dancer / Starfire",
+   0.5
+  ],
+  [
+   "Flying Dutchman",
+   "Outpost Gondola top",
+   "Summit Express top",
+   0.5
+  ],
+  [
+   "Flying Dutchman",
+   "Summit Express top",
+   "Flying Dutchman 2",
+   0.5
+  ],
+  [
+   "Flying Dutchman",
+   "Flying Dutchman 2",
+   "Flying Dutchman 3",
+   2.7
+  ],
+  [
+   "Flying Dutchman",
+   "Flying Dutchman 3",
+   "Flying Dutchman",
+   1.1
+  ],
+  [
+   "peru glades",
+   "to lower go devil",
+   "Last Hoot",
+   2.0
+  ],
+  [
+   "Main Street",
+   "A-51 top",
+   "A-51 bottom",
+   2.5
+  ],
+  [
+   "Diamond Back",
+   "Diamond Back / Scout",
+   "Diamond Back",
+   0.5
+  ],
+  [
+   "Diamond Back",
+   "Diamond Back",
+   "Diamond Back / Lower Prospector",
+   5.4
+  ],
+  [
+   "Black Hawk",
+   "Black Hawk / Starfire",
+   "Black Hawk",
+   2.5
+  ],
+  [
+   "Black Hawk",
+   "Black Hawk",
+   "Cat Dancer",
+   0.5
+  ],
+  [
+   "Swandyke",
+   "Swandyke / Spring Dipper",
+   "Whipsaw",
+   2.0
+  ],
+  [
+   "I-70",
+   "A-51 top",
+   "A-51 bottom",
+   3.5
+  ],
+  [
+   "Unnamed run",
+   "Outback Express top",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 3",
+   "The Trap / Unnamed run",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "The Trap / Unnamed run",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Unnamed run / Victory Chutes",
+   0.5
+  ],
+  [
+   "Haywood",
+   "Haywood / Ballhooter",
+   "Haywood / Unnamed run",
+   3.1
+  ],
+  [
+   "Freda's",
+   "HooDoo / Freda's",
+   "Last Chance",
+   2.0
+  ],
+  [
+   "packsadle line",
+   "to lower go devil 2",
+   "packsadle line / Go Devil Lower",
+   1.8
+  ],
+  [
+   "Ute",
+   "Ute / Ten Mile",
+   "Ute / Buffalo",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Montezuma Express top",
+   "Ruby Express top",
+   0.5
+  ],
+  [
+   "Bighorn",
+   "Bighorn / Porcupine",
+   "Bighorn",
+   0.5
+  ],
+  [
+   "Bighorn",
+   "Bighorn",
+   "Bighorn / The Willows",
+   4.2
+  ],
+  [
+   "Packsaddle Bowl",
+   "A-51 bottom",
+   "Richter",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Montezuma Express top",
+   "Ruby Express top",
+   0.5
+  ],
+  [
+   "The Alley",
+   "Acapulco Road",
+   "The Alley",
+   1.9
+  ],
+  [
+   "The Alley",
+   "The Alley",
+   "The Alley / Schoolmarm",
+   0.6
+  ],
+  [
+   "Frenchman",
+   "Frenchman / Wild Irishman",
+   "Upper Frenchman / Frenchman",
+   0.7
+  ],
+  [
+   "Frenchman",
+   "Upper Frenchman / Frenchman",
+   "Paymaster",
+   6.2
+  ],
+  [
+   "Beger",
+   "Beger / Spring Dipper",
+   "Beger",
+   1.2
+  ],
+  [
+   "Beger",
+   "Beger",
+   "Beger / Jaybird",
+   0.8
+  ],
+  [
+   "Buffalo",
+   "Buffalo / Ten Mile",
+   "Ute / Buffalo",
+   2.9
+  ],
+  [
+   "Buffalo",
+   "Ute / Buffalo",
+   "Quandary",
+   0.5
+  ],
+  [
+   "Buffalo",
+   "Quandary",
+   "Bergman Express bottom",
+   0.5
+  ],
+  [
+   "Nuchu",
+   "Nuchu / Silver Heels",
+   "Coyote Caper 2",
+   5.5
+  ],
+  [
+   "Starfire",
+   "Santiago Express top",
+   "Starfire 2",
+   0.5
+  ],
+  [
+   "Starfire",
+   "Starfire 2",
+   "Starfire",
+   0.5
+  ],
+  [
+   "Starfire",
+   "Starfire",
+   "Black Hawk / Starfire",
+   1.3
+  ],
+  [
+   "Starfire",
+   "Black Hawk / Starfire",
+   "Starfire 3",
+   1.1
+  ],
+  [
+   "Starfire",
+   "Starfire 3",
+   "Cat Dancer / Starfire",
+   3.7
+  ],
+  [
+   "Uneva",
+   "Uneva / Wichita",
+   "Bergman Express bottom",
+   4.6
+  ],
+  [
+   "Schoolmarm",
+   "Schoolmarm",
+   "Schoolmarm 3",
+   1.4
+  ],
+  [
+   "Schoolmarm",
+   "Schoolmarm 3",
+   "Schoolmarm 2",
+   2.3
+  ],
+  [
+   "Oh, Bob",
+   "Oh, Bob / Elk Run",
+   "Wildcat / Oh, Bob",
+   2.7
+  ],
+  [
+   "Oh, Bob",
+   "Wildcat / Oh, Bob",
+   "Oh, Bob / Elk Run 2",
+   0.7
+  ],
+  [
+   "bullet glades",
+   "bullet glades / Bullet",
+   "bullet glades / Lower Prospector",
+   1.8
+  ],
+  [
+   "Ambush",
+   "Starfire",
+   "Ambush",
+   4.5
+  ],
+  [
+   "Ambush",
+   "Ambush",
+   "Ambush / Lower Prospector",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Jaybird",
+   "Montezuma Express bottom",
+   0.5
+  ],
+  [
+   "Badger",
+   "Badger / Bushwhacker",
+   "Coyote Caper 3",
+   2.6
+  ],
+  [
+   "Powder Cap",
+   "Starfire",
+   "Powder Cap",
+   1.6
+  ],
+  [
+   "Powder Cap",
+   "Powder Cap",
+   "Powder Cap / Mine Shaft",
+   2.9
+  ],
+  [
+   "Conquest",
+   "Unnamed run",
+   "Coyote Caper / Conquest",
+   2.6
+  ],
+  [
+   "Easy Street",
+   "Acapulco Road",
+   "Easy Street / Schoolmarm",
+   2.1
+  ],
+  [
+   "Midland",
+   "Beger",
+   "River Run",
+   0.6
+  ],
+  [
+   "Silver Spoon",
+   "Silver Spoon / Schoolmarm",
+   "Acapulco Road / Silver Spoon",
+   1.5
+  ],
+  [
+   "Silver Spoon",
+   "Acapulco Road / Silver Spoon",
+   "Silver Spoon",
+   0.9
+  ],
+  [
+   "Silver Spoon",
+   "Silver Spoon",
+   "Silver Spoon 2",
+   2.6
+  ],
+  [
+   "Silver Spoon",
+   "Silver Spoon 2",
+   "Last Chance / Silver Spoon",
+   0.5
+  ],
+  [
+   "Silver Spoon",
+   "Last Chance / Silver Spoon",
+   "Silver Spoon / Schoolmarm 2",
+   1.8
+  ],
+  [
+   "Prospector",
+   "Prospector / Unnamed run",
+   "Prospector",
+   1.2
+  ],
+  [
+   "Prospector",
+   "Prospector",
+   "Quandary / Prospector",
+   2.0
+  ],
+  [
+   "Spring Dipper",
+   "Spring Dipper",
+   "Whipsaw / Spring Dipper",
+   0.5
+  ],
+  [
+   "Spring Dipper",
+   "Whipsaw / Spring Dipper",
+   "Swandyke / Spring Dipper",
+   2.2
+  ],
+  [
+   "Spring Dipper",
+   "Swandyke / Spring Dipper",
+   "Spring Dipper 2",
+   1.7
+  ],
+  [
+   "Spring Dipper",
+   "Spring Dipper 2",
+   "Spring Dipper 3",
+   1.0
+  ],
+  [
+   "Spring Dipper",
+   "Spring Dipper 3",
+   "Beger / Spring Dipper",
+   0.5
+  ],
+  [
+   "Spring Dipper",
+   "Beger / Spring Dipper",
+   "Spring Dipper / Jaybird",
+   0.5
+  ],
+  [
+   "Porcupine",
+   "Porcupine / Elk Run",
+   "Bighorn / Porcupine",
+   0.5
+  ],
+  [
+   "Porcupine",
+   "Bighorn / Porcupine",
+   "Bighorn",
+   0.5
+  ],
+  [
+   "Porcupine",
+   "Bighorn",
+   "Porcupine",
+   3.6
+  ],
+  [
+   "Porcupine",
+   "Porcupine",
+   "Porcupine / The Willows",
+   0.5
+  ],
+  [
+   "Jane's Journey",
+   "Jane's Journey / Wichita",
+   "Torrey's / Jane's Journey",
+   0.5
+  ],
+  [
+   "Jane's Journey",
+   "Torrey's / Jane's Journey",
+   "Red / Jane's Journey",
+   0.6
+  ],
+  [
+   "Jane's Journey",
+   "Red / Jane's Journey",
+   "Ptarmigan / Jane's Journey",
+   0.8
+  ],
+  [
+   "Jane's Journey",
+   "Ptarmigan / Jane's Journey",
+   "Ute / Buffalo",
+   0.9
+  ],
+  [
+   "Jane's Journey",
+   "Ute / Buffalo",
+   "Bergman Express bottom",
+   0.7
+  ],
+  [
+   "Ballhooter",
+   "Ballhooter / Schoolmarm",
+   "to lower go devil / Ballhooter",
+   0.5
+  ],
+  [
+   "Ballhooter",
+   "to lower go devil / Ballhooter",
+   "Haywood / Ballhooter",
+   1.7
+  ],
+  [
+   "Elk Run",
+   "Outback Express top",
+   "Elk Run",
+   0.9
+  ],
+  [
+   "Elk Run",
+   "Elk Run",
+   "Porcupine / Elk Run",
+   0.5
+  ],
+  [
+   "Elk Run",
+   "Porcupine / Elk Run",
+   "Bighorn / Porcupine",
+   0.5
+  ],
+  [
+   "Elk Run",
+   "Bighorn / Porcupine",
+   "Oh, Bob / Elk Run",
+   0.5
+  ],
+  [
+   "Elk Run",
+   "Oh, Bob / Elk Run",
+   "Oh, Bob / Elk Run 2",
+   2.9
+  ],
+  [
+   "Elk Run",
+   "Oh, Bob / Elk Run 2",
+   "Elk Run / The Willows",
+   1.7
+  ],
+  [
+   "Scout",
+   "Ruby Express top",
+   "Scout",
+   1.2
+  ],
+  [
+   "Scout",
+   "Scout",
+   "Diamond Back / Scout",
+   0.5
+  ],
+  [
+   "Scout",
+   "Diamond Back / Scout",
+   "Ranger bottom",
+   0.5
+  ],
+  [
+   "Ski-Daddle",
+   "Scout",
+   "Paymaster / Ski-Daddle",
+   2.3
+  ],
+  [
+   "Ski-Daddle",
+   "Paymaster / Ski-Daddle",
+   "Ski-Daddle / Schoolmarm",
+   0.6
+  ],
+  [
+   "Geronimo",
+   "Starfire 2",
+   "Starfire",
+   0.5
+  ],
+  [
+   "Geronimo",
+   "Starfire",
+   "Cat Dancer 2",
+   3.4
+  ],
+  [
+   "Ten Mile",
+   "Bergman Express top",
+   "Red / Ten Mile",
+   1.2
+  ],
+  [
+   "Ten Mile",
+   "Red / Ten Mile",
+   "Tenderfoot Glades / Ptarmigan",
+   1.5
+  ],
+  [
+   "Ten Mile",
+   "Tenderfoot Glades / Ptarmigan",
+   "Buffalo / Ten Mile",
+   0.5
+  ],
+  [
+   "Ten Mile",
+   "Buffalo / Ten Mile",
+   "Ute / Ten Mile",
+   1.0
+  ],
+  [
+   "Ten Mile",
+   "Ute / Ten Mile",
+   "Quandary / Ten Mile",
+   1.2
+  ],
+  [
+   "Ten Mile",
+   "Quandary / Ten Mile",
+   "Anticipation / Ten Mile",
+   1.5
+  ],
+  [
+   "Jaybird",
+   "Jaybird / Flying Dutchman",
+   "Jaybird 2",
+   0.5
+  ],
+  [
+   "Jaybird",
+   "Jaybird 2",
+   "Spring Dipper / Jaybird",
+   1.4
+  ],
+  [
+   "Jaybird",
+   "Spring Dipper / Jaybird",
+   "Jaybird 3",
+   0.5
+  ],
+  [
+   "Jaybird",
+   "Jaybird 3",
+   "Unnamed run / Jaybird",
+   0.5
+  ],
+  [
+   "Jaybird",
+   "Unnamed run / Jaybird",
+   "Jaybird",
+   1.9
+  ],
+  [
+   "Jaybird",
+   "Jaybird",
+   "Jaybird 4",
+   0.7
+  ],
+  [
+   "Jaybird",
+   "Jaybird 4",
+   "Beger / Jaybird",
+   1.2
+  ],
+  [
+   "Jaybird",
+   "Beger / Jaybird",
+   "Schoolmarm 3",
+   1.0
+  ],
+  [
+   "Bachelor",
+   "Flying Dutchman 2",
+   "Bachelor / Flying Dutchman",
+   3.2
+  ],
+  [
+   "Anticipation",
+   "Anticipation",
+   "Anticipation 2",
+   0.9
+  ],
+  [
+   "Missouri",
+   "Whipsaw / Missouri",
+   "River Run / Missouri",
+   1.1
+  ],
+  [
+   "Crosscut",
+   "Crosscut / Flying Dutchman",
+   "Crosscut / Flying Dutchman 2",
+   1.3
+  ],
+  [
+   "The Grizz",
+   "Outback Express top",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "The Grizz",
+   "Unnamed run 2",
+   "Coyote Caper 4",
+   5.0
+  ],
+  [
+   "Endeavor",
+   "Ruby Express top",
+   "Ranger top",
+   0.5
+  ],
+  [
+   "Endeavor",
+   "Ranger top",
+   "Kokomo top",
+   0.5
+  ],
+  [
+   "Endeavor",
+   "Kokomo top",
+   "Kokomo bottom",
+   0.5
+  ],
+  [
+   "Endeavor",
+   "Kokomo bottom",
+   "Scout",
+   1.0
+  ],
+  [
+   "Endeavor",
+   "Scout",
+   "Ranger bottom",
+   0.5
+  ],
+  [
+   "Endeavor",
+   "Ranger bottom",
+   "Diamond Back / Scout",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Wayback top",
+   "Prospector / Unnamed run",
+   0.5
+  ],
+  [
+   "sampler",
+   "Powder Cap",
+   "sampler / Bullet",
+   0.8
+  ],
+  [
+   "Mine Shaft",
+   "Diamond Back",
+   "Powder Cap / Mine Shaft",
+   3.5
+  ],
+  [
+   "Mine Shaft",
+   "Powder Cap / Mine Shaft",
+   "Mine Shaft / Lower Prospector",
+   0.5
+  ],
+  [
+   "Silvermaster",
+   "Silver Spoon",
+   "Paymaster 2",
+   0.9
+  ],
+  [
+   "Lower Prospector",
+   "Quandary / Prospector",
+   "Last Alamo / Lower Prospector",
+   1.8
+  ],
+  [
+   "Lower Prospector",
+   "Last Alamo / Lower Prospector",
+   "Wild Card / Lower Prospector",
+   0.9
+  ],
+  [
+   "Lower Prospector",
+   "Wild Card / Lower Prospector",
+   "Ambush",
+   0.5
+  ],
+  [
+   "Lower Prospector",
+   "Ambush",
+   "Ambush / Lower Prospector",
+   0.5
+  ],
+  [
+   "Lower Prospector",
+   "Ambush / Lower Prospector",
+   "Powder Cap / Mine Shaft",
+   0.5
+  ],
+  [
+   "Lower Prospector",
+   "Powder Cap / Mine Shaft",
+   "Mine Shaft / Lower Prospector",
+   0.5
+  ],
+  [
+   "Lower Prospector",
+   "Mine Shaft / Lower Prospector",
+   "bullet glades / Lower Prospector",
+   0.5
+  ],
+  [
+   "Lower Prospector",
+   "bullet glades / Lower Prospector",
+   "Lower Prospector",
+   1.0
+  ],
+  [
+   "Lower Prospector",
+   "Lower Prospector",
+   "Cat Dancer / Starfire",
+   1.5
+  ],
+  [
+   "Lower Prospector",
+   "Cat Dancer / Starfire",
+   "Ruby Express bottom",
+   0.5
+  ],
+  [
+   "Jackwhacker",
+   "Flying Dutchman 3",
+   "Jackwhacker",
+   1.2
+  ],
+  [
+   "Jackwhacker",
+   "Jackwhacker",
+   "Spring Dipper 2",
+   3.9
+  ],
+  [
+   "Schoolmarm",
+   "Ruby Express top",
+   "Ranger top",
+   0.5
+  ],
+  [
+   "Schoolmarm",
+   "Ranger top",
+   "Kokomo top",
+   0.5
+  ],
+  [
+   "Schoolmarm",
+   "Kokomo top",
+   "Schoolmarm 4",
+   1.0
+  ],
+  [
+   "Schoolmarm",
+   "Schoolmarm 4",
+   "Paymaster / Ski-Daddle",
+   0.9
+  ],
+  [
+   "Schoolmarm",
+   "Paymaster / Ski-Daddle",
+   "Ski-Daddle / Schoolmarm",
+   0.6
+  ],
+  [
+   "Schoolmarm",
+   "Ski-Daddle / Schoolmarm",
+   "Ida Belle / Schoolmarm",
+   1.7
+  ],
+  [
+   "Schoolmarm",
+   "Ida Belle / Schoolmarm",
+   "Silver Spoon / Schoolmarm",
+   0.5
+  ],
+  [
+   "Schoolmarm",
+   "Silver Spoon / Schoolmarm",
+   "Acapulco Road / Schoolmarm",
+   0.6
+  ],
+  [
+   "Schoolmarm",
+   "Acapulco Road / Schoolmarm",
+   "HooDoo / Freda's",
+   2.3
+  ],
+  [
+   "Schoolmarm",
+   "HooDoo / Freda's",
+   "Easy Street / Schoolmarm",
+   0.7
+  ],
+  [
+   "Schoolmarm",
+   "Easy Street / Schoolmarm",
+   "The Alley / Schoolmarm",
+   0.5
+  ],
+  [
+   "Schoolmarm",
+   "The Alley / Schoolmarm",
+   "Last Chance / Schoolmarm",
+   0.7
+  ],
+  [
+   "Schoolmarm",
+   "Last Chance / Schoolmarm",
+   "Two Sled / Schoolmarm",
+   0.9
+  ],
+  [
+   "Schoolmarm",
+   "Two Sled / Schoolmarm",
+   "Ballhooter / Schoolmarm",
+   0.7
+  ],
+  [
+   "Schoolmarm",
+   "Ballhooter / Schoolmarm",
+   "to lower go devil / Ballhooter",
+   0.5
+  ],
+  [
+   "Schoolmarm",
+   "to lower go devil / Ballhooter",
+   "Schoolmarm 5",
+   1.2
+  ],
+  [
+   "Schoolmarm",
+   "Schoolmarm 5",
+   "Silver Spoon / Schoolmarm 2",
+   0.5
+  ],
+  [
+   "Schoolmarm",
+   "Silver Spoon / Schoolmarm 2",
+   "Haywood / Ballhooter",
+   0.5
+  ],
+  [
+   "Schoolmarm",
+   "Haywood / Ballhooter",
+   "Schoolmarm",
+   2.1
+  ],
+  [
+   "Wichita",
+   "Bergman Express top",
+   "Torrey's / Wichita",
+   0.5
+  ],
+  [
+   "Wichita",
+   "Torrey's / Wichita",
+   "Wichita",
+   0.5
+  ],
+  [
+   "Wichita",
+   "Wichita",
+   "Wichita 2",
+   1.9
+  ],
+  [
+   "Wichita",
+   "Wichita 2",
+   "Uneva / Wichita",
+   0.5
+  ],
+  [
+   "Wichita",
+   "Uneva / Wichita",
+   "Jane's Journey / Wichita",
+   1.3
+  ],
+  [
+   "Wichita",
+   "Jane's Journey / Wichita",
+   "Red / Jane's Journey",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Haywood / Unnamed run",
+   "Last Hoot / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Last Hoot / Unnamed run",
+   "Discovery bottom",
+   0.8
+  ],
+  [
+   "Orfint Boy",
+   "Orfint Boy / Modest Girl",
+   "Orfint Boy / Bobtail",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "HooDoo",
+   "Silver Spoon 2",
+   0.7
+  ],
+  [
+   "The Edge",
+   "Spring Dipper 3",
+   "River Run / Missouri",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "The Alley",
+   "A-51 bottom",
+   0.8
+  ],
+  [
+   "Wildfire",
+   "Elk Run",
+   "Wildfire / Mr. Toad's Wild Ride",
+   4.0
+  ],
+  [
+   "Mr. Toad's Wild Ride",
+   "South Bowl Trees / Mr. Toad's Wild Ride",
+   "Wildfire / Mr. Toad's Wild Ride",
+   3.6
+  ],
+  [
+   "Lower Prospector",
+   "Lower Prospector",
+   "Diamond Back / Lower Prospector",
+   0.9
+  ],
+  [
+   "Lower Prospector",
+   "Diamond Back / Lower Prospector",
+   "Cat Dancer / Starfire",
+   0.6
+  ],
+  [
+   "Lower Prospector",
+   "Cat Dancer / Starfire",
+   "Santiago Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Santiago Express top",
+   "Prospector / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Prospector / Unnamed run",
+   "Anticipation / Ten Mile",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Anticipation / Ten Mile",
+   "Outpost Gondola bottom",
+   0.5
+  ],
+  [
+   "Cat South Glades",
+   "Cat Dancer 3",
+   "Cat Dancer 4",
+   3.3
+  ],
+  [
+   "Victory Chutes",
+   "Unnamed run / Victory Chutes",
+   "Victory Chutes",
+   2.5
+  ],
+  [
+   "Victory Chutes",
+   "Victory Chutes",
+   "Coyote Caper / Conquest",
+   0.5
+  ],
+  [
+   "Wolverine",
+   "Outback Express top",
+   "Wildfire / Mr. Toad's Wild Ride",
+   5.0
+  ],
+  [
+   "Dercum's Dash",
+   "Beger / Jaybird",
+   "River Run 2",
+   1.0
+  ],
+  [
+   "Santa Fe",
+   "Spring Dipper",
+   "Whipsaw / Missouri",
+   5.5
+  ],
+  [
+   "Thorne",
+   "Prospector",
+   "Quandary",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Summit Express top",
+   "Montezuma Express top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Montezuma Express top",
+   "Ruby Express top",
+   0.5
+  ],
+  [
+   "Flying Dutchman",
+   "Flying Dutchman",
+   "Flying Dutchman 4",
+   0.5
+  ],
+  [
+   "Spillway",
+   "Wayback top",
+   "Anticipation 3",
+   3.6
+  ],
+  [
+   "Unnamed run",
+   "Ranger top",
+   "Ruby Express top",
+   0.5
+  ],
+  [
+   "The Stadium",
+   "Victory Chutes",
+   "Coyote Caper / Conquest",
+   0.5
+  ],
+  [
+   "Jackface",
+   "Spring Dipper 4",
+   "Jackwhacker",
+   1.4
+  ],
+  [
+   "The Willows",
+   "Wildfire / Mr. Toad's Wild Ride",
+   "Porcupine / The Willows",
+   2.7
+  ],
+  [
+   "The Willows",
+   "Porcupine / The Willows",
+   "Bighorn / The Willows",
+   0.7
+  ],
+  [
+   "The Willows",
+   "Bighorn / The Willows",
+   "Elk Run / The Willows",
+   0.8
+  ],
+  [
+   "The Willows",
+   "Elk Run / The Willows",
+   "Wildcat / The Willows",
+   0.9
+  ],
+  [
+   "The Willows",
+   "Wildcat / The Willows",
+   "Outback Express bottom",
+   0.5
+  ],
+  [
+   "Schoolmarm",
+   "Schoolmarm 2",
+   "Haywood / Unnamed run",
+   0.5
+  ],
+  [
+   "Schoolmarm",
+   "Haywood / Unnamed run",
+   "Peru Express bottom",
+   0.5
+  ],
+  [
+   "Lodgepole",
+   "Wildfire / Mr. Toad's Wild Ride",
+   "Lodgepole",
+   0.5
+  ],
+  [
+   "Lodgepole",
+   "Lodgepole",
+   "Porcupine",
+   1.2
+  ],
+  [
+   "Bushwhacker",
+   "Unnamed run 2",
+   "Bushwhacker",
+   1.1
+  ],
+  [
+   "Bushwhacker",
+   "Bushwhacker",
+   "Badger / Bushwhacker",
+   1.1
+  ],
+  [
+   "Bushwhacker",
+   "Badger / Bushwhacker",
+   "Tenderfoot Glades",
+   2.2
+  ],
+  [
+   "Foxtrot",
+   "Anticipation / Ten Mile",
+   "Foxtrot Glades / Foxtrot",
+   3.0
+  ],
+  [
+   "Foxtrot",
+   "Foxtrot Glades / Foxtrot",
+   "Anticipation 4",
+   1.6
+  ],
+  [
+   "Jacques St. James",
+   "Spring Dipper 2",
+   "Unnamed lift top",
+   0.8
+  ],
+  [
+   "Jacques St. James",
+   "Unnamed lift top",
+   "Whipsaw",
+   0.5
+  ],
+  [
+   "Gray's",
+   "Wichita",
+   "Jane's Journey / Wichita",
+   2.8
+  ],
+  [
+   "Silver Heels",
+   "Nuchu / Silver Heels",
+   "Eagle's Nest / Silver Heels",
+   2.9
+  ],
+  [
+   "Silver Heels",
+   "Eagle's Nest / Silver Heels",
+   "Coyote Caper 5",
+   1.8
+  ],
+  [
+   "Learning Area",
+   "Discovery top",
+   "Unnamed lift top 3",
+   0.5
+  ],
+  [
+   "Learning Area",
+   "Unnamed lift top 3",
+   "Discovery bottom",
+   0.5
+  ],
+  [
+   "Go Devil",
+   "Richter 2",
+   "Richter / Go Devil",
+   3.1
+  ],
+  [
+   "Unnamed run",
+   "Outback Express bottom",
+   "Wayback bottom",
+   1.4
+  ],
+  [
+   "Miners",
+   "Outpost Gondola bottom",
+   "Quandary 2",
+   0.7
+  ],
+  [
+   "The Wolf Den",
+   "Unnamed run 3",
+   "Coyote Caper 6",
+   3.8
+  ],
+  [
+   "Unnamed run",
+   "Haywood / Ballhooter",
+   "Jaybird",
+   0.5
+  ],
+  [
+   "Modest Girl",
+   "Jaybird 2",
+   "Paymaster / Modest Girl",
+   0.9
+  ],
+  [
+   "Modest Girl",
+   "Paymaster / Modest Girl",
+   "Orfint Boy / Modest Girl",
+   1.2
+  ],
+  [
+   "Modest Girl",
+   "Orfint Boy / Modest Girl",
+   "Montezuma Express bottom",
+   0.5
+  ],
+  [
+   "Go Devil Lower",
+   "Richter / Go Devil",
+   "packsadle line / Go Devil Lower",
+   2.3
+  ],
+  [
+   "Go Devil Lower",
+   "packsadle line / Go Devil Lower",
+   "Last Hoot / Unnamed run",
+   0.8
+  ],
+  [
+   "Go Devil Lower",
+   "Last Hoot / Unnamed run",
+   "Haywood / Unnamed run",
+   0.5
+  ],
+  [
+   "Bullet",
+   "Starfire 3",
+   "sampler / Bullet",
+   0.5
+  ],
+  [
+   "Bullet",
+   "sampler / Bullet",
+   "bullet glades / Bullet",
+   0.5
+  ],
+  [
+   "Bullet",
+   "bullet glades / Bullet",
+   "Lower Prospector",
+   2.3
+  ],
+  [
+   "Unnamed run",
+   "Wayback top",
+   "Santiago Express top",
+   0.5
+  ],
+  [
+   "Park Lane",
+   "A-51 top",
+   "The Alley",
+   3.0
+  ],
+  [
+   "The Glades",
+   "Starfire",
+   "Black Hawk",
+   3.4
+  ],
+  [
+   "Flying Dutchman",
+   "Bachelor / Flying Dutchman",
+   "Flying Dutchman 4",
+   0.9
+  ],
+  [
+   "Flying Dutchman",
+   "Flying Dutchman 4",
+   "Crosscut / Flying Dutchman",
+   0.5
+  ],
+  [
+   "Flying Dutchman",
+   "Crosscut / Flying Dutchman",
+   "Crosscut / Flying Dutchman 2",
+   0.9
+  ],
+  [
+   "Flying Dutchman",
+   "Crosscut / Flying Dutchman 2",
+   "Jaybird / Flying Dutchman",
+   2.1
+  ],
+  [
+   "Flying Dutchman",
+   "Jaybird / Flying Dutchman",
+   "Beger / Spring Dipper",
+   1.3
+  ],
+  [
+   "Wild Irishman",
+   "Schoolmarm 4",
+   "Frenchman / Wild Irishman",
+   0.5
+  ],
+  [
+   "Wild Irishman",
+   "Frenchman / Wild Irishman",
+   "Paymaster 3",
+   6.3
+  ],
+  [
+   "Pika Glades",
+   "Bighorn",
+   "Lodgepole",
+   3.3
+  ],
+  [
+   "Gassy Thompson",
+   "Last Chance 2",
+   "Schoolmarm 5",
+   1.3
+  ],
+  [
+   "Mozart",
+   "Summit Express top",
+   "Outpost Gondola top",
+   0.5
+  ],
+  [
+   "Mozart",
+   "Outpost Gondola top",
+   "Ambush",
+   5.4
+  ],
+  [
+   "Bobtail",
+   "Jaybird 3",
+   "Orfint Boy / Bobtail",
+   1.1
+  ],
+  [
+   "Bobtail",
+   "Orfint Boy / Bobtail",
+   "Jaybird 4",
+   0.5
+  ],
+  [
+   "Ina's Way",
+   "Schoolmarm 3",
+   "Unnamed run / River Run",
+   2.0
+  ],
+  [
+   "Ina's Way",
+   "Unnamed run / River Run",
+   "Summit Express bottom",
+   0.5
+  ],
+  [
+   "Timberwolf",
+   "Bushwhacker",
+   "Coyote Caper 2",
+   3.0
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Ruby Express top",
+   "Outpost Gondola top",
+   1.2
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Ranger top",
+   0.8
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Montezuma Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Flying Dutchman 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Summit Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Kokomo bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Kokomo top",
+   1.3
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Unnamed lift top 4",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / River Run",
+   "River Run Gondola bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / River Run",
+   "Summit Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "River Run Gondola bottom",
+   "Unnamed run / River Run",
+   1.9
+  ],
+  [
+   "walk",
+   "River Run Gondola bottom",
+   "Summit Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Coyote Caper / Anticipation",
+   "Outback Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Outpost Gondola top",
+   "Ruby Express top",
+   1.2
+  ],
+  [
+   "walk",
+   "Outpost Gondola top",
+   "Ranger top",
+   2.0
+  ],
+  [
+   "walk",
+   "Outpost Gondola top",
+   "Montezuma Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Outpost Gondola top",
+   "Flying Dutchman 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Outpost Gondola top",
+   "Summit Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Outpost Gondola top",
+   "Kokomo top",
+   2.4
+  ],
+  [
+   "walk",
+   "Outpost Gondola top",
+   "Unnamed lift bottom 5",
+   3.3
+  ],
+  [
+   "walk",
+   "Outpost Gondola top",
+   "Unnamed lift top 4",
+   1.6
+  ],
+  [
+   "walk",
+   "A-51 top",
+   "Peru Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "A-51 top",
+   "Acapulco Road",
+   2.3
+  ],
+  [
+   "walk",
+   "Last Hoot / Unnamed run",
+   "Discovery bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Last Hoot / Unnamed run",
+   "Peru Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Last Hoot / Unnamed run",
+   "Unnamed lift bottom 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Last Hoot / Unnamed run",
+   "Unnamed lift top 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Wildcat / The Willows",
+   "Outback Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Torrey's / Wichita",
+   "Bergman Express top",
+   2.3
+  ],
+  [
+   "walk",
+   "Whipsaw / Missouri",
+   "Unnamed lift bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Whipsaw / Missouri",
+   "Unnamed lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "Whipsaw / Missouri",
+   "Unnamed lift bottom 2",
+   2.4
+  ],
+  [
+   "walk",
+   "The Trap / Unnamed run",
+   "Outback Express top",
+   3.2
+  ],
+  [
+   "walk",
+   "Anticipation / Ten Mile",
+   "Outpost Gondola bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Outback Express bottom",
+   "Wildcat / The Willows",
+   1.0
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "The Trap / Unnamed run",
+   3.2
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Elk Run",
+   3.1
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Unnamed run 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Unnamed run 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Outpost Gondola bottom",
+   "Anticipation / Ten Mile",
+   1.2
+  ],
+  [
+   "walk",
+   "Outpost Gondola bottom",
+   "Prospector",
+   2.4
+  ],
+  [
+   "walk",
+   "Outpost Gondola bottom",
+   "Quandary 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Ruby Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Outpost Gondola top",
+   2.0
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Montezuma Express top",
+   1.2
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Flying Dutchman 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Summit Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Kokomo bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Kokomo top",
+   0.6
+  ],
+  [
+   "walk",
+   "Bergman Express bottom",
+   "Ute / Buffalo",
+   1.8
+  ],
+  [
+   "walk",
+   "Bergman Express bottom",
+   "Quandary",
+   0.9
+  ],
+  [
+   "walk",
+   "Santiago Express top",
+   "Starfire",
+   1.4
+  ],
+  [
+   "walk",
+   "Santiago Express top",
+   "Prospector / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Santiago Express top",
+   "Starfire 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Santiago Express top",
+   "Wayback top",
+   1.2
+  ],
+  [
+   "walk",
+   "Santiago Express top",
+   "Cat Dancer 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Peru Express top",
+   "A-51 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Peru Express top",
+   "Acapulco Road",
+   1.8
+  ],
+  [
+   "walk",
+   "Cat Dancer / Starfire",
+   "Ruby Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Cat Dancer / Starfire",
+   "Santiago Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Last Hoot",
+   "Discovery bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Last Hoot",
+   "Peru Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Last Hoot",
+   "Discovery top",
+   3.4
+  ],
+  [
+   "walk",
+   "Last Hoot",
+   "Unnamed lift bottom 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Last Hoot",
+   "Unnamed lift top 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Diamond Back / Scout",
+   "Ranger bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Diamond Back / Lower Prospector",
+   "Ruby Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Diamond Back / Lower Prospector",
+   "Santiago Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Whipsaw",
+   "Unnamed lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Whipsaw",
+   "Unnamed lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "Whipsaw",
+   "Unnamed lift bottom 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Haywood / Unnamed run",
+   "Peru Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "packsadle line / Go Devil Lower",
+   "Discovery bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "packsadle line / Go Devil Lower",
+   "Peru Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "packsadle line / Go Devil Lower",
+   "Discovery top",
+   1.6
+  ],
+  [
+   "walk",
+   "packsadle line / Go Devil Lower",
+   "Unnamed lift bottom 3",
+   1.7
+  ],
+  [
+   "walk",
+   "packsadle line / Go Devil Lower",
+   "Unnamed lift top 2",
+   1.3
+  ],
+  [
+   "walk",
+   "packsadle line / Go Devil Lower",
+   "Unnamed lift bottom 4",
+   2.8
+  ],
+  [
+   "walk",
+   "packsadle line / Go Devil Lower",
+   "Unnamed lift top 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Ute / Buffalo",
+   "Bergman Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Montezuma Express top",
+   "Ruby Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Montezuma Express top",
+   "Outpost Gondola top",
+   1.4
+  ],
+  [
+   "walk",
+   "Montezuma Express top",
+   "Ranger top",
+   1.2
+  ],
+  [
+   "walk",
+   "Montezuma Express top",
+   "Flying Dutchman 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Montezuma Express top",
+   "Summit Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Montezuma Express top",
+   "Kokomo bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Montezuma Express top",
+   "Kokomo top",
+   1.9
+  ],
+  [
+   "walk",
+   "Montezuma Express top",
+   "Unnamed lift top 4",
+   2.7
+  ],
+  [
+   "walk",
+   "Acapulco Road",
+   "Peru Express top",
+   1.8
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "Montezuma Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "Unnamed lift bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "Unnamed lift top",
+   3.4
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "Unnamed lift bottom 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Nuchu / Silver Heels",
+   "Bergman Express top",
+   2.1
+  ],
+  [
+   "walk",
+   "Schoolmarm 2",
+   "Peru Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Jaybird",
+   "Montezuma Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Montezuma Express bottom",
+   "Unnamed run / Jaybird",
+   0.9
+  ],
+  [
+   "walk",
+   "Montezuma Express bottom",
+   "Orfint Boy / Modest Girl",
+   1.1
+  ],
+  [
+   "walk",
+   "Montezuma Express bottom",
+   "Orfint Boy / Bobtail",
+   2.4
+  ],
+  [
+   "walk",
+   "Montezuma Express bottom",
+   "Jaybird 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Prospector / Unnamed run",
+   "Outpost Gondola bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Prospector / Unnamed run",
+   "Santiago Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Prospector / Unnamed run",
+   "Wayback top",
+   1.7
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "Montezuma Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "Unnamed lift bottom 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Ranger bottom",
+   "Diamond Back / Scout",
+   0.8
+  ],
+  [
+   "walk",
+   "Ranger bottom",
+   "Scout",
+   0.7
+  ],
+  [
+   "walk",
+   "Ranger bottom",
+   "Diamond Back",
+   2.1
+  ],
+  [
+   "walk",
+   "Scout",
+   "Ranger bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Starfire 2",
+   "Santiago Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Starfire 2",
+   "Wayback top",
+   2.0
+  ],
+  [
+   "walk",
+   "Bergman Express top",
+   "Torrey's / Wichita",
+   2.3
+  ],
+  [
+   "walk",
+   "Bergman Express top",
+   "Nuchu / Silver Heels",
+   2.1
+  ],
+  [
+   "walk",
+   "Bergman Express top",
+   "Wichita",
+   3.2
+  ],
+  [
+   "walk",
+   "Flying Dutchman 2",
+   "Ruby Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Flying Dutchman 2",
+   "Outpost Gondola top",
+   1.3
+  ],
+  [
+   "walk",
+   "Flying Dutchman 2",
+   "Ranger top",
+   2.1
+  ],
+  [
+   "walk",
+   "Flying Dutchman 2",
+   "Montezuma Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Flying Dutchman 2",
+   "Summit Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Flying Dutchman 2",
+   "Kokomo top",
+   2.7
+  ],
+  [
+   "walk",
+   "Flying Dutchman 2",
+   "Unnamed lift top 4",
+   2.2
+  ],
+  [
+   "walk",
+   "Wayback top",
+   "Santiago Express top",
+   1.2
+  ],
+  [
+   "walk",
+   "Wayback top",
+   "Starfire",
+   2.5
+  ],
+  [
+   "walk",
+   "Wayback top",
+   "Prospector / Unnamed run",
+   1.7
+  ],
+  [
+   "walk",
+   "Wayback top",
+   "Starfire 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Wayback top",
+   "Cat Dancer 3",
+   1.1
+  ],
+  [
+   "walk",
+   "Diamond Back",
+   "Ranger bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Ruby Express bottom",
+   "Cat Dancer / Starfire",
+   0.6
+  ],
+  [
+   "walk",
+   "Ruby Express bottom",
+   "Santiago Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Spring Dipper 2",
+   "Unnamed lift top",
+   3.2
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Last Hoot / Unnamed run",
+   2.7
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Peru Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Unnamed lift bottom 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Unnamed lift top 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Unnamed lift bottom 4",
+   1.3
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Unnamed lift top 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Orfint Boy / Modest Girl",
+   "Montezuma Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Spring Dipper 3",
+   "Unnamed lift bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Spring Dipper 3",
+   "Unnamed lift top",
+   2.7
+  ],
+  [
+   "walk",
+   "Spring Dipper 3",
+   "Unnamed lift bottom 2",
+   1.6
+  ],
+  [
+   "walk",
+   "The Alley",
+   "A-51 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Santiago Express bottom",
+   "Cat Dancer / Starfire",
+   0.9
+  ],
+  [
+   "walk",
+   "Santiago Express bottom",
+   "Ruby Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "River Run 2",
+   "Summit Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Quandary",
+   "Bergman Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Summit Express top",
+   "Ruby Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Summit Express top",
+   "Outpost Gondola top",
+   0.8
+  ],
+  [
+   "walk",
+   "Summit Express top",
+   "Ranger top",
+   1.6
+  ],
+  [
+   "walk",
+   "Summit Express top",
+   "Montezuma Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Summit Express top",
+   "Flying Dutchman 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Summit Express top",
+   "Kokomo bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Summit Express top",
+   "Kokomo top",
+   2.2
+  ],
+  [
+   "walk",
+   "Summit Express top",
+   "Unnamed lift top 4",
+   2.1
+  ],
+  [
+   "walk",
+   "Peru Express bottom",
+   "Last Hoot / Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "Peru Express bottom",
+   "Haywood / Unnamed run",
+   0.8
+  ],
+  [
+   "walk",
+   "Peru Express bottom",
+   "Schoolmarm 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Peru Express bottom",
+   "Discovery bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Peru Express bottom",
+   "Unnamed lift bottom 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Outback Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Last Hoot",
+   3.4
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "packsadle line / Go Devil Lower",
+   1.6
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Discovery bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Unnamed lift bottom 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Unnamed lift top 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Unnamed lift bottom 4",
+   2.5
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Unnamed lift top 3",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Outback Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "Montezuma Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "Unnamed lift bottom 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Summit Express bottom",
+   "Unnamed run / River Run",
+   0.6
+  ],
+  [
+   "walk",
+   "Summit Express bottom",
+   "River Run Gondola bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Whipsaw / Missouri",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Whipsaw",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Beger / Spring Dipper",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Spring Dipper 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift bottom 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Whipsaw / Missouri",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Whipsaw",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Beger / Spring Dipper",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Spring Dipper 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Whipsaw / Missouri",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "River Run / Missouri",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Whipsaw",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Beger / Spring Dipper",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Spring Dipper / Jaybird",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Spring Dipper 3",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Jaybird 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Last Hoot / Unnamed run",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Discovery bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Peru Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Unnamed lift top 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Unnamed lift bottom 4",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Unnamed lift top 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Last Hoot / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Discovery bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 4",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift top 3",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Discovery bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Unnamed lift bottom 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Unnamed lift top 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Unnamed lift top 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top 3",
+   "Discovery bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top 3",
+   "Unnamed lift bottom 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top 3",
+   "Unnamed lift top 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top 3",
+   "Unnamed lift bottom 4",
+   1.0
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Ranger top",
+   1.7
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Scout",
+   3.5
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Schoolmarm 4",
+   2.9
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Kokomo top",
+   1.1
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Ruby Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Outpost Gondola top",
+   2.4
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Ranger top",
+   0.6
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Montezuma Express top",
+   1.9
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Flying Dutchman 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Summit Express top",
+   2.2
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Kokomo bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Ruby Express top",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Outpost Gondola top",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Montezuma Express top",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Flying Dutchman 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Summit Express top",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Unnamed lift bottom 5",
+   1.7
+  ],
+  [
+   "walk",
+   "Outpost Gondola top",
+   "Kokomo bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Unnamed lift top 4",
+   3.5
+  ],
+  [
+   "walk",
+   "Flying Dutchman 2",
+   "Kokomo bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Unnamed lift top 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Ranger top",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Kokomo bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed lift top 4",
+   "Kokomo top",
+   4.0
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Unnamed lift bottom 5",
+   4.5
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Unnamed lift bottom 5",
+   5.2
+  ],
+  [
+   "walk",
+   "Montezuma Express top",
+   "Unnamed lift bottom 5",
+   4.4
+  ],
+  [
+   "walk",
+   "Flying Dutchman 2",
+   "Unnamed lift bottom 5",
+   3.9
+  ],
+  [
+   "walk",
+   "Summit Express top",
+   "Unnamed lift bottom 5",
+   3.8
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Unnamed lift bottom 5",
+   5.7
+  ],
+  [
+   "walk",
+   "Peru Express bottom",
+   "Unnamed lift top 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Peru Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Coyote Caper / Anticipation",
+   "Wildcat / The Willows",
+   4.2
+  ],
+  [
+   "walk",
+   "The Trap / Unnamed run",
+   "Elk Run",
+   6.3
+  ],
+  [
+   "walk",
+   "The Trap / Unnamed run",
+   "Unnamed run 2",
+   3.8
+  ],
+  [
+   "walk",
+   "The Trap / Unnamed run",
+   "Unnamed run 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "The Trap / Unnamed run",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Elk Run",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed run 3",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "The Trap / Unnamed run",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Elk Run",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Unnamed run 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Anticipation / Ten Mile",
+   "Prospector",
+   3.6
+  ],
+  [
+   "walk",
+   "Anticipation / Ten Mile",
+   "Quandary 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Prospector / Unnamed run",
+   "Anticipation / Ten Mile",
+   4.0
+  ],
+  [
+   "walk",
+   "Prospector / Unnamed run",
+   "Prospector",
+   5.2
+  ],
+  [
+   "walk",
+   "Prospector / Unnamed run",
+   "Quandary 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Ruby Express top",
+   2.4
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Outpost Gondola top",
+   3.6
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Montezuma Express top",
+   2.9
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Flying Dutchman 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Summit Express top",
+   3.3
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Unnamed lift top 4",
+   5.1
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Unnamed lift bottom 5",
+   6.8
+  ],
+  [
+   "walk",
+   "Ute / Buffalo",
+   "Quandary",
+   2.7
+  ],
+  [
+   "walk",
+   "Quandary",
+   "Ute / Buffalo",
+   2.7
+  ],
+  [
+   "walk",
+   "Prospector / Unnamed run",
+   "Starfire",
+   3.1
+  ],
+  [
+   "walk",
+   "Prospector / Unnamed run",
+   "Starfire 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Prospector / Unnamed run",
+   "Cat Dancer 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Starfire 2",
+   "Starfire",
+   2.2
+  ],
+  [
+   "walk",
+   "Starfire 2",
+   "Prospector / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Starfire 2",
+   "Cat Dancer 3",
+   2.5
+  ],
+  [
+   "walk",
+   "Acapulco Road",
+   "A-51 top",
+   2.4
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Peru Express bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Montezuma Express bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Montezuma Express bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Montezuma Express bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "Unnamed run / Jaybird",
+   4.3
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "Orfint Boy / Modest Girl",
+   4.5
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "Orfint Boy / Bobtail",
+   5.8
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "Jaybird 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Jaybird",
+   "Orfint Boy / Modest Girl",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Jaybird",
+   "Orfint Boy / Bobtail",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Jaybird",
+   "Jaybird 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "Unnamed run / Jaybird",
+   3.5
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "Orfint Boy / Modest Girl",
+   3.7
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "Orfint Boy / Bobtail",
+   5.0
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "Jaybird 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Orfint Boy / Modest Girl",
+   "Unnamed run / Jaybird",
+   2.1
+  ],
+  [
+   "walk",
+   "Orfint Boy / Modest Girl",
+   "Orfint Boy / Bobtail",
+   3.5
+  ],
+  [
+   "walk",
+   "Orfint Boy / Modest Girl",
+   "Jaybird 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "Unnamed run / Jaybird",
+   3.0
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "Orfint Boy / Modest Girl",
+   3.1
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "Orfint Boy / Bobtail",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed run / Jaybird",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Orfint Boy / Modest Girl",
+   6.2
+  ],
+  [
+   "walk",
+   "Santiago Express top",
+   "Outpost Gondola bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Santiago Express top",
+   "Anticipation / Ten Mile",
+   5.6
+  ],
+  [
+   "walk",
+   "Santiago Express top",
+   "Prospector",
+   6.9
+  ],
+  [
+   "walk",
+   "Wayback top",
+   "Outpost Gondola bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Wayback top",
+   "Anticipation / Ten Mile",
+   5.7
+  ],
+  [
+   "walk",
+   "Wayback top",
+   "Prospector",
+   6.9
+  ],
+  [
+   "walk",
+   "Starfire 2",
+   "Outpost Gondola bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Starfire 2",
+   "Anticipation / Ten Mile",
+   6.4
+  ],
+  [
+   "walk",
+   "Diamond Back / Scout",
+   "Scout",
+   1.5
+  ],
+  [
+   "walk",
+   "Diamond Back / Scout",
+   "Diamond Back",
+   2.9
+  ],
+  [
+   "walk",
+   "Scout",
+   "Diamond Back / Scout",
+   1.5
+  ],
+  [
+   "walk",
+   "Scout",
+   "Diamond Back",
+   2.8
+  ],
+  [
+   "walk",
+   "Diamond Back",
+   "Diamond Back / Scout",
+   2.9
+  ],
+  [
+   "walk",
+   "Diamond Back",
+   "Scout",
+   2.8
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Ranger bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Diamond Back / Scout",
+   4.9
+  ],
+  [
+   "walk",
+   "Kokomo bottom",
+   "Diamond Back",
+   6.3
+  ],
+  [
+   "walk",
+   "Torrey's / Wichita",
+   "Nuchu / Silver Heels",
+   4.3
+  ],
+  [
+   "walk",
+   "Torrey's / Wichita",
+   "Wichita",
+   5.5
+  ],
+  [
+   "walk",
+   "Nuchu / Silver Heels",
+   "Torrey's / Wichita",
+   4.3
+  ],
+  [
+   "walk",
+   "Nuchu / Silver Heels",
+   "Wichita",
+   5.3
+  ],
+  [
+   "walk",
+   "Diamond Back / Lower Prospector",
+   "Cat Dancer / Starfire",
+   2.6
+  ],
+  [
+   "walk",
+   "Last Hoot / Unnamed run",
+   "Unnamed lift bottom 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Last Hoot / Unnamed run",
+   "Unnamed lift top 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Last Hoot",
+   "Last Hoot / Unnamed run",
+   2.0
+  ],
+  [
+   "walk",
+   "Last Hoot",
+   "Unnamed lift bottom 4",
+   3.9
+  ],
+  [
+   "walk",
+   "Last Hoot",
+   "Unnamed lift top 3",
+   4.0
+  ],
+  [
+   "walk",
+   "packsadle line / Go Devil Lower",
+   "Last Hoot / Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Peru Express bottom",
+   "Unnamed lift bottom 4",
+   4.6
+  ],
+  [
+   "walk",
+   "Peru Express bottom",
+   "Unnamed lift top 3",
+   4.9
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Last Hoot / Unnamed run",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Last Hoot / Unnamed run",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Peru Express bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 3",
+   "Last Hoot / Unnamed run",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top 3",
+   "Peru Express bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Last Hoot / Unnamed run",
+   "Haywood / Unnamed run",
+   1.4
+  ],
+  [
+   "walk",
+   "Last Hoot / Unnamed run",
+   "Schoolmarm 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Last Hoot",
+   "Haywood / Unnamed run",
+   2.1
+  ],
+  [
+   "walk",
+   "Last Hoot",
+   "Schoolmarm 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Haywood / Unnamed run",
+   "Last Hoot / Unnamed run",
+   1.4
+  ],
+  [
+   "walk",
+   "Haywood / Unnamed run",
+   "Schoolmarm 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Haywood / Unnamed run",
+   "Discovery bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Haywood / Unnamed run",
+   "Unnamed lift bottom 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Haywood / Unnamed run",
+   "Unnamed lift top 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Haywood / Unnamed run",
+   "Unnamed lift bottom 4",
+   5.4
+  ],
+  [
+   "walk",
+   "Haywood / Unnamed run",
+   "Unnamed lift top 3",
+   5.7
+  ],
+  [
+   "walk",
+   "packsadle line / Go Devil Lower",
+   "Haywood / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "packsadle line / Go Devil Lower",
+   "Schoolmarm 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Schoolmarm 2",
+   "Last Hoot / Unnamed run",
+   2.9
+  ],
+  [
+   "walk",
+   "Schoolmarm 2",
+   "Haywood / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Schoolmarm 2",
+   "Discovery bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Schoolmarm 2",
+   "Unnamed lift bottom 3",
+   5.4
+  ],
+  [
+   "walk",
+   "Schoolmarm 2",
+   "Unnamed lift top 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Schoolmarm 2",
+   "Unnamed lift bottom 4",
+   6.9
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Haywood / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Discovery bottom",
+   "Schoolmarm 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Haywood / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Schoolmarm 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Haywood / Unnamed run",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Schoolmarm 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Haywood / Unnamed run",
+   5.4
+  ],
+  [
+   "walk",
+   "Discovery top",
+   "Schoolmarm 2",
+   6.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Haywood / Unnamed run",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 4",
+   "Schoolmarm 2",
+   6.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top 3",
+   "Haywood / Unnamed run",
+   5.7
+  ],
+  [
+   "walk",
+   "Last Hoot",
+   "packsadle line / Go Devil Lower",
+   5.0
+  ],
+  [
+   "walk",
+   "packsadle line / Go Devil Lower",
+   "Last Hoot",
+   5.0
+  ],
+  [
+   "walk",
+   "Montezuma Express bottom",
+   "Unnamed lift bottom 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Jaybird",
+   "Unnamed lift bottom 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Orfint Boy / Modest Girl",
+   "Unnamed lift bottom 2",
+   6.2
+  ],
+  [
+   "walk",
+   "River Run 2",
+   "Unnamed run / River Run",
+   3.8
+  ],
+  [
+   "walk",
+   "River Run 2",
+   "River Run Gondola bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Whipsaw / Missouri",
+   "Whipsaw",
+   2.9
+  ],
+  [
+   "walk",
+   "Whipsaw / Missouri",
+   "Beger / Spring Dipper",
+   4.4
+  ],
+  [
+   "walk",
+   "Whipsaw / Missouri",
+   "Spring Dipper 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Whipsaw",
+   "Whipsaw / Missouri",
+   2.9
+  ],
+  [
+   "walk",
+   "Whipsaw",
+   "Beger / Spring Dipper",
+   4.3
+  ],
+  [
+   "walk",
+   "Whipsaw",
+   "Spring Dipper 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "Whipsaw / Missouri",
+   4.4
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "Whipsaw",
+   4.3
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "Spring Dipper 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Spring Dipper 3",
+   "Whipsaw / Missouri",
+   4.0
+  ],
+  [
+   "walk",
+   "Spring Dipper 3",
+   "Whipsaw",
+   3.8
+  ],
+  [
+   "walk",
+   "Spring Dipper 3",
+   "Beger / Spring Dipper",
+   3.6
+  ],
+  [
+   "walk",
+   "Spring Dipper 2",
+   "Whipsaw / Missouri",
+   4.9
+  ],
+  [
+   "walk",
+   "Spring Dipper 2",
+   "Whipsaw",
+   4.3
+  ],
+  [
+   "walk",
+   "Spring Dipper 2",
+   "Beger / Spring Dipper",
+   6.6
+  ],
+  [
+   "walk",
+   "Spring Dipper 2",
+   "Spring Dipper 3",
+   5.9
+  ],
+  [
+   "walk",
+   "Spring Dipper 2",
+   "Unnamed lift bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Spring Dipper 2",
+   "Unnamed lift bottom 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Whipsaw / Missouri",
+   "River Run / Missouri",
+   5.8
+  ],
+  [
+   "walk",
+   "Whipsaw / Missouri",
+   "Spring Dipper / Jaybird",
+   5.1
+  ],
+  [
+   "walk",
+   "Whipsaw / Missouri",
+   "Jaybird 3",
+   5.5
+  ],
+  [
+   "walk",
+   "Whipsaw",
+   "River Run / Missouri",
+   5.9
+  ],
+  [
+   "walk",
+   "Whipsaw",
+   "Spring Dipper / Jaybird",
+   5.2
+  ],
+  [
+   "walk",
+   "Whipsaw",
+   "Jaybird 3",
+   5.6
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "River Run / Missouri",
+   5.3
+  ],
+  [
+   "walk",
+   "Beger / Spring Dipper",
+   "Spring Dipper / Jaybird",
+   4.6
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "Whipsaw / Missouri",
+   5.1
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "River Run / Missouri",
+   6.0
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "Whipsaw",
+   5.2
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "Beger / Spring Dipper",
+   4.6
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "Spring Dipper 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "Unnamed lift bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Spring Dipper / Jaybird",
+   "Unnamed lift top",
+   4.5
+  ],
+  [
+   "walk",
+   "Spring Dipper 3",
+   "River Run / Missouri",
+   5.0
+  ],
+  [
+   "walk",
+   "Spring Dipper 3",
+   "Spring Dipper / Jaybird",
+   4.3
+  ],
+  [
+   "walk",
+   "Spring Dipper 3",
+   "Jaybird 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Spring Dipper 3",
+   "Montezuma Express bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "Whipsaw / Missouri",
+   5.5
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "River Run / Missouri",
+   6.4
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "Whipsaw",
+   5.6
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "Beger / Spring Dipper",
+   5.0
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "Spring Dipper / Jaybird",
+   5.7
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "Spring Dipper 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "Unnamed lift bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Jaybird 3",
+   "Unnamed lift top",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "River Run / Missouri",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Spring Dipper / Jaybird",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Jaybird 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "River Run / Missouri",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Spring Dipper / Jaybird",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Jaybird 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Montezuma Express bottom",
+   "Spring Dipper 3",
+   6.7
+  ],
+  [
+   "walk",
+   "Montezuma Express bottom",
+   "Unnamed lift bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Scout",
+   5.9
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Schoolmarm 4",
+   5.4
+  ],
+  [
+   "walk",
+   "Ruby Express top",
+   "Ranger bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Scout",
+   5.1
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Schoolmarm 4",
+   4.6
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Ranger bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Ranger top",
+   "Diamond Back / Scout",
+   6.6
+  ],
+  [
+   "walk",
+   "Montezuma Express top",
+   "Scout",
+   6.3
+  ],
+  [
+   "walk",
+   "Montezuma Express top",
+   "Schoolmarm 4",
+   5.8
+  ],
+  [
+   "walk",
+   "Summit Express top",
+   "Scout",
+   6.7
+  ],
+  [
+   "walk",
+   "Summit Express top",
+   "Schoolmarm 4",
+   6.2
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Scout",
+   4.6
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Schoolmarm 4",
+   4.1
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Ranger bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Kokomo top",
+   "Diamond Back / Scout",
+   6.0
+  ],
+  [
+   "walk",
+   "Outpost Gondola top",
+   "Schoolmarm 4",
+   6.5
+  ],
+  [
+   "walk",
+   "Flying Dutchman 2",
+   "Schoolmarm 4",
+   6.6
+  ]
+ ],
+ "base": "Discovery bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "20",
+  "downhill_trails": "154",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": "http://keystoneresort.com/"
+ }
+}

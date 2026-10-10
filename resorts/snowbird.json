@@ -1,0 +1,6661 @@
+{
+ "name": "Snowbird",
+ "source": "OpenSkiMap ski area 3c02f21915683b910d389339bda960dc05e18314",
+ "origin_lonlat": [
+  -111.65309528506322,
+  40.56837579750652
+ ],
+ "nodes": {
+  "High Baldy Traverse / Not Quite Corn": [
+   721,
+   -827,
+   3326.9
+  ],
+  "High Baldy Traverse / Split Rock Gully": [
+   982,
+   -615,
+   3262.2
+  ],
+  "West 2nd Short / Upper Mini Miners' Camp": [
+   -1277,
+   754,
+   2475.8
+  ],
+  "Thunder Tube bottom": [
+   -1298,
+   974,
+   2413.0
+  ],
+  "S.T.H. / Election": [
+   -772,
+   -800,
+   3015.0
+  ],
+  "S.T.H. / Black Forest": [
+   -809,
+   -406,
+   2821.0
+  ],
+  "Tricep / Elbow Proper": [
+   -1054,
+   486,
+   2617.5
+  ],
+  "Tricep / Madam Annie's": [
+   -1128,
+   661,
+   2519.6
+  ],
+  "Chip's Bypass / Mid-Baldy Traverse": [
+   801,
+   -272,
+   3075.9
+  ],
+  "Chip's Bypass / Middle Cirque": [
+   246,
+   -9,
+   2973.2
+  ],
+  "Miner's Road / Middle Emma": [
+   -754,
+   745,
+   2529.0
+  ],
+  "Miner's Road": [
+   -698,
+   1009,
+   2492.2
+  ],
+  "Chamonix Bowl / High Baldy Traverse": [
+   1103,
+   -416,
+   3275.7
+  ],
+  "Chamonix Bowl / Split Rock Gully": [
+   1441,
+   -670,
+   3105.3
+  ],
+  "High Baldy Traverse": [
+   955,
+   -663,
+   3270.1
+  ],
+  "Double Down / Unnamed run": [
+   1235,
+   -1026,
+   3059.3
+  ],
+  "Little Cloud bottom": [
+   -339,
+   -671,
+   2903.1
+  ],
+  "Middle Bassackwards / Lower Bassackwards": [
+   -1011,
+   254,
+   2660.1
+  ],
+  "Sneaky Pete / Upper Big Emma": [
+   -484,
+   215,
+   2745.7
+  ],
+  "Sneaky Pete / Upper Big Emma 2": [
+   -438,
+   365,
+   2670.0
+  ],
+  "Upper Mini Miners' Camp / West 2nd South": [
+   -1264,
+   708,
+   2481.2
+  ],
+  "Primrose Split / Chip's Run": [
+   501,
+   29,
+   2982.3
+  ],
+  "Primrose Split / Upper Silver Fox": [
+   336,
+   244,
+   2918.0
+  ],
+  "Lazy Susan / Easy Street": [
+   -1424,
+   464,
+   2555.1
+  ],
+  "Lazy Susan / West 2nd South Long": [
+   -1431,
+   700,
+   2468.7
+  ],
+  "Middle Chip's Run / Chip's Run": [
+   478,
+   279,
+   2900.1
+  ],
+  "Middle Chip's Run / Jack Dog": [
+   494,
+   810,
+   2757.0
+  ],
+  "Baby Thunder top": [
+   -1484,
+   467,
+   2558.8
+  ],
+  "Tiny Tiger / Lower Mini Miners' Camp": [
+   -1718,
+   922,
+   2377.2
+  ],
+  "Mid-Baldy Traverse / Fields of Glory": [
+   810,
+   265,
+   3040.8
+  ],
+  "Upper Mini Miners' Camp": [
+   -1342,
+   916,
+   2430.3
+  ],
+  "Baby Thunder bottom": [
+   -1746,
+   957,
+   2365.2
+  ],
+  "Lower Chip's / Phone 3 Road": [
+   120,
+   1171,
+   2615.6
+  ],
+  "Lower Chip's / Adager": [
+   -168,
+   1339,
+   2486.6
+  ],
+  "Lower Mini Miners' Camp": [
+   -1400,
+   923,
+   2422.5
+  ],
+  "Thunder Junction / Creek Road": [
+   -1562,
+   982,
+   2393.6
+  ],
+  "Bassanova / Lupine Loop": [
+   1679,
+   -827,
+   3066.8
+  ],
+  "Mineral Basin bottom": [
+   1586,
+   -1246,
+   2904.2
+  ],
+  "Middle Cirque / Restaurant Roll": [
+   94,
+   -216,
+   3116.8
+  ],
+  "Chip's Run / Upper Chip's Run": [
+   840,
+   -547,
+   3182.4
+  ],
+  "Mineral Basin top": [
+   644,
+   -889,
+   3334.5
+  ],
+  "Path To Paradise / Path to Paradise": [
+   456,
+   -1565,
+   3229.4
+  ],
+  "Baldy top": [
+   1747,
+   -143,
+   3210.8
+  ],
+  "Bird's Nest / Lupine Loop": [
+   1760,
+   -780,
+   3058.9
+  ],
+  "White Rabbit / Defiance Ledge": [
+   -1600,
+   124,
+   2768.0
+  ],
+  "White Rabbit / Thunder Alley": [
+   -1620,
+   531,
+   2518.2
+  ],
+  "Wilbere Bowl / Cirque Traverse": [
+   117,
+   242,
+   3022.1
+  ],
+  "Wilbere Bowl / Upper Big Emma": [
+   -378,
+   326,
+   2694.6
+  ],
+  "Unnamed run / Lupine Loop": [
+   1320,
+   -727,
+   3118.4
+  ],
+  "Unnamed run / Split Rock Gully": [
+   1547,
+   -780,
+   3085.5
+  ],
+  "Bass Benches / Knucklehead Traverse": [
+   -383,
+   -1235,
+   3050.4
+  ],
+  "Bass Benches / Upper Bassackwards": [
+   -376,
+   -925,
+   2929.1
+  ],
+  "Regulator Johnson / Upper Primrose Path": [
+   585,
+   -671,
+   3303.3
+  ],
+  "Regulator Johnson / Unnamed run": [
+   496,
+   -646,
+   3264.5
+  ],
+  "Bird's Nest": [
+   1949,
+   -361,
+   3163.3
+  ],
+  "Path To Paradise": [
+   568,
+   -1437,
+   3252.6
+  ],
+  "White Diamonds": [
+   715,
+   -1641,
+   3141.6
+  ],
+  "Unnamed run / Lautrenoe": [
+   -194,
+   -583,
+   2942.7
+  ],
+  "Bassanova": [
+   1668,
+   -1036,
+   2985.5
+  ],
+  "Bird's Nest 2": [
+   1815,
+   -185,
+   3208.0
+  ],
+  "Bird's Nest 3": [
+   1776,
+   -653,
+   3075.8
+  ],
+  "Unnamed run / Gad 2 Return": [
+   -1157,
+   288,
+   2681.7
+  ],
+  "Unnamed run / Elbow Proper": [
+   -1060,
+   438,
+   2635.0
+  ],
+  "Middle Bassackwards": [
+   -403,
+   -545,
+   2897.6
+  ],
+  "Black Forest / Bananas": [
+   -792,
+   -168,
+   2750.1
+  ],
+  "Gad 2 top": [
+   -826,
+   -908,
+   3038.5
+  ],
+  "Gadzooks / Bananas": [
+   -1065,
+   -483,
+   2904.4
+  ],
+  "Adager / Rothman Way": [
+   150,
+   935,
+   2721.9
+  ],
+  "Glen's / Cirque Traverse": [
+   64,
+   -4,
+   3084.1
+  ],
+  "Miner's Road 2": [
+   -617,
+   1035,
+   2485.0
+  ],
+  "West 2nd South On-Ramp / Lowest Bassackwards": [
+   -946,
+   800,
+   2490.9
+  ],
+  "West 2nd Short": [
+   -1271,
+   806,
+   2467.0
+  ],
+  "Chip's Bypass": [
+   579,
+   -151,
+   3007.8
+  ],
+  "Middle Bassackwards 2": [
+   -514,
+   33,
+   2786.1
+  ],
+  "Upper Big Emma": [
+   -325,
+   389,
+   2712.9
+  ],
+  "Binx's Bumper / Upper Mach Schnell": [
+   -49,
+   535,
+   2898.6
+  ],
+  "Wilbere top": [
+   -435,
+   740,
+   2640.5
+  ],
+  "Dalton's Draw / Cirque Traverse": [
+   47,
+   434,
+   2960.7
+  ],
+  "Dalton's Draw / Lower Silver Fox": [
+   21,
+   951,
+   2677.1
+  ],
+  "Regulator Gully / Lautrenoe": [
+   -250,
+   -285,
+   2881.3
+  ],
+  "Jack Dog / Lower Primrose Path": [
+   341,
+   577,
+   2793.6
+  ],
+  "High Baldy Traverse 2": [
+   876,
+   -719,
+   3272.5
+  ],
+  "Little Cloud top": [
+   610,
+   -1072,
+   3298.1
+  ],
+  "Bananas / Gadzooks": [
+   -1003,
+   -332,
+   2878.8
+  ],
+  "Middle Bassackwards 3": [
+   -961,
+   38,
+   2710.2
+  ],
+  "Path To Paradise 2": [
+   623,
+   -1295,
+   3271.7
+  ],
+  "Nash Flora Lode / White Diamonds": [
+   1076,
+   -1455,
+   3001.4
+  ],
+  "Upper Silver Fox / Unnamed run": [
+   547,
+   -617,
+   3283.8
+  ],
+  "Unnamed run / Middle Emma": [
+   -671,
+   633,
+   2555.0
+  ],
+  "Unnamed run / Lowest Bassackwards": [
+   -867,
+   723,
+   2513.8
+  ],
+  "Pucker Brush / Cirque Traverse": [
+   275,
+   -523,
+   3200.3
+  ],
+  "Gadzoom top": [
+   -106,
+   -601,
+   2958.8
+  ],
+  "Venus Line / High Baldy Traverse": [
+   981,
+   99,
+   3229.3
+  ],
+  "Chip's Run": [
+   480,
+   221,
+   2911.8
+  ],
+  "Not Quite Corn / Unnamed run": [
+   1184,
+   -1112,
+   3032.3
+  ],
+  "Altar Bowl / Richie's Run 2": [
+   1336,
+   -1569,
+   2927.0
+  ],
+  "Bassanova 2": [
+   1595,
+   -1117,
+   2945.6
+  ],
+  "Baldy bottom": [
+   1441,
+   -1195,
+   2920.7
+  ],
+  "Regulator Johnson": [
+   557,
+   -926,
+   3284.3
+  ],
+  "Mid-Gad Lift top": [
+   -397,
+   59,
+   2805.8
+  ],
+  "Chip's Face / Rothman Way": [
+   356,
+   959,
+   2737.0
+  ],
+  "Chip's Face / Oh My God": [
+   266,
+   1212,
+   2641.0
+  ],
+  "Bookends Traverse / Junior's Powder Paradise": [
+   478,
+   -1679,
+   3218.5
+  ],
+  "Bookends Traverse / The Endoras": [
+   1037,
+   -1963,
+   3177.4
+  ],
+  "Figure 8 Bowl / Defiance Ledge": [
+   -1735,
+   166,
+   2717.8
+  ],
+  "Figure 8 Bowl / Figure 8 Gully": [
+   -1872,
+   389,
+   2538.6
+  ],
+  "Gad Chutes / Cirque Traverse": [
+   194,
+   -415,
+   3161.9
+  ],
+  "Gad Chutes / Lautrenoe": [
+   -228,
+   -337,
+   2899.8
+  ],
+  "Peruvian bottom": [
+   -210,
+   1386,
+   2473.0
+  ],
+  "Upper Big Emma 2": [
+   -321,
+   254,
+   2731.8
+  ],
+  "Upper Big Emma / Middle Emma": [
+   -537,
+   511,
+   2607.0
+  ],
+  "Miner's Road 3": [
+   -751,
+   974,
+   2502.4
+  ],
+  "Wilbere Cutoff / Harper's Ferry": [
+   -775,
+   1214,
+   2432.8
+  ],
+  "Middle Tiger Tail / Upper Tiger Tail": [
+   -1190,
+   -342,
+   2886.4
+  ],
+  "Middle Tiger Tail / Gad 2 Return": [
+   -1228,
+   273,
+   2695.4
+  ],
+  "Miner's Road / Creek Road": [
+   -442,
+   1206,
+   2462.4
+  ],
+  "Center of Gravity / High Baldy Traverse": [
+   956,
+   566,
+   3082.2
+  ],
+  "Middle Chip's Run": [
+   611,
+   622,
+   2845.7
+  ],
+  "Fields of Glory / High Baldy Traverse": [
+   1005,
+   174,
+   3212.1
+  ],
+  "Middle Chip's Run 2": [
+   564,
+   524,
+   2863.5
+  ],
+  "White Diamonds / Junior's Powder Paradise": [
+   666,
+   -1657,
+   3148.3
+  ],
+  "White Diamonds / Junior's Powder Paradise 2": [
+   1233,
+   -1342,
+   2958.6
+  ],
+  "Middle Chip's Run 3": [
+   488,
+   400,
+   2870.8
+  ],
+  "Middle Chip's Run 4": [
+   540,
+   678,
+   2792.2
+  ],
+  "Peruvian top": [
+   891,
+   -596,
+   3206.6
+  ],
+  "Upper Silver Fox": [
+   613,
+   -454,
+   3158.6
+  ],
+  "Chamonix Chutes / High Baldy Traverse": [
+   1201,
+   -215,
+   3324.2
+  ],
+  "Chamonix Bowl": [
+   1394,
+   -632,
+   3112.1
+  ],
+  "Unnamed run": [
+   -860,
+   675,
+   2524.7
+  ],
+  "Mid-Gad Lift bottom": [
+   -1161,
+   1041,
+   2405.3
+  ],
+  "Unnamed run / Exit Gully": [
+   -1493,
+   346,
+   2623.0
+  ],
+  "Unnamed run / Thunder Alley": [
+   -1561,
+   470,
+   2549.9
+  ],
+  "Lupine Loop": [
+   1161,
+   -689,
+   3138.9
+  ],
+  "Upper Big Emma 3": [
+   -495,
+   457,
+   2629.4
+  ],
+  "Bass Highway, Dick Bass Highway": [
+   -472,
+   537,
+   2615.5
+  ],
+  "Route 4 Gully / Rothman Way": [
+   -60,
+   899,
+   2680.8
+  ],
+  "Bass Highway, Dick Bass Highway 2": [
+   -244,
+   1269,
+   2483.1
+  ],
+  "High Ridge 3 / High Baldy Traverse": [
+   1113,
+   -185,
+   3276.1
+  ],
+  "High Ridge 3 / Upper Chip's Run": [
+   898,
+   -298,
+   3120.2
+  ],
+  "Path to Paradise / Path To Paradise": [
+   454,
+   -1645,
+   3222.9
+  ],
+  "Who Cares / Who Dunnit": [
+   444,
+   1629,
+   2605.4
+  ],
+  "Who Cares / Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access": [
+   242,
+   1612,
+   2528.6
+  ],
+  "Lower Chip's": [
+   -64,
+   1364,
+   2520.1
+  ],
+  "High Stakes / Unnamed run": [
+   1163,
+   -1168,
+   3042.1
+  ],
+  "Blackjack Gully / Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access": [
+   172,
+   1467,
+   2519.1
+  ],
+  "High Saddle / Red Lens Line": [
+   -1310,
+   -798,
+   2966.7
+  ],
+  "High Saddle / Defiance Ledge": [
+   -1563,
+   94,
+   2775.7
+  ],
+  "Chickadee Lift top": [
+   -184,
+   1649,
+   2511.6
+  ],
+  "Chickadee Lift bottom": [
+   -243,
+   1424,
+   2468.9
+  ],
+  "Shireen / Road To Provo": [
+   379,
+   -1456,
+   3244.4
+  ],
+  "Shireen / Mark Malu Fork": [
+   206,
+   -1135,
+   3078.8
+  ],
+  "Round the World Traverse / Lower Silver Fox": [
+   127,
+   597,
+   2857.8
+  ],
+  "Binx's Bumper": [
+   -198,
+   598,
+   2789.2
+  ],
+  "Peruvian Tunnel top": [
+   930,
+   -785,
+   3215.9
+  ],
+  "Lupine Loop 2": [
+   901,
+   -857,
+   3211.0
+  ],
+  "Get Serious Chute #3 / Carbonate": [
+   -800,
+   184,
+   2744.3
+  ],
+  "Get Serious Chute #3 / West 2nd South": [
+   -826,
+   471,
+   2560.3
+  ],
+  "Middle Tiger Tail": [
+   -1168,
+   -36,
+   2806.2
+  ],
+  "Upper Mach Schnell / Lower Mach Schnell": [
+   -238,
+   812,
+   2663.4
+  ],
+  "Miner's Road 4": [
+   -787,
+   923,
+   2512.5
+  ],
+  "Cat Crew Cutoff / Creek Road": [
+   -826,
+   1165,
+   2435.2
+  ],
+  "Lower Chip's 2": [
+   7,
+   1354,
+   2526.6
+  ],
+  "Middle Chip's Run 5": [
+   587,
+   566,
+   2857.4
+  ],
+  "Bookends Traverse 2": [
+   949,
+   -1885,
+   3187.8
+  ],
+  "Bookmark Gully / Junior's Powder Paradise": [
+   1062,
+   -1628,
+   3034.0
+  ],
+  "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access / Who Dunnit": [
+   10,
+   1478,
+   2503.7
+  ],
+  "The Keyhole / High Baldy Traverse": [
+   943,
+   913,
+   2990.8
+  ],
+  "Middle Chip's Run 6": [
+   659,
+   747,
+   2818.3
+  ],
+  "Double Down": [
+   1072,
+   -821,
+   3163.9
+  ],
+  "Bassanova 3": [
+   1731,
+   -913,
+   3031.4
+  ],
+  "The Back Door / Blackjack Traverse": [
+   634,
+   978,
+   2765.7
+  ],
+  "Blackjack Gully": [
+   495,
+   1032,
+   2702.2
+  ],
+  "Great Scott / Cirque Traverse": [
+   421,
+   -572,
+   3247.0
+  ],
+  "Come From Behind Gully / Knucklehead Traverse": [
+   -537,
+   -1176,
+   3048.2
+  ],
+  "Upper Bassackwards": [
+   -472,
+   -978,
+   2965.0
+  ],
+  "High Baldy Traverse / Gun Towers": [
+   941,
+   988,
+   2978.8
+  ],
+  "Lupine Loop 3": [
+   1517,
+   -1255,
+   2906.1
+  ],
+  "Lautrenoe": [
+   -271,
+   -182,
+   2854.1
+  ],
+  "Bookends Traverse 3": [
+   502,
+   -1718,
+   3214.0
+  ],
+  "Aerial Tram top": [
+   647,
+   -835,
+   3340.3
+  ],
+  "Jones Avenue / West 2nd South": [
+   -677,
+   432,
+   2585.1
+  ],
+  "Wilma's / Cirque Traverse": [
+   -16,
+   503,
+   2912.7
+  ],
+  "Upper Tiger Tail / Red Lens Line": [
+   -1122,
+   -901,
+   2991.4
+  ],
+  "Middle Bassackwards 4": [
+   -416,
+   -497,
+   2896.2
+  ],
+  "Middle Bassackwards 5": [
+   -467,
+   -104,
+   2795.6
+  ],
+  "Primrose Split": [
+   395,
+   141,
+   2925.0
+  ],
+  "Hoop's / Knucklehead Traverse": [
+   -117,
+   -1414,
+   3167.1
+  ],
+  "Hoop's / Goblin Gully": [
+   -279,
+   -814,
+   2916.2
+  ],
+  "Red Lens Line / Bananas": [
+   -1039,
+   -903,
+   2990.1
+  ],
+  "High Saddle": [
+   -1601,
+   -153,
+   2911.8
+  ],
+  "Sugarloaf Connector": [
+   1972,
+   -157,
+   3208.3
+  ],
+  "Path To Paradise 3": [
+   630,
+   -1167,
+   3285.4
+  ],
+  "High Baldy Traverse 3": [
+   798,
+   -728,
+   3264.4
+  ],
+  "Unnamed run 2": [
+   801,
+   -598,
+   3202.5
+  ],
+  "West 2nd South / Alice Avenue": [
+   -1485,
+   817,
+   2435.2
+  ],
+  "49er Gully": [
+   1321,
+   -857,
+   3078.8
+  ],
+  "Phone 3 Shot / Rothman Way": [
+   396,
+   952,
+   2741.9
+  ],
+  "Blackjack Gully 2": [
+   424,
+   1126,
+   2672.5
+  ],
+  "Gad 2 bottom": [
+   -955,
+   275,
+   2662.1
+  ],
+  "Harper's Ferry East / Creek Road": [
+   -522,
+   1174,
+   2457.7
+  ],
+  "High Saddle 2": [
+   -1390,
+   -281,
+   2933.4
+  ],
+  "Bonar's Pass / Knucklehead Traverse": [
+   -219,
+   -1281,
+   3091.8
+  ],
+  "Upper Bassackwards 2": [
+   -350,
+   -717,
+   2903.0
+  ],
+  "The Keyhole": [
+   886,
+   824,
+   2966.9
+  ],
+  "Keyhole Chute / Blackjack Traverse": [
+   657,
+   944,
+   2779.9
+  ],
+  "Carbonate": [
+   -753,
+   150,
+   2752.6
+  ],
+  "Oh My God": [
+   146,
+   1347,
+   2540.8
+  ],
+  "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access 2": [
+   55,
+   1470,
+   2511.1
+  ],
+  "Goblin Gully / Mark Malu Fork": [
+   -96,
+   -1011,
+   2999.5
+  ],
+  "Knucklehead Traverse / Road To Provo": [
+   185,
+   -1547,
+   3221.2
+  ],
+  "Upper Bassackwards 3": [
+   -624,
+   -1089,
+   3001.6
+  ],
+  "Middle Bassackwards 6": [
+   -910,
+   -7,
+   2725.3
+  ],
+  "Tower / Lower Silver Fox": [
+   263,
+   392,
+   2895.3
+  ],
+  "Blue By You": [
+   1097,
+   -1242,
+   3029.8
+  ],
+  "Bananas, Gadzooks": [
+   -1071,
+   -415,
+   2896.6
+  ],
+  "Mushroom Land": [
+   -1401,
+   71,
+   2757.6
+  ],
+  "Lower Primrose Path": [
+   310,
+   340,
+   2902.1
+  ],
+  "High Baldy Traverse 4": [
+   1021,
+   232,
+   3196.7
+  ],
+  "Bass Highway, Dick Bass Highway 3": [
+   -474,
+   716,
+   2635.5
+  ],
+  "Double Down 2": [
+   995,
+   -813,
+   3193.5
+  ],
+  "Exit Gully": [
+   -1406,
+   -43,
+   2798.5
+  ],
+  "Gun Towers / Blackjack Traverse": [
+   636,
+   1074,
+   2764.0
+  ],
+  "Low Saddle": [
+   -1300,
+   -183,
+   2873.0
+  ],
+  "Middle Tiger Tail 2": [
+   -1184,
+   200,
+   2737.9
+  ],
+  "Upper Mini Miners' Camp 2": [
+   -1319,
+   788,
+   2460.7
+  ],
+  "Tiny Tiger": [
+   -1495,
+   586,
+   2502.0
+  ],
+  "Thunder Alley": [
+   -1760,
+   787,
+   2403.6
+  ],
+  "Phone 3 Road / Rothman Way": [
+   464,
+   837,
+   2754.2
+  ],
+  "Bassanova 4": [
+   1736,
+   -1017,
+   3013.6
+  ],
+  "Ski Patrol Gully": [
+   1772,
+   -1239,
+   2921.9
+  ],
+  "Path to Paradise": [
+   582,
+   -1134,
+   3295.6
+  ],
+  "Easy Street": [
+   -1308,
+   466,
+   2546.6
+  ],
+  "Lower Mini Miners' Camp 2": [
+   -1653,
+   953,
+   2384.3
+  ],
+  "Rothman Way": [
+   303,
+   965,
+   2731.4
+  ],
+  "Cirque Traverse": [
+   105,
+   177,
+   3031.3
+  ],
+  "West 2nd South": [
+   -775,
+   475,
+   2564.2
+  ],
+  "Easy Street 2": [
+   -1210,
+   553,
+   2532.5
+  ],
+  "Fluffy Bunny": [
+   -335,
+   453,
+   2700.4
+  ],
+  "Who Dunnit": [
+   427,
+   1370,
+   2631.8
+  ],
+  "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access 3": [
+   212,
+   1475,
+   2523.6
+  ],
+  "Great Scott": [
+   335,
+   -258,
+   3048.4
+  ],
+  "Path To Paradise 4": [
+   630,
+   -1356,
+   3266.5
+  ],
+  "White Diamonds 2": [
+   853,
+   -1552,
+   3115.0
+  ],
+  "Conveyor #3 bottom": [
+   -1477,
+   977,
+   2407.2
+  ],
+  "Gadzoom bottom": [
+   -1218,
+   1038,
+   2403.7
+  ],
+  "Wilbere bottom": [
+   -1109,
+   1088,
+   2408.9
+  ],
+  "Thunder Tube top": [
+   -1424,
+   968,
+   2410.9
+  ],
+  "Aerial Tram bottom": [
+   -275,
+   1396,
+   2466.8
+  ]
+ },
+ "lifts": [
+  [
+   "Chickadee Lift",
+   "Chickadee Lift bottom",
+   "Chickadee Lift top",
+   6.0
+  ],
+  [
+   "Gadzoom",
+   "Gadzoom bottom",
+   "Gadzoom top",
+   12.0
+  ],
+  [
+   "Wilbere",
+   "Wilbere bottom",
+   "Wilbere top",
+   8.6
+  ],
+  [
+   "Thunder Tube",
+   "Thunder Tube bottom",
+   "Thunder Tube top",
+   6.1
+  ],
+  [
+   "Baldy",
+   "Baldy bottom",
+   "Baldy top",
+   6.8
+  ],
+  [
+   "Peruvian",
+   "Peruvian bottom",
+   "Peruvian top",
+   11.0
+  ],
+  [
+   "Mid-Gad Lift",
+   "Mid-Gad Lift bottom",
+   "Mid-Gad Lift top",
+   12.0
+  ],
+  [
+   "Baby Thunder",
+   "Baby Thunder bottom",
+   "Baby Thunder top",
+   7.0
+  ],
+  [
+   "Aerial Tram",
+   "Aerial Tram bottom",
+   "Aerial Tram top",
+   11.0
+  ],
+  [
+   "Aerial Tram",
+   "Aerial Tram top",
+   "Aerial Tram bottom",
+   11.0
+  ],
+  [
+   "Little Cloud",
+   "Little Cloud bottom",
+   "Little Cloud top",
+   6.5
+  ],
+  [
+   "Peruvian Tunnel",
+   "Peruvian top",
+   "Peruvian Tunnel top",
+   7.0
+  ],
+  [
+   "Gad 2",
+   "Gad 2 bottom",
+   "Gad 2 top",
+   9.0
+  ],
+  [
+   "Mineral Basin",
+   "Mineral Basin bottom",
+   "Mineral Basin top",
+   7.0
+  ]
+ ],
+ "runs": [
+  [
+   "High Baldy Traverse",
+   "High Baldy Traverse / Not Quite Corn",
+   "High Baldy Traverse 3",
+   0.5
+  ],
+  [
+   "High Baldy Traverse",
+   "High Baldy Traverse 3",
+   "High Baldy Traverse 2",
+   0.5
+  ],
+  [
+   "High Baldy Traverse",
+   "High Baldy Traverse 2",
+   "High Baldy Traverse",
+   0.5
+  ],
+  [
+   "High Baldy Traverse",
+   "High Baldy Traverse",
+   "High Baldy Traverse / Split Rock Gully",
+   0.5
+  ],
+  [
+   "West 2nd Short",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   "West 2nd Short",
+   0.5
+  ],
+  [
+   "West 2nd Short",
+   "West 2nd Short",
+   "Thunder Tube bottom",
+   0.6
+  ],
+  [
+   "S.T.H.",
+   "S.T.H. / Election",
+   "S.T.H. / Black Forest",
+   1.8
+  ],
+  [
+   "Tricep",
+   "Tricep / Elbow Proper",
+   "Tricep / Madam Annie's",
+   0.7
+  ],
+  [
+   "Chip's Bypass",
+   "Chip's Bypass / Mid-Baldy Traverse",
+   "Chip's Bypass",
+   1.1
+  ],
+  [
+   "Chip's Bypass",
+   "Chip's Bypass",
+   "Chip's Bypass / Middle Cirque",
+   1.6
+  ],
+  [
+   "Miner's Road",
+   "Miner's Road / Middle Emma",
+   "Miner's Road 4",
+   0.6
+  ],
+  [
+   "Miner's Road",
+   "Miner's Road 4",
+   "Miner's Road 3",
+   0.5
+  ],
+  [
+   "Miner's Road",
+   "Miner's Road 3",
+   "Miner's Road",
+   0.5
+  ],
+  [
+   "Chamonix Bowl",
+   "Chamonix Bowl / High Baldy Traverse",
+   "Chamonix Bowl",
+   1.6
+  ],
+  [
+   "Chamonix Bowl",
+   "Chamonix Bowl",
+   "Chamonix Bowl / Split Rock Gully",
+   0.5
+  ],
+  [
+   "Double Down",
+   "High Baldy Traverse",
+   "Double Down 2",
+   0.7
+  ],
+  [
+   "Double Down",
+   "Double Down 2",
+   "Double Down",
+   0.5
+  ],
+  [
+   "Double Down",
+   "Double Down",
+   "Double Down / Unnamed run",
+   1.2
+  ],
+  [
+   "Middle Bassackwards",
+   "Little Cloud bottom",
+   "Middle Bassackwards",
+   0.5
+  ],
+  [
+   "Middle Bassackwards",
+   "Middle Bassackwards",
+   "Middle Bassackwards 4",
+   0.5
+  ],
+  [
+   "Middle Bassackwards",
+   "Middle Bassackwards 4",
+   "Middle Bassackwards 5",
+   1.6
+  ],
+  [
+   "Middle Bassackwards",
+   "Middle Bassackwards 5",
+   "Middle Bassackwards 2",
+   0.6
+  ],
+  [
+   "Middle Bassackwards",
+   "Middle Bassackwards 2",
+   "Middle Bassackwards 6",
+   1.6
+  ],
+  [
+   "Middle Bassackwards",
+   "Middle Bassackwards 6",
+   "Middle Bassackwards 3",
+   0.5
+  ],
+  [
+   "Middle Bassackwards",
+   "Middle Bassackwards 3",
+   "Middle Bassackwards / Lower Bassackwards",
+   1.1
+  ],
+  [
+   "Sneaky Pete",
+   "Sneaky Pete / Upper Big Emma",
+   "Sneaky Pete / Upper Big Emma 2",
+   0.6
+  ],
+  [
+   "Upper Mini Miners' Camp",
+   "Upper Mini Miners' Camp / West 2nd South",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   0.5
+  ],
+  [
+   "Upper Mini Miners' Camp",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   "Upper Mini Miners' Camp 2",
+   0.5
+  ],
+  [
+   "Upper Mini Miners' Camp",
+   "Upper Mini Miners' Camp 2",
+   "Upper Mini Miners' Camp",
+   0.5
+  ],
+  [
+   "Upper Mini Miners' Camp",
+   "Upper Mini Miners' Camp",
+   "Thunder Tube bottom",
+   0.5
+  ],
+  [
+   "Primrose Split",
+   "Primrose Split / Chip's Run",
+   "Primrose Split",
+   0.6
+  ],
+  [
+   "Primrose Split",
+   "Primrose Split",
+   "Primrose Split / Upper Silver Fox",
+   0.5
+  ],
+  [
+   "Lazy Susan",
+   "Lazy Susan / Easy Street",
+   "Lazy Susan / West 2nd South Long",
+   1.0
+  ],
+  [
+   "Middle Chip's Run",
+   "Middle Chip's Run / Chip's Run",
+   "Middle Chip's Run 3",
+   0.5
+  ],
+  [
+   "Middle Chip's Run",
+   "Middle Chip's Run 3",
+   "Middle Chip's Run 2",
+   0.6
+  ],
+  [
+   "Middle Chip's Run",
+   "Middle Chip's Run 2",
+   "Middle Chip's Run 5",
+   0.5
+  ],
+  [
+   "Middle Chip's Run",
+   "Middle Chip's Run 5",
+   "Middle Chip's Run",
+   0.5
+  ],
+  [
+   "Middle Chip's Run",
+   "Middle Chip's Run",
+   "Middle Chip's Run 6",
+   0.6
+  ],
+  [
+   "Middle Chip's Run",
+   "Middle Chip's Run 6",
+   "Middle Chip's Run 4",
+   0.7
+  ],
+  [
+   "Middle Chip's Run",
+   "Middle Chip's Run 4",
+   "Middle Chip's Run / Jack Dog",
+   0.5
+  ],
+  [
+   "Tiny Tiger",
+   "Baby Thunder top",
+   "Tiny Tiger",
+   0.5
+  ],
+  [
+   "Tiny Tiger",
+   "Tiny Tiger",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   1.8
+  ],
+  [
+   "Mid-Baldy Traverse",
+   "Chip's Bypass / Mid-Baldy Traverse",
+   "Mid-Baldy Traverse / Fields of Glory",
+   2.3
+  ],
+  [
+   "Lower Mini Miners' Camp",
+   "Upper Mini Miners' Camp",
+   "Lower Mini Miners' Camp",
+   0.5
+  ],
+  [
+   "Lower Mini Miners' Camp",
+   "Lower Mini Miners' Camp",
+   "Lower Mini Miners' Camp 2",
+   1.1
+  ],
+  [
+   "Lower Mini Miners' Camp",
+   "Lower Mini Miners' Camp 2",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   0.5
+  ],
+  [
+   "Lower Mini Miners' Camp",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   "Baby Thunder bottom",
+   0.5
+  ],
+  [
+   "Lower Chip's",
+   "Lower Chip's / Phone 3 Road",
+   "Lower Chip's 2",
+   0.9
+  ],
+  [
+   "Lower Chip's",
+   "Lower Chip's 2",
+   "Lower Chip's",
+   0.5
+  ],
+  [
+   "Lower Chip's",
+   "Lower Chip's",
+   "Lower Chip's / Adager",
+   0.5
+  ],
+  [
+   "Thunder Junction",
+   "Lower Mini Miners' Camp",
+   "Thunder Tube top",
+   0.5
+  ],
+  [
+   "Thunder Junction",
+   "Thunder Tube top",
+   "Conveyor #3 bottom",
+   0.5
+  ],
+  [
+   "Thunder Junction",
+   "Conveyor #3 bottom",
+   "Thunder Junction / Creek Road",
+   0.5
+  ],
+  [
+   "Bassanova",
+   "Bassanova / Lupine Loop",
+   "Bassanova 3",
+   0.5
+  ],
+  [
+   "Bassanova",
+   "Bassanova 3",
+   "Bassanova 4",
+   0.5
+  ],
+  [
+   "Bassanova",
+   "Bassanova 4",
+   "Bassanova",
+   0.5
+  ],
+  [
+   "Bassanova",
+   "Bassanova",
+   "Bassanova 2",
+   0.5
+  ],
+  [
+   "Bassanova",
+   "Bassanova 2",
+   "Mineral Basin bottom",
+   0.7
+  ],
+  [
+   "Middle Cirque",
+   "Middle Cirque / Restaurant Roll",
+   "Chip's Bypass / Middle Cirque",
+   1.1
+  ],
+  [
+   "Chip's Run",
+   "Chip's Run / Upper Chip's Run",
+   "Chip's Bypass / Mid-Baldy Traverse",
+   1.2
+  ],
+  [
+   "Chip's Run",
+   "Chip's Bypass / Mid-Baldy Traverse",
+   "Chip's Bypass",
+   1.1
+  ],
+  [
+   "Chip's Run",
+   "Chip's Bypass",
+   "Primrose Split / Chip's Run",
+   0.7
+  ],
+  [
+   "Chip's Run",
+   "Primrose Split / Chip's Run",
+   "Chip's Run",
+   0.9
+  ],
+  [
+   "Chip's Run",
+   "Chip's Run",
+   "Middle Chip's Run / Chip's Run",
+   0.5
+  ],
+  [
+   "Path To Paradise",
+   "Mineral Basin top",
+   "Little Cloud top",
+   0.6
+  ],
+  [
+   "Path To Paradise",
+   "Little Cloud top",
+   "Path To Paradise 3",
+   0.5
+  ],
+  [
+   "Path To Paradise",
+   "Path To Paradise 3",
+   "Path To Paradise 2",
+   0.6
+  ],
+  [
+   "Path To Paradise",
+   "Path To Paradise 2",
+   "Path To Paradise 4",
+   0.5
+  ],
+  [
+   "Path To Paradise",
+   "Path To Paradise 4",
+   "Path To Paradise",
+   0.5
+  ],
+  [
+   "Path To Paradise",
+   "Path To Paradise",
+   "Path To Paradise / Path to Paradise",
+   0.7
+  ],
+  [
+   "Bird's Nest",
+   "Baldy top",
+   "Bird's Nest 2",
+   0.5
+  ],
+  [
+   "Bird's Nest",
+   "Bird's Nest 2",
+   "Bird's Nest",
+   1.0
+  ],
+  [
+   "Bird's Nest",
+   "Bird's Nest",
+   "Bird's Nest 3",
+   1.6
+  ],
+  [
+   "Bird's Nest",
+   "Bird's Nest 3",
+   "Bird's Nest / Lupine Loop",
+   0.5
+  ],
+  [
+   "White Rabbit",
+   "White Rabbit / Defiance Ledge",
+   "White Rabbit / Thunder Alley",
+   1.9
+  ],
+  [
+   "Wilbere Bowl",
+   "Wilbere Bowl / Cirque Traverse",
+   "Wilbere Bowl / Upper Big Emma",
+   2.4
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Lupine Loop",
+   "Unnamed run / Split Rock Gully",
+   0.9
+  ],
+  [
+   "Bass Benches",
+   "Bass Benches / Knucklehead Traverse",
+   "Bass Benches / Upper Bassackwards",
+   1.4
+  ],
+  [
+   "Regulator Johnson",
+   "Regulator Johnson / Upper Primrose Path",
+   "Regulator Johnson",
+   0.9
+  ],
+  [
+   "Regulator Johnson",
+   "Regulator Johnson",
+   "Regulator Johnson / Unnamed run",
+   1.2
+  ],
+  [
+   "Ski Patrol Gully",
+   "Bird's Nest",
+   "Ski Patrol Gully",
+   5.1
+  ],
+  [
+   "Ski Patrol Gully",
+   "Ski Patrol Gully",
+   "Mineral Basin bottom",
+   0.8
+  ],
+  [
+   "White Diamonds",
+   "Path To Paradise",
+   "White Diamonds",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Lautrenoe",
+   "Little Cloud bottom",
+   0.6
+  ],
+  [
+   "Split Rock Gully",
+   "High Baldy Traverse / Split Rock Gully",
+   "Chamonix Bowl / Split Rock Gully",
+   3.3
+  ],
+  [
+   "Split Rock Gully",
+   "Chamonix Bowl / Split Rock Gully",
+   "Unnamed run / Split Rock Gully",
+   0.5
+  ],
+  [
+   "Split Rock Gully",
+   "Unnamed run / Split Rock Gully",
+   "Bassanova",
+   1.3
+  ],
+  [
+   "Luckey Boy",
+   "Bird's Nest 2",
+   "Bird's Nest 3",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Gad 2 Return",
+   "Unnamed run / Elbow Proper",
+   0.6
+  ],
+  [
+   "Black Forest",
+   "Middle Bassackwards",
+   "S.T.H. / Black Forest",
+   1.7
+  ],
+  [
+   "Black Forest",
+   "S.T.H. / Black Forest",
+   "Black Forest / Bananas",
+   1.1
+  ],
+  [
+   "Gadzooks",
+   "Gad 2 top",
+   "Gadzooks / Bananas",
+   2.0
+  ],
+  [
+   "Adager",
+   "Adager / Rothman Way",
+   "Lower Chip's / Adager",
+   2.3
+  ],
+  [
+   "Glen's",
+   "Glen's / Cirque Traverse",
+   "Chip's Bypass / Middle Cirque",
+   0.7
+  ],
+  [
+   "Miner's Road",
+   "Miner's Road",
+   "Miner's Road 2",
+   0.5
+  ],
+  [
+   "West 2nd South On-Ramp",
+   "West 2nd South On-Ramp / Lowest Bassackwards",
+   "West 2nd Short",
+   1.3
+  ],
+  [
+   "Upper Primrose Path",
+   "Regulator Johnson / Upper Primrose Path",
+   "Chip's Bypass",
+   2.6
+  ],
+  [
+   "Upper Big Emma",
+   "Middle Bassackwards 2",
+   "Sneaky Pete / Upper Big Emma",
+   1.3
+  ],
+  [
+   "Upper Big Emma",
+   "Sneaky Pete / Upper Big Emma",
+   "Upper Big Emma 2",
+   0.7
+  ],
+  [
+   "Upper Big Emma",
+   "Upper Big Emma 2",
+   "Upper Big Emma",
+   0.6
+  ],
+  [
+   "Binx's Bumper",
+   "Binx's Bumper / Upper Mach Schnell",
+   "Binx's Bumper",
+   0.7
+  ],
+  [
+   "Binx's Bumper",
+   "Binx's Bumper",
+   "Wilbere top",
+   1.3
+  ],
+  [
+   "Dalton's Draw",
+   "Dalton's Draw / Cirque Traverse",
+   "Dalton's Draw / Lower Silver Fox",
+   2.4
+  ],
+  [
+   "Regulator Gully",
+   "Regulator Gully / Lautrenoe",
+   "Middle Bassackwards 5",
+   1.1
+  ],
+  [
+   "Regulator Gully",
+   "Middle Bassackwards 5",
+   "Middle Bassackwards 2",
+   0.6
+  ],
+  [
+   "Jack Dog",
+   "Jack Dog / Lower Primrose Path",
+   "Middle Chip's Run / Jack Dog",
+   1.0
+  ],
+  [
+   "Lupine Loop",
+   "High Baldy Traverse 2",
+   "Lupine Loop 2",
+   1.7
+  ],
+  [
+   "Lupine Loop",
+   "Lupine Loop 2",
+   "Double Down 2",
+   0.5
+  ],
+  [
+   "Lupine Loop",
+   "Double Down 2",
+   "Double Down",
+   1.1
+  ],
+  [
+   "Lupine Loop",
+   "Double Down",
+   "Lupine Loop",
+   0.7
+  ],
+  [
+   "Lupine Loop",
+   "Lupine Loop",
+   "Unnamed run / Lupine Loop",
+   0.7
+  ],
+  [
+   "Lupine Loop",
+   "Unnamed run / Lupine Loop",
+   "Chamonix Bowl",
+   0.5
+  ],
+  [
+   "Lupine Loop",
+   "Chamonix Bowl",
+   "Chamonix Bowl / Split Rock Gully",
+   0.5
+  ],
+  [
+   "Lupine Loop",
+   "Chamonix Bowl / Split Rock Gully",
+   "Unnamed run / Split Rock Gully",
+   0.7
+  ],
+  [
+   "Lupine Loop",
+   "Unnamed run / Split Rock Gully",
+   "Bassanova / Lupine Loop",
+   0.6
+  ],
+  [
+   "Lupine Loop",
+   "Bassanova / Lupine Loop",
+   "Bird's Nest / Lupine Loop",
+   0.5
+  ],
+  [
+   "Lupine Loop",
+   "Bird's Nest / Lupine Loop",
+   "Bassanova 3",
+   0.6
+  ],
+  [
+   "Lupine Loop",
+   "Bassanova 3",
+   "Bassanova",
+   0.6
+  ],
+  [
+   "Lupine Loop",
+   "Bassanova",
+   "Baldy bottom",
+   1.7
+  ],
+  [
+   "Lupine Loop",
+   "Baldy bottom",
+   "Lupine Loop 3",
+   0.5
+  ],
+  [
+   "Lupine Loop",
+   "Lupine Loop 3",
+   "Mineral Basin bottom",
+   0.5
+  ],
+  [
+   "Path to Paradise",
+   "Little Cloud top",
+   "Path to Paradise",
+   0.5
+  ],
+  [
+   "Path to Paradise",
+   "Path to Paradise",
+   "Path To Paradise 3",
+   0.5
+  ],
+  [
+   "Path to Paradise",
+   "Path To Paradise 3",
+   "Path To Paradise 2",
+   0.6
+  ],
+  [
+   "Path to Paradise",
+   "Path To Paradise 2",
+   "Path To Paradise 4",
+   0.5
+  ],
+  [
+   "Path to Paradise",
+   "Path To Paradise 4",
+   "Path To Paradise",
+   0.5
+  ],
+  [
+   "Path to Paradise",
+   "Path To Paradise",
+   "Path To Paradise / Path to Paradise",
+   0.7
+  ],
+  [
+   "Bananas",
+   "Bananas / Gadzooks",
+   "Black Forest / Bananas",
+   1.9
+  ],
+  [
+   "Bananas",
+   "Black Forest / Bananas",
+   "Middle Bassackwards 6",
+   0.9
+  ],
+  [
+   "Bananas",
+   "Middle Bassackwards 6",
+   "Middle Bassackwards 3",
+   0.5
+  ],
+  [
+   "Nash Flora Lode",
+   "Path To Paradise 2",
+   "Nash Flora Lode / White Diamonds",
+   2.2
+  ],
+  [
+   "Upper Silver Fox",
+   "Upper Silver Fox / Unnamed run",
+   "Upper Silver Fox",
+   0.8
+  ],
+  [
+   "Upper Silver Fox",
+   "Upper Silver Fox",
+   "Primrose Split",
+   3.4
+  ],
+  [
+   "Upper Silver Fox",
+   "Primrose Split",
+   "Primrose Split / Upper Silver Fox",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Middle Emma",
+   "Unnamed run",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Unnamed run / Lowest Bassackwards",
+   0.5
+  ],
+  [
+   "Pucker Brush",
+   "Pucker Brush / Cirque Traverse",
+   "Gadzoom top",
+   1.8
+  ],
+  [
+   "Venus Line",
+   "Venus Line / High Baldy Traverse",
+   "Chip's Run",
+   2.5
+  ],
+  [
+   "Not Quite Corn",
+   "High Baldy Traverse / Not Quite Corn",
+   "Not Quite Corn / Unnamed run",
+   2.5
+  ],
+  [
+   "Bassanova",
+   "Bassanova 2",
+   "Baldy bottom",
+   0.6
+  ],
+  [
+   "Regulator Johnson",
+   "Little Cloud top",
+   "Regulator Johnson",
+   0.6
+  ],
+  [
+   "Upper Big Emma",
+   "Mid-Gad Lift top",
+   "Middle Bassackwards 2",
+   0.5
+  ],
+  [
+   "Chip's Face",
+   "Chip's Face / Rothman Way",
+   "Chip's Face / Oh My God",
+   1.1
+  ],
+  [
+   "Bookends Traverse",
+   "Bookends Traverse / Junior's Powder Paradise",
+   "Bookends Traverse 3",
+   0.5
+  ],
+  [
+   "Bookends Traverse",
+   "Bookends Traverse 3",
+   "Bookends Traverse 2",
+   2.0
+  ],
+  [
+   "Bookends Traverse",
+   "Bookends Traverse 2",
+   "Bookends Traverse / The Endoras",
+   0.5
+  ],
+  [
+   "Figure 8 Bowl",
+   "Figure 8 Bowl / Defiance Ledge",
+   "Figure 8 Bowl / Figure 8 Gully",
+   1.2
+  ],
+  [
+   "Gad Chutes",
+   "Gad Chutes / Cirque Traverse",
+   "Gad Chutes / Lautrenoe",
+   2.0
+  ],
+  [
+   "Bass Highway, Dick Bass Highway",
+   "Wilbere top",
+   "Bass Highway, Dick Bass Highway 3",
+   0.5
+  ],
+  [
+   "Bass Highway, Dick Bass Highway",
+   "Bass Highway, Dick Bass Highway 3",
+   "Bass Highway, Dick Bass Highway",
+   0.7
+  ],
+  [
+   "Bass Highway, Dick Bass Highway",
+   "Bass Highway, Dick Bass Highway",
+   "Bass Highway, Dick Bass Highway 2",
+   4.2
+  ],
+  [
+   "Bass Highway, Dick Bass Highway",
+   "Bass Highway, Dick Bass Highway 2",
+   "Lower Chip's / Adager",
+   0.5
+  ],
+  [
+   "Bass Highway, Dick Bass Highway",
+   "Lower Chip's / Adager",
+   "Peruvian bottom",
+   0.5
+  ],
+  [
+   "Upper Big Emma",
+   "Upper Big Emma 2",
+   "Wilbere Bowl / Upper Big Emma",
+   0.5
+  ],
+  [
+   "Upper Big Emma",
+   "Wilbere Bowl / Upper Big Emma",
+   "Sneaky Pete / Upper Big Emma 2",
+   0.5
+  ],
+  [
+   "Upper Big Emma",
+   "Sneaky Pete / Upper Big Emma 2",
+   "Upper Big Emma 3",
+   0.5
+  ],
+  [
+   "Upper Big Emma",
+   "Upper Big Emma 3",
+   "Upper Big Emma / Middle Emma",
+   0.5
+  ],
+  [
+   "Upper Bassackwards",
+   "Gad 2 top",
+   "Upper Bassackwards 3",
+   1.1
+  ],
+  [
+   "Upper Bassackwards",
+   "Upper Bassackwards 3",
+   "Upper Bassackwards",
+   0.9
+  ],
+  [
+   "Upper Bassackwards",
+   "Upper Bassackwards",
+   "Bass Benches / Upper Bassackwards",
+   0.5
+  ],
+  [
+   "Upper Bassackwards",
+   "Bass Benches / Upper Bassackwards",
+   "Upper Bassackwards 2",
+   0.8
+  ],
+  [
+   "Upper Bassackwards",
+   "Upper Bassackwards 2",
+   "Little Cloud bottom",
+   0.5
+  ],
+  [
+   "Wilbere Cutoff",
+   "Miner's Road 3",
+   "Wilbere Cutoff / Harper's Ferry",
+   0.9
+  ],
+  [
+   "Middle Tiger Tail",
+   "Middle Tiger Tail / Upper Tiger Tail",
+   "Middle Tiger Tail",
+   1.4
+  ],
+  [
+   "Middle Tiger Tail",
+   "Middle Tiger Tail",
+   "Middle Tiger Tail 2",
+   1.1
+  ],
+  [
+   "Middle Tiger Tail",
+   "Middle Tiger Tail 2",
+   "Middle Tiger Tail / Gad 2 Return",
+   0.5
+  ],
+  [
+   "Miner's Road",
+   "Miner's Road 2",
+   "Miner's Road / Creek Road",
+   1.0
+  ],
+  [
+   "Center of Gravity",
+   "Center of Gravity / High Baldy Traverse",
+   "Middle Chip's Run",
+   1.6
+  ],
+  [
+   "Fields of Glory",
+   "Fields of Glory / High Baldy Traverse",
+   "Mid-Baldy Traverse / Fields of Glory",
+   1.0
+  ],
+  [
+   "Fields of Glory",
+   "Mid-Baldy Traverse / Fields of Glory",
+   "Middle Chip's Run 2",
+   1.7
+  ],
+  [
+   "White Diamonds",
+   "White Diamonds / Junior's Powder Paradise",
+   "White Diamonds",
+   0.5
+  ],
+  [
+   "White Diamonds",
+   "White Diamonds",
+   "White Diamonds 2",
+   0.7
+  ],
+  [
+   "White Diamonds",
+   "White Diamonds 2",
+   "Nash Flora Lode / White Diamonds",
+   1.2
+  ],
+  [
+   "White Diamonds",
+   "Nash Flora Lode / White Diamonds",
+   "White Diamonds / Junior's Powder Paradise 2",
+   0.8
+  ],
+  [
+   "Hot Foot Gully",
+   "Middle Chip's Run 3",
+   "Middle Chip's Run 4",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Peruvian top",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Upper Silver Fox",
+   1.0
+  ],
+  [
+   "Chamonix Chutes",
+   "Chamonix Chutes / High Baldy Traverse",
+   "Chamonix Bowl",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Upper Silver Fox / Unnamed run",
+   "Regulator Johnson / Unnamed run",
+   0.5
+  ],
+  [
+   "Lowest Bassackwards",
+   "Unnamed run",
+   "Unnamed run / Lowest Bassackwards",
+   0.5
+  ],
+  [
+   "Lowest Bassackwards",
+   "Unnamed run / Lowest Bassackwards",
+   "West 2nd South On-Ramp / Lowest Bassackwards",
+   0.5
+  ],
+  [
+   "Lowest Bassackwards",
+   "West 2nd South On-Ramp / Lowest Bassackwards",
+   "Mid-Gad Lift bottom",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Exit Gully",
+   "Unnamed run / Thunder Alley",
+   0.5
+  ],
+  [
+   "Regulator Johnson",
+   "Regulator Johnson / Unnamed run",
+   "Gadzoom top",
+   3.4
+  ],
+  [
+   "Chamonix Bowl",
+   "High Baldy Traverse / Split Rock Gully",
+   "Lupine Loop",
+   0.8
+  ],
+  [
+   "Big Emma",
+   "Upper Big Emma 3",
+   "Bass Highway, Dick Bass Highway",
+   0.5
+  ],
+  [
+   "Route 4 Gully",
+   "Route 4 Gully / Rothman Way",
+   "Bass Highway, Dick Bass Highway 2",
+   1.8
+  ],
+  [
+   "High Ridge 3",
+   "High Ridge 3 / High Baldy Traverse",
+   "High Ridge 3 / Upper Chip's Run",
+   1.1
+  ],
+  [
+   "Path to Paradise",
+   "Path To Paradise / Path to Paradise",
+   "Path to Paradise / Path To Paradise",
+   0.5
+  ],
+  [
+   "Who Cares",
+   "Who Cares / Who Dunnit",
+   "Who Cares / Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access",
+   0.8
+  ],
+  [
+   "Lower Primrose Path",
+   "Primrose Split / Upper Silver Fox",
+   "Lower Primrose Path",
+   0.5
+  ],
+  [
+   "Lower Primrose Path",
+   "Lower Primrose Path",
+   "Jack Dog / Lower Primrose Path",
+   1.1
+  ],
+  [
+   "Lower Primrose Path",
+   "Jack Dog / Lower Primrose Path",
+   "Lower Chip's",
+   4.1
+  ],
+  [
+   "High Stakes",
+   "Mineral Basin top",
+   "High Stakes / Unnamed run",
+   2.6
+  ],
+  [
+   "Blackjack Gully",
+   "Middle Chip's Run / Jack Dog",
+   "Blackjack Gully",
+   0.8
+  ],
+  [
+   "Blackjack Gully",
+   "Blackjack Gully",
+   "Blackjack Gully 2",
+   0.5
+  ],
+  [
+   "Blackjack Gully",
+   "Blackjack Gully 2",
+   "Blackjack Gully / Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access",
+   1.9
+  ],
+  [
+   "Path To Paradise",
+   "Path To Paradise / Path to Paradise",
+   "Path to Paradise / Path To Paradise",
+   0.5
+  ],
+  [
+   "High Saddle",
+   "High Saddle / Red Lens Line",
+   "High Saddle 2",
+   2.1
+  ],
+  [
+   "High Saddle",
+   "High Saddle 2",
+   "High Saddle",
+   1.1
+  ],
+  [
+   "High Saddle",
+   "High Saddle",
+   "High Saddle / Defiance Ledge",
+   1.2
+  ],
+  [
+   "Thunder Alley",
+   "Baby Thunder top",
+   "Unnamed run / Thunder Alley",
+   0.5
+  ],
+  [
+   "Thunder Alley",
+   "Unnamed run / Thunder Alley",
+   "White Rabbit / Thunder Alley",
+   0.5
+  ],
+  [
+   "Thunder Alley",
+   "White Rabbit / Thunder Alley",
+   "Thunder Alley",
+   2.0
+  ],
+  [
+   "Thunder Alley",
+   "Thunder Alley",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   0.7
+  ],
+  [
+   "Madam Annie's",
+   "Tricep / Madam Annie's",
+   "Thunder Tube bottom",
+   1.5
+  ],
+  [
+   "Chickadee",
+   "Chickadee Lift top",
+   "Chickadee Lift bottom",
+   0.9
+  ],
+  [
+   "Shireen",
+   "Shireen / Road To Provo",
+   "Shireen / Mark Malu Fork",
+   1.6
+  ],
+  [
+   "Round the World Traverse",
+   "Round the World Traverse / Lower Silver Fox",
+   "Binx's Bumper",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Peruvian Tunnel top",
+   "Lupine Loop 2",
+   0.5
+  ],
+  [
+   "Get Serious Chute #3",
+   "Get Serious Chute #3 / Carbonate",
+   "Get Serious Chute #3 / West 2nd South",
+   1.4
+  ],
+  [
+   "Ted's Bowl",
+   "Middle Tiger Tail",
+   "Middle Bassackwards 3",
+   0.9
+  ],
+  [
+   "Upper Mach Schnell",
+   "Binx's Bumper / Upper Mach Schnell",
+   "Upper Mach Schnell / Lower Mach Schnell",
+   1.8
+  ],
+  [
+   "Easy Street",
+   "Baby Thunder top",
+   "Lazy Susan / Easy Street",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Lazy Susan / Easy Street",
+   "Easy Street",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Easy Street",
+   "Easy Street 2",
+   0.6
+  ],
+  [
+   "Easy Street",
+   "Easy Street 2",
+   "Tricep / Madam Annie's",
+   0.6
+  ],
+  [
+   "Restaurant Roll",
+   "Middle Cirque / Restaurant Roll",
+   "Upper Big Emma 2",
+   2.9
+  ],
+  [
+   "Cat Crew Cutoff",
+   "Miner's Road 4",
+   "Cat Crew Cutoff / Creek Road",
+   1.0
+  ],
+  [
+   "Elbow Proper",
+   "Unnamed run / Elbow Proper",
+   "Tricep / Elbow Proper",
+   0.5
+  ],
+  [
+   "Elbow Proper",
+   "Tricep / Elbow Proper",
+   "West 2nd South On-Ramp / Lowest Bassackwards",
+   1.6
+  ],
+  [
+   "Oh My God",
+   "Chip's Face / Oh My God",
+   "Oh My God",
+   0.7
+  ],
+  [
+   "Oh My God",
+   "Oh My God",
+   "Lower Chip's 2",
+   0.6
+  ],
+  [
+   "Hubba Bubba",
+   "Primrose Split / Upper Silver Fox",
+   "Middle Chip's Run 3",
+   0.9
+  ],
+  [
+   "Middle Men's",
+   "Middle Chip's Run 5",
+   "Middle Chip's Run",
+   0.5
+  ],
+  [
+   "Middle Men's",
+   "Middle Chip's Run",
+   "Middle Chip's Run 4",
+   0.5
+  ],
+  [
+   "Chip's Access",
+   "Mineral Basin top",
+   "High Baldy Traverse / Not Quite Corn",
+   0.5
+  ],
+  [
+   "Chip's Access",
+   "High Baldy Traverse / Not Quite Corn",
+   "Regulator Johnson / Upper Primrose Path",
+   0.9
+  ],
+  [
+   "Bookmark Gully",
+   "Bookends Traverse 2",
+   "Bookmark Gully / Junior's Powder Paradise",
+   1.2
+  ],
+  [
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access",
+   "Who Cares / Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access 3",
+   0.6
+  ],
+  [
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access 3",
+   "Blackjack Gully / Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access",
+   0.5
+  ],
+  [
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access",
+   "Blackjack Gully / Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access 2",
+   0.5
+  ],
+  [
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access 2",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access / Who Dunnit",
+   0.5
+  ],
+  [
+   "The Keyhole",
+   "The Keyhole / High Baldy Traverse",
+   "The Keyhole",
+   0.5
+  ],
+  [
+   "The Keyhole",
+   "The Keyhole",
+   "Middle Chip's Run 6",
+   1.4
+  ],
+  [
+   "49er Gully",
+   "Double Down",
+   "49er Gully",
+   1.0
+  ],
+  [
+   "49er Gully",
+   "49er Gully",
+   "Bassanova 3",
+   1.9
+  ],
+  [
+   "The Back Door",
+   "The Back Door / Blackjack Traverse",
+   "Blackjack Gully",
+   0.5
+  ],
+  [
+   "Great Scott",
+   "Great Scott / Cirque Traverse",
+   "Great Scott",
+   1.5
+  ],
+  [
+   "Great Scott",
+   "Great Scott",
+   "Chip's Bypass / Middle Cirque",
+   1.2
+  ],
+  [
+   "Come From Behind Gully",
+   "Come From Behind Gully / Knucklehead Traverse",
+   "Upper Bassackwards",
+   0.9
+  ],
+  [
+   "High Baldy Traverse",
+   "High Baldy Traverse / Split Rock Gully",
+   "Chamonix Bowl / High Baldy Traverse",
+   0.8
+  ],
+  [
+   "High Baldy Traverse",
+   "Chamonix Bowl / High Baldy Traverse",
+   "High Ridge 3 / High Baldy Traverse",
+   1.0
+  ],
+  [
+   "High Baldy Traverse",
+   "High Ridge 3 / High Baldy Traverse",
+   "Venus Line / High Baldy Traverse",
+   1.3
+  ],
+  [
+   "High Baldy Traverse",
+   "Venus Line / High Baldy Traverse",
+   "Fields of Glory / High Baldy Traverse",
+   0.5
+  ],
+  [
+   "High Baldy Traverse",
+   "Fields of Glory / High Baldy Traverse",
+   "High Baldy Traverse 4",
+   0.5
+  ],
+  [
+   "High Baldy Traverse",
+   "High Baldy Traverse 4",
+   "Center of Gravity / High Baldy Traverse",
+   1.6
+  ],
+  [
+   "High Baldy Traverse",
+   "Center of Gravity / High Baldy Traverse",
+   "The Keyhole / High Baldy Traverse",
+   1.5
+  ],
+  [
+   "High Baldy Traverse",
+   "The Keyhole / High Baldy Traverse",
+   "High Baldy Traverse / Gun Towers",
+   0.5
+  ],
+  [
+   "Junior's Powder Paradise",
+   "Bookends Traverse / Junior's Powder Paradise",
+   "White Diamonds / Junior's Powder Paradise",
+   0.7
+  ],
+  [
+   "Junior's Powder Paradise",
+   "White Diamonds / Junior's Powder Paradise",
+   "White Diamonds",
+   0.5
+  ],
+  [
+   "Junior's Powder Paradise",
+   "White Diamonds",
+   "Bookmark Gully / Junior's Powder Paradise",
+   1.5
+  ],
+  [
+   "Junior's Powder Paradise",
+   "Bookmark Gully / Junior's Powder Paradise",
+   "White Diamonds / Junior's Powder Paradise 2",
+   1.5
+  ],
+  [
+   "Junior's Powder Paradise",
+   "White Diamonds / Junior's Powder Paradise 2",
+   "Lupine Loop 3",
+   1.3
+  ],
+  [
+   "Bookends Bowl Return Road",
+   "Altar Bowl / Richie's Run 2",
+   "Lupine Loop 3",
+   1.5
+  ],
+  [
+   "Lautrenoe",
+   "Unnamed run / Lautrenoe",
+   "Gad Chutes / Lautrenoe",
+   1.0
+  ],
+  [
+   "Lautrenoe",
+   "Gad Chutes / Lautrenoe",
+   "Regulator Gully / Lautrenoe",
+   0.5
+  ],
+  [
+   "Lautrenoe",
+   "Regulator Gully / Lautrenoe",
+   "Lautrenoe",
+   0.5
+  ],
+  [
+   "Bookends Traverse",
+   "Bookends Traverse 3",
+   "Bookends Traverse 2",
+   1.9
+  ],
+  [
+   "Cirque Trail",
+   "Aerial Tram top",
+   "Regulator Johnson / Upper Primrose Path",
+   0.6
+  ],
+  [
+   "Jones Avenue",
+   "Sneaky Pete / Upper Big Emma",
+   "Jones Avenue / West 2nd South",
+   1.2
+  ],
+  [
+   "Road To Provo, Sunday Saddle Road",
+   "Mineral Basin top",
+   "Little Cloud top",
+   0.6
+  ],
+  [
+   "Middle Emma",
+   "Upper Big Emma / Middle Emma",
+   "Unnamed run / Middle Emma",
+   0.6
+  ],
+  [
+   "Middle Emma",
+   "Unnamed run / Middle Emma",
+   "Miner's Road / Middle Emma",
+   0.6
+  ],
+  [
+   "West 2nd South Long",
+   "Lazy Susan / West 2nd South Long",
+   "Lower Mini Miners' Camp",
+   0.8
+  ],
+  [
+   "West 2nd South Long",
+   "Lower Mini Miners' Camp",
+   "Upper Mini Miners' Camp",
+   0.5
+  ],
+  [
+   "West 2nd South Long",
+   "Upper Mini Miners' Camp",
+   "Thunder Tube bottom",
+   0.5
+  ],
+  [
+   "West 2nd South Long",
+   "Thunder Tube bottom",
+   "Mid-Gad Lift bottom",
+   0.7
+  ],
+  [
+   "Wilma's",
+   "Wilma's / Cirque Traverse",
+   "Binx's Bumper / Upper Mach Schnell",
+   0.5
+  ],
+  [
+   "Wilma's",
+   "Binx's Bumper / Upper Mach Schnell",
+   "Bass Highway, Dick Bass Highway",
+   2.1
+  ],
+  [
+   "Claim Jumper",
+   "Bird's Nest 2",
+   "Bird's Nest 3",
+   2.5
+  ],
+  [
+   "Upper Tiger Tail",
+   "Upper Tiger Tail / Red Lens Line",
+   "Middle Tiger Tail / Upper Tiger Tail",
+   2.4
+  ],
+  [
+   "Bicarbonate Gully",
+   "Middle Bassackwards 4",
+   "Middle Bassackwards 5",
+   1.7
+  ],
+  [
+   "Hot Lips Gully",
+   "Chip's Bypass",
+   "Primrose Split",
+   1.4
+  ],
+  [
+   "Hoop's",
+   "Hoop's / Knucklehead Traverse",
+   "Hoop's / Goblin Gully",
+   2.8
+  ],
+  [
+   "Red Lens Line",
+   "Red Lens Line / Bananas",
+   "Upper Tiger Tail / Red Lens Line",
+   0.5
+  ],
+  [
+   "Red Lens Line",
+   "Upper Tiger Tail / Red Lens Line",
+   "High Saddle / Red Lens Line",
+   1.0
+  ],
+  [
+   "Mushroom Land",
+   "High Saddle",
+   "Mushroom Land",
+   1.3
+  ],
+  [
+   "Mushroom Land",
+   "Mushroom Land",
+   "Lazy Susan / Easy Street",
+   1.9
+  ],
+  [
+   "Sugarloaf Connector",
+   "Bird's Nest 2",
+   "Sugarloaf Connector",
+   0.5
+  ],
+  [
+   "Blue By You",
+   "Path To Paradise 3",
+   "Blue By You",
+   2.4
+  ],
+  [
+   "Blue By You",
+   "Blue By You",
+   "White Diamonds / Junior's Powder Paradise 2",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "High Baldy Traverse 3",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Cirque Traverse",
+   "Regulator Johnson / Unnamed run",
+   "Great Scott / Cirque Traverse",
+   0.5
+  ],
+  [
+   "Cirque Traverse",
+   "Great Scott / Cirque Traverse",
+   "Pucker Brush / Cirque Traverse",
+   0.7
+  ],
+  [
+   "Cirque Traverse",
+   "Pucker Brush / Cirque Traverse",
+   "Gad Chutes / Cirque Traverse",
+   0.6
+  ],
+  [
+   "Cirque Traverse",
+   "Gad Chutes / Cirque Traverse",
+   "Middle Cirque / Restaurant Roll",
+   1.0
+  ],
+  [
+   "Cirque Traverse",
+   "Middle Cirque / Restaurant Roll",
+   "Glen's / Cirque Traverse",
+   0.9
+  ],
+  [
+   "Cirque Traverse",
+   "Glen's / Cirque Traverse",
+   "Cirque Traverse",
+   0.8
+  ],
+  [
+   "Cirque Traverse",
+   "Cirque Traverse",
+   "Wilbere Bowl / Cirque Traverse",
+   0.5
+  ],
+  [
+   "Cirque Traverse",
+   "Wilbere Bowl / Cirque Traverse",
+   "Dalton's Draw / Cirque Traverse",
+   1.0
+  ],
+  [
+   "Cirque Traverse",
+   "Dalton's Draw / Cirque Traverse",
+   "Wilma's / Cirque Traverse",
+   0.5
+  ],
+  [
+   "Cirque Traverse",
+   "Wilma's / Cirque Traverse",
+   "Binx's Bumper / Upper Mach Schnell",
+   0.5
+  ],
+  [
+   "Upper Chip's Run",
+   "Regulator Johnson / Upper Primrose Path",
+   "High Baldy Traverse 3",
+   0.7
+  ],
+  [
+   "Upper Chip's Run",
+   "High Baldy Traverse 3",
+   "High Baldy Traverse 2",
+   0.5
+  ],
+  [
+   "Upper Chip's Run",
+   "High Baldy Traverse 2",
+   "High Baldy Traverse 3",
+   0.5
+  ],
+  [
+   "Upper Chip's Run",
+   "High Baldy Traverse 3",
+   "Unnamed run 2",
+   1.9
+  ],
+  [
+   "West 2nd South",
+   "Bass Highway, Dick Bass Highway",
+   "Upper Big Emma / Middle Emma",
+   0.5
+  ],
+  [
+   "West 2nd South",
+   "Upper Big Emma / Middle Emma",
+   "Jones Avenue / West 2nd South",
+   0.7
+  ],
+  [
+   "West 2nd South",
+   "Jones Avenue / West 2nd South",
+   "West 2nd South",
+   0.5
+  ],
+  [
+   "West 2nd South",
+   "West 2nd South",
+   "Get Serious Chute #3 / West 2nd South",
+   0.5
+  ],
+  [
+   "West 2nd South",
+   "Get Serious Chute #3 / West 2nd South",
+   "Tricep / Madam Annie's",
+   1.8
+  ],
+  [
+   "West 2nd South",
+   "Tricep / Madam Annie's",
+   "Upper Mini Miners' Camp / West 2nd South",
+   0.6
+  ],
+  [
+   "West 2nd South",
+   "Upper Mini Miners' Camp / West 2nd South",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   0.5
+  ],
+  [
+   "West 2nd South",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   "West 2nd Short",
+   0.5
+  ],
+  [
+   "West 2nd South",
+   "West 2nd Short",
+   "Upper Mini Miners' Camp 2",
+   0.5
+  ],
+  [
+   "West 2nd South",
+   "Upper Mini Miners' Camp 2",
+   "West 2nd South / Alice Avenue",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "49er Gully",
+   "Double Down / Unnamed run",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Double Down / Unnamed run",
+   "Not Quite Corn / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Not Quite Corn / Unnamed run",
+   "High Stakes / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "High Stakes / Unnamed run",
+   "Blue By You",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Blue By You",
+   "Nash Flora Lode / White Diamonds",
+   1.0
+  ],
+  [
+   "Path to Paradise, Path To Paradise",
+   "Path to Paradise / Path To Paradise",
+   "Bookends Traverse / Junior's Powder Paradise",
+   0.5
+  ],
+  [
+   "Bananas",
+   "Gad 2 top",
+   "Red Lens Line / Bananas",
+   0.8
+  ],
+  [
+   "Bananas",
+   "Red Lens Line / Bananas",
+   "Gadzooks / Bananas",
+   2.0
+  ],
+  [
+   "Figure 8 Gully",
+   "Figure 8 Bowl / Figure 8 Gully",
+   "Baby Thunder bottom",
+   2.8
+  ],
+  [
+   "Upper Chip's Run",
+   "Unnamed run 2",
+   "Chip's Run / Upper Chip's Run",
+   0.5
+  ],
+  [
+   "Upper Chip's Run",
+   "Chip's Run / Upper Chip's Run",
+   "High Ridge 3 / Upper Chip's Run",
+   1.2
+  ],
+  [
+   "Upper Chip's Run",
+   "High Ridge 3 / Upper Chip's Run",
+   "Chip's Bypass / Mid-Baldy Traverse",
+   1.0
+  ],
+  [
+   "Upper Big Emma",
+   "Upper Big Emma",
+   "Wilbere Bowl / Upper Big Emma",
+   0.5
+  ],
+  [
+   "Phone 3 Shot",
+   "Phone 3 Shot / Rothman Way",
+   "Blackjack Gully 2",
+   0.7
+  ],
+  [
+   "Carbonate",
+   "Middle Bassackwards 2",
+   "Carbonate",
+   1.0
+  ],
+  [
+   "Carbonate",
+   "Carbonate",
+   "Get Serious Chute #3 / Carbonate",
+   0.5
+  ],
+  [
+   "Carbonate",
+   "Get Serious Chute #3 / Carbonate",
+   "Gad 2 bottom",
+   0.9
+  ],
+  [
+   "Harper's Ferry East",
+   "Wilbere top",
+   "Harper's Ferry East / Creek Road",
+   2.0
+  ],
+  [
+   "Lower Bassackwards",
+   "Middle Bassackwards / Lower Bassackwards",
+   "Unnamed run / Elbow Proper",
+   0.7
+  ],
+  [
+   "Lower Bassackwards",
+   "Unnamed run / Elbow Proper",
+   "Tricep / Elbow Proper",
+   0.5
+  ],
+  [
+   "Lower Bassackwards",
+   "Tricep / Elbow Proper",
+   "Unnamed run",
+   1.2
+  ],
+  [
+   "Exit Gully",
+   "High Saddle 2",
+   "Exit Gully",
+   1.0
+  ],
+  [
+   "Exit Gully",
+   "Exit Gully",
+   "Mushroom Land",
+   0.5
+  ],
+  [
+   "Exit Gully",
+   "Mushroom Land",
+   "Unnamed run / Exit Gully",
+   1.3
+  ],
+  [
+   "Exit Gully",
+   "Unnamed run / Exit Gully",
+   "Baby Thunder top",
+   0.6
+  ],
+  [
+   "Chip's Bypass",
+   "Chip's Bypass / Middle Cirque",
+   "Primrose Split",
+   0.7
+  ],
+  [
+   "Chip's Bypass",
+   "Primrose Split",
+   "Chip's Run",
+   0.5
+  ],
+  [
+   "Chip's Bypass",
+   "Chip's Run",
+   "Middle Chip's Run / Chip's Run",
+   0.5
+  ],
+  [
+   "Bonar's Pass",
+   "Bonar's Pass / Knucklehead Traverse",
+   "Upper Bassackwards 2",
+   2.5
+  ],
+  [
+   "Keyhole Chute",
+   "The Keyhole",
+   "Keyhole Chute / Blackjack Traverse",
+   1.2
+  ],
+  [
+   "Get Serious Chute #1",
+   "Carbonate",
+   "Jones Avenue / West 2nd South",
+   1.3
+  ],
+  [
+   "Cliff Access",
+   "Oh My God",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access 2",
+   0.5
+  ],
+  [
+   "Election",
+   "Gad 2 top",
+   "S.T.H. / Election",
+   0.5
+  ],
+  [
+   "Election",
+   "S.T.H. / Election",
+   "Middle Bassackwards",
+   2.2
+  ],
+  [
+   "Goblin Gully",
+   "Goblin Gully / Mark Malu Fork",
+   "Hoop's / Goblin Gully",
+   1.0
+  ],
+  [
+   "Goblin Gully",
+   "Hoop's / Goblin Gully",
+   "Upper Bassackwards 2",
+   0.5
+  ],
+  [
+   "Goblin Gully",
+   "Upper Bassackwards 2",
+   "Little Cloud bottom",
+   0.5
+  ],
+  [
+   "Harper's Ferry",
+   "Wilbere top",
+   "Wilbere Cutoff / Harper's Ferry",
+   2.6
+  ],
+  [
+   "Knucklehead Traverse",
+   "Knucklehead Traverse / Road To Provo",
+   "Hoop's / Knucklehead Traverse",
+   1.5
+  ],
+  [
+   "Knucklehead Traverse",
+   "Hoop's / Knucklehead Traverse",
+   "Bonar's Pass / Knucklehead Traverse",
+   1.0
+  ],
+  [
+   "Knucklehead Traverse",
+   "Bonar's Pass / Knucklehead Traverse",
+   "Bass Benches / Knucklehead Traverse",
+   0.8
+  ],
+  [
+   "Knucklehead Traverse",
+   "Bass Benches / Knucklehead Traverse",
+   "Come From Behind Gully / Knucklehead Traverse",
+   0.7
+  ],
+  [
+   "Knucklehead Traverse",
+   "Come From Behind Gully / Knucklehead Traverse",
+   "Upper Bassackwards 3",
+   0.6
+  ],
+  [
+   "Gadzooks",
+   "Bananas / Gadzooks",
+   "Middle Bassackwards 6",
+   1.5
+  ],
+  [
+   "High Baldy Traverse",
+   "High Baldy Traverse / Split Rock Gully",
+   "Chamonix Bowl / High Baldy Traverse",
+   0.8
+  ],
+  [
+   "High Baldy Traverse",
+   "Chamonix Bowl / High Baldy Traverse",
+   "Chamonix Chutes / High Baldy Traverse",
+   0.9
+  ],
+  [
+   "High Baldy Traverse",
+   "Chamonix Chutes / High Baldy Traverse",
+   "Center of Gravity / High Baldy Traverse",
+   3.9
+  ],
+  [
+   "High Baldy Traverse",
+   "Center of Gravity / High Baldy Traverse",
+   "The Keyhole / High Baldy Traverse",
+   1.5
+  ],
+  [
+   "Bananas, Gadzooks",
+   "Gadzooks / Bananas",
+   "Bananas, Gadzooks",
+   0.5
+  ],
+  [
+   "Bananas, Gadzooks",
+   "Bananas, Gadzooks",
+   "Bananas / Gadzooks",
+   0.5
+  ],
+  [
+   "Tower",
+   "Wilbere Bowl / Cirque Traverse",
+   "Tower / Lower Silver Fox",
+   0.9
+  ],
+  [
+   "Road To Provo",
+   "Little Cloud top",
+   "Path to Paradise",
+   0.5
+  ],
+  [
+   "Road To Provo",
+   "Path to Paradise",
+   "Shireen / Road To Provo",
+   1.5
+  ],
+  [
+   "Road To Provo",
+   "Shireen / Road To Provo",
+   "Knucklehead Traverse / Road To Provo",
+   0.9
+  ],
+  [
+   "Fields Cut-Off, Lautrenoe",
+   "Gadzoom top",
+   "Unnamed run / Lautrenoe",
+   0.5
+  ],
+  [
+   "Creek Road",
+   "Bass Highway, Dick Bass Highway 2",
+   "Miner's Road / Creek Road",
+   0.8
+  ],
+  [
+   "Creek Road",
+   "Miner's Road / Creek Road",
+   "Harper's Ferry East / Creek Road",
+   0.5
+  ],
+  [
+   "Creek Road",
+   "Harper's Ferry East / Creek Road",
+   "Wilbere Cutoff / Harper's Ferry",
+   1.1
+  ],
+  [
+   "Creek Road",
+   "Wilbere Cutoff / Harper's Ferry",
+   "Cat Crew Cutoff / Creek Road",
+   0.5
+  ],
+  [
+   "Creek Road",
+   "Cat Crew Cutoff / Creek Road",
+   "Wilbere bottom",
+   1.3
+  ],
+  [
+   "Creek Road",
+   "Wilbere bottom",
+   "Mid-Gad Lift bottom",
+   0.5
+  ],
+  [
+   "Creek Road",
+   "Mid-Gad Lift bottom",
+   "Gadzoom bottom",
+   0.5
+  ],
+  [
+   "Creek Road",
+   "Gadzoom bottom",
+   "Thunder Tube bottom",
+   0.5
+  ],
+  [
+   "Creek Road",
+   "Thunder Tube bottom",
+   "Thunder Tube top",
+   0.5
+  ],
+  [
+   "Creek Road",
+   "Thunder Tube top",
+   "Conveyor #3 bottom",
+   0.5
+  ],
+  [
+   "Creek Road",
+   "Conveyor #3 bottom",
+   "Thunder Junction / Creek Road",
+   0.5
+  ],
+  [
+   "Creek Road",
+   "Thunder Junction / Creek Road",
+   "Lower Mini Miners' Camp 2",
+   0.5
+  ],
+  [
+   "Creek Road",
+   "Lower Mini Miners' Camp 2",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   0.5
+  ],
+  [
+   "Creek Road",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   "Baby Thunder bottom",
+   0.5
+  ],
+  [
+   "Lower Emma",
+   "Miner's Road / Middle Emma",
+   "Mid-Gad Lift bottom",
+   2.1
+  ],
+  [
+   "Lone Star",
+   "Little Cloud top",
+   "Blue By You",
+   2.5
+  ],
+  [
+   "Low Saddle",
+   "Bananas, Gadzooks",
+   "Middle Tiger Tail / Upper Tiger Tail",
+   0.5
+  ],
+  [
+   "Low Saddle",
+   "Middle Tiger Tail / Upper Tiger Tail",
+   "Low Saddle",
+   0.8
+  ],
+  [
+   "Low Saddle",
+   "Low Saddle",
+   "Mushroom Land",
+   1.3
+  ],
+  [
+   "Lower Silver Fox",
+   "Lower Primrose Path",
+   "Tower / Lower Silver Fox",
+   0.5
+  ],
+  [
+   "Lower Silver Fox",
+   "Tower / Lower Silver Fox",
+   "Round the World Traverse / Lower Silver Fox",
+   1.1
+  ],
+  [
+   "Lower Silver Fox",
+   "Round the World Traverse / Lower Silver Fox",
+   "Dalton's Draw / Lower Silver Fox",
+   1.9
+  ],
+  [
+   "Lower Silver Fox",
+   "Dalton's Draw / Lower Silver Fox",
+   "Lower Chip's / Adager",
+   2.1
+  ],
+  [
+   "Middle Cirque",
+   "Chip's Bypass / Middle Cirque",
+   "Primrose Split / Upper Silver Fox",
+   1.0
+  ],
+  [
+   "Thanks for the Memories",
+   "High Baldy Traverse 4",
+   "Middle Chip's Run 2",
+   2.6
+  ],
+  [
+   "Thanks for the Memories",
+   "Middle Chip's Run 2",
+   "Middle Chip's Run 5",
+   0.5
+  ],
+  [
+   "Wilbere Ridge",
+   "Bass Highway, Dick Bass Highway 3",
+   "Miner's Road 4",
+   1.5
+  ],
+  [
+   "Barry Barry Steep",
+   "Glen's / Cirque Traverse",
+   "Upper Big Emma 2",
+   2.5
+  ],
+  [
+   "Fluffy Bunny",
+   "Upper Big Emma",
+   "Fluffy Bunny",
+   0.5
+  ],
+  [
+   "Fluffy Bunny",
+   "Fluffy Bunny",
+   "Bass Highway, Dick Bass Highway 3",
+   1.2
+  ],
+  [
+   "Fluffy Bunny",
+   "Bass Highway, Dick Bass Highway 3",
+   "Wilbere top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Peruvian Tunnel top",
+   "Double Down 2",
+   0.5
+  ],
+  [
+   "Lower Mach Schnell",
+   "Upper Mach Schnell / Lower Mach Schnell",
+   "Harper's Ferry East / Creek Road",
+   2.1
+  ],
+  [
+   "Gad 2 Return",
+   "Exit Gully",
+   "Middle Tiger Tail / Gad 2 Return",
+   1.5
+  ],
+  [
+   "Gad 2 Return",
+   "Middle Tiger Tail / Gad 2 Return",
+   "Unnamed run / Gad 2 Return",
+   0.5
+  ],
+  [
+   "Gad 2 Return",
+   "Unnamed run / Gad 2 Return",
+   "Middle Bassackwards / Lower Bassackwards",
+   0.7
+  ],
+  [
+   "Gad 2 Return",
+   "Middle Bassackwards / Lower Bassackwards",
+   "Gad 2 bottom",
+   0.5
+  ],
+  [
+   "Gun Towers",
+   "High Baldy Traverse / Gun Towers",
+   "Gun Towers / Blackjack Traverse",
+   1.5
+  ],
+  [
+   "High Baldy Traverse",
+   "High Baldy Traverse 2",
+   "High Baldy Traverse",
+   0.5
+  ],
+  [
+   "High Baldy Traverse",
+   "High Baldy Traverse",
+   "High Baldy Traverse / Split Rock Gully",
+   0.5
+  ],
+  [
+   "The Fin",
+   "Low Saddle",
+   "Middle Tiger Tail 2",
+   1.8
+  ],
+  [
+   "West 2nd South On-Ramp",
+   "West 2nd Short",
+   "Upper Mini Miners' Camp 2",
+   0.5
+  ],
+  [
+   "Mark Malu Fork",
+   "Knucklehead Traverse / Road To Provo",
+   "Shireen / Mark Malu Fork",
+   1.8
+  ],
+  [
+   "Mark Malu Fork",
+   "Shireen / Mark Malu Fork",
+   "Goblin Gully / Mark Malu Fork",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Tiny Tiger",
+   "Thunder Alley",
+   1.3
+  ],
+  [
+   "Who Dunnit",
+   "Middle Chip's Run / Jack Dog",
+   "Blackjack Gully 2",
+   1.7
+  ],
+  [
+   "Who Dunnit",
+   "Blackjack Gully 2",
+   "Who Dunnit",
+   1.0
+  ],
+  [
+   "Who Dunnit",
+   "Who Dunnit",
+   "Who Cares / Who Dunnit",
+   1.1
+  ],
+  [
+   "Who Dunnit",
+   "Who Cares / Who Dunnit",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access 3",
+   1.2
+  ],
+  [
+   "Who Dunnit",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access 3",
+   "Blackjack Gully / Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access",
+   0.5
+  ],
+  [
+   "Who Dunnit",
+   "Blackjack Gully / Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access 2",
+   0.5
+  ],
+  [
+   "Who Dunnit",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access 2",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access / Who Dunnit",
+   0.5
+  ],
+  [
+   "Who Dunnit",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access / Who Dunnit",
+   "Lower Chip's / Adager",
+   1.0
+  ],
+  [
+   "Who Dunnit",
+   "Lower Chip's / Adager",
+   "Bass Highway, Dick Bass Highway 2",
+   0.5
+  ],
+  [
+   "Cirque Trail",
+   "Regulator Johnson / Upper Primrose Path",
+   "Upper Silver Fox / Unnamed run",
+   0.5
+  ],
+  [
+   "Phone 3 Road",
+   "Phone 3 Road / Rothman Way",
+   "Blackjack Gully 2",
+   1.1
+  ],
+  [
+   "Phone 3 Road",
+   "Blackjack Gully 2",
+   "Chip's Face / Oh My God",
+   0.8
+  ],
+  [
+   "Phone 3 Road",
+   "Chip's Face / Oh My God",
+   "Lower Chip's / Phone 3 Road",
+   0.6
+  ],
+  [
+   "Rothman Way",
+   "Middle Chip's Run / Jack Dog",
+   "Phone 3 Road / Rothman Way",
+   0.5
+  ],
+  [
+   "Rothman Way",
+   "Phone 3 Road / Rothman Way",
+   "Phone 3 Shot / Rothman Way",
+   0.5
+  ],
+  [
+   "Rothman Way",
+   "Phone 3 Shot / Rothman Way",
+   "Chip's Face / Rothman Way",
+   0.5
+  ],
+  [
+   "Rothman Way",
+   "Chip's Face / Rothman Way",
+   "Rothman Way",
+   0.5
+  ],
+  [
+   "Rothman Way",
+   "Rothman Way",
+   "Adager / Rothman Way",
+   0.6
+  ],
+  [
+   "Rothman Way",
+   "Adager / Rothman Way",
+   "Route 4 Gully / Rothman Way",
+   1.2
+  ],
+  [
+   "Rothman Way",
+   "Route 4 Gully / Rothman Way",
+   "Upper Mach Schnell / Lower Mach Schnell",
+   0.9
+  ],
+  [
+   "Rothman Way",
+   "Upper Mach Schnell / Lower Mach Schnell",
+   "Wilbere top",
+   0.9
+  ],
+  [
+   "Tail Feathers",
+   "Bassanova 4",
+   "Ski Patrol Gully",
+   1.0
+  ],
+  [
+   "Lower Willows",
+   "Lower Chip's / Phone 3 Road",
+   "Lower Chip's 2",
+   0.9
+  ],
+  [
+   "The Endoras",
+   "Bookends Traverse / The Endoras",
+   "Altar Bowl / Richie's Run 2",
+   2.3
+  ],
+  [
+   "Old Ladies",
+   "Path to Paradise",
+   "Shireen / Mark Malu Fork",
+   2.1
+  ],
+  [
+   "Road To Provo, Peruvian Gulch Road",
+   "Aerial Tram top",
+   "Mineral Basin top",
+   0.5
+  ],
+  [
+   "Bryce's Run",
+   "Miner's Road 4",
+   "Mid-Gad Lift bottom",
+   1.6
+  ],
+  [
+   "Lautrenoe",
+   "Lautrenoe",
+   "Middle Bassackwards 2",
+   1.2
+  ],
+  [
+   "Defiance Ledge",
+   "High Saddle / Defiance Ledge",
+   "White Rabbit / Defiance Ledge",
+   0.5
+  ],
+  [
+   "Defiance Ledge",
+   "White Rabbit / Defiance Ledge",
+   "Figure 8 Bowl / Defiance Ledge",
+   0.6
+  ],
+  [
+   "Alice Avenue",
+   "Easy Street",
+   "Lazy Susan / West 2nd South Long",
+   1.0
+  ],
+  [
+   "Alice Avenue",
+   "Lazy Susan / West 2nd South Long",
+   "West 2nd South / Alice Avenue",
+   0.5
+  ],
+  [
+   "Alice Avenue",
+   "West 2nd South / Alice Avenue",
+   "Lower Mini Miners' Camp 2",
+   1.0
+  ],
+  [
+   "Fields Cut-Off",
+   "Unnamed run / Lautrenoe",
+   "Middle Bassackwards",
+   0.9
+  ],
+  [
+   "Fields Cut-Off",
+   "Middle Bassackwards",
+   "Middle Bassackwards 4",
+   0.5
+  ],
+  [
+   "Willows",
+   "Rothman Way",
+   "Lower Chip's / Phone 3 Road",
+   1.2
+  ],
+  [
+   "Lower Cirque",
+   "Cirque Traverse",
+   "Primrose Split / Upper Silver Fox",
+   1.2
+  ],
+  [
+   "Get Serious Chute #2",
+   "Get Serious Chute #3 / Carbonate",
+   "West 2nd South",
+   1.4
+  ],
+  [
+   "Bluebell",
+   "Easy Street 2",
+   "Upper Mini Miners' Camp 2",
+   1.2
+  ],
+  [
+   "Bluebell",
+   "Upper Mini Miners' Camp 2",
+   "Lower Mini Miners' Camp",
+   0.5
+  ],
+  [
+   "Blue Angel",
+   "Fluffy Bunny",
+   "Upper Big Emma 3",
+   0.6
+  ],
+  [
+   "Blue Angel",
+   "Upper Big Emma 3",
+   "Bass Highway, Dick Bass Highway",
+   0.5
+  ],
+  [
+   "Blue Angel",
+   "Bass Highway, Dick Bass Highway",
+   "Upper Big Emma / Middle Emma",
+   0.5
+  ],
+  [
+   "Blackjack Traverse",
+   "Middle Chip's Run 6",
+   "Keyhole Chute / Blackjack Traverse",
+   0.6
+  ],
+  [
+   "Blackjack Traverse",
+   "Keyhole Chute / Blackjack Traverse",
+   "The Back Door / Blackjack Traverse",
+   0.5
+  ],
+  [
+   "Blackjack Traverse",
+   "The Back Door / Blackjack Traverse",
+   "Gun Towers / Blackjack Traverse",
+   0.5
+  ],
+  [
+   "Blackjack Traverse",
+   "Gun Towers / Blackjack Traverse",
+   "Who Dunnit",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Double Down 2",
+   "Double Down",
+   0.5
+  ],
+  [
+   "Lightning Tree Gully",
+   "Who Dunnit",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access 3",
+   1.0
+  ],
+  [
+   "Upper Cirque",
+   "Pucker Brush / Cirque Traverse",
+   "Great Scott",
+   1.2
+  ],
+  [
+   "Silver Dipper",
+   "Path To Paradise 4",
+   "White Diamonds 2",
+   1.4
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Mineral Basin top",
+   1.4
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Peruvian Tunnel top",
+   3.0
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Aerial Tram top",
+   1.0
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Split Rock Gully",
+   "Peruvian top",
+   1.3
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Split Rock Gully",
+   "Peruvian Tunnel top",
+   2.5
+  ],
+  [
+   "walk",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   "Thunder Tube bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Thunder Tube bottom",
+   "Lower Mini Miners' Camp",
+   1.6
+  ],
+  [
+   "walk",
+   "Thunder Tube bottom",
+   "Mid-Gad Lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Thunder Tube bottom",
+   "Conveyor #3 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Thunder Tube bottom",
+   "Gadzoom bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Thunder Tube bottom",
+   "Wilbere bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Thunder Tube bottom",
+   "Thunder Tube top",
+   1.7
+  ],
+  [
+   "walk",
+   "High Baldy Traverse",
+   "Peruvian top",
+   1.3
+  ],
+  [
+   "walk",
+   "High Baldy Traverse",
+   "Peruvian Tunnel top",
+   1.7
+  ],
+  [
+   "walk",
+   "Little Cloud bottom",
+   "Middle Bassackwards",
+   2.0
+  ],
+  [
+   "walk",
+   "Little Cloud bottom",
+   "Middle Bassackwards 4",
+   2.7
+  ],
+  [
+   "walk",
+   "Little Cloud bottom",
+   "Hoop's / Goblin Gully",
+   2.1
+  ],
+  [
+   "walk",
+   "Little Cloud bottom",
+   "Upper Bassackwards 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Middle Bassackwards / Lower Bassackwards",
+   "Gad 2 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Lazy Susan / Easy Street",
+   "Baby Thunder top",
+   0.8
+  ],
+  [
+   "walk",
+   "Baby Thunder top",
+   "Lazy Susan / Easy Street",
+   0.8
+  ],
+  [
+   "walk",
+   "Baby Thunder top",
+   "Lazy Susan / West 2nd South Long",
+   3.3
+  ],
+  [
+   "walk",
+   "Baby Thunder top",
+   "White Rabbit / Thunder Alley",
+   2.1
+  ],
+  [
+   "walk",
+   "Baby Thunder top",
+   "Unnamed run / Thunder Alley",
+   1.1
+  ],
+  [
+   "walk",
+   "Baby Thunder top",
+   "Tiny Tiger",
+   1.7
+  ],
+  [
+   "walk",
+   "Baby Thunder top",
+   "Easy Street",
+   2.4
+  ],
+  [
+   "walk",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   "Baby Thunder bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp",
+   "Thunder Tube bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp",
+   "Mid-Gad Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp",
+   "Conveyor #3 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp",
+   "Gadzoom bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp",
+   "Thunder Tube top",
+   1.3
+  ],
+  [
+   "walk",
+   "Baby Thunder bottom",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   0.6
+  ],
+  [
+   "walk",
+   "Lower Chip's / Adager",
+   "Peruvian bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Lower Chip's / Adager",
+   "Chickadee Lift bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Lower Chip's / Adager",
+   "Aerial Tram bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Lower Mini Miners' Camp",
+   "Thunder Tube bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Lower Mini Miners' Camp",
+   "Conveyor #3 bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Lower Mini Miners' Camp",
+   "Gadzoom bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Mini Miners' Camp",
+   "Thunder Tube top",
+   0.7
+  ],
+  [
+   "walk",
+   "Thunder Junction / Creek Road",
+   "Baby Thunder bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Thunder Junction / Creek Road",
+   "Conveyor #3 bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Mineral Basin bottom",
+   "Lupine Loop 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "High Baldy Traverse / Not Quite Corn",
+   1.4
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Regulator Johnson / Upper Primrose Path",
+   3.1
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Little Cloud top",
+   2.6
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Regulator Johnson",
+   1.3
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Aerial Tram top",
+   0.7
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "High Baldy Traverse 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Baldy top",
+   "Bird's Nest 2",
+   1.1
+  ],
+  [
+   "walk",
+   "Baldy top",
+   "Sugarloaf Connector",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Lautrenoe",
+   "Little Cloud bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Bassanova",
+   "Mineral Basin bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Bird's Nest 2",
+   "Baldy top",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Gad 2 Return",
+   "Gad 2 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Middle Bassackwards",
+   "Little Cloud bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Gad 2 top",
+   "S.T.H. / Election",
+   1.7
+  ],
+  [
+   "walk",
+   "Gad 2 top",
+   "Red Lens Line / Bananas",
+   3.0
+  ],
+  [
+   "walk",
+   "West 2nd Short",
+   "Thunder Tube bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "West 2nd Short",
+   "Gadzoom bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "West 2nd Short",
+   "Thunder Tube top",
+   3.1
+  ],
+  [
+   "walk",
+   "Wilbere top",
+   "Bass Highway, Dick Bass Highway",
+   2.9
+  ],
+  [
+   "walk",
+   "Wilbere top",
+   "Bass Highway, Dick Bass Highway 3",
+   0.6
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 2",
+   "Peruvian top",
+   1.7
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 2",
+   "Peruvian Tunnel top",
+   1.2
+  ],
+  [
+   "walk",
+   "Little Cloud top",
+   "Path To Paradise 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Little Cloud top",
+   "Regulator Johnson",
+   2.2
+  ],
+  [
+   "walk",
+   "Little Cloud top",
+   "Path To Paradise 3",
+   1.3
+  ],
+  [
+   "walk",
+   "Little Cloud top",
+   "Path to Paradise",
+   0.9
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 3",
+   "Gad 2 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Gadzoom top",
+   "Little Cloud bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Gadzoom top",
+   "Unnamed run / Lautrenoe",
+   1.3
+  ],
+  [
+   "walk",
+   "Bassanova 2",
+   "Mineral Basin bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Bassanova 2",
+   "Baldy bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Baldy bottom",
+   "Mineral Basin bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Baldy bottom",
+   "Lupine Loop 3",
+   1.3
+  ],
+  [
+   "walk",
+   "Regulator Johnson",
+   "Little Cloud top",
+   2.2
+  ],
+  [
+   "walk",
+   "Mid-Gad Lift top",
+   "Sneaky Pete / Upper Big Emma",
+   2.5
+  ],
+  [
+   "walk",
+   "Mid-Gad Lift top",
+   "Middle Bassackwards 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Mid-Gad Lift top",
+   "Upper Big Emma 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Mid-Gad Lift top",
+   "Middle Bassackwards 5",
+   2.5
+  ],
+  [
+   "walk",
+   "Peruvian bottom",
+   "Lower Chip's / Adager",
+   0.9
+  ],
+  [
+   "walk",
+   "Peruvian bottom",
+   "Bass Highway, Dick Bass Highway 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Peruvian bottom",
+   "Chickadee Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Peruvian bottom",
+   "Aerial Tram bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Peruvian top",
+   "Chip's Run / Upper Chip's Run",
+   1.0
+  ],
+  [
+   "walk",
+   "Peruvian top",
+   "Peruvian Tunnel top",
+   2.7
+  ],
+  [
+   "walk",
+   "Peruvian top",
+   "Unnamed run 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Peruvian top",
+   "Double Down 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Mid-Gad Lift bottom",
+   "Thunder Tube bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Mid-Gad Lift bottom",
+   "Gadzoom bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Mid-Gad Lift bottom",
+   "Wilbere bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Exit Gully",
+   "Baby Thunder top",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Alley",
+   "Baby Thunder top",
+   1.1
+  ],
+  [
+   "walk",
+   "Bass Highway, Dick Bass Highway 2",
+   "Peruvian bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Bass Highway, Dick Bass Highway 2",
+   "Chickadee Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Bass Highway, Dick Bass Highway 2",
+   "Aerial Tram bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Chip's",
+   "Peruvian bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Chip's",
+   "Chickadee Lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Chip's",
+   "Aerial Tram bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Chickadee Lift top",
+   "Chickadee Lift bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Chickadee Lift bottom",
+   "Peruvian bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Chickadee Lift bottom",
+   "Bass Highway, Dick Bass Highway 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Chickadee Lift bottom",
+   "Aerial Tram bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Peruvian Tunnel top",
+   "Peruvian top",
+   2.7
+  ],
+  [
+   "walk",
+   "Peruvian Tunnel top",
+   "Lupine Loop 2",
+   1.1
+  ],
+  [
+   "walk",
+   "Peruvian Tunnel top",
+   "Double Down",
+   2.0
+  ],
+  [
+   "walk",
+   "Peruvian Tunnel top",
+   "Unnamed run 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Peruvian Tunnel top",
+   "Double Down 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Lupine Loop 2",
+   "Peruvian Tunnel top",
+   1.1
+  ],
+  [
+   "walk",
+   "Get Serious Chute #3 / Carbonate",
+   "Gad 2 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Upper Mach Schnell / Lower Mach Schnell",
+   "Wilbere top",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Chip's 2",
+   "Peruvian bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access / Who Dunnit",
+   "Peruvian bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Lupine Loop 3",
+   "Mineral Basin bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Lupine Loop 3",
+   "Baldy bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "High Baldy Traverse / Not Quite Corn",
+   1.0
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Mineral Basin top",
+   0.7
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Regulator Johnson / Upper Primrose Path",
+   2.4
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Regulator Johnson / Unnamed run",
+   3.4
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Little Cloud top",
+   3.3
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Upper Silver Fox / Unnamed run",
+   3.3
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Regulator Johnson",
+   1.8
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "High Baldy Traverse 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 4",
+   "Little Cloud bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 5",
+   "Mid-Gad Lift top",
+   2.5
+  ],
+  [
+   "walk",
+   "Hoop's / Goblin Gully",
+   "Little Cloud bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Sugarloaf Connector",
+   "Baldy top",
+   3.1
+  ],
+  [
+   "walk",
+   "Sugarloaf Connector",
+   "Bird's Nest",
+   2.9
+  ],
+  [
+   "walk",
+   "Sugarloaf Connector",
+   "Bird's Nest 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Path To Paradise 3",
+   "Little Cloud top",
+   1.3
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 3",
+   "Peruvian top",
+   2.2
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 3",
+   "Peruvian Tunnel top",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Peruvian top",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Peruvian Tunnel top",
+   3.2
+  ],
+  [
+   "walk",
+   "West 2nd South / Alice Avenue",
+   "Thunder Tube bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "West 2nd South / Alice Avenue",
+   "Conveyor #3 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "West 2nd South / Alice Avenue",
+   "Thunder Tube top",
+   2.3
+  ],
+  [
+   "walk",
+   "Gad 2 bottom",
+   "Tricep / Elbow Proper",
+   3.2
+  ],
+  [
+   "walk",
+   "Gad 2 bottom",
+   "Middle Bassackwards / Lower Bassackwards",
+   0.8
+  ],
+  [
+   "walk",
+   "Gad 2 bottom",
+   "Unnamed run / Elbow Proper",
+   2.7
+  ],
+  [
+   "walk",
+   "Gad 2 bottom",
+   "Get Serious Chute #3 / West 2nd South",
+   3.3
+  ],
+  [
+   "walk",
+   "Upper Bassackwards 2",
+   "Little Cloud bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Carbonate",
+   "Gad 2 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Bass Highway, Dick Bass Highway 3",
+   "Wilbere top",
+   0.6
+  ],
+  [
+   "walk",
+   "Double Down 2",
+   "Peruvian top",
+   3.3
+  ],
+  [
+   "walk",
+   "Middle Tiger Tail 2",
+   "Gad 2 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp 2",
+   "Thunder Tube bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp 2",
+   "Conveyor #3 bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp 2",
+   "Thunder Tube top",
+   2.9
+  ],
+  [
+   "walk",
+   "Thunder Alley",
+   "Baby Thunder bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Ski Patrol Gully",
+   "Mineral Basin bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Path to Paradise",
+   "Little Cloud top",
+   0.9
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Baby Thunder top",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Mini Miners' Camp 2",
+   "Baby Thunder bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Conveyor #3 bottom",
+   "Thunder Tube bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Conveyor #3 bottom",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   3.4
+  ],
+  [
+   "walk",
+   "Conveyor #3 bottom",
+   "Thunder Junction / Creek Road",
+   1.2
+  ],
+  [
+   "walk",
+   "Conveyor #3 bottom",
+   "Lower Mini Miners' Camp 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Conveyor #3 bottom",
+   "Thunder Tube top",
+   0.8
+  ],
+  [
+   "walk",
+   "Gadzoom bottom",
+   "Thunder Tube bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Gadzoom bottom",
+   "Mid-Gad Lift bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Gadzoom bottom",
+   "Wilbere bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Gadzoom bottom",
+   "Thunder Tube top",
+   3.0
+  ],
+  [
+   "walk",
+   "Wilbere bottom",
+   "Thunder Tube bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Wilbere bottom",
+   "Mid-Gad Lift bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Wilbere bottom",
+   "Gadzoom bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Thunder Tube top",
+   "Thunder Tube bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Thunder Tube top",
+   "Lower Mini Miners' Camp",
+   0.7
+  ],
+  [
+   "walk",
+   "Thunder Tube top",
+   "Thunder Junction / Creek Road",
+   1.9
+  ],
+  [
+   "walk",
+   "Thunder Tube top",
+   "Lower Mini Miners' Camp 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Thunder Tube top",
+   "Conveyor #3 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Thunder Tube top",
+   "Gadzoom bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Peruvian bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Chickadee Lift bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Peruvian Tunnel top",
+   4.3
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Peruvian Tunnel top",
+   4.0
+  ],
+  [
+   "walk",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   "Lower Mini Miners' Camp",
+   4.6
+  ],
+  [
+   "walk",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   "Mid-Gad Lift bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   "Conveyor #3 bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   "Gadzoom bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   "Wilbere bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   "Thunder Tube top",
+   4.8
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp",
+   "Lower Mini Miners' Camp",
+   2.0
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp",
+   "Wilbere bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Lower Mini Miners' Camp",
+   "Mid-Gad Lift bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Lower Mini Miners' Camp",
+   "Wilbere bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "West 2nd Short",
+   "Lower Mini Miners' Camp",
+   3.8
+  ],
+  [
+   "walk",
+   "West 2nd Short",
+   "Mid-Gad Lift bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "West 2nd Short",
+   "Conveyor #3 bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "West 2nd Short",
+   "Wilbere bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Mid-Gad Lift bottom",
+   "Lower Mini Miners' Camp",
+   3.7
+  ],
+  [
+   "walk",
+   "Mid-Gad Lift bottom",
+   "Conveyor #3 bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Mid-Gad Lift bottom",
+   "Thunder Tube top",
+   3.8
+  ],
+  [
+   "walk",
+   "West 2nd South / Alice Avenue",
+   "Lower Mini Miners' Camp",
+   3.0
+  ],
+  [
+   "walk",
+   "West 2nd South / Alice Avenue",
+   "Mid-Gad Lift bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "West 2nd South / Alice Avenue",
+   "Gadzoom bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "West 2nd South / Alice Avenue",
+   "Wilbere bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp 2",
+   "Lower Mini Miners' Camp",
+   3.6
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp 2",
+   "Mid-Gad Lift bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp 2",
+   "Gadzoom bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp 2",
+   "Wilbere bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Conveyor #3 bottom",
+   "Lower Mini Miners' Camp",
+   1.5
+  ],
+  [
+   "walk",
+   "Conveyor #3 bottom",
+   "Mid-Gad Lift bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Conveyor #3 bottom",
+   "Gadzoom bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Conveyor #3 bottom",
+   "Wilbere bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Gadzoom bottom",
+   "Lower Mini Miners' Camp",
+   3.0
+  ],
+  [
+   "walk",
+   "Gadzoom bottom",
+   "Conveyor #3 bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Wilbere bottom",
+   "Lower Mini Miners' Camp",
+   4.7
+  ],
+  [
+   "walk",
+   "Wilbere bottom",
+   "Conveyor #3 bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Wilbere bottom",
+   "Thunder Tube top",
+   4.7
+  ],
+  [
+   "walk",
+   "Thunder Tube top",
+   "Mid-Gad Lift bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Thunder Tube top",
+   "Wilbere bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Lautrenoe",
+   "Middle Bassackwards",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Lautrenoe",
+   "Middle Bassackwards 4",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Lautrenoe",
+   "Hoop's / Goblin Gully",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Lautrenoe",
+   "Upper Bassackwards 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Middle Bassackwards",
+   "Middle Bassackwards 4",
+   4.6
+  ],
+  [
+   "walk",
+   "Middle Bassackwards",
+   "Hoop's / Goblin Gully",
+   4.1
+  ],
+  [
+   "walk",
+   "Middle Bassackwards",
+   "Upper Bassackwards 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Gadzoom top",
+   "Middle Bassackwards",
+   5.4
+  ],
+  [
+   "walk",
+   "Gadzoom top",
+   "Middle Bassackwards 4",
+   6.0
+  ],
+  [
+   "walk",
+   "Gadzoom top",
+   "Hoop's / Goblin Gully",
+   5.5
+  ],
+  [
+   "walk",
+   "Gadzoom top",
+   "Upper Bassackwards 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 4",
+   "Middle Bassackwards",
+   4.6
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 4",
+   "Hoop's / Goblin Gully",
+   4.8
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 4",
+   "Upper Bassackwards 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Hoop's / Goblin Gully",
+   "Middle Bassackwards",
+   4.1
+  ],
+  [
+   "walk",
+   "Hoop's / Goblin Gully",
+   "Middle Bassackwards 4",
+   4.8
+  ],
+  [
+   "walk",
+   "Hoop's / Goblin Gully",
+   "Upper Bassackwards 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Upper Bassackwards 2",
+   "Middle Bassackwards",
+   2.6
+  ],
+  [
+   "walk",
+   "Upper Bassackwards 2",
+   "Middle Bassackwards 4",
+   3.3
+  ],
+  [
+   "walk",
+   "Upper Bassackwards 2",
+   "Hoop's / Goblin Gully",
+   2.8
+  ],
+  [
+   "walk",
+   "Lazy Susan / Easy Street",
+   "Lazy Susan / West 2nd South Long",
+   4.2
+  ],
+  [
+   "walk",
+   "Lazy Susan / Easy Street",
+   "White Rabbit / Thunder Alley",
+   2.9
+  ],
+  [
+   "walk",
+   "Lazy Susan / Easy Street",
+   "Unnamed run / Thunder Alley",
+   1.9
+  ],
+  [
+   "walk",
+   "Lazy Susan / Easy Street",
+   "Tiny Tiger",
+   2.5
+  ],
+  [
+   "walk",
+   "Lazy Susan / Easy Street",
+   "Easy Street",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Exit Gully",
+   "Lazy Susan / Easy Street",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Exit Gully",
+   "Lazy Susan / West 2nd South Long",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Exit Gully",
+   "White Rabbit / Thunder Alley",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Exit Gully",
+   "Unnamed run / Thunder Alley",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Exit Gully",
+   "Tiny Tiger",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Exit Gully",
+   "Easy Street",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Alley",
+   "Lazy Susan / Easy Street",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Alley",
+   "Lazy Susan / West 2nd South Long",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Alley",
+   "White Rabbit / Thunder Alley",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Alley",
+   "Tiny Tiger",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Alley",
+   "Easy Street",
+   3.5
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Lazy Susan / Easy Street",
+   3.3
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Lazy Susan / West 2nd South Long",
+   5.8
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "White Rabbit / Thunder Alley",
+   4.5
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Unnamed run / Thunder Alley",
+   3.5
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Tiny Tiger",
+   4.1
+  ],
+  [
+   "walk",
+   "Conveyor #3 bottom",
+   "Baby Thunder bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Thunder Junction / Creek Road",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   3.2
+  ],
+  [
+   "walk",
+   "Thunder Alley",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Mini Miners' Camp 2",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   1.9
+  ],
+  [
+   "walk",
+   "Thunder Tube top",
+   "Baby Thunder bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Thunder Tube top",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   4.2
+  ],
+  [
+   "walk",
+   "Bassanova",
+   "Lupine Loop 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Bassanova 2",
+   "Lupine Loop 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Ski Patrol Gully",
+   "Lupine Loop 3",
+   3.5
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Regulator Johnson / Upper Primrose Path",
+   3.5
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Little Cloud top",
+   4.0
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Regulator Johnson",
+   2.7
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "High Baldy Traverse 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Bird's Nest 2",
+   "Sugarloaf Connector",
+   4.2
+  ],
+  [
+   "walk",
+   "Upper Mach Schnell / Lower Mach Schnell",
+   "Bass Highway, Dick Bass Highway",
+   5.8
+  ],
+  [
+   "walk",
+   "Upper Mach Schnell / Lower Mach Schnell",
+   "Bass Highway, Dick Bass Highway 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Bass Highway, Dick Bass Highway 3",
+   "Bass Highway, Dick Bass Highway",
+   3.5
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Path To Paradise 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Path To Paradise 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Path to Paradise",
+   3.5
+  ],
+  [
+   "walk",
+   "Regulator Johnson",
+   "Path To Paradise 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Regulator Johnson",
+   "Path To Paradise 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Regulator Johnson",
+   "Path to Paradise",
+   3.1
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Path To Paradise 2",
+   6.4
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Path To Paradise 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Path to Paradise",
+   4.3
+  ],
+  [
+   "walk",
+   "Path To Paradise 3",
+   "Path To Paradise 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Path To Paradise 3",
+   "Regulator Johnson",
+   3.5
+  ],
+  [
+   "walk",
+   "Path To Paradise 3",
+   "Path to Paradise",
+   2.3
+  ],
+  [
+   "walk",
+   "Path to Paradise",
+   "Path To Paradise 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Path to Paradise",
+   "Regulator Johnson",
+   3.1
+  ],
+  [
+   "walk",
+   "Path to Paradise",
+   "Path To Paradise 3",
+   2.3
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Path To Paradise 3",
+   5.3
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Path to Paradise",
+   4.9
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 5",
+   "Sneaky Pete / Upper Big Emma",
+   4.9
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 5",
+   "Middle Bassackwards 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 5",
+   "Upper Big Emma 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower Chip's / Adager",
+   "Bass Highway, Dick Bass Highway 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Bass Highway, Dick Bass Highway 2",
+   "Lower Chip's / Adager",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Chip's",
+   "Lower Chip's / Adager",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Chip's",
+   "Bass Highway, Dick Bass Highway 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Chickadee Lift bottom",
+   "Lower Chip's / Adager",
+   1.6
+  ],
+  [
+   "walk",
+   "Lower Chip's 2",
+   "Lower Chip's / Adager",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Chip's 2",
+   "Bass Highway, Dick Bass Highway 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Chip's 2",
+   "Chickadee Lift bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Lower Chip's 2",
+   "Aerial Tram bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access / Who Dunnit",
+   "Lower Chip's / Adager",
+   4.2
+  ],
+  [
+   "walk",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access / Who Dunnit",
+   "Bass Highway, Dick Bass Highway 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access / Who Dunnit",
+   "Chickadee Lift bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Condo & Bypas Road Parking Access, Condo & Bypass Rd. Parking Access / Who Dunnit",
+   "Aerial Tram bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Lower Chip's / Adager",
+   1.8
+  ],
+  [
+   "walk",
+   "Aerial Tram bottom",
+   "Bass Highway, Dick Bass Highway 2",
+   2.6
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Split Rock Gully",
+   "Chip's Run / Upper Chip's Run",
+   2.3
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Split Rock Gully",
+   "Unnamed run 2",
+   2.5
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Split Rock Gully",
+   "Double Down 2",
+   3.5
+  ],
+  [
+   "walk",
+   "High Baldy Traverse",
+   "Chip's Run / Upper Chip's Run",
+   2.3
+  ],
+  [
+   "walk",
+   "High Baldy Traverse",
+   "Unnamed run 2",
+   2.5
+  ],
+  [
+   "walk",
+   "High Baldy Traverse",
+   "Double Down 2",
+   2.7
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 2",
+   "Chip's Run / Upper Chip's Run",
+   2.7
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 2",
+   "Unnamed run 2",
+   3.0
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 2",
+   "Double Down 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Peruvian Tunnel top",
+   "Chip's Run / Upper Chip's Run",
+   3.7
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 3",
+   "Chip's Run / Upper Chip's Run",
+   3.2
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 3",
+   "Unnamed run 2",
+   3.5
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 3",
+   "Double Down 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Chip's Run / Upper Chip's Run",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Double Down 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Double Down 2",
+   "Chip's Run / Upper Chip's Run",
+   4.3
+  ],
+  [
+   "walk",
+   "Double Down 2",
+   "Peruvian Tunnel top",
+   6.0
+  ],
+  [
+   "walk",
+   "Double Down 2",
+   "Unnamed run 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Chickadee Lift top",
+   "Peruvian bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Chickadee Lift top",
+   "Bass Highway, Dick Bass Highway 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Chickadee Lift top",
+   "Aerial Tram bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Chickadee Lift top",
+   "Lower Chip's / Adager",
+   4.8
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Peruvian top",
+   5.6
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Lupine Loop 2",
+   4.0
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Double Down",
+   5.0
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Unnamed run 2",
+   6.1
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Double Down 2",
+   3.9
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Chip's Run / Upper Chip's Run",
+   6.6
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Split Rock Gully",
+   "Lupine Loop 2",
+   3.6
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Split Rock Gully",
+   "Double Down",
+   4.5
+  ],
+  [
+   "walk",
+   "High Baldy Traverse",
+   "Lupine Loop 2",
+   2.8
+  ],
+  [
+   "walk",
+   "High Baldy Traverse",
+   "Double Down",
+   3.8
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 2",
+   "Lupine Loop 2",
+   2.3
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 2",
+   "Double Down",
+   3.2
+  ],
+  [
+   "walk",
+   "Peruvian top",
+   "Lupine Loop 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Peruvian top",
+   "Double Down",
+   4.7
+  ],
+  [
+   "walk",
+   "Lupine Loop 2",
+   "Peruvian top",
+   3.8
+  ],
+  [
+   "walk",
+   "Lupine Loop 2",
+   "Double Down",
+   3.1
+  ],
+  [
+   "walk",
+   "Lupine Loop 2",
+   "Unnamed run 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Lupine Loop 2",
+   "Double Down 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Lupine Loop 2",
+   "Chip's Run / Upper Chip's Run",
+   4.7
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 3",
+   "Lupine Loop 2",
+   3.1
+  ],
+  [
+   "walk",
+   "High Baldy Traverse 3",
+   "Double Down",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Lupine Loop 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Double Down",
+   5.2
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Lupine Loop 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Double Down",
+   6.4
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Double Down 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Peruvian top",
+   4.8
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Lupine Loop 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Double Down",
+   6.0
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Double Down 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Mineral Basin bottom",
+   "Baldy bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Bassanova",
+   "Baldy bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Ski Patrol Gully",
+   "Baldy bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Regulator Johnson / Unnamed run",
+   4.4
+  ],
+  [
+   "walk",
+   "High Baldy Traverse / Not Quite Corn",
+   "Upper Silver Fox / Unnamed run",
+   4.4
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Regulator Johnson / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Upper Silver Fox / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Baldy top",
+   "Bird's Nest",
+   6.0
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Peruvian top",
+   5.3
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Chip's Run / Upper Chip's Run",
+   6.3
+  ],
+  [
+   "walk",
+   "Mineral Basin top",
+   "Unnamed run 2",
+   6.6
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Chip's Run / Upper Chip's Run",
+   5.8
+  ],
+  [
+   "walk",
+   "Aerial Tram top",
+   "Unnamed run 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Middle Bassackwards / Lower Bassackwards",
+   "Tricep / Elbow Proper",
+   4.1
+  ],
+  [
+   "walk",
+   "Middle Bassackwards / Lower Bassackwards",
+   "Unnamed run / Elbow Proper",
+   3.5
+  ],
+  [
+   "walk",
+   "Middle Bassackwards / Lower Bassackwards",
+   "Get Serious Chute #3 / West 2nd South",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Gad 2 Return",
+   "Tricep / Elbow Proper",
+   6.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Gad 2 Return",
+   "Middle Bassackwards / Lower Bassackwards",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Gad 2 Return",
+   "Unnamed run / Elbow Proper",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Gad 2 Return",
+   "Get Serious Chute #3 / West 2nd South",
+   6.1
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 3",
+   "Tricep / Elbow Proper",
+   6.5
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 3",
+   "Middle Bassackwards / Lower Bassackwards",
+   4.1
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 3",
+   "Unnamed run / Elbow Proper",
+   6.0
+  ],
+  [
+   "walk",
+   "Middle Bassackwards 3",
+   "Get Serious Chute #3 / West 2nd South",
+   6.6
+  ],
+  [
+   "walk",
+   "Get Serious Chute #3 / Carbonate",
+   "Tricep / Elbow Proper",
+   5.7
+  ],
+  [
+   "walk",
+   "Get Serious Chute #3 / Carbonate",
+   "Middle Bassackwards / Lower Bassackwards",
+   3.3
+  ],
+  [
+   "walk",
+   "Get Serious Chute #3 / Carbonate",
+   "Unnamed run / Elbow Proper",
+   5.2
+  ],
+  [
+   "walk",
+   "Get Serious Chute #3 / Carbonate",
+   "Get Serious Chute #3 / West 2nd South",
+   5.8
+  ],
+  [
+   "walk",
+   "Carbonate",
+   "Tricep / Elbow Proper",
+   6.5
+  ],
+  [
+   "walk",
+   "Carbonate",
+   "Middle Bassackwards / Lower Bassackwards",
+   4.1
+  ],
+  [
+   "walk",
+   "Carbonate",
+   "Unnamed run / Elbow Proper",
+   6.0
+  ],
+  [
+   "walk",
+   "Carbonate",
+   "Get Serious Chute #3 / West 2nd South",
+   6.6
+  ],
+  [
+   "walk",
+   "Middle Tiger Tail 2",
+   "Tricep / Elbow Proper",
+   6.6
+  ],
+  [
+   "walk",
+   "Middle Tiger Tail 2",
+   "Middle Bassackwards / Lower Bassackwards",
+   4.2
+  ],
+  [
+   "walk",
+   "Middle Tiger Tail 2",
+   "Unnamed run / Elbow Proper",
+   6.0
+  ],
+  [
+   "walk",
+   "Middle Tiger Tail 2",
+   "Get Serious Chute #3 / West 2nd South",
+   6.6
+  ],
+  [
+   "walk",
+   "Thunder Tube bottom",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   5.9
+  ],
+  [
+   "walk",
+   "Thunder Tube bottom",
+   "Thunder Junction / Creek Road",
+   3.7
+  ],
+  [
+   "walk",
+   "Thunder Tube bottom",
+   "Lower Mini Miners' Camp 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Thunder Tube bottom",
+   "Baby Thunder bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   5.5
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp",
+   "Thunder Junction / Creek Road",
+   3.2
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp",
+   "Lower Mini Miners' Camp 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp",
+   "Baby Thunder bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Lower Mini Miners' Camp",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Mini Miners' Camp",
+   "Thunder Junction / Creek Road",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Mini Miners' Camp",
+   "Lower Mini Miners' Camp 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Mini Miners' Camp",
+   "Baby Thunder bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Thunder Junction / Creek Road",
+   "Thunder Tube bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Thunder Junction / Creek Road",
+   "Lower Mini Miners' Camp 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Thunder Junction / Creek Road",
+   "Thunder Tube top",
+   1.9
+  ],
+  [
+   "walk",
+   "Thunder Junction / Creek Road",
+   "Lower Mini Miners' Camp",
+   2.6
+  ],
+  [
+   "walk",
+   "Thunder Junction / Creek Road",
+   "Mid-Gad Lift bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Thunder Junction / Creek Road",
+   "Gadzoom bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Thunder Junction / Creek Road",
+   "Wilbere bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "West 2nd South / Alice Avenue",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   5.7
+  ],
+  [
+   "walk",
+   "West 2nd South / Alice Avenue",
+   "Thunder Junction / Creek Road",
+   3.4
+  ],
+  [
+   "walk",
+   "West 2nd South / Alice Avenue",
+   "Lower Mini Miners' Camp 2",
+   4.7
+  ],
+  [
+   "walk",
+   "West 2nd South / Alice Avenue",
+   "Baby Thunder bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp 2",
+   "Tiny Tiger / Lower Mini Miners' Camp",
+   6.9
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp 2",
+   "Thunder Junction / Creek Road",
+   4.6
+  ],
+  [
+   "walk",
+   "Upper Mini Miners' Camp 2",
+   "Lower Mini Miners' Camp 2",
+   5.9
+  ],
+  [
+   "walk",
+   "West 2nd Short / Upper Mini Miners' Camp",
+   "Thunder Junction / Creek Road",
+   6.7
+  ],
+  [
+   "walk",
+   "West 2nd Short",
+   "Thunder Junction / Creek Road",
+   5.0
+  ],
+  [
+   "walk",
+   "Mid-Gad Lift bottom",
+   "Thunder Junction / Creek Road",
+   5.7
+  ],
+  [
+   "walk",
+   "Gadzoom bottom",
+   "Thunder Junction / Creek Road",
+   4.9
+  ],
+  [
+   "walk",
+   "Gadzoom bottom",
+   "Lower Mini Miners' Camp 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Wilbere bottom",
+   "Thunder Junction / Creek Road",
+   6.6
+  ],
+  [
+   "walk",
+   "West 2nd Short",
+   "Lower Mini Miners' Camp 2",
+   6.3
+  ]
+ ],
+ "base": "Mid-Gad Lift bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Utah",
+  "total_lifts": "13",
+  "downhill_trails": "197",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

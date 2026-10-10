@@ -1,6 +1,7 @@
 """Build QUASAR resort graphs from the raw datasets in data/ (gitignored, ~1 GB).
 
     python datasets.py "Crystal Mountain" --region Washington    -> resorts/crystal-mountain-washington.json
+    python datasets.py --top-us                                  -> the 3D map's 20 resorts, same slugs (resorts/vail.json)
 
 OpenSkiMap (data/openskidata) gives the routing graph: 3D run and lift lines tagged with their ski area.
 Global Ski Atlas (data/global-ski-atlas) gives catalogue stats (lift/trail counts, website) stored as "info" and,
@@ -20,7 +21,7 @@ GSA = ROOT / "data" / "global-ski-atlas"
 
 # Calibration knobs: real lifts and skiers vary, tune these against what skiers actually report.
 SNAP_M = 40  # trail ends closer than this are one junction
-LINK_M = 150  # walk/skate links bridge mapping gaps up to this far (lift top -> run, run end -> lift, dead ends)
+LINK_M = 250  # walk/skate links bridge mapping gaps up to this far (lift top -> run, run end -> lift, dead ends)
 LINK_CLIMB_M = 15  # a link may climb at most this much (chained walks up to 2 * LINK_M are merged into one)
 WALK_MPS = 1.2
 SKI_SPEED_MPS = 4.0  # average descent speed including short stops
@@ -85,6 +86,14 @@ def lift_speed(p):
     return LIFT_SPEED_MPS.get(t, DRAG_SPEED_MPS)
 
 
+def _two_way(p):
+    """Ridable down too: tagged oneway=no, or an untagged cabin lift (village/transfer gondolas, trams)."""
+    # ponytail: chairs are only two-way when tagged; tag-free download chairs are rare enough to skip
+    return p.get("oneway") is False or (
+        p.get("oneway") is None and p["liftType"] in ("gondola", "cable_car", "funicular")
+    )
+
+
 def build_graph(area):
     aid = area["id"]
 
@@ -132,6 +141,8 @@ def build_graph(area):
             a[3].append(f"{name} bottom")
             b[3].append(f"{name} top")
             edges.append(("lift", name, a, b, _length(pts), p))
+            if _two_way(p):
+                edges.append(("lift", name, b, a, _length(pts), p))
             continue
         # split the run wherever it passes a junction (another trail joining mid-run)
         cuts = [(i, c) for i, pt in enumerate(pts) if (c := cluster_of(pt))]
@@ -214,7 +225,8 @@ def _length(pts):
 
 
 def _keep_base_component(r):
-    """Base = the lift bottom with the biggest round-trip network; drop junctions outside it (mapping gaps)."""
+    """Base = the lift bottom with the biggest round-trip network (ties: most runs ending there); drop junctions
+    outside it (mapping gaps)."""
     es = r["lifts"] + r["runs"] + r["links"]
 
     def reach(start, fwd):
@@ -228,10 +240,18 @@ def _keep_base_component(r):
                     stack.append(b)
         return seen
 
-    # ponytail: one DFS pair per lift, fine for tens of lifts
-    loops = {e[1]: reach(e[1], True) & reach(e[1], False) for e in r["lifts"]}
-    r["base"] = max(loops, key=lambda n: (len(loops[n]), -r["nodes"][n][2]))
-    keep = loops[r["base"]]
+    z = {n: v[2] for n, v in r["nodes"].items()}
+    bottoms = {u for _, u, v, _ in r["lifts"] if z[u] < z[v]}  # uphill direction only (two-way lifts run both)
+    # ponytail: one DFS pair per lift bottom, fine for tens of lifts
+    loops = {n: reach(n, True) & reach(n, False) for n in bottoms}
+    keep = max(loops.values(), key=len)
+    # base area = low and busy: among bottoms in the network's lowest quarter, the one most runs finish at
+    lo, hi = min(z[n] for n in keep), max(z[n] for n in keep)
+    runs_in = {}
+    for _, _, v, _ in r["runs"]:
+        runs_in[v] = runs_in.get(v, 0) + 1
+    low = [n for n in bottoms if n in keep and z[n] <= lo + (hi - lo) / 4]
+    r["base"] = max(low, key=lambda n: (runs_in.get(n, 0), -z[n]))
     dropped = sorted({e[0] for e in r["lifts"] if e[1] not in keep or e[2] not in keep})
     r["nodes"] = {k: v for k, v in r["nodes"].items() if k in keep}
     for kind in ("lifts", "runs", "links"):
@@ -239,16 +259,9 @@ def _keep_base_component(r):
     return r, dropped
 
 
-if __name__ == "__main__":
-    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("name", help="ski area name exactly as in OpenSkiMap")
-    ap.add_argument("--region", help="region or country to disambiguate, e.g. Washington")
-    a = ap.parse_args()
-
-    area = find_area(a.name, a.region)
+def write(area, slug):
     resort, dropped_lifts = build_graph(area)
     resort["info"] = atlas_info(area)
-    slug = re.sub(r"[^a-z0-9]+", "-", f"{a.name} {a.region or ''}".lower()).strip("-")
     out = ROOT / "resorts" / f"{slug}.json"
     out.write_text(json.dumps(resort, indent=1, ensure_ascii=False), encoding="utf-8")
 
@@ -262,3 +275,24 @@ if __name__ == "__main__":
         print(f"  Global Ski Atlas: {info['total_lifts']} lifts, vertical {info['vertical_drop_m'] or 'n/a'} m")
     else:
         print("  not listed in Global Ski Atlas (no info or cross-check)")
+
+
+if __name__ == "__main__":
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("name", nargs="?", help="ski area name exactly as in OpenSkiMap")
+    ap.add_argument("--region", help="region or country to disambiguate, e.g. Washington")
+    ap.add_argument("--top-us", action="store_true", help="build the 3D map's 20 resorts (extract.TOP_US slugs)")
+    a = ap.parse_args()
+
+    if a.top_us:
+        from extract import TOP_US
+
+        for slug, aid in TOP_US.items():
+            area = next(
+                f["properties"] for f in features(OSD / "ski_areas.geojson", aid) if f["properties"]["id"] == aid
+            )
+            write(area, slug)
+    elif a.name:
+        write(find_area(a.name, a.region), re.sub(r"[^a-z0-9]+", "-", f"{a.name} {a.region or ''}".lower()).strip("-"))
+    else:
+        ap.error("give a ski area name or --top-us")

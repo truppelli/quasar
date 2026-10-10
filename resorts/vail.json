@@ -1,0 +1,10147 @@
+{
+ "name": "Vail",
+ "source": "OpenSkiMap ski area 88a22ba23468cf120025366ef40f004c9043546e",
+ "origin_lonlat": [
+  -106.35939718732949,
+  39.61111705304544
+ ],
+ "nodes": {
+  "Pepi's Face / Gitalong Road": [
+   -1366,
+   2929,
+   2570.9
+  ],
+  "Pepi's Face / Riva Catwalk": [
+   -1281,
+   3046,
+   2497.8
+  ],
+  "Unnamed run / Christmas": [
+   -531,
+   302,
+   3103.5
+  ],
+  "Unnamed run / Meadows": [
+   -605,
+   265,
+   3100.3
+  ],
+  "Hunky Dory / Windows Road": [
+   -895,
+   -585,
+   3344.2
+  ],
+  "Hunky Dory / Meadows": [
+   -840,
+   -47,
+   3207.6
+  ],
+  "Bwana / Simba": [
+   -2558,
+   1189,
+   3067.7
+  ],
+  "Bwana / Bwana Loop": [
+   -2419,
+   2896,
+   2623.5
+  ],
+  "The Skipper / Windows Road": [
+   -603,
+   -597,
+   3326.6
+  ],
+  "The Skipper / Ramshorn": [
+   -508,
+   -239,
+   3221.0
+  ],
+  "Born Free / Lionshead Catwalk": [
+   -2304,
+   3119,
+   2537.3
+  ],
+  "Born Free": [
+   -2485,
+   3381,
+   2480.7
+  ],
+  "Black Forest Racing / Avanti - Lower": [
+   -1331,
+   1289,
+   2973.7
+  ],
+  "Black Forest Racing / Gitalong Road": [
+   -1109,
+   1814,
+   2862.1
+  ],
+  "Iron Mask / The Divide": [
+   2384,
+   -4689,
+   3395.3
+  ],
+  "Iron Mask / Big Rock Park - West": [
+   2816,
+   -3769,
+   3089.1
+  ],
+  "Orient Express / Silk Road": [
+   3449,
+   -1192,
+   3426.5
+  ],
+  "Orient Express / Silk Road - East": [
+   2978,
+   -2607,
+   3047.8
+  ],
+  "Tea Cup Express Lift top": [
+   1987,
+   -988,
+   3424.9
+  ],
+  "Sourdough Express Lift top": [
+   2194,
+   -649,
+   3421.5
+  ],
+  "Born Free Express Lift bottom": [
+   -2464,
+   3508,
+   2476.0
+  ],
+  "Wapiti bottom": [
+   2625,
+   -596,
+   3422.6
+  ],
+  "China Bowl to Two Elk / Flap Jack": [
+   2197,
+   -373,
+   3390.4
+  ],
+  "Riva Glade / Christmas": [
+   179,
+   216,
+   3288.5
+  ],
+  "Riva Glade / Riva Ridge - Upper": [
+   -211,
+   845,
+   3050.5
+  ],
+  "Genghis Kahn / Jade Glade": [
+   2082,
+   -1018,
+   3392.3
+  ],
+  "Genghis Kahn / Poppyfields": [
+   2233,
+   -2057,
+   3065.8
+  ],
+  "CJ's Glade / The Divide": [
+   2229,
+   -4307,
+   3360.1
+  ],
+  "Earl's Express Lift bottom": [
+   1474,
+   -4464,
+   3085.3
+  ],
+  "Hornsilver / Grand Review": [
+   4312,
+   -4095,
+   3499.4
+  ],
+  "Hornsilver / Big Rock Park - West": [
+   2875,
+   -3899,
+   3119.0
+  ],
+  "Boomer / Tin Pants": [
+   1602,
+   -202,
+   3267.9
+  ],
+  "Ouzo / Club Walk": [
+   -1850,
+   -123,
+   3111.5
+  ],
+  "Ouzo / Dealer's Choice": [
+   -2174,
+   -224,
+   2989.7
+  ],
+  "China Bridge Access Road / Silk Road - East": [
+   2478,
+   -2808,
+   3000.6
+  ],
+  "China Bridge Access Road / Cloud 9 - Middle": [
+   2274,
+   -2903,
+   2972.6
+  ],
+  "Pete's Express Lift bottom": [
+   2626,
+   -3328,
+   3044.1
+  ],
+  "Little Eagle top": [
+   -2151,
+   725,
+   3151.7
+  ],
+  "Little Eagle bottom": [
+   -2125,
+   1030,
+   3114.8
+  ],
+  "Riva Catwalk": [
+   -862,
+   2756,
+   2547.6
+  ],
+  "Dealer's Choice / Baccarat": [
+   -1883,
+   -890,
+   3192.3
+  ],
+  "Windows / Windows Road": [
+   -463,
+   -635,
+   3332.1
+  ],
+  "Windows / Sundown Catwalk": [
+   -623,
+   -1401,
+   3029.7
+  ],
+  "Poppyfields East / Silk Road": [
+   3347,
+   -1019,
+   3442.3
+  ],
+  "Poppyfields East / Chopstix": [
+   2646,
+   -1188,
+   3264.2
+  ],
+  "Bwana Loop / Born Free": [
+   -2099,
+   2792,
+   2652.4
+  ],
+  "Bwana Loop / Born Free 2": [
+   -2153,
+   3011,
+   2584.5
+  ],
+  "Skyline Express Lift top": [
+   2639,
+   -5228,
+   3498.7
+  ],
+  "The Divide / Cloud 9 - Lower": [
+   1743,
+   -2988,
+   2926.5
+  ],
+  "Chopstix / China Bowl to Two Elk": [
+   3170,
+   -632,
+   3464.9
+  ],
+  "Chopstix / Poppyfields": [
+   2601,
+   -1249,
+   3259.0
+  ],
+  "Black Forest bottom": [
+   -1199,
+   1926,
+   2840.9
+  ],
+  "Unnamed run / Born Free": [
+   -2492,
+   3465,
+   2476.4
+  ],
+  "Cloud 9 - Middle / China Spur": [
+   2798,
+   -3156,
+   3088.5
+  ],
+  "Faro / Ridge Route": [
+   -1334,
+   -18,
+   3278.7
+  ],
+  "Faro / Showboat": [
+   -1588,
+   -416,
+   3120.5
+  ],
+  "Bear Tree / Gitalong Road": [
+   -1714,
+   2334,
+   2738.1
+  ],
+  "Bear Tree / Gitalong Road 2": [
+   -1718,
+   3110,
+   2546.4
+  ],
+  "Highline Express Lift top": [
+   1995,
+   76,
+   3359.6
+  ],
+  "Tin Pants": [
+   1972,
+   -162,
+   3337.2
+  ],
+  "Golden Peak Terrain Park / Gopher Hill": [
+   -896,
+   2978,
+   2510.4
+  ],
+  "Gitalong Road / Mill Creek Road": [
+   -1201,
+   2751,
+   2607.6
+  ],
+  "Mongolia top": [
+   4250,
+   -1230,
+   3492.6
+  ],
+  "Tea Cup Express Lift bottom": [
+   1662,
+   -2950,
+   2919.1
+  ],
+  "The Preserve / Post Road": [
+   -2387,
+   2238,
+   2795.4
+  ],
+  "Bwana Loop": [
+   -2279,
+   2840,
+   2643.0
+  ],
+  "O.S. / Ptarmigan Ridge": [
+   -937,
+   -2064,
+   3152.9
+  ],
+  "O.S. / Sundown Catwalk": [
+   -348,
+   -2096,
+   2907.9
+  ],
+  "Northface Catwalk": [
+   126,
+   1261,
+   2880.8
+  ],
+  "Northface Catwalk / Riva Ridge - Lower": [
+   -612,
+   1522,
+   2776.5
+  ],
+  "Orient Express Lift top": [
+   3217,
+   -637,
+   3468.8
+  ],
+  "Mongolia bottom": [
+   3765,
+   -1240,
+   3403.4
+  ],
+  "Eagle Bahn Gondola top": [
+   -2314,
+   790,
+   3146.1
+  ],
+  "Unnamed run / Eagle's Nest Ridge": [
+   -2311,
+   715,
+   3144.7
+  ],
+  "Boomer / Flap Jack": [
+   2214,
+   -444,
+   3401.4
+  ],
+  "Boomer": [
+   1980,
+   -405,
+   3360.5
+  ],
+  "Windows Road / Ramshorn": [
+   20,
+   -653,
+   3406.1
+  ],
+  "Mill Creek Road / Riva Catwalk": [
+   -669,
+   1994,
+   2670.1
+  ],
+  "Pickeroon - Upper / Eagle's Nest Ridge": [
+   -1447,
+   222,
+   3248.1
+  ],
+  "Pickeroon - Upper / Pickeroon - Lower": [
+   -1507,
+   843,
+   3102.7
+  ],
+  "Trans Montane / Gitalong Road": [
+   -291,
+   778,
+   3041.4
+  ],
+  "Trans Montane / Riva Ridge - Upper": [
+   -249,
+   862,
+   3037.4
+  ],
+  "Earl's Express Lift top": [
+   2624,
+   -5289,
+   3498.3
+  ],
+  "Headwall / Sleepytime Road": [
+   741,
+   -764,
+   3366.0
+  ],
+  "Headwall / Campbell's": [
+   946,
+   -1427,
+   3101.5
+  ],
+  "Silk Road": [
+   3372,
+   -1114,
+   3434.6
+  ],
+  "Shangri-La / Poppyfields": [
+   2229,
+   -1876,
+   3102.9
+  ],
+  "Safari - Lower / Safari": [
+   -2659,
+   2808,
+   2665.0
+  ],
+  "Safari - Lower / Simba": [
+   -2622,
+   3112,
+   2537.8
+  ],
+  "Morning Thunder / Sleepytime Road": [
+   1239,
+   -1886,
+   3226.0
+  ],
+  "Morning Thunder / Sleepytime Road 2": [
+   1556,
+   -2221,
+   3077.7
+  ],
+  "Roger's Run / Northstar": [
+   843,
+   931,
+   2963.6
+  ],
+  "High Noon Express Lift top": [
+   243,
+   -722,
+   3428.4
+  ],
+  "Northface Catwalk / Unnamed run": [
+   704,
+   994,
+   2957.6
+  ],
+  "Campbell's / Apres Vous": [
+   330,
+   -996,
+   3384.5
+  ],
+  "Sleepytime Road / First Step": [
+   500,
+   -703,
+   3380.8
+  ],
+  "Orient Express Lift bottom": [
+   2330,
+   -2804,
+   2989.6
+  ],
+  "Sleepytime Road": [
+   1428,
+   -1124,
+   3305.3
+  ],
+  "Lost Boy": [
+   -2370,
+   -434,
+   3054.4
+  ],
+  "Wow / Sundown Catwalk": [
+   -538,
+   -1626,
+   2979.2
+  ],
+  "Pickeroon - Lower / Lionsway - Upper": [
+   -1448,
+   1222,
+   2975.9
+  ],
+  "Gandy Dancer / Swingsville": [
+   135,
+   -214,
+   3350.7
+  ],
+  "Gandy Dancer / Northstar": [
+   708,
+   487,
+   3040.8
+  ],
+  "Sun Down Express bottom": [
+   -151,
+   -2291,
+   2864.7
+  ],
+  "Sleepytime Road 2": [
+   1595,
+   -2246,
+   3075.4
+  ],
+  "Highline Express Lift bottom": [
+   655,
+   1561,
+   2826.3
+  ],
+  "Sun Up Express Lift top": [
+   1945,
+   -1001,
+   3426.1
+  ],
+  "Wildwood Express Lift top": [
+   -953,
+   -654,
+   3347.4
+  ],
+  "Pete's Express Lift top": [
+   4422,
+   -4212,
+   3525.2
+  ],
+  "Grand Review / Grand Review - Lower": [
+   3829,
+   -3703,
+   3394.7
+  ],
+  "Zot / Swingsville": [
+   166,
+   -541,
+   3409.5
+  ],
+  "Zot / Whistle Pig": [
+   -161,
+   -6,
+   3241.5
+  ],
+  "Hunky Dory": [
+   -878,
+   -136,
+   3220.4
+  ],
+  "South Look Ma / Ramshorn": [
+   -613,
+   170,
+   3115.0
+  ],
+  "38 / Riva Catwalk": [
+   -1171,
+   3001,
+   2504.3
+  ],
+  "Lodgepole": [
+   -1499,
+   1467,
+   2939.6
+  ],
+  "Lodgepole / Giant Steps": [
+   -1364,
+   1960,
+   2837.5
+  ],
+  "Morning Side Ridge / Ptarmigan Ridge": [
+   -1031,
+   -845,
+   3337.1
+  ],
+  "Morning Side Ridge / Straight Shot": [
+   -679,
+   -1325,
+   3065.0
+  ],
+  "Vail Village Catwalk - Upper / Gitalong Road": [
+   -1778,
+   2425,
+   2726.5
+  ],
+  "Vail Village Catwalk - Upper / Born Free": [
+   -1963,
+   2539,
+   2705.5
+  ],
+  "Cady's Cafe / Overeasy": [
+   -665,
+   346,
+   3094.3
+  ],
+  "Cady's Cafe / Gitalong Road": [
+   -623,
+   668,
+   3010.7
+  ],
+  "Hairbag Alley / Flap Jack": [
+   1157,
+   -85,
+   3192.8
+  ],
+  "Hairbag Alley / Northstar": [
+   794,
+   849,
+   2971.4
+  ],
+  "Silk Road - East": [
+   4499,
+   -1336,
+   3483.2
+  ],
+  "Inner Mongolia Bowl": [
+   4232,
+   -1715,
+   3315.4
+  ],
+  "Christmas / Swingsville": [
+   184,
+   -58,
+   3331.9
+  ],
+  "Avanti Express Lift top": [
+   -1276,
+   -38,
+   3282.2
+  ],
+  "Unnamed run / Eagle's Nest Ridge 2": [
+   -1234,
+   -52,
+   3278.7
+  ],
+  "Eagle's Nest Ridge / Coyote Crossing": [
+   -2364,
+   827,
+   3138.3
+  ],
+  "Overeasy / Mid Vail Express": [
+   -1264,
+   166,
+   3241.1
+  ],
+  "Mountain Top Express Lift bottom": [
+   -567,
+   381,
+   3091.1
+  ],
+  "Chaos Canyon / Lionsway - Upper": [
+   -1148,
+   913,
+   3018.2
+  ],
+  "Chaos Canyon / Gitalong Road": [
+   -1032,
+   1135,
+   2952.4
+  ],
+  "Gondola One top": [
+   -774,
+   389,
+   3103.4
+  ],
+  "Gitalong Road / Ben's Face": [
+   -875,
+   960,
+   2983.2
+  ],
+  "Gitalong Road": [
+   -1095,
+   1291,
+   2931.3
+  ],
+  "Christmas": [
+   217,
+   168,
+   3304.9
+  ],
+  "Prima - Brown's Face / Prima - Middle": [
+   406,
+   696,
+   3087.7
+  ],
+  "Ptarmigan Ridge / Wildcard": [
+   -1026,
+   -798,
+   3343.5
+  ],
+  "Wildcard": [
+   -1422,
+   -616,
+   3193.6
+  ],
+  "First Step / South Rim": [
+   500,
+   -440,
+   3301.1
+  ],
+  "Simba": [
+   -2840,
+   2573,
+   2743.6
+  ],
+  "Showboat / Eagle's Nest Ridge": [
+   -1005,
+   -694,
+   3341.5
+  ],
+  "Showboat / Wildcard": [
+   -1977,
+   -355,
+   3032.5
+  ],
+  "Cloud 9 - Middle": [
+   2733,
+   -3524,
+   3060.4
+  ],
+  "Gitalong Road 2": [
+   -1274,
+   2805,
+   2598.8
+  ],
+  "Windisch Way / Riva Catwalk": [
+   -930,
+   2765,
+   2537.4
+  ],
+  "Eagle's Nest Ridge": [
+   -1329,
+   108,
+   3261.1
+  ],
+  "Avanti - Upper / Cold Feet": [
+   -1365,
+   834,
+   3089.7
+  ],
+  "Ptarmigan Ridge": [
+   -1271,
+   -1179,
+   3303.7
+  ],
+  "Sundown Catwalk": [
+   -568,
+   -1482,
+   3005.9
+  ],
+  "The Star - Lower / Cloud 9": [
+   2960,
+   -3612,
+   3137.0
+  ],
+  "Little Ollie": [
+   2773,
+   -3579,
+   3067.3
+  ],
+  "Vail Village Catwalk - Middle / Born Free": [
+   -2065,
+   2736,
+   2659.6
+  ],
+  "Vail Village Catwalk - Middle / Lionshead Catwalk": [
+   -1751,
+   2990,
+   2576.3
+  ],
+  "Gitalong Road 3": [
+   -1477,
+   2908,
+   2586.0
+  ],
+  "Skid Road / Riva Ridge - Middle": [
+   -459,
+   1002,
+   2966.7
+  ],
+  "Brisk Walk": [
+   -631,
+   2239,
+   2686.0
+  ],
+  "Sleepytime Road 3": [
+   1423,
+   -1364,
+   3292.0
+  ],
+  "Sun Up Express Lift bottom": [
+   948,
+   -1560,
+   3088.6
+  ],
+  "Born Free Express Lift top": [
+   -2334,
+   1681,
+   2961.2
+  ],
+  "Unnamed run / Post Road": [
+   -2515,
+   1690,
+   2954.9
+  ],
+  "Black Forest Racing": [
+   -1089,
+   1774,
+   2866.2
+  ],
+  "North Rim / Northstar": [
+   509,
+   -323,
+   3265.5
+  ],
+  "Sleepytime Road 4": [
+   858,
+   -2396,
+   3169.3
+  ],
+  "Ranger Racoon's Escape / Brisk Walk": [
+   -536,
+   2087,
+   2711.1
+  ],
+  "Eagle's Nest Ridge 2": [
+   -2009,
+   552,
+   3184.3
+  ],
+  "Eagle's Nest Ridge 3": [
+   -1786,
+   389,
+   3213.2
+  ],
+  "Lindsey's / Lionsway - Upper": [
+   -1517,
+   1988,
+   2853.1
+  ],
+  "Swingsville": [
+   146,
+   -174,
+   3343.9
+  ],
+  "Slifer Express / Cappuccino": [
+   -250,
+   161,
+   3188.3
+  ],
+  "Lionsway - Upper / Avanti - Middle": [
+   -1357,
+   1122,
+   2987.3
+  ],
+  "Berries - Lower / Berries - Upper": [
+   -1618,
+   950,
+   3084.3
+  ],
+  "Lionsway - Upper": [
+   -1479,
+   1300,
+   2965.2
+  ],
+  "Black Forest Racing 2": [
+   -1232,
+   1418,
+   2951.1
+  ],
+  "Black Forest / Gitalong Road": [
+   -1150,
+   1878,
+   2850.0
+  ],
+  "Bwana": [
+   -2494,
+   2230,
+   2798.4
+  ],
+  "Cheetah Gulley / Simba": [
+   -2535,
+   3119,
+   2527.5
+  ],
+  "Ben's Face / Lionsway - Upper": [
+   -860,
+   690,
+   3059.6
+  ],
+  "Eagle's Nest Ridge 4": [
+   -1268,
+   12,
+   3272.2
+  ],
+  "Overeasy": [
+   -790,
+   330,
+   3115.2
+  ],
+  "Big Rock Park - East / Cloud 9": [
+   3460,
+   -4738,
+   3381.8
+  ],
+  "Big Rock Park - East / Big Rock Park - West": [
+   3219,
+   -4077,
+   3205.4
+  ],
+  "Silk Road - East 2": [
+   3459,
+   -2182,
+   3104.9
+  ],
+  "Game Creek Express Lift top": [
+   -995,
+   -749,
+   3345.3
+  ],
+  "Eagle's Nest Ridge 5": [
+   -1033,
+   -385,
+   3312.2
+  ],
+  "Lionsway - Lower / Born Free": [
+   -2036,
+   2407,
+   2732.9
+  ],
+  "Coyote Crossing / Minnie's - Upper": [
+   -1954,
+   1076,
+   3083.8
+  ],
+  "Sun Up Catwalk": [
+   75,
+   -2305,
+   2906.4
+  ],
+  "Eagle's Nest Ridge 6": [
+   -1065,
+   -342,
+   3306.6
+  ],
+  "Showboat": [
+   -1477,
+   -480,
+   3149.1
+  ],
+  "Tin Pants / Flap Jack": [
+   2164,
+   -241,
+   3370.2
+  ],
+  "Eagle's Nest Ridge 7": [
+   -1175,
+   -180,
+   3286.3
+  ],
+  "Eagle's Nest Ridge 8": [
+   -1706,
+   331,
+   3227.3
+  ],
+  "Ski School Ledges / Columbine": [
+   -1860,
+   1166,
+   3042.5
+  ],
+  "Ski School Ledges / Cub's Way": [
+   -1896,
+   1789,
+   2929.0
+  ],
+  "Gitalong Road 4": [
+   -1775,
+   2722,
+   2652.0
+  ],
+  "Minnie Haha / Practice Parkway": [
+   -2025,
+   1448,
+   3004.7
+  ],
+  "Minnie Haha / Cub's Way": [
+   -1976,
+   1781,
+   2933.4
+  ],
+  "The Woods / Lost Boy": [
+   -1398,
+   -952,
+   3306.4
+  ],
+  "The Woods / Baccarat": [
+   -1847,
+   -520,
+   3085.9
+  ],
+  "Genghis Kahn": [
+   2067,
+   -1488,
+   3244.0
+  ],
+  "Sleepytime Road 5": [
+   2252,
+   -2628,
+   2997.1
+  ],
+  "Gitalong Road 5": [
+   -1310,
+   2895,
+   2576.3
+  ],
+  "Skid Road": [
+   -330,
+   1181,
+   2926.7
+  ],
+  "Compromise / Riva Ridge - Lower": [
+   -643,
+   1259,
+   2846.1
+  ],
+  "Unnamed run / China Bowl to Two Elk": [
+   2700,
+   -597,
+   3424.9
+  ],
+  "Game Creek Express Lift bottom": [
+   -2229,
+   -212,
+   2986.1
+  ],
+  "Poppyfields": [
+   2341,
+   -1444,
+   3186.3
+  ],
+  "Cloud 9 - Middle 2": [
+   2700,
+   -3491,
+   3057.5
+  ],
+  "Born Free 2": [
+   -2439,
+   3154,
+   2518.0
+  ],
+  "Northface Catwalk 2": [
+   595,
+   1240,
+   2927.6
+  ],
+  "Klickity Klack / Skid Road": [
+   513,
+   1425,
+   2845.7
+  ],
+  "Cub's Way": [
+   -2153,
+   1723,
+   2945.5
+  ],
+  "Lionsway - Upper 2": [
+   -1541,
+   1808,
+   2892.9
+  ],
+  "Cold Feet / Lionsway - Upper": [
+   -983,
+   766,
+   3043.4
+  ],
+  "Skyline Express Lift bottom": [
+   1599,
+   -2972,
+   2913.5
+  ],
+  "Gopher Hill": [
+   -932,
+   3054,
+   2507.3
+  ],
+  "The Divide": [
+   2256,
+   -4260,
+   3354.1
+  ],
+  "South Rim / Timberline Catwalk": [
+   306,
+   -702,
+   3426.4
+  ],
+  "Cow's Face / Apres Vous": [
+   321,
+   -1284,
+   3327.6
+  ],
+  "Sun Up Catwalk 2": [
+   842,
+   -1701,
+   3062.1
+  ],
+  "Brisk Walk 2": [
+   -467,
+   1701,
+   2725.4
+  ],
+  "Hunky Dory 2": [
+   -866,
+   -279,
+   3257.0
+  ],
+  "Hunky Dory 3": [
+   -881,
+   -643,
+   3345.8
+  ],
+  "Wildcard / Lost Boy": [
+   -1230,
+   -940,
+   3321.0
+  ],
+  "Lionsway - Lower": [
+   -1976,
+   2232,
+   2773.8
+  ],
+  "Brisk Walk / Unnamed run": [
+   690,
+   1492,
+   2827.5
+  ],
+  "Minnie's - Upper / Practice Parkway": [
+   -1978,
+   1260,
+   3021.4
+  ],
+  "Safari / Post Road": [
+   -2741,
+   2204,
+   2817.5
+  ],
+  "Safari / Cheetah": [
+   -2704,
+   2848,
+   2651.8
+  ],
+  "Wildwood Express Lift bottom": [
+   -597,
+   345,
+   3094.6
+  ],
+  "Ptarmigan Ridge 2": [
+   -1096,
+   -855,
+   3331.8
+  ],
+  "Wildcard 2": [
+   -1302,
+   -818,
+   3290.4
+  ],
+  "Lost Boy 2": [
+   -1732,
+   -1103,
+   3267.8
+  ],
+  "Eagle's Nest Ridge 9": [
+   -1949,
+   501,
+   3191.6
+  ],
+  "Milt's Face / Apres Vous": [
+   329,
+   -904,
+   3390.6
+  ],
+  "Milt's Face / The Slot": [
+   697,
+   -1081,
+   3223.9
+  ],
+  "Sourdough Express Lift bottom": [
+   1542,
+   -273,
+   3267.6
+  ],
+  "Cloud 9 - Middle 3": [
+   2766,
+   -3376,
+   3064.7
+  ],
+  "Eagle's Nest Ridge 10": [
+   -2064,
+   604,
+   3176.8
+  ],
+  "Pika / Practice Parkway": [
+   -1819,
+   1124,
+   3053.1
+  ],
+  "Born Free 3": [
+   -2279,
+   2161,
+   2812.2
+  ],
+  "Northwoods Express Lift bottom": [
+   777,
+   971,
+   2960.0
+  ],
+  "Shangri-La": [
+   2866,
+   -1633,
+   3329.8
+  ],
+  "Poppyfields 2": [
+   2282,
+   -2301,
+   3045.2
+  ],
+  "Pride Express Lift top": [
+   -2394,
+   775,
+   3147.5
+  ],
+  "O.S.": [
+   -814,
+   -2181,
+   3118.3
+  ],
+  "Sundown Catwalk 2": [
+   -439,
+   -1846,
+   2931.3
+  ],
+  "Riva Bahn Express Lift bottom": [
+   -834,
+   3024,
+   2504.4
+  ],
+  "Black Forest top": [
+   -1259,
+   1346,
+   2961.4
+  ],
+  "The Divide 2": [
+   2478,
+   -4900,
+   3445.0
+  ],
+  "Hornsilver": [
+   2927,
+   -3961,
+   3137.1
+  ],
+  "Chicken Yard / Apres Vous": [
+   321,
+   -1405,
+   3282.7
+  ],
+  "Sun Up Catwalk 3": [
+   416,
+   -2095,
+   2967.3
+  ],
+  "Minnie's - Middle / Practice Parkway": [
+   -2108,
+   1492,
+   2994.5
+  ],
+  "Cub's Way / Unnamed run": [
+   -1268,
+   1983,
+   2836.4
+  ],
+  "Cub's Way 2": [
+   -2268,
+   1697,
+   2955.9
+  ],
+  "Silk Road - East 3": [
+   2879,
+   -2678,
+   3041.7
+  ],
+  "Ptarmigan Ridge 3": [
+   -1036,
+   -1868,
+   3172.3
+  ],
+  "Sundown Catwalk 3": [
+   -595,
+   -1605,
+   2994.1
+  ],
+  "Yonder / Red Zinger": [
+   1899,
+   -1001,
+   3421.9
+  ],
+  "Born Free 4": [
+   -2439,
+   3110,
+   2528.5
+  ],
+  "Powerline Glade / Ramshorn": [
+   113,
+   -683,
+   3419.0
+  ],
+  "The Skipper": [
+   -485,
+   -285,
+   3235.0
+  ],
+  "Northface Catwalk 3": [
+   316,
+   1182,
+   2897.8
+  ],
+  "Orient Express": [
+   3263,
+   -1478,
+   3375.7
+  ],
+  "Red Square / Gorky Park": [
+   3545,
+   -1719,
+   3232.7
+  ],
+  "Unnamed run / Whiskey Jack": [
+   1838,
+   -762,
+   3391.8
+  ],
+  "Northface Catwalk 4": [
+   653,
+   1225,
+   2935.6
+  ],
+  "Ridge Route": [
+   -1510,
+   152,
+   3261.2
+  ],
+  "Northwoods Express Lift top": [
+   267,
+   -680,
+   3430.3
+  ],
+  "Cold Feet": [
+   -1450,
+   841,
+   3096.8
+  ],
+  "Lionsway - Upper 3": [
+   -1387,
+   1152,
+   2985.0
+  ],
+  "Orient Express 2": [
+   3143,
+   -1589,
+   3375.5
+  ],
+  "Silk Road - East 4": [
+   3366,
+   -2250,
+   3094.1
+  ],
+  "Simba / Cheetah": [
+   -2829,
+   2875,
+   2631.9
+  ],
+  "Sundown Catwalk 4": [
+   -410,
+   -1905,
+   2921.7
+  ],
+  "Poppyfields West": [
+   2328,
+   -580,
+   3411.8
+  ],
+  "Poppyfields 3": [
+   2432,
+   -1391,
+   3203.3
+  ],
+  "Born Free 5": [
+   -2129,
+   2299,
+   2761.5
+  ],
+  "Lost Boy 3": [
+   -1826,
+   -1067,
+   3235.9
+  ],
+  "Coyote Crossing": [
+   -2263,
+   959,
+   3126.5
+  ],
+  "Sleepytime Road 6": [
+   939,
+   -2526,
+   3153.5
+  ],
+  "Emperor's Choice / Red Zinger": [
+   1796,
+   -1250,
+   3390.7
+  ],
+  "Sleepytime Road 7": [
+   1675,
+   -2347,
+   3067.7
+  ],
+  "Skree Field / Cloud 9": [
+   2930,
+   -5128,
+   3447.3
+  ],
+  "Lover's Leap": [
+   2968,
+   -4097,
+   3164.6
+  ],
+  "Silk Road - East 5": [
+   4836,
+   -1462,
+   3451.9
+  ],
+  "Silk Road - East 6": [
+   4716,
+   -2283,
+   3238.1
+  ],
+  "Mountain Top Express Lift top": [
+   207,
+   -657,
+   3430.5
+  ],
+  "Ramshorn": [
+   -162,
+   -461,
+   3347.0
+  ],
+  "Ramshorn 2": [
+   -383,
+   -371,
+   3283.7
+  ],
+  "Giant Steps": [
+   -1268,
+   2588,
+   2649.2
+  ],
+  "Gondola One bottom": [
+   -1210,
+   3118,
+   2495.3
+  ],
+  "Giant Steps 2": [
+   -1395,
+   2195,
+   2797.4
+  ],
+  "Timberline Catwalk": [
+   690,
+   -590,
+   3355.9
+  ],
+  "Flap Jack": [
+   934,
+   178,
+   3107.5
+  ],
+  "Spruce Face / Lionsway - Upper": [
+   -775,
+   574,
+   3073.4
+  ],
+  "Gitalong Road 6": [
+   -724,
+   809,
+   3002.9
+  ],
+  "Pride Express Lift bottom": [
+   -2679,
+   2369,
+   2782.9
+  ],
+  "The Divide 3": [
+   2096,
+   -3840,
+   3227.1
+  ],
+  "Encore / Kelly's Toll Road": [
+   1645,
+   -3032,
+   2924.0
+  ],
+  "Cascade Village Lift top": [
+   -2986,
+   2231,
+   2842.3
+  ],
+  "Timberline Catwalk 2": [
+   648,
+   -614,
+   3363.2
+  ],
+  "Avanti Express Lift bottom": [
+   -1300,
+   1945,
+   2836.3
+  ],
+  "Sun Down Express top": [
+   -952,
+   -695,
+   3345.7
+  ],
+  "Swingsville 2": [
+   109,
+   -309,
+   3370.4
+  ],
+  "Swingsville 3": [
+   -486,
+   260,
+   3118.8
+  ],
+  "Riva Bahn Express Lift top": [
+   901,
+   952,
+   2969.0
+  ],
+  "Ptarmigan Ridge 4": [
+   -1352,
+   -1305,
+   3297.6
+  ],
+  "Pony Express - Lower / Ruder's Run": [
+   -638,
+   2345,
+   2679.4
+  ],
+  "Simba 2": [
+   -2804,
+   1601,
+   2984.5
+  ],
+  "Safari - East / Safari": [
+   -2752,
+   1987,
+   2874.2
+  ],
+  "Silk Road 2": [
+   3651,
+   -1160,
+   3414.3
+  ],
+  "Cloud 9 - Lower": [
+   1676,
+   -2990,
+   2920.5
+  ],
+  "Simba 3": [
+   -2839,
+   1863,
+   2932.3
+  ],
+  "Unnamed run / Cheetah": [
+   -2689,
+   2655,
+   2718.1
+  ],
+  "Safari": [
+   -2624,
+   2648,
+   2707.6
+  ],
+  "Wapiti top": [
+   2429,
+   -561,
+   3423.5
+  ],
+  "China Bowl to Two Elk": [
+   2391,
+   -512,
+   3413.0
+  ],
+  "Swingsville 4": [
+   -385,
+   237,
+   3146.5
+  ],
+  "Cascade Way / Simba": [
+   -2790,
+   2997,
+   2588.4
+  ],
+  "Cascade Village Lift bottom": [
+   -3624,
+   2985,
+   2454.0
+  ],
+  "Cub's Way 3": [
+   -2392,
+   893,
+   3126.3
+  ],
+  "The Divide 4": [
+   2546,
+   -5052,
+   3473.8
+  ],
+  "Timberline Catwalk 3": [
+   872,
+   -599,
+   3330.3
+  ],
+  "Northwoods": [
+   867,
+   -94,
+   3196.3
+  ],
+  "Silk Road - East 7": [
+   3943,
+   -2250,
+   3131.0
+  ],
+  "Ptarmigan Ridge 5": [
+   -1151,
+   -905,
+   3326.5
+  ],
+  "Ptarmigan Ridge 6": [
+   -1188,
+   -977,
+   3323.5
+  ],
+  "Cub's Way 4": [
+   -2474,
+   1258,
+   3042.3
+  ],
+  "Brisk Walk 3": [
+   363,
+   1584,
+   2788.1
+  ],
+  "Flap Jack 2": [
+   1496,
+   -186,
+   3258.8
+  ],
+  "The Slot": [
+   333,
+   -820,
+   3402.7
+  ],
+  "Sun Up Catwalk 4": [
+   606,
+   -1945,
+   3016.9
+  ],
+  "Bolshoi Ballroom": [
+   3789,
+   -1673,
+   3308.3
+  ],
+  "Elvis Bahn bottom": [
+   -936,
+   2962,
+   2513.4
+  ],
+  "Elvis Bahn top": [
+   -976,
+   2847,
+   2527.4
+  ],
+  "Rip's Ride Carpet bottom": [
+   -768,
+   2947,
+   2507.7
+  ],
+  "Rip's Ride Carpet top": [
+   -651,
+   2926,
+   2515.6
+  ],
+  "Tubing Hill Lift bottom": [
+   -2062,
+   786,
+   3137.7
+  ],
+  "Tubing Hill Lift top": [
+   -2061,
+   653,
+   3168.8
+  ],
+  "Unnamed lift bottom": [
+   -2405,
+   3475,
+   2473.8
+  ],
+  "Surface Lift bottom": [
+   -2170,
+   950,
+   3128.8
+  ],
+  "Surface Lift top": [
+   -2208,
+   848,
+   3139.6
+  ],
+  "Surface Lift bottom 2": [
+   -2184,
+   812,
+   3142.2
+  ],
+  "Surface Lift top 2": [
+   -2199,
+   772,
+   3147.1
+  ]
+ },
+ "lifts": [
+  [
+   "Elvis Bahn",
+   "Elvis Bahn bottom",
+   "Elvis Bahn top",
+   7.0
+  ],
+  [
+   "Game Creek Express Lift",
+   "Game Creek Express Lift bottom",
+   "Game Creek Express Lift top",
+   7.0
+  ],
+  [
+   "Earl's Express Lift",
+   "Earl's Express Lift bottom",
+   "Earl's Express Lift top",
+   8.0
+  ],
+  [
+   "Highline Express Lift",
+   "Highline Express Lift bottom",
+   "Highline Express Lift top",
+   10.0
+  ],
+  [
+   "Mongolia",
+   "Mongolia bottom",
+   "Mongolia top",
+   7.0
+  ],
+  [
+   "Rip's Ride Carpet",
+   "Rip's Ride Carpet bottom",
+   "Rip's Ride Carpet top",
+   6.0
+  ],
+  [
+   "Wildwood Express Lift",
+   "Wildwood Express Lift bottom",
+   "Wildwood Express Lift top",
+   8.0
+  ],
+  [
+   "Cascade Village Lift",
+   "Cascade Village Lift bottom",
+   "Cascade Village Lift top",
+   13.0
+  ],
+  [
+   "Cascade Village Lift",
+   "Cascade Village Lift top",
+   "Cascade Village Lift bottom",
+   13.0
+  ],
+  [
+   "Born Free Express Lift",
+   "Born Free Express Lift bottom",
+   "Born Free Express Lift top",
+   10.0
+  ],
+  [
+   "Born Free Express Lift",
+   "Born Free Express Lift top",
+   "Born Free Express Lift bottom",
+   10.0
+  ],
+  [
+   "Pride Express Lift",
+   "Pride Express Lift bottom",
+   "Pride Express Lift top",
+   9.0
+  ],
+  [
+   "Gondola One",
+   "Gondola One bottom",
+   "Gondola One top",
+   12.0
+  ],
+  [
+   "Gondola One",
+   "Gondola One top",
+   "Gondola One bottom",
+   12.0
+  ],
+  [
+   "Eagle Bahn Gondola",
+   "Born Free Express Lift bottom",
+   "Eagle Bahn Gondola top",
+   11.0
+  ],
+  [
+   "Eagle Bahn Gondola",
+   "Eagle Bahn Gondola top",
+   "Born Free Express Lift bottom",
+   11.0
+  ],
+  [
+   "Skyline Express Lift",
+   "Skyline Express Lift bottom",
+   "Skyline Express Lift top",
+   10.0
+  ],
+  [
+   "Orient Express Lift",
+   "Orient Express Lift bottom",
+   "Orient Express Lift top",
+   10.0
+  ],
+  [
+   "Northwoods Express Lift",
+   "Northwoods Express Lift bottom",
+   "Northwoods Express Lift top",
+   9.0
+  ],
+  [
+   "Mountain Top Express Lift",
+   "Mountain Top Express Lift bottom",
+   "Mountain Top Express Lift top",
+   7.0
+  ],
+  [
+   "Sun Down Express",
+   "Sun Down Express bottom",
+   "Sun Down Express top",
+   9.0
+  ],
+  [
+   "Sourdough Express Lift",
+   "Sourdough Express Lift bottom",
+   "Sourdough Express Lift top",
+   5.0
+  ],
+  [
+   "Riva Bahn Express Lift",
+   "Riva Bahn Express Lift bottom",
+   "Riva Bahn Express Lift top",
+   12.0
+  ],
+  [
+   "Riva Bahn Express Lift",
+   "Riva Bahn Express Lift top",
+   "Riva Bahn Express Lift bottom",
+   12.0
+  ],
+  [
+   "Black Forest",
+   "Black Forest bottom",
+   "Black Forest top",
+   6.0
+  ],
+  [
+   "Tubing Hill Lift",
+   "Tubing Hill Lift bottom",
+   "Tubing Hill Lift top",
+   5.8
+  ],
+  [
+   "Wapiti",
+   "Wapiti bottom",
+   "Wapiti top",
+   5.0
+  ],
+  [
+   "Little Eagle",
+   "Little Eagle bottom",
+   "Little Eagle top",
+   6.0
+  ],
+  [
+   "Avanti Express Lift",
+   "Avanti Express Lift bottom",
+   "Avanti Express Lift top",
+   10.0
+  ],
+  [
+   "Sun Up Express Lift",
+   "Sun Up Express Lift bottom",
+   "Sun Up Express Lift top",
+   7.0
+  ],
+  [
+   "Surface Lift",
+   "Surface Lift bottom",
+   "Surface Lift top",
+   5.3
+  ],
+  [
+   "Pete's Express Lift",
+   "Pete's Express Lift bottom",
+   "Pete's Express Lift top",
+   10.0
+  ],
+  [
+   "Tea Cup Express Lift",
+   "Tea Cup Express Lift bottom",
+   "Tea Cup Express Lift top",
+   9.0
+  ],
+  [
+   "High Noon Express Lift",
+   "Sun Down Express bottom",
+   "High Noon Express Lift top",
+   9.0
+  ],
+  [
+   "Surface Lift",
+   "Surface Lift bottom 2",
+   "Surface Lift top 2",
+   3.9
+  ]
+ ],
+ "runs": [
+  [
+   "Pepi's Face",
+   "Pepi's Face / Gitalong Road",
+   "Pepi's Face / Riva Catwalk",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Christmas",
+   "Unnamed run / Meadows",
+   0.5
+  ],
+  [
+   "Hunky Dory",
+   "Hunky Dory / Windows Road",
+   "Hunky Dory 2",
+   1.3
+  ],
+  [
+   "Hunky Dory",
+   "Hunky Dory 2",
+   "Hunky Dory",
+   0.6
+  ],
+  [
+   "Hunky Dory",
+   "Hunky Dory",
+   "Hunky Dory / Meadows",
+   0.5
+  ],
+  [
+   "Bwana",
+   "Bwana / Simba",
+   "Bwana",
+   4.5
+  ],
+  [
+   "Bwana",
+   "Bwana",
+   "Bwana / Bwana Loop",
+   3.0
+  ],
+  [
+   "The Skipper",
+   "The Skipper / Windows Road",
+   "The Skipper",
+   1.4
+  ],
+  [
+   "The Skipper",
+   "The Skipper",
+   "The Skipper / Ramshorn",
+   0.5
+  ],
+  [
+   "Born Free",
+   "Born Free / Lionshead Catwalk",
+   "Born Free 4",
+   0.5
+  ],
+  [
+   "Born Free",
+   "Born Free 4",
+   "Born Free 2",
+   0.5
+  ],
+  [
+   "Born Free",
+   "Born Free 2",
+   "Born Free",
+   1.0
+  ],
+  [
+   "Black Forest Racing",
+   "Black Forest Racing / Avanti - Lower",
+   "Black Forest top",
+   0.5
+  ],
+  [
+   "Black Forest Racing",
+   "Black Forest top",
+   "Black Forest Racing 2",
+   0.5
+  ],
+  [
+   "Black Forest Racing",
+   "Black Forest Racing 2",
+   "Black Forest Racing",
+   1.8
+  ],
+  [
+   "Black Forest Racing",
+   "Black Forest Racing",
+   "Black Forest Racing / Gitalong Road",
+   0.5
+  ],
+  [
+   "Iron Mask",
+   "Iron Mask / The Divide",
+   "Iron Mask / Big Rock Park - West",
+   4.5
+  ],
+  [
+   "Orient Express",
+   "Orient Express / Silk Road",
+   "Orient Express",
+   1.3
+  ],
+  [
+   "Orient Express",
+   "Orient Express",
+   "Orient Express 2",
+   0.7
+  ],
+  [
+   "Orient Express",
+   "Orient Express 2",
+   "Orient Express / Silk Road - East",
+   4.9
+  ],
+  [
+   "Unnamed run",
+   "Tea Cup Express Lift top",
+   "Sourdough Express Lift top",
+   1.5
+  ],
+  [
+   "China Bowl to Two Elk",
+   "Wapiti bottom",
+   "Wapiti top",
+   0.7
+  ],
+  [
+   "China Bowl to Two Elk",
+   "Wapiti top",
+   "China Bowl to Two Elk",
+   0.5
+  ],
+  [
+   "China Bowl to Two Elk",
+   "China Bowl to Two Elk",
+   "China Bowl to Two Elk / Flap Jack",
+   0.9
+  ],
+  [
+   "Riva Glade",
+   "Riva Glade / Christmas",
+   "Riva Glade / Riva Ridge - Upper",
+   3.2
+  ],
+  [
+   "Genghis Kahn",
+   "Genghis Kahn / Jade Glade",
+   "Genghis Kahn",
+   2.2
+  ],
+  [
+   "Genghis Kahn",
+   "Genghis Kahn",
+   "Genghis Kahn / Poppyfields",
+   2.7
+  ],
+  [
+   "CJ's Glade",
+   "CJ's Glade / The Divide",
+   "Earl's Express Lift bottom",
+   3.9
+  ],
+  [
+   "Hornsilver",
+   "Hornsilver / Grand Review",
+   "Hornsilver",
+   6.1
+  ],
+  [
+   "Hornsilver",
+   "Hornsilver",
+   "Hornsilver / Big Rock Park - West",
+   0.5
+  ],
+  [
+   "Boomer",
+   "Sourdough Express Lift top",
+   "Boomer",
+   1.3
+  ],
+  [
+   "Boomer",
+   "Boomer",
+   "Boomer / Tin Pants",
+   1.8
+  ],
+  [
+   "Ouzo",
+   "Ouzo / Club Walk",
+   "Ouzo / Dealer's Choice",
+   1.4
+  ],
+  [
+   "China Bridge Access Road",
+   "China Bridge Access Road / Silk Road - East",
+   "Orient Express Lift bottom",
+   0.5
+  ],
+  [
+   "China Bridge Access Road",
+   "Orient Express Lift bottom",
+   "China Bridge Access Road / Cloud 9 - Middle",
+   0.5
+  ],
+  [
+   "Chair 15",
+   "Little Eagle top",
+   "Tubing Hill Lift bottom",
+   0.5
+  ],
+  [
+   "Chair 15",
+   "Tubing Hill Lift bottom",
+   "Little Eagle bottom",
+   1.0
+  ],
+  [
+   "Dealer's Choice",
+   "Dealer's Choice / Baccarat",
+   "Ouzo / Dealer's Choice",
+   3.1
+  ],
+  [
+   "Windows",
+   "Windows / Windows Road",
+   "Windows / Sundown Catwalk",
+   3.6
+  ],
+  [
+   "Poppyfields East",
+   "Poppyfields East / Silk Road",
+   "Poppyfields East / Chopstix",
+   3.1
+  ],
+  [
+   "Bwana Loop",
+   "Bwana Loop / Born Free",
+   "Bwana Loop",
+   0.7
+  ],
+  [
+   "Bwana Loop",
+   "Bwana Loop",
+   "Bwana / Bwana Loop",
+   0.6
+  ],
+  [
+   "Bwana Loop",
+   "Bwana / Bwana Loop",
+   "Bwana Loop / Born Free 2",
+   1.2
+  ],
+  [
+   "The Divide",
+   "Skyline Express Lift top",
+   "The Divide 4",
+   0.7
+  ],
+  [
+   "The Divide",
+   "The Divide 4",
+   "The Divide 2",
+   0.7
+  ],
+  [
+   "The Divide",
+   "The Divide 2",
+   "Iron Mask / The Divide",
+   1.0
+  ],
+  [
+   "The Divide",
+   "Iron Mask / The Divide",
+   "CJ's Glade / The Divide",
+   1.7
+  ],
+  [
+   "The Divide",
+   "CJ's Glade / The Divide",
+   "The Divide",
+   0.5
+  ],
+  [
+   "The Divide",
+   "The Divide",
+   "The Divide 3",
+   1.9
+  ],
+  [
+   "The Divide",
+   "The Divide 3",
+   "The Divide / Cloud 9 - Lower",
+   4.3
+  ],
+  [
+   "Chopstix",
+   "Chopstix / China Bowl to Two Elk",
+   "Poppyfields East / Chopstix",
+   3.4
+  ],
+  [
+   "Chopstix",
+   "Poppyfields East / Chopstix",
+   "Chopstix / Poppyfields",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Born Free",
+   "Born Free Express Lift bottom",
+   0.5
+  ],
+  [
+   "Cloud 9 - Middle",
+   "Cloud 9 - Middle / China Spur",
+   "Cloud 9 - Middle 3",
+   0.8
+  ],
+  [
+   "Cloud 9 - Middle",
+   "Cloud 9 - Middle 3",
+   "Cloud 9 - Middle 2",
+   0.6
+  ],
+  [
+   "Cloud 9 - Middle",
+   "Cloud 9 - Middle 2",
+   "Cloud 9 - Middle",
+   0.5
+  ],
+  [
+   "Cloud 9 - Middle",
+   "Cloud 9 - Middle",
+   "Cloud 9 - Middle 2",
+   0.5
+  ],
+  [
+   "Cloud 9 - Middle",
+   "Cloud 9 - Middle 2",
+   "Pete's Express Lift bottom",
+   0.7
+  ],
+  [
+   "Cloud 9 - Middle",
+   "Pete's Express Lift bottom",
+   "China Bridge Access Road / Cloud 9 - Middle",
+   2.7
+  ],
+  [
+   "Faro",
+   "Faro / Ridge Route",
+   "Faro / Showboat",
+   2.0
+  ],
+  [
+   "Bear Tree",
+   "Bear Tree / Gitalong Road",
+   "Bear Tree / Gitalong Road 2",
+   3.3
+  ],
+  [
+   "Tin Pants",
+   "Highline Express Lift top",
+   "Tin Pants",
+   0.9
+  ],
+  [
+   "Gitalong Road",
+   "Gitalong Road / Mill Creek Road",
+   "Gitalong Road 2",
+   0.5
+  ],
+  [
+   "Gitalong Road",
+   "Gitalong Road 2",
+   "Gitalong Road 3",
+   1.0
+  ],
+  [
+   "Gitalong Road",
+   "Gitalong Road 3",
+   "Pepi's Face / Gitalong Road",
+   0.5
+  ],
+  [
+   "Gitalong Road",
+   "Pepi's Face / Gitalong Road",
+   "Gitalong Road 5",
+   0.5
+  ],
+  [
+   "Gitalong Road",
+   "Gitalong Road 5",
+   "Pepi's Face / Gitalong Road",
+   0.5
+  ],
+  [
+   "Gitalong Road",
+   "Pepi's Face / Gitalong Road",
+   "Bear Tree / Gitalong Road 2",
+   1.7
+  ],
+  [
+   "The Preserve",
+   "The Preserve / Post Road",
+   "Bwana Loop",
+   2.6
+  ],
+  [
+   "O.S.",
+   "O.S. / Ptarmigan Ridge",
+   "O.S.",
+   0.6
+  ],
+  [
+   "O.S.",
+   "O.S.",
+   "O.S. / Sundown Catwalk",
+   3.0
+  ],
+  [
+   "Northface Catwalk",
+   "Northface Catwalk",
+   "Northface Catwalk / Riva Ridge - Lower",
+   3.2
+  ],
+  [
+   "Silk Road",
+   "Orient Express Lift top",
+   "Poppyfields East / Silk Road",
+   1.6
+  ],
+  [
+   "Silk Road",
+   "Poppyfields East / Silk Road",
+   "Silk Road",
+   0.5
+  ],
+  [
+   "Silk Road",
+   "Silk Road",
+   "Orient Express / Silk Road",
+   0.5
+  ],
+  [
+   "Silk Road",
+   "Orient Express / Silk Road",
+   "Silk Road 2",
+   0.9
+  ],
+  [
+   "Silk Road",
+   "Silk Road 2",
+   "Mongolia bottom",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Eagle Bahn Gondola top",
+   "Unnamed run / Eagle's Nest Ridge",
+   0.5
+  ],
+  [
+   "Boomer",
+   "Boomer / Flap Jack",
+   "Boomer",
+   0.9
+  ],
+  [
+   "Windows Road",
+   "Windows Road / Ramshorn",
+   "Windows / Windows Road",
+   1.9
+  ],
+  [
+   "Windows Road",
+   "Windows / Windows Road",
+   "The Skipper / Windows Road",
+   0.6
+  ],
+  [
+   "Windows Road",
+   "The Skipper / Windows Road",
+   "Hunky Dory / Windows Road",
+   1.3
+  ],
+  [
+   "Mill Creek Road",
+   "Mill Creek Road / Riva Catwalk",
+   "Gitalong Road / Mill Creek Road",
+   3.8
+  ],
+  [
+   "Pickeroon - Upper",
+   "Pickeroon - Upper / Eagle's Nest Ridge",
+   "Pickeroon - Upper / Pickeroon - Lower",
+   2.6
+  ],
+  [
+   "Trans Montane",
+   "Trans Montane / Gitalong Road",
+   "Trans Montane / Riva Ridge - Upper",
+   0.5
+  ],
+  [
+   "Headwall",
+   "Headwall / Sleepytime Road",
+   "Headwall / Campbell's",
+   3.0
+  ],
+  [
+   "Shangri-La",
+   "Silk Road",
+   "Shangri-La",
+   3.0
+  ],
+  [
+   "Shangri-La",
+   "Shangri-La",
+   "Shangri-La / Poppyfields",
+   3.4
+  ],
+  [
+   "Safari - Lower",
+   "Safari - Lower / Safari",
+   "Safari - Lower / Simba",
+   1.3
+  ],
+  [
+   "Morning Thunder",
+   "Morning Thunder / Sleepytime Road",
+   "Morning Thunder / Sleepytime Road 2",
+   2.6
+  ],
+  [
+   "Northface Catwalk",
+   "Northface Catwalk / Unnamed run",
+   "Northface Catwalk 4",
+   1.0
+  ],
+  [
+   "Northface Catwalk",
+   "Northface Catwalk 4",
+   "Northface Catwalk 2",
+   0.5
+  ],
+  [
+   "Northface Catwalk",
+   "Northface Catwalk 2",
+   "Northface Catwalk 3",
+   1.2
+  ],
+  [
+   "Northface Catwalk",
+   "Northface Catwalk 3",
+   "Northface Catwalk",
+   0.9
+  ],
+  [
+   "Campbell's",
+   "Campbell's / Apres Vous",
+   "Headwall / Campbell's",
+   3.4
+  ],
+  [
+   "Sleepytime Road",
+   "Sleepytime Road / First Step",
+   "Headwall / Sleepytime Road",
+   0.9
+  ],
+  [
+   "Sleepytime Road",
+   "Headwall / Sleepytime Road",
+   "Sleepytime Road",
+   3.3
+  ],
+  [
+   "Sleepytime Road",
+   "Sleepytime Road",
+   "Sleepytime Road 3",
+   1.1
+  ],
+  [
+   "Sleepytime Road",
+   "Sleepytime Road 3",
+   "Morning Thunder / Sleepytime Road",
+   2.3
+  ],
+  [
+   "Sleepytime Road",
+   "Morning Thunder / Sleepytime Road",
+   "Sleepytime Road 4",
+   2.7
+  ],
+  [
+   "Sleepytime Road",
+   "Sleepytime Road 4",
+   "Sleepytime Road 6",
+   0.7
+  ],
+  [
+   "Sleepytime Road",
+   "Sleepytime Road 6",
+   "Morning Thunder / Sleepytime Road 2",
+   4.0
+  ],
+  [
+   "Sleepytime Road",
+   "Morning Thunder / Sleepytime Road 2",
+   "Sleepytime Road 2",
+   0.5
+  ],
+  [
+   "Sleepytime Road",
+   "Sleepytime Road 2",
+   "Sleepytime Road 7",
+   0.5
+  ],
+  [
+   "Sleepytime Road",
+   "Sleepytime Road 7",
+   "Sleepytime Road 5",
+   4.1
+  ],
+  [
+   "Sleepytime Road",
+   "Sleepytime Road 5",
+   "Orient Express Lift bottom",
+   0.8
+  ],
+  [
+   "Yonder Gully",
+   "Sleepytime Road",
+   "Headwall / Campbell's",
+   2.5
+  ],
+  [
+   "Lost Boy",
+   "Lost Boy",
+   "Ouzo / Dealer's Choice",
+   1.2
+  ],
+  [
+   "Wow",
+   "High Noon Express Lift top",
+   "Wow / Sundown Catwalk",
+   5.4
+  ],
+  [
+   "Pickeroon - Lower",
+   "Pickeroon - Upper / Pickeroon - Lower",
+   "Pickeroon - Lower / Lionsway - Upper",
+   1.6
+  ],
+  [
+   "Gandy Dancer",
+   "Gandy Dancer / Swingsville",
+   "Gandy Dancer / Northstar",
+   4.4
+  ],
+  [
+   "Sundown Catwalk",
+   "Windows / Sundown Catwalk",
+   "Sundown Catwalk",
+   0.5
+  ],
+  [
+   "Sundown Catwalk",
+   "Sundown Catwalk",
+   "Sundown Catwalk 3",
+   0.6
+  ],
+  [
+   "Sundown Catwalk",
+   "Sundown Catwalk 3",
+   "Wow / Sundown Catwalk",
+   0.5
+  ],
+  [
+   "Sundown Catwalk",
+   "Wow / Sundown Catwalk",
+   "Sundown Catwalk 2",
+   1.1
+  ],
+  [
+   "Sundown Catwalk",
+   "Sundown Catwalk 2",
+   "Sundown Catwalk 4",
+   0.5
+  ],
+  [
+   "Sundown Catwalk",
+   "Sundown Catwalk 4",
+   "O.S. / Sundown Catwalk",
+   0.8
+  ],
+  [
+   "Sundown Catwalk",
+   "O.S. / Sundown Catwalk",
+   "Sun Down Express bottom",
+   1.3
+  ],
+  [
+   "Marmot Valley",
+   "Sleepytime Road 2",
+   "Tea Cup Express Lift bottom",
+   3.0
+  ],
+  [
+   "Silk Road - East",
+   "Mongolia top",
+   "Silk Road - East",
+   0.9
+  ],
+  [
+   "Silk Road - East",
+   "Silk Road - East",
+   "Silk Road - East 5",
+   1.5
+  ],
+  [
+   "Silk Road - East",
+   "Silk Road - East 5",
+   "Silk Road - East 6",
+   4.7
+  ],
+  [
+   "Silk Road - East",
+   "Silk Road - East 6",
+   "Silk Road - East 7",
+   3.3
+  ],
+  [
+   "Silk Road - East",
+   "Silk Road - East 7",
+   "Silk Road - East 2",
+   2.1
+  ],
+  [
+   "Silk Road - East",
+   "Silk Road - East 2",
+   "Silk Road - East 4",
+   0.5
+  ],
+  [
+   "Silk Road - East",
+   "Silk Road - East 4",
+   "Orient Express / Silk Road - East",
+   2.2
+  ],
+  [
+   "Silk Road - East",
+   "Orient Express / Silk Road - East",
+   "Silk Road - East 3",
+   0.5
+  ],
+  [
+   "Silk Road - East",
+   "Silk Road - East 3",
+   "China Bridge Access Road / Silk Road - East",
+   1.8
+  ],
+  [
+   "Silk Road - East",
+   "China Bridge Access Road / Silk Road - East",
+   "Orient Express Lift bottom",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Sun Up Express Lift top",
+   "Tea Cup Express Lift top",
+   0.5
+  ],
+  [
+   "Hunky Dory",
+   "Wildwood Express Lift top",
+   "Hunky Dory 3",
+   0.5
+  ],
+  [
+   "Hunky Dory",
+   "Hunky Dory 3",
+   "Hunky Dory / Windows Road",
+   0.5
+  ],
+  [
+   "Grand Review",
+   "Pete's Express Lift top",
+   "Hornsilver / Grand Review",
+   0.6
+  ],
+  [
+   "Grand Review",
+   "Hornsilver / Grand Review",
+   "Grand Review / Grand Review - Lower",
+   2.7
+  ],
+  [
+   "Zot",
+   "Zot / Swingsville",
+   "Zot / Whistle Pig",
+   2.6
+  ],
+  [
+   "South Look Ma",
+   "Hunky Dory",
+   "South Look Ma / Ramshorn",
+   1.8
+  ],
+  [
+   "38",
+   "Gitalong Road / Mill Creek Road",
+   "38 / Riva Catwalk",
+   1.2
+  ],
+  [
+   "Lodgepole",
+   "Lodgepole",
+   "Lodgepole / Giant Steps",
+   2.1
+  ],
+  [
+   "Morning Side Ridge",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   "Morning Side Ridge / Straight Shot",
+   2.6
+  ],
+  [
+   "Vail Village Catwalk - Upper",
+   "Vail Village Catwalk - Upper / Gitalong Road",
+   "Vail Village Catwalk - Upper / Born Free",
+   0.8
+  ],
+  [
+   "Cady's Cafe",
+   "Cady's Cafe / Overeasy",
+   "Cady's Cafe / Gitalong Road",
+   1.3
+  ],
+  [
+   "Hairbag Alley",
+   "Hairbag Alley / Flap Jack",
+   "Hairbag Alley / Northstar",
+   4.3
+  ],
+  [
+   "Inner Mongolia Bowl",
+   "Silk Road - East",
+   "Inner Mongolia Bowl",
+   2.0
+  ],
+  [
+   "Giant Steps",
+   "Lodgepole / Giant Steps",
+   "Giant Steps 2",
+   0.9
+  ],
+  [
+   "Giant Steps",
+   "Giant Steps 2",
+   "Giant Steps",
+   1.9
+  ],
+  [
+   "Giant Steps",
+   "Giant Steps",
+   "Gitalong Road / Mill Creek Road",
+   0.9
+  ],
+  [
+   "Christmas",
+   "Christmas / Swingsville",
+   "Christmas",
+   0.8
+  ],
+  [
+   "Christmas",
+   "Christmas",
+   "Riva Glade / Christmas",
+   0.5
+  ],
+  [
+   "Christmas",
+   "Riva Glade / Christmas",
+   "Unnamed run / Christmas",
+   3.3
+  ],
+  [
+   "Unnamed run",
+   "Avanti Express Lift top",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   0.5
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Wildwood Express Lift top",
+   "Eagle's Nest Ridge 5",
+   1.1
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Eagle's Nest Ridge 5",
+   "Eagle's Nest Ridge 6",
+   0.5
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Eagle's Nest Ridge 6",
+   "Eagle's Nest Ridge 7",
+   0.7
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Eagle's Nest Ridge 7",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   0.6
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   "Avanti Express Lift top",
+   0.5
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Avanti Express Lift top",
+   "Eagle's Nest Ridge 4",
+   0.5
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Eagle's Nest Ridge 4",
+   "Eagle's Nest Ridge",
+   0.5
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Eagle's Nest Ridge",
+   "Pickeroon - Upper / Eagle's Nest Ridge",
+   0.7
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Pickeroon - Upper / Eagle's Nest Ridge",
+   "Eagle's Nest Ridge 8",
+   1.3
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Eagle's Nest Ridge 8",
+   "Eagle's Nest Ridge 3",
+   0.5
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Eagle's Nest Ridge 3",
+   "Eagle's Nest Ridge 9",
+   0.8
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Eagle's Nest Ridge 9",
+   "Eagle's Nest Ridge 2",
+   0.5
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Eagle's Nest Ridge 2",
+   "Eagle's Nest Ridge 10",
+   0.5
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Eagle's Nest Ridge 10",
+   "Unnamed run / Eagle's Nest Ridge",
+   1.2
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Eagle Bahn Gondola top",
+   0.5
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Eagle Bahn Gondola top",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   0.5
+  ],
+  [
+   "Overeasy",
+   "Overeasy / Mid Vail Express",
+   "Overeasy",
+   3.0
+  ],
+  [
+   "Overeasy",
+   "Overeasy",
+   "Cady's Cafe / Overeasy",
+   0.5
+  ],
+  [
+   "Overeasy",
+   "Cady's Cafe / Overeasy",
+   "Wildwood Express Lift bottom",
+   0.5
+  ],
+  [
+   "Overeasy",
+   "Wildwood Express Lift bottom",
+   "Mountain Top Express Lift bottom",
+   0.5
+  ],
+  [
+   "Chaos Canyon",
+   "Chaos Canyon / Lionsway - Upper",
+   "Chaos Canyon / Gitalong Road",
+   1.0
+  ],
+  [
+   "Northstar",
+   "Gandy Dancer / Northstar",
+   "Hairbag Alley / Northstar",
+   1.5
+  ],
+  [
+   "Northstar",
+   "Hairbag Alley / Northstar",
+   "Roger's Run / Northstar",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Gondola One top",
+   "Cady's Cafe / Overeasy",
+   0.5
+  ],
+  [
+   "Gitalong Road",
+   "Gitalong Road / Ben's Face",
+   "Chaos Canyon / Gitalong Road",
+   0.9
+  ],
+  [
+   "Gitalong Road",
+   "Chaos Canyon / Gitalong Road",
+   "Gitalong Road",
+   0.7
+  ],
+  [
+   "Prima - Brown's Face",
+   "Christmas",
+   "Prima - Brown's Face / Prima - Middle",
+   2.5
+  ],
+  [
+   "Ptarmigan Ridge",
+   "Ptarmigan Ridge / Wildcard",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   0.5
+  ],
+  [
+   "Ptarmigan Ridge",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   "Ptarmigan Ridge 2",
+   0.5
+  ],
+  [
+   "Ptarmigan Ridge",
+   "Ptarmigan Ridge 2",
+   "Ptarmigan Ridge 5",
+   0.5
+  ],
+  [
+   "Ptarmigan Ridge",
+   "Ptarmigan Ridge 5",
+   "Ptarmigan Ridge 6",
+   0.5
+  ],
+  [
+   "Ptarmigan Ridge",
+   "Ptarmigan Ridge 6",
+   "Ptarmigan Ridge",
+   0.9
+  ],
+  [
+   "Ptarmigan Ridge",
+   "Ptarmigan Ridge",
+   "Ptarmigan Ridge 4",
+   0.6
+  ],
+  [
+   "Ptarmigan Ridge",
+   "Ptarmigan Ridge 4",
+   "Ptarmigan Ridge 3",
+   3.5
+  ],
+  [
+   "Ptarmigan Ridge",
+   "Ptarmigan Ridge 3",
+   "O.S. / Ptarmigan Ridge",
+   0.9
+  ],
+  [
+   "Wildcard",
+   "Ptarmigan Ridge / Wildcard",
+   "Wildcard",
+   1.8
+  ],
+  [
+   "First Step",
+   "Sleepytime Road / First Step",
+   "First Step / South Rim",
+   1.0
+  ],
+  [
+   "Simba",
+   "Bwana / Simba",
+   "Simba 2",
+   2.2
+  ],
+  [
+   "Simba",
+   "Simba 2",
+   "Simba 3",
+   1.1
+  ],
+  [
+   "Simba",
+   "Simba 3",
+   "Simba",
+   3.1
+  ],
+  [
+   "Showboat",
+   "Showboat / Eagle's Nest Ridge",
+   "Showboat",
+   2.2
+  ],
+  [
+   "Showboat",
+   "Showboat",
+   "Faro / Showboat",
+   0.6
+  ],
+  [
+   "Showboat",
+   "Faro / Showboat",
+   "Showboat / Wildcard",
+   1.8
+  ],
+  [
+   "Little Ollie",
+   "CJ's Glade / The Divide",
+   "The Divide",
+   0.5
+  ],
+  [
+   "Little Ollie",
+   "The Divide",
+   "Little Ollie",
+   3.9
+  ],
+  [
+   "Little Ollie",
+   "Little Ollie",
+   "Cloud 9 - Middle",
+   0.5
+  ],
+  [
+   "Windisch Way",
+   "Gitalong Road 2",
+   "Gitalong Road 5",
+   0.7
+  ],
+  [
+   "Windisch Way",
+   "Gitalong Road 5",
+   "Windisch Way / Riva Catwalk",
+   1.8
+  ],
+  [
+   "Swingsville",
+   "High Noon Express Lift top",
+   "Northwoods Express Lift top",
+   0.5
+  ],
+  [
+   "Swingsville",
+   "Northwoods Express Lift top",
+   "Mountain Top Express Lift top",
+   0.5
+  ],
+  [
+   "Swingsville",
+   "Mountain Top Express Lift top",
+   "Zot / Swingsville",
+   0.5
+  ],
+  [
+   "Swingsville",
+   "Zot / Swingsville",
+   "Swingsville 2",
+   1.0
+  ],
+  [
+   "Swingsville",
+   "Swingsville 2",
+   "Gandy Dancer / Swingsville",
+   0.5
+  ],
+  [
+   "Swingsville",
+   "Gandy Dancer / Swingsville",
+   "Swingsville",
+   0.5
+  ],
+  [
+   "Swingsville",
+   "Swingsville",
+   "Christmas / Swingsville",
+   0.5
+  ],
+  [
+   "Swingsville",
+   "Christmas / Swingsville",
+   "Swingsville 4",
+   3.2
+  ],
+  [
+   "Swingsville",
+   "Swingsville 4",
+   "Swingsville 3",
+   0.5
+  ],
+  [
+   "Swingsville",
+   "Swingsville 3",
+   "Unnamed run / Christmas",
+   0.5
+  ],
+  [
+   "Swingsville",
+   "Unnamed run / Christmas",
+   "Wildwood Express Lift bottom",
+   0.5
+  ],
+  [
+   "Swingsville",
+   "Wildwood Express Lift bottom",
+   "Mountain Top Express Lift bottom",
+   0.5
+  ],
+  [
+   "Avanti - Upper",
+   "Eagle's Nest Ridge",
+   "Avanti - Upper / Cold Feet",
+   3.0
+  ],
+  [
+   "Ricky's Ridge",
+   "Ptarmigan Ridge",
+   "Sundown Catwalk",
+   3.4
+  ],
+  [
+   "The Star - Lower",
+   "The Star - Lower / Cloud 9",
+   "Little Ollie",
+   0.7
+  ],
+  [
+   "Vail Village Catwalk - Middle",
+   "Vail Village Catwalk - Middle / Born Free",
+   "Vail Village Catwalk - Middle / Lionshead Catwalk",
+   2.3
+  ],
+  [
+   "Lionshead Catwalk",
+   "Gitalong Road 3",
+   "Vail Village Catwalk - Middle / Lionshead Catwalk",
+   1.0
+  ],
+  [
+   "Lionshead Catwalk",
+   "Vail Village Catwalk - Middle / Lionshead Catwalk",
+   "Born Free / Lionshead Catwalk",
+   2.5
+  ],
+  [
+   "Skid Road",
+   "Skid Road / Riva Ridge - Middle",
+   "Skid Road",
+   1.1
+  ],
+  [
+   "Skid Road",
+   "Skid Road",
+   "Northface Catwalk",
+   2.0
+  ],
+  [
+   "Over Yonder",
+   "Sleepytime Road 3",
+   "Sun Up Express Lift bottom",
+   2.3
+  ],
+  [
+   "Unnamed run",
+   "Born Free Express Lift top",
+   "Unnamed run / Post Road",
+   0.7
+  ],
+  [
+   "Gitalong Road",
+   "Gitalong Road",
+   "Black Forest Racing",
+   2.4
+  ],
+  [
+   "North Rim",
+   "Zot / Swingsville",
+   "North Rim / Northstar",
+   1.8
+  ],
+  [
+   "Sun Up Catwalk",
+   "Sleepytime Road 4",
+   "Sun Up Express Lift bottom",
+   3.4
+  ],
+  [
+   "Sun Up Catwalk",
+   "Sun Up Express Lift bottom",
+   "Sun Up Catwalk 2",
+   0.9
+  ],
+  [
+   "Sun Up Catwalk",
+   "Sun Up Catwalk 2",
+   "Sun Up Catwalk 4",
+   1.4
+  ],
+  [
+   "Sun Up Catwalk",
+   "Sun Up Catwalk 4",
+   "Sun Up Catwalk 3",
+   1.1
+  ],
+  [
+   "Sun Up Catwalk",
+   "Sun Up Catwalk 3",
+   "Sun Up Catwalk",
+   1.7
+  ],
+  [
+   "Sun Up Catwalk",
+   "Sun Up Catwalk",
+   "Sun Down Express bottom",
+   1.1
+  ],
+  [
+   "Club Walk",
+   "Eagle's Nest Ridge 2",
+   "Ouzo / Club Walk",
+   2.9
+  ],
+  [
+   "Lodgepole",
+   "Eagle's Nest Ridge 3",
+   "Lodgepole",
+   4.9
+  ],
+  [
+   "Lindsey's",
+   "Lindsey's / Lionsway - Upper",
+   "Giant Steps 2",
+   0.9
+  ],
+  [
+   "Lindsey's",
+   "Giant Steps 2",
+   "Pepi's Face / Gitalong Road",
+   3.1
+  ],
+  [
+   "Born Free",
+   "Bwana Loop / Born Free",
+   "Bwana Loop / Born Free 2",
+   0.8
+  ],
+  [
+   "Born Free",
+   "Bwana Loop / Born Free 2",
+   "Born Free / Lionshead Catwalk",
+   0.8
+  ],
+  [
+   "Riva Ridge - Upper",
+   "Christmas",
+   "Riva Glade / Christmas",
+   0.5
+  ],
+  [
+   "Riva Ridge - Upper",
+   "Riva Glade / Christmas",
+   "Riva Glade / Riva Ridge - Upper",
+   3.3
+  ],
+  [
+   "Riva Ridge - Upper",
+   "Riva Glade / Riva Ridge - Upper",
+   "Trans Montane / Riva Ridge - Upper",
+   0.5
+  ],
+  [
+   "Slifer Express",
+   "Swingsville",
+   "Slifer Express / Cappuccino",
+   2.2
+  ],
+  [
+   "Born Free",
+   "Born Free",
+   "Unnamed run / Born Free",
+   0.5
+  ],
+  [
+   "Lionsway - Upper",
+   "Lionsway - Upper / Avanti - Middle",
+   "Lionsway - Upper 3",
+   0.5
+  ],
+  [
+   "Lionsway - Upper",
+   "Lionsway - Upper 3",
+   "Pickeroon - Lower / Lionsway - Upper",
+   0.5
+  ],
+  [
+   "Lionsway - Upper",
+   "Pickeroon - Lower / Lionsway - Upper",
+   "Lionsway - Upper",
+   0.5
+  ],
+  [
+   "Lionsway - Upper",
+   "Lionsway - Upper",
+   "Lodgepole",
+   0.7
+  ],
+  [
+   "Lionsway - Upper",
+   "Lodgepole",
+   "Lionsway - Upper 2",
+   1.4
+  ],
+  [
+   "Lionsway - Upper",
+   "Lionsway - Upper 2",
+   "Lindsey's / Lionsway - Upper",
+   0.8
+  ],
+  [
+   "Berries - Lower",
+   "Berries - Lower / Berries - Upper",
+   "Lionsway - Upper",
+   1.7
+  ],
+  [
+   "Black Forest",
+   "Black Forest Racing 2",
+   "Black Forest / Gitalong Road",
+   1.9
+  ],
+  [
+   "Cheetah Gulley",
+   "Bwana",
+   "Cheetah Gulley / Simba",
+   3.8
+  ],
+  [
+   "Ben's Face",
+   "Ben's Face / Lionsway - Upper",
+   "Gitalong Road / Ben's Face",
+   1.0
+  ],
+  [
+   "Mid Vail Express",
+   "Eagle's Nest Ridge 4",
+   "Overeasy / Mid Vail Express",
+   0.5
+  ],
+  [
+   "Mid Vail Express",
+   "Overeasy / Mid Vail Express",
+   "Overeasy",
+   2.3
+  ],
+  [
+   "Big Rock Park - East",
+   "Big Rock Park - East / Cloud 9",
+   "Big Rock Park - East / Big Rock Park - West",
+   3.0
+  ],
+  [
+   "Bolshoi Ballroom",
+   "Mongolia bottom",
+   "Bolshoi Ballroom",
+   1.8
+  ],
+  [
+   "Bolshoi Ballroom",
+   "Bolshoi Ballroom",
+   "Silk Road - East 2",
+   2.7
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Game Creek Express Lift top",
+   "Showboat / Eagle's Nest Ridge",
+   0.5
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Showboat / Eagle's Nest Ridge",
+   "Eagle's Nest Ridge 5",
+   1.3
+  ],
+  [
+   "Lionsway - Lower",
+   "Lindsey's / Lionsway - Upper",
+   "Lionsway - Lower",
+   2.2
+  ],
+  [
+   "Lionsway - Lower",
+   "Lionsway - Lower",
+   "Lionsway - Lower / Born Free",
+   0.9
+  ],
+  [
+   "Poppyfields",
+   "Chopstix / Poppyfields",
+   "Poppyfields 3",
+   0.8
+  ],
+  [
+   "Poppyfields",
+   "Poppyfields 3",
+   "Poppyfields",
+   0.5
+  ],
+  [
+   "Poppyfields",
+   "Poppyfields",
+   "Shangri-La / Poppyfields",
+   2.0
+  ],
+  [
+   "Poppyfields",
+   "Shangri-La / Poppyfields",
+   "Genghis Kahn / Poppyfields",
+   0.8
+  ],
+  [
+   "Poppyfields",
+   "Genghis Kahn / Poppyfields",
+   "Poppyfields 2",
+   1.1
+  ],
+  [
+   "Poppyfields",
+   "Poppyfields 2",
+   "China Bridge Access Road / Silk Road - East",
+   2.4
+  ],
+  [
+   "Meadows",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   "Hunky Dory / Meadows",
+   1.5
+  ],
+  [
+   "Meadows",
+   "Hunky Dory / Meadows",
+   "Unnamed run / Meadows",
+   3.3
+  ],
+  [
+   "Meadows",
+   "Unnamed run / Meadows",
+   "Cady's Cafe / Overeasy",
+   0.5
+  ],
+  [
+   "Coyote Crossing",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Coyote Crossing",
+   0.6
+  ],
+  [
+   "Coyote Crossing",
+   "Coyote Crossing",
+   "Little Eagle bottom",
+   0.7
+  ],
+  [
+   "Coyote Crossing",
+   "Little Eagle bottom",
+   "Coyote Crossing / Minnie's - Upper",
+   0.7
+  ],
+  [
+   "WFO",
+   "Sleepytime Road 4",
+   "Sun Up Catwalk",
+   3.4
+  ],
+  [
+   "Deuces Wild",
+   "Eagle's Nest Ridge 6",
+   "Showboat",
+   1.8
+  ],
+  [
+   "Tin Pants",
+   "Tin Pants / Flap Jack",
+   "Tin Pants",
+   0.7
+  ],
+  [
+   "Tin Pants",
+   "Tin Pants",
+   "Boomer / Tin Pants",
+   1.6
+  ],
+  [
+   "Ridge Route",
+   "Eagle's Nest Ridge 7",
+   "Avanti Express Lift top",
+   0.6
+  ],
+  [
+   "Ridge Route",
+   "Avanti Express Lift top",
+   "Faro / Ridge Route",
+   0.5
+  ],
+  [
+   "Ridge Route",
+   "Faro / Ridge Route",
+   "Ridge Route",
+   1.0
+  ],
+  [
+   "Ridge Route",
+   "Ridge Route",
+   "Eagle's Nest Ridge 8",
+   1.1
+  ],
+  [
+   "Ski School Ledges",
+   "Ski School Ledges / Columbine",
+   "Ski School Ledges / Cub's Way",
+   2.5
+  ],
+  [
+   "Gitalong Road",
+   "Vail Village Catwalk - Upper / Gitalong Road",
+   "Gitalong Road 4",
+   3.6
+  ],
+  [
+   "Minnie Haha",
+   "Minnie Haha / Practice Parkway",
+   "Minnie Haha / Cub's Way",
+   1.4
+  ],
+  [
+   "Riva Catwalk",
+   "Mill Creek Road / Riva Catwalk",
+   "Riva Catwalk",
+   3.3
+  ],
+  [
+   "Riva Catwalk",
+   "Riva Catwalk",
+   "Windisch Way / Riva Catwalk",
+   0.5
+  ],
+  [
+   "Riva Catwalk",
+   "Windisch Way / Riva Catwalk",
+   "Elvis Bahn top",
+   0.5
+  ],
+  [
+   "Riva Catwalk",
+   "Elvis Bahn top",
+   "38 / Riva Catwalk",
+   1.0
+  ],
+  [
+   "Riva Catwalk",
+   "38 / Riva Catwalk",
+   "Pepi's Face / Riva Catwalk",
+   0.5
+  ],
+  [
+   "The Woods",
+   "The Woods / Lost Boy",
+   "The Woods / Baccarat",
+   2.6
+  ],
+  [
+   "Sweet N Sour",
+   "Genghis Kahn",
+   "Sleepytime Road 5",
+   5.3
+  ],
+  [
+   "Compromise",
+   "Skid Road",
+   "Compromise / Riva Ridge - Lower",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / China Bowl to Two Elk",
+   "Wapiti bottom",
+   0.5
+  ],
+  [
+   "Game Trail",
+   "Ouzo / Dealer's Choice",
+   "Game Creek Express Lift bottom",
+   0.5
+  ],
+  [
+   "Jade Glade",
+   "Tea Cup Express Lift top",
+   "Genghis Kahn / Jade Glade",
+   0.5
+  ],
+  [
+   "Jade Glade",
+   "Genghis Kahn / Jade Glade",
+   "Poppyfields",
+   2.4
+  ],
+  [
+   "Big Rock Park - West",
+   "Big Rock Park - East / Big Rock Park - West",
+   "Hornsilver",
+   1.2
+  ],
+  [
+   "Big Rock Park - West",
+   "Hornsilver",
+   "Hornsilver / Big Rock Park - West",
+   0.5
+  ],
+  [
+   "Big Rock Park - West",
+   "Hornsilver / Big Rock Park - West",
+   "Iron Mask / Big Rock Park - West",
+   0.6
+  ],
+  [
+   "Big Rock Park - West",
+   "Iron Mask / Big Rock Park - West",
+   "Little Ollie",
+   0.8
+  ],
+  [
+   "Big Rock Park - West",
+   "Little Ollie",
+   "Cloud 9 - Middle",
+   0.5
+  ],
+  [
+   "Big Rock Park - West",
+   "Cloud 9 - Middle",
+   "Cloud 9 - Middle 2",
+   0.5
+  ],
+  [
+   "Berries - Upper",
+   "Eagle's Nest Ridge 8",
+   "Berries - Lower / Berries - Upper",
+   2.7
+  ],
+  [
+   "Bwana",
+   "Bwana / Bwana Loop",
+   "Born Free 4",
+   0.8
+  ],
+  [
+   "Bwana",
+   "Born Free 4",
+   "Born Free 2",
+   0.5
+  ],
+  [
+   "Klickity Klack",
+   "Northface Catwalk 2",
+   "Klickity Klack / Skid Road",
+   0.7
+  ],
+  [
+   "Vail Village Catwalk - Lower",
+   "Bear Tree / Gitalong Road 2",
+   "Pepi's Face / Riva Catwalk",
+   1.8
+  ],
+  [
+   "Cub's Way",
+   "Cub's Way",
+   "Minnie Haha / Cub's Way",
+   0.7
+  ],
+  [
+   "Cub's Way",
+   "Minnie Haha / Cub's Way",
+   "Ski School Ledges / Cub's Way",
+   0.5
+  ],
+  [
+   "Cub's Way",
+   "Ski School Ledges / Cub's Way",
+   "Lionsway - Upper 2",
+   1.7
+  ],
+  [
+   "Cold Feet",
+   "Pickeroon - Upper / Pickeroon - Lower",
+   "Cold Feet",
+   0.5
+  ],
+  [
+   "Cold Feet",
+   "Cold Feet",
+   "Avanti - Upper / Cold Feet",
+   0.5
+  ],
+  [
+   "Cold Feet",
+   "Avanti - Upper / Cold Feet",
+   "Cold Feet / Lionsway - Upper",
+   1.7
+  ],
+  [
+   "Columbine",
+   "Ski School Ledges / Columbine",
+   "Lionsway - Upper 2",
+   3.0
+  ],
+  [
+   "Heavy Metal",
+   "The Divide",
+   "Cloud 9 - Middle 2",
+   4.1
+  ],
+  [
+   "South Rim",
+   "South Rim / Timberline Catwalk",
+   "First Step / South Rim",
+   1.4
+  ],
+  [
+   "Resolution",
+   "Pete's Express Lift top",
+   "Big Rock Park - East / Big Rock Park - West",
+   6.4
+  ],
+  [
+   "Gitalong Road",
+   "Mountain Top Express Lift bottom",
+   "Trans Montane / Gitalong Road",
+   1.8
+  ],
+  [
+   "Gitalong Road",
+   "Trans Montane / Gitalong Road",
+   "Cady's Cafe / Gitalong Road",
+   1.5
+  ],
+  [
+   "Gitalong Road",
+   "Cady's Cafe / Gitalong Road",
+   "Gitalong Road 6",
+   0.8
+  ],
+  [
+   "Gitalong Road",
+   "Gitalong Road 6",
+   "Gitalong Road / Ben's Face",
+   0.9
+  ],
+  [
+   "Cow's Face",
+   "Cow's Face / Apres Vous",
+   "Sun Up Catwalk 2",
+   3.1
+  ],
+  [
+   "Brisk Walk",
+   "Brisk Walk 2",
+   "Ranger Racoon's Escape / Brisk Walk",
+   1.7
+  ],
+  [
+   "Brisk Walk",
+   "Ranger Racoon's Escape / Brisk Walk",
+   "Brisk Walk",
+   0.6
+  ],
+  [
+   "Brisk Walk",
+   "Brisk Walk",
+   "Mill Creek Road / Riva Catwalk",
+   1.3
+  ],
+  [
+   "Avanti - Middle",
+   "Avanti - Upper / Cold Feet",
+   "Lionsway - Upper / Avanti - Middle",
+   1.1
+  ],
+  [
+   "Kangaroo Cornice",
+   "Eagle's Nest Ridge 5",
+   "Hunky Dory 2",
+   0.7
+  ],
+  [
+   "Gopher Hill",
+   "Riva Catwalk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   0.9
+  ],
+  [
+   "Gopher Hill",
+   "Golden Peak Terrain Park / Gopher Hill",
+   "Gopher Hill",
+   0.5
+  ],
+  [
+   "Straight Shot",
+   "Hunky Dory 3",
+   "Morning Side Ridge / Straight Shot",
+   3.0
+  ],
+  [
+   "Straight Shot",
+   "Morning Side Ridge / Straight Shot",
+   "Windows / Sundown Catwalk",
+   0.5
+  ],
+  [
+   "Wildcard",
+   "Wildcard / Lost Boy",
+   "Wildcard 2",
+   0.5
+  ],
+  [
+   "Wildcard",
+   "Wildcard 2",
+   "Wildcard",
+   1.1
+  ],
+  [
+   "Wildcard",
+   "Wildcard",
+   "Showboat / Wildcard",
+   2.7
+  ],
+  [
+   "Old 9 Line",
+   "Minnie Haha / Cub's Way",
+   "Lionsway - Lower",
+   1.8
+  ],
+  [
+   "Brisk Walk",
+   "Brisk Walk / Unnamed run",
+   "Brisk Walk 3",
+   1.3
+  ],
+  [
+   "Brisk Walk",
+   "Brisk Walk 3",
+   "Brisk Walk 2",
+   3.6
+  ],
+  [
+   "Minnie's - Upper",
+   "Coyote Crossing / Minnie's - Upper",
+   "Minnie's - Upper / Practice Parkway",
+   0.7
+  ],
+  [
+   "Safari",
+   "Safari / Post Road",
+   "Pride Express Lift bottom",
+   0.6
+  ],
+  [
+   "Safari",
+   "Pride Express Lift bottom",
+   "Safari",
+   1.3
+  ],
+  [
+   "Safari",
+   "Safari",
+   "Safari - Lower / Safari",
+   0.7
+  ],
+  [
+   "Safari",
+   "Safari - Lower / Safari",
+   "Safari / Cheetah",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Mountain Top Express Lift bottom",
+   "Wildwood Express Lift bottom",
+   0.5
+  ],
+  [
+   "Wildcard",
+   "Ptarmigan Ridge 2",
+   "Wildcard 2",
+   0.8
+  ],
+  [
+   "Lost Boy",
+   "Lost Boy 2",
+   "Lost Boy 3",
+   0.5
+  ],
+  [
+   "Lost Boy",
+   "Lost Boy 3",
+   "Lost Boy",
+   4.4
+  ],
+  [
+   "Lost Boy",
+   "Lost Boy",
+   "Game Creek Express Lift bottom",
+   1.3
+  ],
+  [
+   "Lost Boy",
+   "Game Creek Express Lift bottom",
+   "Ouzo / Dealer's Choice",
+   0.5
+  ],
+  [
+   "Lost Boy",
+   "Ouzo / Dealer's Choice",
+   "Game Creek Express Lift bottom",
+   0.5
+  ],
+  [
+   "Ledges - Upper",
+   "Eagle's Nest Ridge 9",
+   "Ski School Ledges / Columbine",
+   2.7
+  ],
+  [
+   "Milt's Face",
+   "Milt's Face / Apres Vous",
+   "Milt's Face / The Slot",
+   1.7
+  ],
+  [
+   "Timberline Catwalk",
+   "High Noon Express Lift top",
+   "South Rim / Timberline Catwalk",
+   0.5
+  ],
+  [
+   "Timberline Catwalk",
+   "South Rim / Timberline Catwalk",
+   "Sleepytime Road / First Step",
+   0.8
+  ],
+  [
+   "Timberline Catwalk",
+   "Sleepytime Road / First Step",
+   "Timberline Catwalk 2",
+   0.7
+  ],
+  [
+   "Timberline Catwalk",
+   "Timberline Catwalk 2",
+   "Timberline Catwalk",
+   0.5
+  ],
+  [
+   "Timberline Catwalk",
+   "Timberline Catwalk",
+   "Timberline Catwalk 3",
+   0.8
+  ],
+  [
+   "Timberline Catwalk",
+   "Timberline Catwalk 3",
+   "Sourdough Express Lift bottom",
+   3.6
+  ],
+  [
+   "Grand Review - Lower",
+   "Grand Review / Grand Review - Lower",
+   "Cloud 9 - Middle 3",
+   5.0
+  ],
+  [
+   "Pika",
+   "Eagle's Nest Ridge 10",
+   "Pickeroon - Upper / Pickeroon - Lower",
+   2.8
+  ],
+  [
+   "Pika",
+   "Pickeroon - Upper / Pickeroon - Lower",
+   "Berries - Lower / Berries - Upper",
+   0.7
+  ],
+  [
+   "Pika",
+   "Berries - Lower / Berries - Upper",
+   "Pika / Practice Parkway",
+   1.1
+  ],
+  [
+   "Born Free",
+   "Born Free 3",
+   "Born Free 5",
+   0.7
+  ],
+  [
+   "Born Free",
+   "Born Free 5",
+   "Lionsway - Lower / Born Free",
+   0.6
+  ],
+  [
+   "Born Free",
+   "Lionsway - Lower / Born Free",
+   "Vail Village Catwalk - Upper / Born Free",
+   0.7
+  ],
+  [
+   "Born Free",
+   "Vail Village Catwalk - Upper / Born Free",
+   "Vail Village Catwalk - Middle / Born Free",
+   1.0
+  ],
+  [
+   "Born Free",
+   "Vail Village Catwalk - Middle / Born Free",
+   "Bwana Loop / Born Free",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Northface Catwalk / Unnamed run",
+   "Northwoods Express Lift bottom",
+   0.5
+  ],
+  [
+   "Shangri-La Glade",
+   "Shangri-La",
+   "Poppyfields 2",
+   3.8
+  ],
+  [
+   "Unnamed run",
+   "Pride Express Lift top",
+   "Unnamed run / Eagle's Nest Ridge",
+   0.5
+  ],
+  [
+   "Cub's Way",
+   "Pride Express Lift top",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   0.5
+  ],
+  [
+   "Cub's Way",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Cub's Way 3",
+   0.5
+  ],
+  [
+   "Cub's Way",
+   "Cub's Way 3",
+   "Bwana / Simba",
+   1.6
+  ],
+  [
+   "Cub's Way",
+   "Bwana / Simba",
+   "Cub's Way 4",
+   0.5
+  ],
+  [
+   "Cub's Way",
+   "Cub's Way 4",
+   "Cub's Way 2",
+   2.3
+  ],
+  [
+   "Cub's Way",
+   "Cub's Way 2",
+   "Cub's Way",
+   0.5
+  ],
+  [
+   "Never",
+   "O.S.",
+   "Sundown Catwalk 2",
+   2.4
+  ],
+  [
+   "Unnamed run",
+   "Windisch Way / Riva Catwalk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Golden Peak Terrain Park / Gopher Hill",
+   "Riva Bahn Express Lift bottom",
+   0.5
+  ],
+  [
+   "The Slot",
+   "South Rim / Timberline Catwalk",
+   "The Slot",
+   0.5
+  ],
+  [
+   "The Slot",
+   "The Slot",
+   "Milt's Face / The Slot",
+   2.0
+  ],
+  [
+   "The Slot",
+   "Milt's Face / The Slot",
+   "Headwall / Campbell's",
+   1.9
+  ],
+  [
+   "The Slot",
+   "Headwall / Campbell's",
+   "Sun Up Express Lift bottom",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Highline Express Lift bottom",
+   "Brisk Walk / Unnamed run",
+   0.5
+  ],
+  [
+   "Lover's Leap",
+   "The Divide 2",
+   "Lover's Leap",
+   4.2
+  ],
+  [
+   "Lover's Leap",
+   "Lover's Leap",
+   "Hornsilver",
+   0.6
+  ],
+  [
+   "Chicken Yard",
+   "Chicken Yard / Apres Vous",
+   "Sun Up Catwalk 3",
+   3.1
+  ],
+  [
+   "Minnie's - Middle",
+   "Minnie's - Middle / Practice Parkway",
+   "Cub's Way",
+   0.9
+  ],
+  [
+   "Vail Village Catwalk - Lower",
+   "Bwana Loop / Born Free 2",
+   "Bear Tree / Gitalong Road 2",
+   1.7
+  ],
+  [
+   "Cub's Way",
+   "Lindsey's / Lionsway - Upper",
+   "Lodgepole / Giant Steps",
+   0.5
+  ],
+  [
+   "Cub's Way",
+   "Lodgepole / Giant Steps",
+   "Avanti Express Lift bottom",
+   0.5
+  ],
+  [
+   "Cub's Way",
+   "Avanti Express Lift bottom",
+   "Cub's Way / Unnamed run",
+   0.5
+  ],
+  [
+   "Born Free",
+   "Cub's Way 2",
+   "Born Free 3",
+   2.0
+  ],
+  [
+   "China Spur",
+   "Cloud 9 - Middle / China Spur",
+   "Silk Road - East 3",
+   2.0
+  ],
+  [
+   "Seldom",
+   "Ptarmigan Ridge 3",
+   "Sundown Catwalk 3",
+   2.3
+  ],
+  [
+   "Yonder",
+   "Yonder / Red Zinger",
+   "Sleepytime Road",
+   1.9
+  ],
+  [
+   "Yonder",
+   "Sleepytime Road",
+   "Headwall / Campbell's",
+   2.7
+  ],
+  [
+   "The Preserve - Lower",
+   "Bwana Loop",
+   "Born Free 4",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Born Free Express Lift top",
+   "Cub's Way 2",
+   0.5
+  ],
+  [
+   "Powerline Glade",
+   "Powerline Glade / Ramshorn",
+   "The Skipper",
+   3.3
+  ],
+  [
+   "Gitalong Road",
+   "Gitalong Road 4",
+   "Gitalong Road / Mill Creek Road",
+   2.3
+  ],
+  [
+   "Prima - Middle",
+   "Prima - Brown's Face / Prima - Middle",
+   "Northface Catwalk 3",
+   2.2
+  ],
+  [
+   "Red Square",
+   "Orient Express",
+   "Red Square / Gorky Park",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Sourdough Express Lift top",
+   "Unnamed run / Whiskey Jack",
+   1.4
+  ],
+  [
+   "Log Chute",
+   "Northface Catwalk 4",
+   "Brisk Walk / Unnamed run",
+   1.1
+  ],
+  [
+   "Game Trail",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Showboat / Wildcard",
+   4.8
+  ],
+  [
+   "Game Trail",
+   "Showboat / Wildcard",
+   "Ouzo / Dealer's Choice",
+   1.1
+  ],
+  [
+   "Ouzo",
+   "Ridge Route",
+   "Ouzo / Club Walk",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Boomer / Tin Pants",
+   "Sourdough Express Lift bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Northwoods Express Lift top",
+   "High Noon Express Lift top",
+   0.5
+  ],
+  [
+   "Cookshack",
+   "Cold Feet",
+   "Lionsway - Upper / Avanti - Middle",
+   1.2
+  ],
+  [
+   "Cookshack",
+   "Lionsway - Upper / Avanti - Middle",
+   "Lionsway - Upper 3",
+   0.5
+  ],
+  [
+   "Rasputin's Revenge",
+   "Orient Express 2",
+   "Silk Road - East 4",
+   3.4
+  ],
+  [
+   "Skid Road",
+   "Northface Catwalk",
+   "Klickity Klack / Skid Road",
+   1.7
+  ],
+  [
+   "Skid Road",
+   "Klickity Klack / Skid Road",
+   "Brisk Walk / Unnamed run",
+   0.8
+  ],
+  [
+   "Skid Road",
+   "Brisk Walk / Unnamed run",
+   "Highline Express Lift bottom",
+   0.5
+  ],
+  [
+   "Simba",
+   "Simba",
+   "Simba / Cheetah",
+   1.2
+  ],
+  [
+   "Poppyfields West",
+   "Sourdough Express Lift top",
+   "Poppyfields West",
+   0.5
+  ],
+  [
+   "Poppyfields West",
+   "Poppyfields West",
+   "Poppyfields East / Chopstix",
+   3.4
+  ],
+  [
+   "Poppyfields West",
+   "Poppyfields East / Chopstix",
+   "Chopstix / Poppyfields",
+   0.5
+  ],
+  [
+   "Forever",
+   "High Noon Express Lift top",
+   "Sundown Catwalk 2",
+   6.3
+  ],
+  [
+   "Forever",
+   "Sundown Catwalk 2",
+   "Sundown Catwalk 4",
+   0.5
+  ],
+  [
+   "Dragon's Teeth",
+   "Poppyfields West",
+   "Poppyfields 3",
+   3.4
+  ],
+  [
+   "Minnie's - Lower",
+   "Cub's Way",
+   "Born Free 5",
+   2.4
+  ],
+  [
+   "Baccarat",
+   "Lost Boy 3",
+   "Dealer's Choice / Baccarat",
+   0.7
+  ],
+  [
+   "Baccarat",
+   "Dealer's Choice / Baccarat",
+   "The Woods / Baccarat",
+   1.6
+  ],
+  [
+   "Baccarat",
+   "The Woods / Baccarat",
+   "Showboat / Wildcard",
+   0.9
+  ],
+  [
+   "Lost Boy",
+   "Game Creek Express Lift top",
+   "Ptarmigan Ridge / Wildcard",
+   0.5
+  ],
+  [
+   "Lost Boy",
+   "Ptarmigan Ridge / Wildcard",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   0.5
+  ],
+  [
+   "Lost Boy",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   "Ptarmigan Ridge 2",
+   0.5
+  ],
+  [
+   "Lost Boy",
+   "Ptarmigan Ridge 2",
+   "Ptarmigan Ridge 5",
+   0.5
+  ],
+  [
+   "Lost Boy",
+   "Ptarmigan Ridge 5",
+   "Wildcard / Lost Boy",
+   0.5
+  ],
+  [
+   "Lost Boy",
+   "Wildcard / Lost Boy",
+   "The Woods / Lost Boy",
+   0.7
+  ],
+  [
+   "Lost Boy",
+   "The Woods / Lost Boy",
+   "Lost Boy 2",
+   1.6
+  ],
+  [
+   "Practice Parkway",
+   "Coyote Crossing",
+   "Surface Lift bottom",
+   0.5
+  ],
+  [
+   "Practice Parkway",
+   "Surface Lift bottom",
+   "Coyote Crossing / Minnie's - Upper",
+   1.6
+  ],
+  [
+   "Practice Parkway",
+   "Coyote Crossing / Minnie's - Upper",
+   "Pika / Practice Parkway",
+   1.0
+  ],
+  [
+   "Practice Parkway",
+   "Pika / Practice Parkway",
+   "Ski School Ledges / Columbine",
+   0.5
+  ],
+  [
+   "Tea Cup Glades",
+   "Sleepytime Road 6",
+   "Skyline Express Lift bottom",
+   4.0
+  ],
+  [
+   "Emperor's Choice",
+   "Emperor's Choice / Red Zinger",
+   "Sleepytime Road 7",
+   4.9
+  ],
+  [
+   "Flap Jack",
+   "Sourdough Express Lift top",
+   "Boomer / Flap Jack",
+   0.7
+  ],
+  [
+   "Flap Jack",
+   "Boomer / Flap Jack",
+   "China Bowl to Two Elk / Flap Jack",
+   0.5
+  ],
+  [
+   "Flap Jack",
+   "China Bowl to Two Elk / Flap Jack",
+   "Tin Pants / Flap Jack",
+   0.6
+  ],
+  [
+   "Flap Jack",
+   "Tin Pants / Flap Jack",
+   "Highline Express Lift top",
+   1.5
+  ],
+  [
+   "Flap Jack",
+   "Highline Express Lift top",
+   "Boomer / Tin Pants",
+   2.0
+  ],
+  [
+   "Flap Jack",
+   "Boomer / Tin Pants",
+   "Flap Jack 2",
+   0.5
+  ],
+  [
+   "Flap Jack",
+   "Flap Jack 2",
+   "Hairbag Alley / Flap Jack",
+   1.5
+  ],
+  [
+   "Flap Jack",
+   "Hairbag Alley / Flap Jack",
+   "Flap Jack",
+   1.6
+  ],
+  [
+   "Flap Jack",
+   "Flap Jack",
+   "Hairbag Alley / Northstar",
+   2.9
+  ],
+  [
+   "Flap Jack",
+   "Hairbag Alley / Northstar",
+   "Northwoods Express Lift bottom",
+   0.5
+  ],
+  [
+   "Skree Field",
+   "Skree Field / Cloud 9",
+   "Lover's Leap",
+   4.9
+  ],
+  [
+   "Outer Mongolia Bowl",
+   "Silk Road - East 5",
+   "Silk Road - East 6",
+   3.5
+  ],
+  [
+   "Unnamed run",
+   "Mountain Top Express Lift top",
+   "Northwoods Express Lift top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Northwoods Express Lift top",
+   "High Noon Express Lift top",
+   0.5
+  ],
+  [
+   "Ramshorn",
+   "High Noon Express Lift top",
+   "Powerline Glade / Ramshorn",
+   0.5
+  ],
+  [
+   "Ramshorn",
+   "Powerline Glade / Ramshorn",
+   "Windows Road / Ramshorn",
+   0.5
+  ],
+  [
+   "Ramshorn",
+   "Windows Road / Ramshorn",
+   "Ramshorn",
+   1.2
+  ],
+  [
+   "Ramshorn",
+   "Zot / Swingsville",
+   "Ramshorn",
+   1.3
+  ],
+  [
+   "Ramshorn",
+   "Ramshorn",
+   "Ramshorn 2",
+   1.1
+  ],
+  [
+   "Practice Parkway",
+   "Ski School Ledges / Columbine",
+   "Minnie's - Upper / Practice Parkway",
+   0.5
+  ],
+  [
+   "Practice Parkway",
+   "Minnie's - Upper / Practice Parkway",
+   "Minnie Haha / Practice Parkway",
+   0.8
+  ],
+  [
+   "Practice Parkway",
+   "Minnie Haha / Practice Parkway",
+   "Minnie's - Middle / Practice Parkway",
+   0.5
+  ],
+  [
+   "Practice Parkway",
+   "Minnie's - Middle / Practice Parkway",
+   "Cub's Way 2",
+   1.2
+  ],
+  [
+   "Head First",
+   "Giant Steps",
+   "Gitalong Road 2",
+   0.8
+  ],
+  [
+   "Head First",
+   "Gitalong Road 2",
+   "Pepi's Face / Riva Catwalk",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Skyline Express Lift top",
+   "Earl's Express Lift top",
+   0.5
+  ],
+  [
+   "Riva Ridge - Lower",
+   "Compromise / Riva Ridge - Lower",
+   "Northface Catwalk / Riva Ridge - Lower",
+   1.0
+  ],
+  [
+   "Riva Ridge - Lower",
+   "Northface Catwalk / Riva Ridge - Lower",
+   "Mill Creek Road / Riva Catwalk",
+   2.1
+  ],
+  [
+   "Riva Ridge - Middle",
+   "Trans Montane / Riva Ridge - Upper",
+   "Skid Road / Riva Ridge - Middle",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Pepi's Face / Riva Catwalk",
+   "Gondola One bottom",
+   0.5
+  ],
+  [
+   "Post Road",
+   "Unnamed run / Post Road",
+   "Simba 3",
+   1.4
+  ],
+  [
+   "Post Road",
+   "Simba 3",
+   "Cascade Village Lift top",
+   3.4
+  ],
+  [
+   "Post Road",
+   "Cascade Village Lift top",
+   "Safari / Post Road",
+   1.0
+  ],
+  [
+   "Post Road",
+   "Safari / Post Road",
+   "Bwana",
+   1.2
+  ],
+  [
+   "Post Road",
+   "Bwana",
+   "The Preserve / Post Road",
+   0.5
+  ],
+  [
+   "Post Road",
+   "The Preserve / Post Road",
+   "Born Free 5",
+   2.0
+  ],
+  [
+   "Post Road",
+   "Born Free 5",
+   "Vail Village Catwalk - Upper / Gitalong Road",
+   4.6
+  ],
+  [
+   "Gitalong Road",
+   "Giant Steps 2",
+   "Bear Tree / Gitalong Road",
+   1.9
+  ],
+  [
+   "Gitalong Road",
+   "Bear Tree / Gitalong Road",
+   "Vail Village Catwalk - Upper / Gitalong Road",
+   0.5
+  ],
+  [
+   "Northwoods",
+   "Timberline Catwalk",
+   "Northwoods",
+   2.2
+  ],
+  [
+   "Northwoods",
+   "Northwoods",
+   "Flap Jack",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Wildwood Express Lift top",
+   "Showboat / Eagle's Nest Ridge",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Showboat / Eagle's Nest Ridge",
+   "Ptarmigan Ridge 2",
+   0.7
+  ],
+  [
+   "Spruce Face",
+   "Spruce Face / Lionsway - Upper",
+   "Gitalong Road 6",
+   1.0
+  ],
+  [
+   "Encore",
+   "The Divide 3",
+   "Encore / Kelly's Toll Road",
+   4.1
+  ],
+  [
+   "Ledges - Lower",
+   "Ski School Ledges / Cub's Way",
+   "Lionsway - Lower",
+   1.9
+  ],
+  [
+   "Challenge",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   "Overeasy",
+   2.5
+  ],
+  [
+   "Northstar",
+   "Timberline Catwalk 2",
+   "First Step / South Rim",
+   0.9
+  ],
+  [
+   "Northstar",
+   "First Step / South Rim",
+   "North Rim / Northstar",
+   0.6
+  ],
+  [
+   "Northstar",
+   "North Rim / Northstar",
+   "Gandy Dancer / Northstar",
+   3.9
+  ],
+  [
+   "Cloud 9",
+   "Earl's Express Lift top",
+   "Skyline Express Lift top",
+   0.5
+  ],
+  [
+   "Cloud 9",
+   "Skyline Express Lift top",
+   "Skree Field / Cloud 9",
+   1.6
+  ],
+  [
+   "Cloud 9",
+   "Skree Field / Cloud 9",
+   "Big Rock Park - East / Cloud 9",
+   2.8
+  ],
+  [
+   "Cloud 9",
+   "Big Rock Park - East / Cloud 9",
+   "The Star - Lower / Cloud 9",
+   9.5
+  ],
+  [
+   "Cloud 9",
+   "The Star - Lower / Cloud 9",
+   "Cloud 9 - Middle / China Spur",
+   2.0
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Game Creek Express Lift top",
+   "Showboat / Eagle's Nest Ridge",
+   0.5
+  ],
+  [
+   "Eagle's Nest Ridge",
+   "Showboat / Eagle's Nest Ridge",
+   "Wildwood Express Lift top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Cub's Way / Unnamed run",
+   "Avanti Express Lift bottom",
+   0.5
+  ],
+  [
+   "Champagne Glade",
+   "Earl's Express Lift top",
+   "Earl's Express Lift bottom",
+   6.6
+  ],
+  [
+   "Red Zinger",
+   "Tea Cup Express Lift top",
+   "Sun Up Express Lift top",
+   0.5
+  ],
+  [
+   "Red Zinger",
+   "Sun Up Express Lift top",
+   "Yonder / Red Zinger",
+   0.5
+  ],
+  [
+   "Red Zinger",
+   "Yonder / Red Zinger",
+   "Emperor's Choice / Red Zinger",
+   1.0
+  ],
+  [
+   "Red Zinger",
+   "Emperor's Choice / Red Zinger",
+   "Morning Thunder / Sleepytime Road 2",
+   4.9
+  ],
+  [
+   "Unnamed run",
+   "Sun Down Express top",
+   "Wildwood Express Lift top",
+   0.5
+  ],
+  [
+   "Riva Ridge - Tourist Trap",
+   "Skid Road / Riva Ridge - Middle",
+   "Compromise / Riva Ridge - Lower",
+   1.3
+  ],
+  [
+   "Whistle Pig",
+   "Swingsville 2",
+   "Zot / Whistle Pig",
+   1.7
+  ],
+  [
+   "Whistle Pig",
+   "Zot / Whistle Pig",
+   "Swingsville 3",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Riva Bahn Express Lift top",
+   "Roger's Run / Northstar",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Roger's Run / Northstar",
+   "Northwoods Express Lift bottom",
+   0.5
+  ],
+  [
+   "Widge's",
+   "Ptarmigan Ridge 4",
+   "Sundown Catwalk 3",
+   3.7
+  ],
+  [
+   "Widge's",
+   "Sundown Catwalk 3",
+   "Wow / Sundown Catwalk",
+   0.5
+  ],
+  [
+   "Gitalong Road",
+   "Black Forest Racing",
+   "Black Forest Racing / Gitalong Road",
+   0.5
+  ],
+  [
+   "Gitalong Road",
+   "Black Forest Racing / Gitalong Road",
+   "Black Forest / Gitalong Road",
+   0.5
+  ],
+  [
+   "Gitalong Road",
+   "Black Forest / Gitalong Road",
+   "Black Forest bottom",
+   0.5
+  ],
+  [
+   "Gitalong Road",
+   "Black Forest bottom",
+   "Cub's Way / Unnamed run",
+   0.5
+  ],
+  [
+   "Gitalong Road",
+   "Cub's Way / Unnamed run",
+   "Giant Steps 2",
+   1.0
+  ],
+  [
+   "Pony Express - Lower",
+   "Ranger Racoon's Escape / Brisk Walk",
+   "Brisk Walk",
+   0.9
+  ],
+  [
+   "Pony Express - Lower",
+   "Brisk Walk",
+   "Pony Express - Lower / Ruder's Run",
+   0.5
+  ],
+  [
+   "Cloud 9 - Lower",
+   "China Bridge Access Road / Cloud 9 - Middle",
+   "The Divide / Cloud 9 - Lower",
+   2.2
+  ],
+  [
+   "Cloud 9 - Lower",
+   "The Divide / Cloud 9 - Lower",
+   "Cloud 9 - Lower",
+   0.5
+  ],
+  [
+   "Cloud 9 - Lower",
+   "Cloud 9 - Lower",
+   "Tea Cup Express Lift bottom",
+   0.5
+  ],
+  [
+   "Cloud 9 - Lower",
+   "Tea Cup Express Lift bottom",
+   "Skyline Express Lift bottom",
+   0.5
+  ],
+  [
+   "Safari - East",
+   "Simba 2",
+   "Safari - East / Safari",
+   1.6
+  ],
+  [
+   "Lionsway - Upper",
+   "Cady's Cafe / Overeasy",
+   "Spruce Face / Lionsway - Upper",
+   0.9
+  ],
+  [
+   "Lionsway - Upper",
+   "Spruce Face / Lionsway - Upper",
+   "Ben's Face / Lionsway - Upper",
+   0.6
+  ],
+  [
+   "Lionsway - Upper",
+   "Ben's Face / Lionsway - Upper",
+   "Cold Feet / Lionsway - Upper",
+   0.6
+  ],
+  [
+   "Lionsway - Upper",
+   "Cold Feet / Lionsway - Upper",
+   "Chaos Canyon / Lionsway - Upper",
+   0.9
+  ],
+  [
+   "Lionsway - Upper",
+   "Chaos Canyon / Lionsway - Upper",
+   "Lionsway - Upper / Avanti - Middle",
+   1.2
+  ],
+  [
+   "Gorky Park",
+   "Silk Road 2",
+   "Red Square / Gorky Park",
+   2.4
+  ],
+  [
+   "Gorky Park",
+   "Red Square / Gorky Park",
+   "Silk Road - East 2",
+   2.0
+  ],
+  [
+   "Kelly's Toll Road",
+   "Earl's Express Lift bottom",
+   "Encore / Kelly's Toll Road",
+   7.6
+  ],
+  [
+   "Kelly's Toll Road",
+   "Encore / Kelly's Toll Road",
+   "Cloud 9 - Lower",
+   0.5
+  ],
+  [
+   "Safari",
+   "Simba 3",
+   "Safari - East / Safari",
+   0.5
+  ],
+  [
+   "Safari",
+   "Safari - East / Safari",
+   "Safari / Post Road",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Cheetah",
+   "Safari",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Wapiti top",
+   "China Bowl to Two Elk",
+   0.5
+  ],
+  [
+   "Look Ma",
+   "Hunky Dory / Meadows",
+   "Unnamed run / Meadows",
+   1.6
+  ],
+  [
+   "Cappuccino",
+   "Christmas / Swingsville",
+   "Slifer Express / Cappuccino",
+   2.0
+  ],
+  [
+   "Cappuccino",
+   "Slifer Express / Cappuccino",
+   "Swingsville 4",
+   0.7
+  ],
+  [
+   "Ruder's Run",
+   "Pony Express - Lower / Ruder's Run",
+   "Riva Catwalk",
+   2.1
+  ],
+  [
+   "China Bowl to Two Elk",
+   "Orient Express Lift top",
+   "Chopstix / China Bowl to Two Elk",
+   0.5
+  ],
+  [
+   "China Bowl to Two Elk",
+   "Chopstix / China Bowl to Two Elk",
+   "Unnamed run / China Bowl to Two Elk",
+   2.0
+  ],
+  [
+   "China Bowl to Two Elk",
+   "Unnamed run / China Bowl to Two Elk",
+   "Wapiti bottom",
+   0.5
+  ],
+  [
+   "Cascade Way",
+   "Cascade Way / Simba",
+   "Cascade Village Lift bottom",
+   4.9
+  ],
+  [
+   "Cheetah",
+   "Simba",
+   "Unnamed run / Cheetah",
+   0.6
+  ],
+  [
+   "Cheetah",
+   "Unnamed run / Cheetah",
+   "Safari - Lower / Safari",
+   0.7
+  ],
+  [
+   "Cheetah",
+   "Safari - Lower / Safari",
+   "Safari / Cheetah",
+   0.5
+  ],
+  [
+   "Cheetah",
+   "Safari / Cheetah",
+   "Simba / Cheetah",
+   0.5
+  ],
+  [
+   "Simba",
+   "Cub's Way 3",
+   "Bwana / Simba",
+   1.4
+  ],
+  [
+   "In The Wuides",
+   "The Divide 4",
+   "Earl's Express Lift bottom",
+   5.3
+  ],
+  [
+   "Sourdough",
+   "Sourdough Express Lift top",
+   "Boomer / Tin Pants",
+   3.2
+  ],
+  [
+   "Avanti - Lower",
+   "Lionsway - Upper / Avanti - Middle",
+   "Lionsway - Upper 3",
+   0.5
+  ],
+  [
+   "Avanti - Lower",
+   "Lionsway - Upper 3",
+   "Black Forest Racing / Avanti - Lower",
+   0.5
+  ],
+  [
+   "Avanti - Lower",
+   "Black Forest Racing / Avanti - Lower",
+   "Cub's Way / Unnamed run",
+   3.0
+  ],
+  [
+   "Snag Park",
+   "Timberline Catwalk 3",
+   "Northwoods",
+   2.4
+  ],
+  [
+   "Inner Mongolia Bowl",
+   "Mongolia top",
+   "Inner Mongolia Bowl",
+   1.9
+  ],
+  [
+   "Inner Mongolia Bowl",
+   "Inner Mongolia Bowl",
+   "Silk Road - East 7",
+   2.8
+  ],
+  [
+   "Simba",
+   "Simba / Cheetah",
+   "Cascade Way / Simba",
+   0.5
+  ],
+  [
+   "Simba",
+   "Cascade Way / Simba",
+   "Safari - Lower / Simba",
+   0.9
+  ],
+  [
+   "Simba",
+   "Safari - Lower / Simba",
+   "Cheetah Gulley / Simba",
+   0.5
+  ],
+  [
+   "Simba",
+   "Cheetah Gulley / Simba",
+   "Born Free 2",
+   0.5
+  ],
+  [
+   "Born Free",
+   "Coyote Crossing",
+   "Cub's Way 2",
+   3.0
+  ],
+  [
+   "The Star",
+   "Grand Review / Grand Review - Lower",
+   "The Star - Lower / Cloud 9",
+   3.7
+  ],
+  [
+   "Trans Montane",
+   "Trans Montane / Riva Ridge - Upper",
+   "Northface Catwalk / Unnamed run",
+   4.9
+  ],
+  [
+   "Ptarmigan Ridge",
+   "Ptarmigan Ridge 5",
+   "Ptarmigan Ridge 6",
+   0.5
+  ],
+  [
+   "Windows Road",
+   "Hunky Dory 3",
+   "Windows / Windows Road",
+   1.8
+  ],
+  [
+   "Pride",
+   "Cub's Way 4",
+   "Unnamed run / Post Road",
+   1.7
+  ],
+  [
+   "Pride",
+   "Unnamed run / Post Road",
+   "Pride Express Lift bottom",
+   3.1
+  ],
+  [
+   "Ramshorn",
+   "Ramshorn 2",
+   "The Skipper",
+   0.5
+  ],
+  [
+   "Ramshorn",
+   "The Skipper",
+   "The Skipper / Ramshorn",
+   0.5
+  ],
+  [
+   "Ramshorn",
+   "The Skipper / Ramshorn",
+   "South Look Ma / Ramshorn",
+   1.8
+  ],
+  [
+   "Ramshorn",
+   "South Look Ma / Ramshorn",
+   "Unnamed run / Meadows",
+   0.5
+  ],
+  [
+   "Ramshorn",
+   "Unnamed run / Meadows",
+   "Cady's Cafe / Overeasy",
+   0.5
+  ],
+  [
+   "Prima - Lower",
+   "Northface Catwalk 3",
+   "Brisk Walk 3",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Sleepytime Road 5",
+   "Orient Express Lift bottom",
+   0.7
+  ],
+  [
+   "Whiskey Jack",
+   "Tea Cup Express Lift top",
+   "Unnamed run / Whiskey Jack",
+   1.0
+  ],
+  [
+   "Whiskey Jack",
+   "Unnamed run / Whiskey Jack",
+   "Sourdough Express Lift bottom",
+   2.7
+  ],
+  [
+   "Whiskey Jack",
+   "Sourdough Express Lift bottom",
+   "Flap Jack 2",
+   0.5
+  ],
+  [
+   "Ouzo Glade",
+   "Eagle's Nest Ridge 8",
+   "Ouzo / Dealer's Choice",
+   3.1
+  ],
+  [
+   "Apres Vous",
+   "The Slot",
+   "Milt's Face / Apres Vous",
+   0.5
+  ],
+  [
+   "Apres Vous",
+   "Milt's Face / Apres Vous",
+   "Campbell's / Apres Vous",
+   0.5
+  ],
+  [
+   "Apres Vous",
+   "Campbell's / Apres Vous",
+   "Cow's Face / Apres Vous",
+   1.3
+  ],
+  [
+   "Apres Vous",
+   "Cow's Face / Apres Vous",
+   "Chicken Yard / Apres Vous",
+   0.5
+  ],
+  [
+   "Apres Vous",
+   "Chicken Yard / Apres Vous",
+   "Sun Up Catwalk 4",
+   2.9
+  ],
+  [
+   "Bolshoi Ballroom",
+   "Mongolia top",
+   "Bolshoi Ballroom",
+   2.7
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Pepi's Face / Gitalong Road",
+   "Gondola One bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Pepi's Face / Riva Catwalk",
+   "Gondola One bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Christmas",
+   "Mountain Top Express Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Christmas",
+   "Wildwood Express Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Meadows",
+   "Mountain Top Express Lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Meadows",
+   "Gondola One top",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Meadows",
+   "Wildwood Express Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Hunky Dory / Windows Road",
+   "Wildwood Express Lift top",
+   1.3
+  ],
+  [
+   "walk",
+   "Hunky Dory / Windows Road",
+   "Game Creek Express Lift top",
+   2.7
+  ],
+  [
+   "walk",
+   "Hunky Dory / Windows Road",
+   "Sun Down Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Born Free",
+   "Born Free Express Lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Born Free",
+   "Unnamed lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Black Forest Racing / Avanti - Lower",
+   "Black Forest top",
+   1.3
+  ],
+  [
+   "walk",
+   "Black Forest Racing / Gitalong Road",
+   "Black Forest bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Black Forest Racing / Gitalong Road",
+   "Avanti Express Lift bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Tea Cup Express Lift top",
+   "Genghis Kahn / Jade Glade",
+   1.4
+  ],
+  [
+   "walk",
+   "Tea Cup Express Lift top",
+   "Sun Up Express Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Tea Cup Express Lift top",
+   "Yonder / Red Zinger",
+   1.2
+  ],
+  [
+   "walk",
+   "Sourdough Express Lift top",
+   "Boomer / Flap Jack",
+   2.9
+  ],
+  [
+   "walk",
+   "Sourdough Express Lift top",
+   "Poppyfields West",
+   2.1
+  ],
+  [
+   "walk",
+   "Sourdough Express Lift top",
+   "China Bowl to Two Elk",
+   3.3
+  ],
+  [
+   "walk",
+   "Born Free Express Lift bottom",
+   "Born Free",
+   1.8
+  ],
+  [
+   "walk",
+   "Born Free Express Lift bottom",
+   "Unnamed run / Born Free",
+   0.7
+  ],
+  [
+   "walk",
+   "Born Free Express Lift bottom",
+   "Unnamed lift bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Wapiti bottom",
+   "Unnamed run / China Bowl to Two Elk",
+   1.0
+  ],
+  [
+   "walk",
+   "Wapiti bottom",
+   "Wapiti top",
+   2.8
+  ],
+  [
+   "walk",
+   "Wapiti bottom",
+   "China Bowl to Two Elk",
+   3.5
+  ],
+  [
+   "walk",
+   "Boomer / Tin Pants",
+   "Sourdough Express Lift bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Ouzo / Dealer's Choice",
+   "Game Creek Express Lift bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "China Bridge Access Road / Silk Road - East",
+   "Orient Express Lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Pete's Express Lift bottom",
+   "Cloud 9 - Middle 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Eagle Bahn Gondola top",
+   2.4
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Unnamed run / Eagle's Nest Ridge",
+   2.2
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   3.3
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Pride Express Lift top",
+   3.5
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Tubing Hill Lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Surface Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Surface Lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Surface Lift bottom 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Surface Lift top 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Coyote Crossing / Minnie's - Upper",
+   2.5
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Coyote Crossing",
+   2.2
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Surface Lift bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Riva Catwalk",
+   "Elvis Bahn bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Riva Catwalk",
+   "Elvis Bahn top",
+   2.0
+  ],
+  [
+   "walk",
+   "Riva Catwalk",
+   "Rip's Ride Carpet bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Skyline Express Lift top",
+   "Earl's Express Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Skyline Express Lift top",
+   "The Divide 4",
+   2.8
+  ],
+  [
+   "walk",
+   "The Divide / Cloud 9 - Lower",
+   "Tea Cup Express Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "The Divide / Cloud 9 - Lower",
+   "Skyline Express Lift bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Chopstix / China Bowl to Two Elk",
+   "Orient Express Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Black Forest bottom",
+   "Lodgepole / Giant Steps",
+   2.3
+  ],
+  [
+   "walk",
+   "Black Forest bottom",
+   "Black Forest / Gitalong Road",
+   1.0
+  ],
+  [
+   "walk",
+   "Black Forest bottom",
+   "Cub's Way / Unnamed run",
+   1.2
+  ],
+  [
+   "walk",
+   "Black Forest bottom",
+   "Avanti Express Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Born Free",
+   "Born Free Express Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Born Free",
+   "Unnamed lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Cloud 9 - Middle / China Spur",
+   "Pete's Express Lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Faro / Ridge Route",
+   "Avanti Express Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Highline Express Lift top",
+   "Tin Pants",
+   3.3
+  ],
+  [
+   "walk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   "Riva Bahn Express Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   "Elvis Bahn bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   "Rip's Ride Carpet bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Gitalong Road / Mill Creek Road",
+   "Elvis Bahn top",
+   3.4
+  ],
+  [
+   "walk",
+   "Tea Cup Express Lift bottom",
+   "The Divide / Cloud 9 - Lower",
+   1.2
+  ],
+  [
+   "walk",
+   "Tea Cup Express Lift bottom",
+   "Skyline Express Lift bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Tea Cup Express Lift bottom",
+   "Encore / Kelly's Toll Road",
+   1.2
+  ],
+  [
+   "walk",
+   "Tea Cup Express Lift bottom",
+   "Cloud 9 - Lower",
+   0.6
+  ],
+  [
+   "walk",
+   "Orient Express Lift top",
+   "Chopstix / China Bowl to Two Elk",
+   0.7
+  ],
+  [
+   "walk",
+   "Mongolia bottom",
+   "Silk Road 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Little Eagle top",
+   2.4
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Unnamed run / Eagle's Nest Ridge",
+   1.0
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   0.9
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Pride Express Lift top",
+   1.1
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Coyote Crossing",
+   2.5
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Cub's Way 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Surface Lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Surface Lift top",
+   1.7
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Surface Lift bottom 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Surface Lift top 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Little Eagle top",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Eagle Bahn Gondola top",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Pride Express Lift top",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Surface Lift top",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Surface Lift bottom 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Surface Lift top 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Earl's Express Lift top",
+   "Skyline Express Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Headwall / Campbell's",
+   "Sun Up Express Lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Roger's Run / Northstar",
+   "Northwoods Express Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Roger's Run / Northstar",
+   "Riva Bahn Express Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "High Noon Express Lift top",
+   "Windows Road / Ramshorn",
+   3.2
+  ],
+  [
+   "walk",
+   "High Noon Express Lift top",
+   "Zot / Swingsville",
+   2.7
+  ],
+  [
+   "walk",
+   "High Noon Express Lift top",
+   "South Rim / Timberline Catwalk",
+   0.9
+  ],
+  [
+   "walk",
+   "High Noon Express Lift top",
+   "Milt's Face / Apres Vous",
+   2.8
+  ],
+  [
+   "walk",
+   "High Noon Express Lift top",
+   "Powerline Glade / Ramshorn",
+   1.9
+  ],
+  [
+   "walk",
+   "High Noon Express Lift top",
+   "Northwoods Express Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "High Noon Express Lift top",
+   "Mountain Top Express Lift top",
+   1.0
+  ],
+  [
+   "walk",
+   "High Noon Express Lift top",
+   "The Slot",
+   1.8
+  ],
+  [
+   "walk",
+   "Northface Catwalk / Unnamed run",
+   "Northwoods Express Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Northface Catwalk / Unnamed run",
+   "Riva Bahn Express Lift top",
+   2.8
+  ],
+  [
+   "walk",
+   "Orient Express Lift bottom",
+   "China Bridge Access Road / Silk Road - East",
+   2.1
+  ],
+  [
+   "walk",
+   "Orient Express Lift bottom",
+   "China Bridge Access Road / Cloud 9 - Middle",
+   1.6
+  ],
+  [
+   "walk",
+   "Orient Express Lift bottom",
+   "Sleepytime Road 5",
+   2.7
+  ],
+  [
+   "walk",
+   "Pickeroon - Lower / Lionsway - Upper",
+   "Black Forest top",
+   3.1
+  ],
+  [
+   "walk",
+   "Highline Express Lift bottom",
+   "Brisk Walk / Unnamed run",
+   1.1
+  ],
+  [
+   "walk",
+   "Sun Up Express Lift top",
+   "Tea Cup Express Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Sun Up Express Lift top",
+   "Genghis Kahn / Jade Glade",
+   1.9
+  ],
+  [
+   "walk",
+   "Sun Up Express Lift top",
+   "Yonder / Red Zinger",
+   0.6
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift top",
+   "Hunky Dory / Windows Road",
+   1.3
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift top",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   2.9
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift top",
+   "Ptarmigan Ridge / Wildcard",
+   2.2
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift top",
+   "Showboat / Eagle's Nest Ridge",
+   0.9
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift top",
+   "Game Creek Express Lift top",
+   1.4
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift top",
+   "Hunky Dory 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift top",
+   "Ptarmigan Ridge 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift top",
+   "Sun Down Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Pete's Express Lift top",
+   "Hornsilver / Grand Review",
+   2.2
+  ],
+  [
+   "walk",
+   "South Look Ma / Ramshorn",
+   "Mountain Top Express Lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "South Look Ma / Ramshorn",
+   "Wildwood Express Lift bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "38 / Riva Catwalk",
+   "Gondola One bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "38 / Riva Catwalk",
+   "Elvis Bahn bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Lodgepole / Giant Steps",
+   "Black Forest bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Lodgepole / Giant Steps",
+   "Avanti Express Lift bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   "Wildwood Express Lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   "Game Creek Express Lift top",
+   1.4
+  ],
+  [
+   "walk",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   "Sun Down Express top",
+   2.4
+  ],
+  [
+   "walk",
+   "Cady's Cafe / Overeasy",
+   "Mountain Top Express Lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Cady's Cafe / Overeasy",
+   "Gondola One top",
+   1.6
+  ],
+  [
+   "walk",
+   "Cady's Cafe / Overeasy",
+   "Wildwood Express Lift bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Hairbag Alley / Northstar",
+   "Northwoods Express Lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Hairbag Alley / Northstar",
+   "Riva Bahn Express Lift top",
+   2.1
+  ],
+  [
+   "walk",
+   "Avanti Express Lift top",
+   "Faro / Ridge Route",
+   0.9
+  ],
+  [
+   "walk",
+   "Avanti Express Lift top",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Avanti Express Lift top",
+   "Overeasy / Mid Vail Express",
+   2.8
+  ],
+  [
+   "walk",
+   "Avanti Express Lift top",
+   "Eagle's Nest Ridge",
+   2.2
+  ],
+  [
+   "walk",
+   "Avanti Express Lift top",
+   "Eagle's Nest Ridge 4",
+   0.7
+  ],
+  [
+   "walk",
+   "Avanti Express Lift top",
+   "Eagle's Nest Ridge 7",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   "Avanti Express Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Little Eagle top",
+   3.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Eagle Bahn Gondola top",
+   0.9
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Pride Express Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Surface Lift bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Surface Lift top",
+   2.2
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Surface Lift bottom 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Surface Lift top 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift bottom",
+   "Unnamed run / Christmas",
+   1.2
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift bottom",
+   "Unnamed run / Meadows",
+   1.7
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift bottom",
+   "Cady's Cafe / Overeasy",
+   1.5
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift bottom",
+   "Gondola One top",
+   2.9
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift bottom",
+   "Wildwood Express Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Gondola One top",
+   "Unnamed run / Meadows",
+   2.9
+  ],
+  [
+   "walk",
+   "Gondola One top",
+   "Cady's Cafe / Overeasy",
+   1.6
+  ],
+  [
+   "walk",
+   "Gondola One top",
+   "Mountain Top Express Lift bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Gondola One top",
+   "Overeasy",
+   0.9
+  ],
+  [
+   "walk",
+   "Gondola One top",
+   "Wildwood Express Lift bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Gondola One top",
+   "Spruce Face / Lionsway - Upper",
+   2.6
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge / Wildcard",
+   "Wildwood Express Lift top",
+   2.2
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge / Wildcard",
+   "Game Creek Express Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge / Wildcard",
+   "Sun Down Express top",
+   1.8
+  ],
+  [
+   "walk",
+   "Showboat / Eagle's Nest Ridge",
+   "Wildwood Express Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Showboat / Eagle's Nest Ridge",
+   "Game Creek Express Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Showboat / Eagle's Nest Ridge",
+   "Sun Down Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Cloud 9 - Middle",
+   "Pete's Express Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Windisch Way / Riva Catwalk",
+   "Elvis Bahn bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Windisch Way / Riva Catwalk",
+   "Elvis Bahn top",
+   1.3
+  ],
+  [
+   "walk",
+   "Windisch Way / Riva Catwalk",
+   "Rip's Ride Carpet bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Sun Up Express Lift bottom",
+   "Headwall / Campbell's",
+   1.9
+  ],
+  [
+   "walk",
+   "Sun Up Express Lift bottom",
+   "Sun Up Catwalk 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Born Free Express Lift top",
+   "Unnamed run / Post Road",
+   2.5
+  ],
+  [
+   "walk",
+   "Born Free Express Lift top",
+   "Cub's Way",
+   2.6
+  ],
+  [
+   "walk",
+   "Born Free Express Lift top",
+   "Cub's Way 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Post Road",
+   "Born Free Express Lift top",
+   2.5
+  ],
+  [
+   "walk",
+   "Black Forest Racing",
+   "Black Forest bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Little Eagle top",
+   3.1
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Tubing Hill Lift bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Tubing Hill Lift top",
+   1.6
+  ],
+  [
+   "walk",
+   "Lindsey's / Lionsway - Upper",
+   "Avanti Express Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Lionsway - Upper / Avanti - Middle",
+   "Black Forest top",
+   3.4
+  ],
+  [
+   "walk",
+   "Lionsway - Upper",
+   "Black Forest top",
+   3.1
+  ],
+  [
+   "walk",
+   "Black Forest Racing 2",
+   "Black Forest top",
+   1.1
+  ],
+  [
+   "walk",
+   "Black Forest / Gitalong Road",
+   "Black Forest bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Black Forest / Gitalong Road",
+   "Avanti Express Lift bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Bwana",
+   "Pride Express Lift bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 4",
+   "Avanti Express Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Overeasy",
+   "Mountain Top Express Lift bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Overeasy",
+   "Gondola One top",
+   0.9
+  ],
+  [
+   "walk",
+   "Overeasy",
+   "Wildwood Express Lift bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Game Creek Express Lift top",
+   "Hunky Dory / Windows Road",
+   2.7
+  ],
+  [
+   "walk",
+   "Game Creek Express Lift top",
+   "Wildwood Express Lift top",
+   1.4
+  ],
+  [
+   "walk",
+   "Game Creek Express Lift top",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   1.4
+  ],
+  [
+   "walk",
+   "Game Creek Express Lift top",
+   "Ptarmigan Ridge / Wildcard",
+   0.8
+  ],
+  [
+   "walk",
+   "Game Creek Express Lift top",
+   "Showboat / Eagle's Nest Ridge",
+   0.8
+  ],
+  [
+   "walk",
+   "Game Creek Express Lift top",
+   "Hunky Dory 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Game Creek Express Lift top",
+   "Ptarmigan Ridge 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Game Creek Express Lift top",
+   "Sun Down Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Game Creek Express Lift top",
+   "Ptarmigan Ridge 5",
+   3.1
+  ],
+  [
+   "walk",
+   "Sun Up Catwalk",
+   "Sun Down Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 7",
+   "Avanti Express Lift top",
+   2.4
+  ],
+  [
+   "walk",
+   "Sleepytime Road 5",
+   "Orient Express Lift bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Gitalong Road 5",
+   "Gondola One bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / China Bowl to Two Elk",
+   "Wapiti bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Game Creek Express Lift bottom",
+   "Ouzo / Dealer's Choice",
+   0.8
+  ],
+  [
+   "walk",
+   "Cloud 9 - Middle 2",
+   "Pete's Express Lift bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Klickity Klack / Skid Road",
+   "Highline Express Lift bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Skyline Express Lift bottom",
+   "The Divide / Cloud 9 - Lower",
+   2.0
+  ],
+  [
+   "walk",
+   "Skyline Express Lift bottom",
+   "Tea Cup Express Lift bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Skyline Express Lift bottom",
+   "Encore / Kelly's Toll Road",
+   1.0
+  ],
+  [
+   "walk",
+   "Skyline Express Lift bottom",
+   "Cloud 9 - Lower",
+   1.1
+  ],
+  [
+   "walk",
+   "Gopher Hill",
+   "Golden Peak Terrain Park / Gopher Hill",
+   1.2
+  ],
+  [
+   "walk",
+   "Gopher Hill",
+   "38 / Riva Catwalk",
+   3.4
+  ],
+  [
+   "walk",
+   "Gopher Hill",
+   "Riva Bahn Express Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Gopher Hill",
+   "Elvis Bahn bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Gopher Hill",
+   "Rip's Ride Carpet bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "South Rim / Timberline Catwalk",
+   "High Noon Express Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "South Rim / Timberline Catwalk",
+   "Northwoods Express Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "South Rim / Timberline Catwalk",
+   "Mountain Top Express Lift top",
+   1.5
+  ],
+  [
+   "walk",
+   "Hunky Dory 3",
+   "Wildwood Express Lift top",
+   1.0
+  ],
+  [
+   "walk",
+   "Hunky Dory 3",
+   "Game Creek Express Lift top",
+   2.2
+  ],
+  [
+   "walk",
+   "Hunky Dory 3",
+   "Sun Down Express top",
+   1.2
+  ],
+  [
+   "walk",
+   "Brisk Walk / Unnamed run",
+   "Highline Express Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Safari / Post Road",
+   "Pride Express Lift bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift bottom",
+   "Unnamed run / Christmas",
+   1.1
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift bottom",
+   "Unnamed run / Meadows",
+   1.1
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift bottom",
+   "Cady's Cafe / Overeasy",
+   0.9
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift bottom",
+   "Mountain Top Express Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift bottom",
+   "Gondola One top",
+   2.5
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge 2",
+   "Game Creek Express Lift top",
+   2.0
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge 2",
+   "Sun Down Express top",
+   3.0
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 9",
+   "Tubing Hill Lift top",
+   2.6
+  ],
+  [
+   "walk",
+   "Sourdough Express Lift bottom",
+   "Boomer / Tin Pants",
+   1.3
+  ],
+  [
+   "walk",
+   "Sourdough Express Lift bottom",
+   "Flap Jack 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Cloud 9 - Middle 3",
+   "Pete's Express Lift bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Little Eagle top",
+   2.1
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Tubing Hill Lift bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Tubing Hill Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Surface Lift bottom 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Surface Lift top 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift bottom",
+   "Roger's Run / Northstar",
+   1.1
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift bottom",
+   "Northface Catwalk / Unnamed run",
+   1.1
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift bottom",
+   "Hairbag Alley / Northstar",
+   1.7
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift bottom",
+   "Riva Bahn Express Lift top",
+   1.7
+  ],
+  [
+   "walk",
+   "Pride Express Lift top",
+   "Little Eagle top",
+   3.5
+  ],
+  [
+   "walk",
+   "Pride Express Lift top",
+   "Eagle Bahn Gondola top",
+   1.1
+  ],
+  [
+   "walk",
+   "Pride Express Lift top",
+   "Unnamed run / Eagle's Nest Ridge",
+   1.4
+  ],
+  [
+   "walk",
+   "Pride Express Lift top",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   0.8
+  ],
+  [
+   "walk",
+   "Pride Express Lift top",
+   "Coyote Crossing",
+   3.1
+  ],
+  [
+   "walk",
+   "Pride Express Lift top",
+   "Cub's Way 3",
+   1.6
+  ],
+  [
+   "walk",
+   "Pride Express Lift top",
+   "Surface Lift top",
+   2.8
+  ],
+  [
+   "walk",
+   "Pride Express Lift top",
+   "Surface Lift bottom 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Pride Express Lift top",
+   "Surface Lift top 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift bottom",
+   "Golden Peak Terrain Park / Gopher Hill",
+   1.1
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift bottom",
+   "Gopher Hill",
+   1.4
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift bottom",
+   "Elvis Bahn bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift bottom",
+   "Rip's Ride Carpet bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift bottom",
+   "Rip's Ride Carpet top",
+   2.9
+  ],
+  [
+   "walk",
+   "Black Forest top",
+   "Black Forest Racing / Avanti - Lower",
+   1.3
+  ],
+  [
+   "walk",
+   "Black Forest top",
+   "Pickeroon - Lower / Lionsway - Upper",
+   3.1
+  ],
+  [
+   "walk",
+   "Black Forest top",
+   "Gitalong Road",
+   2.4
+  ],
+  [
+   "walk",
+   "Black Forest top",
+   "Lionsway - Upper",
+   3.1
+  ],
+  [
+   "walk",
+   "Black Forest top",
+   "Black Forest Racing 2",
+   1.1
+  ],
+  [
+   "walk",
+   "Cub's Way / Unnamed run",
+   "Black Forest bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Cub's Way / Unnamed run",
+   "Avanti Express Lift bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Cub's Way 2",
+   "Born Free Express Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Yonder / Red Zinger",
+   "Tea Cup Express Lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "Yonder / Red Zinger",
+   "Sun Up Express Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Powerline Glade / Ramshorn",
+   "High Noon Express Lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Powerline Glade / Ramshorn",
+   "Northwoods Express Lift top",
+   2.1
+  ],
+  [
+   "walk",
+   "Powerline Glade / Ramshorn",
+   "Mountain Top Express Lift top",
+   1.4
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift top",
+   "Windows Road / Ramshorn",
+   3.4
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift top",
+   "High Noon Express Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift top",
+   "Sleepytime Road / First Step",
+   3.3
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift top",
+   "Zot / Swingsville",
+   2.4
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift top",
+   "South Rim / Timberline Catwalk",
+   0.6
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift top",
+   "Milt's Face / Apres Vous",
+   3.2
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift top",
+   "Powerline Glade / Ramshorn",
+   2.1
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift top",
+   "Mountain Top Express Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Northwoods Express Lift top",
+   "The Slot",
+   2.1
+  ],
+  [
+   "walk",
+   "Lionsway - Upper 3",
+   "Black Forest top",
+   3.2
+  ],
+  [
+   "walk",
+   "Poppyfields West",
+   "Sourdough Express Lift top",
+   2.1
+  ],
+  [
+   "walk",
+   "Poppyfields West",
+   "Wapiti top",
+   1.4
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Little Eagle bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Surface Lift bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Surface Lift top",
+   1.7
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift top",
+   "Windows Road / Ramshorn",
+   2.6
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift top",
+   "High Noon Express Lift top",
+   1.0
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift top",
+   "Zot / Swingsville",
+   1.7
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift top",
+   "South Rim / Timberline Catwalk",
+   1.5
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift top",
+   "Powerline Glade / Ramshorn",
+   1.4
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift top",
+   "Northwoods Express Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift top",
+   "The Slot",
+   2.9
+  ],
+  [
+   "walk",
+   "Gondola One bottom",
+   "Pepi's Face / Riva Catwalk",
+   1.4
+  ],
+  [
+   "walk",
+   "Gondola One bottom",
+   "38 / Riva Catwalk",
+   1.7
+  ],
+  [
+   "walk",
+   "Encore / Kelly's Toll Road",
+   "Tea Cup Express Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Encore / Kelly's Toll Road",
+   "Skyline Express Lift bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Cascade Village Lift top",
+   "Safari / Post Road",
+   3.4
+  ],
+  [
+   "walk",
+   "Avanti Express Lift bottom",
+   "Black Forest bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Avanti Express Lift bottom",
+   "Lodgepole / Giant Steps",
+   0.9
+  ],
+  [
+   "walk",
+   "Avanti Express Lift bottom",
+   "Black Forest / Gitalong Road",
+   2.3
+  ],
+  [
+   "walk",
+   "Avanti Express Lift bottom",
+   "Cub's Way / Unnamed run",
+   0.7
+  ],
+  [
+   "walk",
+   "Sun Down Express top",
+   "Hunky Dory / Windows Road",
+   1.7
+  ],
+  [
+   "walk",
+   "Sun Down Express top",
+   "Wildwood Express Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Sun Down Express top",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   2.4
+  ],
+  [
+   "walk",
+   "Sun Down Express top",
+   "Ptarmigan Ridge / Wildcard",
+   1.8
+  ],
+  [
+   "walk",
+   "Sun Down Express top",
+   "Showboat / Eagle's Nest Ridge",
+   0.7
+  ],
+  [
+   "walk",
+   "Sun Down Express top",
+   "Game Creek Express Lift top",
+   1.0
+  ],
+  [
+   "walk",
+   "Sun Down Express top",
+   "Hunky Dory 3",
+   1.2
+  ],
+  [
+   "walk",
+   "Sun Down Express top",
+   "Ptarmigan Ridge 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Swingsville 3",
+   "Mountain Top Express Lift bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Swingsville 3",
+   "Wildwood Express Lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift top",
+   "Roger's Run / Northstar",
+   0.9
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift top",
+   "Northface Catwalk / Unnamed run",
+   2.8
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift top",
+   "Hairbag Alley / Northstar",
+   2.1
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift top",
+   "Northwoods Express Lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Silk Road 2",
+   "Mongolia bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Cloud 9 - Lower",
+   "Tea Cup Express Lift bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Cloud 9 - Lower",
+   "Skyline Express Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Wapiti top",
+   "Wapiti bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Wapiti top",
+   "Boomer / Flap Jack",
+   3.4
+  ],
+  [
+   "walk",
+   "Wapiti top",
+   "Poppyfields West",
+   1.4
+  ],
+  [
+   "walk",
+   "Wapiti top",
+   "China Bowl to Two Elk",
+   0.9
+  ],
+  [
+   "walk",
+   "China Bowl to Two Elk",
+   "Sourdough Express Lift top",
+   3.3
+  ],
+  [
+   "walk",
+   "China Bowl to Two Elk",
+   "Wapiti bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "China Bowl to Two Elk",
+   "Wapiti top",
+   0.9
+  ],
+  [
+   "walk",
+   "Swingsville 4",
+   "Mountain Top Express Lift bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Swingsville 4",
+   "Wildwood Express Lift bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Surface Lift bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Surface Lift top",
+   2.6
+  ],
+  [
+   "walk",
+   "Flap Jack 2",
+   "Sourdough Express Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Elvis Bahn bottom",
+   "Golden Peak Terrain Park / Gopher Hill",
+   0.6
+  ],
+  [
+   "walk",
+   "Elvis Bahn bottom",
+   "38 / Riva Catwalk",
+   3.3
+  ],
+  [
+   "walk",
+   "Elvis Bahn bottom",
+   "Gopher Hill",
+   1.3
+  ],
+  [
+   "walk",
+   "Elvis Bahn bottom",
+   "Riva Bahn Express Lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Elvis Bahn bottom",
+   "Elvis Bahn top",
+   1.7
+  ],
+  [
+   "walk",
+   "Elvis Bahn bottom",
+   "Rip's Ride Carpet bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Elvis Bahn top",
+   "Golden Peak Terrain Park / Gopher Hill",
+   2.1
+  ],
+  [
+   "walk",
+   "Elvis Bahn top",
+   "38 / Riva Catwalk",
+   3.5
+  ],
+  [
+   "walk",
+   "Elvis Bahn top",
+   "Windisch Way / Riva Catwalk",
+   1.3
+  ],
+  [
+   "walk",
+   "Elvis Bahn top",
+   "Gopher Hill",
+   2.9
+  ],
+  [
+   "walk",
+   "Elvis Bahn top",
+   "Riva Bahn Express Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Elvis Bahn top",
+   "Elvis Bahn bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Elvis Bahn top",
+   "Rip's Ride Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet bottom",
+   "Golden Peak Terrain Park / Gopher Hill",
+   1.8
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet bottom",
+   "Gopher Hill",
+   2.7
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet bottom",
+   "Riva Bahn Express Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet bottom",
+   "Elvis Bahn bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet bottom",
+   "Rip's Ride Carpet top",
+   1.6
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet top",
+   "Riva Bahn Express Lift bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet top",
+   "Rip's Ride Carpet bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Little Eagle top",
+   1.5
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Surface Lift bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Surface Lift top",
+   2.2
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Surface Lift bottom 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Surface Lift top 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Little Eagle top",
+   1.6
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Eagle's Nest Ridge 10",
+   0.7
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Tubing Hill Lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Surface Lift top",
+   3.4
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Surface Lift bottom 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Surface Lift top 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Born Free",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Born Free Express Lift bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed run / Born Free",
+   1.2
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Little Eagle bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   3.2
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Coyote Crossing",
+   1.3
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Cub's Way 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Tubing Hill Lift bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Surface Lift top",
+   1.5
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Surface Lift bottom 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Little Eagle top",
+   1.9
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Little Eagle bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Eagle Bahn Gondola top",
+   1.7
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Unnamed run / Eagle's Nest Ridge",
+   2.3
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   2.2
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Pride Express Lift top",
+   2.8
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Coyote Crossing",
+   1.7
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Cub's Way 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Tubing Hill Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Surface Lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Surface Lift bottom 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Surface Lift top 2",
+   1.1
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Little Eagle top",
+   1.3
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Little Eagle bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Eagle Bahn Gondola top",
+   1.8
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Unnamed run / Eagle's Nest Ridge",
+   2.2
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   2.5
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Pride Express Lift top",
+   3.0
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Coyote Crossing",
+   2.3
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Cub's Way 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Tubing Hill Lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Surface Lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Surface Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Surface Lift top 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Little Eagle top",
+   0.9
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Eagle Bahn Gondola top",
+   1.6
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Unnamed run / Eagle's Nest Ridge",
+   1.7
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   2.4
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Pride Express Lift top",
+   2.7
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Coyote Crossing",
+   2.7
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Cub's Way 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Tubing Hill Lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Surface Lift bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Surface Lift top",
+   1.1
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Surface Lift bottom 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Yonder / Red Zinger",
+   "Genghis Kahn / Jade Glade",
+   2.6
+  ],
+  [
+   "walk",
+   "Poppyfields West",
+   "Boomer / Flap Jack",
+   4.8
+  ],
+  [
+   "walk",
+   "Poppyfields West",
+   "China Bowl to Two Elk",
+   2.3
+  ],
+  [
+   "walk",
+   "China Bowl to Two Elk",
+   "Boomer / Flap Jack",
+   4.3
+  ],
+  [
+   "walk",
+   "China Bowl to Two Elk",
+   "Poppyfields West",
+   2.3
+  ],
+  [
+   "walk",
+   "Born Free",
+   "Unnamed run / Born Free",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Born Free",
+   "Born Free",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / China Bowl to Two Elk",
+   "Wapiti top",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / China Bowl to Two Elk",
+   "China Bowl to Two Elk",
+   4.5
+  ],
+  [
+   "walk",
+   "Wapiti top",
+   "Unnamed run / China Bowl to Two Elk",
+   3.8
+  ],
+  [
+   "walk",
+   "China Bowl to Two Elk",
+   "Unnamed run / China Bowl to Two Elk",
+   4.5
+  ],
+  [
+   "walk",
+   "Cloud 9 - Middle / China Spur",
+   "Cloud 9 - Middle 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Cloud 9 - Middle",
+   "Cloud 9 - Middle 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Cloud 9 - Middle 3",
+   "Cloud 9 - Middle 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Tubing Hill Lift bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Tubing Hill Lift bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Surface Lift bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Unnamed run / Eagle's Nest Ridge",
+   1.9
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Tubing Hill Lift bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Eagle Bahn Gondola top",
+   5.5
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Unnamed run / Eagle's Nest Ridge",
+   5.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   6.4
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Pride Express Lift top",
+   6.6
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Surface Lift bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Surface Lift top",
+   5.0
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Surface Lift bottom 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Surface Lift top 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Eagle Bahn Gondola top",
+   4.5
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Unnamed run / Eagle's Nest Ridge",
+   4.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   5.4
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Pride Express Lift top",
+   5.5
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Surface Lift bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Surface Lift top",
+   3.9
+  ],
+  [
+   "walk",
+   "Pride Express Lift top",
+   "Tubing Hill Lift bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Pride Express Lift top",
+   "Surface Lift bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Eagle Bahn Gondola top",
+   3.5
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Unnamed run / Eagle's Nest Ridge",
+   3.7
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   4.2
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Pride Express Lift top",
+   4.6
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Eagle Bahn Gondola top",
+   4.0
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Unnamed run / Eagle's Nest Ridge",
+   3.8
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   4.9
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Pride Express Lift top",
+   5.1
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Surface Lift bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Coyote Crossing / Minnie's - Upper",
+   4.6
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Coyote Crossing / Minnie's - Upper",
+   3.7
+  ],
+  [
+   "walk",
+   "Surface Lift top",
+   "Coyote Crossing / Minnie's - Upper",
+   5.2
+  ],
+  [
+   "walk",
+   "Surface Lift bottom 2",
+   "Coyote Crossing / Minnie's - Upper",
+   5.6
+  ],
+  [
+   "walk",
+   "Earl's Express Lift top",
+   "The Divide 4",
+   3.6
+  ],
+  [
+   "walk",
+   "Black Forest Racing / Gitalong Road",
+   "Lodgepole / Giant Steps",
+   4.1
+  ],
+  [
+   "walk",
+   "Black Forest Racing / Gitalong Road",
+   "Black Forest / Gitalong Road",
+   3.0
+  ],
+  [
+   "walk",
+   "Black Forest Racing / Gitalong Road",
+   "Cub's Way / Unnamed run",
+   3.2
+  ],
+  [
+   "walk",
+   "Lodgepole / Giant Steps",
+   "Black Forest / Gitalong Road",
+   3.2
+  ],
+  [
+   "walk",
+   "Lodgepole / Giant Steps",
+   "Cub's Way / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Black Forest Racing",
+   "Lodgepole / Giant Steps",
+   5.0
+  ],
+  [
+   "walk",
+   "Black Forest Racing",
+   "Black Forest / Gitalong Road",
+   3.6
+  ],
+  [
+   "walk",
+   "Black Forest Racing",
+   "Cub's Way / Unnamed run",
+   3.8
+  ],
+  [
+   "walk",
+   "Black Forest Racing",
+   "Avanti Express Lift bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Black Forest / Gitalong Road",
+   "Lodgepole / Giant Steps",
+   3.2
+  ],
+  [
+   "walk",
+   "Black Forest / Gitalong Road",
+   "Cub's Way / Unnamed run",
+   2.2
+  ],
+  [
+   "walk",
+   "Cub's Way / Unnamed run",
+   "Lodgepole / Giant Steps",
+   1.6
+  ],
+  [
+   "walk",
+   "Cub's Way / Unnamed run",
+   "Black Forest / Gitalong Road",
+   2.2
+  ],
+  [
+   "walk",
+   "The Divide / Cloud 9 - Lower",
+   "Encore / Kelly's Toll Road",
+   2.4
+  ],
+  [
+   "walk",
+   "The Divide / Cloud 9 - Lower",
+   "Cloud 9 - Lower",
+   1.8
+  ],
+  [
+   "walk",
+   "Encore / Kelly's Toll Road",
+   "The Divide / Cloud 9 - Lower",
+   2.4
+  ],
+  [
+   "walk",
+   "Encore / Kelly's Toll Road",
+   "Cloud 9 - Lower",
+   1.8
+  ],
+  [
+   "walk",
+   "Cloud 9 - Lower",
+   "The Divide / Cloud 9 - Lower",
+   1.8
+  ],
+  [
+   "walk",
+   "Cloud 9 - Lower",
+   "Encore / Kelly's Toll Road",
+   1.8
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Coyote Crossing",
+   3.6
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Cub's Way 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Coyote Crossing",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Cub's Way 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Coyote Crossing",
+   3.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Cub's Way 3",
+   2.5
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Cub's Way 3",
+   6.2
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Coyote Crossing",
+   3.9
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Cub's Way 3",
+   4.8
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Coyote Crossing",
+   5.1
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Cub's Way 3",
+   5.7
+  ],
+  [
+   "walk",
+   "South Rim / Timberline Catwalk",
+   "Windows Road / Ramshorn",
+   4.1
+  ],
+  [
+   "walk",
+   "South Rim / Timberline Catwalk",
+   "Zot / Swingsville",
+   3.0
+  ],
+  [
+   "walk",
+   "South Rim / Timberline Catwalk",
+   "Milt's Face / Apres Vous",
+   3.7
+  ],
+  [
+   "walk",
+   "South Rim / Timberline Catwalk",
+   "Powerline Glade / Ramshorn",
+   2.8
+  ],
+  [
+   "walk",
+   "South Rim / Timberline Catwalk",
+   "The Slot",
+   2.8
+  ],
+  [
+   "walk",
+   "Powerline Glade / Ramshorn",
+   "Windows Road / Ramshorn",
+   3.9
+  ],
+  [
+   "walk",
+   "Powerline Glade / Ramshorn",
+   "Zot / Swingsville",
+   3.1
+  ],
+  [
+   "walk",
+   "Powerline Glade / Ramshorn",
+   "South Rim / Timberline Catwalk",
+   2.8
+  ],
+  [
+   "walk",
+   "Powerline Glade / Ramshorn",
+   "Milt's Face / Apres Vous",
+   4.7
+  ],
+  [
+   "walk",
+   "Powerline Glade / Ramshorn",
+   "The Slot",
+   3.7
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift top",
+   "Milt's Face / Apres Vous",
+   3.8
+  ],
+  [
+   "walk",
+   "China Bridge Access Road / Silk Road - East",
+   "China Bridge Access Road / Cloud 9 - Middle",
+   3.6
+  ],
+  [
+   "walk",
+   "China Bridge Access Road / Silk Road - East",
+   "Sleepytime Road 5",
+   4.7
+  ],
+  [
+   "walk",
+   "Sleepytime Road 5",
+   "China Bridge Access Road / Silk Road - East",
+   4.7
+  ],
+  [
+   "walk",
+   "Sleepytime Road 5",
+   "China Bridge Access Road / Cloud 9 - Middle",
+   4.3
+  ],
+  [
+   "walk",
+   "Klickity Klack / Skid Road",
+   "Brisk Walk / Unnamed run",
+   3.8
+  ],
+  [
+   "walk",
+   "Hunky Dory / Windows Road",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   4.1
+  ],
+  [
+   "walk",
+   "Hunky Dory / Windows Road",
+   "Ptarmigan Ridge / Wildcard",
+   3.5
+  ],
+  [
+   "walk",
+   "Hunky Dory / Windows Road",
+   "Showboat / Eagle's Nest Ridge",
+   2.2
+  ],
+  [
+   "walk",
+   "Hunky Dory / Windows Road",
+   "Hunky Dory 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Hunky Dory / Windows Road",
+   "Ptarmigan Ridge 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   "Hunky Dory / Windows Road",
+   4.1
+  ],
+  [
+   "walk",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   "Ptarmigan Ridge / Wildcard",
+   2.2
+  ],
+  [
+   "walk",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   "Showboat / Eagle's Nest Ridge",
+   2.2
+  ],
+  [
+   "walk",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   "Hunky Dory 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   "Ptarmigan Ridge 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge / Wildcard",
+   "Hunky Dory / Windows Road",
+   3.5
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge / Wildcard",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   2.2
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge / Wildcard",
+   "Showboat / Eagle's Nest Ridge",
+   1.6
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge / Wildcard",
+   "Hunky Dory 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge / Wildcard",
+   "Ptarmigan Ridge 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Showboat / Eagle's Nest Ridge",
+   "Hunky Dory / Windows Road",
+   2.2
+  ],
+  [
+   "walk",
+   "Showboat / Eagle's Nest Ridge",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   2.2
+  ],
+  [
+   "walk",
+   "Showboat / Eagle's Nest Ridge",
+   "Ptarmigan Ridge / Wildcard",
+   1.6
+  ],
+  [
+   "walk",
+   "Showboat / Eagle's Nest Ridge",
+   "Hunky Dory 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Showboat / Eagle's Nest Ridge",
+   "Ptarmigan Ridge 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Hunky Dory 3",
+   "Hunky Dory / Windows Road",
+   2.3
+  ],
+  [
+   "walk",
+   "Hunky Dory 3",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   3.6
+  ],
+  [
+   "walk",
+   "Hunky Dory 3",
+   "Ptarmigan Ridge / Wildcard",
+   3.0
+  ],
+  [
+   "walk",
+   "Hunky Dory 3",
+   "Showboat / Eagle's Nest Ridge",
+   1.9
+  ],
+  [
+   "walk",
+   "Hunky Dory 3",
+   "Ptarmigan Ridge 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Gopher Hill",
+   "Gondola One bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Gondola One bottom",
+   "Elvis Bahn bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Elvis Bahn bottom",
+   "Gondola One bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Elvis Bahn top",
+   "Gondola One bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Faro / Ridge Route",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Faro / Ridge Route",
+   "Overeasy / Mid Vail Express",
+   3.7
+  ],
+  [
+   "walk",
+   "Faro / Ridge Route",
+   "Eagle's Nest Ridge",
+   3.0
+  ],
+  [
+   "walk",
+   "Faro / Ridge Route",
+   "Eagle's Nest Ridge 4",
+   1.5
+  ],
+  [
+   "walk",
+   "Faro / Ridge Route",
+   "Eagle's Nest Ridge 7",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   "Faro / Ridge Route",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   "Overeasy / Mid Vail Express",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   "Eagle's Nest Ridge",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   "Eagle's Nest Ridge 4",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   "Eagle's Nest Ridge 7",
+   3.0
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 4",
+   "Faro / Ridge Route",
+   1.5
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 4",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 4",
+   "Overeasy / Mid Vail Express",
+   3.5
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 4",
+   "Eagle's Nest Ridge",
+   2.9
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 4",
+   "Eagle's Nest Ridge 7",
+   3.1
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 7",
+   "Faro / Ridge Route",
+   3.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 7",
+   "Unnamed run / Eagle's Nest Ridge 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 7",
+   "Overeasy / Mid Vail Express",
+   5.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 7",
+   "Eagle's Nest Ridge",
+   4.6
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 7",
+   "Eagle's Nest Ridge 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Little Eagle top",
+   3.2
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Eagle Bahn Gondola top",
+   3.2
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Pride Express Lift top",
+   4.0
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Surface Lift top 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Surface Lift bottom",
+   "Unnamed run / Eagle's Nest Ridge",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Christmas",
+   "Unnamed run / Meadows",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Christmas",
+   "Cady's Cafe / Overeasy",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Christmas",
+   "Gondola One top",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Meadows",
+   "Unnamed run / Christmas",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Meadows",
+   "Cady's Cafe / Overeasy",
+   2.1
+  ],
+  [
+   "walk",
+   "South Look Ma / Ramshorn",
+   "Unnamed run / Christmas",
+   3.5
+  ],
+  [
+   "walk",
+   "South Look Ma / Ramshorn",
+   "Unnamed run / Meadows",
+   3.5
+  ],
+  [
+   "walk",
+   "South Look Ma / Ramshorn",
+   "Cady's Cafe / Overeasy",
+   3.4
+  ],
+  [
+   "walk",
+   "South Look Ma / Ramshorn",
+   "Gondola One top",
+   5.0
+  ],
+  [
+   "walk",
+   "Cady's Cafe / Overeasy",
+   "Unnamed run / Christmas",
+   2.0
+  ],
+  [
+   "walk",
+   "Cady's Cafe / Overeasy",
+   "Unnamed run / Meadows",
+   2.1
+  ],
+  [
+   "walk",
+   "Gondola One top",
+   "Unnamed run / Christmas",
+   3.6
+  ],
+  [
+   "walk",
+   "Overeasy",
+   "Unnamed run / Christmas",
+   3.8
+  ],
+  [
+   "walk",
+   "Overeasy",
+   "Unnamed run / Meadows",
+   3.8
+  ],
+  [
+   "walk",
+   "Overeasy",
+   "Cady's Cafe / Overeasy",
+   2.5
+  ],
+  [
+   "walk",
+   "Swingsville 3",
+   "Unnamed run / Christmas",
+   3.0
+  ],
+  [
+   "walk",
+   "Swingsville 3",
+   "Unnamed run / Meadows",
+   3.0
+  ],
+  [
+   "walk",
+   "Swingsville 3",
+   "Cady's Cafe / Overeasy",
+   2.9
+  ],
+  [
+   "walk",
+   "Swingsville 3",
+   "Gondola One top",
+   4.5
+  ],
+  [
+   "walk",
+   "Swingsville 4",
+   "Unnamed run / Christmas",
+   4.4
+  ],
+  [
+   "walk",
+   "Swingsville 4",
+   "Unnamed run / Meadows",
+   4.4
+  ],
+  [
+   "walk",
+   "Swingsville 4",
+   "Cady's Cafe / Overeasy",
+   4.3
+  ],
+  [
+   "walk",
+   "Swingsville 4",
+   "Gondola One top",
+   5.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Meadows",
+   "Overeasy",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Meadows",
+   "Spruce Face / Lionsway - Upper",
+   5.5
+  ],
+  [
+   "walk",
+   "Cady's Cafe / Overeasy",
+   "Overeasy",
+   2.5
+  ],
+  [
+   "walk",
+   "Cady's Cafe / Overeasy",
+   "Spruce Face / Lionsway - Upper",
+   4.2
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift bottom",
+   "Overeasy",
+   3.7
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift bottom",
+   "Spruce Face / Lionsway - Upper",
+   5.4
+  ],
+  [
+   "walk",
+   "Overeasy",
+   "Spruce Face / Lionsway - Upper",
+   3.4
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift bottom",
+   "Overeasy",
+   3.4
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift bottom",
+   "Spruce Face / Lionsway - Upper",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Christmas",
+   "Overeasy",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Christmas",
+   "Spruce Face / Lionsway - Upper",
+   6.2
+  ],
+  [
+   "walk",
+   "South Look Ma / Ramshorn",
+   "Overeasy",
+   5.8
+  ],
+  [
+   "walk",
+   "Swingsville 3",
+   "Overeasy",
+   5.3
+  ],
+  [
+   "walk",
+   "Headwall / Campbell's",
+   "Sun Up Catwalk 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Post Road",
+   "Cub's Way",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Post Road",
+   "Cub's Way 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Cub's Way 2",
+   "Unnamed run / Post Road",
+   3.5
+  ],
+  [
+   "walk",
+   "Cub's Way 2",
+   "Cub's Way",
+   3.5
+  ],
+  [
+   "walk",
+   "Hunky Dory / Windows Road",
+   "Ptarmigan Ridge 5",
+   5.7
+  ],
+  [
+   "walk",
+   "Wildwood Express Lift top",
+   "Ptarmigan Ridge 5",
+   4.5
+  ],
+  [
+   "walk",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   "Ptarmigan Ridge 5",
+   4.5
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge / Wildcard",
+   "Ptarmigan Ridge 5",
+   3.9
+  ],
+  [
+   "walk",
+   "Showboat / Eagle's Nest Ridge",
+   "Ptarmigan Ridge 5",
+   3.8
+  ],
+  [
+   "walk",
+   "Hunky Dory 3",
+   "Ptarmigan Ridge 5",
+   5.2
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge 2",
+   "Hunky Dory / Windows Road",
+   4.7
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge 2",
+   "Wildwood Express Lift top",
+   3.5
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge 2",
+   "Morning Side Ridge / Ptarmigan Ridge",
+   3.5
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge 2",
+   "Ptarmigan Ridge / Wildcard",
+   2.8
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge 2",
+   "Showboat / Eagle's Nest Ridge",
+   2.8
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge 2",
+   "Hunky Dory 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Ptarmigan Ridge 2",
+   "Ptarmigan Ridge 5",
+   5.1
+  ],
+  [
+   "walk",
+   "Sun Down Express top",
+   "Ptarmigan Ridge 5",
+   4.0
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift bottom",
+   "38 / Riva Catwalk",
+   4.8
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift bottom",
+   "Gondola One bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet bottom",
+   "38 / Riva Catwalk",
+   5.7
+  ],
+  [
+   "walk",
+   "Cascade Village Lift top",
+   "Pride Express Lift bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Swingsville 4",
+   "Overeasy",
+   6.7
+  ],
+  [
+   "walk",
+   "Boomer / Tin Pants",
+   "Flap Jack 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Flap Jack 2",
+   "Boomer / Tin Pants",
+   2.7
+  ],
+  [
+   "walk",
+   "Roger's Run / Northstar",
+   "Northface Catwalk / Unnamed run",
+   2.1
+  ],
+  [
+   "walk",
+   "Roger's Run / Northstar",
+   "Hairbag Alley / Northstar",
+   2.8
+  ],
+  [
+   "walk",
+   "Northface Catwalk / Unnamed run",
+   "Roger's Run / Northstar",
+   2.1
+  ],
+  [
+   "walk",
+   "Northface Catwalk / Unnamed run",
+   "Hairbag Alley / Northstar",
+   2.8
+  ],
+  [
+   "walk",
+   "Hairbag Alley / Northstar",
+   "Roger's Run / Northstar",
+   2.8
+  ],
+  [
+   "walk",
+   "Hairbag Alley / Northstar",
+   "Northface Catwalk / Unnamed run",
+   2.8
+  ],
+  [
+   "walk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   "Gopher Hill",
+   1.9
+  ],
+  [
+   "walk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   "Rip's Ride Carpet top",
+   3.5
+  ],
+  [
+   "walk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   "38 / Riva Catwalk",
+   3.9
+  ],
+  [
+   "walk",
+   "Gopher Hill",
+   "Rip's Ride Carpet top",
+   4.3
+  ],
+  [
+   "walk",
+   "Elvis Bahn bottom",
+   "Rip's Ride Carpet top",
+   4.0
+  ],
+  [
+   "walk",
+   "Elvis Bahn top",
+   "Rip's Ride Carpet top",
+   4.9
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet top",
+   "Golden Peak Terrain Park / Gopher Hill",
+   3.5
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet top",
+   "Gopher Hill",
+   4.3
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet top",
+   "Elvis Bahn bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Black Forest Racing / Avanti - Lower",
+   "Pickeroon - Lower / Lionsway - Upper",
+   4.4
+  ],
+  [
+   "walk",
+   "Black Forest Racing / Avanti - Lower",
+   "Gitalong Road",
+   3.7
+  ],
+  [
+   "walk",
+   "Black Forest Racing / Avanti - Lower",
+   "Lionsway - Upper",
+   4.4
+  ],
+  [
+   "walk",
+   "Black Forest Racing / Avanti - Lower",
+   "Black Forest Racing 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Pickeroon - Lower / Lionsway - Upper",
+   "Black Forest Racing / Avanti - Lower",
+   4.4
+  ],
+  [
+   "walk",
+   "Pickeroon - Lower / Lionsway - Upper",
+   "Gitalong Road",
+   5.6
+  ],
+  [
+   "walk",
+   "Pickeroon - Lower / Lionsway - Upper",
+   "Lionsway - Upper",
+   6.3
+  ],
+  [
+   "walk",
+   "Pickeroon - Lower / Lionsway - Upper",
+   "Black Forest Racing 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Lionsway - Upper / Avanti - Middle",
+   "Black Forest Racing / Avanti - Lower",
+   4.7
+  ],
+  [
+   "walk",
+   "Lionsway - Upper / Avanti - Middle",
+   "Pickeroon - Lower / Lionsway - Upper",
+   6.5
+  ],
+  [
+   "walk",
+   "Lionsway - Upper / Avanti - Middle",
+   "Gitalong Road",
+   5.8
+  ],
+  [
+   "walk",
+   "Lionsway - Upper / Avanti - Middle",
+   "Lionsway - Upper",
+   6.5
+  ],
+  [
+   "walk",
+   "Lionsway - Upper / Avanti - Middle",
+   "Black Forest Racing 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Lionsway - Upper",
+   "Black Forest Racing / Avanti - Lower",
+   4.4
+  ],
+  [
+   "walk",
+   "Lionsway - Upper",
+   "Pickeroon - Lower / Lionsway - Upper",
+   6.3
+  ],
+  [
+   "walk",
+   "Lionsway - Upper",
+   "Gitalong Road",
+   5.5
+  ],
+  [
+   "walk",
+   "Lionsway - Upper",
+   "Black Forest Racing 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Black Forest Racing 2",
+   "Black Forest Racing / Avanti - Lower",
+   2.3
+  ],
+  [
+   "walk",
+   "Black Forest Racing 2",
+   "Pickeroon - Lower / Lionsway - Upper",
+   4.2
+  ],
+  [
+   "walk",
+   "Black Forest Racing 2",
+   "Gitalong Road",
+   3.5
+  ],
+  [
+   "walk",
+   "Black Forest Racing 2",
+   "Lionsway - Upper",
+   4.2
+  ],
+  [
+   "walk",
+   "Lionsway - Upper 3",
+   "Black Forest Racing / Avanti - Lower",
+   4.5
+  ],
+  [
+   "walk",
+   "Lionsway - Upper 3",
+   "Pickeroon - Lower / Lionsway - Upper",
+   6.4
+  ],
+  [
+   "walk",
+   "Lionsway - Upper 3",
+   "Gitalong Road",
+   5.6
+  ],
+  [
+   "walk",
+   "Lionsway - Upper 3",
+   "Lionsway - Upper",
+   6.4
+  ],
+  [
+   "walk",
+   "Lionsway - Upper 3",
+   "Black Forest Racing 2",
+   4.3
+  ],
+  [
+   "walk",
+   "High Noon Express Lift top",
+   "Sleepytime Road / First Step",
+   3.9
+  ],
+  [
+   "walk",
+   "South Rim / Timberline Catwalk",
+   "Sleepytime Road / First Step",
+   3.9
+  ],
+  [
+   "walk",
+   "Powerline Glade / Ramshorn",
+   "Sleepytime Road / First Step",
+   5.4
+  ],
+  [
+   "walk",
+   "Mountain Top Express Lift top",
+   "Sleepytime Road / First Step",
+   4.2
+  ],
+  [
+   "walk",
+   "Sourdough Express Lift top",
+   "Wapiti top",
+   3.5
+  ],
+  [
+   "walk",
+   "Wapiti top",
+   "Sourdough Express Lift top",
+   3.5
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Surface Lift top",
+   2.8
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Little Eagle bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Pride Express Lift top",
+   "Little Eagle bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Little Eagle bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Eagle's Nest Ridge",
+   "Little Eagle bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Little Eagle bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Pepi's Face / Gitalong Road",
+   "Pepi's Face / Riva Catwalk",
+   4.8
+  ],
+  [
+   "walk",
+   "Pepi's Face / Gitalong Road",
+   "38 / Riva Catwalk",
+   5.1
+  ],
+  [
+   "walk",
+   "Pepi's Face / Riva Catwalk",
+   "38 / Riva Catwalk",
+   3.1
+  ],
+  [
+   "walk",
+   "Pepi's Face / Riva Catwalk",
+   "Elvis Bahn bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "38 / Riva Catwalk",
+   "Pepi's Face / Riva Catwalk",
+   3.1
+  ],
+  [
+   "walk",
+   "Gitalong Road 5",
+   "Pepi's Face / Riva Catwalk",
+   4.8
+  ],
+  [
+   "walk",
+   "Gitalong Road 5",
+   "38 / Riva Catwalk",
+   5.1
+  ],
+  [
+   "walk",
+   "Gopher Hill",
+   "Pepi's Face / Riva Catwalk",
+   6.5
+  ],
+  [
+   "walk",
+   "Elvis Bahn bottom",
+   "Pepi's Face / Riva Catwalk",
+   6.4
+  ],
+  [
+   "walk",
+   "Elvis Bahn top",
+   "Pepi's Face / Riva Catwalk",
+   6.6
+  ],
+  [
+   "walk",
+   "Lindsey's / Lionsway - Upper",
+   "Black Forest bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Lindsey's / Lionsway - Upper",
+   "Lodgepole / Giant Steps",
+   4.0
+  ],
+  [
+   "walk",
+   "Lindsey's / Lionsway - Upper",
+   "Black Forest / Gitalong Road",
+   5.4
+  ],
+  [
+   "walk",
+   "Lindsey's / Lionsway - Upper",
+   "Cub's Way / Unnamed run",
+   3.8
+  ],
+  [
+   "walk",
+   "Wapiti bottom",
+   "Boomer / Flap Jack",
+   6.2
+  ],
+  [
+   "walk",
+   "Wapiti bottom",
+   "Poppyfields West",
+   4.2
+  ],
+  [
+   "walk",
+   "Wapiti bottom",
+   "Sourdough Express Lift top",
+   6.3
+  ],
+  [
+   "walk",
+   "Poppyfields West",
+   "Wapiti bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Poppyfields West",
+   "Unnamed run / China Bowl to Two Elk",
+   5.2
+  ],
+  [
+   "walk",
+   "Unnamed run / China Bowl to Two Elk",
+   "Poppyfields West",
+   5.2
+  ],
+  [
+   "walk",
+   "Sourdough Express Lift top",
+   "Wapiti bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Riva Catwalk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   3.6
+  ],
+  [
+   "walk",
+   "Riva Catwalk",
+   "38 / Riva Catwalk",
+   5.5
+  ],
+  [
+   "walk",
+   "Riva Catwalk",
+   "Gopher Hill",
+   4.3
+  ],
+  [
+   "walk",
+   "Riva Catwalk",
+   "Riva Bahn Express Lift bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   "Elvis Bahn top",
+   2.3
+  ],
+  [
+   "walk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   "Gondola One bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "38 / Riva Catwalk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   3.9
+  ],
+  [
+   "walk",
+   "38 / Riva Catwalk",
+   "Gopher Hill",
+   4.6
+  ],
+  [
+   "walk",
+   "38 / Riva Catwalk",
+   "Riva Bahn Express Lift bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "38 / Riva Catwalk",
+   "Elvis Bahn top",
+   5.0
+  ],
+  [
+   "walk",
+   "38 / Riva Catwalk",
+   "Rip's Ride Carpet bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Windisch Way / Riva Catwalk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   3.3
+  ],
+  [
+   "walk",
+   "Windisch Way / Riva Catwalk",
+   "38 / Riva Catwalk",
+   4.8
+  ],
+  [
+   "walk",
+   "Windisch Way / Riva Catwalk",
+   "Gopher Hill",
+   4.0
+  ],
+  [
+   "walk",
+   "Windisch Way / Riva Catwalk",
+   "Riva Bahn Express Lift bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Gopher Hill",
+   "Elvis Bahn top",
+   3.0
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift bottom",
+   "Elvis Bahn top",
+   3.3
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet bottom",
+   "Elvis Bahn top",
+   4.0
+  ],
+  [
+   "walk",
+   "Gondola One bottom",
+   "Golden Peak Terrain Park / Gopher Hill",
+   5.6
+  ],
+  [
+   "walk",
+   "Gondola One bottom",
+   "Gopher Hill",
+   6.3
+  ],
+  [
+   "walk",
+   "Gondola One bottom",
+   "Riva Bahn Express Lift bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Gondola One bottom",
+   "Elvis Bahn top",
+   6.7
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet top",
+   "Elvis Bahn top",
+   5.7
+  ],
+  [
+   "walk",
+   "Riva Catwalk",
+   "Windisch Way / Riva Catwalk",
+   3.3
+  ],
+  [
+   "walk",
+   "Gitalong Road / Mill Creek Road",
+   "Golden Peak Terrain Park / Gopher Hill",
+   5.5
+  ],
+  [
+   "walk",
+   "Gitalong Road / Mill Creek Road",
+   "38 / Riva Catwalk",
+   6.8
+  ],
+  [
+   "walk",
+   "Gitalong Road / Mill Creek Road",
+   "Windisch Way / Riva Catwalk",
+   4.7
+  ],
+  [
+   "walk",
+   "Gitalong Road / Mill Creek Road",
+   "Gopher Hill",
+   6.3
+  ],
+  [
+   "walk",
+   "Gitalong Road / Mill Creek Road",
+   "Riva Bahn Express Lift bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Gitalong Road / Mill Creek Road",
+   "Elvis Bahn bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Gitalong Road / Mill Creek Road",
+   "Rip's Ride Carpet bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Windisch Way / Riva Catwalk",
+   "Gondola One bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Elvis Bahn bottom",
+   "Windisch Way / Riva Catwalk",
+   3.0
+  ],
+  [
+   "walk",
+   "Golden Peak Terrain Park / Gopher Hill",
+   "Windisch Way / Riva Catwalk",
+   3.6
+  ],
+  [
+   "walk",
+   "38 / Riva Catwalk",
+   "Windisch Way / Riva Catwalk",
+   6.3
+  ],
+  [
+   "walk",
+   "Gopher Hill",
+   "Windisch Way / Riva Catwalk",
+   4.3
+  ],
+  [
+   "walk",
+   "Riva Bahn Express Lift bottom",
+   "Windisch Way / Riva Catwalk",
+   4.7
+  ],
+  [
+   "walk",
+   "Rip's Ride Carpet bottom",
+   "Windisch Way / Riva Catwalk",
+   5.4
+  ],
+  [
+   "walk",
+   "Riva Catwalk",
+   "Rip's Ride Carpet top",
+   4.6
+  ],
+  [
+   "walk",
+   "Windisch Way / Riva Catwalk",
+   "Rip's Ride Carpet top",
+   5.0
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Eagle's Nest Ridge 10",
+   2.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 9",
+   "Little Eagle top",
+   4.2
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 9",
+   "Eagle's Nest Ridge 10",
+   3.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 9",
+   "Tubing Hill Lift bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 9",
+   "Surface Lift top",
+   6.0
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 9",
+   "Surface Lift bottom 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 9",
+   "Surface Lift top 2",
+   5.2
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 9",
+   "Eagle Bahn Gondola top",
+   6.6
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 9",
+   "Unnamed run / Eagle's Nest Ridge",
+   6.4
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Little Eagle bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Little Eagle top",
+   "Coyote Crossing / Minnie's - Upper",
+   6.9
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   4.5
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Cub's Way 3",
+   4.5
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Tubing Hill Lift bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Surface Lift bottom 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Little Eagle top",
+   4.5
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Eagle Bahn Gondola top",
+   4.5
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Pride Express Lift top",
+   5.3
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Surface Lift top 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Little Eagle bottom",
+   "Unnamed run / Eagle's Nest Ridge",
+   5.1
+  ],
+  [
+   "walk",
+   "Eagle Bahn Gondola top",
+   "Coyote Crossing / Minnie's - Upper",
+   6.7
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   "Coyote Crossing / Minnie's - Upper",
+   6.9
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   3.9
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Cub's Way 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Tubing Hill Lift bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Surface Lift bottom 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Little Eagle top",
+   3.6
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Eagle Bahn Gondola top",
+   3.4
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Pride Express Lift top",
+   4.5
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Surface Lift top 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Coyote Crossing",
+   "Unnamed run / Eagle's Nest Ridge",
+   4.1
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Little Eagle bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Eagle's Nest Ridge / Coyote Crossing",
+   4.8
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Coyote Crossing",
+   4.3
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Tubing Hill Lift bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Surface Lift bottom 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Coyote Crossing / Minnie's - Upper",
+   6.9
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Little Eagle bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift bottom",
+   "Coyote Crossing / Minnie's - Upper",
+   6.5
+  ],
+  [
+   "walk",
+   "Surface Lift top 2",
+   "Coyote Crossing / Minnie's - Upper",
+   6.2
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Little Eagle bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 10",
+   "Coyote Crossing",
+   5.6
+  ],
+  [
+   "walk",
+   "Tubing Hill Lift top",
+   "Little Eagle bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Little Eagle top",
+   4.5
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Eagle Bahn Gondola top",
+   4.3
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Unnamed run / Eagle's Nest Ridge",
+   5.0
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Pride Express Lift top",
+   5.4
+  ],
+  [
+   "walk",
+   "Cub's Way 3",
+   "Surface Lift top 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Eagle's Nest Ridge 2",
+   "Coyote Crossing",
+   6.7
+  ]
+ ],
+ "base": "Cascade Village Lift bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "33",
+  "downhill_trails": "250",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": "https://www.vail.com"
+ }
+}

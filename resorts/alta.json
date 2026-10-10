@@ -1,0 +1,4902 @@
+{
+ "name": "Alta Ski Area",
+ "source": "OpenSkiMap ski area 80b43d73222ff9f4c560fcb7417278f351f5b64c",
+ "origin_lonlat": [
+  -111.62461906625876,
+  40.57871828305585
+ ],
+ "nodes": {
+  "Bluebell / Race Hill": [
+   435,
+   504,
+   2853.5
+  ],
+  "Bluebell / Home Run": [
+   126,
+   416,
+   2772.8
+  ],
+  "Sunnyside top": [
+   716,
+   336,
+   2879.6
+  ],
+  "Sugar Way / Dipsy Doodle": [
+   509,
+   241,
+   2826.8
+  ],
+  "Big Dipper / Rock 'n Roll, Big Dipper": [
+   1123,
+   -590,
+   2926.6
+  ],
+  "Big Dipper / Home Run": [
+   411,
+   178,
+   2814.7
+  ],
+  "Unnamed run / Rock 'n Roll": [
+   911,
+   -131,
+   2865.2
+  ],
+  "Unnamed run / Over the River": [
+   710,
+   47,
+   2838.9
+  ],
+  "Sunspot / High Traverse (Upper Level)": [
+   -552,
+   -205,
+   3096.5
+  ],
+  "Sunspot / Race Course": [
+   -841,
+   -76,
+   2947.5
+  ],
+  "Bluebell": [
+   384,
+   520,
+   2844.4
+  ],
+  "Vail Ridge / Crooked Mile": [
+   152,
+   829,
+   2727.0
+  ],
+  "Unnamed run / Patsy Marley": [
+   780,
+   565,
+   2846.4
+  ],
+  "Home Run / Patsy Marley": [
+   -59,
+   1145,
+   2667.2
+  ],
+  "Hammerhead / Supreme Challenge": [
+   1462,
+   -420,
+   3021.3
+  ],
+  "Hammerhead / Supreme Challenge 2": [
+   1147,
+   -268,
+   2895.4
+  ],
+  "Jake's / High Traverse": [
+   -684,
+   156,
+   3034.9
+  ],
+  "Jake's / Alf's High Rustler": [
+   -749,
+   654,
+   2831.8
+  ],
+  "Wildcat Bowl / Westward Ho": [
+   -1549,
+   527,
+   2825.2
+  ],
+  "Wildcat Bowl / Westward Ho 2": [
+   -1359,
+   821,
+   2639.5
+  ],
+  "Unnamed run / Upper Big Dipper": [
+   1820,
+   -818,
+   3172.1
+  ],
+  "Unnamed run / Three Bears": [
+   1497,
+   -881,
+   3084.3
+  ],
+  "Keyhole Gulch / Devil's Way": [
+   -189,
+   -899,
+   3096.5
+  ],
+  "Keyhole Gulch / Running Dog Nose": [
+   -129,
+   -508,
+   3000.2
+  ],
+  "Mambo / Waldron's Way": [
+   -590,
+   -765,
+   3162.5
+  ],
+  "Mambo / Meadow": [
+   -1142,
+   237,
+   2835.2
+  ],
+  "Shoulder Traverse / Harold's": [
+   -1034,
+   -840,
+   3107.0
+  ],
+  "Shoulder Traverse": [
+   -1443,
+   -391,
+   3030.1
+  ],
+  "Supreme top": [
+   1784,
+   -594,
+   3187.0
+  ],
+  "Erosion Gullies / Sleepy Hollow": [
+   1498,
+   -715,
+   3059.3
+  ],
+  "Eagle's Nest / Unnamed run": [
+   -441,
+   649,
+   2900.7
+  ],
+  "Eagle's Nest / Hourglass Chute": [
+   -591,
+   1054,
+   2650.9
+  ],
+  "Last Chance / Sunset": [
+   2021,
+   -155,
+   3170.6
+  ],
+  "Last Chance / Catherine's Out Run": [
+   1390,
+   190,
+   2978.2
+  ],
+  "Bear Paw / Punch Bowl": [
+   -1334,
+   394,
+   2858.0
+  ],
+  "Bear Paw / Rock Gully": [
+   -1197,
+   844,
+   2633.4
+  ],
+  "Rock Gully / Wildcat Face": [
+   -1501,
+   328,
+   2885.1
+  ],
+  "Spruces / High Traverse (Upper Level)": [
+   -616,
+   -535,
+   3140.9
+  ],
+  "Spruces / Saddle Traverse": [
+   -829,
+   -336,
+   2964.2
+  ],
+  "Rock 'n Roll / Upper Big Dipper": [
+   1572,
+   -956,
+   3090.2
+  ],
+  "Rock 'n Roll / Rock 'n Roll, Big Dipper": [
+   1107,
+   -658,
+   2936.4
+  ],
+  "Lower Rustler / 180° Bend": [
+   -776,
+   707,
+   2788.6
+  ],
+  "Collins bottom": [
+   -1131,
+   1036,
+   2603.5
+  ],
+  "Alta Lodge Tow top": [
+   -1063,
+   1234,
+   2625.5
+  ],
+  "Transfer Tow bottom": [
+   -1113,
+   1076,
+   2602.6
+  ],
+  "Running Dog Nose / Devil's Way": [
+   -119,
+   -845,
+   3091.7
+  ],
+  "High Traverse (Upper Level) / High Traverse": [
+   -599,
+   -573,
+   3145.0
+  ],
+  "High Traverse (Upper Level)": [
+   -508,
+   -2,
+   3074.2
+  ],
+  "Meadow / Race Course Saddle": [
+   -1029,
+   644,
+   2721.9
+  ],
+  "Shoulder Traverse 2": [
+   -1097,
+   -784,
+   3099.5
+  ],
+  "Tombstone / Main Street": [
+   -1104,
+   -589,
+   2994.9
+  ],
+  "Sugarloaf top": [
+   -317,
+   -1272,
+   3214.5
+  ],
+  "Race Hill / Sunnyside": [
+   595,
+   420,
+   2864.5
+  ],
+  "Home Run": [
+   38,
+   584,
+   2750.2
+  ],
+  "Main Street / Unnamed run": [
+   -881,
+   -735,
+   3058.3
+  ],
+  "Mambo": [
+   -1117,
+   -156,
+   2890.6
+  ],
+  "No name / High Traverse": [
+   -677,
+   215,
+   3027.1
+  ],
+  "No name / Race Course Saddle": [
+   -946,
+   291,
+   2831.2
+  ],
+  "Gravy Boat / Sugar Bowl": [
+   -308,
+   -1229,
+   3201.6
+  ],
+  "Gravy Boat / Devil's Elbow": [
+   -390,
+   -1109,
+   3148.7
+  ],
+  "Back Forty / Sidewinder": [
+   1785,
+   -379,
+   3157.5
+  ],
+  "Back Forty / Sidewinder 2": [
+   1271,
+   -61,
+   2916.8
+  ],
+  "Sleepy Hollow / Three Bears": [
+   1242,
+   -656,
+   2989.9
+  ],
+  "High Traverse (Upper Level) 2": [
+   -632,
+   -21,
+   3064.9
+  ],
+  "Watson Line / Saddle Traverse": [
+   -850,
+   67,
+   2926.5
+  ],
+  "Wildcat bottom": [
+   -1201,
+   953,
+   2608.3
+  ],
+  "Sunnyside bottom": [
+   -344,
+   1282,
+   2637.0
+  ],
+  "180° Bend / Unnamed run": [
+   -893,
+   1126,
+   2607.3
+  ],
+  "Crooked Mile / Summer Road (Uphill Acces)": [
+   681,
+   498,
+   2855.0
+  ],
+  "North Rustler / High Nowhere": [
+   -308,
+   840,
+   2765.1
+  ],
+  "North Rustler / Unnamed run": [
+   -455,
+   1247,
+   2626.7
+  ],
+  "Santa Clause / High Traverse": [
+   -666,
+   265,
+   3026.7
+  ],
+  "Santa Clause / Race Course Saddle": [
+   -989,
+   391,
+   2798.8
+  ],
+  "Sidewinder / Sunset": [
+   1844,
+   -438,
+   3197.5
+  ],
+  "Sidewinder / Catherine's Out Run": [
+   931,
+   160,
+   2857.6
+  ],
+  "Jake's": [
+   -839,
+   198,
+   2911.7
+  ],
+  "Catherine's Out Run / Over the River": [
+   797,
+   172,
+   2850.7
+  ],
+  "Mambo 2": [
+   -922,
+   -547,
+   3007.7
+  ],
+  "Main Street": [
+   -992,
+   -694,
+   3036.9
+  ],
+  "Cabin Hill / Razor Back": [
+   132,
+   -709,
+   3010.6
+  ],
+  "Big Dipper": [
+   807,
+   -156,
+   2855.6
+  ],
+  "Dipsy Doodle": [
+   783,
+   266,
+   2867.9
+  ],
+  "Supreme bottom": [
+   500,
+   70,
+   2820.8
+  ],
+  "Johnson's Warm Up / Westward Ho": [
+   -1472,
+   60,
+   2962.6
+  ],
+  "Mambo 3": [
+   -1167,
+   170,
+   2840.3
+  ],
+  "Rustler Lift top": [
+   -785,
+   1312,
+   2636.3
+  ],
+  "Rustler Lift bottom": [
+   -746,
+   1180,
+   2611.8
+  ],
+  "Mambo 4": [
+   -868,
+   -691,
+   3052.9
+  ],
+  "Waldron's Way / Devil's Way": [
+   -369,
+   -903,
+   3117.3
+  ],
+  "Back Forty": [
+   1767,
+   -315,
+   3150.7
+  ],
+  "Sidewinder": [
+   1334,
+   -169,
+   2939.4
+  ],
+  "Punch Bowl / Westward Ho": [
+   -1489,
+   216,
+   2930.3
+  ],
+  "Punch Bowl / Collins Face": [
+   -1184,
+   470,
+   2808.9
+  ],
+  "Razor Back / Devil's Elbow": [
+   -159,
+   -926,
+   3101.1
+  ],
+  "Meadow": [
+   -1071,
+   558,
+   2753.2
+  ],
+  "Nina's Curve / Corkscrew": [
+   -1108,
+   938,
+   2618.1
+  ],
+  "Mambo 5": [
+   -1137,
+   14,
+   2847.2
+  ],
+  "Taint / Aggie's Alley": [
+   -1309,
+   -288,
+   2942.4
+  ],
+  "Wildcat top": [
+   -1467,
+   -155,
+   2978.8
+  ],
+  "Challenger / Sunset": [
+   1846,
+   -617,
+   3189.6
+  ],
+  "Sidewinder 2": [
+   1087,
+   -26,
+   2873.6
+  ],
+  "Cecret Saddle / Sugar Bowl": [
+   -227,
+   -1003,
+   3127.6
+  ],
+  "Cabin Hill": [
+   289,
+   -749,
+   3008.5
+  ],
+  "Mambo 6": [
+   -820,
+   -683,
+   3064.6
+  ],
+  "Taint": [
+   -1248,
+   -244,
+   2942.4
+  ],
+  "Mambo 7": [
+   -1135,
+   -102,
+   2876.2
+  ],
+  "Stone Crusher / High Traverse": [
+   -653,
+   412,
+   2987.7
+  ],
+  "Race Course Saddle": [
+   -996,
+   540,
+   2761.7
+  ],
+  "No. 9 Express / Big Dipper": [
+   1790,
+   -687,
+   3183.1
+  ],
+  "Erosion Gullies": [
+   1591,
+   -729,
+   3088.2
+  ],
+  "High Traverse (Upper Level) 3": [
+   -590,
+   -107,
+   3089.1
+  ],
+  "Main Street 2": [
+   -1157,
+   -582,
+   2987.2
+  ],
+  "Aggie's Alley": [
+   -1322,
+   -371,
+   2957.4
+  ],
+  "Aggie's Alley 2": [
+   -1279,
+   -113,
+   2908.4
+  ],
+  "Amen / Devil's Elbow": [
+   -26,
+   -692,
+   3054.5
+  ],
+  "Amen / Rollercoaster": [
+   379,
+   -30,
+   2831.8
+  ],
+  "Summer Road (Uphill Acces) / Rock 'n Roll": [
+   965,
+   -120,
+   2868.9
+  ],
+  "Alf's High Rustler / Unnamed run": [
+   -634,
+   480,
+   2979.1
+  ],
+  "Jitterbug / High Traverse": [
+   -659,
+   347,
+   2995.4
+  ],
+  "Race Course Saddle 2": [
+   -995,
+   467,
+   2777.1
+  ],
+  "Mambo 8": [
+   -1030,
+   -257,
+   2929.0
+  ],
+  "Mambo 9": [
+   -1138,
+   64,
+   2841.1
+  ],
+  "Challenger": [
+   1633,
+   -577,
+   3142.1
+  ],
+  "White Squaw Areae / Rock 'n Roll": [
+   1111,
+   -360,
+   2899.4
+  ],
+  "Meadow 2": [
+   -1143,
+   307,
+   2826.0
+  ],
+  "High Traverse (Upper Level) 4": [
+   -570,
+   -420,
+   3120.0
+  ],
+  "Saddle Traverse": [
+   -858,
+   8,
+   2926.2
+  ],
+  "Vicky's / Big Dipper": [
+   1200,
+   -680,
+   2977.6
+  ],
+  "Jake's 2": [
+   -800,
+   531,
+   2867.4
+  ],
+  "Corkscrew": [
+   -1002,
+   747,
+   2679.5
+  ],
+  "Sidewinder 3": [
+   1583,
+   -333,
+   3026.9
+  ],
+  "Hourglass Chute / Unnamed run": [
+   -505,
+   589,
+   2918.6
+  ],
+  "Snowpine Lift bottom": [
+   -587,
+   1208,
+   2620.1
+  ],
+  "Unnamed run 2": [
+   -389,
+   1252,
+   2630.1
+  ],
+  "Wildcat Face": [
+   -1253,
+   874,
+   2618.5
+  ],
+  "Snowpine Lift top": [
+   -602,
+   1378,
+   2643.6
+  ],
+  "Pine Glade": [
+   1669,
+   -508,
+   3167.9
+  ],
+  "Rock 'n Roll": [
+   1079,
+   -247,
+   2886.8
+  ],
+  "Rollercoaster / Devil's Elbow": [
+   185,
+   -647,
+   2988.3
+  ],
+  "Sugarloaf bottom": [
+   337,
+   132,
+   2806.0
+  ],
+  "Last Chance": [
+   2004,
+   -108,
+   3165.6
+  ],
+  "Sunset": [
+   1859,
+   -294,
+   3198.4
+  ],
+  "Snowshoe Hill": [
+   1685,
+   9,
+   3060.6
+  ],
+  "Amen": [
+   1,
+   -621,
+   3042.2
+  ],
+  "Crooked Mile": [
+   -157,
+   1264,
+   2654.9
+  ],
+  "Chartreuse": [
+   -15,
+   -381,
+   3018.7
+  ],
+  "Rollercoaster": [
+   309,
+   60,
+   2812.9
+  ],
+  "Mambo 10": [
+   -648,
+   -771,
+   3144.2
+  ],
+  "Sidewinder 4": [
+   1374,
+   -294,
+   2940.0
+  ],
+  "Rock 'n Roll 2": [
+   1096,
+   -291,
+   2890.0
+  ],
+  "Unnamed run 3": [
+   -616,
+   555,
+   2948.4
+  ],
+  "Regal Chute / Rustler Four": [
+   -763,
+   868,
+   2706.9
+  ],
+  "Annie's / High Traverse": [
+   -679,
+   90,
+   3043.6
+  ],
+  "Collins top": [
+   -593,
+   -706,
+   3165.6
+  ],
+  "Crooked Mile 2": [
+   710,
+   402,
+   2872.0
+  ],
+  "Sleepy Hollow": [
+   1355,
+   -629,
+   3013.2
+  ],
+  "Rock 'n Roll 3": [
+   1131,
+   -477,
+   2909.0
+  ],
+  "Unnamed run 4": [
+   1725,
+   -860,
+   3117.1
+  ],
+  "Upper Big Dipper": [
+   1649,
+   -954,
+   3101.4
+  ],
+  "Eddie's High Nowhere / Unnamed run": [
+   -508,
+   -119,
+   3136.1
+  ],
+  "High Traverse (Upper Level) 5": [
+   -531,
+   -166,
+   3113.1
+  ],
+  "180° Bend": [
+   -834,
+   941,
+   2652.7
+  ],
+  "Cabin Hill 2": [
+   519,
+   -623,
+   2933.0
+  ],
+  "Devil's Elbow": [
+   479,
+   -161,
+   2855.0
+  ],
+  "Big Dipper 2": [
+   536,
+   36,
+   2829.4
+  ],
+  "Chartreuse 2": [
+   77,
+   -45,
+   2874.4
+  ],
+  "Dipsy Doodle 2": [
+   458,
+   219,
+   2820.7
+  ],
+  "MG GMZ bottom": [
+   -495,
+   1270,
+   2626.0
+  ],
+  "MG GMZ top": [
+   -397,
+   1338,
+   2638.4
+  ],
+  "Little GMZ bottom": [
+   -478,
+   1314,
+   2630.6
+  ],
+  "Little GMZ top": [
+   -469,
+   1360,
+   2635.1
+  ]
+ },
+ "lifts": [
+  [
+   "Sunnyside",
+   "Sunnyside bottom",
+   "Sunnyside top",
+   7.8
+  ],
+  [
+   "MG GMZ",
+   "MG GMZ bottom",
+   "MG GMZ top",
+   5.5
+  ],
+  [
+   "Rustler Lift",
+   "Rustler Lift bottom",
+   "Rustler Lift top",
+   3.9
+  ],
+  [
+   "Sugarloaf",
+   "Sugarloaf bottom",
+   "Sugarloaf top",
+   8.3
+  ],
+  [
+   "Transfer Tow",
+   "Transfer Tow bottom",
+   "Sunnyside bottom",
+   7.2
+  ],
+  [
+   "Transfer Tow",
+   "Sunnyside bottom",
+   "Transfer Tow bottom",
+   7.2
+  ],
+  [
+   "Collins",
+   "Collins bottom",
+   "Collins top",
+   9.5
+  ],
+  [
+   "Supreme",
+   "Supreme bottom",
+   "Supreme top",
+   14.2
+  ],
+  [
+   "Little GMZ",
+   "Little GMZ bottom",
+   "Little GMZ top",
+   4.0
+  ],
+  [
+   "Snowpine Lift",
+   "Snowpine Lift bottom",
+   "Snowpine Lift top",
+   4.1
+  ],
+  [
+   "Wildcat",
+   "Wildcat bottom",
+   "Wildcat top",
+   11.8
+  ],
+  [
+   "Alta Lodge Tow",
+   "Transfer Tow bottom",
+   "Alta Lodge Tow top",
+   3.8
+  ]
+ ],
+ "runs": [
+  [
+   "Bluebell",
+   "Bluebell / Race Hill",
+   "Bluebell",
+   0.5
+  ],
+  [
+   "Bluebell",
+   "Bluebell",
+   "Bluebell / Home Run",
+   1.1
+  ],
+  [
+   "Sugar Way",
+   "Sunnyside top",
+   "Sugar Way / Dipsy Doodle",
+   0.9
+  ],
+  [
+   "Big Dipper",
+   "Big Dipper / Rock 'n Roll, Big Dipper",
+   "Big Dipper",
+   2.2
+  ],
+  [
+   "Big Dipper",
+   "Big Dipper",
+   "Big Dipper 2",
+   1.4
+  ],
+  [
+   "Big Dipper",
+   "Big Dipper 2",
+   "Supreme bottom",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Supreme bottom",
+   "Big Dipper / Home Run",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Rock 'n Roll",
+   "Unnamed run / Over the River",
+   1.0
+  ],
+  [
+   "Sunspot",
+   "Sunspot / High Traverse (Upper Level)",
+   "Sunspot / Race Course",
+   1.3
+  ],
+  [
+   "Vail Ridge",
+   "Bluebell",
+   "Vail Ridge / Crooked Mile",
+   1.6
+  ],
+  [
+   "Home Run",
+   "Big Dipper / Home Run",
+   "Bluebell / Home Run",
+   1.4
+  ],
+  [
+   "Home Run",
+   "Bluebell / Home Run",
+   "Home Run",
+   0.8
+  ],
+  [
+   "Home Run",
+   "Home Run",
+   "Home Run / Patsy Marley",
+   2.4
+  ],
+  [
+   "Hammerhead",
+   "Hammerhead / Supreme Challenge",
+   "Hammerhead / Supreme Challenge 2",
+   1.4
+  ],
+  [
+   "Jake's",
+   "Jake's / High Traverse",
+   "Jake's",
+   0.7
+  ],
+  [
+   "Jake's",
+   "Jake's",
+   "Jake's 2",
+   1.4
+  ],
+  [
+   "Jake's",
+   "Jake's 2",
+   "Jake's / Alf's High Rustler",
+   0.5
+  ],
+  [
+   "Wildcat Bowl",
+   "Wildcat Bowl / Westward Ho",
+   "Wildcat Bowl / Westward Ho 2",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Upper Big Dipper",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "Unnamed run / Three Bears",
+   1.0
+  ],
+  [
+   "Keyhole Gulch",
+   "Keyhole Gulch / Devil's Way",
+   "Keyhole Gulch / Running Dog Nose",
+   1.6
+  ],
+  [
+   "Mambo",
+   "Mambo / Waldron's Way",
+   "Mambo 10",
+   0.5
+  ],
+  [
+   "Mambo",
+   "Mambo 10",
+   "Mambo 6",
+   1.2
+  ],
+  [
+   "Mambo",
+   "Mambo 6",
+   "Mambo 4",
+   0.5
+  ],
+  [
+   "Mambo",
+   "Mambo 4",
+   "Mambo 2",
+   0.7
+  ],
+  [
+   "Mambo",
+   "Mambo 2",
+   "Mambo 8",
+   1.3
+  ],
+  [
+   "Mambo",
+   "Mambo 8",
+   "Mambo",
+   0.6
+  ],
+  [
+   "Mambo",
+   "Mambo",
+   "Mambo 7",
+   0.5
+  ],
+  [
+   "Mambo",
+   "Mambo 7",
+   "Mambo 5",
+   0.5
+  ],
+  [
+   "Mambo",
+   "Mambo 5",
+   "Mambo 9",
+   0.5
+  ],
+  [
+   "Mambo",
+   "Mambo 9",
+   "Mambo 3",
+   0.5
+  ],
+  [
+   "Mambo",
+   "Mambo 3",
+   "Mambo / Meadow",
+   0.5
+  ],
+  [
+   "Shoulder Traverse",
+   "Shoulder Traverse / Harold's",
+   "Shoulder Traverse 2",
+   0.5
+  ],
+  [
+   "Shoulder Traverse",
+   "Shoulder Traverse 2",
+   "Shoulder Traverse",
+   2.4
+  ],
+  [
+   "Erosion Gullies",
+   "Supreme top",
+   "Erosion Gullies",
+   1.0
+  ],
+  [
+   "Erosion Gullies",
+   "Erosion Gullies",
+   "Erosion Gullies / Sleepy Hollow",
+   0.5
+  ],
+  [
+   "Eagle's Nest",
+   "Eagle's Nest / Unnamed run",
+   "Eagle's Nest / Hourglass Chute",
+   2.0
+  ],
+  [
+   "Last Chance",
+   "Last Chance / Sunset",
+   "Last Chance",
+   0.5
+  ],
+  [
+   "Last Chance",
+   "Last Chance",
+   "Last Chance / Catherine's Out Run",
+   3.4
+  ],
+  [
+   "Bear Paw",
+   "Bear Paw / Punch Bowl",
+   "Bear Paw / Rock Gully",
+   2.1
+  ],
+  [
+   "Rock Gully",
+   "Rock Gully / Wildcat Face",
+   "Bear Paw / Rock Gully",
+   2.6
+  ],
+  [
+   "Spruces",
+   "Spruces / High Traverse (Upper Level)",
+   "Spruces / Saddle Traverse",
+   1.3
+  ],
+  [
+   "Rock 'n Roll",
+   "Rock 'n Roll / Upper Big Dipper",
+   "Rock 'n Roll / Rock 'n Roll, Big Dipper",
+   3.1
+  ],
+  [
+   "Lower Rustler",
+   "Lower Rustler / 180° Bend",
+   "Collins bottom",
+   2.0
+  ],
+  [
+   "Dipsy Doodle",
+   "Sunnyside top",
+   "Dipsy Doodle",
+   0.5
+  ],
+  [
+   "Dipsy Doodle",
+   "Dipsy Doodle",
+   "Sugar Way / Dipsy Doodle",
+   1.3
+  ],
+  [
+   "Dipsy Doodle",
+   "Sugar Way / Dipsy Doodle",
+   "Dipsy Doodle 2",
+   0.5
+  ],
+  [
+   "Dipsy Doodle",
+   "Dipsy Doodle 2",
+   "Big Dipper / Home Run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Alta Lodge Tow top",
+   "Transfer Tow bottom",
+   0.5
+  ],
+  [
+   "Patsy Marley",
+   "Unnamed run / Patsy Marley",
+   "Home Run / Patsy Marley",
+   4.4
+  ],
+  [
+   "Running Dog Nose",
+   "Running Dog Nose / Devil's Way",
+   "Keyhole Gulch / Running Dog Nose",
+   1.4
+  ],
+  [
+   "High Traverse (Upper Level)",
+   "High Traverse (Upper Level) / High Traverse",
+   "Spruces / High Traverse (Upper Level)",
+   0.5
+  ],
+  [
+   "High Traverse (Upper Level)",
+   "Spruces / High Traverse (Upper Level)",
+   "High Traverse (Upper Level) 4",
+   0.5
+  ],
+  [
+   "High Traverse (Upper Level)",
+   "High Traverse (Upper Level) 4",
+   "Sunspot / High Traverse (Upper Level)",
+   1.0
+  ],
+  [
+   "High Traverse (Upper Level)",
+   "Sunspot / High Traverse (Upper Level)",
+   "High Traverse (Upper Level) 5",
+   0.5
+  ],
+  [
+   "High Traverse (Upper Level)",
+   "High Traverse (Upper Level) 5",
+   "High Traverse (Upper Level) 3",
+   0.5
+  ],
+  [
+   "High Traverse (Upper Level)",
+   "High Traverse (Upper Level) 3",
+   "High Traverse (Upper Level) 2",
+   0.5
+  ],
+  [
+   "High Traverse (Upper Level)",
+   "High Traverse (Upper Level) 2",
+   "High Traverse (Upper Level)",
+   0.6
+  ],
+  [
+   "Meadow",
+   "Mambo / Meadow",
+   "Meadow 2",
+   0.5
+  ],
+  [
+   "Meadow",
+   "Meadow 2",
+   "Meadow",
+   1.1
+  ],
+  [
+   "Meadow",
+   "Meadow",
+   "Meadow / Race Course Saddle",
+   0.5
+  ],
+  [
+   "Tombstone",
+   "Shoulder Traverse 2",
+   "Tombstone / Main Street",
+   0.8
+  ],
+  [
+   "Race Hill",
+   "Race Hill / Sunnyside",
+   "Bluebell / Race Hill",
+   0.6
+  ],
+  [
+   "Race Hill",
+   "Bluebell / Race Hill",
+   "Bluebell",
+   0.5
+  ],
+  [
+   "Race Hill",
+   "Bluebell",
+   "Home Run",
+   1.4
+  ],
+  [
+   "Main Street",
+   "Main Street / Unnamed run",
+   "Main Street",
+   0.5
+  ],
+  [
+   "Main Street",
+   "Main Street",
+   "Tombstone / Main Street",
+   0.7
+  ],
+  [
+   "Main Street",
+   "Tombstone / Main Street",
+   "Main Street 2",
+   0.5
+  ],
+  [
+   "Main Street",
+   "Main Street 2",
+   "Mambo",
+   1.7
+  ],
+  [
+   "No name",
+   "No name / High Traverse",
+   "No name / Race Course Saddle",
+   1.3
+  ],
+  [
+   "Upper Big Dipper",
+   "Unnamed run / Upper Big Dipper",
+   "Upper Big Dipper",
+   0.9
+  ],
+  [
+   "Upper Big Dipper",
+   "Upper Big Dipper",
+   "Rock 'n Roll / Upper Big Dipper",
+   0.5
+  ],
+  [
+   "Gravy Boat",
+   "Gravy Boat / Sugar Bowl",
+   "Gravy Boat / Devil's Elbow",
+   0.6
+  ],
+  [
+   "Back Forty",
+   "Back Forty / Sidewinder",
+   "Back Forty",
+   0.5
+  ],
+  [
+   "Back Forty",
+   "Back Forty",
+   "Back Forty / Sidewinder 2",
+   2.6
+  ],
+  [
+   "Sleepy Hollow",
+   "Erosion Gullies / Sleepy Hollow",
+   "Sleepy Hollow",
+   0.6
+  ],
+  [
+   "Sleepy Hollow",
+   "Sleepy Hollow",
+   "Sleepy Hollow / Three Bears",
+   0.6
+  ],
+  [
+   "Watson Line",
+   "High Traverse (Upper Level) 2",
+   "Watson Line / Saddle Traverse",
+   1.0
+  ],
+  [
+   "Wildcat Face",
+   "Rock Gully / Wildcat Face",
+   "Wildcat Face",
+   2.7
+  ],
+  [
+   "Wildcat Face",
+   "Wildcat Face",
+   "Wildcat bottom",
+   0.5
+  ],
+  [
+   "Crooked Mile",
+   "Unnamed run / Patsy Marley",
+   "Vail Ridge / Crooked Mile",
+   3.0
+  ],
+  [
+   "Crooked Mile",
+   "Vail Ridge / Crooked Mile",
+   "Home Run / Patsy Marley",
+   1.6
+  ],
+  [
+   "Crooked Mile",
+   "Home Run / Patsy Marley",
+   "Crooked Mile",
+   0.7
+  ],
+  [
+   "Crooked Mile",
+   "Crooked Mile",
+   "Sunnyside bottom",
+   0.8
+  ],
+  [
+   "180° Bend",
+   "Lower Rustler / 180° Bend",
+   "180° Bend",
+   1.0
+  ],
+  [
+   "180° Bend",
+   "180° Bend",
+   "180° Bend / Unnamed run",
+   0.9
+  ],
+  [
+   "Crooked Mile",
+   "Sunnyside top",
+   "Crooked Mile 2",
+   0.5
+  ],
+  [
+   "Crooked Mile",
+   "Crooked Mile 2",
+   "Crooked Mile / Summer Road (Uphill Acces)",
+   0.5
+  ],
+  [
+   "North Rustler",
+   "North Rustler / High Nowhere",
+   "North Rustler / Unnamed run",
+   1.9
+  ],
+  [
+   "Santa Clause",
+   "Santa Clause / High Traverse",
+   "Santa Clause / Race Course Saddle",
+   1.6
+  ],
+  [
+   "Sidewinder",
+   "Sidewinder / Sunset",
+   "Back Forty / Sidewinder",
+   0.5
+  ],
+  [
+   "Sidewinder",
+   "Back Forty / Sidewinder",
+   "Sidewinder 3",
+   1.1
+  ],
+  [
+   "Sidewinder",
+   "Sidewinder 3",
+   "Sidewinder 4",
+   1.0
+  ],
+  [
+   "Sidewinder",
+   "Sidewinder 4",
+   "Sidewinder",
+   0.5
+  ],
+  [
+   "Sidewinder",
+   "Sidewinder",
+   "Back Forty / Sidewinder 2",
+   0.5
+  ],
+  [
+   "Sidewinder",
+   "Back Forty / Sidewinder 2",
+   "Sidewinder 2",
+   0.8
+  ],
+  [
+   "Sidewinder",
+   "Sidewinder 2",
+   "Sidewinder / Catherine's Out Run",
+   1.0
+  ],
+  [
+   "Race Course Saddle",
+   "Jake's",
+   "No name / Race Course Saddle",
+   0.5
+  ],
+  [
+   "Race Course Saddle",
+   "No name / Race Course Saddle",
+   "Santa Clause / Race Course Saddle",
+   0.5
+  ],
+  [
+   "Race Course Saddle",
+   "Santa Clause / Race Course Saddle",
+   "Race Course Saddle 2",
+   0.5
+  ],
+  [
+   "Race Course Saddle",
+   "Race Course Saddle 2",
+   "Race Course Saddle",
+   0.5
+  ],
+  [
+   "Race Course Saddle",
+   "Race Course Saddle",
+   "Meadow / Race Course Saddle",
+   0.5
+  ],
+  [
+   "Catherine's Out Run",
+   "Last Chance / Catherine's Out Run",
+   "Sidewinder / Catherine's Out Run",
+   1.9
+  ],
+  [
+   "Catherine's Out Run",
+   "Sidewinder / Catherine's Out Run",
+   "Catherine's Out Run / Over the River",
+   0.6
+  ],
+  [
+   "Saddle Traverse",
+   "Mambo 2",
+   "Spruces / Saddle Traverse",
+   0.9
+  ],
+  [
+   "Saddle Traverse",
+   "Spruces / Saddle Traverse",
+   "Saddle Traverse",
+   1.6
+  ],
+  [
+   "Saddle Traverse",
+   "Saddle Traverse",
+   "Watson Line / Saddle Traverse",
+   0.5
+  ],
+  [
+   "Saddle Traverse",
+   "Watson Line / Saddle Traverse",
+   "Jake's",
+   0.6
+  ],
+  [
+   "Harold's",
+   "Shoulder Traverse / Harold's",
+   "Main Street",
+   0.6
+  ],
+  [
+   "Cabin Hill",
+   "Cabin Hill / Razor Back",
+   "Cabin Hill",
+   0.6
+  ],
+  [
+   "Cabin Hill",
+   "Cabin Hill",
+   "Cabin Hill 2",
+   1.1
+  ],
+  [
+   "Cabin Hill",
+   "Cabin Hill 2",
+   "Big Dipper",
+   2.5
+  ],
+  [
+   "Three Bears",
+   "Unnamed run / Three Bears",
+   "Sleepy Hollow / Three Bears",
+   1.5
+  ],
+  [
+   "Over the River",
+   "Dipsy Doodle",
+   "Catherine's Out Run / Over the River",
+   0.5
+  ],
+  [
+   "Over the River",
+   "Catherine's Out Run / Over the River",
+   "Unnamed run / Over the River",
+   0.7
+  ],
+  [
+   "Over the River",
+   "Unnamed run / Over the River",
+   "Big Dipper 2",
+   0.7
+  ],
+  [
+   "Over the River",
+   "Big Dipper 2",
+   "Supreme bottom",
+   0.5
+  ],
+  [
+   "Johnson's Warm Up",
+   "Johnson's Warm Up / Westward Ho",
+   "Mambo 3",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Rustler Lift top",
+   "Rustler Lift bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Main Street / Unnamed run",
+   "Mambo 4",
+   0.5
+  ],
+  [
+   "Waldron's Way",
+   "Mambo / Waldron's Way",
+   "Waldron's Way / Devil's Way",
+   1.7
+  ],
+  [
+   "Spiney Chutes Area",
+   "Back Forty",
+   "Sidewinder",
+   2.0
+  ],
+  [
+   "Punch Bowl",
+   "Punch Bowl / Westward Ho",
+   "Bear Paw / Punch Bowl",
+   0.9
+  ],
+  [
+   "Punch Bowl",
+   "Bear Paw / Punch Bowl",
+   "Punch Bowl / Collins Face",
+   0.7
+  ],
+  [
+   "Razor Back",
+   "Razor Back / Devil's Elbow",
+   "Cabin Hill / Razor Back",
+   1.6
+  ],
+  [
+   "Nina's Curve",
+   "Meadow",
+   "Nina's Curve / Corkscrew",
+   1.6
+  ],
+  [
+   "Taint",
+   "Mambo 5",
+   "Taint",
+   1.1
+  ],
+  [
+   "Taint",
+   "Taint",
+   "Taint / Aggie's Alley",
+   0.5
+  ],
+  [
+   "Aggie's Alley",
+   "Wildcat top",
+   "Aggie's Alley",
+   1.0
+  ],
+  [
+   "Aggie's Alley",
+   "Aggie's Alley",
+   "Taint / Aggie's Alley",
+   0.5
+  ],
+  [
+   "Aggie's Alley",
+   "Taint / Aggie's Alley",
+   "Aggie's Alley 2",
+   0.8
+  ],
+  [
+   "Aggie's Alley",
+   "Aggie's Alley 2",
+   "Mambo 3",
+   1.3
+  ],
+  [
+   "Aggie's Alley",
+   "Mambo 3",
+   "Mambo / Meadow",
+   0.5
+  ],
+  [
+   "Corkscrew",
+   "Meadow / Race Course Saddle",
+   "Corkscrew",
+   0.5
+  ],
+  [
+   "Corkscrew",
+   "Corkscrew",
+   "Nina's Curve / Corkscrew",
+   1.0
+  ],
+  [
+   "Corkscrew",
+   "Nina's Curve / Corkscrew",
+   "Collins bottom",
+   0.6
+  ],
+  [
+   "Challenger",
+   "Challenger / Sunset",
+   "Supreme top",
+   0.5
+  ],
+  [
+   "Challenger",
+   "Supreme top",
+   "Challenger",
+   0.7
+  ],
+  [
+   "Challenger",
+   "Challenger",
+   "Erosion Gullies / Sleepy Hollow",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Sidewinder 2",
+   "Unnamed run / Over the River",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Sunnyside bottom",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "North Rustler / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "North Rustler / Unnamed run",
+   "MG GMZ bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "MG GMZ bottom",
+   "Snowpine Lift bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Snowpine Lift bottom",
+   "Rustler Lift bottom",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Rustler Lift bottom",
+   "180° Bend / Unnamed run",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "180° Bend / Unnamed run",
+   "Transfer Tow bottom",
+   0.9
+  ],
+  [
+   "Cecret Saddle",
+   "Cecret Saddle / Sugar Bowl",
+   "Cabin Hill",
+   2.5
+  ],
+  [
+   "Spring Valley",
+   "Mambo 6",
+   "Mambo / Meadow",
+   4.2
+  ],
+  [
+   "Blitz",
+   "Taint",
+   "Mambo",
+   0.7
+  ],
+  [
+   "Blitz",
+   "Mambo",
+   "Mambo 7",
+   0.5
+  ],
+  [
+   "Stone Crusher",
+   "Stone Crusher / High Traverse",
+   "Race Course Saddle",
+   1.7
+  ],
+  [
+   "No. 9 Express",
+   "No. 9 Express / Big Dipper",
+   "Erosion Gullies",
+   0.8
+  ],
+  [
+   "Columbine",
+   "High Traverse (Upper Level) 3",
+   "Saddle Traverse",
+   1.2
+  ],
+  [
+   "Columbine",
+   "Saddle Traverse",
+   "Watson Line / Saddle Traverse",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Main Street 2",
+   "Aggie's Alley",
+   1.1
+  ],
+  [
+   "Stimulation",
+   "Wildcat top",
+   "Aggie's Alley 2",
+   0.7
+  ],
+  [
+   "Amen",
+   "Amen / Devil's Elbow",
+   "Amen",
+   0.5
+  ],
+  [
+   "Amen",
+   "Amen",
+   "Amen / Rollercoaster",
+   3.2
+  ],
+  [
+   "Summer Road (Uphill Acces)",
+   "Unnamed run / Patsy Marley",
+   "Crooked Mile / Summer Road (Uphill Acces)",
+   0.6
+  ],
+  [
+   "Summer Road (Uphill Acces)",
+   "Crooked Mile / Summer Road (Uphill Acces)",
+   "Catherine's Out Run / Over the River",
+   2.3
+  ],
+  [
+   "Summer Road (Uphill Acces)",
+   "Catherine's Out Run / Over the River",
+   "Sidewinder / Catherine's Out Run",
+   0.5
+  ],
+  [
+   "Summer Road (Uphill Acces)",
+   "Sidewinder / Catherine's Out Run",
+   "Summer Road (Uphill Acces) / Rock 'n Roll",
+   1.2
+  ],
+  [
+   "Alf's High Rustler",
+   "Alf's High Rustler / Unnamed run",
+   "Jake's / Alf's High Rustler",
+   0.9
+  ],
+  [
+   "Alf's High Rustler",
+   "Jake's / Alf's High Rustler",
+   "Lower Rustler / 180° Bend",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Alf's High Rustler / Unnamed run",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 3",
+   "Rustler Lift bottom",
+   3.1
+  ],
+  [
+   "Jitterbug",
+   "Jitterbug / High Traverse",
+   "Race Course Saddle 2",
+   1.6
+  ],
+  [
+   "Strawberry",
+   "Mambo 8",
+   "Mambo 5",
+   1.2
+  ],
+  [
+   "Strawberry",
+   "Mambo 5",
+   "Mambo 9",
+   0.5
+  ],
+  [
+   "Rock 'n Roll, Big Dipper",
+   "Rock 'n Roll / Rock 'n Roll, Big Dipper",
+   "Big Dipper / Rock 'n Roll, Big Dipper",
+   0.5
+  ],
+  [
+   "White Squaw Areae",
+   "Challenger",
+   "White Squaw Areae / Rock 'n Roll",
+   2.5
+  ],
+  [
+   "Collins Face",
+   "Meadow 2",
+   "Punch Bowl / Collins Face",
+   0.6
+  ],
+  [
+   "Collins Face",
+   "Punch Bowl / Collins Face",
+   "Bear Paw / Rock Gully",
+   1.8
+  ],
+  [
+   "Collins Face",
+   "Bear Paw / Rock Gully",
+   "Wildcat bottom",
+   0.5
+  ],
+  [
+   "Collins Face",
+   "Wildcat bottom",
+   "Collins bottom",
+   0.5
+  ],
+  [
+   "Race Course",
+   "High Traverse (Upper Level) 4",
+   "Sunspot / Race Course",
+   1.9
+  ],
+  [
+   "Race Course",
+   "Sunspot / Race Course",
+   "Saddle Traverse",
+   0.5
+  ],
+  [
+   "Sugar Bowl",
+   "Sugarloaf top",
+   "Gravy Boat / Sugar Bowl",
+   0.5
+  ],
+  [
+   "Sugar Bowl",
+   "Gravy Boat / Sugar Bowl",
+   "Cecret Saddle / Sugar Bowl",
+   1.0
+  ],
+  [
+   "Vicky's",
+   "Vicky's / Big Dipper",
+   "Rock 'n Roll / Rock 'n Roll, Big Dipper",
+   0.5
+  ],
+  [
+   "Vicky's",
+   "Rock 'n Roll / Rock 'n Roll, Big Dipper",
+   "Big Dipper / Rock 'n Roll, Big Dipper",
+   0.5
+  ],
+  [
+   "Lone Pine",
+   "Jake's 2",
+   "Corkscrew",
+   1.4
+  ],
+  [
+   "Sunset",
+   "Challenger / Sunset",
+   "Sidewinder / Sunset",
+   0.6
+  ],
+  [
+   "Sunset",
+   "Sidewinder / Sunset",
+   "Sunset",
+   0.7
+  ],
+  [
+   "Sunset",
+   "Sunset",
+   "Last Chance / Sunset",
+   0.9
+  ],
+  [
+   "Pine Glade",
+   "Challenger / Sunset",
+   "Supreme top",
+   0.5
+  ],
+  [
+   "Pine Glade",
+   "Supreme top",
+   "Pine Glade",
+   0.5
+  ],
+  [
+   "Pine Glade",
+   "Pine Glade",
+   "Sidewinder 3",
+   1.0
+  ],
+  [
+   "Hourglass Chute",
+   "Hourglass Chute / Unnamed run",
+   "Eagle's Nest / Hourglass Chute",
+   2.2
+  ],
+  [
+   "Hourglass Chute",
+   "Eagle's Nest / Hourglass Chute",
+   "Snowpine Lift bottom",
+   0.7
+  ],
+  [
+   "High Nowhere",
+   "North Rustler / High Nowhere",
+   "Unnamed run 2",
+   1.8
+  ],
+  [
+   "Westward Ho",
+   "Wildcat top",
+   "Johnson's Warm Up / Westward Ho",
+   0.7
+  ],
+  [
+   "Westward Ho",
+   "Johnson's Warm Up / Westward Ho",
+   "Punch Bowl / Westward Ho",
+   0.7
+  ],
+  [
+   "Westward Ho",
+   "Punch Bowl / Westward Ho",
+   "Rock Gully / Wildcat Face",
+   0.5
+  ],
+  [
+   "Westward Ho",
+   "Rock Gully / Wildcat Face",
+   "Wildcat Bowl / Westward Ho",
+   0.9
+  ],
+  [
+   "Westward Ho",
+   "Wildcat Bowl / Westward Ho",
+   "Wildcat Bowl / Westward Ho 2",
+   2.0
+  ],
+  [
+   "Westward Ho",
+   "Wildcat Bowl / Westward Ho 2",
+   "Wildcat Face",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Snowpine Lift top",
+   "Snowpine Lift bottom",
+   0.6
+  ],
+  [
+   "Rock 'n Roll",
+   "Big Dipper / Rock 'n Roll, Big Dipper",
+   "Rock 'n Roll 3",
+   0.5
+  ],
+  [
+   "Rock 'n Roll",
+   "Rock 'n Roll 3",
+   "White Squaw Areae / Rock 'n Roll",
+   0.5
+  ],
+  [
+   "Rock 'n Roll",
+   "White Squaw Areae / Rock 'n Roll",
+   "Rock 'n Roll 2",
+   0.5
+  ],
+  [
+   "Rock 'n Roll",
+   "Rock 'n Roll 2",
+   "Rock 'n Roll",
+   0.5
+  ],
+  [
+   "Rock 'n Roll",
+   "Rock 'n Roll",
+   "Summer Road (Uphill Acces) / Rock 'n Roll",
+   0.7
+  ],
+  [
+   "Rock 'n Roll",
+   "Summer Road (Uphill Acces) / Rock 'n Roll",
+   "Unnamed run / Rock 'n Roll",
+   0.5
+  ],
+  [
+   "Rock 'n Roll",
+   "Unnamed run / Rock 'n Roll",
+   "Big Dipper",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Supreme top",
+   "Challenger / Sunset",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Challenger / Sunset",
+   "No. 9 Express / Big Dipper",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "No. 9 Express / Big Dipper",
+   "Unnamed run / Upper Big Dipper",
+   0.6
+  ],
+  [
+   "Big Dipper",
+   "Unnamed run / Upper Big Dipper",
+   "Rock 'n Roll / Upper Big Dipper",
+   2.2
+  ],
+  [
+   "Big Dipper",
+   "Rock 'n Roll / Upper Big Dipper",
+   "Unnamed run / Three Bears",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Unnamed run / Three Bears",
+   "Sleepy Hollow / Three Bears",
+   2.0
+  ],
+  [
+   "Big Dipper",
+   "Sleepy Hollow / Three Bears",
+   "Vicky's / Big Dipper",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Vicky's / Big Dipper",
+   "Rock 'n Roll / Rock 'n Roll, Big Dipper",
+   0.6
+  ],
+  [
+   "Supreme Challenge",
+   "Pine Glade",
+   "Hammerhead / Supreme Challenge",
+   1.0
+  ],
+  [
+   "Supreme Challenge",
+   "Hammerhead / Supreme Challenge",
+   "Sidewinder 4",
+   0.8
+  ],
+  [
+   "Supreme Challenge",
+   "Sidewinder 4",
+   "Hammerhead / Supreme Challenge 2",
+   1.0
+  ],
+  [
+   "Supreme Challenge",
+   "Hammerhead / Supreme Challenge 2",
+   "Rock 'n Roll",
+   0.5
+  ],
+  [
+   "Rollercoaster",
+   "Rollercoaster / Devil's Elbow",
+   "Amen / Rollercoaster",
+   3.0
+  ],
+  [
+   "Rollercoaster",
+   "Amen / Rollercoaster",
+   "Rollercoaster",
+   0.5
+  ],
+  [
+   "Rollercoaster",
+   "Rollercoaster",
+   "Sugarloaf bottom",
+   0.5
+  ],
+  [
+   "Snowshoe Hill",
+   "Last Chance",
+   "Snowshoe Hill",
+   1.4
+  ],
+  [
+   "Snowshoe Hill",
+   "Snowshoe Hill",
+   "Last Chance / Catherine's Out Run",
+   1.5
+  ],
+  [
+   "Upper Sleepy Hollow",
+   "Supreme top",
+   "Erosion Gullies",
+   0.9
+  ],
+  [
+   "Upper Sleepy Hollow",
+   "Erosion Gullies",
+   "Erosion Gullies / Sleepy Hollow",
+   0.5
+  ],
+  [
+   "So Long",
+   "Sunset",
+   "Snowshoe Hill",
+   1.5
+  ],
+  [
+   "Chartreuse",
+   "Amen",
+   "Chartreuse",
+   0.9
+  ],
+  [
+   "Chartreuse",
+   "Chartreuse",
+   "Chartreuse 2",
+   1.6
+  ],
+  [
+   "Chartreuse",
+   "Chartreuse 2",
+   "Sugarloaf bottom",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Crooked Mile",
+   "Sunnyside bottom",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Sunnyside bottom",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "North Rustler / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "North Rustler / Unnamed run",
+   "MG GMZ bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "MG GMZ bottom",
+   "Snowpine Lift bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Snowpine Lift bottom",
+   "Rustler Lift bottom",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Rustler Lift bottom",
+   "180° Bend / Unnamed run",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "180° Bend / Unnamed run",
+   "Transfer Tow bottom",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Transfer Tow bottom",
+   "Collins bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Alf's High Rustler / Unnamed run",
+   "Hourglass Chute / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Hourglass Chute / Unnamed run",
+   "Eagle's Nest / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Eagle's Nest / Unnamed run",
+   "North Rustler / High Nowhere",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "North Rustler / High Nowhere",
+   "Snowpine Lift bottom",
+   2.7
+  ],
+  [
+   "Extrovert",
+   "Chartreuse",
+   "Rollercoaster",
+   2.6
+  ],
+  [
+   "High Main Street",
+   "Mambo 10",
+   "Main Street / Unnamed run",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Sidewinder 4",
+   "Hammerhead / Supreme Challenge 2",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Hammerhead / Supreme Challenge 2",
+   "Rock 'n Roll 2",
+   0.5
+  ],
+  [
+   "Regal Chute",
+   "Unnamed run 3",
+   "Jake's / Alf's High Rustler",
+   0.8
+  ],
+  [
+   "Regal Chute",
+   "Jake's / Alf's High Rustler",
+   "Lower Rustler / 180° Bend",
+   0.5
+  ],
+  [
+   "Regal Chute",
+   "Lower Rustler / 180° Bend",
+   "Regal Chute / Rustler Four",
+   0.7
+  ],
+  [
+   "Annie's",
+   "Annie's / High Traverse",
+   "Jake's",
+   0.9
+  ],
+  [
+   "High Traverse",
+   "Collins top",
+   "High Traverse (Upper Level) / High Traverse",
+   0.6
+  ],
+  [
+   "High Traverse",
+   "High Traverse (Upper Level) / High Traverse",
+   "Spruces / High Traverse (Upper Level)",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "Spruces / High Traverse (Upper Level)",
+   "High Traverse (Upper Level) 4",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "High Traverse (Upper Level) 4",
+   "Sunspot / High Traverse (Upper Level)",
+   0.9
+  ],
+  [
+   "High Traverse",
+   "Sunspot / High Traverse (Upper Level)",
+   "High Traverse (Upper Level) 5",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "High Traverse (Upper Level) 5",
+   "High Traverse (Upper Level) 3",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "High Traverse (Upper Level) 3",
+   "High Traverse (Upper Level) 2",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "High Traverse (Upper Level) 2",
+   "Annie's / High Traverse",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "Annie's / High Traverse",
+   "Jake's / High Traverse",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "Jake's / High Traverse",
+   "No name / High Traverse",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "No name / High Traverse",
+   "Santa Clause / High Traverse",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "Santa Clause / High Traverse",
+   "Jitterbug / High Traverse",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "Jitterbug / High Traverse",
+   "Stone Crusher / High Traverse",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "Stone Crusher / High Traverse",
+   "Alf's High Rustler / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Transfer Tow bottom",
+   "Collins bottom",
+   0.5
+  ],
+  [
+   "Vicky's",
+   "Sleepy Hollow",
+   "Rock 'n Roll 3",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "Upper Big Dipper",
+   0.5
+  ],
+  [
+   "Eddie's High Nowhere",
+   "Eddie's High Nowhere / Unnamed run",
+   "Home Run",
+   4.3
+  ],
+  [
+   "Unnamed run",
+   "High Traverse (Upper Level) 5",
+   "Eddie's High Nowhere / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Eddie's High Nowhere / Unnamed run",
+   "High Traverse (Upper Level) 3",
+   0.5
+  ],
+  [
+   "Rustler Four",
+   "Alf's High Rustler / Unnamed run",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Rustler Four",
+   "Unnamed run 3",
+   "Regal Chute / Rustler Four",
+   1.8
+  ],
+  [
+   "Rustler Four",
+   "Regal Chute / Rustler Four",
+   "180° Bend",
+   0.5
+  ],
+  [
+   "Devil's Way",
+   "Collins top",
+   "Mambo / Waldron's Way",
+   0.5
+  ],
+  [
+   "Devil's Way",
+   "Mambo / Waldron's Way",
+   "Waldron's Way / Devil's Way",
+   1.1
+  ],
+  [
+   "Devil's Way",
+   "Waldron's Way / Devil's Way",
+   "Keyhole Gulch / Devil's Way",
+   0.7
+  ],
+  [
+   "Devil's Way",
+   "Keyhole Gulch / Devil's Way",
+   "Running Dog Nose / Devil's Way",
+   0.5
+  ],
+  [
+   "East Baldy Traverse",
+   "Sugarloaf top",
+   "Mambo / Waldron's Way",
+   3.3
+  ],
+  [
+   "Ballroom Traverse",
+   "Mambo 10",
+   "Shoulder Traverse / Harold's",
+   1.8
+  ],
+  [
+   "Devil's Elbow",
+   "Sugarloaf top",
+   "Gravy Boat / Sugar Bowl",
+   0.5
+  ],
+  [
+   "Devil's Elbow",
+   "Gravy Boat / Sugar Bowl",
+   "Gravy Boat / Devil's Elbow",
+   0.8
+  ],
+  [
+   "Devil's Elbow",
+   "Gravy Boat / Devil's Elbow",
+   "Cecret Saddle / Sugar Bowl",
+   0.9
+  ],
+  [
+   "Devil's Elbow",
+   "Cecret Saddle / Sugar Bowl",
+   "Razor Back / Devil's Elbow",
+   0.5
+  ],
+  [
+   "Devil's Elbow",
+   "Razor Back / Devil's Elbow",
+   "Keyhole Gulch / Devil's Way",
+   0.5
+  ],
+  [
+   "Devil's Elbow",
+   "Keyhole Gulch / Devil's Way",
+   "Razor Back / Devil's Elbow",
+   0.5
+  ],
+  [
+   "Devil's Elbow",
+   "Razor Back / Devil's Elbow",
+   "Running Dog Nose / Devil's Way",
+   0.5
+  ],
+  [
+   "Devil's Elbow",
+   "Running Dog Nose / Devil's Way",
+   "Amen / Devil's Elbow",
+   0.8
+  ],
+  [
+   "Devil's Elbow",
+   "Amen / Devil's Elbow",
+   "Cabin Hill / Razor Back",
+   0.7
+  ],
+  [
+   "Devil's Elbow",
+   "Cabin Hill / Razor Back",
+   "Rollercoaster / Devil's Elbow",
+   0.5
+  ],
+  [
+   "Devil's Elbow",
+   "Rollercoaster / Devil's Elbow",
+   "Devil's Elbow",
+   2.9
+  ],
+  [
+   "Devil's Elbow",
+   "Devil's Elbow",
+   "Sugarloaf bottom",
+   1.4
+  ],
+  [
+   "Cecret Cutoff",
+   "Devil's Elbow",
+   "Big Dipper 2",
+   0.8
+  ],
+  [
+   "Lower Sunspot",
+   "Watson Line / Saddle Traverse",
+   "Mambo / Meadow",
+   1.4
+  ],
+  [
+   "Glory Gulch",
+   "Keyhole Gulch / Running Dog Nose",
+   "Chartreuse 2",
+   2.3
+  ],
+  [
+   "Sunnyside",
+   "Sunnyside top",
+   "Race Hill / Sunnyside",
+   0.6
+  ],
+  [
+   "Sunnyside",
+   "Race Hill / Sunnyside",
+   "Dipsy Doodle 2",
+   1.1
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Sunnyside top",
+   "Sugar Way / Dipsy Doodle",
+   3.2
+  ],
+  [
+   "walk",
+   "Sunnyside top",
+   "Unnamed run / Patsy Marley",
+   3.3
+  ],
+  [
+   "walk",
+   "Sunnyside top",
+   "Race Hill / Sunnyside",
+   2.1
+  ],
+  [
+   "walk",
+   "Sunnyside top",
+   "Crooked Mile / Summer Road (Uphill Acces)",
+   2.3
+  ],
+  [
+   "walk",
+   "Sunnyside top",
+   "Catherine's Out Run / Over the River",
+   2.5
+  ],
+  [
+   "walk",
+   "Sunnyside top",
+   "Dipsy Doodle",
+   1.3
+  ],
+  [
+   "walk",
+   "Sunnyside top",
+   "Crooked Mile 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Sugar Way / Dipsy Doodle",
+   "Supreme bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Sugar Way / Dipsy Doodle",
+   "Sugarloaf bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Big Dipper / Home Run",
+   "Supreme bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Big Dipper / Home Run",
+   "Sugarloaf bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Over the River",
+   "Supreme bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Westward Ho 2",
+   "Wildcat bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Upper Big Dipper",
+   "Supreme top",
+   3.1
+  ],
+  [
+   "walk",
+   "Mambo / Waldron's Way",
+   "Collins top",
+   0.8
+  ],
+  [
+   "walk",
+   "Shoulder Traverse",
+   "Taint / Aggie's Alley",
+   2.3
+  ],
+  [
+   "walk",
+   "Shoulder Traverse",
+   "Wildcat top",
+   3.3
+  ],
+  [
+   "walk",
+   "Shoulder Traverse",
+   "Taint",
+   3.4
+  ],
+  [
+   "walk",
+   "Shoulder Traverse",
+   "Aggie's Alley",
+   1.7
+  ],
+  [
+   "walk",
+   "Supreme top",
+   "Unnamed run / Upper Big Dipper",
+   3.1
+  ],
+  [
+   "walk",
+   "Supreme top",
+   "Back Forty / Sidewinder",
+   3.0
+  ],
+  [
+   "walk",
+   "Supreme top",
+   "Sidewinder / Sunset",
+   2.3
+  ],
+  [
+   "walk",
+   "Supreme top",
+   "Challenger / Sunset",
+   0.9
+  ],
+  [
+   "walk",
+   "Supreme top",
+   "No. 9 Express / Big Dipper",
+   1.3
+  ],
+  [
+   "walk",
+   "Supreme top",
+   "Erosion Gullies",
+   3.3
+  ],
+  [
+   "walk",
+   "Supreme top",
+   "Challenger",
+   2.1
+  ],
+  [
+   "walk",
+   "Supreme top",
+   "Pine Glade",
+   2.0
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Hourglass Chute",
+   "Rustler Lift bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Hourglass Chute",
+   "Snowpine Lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Hourglass Chute",
+   "MG GMZ bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Bear Paw / Rock Gully",
+   "Collins bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Bear Paw / Rock Gully",
+   "Transfer Tow bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Bear Paw / Rock Gully",
+   "Wildcat bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Collins bottom",
+   "Transfer Tow bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Collins bottom",
+   "Wildcat bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Collins bottom",
+   "Nina's Curve / Corkscrew",
+   1.4
+  ],
+  [
+   "walk",
+   "Alta Lodge Tow top",
+   "Collins bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Alta Lodge Tow top",
+   "Transfer Tow bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Alta Lodge Tow top",
+   "180° Bend / Unnamed run",
+   2.8
+  ],
+  [
+   "walk",
+   "Transfer Tow bottom",
+   "Collins bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Transfer Tow bottom",
+   "Wildcat bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Transfer Tow bottom",
+   "180° Bend / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "High Traverse (Upper Level)",
+   "Jake's / High Traverse",
+   3.3
+  ],
+  [
+   "walk",
+   "High Traverse (Upper Level)",
+   "High Traverse (Upper Level) 2",
+   1.7
+  ],
+  [
+   "walk",
+   "High Traverse (Upper Level)",
+   "High Traverse (Upper Level) 3",
+   1.9
+  ],
+  [
+   "walk",
+   "High Traverse (Upper Level)",
+   "Annie's / High Traverse",
+   2.7
+  ],
+  [
+   "walk",
+   "Sugarloaf top",
+   "Gravy Boat / Sugar Bowl",
+   0.6
+  ],
+  [
+   "walk",
+   "Sugarloaf top",
+   "Gravy Boat / Devil's Elbow",
+   2.5
+  ],
+  [
+   "walk",
+   "Gravy Boat / Sugar Bowl",
+   "Sugarloaf top",
+   0.6
+  ],
+  [
+   "walk",
+   "Wildcat bottom",
+   "Collins bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Wildcat bottom",
+   "Transfer Tow bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Wildcat bottom",
+   "Nina's Curve / Corkscrew",
+   1.3
+  ],
+  [
+   "walk",
+   "Wildcat bottom",
+   "Wildcat Face",
+   1.3
+  ],
+  [
+   "walk",
+   "Sunnyside bottom",
+   "North Rustler / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Sunnyside bottom",
+   "Unnamed run 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Sunnyside bottom",
+   "MG GMZ bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Sunnyside bottom",
+   "MG GMZ top",
+   1.1
+  ],
+  [
+   "walk",
+   "Sunnyside bottom",
+   "Little GMZ bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Sunnyside bottom",
+   "Little GMZ top",
+   2.1
+  ],
+  [
+   "walk",
+   "180° Bend / Unnamed run",
+   "Transfer Tow bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "180° Bend / Unnamed run",
+   "Rustler Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "North Rustler / Unnamed run",
+   "Sunnyside bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "North Rustler / Unnamed run",
+   "Snowpine Lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "North Rustler / Unnamed run",
+   "MG GMZ bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "North Rustler / Unnamed run",
+   "MG GMZ top",
+   1.5
+  ],
+  [
+   "walk",
+   "North Rustler / Unnamed run",
+   "Little GMZ bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "North Rustler / Unnamed run",
+   "Little GMZ top",
+   1.6
+  ],
+  [
+   "walk",
+   "Sidewinder / Sunset",
+   "Supreme top",
+   2.3
+  ],
+  [
+   "walk",
+   "Dipsy Doodle",
+   "Sunnyside top",
+   1.3
+  ],
+  [
+   "walk",
+   "Supreme bottom",
+   "Sugar Way / Dipsy Doodle",
+   2.4
+  ],
+  [
+   "walk",
+   "Supreme bottom",
+   "Big Dipper / Home Run",
+   1.9
+  ],
+  [
+   "walk",
+   "Supreme bottom",
+   "Amen / Rollercoaster",
+   2.2
+  ],
+  [
+   "walk",
+   "Supreme bottom",
+   "Sugarloaf bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Supreme bottom",
+   "Rollercoaster",
+   2.6
+  ],
+  [
+   "walk",
+   "Supreme bottom",
+   "Big Dipper 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Supreme bottom",
+   "Dipsy Doodle 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "180° Bend / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "Rustler Lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "Snowpine Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "Snowpine Lift top",
+   2.7
+  ],
+  [
+   "walk",
+   "Rustler Lift bottom",
+   "180° Bend / Unnamed run",
+   2.2
+  ],
+  [
+   "walk",
+   "Rustler Lift bottom",
+   "Snowpine Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Nina's Curve / Corkscrew",
+   "Collins bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Nina's Curve / Corkscrew",
+   "Transfer Tow bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Nina's Curve / Corkscrew",
+   "Wildcat bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Johnson's Warm Up / Westward Ho",
+   3.0
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Taint / Aggie's Alley",
+   2.9
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Taint",
+   3.3
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Aggie's Alley 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Challenger / Sunset",
+   "Supreme top",
+   0.9
+  ],
+  [
+   "walk",
+   "No. 9 Express / Big Dipper",
+   "Supreme top",
+   1.3
+  ],
+  [
+   "walk",
+   "Amen / Rollercoaster",
+   "Supreme bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Amen / Rollercoaster",
+   "Sugarloaf bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Snowpine Lift bottom",
+   "North Rustler / Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "Snowpine Lift bottom",
+   "Rustler Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Snowpine Lift bottom",
+   "Unnamed run 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Snowpine Lift bottom",
+   "MG GMZ bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Snowpine Lift bottom",
+   "Little GMZ bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Snowpine Lift bottom",
+   "Little GMZ top",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Sunnyside bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Snowpine Lift bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Snowpine Lift top",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "MG GMZ bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "MG GMZ top",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Little GMZ bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Little GMZ top",
+   1.9
+  ],
+  [
+   "walk",
+   "Wildcat Face",
+   "Collins bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Wildcat Face",
+   "Transfer Tow bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Wildcat Face",
+   "Wildcat bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Snowpine Lift top",
+   "North Rustler / Unnamed run",
+   2.7
+  ],
+  [
+   "walk",
+   "Snowpine Lift top",
+   "Rustler Lift top",
+   2.7
+  ],
+  [
+   "walk",
+   "Snowpine Lift top",
+   "Rustler Lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Snowpine Lift top",
+   "Snowpine Lift bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Snowpine Lift top",
+   "Unnamed run 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Snowpine Lift top",
+   "MG GMZ bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Snowpine Lift top",
+   "MG GMZ top",
+   2.9
+  ],
+  [
+   "walk",
+   "Snowpine Lift top",
+   "Little GMZ bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Snowpine Lift top",
+   "Little GMZ top",
+   1.9
+  ],
+  [
+   "walk",
+   "Sugarloaf bottom",
+   "Big Dipper / Home Run",
+   1.2
+  ],
+  [
+   "walk",
+   "Sugarloaf bottom",
+   "Supreme bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Sugarloaf bottom",
+   "Rollercoaster",
+   1.1
+  ],
+  [
+   "walk",
+   "Sugarloaf bottom",
+   "Dipsy Doodle 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Crooked Mile",
+   "Sunnyside bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Rollercoaster",
+   "Supreme bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Rollercoaster",
+   "Sugarloaf bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Collins top",
+   "Mambo / Waldron's Way",
+   0.8
+  ],
+  [
+   "walk",
+   "Collins top",
+   "Spruces / High Traverse (Upper Level)",
+   2.4
+  ],
+  [
+   "walk",
+   "Collins top",
+   "High Traverse (Upper Level) / High Traverse",
+   1.8
+  ],
+  [
+   "walk",
+   "Collins top",
+   "Mambo 6",
+   3.2
+  ],
+  [
+   "walk",
+   "Collins top",
+   "Mambo 10",
+   1.2
+  ],
+  [
+   "walk",
+   "Crooked Mile 2",
+   "Sunnyside top",
+   0.9
+  ],
+  [
+   "walk",
+   "Devil's Elbow",
+   "Supreme bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Big Dipper 2",
+   "Supreme bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Big Dipper 2",
+   "Sugarloaf bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 2",
+   "Supreme bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 2",
+   "Sugarloaf bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "MG GMZ bottom",
+   "Sunnyside bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "MG GMZ bottom",
+   "North Rustler / Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "MG GMZ bottom",
+   "Snowpine Lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "MG GMZ bottom",
+   "Unnamed run 2",
+   1.5
+  ],
+  [
+   "walk",
+   "MG GMZ bottom",
+   "MG GMZ top",
+   1.7
+  ],
+  [
+   "walk",
+   "MG GMZ bottom",
+   "Little GMZ bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "MG GMZ bottom",
+   "Little GMZ top",
+   1.3
+  ],
+  [
+   "walk",
+   "MG GMZ top",
+   "Sunnyside bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "MG GMZ top",
+   "North Rustler / Unnamed run",
+   1.5
+  ],
+  [
+   "walk",
+   "MG GMZ top",
+   "Snowpine Lift bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "MG GMZ top",
+   "Unnamed run 2",
+   1.2
+  ],
+  [
+   "walk",
+   "MG GMZ top",
+   "Snowpine Lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "MG GMZ top",
+   "MG GMZ bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "MG GMZ top",
+   "Little GMZ bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "MG GMZ top",
+   "Little GMZ top",
+   1.0
+  ],
+  [
+   "walk",
+   "Little GMZ bottom",
+   "Sunnyside bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Little GMZ bottom",
+   "North Rustler / Unnamed run",
+   1.0
+  ],
+  [
+   "walk",
+   "Little GMZ bottom",
+   "Snowpine Lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Little GMZ bottom",
+   "Unnamed run 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Little GMZ bottom",
+   "Snowpine Lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Little GMZ bottom",
+   "MG GMZ bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Little GMZ bottom",
+   "MG GMZ top",
+   1.2
+  ],
+  [
+   "walk",
+   "Little GMZ bottom",
+   "Little GMZ top",
+   0.7
+  ],
+  [
+   "walk",
+   "Little GMZ top",
+   "Sunnyside bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Little GMZ top",
+   "North Rustler / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Little GMZ top",
+   "Snowpine Lift bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Little GMZ top",
+   "Unnamed run 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Little GMZ top",
+   "Snowpine Lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Little GMZ top",
+   "MG GMZ bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Little GMZ top",
+   "MG GMZ top",
+   1.0
+  ],
+  [
+   "walk",
+   "Little GMZ top",
+   "Little GMZ bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Dipsy Doodle",
+   "Sugar Way / Dipsy Doodle",
+   4.5
+  ],
+  [
+   "walk",
+   "Dipsy Doodle",
+   "Unnamed run / Patsy Marley",
+   4.6
+  ],
+  [
+   "walk",
+   "Dipsy Doodle",
+   "Race Hill / Sunnyside",
+   3.4
+  ],
+  [
+   "walk",
+   "Dipsy Doodle",
+   "Crooked Mile / Summer Road (Uphill Acces)",
+   3.6
+  ],
+  [
+   "walk",
+   "Dipsy Doodle",
+   "Catherine's Out Run / Over the River",
+   3.9
+  ],
+  [
+   "walk",
+   "Dipsy Doodle",
+   "Crooked Mile 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Crooked Mile 2",
+   "Sugar Way / Dipsy Doodle",
+   4.1
+  ],
+  [
+   "walk",
+   "Crooked Mile 2",
+   "Unnamed run / Patsy Marley",
+   4.2
+  ],
+  [
+   "walk",
+   "Crooked Mile 2",
+   "Race Hill / Sunnyside",
+   3.0
+  ],
+  [
+   "walk",
+   "Crooked Mile 2",
+   "Crooked Mile / Summer Road (Uphill Acces)",
+   3.2
+  ],
+  [
+   "walk",
+   "Crooked Mile 2",
+   "Catherine's Out Run / Over the River",
+   3.5
+  ],
+  [
+   "walk",
+   "Crooked Mile 2",
+   "Dipsy Doodle",
+   2.3
+  ],
+  [
+   "walk",
+   "Sunnyside top",
+   "Supreme bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Sunnyside top",
+   "Sugarloaf bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Dipsy Doodle",
+   "Supreme bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Crooked Mile 2",
+   "Supreme bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Crooked Mile 2",
+   "Sugarloaf bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Upper Big Dipper",
+   "Back Forty / Sidewinder",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Upper Big Dipper",
+   "Sidewinder / Sunset",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Upper Big Dipper",
+   "Challenger / Sunset",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Upper Big Dipper",
+   "No. 9 Express / Big Dipper",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Upper Big Dipper",
+   "Erosion Gullies",
+   6.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Upper Big Dipper",
+   "Challenger",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Upper Big Dipper",
+   "Pine Glade",
+   5.1
+  ],
+  [
+   "walk",
+   "Sidewinder / Sunset",
+   "Unnamed run / Upper Big Dipper",
+   5.5
+  ],
+  [
+   "walk",
+   "Sidewinder / Sunset",
+   "Back Forty / Sidewinder",
+   5.3
+  ],
+  [
+   "walk",
+   "Sidewinder / Sunset",
+   "Challenger / Sunset",
+   3.3
+  ],
+  [
+   "walk",
+   "Sidewinder / Sunset",
+   "No. 9 Express / Big Dipper",
+   3.6
+  ],
+  [
+   "walk",
+   "Sidewinder / Sunset",
+   "Erosion Gullies",
+   5.6
+  ],
+  [
+   "walk",
+   "Sidewinder / Sunset",
+   "Challenger",
+   4.4
+  ],
+  [
+   "walk",
+   "Sidewinder / Sunset",
+   "Pine Glade",
+   4.3
+  ],
+  [
+   "walk",
+   "Challenger / Sunset",
+   "Unnamed run / Upper Big Dipper",
+   4.1
+  ],
+  [
+   "walk",
+   "Challenger / Sunset",
+   "Back Forty / Sidewinder",
+   3.9
+  ],
+  [
+   "walk",
+   "Challenger / Sunset",
+   "Sidewinder / Sunset",
+   3.3
+  ],
+  [
+   "walk",
+   "Challenger / Sunset",
+   "No. 9 Express / Big Dipper",
+   2.2
+  ],
+  [
+   "walk",
+   "Challenger / Sunset",
+   "Erosion Gullies",
+   4.2
+  ],
+  [
+   "walk",
+   "Challenger / Sunset",
+   "Challenger",
+   3.0
+  ],
+  [
+   "walk",
+   "Challenger / Sunset",
+   "Pine Glade",
+   2.9
+  ],
+  [
+   "walk",
+   "No. 9 Express / Big Dipper",
+   "Unnamed run / Upper Big Dipper",
+   4.4
+  ],
+  [
+   "walk",
+   "No. 9 Express / Big Dipper",
+   "Back Forty / Sidewinder",
+   4.3
+  ],
+  [
+   "walk",
+   "No. 9 Express / Big Dipper",
+   "Sidewinder / Sunset",
+   3.6
+  ],
+  [
+   "walk",
+   "No. 9 Express / Big Dipper",
+   "Challenger / Sunset",
+   2.2
+  ],
+  [
+   "walk",
+   "No. 9 Express / Big Dipper",
+   "Erosion Gullies",
+   4.5
+  ],
+  [
+   "walk",
+   "No. 9 Express / Big Dipper",
+   "Challenger",
+   3.4
+  ],
+  [
+   "walk",
+   "No. 9 Express / Big Dipper",
+   "Pine Glade",
+   3.3
+  ],
+  [
+   "walk",
+   "Bear Paw / Rock Gully",
+   "Nina's Curve / Corkscrew",
+   2.8
+  ],
+  [
+   "walk",
+   "Alta Lodge Tow top",
+   "Wildcat bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Alta Lodge Tow top",
+   "Nina's Curve / Corkscrew",
+   4.3
+  ],
+  [
+   "walk",
+   "Transfer Tow bottom",
+   "Nina's Curve / Corkscrew",
+   2.0
+  ],
+  [
+   "walk",
+   "Wildcat Face",
+   "Nina's Curve / Corkscrew",
+   2.6
+  ],
+  [
+   "walk",
+   "Bear Paw / Rock Gully",
+   "180° Bend / Unnamed run",
+   6.6
+  ],
+  [
+   "walk",
+   "Collins bottom",
+   "180° Bend / Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Wildcat bottom",
+   "180° Bend / Unnamed run",
+   5.2
+  ],
+  [
+   "walk",
+   "180° Bend / Unnamed run",
+   "Collins bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "180° Bend / Unnamed run",
+   "Wildcat bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "180° Bend / Unnamed run",
+   "Nina's Curve / Corkscrew",
+   5.1
+  ],
+  [
+   "walk",
+   "Nina's Curve / Corkscrew",
+   "180° Bend / Unnamed run",
+   5.1
+  ],
+  [
+   "walk",
+   "Wildcat Face",
+   "180° Bend / Unnamed run",
+   6.6
+  ],
+  [
+   "walk",
+   "Gravy Boat / Sugar Bowl",
+   "Gravy Boat / Devil's Elbow",
+   3.1
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Westward Ho 2",
+   "Collins bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Westward Ho 2",
+   "Transfer Tow bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Westward Ho 2",
+   "Nina's Curve / Corkscrew",
+   4.2
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Westward Ho 2",
+   "Wildcat Face",
+   4.2
+  ],
+  [
+   "walk",
+   "Bear Paw / Rock Gully",
+   "Wildcat Face",
+   2.8
+  ],
+  [
+   "walk",
+   "Collins bottom",
+   "Wildcat Face",
+   2.8
+  ],
+  [
+   "walk",
+   "Transfer Tow bottom",
+   "Wildcat Face",
+   3.4
+  ],
+  [
+   "walk",
+   "Nina's Curve / Corkscrew",
+   "Wildcat Face",
+   2.6
+  ],
+  [
+   "walk",
+   "Alta Lodge Tow top",
+   "Wildcat Face",
+   5.7
+  ],
+  [
+   "walk",
+   "180° Bend / Unnamed run",
+   "Wildcat Face",
+   6.6
+  ],
+  [
+   "walk",
+   "North Rustler / Unnamed run",
+   "Unnamed run 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "North Rustler / Unnamed run",
+   2.1
+  ],
+  [
+   "walk",
+   "Crooked Mile",
+   "North Rustler / Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Crooked Mile",
+   "Unnamed run 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Crooked Mile",
+   "MG GMZ bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Crooked Mile",
+   "MG GMZ top",
+   3.7
+  ],
+  [
+   "walk",
+   "Crooked Mile",
+   "Little GMZ bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Crooked Mile",
+   "Little GMZ top",
+   4.7
+  ],
+  [
+   "walk",
+   "Alta Lodge Tow top",
+   "Rustler Lift bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Transfer Tow bottom",
+   "Rustler Lift bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "Transfer Tow bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "Collins bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Rustler Lift bottom",
+   "Transfer Tow bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Rustler Lift bottom",
+   "Collins bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Collins bottom",
+   "Rustler Lift bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Sunnyside bottom",
+   "Snowpine Lift bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Snowpine Lift bottom",
+   "Sunnyside bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Snowpine Lift bottom",
+   "MG GMZ top",
+   3.2
+  ],
+  [
+   "walk",
+   "Snowpine Lift top",
+   "Sunnyside bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Crooked Mile",
+   "Snowpine Lift bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Sugar Way / Dipsy Doodle",
+   "Big Dipper / Home Run",
+   4.0
+  ],
+  [
+   "walk",
+   "Sugar Way / Dipsy Doodle",
+   "Amen / Rollercoaster",
+   4.6
+  ],
+  [
+   "walk",
+   "Sugar Way / Dipsy Doodle",
+   "Rollercoaster",
+   3.9
+  ],
+  [
+   "walk",
+   "Sugar Way / Dipsy Doodle",
+   "Big Dipper 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Sugar Way / Dipsy Doodle",
+   "Dipsy Doodle 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Big Dipper / Home Run",
+   "Sugar Way / Dipsy Doodle",
+   4.3
+  ],
+  [
+   "walk",
+   "Big Dipper / Home Run",
+   "Amen / Rollercoaster",
+   4.1
+  ],
+  [
+   "walk",
+   "Big Dipper / Home Run",
+   "Rollercoaster",
+   2.3
+  ],
+  [
+   "walk",
+   "Big Dipper / Home Run",
+   "Big Dipper 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Big Dipper / Home Run",
+   "Dipsy Doodle 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Over the River",
+   "Sugar Way / Dipsy Doodle",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Over the River",
+   "Big Dipper / Home Run",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Over the River",
+   "Amen / Rollercoaster",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Over the River",
+   "Sugarloaf bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Over the River",
+   "Rollercoaster",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Over the River",
+   "Big Dipper 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Over the River",
+   "Dipsy Doodle 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Amen / Rollercoaster",
+   "Sugar Way / Dipsy Doodle",
+   4.6
+  ],
+  [
+   "walk",
+   "Amen / Rollercoaster",
+   "Big Dipper / Home Run",
+   3.5
+  ],
+  [
+   "walk",
+   "Amen / Rollercoaster",
+   "Rollercoaster",
+   3.4
+  ],
+  [
+   "walk",
+   "Amen / Rollercoaster",
+   "Big Dipper 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Amen / Rollercoaster",
+   "Dipsy Doodle 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Sugarloaf bottom",
+   "Sugar Way / Dipsy Doodle",
+   4.8
+  ],
+  [
+   "walk",
+   "Sugarloaf bottom",
+   "Amen / Rollercoaster",
+   4.6
+  ],
+  [
+   "walk",
+   "Sugarloaf bottom",
+   "Big Dipper 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Rollercoaster",
+   "Sugar Way / Dipsy Doodle",
+   5.0
+  ],
+  [
+   "walk",
+   "Rollercoaster",
+   "Big Dipper / Home Run",
+   2.3
+  ],
+  [
+   "walk",
+   "Rollercoaster",
+   "Amen / Rollercoaster",
+   4.8
+  ],
+  [
+   "walk",
+   "Rollercoaster",
+   "Big Dipper 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Rollercoaster",
+   "Dipsy Doodle 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Devil's Elbow",
+   "Sugar Way / Dipsy Doodle",
+   5.6
+  ],
+  [
+   "walk",
+   "Devil's Elbow",
+   "Big Dipper / Home Run",
+   5.2
+  ],
+  [
+   "walk",
+   "Devil's Elbow",
+   "Amen / Rollercoaster",
+   5.4
+  ],
+  [
+   "walk",
+   "Devil's Elbow",
+   "Sugarloaf bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Devil's Elbow",
+   "Rollercoaster",
+   5.9
+  ],
+  [
+   "walk",
+   "Devil's Elbow",
+   "Big Dipper 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Devil's Elbow",
+   "Dipsy Doodle 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Big Dipper 2",
+   "Sugar Way / Dipsy Doodle",
+   3.1
+  ],
+  [
+   "walk",
+   "Big Dipper 2",
+   "Big Dipper / Home Run",
+   2.6
+  ],
+  [
+   "walk",
+   "Big Dipper 2",
+   "Amen / Rollercoaster",
+   2.9
+  ],
+  [
+   "walk",
+   "Big Dipper 2",
+   "Rollercoaster",
+   3.3
+  ],
+  [
+   "walk",
+   "Big Dipper 2",
+   "Dipsy Doodle 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 2",
+   "Sugar Way / Dipsy Doodle",
+   4.5
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 2",
+   "Big Dipper / Home Run",
+   3.3
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 2",
+   "Amen / Rollercoaster",
+   4.3
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 2",
+   "Rollercoaster",
+   3.1
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 2",
+   "Big Dipper 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Sunnyside top",
+   "Big Dipper 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Snowpine Lift top",
+   "180° Bend / Unnamed run",
+   5.6
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Hourglass Chute",
+   "180° Bend / Unnamed run",
+   5.0
+  ],
+  [
+   "walk",
+   "180° Bend / Unnamed run",
+   "Snowpine Lift bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Snowpine Lift bottom",
+   "180° Bend / Unnamed run",
+   4.4
+  ],
+  [
+   "walk",
+   "Shoulder Traverse",
+   "Johnson's Warm Up / Westward Ho",
+   6.3
+  ],
+  [
+   "walk",
+   "Shoulder Traverse",
+   "Aggie's Alley 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Hourglass Chute",
+   "North Rustler / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Hourglass Chute",
+   "Unnamed run 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Hourglass Chute",
+   "Little GMZ bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Hourglass Chute",
+   "Little GMZ top",
+   4.6
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Hourglass Chute",
+   "Sunnyside bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Hourglass Chute",
+   "MG GMZ top",
+   4.9
+  ],
+  [
+   "walk",
+   "North Rustler / Unnamed run",
+   "Rustler Lift bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "North Rustler / Unnamed run",
+   "180° Bend / Unnamed run",
+   6.3
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "North Rustler / Unnamed run",
+   5.0
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "Unnamed run 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "MG GMZ bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "Little GMZ bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "Little GMZ top",
+   4.6
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "Sunnyside bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Rustler Lift top",
+   "MG GMZ top",
+   5.6
+  ],
+  [
+   "walk",
+   "Rustler Lift bottom",
+   "North Rustler / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Rustler Lift bottom",
+   "Unnamed run 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Rustler Lift bottom",
+   "MG GMZ bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Rustler Lift bottom",
+   "Little GMZ bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Rustler Lift bottom",
+   "Little GMZ top",
+   4.9
+  ],
+  [
+   "walk",
+   "Rustler Lift bottom",
+   "Sunnyside bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Rustler Lift bottom",
+   "MG GMZ top",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Rustler Lift bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "MG GMZ bottom",
+   "Rustler Lift bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "MG GMZ bottom",
+   "180° Bend / Unnamed run",
+   6.0
+  ],
+  [
+   "walk",
+   "MG GMZ top",
+   "Rustler Lift bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Little GMZ bottom",
+   "Rustler Lift bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Little GMZ bottom",
+   "180° Bend / Unnamed run",
+   6.5
+  ],
+  [
+   "walk",
+   "Little GMZ top",
+   "Rustler Lift bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Sunnyside bottom",
+   "Rustler Lift bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "180° Bend / Unnamed run",
+   "North Rustler / Unnamed run",
+   6.3
+  ],
+  [
+   "walk",
+   "180° Bend / Unnamed run",
+   "MG GMZ bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "180° Bend / Unnamed run",
+   "Little GMZ bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Sunnyside bottom",
+   "Snowpine Lift top",
+   3.9
+  ],
+  [
+   "walk",
+   "Snowpine Lift bottom",
+   "Snowpine Lift top",
+   4.1
+  ],
+  [
+   "walk",
+   "MG GMZ bottom",
+   "Snowpine Lift top",
+   2.6
+  ],
+  [
+   "walk",
+   "North Rustler / Unnamed run",
+   "Snowpine Lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Crooked Mile",
+   "Snowpine Lift top",
+   6.5
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Rustler Lift top",
+   6.1
+  ],
+  [
+   "walk",
+   "MG GMZ top",
+   "Rustler Lift top",
+   5.6
+  ],
+  [
+   "walk",
+   "Little GMZ bottom",
+   "Rustler Lift top",
+   4.6
+  ],
+  [
+   "walk",
+   "Little GMZ top",
+   "Rustler Lift top",
+   4.6
+  ],
+  [
+   "walk",
+   "Sunnyside bottom",
+   "Rustler Lift top",
+   6.6
+  ],
+  [
+   "walk",
+   "Mambo / Waldron's Way",
+   "Spruces / High Traverse (Upper Level)",
+   3.2
+  ],
+  [
+   "walk",
+   "Mambo / Waldron's Way",
+   "High Traverse (Upper Level) / High Traverse",
+   2.7
+  ],
+  [
+   "walk",
+   "Mambo / Waldron's Way",
+   "Mambo 6",
+   4.0
+  ],
+  [
+   "walk",
+   "Mambo / Waldron's Way",
+   "Mambo 10",
+   2.0
+  ],
+  [
+   "walk",
+   "North Rustler / Unnamed run",
+   "Rustler Lift top",
+   5.6
+  ],
+  [
+   "walk",
+   "Snowpine Lift bottom",
+   "Rustler Lift top",
+   6.8
+  ],
+  [
+   "walk",
+   "MG GMZ bottom",
+   "Rustler Lift top",
+   5.3
+  ],
+  [
+   "walk",
+   "Eagle's Nest / Hourglass Chute",
+   "Snowpine Lift top",
+   5.9
+  ],
+  [
+   "walk",
+   "Rustler Lift bottom",
+   "Snowpine Lift top",
+   6.3
+  ]
+ ],
+ "base": "Collins bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Utah",
+  "total_lifts": "12",
+  "downhill_trails": "178",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

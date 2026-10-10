@@ -471,6 +471,11 @@
    -293,
    970.4
   ],
+  "Upper Kadenwood Trail": [
+   -4269,
+   -22,
+   858.8
+  ],
   "Unnamed run 2": [
    620,
    2186,
@@ -560,6 +565,16 @@
    2339,
    883,
    1883.6
+  ],
+  "Bagger 1": [
+   2393,
+   1455,
+   1837.9
+  ],
+  "Bagger 1 2": [
+   2399,
+   1641,
+   1760.7
   ],
   "Freefall": [
    858,
@@ -806,6 +821,11 @@
    -2225,
    1784.2
   ],
+  "Glacier Bowl": [
+   -1433,
+   -3270,
+   2046.6
+  ],
   "Glacier Bowl / The Saddle": [
    -1571,
    -3109,
@@ -900,6 +920,11 @@
    1834,
    1314,
    1793.2
+  ],
+  "Kadenwood": [
+   -4283,
+   189,
+   850.4
   ],
   "Peak to Creek - Lower": [
    -4008,
@@ -1466,6 +1491,11 @@
    1175,
    1021.2
   ],
+  "Staircase": [
+   2280,
+   1582,
+   1770.7
+  ],
   "Staircase / Jersey Cream": [
    2096,
    2021,
@@ -1661,6 +1691,11 @@
    2450,
    758.5
   ],
+  "Jam Tart": [
+   -1933,
+   2742,
+   693.6
+  ],
   "Unnamed run / Upper Whiskey Jack": [
    -1495,
    -1214,
@@ -1675,6 +1710,11 @@
    1346,
    1009,
    1672.7
+  ],
+  "Whistler Creek Ridge": [
+   -4412,
+   28,
+   825.0
   ],
   "Peak to Creek - Lower 2": [
    -4211,
@@ -2096,6 +2136,11 @@
    2910,
    762.1
   ],
+  "Glacier Bowl 2": [
+   -1525,
+   -3311,
+   2053.9
+  ],
   "The Saddle 4": [
    -1566,
    -3198,
@@ -2481,6 +2526,11 @@
    2563,
    1154.5
   ],
+  "Coyote Bumps": [
+   2616,
+   1446,
+   1863.3
+  ],
   "Glacier Drive 6": [
    2638,
    1542,
@@ -2715,6 +2765,11 @@
    -4157,
    755,
    672.8
+  ],
+  "Whistler Creek Ski Out": [
+   -4324,
+   942,
+   650.7
   ],
   "Lower Kadenwood Trail / Dave Murray Downhill - Lower": [
    -3028,
@@ -3729,6 +3784,12 @@
    16.0
   ],
   [
+   "Blackcomb Gondola Upper",
+   "Blackcomb Gondola Upper top",
+   "Blackcomb Gondola Upper bottom",
+   16.0
+  ],
+  [
    "Symphony Express",
    "Symphony Express bottom",
    "Symphony Express top",
@@ -3747,9 +3808,21 @@
    16.0
   ],
   [
+   "Blackcomb Gondola Lower",
+   "Blackcomb Gondola Upper bottom",
+   "Blackcomb Gondola Lower bottom",
+   16.0
+  ],
+  [
    "Whistler Village Gondola Upper",
    "Whistler Village Gondola Upper bottom",
    "Whistler Village Gondola Upper top",
+   21.0
+  ],
+  [
+   "Whistler Village Gondola Upper",
+   "Whistler Village Gondola Upper top",
+   "Whistler Village Gondola Upper bottom",
    21.0
   ],
   [
@@ -3771,9 +3844,21 @@
    10.0
   ],
   [
+   "Excalibur Gondola Upper",
+   "Excalibur Gondola Upper top",
+   "Excalibur Gondola Upper bottom",
+   10.0
+  ],
+  [
    "Kadenwood Gondola",
    "Creekside Carpet bottom",
    "Kadenwood Gondola top",
+   9.0
+  ],
+  [
+   "Kadenwood Gondola",
+   "Kadenwood Gondola top",
+   "Creekside Carpet bottom",
    9.0
   ],
   [
@@ -3786,6 +3871,12 @@
    "Fitzsimmons Express, Tsíqten, Sḵwexwnách",
    "Fitzsimmons Express, Tsíqten, Sḵwexwnách bottom",
    "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   9.0
+  ],
+  [
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách bottom",
    9.0
   ],
   [
@@ -3804,6 +3895,12 @@
    "Peak 2 Peak Gondola",
    "Peak 2 Peak Gondola bottom",
    "Peak 2 Peak Gondola top",
+   14.0
+  ],
+  [
+   "Peak 2 Peak Gondola",
+   "Peak 2 Peak Gondola top",
+   "Peak 2 Peak Gondola bottom",
    14.0
   ],
   [
@@ -3837,6 +3934,12 @@
    10.0
   ],
   [
+   "Creekside Gondola, Sq̓útsa ti Tsaw̓ewéca, Ch’it ta Swá7elt",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk bottom",
+   "Creekside Gondola, Sq̓útsa ti Tsaw̓ewéca, Ch’it ta Swá7elt bottom",
+   10.0
+  ],
+  [
    "7th Heaven Express",
    "7th Heaven Express bottom",
    "7th Heaven Express top",
@@ -3846,6 +3949,12 @@
    "Peak Express",
    "Peak Express bottom",
    "Peak Express top",
+   7.0
+  ],
+  [
+   "Peak Express",
+   "Peak Express top",
+   "Peak Express bottom",
    7.0
   ],
   [
@@ -3864,6 +3973,12 @@
    "Whistler Village Gondola Lower",
    "Whistler Village Gondola Lower bottom",
    "Whistler Village Gondola Upper bottom",
+   21.0
+  ],
+  [
+   "Whistler Village Gondola Lower",
+   "Whistler Village Gondola Upper bottom",
+   "Whistler Village Gondola Lower bottom",
    21.0
   ],
   [
@@ -3894,6 +4009,12 @@
    "Excalibur Gondola Lower",
    "Excalibur Gondola Lower bottom",
    "Excalibur Gondola Upper bottom",
+   10.0
+  ],
+  [
+   "Excalibur Gondola Lower",
+   "Excalibur Gondola Upper bottom",
+   "Excalibur Gondola Lower bottom",
    10.0
   ],
   [
@@ -4607,6 +4728,12 @@
    2.6
   ],
   [
+   "Upper Kadenwood Trail",
+   "Upper Kadenwood Trail 2",
+   "Upper Kadenwood Trail",
+   1.9
+  ],
+  [
    "Download Road",
    "Unnamed run 2",
    "Download Road 2",
@@ -4731,6 +4858,12 @@
    "Saudan Couloir",
    "Saudan Couloir / Quasar",
    0.5
+  ],
+  [
+   "Bagger 1",
+   "Bagger 1",
+   "Bagger 1 2",
+   0.7
   ],
   [
    "Undercut",
@@ -5189,6 +5322,12 @@
    0.5
   ],
   [
+   "Glacier Bowl",
+   "Glacier Bowl",
+   "Glacier Bowl / The Saddle",
+   0.8
+  ],
+  [
    "Yellow Brick Road",
    "Base2 Carpet top",
    "Base2 Carpet bottom",
@@ -5331,6 +5470,12 @@
    "Wishbone Connector 2",
    "Wishbone Connector / Wishbone",
    0.5
+  ],
+  [
+   "Kadenwood",
+   "Kadenwood",
+   "Kadenwood 2",
+   1.1
   ],
   [
    "Kadenwood",
@@ -6551,6 +6696,12 @@
    0.5
   ],
   [
+   "Staircase",
+   "Staircase",
+   "Staircase / Jersey Cream",
+   2.1
+  ],
+  [
    "Quasar",
    "Saudan Couloir 2",
    "Quasar",
@@ -7001,6 +7152,12 @@
    0.9
   ],
   [
+   "Jam Tart",
+   "Olympic - Lower",
+   "Jam Tart",
+   1.4
+  ],
+  [
    "Unnamed run",
    "Unnamed run / Upper Whiskey Jack",
    "Emerald Forest / Unnamed run",
@@ -7071,6 +7228,12 @@
    "Last Resort 2",
    "Last Resort / Easy Out",
    0.5
+  ],
+  [
+   "Whistler Creek Ridge",
+   "Whistler Creek Ridge",
+   "Peak to Creek - Lower 2",
+   3.1
   ],
   [
    "Closed Captions",
@@ -8309,6 +8472,12 @@
    0.5
   ],
   [
+   "Glacier Bowl",
+   "Glacier Bowl 2",
+   "The Saddle 4",
+   0.5
+  ],
+  [
    "Northern Lights Connector",
    "Olympic - Lower 3",
    "Northern Lights 3",
@@ -9179,6 +9348,12 @@
    0.5
   ],
   [
+   "Coyote Bumps",
+   "Coyote Bumps",
+   "Glacier Drive 6",
+   0.5
+  ],
+  [
    "Glissando Glades",
    "Rhapsody Bowl / Glissando Glades",
    "Lesser Flute Bowl / Glissando Glades",
@@ -9621,6 +9796,12 @@
    "Apprentice / Strawline",
    "Stoker 4",
    0.6
+  ],
+  [
+   "Whistler Creek Ski Out",
+   "Franz's 7",
+   "Whistler Creek Ski Out",
+   0.9
   ],
   [
    "Lower Kadenwood Trail",
@@ -12147,6 +12328,24 @@
   [
    "walk",
    "Secret Bowl Traverse",
+   "Bagger 1",
+   3.3
+  ],
+  [
+   "walk",
+   "Secret Bowl Traverse",
+   "Bagger 2 / Unnamed run",
+   2.8
+  ],
+  [
+   "walk",
+   "Secret Bowl Traverse",
+   "Coyote Bumps",
+   2.6
+  ],
+  [
+   "walk",
+   "Secret Bowl Traverse",
    "Unnamed run 11",
    1.7
   ],
@@ -12176,6 +12375,18 @@
   ],
   [
    "walk",
+   "So Sweet / Green Line",
+   "Catskinner Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Creekside Gondola, Sq̓útsa ti Tsaw̓ewéca, Ch’it ta Swá7elt bottom",
+   "Whistler Creek Ski Out",
+   2.3
+  ],
+  [
+   "walk",
    "Creekside Gondola, Sq̓útsa ti Tsaw̓ewéca, Ch’it ta Swá7elt bottom",
    "Creekside Carpet top",
    1.0
@@ -12206,6 +12417,12 @@
   ],
   [
    "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Magic Chair top",
+   2.5
+  ],
+  [
+   "walk",
    "Jolly Green Giant / Ego Bowl Access",
    "Emerald 6 Express top",
    1.6
@@ -12221,6 +12438,12 @@
    "Jolly Green Giant / Ego Bowl Access",
    "Peak 2 Peak Gondola bottom",
    0.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Jackpot",
+   "Blackcomb Gondola Upper bottom",
+   3.4
   ],
   [
    "walk",
@@ -12273,6 +12496,24 @@
   [
    "walk",
    "Jersey Cream Express top",
+   "Saudan Couloir",
+   2.2
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Saudan Couloir 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "The Spoon / Rendevous Drive",
+   2.3
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
    "Unnamed run 9",
    0.6
   ],
@@ -12281,6 +12522,18 @@
    "Jersey Cream Express top",
    "Jersey Cream Wall",
    1.1
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Jersey Cream 5",
+   2.6
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Saudan Couloir 4",
+   3.3
   ],
   [
    "walk",
@@ -12309,8 +12562,32 @@
   [
    "walk",
    "Emerald 6 Express top",
+   "Red Roll / Pony Trail - Upper",
+   3.3
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Jolly Green Giant 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   2.8
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
    "Red Roll",
    1.9
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Jolly Green Giant 8",
+   2.2
   ],
   [
    "walk",
@@ -12323,6 +12600,18 @@
    "Emerald 6 Express top",
    "Unnamed run 12",
    0.6
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Roundhouse Roll",
+   3.4
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Whistler Village Gondola Upper top",
+   2.7
   ],
   [
    "walk",
@@ -12351,8 +12640,44 @@
   [
    "walk",
    "Harmony 6 Express Chairlift top",
+   "Glacier Bowl",
+   2.2
+  ],
+  [
+   "walk",
+   "Harmony 6 Express Chairlift top",
    "Jacob's Ladder / Little Whistler",
    1.0
+  ],
+  [
+   "walk",
+   "Harmony 6 Express Chairlift top",
+   "Burnt Stew Trail",
+   3.2
+  ],
+  [
+   "walk",
+   "Harmony 6 Express Chairlift top",
+   "Pika's Traverse 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Harmony 6 Express Chairlift top",
+   "Glacier Bowl 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Harmony 6 Express Chairlift top",
+   "Jacob's Ladder 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Harmony 6 Express Chairlift top",
+   "Glacier Bowl 3",
+   2.5
   ],
   [
    "walk",
@@ -12374,9 +12699,33 @@
   ],
   [
    "walk",
+   "Ridge Run / Unnamed run",
+   "Whistler Village Gondola Upper top",
+   3.4
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Peak 2 Peak Gondola bottom",
+   2.6
+  ],
+  [
+   "walk",
    "Excelerator Express top",
    "Wally's World / Wishbone",
    1.0
+  ],
+  [
+   "walk",
+   "Excelerator Express top",
+   "Wally's World / Wishbone 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Excelerator Express top",
+   "Wally's World",
+   2.1
   ],
   [
    "walk",
@@ -12387,8 +12736,44 @@
   [
    "walk",
    "Excelerator Express top",
+   "Honeycomb / Honey Bee",
+   2.7
+  ],
+  [
+   "walk",
+   "Excelerator Express top",
    "Crosscut 3",
    0.7
+  ],
+  [
+   "walk",
+   "Excelerator Express top",
+   "Catskinner Traverse 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Excelerator Express top",
+   "Honeycomb",
+   2.2
+  ],
+  [
+   "walk",
+   "Excelerator Express top",
+   "Wally's World 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Crosscut / Crystal Glide",
+   "Glacier Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Crosscut / Crystal Glide",
+   "Jersey Cream Express bottom",
+   2.1
   ],
   [
    "walk",
@@ -12452,6 +12837,24 @@
   ],
   [
    "walk",
+   "Excelerator Express Chairlift Access / Glacier Road",
+   "Crystal Ridge Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Olympic Chair bottom",
+   "Olympic - Lower / Olympic - Upper",
+   2.2
+  ],
+  [
+   "walk",
+   "Olympic Chair bottom",
+   "It Happens Carpet bottom",
+   2.8
+  ],
+  [
+   "walk",
    "Olympic Chair bottom",
    "Never Ever Flats Carpet top",
    1.4
@@ -12461,6 +12864,18 @@
    "Olympic Chair bottom",
    "Whistler Village Gondola Upper bottom",
    1.7
+  ],
+  [
+   "walk",
+   "Olympic Chair bottom",
+   "Scampland Carpet bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Olympic Chair bottom",
+   "It Happens Carpet top",
+   2.5
   ],
   [
    "walk",
@@ -12495,6 +12910,18 @@
   [
    "walk",
    "Franz's Chair bottom",
+   "Fisheye / Porcupine",
+   2.3
+  ],
+  [
+   "walk",
+   "Franz's Chair bottom",
+   "Wild Card / Bear Cub - Upper",
+   2.4
+  ],
+  [
+   "walk",
+   "Franz's Chair bottom",
    "Franz's 4",
    1.7
   ],
@@ -12503,6 +12930,12 @@
    "Panorama / Unnamed run",
    "7th Heaven Express bottom",
    0.6
+  ],
+  [
+   "walk",
+   "Crosscut",
+   "Glacier Express bottom",
+   2.9
   ],
   [
    "walk",
@@ -12519,6 +12952,18 @@
   [
    "walk",
    "T-Bar 2 top",
+   "Die Hard / Pika's Traverse 2",
+   2.5
+  ],
+  [
+   "walk",
+   "T-Bar 2 top",
+   "Harmony Piste 5",
+   2.3
+  ],
+  [
+   "walk",
+   "T-Bar 2 top",
    "Pika's Traverse 4",
    1.9
   ],
@@ -12527,6 +12972,12 @@
    "T-Bar 2 top",
    "Ridge Run 2",
    1.6
+  ],
+  [
+   "walk",
+   "T-Bar 2 top",
+   "Pika's Traverse 8",
+   3.3
   ],
   [
    "walk",
@@ -12554,6 +13005,36 @@
   ],
   [
    "walk",
+   "Unnamed run / Rendevous Drive",
+   "Catskinner Express top",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Blackcomb Gondola Upper top",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Peak 2 Peak Gondola top",
+   2.3
+  ],
+  [
+   "walk",
+   "Bean Chute / Bean Patch",
+   "Scampland Carpet top",
+   2.4
+  ],
+  [
+   "walk",
+   "Bean Chute / Bean Patch",
+   "It Happens Carpet bottom",
+   3.0
+  ],
+  [
+   "walk",
    "Bean Chute / Bean Patch",
    "Garbanzo Express bottom",
    1.1
@@ -12563,6 +13044,24 @@
    "Bean Chute / Bean Patch",
    "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
    1.2
+  ],
+  [
+   "walk",
+   "Bean Chute / Bean Patch",
+   "Scampland Carpet bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Bean Chute / Bean Patch",
+   "It Happens Carpet top",
+   3.1
+  ],
+  [
+   "walk",
+   "Cruiser Connector / Excelerator Express Chairlift Access",
+   "Excelerator Express bottom",
+   3.0
   ],
   [
    "walk",
@@ -12578,9 +13077,27 @@
   ],
   [
    "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Excalibur Gondola Upper bottom",
+   3.0
+  ],
+  [
+   "walk",
    "Chunky's Choice / Unnamed run",
    "Harmony 6 Express Chairlift bottom",
    1.8
+  ],
+  [
+   "walk",
+   "Upper Kadenwood Trail",
+   "Kadenwood",
+   2.9
+  ],
+  [
+   "walk",
+   "Upper Kadenwood Trail",
+   "Whistler Creek Ridge",
+   2.1
   ],
   [
    "walk",
@@ -12603,8 +13120,20 @@
   [
    "walk",
    "Excalibur Gondola Upper top",
+   "Grub Stake",
+   3.3
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Upper top",
    "Shorthorn",
    2.1
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Upper top",
+   "Cruiser - Lower 2",
+   2.6
   ],
   [
    "walk",
@@ -12639,8 +13168,20 @@
   [
    "walk",
    "Catskinner Express top",
+   "Wishbone Connector 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Catskinner Express top",
    "Expressway Access",
    0.9
+  ],
+  [
+   "walk",
+   "Catskinner Express top",
+   "Wishbone 3",
+   2.2
   ],
   [
    "walk",
@@ -12650,9 +13191,39 @@
   ],
   [
    "walk",
+   "Catskinner Express top",
+   "Expressway 5",
+   2.3
+  ],
+  [
+   "walk",
    "Excelerator Express bottom",
    "Excalibur Gondola Upper top",
    1.3
+  ],
+  [
+   "walk",
+   "Excelerator Express bottom",
+   "Download Road",
+   2.8
+  ],
+  [
+   "walk",
+   "Excelerator Express bottom",
+   "Shorthorn",
+   2.7
+  ],
+  [
+   "walk",
+   "Catskinner Express bottom",
+   "So Sweet / Green Line",
+   2.8
+  ],
+  [
+   "walk",
+   "Catskinner Express bottom",
+   "Catskinner Traverse / Green Line",
+   2.3
   ],
   [
    "walk",
@@ -12668,9 +13239,39 @@
   ],
   [
    "walk",
+   "Bagger 1 2",
+   "Bagger 2 / The Bite",
+   0.7
+  ],
+  [
+   "walk",
+   "Bagger 1 2",
+   "Staircase",
+   1.8
+  ],
+  [
+   "walk",
+   "Bagger 1 2",
+   "Glacier Drive 5",
+   2.6
+  ],
+  [
+   "walk",
+   "Bagger 1 2",
+   "Glacier Drive 7",
+   2.0
+  ],
+  [
+   "walk",
    "Blackcomb Home Run / Unnamed run",
    "Base2 Carpet top",
    1.2
+  ],
+  [
+   "walk",
+   "Blackcomb Home Run / Unnamed run",
+   "Magic Chair top",
+   2.3
   ],
   [
    "walk",
@@ -12699,8 +13300,20 @@
   [
    "walk",
    "Excalibur Gondola Download / Unnamed run",
+   "Base2 Carpet top",
+   2.4
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
    "Magic Chair top",
    1.4
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Base2 Carpet bottom",
+   2.4
   ],
   [
    "walk",
@@ -12713,6 +13326,18 @@
    "Excalibur Gondola Upper bottom",
    "Excalibur Gondola Download / Unnamed run",
    0.7
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Upper bottom",
+   "Base2 Carpet top",
+   2.9
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Upper bottom",
+   "Yellow Brick Road",
+   2.4
   ],
   [
    "walk",
@@ -12752,6 +13377,18 @@
   ],
   [
    "walk",
+   "Excalibur Gondola Upper bottom",
+   "Base2 Carpet bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Olympic - Lower / Olympic - Upper",
+   "Olympic Chair bottom",
+   2.2
+  ],
+  [
+   "walk",
    "Olympic - Lower / Olympic - Upper",
    "It Happens Carpet bottom",
    0.8
@@ -12759,8 +13396,20 @@
   [
    "walk",
    "Olympic - Lower / Olympic - Upper",
+   "Garbanzo Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Olympic - Lower / Olympic - Upper",
    "Never Ever Flats Carpet top",
    1.4
+  ],
+  [
+   "walk",
+   "Olympic - Lower / Olympic - Upper",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   3.1
   ],
   [
    "walk",
@@ -12807,8 +13456,56 @@
   [
    "walk",
    "Scampland Carpet top",
+   "Bean Chute / Bean Patch",
+   2.4
+  ],
+  [
+   "walk",
+   "Scampland Carpet top",
+   "Olympic - Lower / Olympic - Upper",
+   2.8
+  ],
+  [
+   "walk",
+   "Scampland Carpet top",
+   "It Happens Carpet bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Scampland Carpet top",
+   "Garbanzo Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Scampland Carpet top",
+   "Fantastic",
+   2.8
+  ],
+  [
+   "walk",
+   "Scampland Carpet top",
+   "Never Ever Flats Carpet top",
+   2.3
+  ],
+  [
+   "walk",
+   "Scampland Carpet top",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   2.8
+  ],
+  [
+   "walk",
+   "Scampland Carpet top",
    "Expressway 2",
    1.1
+  ],
+  [
+   "walk",
+   "Scampland Carpet top",
+   "Whistler Village Gondola Upper bottom",
+   3.4
   ],
   [
    "walk",
@@ -12830,9 +13527,39 @@
   ],
   [
    "walk",
+   "Scampland Carpet top",
+   "Never Ever Flats Carpet bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Scampland Carpet top",
+   "Top Carpet top",
+   2.3
+  ],
+  [
+   "walk",
+   "It Happens Carpet bottom",
+   "Olympic Chair bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "It Happens Carpet bottom",
+   "Bean Chute / Bean Patch",
+   3.0
+  ],
+  [
+   "walk",
    "It Happens Carpet bottom",
    "Olympic - Lower / Olympic - Upper",
    0.8
+  ],
+  [
+   "walk",
+   "It Happens Carpet bottom",
+   "Scampland Carpet top",
+   2.1
   ],
   [
    "walk",
@@ -12845,6 +13572,12 @@
    "It Happens Carpet bottom",
    "Never Ever Flats Carpet top",
    1.6
+  ],
+  [
+   "walk",
+   "It Happens Carpet bottom",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   2.4
   ],
   [
    "walk",
@@ -12872,6 +13605,24 @@
   ],
   [
    "walk",
+   "Catskinner Traverse / Green Line",
+   "Catskinner Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Cougar Milk Connector / Cougar Milk",
+   "Glacier Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Cougar Milk Connector / Cougar Milk",
+   "Jersey Cream Express bottom",
+   2.7
+  ],
+  [
+   "walk",
    "School Yard / Sidewinder",
    "Emerald 6 Express bottom",
    1.1
@@ -12887,6 +13638,18 @@
    "7th Heaven Express bottom",
    "Sunburn / Expressway",
    0.6
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Scampland Carpet top",
+   3.5
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Garbanzo Express bottom",
+   3.3
   ],
   [
    "walk",
@@ -12927,6 +13690,12 @@
   [
    "walk",
    "T-Bar 2 bottom",
+   "Shale Chute / Shale Slope",
+   2.6
+  ],
+  [
+   "walk",
+   "T-Bar 2 bottom",
    "Headwall",
    1.7
   ],
@@ -12945,8 +13714,26 @@
   [
    "walk",
    "Base2 Carpet top",
+   "Excalibur Gondola Download / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Base2 Carpet top",
+   "Excalibur Gondola Upper bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Base2 Carpet top",
    "Yellow Brick Road",
    1.5
+  ],
+  [
+   "walk",
+   "Base2 Carpet top",
+   "Wood Run / Yellow Brick Road",
+   3.5
   ],
   [
    "walk",
@@ -12981,8 +13768,38 @@
   [
    "walk",
    "Base2 Carpet top",
+   "Excalibur Gondolar Upload",
+   3.4
+  ],
+  [
+   "walk",
+   "Base2 Carpet top",
+   "Merlin 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Base2 Carpet top",
+   "Lot 6 Access",
+   2.6
+  ],
+  [
+   "walk",
+   "Base2 Carpet top",
    "Base2 Carpet bottom",
    0.9
+  ],
+  [
+   "walk",
+   "Base2 Carpet top",
+   "Village Run 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Yellow Brick Road",
+   "Excalibur Gondola Upper bottom",
+   2.4
   ],
   [
    "walk",
@@ -12995,6 +13812,12 @@
    "Yellow Brick Road",
    "Base2 Carpet bottom",
    0.7
+  ],
+  [
+   "walk",
+   "Cruiser Connector",
+   "Excalibur Gondola Upper top",
+   2.1
   ],
   [
    "walk",
@@ -13016,6 +13839,42 @@
   ],
   [
    "walk",
+   "Wood Run / Merlin",
+   "Blackcomb Kids Carpet top",
+   2.4
+  ],
+  [
+   "walk",
+   "Wood Run / Merlin",
+   "Magic Chair bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Wood Run / Merlin",
+   "Chateau Carpet bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Wood Run / Merlin",
+   "Blackcomb Gondola Lower bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Wood Run / Merlin",
+   "Blackcomb Kids Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Davies Dervish / Blue Line",
+   "Glacier Express bottom",
+   3.4
+  ],
+  [
+   "walk",
    "Davies Dervish / Glacier Drive",
    "Glacier Express bottom",
    0.6
@@ -13031,6 +13890,36 @@
    "Download Road",
    "Excalibur Gondola Upper top",
    1.6
+  ],
+  [
+   "walk",
+   "Download Road",
+   "Excelerator Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Glacier Express top",
+   "Showcase Traverse / Crystal Traverse",
+   2.3
+  ],
+  [
+   "walk",
+   "Glacier Express top",
+   "Rock Alley",
+   3.3
+  ],
+  [
+   "walk",
+   "Glacier Express top",
+   "Showcase Traverse",
+   3.3
+  ],
+  [
+   "walk",
+   "Glacier Express top",
+   "Glacier Drive 9",
+   3.3
   ],
   [
    "walk",
@@ -13142,9 +14031,33 @@
   ],
   [
    "walk",
+   "Peak Express top",
+   "Whistler Bowl 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Peak Express top",
+   "East Ridge",
+   3.4
+  ],
+  [
+   "walk",
+   "Symphony Express top",
+   "Rhapsody Bowl / Piccolo Loop",
+   2.8
+  ],
+  [
+   "walk",
    "Symphony Express top",
    "Piccolo Shoulder / Piccolo Backside Loop",
    2.1
+  ],
+  [
+   "walk",
+   "Symphony Express top",
+   "Flute Bowls Access / Piccolo Loop",
+   3.2
   ],
   [
    "walk",
@@ -13154,9 +14067,63 @@
   ],
   [
    "walk",
+   "Symphony Express top",
+   "Piccolo Backside Loop",
+   2.7
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Emerald 6 Express top",
+   2.8
+  ],
+  [
+   "walk",
    "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
    "Ridge Run / Unnamed run",
    1.8
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Unnamed run / Peak Traverse",
+   2.9
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Red Roll / Pony Trail - Upper",
+   3.4
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Red Roll",
+   2.5
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Pika's Traverse 5",
+   3.3
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Headwall",
+   2.3
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Unnamed run 12",
+   2.9
+  ],
+  [
+   "walk",
+   "Blackcomb Gondola Upper top",
+   "Jersey Cream Wall / The Spoon",
+   3.3
   ],
   [
    "walk",
@@ -13191,6 +14158,12 @@
   [
    "walk",
    "Blackcomb Gondola Upper top",
+   "Wishbone Connector 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Blackcomb Gondola Upper top",
    "Wishbone Connector 3",
    1.7
   ],
@@ -13214,6 +14187,12 @@
   ],
   [
    "walk",
+   "Blackcomb Gondola Upper top",
+   "Expressway 5",
+   3.3
+  ],
+  [
+   "walk",
    "Piccolo Loop / Piccolo Windrow Cornice",
    "Symphony Express top",
    0.8
@@ -13226,6 +14205,24 @@
   ],
   [
    "walk",
+   "Piccolo Backside Loop",
+   "Piccolo Shoulder / Burnt Stew Trail",
+   2.4
+  ],
+  [
+   "walk",
+   "Piccolo Backside Loop",
+   "Burnt Stew Trail 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Piccolo Windrow Cornice",
+   "Piccolo Shoulder / Burnt Stew Trail",
+   2.4
+  ],
+  [
+   "walk",
    "Piccolo Windrow Cornice",
    "Burnt Stew Trail 2",
    1.5
@@ -13235,6 +14232,30 @@
    "Pony Trail - Lower 2",
    "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk bottom",
    1.5
+  ],
+  [
+   "walk",
+   "Dapper's Delight / Unnamed run",
+   "Harmony 6 Express Chairlift bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Village Run",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Village Run",
+   "Excalibur Gondola Lower bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Village Run",
+   "Whistler Village Gondola Lower bottom",
+   3.1
   ],
   [
    "walk",
@@ -13257,8 +14278,32 @@
   [
    "walk",
    "7th Heaven Express top",
+   "Saudan Couloir Traverse / Secret Bowl Traverse",
+   2.7
+  ],
+  [
+   "walk",
+   "7th Heaven Express top",
+   "Panorama / Southside Green",
+   2.6
+  ],
+  [
+   "walk",
+   "7th Heaven Express top",
+   "Saudan Couloir Traverse",
+   3.4
+  ],
+  [
+   "walk",
+   "7th Heaven Express top",
    "Glacier Drive 2",
    1.7
+  ],
+  [
+   "walk",
+   "7th Heaven Express top",
+   "Showcase Traverse",
+   3.4
   ],
   [
    "walk",
@@ -13268,15 +14313,51 @@
   ],
   [
    "walk",
+   "Harmony Piste 5",
+   "T-Bar 2 top",
+   2.3
+  ],
+  [
+   "walk",
+   "The Bite",
+   "Cougar Milk Connector / Cougar Milk",
+   2.3
+  ],
+  [
+   "walk",
    "The Bite",
    "Staircase / Jersey Cream",
    1.3
   ],
   [
    "walk",
+   "The Bite",
+   "Glacier Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Garbanzo Express top",
+   "Papoose / Banana Peel",
+   3.2
+  ],
+  [
+   "walk",
    "Garbanzo Express top",
    "Garbo Hill / Unnamed run",
    1.9
+  ],
+  [
+   "walk",
+   "Garbanzo Express top",
+   "Papoose / Unnamed run",
+   2.7
+  ],
+  [
+   "walk",
+   "Garbanzo Express top",
+   "Unnamed run / Lower Whiskey Jack",
+   3.0
   ],
   [
    "walk",
@@ -13353,8 +14434,26 @@
   [
    "walk",
    "Garbanzo Express bottom",
+   "Olympic - Lower / Olympic - Upper",
+   2.8
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
+   "Scampland Carpet top",
+   2.1
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
    "It Happens Carpet bottom",
    2.0
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
+   "Never Ever Flats Carpet top",
+   3.3
   ],
   [
    "walk",
@@ -13365,8 +14464,56 @@
   [
    "walk",
    "Garbanzo Express bottom",
+   "Crabapple Connector / Crabapple - Middle",
+   3.1
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
+   "Crabapple - Upper / Crabapple - Middle",
+   2.3
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
    "Scampland Carpet bottom",
    1.6
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
+   "It Happens Carpet top",
+   2.2
+  ],
+  [
+   "walk",
+   "Staircase / Jersey Cream",
+   "Glacier Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Staircase / Jersey Cream",
+   "Jersey Cream Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Catskinner Traverse",
+   "Catskinner Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Glacier Express bottom",
+   "Crosscut / Crystal Glide",
+   3.1
+  ],
+  [
+   "walk",
+   "Glacier Express bottom",
+   "Crosscut",
+   2.9
   ],
   [
    "walk",
@@ -13383,14 +14530,56 @@
   [
    "walk",
    "Glacier Express bottom",
+   "Staircase / Jersey Cream",
+   2.2
+  ],
+  [
+   "walk",
+   "Glacier Express bottom",
    "Jersey Cream Express bottom",
    1.1
+  ],
+  [
+   "walk",
+   "Glacier Express bottom",
+   "Crosscut 5",
+   3.0
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "Olympic Chair bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "Scampland Carpet top",
+   2.8
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "Never Ever Flats Carpet top",
+   2.7
   ],
   [
    "walk",
    "Fantastic",
    "Adult Supercarpet top",
    1.3
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "It Happens Carpet top",
+   3.3
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "Never Ever Flats Carpet bottom",
+   3.4
   ],
   [
    "walk",
@@ -13413,8 +14602,26 @@
   [
    "walk",
    "Never Ever Flats Carpet top",
+   "Scampland Carpet top",
+   2.3
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet top",
    "It Happens Carpet bottom",
    1.6
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet top",
+   "Garbanzo Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet top",
+   "Expressway 2",
+   3.4
   ],
   [
    "walk",
@@ -13461,14 +14668,50 @@
   [
    "walk",
    "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Olympic - Lower / Olympic - Upper",
+   3.1
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Scampland Carpet top",
+   2.8
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "It Happens Carpet bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
    "Garbanzo Express bottom",
    0.6
   ],
   [
    "walk",
    "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Crabapple Connector / Crabapple - Middle",
+   2.6
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
    "Crabapple - Upper / Crabapple - Middle",
    1.7
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Scampland Carpet bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "It Happens Carpet top",
+   2.7
   ],
   [
    "walk",
@@ -13497,6 +14740,18 @@
   [
    "walk",
    "Peak 2 Peak Gondola top",
+   "Jersey Cream Wall / The Spoon",
+   2.2
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola top",
+   "Hooker Hump / Jersey Cream",
+   3.2
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola top",
    "Catskinner Express top",
    2.0
   ],
@@ -13521,8 +14776,26 @@
   [
    "walk",
    "Peak 2 Peak Gondola top",
+   "Hershey Highway / Expressway",
+   2.6
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola top",
    "The Spoon / Rendevous Drive",
    1.3
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola top",
+   "Hooker Hump",
+   3.2
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola top",
+   "Wishbone Connector 3",
+   2.8
   ],
   [
    "walk",
@@ -13538,9 +14811,45 @@
   ],
   [
    "walk",
+   "Peak 2 Peak Gondola top",
+   "Expressway 4",
+   2.9
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola top",
+   "Jersey Cream wall",
+   2.7
+  ],
+  [
+   "walk",
+   "Fisheye / Porcupine",
+   "Franz's Chair bottom",
+   2.3
+  ],
+  [
+   "walk",
    "Slingshot / Unnamed run",
    "Catskinner Express bottom",
    1.3
+  ],
+  [
+   "walk",
+   "Jam Tart",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Jam Tart",
+   "Whistler Village Gondola Lower bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Peak to Creek - Lower 2",
+   "Creekside Gondola, Sq̓útsa ti Tsaw̓ewéca, Ch’it ta Swá7elt bottom",
+   2.2
   ],
   [
    "walk",
@@ -13553,6 +14862,18 @@
    "Peak to Creek - Lower 2",
    "Creekside Carpet bottom",
    1.7
+  ],
+  [
+   "walk",
+   "Showcase Traverse / Crystal Traverse",
+   "Showcase Quad bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "School Marm / Merlin",
+   "Excalibur Gondola Upper bottom",
+   3.4
   ],
   [
    "walk",
@@ -13605,8 +14926,20 @@
   [
    "walk",
    "Franz's 3",
+   "Creekside Gondola, Sq̓útsa ti Tsaw̓ewéca, Ch’it ta Swá7elt bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Franz's 3",
    "Creekside Carpet top",
    1.8
+  ],
+  [
+   "walk",
+   "Franz's 3",
+   "Creekside Carpet bottom",
+   2.5
   ],
   [
    "walk",
@@ -13631,6 +14964,12 @@
    "Wishbone Connector",
    "Peak 2 Peak Gondola top",
    1.7
+  ],
+  [
+   "walk",
+   "Rock Alley",
+   "Showcase Quad bottom",
+   3.3
   ],
   [
    "walk",
@@ -13664,6 +15003,30 @@
   ],
   [
    "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Base2 Carpet top",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Magic Chair top",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Base2 Carpet bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Crystal Ridge Express top",
+   "Unnamed run 3",
+   2.9
+  ],
+  [
+   "walk",
    "Crystal Ridge Express top",
    "Trapline / Ridge Runner",
    0.8
@@ -13679,6 +15042,12 @@
    "Crystal Ridge Express top",
    "Crystal Road 2",
    1.4
+  ],
+  [
+   "walk",
+   "Kadenwood Gondola top",
+   "Peak to Creek - Lower 4",
+   2.7
   ],
   [
    "walk",
@@ -13724,9 +15093,33 @@
   ],
   [
    "walk",
+   "Catskinner Traverse 2",
+   "Excelerator Express top",
+   3.3
+  ],
+  [
+   "walk",
    "Emerald 6 Express bottom",
    "School Yard / Sidewinder",
    1.1
+  ],
+  [
+   "walk",
+   "Emerald 6 Express bottom",
+   "Olympic - Upper / Sidewinder",
+   2.6
+  ],
+  [
+   "walk",
+   "Emerald 6 Express bottom",
+   "Sidewinder 7",
+   2.2
+  ],
+  [
+   "walk",
+   "Crosscut 4",
+   "Jersey Cream Express bottom",
+   2.7
   ],
   [
    "walk",
@@ -13748,6 +15141,12 @@
   ],
   [
    "walk",
+   "Wild Card / Bear Cub - Upper",
+   "Franz's Chair bottom",
+   2.4
+  ],
+  [
+   "walk",
    "The Saddle 3",
    "T-Bar 2 bottom",
    1.1
@@ -13757,6 +15156,24 @@
    "The Saddle 3",
    "Peak Express bottom",
    1.7
+  ],
+  [
+   "walk",
+   "Jeff's Ode To Joy",
+   "Symphony Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Wally World",
+   "Glacier Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Wally World",
+   "Jersey Cream Express bottom",
+   2.7
   ],
   [
    "walk",
@@ -13772,9 +15189,33 @@
   ],
   [
    "walk",
+   "Chris's Drop / Shale Chute",
+   "Peak Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   2.7
+  ],
+  [
+   "walk",
    "Pika's Traverse 5",
    "Emerald 6 Express top",
    1.9
+  ],
+  [
+   "walk",
+   "Pika's Traverse 5",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   3.3
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Scampland Carpet top",
+   2.1
   ],
   [
    "walk",
@@ -13791,8 +15232,56 @@
   [
    "walk",
    "Expressway 2",
+   "It Happens Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "Garbanzo Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "Never Ever Flats Carpet top",
+   3.4
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   3.2
+  ],
+  [
+   "walk",
+   "Expressway 2",
    "Adult Supercarpet top",
    2.0
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "Scampland Carpet bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "It Happens Carpet top",
+   2.8
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "Top Carpet top",
+   3.2
+  ],
+  [
+   "walk",
+   "Upper Kadenwood Trail 2",
+   "Kadenwood Gondola top",
+   2.8
   ],
   [
    "walk",
@@ -13802,9 +15291,27 @@
   ],
   [
    "walk",
+   "Blue Line 2",
+   "Jersey Cream Express bottom",
+   3.2
+  ],
+  [
+   "walk",
    "Sidewinder 4",
    "Harmony 6 Express Chairlift bottom",
    0.8
+  ],
+  [
+   "walk",
+   "Magic Chair top",
+   "Excalibur Gondolar Upload / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Magic Chair top",
+   "Blackcomb Home Run / Unnamed run",
+   2.3
   ],
   [
    "walk",
@@ -13851,8 +15358,32 @@
   [
    "walk",
    "Magic Chair top",
+   "Merlin",
+   2.6
+  ],
+  [
+   "walk",
+   "Magic Chair top",
+   "Excalibur Gondolar Upload",
+   2.5
+  ],
+  [
+   "walk",
+   "Magic Chair top",
+   "Merlin 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Magic Chair top",
    "Lot 6 Access",
    1.8
+  ],
+  [
+   "walk",
+   "Magic Chair top",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   3.2
   ],
   [
    "walk",
@@ -13874,9 +15405,51 @@
   ],
   [
    "walk",
+   "Excalibur Gondolar Upload",
+   "Base2 Carpet top",
+   3.4
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Magic Chair top",
+   2.5
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Base2 Carpet bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Download Road 2",
+   "Blackcomb Gondola Upper bottom",
+   3.2
+  ],
+  [
+   "walk",
    "Green Line 4",
    "Excalibur Gondola Upper top",
    1.5
+  ],
+  [
+   "walk",
+   "Green Line 4",
+   "Excelerator Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Catskinner Express top",
+   2.6
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Blackcomb Gondola Upper top",
+   2.5
   ],
   [
    "walk",
@@ -13895,6 +15468,18 @@
    "Unnamed run 9",
    "Jersey Cream Express top",
    0.6
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Peak 2 Peak Gondola top",
+   3.1
+  ],
+  [
+   "walk",
+   "Jersey Cream Express bottom",
+   "Crosscut / Crystal Glide",
+   2.1
   ],
   [
    "walk",
@@ -13917,6 +15502,12 @@
   [
    "walk",
    "Jersey Cream Express bottom",
+   "Staircase / Jersey Cream",
+   2.9
+  ],
+  [
+   "walk",
+   "Jersey Cream Express bottom",
    "Glacier Express bottom",
    1.1
   ],
@@ -13928,9 +15519,27 @@
   ],
   [
    "walk",
+   "Cruiser 2",
+   "Excalibur Gondola Upper top",
+   3.4
+  ],
+  [
+   "walk",
    "Stoker 3",
    "Excalibur Gondola Upper top",
    2.0
+  ],
+  [
+   "walk",
+   "Stoker 3",
+   "Excelerator Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Crabapple - Upper / Crabapple - Middle",
+   "Garbanzo Express bottom",
+   2.3
   ],
   [
    "walk",
@@ -13940,9 +15549,33 @@
   ],
   [
    "walk",
+   "Old Crow / Ego Bowl",
+   "Emerald 6 Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Wishbone 2",
+   "Excelerator Express top",
+   3.4
+  ],
+  [
+   "walk",
    "Olympic - Upper 2",
    "Olympic Chair top",
    0.8
+  ],
+  [
+   "walk",
+   "East Ridge 2",
+   "Left Hook / Franz's Meadows",
+   3.1
+  ],
+  [
+   "walk",
+   "East Ridge 2",
+   "Franz's Meadows / Tiger's Terrace",
+   2.3
   ],
   [
    "walk",
@@ -13955,6 +15588,18 @@
    "Bear Cub / Bear Cub - Lower",
    "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk bottom",
    1.9
+  ],
+  [
+   "walk",
+   "Shale Chute / Shale Slope",
+   "T-Bar 2 bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Shale Chute / Shale Slope",
+   "Peak Express bottom",
+   2.3
   ],
   [
    "walk",
@@ -13973,6 +15618,24 @@
    "Franz's 7",
    "Creekside Carpet bottom",
    1.6
+  ],
+  [
+   "walk",
+   "Whistler Creek Ski Out",
+   "Creekside Gondola, Sq̓útsa ti Tsaw̓ewéca, Ch’it ta Swá7elt bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Whistler Creek Ski Out",
+   "Creekside Carpet top",
+   3.3
+  ],
+  [
+   "walk",
+   "Whistler Creek Ski Out",
+   "Creekside Carpet bottom",
+   2.9
   ],
   [
    "walk",
@@ -14001,6 +15664,12 @@
   [
    "walk",
    "Harmony 6 Express Chairlift bottom",
+   "Dapper's Delight / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Harmony 6 Express Chairlift bottom",
    "Lower McConkey's / Sidewinder",
    0.8
   ],
@@ -14015,6 +15684,12 @@
    "Harmony 6 Express Chairlift bottom",
    "Sidewinder 4",
    0.8
+  ],
+  [
+   "walk",
+   "Sidewinder 7",
+   "Emerald 6 Express bottom",
+   2.2
   ],
   [
    "walk",
@@ -14037,8 +15712,20 @@
   [
    "walk",
    "Lot 6 Access",
+   "Base2 Carpet top",
+   2.6
+  ],
+  [
+   "walk",
+   "Lot 6 Access",
    "Yellow Brick Road",
    1.9
+  ],
+  [
+   "walk",
+   "Lot 6 Access",
+   "Wood Run / Yellow Brick Road",
+   2.9
   ],
   [
    "walk",
@@ -14055,6 +15742,12 @@
   [
    "walk",
    "Lot 6 Access",
+   "Merlin",
+   3.4
+  ],
+  [
+   "walk",
+   "Lot 6 Access",
    "Magic Chair top",
    1.8
   ],
@@ -14063,6 +15756,30 @@
    "Lot 6 Access",
    "Excalibur Gondolar Upload",
    1.2
+  ],
+  [
+   "walk",
+   "Lot 6 Access",
+   "Merlin 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Lot 6 Access",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   2.1
+  ],
+  [
+   "walk",
+   "Lot 6 Access",
+   "Base2 Carpet bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Peak 2 Peak Gondola top",
+   3.4
   ],
   [
    "walk",
@@ -14075,6 +15792,12 @@
    "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
    "Excalibur Gondola Upper bottom",
    1.5
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Magic Chair top",
+   3.2
   ],
   [
    "walk",
@@ -14109,6 +15832,12 @@
   [
    "walk",
    "Whistler Village Gondola Upper bottom",
+   "Scampland Carpet top",
+   3.4
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper bottom",
    "It Happens Carpet bottom",
    1.6
   ],
@@ -14117,6 +15846,18 @@
    "Whistler Village Gondola Upper bottom",
    "Never Ever Flats Carpet top",
    1.5
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper bottom",
+   "Olympic - Lower 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper bottom",
+   "Scampland Carpet bottom",
+   2.2
   ],
   [
    "walk",
@@ -14145,6 +15886,18 @@
   [
    "walk",
    "Base2 Carpet bottom",
+   "Excalibur Gondola Download / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Base2 Carpet bottom",
+   "Excalibur Gondola Upper bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Base2 Carpet bottom",
    "Base2 Carpet top",
    0.9
   ],
@@ -14153,6 +15906,12 @@
    "Base2 Carpet bottom",
    "Yellow Brick Road",
    0.7
+  ],
+  [
+   "walk",
+   "Base2 Carpet bottom",
+   "Wood Run / Yellow Brick Road",
+   2.6
   ],
   [
    "walk",
@@ -14181,8 +15940,26 @@
   [
    "walk",
    "Base2 Carpet bottom",
+   "Excalibur Gondolar Upload",
+   3.3
+  ],
+  [
+   "walk",
+   "Base2 Carpet bottom",
    "Merlin 2",
    1.8
+  ],
+  [
+   "walk",
+   "Base2 Carpet bottom",
+   "Lot 6 Access",
+   2.2
+  ],
+  [
+   "walk",
+   "Wishbone 3",
+   "Catskinner Express top",
+   2.2
   ],
   [
    "walk",
@@ -14216,9 +15993,21 @@
   ],
   [
    "walk",
+   "Headwall",
+   "Peak Express bottom",
+   2.8
+  ],
+  [
+   "walk",
    "Unnamed run 12",
    "Emerald 6 Express top",
    0.6
+  ],
+  [
+   "walk",
+   "Unnamed run 12",
+   "Whistler Village Gondola Upper top",
+   2.2
   ],
   [
    "walk",
@@ -14241,8 +16030,20 @@
   [
    "walk",
    "Excalibur Gondola Lower bottom",
+   "Village Run",
+   2.5
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Lower bottom",
    "Whistler Village Gondola Lower bottom",
    1.6
+  ],
+  [
+   "walk",
+   "Honeycomb",
+   "Excelerator Express top",
+   2.2
   ],
   [
    "walk",
@@ -14253,8 +16054,32 @@
   [
    "walk",
    "Village Run 2",
+   "Base2 Carpet top",
+   3.0
+  ],
+  [
+   "walk",
+   "Village Run 2",
    "Magic Chair top",
    1.9
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "Base2 Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Ego Bowl 2",
+   "Emerald 6 Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Crosscut 5",
+   "Glacier Express bottom",
+   3.0
   ],
   [
    "walk",
@@ -14270,9 +16095,33 @@
   ],
   [
    "walk",
+   "Showcase Quad top",
+   "Blow Hole 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Showcase Traverse",
+   "Glacier Express top",
+   3.3
+  ],
+  [
+   "walk",
+   "Showcase Traverse",
+   "Showcase Quad bottom",
+   3.4
+  ],
+  [
+   "walk",
    "Glacier Drive 9",
    "Showcase Quad bottom",
    1.5
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Emerald 6 Express top",
+   3.4
   ],
   [
    "walk",
@@ -14289,14 +16138,32 @@
   [
    "walk",
    "Adult Supercarpet top",
+   "Olympic Chair bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
    "Scampland Carpet top",
    1.6
   ],
   [
    "walk",
    "Adult Supercarpet top",
+   "It Happens Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
    "Fantastic",
    1.3
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
+   "Never Ever Flats Carpet top",
+   2.4
   ],
   [
    "walk",
@@ -14313,8 +16180,38 @@
   [
    "walk",
    "Adult Supercarpet top",
+   "Scampland Carpet bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
+   "It Happens Carpet top",
+   2.5
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
+   "Never Ever Flats Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
    "Top Carpet top",
    1.6
+  ],
+  [
+   "walk",
+   "Pika's Traverse 8",
+   "T-Bar 2 top",
+   3.3
+  ],
+  [
+   "walk",
+   "Fisheye 2",
+   "Franz's Chair bottom",
+   3.4
   ],
   [
    "walk",
@@ -14327,6 +16224,12 @@
    "Creekside Carpet top",
    "Franz's 7",
    1.0
+  ],
+  [
+   "walk",
+   "Creekside Carpet top",
+   "Whistler Creek Ski Out",
+   3.3
   ],
   [
    "walk",
@@ -14348,15 +16251,39 @@
   ],
   [
    "walk",
+   "Castle Blue",
+   "Catskinner Express bottom",
+   2.6
+  ],
+  [
+   "walk",
    "Download Road 3",
    "Blackcomb Gondola Upper bottom",
    1.6
   ],
   [
    "walk",
+   "Ridge Run 3",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   3.2
+  ],
+  [
+   "walk",
    "Download Road 4",
    "Blackcomb Gondola Upper bottom",
    0.7
+  ],
+  [
+   "walk",
+   "Scampland Carpet bottom",
+   "Olympic Chair bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Scampland Carpet bottom",
+   "Bean Chute / Bean Patch",
+   2.5
   ],
   [
    "walk",
@@ -14391,8 +16318,38 @@
   [
    "walk",
    "Scampland Carpet bottom",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   2.2
+  ],
+  [
+   "walk",
+   "Scampland Carpet bottom",
+   "Whistler Village Gondola Upper bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Scampland Carpet bottom",
    "It Happens Carpet top",
    0.6
+  ],
+  [
+   "walk",
+   "Scampland Carpet bottom",
+   "Never Ever Flats Carpet bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "It Happens Carpet top",
+   "Olympic Chair bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "It Happens Carpet top",
+   "Bean Chute / Bean Patch",
+   3.1
   ],
   [
    "walk",
@@ -14415,8 +16372,20 @@
   [
    "walk",
    "It Happens Carpet top",
+   "Garbanzo Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "It Happens Carpet top",
    "Never Ever Flats Carpet top",
    1.2
+  ],
+  [
+   "walk",
+   "It Happens Carpet top",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   2.7
   ],
   [
    "walk",
@@ -14445,8 +16414,26 @@
   [
    "walk",
    "Whistler Village Gondola Upper top",
+   "Emerald 6 Express top",
+   2.7
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper top",
    "Unnamed run",
    1.6
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper top",
+   "Ridge Run / Unnamed run",
+   3.4
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper top",
+   "Pale Face / Roundhouse Roll",
+   2.2
   ],
   [
    "walk",
@@ -14457,8 +16444,26 @@
   [
    "walk",
    "Whistler Village Gondola Upper top",
+   "Lower Roundhouse Roll / Upper Whiskey Jack",
+   2.4
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper top",
+   "Jolly Green Giant 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper top",
    "Red Roll / Pony Trail - Upper",
    2.0
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper top",
+   "Jolly Green Giant 4",
+   3.0
   ],
   [
    "walk",
@@ -14475,8 +16480,32 @@
   [
    "walk",
    "Whistler Village Gondola Upper top",
+   "Jolly Green Giant 8",
+   2.1
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper top",
+   "Unnamed run 12",
+   2.2
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper top",
+   "Pony Trail - Upper 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper top",
    "Roundhouse Roll",
    0.7
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper top",
+   "Pony Trail - Upper 4",
+   2.7
   ],
   [
    "walk",
@@ -14523,6 +16552,12 @@
   [
    "walk",
    "Creekside Carpet bottom",
+   "Whistler Creek Ski Out",
+   2.9
+  ],
+  [
+   "walk",
+   "Creekside Carpet bottom",
    "Creekside Carpet top",
    0.7
   ],
@@ -14547,14 +16582,56 @@
   [
    "walk",
    "Peak 2 Peak Gondola bottom",
+   "Ridge Run / Unnamed run",
+   2.6
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola bottom",
+   "Pale Face / Roundhouse Roll",
+   3.1
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola bottom",
    "Roundhouse Access / Red Roll",
    0.8
   ],
   [
    "walk",
    "Peak 2 Peak Gondola bottom",
+   "Lower Roundhouse Roll / Upper Whiskey Jack",
+   3.0
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola bottom",
+   "Jolly Green Giant 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola bottom",
+   "Red Roll / Pony Trail - Upper",
+   2.5
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola bottom",
+   "Jolly Green Giant 4",
+   2.4
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola bottom",
    "Red Roll",
    1.7
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola bottom",
+   "Fisheye",
+   2.4
   ],
   [
    "walk",
@@ -14595,6 +16672,12 @@
   [
    "walk",
    "Never Ever Flats Carpet bottom",
+   "Scampland Carpet top",
+   3.1
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet bottom",
    "It Happens Carpet bottom",
    1.8
   ],
@@ -14609,6 +16692,12 @@
    "Never Ever Flats Carpet bottom",
    "Whistler Village Gondola Upper bottom",
    0.8
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet bottom",
+   "Scampland Carpet bottom",
+   2.2
   ],
   [
    "walk",
@@ -14649,6 +16738,24 @@
   [
    "walk",
    "Top Carpet top",
+   "Olympic - Lower / Olympic - Upper",
+   2.5
+  ],
+  [
+   "walk",
+   "Top Carpet top",
+   "Scampland Carpet top",
+   2.3
+  ],
+  [
+   "walk",
+   "Top Carpet top",
+   "It Happens Carpet bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Top Carpet top",
    "Fantastic",
    1.6
   ],
@@ -14661,8 +16768,26 @@
   [
    "walk",
    "Top Carpet top",
+   "Expressway 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Top Carpet top",
+   "Whistler Village Gondola Upper bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Top Carpet top",
    "Adult Supercarpet top",
    1.6
+  ],
+  [
+   "walk",
+   "Top Carpet top",
+   "Scampland Carpet bottom",
+   2.4
   ],
   [
    "walk",
@@ -14675,6 +16800,12 @@
    "Top Carpet top",
    "Never Ever Flats Carpet bottom",
    1.8
+  ],
+  [
+   "walk",
+   "Showcase Quad bottom",
+   "Rock Alley",
+   3.3
   ],
   [
    "walk",
@@ -14696,6 +16827,24 @@
   ],
   [
    "walk",
+   "Jeff's Ode To Joy",
+   "Glissando Glades 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Jeff's Ode To Joy",
+   "Jeff's Ode To Joy 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Jeff's Ode To Joy",
+   "Jeff's Ode To Joy 3",
+   3.8
+  ],
+  [
+   "walk",
    "Jeff's Ode To Joy 2",
    "Glissando Glades 2",
    2.1
@@ -14720,15 +16869,39 @@
   ],
   [
    "walk",
-   "Emerald 6 Express top",
-   "Whistler Village Gondola Upper top",
-   2.8
+   "Peak to Creek - Lower 2",
+   "Whistler Creek Ski Out",
+   4.6
   ],
   [
    "walk",
-   "Whistler Village Gondola Upper top",
-   "Emerald 6 Express top",
-   2.8
+   "Franz's 3",
+   "Whistler Creek Ski Out",
+   4.7
+  ],
+  [
+   "walk",
+   "Franz's 7",
+   "Whistler Creek Ski Out",
+   3.8
+  ],
+  [
+   "walk",
+   "Village Run",
+   "Olympic - Lower / Village Run",
+   3.4
+  ],
+  [
+   "walk",
+   "Jam Tart",
+   "Olympic - Lower / Village Run",
+   4.3
+  ],
+  [
+   "walk",
+   "Jam Tart",
+   "Excalibur Gondola Lower bottom",
+   3.8
   ],
   [
    "walk",
@@ -14745,6 +16918,24 @@
   [
    "walk",
    "Unnamed run / Southside Green",
+   "Saudan Couloir",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
+   "Saudan Couloir 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
+   "The Spoon / Rendevous Drive",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
    "Unnamed run 9",
    1.3
   ],
@@ -14753,6 +16944,18 @@
    "Unnamed run / Southside Green",
    "Jersey Cream Wall",
    1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
+   "Jersey Cream 5",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
+   "Saudan Couloir 4",
+   4.0
   ],
   [
    "walk",
@@ -14769,6 +16972,24 @@
   [
    "walk",
    "Unnamed run / Rendevous Drive",
+   "Saudan Couloir",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Saudan Couloir 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "The Spoon / Rendevous Drive",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
    "Unnamed run 9",
    2.0
   ],
@@ -14777,6 +16998,18 @@
    "Unnamed run / Rendevous Drive",
    "Jersey Cream Wall",
    2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Jersey Cream 5",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Saudan Couloir 4",
+   4.6
   ],
   [
    "walk",
@@ -14799,11 +17032,41 @@
   [
    "walk",
    "Unnamed run 9",
+   "Saudan Couloir",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Saudan Couloir 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "The Spoon / Rendevous Drive",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
    "Jersey Cream Wall",
    1.7
   ],
   [
    "walk",
+   "Unnamed run 9",
+   "Jersey Cream 5",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Saudan Couloir 4",
+   3.9
+  ],
+  [
+   "walk",
    "Jolly Green Giant / Ego Bowl Access",
    "Unnamed run",
    1.2
@@ -14823,8 +17086,32 @@
   [
    "walk",
    "Jolly Green Giant / Ego Bowl Access",
+   "Red Roll / Pony Trail - Upper",
+   3.2
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ego Bowl Access",
+   "Jolly Green Giant 4",
+   3.0
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ego Bowl Access",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   4.4
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ego Bowl Access",
    "Red Roll",
    2.3
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ego Bowl Access",
+   "Jolly Green Giant 8",
+   2.0
   ],
   [
    "walk",
@@ -14837,6 +17124,12 @@
    "Jolly Green Giant / Ego Bowl Access",
    "Unnamed run 12",
    1.9
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ego Bowl Access",
+   "Roundhouse Roll",
+   2.2
   ],
   [
    "walk",
@@ -14859,8 +17152,32 @@
   [
    "walk",
    "Unnamed run",
+   "Red Roll / Pony Trail - Upper",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Jolly Green Giant 4",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
    "Red Roll",
    2.3
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Jolly Green Giant 8",
+   2.0
   ],
   [
    "walk",
@@ -14873,6 +17190,12 @@
    "Unnamed run",
    "Unnamed run 12",
    1.8
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Roundhouse Roll",
+   2.2
   ],
   [
    "walk",
@@ -14895,8 +17218,26 @@
   [
    "walk",
    "Ridge Run / Unnamed run",
+   "Red Roll / Pony Trail - Upper",
+   4.4
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Jolly Green Giant 4",
+   4.2
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
    "Red Roll",
    3.0
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Jolly Green Giant 8",
+   3.3
   ],
   [
    "walk",
@@ -14913,8 +17254,8 @@
   [
    "walk",
    "Ridge Run / Unnamed run",
-   "Peak 2 Peak Gondola bottom",
-   2.9
+   "Roundhouse Roll",
+   4.0
   ],
   [
    "walk",
@@ -14937,8 +17278,32 @@
   [
    "walk",
    "Roundhouse Access / Red Roll",
+   "Red Roll / Pony Trail - Upper",
+   2.9
+  ],
+  [
+   "walk",
+   "Roundhouse Access / Red Roll",
+   "Jolly Green Giant 4",
+   3.2
+  ],
+  [
+   "walk",
+   "Roundhouse Access / Red Roll",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   4.8
+  ],
+  [
+   "walk",
+   "Roundhouse Access / Red Roll",
    "Red Roll",
    2.5
+  ],
+  [
+   "walk",
+   "Roundhouse Access / Red Roll",
+   "Jolly Green Giant 8",
+   2.2
   ],
   [
    "walk",
@@ -14951,6 +17316,60 @@
    "Roundhouse Access / Red Roll",
    "Unnamed run 12",
    2.0
+  ],
+  [
+   "walk",
+   "Roundhouse Access / Red Roll",
+   "Roundhouse Roll",
+   1.6
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Jolly Green Giant / Ego Bowl Access",
+   4.4
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Unnamed run",
+   4.0
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Roundhouse Access / Red Roll",
+   4.8
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Jolly Green Giant 4",
+   5.9
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Jolly Green Giant 8",
+   5.0
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Roundhouse Roll",
+   5.1
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Whistler Village Gondola Upper top",
+   4.4
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Peak 2 Peak Gondola bottom",
+   4.1
   ],
   [
    "walk",
@@ -14979,6 +17398,30 @@
   [
    "walk",
    "Red Roll",
+   "Red Roll / Pony Trail - Upper",
+   3.9
+  ],
+  [
+   "walk",
+   "Red Roll",
+   "Jolly Green Giant 4",
+   4.1
+  ],
+  [
+   "walk",
+   "Red Roll",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   4.7
+  ],
+  [
+   "walk",
+   "Red Roll",
+   "Jolly Green Giant 8",
+   3.1
+  ],
+  [
+   "walk",
+   "Red Roll",
    "Pika's Traverse 5",
    3.8
   ],
@@ -14987,6 +17430,12 @@
    "Red Roll",
    "Unnamed run 12",
    2.5
+  ],
+  [
+   "walk",
+   "Red Roll",
+   "Roundhouse Roll",
+   2.6
   ],
   [
    "walk",
@@ -15015,14 +17464,44 @@
   [
    "walk",
    "Pika's Traverse 5",
+   "Red Roll / Pony Trail - Upper",
+   5.2
+  ],
+  [
+   "walk",
+   "Pika's Traverse 5",
+   "Jolly Green Giant 4",
+   5.0
+  ],
+  [
+   "walk",
+   "Pika's Traverse 5",
    "Red Roll",
    3.8
   ],
   [
    "walk",
    "Pika's Traverse 5",
+   "Jolly Green Giant 8",
+   4.1
+  ],
+  [
+   "walk",
+   "Pika's Traverse 5",
    "Unnamed run 12",
    2.5
+  ],
+  [
+   "walk",
+   "Pika's Traverse 5",
+   "Roundhouse Roll",
+   5.2
+  ],
+  [
+   "walk",
+   "Pika's Traverse 5",
+   "Whistler Village Gondola Upper top",
+   4.6
   ],
   [
    "walk",
@@ -15057,8 +17536,32 @@
   [
    "walk",
    "Unnamed run 12",
+   "Red Roll / Pony Trail - Upper",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run 12",
+   "Jolly Green Giant 4",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run 12",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run 12",
    "Red Roll",
    2.5
+  ],
+  [
+   "walk",
+   "Unnamed run 12",
+   "Jolly Green Giant 8",
+   2.7
   ],
   [
    "walk",
@@ -15069,14 +17572,92 @@
   [
    "walk",
    "Unnamed run 12",
+   "Roundhouse Roll",
+   2.8
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Jolly Green Giant / Ego Bowl Access",
+   2.2
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Unnamed run",
+   2.2
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Ridge Run / Unnamed run",
+   4.0
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Roundhouse Access / Red Roll",
+   1.6
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Red Roll / Pony Trail - Upper",
+   2.7
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Jolly Green Giant 4",
+   3.7
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   5.8
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Red Roll",
+   2.6
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Jolly Green Giant 8",
+   2.8
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Pika's Traverse 5",
+   5.2
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Unnamed run 12",
+   2.8
+  ],
+  [
+   "walk",
    "Whistler Village Gondola Upper top",
-   2.3
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   5.1
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper top",
+   "Pika's Traverse 5",
+   4.6
   ],
   [
    "walk",
    "Peak 2 Peak Gondola bottom",
-   "Ridge Run / Unnamed run",
-   2.9
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   4.4
   ],
   [
    "walk",
@@ -15086,57 +17667,51 @@
   ],
   [
    "walk",
-   "Whistler Village Gondola Upper top",
-   "Unnamed run 12",
-   2.3
+   "Jacob's Ladder / Little Whistler",
+   "Glacier Bowl",
+   3.1
   ],
   [
    "walk",
-   "Whistler Village Gondola Upper top",
-   "Ridge Run / Unnamed run",
-   3.9
+   "Jacob's Ladder / Little Whistler",
+   "Burnt Stew Trail",
+   4.2
   ],
   [
    "walk",
-   "Ridge Run / Unnamed run",
-   "Whistler Village Gondola Upper top",
-   3.9
+   "Jacob's Ladder / Little Whistler",
+   "Pika's Traverse 3",
+   3.2
   ],
   [
    "walk",
-   "Emerald 6 Express top",
-   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
-   2.9
+   "Jacob's Ladder / Little Whistler",
+   "Glacier Bowl 2",
+   4.1
   ],
   [
    "walk",
-   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
-   "Emerald 6 Express top",
-   2.9
-  ],
-  [
-   "walk",
-   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
-   "Unnamed run",
-   4.0
-  ],
-  [
-   "walk",
-   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
-   "Unnamed run 12",
+   "Jacob's Ladder / Little Whistler",
+   "Jacob's Ladder 3",
    3.4
   ],
   [
    "walk",
-   "Unnamed run",
-   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
-   4.0
+   "Jacob's Ladder / Little Whistler",
+   "Glacier Bowl 3",
+   3.5
   ],
   [
    "walk",
-   "Unnamed run 12",
-   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
-   3.4
+   "Wally's World / Wishbone",
+   "Wally's World / Wishbone 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Wally's World / Wishbone",
+   "Wally's World",
+   3.1
   ],
   [
    "walk",
@@ -15147,8 +17722,32 @@
   [
    "walk",
    "Wally's World / Wishbone",
+   "Honeycomb / Honey Bee",
+   3.7
+  ],
+  [
+   "walk",
+   "Wally's World / Wishbone",
    "Crosscut 3",
    1.7
+  ],
+  [
+   "walk",
+   "Wally's World / Wishbone",
+   "Catskinner Traverse 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Wally's World / Wishbone",
+   "Honeycomb",
+   3.2
+  ],
+  [
+   "walk",
+   "Wally's World / Wishbone",
+   "Wally's World 2",
+   3.1
   ],
   [
    "walk",
@@ -15159,776 +17758,2546 @@
   [
    "walk",
    "Crosscut 3",
+   "Wally's World / Wishbone 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Crosscut 3",
+   "Wally's World",
+   2.8
+  ],
+  [
+   "walk",
+   "Crosscut 3",
    "Crosscut 2",
    2.7
+  ],
+  [
+   "walk",
+   "Crosscut 3",
+   "Honeycomb / Honey Bee",
+   3.4
+  ],
+  [
+   "walk",
+   "Crosscut 3",
+   "Catskinner Traverse 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Crosscut 3",
+   "Honeycomb",
+   2.9
+  ],
+  [
+   "walk",
+   "Crosscut 3",
+   "Wally's World 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Catskinner Traverse 2",
+   "Wally's World / Wishbone",
+   4.3
+  ],
+  [
+   "walk",
+   "Catskinner Traverse 2",
+   "Wally's World / Wishbone 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Catskinner Traverse 2",
+   "Wally's World",
+   5.4
+  ],
+  [
+   "walk",
+   "Catskinner Traverse 2",
+   "Crosscut 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Catskinner Traverse 2",
+   "Honeycomb / Honey Bee",
+   6.0
+  ],
+  [
+   "walk",
+   "Catskinner Traverse 2",
+   "Crosscut 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Catskinner Traverse 2",
+   "Honeycomb",
+   5.5
+  ],
+  [
+   "walk",
+   "Catskinner Traverse 2",
+   "Wally's World 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Wishbone 2",
+   "Wally's World / Wishbone",
+   4.4
+  ],
+  [
+   "walk",
+   "Wishbone 2",
+   "Wally's World / Wishbone 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Wishbone 2",
+   "Wally's World",
+   5.5
+  ],
+  [
+   "walk",
+   "Wishbone 2",
+   "Crosscut 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Wishbone 2",
+   "Honeycomb / Honey Bee",
+   6.1
+  ],
+  [
+   "walk",
+   "Wishbone 2",
+   "Crosscut 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Wishbone 2",
+   "Catskinner Traverse 2",
+   6.7
+  ],
+  [
+   "walk",
+   "Wishbone 2",
+   "Honeycomb",
+   5.7
+  ],
+  [
+   "walk",
+   "Wishbone 2",
+   "Wally's World 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Honeycomb",
+   "Wally's World / Wishbone",
+   3.2
+  ],
+  [
+   "walk",
+   "Honeycomb",
+   "Wally's World / Wishbone 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Honeycomb",
+   "Wally's World",
+   4.3
+  ],
+  [
+   "walk",
+   "Honeycomb",
+   "Crosscut 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Honeycomb",
+   "Honeycomb / Honey Bee",
+   4.9
+  ],
+  [
+   "walk",
+   "Honeycomb",
+   "Crosscut 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Honeycomb",
+   "Catskinner Traverse 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Honeycomb",
+   "Wally's World 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Wood Run / Merlin",
+   "Merlin / Yellow Brick Road",
+   3.3
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "Olympic - Lower / Olympic - Upper",
+   4.1
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "It Happens Carpet bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "Whistler Village Gondola Upper bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "Scampland Carpet bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
+   "Olympic - Lower / Olympic - Upper",
+   3.6
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
+   "Whistler Village Gondola Upper bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Bear Cub - Upper / Papoose",
+   "Papoose 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Bear Cub - Upper / Papoose",
+   "Franz's",
+   1.4
+  ],
+  [
+   "walk",
+   "Bear Cub - Upper / Papoose",
+   "Fisheye / Porcupine",
+   2.8
+  ],
+  [
+   "walk",
+   "Bear Cub - Upper / Papoose",
+   "Wild Card / Bear Cub - Upper",
+   3.0
+  ],
+  [
+   "walk",
+   "Bear Cub - Upper / Papoose",
+   "Franz's 4",
+   2.3
+  ],
+  [
+   "walk",
+   "Papoose 2",
+   "Bear Cub - Upper / Papoose",
+   2.0
+  ],
+  [
+   "walk",
+   "Papoose 2",
+   "Franz's",
+   2.3
+  ],
+  [
+   "walk",
+   "Papoose 2",
+   "Fisheye / Porcupine",
+   3.7
+  ],
+  [
+   "walk",
+   "Papoose 2",
+   "Wild Card / Bear Cub - Upper",
+   3.9
+  ],
+  [
+   "walk",
+   "Papoose 2",
+   "Franz's 4",
+   3.2
+  ],
+  [
+   "walk",
+   "Franz's",
+   "Bear Cub - Upper / Papoose",
+   1.4
+  ],
+  [
+   "walk",
+   "Franz's",
+   "Papoose 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Franz's",
+   "Fisheye / Porcupine",
+   3.0
+  ],
+  [
+   "walk",
+   "Franz's",
+   "Wild Card / Bear Cub - Upper",
+   3.2
+  ],
+  [
+   "walk",
+   "Franz's",
+   "Franz's 4",
+   2.5
+  ],
+  [
+   "walk",
+   "Fisheye / Porcupine",
+   "Bear Cub - Upper / Papoose",
+   2.8
+  ],
+  [
+   "walk",
+   "Fisheye / Porcupine",
+   "Papoose 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Fisheye / Porcupine",
+   "Franz's",
+   3.0
+  ],
+  [
+   "walk",
+   "Fisheye / Porcupine",
+   "Wild Card / Bear Cub - Upper",
+   4.6
+  ],
+  [
+   "walk",
+   "Fisheye / Porcupine",
+   "Franz's 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Wild Card / Bear Cub - Upper",
+   "Bear Cub - Upper / Papoose",
+   3.0
+  ],
+  [
+   "walk",
+   "Wild Card / Bear Cub - Upper",
+   "Papoose 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Wild Card / Bear Cub - Upper",
+   "Franz's",
+   3.2
+  ],
+  [
+   "walk",
+   "Wild Card / Bear Cub - Upper",
+   "Fisheye / Porcupine",
+   4.6
+  ],
+  [
+   "walk",
+   "Wild Card / Bear Cub - Upper",
+   "Franz's 4",
+   4.1
+  ],
+  [
+   "walk",
+   "Fisheye 2",
+   "Bear Cub - Upper / Papoose",
+   4.0
+  ],
+  [
+   "walk",
+   "Fisheye 2",
+   "Papoose 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Fisheye 2",
+   "Franz's",
+   4.2
+  ],
+  [
+   "walk",
+   "Fisheye 2",
+   "Fisheye / Porcupine",
+   5.7
+  ],
+  [
+   "walk",
+   "Fisheye 2",
+   "Wild Card / Bear Cub - Upper",
+   5.8
+  ],
+  [
+   "walk",
+   "Fisheye 2",
+   "Franz's 4",
+   5.1
+  ],
+  [
+   "walk",
+   "Ridge Run / Jacob's Ladder",
+   "Die Hard / Pika's Traverse 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Ridge Run / Jacob's Ladder",
+   "Harmony Piste 5",
+   4.2
+  ],
+  [
+   "walk",
+   "Ridge Run / Jacob's Ladder",
+   "Pika's Traverse 4",
+   3.8
+  ],
+  [
+   "walk",
+   "Ridge Run / Jacob's Ladder",
+   "Ridge Run 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Ridge Run / Jacob's Ladder",
+   "Pika's Traverse 8",
+   5.2
+  ],
+  [
+   "walk",
+   "Harmony Piste 5",
+   "Ridge Run / Jacob's Ladder",
+   4.2
+  ],
+  [
+   "walk",
+   "Harmony Piste 5",
+   "Die Hard / Pika's Traverse 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Harmony Piste 5",
+   "Pika's Traverse 4",
+   4.2
+  ],
+  [
+   "walk",
+   "Harmony Piste 5",
+   "Ridge Run 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Harmony Piste 5",
+   "Pika's Traverse 8",
+   5.6
+  ],
+  [
+   "walk",
+   "Ridge Run 2",
+   "Ridge Run / Jacob's Ladder",
+   3.5
+  ],
+  [
+   "walk",
+   "Ridge Run 2",
+   "Die Hard / Pika's Traverse 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Ridge Run 2",
+   "Harmony Piste 5",
+   3.9
+  ],
+  [
+   "walk",
+   "Ridge Run 2",
+   "Pika's Traverse 4",
+   3.5
+  ],
+  [
+   "walk",
+   "Ridge Run 2",
+   "Pika's Traverse 8",
+   4.9
+  ],
+  [
+   "walk",
+   "Pika's Traverse 8",
+   "Ridge Run / Jacob's Ladder",
+   5.2
+  ],
+  [
+   "walk",
+   "Pika's Traverse 8",
+   "Die Hard / Pika's Traverse 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Pika's Traverse 8",
+   "Harmony Piste 5",
+   5.6
+  ],
+  [
+   "walk",
+   "Pika's Traverse 8",
+   "Pika's Traverse 4",
+   5.2
+  ],
+  [
+   "walk",
+   "Pika's Traverse 8",
+   "Ridge Run 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Catskinner Express top",
+   4.5
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Blackcomb Gondola Upper top",
+   4.8
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Peak 2 Peak Gondola top",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
+   "Catskinner Express top",
+   5.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
+   "Blackcomb Gondola Upper top",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
+   "Peak 2 Peak Gondola top",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Catskinner Express top",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Blackcomb Gondola Upper top",
+   4.5
+  ],
+  [
+   "walk",
+   "Cruiser Connector / Unnamed run",
+   "Download Road",
+   2.5
+  ],
+  [
+   "walk",
+   "Cruiser Connector / Unnamed run",
+   "Grub Stake",
+   4.2
+  ],
+  [
+   "walk",
+   "Cruiser Connector / Unnamed run",
+   "Shorthorn",
+   3.0
+  ],
+  [
+   "walk",
+   "Cruiser Connector / Unnamed run",
+   "Cruiser - Lower 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Excelerator Express bottom",
+   "Cruiser Connector / Unnamed run",
+   2.2
+  ],
+  [
+   "walk",
+   "Excelerator Express bottom",
+   "Grub Stake",
+   4.6
+  ],
+  [
+   "walk",
+   "Excelerator Express bottom",
+   "Cruiser - Lower 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Cruiser Connector",
+   "Cruiser Connector / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Cruiser Connector",
+   "Download Road",
+   3.7
+  ],
+  [
+   "walk",
+   "Cruiser Connector",
+   "Grub Stake",
+   5.4
+  ],
+  [
+   "walk",
+   "Cruiser Connector",
+   "Shorthorn",
+   4.2
+  ],
+  [
+   "walk",
+   "Cruiser Connector",
+   "Cruiser - Lower 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Download Road",
+   "Cruiser Connector / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Download Road",
+   "Grub Stake",
+   4.9
+  ],
+  [
+   "walk",
+   "Download Road",
+   "Shorthorn",
+   3.6
+  ],
+  [
+   "walk",
+   "Download Road",
+   "Cruiser - Lower 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Green Line 4",
+   "Cruiser Connector / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Green Line 4",
+   "Download Road",
+   3.1
+  ],
+  [
+   "walk",
+   "Green Line 4",
+   "Grub Stake",
+   4.9
+  ],
+  [
+   "walk",
+   "Green Line 4",
+   "Shorthorn",
+   3.6
+  ],
+  [
+   "walk",
+   "Green Line 4",
+   "Cruiser - Lower 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Cruiser 2",
+   "Cruiser Connector / Unnamed run",
+   4.3
+  ],
+  [
+   "walk",
+   "Cruiser 2",
+   "Excelerator Express bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Cruiser 2",
+   "Download Road",
+   5.0
+  ],
+  [
+   "walk",
+   "Cruiser 2",
+   "Grub Stake",
+   6.7
+  ],
+  [
+   "walk",
+   "Cruiser 2",
+   "Shorthorn",
+   5.5
+  ],
+  [
+   "walk",
+   "Cruiser 2",
+   "Cruiser - Lower 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Stoker 3",
+   "Cruiser Connector / Unnamed run",
+   2.9
+  ],
+  [
+   "walk",
+   "Stoker 3",
+   "Download Road",
+   3.6
+  ],
+  [
+   "walk",
+   "Stoker 3",
+   "Grub Stake",
+   5.3
+  ],
+  [
+   "walk",
+   "Stoker 3",
+   "Shorthorn",
+   4.1
+  ],
+  [
+   "walk",
+   "Stoker 3",
+   "Cruiser - Lower 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Wishbone / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Wishbone Connector",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Hershey Highway / Expressway",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Wishbone Connector 3",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Expressway Access",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Wishbone 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Expressway 4",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Expressway 5",
+   5.5
+  ],
+  [
+   "walk",
+   "Wishbone / Unnamed run",
+   "Wishbone Connector",
+   1.7
+  ],
+  [
+   "walk",
+   "Wishbone / Unnamed run",
+   "Hershey Highway / Expressway",
+   2.6
+  ],
+  [
+   "walk",
+   "Wishbone / Unnamed run",
+   "Wishbone Connector 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Wishbone / Unnamed run",
+   "Expressway Access",
+   1.7
+  ],
+  [
+   "walk",
+   "Wishbone / Unnamed run",
+   "Wishbone 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Wishbone / Unnamed run",
+   "Expressway 4",
+   2.7
+  ],
+  [
+   "walk",
+   "Wishbone / Unnamed run",
+   "Expressway 5",
+   4.3
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola top",
+   "Expressway 5",
+   4.3
+  ],
+  [
+   "walk",
+   "Wishbone Connector",
+   "Wishbone / Unnamed run",
+   1.7
+  ],
+  [
+   "walk",
+   "Wishbone Connector",
+   "Hershey Highway / Expressway",
+   1.2
+  ],
+  [
+   "walk",
+   "Wishbone Connector",
+   "Wishbone Connector 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Wishbone Connector",
+   "Expressway Access",
+   1.4
+  ],
+  [
+   "walk",
+   "Wishbone Connector",
+   "Wishbone 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Wishbone Connector",
+   "Expressway 4",
+   1.7
+  ],
+  [
+   "walk",
+   "Wishbone Connector",
+   "Expressway 5",
+   2.9
+  ],
+  [
+   "walk",
+   "Hershey Highway / Expressway",
+   "Wishbone / Unnamed run",
+   2.6
+  ],
+  [
+   "walk",
+   "Hershey Highway / Expressway",
+   "Peak 2 Peak Gondola top",
+   2.6
+  ],
+  [
+   "walk",
+   "Hershey Highway / Expressway",
+   "Wishbone Connector",
+   1.2
+  ],
+  [
+   "walk",
+   "Hershey Highway / Expressway",
+   "Wishbone Connector 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Hershey Highway / Expressway",
+   "Expressway Access",
+   1.5
+  ],
+  [
+   "walk",
+   "Hershey Highway / Expressway",
+   "Wishbone 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Hershey Highway / Expressway",
+   "Expressway 4",
+   1.7
+  ],
+  [
+   "walk",
+   "Hershey Highway / Expressway",
+   "Expressway 5",
+   2.9
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Wishbone / Unnamed run",
+   2.0
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Wishbone Connector",
+   3.0
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Hershey Highway / Expressway",
+   3.2
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Wishbone Connector 3",
+   4.2
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Expressway Access",
+   2.4
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Wishbone 3",
+   2.6
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Expressway 4",
+   3.7
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Expressway 5",
+   4.9
+  ],
+  [
+   "walk",
+   "Expressway Access",
+   "Wishbone / Unnamed run",
+   1.7
+  ],
+  [
+   "walk",
+   "Expressway Access",
+   "Wishbone Connector",
+   1.4
+  ],
+  [
+   "walk",
+   "Expressway Access",
+   "Hershey Highway / Expressway",
+   1.5
+  ],
+  [
+   "walk",
+   "Expressway Access",
+   "Wishbone Connector 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Expressway Access",
+   "Wishbone 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Expressway Access",
+   "Expressway 4",
+   2.0
+  ],
+  [
+   "walk",
+   "Expressway Access",
+   "Expressway 5",
+   3.2
+  ],
+  [
+   "walk",
+   "Wishbone 3",
+   "Wishbone / Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "Wishbone 3",
+   "Wishbone Connector",
+   1.7
+  ],
+  [
+   "walk",
+   "Wishbone 3",
+   "Hershey Highway / Expressway",
+   2.8
+  ],
+  [
+   "walk",
+   "Wishbone 3",
+   "Wishbone Connector 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Wishbone 3",
+   "Expressway Access",
+   1.7
+  ],
+  [
+   "walk",
+   "Wishbone 3",
+   "Expressway 4",
+   2.8
+  ],
+  [
+   "walk",
+   "Wishbone 3",
+   "Expressway 5",
+   4.3
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Wishbone / Unnamed run",
+   4.3
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Wishbone Connector",
+   5.1
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Hershey Highway / Expressway",
+   5.1
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Expressway Access",
+   4.8
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Wishbone 3",
+   4.9
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Expressway 4",
+   5.6
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Expressway 5",
+   6.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
+   "Wishbone Connector",
+   5.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
+   "Hershey Highway / Expressway",
+   5.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
+   "Expressway Access",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
+   "Expressway 4",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Wishbone Connector",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Hershey Highway / Expressway",
+   5.7
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Expressway Access",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Expressway 4",
+   6.0
+  ],
+  [
+   "walk",
+   "Cruiser Connector / Excelerator Express Chairlift Access",
+   "Excalibur Gondola Upper top",
+   4.3
+  ],
+  [
+   "walk",
+   "Cruiser Connector / Excelerator Express Chairlift Access",
+   "Download Road",
+   5.8
+  ],
+  [
+   "walk",
+   "Cruiser Connector / Excelerator Express Chairlift Access",
+   "Shorthorn",
+   5.7
+  ],
+  [
+   "walk",
+   "Cruiser Connector / Excelerator Express Chairlift Access",
+   "Cruiser Connector / Unnamed run",
+   5.2
+  ],
+  [
+   "walk",
+   "Cruiser Connector / Excelerator Express Chairlift Access",
+   "Cruiser - Lower 2",
+   6.9
+  ],
+  [
+   "walk",
+   "So Sweet / Green Line",
+   "Catskinner Traverse / Green Line",
+   5.2
+  ],
+  [
+   "walk",
+   "So Sweet / Green Line",
+   "Slingshot / Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "So Sweet / Green Line",
+   "Unnamed run / Sunnyside Up",
+   4.7
+  ],
+  [
+   "walk",
+   "Catskinner Traverse / Green Line",
+   "So Sweet / Green Line",
+   5.2
+  ],
+  [
+   "walk",
+   "Catskinner Traverse / Green Line",
+   "Slingshot / Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Catskinner Traverse / Green Line",
+   "Unnamed run / Sunnyside Up",
+   4.3
+  ],
+  [
+   "walk",
+   "Catskinner Traverse",
+   "So Sweet / Green Line",
+   5.6
+  ],
+  [
+   "walk",
+   "Catskinner Traverse",
+   "Catskinner Traverse / Green Line",
+   5.1
+  ],
+  [
+   "walk",
+   "Catskinner Traverse",
+   "Slingshot / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Catskinner Traverse",
+   "Unnamed run / Sunnyside Up",
+   4.7
+  ],
+  [
+   "walk",
+   "Slingshot / Unnamed run",
+   "So Sweet / Green Line",
+   4.2
+  ],
+  [
+   "walk",
+   "Slingshot / Unnamed run",
+   "Catskinner Traverse / Green Line",
+   3.7
+  ],
+  [
+   "walk",
+   "Slingshot / Unnamed run",
+   "Unnamed run / Sunnyside Up",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunnyside Up",
+   "So Sweet / Green Line",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunnyside Up",
+   "Catskinner Traverse / Green Line",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunnyside Up",
+   "Slingshot / Unnamed run",
+   3.3
+  ],
+  [
+   "walk",
+   "Castle Blue",
+   "So Sweet / Green Line",
+   5.4
+  ],
+  [
+   "walk",
+   "Castle Blue",
+   "Catskinner Traverse / Green Line",
+   5.0
+  ],
+  [
+   "walk",
+   "Castle Blue",
+   "Slingshot / Unnamed run",
+   4.0
+  ],
+  [
+   "walk",
+   "Castle Blue",
+   "Unnamed run / Sunnyside Up",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Jackpot",
+   "Mainline Bumps / Mainline - Upper",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Jackpot",
+   "Download Road 4",
+   4.1
+  ],
+  [
+   "walk",
+   "Download Road 2",
+   "Mainline Bumps / Mainline - Upper",
+   5.3
+  ],
+  [
+   "walk",
+   "Download Road 2",
+   "Download Road 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Download Road 3",
+   "Mainline Bumps / Mainline - Upper",
+   3.6
+  ],
+  [
+   "walk",
+   "Download Road 3",
+   "Download Road 4",
+   2.3
+  ],
+  [
+   "walk",
+   "Download Road 4",
+   "Mainline Bumps / Mainline - Upper",
+   2.8
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Excalibur Gondola Download / Unnamed run",
+   1.7
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Base2 Carpet top",
+   3.6
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Yellow Brick Road",
+   3.4
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Yellow Brick Road 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Unnamed run 7",
+   2.2
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Excalibur Gondolar Upload",
+   1.6
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Lot 6 Access",
+   1.6
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   2.5
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Base2 Carpet bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Excalibur Gondolar Upload / Unnamed run",
+   4.0
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Excalibur Gondola Download / Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Base2 Carpet top",
+   5.9
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Yellow Brick Road",
+   5.4
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Yellow Brick Road 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Unnamed run 7",
+   4.2
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Magic Chair top",
+   5.1
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Excalibur Gondolar Upload",
+   3.6
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Lot 6 Access",
+   3.6
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   4.5
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Base2 Carpet bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Excalibur Gondolar Upload / Unnamed run",
+   1.7
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Yellow Brick Road",
+   3.1
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Yellow Brick Road 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Unnamed run 7",
+   1.9
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Excalibur Gondolar Upload",
+   1.3
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Lot 6 Access",
+   1.3
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   2.2
+  ],
+  [
+   "walk",
+   "Base2 Carpet top",
+   "Excalibur Gondolar Upload / Unnamed run",
+   3.6
+  ],
+  [
+   "walk",
+   "Base2 Carpet top",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   4.3
+  ],
+  [
+   "walk",
+   "Yellow Brick Road",
+   "Excalibur Gondolar Upload / Unnamed run",
+   3.4
+  ],
+  [
+   "walk",
+   "Yellow Brick Road",
+   "Excalibur Gondola Download / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Yellow Brick Road",
+   "Yellow Brick Road 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Yellow Brick Road",
+   "Unnamed run 7",
+   2.5
+  ],
+  [
+   "walk",
+   "Yellow Brick Road",
+   "Magic Chair top",
+   2.1
+  ],
+  [
+   "walk",
+   "Yellow Brick Road",
+   "Excalibur Gondolar Upload",
+   3.0
+  ],
+  [
+   "walk",
+   "Yellow Brick Road",
+   "Lot 6 Access",
+   2.9
+  ],
+  [
+   "walk",
+   "Yellow Brick Road",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   4.0
+  ],
+  [
+   "walk",
+   "Yellow Brick Road 2",
+   "Excalibur Gondolar Upload / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Yellow Brick Road 2",
+   "Excalibur Gondola Download / Unnamed run",
+   2.3
+  ],
+  [
+   "walk",
+   "Yellow Brick Road 2",
+   "Yellow Brick Road",
+   1.4
+  ],
+  [
+   "walk",
+   "Yellow Brick Road 2",
+   "Unnamed run 7",
+   1.7
+  ],
+  [
+   "walk",
+   "Yellow Brick Road 2",
+   "Excalibur Gondolar Upload",
+   2.6
+  ],
+  [
+   "walk",
+   "Yellow Brick Road 2",
+   "Lot 6 Access",
+   2.6
+  ],
+  [
+   "walk",
+   "Yellow Brick Road 2",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   3.6
+  ],
+  [
+   "walk",
+   "School Marm / Merlin",
+   "Excalibur Gondolar Upload / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "School Marm / Merlin",
+   "Excalibur Gondola Download / Unnamed run",
+   2.8
+  ],
+  [
+   "walk",
+   "School Marm / Merlin",
+   "Yellow Brick Road",
+   2.6
+  ],
+  [
+   "walk",
+   "School Marm / Merlin",
+   "Yellow Brick Road 2",
+   2.1
+  ],
+  [
+   "walk",
+   "School Marm / Merlin",
+   "Unnamed run 7",
+   2.2
+  ],
+  [
+   "walk",
+   "School Marm / Merlin",
+   "Excalibur Gondolar Upload",
+   3.8
+  ],
+  [
+   "walk",
+   "School Marm / Merlin",
+   "Lot 6 Access",
+   3.2
+  ],
+  [
+   "walk",
+   "School Marm / Merlin",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Excalibur Gondolar Upload / Unnamed run",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Excalibur Gondola Download / Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Yellow Brick Road",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Yellow Brick Road 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Excalibur Gondolar Upload",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Lot 6 Access",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   2.8
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Excalibur Gondolar Upload / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Excalibur Gondola Download / Unnamed run",
+   1.3
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Yellow Brick Road",
+   3.0
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Yellow Brick Road 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Unnamed run 7",
+   1.8
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Lot 6 Access",
+   1.2
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   2.1
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Excalibur Gondolar Upload / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Excalibur Gondola Download / Unnamed run",
+   2.2
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Base2 Carpet top",
+   4.3
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Yellow Brick Road",
+   4.0
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Yellow Brick Road 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Unnamed run 7",
+   2.8
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Excalibur Gondolar Upload",
+   2.1
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Lot 6 Access",
+   2.1
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Base2 Carpet bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Base2 Carpet bottom",
+   "Excalibur Gondolar Upload / Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Base2 Carpet bottom",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   4.2
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "Excalibur Gondolar Upload / Unnamed run",
+   2.6
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "Excalibur Gondola Download / Unnamed run",
+   2.3
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "Yellow Brick Road",
+   3.7
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "Yellow Brick Road 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "Unnamed run 7",
+   2.7
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "Excalibur Gondolar Upload",
+   2.1
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "Lot 6 Access",
+   2.2
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   3.1
+  ],
+  [
+   "walk",
+   "Olympic Chair bottom",
+   "Garbanzo Express bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Olympic Chair bottom",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   5.1
+  ],
+  [
+   "walk",
+   "Scampland Carpet top",
+   "Olympic Chair bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
+   "Olympic Chair bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
+   "Whistler Village Gondola Upper bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
+   "Never Ever Flats Carpet bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet top",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   3.8
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Olympic Chair bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Never Ever Flats Carpet top",
+   3.8
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Whistler Village Gondola Upper bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Never Ever Flats Carpet bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper bottom",
+   "Garbanzo Express bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper bottom",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   3.9
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet bottom",
+   "Garbanzo Express bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet bottom",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   4.2
   ],
   [
    "walk",
    "Top Carpet top",
-   "Whistler Village Gondola Upper bottom",
-   2.6
+   "Garbanzo Express bottom",
+   4.0
   ],
   [
    "walk",
-   "Bear Cub - Upper / Papoose",
-   "Papoose 2",
-   2.0
+   "Top Carpet top",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   4.6
   ],
   [
    "walk",
-   "Bear Cub - Upper / Papoose",
-   "Franz's",
-   1.4
-  ],
-  [
-   "walk",
-   "Bear Cub - Upper / Papoose",
-   "Franz's 4",
-   2.3
-  ],
-  [
-   "walk",
-   "Papoose 2",
-   "Bear Cub - Upper / Papoose",
-   2.0
-  ],
-  [
-   "walk",
-   "Papoose 2",
-   "Franz's",
-   2.3
-  ],
-  [
-   "walk",
-   "Papoose 2",
-   "Franz's 4",
-   3.2
-  ],
-  [
-   "walk",
-   "Franz's",
-   "Bear Cub - Upper / Papoose",
-   1.4
-  ],
-  [
-   "walk",
-   "Franz's",
-   "Papoose 2",
-   2.3
-  ],
-  [
-   "walk",
-   "Franz's",
-   "Franz's 4",
-   2.5
-  ],
-  [
-   "walk",
-   "Ridge Run / Jacob's Ladder",
-   "Pika's Traverse 4",
+   "Bean Chute / Bean Patch",
+   "Olympic - Lower / Olympic - Upper",
    3.8
   ],
   [
    "walk",
-   "Ridge Run / Jacob's Ladder",
-   "Ridge Run 2",
+   "Bean Chute / Bean Patch",
+   "Fantastic",
+   5.3
+  ],
+  [
+   "walk",
+   "Bean Chute / Bean Patch",
+   "Never Ever Flats Carpet top",
+   4.2
+  ],
+  [
+   "walk",
+   "Bean Chute / Bean Patch",
+   "Expressway 2",
    3.5
   ],
   [
    "walk",
-   "Ridge Run 2",
-   "Ridge Run / Jacob's Ladder",
+   "Bean Chute / Bean Patch",
+   "Whistler Village Gondola Upper bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Bean Chute / Bean Patch",
+   "Adult Supercarpet top",
+   4.1
+  ],
+  [
+   "walk",
+   "Bean Chute / Bean Patch",
+   "Never Ever Flats Carpet bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Bean Chute / Bean Patch",
+   "Top Carpet top",
+   4.8
+  ],
+  [
+   "walk",
+   "It Happens Carpet bottom",
+   "Fantastic",
+   4.3
+  ],
+  [
+   "walk",
+   "It Happens Carpet bottom",
+   "Expressway 2",
+   3.3
+  ],
+  [
+   "walk",
+   "It Happens Carpet bottom",
+   "Adult Supercarpet top",
+   3.8
+  ],
+  [
+   "walk",
+   "It Happens Carpet bottom",
+   "Top Carpet top",
+   2.7
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Bean Chute / Bean Patch",
+   4.4
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Olympic - Lower / Olympic - Upper",
+   6.1
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "It Happens Carpet bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Fantastic",
+   6.3
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Never Ever Flats Carpet top",
+   5.8
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   4.0
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Expressway 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Whistler Village Gondola Upper bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Adult Supercarpet top",
+   5.1
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Scampland Carpet bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "It Happens Carpet top",
+   5.2
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Never Ever Flats Carpet bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Top Carpet top",
+   5.8
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
+   "Fantastic",
+   5.0
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
+   "Expressway 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
+   "Adult Supercarpet top",
+   3.7
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
+   "Top Carpet top",
+   4.4
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "Bean Chute / Bean Patch",
+   5.3
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "Garbanzo Express bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   5.6
+  ],
+  [
+   "walk",
+   "Fantastic",
+   "Expressway 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet top",
+   "Bean Chute / Bean Patch",
+   4.2
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet top",
+   "Fantastic",
+   2.7
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet top",
+   "Adult Supercarpet top",
+   2.8
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Fantastic",
+   5.6
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Expressway 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Adult Supercarpet top",
+   4.4
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Top Carpet top",
+   5.0
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Bean Chute / Bean Patch",
+   4.5
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Olympic - Lower / Olympic - Upper",
+   4.9
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "It Happens Carpet bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Garbanzo Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Fantastic",
+   3.2
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Never Ever Flats Carpet top",
+   4.4
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   4.9
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Expressway 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Whistler Village Gondola Upper bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Scampland Carpet bottom",
    3.5
   ],
   [
    "walk",
-   "Ridge Run 2",
-   "Pika's Traverse 4",
+   "Olympic - Upper",
+   "It Happens Carpet top",
+   3.8
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Never Ever Flats Carpet bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Top Carpet top",
+   3.6
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "Bean Chute / Bean Patch",
    3.5
   ],
   [
    "walk",
-   "Cruiser Connector / Unnamed run",
-   "Download Road",
+   "Expressway 2",
+   "Olympic - Lower / Olympic - Upper",
+   3.9
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "Fantastic",
+   3.2
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "Whistler Village Gondola Upper bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "Never Ever Flats Carpet bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "Olympic Chair bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper bottom",
+   "Bean Chute / Bean Patch",
+   4.6
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper bottom",
+   "Fantastic",
+   4.2
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper bottom",
+   "Expressway 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper bottom",
+   "Adult Supercarpet top",
+   4.2
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper bottom",
+   "Top Carpet top",
+   2.6
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
+   "Bean Chute / Bean Patch",
+   4.1
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
+   "Garbanzo Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   4.4
+  ],
+  [
+   "walk",
+   "Scampland Carpet bottom",
+   "Fantastic",
+   4.3
+  ],
+  [
+   "walk",
+   "Scampland Carpet bottom",
+   "Expressway 2",
    2.5
   ],
   [
    "walk",
-   "Cruiser Connector / Unnamed run",
-   "Shorthorn",
+   "Scampland Carpet bottom",
+   "Adult Supercarpet top",
    3.0
   ],
   [
    "walk",
-   "Excelerator Express bottom",
-   "Cruiser Connector / Unnamed run",
-   2.2
+   "Scampland Carpet bottom",
+   "Top Carpet top",
+   2.8
   ],
   [
    "walk",
-   "Excelerator Express bottom",
-   "Download Road",
-   2.9
+   "It Happens Carpet top",
+   "Fantastic",
+   3.9
   ],
   [
    "walk",
-   "Excelerator Express bottom",
-   "Shorthorn",
+   "It Happens Carpet top",
+   "Expressway 2",
+   2.8
+  ],
+  [
+   "walk",
+   "It Happens Carpet top",
+   "Adult Supercarpet top",
+   3.3
+  ],
+  [
+   "walk",
+   "It Happens Carpet top",
+   "Top Carpet top",
+   2.3
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet bottom",
+   "Bean Chute / Bean Patch",
+   4.7
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet bottom",
+   "Fantastic",
    3.4
   ],
   [
    "walk",
-   "Download Road",
-   "Cruiser Connector / Unnamed run",
-   2.5
-  ],
-  [
-   "walk",
-   "Download Road",
-   "Excelerator Express bottom",
-   2.9
-  ],
-  [
-   "walk",
-   "Download Road",
-   "Shorthorn",
-   3.6
-  ],
-  [
-   "walk",
-   "Green Line 4",
-   "Cruiser Connector / Unnamed run",
-   2.4
-  ],
-  [
-   "walk",
-   "Green Line 4",
-   "Excelerator Express bottom",
-   2.8
-  ],
-  [
-   "walk",
-   "Green Line 4",
-   "Download Road",
-   3.1
-  ],
-  [
-   "walk",
-   "Green Line 4",
-   "Shorthorn",
-   3.6
-  ],
-  [
-   "walk",
-   "Stoker 3",
-   "Cruiser Connector / Unnamed run",
-   2.9
-  ],
-  [
-   "walk",
-   "Stoker 3",
-   "Excelerator Express bottom",
-   3.3
-  ],
-  [
-   "walk",
-   "Stoker 3",
-   "Download Road",
-   3.6
-  ],
-  [
-   "walk",
-   "Stoker 3",
-   "Shorthorn",
-   4.1
-  ],
-  [
-   "walk",
-   "Wishbone / Unnamed run",
-   "Wishbone Connector",
-   1.7
-  ],
-  [
-   "walk",
-   "Wishbone / Unnamed run",
-   "Hershey Highway / Expressway",
-   2.6
-  ],
-  [
-   "walk",
-   "Wishbone / Unnamed run",
-   "Expressway Access",
-   1.7
-  ],
-  [
-   "walk",
-   "Wishbone / Unnamed run",
-   "Expressway 4",
-   2.7
-  ],
-  [
-   "walk",
-   "Peak 2 Peak Gondola top",
-   "Hershey Highway / Expressway",
-   2.6
-  ],
-  [
-   "walk",
-   "Peak 2 Peak Gondola top",
-   "Expressway 4",
-   3.1
-  ],
-  [
-   "walk",
-   "Wishbone Connector",
-   "Wishbone / Unnamed run",
-   1.7
-  ],
-  [
-   "walk",
-   "Wishbone Connector",
-   "Hershey Highway / Expressway",
-   1.2
-  ],
-  [
-   "walk",
-   "Wishbone Connector",
-   "Expressway Access",
-   1.4
-  ],
-  [
-   "walk",
-   "Wishbone Connector",
-   "Expressway 4",
-   1.7
-  ],
-  [
-   "walk",
-   "Hershey Highway / Expressway",
-   "Wishbone / Unnamed run",
-   2.6
-  ],
-  [
-   "walk",
-   "Hershey Highway / Expressway",
-   "Peak 2 Peak Gondola top",
-   2.6
-  ],
-  [
-   "walk",
-   "Hershey Highway / Expressway",
-   "Wishbone Connector",
-   1.2
-  ],
-  [
-   "walk",
-   "Hershey Highway / Expressway",
-   "Expressway Access",
-   1.5
-  ],
-  [
-   "walk",
-   "Hershey Highway / Expressway",
-   "Expressway 4",
-   1.7
-  ],
-  [
-   "walk",
-   "Expressway Access",
-   "Wishbone / Unnamed run",
-   1.7
-  ],
-  [
-   "walk",
-   "Expressway Access",
-   "Wishbone Connector",
-   1.4
-  ],
-  [
-   "walk",
-   "Expressway Access",
-   "Hershey Highway / Expressway",
-   1.5
-  ],
-  [
-   "walk",
-   "Expressway Access",
-   "Expressway 4",
-   2.0
-  ],
-  [
-   "walk",
-   "Cruiser Connector",
-   "Excalibur Gondola Upper top",
-   3.2
-  ],
-  [
-   "walk",
-   "Cruiser Connector",
-   "Cruiser Connector / Unnamed run",
-   4.1
-  ],
-  [
-   "walk",
-   "Slingshot / Unnamed run",
-   "Unnamed run / Sunnyside Up",
-   3.3
-  ],
-  [
-   "walk",
-   "Unnamed run / Sunnyside Up",
-   "Slingshot / Unnamed run",
-   3.3
-  ],
-  [
-   "walk",
-   "Download Road 3",
-   "Mainline Bumps / Mainline - Upper",
-   3.6
-  ],
-  [
-   "walk",
-   "Download Road 3",
-   "Download Road 4",
-   2.3
-  ],
-  [
-   "walk",
-   "Download Road 4",
-   "Mainline Bumps / Mainline - Upper",
-   2.8
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload / Unnamed run",
-   "Excalibur Gondola Download / Unnamed run",
-   1.7
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload / Unnamed run",
-   "Yellow Brick Road 2",
-   3.0
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload / Unnamed run",
-   "Unnamed run 7",
-   2.2
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload / Unnamed run",
-   "Magic Chair top",
-   3.0
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload / Unnamed run",
-   "Excalibur Gondolar Upload",
-   1.6
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload / Unnamed run",
-   "Lot 6 Access",
-   1.6
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload / Unnamed run",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   2.5
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "Excalibur Gondolar Upload / Unnamed run",
-   1.7
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "Yellow Brick Road 2",
-   2.3
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "Unnamed run 7",
-   1.9
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "Excalibur Gondolar Upload",
-   1.3
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "Lot 6 Access",
-   1.3
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   2.2
-  ],
-  [
-   "walk",
-   "Yellow Brick Road 2",
-   "Excalibur Gondolar Upload / Unnamed run",
-   3.0
-  ],
-  [
-   "walk",
-   "Yellow Brick Road 2",
-   "Excalibur Gondola Download / Unnamed run",
-   2.3
-  ],
-  [
-   "walk",
-   "Yellow Brick Road 2",
-   "Unnamed run 7",
-   1.7
-  ],
-  [
-   "walk",
-   "Yellow Brick Road 2",
-   "Excalibur Gondolar Upload",
-   2.6
-  ],
-  [
-   "walk",
-   "Yellow Brick Road 2",
-   "Lot 6 Access",
-   2.6
-  ],
-  [
-   "walk",
-   "Yellow Brick Road 2",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   3.6
-  ],
-  [
-   "walk",
-   "Unnamed run 7",
-   "Excalibur Gondolar Upload / Unnamed run",
-   2.2
-  ],
-  [
-   "walk",
-   "Unnamed run 7",
-   "Excalibur Gondola Download / Unnamed run",
-   1.9
-  ],
-  [
-   "walk",
-   "Unnamed run 7",
-   "Yellow Brick Road 2",
-   1.7
-  ],
-  [
-   "walk",
-   "Unnamed run 7",
-   "Excalibur Gondolar Upload",
-   1.8
-  ],
-  [
-   "walk",
-   "Unnamed run 7",
-   "Lot 6 Access",
-   1.8
-  ],
-  [
-   "walk",
-   "Unnamed run 7",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   2.8
-  ],
-  [
-   "walk",
-   "Magic Chair top",
-   "Excalibur Gondolar Upload / Unnamed run",
-   3.0
-  ],
-  [
-   "walk",
-   "Magic Chair top",
-   "Excalibur Gondolar Upload",
-   2.6
-  ],
-  [
-   "walk",
-   "Magic Chair top",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   3.6
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload",
-   "Excalibur Gondolar Upload / Unnamed run",
-   1.6
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload",
-   "Excalibur Gondola Download / Unnamed run",
-   1.3
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload",
-   "Yellow Brick Road 2",
-   2.6
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload",
-   "Unnamed run 7",
-   1.8
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload",
-   "Magic Chair top",
-   2.6
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload",
-   "Lot 6 Access",
-   1.2
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   2.1
-  ],
-  [
-   "walk",
-   "Lot 6 Access",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   2.1
-  ],
-  [
-   "walk",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   "Excalibur Gondolar Upload / Unnamed run",
-   2.5
-  ],
-  [
-   "walk",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   "Excalibur Gondola Download / Unnamed run",
-   2.2
-  ],
-  [
-   "walk",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   "Yellow Brick Road 2",
-   3.6
-  ],
-  [
-   "walk",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   "Unnamed run 7",
-   2.8
-  ],
-  [
-   "walk",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   "Magic Chair top",
-   3.6
-  ],
-  [
-   "walk",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   "Excalibur Gondolar Upload",
-   2.1
-  ],
-  [
-   "walk",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   "Lot 6 Access",
-   2.1
-  ],
-  [
-   "walk",
-   "Village Run 2",
-   "Excalibur Gondolar Upload / Unnamed run",
-   2.6
-  ],
-  [
-   "walk",
-   "Village Run 2",
-   "Excalibur Gondola Download / Unnamed run",
-   2.3
-  ],
-  [
-   "walk",
-   "Village Run 2",
-   "Yellow Brick Road 2",
-   2.8
-  ],
-  [
-   "walk",
-   "Village Run 2",
-   "Unnamed run 7",
-   2.7
-  ],
-  [
-   "walk",
-   "Village Run 2",
-   "Excalibur Gondolar Upload",
-   2.1
-  ],
-  [
-   "walk",
-   "Village Run 2",
-   "Lot 6 Access",
-   2.2
-  ],
-  [
-   "walk",
-   "Village Run 2",
-   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   3.1
-  ],
-  [
-   "walk",
-   "Whistler Village Gondola Upper bottom",
-   "Scampland Carpet bottom",
-   2.2
-  ],
-  [
-   "walk",
-   "Scampland Carpet bottom",
-   "Whistler Village Gondola Upper bottom",
-   2.2
-  ],
-  [
-   "walk",
-   "Scampland Carpet bottom",
    "Never Ever Flats Carpet bottom",
-   2.2
+   "Expressway 2",
+   4.2
   ],
   [
    "walk",
    "Never Ever Flats Carpet bottom",
-   "Scampland Carpet bottom",
-   2.2
-  ],
-  [
-   "walk",
-   "Expressway 2",
-   "Scampland Carpet bottom",
-   2.5
-  ],
-  [
-   "walk",
-   "Expressway 2",
-   "It Happens Carpet top",
-   2.8
-  ],
-  [
-   "walk",
    "Adult Supercarpet top",
-   "Scampland Carpet bottom",
-   3.0
+   3.4
   ],
   [
    "walk",
-   "Adult Supercarpet top",
-   "It Happens Carpet top",
-   3.3
+   "Top Carpet top",
+   "Bean Chute / Bean Patch",
+   4.8
   ],
   [
    "walk",
-   "Scampland Carpet bottom",
-   "Expressway 2",
-   2.5
+   "Olympic Chair bottom",
+   "Bean Chute / Bean Patch",
+   5.6
   ],
   [
    "walk",
-   "Scampland Carpet bottom",
-   "Adult Supercarpet top",
-   3.0
-  ],
-  [
-   "walk",
-   "It Happens Carpet top",
-   "Expressway 2",
-   2.8
-  ],
-  [
-   "walk",
-   "It Happens Carpet top",
-   "Adult Supercarpet top",
-   3.3
-  ],
-  [
-   "walk",
-   "Olympic - Lower / Olympic - Upper",
-   "Garbanzo Express bottom",
-   2.8
-  ],
-  [
-   "walk",
-   "Garbanzo Express bottom",
-   "Olympic - Lower / Olympic - Upper",
-   2.8
-  ],
-  [
-   "walk",
-   "Garbanzo Express bottom",
-   "Never Ever Flats Carpet top",
-   3.3
-  ],
-  [
-   "walk",
-   "Garbanzo Express bottom",
-   "Whistler Village Gondola Upper bottom",
-   3.6
-  ],
-  [
-   "walk",
-   "Garbanzo Express bottom",
-   "It Happens Carpet top",
-   2.2
-  ],
-  [
-   "walk",
-   "Garbanzo Express bottom",
-   "Never Ever Flats Carpet bottom",
+   "Olympic Chair bottom",
+   "Scampland Carpet top",
    3.8
   ],
   [
    "walk",
-   "Never Ever Flats Carpet top",
-   "Garbanzo Express bottom",
-   3.3
+   "Olympic Chair bottom",
+   "Expressway 2",
+   4.8
   ],
   [
    "walk",
-   "Whistler Village Gondola Upper bottom",
-   "Garbanzo Express bottom",
-   3.6
+   "Olympic Chair bottom",
+   "Adult Supercarpet top",
+   4.2
   ],
   [
    "walk",
-   "It Happens Carpet top",
-   "Garbanzo Express bottom",
-   2.2
+   "Bean Chute / Bean Patch",
+   "Olympic Chair bottom",
+   5.6
   ],
   [
    "walk",
-   "Never Ever Flats Carpet bottom",
-   "Garbanzo Express bottom",
+   "Olympic - Lower / Olympic - Upper",
+   "Bean Chute / Bean Patch",
    3.8
+  ],
+  [
+   "walk",
+   "Olympic - Lower / Olympic - Upper",
+   "Scampland Carpet top",
+   2.8
+  ],
+  [
+   "walk",
+   "Olympic - Lower / Olympic - Upper",
+   "Fantastic",
+   4.1
+  ],
+  [
+   "walk",
+   "Olympic - Lower / Olympic - Upper",
+   "Expressway 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Olympic - Lower / Olympic - Upper",
+   "Adult Supercarpet top",
+   4.1
+  ],
+  [
+   "walk",
+   "Olympic - Lower / Olympic - Upper",
+   "Top Carpet top",
+   2.5
+  ],
+  [
+   "walk",
+   "The Bite",
+   "Jersey Cream Express bottom",
+   4.2
   ],
   [
    "walk",
@@ -15944,6 +20313,18 @@
   ],
   [
    "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "T-Bar 2 bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Peak Express bottom",
+   4.6
+  ],
+  [
+   "walk",
    "Unnamed run / Peak Traverse",
    "The Saddle / Headwall",
    2.0
@@ -15953,6 +20334,12 @@
    "Unnamed run / Peak Traverse",
    "The Saddle 3",
    2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Peak Traverse",
+   "Shale Chute / Shale Slope",
+   3.8
   ],
   [
    "walk",
@@ -15981,6 +20368,12 @@
   [
    "walk",
    "The Saddle / Headwall",
+   "Shale Chute / Shale Slope",
+   3.5
+  ],
+  [
+   "walk",
+   "The Saddle / Headwall",
    "Headwall",
    2.5
   ],
@@ -15995,6 +20388,12 @@
    "Peak Express bottom",
    "The Saddle 3",
    2.2
+  ],
+  [
+   "walk",
+   "Peak Express bottom",
+   "Shale Chute / Shale Slope",
+   3.8
   ],
   [
    "walk",
@@ -16017,6 +20416,12 @@
   [
    "walk",
    "The Saddle 3",
+   "Shale Chute / Shale Slope",
+   3.7
+  ],
+  [
+   "walk",
+   "The Saddle 3",
    "Headwall",
    2.7
   ],
@@ -16025,6 +20430,36 @@
    "The Saddle 3",
    "The Saddle 6",
    1.6
+  ],
+  [
+   "walk",
+   "Shale Chute / Shale Slope",
+   "Unnamed run / Peak Traverse",
+   3.8
+  ],
+  [
+   "walk",
+   "Shale Chute / Shale Slope",
+   "The Saddle / Headwall",
+   2.8
+  ],
+  [
+   "walk",
+   "Shale Chute / Shale Slope",
+   "The Saddle 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Shale Chute / Shale Slope",
+   "Headwall",
+   4.3
+  ],
+  [
+   "walk",
+   "Shale Chute / Shale Slope",
+   "The Saddle 6",
+   3.1
   ],
   [
    "walk",
@@ -16041,14 +20476,14 @@
   [
    "walk",
    "Headwall",
-   "Peak Express bottom",
-   2.9
+   "The Saddle 3",
+   2.7
   ],
   [
    "walk",
    "Headwall",
-   "The Saddle 3",
-   2.7
+   "Shale Chute / Shale Slope",
+   4.3
   ],
   [
    "walk",
@@ -16077,14 +20512,62 @@
   [
    "walk",
    "The Saddle 6",
+   "Shale Chute / Shale Slope",
+   3.2
+  ],
+  [
+   "walk",
+   "The Saddle 6",
    "Headwall",
    2.2
   ],
   [
    "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "The Saddle / Headwall",
+   4.7
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "The Saddle 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Shale Chute / Shale Slope",
+   6.6
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "The Saddle 6",
+   4.5
+  ],
+  [
+   "walk",
+   "Blackcomb Home Run / Unnamed run",
+   "Excalibur Gondola Download / Unnamed run",
+   3.6
+  ],
+  [
+   "walk",
+   "Blackcomb Home Run / Unnamed run",
+   "Excalibur Gondola Upper bottom",
+   4.2
+  ],
+  [
+   "walk",
    "Blackcomb Home Run / Unnamed run",
    "Yellow Brick Road",
    2.2
+  ],
+  [
+   "walk",
+   "Blackcomb Home Run / Unnamed run",
+   "Wood Run / Yellow Brick Road",
+   4.1
   ],
   [
    "walk",
@@ -16113,8 +20596,110 @@
   [
    "walk",
    "Blackcomb Home Run / Unnamed run",
-   "Magic Chair top",
-   2.3
+   "Excalibur Gondolar Upload",
+   4.7
+  ],
+  [
+   "walk",
+   "Blackcomb Home Run / Unnamed run",
+   "Merlin 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Blackcomb Home Run / Unnamed run",
+   "Lot 6 Access",
+   3.8
+  ],
+  [
+   "walk",
+   "Blackcomb Home Run / Unnamed run",
+   "Village Run 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Blackcomb Home Run / Unnamed run",
+   "Excalibur Gondolar Upload / Unnamed run",
+   4.8
+  ],
+  [
+   "walk",
+   "Blackcomb Home Run / Unnamed run",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   5.5
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Blackcomb Home Run / Unnamed run",
+   3.6
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Wood Run / Yellow Brick Road",
+   4.3
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "School Marm / Merlin",
+   2.8
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Merlin",
+   3.6
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Merlin 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Download / Unnamed run",
+   "Village Run 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Upper bottom",
+   "Blackcomb Home Run / Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Upper bottom",
+   "Wood Run / Yellow Brick Road",
+   3.5
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Upper bottom",
+   "School Marm / Merlin",
+   3.4
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Upper bottom",
+   "Merlin",
+   3.9
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Upper bottom",
+   "Merlin 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Excalibur Gondola Upper bottom",
+   "Village Run 2",
+   4.0
   ],
   [
    "walk",
@@ -16125,8 +20710,8 @@
   [
    "walk",
    "Yellow Brick Road",
-   "Yellow Brick Road 2",
-   1.4
+   "Wood Run / Yellow Brick Road",
+   3.2
   ],
   [
    "walk",
@@ -16137,20 +20722,20 @@
   [
    "walk",
    "Yellow Brick Road",
-   "Unnamed run 7",
-   2.5
-  ],
-  [
-   "walk",
-   "Yellow Brick Road",
    "Merlin",
    1.9
   ],
   [
    "walk",
    "Yellow Brick Road",
-   "Magic Chair top",
-   2.1
+   "Merlin 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Yellow Brick Road",
+   "Village Run 2",
+   4.0
   ],
   [
    "walk",
@@ -16161,8 +20746,8 @@
   [
    "walk",
    "Yellow Brick Road 2",
-   "Yellow Brick Road",
-   1.4
+   "Wood Run / Yellow Brick Road",
+   3.3
   ],
   [
    "walk",
@@ -16178,6 +20763,18 @@
   ],
   [
    "walk",
+   "Yellow Brick Road 2",
+   "Merlin 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Yellow Brick Road 2",
+   "Village Run 2",
+   2.8
+  ],
+  [
+   "walk",
    "School Marm / Merlin",
    "Blackcomb Home Run / Unnamed run",
    2.3
@@ -16185,20 +20782,8 @@
   [
    "walk",
    "School Marm / Merlin",
-   "Yellow Brick Road",
-   2.6
-  ],
-  [
-   "walk",
-   "School Marm / Merlin",
-   "Yellow Brick Road 2",
-   2.1
-  ],
-  [
-   "walk",
-   "School Marm / Merlin",
-   "Unnamed run 7",
-   2.2
+   "Wood Run / Yellow Brick Road",
+   4.5
   ],
   [
    "walk",
@@ -16208,6 +20793,18 @@
   ],
   [
    "walk",
+   "School Marm / Merlin",
+   "Merlin 2",
+   3.6
+  ],
+  [
+   "walk",
+   "School Marm / Merlin",
+   "Village Run 2",
+   3.3
+  ],
+  [
+   "walk",
    "Unnamed run 7",
    "Blackcomb Home Run / Unnamed run",
    3.0
@@ -16215,8 +20812,8 @@
   [
    "walk",
    "Unnamed run 7",
-   "Yellow Brick Road",
-   2.5
+   "Wood Run / Yellow Brick Road",
+   4.4
   ],
   [
    "walk",
@@ -16229,6 +20826,108 @@
    "Unnamed run 7",
    "Merlin",
    3.0
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Merlin 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Village Run 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Blackcomb Home Run / Unnamed run",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Excalibur Gondola Download / Unnamed run",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Excalibur Gondola Upper bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Yellow Brick Road",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Wood Run / Yellow Brick Road",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Yellow Brick Road 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "School Marm / Merlin",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Unnamed run 7",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Merlin",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Excalibur Gondolar Upload",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Merlin 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Lot 6 Access",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Village Run 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Excalibur Gondolar Upload / Unnamed run",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Cruiser - Lower",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   6.2
   ],
   [
    "walk",
@@ -16239,8 +20938,26 @@
   [
    "walk",
    "Merlin",
+   "Excalibur Gondola Download / Unnamed run",
+   3.6
+  ],
+  [
+   "walk",
+   "Merlin",
+   "Excalibur Gondola Upper bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Merlin",
    "Yellow Brick Road",
    1.9
+  ],
+  [
+   "walk",
+   "Merlin",
+   "Wood Run / Yellow Brick Road",
+   3.8
   ],
   [
    "walk",
@@ -16268,15 +20985,99 @@
   ],
   [
    "walk",
-   "Magic Chair top",
-   "Blackcomb Home Run / Unnamed run",
-   2.3
+   "Merlin",
+   "Excalibur Gondolar Upload",
+   4.5
+  ],
+  [
+   "walk",
+   "Merlin",
+   "Merlin 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Merlin",
+   "Lot 6 Access",
+   3.4
+  ],
+  [
+   "walk",
+   "Merlin",
+   "Village Run 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Merlin",
+   "Excalibur Gondolar Upload / Unnamed run",
+   4.9
+  ],
+  [
+   "walk",
+   "Merlin",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   5.5
   ],
   [
    "walk",
    "Magic Chair top",
+   "Wood Run / Yellow Brick Road",
+   4.0
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Blackcomb Home Run / Unnamed run",
+   4.7
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Wood Run / Yellow Brick Road",
+   4.1
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "School Marm / Merlin",
+   3.8
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
    "Merlin",
-   2.7
+   4.5
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Merlin 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload",
+   "Village Run 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Lot 6 Access",
+   "Blackcomb Home Run / Unnamed run",
+   3.8
+  ],
+  [
+   "walk",
+   "Lot 6 Access",
+   "School Marm / Merlin",
+   3.2
+  ],
+  [
+   "walk",
+   "Lot 6 Access",
+   "Village Run 2",
+   3.7
   ],
   [
    "walk",
@@ -16286,15 +21087,105 @@
   ],
   [
    "walk",
-   "Lot 6 Access",
-   "Base2 Carpet top",
-   2.6
+   "Base2 Carpet bottom",
+   "Village Run 2",
+   3.4
   ],
   [
    "walk",
-   "Lot 6 Access",
-   "Base2 Carpet bottom",
-   2.3
+   "Village Run 2",
+   "Blackcomb Home Run / Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "Wood Run / Yellow Brick Road",
+   5.1
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "School Marm / Merlin",
+   3.3
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "Merlin",
+   4.5
+  ],
+  [
+   "walk",
+   "Village Run 2",
+   "Merlin 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Blackcomb Home Run / Unnamed run",
+   4.8
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "School Marm / Merlin",
+   3.9
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Merlin",
+   4.9
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Merlin 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Excalibur Gondolar Upload / Unnamed run",
+   "Village Run 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Blackcomb Home Run / Unnamed run",
+   5.5
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "School Marm / Merlin",
+   4.5
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Merlin",
+   5.5
+  ],
+  [
+   "walk",
+   "Showcase Traverse",
+   "Showcase Traverse / Crystal Traverse",
+   5.6
+  ],
+  [
+   "walk",
+   "Showcase Traverse",
+   "Rock Alley",
+   6.6
+  ],
+  [
+   "walk",
+   "Showcase Traverse",
+   "Glacier Drive 9",
+   4.9
   ],
   [
    "walk",
@@ -16355,138 +21246,6 @@
    "Bear Cub / Bear Cub - Lower",
    "Pony Trail - Lower",
    2.5
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Upper bottom",
-   "Base2 Carpet top",
-   3.0
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Upper bottom",
-   "Base2 Carpet bottom",
-   2.8
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Upper bottom",
-   "School Marm / Merlin",
-   3.4
-  ],
-  [
-   "walk",
-   "Base2 Carpet top",
-   "Excalibur Gondola Upper bottom",
-   3.0
-  ],
-  [
-   "walk",
-   "Base2 Carpet top",
-   "Excalibur Gondolar Upload / Unnamed run",
-   4.0
-  ],
-  [
-   "walk",
-   "Base2 Carpet top",
-   "Excalibur Gondola Download / Unnamed run",
-   2.5
-  ],
-  [
-   "walk",
-   "Base2 Carpet top",
-   "Excalibur Gondolar Upload",
-   3.6
-  ],
-  [
-   "walk",
-   "Base2 Carpet top",
-   "Lot 6 Access",
-   2.9
-  ],
-  [
-   "walk",
-   "Lot 6 Access",
-   "Blackcomb Home Run / Unnamed run",
-   3.8
-  ],
-  [
-   "walk",
-   "Lot 6 Access",
-   "School Marm / Merlin",
-   3.2
-  ],
-  [
-   "walk",
-   "Base2 Carpet bottom",
-   "Excalibur Gondola Upper bottom",
-   2.8
-  ],
-  [
-   "walk",
-   "Base2 Carpet bottom",
-   "Excalibur Gondolar Upload / Unnamed run",
-   3.8
-  ],
-  [
-   "walk",
-   "Base2 Carpet bottom",
-   "Excalibur Gondola Download / Unnamed run",
-   2.9
-  ],
-  [
-   "walk",
-   "Base2 Carpet bottom",
-   "Excalibur Gondolar Upload",
-   3.4
-  ],
-  [
-   "walk",
-   "Base2 Carpet bottom",
-   "Lot 6 Access",
-   3.3
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload / Unnamed run",
-   "Base2 Carpet top",
-   4.0
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload / Unnamed run",
-   "Base2 Carpet bottom",
-   3.8
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "Base2 Carpet top",
-   2.5
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "Base2 Carpet bottom",
-   2.9
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload",
-   "Base2 Carpet top",
-   3.6
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload",
-   "Base2 Carpet bottom",
-   3.4
-  ],
-  [
-   "walk",
-   "School Marm / Merlin",
-   "Excalibur Gondola Upper bottom",
-   3.4
   ],
   [
    "walk",
@@ -16508,363 +21267,1047 @@
   ],
   [
    "walk",
+   "Peak To Creek, Peak to Creek - Upper / Matthew's Traverse",
+   "Whistler Bowl 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Peak To Creek, Peak to Creek - Upper / Matthew's Traverse",
+   "East Ridge",
+   4.1
+  ],
+  [
+   "walk",
+   "Piccolo Loop / Piccolo Windrow Cornice",
+   "Rhapsody Bowl / Piccolo Loop",
+   3.7
+  ],
+  [
+   "walk",
    "Piccolo Loop / Piccolo Windrow Cornice",
    "Piccolo Shoulder / Piccolo Backside Loop",
    2.9
   ],
   [
    "walk",
+   "Piccolo Loop / Piccolo Windrow Cornice",
+   "Flute Bowls Access / Piccolo Loop",
+   4.0
+  ],
+  [
+   "walk",
+   "Piccolo Loop / Piccolo Windrow Cornice",
+   "Piccolo Backside Loop",
+   3.5
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Unnamed run / Peak Traverse",
+   5.7
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Headwall",
+   5.1
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "T-Bar 2 bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Unnamed run / Peak Traverse",
+   4.6
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Headwall",
+   4.0
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "T-Bar 2 bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Peak Express bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "The Saddle / Headwall",
+   6.5
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "The Saddle 3",
+   6.7
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "The Saddle 6",
+   6.3
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Emerald 6 Express top",
+   5.5
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Ridge Run / Unnamed run",
+   4.5
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Unnamed run / Peak Traverse",
+   5.6
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Red Roll / Pony Trail - Upper",
+   6.1
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Red Roll",
+   5.2
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Pika's Traverse 5",
+   6.0
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Headwall",
+   4.9
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Unnamed run 12",
+   5.5
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "Unnamed run",
+   6.7
+  ],
+  [
+   "walk",
+   "Ridge Run",
+   "T-Bar 2 bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Pika's Traverse 5",
+   "Unnamed run / Peak Traverse",
+   6.2
+  ],
+  [
+   "walk",
+   "Pika's Traverse 5",
+   "Headwall",
+   5.5
+  ],
+  [
+   "walk",
+   "Ridge Run 3",
+   "Emerald 6 Express top",
+   6.0
+  ],
+  [
+   "walk",
+   "Ridge Run 3",
+   "Ridge Run / Unnamed run",
+   4.9
+  ],
+  [
+   "walk",
+   "Ridge Run 3",
+   "Unnamed run / Peak Traverse",
+   6.0
+  ],
+  [
+   "walk",
+   "Ridge Run 3",
+   "Red Roll / Pony Trail - Upper",
+   6.6
+  ],
+  [
+   "walk",
+   "Ridge Run 3",
+   "Red Roll",
+   5.7
+  ],
+  [
+   "walk",
+   "Ridge Run 3",
+   "Pika's Traverse 5",
+   6.5
+  ],
+  [
+   "walk",
+   "Ridge Run 3",
+   "Headwall",
+   5.4
+  ],
+  [
+   "walk",
+   "Ridge Run 3",
+   "Unnamed run 12",
+   6.0
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ego Bowl Access",
+   "Headwall",
+   6.6
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Unnamed run / Peak Traverse",
+   6.9
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Headwall",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed run 12",
+   "Unnamed run / Peak Traverse",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed run 12",
+   "Headwall",
+   5.7
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola bottom",
+   "Headwall",
+   6.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Jersey Cream Wall / The Spoon",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Wishbone Connector 2",
+   6.3
+  ],
+  [
+   "walk",
    "Catskinner Express top",
-   "Wishbone Connector 3",
+   "Jersey Cream Wall / The Spoon",
+   4.2
+  ],
+  [
+   "walk",
+   "Catskinner Express top",
+   "Wishbone Connector 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Wishbone / Unnamed run",
+   "Jersey Cream Wall / The Spoon",
    2.9
   ],
   [
    "walk",
-   "Catskinner Express top",
-   "Wishbone 3",
-   2.3
-  ],
-  [
-   "walk",
    "Wishbone / Unnamed run",
-   "Wishbone Connector 3",
-   2.7
-  ],
-  [
-   "walk",
-   "Wishbone / Unnamed run",
-   "Wishbone 3",
-   1.9
+   "Wishbone Connector 2",
+   3.9
   ],
   [
    "walk",
    "Peak 2 Peak Gondola top",
-   "Wishbone Connector 3",
-   3.1
+   "Wishbone Connector 2",
+   4.3
   ],
   [
    "walk",
    "Wishbone Connector",
-   "Wishbone Connector 3",
-   2.4
+   "Jersey Cream Wall / The Spoon",
+   3.9
   ],
   [
    "walk",
    "Wishbone Connector",
-   "Wishbone 3",
-   1.7
+   "Wishbone Connector 2",
+   3.6
   ],
   [
    "walk",
    "Hershey Highway / Expressway",
-   "Wishbone Connector 3",
-   3.5
+   "Jersey Cream Wall / The Spoon",
+   4.8
   ],
   [
    "walk",
    "Hershey Highway / Expressway",
-   "Wishbone 3",
-   2.8
+   "Wishbone Connector 2",
+   4.7
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Jersey Cream Wall / The Spoon",
+   3.6
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Wishbone Connector 2",
+   5.5
   ],
   [
    "walk",
    "Expressway Access",
+   "Jersey Cream Wall / The Spoon",
+   3.3
+  ],
+  [
+   "walk",
+   "Expressway Access",
+   "Wishbone Connector 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Wishbone 3",
+   "Jersey Cream Wall / The Spoon",
+   3.4
+  ],
+  [
+   "walk",
+   "Wishbone 3",
+   "Wishbone Connector 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
    "Wishbone Connector 3",
-   2.4
+   6.5
   ],
   [
    "walk",
-   "Expressway Access",
-   "Wishbone 3",
-   1.7
-  ],
-  [
-   "walk",
-   "Wishbone 3",
-   "Catskinner Express top",
-   2.3
-  ],
-  [
-   "walk",
-   "Wishbone 3",
+   "Unnamed run / Southside Green",
    "Wishbone / Unnamed run",
-   1.9
+   5.1
   ],
   [
    "walk",
+   "Unnamed run / Southside Green",
    "Wishbone 3",
-   "Wishbone Connector",
-   1.7
+   5.6
   ],
   [
    "walk",
-   "Wishbone 3",
-   "Hershey Highway / Expressway",
-   2.8
+   "Unnamed run 9",
+   "Wishbone / Unnamed run",
+   3.7
   ],
   [
    "walk",
+   "Unnamed run 9",
    "Wishbone 3",
-   "Wishbone Connector 3",
-   2.7
+   4.3
   ],
   [
    "walk",
-   "Wishbone 3",
-   "Expressway Access",
-   1.7
+   "Symphony Express top",
+   "Piccolo Shoulder / Burnt Stew Trail",
+   5.1
   ],
   [
    "walk",
-   "Wishbone 3",
-   "Expressway 4",
-   2.8
+   "Symphony Express top",
+   "Burnt Stew Trail 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Piccolo Loop / Piccolo Windrow Cornice",
+   "Piccolo Shoulder / Burnt Stew Trail",
+   5.9
+  ],
+  [
+   "walk",
+   "Piccolo Loop / Piccolo Windrow Cornice",
+   "Burnt Stew Trail 2",
+   6.3
+  ],
+  [
+   "walk",
+   "Garbo Hill / Unnamed run",
+   "Papoose / Banana Peel",
+   5.0
+  ],
+  [
+   "walk",
+   "Garbo Hill / Unnamed run",
+   "Papoose / Unnamed run",
+   4.6
+  ],
+  [
+   "walk",
+   "Garbo Hill / Unnamed run",
+   "Unnamed run / Lower Whiskey Jack",
+   4.8
   ],
   [
    "walk",
    "Bean Chute / Bean Patch",
-   "It Happens Carpet bottom",
-   3.1
+   "Crabapple Connector / Crabapple - Middle",
+   3.7
   ],
   [
    "walk",
    "Bean Chute / Bean Patch",
-   "Scampland Carpet bottom",
-   2.7
-  ],
-  [
-   "walk",
-   "Bean Chute / Bean Patch",
-   "Olympic - Lower / Olympic - Upper",
-   3.9
-  ],
-  [
-   "walk",
-   "Bean Chute / Bean Patch",
-   "It Happens Carpet top",
-   3.3
-  ],
-  [
-   "walk",
-   "It Happens Carpet bottom",
-   "Bean Chute / Bean Patch",
-   3.1
-  ],
-  [
-   "walk",
-   "It Happens Carpet bottom",
-   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
-   2.6
-  ],
-  [
-   "walk",
-   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
-   "It Happens Carpet bottom",
-   2.6
-  ],
-  [
-   "walk",
-   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
-   "Scampland Carpet bottom",
-   2.3
-  ],
-  [
-   "walk",
-   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
-   "Olympic - Lower / Olympic - Upper",
-   3.5
-  ],
-  [
-   "walk",
-   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
-   "It Happens Carpet top",
+   "Crabapple - Upper / Crabapple - Middle",
    2.9
   ],
   [
    "walk",
-   "Scampland Carpet bottom",
-   "Bean Chute / Bean Patch",
-   2.7
-  ],
-  [
-   "walk",
-   "Scampland Carpet bottom",
-   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
-   2.3
+   "Olympic - Lower / Olympic - Upper",
+   "Crabapple Connector / Crabapple - Middle",
+   5.7
   ],
   [
    "walk",
    "Olympic - Lower / Olympic - Upper",
+   "Crabapple - Upper / Crabapple - Middle",
+   4.8
+  ],
+  [
+   "walk",
+   "Scampland Carpet top",
+   "Crabapple Connector / Crabapple - Middle",
+   5.2
+  ],
+  [
+   "walk",
+   "Scampland Carpet top",
+   "Crabapple - Upper / Crabapple - Middle",
+   4.4
+  ],
+  [
+   "walk",
+   "It Happens Carpet bottom",
+   "Crabapple Connector / Crabapple - Middle",
+   4.9
+  ],
+  [
+   "walk",
+   "It Happens Carpet bottom",
+   "Crabapple - Upper / Crabapple - Middle",
+   4.1
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Crabapple Connector / Crabapple - Middle",
+   6.4
+  ],
+  [
+   "walk",
+   "Bear Paw / Bean Patch",
+   "Crabapple - Upper / Crabapple - Middle",
+   5.7
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet top",
+   "Crabapple Connector / Crabapple - Middle",
+   6.4
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet top",
+   "Crabapple - Upper / Crabapple - Middle",
+   5.5
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "Crabapple Connector / Crabapple - Middle",
+   5.6
+  ],
+  [
+   "walk",
+   "Expressway 2",
+   "Crabapple - Upper / Crabapple - Middle",
+   4.9
+  ],
+  [
+   "walk",
+   "Crabapple - Upper / Crabapple - Middle",
    "Bean Chute / Bean Patch",
-   3.9
-  ],
-  [
-   "walk",
-   "Olympic - Lower / Olympic - Upper",
-   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
-   3.5
-  ],
-  [
-   "walk",
-   "It Happens Carpet top",
-   "Bean Chute / Bean Patch",
-   3.3
-  ],
-  [
-   "walk",
-   "It Happens Carpet top",
-   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
    2.9
   ],
   [
    "walk",
-   "Wally World / Wishbone",
-   "Davies Dervish / Glacier Drive",
-   1.3
-  ],
-  [
-   "walk",
-   "Davies Dervish / Glacier Drive",
-   "Wally World / Wishbone",
-   1.3
-  ],
-  [
-   "walk",
-   "Olympic Chair bottom",
+   "Crabapple - Upper / Crabapple - Middle",
    "Olympic - Lower / Olympic - Upper",
-   2.2
+   4.8
   ],
   [
    "walk",
-   "Olympic Chair bottom",
+   "Crabapple - Upper / Crabapple - Middle",
+   "Scampland Carpet top",
+   4.4
+  ],
+  [
+   "walk",
+   "Crabapple - Upper / Crabapple - Middle",
    "It Happens Carpet bottom",
-   2.8
+   4.1
   ],
   [
    "walk",
-   "Olympic Chair bottom",
+   "Crabapple - Upper / Crabapple - Middle",
+   "Never Ever Flats Carpet top",
+   5.5
+  ],
+  [
+   "walk",
+   "Crabapple - Upper / Crabapple - Middle",
+   "Crabapple Connector / Crabapple - Middle",
+   4.3
+  ],
+  [
+   "walk",
+   "Crabapple - Upper / Crabapple - Middle",
    "Scampland Carpet bottom",
-   3.1
+   3.9
   ],
   [
    "walk",
-   "Olympic Chair bottom",
+   "Crabapple - Upper / Crabapple - Middle",
    "It Happens Carpet top",
-   2.6
+   4.4
   ],
   [
    "walk",
-   "Olympic Chair bottom",
+   "Crabapple - Upper / Crabapple - Middle",
+   "Whistler Village Gondola Upper bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Crabapple - Upper / Crabapple - Middle",
+   "Never Ever Flats Carpet bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Crabapple - Upper / Crabapple - Middle",
+   "Expressway 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Crabapple - Upper / Crabapple - Middle",
+   "Adult Supercarpet top",
+   6.1
+  ],
+  [
+   "walk",
+   "Crabapple - Upper / Crabapple - Middle",
    "Top Carpet top",
-   2.6
+   6.7
   ],
   [
    "walk",
-   "Olympic - Lower / Olympic - Upper",
-   "Olympic Chair bottom",
-   2.2
+   "Scampland Carpet bottom",
+   "Crabapple Connector / Crabapple - Middle",
+   4.7
   ],
   [
    "walk",
-   "Olympic - Lower / Olympic - Upper",
-   "Top Carpet top",
-   2.5
+   "Scampland Carpet bottom",
+   "Crabapple - Upper / Crabapple - Middle",
+   3.9
   ],
   [
    "walk",
-   "It Happens Carpet bottom",
-   "Olympic Chair bottom",
-   2.8
+   "It Happens Carpet top",
+   "Crabapple Connector / Crabapple - Middle",
+   5.3
   ],
   [
    "walk",
-   "It Happens Carpet bottom",
-   "Top Carpet top",
-   2.7
+   "It Happens Carpet top",
+   "Crabapple - Upper / Crabapple - Middle",
+   4.4
   ],
   [
    "walk",
    "Whistler Village Gondola Upper bottom",
+   "Crabapple Connector / Crabapple - Middle",
+   6.4
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper bottom",
+   "Crabapple - Upper / Crabapple - Middle",
+   5.6
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet bottom",
+   "Crabapple Connector / Crabapple - Middle",
+   6.7
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet bottom",
+   "Crabapple - Upper / Crabapple - Middle",
+   5.9
+  ],
+  [
+   "walk",
    "Top Carpet top",
+   "Crabapple - Upper / Crabapple - Middle",
+   6.2
+  ],
+  [
+   "walk",
+   "Olympic - Upper",
+   "Crabapple - Upper / Crabapple - Middle",
+   6.6
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
+   "Crabapple Connector / Crabapple - Middle",
+   6.8
+  ],
+  [
+   "walk",
+   "Adult Supercarpet top",
+   "Crabapple - Upper / Crabapple - Middle",
+   6.1
+  ],
+  [
+   "walk",
+   "Crosscut / Crystal Glide",
+   "Crosscut",
+   4.1
+  ],
+  [
+   "walk",
+   "Crosscut / Crystal Glide",
+   "Wally World / Wishbone",
+   2.7
+  ],
+  [
+   "walk",
+   "Crosscut / Crystal Glide",
+   "Davies Dervish / Glacier Drive",
+   2.7
+  ],
+  [
+   "walk",
+   "Crosscut / Crystal Glide",
+   "Staircase / Jersey Cream",
+   5.0
+  ],
+  [
+   "walk",
+   "Crosscut / Crystal Glide",
+   "Crosscut 5",
+   4.1
+  ],
+  [
+   "walk",
+   "Crosscut",
+   "Crosscut / Crystal Glide",
+   4.1
+  ],
+  [
+   "walk",
+   "Crosscut",
+   "Wally World / Wishbone",
    2.6
   ],
   [
    "walk",
-   "Scampland Carpet bottom",
-   "Olympic Chair bottom",
-   3.1
+   "Crosscut",
+   "Davies Dervish / Glacier Drive",
+   2.6
   ],
   [
    "walk",
-   "Scampland Carpet bottom",
-   "Top Carpet top",
+   "Crosscut",
+   "Staircase / Jersey Cream",
+   4.9
+  ],
+  [
+   "walk",
+   "Crosscut",
+   "Crosscut 5",
+   3.9
+  ],
+  [
+   "walk",
+   "Cougar Milk Connector / Cougar Milk",
+   "Crosscut / Crystal Glide",
+   4.8
+  ],
+  [
+   "walk",
+   "Cougar Milk Connector / Cougar Milk",
+   "Crosscut",
+   4.7
+  ],
+  [
+   "walk",
+   "Cougar Milk Connector / Cougar Milk",
+   "Wally World / Wishbone",
+   3.4
+  ],
+  [
+   "walk",
+   "Cougar Milk Connector / Cougar Milk",
+   "Davies Dervish / Glacier Drive",
+   3.0
+  ],
+  [
+   "walk",
+   "Cougar Milk Connector / Cougar Milk",
+   "Staircase / Jersey Cream",
+   4.6
+  ],
+  [
+   "walk",
+   "Cougar Milk Connector / Cougar Milk",
+   "Crosscut 5",
+   4.7
+  ],
+  [
+   "walk",
+   "Wally World / Wishbone",
+   "Crosscut / Crystal Glide",
+   2.7
+  ],
+  [
+   "walk",
+   "Wally World / Wishbone",
+   "Crosscut",
+   2.6
+  ],
+  [
+   "walk",
+   "Wally World / Wishbone",
+   "Davies Dervish / Glacier Drive",
+   1.3
+  ],
+  [
+   "walk",
+   "Wally World / Wishbone",
+   "Staircase / Jersey Cream",
+   3.5
+  ],
+  [
+   "walk",
+   "Wally World / Wishbone",
+   "Crosscut 5",
+   2.6
+  ],
+  [
+   "walk",
+   "Davies Dervish / Blue Line",
+   "Crosscut / Crystal Glide",
+   6.5
+  ],
+  [
+   "walk",
+   "Davies Dervish / Blue Line",
+   "Crosscut",
+   6.3
+  ],
+  [
+   "walk",
+   "Davies Dervish / Blue Line",
+   "Wally World / Wishbone",
+   5.0
+  ],
+  [
+   "walk",
+   "Davies Dervish / Blue Line",
+   "Davies Dervish / Glacier Drive",
+   4.0
+  ],
+  [
+   "walk",
+   "Davies Dervish / Blue Line",
+   "Staircase / Jersey Cream",
+   5.6
+  ],
+  [
+   "walk",
+   "Davies Dervish / Blue Line",
+   "Jersey Cream Express bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Davies Dervish / Blue Line",
+   "Crosscut 5",
+   6.4
+  ],
+  [
+   "walk",
+   "Davies Dervish / Glacier Drive",
+   "Crosscut / Crystal Glide",
+   2.7
+  ],
+  [
+   "walk",
+   "Davies Dervish / Glacier Drive",
+   "Crosscut",
+   2.6
+  ],
+  [
+   "walk",
+   "Davies Dervish / Glacier Drive",
+   "Wally World / Wishbone",
+   1.3
+  ],
+  [
+   "walk",
+   "Davies Dervish / Glacier Drive",
+   "Staircase / Jersey Cream",
    2.8
   ],
   [
    "walk",
-   "It Happens Carpet top",
+   "Davies Dervish / Glacier Drive",
+   "Crosscut 5",
+   2.6
+  ],
+  [
+   "walk",
+   "The Bite",
+   "Crosscut / Crystal Glide",
+   6.2
+  ],
+  [
+   "walk",
+   "The Bite",
+   "Crosscut",
+   6.0
+  ],
+  [
+   "walk",
+   "The Bite",
+   "Wally World / Wishbone",
+   4.7
+  ],
+  [
+   "walk",
+   "The Bite",
+   "Davies Dervish / Glacier Drive",
+   3.7
+  ],
+  [
+   "walk",
+   "The Bite",
+   "Crosscut 5",
+   6.1
+  ],
+  [
+   "walk",
+   "Staircase / Jersey Cream",
+   "Crosscut / Crystal Glide",
+   5.0
+  ],
+  [
+   "walk",
+   "Staircase / Jersey Cream",
+   "Crosscut",
+   4.9
+  ],
+  [
+   "walk",
+   "Staircase / Jersey Cream",
+   "Wally World / Wishbone",
+   3.5
+  ],
+  [
+   "walk",
+   "Staircase / Jersey Cream",
+   "Davies Dervish / Glacier Drive",
+   2.8
+  ],
+  [
+   "walk",
+   "Staircase / Jersey Cream",
+   "Crosscut 5",
+   4.9
+  ],
+  [
+   "walk",
+   "Wally World",
+   "Crosscut / Crystal Glide",
+   4.8
+  ],
+  [
+   "walk",
+   "Wally World",
+   "Crosscut",
+   4.6
+  ],
+  [
+   "walk",
+   "Wally World",
+   "Wally World / Wishbone",
+   3.3
+  ],
+  [
+   "walk",
+   "Wally World",
+   "Davies Dervish / Glacier Drive",
+   3.3
+  ],
+  [
+   "walk",
+   "Wally World",
+   "Staircase / Jersey Cream",
+   5.2
+  ],
+  [
+   "walk",
+   "Wally World",
+   "Crosscut 5",
+   4.6
+  ],
+  [
+   "walk",
+   "Crosscut 5",
+   "Crosscut / Crystal Glide",
+   4.1
+  ],
+  [
+   "walk",
+   "Crosscut 5",
+   "Crosscut",
+   3.9
+  ],
+  [
+   "walk",
+   "Crosscut 5",
+   "Wally World / Wishbone",
+   2.6
+  ],
+  [
+   "walk",
+   "Crosscut 5",
+   "Davies Dervish / Glacier Drive",
+   2.6
+  ],
+  [
+   "walk",
+   "Crosscut 5",
+   "Staircase / Jersey Cream",
+   4.9
+  ],
+  [
+   "walk",
    "Olympic Chair bottom",
+   "Top Carpet top",
    2.6
   ],
   [
    "walk",
-   "It Happens Carpet top",
-   "Top Carpet top",
-   2.3
+   "Olympic Chair bottom",
+   "Fantastic",
+   4.2
   ],
   [
    "walk",
-   "Top Carpet top",
-   "Olympic - Lower / Olympic - Upper",
-   2.5
-  ],
-  [
-   "walk",
-   "Top Carpet top",
-   "It Happens Carpet bottom",
-   2.6
-  ],
-  [
-   "walk",
-   "Top Carpet top",
-   "Scampland Carpet bottom",
-   2.5
-  ],
-  [
-   "walk",
-   "Bean Chute / Bean Patch",
-   "Crabapple - Upper / Crabapple - Middle",
-   2.9
-  ],
-  [
-   "walk",
-   "Garbanzo Express bottom",
-   "Crabapple - Upper / Crabapple - Middle",
-   2.3
+   "Olympic - Upper",
+   "Olympic Chair bottom",
+   5.4
   ],
   [
    "walk",
    "Crabapple - Upper / Crabapple - Middle",
-   "Bean Chute / Bean Patch",
-   2.9
+   "Olympic Chair bottom",
+   6.8
   ],
   [
    "walk",
+   "Olympic Chair bottom",
    "Crabapple - Upper / Crabapple - Middle",
-   "Garbanzo Express bottom",
-   2.3
+   6.8
   ],
   [
    "walk",
-   "Crabapple - Upper / Crabapple - Middle",
-   "Scampland Carpet bottom",
-   4.0
+   "Ridge Run",
+   "Peak 2 Peak Gondola bottom",
+   6.8
   ],
   [
    "walk",
-   "Scampland Carpet bottom",
-   "Crabapple - Upper / Crabapple - Middle",
-   4.0
+   "Unnamed run / Rendevous Drive",
+   "Hooker Hump / Jersey Cream",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Hooker Hump",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Rendevous Drive",
+   "Jersey Cream wall",
+   5.1
+  ],
+  [
+   "walk",
+   "Catskinner Express top",
+   "Hooker Hump / Jersey Cream",
+   5.2
   ],
   [
    "walk",
@@ -16874,69 +22317,249 @@
   ],
   [
    "walk",
-   "Wishbone / Unnamed run",
-   "The Spoon / Rendevous Drive",
-   2.0
-  ],
-  [
-   "walk",
-   "Blackcomb Gondola Upper top",
-   "The Spoon / Rendevous Drive",
-   2.7
-  ],
-  [
-   "walk",
-   "Wishbone Connector",
-   "The Spoon / Rendevous Drive",
-   3.0
-  ],
-  [
-   "walk",
-   "The Spoon / Rendevous Drive",
    "Catskinner Express top",
-   3.3
+   "Hooker Hump",
+   5.2
   ],
   [
    "walk",
-   "The Spoon / Rendevous Drive",
+   "Catskinner Express top",
+   "Jersey Cream wall",
+   4.8
+  ],
+  [
+   "walk",
    "Wishbone / Unnamed run",
+   "Hooker Hump / Jersey Cream",
+   3.9
+  ],
+  [
+   "walk",
+   "Wishbone / Unnamed run",
+   "The Spoon / Rendevous Drive",
    2.0
   ],
   [
    "walk",
-   "The Spoon / Rendevous Drive",
+   "Wishbone / Unnamed run",
+   "Hooker Hump",
+   3.9
+  ],
+  [
+   "walk",
+   "Wishbone / Unnamed run",
+   "Jersey Cream wall",
+   3.4
+  ],
+  [
+   "walk",
    "Blackcomb Gondola Upper top",
+   "Hooker Hump / Jersey Cream",
+   4.6
+  ],
+  [
+   "walk",
+   "Blackcomb Gondola Upper top",
+   "The Spoon / Rendevous Drive",
    2.7
   ],
   [
    "walk",
-   "The Spoon / Rendevous Drive",
+   "Blackcomb Gondola Upper top",
+   "Hooker Hump",
+   4.6
+  ],
+  [
+   "walk",
+   "Blackcomb Gondola Upper top",
+   "Jersey Cream wall",
+   4.1
+  ],
+  [
+   "walk",
    "Wishbone Connector",
+   "Hooker Hump / Jersey Cream",
+   4.9
+  ],
+  [
+   "walk",
+   "Wishbone Connector",
+   "The Spoon / Rendevous Drive",
    3.0
   ],
   [
    "walk",
+   "Wishbone Connector",
+   "Hooker Hump",
+   4.9
+  ],
+  [
+   "walk",
+   "Wishbone Connector",
+   "Jersey Cream wall",
+   4.4
+  ],
+  [
+   "walk",
    "The Spoon / Rendevous Drive",
+   "Hooker Hump / Jersey Cream",
+   4.5
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Hooker Hump",
+   4.6
+  ],
+  [
+   "walk",
+   "The Spoon / Rendevous Drive",
+   "Jersey Cream wall",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Jersey Cream Wall / The Spoon",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Hooker Hump / Jersey Cream",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Hooker Hump",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Wishbone Connector 3",
+   5.9
+  ],
+  [
+   "walk",
+   "Unnamed run 9",
+   "Jersey Cream wall",
+   5.8
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Jersey Cream Wall / The Spoon",
+   5.7
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Hooker Hump / Jersey Cream",
+   6.6
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Catskinner Express top",
+   5.4
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Wishbone / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Blackcomb Gondola Upper top",
+   4.8
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Wishbone Connector",
+   5.1
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Hershey Highway / Expressway",
+   6.0
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "The Spoon / Rendevous Drive",
+   4.8
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Hooker Hump",
+   6.7
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Wishbone Connector 3",
+   6.3
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
    "Expressway Access",
+   4.5
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Wishbone 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Expressway 4",
+   6.3
+  ],
+  [
+   "walk",
+   "Jersey Cream Wall",
+   "Jersey Cream wall",
+   6.2
+  ],
+  [
+   "walk",
+   "Expressway Access",
+   "Hooker Hump / Jersey Cream",
+   4.3
+  ],
+  [
+   "walk",
+   "Expressway Access",
+   "The Spoon / Rendevous Drive",
    2.4
   ],
   [
    "walk",
-   "The Spoon / Rendevous Drive",
-   "Wishbone 3",
-   2.6
-  ],
-  [
-   "walk",
-   "The Spoon / Rendevous Drive",
-   "Hershey Highway / Expressway",
-   3.9
+   "Expressway Access",
+   "Hooker Hump",
+   4.3
   ],
   [
    "walk",
    "Expressway Access",
-   "The Spoon / Rendevous Drive",
-   2.4
+   "Jersey Cream wall",
+   3.8
+  ],
+  [
+   "walk",
+   "Wishbone 3",
+   "Hooker Hump / Jersey Cream",
+   4.4
   ],
   [
    "walk",
@@ -16946,9 +22569,105 @@
   ],
   [
    "walk",
+   "Wishbone 3",
+   "Hooker Hump",
+   4.5
+  ],
+  [
+   "walk",
+   "Wishbone 3",
+   "Jersey Cream wall",
+   4.0
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Jersey Cream Wall / The Spoon",
+   5.9
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Hooker Hump / Jersey Cream",
+   6.9
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Jersey Cream wall",
+   6.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Southside Green",
+   "Jersey Cream Wall / The Spoon",
+   6.6
+  ],
+  [
+   "walk",
+   "Hershey Highway / Expressway",
+   "Hooker Hump / Jersey Cream",
+   5.8
+  ],
+  [
+   "walk",
    "Hershey Highway / Expressway",
    "The Spoon / Rendevous Drive",
    3.9
+  ],
+  [
+   "walk",
+   "Hershey Highway / Expressway",
+   "Hooker Hump",
+   5.8
+  ],
+  [
+   "walk",
+   "Hershey Highway / Expressway",
+   "Jersey Cream wall",
+   5.3
+  ],
+  [
+   "walk",
+   "Chris's Drop / Shale Chute",
+   "Unnamed run / Peak Traverse",
+   5.0
+  ],
+  [
+   "walk",
+   "Chris's Drop / Shale Chute",
+   "T-Bar 2 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Chris's Drop / Shale Chute",
+   "The Saddle / Headwall",
+   3.8
+  ],
+  [
+   "walk",
+   "Chris's Drop / Shale Chute",
+   "The Saddle 6",
+   4.1
+  ],
+  [
+   "walk",
+   "Chris's Drop / Shale Chute",
+   "The Saddle 3",
+   5.5
+  ],
+  [
+   "walk",
+   "Chris's Drop / Shale Chute",
+   "Headwall",
+   6.1
+  ],
+  [
+   "walk",
+   "Trapline / Ridge Runner",
+   "Unnamed run 3",
+   3.7
   ],
   [
    "walk",
@@ -16965,6 +22684,12 @@
   [
    "walk",
    "Crystal Road 2",
+   "Unnamed run 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Crystal Road 2",
    "Trapline / Ridge Runner",
    2.2
   ],
@@ -16973,6 +22698,30 @@
    "Crystal Road 2",
    "Trapline",
    2.5
+  ],
+  [
+   "walk",
+   "Upper Kadenwood Trail 2",
+   "Peak to Creek - Lower 4",
+   5.5
+  ],
+  [
+   "walk",
+   "Upper Kadenwood Trail 2",
+   "Peak to Creek - Lower Access",
+   4.2
+  ],
+  [
+   "walk",
+   "Upper Kadenwood Trail 2",
+   "Peak to Creek - Lower 7",
+   3.9
+  ],
+  [
+   "walk",
+   "Peak to Creek - Lower Access",
+   "Peak to Creek - Lower 4",
+   4.1
   ],
   [
    "walk",
@@ -16982,243 +22731,183 @@
   ],
   [
    "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "Yellow Brick Road",
-   3.2
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "School Marm / Merlin",
-   2.8
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "Village Run 2",
-   3.3
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "Blackcomb Home Run / Unnamed run",
+   "School Yard / Sidewinder",
+   "Olympic - Upper / Sidewinder",
    3.7
   ],
   [
    "walk",
-   "Excalibur Gondola Download / Unnamed run",
-   "Merlin",
-   4.1
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Upper bottom",
-   "Yellow Brick Road",
-   2.5
-  ],
-  [
-   "walk",
-   "Excalibur Gondola Upper bottom",
-   "Village Run 2",
-   4.0
-  ],
-  [
-   "walk",
-   "Base2 Carpet top",
-   "Village Run 2",
-   3.0
-  ],
-  [
-   "walk",
-   "Yellow Brick Road 2",
-   "Village Run 2",
-   2.8
-  ],
-  [
-   "walk",
-   "School Marm / Merlin",
-   "Excalibur Gondola Download / Unnamed run",
-   2.8
-  ],
-  [
-   "walk",
-   "School Marm / Merlin",
-   "Lot 6 Access",
-   3.2
-  ],
-  [
-   "walk",
-   "School Marm / Merlin",
-   "Village Run 2",
+   "School Yard / Sidewinder",
+   "Sidewinder 7",
    3.3
   ],
   [
    "walk",
-   "School Marm / Merlin",
-   "Excalibur Gondolar Upload",
-   4.0
+   "Old Crow / Ego Bowl",
+   "School Yard / Sidewinder",
+   4.3
   ],
   [
    "walk",
-   "Unnamed run 7",
-   "Village Run 2",
-   2.7
+   "Old Crow / Ego Bowl",
+   "Olympic - Upper / Sidewinder",
+   5.7
   ],
   [
    "walk",
-   "Lot 6 Access",
-   "Village Run 2",
-   3.7
+   "Old Crow / Ego Bowl",
+   "Sidewinder 7",
+   5.3
   ],
   [
    "walk",
-   "Base2 Carpet bottom",
-   "Village Run 2",
+   "Sidewinder 7",
+   "School Yard / Sidewinder",
+   3.3
+  ],
+  [
+   "walk",
+   "Sidewinder 7",
+   "Olympic - Upper / Sidewinder",
+   4.7
+  ],
+  [
+   "walk",
+   "Ego Bowl 2",
+   "School Yard / Sidewinder",
    3.4
   ],
   [
    "walk",
-   "Village Run 2",
-   "Base2 Carpet top",
-   3.0
+   "Ego Bowl 2",
+   "Olympic - Upper / Sidewinder",
+   4.8
   ],
   [
    "walk",
-   "Village Run 2",
-   "Yellow Brick Road",
-   3.7
+   "Ego Bowl 2",
+   "Sidewinder 7",
+   4.5
   ],
   [
    "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   "Merlin 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
    "Village Run 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
    "School Marm / Merlin",
+   6.4
+  ],
+  [
+   "walk",
+   "Jersey Cream Express top",
+   "Hooker Hump",
+   6.9
+  ],
+  [
+   "walk",
+   "Crosscut 4",
+   "Crosscut / Crystal Glide",
+   4.8
+  ],
+  [
+   "walk",
+   "Crosscut 4",
+   "Crosscut",
+   4.7
+  ],
+  [
+   "walk",
+   "Crosscut 4",
+   "Wally World / Wishbone",
    3.3
   ],
   [
    "walk",
-   "Village Run 2",
-   "Base2 Carpet bottom",
-   3.4
-  ],
-  [
-   "walk",
-   "Excalibur Gondolar Upload",
-   "School Marm / Merlin",
-   4.0
-  ],
-  [
-   "walk",
-   "Blackcomb Home Run / Unnamed run",
-   "Excalibur Gondola Download / Unnamed run",
-   3.7
-  ],
-  [
-   "walk",
-   "Blackcomb Home Run / Unnamed run",
-   "Lot 6 Access",
-   4.1
-  ],
-  [
-   "walk",
-   "Yellow Brick Road",
-   "Excalibur Gondola Download / Unnamed run",
-   3.6
-  ],
-  [
-   "walk",
-   "Merlin",
-   "Excalibur Gondola Download / Unnamed run",
-   4.1
-  ],
-  [
-   "walk",
-   "Crosscut",
-   "Wally World / Wishbone",
-   2.6
-  ],
-  [
-   "walk",
-   "Crosscut",
+   "Crosscut 4",
    "Davies Dervish / Glacier Drive",
-   2.6
+   3.3
   ],
   [
    "walk",
-   "Crosscut",
+   "Crosscut 4",
+   "Staircase / Jersey Cream",
+   5.6
+  ],
+  [
+   "walk",
+   "Crosscut 4",
    "Glacier Express bottom",
-   3.0
+   3.8
   ],
   [
    "walk",
-   "Crosscut",
+   "Crosscut 4",
    "Crosscut 5",
+   4.7
+  ],
+  [
+   "walk",
+   "Blue Line 2",
+   "Crosscut / Crystal Glide",
+   5.3
+  ],
+  [
+   "walk",
+   "Blue Line 2",
+   "Crosscut",
+   5.2
+  ],
+  [
+   "walk",
+   "Blue Line 2",
+   "Wally World / Wishbone",
    3.9
   ],
   [
    "walk",
-   "Wally World / Wishbone",
-   "Crosscut",
-   2.6
-  ],
-  [
-   "walk",
-   "Wally World / Wishbone",
-   "Crosscut 5",
-   2.6
-  ],
-  [
-   "walk",
+   "Blue Line 2",
    "Davies Dervish / Glacier Drive",
-   "Crosscut",
-   2.6
-  ],
-  [
-   "walk",
-   "Davies Dervish / Glacier Drive",
-   "Crosscut 5",
-   2.6
-  ],
-  [
-   "walk",
-   "Glacier Express bottom",
-   "Crosscut",
-   3.0
-  ],
-  [
-   "walk",
-   "Glacier Express bottom",
-   "Crosscut 5",
-   3.0
-  ],
-  [
-   "walk",
-   "Crosscut 5",
-   "Crosscut",
    3.9
   ],
   [
    "walk",
-   "Crosscut 5",
-   "Wally World / Wishbone",
-   2.6
+   "Blue Line 2",
+   "Staircase / Jersey Cream",
+   6.2
   ],
   [
    "walk",
-   "Crosscut 5",
-   "Davies Dervish / Glacier Drive",
-   2.6
-  ],
-  [
-   "walk",
-   "Crosscut 5",
+   "Blue Line 2",
    "Glacier Express bottom",
-   3.0
+   4.3
+  ],
+  [
+   "walk",
+   "Blue Line 2",
+   "Crosscut 5",
+   5.2
   ],
   [
    "walk",
    "Harmony Chairlift Line / GS Run",
    "Chunky's Choice / Unnamed run",
    2.5
+  ],
+  [
+   "walk",
+   "Harmony Chairlift Line / GS Run",
+   "Dapper's Delight / Unnamed run",
+   3.1
   ],
   [
    "walk",
@@ -17247,6 +22936,12 @@
   [
    "walk",
    "Chunky's Choice / Unnamed run",
+   "Dapper's Delight / Unnamed run",
+   4.3
+  ],
+  [
+   "walk",
+   "Chunky's Choice / Unnamed run",
    "Lower McConkey's / Sidewinder",
    2.6
   ],
@@ -17264,6 +22959,36 @@
   ],
   [
    "walk",
+   "Dapper's Delight / Unnamed run",
+   "Harmony Chairlift Line / GS Run",
+   3.1
+  ],
+  [
+   "walk",
+   "Dapper's Delight / Unnamed run",
+   "Chunky's Choice / Unnamed run",
+   4.3
+  ],
+  [
+   "walk",
+   "Dapper's Delight / Unnamed run",
+   "Lower McConkey's / Sidewinder",
+   3.2
+  ],
+  [
+   "walk",
+   "Dapper's Delight / Unnamed run",
+   "Sidewinder",
+   3.8
+  ],
+  [
+   "walk",
+   "Dapper's Delight / Unnamed run",
+   "Sidewinder 4",
+   3.3
+  ],
+  [
+   "walk",
    "Lower McConkey's / Sidewinder",
    "Harmony Chairlift Line / GS Run",
    1.4
@@ -17273,6 +22998,12 @@
    "Lower McConkey's / Sidewinder",
    "Chunky's Choice / Unnamed run",
    2.6
+  ],
+  [
+   "walk",
+   "Lower McConkey's / Sidewinder",
+   "Dapper's Delight / Unnamed run",
+   3.2
   ],
   [
    "walk",
@@ -17301,6 +23032,12 @@
   [
    "walk",
    "Sidewinder",
+   "Dapper's Delight / Unnamed run",
+   3.8
+  ],
+  [
+   "walk",
+   "Sidewinder",
    "Lower McConkey's / Sidewinder",
    2.1
   ],
@@ -17321,6 +23058,12 @@
    "Sidewinder 4",
    "Chunky's Choice / Unnamed run",
    2.7
+  ],
+  [
+   "walk",
+   "Sidewinder 4",
+   "Dapper's Delight / Unnamed run",
+   3.3
   ],
   [
    "walk",
@@ -17337,98 +23080,92 @@
   [
    "walk",
    "Excalibur Gondolar Upload / Unnamed run",
-   "Yellow Brick Road",
-   3.5
+   "Wood Run / Yellow Brick Road",
+   4.5
   ],
   [
    "walk",
-   "Excalibur Gondolar Upload",
-   "Yellow Brick Road",
-   3.0
+   "Lot 8 Access / Lot 8 Exit",
+   "Wood Run / Yellow Brick Road",
+   6.5
   ],
   [
    "walk",
    "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
-   "Yellow Brick Road",
-   4.0
+   "Wood Run / Yellow Brick Road",
+   5.1
   ],
   [
    "walk",
-   "Blackcomb Home Run / Unnamed run",
-   "Merlin 2",
-   3.4
+   "Olympic Chair bottom",
+   "Olympic - Lower 2",
+   4.6
   ],
   [
    "walk",
-   "Base2 Carpet top",
-   "Merlin 2",
-   2.7
+   "Olympic - Lower / Olympic - Upper",
+   "Olympic - Lower 2",
+   3.7
   ],
   [
    "walk",
-   "Yellow Brick Road",
-   "Merlin 2",
-   2.5
+   "Scampland Carpet top",
+   "Olympic - Lower 2",
+   6.3
   ],
   [
    "walk",
-   "Yellow Brick Road",
-   "Excalibur Gondola Upper bottom",
-   3.5
+   "It Happens Carpet bottom",
+   "Olympic - Lower 2",
+   4.5
   ],
   [
    "walk",
-   "Yellow Brick Road",
-   "Excalibur Gondolar Upload",
-   4.0
+   "Never Ever Flats Carpet top",
+   "Olympic - Lower 2",
+   4.4
   ],
   [
    "walk",
-   "Yellow Brick Road",
-   "Lot 6 Access",
-   4.0
+   "Scampland Carpet bottom",
+   "Olympic - Lower 2",
+   5.1
   ],
   [
    "walk",
-   "Yellow Brick Road",
-   "Village Run 2",
-   4.0
+   "It Happens Carpet top",
+   "Olympic - Lower 2",
+   4.7
   ],
   [
    "walk",
-   "Yellow Brick Road 2",
-   "Merlin 2",
-   2.6
-  ],
-  [
-   "walk",
-   "School Marm / Merlin",
-   "Merlin 2",
+   "Never Ever Flats Carpet bottom",
+   "Olympic - Lower 2",
    3.8
   ],
   [
    "walk",
-   "Unnamed run 7",
-   "Merlin 2",
-   3.6
+   "Top Carpet top",
+   "Olympic - Lower 2",
+   5.5
   ],
   [
    "walk",
-   "Merlin",
-   "Merlin 2",
-   3.0
+   "Adult Supercarpet top",
+   "Olympic - Lower 2",
+   6.8
   ],
   [
    "walk",
-   "Merlin",
-   "Excalibur Gondola Upper bottom",
-   4.0
+   "Garbanzo Express bottom",
+   "Olympic - Lower 2",
+   6.5
   ],
   [
    "walk",
-   "Magic Chair top",
-   "Merlin 2",
-   3.3
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Olympic - Lower 2",
+   6.8
   ],
   [
    "walk",
@@ -17439,68 +23176,140 @@
   [
    "walk",
    "Merlin 2",
-   "Base2 Carpet top",
-   2.7
-  ],
-  [
-   "walk",
-   "Merlin 2",
-   "Yellow Brick Road",
-   2.5
-  ],
-  [
-   "walk",
-   "Merlin 2",
-   "Yellow Brick Road 2",
-   2.6
-  ],
-  [
-   "walk",
-   "Merlin 2",
-   "Unnamed run 7",
-   3.6
-  ],
-  [
-   "walk",
-   "Merlin 2",
-   "Merlin",
-   3.0
-  ],
-  [
-   "walk",
-   "Merlin 2",
-   "Magic Chair top",
-   3.3
-  ],
-  [
-   "walk",
-   "Merlin 2",
-   "School Marm / Merlin",
-   3.8
-  ],
-  [
-   "walk",
-   "Lot 6 Access",
-   "Merlin",
-   3.6
-  ],
-  [
-   "walk",
-   "Lot 6 Access",
-   "Merlin 2",
+   "Excalibur Gondola Download / Unnamed run",
    4.2
   ],
   [
    "walk",
+   "Merlin 2",
    "Excalibur Gondola Upper bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Merlin 2",
+   "Base2 Carpet top",
+   2.7
+  ],
+  [
+   "walk",
+   "Merlin 2",
+   "Yellow Brick Road",
+   2.5
+  ],
+  [
+   "walk",
+   "Merlin 2",
+   "Wood Run / Yellow Brick Road",
+   4.4
+  ],
+  [
+   "walk",
+   "Merlin 2",
+   "Yellow Brick Road 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Merlin 2",
+   "Unnamed run 7",
+   3.6
+  ],
+  [
+   "walk",
+   "Merlin 2",
    "Merlin",
+   3.0
+  ],
+  [
+   "walk",
+   "Merlin 2",
+   "Magic Chair top",
+   3.3
+  ],
+  [
+   "walk",
+   "Merlin 2",
+   "Excalibur Gondolar Upload",
+   5.1
+  ],
+  [
+   "walk",
+   "Merlin 2",
+   "Lot 6 Access",
    4.0
   ],
   [
    "walk",
-   "Scampland Carpet top",
-   "Fantastic",
-   2.9
+   "Merlin 2",
+   "Excalibur Gondolar Upload / Unnamed run",
+   5.5
+  ],
+  [
+   "walk",
+   "Merlin 2",
+   "Blackcomb Bench Climb, Excalibur Gondolar Upload, Lot 7 Access",
+   6.1
+  ],
+  [
+   "walk",
+   "Merlin 2",
+   "School Marm / Merlin",
+   3.8
+  ],
+  [
+   "walk",
+   "Merlin 2",
+   "Village Run 2",
+   5.2
+  ],
+  [
+   "walk",
+   "Lot 8 Access / Lot 8 Exit",
+   "Merlin",
+   6.9
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách bottom",
+   "Village Run",
+   3.1
+  ],
+  [
+   "walk",
+   "Olympic - Lower / Village Run",
+   "Village Run",
+   3.4
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Lower bottom",
+   "Village Run",
+   4.0
+  ],
+  [
+   "walk",
+   "Jam Tart",
+   "Village Run",
+   6.3
+  ],
+  [
+   "walk",
+   "Blow Hole",
+   "Blow Hole 2",
+   3.2
+  ],
+  [
+   "walk",
+   "7th Heaven Express top",
+   "Glacier Express top",
+   6.6
+  ],
+  [
+   "walk",
+   "7th Heaven Express top",
+   "Showcase Quad bottom",
+   6.8
   ],
   [
    "walk",
@@ -17510,87 +23319,75 @@
   ],
   [
    "walk",
-   "Scampland Carpet top",
-   "Top Carpet top",
-   3.3
-  ],
-  [
-   "walk",
-   "Fantastic",
-   "Scampland Carpet top",
-   2.9
-  ],
-  [
-   "walk",
    "Fantastic",
    "Olympic - Upper",
    3.2
   ],
   [
    "walk",
-   "Fantastic",
    "Expressway 2",
-   3.2
-  ],
-  [
-   "walk",
    "Olympic - Upper",
-   "Scampland Carpet top",
-   3.6
-  ],
-  [
-   "walk",
-   "Olympic - Upper",
-   "Fantastic",
-   3.2
-  ],
-  [
-   "walk",
-   "Olympic - Upper",
-   "Expressway 2",
    3.9
   ],
   [
    "walk",
-   "Olympic - Upper",
-   "Top Carpet top",
-   3.6
-  ],
-  [
-   "walk",
-   "Expressway 2",
-   "Fantastic",
-   3.2
-  ],
-  [
-   "walk",
-   "Expressway 2",
-   "Olympic - Upper",
-   3.9
-  ],
-  [
-   "walk",
-   "Expressway 2",
-   "Top Carpet top",
-   3.6
-  ],
-  [
-   "walk",
-   "Top Carpet top",
-   "Scampland Carpet top",
-   3.3
-  ],
-  [
-   "walk",
    "Top Carpet top",
    "Olympic - Upper",
    3.6
   ],
   [
    "walk",
-   "Top Carpet top",
-   "Expressway 2",
-   3.6
+   "Bean Chute / Bean Patch",
+   "Olympic - Upper",
+   6.0
+  ],
+  [
+   "walk",
+   "It Happens Carpet bottom",
+   "Olympic - Upper",
+   5.7
+  ],
+  [
+   "walk",
+   "Garbanzo Express bottom",
+   "Olympic - Upper",
+   5.7
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet top",
+   "Olympic - Upper",
+   4.7
+  ],
+  [
+   "walk",
+   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Olympic - Upper",
+   6.3
+  ],
+  [
+   "walk",
+   "Scampland Carpet bottom",
+   "Olympic - Upper",
+   5.0
+  ],
+  [
+   "walk",
+   "It Happens Carpet top",
+   "Olympic - Upper",
+   5.3
+  ],
+  [
+   "walk",
+   "Never Ever Flats Carpet bottom",
+   "Olympic - Upper",
+   5.4
+  ],
+  [
+   "walk",
+   "Olympic - Lower / Olympic - Upper",
+   "Olympic - Upper",
+   6.1
   ],
   [
    "walk",
@@ -17601,20 +23398,8 @@
   [
    "walk",
    "Peak to Creek - Lower 2",
-   "Creekside Gondola, Sq̓útsa ti Tsaw̓ewéca, Ch’it ta Swá7elt bottom",
-   2.3
-  ],
-  [
-   "walk",
-   "Peak to Creek - Lower 2",
    "Franz's 7",
    2.3
-  ],
-  [
-   "walk",
-   "Franz's 3",
-   "Creekside Gondola, Sq̓útsa ti Tsaw̓ewéca, Ch’it ta Swá7elt bottom",
-   2.8
   ],
   [
    "walk",
@@ -17624,9 +23409,9 @@
   ],
   [
    "walk",
-   "Franz's 3",
-   "Creekside Carpet bottom",
-   2.5
+   "Whistler Creek Ski Out",
+   "Franz's 7",
+   4.3
   ],
   [
    "walk",
@@ -17636,170 +23421,20 @@
   ],
   [
    "walk",
-   "Olympic - Lower / Olympic - Upper",
-   "Scampland Carpet top",
-   2.8
-  ],
-  [
-   "walk",
-   "Olympic - Lower / Olympic - Upper",
-   "Expressway 2",
-   3.9
-  ],
-  [
-   "walk",
-   "Scampland Carpet top",
-   "Olympic - Lower / Olympic - Upper",
-   2.8
-  ],
-  [
-   "walk",
-   "Scampland Carpet top",
-   "It Happens Carpet bottom",
-   2.2
-  ],
-  [
-   "walk",
-   "Scampland Carpet top",
-   "Garbanzo Express bottom",
-   3.1
-  ],
-  [
-   "walk",
-   "Scampland Carpet top",
-   "Never Ever Flats Carpet top",
-   2.8
-  ],
-  [
-   "walk",
-   "Scampland Carpet top",
-   "Whistler Village Gondola Upper bottom",
-   3.4
-  ],
-  [
-   "walk",
-   "Scampland Carpet top",
-   "Never Ever Flats Carpet bottom",
-   3.3
-  ],
-  [
-   "walk",
-   "Scampland Carpet top",
-   "Bean Chute / Bean Patch",
-   4.2
-  ],
-  [
-   "walk",
-   "Scampland Carpet top",
-   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
+   "Jolly Green Giant / Ego Bowl Access",
+   "Pale Face / Roundhouse Roll",
    3.7
-  ],
-  [
-   "walk",
-   "It Happens Carpet bottom",
-   "Scampland Carpet top",
-   2.2
-  ],
-  [
-   "walk",
-   "It Happens Carpet bottom",
-   "Expressway 2",
-   3.3
-  ],
-  [
-   "walk",
-   "It Happens Carpet bottom",
-   "Adult Supercarpet top",
-   3.8
-  ],
-  [
-   "walk",
-   "Garbanzo Express bottom",
-   "Scampland Carpet top",
-   3.1
-  ],
-  [
-   "walk",
-   "Never Ever Flats Carpet top",
-   "Scampland Carpet top",
-   2.8
-  ],
-  [
-   "walk",
-   "Never Ever Flats Carpet top",
-   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
-   4.0
-  ],
-  [
-   "walk",
-   "Whistler Village Gondola Upper bottom",
-   "Scampland Carpet top",
-   3.4
-  ],
-  [
-   "walk",
-   "Never Ever Flats Carpet bottom",
-   "Scampland Carpet top",
-   3.3
-  ],
-  [
-   "walk",
-   "Expressway 2",
-   "Olympic - Lower / Olympic - Upper",
-   3.9
-  ],
-  [
-   "walk",
-   "Expressway 2",
-   "It Happens Carpet bottom",
-   3.3
-  ],
-  [
-   "walk",
-   "Adult Supercarpet top",
-   "It Happens Carpet bottom",
-   3.8
-  ],
-  [
-   "walk",
-   "Bean Chute / Bean Patch",
-   "Scampland Carpet top",
-   4.2
-  ],
-  [
-   "walk",
-   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
-   "Scampland Carpet top",
-   3.7
-  ],
-  [
-   "walk",
-   "Fitzsimmons Express, Tsíqten, Sḵwexwnách top",
-   "Never Ever Flats Carpet top",
-   4.0
-  ],
-  [
-   "walk",
-   "Never Ever Flats Carpet top",
-   "Expressway 2",
-   4.0
-  ],
-  [
-   "walk",
-   "Top Carpet top",
-   "Garbanzo Express bottom",
-   4.2
-  ],
-  [
-   "walk",
-   "Expressway 2",
-   "Never Ever Flats Carpet top",
-   4.0
   ],
   [
    "walk",
    "Jolly Green Giant / Ego Bowl Access",
-   "Red Roll / Pony Trail - Upper",
+   "Lower Roundhouse Roll / Upper Whiskey Jack",
+   3.6
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ego Bowl Access",
+   "Jolly Green Giant 3",
    3.6
   ],
   [
@@ -17811,14 +23446,68 @@
   [
    "walk",
    "Jolly Green Giant / Ego Bowl Access",
-   "Roundhouse Roll",
-   2.2
+   "Pony Trail - Upper 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ego Bowl Access",
+   "Pony Trail - Upper 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Pale Face / Roundhouse Roll",
+   4.8
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Lower Roundhouse Roll / Upper Whiskey Jack",
+   4.7
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Jolly Green Giant 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Fisheye",
+   4.1
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Pony Trail - Upper 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Emerald 6 Express top",
+   "Pony Trail - Upper 4",
+   5.4
   ],
   [
    "walk",
    "Unnamed run",
-   "Red Roll / Pony Trail - Upper",
+   "Pale Face / Roundhouse Roll",
    3.6
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Lower Roundhouse Roll / Upper Whiskey Jack",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Jolly Green Giant 3",
+   3.5
   ],
   [
    "walk",
@@ -17829,14 +23518,68 @@
   [
    "walk",
    "Unnamed run",
-   "Roundhouse Roll",
-   2.2
+   "Pony Trail - Upper 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Pony Trail - Upper 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Pale Face / Roundhouse Roll",
+   5.6
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Lower Roundhouse Roll / Upper Whiskey Jack",
+   5.6
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Jolly Green Giant 3",
+   5.5
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Fisheye",
+   4.7
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Pony Trail - Upper 2",
+   6.7
+  ],
+  [
+   "walk",
+   "Ridge Run / Unnamed run",
+   "Pony Trail - Upper 4",
+   6.0
   ],
   [
    "walk",
    "Roundhouse Access / Red Roll",
-   "Red Roll / Pony Trail - Upper",
-   2.9
+   "Pale Face / Roundhouse Roll",
+   3.1
+  ],
+  [
+   "walk",
+   "Roundhouse Access / Red Roll",
+   "Lower Roundhouse Roll / Upper Whiskey Jack",
+   3.3
+  ],
+  [
+   "walk",
+   "Roundhouse Access / Red Roll",
+   "Jolly Green Giant 3",
+   3.7
   ],
   [
    "walk",
@@ -17847,272 +23590,212 @@
   [
    "walk",
    "Roundhouse Access / Red Roll",
-   "Roundhouse Roll",
-   1.6
-  ],
-  [
-   "walk",
-   "Red Roll",
-   "Red Roll / Pony Trail - Upper",
-   3.9
-  ],
-  [
-   "walk",
-   "Red Roll",
-   "Fisheye",
-   3.2
-  ],
-  [
-   "walk",
-   "Red Roll",
-   "Roundhouse Roll",
-   2.6
-  ],
-  [
-   "walk",
-   "Roundhouse Roll",
-   "Jolly Green Giant / Ego Bowl Access",
-   2.2
-  ],
-  [
-   "walk",
-   "Roundhouse Roll",
-   "Unnamed run",
-   2.2
-  ],
-  [
-   "walk",
-   "Roundhouse Roll",
-   "Roundhouse Access / Red Roll",
-   1.6
-  ],
-  [
-   "walk",
-   "Roundhouse Roll",
-   "Red Roll / Pony Trail - Upper",
-   2.7
-  ],
-  [
-   "walk",
-   "Roundhouse Roll",
-   "Red Roll",
-   2.6
-  ],
-  [
-   "walk",
-   "Roundhouse Roll",
-   "Fisheye",
-   2.0
-  ],
-  [
-   "walk",
-   "Roundhouse Roll",
-   "Emerald 6 Express top",
-   3.4
-  ],
-  [
-   "walk",
-   "Roundhouse Roll",
-   "Unnamed run 12",
-   2.9
-  ],
-  [
-   "walk",
-   "Peak 2 Peak Gondola bottom",
-   "Red Roll / Pony Trail - Upper",
-   3.1
-  ],
-  [
-   "walk",
-   "Peak 2 Peak Gondola bottom",
-   "Fisheye",
-   2.4
-  ],
-  [
-   "walk",
-   "Emerald 6 Express top",
-   "Fisheye",
-   4.1
-  ],
-  [
-   "walk",
-   "Emerald 6 Express top",
-   "Roundhouse Roll",
-   3.4
-  ],
-  [
-   "walk",
-   "Unnamed run 12",
-   "Roundhouse Roll",
-   2.9
-  ],
-  [
-   "walk",
-   "Jolly Green Giant / Ego Bowl Access",
-   "Jolly Green Giant 8",
-   2.0
-  ],
-  [
-   "walk",
-   "Emerald 6 Express top",
-   "Jolly Green Giant 8",
-   3.2
-  ],
-  [
-   "walk",
-   "Unnamed run",
-   "Jolly Green Giant 8",
-   2.0
+   "Pony Trail - Upper 2",
+   4.3
   ],
   [
    "walk",
    "Roundhouse Access / Red Roll",
-   "Jolly Green Giant 8",
-   2.2
-  ],
-  [
-   "walk",
-   "Red Roll",
-   "Jolly Green Giant 8",
-   3.1
-  ],
-  [
-   "walk",
-   "Unnamed run 12",
-   "Jolly Green Giant 8",
-   2.7
-  ],
-  [
-   "walk",
-   "Unnamed run 12",
-   "Fisheye",
-   3.7
-  ],
-  [
-   "walk",
-   "Roundhouse Roll",
-   "Jolly Green Giant 8",
-   3.0
-  ],
-  [
-   "walk",
-   "Whistler Village Gondola Upper top",
-   "Jolly Green Giant 8",
-   2.5
-  ],
-  [
-   "walk",
-   "Fantastic",
-   "Olympic Chair bottom",
-   3.4
-  ],
-  [
-   "walk",
-   "Fantastic",
-   "Never Ever Flats Carpet top",
-   2.7
-  ],
-  [
-   "walk",
-   "Fantastic",
-   "It Happens Carpet top",
+   "Pony Trail - Upper 4",
    3.6
   ],
   [
    "walk",
-   "Fantastic",
-   "Never Ever Flats Carpet bottom",
-   3.4
-  ],
-  [
-   "walk",
-   "Fantastic",
-   "Olympic - Lower / Olympic - Upper",
+   "Red Roll",
+   "Pale Face / Roundhouse Roll",
    4.1
   ],
   [
    "walk",
-   "Fantastic",
-   "Scampland Carpet bottom",
-   4.1
+   "Red Roll",
+   "Lower Roundhouse Roll / Upper Whiskey Jack",
+   4.3
   ],
   [
    "walk",
-   "Never Ever Flats Carpet top",
-   "Fantastic",
-   2.7
+   "Red Roll",
+   "Jolly Green Giant 3",
+   4.6
   ],
   [
    "walk",
-   "Never Ever Flats Carpet top",
-   "Adult Supercarpet top",
-   2.8
+   "Red Roll",
+   "Fisheye",
+   3.2
   ],
   [
    "walk",
-   "Adult Supercarpet top",
-   "Olympic Chair bottom",
-   3.4
+   "Red Roll",
+   "Pony Trail - Upper 2",
+   5.3
   ],
   [
    "walk",
-   "Adult Supercarpet top",
-   "Never Ever Flats Carpet top",
-   2.8
+   "Red Roll",
+   "Pony Trail - Upper 4",
+   4.6
   ],
   [
    "walk",
-   "Adult Supercarpet top",
-   "Never Ever Flats Carpet bottom",
-   3.4
+   "Unnamed run 12",
+   "Pale Face / Roundhouse Roll",
+   4.3
   ],
   [
    "walk",
-   "Adult Supercarpet top",
-   "Olympic - Lower / Olympic - Upper",
-   4.1
-  ],
-  [
-   "walk",
-   "Never Ever Flats Carpet bottom",
-   "Fantastic",
-   3.4
-  ],
-  [
-   "walk",
-   "Never Ever Flats Carpet bottom",
-   "Adult Supercarpet top",
-   3.4
-  ],
-  [
-   "walk",
-   "Olympic Chair bottom",
-   "Fantastic",
+   "Unnamed run 12",
+   "Lower Roundhouse Roll / Upper Whiskey Jack",
    4.2
   ],
   [
    "walk",
-   "Olympic - Lower / Olympic - Upper",
-   "Fantastic",
+   "Unnamed run 12",
+   "Jolly Green Giant 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run 12",
+   "Fisheye",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run 12",
+   "Pony Trail - Upper 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run 12",
+   "Pony Trail - Upper 4",
+   4.8
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Pale Face / Roundhouse Roll",
+   2.9
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Lower Roundhouse Roll / Upper Whiskey Jack",
+   3.1
+  ],
+  [
+   "walk",
+   "Roundhouse Roll",
+   "Jolly Green Giant 3",
    4.1
   ],
   [
    "walk",
-   "Olympic - Lower / Olympic - Upper",
-   "Adult Supercarpet top",
-   4.1
+   "Roundhouse Roll",
+   "Fisheye",
+   2.0
   ],
   [
    "walk",
-   "It Happens Carpet top",
-   "Fantastic",
-   3.9
+   "Roundhouse Roll",
+   "Pony Trail - Upper 2",
+   4.0
   ],
   [
    "walk",
-   "Glacier Express top",
-   "Glacier Drive 9",
+   "Roundhouse Roll",
+   "Pony Trail - Upper 4",
    3.3
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola bottom",
+   "Pony Trail - Upper 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Peak 2 Peak Gondola bottom",
+   "Pony Trail - Upper 4",
+   3.7
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Pale Face / Roundhouse Roll",
+   6.6
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Lower Roundhouse Roll / Upper Whiskey Jack",
+   6.8
+  ],
+  [
+   "walk",
+   "Big Red Express, Tseqwtsíqwa Q̓ilq̓, Kwemkwim K’aýk top",
+   "Fisheye",
+   5.8
+  ],
+  [
+   "walk",
+   "Pika's Traverse 5",
+   "Pale Face / Roundhouse Roll",
+   6.7
+  ],
+  [
+   "walk",
+   "Pika's Traverse 5",
+   "Fisheye",
+   6.0
+  ],
+  [
+   "walk",
+   "Pika's Traverse 5",
+   "Lower Roundhouse Roll / Upper Whiskey Jack",
+   6.6
+  ],
+  [
+   "walk",
+   "Pika's Traverse 5",
+   "Jolly Green Giant 3",
+   6.6
+  ],
+  [
+   "walk",
+   "Whistler Village Gondola Upper bottom",
+   "Olympic - Upper",
+   6.2
+  ],
+  [
+   "walk",
+   "Olympic Chair bottom",
+   "Olympic - Upper",
+   6.1
+  ],
+  [
+   "walk",
+   "Showcase Traverse / Crystal Traverse",
+   "Rock Alley",
+   6.0
+  ],
+  [
+   "walk",
+   "Showcase Traverse / Crystal Traverse",
+   "Glacier Drive 9",
+   4.2
+  ],
+  [
+   "walk",
+   "Rock Alley",
+   "Glacier Drive 9",
+   4.8
+  ],
+  [
+   "walk",
+   "Glacier Drive 9",
+   "Rock Alley",
+   4.8
   ]
  ],
  "base": "Creekside Gondola, Sq̓útsa ti Tsaw̓ewéca, Ch’it ta Swá7elt bottom",
