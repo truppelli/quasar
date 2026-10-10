@@ -8,21 +8,20 @@ Where QUASAR is today, what the next milestones are, and the direction behind th
 | --- | --- |
 | Planner (`quasar.py`) | Exact branch-and-bound for small resorts and beam search for big ones (`optimal: false`). Unique-vertical objective with repeat penalties. |
 | Quantum (`quasar.py`, `circuit.py`, `qaoa.py`, `speedup.py`) | QWOA simulated in NumPy over classically enumerated routes, plus as a Qiskit circuit. Penalty-QUBO QAOA baseline, with both circuits packed into one IonQ job. Speedup analysis for the backtracking quantum walk (a quadratic speedup, which needs about 100+ lifts and runs before it pays off in wall-clock time). |
-| Real resort graphs (`datasets.py`) | Crystal Mountain WA and Whistler Blackcomb, built from OpenSkiMap and Global Ski Atlas. |
+| Qollab (`main.py`) | Qollab's Run button runs `main.py` on the machine picked in Select QPU: Crystal Quicksilver, 17 qubits, one job. Checked on Qollab's local simulator and IonQ's Forte Enterprise 1 noise-model simulator; first QPU job submitted to Forte Enterprise 1. |
+| Real resort graphs (`datasets.py`) | The 3D map's 20 US resorts (`datasets.py --top-us`, same slugs as the map), plus Crystal Mountain WA and Whistler Blackcomb, built from OpenSkiMap and Global Ski Atlas. Repeat runs score half credit, so long budgets fill the day. |
 | 2D visualizer (`viz.html`, `/`) | Plans and draws a route on any resort graph. |
 | 3D map (`map3d.html`, `/3d`) | 20 US resorts in 3D. Run inspector, 👍/👎 per run, per-level interest, feedback saved to `feedback.jsonl`, shareable links. |
 | API (`serve.py`) | Stdlib server: `/resorts`, `/resort`, `/plan`, `/geo`, `POST /feedback`. |
 
-In progress on `feature/repeat-scoring`: half credit for repeat runs so that long budgets fill the day.
-
-**The main gap:** the planner and the 3D map don't share any resorts yet. The map has 20 US resorts with geometry, the planner has 2 resorts with graphs, and none are in both. Milestone 1 closes that gap.
+**The main gap:** the planner and the 3D map now cover the same 20 resorts, but the map can't show a route yet. The graphs name runs by trail name while the map's geometry uses OpenSkiMap ids, so nothing links a planned run to its shape on the map. Milestone 1 closes that gap.
 
 ## Milestone 1: Plan your day on the 3D map
 
 This is the core product: a skier sees the mountain, says what they like, and gets a route.
 
-- **One data pipeline.** Merge `extract.py` and `datasets.py` into a single build that streams OpenSkiData once per resort and writes both the planner graph (`resorts/<slug>.json`) and the map geometry (`resorts/geo/<slug>.geojson`), with the same slugs and the same run ids. Build graphs for all 20 curated resorts.
-- **Route on the 3D map.** Call `/plan` from `map3d.html` and draw the route as an orange line with numbered steps, along with its score, minutes and `optimal` flag. Show the route list in the side panel.
+- **One data pipeline** *(graphs for all 20 curated resorts done, with the map's slugs)*. Merge `extract.py` and `datasets.py` into a single build that streams OpenSkiData once per resort and writes both the planner graph (`resorts/<slug>.json`) and the map geometry (`resorts/geo/<slug>.geojson`) with the same run ids.
+- **Route on the 3D map.** Call `/plan` from `map3d.html` and draw the route as an orange line with numbered steps, along with its score, minutes and `optimal` flag. Show the route list in the side panel. This doesn't have to wait for shared run ids: graph nodes store x/y metres from the resort's `origin_lonlat`, so the line can be drawn from the nodes.
 - **Start where you are.** Click a lift terminal or junction on the 3D map to set the start node. Add a minutes slider.
 - **Preference-aware planning.** Add `exclude=` (run ids) and `levels=` to `/plan` and `quasar.plan`. 👎 runs and "Skip" levels are excluded, and "Want" levels get a score bonus. This is the first place feedback changes the result.
 - **Retire or merge the 2D visualizer** once the 3D map does everything it does. Keep one map.
@@ -35,8 +34,9 @@ Validate the quantum algorithm on real hardware with honest claims.
 
 - **Lift-pod decomposition** *(done: `quasar.py --pods` / `--pod`)*. Split a resort into pods (one lift plus the runs it serves) and solve each pod separately, linked by traverses. The pods are small enough to enumerate (a few hundred routes, roughly 6–10 qubits).
 - **Qiskit circuit for QWOA** *(done: `circuit.py`; ran on IonQ's cloud simulator via `qaoa.py --ionq simulator`; first hardware target is 4 qubits, p=1, about 67 MS gates on the current Crystal graph)*. Port the NumPy QWOA to a Qiskit circuit: a phase separator over route indices, plus a complete-graph walk mixer, which is a Grover-style diffusion over the feasible-route register. Run it on a simulator first, then on IonQ through the `qiskit-ionq` provider.
-- **Benchmark against exact.** For each pod, report the probability of sampling the optimum, the approximation ratio and the shot count, compared with branch-and-bound. Publish the table in the README next to the speedup analysis.
+- **Benchmark against exact** *(P(optimal) and shots done in `qaoa.py`; approximation ratio next)*. For each pod, report the probability of sampling the optimum, the approximation ratio and the shot count, compared with branch-and-bound. Publish the table in the README next to the speedup analysis.
 - **Penalty-QUBO baseline** *(done: `qaoa.py`)*. Run standard X-mixer QAOA on the same pod. It needs 4–8× the qubits, and nearly all of its shots aren't routes.
+- **Hardware run** *(in progress)*. Crystal Quicksilver (17 min, 3 routes; 2 QWOA + 15 QAOA qubits, one packed job, 1,000 shots) submitted through Qollab to IonQ Forte Enterprise 1. Aria 1 is retired, so Forte is the target. Its results go in the README next to the simulator runs.
 - **Batch, not interactive.** Hardware runs are offline jobs whose results are cached and served. `/plan` stays classical so the app is fast.
 - **Be clear what this proves.** Route indexing is classical, so this validates QWOA rather than demonstrating any speedup. The README's speedup argument (backtracking walk, fault-tolerant scale) stays separate.
 
@@ -82,6 +82,5 @@ Use what skiers tell us.
 
 ## Open questions
 
-- Which pods make the best first hardware run: the smallest real pod, or a synthetic pod with a known optimum?
 - Should the curated set grow past 20 US resorts before the beta, or should the `--all` set be served via PMTiles instead?
 - How much should feedback reshape a route compared with pure vertical? This needs data from Milestone 5 to tune.
