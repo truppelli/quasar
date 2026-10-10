@@ -7,7 +7,7 @@ Where QUASAR is today, what the next milestones are, and the direction behind th
 | Area | State on `main` |
 | --- | --- |
 | Planner (`quasar.py`) | Exact branch-and-bound for small resorts and beam search for big ones (`optimal: false`). Unique-vertical objective with repeat penalties. |
-| Quantum (`quasar.py`, `speedup.py`) | QWOA simulated in NumPy over classically enumerated routes. Speedup analysis for the backtracking quantum walk (a quadratic speedup, which needs about 100+ lifts and runs before it pays off in wall-clock time). |
+| Quantum (`quasar.py`, `circuit.py`, `qaoa.py`, `speedup.py`) | QWOA simulated in NumPy over classically enumerated routes, plus as a Qiskit circuit. Penalty-QUBO QAOA baseline, with both circuits packed into one IonQ job. Speedup analysis for the backtracking quantum walk (a quadratic speedup, which needs about 100+ lifts and runs before it pays off in wall-clock time). |
 | Real resort graphs (`datasets.py`) | Crystal Mountain WA and Whistler Blackcomb, built from OpenSkiMap and Global Ski Atlas. |
 | 2D visualizer (`viz.html`, `/`) | Plans and draws a route on any resort graph. |
 | 3D map (`map3d.html`, `/3d`) | 20 US resorts in 3D. Run inspector, 👍/👎 per run, per-level interest, feedback saved to `feedback.jsonl`, shareable links. |
@@ -36,6 +36,7 @@ Validate the quantum algorithm on real hardware with honest claims.
 - **Lift-pod decomposition** *(done: `quasar.py --pods` / `--pod`)*. Split a resort into pods (one lift plus the runs it serves) and solve each pod separately, linked by traverses. The pods are small enough to enumerate (a few hundred routes, roughly 6–10 qubits).
 - **Qiskit circuit for QWOA** *(done: `circuit.py`; first hardware target is 4 qubits, p=1, about 67 MS gates on the current Crystal graph)*. Port the NumPy QWOA to a Qiskit circuit: a phase separator over route indices, plus a complete-graph walk mixer, which is a Grover-style diffusion over the feasible-route register. Run it on a simulator first, then on IonQ through the `qiskit-ionq` provider.
 - **Benchmark against exact.** For each pod, report the probability of sampling the optimum, the approximation ratio and the shot count, compared with branch-and-bound. Publish the table in the README next to the speedup analysis.
+- **Penalty-QUBO baseline** *(done: `qaoa.py`)*. Run standard X-mixer QAOA on the same pod. It needs 4–8× the qubits, and nearly all of its shots aren't routes.
 - **Batch, not interactive.** Hardware runs are offline jobs whose results are cached and served. `/plan` stays classical so the app is fast.
 - **Be clear what this proves.** Route indexing is classical, so this validates QWOA rather than demonstrating any speedup. The README's speedup argument (backtracking walk, fault-tolerant scale) stays separate.
 

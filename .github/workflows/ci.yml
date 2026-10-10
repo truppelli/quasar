@@ -27,6 +27,10 @@ jobs:
         run: |
           python circuit.py
           python circuit.py resorts/crystal-mountain-washington.json --pod "Discovery" --max-routes 16 --p 1
+      - name: Penalty-QUBO QAOA baseline vs QWOA, both circuits packed into one job (via the Qollab entry point)
+        run: |
+          python main.py --minutes 30
+          python main.py resorts/crystal-mountain-washington.json --pod "Quicksilver" --max-routes 4
       - name: Visualizer API self-checks
         # serve.py runs its asserts, then serves; timeout's exit 124 means it got as far as serving
         run: timeout 5 python serve.py || [ $? -eq 124 ]
