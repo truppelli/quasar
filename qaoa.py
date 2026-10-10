@@ -20,6 +20,7 @@ import numpy as np
 from qiskit import QuantumCircuit, transpile
 from qiskit.primitives import StatevectorSampler
 from qiskit.quantum_info import Statevector
+from qiskit.transpiler.exceptions import CircuitTooWideForTarget
 from scipy.optimize import minimize
 
 import circuit
@@ -227,8 +228,11 @@ def main(backend=None):
         if where == "local sampler":  # QWOA half must match QWOA's distribution, or unpack mixed up qubits
             assert 0.5 * sum(abs(cw.get(k, 0) / a.shots - q) for k, q in enumerate(probs_w)) < 0.1, "unpack is wrong"
 
-    ms = [circuit.native_counts(qc, "qpu.aria-1")[0].get("ms", 0) for qc in (qc_w, qc_a)]
-    print(f"  IonQ Aria two-qubit (MS) gates: QWOA {ms[0]}, QAOA {ms[1]}")
+    try:
+        ms = [circuit.native_counts(qc, "qpu.aria-1")[0].get("ms", 0) for qc in (qc_w, qc_a)]
+        print(f"  IonQ Aria two-qubit (MS) gates: QWOA {ms[0]}, QAOA {ms[1]}")
+    except CircuitTooWideForTarget:  # Qollab's qiskit-ionq models Aria offline with only 4 qubits; this is a report
+        print("  IonQ Aria gate counts skipped: this qiskit-ionq's offline Aria model is too small for the circuits")
 
 
 if __name__ == "__main__":
