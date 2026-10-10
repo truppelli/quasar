@@ -3,7 +3,7 @@
 GET /                         the map page (viz.html)
 GET /resorts                  resort names in resorts/
 GET /resort?resort=toy        nodes and edges for drawing
-GET /plan?resort=toy&start=summit&minutes=25[&end=base]   optimal route JSON (quasar.plan)
+GET /plan?resort=toy&start=summit&minutes=25[&end=base]   best route JSON (quasar.plan)
 GET /3d                       the 3D mountain map (map3d.html)
 GET /geo                      3D-map resorts (index.json from resorts/geo and data/geo)
 GET /geo?resort=vail          that resort's runs and lifts as GeoJSON (made by extract.py)

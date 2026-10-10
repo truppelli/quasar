@@ -79,7 +79,7 @@ The visualizer draws the resort map:
 
 Click a junction, or use the dropdown, to set where the skier is, then set the minutes they have left. The route appears in orange, labeled either proven optimal or near-optimal (beam search). The side panel shows the step list and the resort's Global Ski Atlas facts, if the atlas lists it.
 
-`serve.py` is a standard-library JSON API (`/resorts`, `/resort`, `/plan`) that the app can reuse.
+`serve.py` is a standard-library JSON API (`/resorts`, `/resort`, `/plan`, `/geo`, `POST /feedback`) that the app can reuse.
 
 ## 3D mountain map
 
