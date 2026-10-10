@@ -198,14 +198,16 @@ if __name__ == "__main__":
     packed = circuit.pack([qc_w, qc_a])
     packed.measure_all()
     sizes = [qc_w.num_qubits, n]
-    if a.ionq:
+    backend = globals().get("backend")  # Qollab's Run button injects the backend picked in Select QPU (via main.py)
+    if backend is None and a.ionq:
         from dotenv import load_dotenv  # installed with qiskit-ionq
         from qiskit_ionq import IonQProvider
 
         load_dotenv(".env")  # qiskit-ionq only finds .env near its own install, not in the repo
         backend = IonQProvider().get_backend(a.ionq)
+    if backend is not None:
         job = backend.run(transpile(packed, backend=backend, optimization_level=1), shots=a.shots)
-        counts, where = job.get_counts(), f"IonQ {a.ionq} job {job.job_id()}"
+        counts, where = job.result().get_counts(), f"{backend.name} job {job.job_id()}"
     elif packed.num_qubits <= MAX_SIM_QUBITS:
         res = StatevectorSampler(seed=0).run([packed], shots=a.shots).result()[0]
         counts, where = res.data.meas.get_int_counts(), "local sampler"
@@ -222,7 +224,7 @@ if __name__ == "__main__":
             f" {hit_w} times by QWOA, {hit_a} by QAOA; {miss_a} QAOA shots were not routes"
         )
         assert sum(cw.values()) == sum(ca.values()) == a.shots
-        if not a.ionq:  # the QWOA half of the job must sample QWOA's distribution, or unpack mixed up qubits
+        if where == "local sampler":  # QWOA half must match QWOA's distribution, or unpack mixed up qubits
             assert 0.5 * sum(abs(cw.get(k, 0) / a.shots - q) for k, q in enumerate(probs_w)) < 0.1, "unpack is wrong"
 
     ms = [circuit.native_counts(qc, "qpu.aria-1")[0].get("ms", 0) for qc in (qc_w, qc_a)]
