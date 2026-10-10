@@ -8,6 +8,8 @@ mixer is a continuous-time quantum walk over feasible routes) searches the same 
 import argparse
 import heapq
 import json
+import math
+import sys
 
 import numpy as np
 from scipy.optimize import minimize
@@ -196,6 +198,71 @@ def plan(resort, start, minutes, end=None, max_nodes=300_000, exact_max_edges=60
     return {**describe(resort, *max(found, key=lambda s: s[0])), "optimal": exact}
 
 
+POD_BAND_M = 20  # a pod's trails stay within its lift's bottom-to-top elevation, give or take this much
+
+
+def pods(resort):
+    """Split a resort into lift pods: one lift plus the runs and links that lead from its top back to its bottom
+    without another lift or leaving the lift's elevation band. Each pod is a resort dict (base = lift bottom).
+
+    Pods are small instances for QWOA on hardware. They can overlap, so they don't tile the resort.
+    ponytail: no pod-to-pod linking yet; whole-day plans still use plan() on the full resort.
+    """
+    z = {n: xyz[2] for n, xyz in resort["nodes"].items()}
+    for lift in (e for e in resort["edges"] if e["kind"] == "lift"):
+        lo, hi = z[lift["from"]] - POD_BAND_M, z[lift["to"]] + POD_BAND_M
+        down = [
+            e for e in resort["edges"] if e["kind"] != "lift" and lo <= z[e["from"]] <= hi and lo <= z[e["to"]] <= hi
+        ]
+        keep = _reach(down, lift["to"], "from", "to") & _reach(down, lift["from"], "to", "from")
+        legs = [e for e in down if e["from"] in keep and e["to"] in keep]
+        if not any(e["kind"] == "run" for e in legs):
+            continue  # a traverse lift: nothing skis back to its own bottom
+        rows = {
+            k: [[e["name"], e["from"], e["to"], e["minutes"]] for e in legs if e["kind"] == k] for k in ("run", "link")
+        }
+        yield build(
+            {
+                "name": f"{resort['name']}: {lift['name']}",
+                "lift": lift["name"],
+                "base": lift["from"],
+                "nodes": {n: resort["nodes"][n] for n in keep | {lift["from"], lift["to"]}},
+                "lifts": [[lift["name"], lift["from"], lift["to"], lift["minutes"]]],
+                "runs": rows["run"],
+                "links": rows["link"],
+            }
+        )
+
+
+def _reach(edges, start, a, b):
+    """Nodes reachable from start following edges a -> b (pass "to", "from" to walk them backwards)."""
+    adj = {}
+    for e in edges:
+        adj.setdefault(e[a], []).append(e[b])
+    seen, todo = {start}, [start]
+    while todo:
+        for n in adj.get(todo.pop(), []):
+            if n not in seen:
+                seen.add(n)
+                todo.append(n)
+    return seen
+
+
+def pod_budget(pod, max_routes=512, max_minutes=120, max_nodes=50_000):
+    """Longest whole-minute budget, from one lap up, whose feasible routes number at most max_routes
+    (so they index into ceil(log2(max_routes)) qubits). Returns (minutes, routes), or None if one lap is too many.
+    """
+    lift = pod["edges"][0]  # build() puts lifts first and a pod has one
+    _, home, _ = _prep(pod["edges"], pod["base"])
+    best = None
+    for m in range(int(np.ceil(lift["minutes"] + home.get(lift["to"], np.inf))), max_minutes + 1):
+        sols, tree, _ = search(pod, pod["base"], pod["base"], m, prune=False, max_nodes=max_nodes)
+        if tree == max_nodes or len(sols) > max_routes:
+            break
+        best = (m, len(sols))
+    return best
+
+
 def qwoa(scores, p=3, restarts=5, seed=0):
     """QAOA over feasible routes only, mixer = continuous-time quantum walk on the complete graph (Marsh & Wang 2020).
 
@@ -230,13 +297,31 @@ def show(plan_):
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("resort", nargs="?", default="resorts/toy.json")
-    ap.add_argument("--minutes", type=float, default=60, help="time the skier has left")
+    ap.add_argument("--minutes", type=float, help="time the skier has left (default 60, or the pod's budget)")
     ap.add_argument("--start", help="node the skier is at now (default: resort base)")
     ap.add_argument("--end", help="node to finish at (default: resort base)")
     ap.add_argument("--json", action="store_true", help="print only the optimal plan as JSON (for the app)")
+    ap.add_argument("--pods", action="store_true", help="list the resort's lift pods and their QWOA sizes")
+    ap.add_argument("--pod", metavar="LIFT", help="plan + QWOA on one lift pod instead of the whole resort")
     a = ap.parse_args()
+    sys.stdout.reconfigure(errors="replace")  # lift names like "Sq̓útsa" crash a Windows console otherwise
+
+    toy = {p["lift"]: sorted(e["name"] for e in p["edges"][1:]) for p in pods(load("resorts/toy.json"))}
+    assert toy == {"Lift A": ["Mid Cruiser", "Mid Steeps"], "Lift B": ["Summit Glades"], "Lift C": ["Ridge Run"]}, toy
 
     r = load(a.resort)
+    if a.pods:
+        print(f"{r['name']}: lift pods (QWOA budget = most minutes with <= 512 routes, i.e. <= 9 qubits)")
+        for p in pods(r):
+            size = pod_budget(p)
+            runs = sum(e["kind"] == "run" for e in p["edges"])
+            fit = f"{size[0]:>3} min {size[1]:>4} routes {math.ceil(math.log2(size[1]))} qubits" if size else "too big"
+            print(f"  {p['lift'][:32]:32} {runs:>3} runs  {fit}")
+        raise SystemExit
+    if a.pod:
+        r = next((p for p in pods(r) if p["lift"] == a.pod), None) or ap.error(f"no pod for lift {a.pod!r}; see --pods")
+        a.minutes = a.minutes or (pod_budget(r) or ap.error(f"{a.pod} pod is too big for QWOA"))[0]
+    a.minutes = a.minutes or 60
     start, end = a.start or r["base"], a.end or r["base"]
     for n in (start, end):
         if n not in r["nodes"]:
@@ -255,18 +340,20 @@ if __name__ == "__main__":
         raise SystemExit
 
     b = beam(r, start, end, a.minutes)
-    assert b and abs(b[0] - best["score"]) < 1e-6, f"beam search found {b and b[0]}, optimum is {best['score']}"
+    assert b and b[0] < best["score"] + 0.1, f"beam search beat the optimum: {b and b[0]} > {best['score']}"
+    if best["score"] > 0:
+        print(f"beam search (heuristic) on the same instance: score {b[0]:.0f}, {b[0] / best['score']:.1%} of optimal")
     sols, _, _ = search(r, start, end, a.minutes, prune=False)
     routes = list(sols.values())
     scores = np.array([s for s, _ in routes])
-    assert scores.max() == best["score"], "branch-and-bound pruned away the optimum"
+    assert abs(scores.max() - best["score"]) < 0.1, "branch-and-bound pruned away the optimum"  # plan() rounds
 
     probs = qwoa(scores)
     opt = scores == scores.max()
     top = routes[int(probs.argmax())]
     print(
         f"QWOA over {len(routes)} feasible routes (p=3): P(optimal) = {probs[opt].sum():.3f}"
-        f" vs {opt.mean():.3f} random, expected score {probs @ scores:.0f} of {scores.max()}"
+        f" vs {opt.mean():.3f} random, expected score {probs @ scores:.0f} of {scores.max():.0f}"
     )
     print("most likely route:")
     show(describe(r, *top))

@@ -37,6 +37,33 @@ The quantum side is **QWOA**: QAOA whose mixer is a continuous-time quantum walk
 - Real resorts are already past exact search. Across the 22 included resorts, a 2-hour plan takes at most 1.7 s. A full 8-hour day takes 4–19 s; Whistler is the slowest.
 - **Near-term (IonQ):** run QWOA on single lift pods with a few hundred routes. The feasible routes are indexed classically, which is fine for validating the algorithm but gives no quantum advantage.
 
+## Lift pods (QWOA-sized instances)
+
+Real resorts are too big to enumerate, so for QWOA we split them into **lift pods**. A pod is one lift plus the runs and links that lead from its top back to its bottom without riding another lift or leaving that lift's elevation band (±20 m). Each pod is a small resort of its own, with its base at the lift's bottom station. For each pod, `--pods` finds the longest time budget (at least one lap) whose feasible routes still fit in 9 qubits (512 routes).
+
+```sh
+python quasar.py resorts/crystal-mountain-washington.json --pods                  # list pods and their QWOA sizes
+python quasar.py resorts/crystal-mountain-washington.json --pod "Rainier Express"  # exact optimum + beam + QWOA on one pod
+```
+
+Measured with QWOA simulated at p=3 (`--pod`, default budgets):
+
+| Crystal pod | budget | routes | qubits | P(optimal) QWOA vs random | beam vs optimal |
+| --- | --- | --- | --- | --- | --- |
+| Rainier Express | 18 min | 319 | 9 | 0.024 vs 0.009 | 95.8% |
+| Green Valley | 37 min | 477 | 9 | 0.015 vs 0.002 | 100% |
+| Quicksilver | 34 min | 509 | 9 | 0.015 vs 0.002 | 100% |
+| Chinook Express | 24 min | 392 | 9 | 0.010 vs 0.003 | 100% |
+| Forest Queen Express | 20 min | 380 | 9 | 0.005 vs 0.003 | 100% |
+| Mt. Rainier Gondola | 35 min | 293 | 9 | 0.015 vs 0.007 | 99.5% |
+| Gold Hills | 88 min | 147 | 8 | 0.110 vs 0.034 | 100% |
+| Discovery | 120 min | 238 | 8 | 0.018 vs 0.004 | 100% |
+| Magic Carpet | 59 min | 397 | 9 | 0.009 vs 0.003 | 100% |
+
+- All 9 Crystal pods fit in 9 qubits. Only 11 of Whistler's 34 pods do: its map data splits trails into many short segments, so most pods have too many routes even for a single lap.
+- QWOA beats random sampling on every pod, but at p=3 the chance of sampling the optimum stays in the low percent. Deeper circuits (larger p) are the next lever.
+- Pods are QWOA instances, not a planner. They can overlap, and whole-day plans still run `plan()` on the full resort.
+
 ## Quantum speedup (large fault-tolerant machine)
 
 `speedup.py` measures the size T of the classical branch-and-bound tree on growing synthetic resorts. It compares T with the cost of a quantum-walk search of the same tree:
@@ -134,6 +161,8 @@ Each `resorts/*.json` file contains:
 - `info`, `source`: atlas facts and data provenance.
 
 ## Contributing
+
+Planned work and milestones are in [docs/roadmap.md](docs/roadmap.md).
 
 `main` only changes through pull requests. Every feature goes on its own branch (`feature/<name>`) and is merged through a pull request after CI passes. CI checks ruff lint and formatting (ruff pinned in `requirements.txt`), and runs the planner, beam search, QWOA and visualizer self-checks plus a small speedup analysis.
 
