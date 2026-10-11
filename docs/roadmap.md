@@ -11,7 +11,7 @@ Where QUASAR is today, what the next milestones are, and the direction behind th
 | Qollab (`main.py`) | Qollab's Run button runs `main.py` on the machine picked in Select QPU: Crystal Quicksilver, 17 qubits, one job. Checked on Qollab's local simulator and IonQ's Forte Enterprise 1 noise-model simulator; the first QPU job is queued on Forte 1. A dropped connection while a job waits is retried, and `JOB_ID` in `main.py` fetches an earlier job without paying again. |
 | Real resort graphs (`datasets.py`) | The 3D map's 20 US resorts (`datasets.py --top-us`, same slugs as the map), plus Crystal Mountain WA and Whistler Blackcomb, built from OpenSkiMap and Global Ski Atlas. Repeat runs score half credit, so long budgets fill the day. |
 | 2D visualizer (`viz.html`, `/`) | Plans and draws a route on any resort graph. |
-| 3D map (`map3d.html`, `/3d`) | 20 US resorts in 3D. Plan my day (route from any lift, minutes slider), turn / tilt / orbit buttons, run inspector, 👍/👎 per run, per-level interest, feedback saved to `feedback.jsonl`, shareable links. |
+| 3D map (`map3d.html`, `/3d`) | 20 US resorts in 3D. Plan my day (start and end at any lift, minutes slider), turn / tilt / orbit buttons, run inspector, 👍/👎 per run, per-level interest, feedback saved to `feedback.jsonl`, shareable links. |
 | API (`serve.py`) | Stdlib server: `/resorts`, `/resort`, `/plan`, `/geo`, `POST /feedback`. |
 | Live site | [ski-routes.racedayconnect.com](https://ski-routes.racedayconnect.com): `deploy/Dockerfile` behind Caddy on a 1-vCPU DigitalOcean Droplet. |
 
@@ -23,7 +23,7 @@ This is the core product: a skier sees the mountain, says what they like, and ge
 
 - **One data pipeline** *(graphs for all 20 curated resorts done, with the map's slugs)*. Merge `extract.py` and `datasets.py` into a single build that streams OpenSkiData once per resort and writes both the planner graph (`resorts/<slug>.json`) and the map geometry (`resorts/geo/<slug>.geojson`) with the same run ids.
 - **Route on the 3D map** *(done: "Plan my day" in `map3d.html`; the route follows the map's own run and lift lines where names match, about 9 in 10 legs, straight lines elsewhere; `min=` in the link replays it)*. Call `/plan` from `map3d.html` and draw the route as an orange line with numbered steps, along with its score, minutes and `optimal` flag. Show the route list in the side panel. This doesn't have to wait for shared run ids: graph nodes store x/y metres from the resort's `origin_lonlat`, so the line can be drawn from the nodes.
-- **Start where you are** *(done: click a white lift dot to start at the nearest junction, Base to reset; minutes slider; `start=` in the link)*. Click a lift terminal or junction on the 3D map to set the start node. Add a minutes slider.
+- **Start where you are** *(done: click a white lift dot to set the start, then the end, at the nearest junction; = Start for a loop, Base to reset either; minutes slider; `start=` / `end=` in the link)*. Click a lift terminal or junction on the 3D map to set the start node. Add a minutes slider.
 - **Preference-aware planning.** Add `exclude=` (run ids) and `levels=` to `/plan` and `quasar.plan`. 👎 runs and "Skip" levels are excluded, and "Want" levels get a score bonus. This is the first place feedback changes the result.
 - **Retire or merge the 2D visualizer** once the 3D map does everything it does. Keep one map.
 

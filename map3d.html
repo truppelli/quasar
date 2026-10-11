@@ -27,6 +27,10 @@
   #route li { padding: 2px 0; }
   #route small { color: var(--muted); }
   .view-orbit[aria-pressed="true"] { background: var(--accent) !important; }
+  .pin-row { display: flex; align-items: center; gap: 8px; margin-top: 6px; font-size: 12px; }
+  .pin-row > span:nth-child(2) { flex: 1; color: var(--muted); }
+  .pin { width: 12px; height: 12px; border-radius: 50%; flex: none; box-sizing: border-box; }
+  .btn.sm { padding: 3px 8px; font-size: 12px; }
   textarea { min-height: 60px; resize: vertical; }
   .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin-top: 10px; }
   .stat { background: rgba(255,255,255,.05); border-radius: 8px; padding: 6px 8px; }
@@ -80,9 +84,13 @@
     <input id="minutes" type="range" min="30" max="480" step="15" value="120" aria-label="Minutes to ski">
     <b id="min-out" style="min-width:64px;text-align:right">2 h</b>
   </div>
+  <div class="pin-row"><span class="pin" style="background:#3ecf8e"></span><span id="start-out"></span>
+    <button class="btn sm" data-base="start">Base</button></div>
+  <div class="pin-row"><span class="pin" style="border:3px solid #ff4d4d"></span><span id="end-out"></span>
+    <button class="btn sm" id="same">= Start</button><button class="btn sm" data-base="end">Base</button></div>
   <div class="row" style="margin-top:6px">
-    <span id="start-out" class="muted" style="font-size:12px;flex:1"></span>
-    <button class="btn" id="to-base" style="display:none">Base</button>
+    <span class="muted" style="font-size:12px;flex:1">Click a white lift dot to set the</span>
+    <span class="seg" role="group" aria-label="Lift dot sets"><button data-mode="start" aria-pressed="true">Start</button><button data-mode="end" aria-pressed="false">End</button></span>
     <button class="btn primary" id="plan">Plan route</button>
   </div>
   <div id="plan-out" class="muted" style="font-size:12px;margin-top:8px"></div>
@@ -144,7 +152,8 @@ function writeHash() {
     dislike: [...dislikes].join(","),
     lv: Object.entries(interest).map(([k, v]) => `${k}:${v}`).join(","),
     min: route ? $("minutes").value : "",
-    start: route && start ? encodeURIComponent(start) : "",
+    start: route && pins.start ? encodeURIComponent(pins.start) : "",
+    end: route && pins.end ? encodeURIComponent(pins.end) : "",
   });
   history.replaceState(null, "", "#" + Object.entries(h).filter(([, v]) => v).map(([k, v]) => `${k}=${v}`).join("&"));
 }
@@ -196,7 +205,8 @@ const map = new maplibregl.Map({
       { id: "route-casing", type: "line", source: "route", layout: { "line-cap": "round", "line-join": "round" }, paint: { "line-color": "#111", "line-width": 9, "line-opacity": 0.55 } },
       { id: "route", type: "line", source: "route", layout: { "line-cap": "round", "line-join": "round" }, paint: { "line-color": "#ff7a00", "line-width": 5 } },
       { id: "steps", type: "circle", source: "steps", paint: { "circle-radius": 9, "circle-color": "#ff7a00", "circle-stroke-color": "#fff", "circle-stroke-width": 2 } },
-      { id: "start", type: "circle", source: "start", paint: { "circle-radius": 11, "circle-color": "#3ecf8e", "circle-stroke-color": "#fff", "circle-stroke-width": 3 } },
+      { id: "start", type: "circle", source: "start", filter: ["==", ["get", "pin"], "start"], paint: { "circle-radius": 11, "circle-color": "#3ecf8e", "circle-stroke-color": "#fff", "circle-stroke-width": 3 } },
+      { id: "end", type: "circle", source: "start", filter: ["==", ["get", "pin"], "end"], paint: { "circle-radius": 16, "circle-opacity": 0, "circle-stroke-color": "#ff4d4d", "circle-stroke-width": 4 } },
       { id: "step-num", type: "symbol", source: "steps",
         layout: { "text-field": ["to-string", ["get", "n"]], "text-font": ["Open Sans Semibold"], "text-size": 11, "text-allow-overlap": true, "text-ignore-placement": true },
         paint: { "text-color": "#111" } },
@@ -262,7 +272,7 @@ async function getJSON(url) {
 async function loadResort(slug, fly = true) {
   const r = resorts.find((x) => x.slug === slug);
   if (!r) return;
-  if (resort && resort.slug !== slug) { likes.clear(); dislikes.clear(); interest = {}; route = null; start = null; $("plan-out").textContent = ""; }
+  if (resort && resort.slug !== slug) { likes.clear(); dislikes.clear(); interest = {}; route = null; pins = { start: null, end: null }; $("plan-out").textContent = ""; }
   resort = r;
   imperial = (r.region || "").startsWith("US");
   $("search").value = r.name;
@@ -286,7 +296,7 @@ async function loadResort(slug, fly = true) {
   map.getSource("ends").setData({ type: "FeatureCollection", features: ends.map((c) => ({ type: "Feature", geometry: { type: "Point", coordinates: c }, properties: {} })) });
   syncVotes();
   drawRoute(false);
-  showStart();
+  showPins();
   renderStats(lo, hi);
   renderLevels();
   renderTrip();
@@ -436,7 +446,7 @@ map.on("click", (e) => {
   // Fat-finger box so thin lines are easy to hit on touch screens.
   const box = [[e.point.x - 8, e.point.y - 8], [e.point.x + 8, e.point.y + 8]];
   const end = map.queryRenderedFeatures(box, { layers: ["lift-ends"] })[0];
-  if (end) return pickStart(end.geometry.coordinates);  // a lift terminal: start the day there
+  if (end) return pickPin(end.geometry.coordinates);  // a lift terminal: start or end the day there
   const hit = map.queryRenderedFeatures(box, { layers: ["run", "lift"] })[0];
   hit ? select(byId(hit.properties.id)) : closeCard();
 });
@@ -492,31 +502,39 @@ async function loadGraph() {
   if (graph?.slug !== slug) graph = { slug, ...(await getJSON(`/resort?resort=${encodeURIComponent(slug)}`)) };
 }
 
-// ---- Start where you are: a clicked lift terminal snaps to the nearest graph junction. The day still ends at the base.
-let start = null;  // graph node name; null = the resort's base
-function showStart() {
-  const at = start && graph?.nodes[start] ? lonlat(start) : null;
-  map.getSource("start").setData({ type: "FeatureCollection", features: at ? [{ type: "Feature", geometry: { type: "Point", coordinates: at }, properties: {} }] : [] });
-  $("start-out").textContent = start ? `From ${start}, back to the base` : "From the base. Click a white lift dot to start there.";
-  $("to-base").style.display = start ? "" : "none";
+// ---- Start and end where you like: a clicked lift terminal snaps to the nearest graph junction.
+let pins = { start: null, end: null }, pickMode = "start";  // graph node names; null = the resort's base
+function showPins() {
+  const feats = ["start", "end"].filter((k) => pins[k] && graph?.nodes[pins[k]])
+    .map((k) => ({ type: "Feature", geometry: { type: "Point", coordinates: lonlat(pins[k]) }, properties: { pin: k } }));
+  map.getSource("start").setData({ type: "FeatureCollection", features: feats });
+  $("start-out").textContent = `Start: ${pins.start || "the base"}`;
+  $("end-out").textContent = `End: ${pins.end === pins.start && pins.end ? "same as start" : pins.end || "the base"}`;
+  document.querySelectorAll("[data-base=start]").forEach((b) => (b.style.display = pins.start ? "" : "none"));
+  document.querySelectorAll("[data-base=end]").forEach((b) => (b.style.display = pins.end ? "" : "none"));
+  $("same").style.display = pins.start && pins.end !== pins.start ? "" : "none";
+  document.querySelectorAll("[data-mode]").forEach((b) => b.setAttribute("aria-pressed", b.dataset.mode === pickMode));
 }
-async function pickStart(c) {
+async function pickPin(c) {
   try { await loadGraph(); } catch { $("plan-out").textContent = "No routing graph for this resort"; return; }
   const kx = 111320 * Math.cos(c[1] * R), d = (n) => { const p = lonlat(n); return Math.hypot((p[0] - c[0]) * kx, (p[1] - c[1]) * 110540); };
   const node = Object.keys(graph.nodes).reduce((a, b) => (d(b) < d(a) ? b : a));
   if (d(node) > 150) { $("plan-out").textContent = "That lift isn't in the routing graph"; return; }  // ponytail: 150 m snap radius
-  start = node;
-  showStart();
+  pins[pickMode] = node;
+  if (pickMode === "start") pickMode = "end";  // the next click picks where the day ends
+  showPins();
   planRoute();
 }
-$("to-base").onclick = () => { start = null; showStart(); planRoute(); };
+document.querySelectorAll("[data-base]").forEach((b) => (b.onclick = () => { pins[b.dataset.base] = null; showPins(); planRoute(); }));
+document.querySelectorAll("[data-mode]").forEach((b) => (b.onclick = () => { pickMode = b.dataset.mode; showPins(); }));
+$("same").onclick = () => { pins.end = pins.start; showPins(); planRoute(); };
 
 async function planRoute() {
   const slug = resort.slug, minutes = $("minutes").value;
   $("plan-out").textContent = "Planning…";
   try {
     await loadGraph();
-    const from = start ? `&start=${encodeURIComponent(start)}` : "";
+    const from = ["start", "end"].map((k) => (pins[k] ? `&${k}=${encodeURIComponent(pins[k])}` : "")).join("");
     const r = await fetch(`/plan?resort=${encodeURIComponent(slug)}&minutes=${encodeURIComponent(minutes)}${from}`), body = await r.json();
     if (resort.slug !== slug) return;  // switched resorts while planning
     route = r.ok && !body.error ? body : null;
@@ -567,10 +585,14 @@ map.once("style.load", async () => {  // the style, not every first tile: resort
   resort = resorts.find((r) => r.slug === slug);
   setRunFilter();
   await loadResort(slug, !h.map && !h.min);
-  if (+h.min > 0) {  // a shared link replays its route, from its start
+  if (+h.min > 0) {  // a shared link replays its route, from its start to its end
     $("minutes").value = h.min;
     showMinutes();
-    if (h.start) { try { await loadGraph(); } catch {} start = graph?.nodes[decodeURIComponent(h.start)] ? decodeURIComponent(h.start) : null; showStart(); }
+    if (h.start || h.end) {
+      try { await loadGraph(); } catch {}
+      for (const k of ["start", "end"]) { const n = h[k] && decodeURIComponent(h[k]); pins[k] = n && graph?.nodes[n] ? n : null; }
+      showPins();
+    }
     await planRoute();
   }
 });
