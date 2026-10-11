@@ -8,14 +8,14 @@ Where QUASAR is today, what the next milestones are, and the direction behind th
 | --- | --- |
 | Planner (`quasar.py`) | Exact branch-and-bound for small resorts and beam search for big ones (`optimal: false`). Unique-vertical objective with repeat penalties. |
 | Quantum (`quasar.py`, `circuit.py`, `qaoa.py`, `speedup.py`) | QWOA simulated in NumPy over classically enumerated routes, plus as a Qiskit circuit. Penalty-QUBO QAOA baseline, with both circuits packed into one IonQ job. Speedup analysis for the backtracking quantum walk (a quadratic speedup, which needs about 100+ lifts and runs before it pays off in wall-clock time). |
-| Qollab (`main.py`) | Qollab's Run button runs `main.py` on the machine picked in Select QPU: Crystal Quicksilver, 17 qubits, one job. Checked on Qollab's local simulator and IonQ's Forte Enterprise 1 noise-model simulator; the first QPU job is queued on Forte 1. A dropped connection while a job waits is retried, and `JOB_ID` in `main.py` fetches an earlier job without paying again. |
+| Qollab (`main.py`) | Qollab's Run button runs `main.py` on the machine picked in Select QPU: Crystal Quicksilver, 17 qubits, one job. Checked on Qollab's local simulator and IonQ's Forte Enterprise 1 noise-model simulator; a QPU job was submitted to Forte 1, but no result came back (see Milestone 2). A dropped connection while a job waits is retried, and `JOB_ID` in `main.py` asks for an earlier job's results instead of submitting a new one; on Qollab that request returned an IonQ API error (500). |
 | Real resort graphs (`datasets.py`) | The 3D map's 20 US resorts (`datasets.py --top-us`, same slugs as the map), plus Crystal Mountain WA and Whistler Blackcomb, built from OpenSkiMap and Global Ski Atlas. Repeat runs score half credit, so long budgets fill the day. |
 | 2D visualizer (`viz.html`, `/`) | Plans and draws a route on any resort graph. |
 | 3D map (`map3d.html`, `/3d`) | 20 US resorts in 3D. Plan my day (start and end at any lift, minutes slider), turn / tilt / orbit buttons, run inspector, 👍/👎 per run, per-level interest, feedback saved to `feedback.jsonl`, shareable links. |
 | API (`serve.py`) | Stdlib server: `/resorts`, `/resort`, `/plan`, `/geo`, `POST /feedback`. |
 | Live site | [ski-routes.racedayconnect.com](https://ski-routes.racedayconnect.com): `deploy/Dockerfile` behind Caddy on a 1-vCPU DigitalOcean Droplet. |
 
-**The main gap:** Milestone 1's "done when" is met: pick a start and end, set a time, mark preferences, and share the route. What's left is the hardware result (Milestone 2) and, after the hackathon, one data pipeline with shared run ids; today the map and the planner are joined by trail name and position.
+**The main gap:** Milestone 1's "done when" is met: pick a start and end, set a time, mark preferences, and share the route. What's left is the hardware result (Milestone 2, blocked: no result and no credits) and, after the hackathon, one data pipeline with shared run ids; today the map and the planner are joined by trail name and position.
 
 ## Milestone 1: Plan your day on the 3D map
 
@@ -37,7 +37,7 @@ Validate the quantum algorithm on real hardware with honest claims.
 - **Qiskit circuit for QWOA** *(done: `circuit.py`; ran on IonQ's cloud simulator via `qaoa.py --ionq simulator`; first hardware run is Crystal Quicksilver: 2 QWOA qubits, p=1, 7 MS gates)*. Port the NumPy QWOA to a Qiskit circuit: a phase separator over route indices, plus a complete-graph walk mixer, which is a Grover-style diffusion over the feasible-route register. Run it on a simulator first, then on IonQ through the `qiskit-ionq` provider.
 - **Benchmark against exact** *(done: P(optimal), approximation ratio and shots in `qaoa.py` and the README's baseline table)*. For each pod, report the probability of sampling the optimum, the approximation ratio and the shot count, compared with branch-and-bound. Publish the table in the README next to the speedup analysis.
 - **Penalty-QUBO baseline** *(done: `qaoa.py`)*. Run standard X-mixer QAOA on the same pod. It needs 4–8× the qubits, and nearly all of its shots aren't routes.
-- **Hardware run** *(in progress)*. Crystal Quicksilver (17 min, 3 routes; 2 QWOA + 15 QAOA qubits, one packed job, 1,000 shots) queued through Qollab on IonQ Forte 1 (job `01a1281a-4614-78ed-bc86-1a60b5c18f9b`). Aria 1 is retired, so Forte is the target. The same job on IonQ's Forte Enterprise 1 noise model sampled the optimum 485 times by QWOA and 5 by QAOA. Its results go in the README next to the simulator runs.
+- **Hardware run** *(blocked)*. Crystal Quicksilver (17 min, 3 routes; 2 QWOA + 15 QAOA qubits, one packed job, 1,000 shots) submitted to IonQ Forte 1 hardware through Qollab (job `01a1281a-4614-78ed-bc86-1a60b5c18f9b`). Qollab's credit balance went from 100 to 0, but no result came back: the run that submitted the job lost its connection while waiting, and fetching the job by ID through Qollab returns an IonQ API error (500). Next: ask Qollab for the result or a refund, or apply for a Qollab compute grant. Aria 1 is retired, so Forte is the target. The same job on IonQ's Forte Enterprise 1 noise model sampled the optimum 485 times by QWOA and 5 by QAOA. Its results go in the README next to the simulator runs.
 - **Batch, not interactive.** Hardware runs are offline jobs whose results are cached and served. `/plan` stays classical so the app is fast.
 - **Be clear what this proves.** Route indexing is classical, so this validates QWOA rather than demonstrating any speedup. The README's speedup argument (backtracking walk, fault-tolerant scale) stays separate.
 
@@ -63,7 +63,7 @@ Put it in front of real skiers. The architecture below comes from the architectu
 - **Data:** an offline pipeline (from Milestone 1) writes per-resort JSON plus vector tiles (PMTiles) to object storage. This replaces per-request GeoJSON and makes the `--all` resort set servable.
 - **Feedback store:** move from `feedback.jsonl` to SQLite with Litestream backups. The record shape stays the same.
 - **Licensing:** check Esri World Imagery's terms for public use, or switch providers. The basemap is a single URL in `map3d.html`. Keep OpenSkiMap/OSM and terrain attribution.
-- **Abuse limits:** rate-limit `POST /feedback` and `/plan` per IP. There are no accounts in the beta.
+- **Abuse limits** *(started: `/plan` runs at most 2 at a time, others wait up to 15 s, then get 503)*: rate-limit `POST /feedback` and `/plan` per IP. There are no accounts in the beta.
 - **Domain:** pick a skier-facing name. The acronym can stay for the research write-up.
 
 ## Milestone 5: Close the feedback loop
