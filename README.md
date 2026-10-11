@@ -24,6 +24,31 @@ The classical solver works in two tiers:
 
 The quantum side is **QWOA**: QAOA whose mixer is a continuous-time quantum walk over the feasible routes ([Marsh & Wang 2020](https://arxiv.org/abs/1912.07353)). Our walk is on the complete graph of routes, one of the circulant graphs Marsh & Wang allow; from the uniform start it is the same as the Grover mixer ([Bärtschi & Eidenbenz 2020](https://arxiv.org/abs/2006.00354)). In the ideal circuit every state the walk reaches is a valid route, so no probability is spent on invalid ones, which is unlike a penalty QUBO with the standard X mixer. On hardware, noise can still put a few shots on unused register states; `qaoa.py` counts them as misses. QWOA's results are reported as **near-optimal** and compared with the exact optimum.
 
+## QWOA vs the baselines at a glance
+
+Six lift pods, noise-free simulation at p = 1, against the textbook penalty-QUBO QAOA and a uniformly random route. The numbers are the [baseline table](#baseline-penalty-qubo-qaoa)'s; `python charts.py` regenerates the charts from the code (needs `pip install matplotlib`).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/img/qwoa-vs-baselines-dark.png">
+  <img alt="Three bar charts over six lift pods. Chance of sampling the best route: QWOA 0.37 to 1.00, penalty-QUBO QAOA 0.000 to 0.012, a random route 0.14 to 0.50. Approximation ratio: QWOA 0.84 to 1.00, QAOA 0.000 to 0.021, random 0.14 to 0.69. Share of the state on valid routes: QWOA 100% on every pod, QAOA 0.2% to 3.0%." src="docs/img/qwoa-vs-baselines-light.png">
+</picture>
+
+- QWOA beats a random route on every pod, while QAOA lands below it: almost none of QAOA's probability is on routes that can be skied.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/img/qwoa-resources-dark.png">
+  <img alt="Two bar charts over the same six pods. Qubits: QWOA 2 to 4, penalty-QUBO QAOA 14 to 20. Two-qubit MS gates on IonQ Aria: QWOA 4 to 34, QAOA 182 to 380." src="docs/img/qwoa-resources-light.png">
+</picture>
+
+- QWOA also needs far less hardware: 4–8× fewer qubits and 7–46× fewer two-qubit gates than QAOA on the same pod.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/img/qwoa-ionq-dark.png">
+  <img alt="Bar chart of the best route sampled out of 1,000 shots on Crystal Quicksilver. Local noise-free sampler: QWOA 487, QAOA 3. IonQ cloud simulator: QWOA 500, QAOA 12. IonQ Forte Enterprise 1 noise model: QWOA 485, QAOA 5." src="docs/img/qwoa-ionq-light.png">
+</picture>
+
+- The same packed job on IonQ's simulators, with and without Forte Enterprise 1's noise model, gives the same picture. A hardware run was submitted but returned no result ([details](#baseline-penalty-qubo-qaoa)).
+
 ## Scale
 
 | Instance (90 min budget) | Edges | Feasible routes \|F\| | B&B tree T | QWOA qubits ⌈log₂\|F\|⌉ |
