@@ -1,0 +1,4885 @@
+{
+ "name": "Taos Ski Valley",
+ "source": "OpenSkiMap ski area 8faa21d51bf5725e795c0972acbe92178a458347",
+ "origin_lonlat": [
+  -105.4502327691252,
+  36.581030664360355
+ ],
+ "nodes": {
+  "Lift 7A top": [
+   -356,
+   -440,
+   3594.8
+  ],
+  "Unnamed run": [
+   -518,
+   -464,
+   3577.7
+  ],
+  "Hunziker Bowl": [
+   413,
+   -1522,
+   3467.4
+  ],
+  "Hunziker Bowl / Shalako": [
+   537,
+   -953,
+   3303.2
+  ],
+  "Lift 4 top": [
+   118,
+   -1468,
+   3479.4
+  ],
+  "Kachina Peak Lift bottom": [
+   311,
+   -1469,
+   3463.8
+  ],
+  "Poco Gusto / Mucho Gusto": [
+   -705,
+   243,
+   3316.7
+  ],
+  "Lift 2 bottom": [
+   -617,
+   418,
+   3278.4
+  ],
+  "El Funko / Staub": [
+   670,
+   -923,
+   3290.6
+  ],
+  "El Funko / Cache Stash": [
+   1025,
+   -743,
+   3136.2
+  ],
+  "White Feather": [
+   -731,
+   571,
+   3202.6
+  ],
+  "White Feather 2": [
+   -705,
+   688,
+   3159.4
+  ],
+  "Unnamed run 2": [
+   -288,
+   672,
+   3315.8
+  ],
+  "Unnamed run 3": [
+   -17,
+   1357,
+   2925.1
+  ],
+  "West Basin": [
+   -631,
+   -358,
+   3474.0
+  ],
+  "Lift 8 top": [
+   -643,
+   -159,
+   3428.4
+  ],
+  "Moe's / Honeysuckle": [
+   -240,
+   -819,
+   3493.8
+  ],
+  "Moe's / Maxie's Terrain Park": [
+   -6,
+   -613,
+   3396.3
+  ],
+  "Ponsse Scheme / Winkelried": [
+   617,
+   -398,
+   3213.8
+  ],
+  "Ponsse Scheme / Rubezahl": [
+   845,
+   -294,
+   3103.0
+  ],
+  "Lift 1 top": [
+   -245,
+   322,
+   3389.0
+  ],
+  "White Feather / Unnamed run": [
+   -785,
+   1143,
+   3038.6
+  ],
+  "West Basin / Bonanza": [
+   -564,
+   -129,
+   3415.4
+  ],
+  "Lift 7 bottom": [
+   572,
+   -330,
+   3234.1
+  ],
+  "Lift 4 bottom": [
+   986,
+   -477,
+   3110.7
+  ],
+  "Winkelried": [
+   897,
+   -606,
+   3137.4
+  ],
+  "Rubezahl / Rueggli Beginner's Hill": [
+   -34,
+   1461,
+   2886.9
+  ],
+  "Lift 8 bottom": [
+   -950,
+   1090,
+   3059.9
+  ],
+  "Lone Star / Honeysuckle": [
+   108,
+   -762,
+   3393.8
+  ],
+  "Lone Star / Honeysuckle 2": [
+   555,
+   -468,
+   3248.1
+  ],
+  "Lift 2 top": [
+   -431,
+   -445,
+   3597.6
+  ],
+  "Reforma / Jess's": [
+   -436,
+   5,
+   3389.3
+  ],
+  "Lower Stauffenberg": [
+   -607,
+   -183,
+   3432.2
+  ],
+  "White Feather 3": [
+   -579,
+   403,
+   3285.1
+  ],
+  "White Feather 4": [
+   -455,
+   279,
+   3321.7
+  ],
+  "White Feather 5": [
+   -917,
+   1063,
+   3060.5
+  ],
+  "Japanese Flag Glade / Japanese Flag": [
+   307,
+   -953,
+   3351.8
+  ],
+  "Japanese Flag Glade / Lower Patton": [
+   400,
+   -827,
+   3312.4
+  ],
+  "Cache Stash / Lower Patton": [
+   848,
+   -819,
+   3212.4
+  ],
+  "Bonanza": [
+   -590,
+   245,
+   3313.1
+  ],
+  "Unnamed run 4": [
+   -259,
+   1088,
+   3112.4
+  ],
+  "Lower Inferno": [
+   -492,
+   1272,
+   3032.5
+  ],
+  "Lower Inferno / White Feather": [
+   -494,
+   1380,
+   2978.3
+  ],
+  "White Feather 6": [
+   -206,
+   494,
+   3374.0
+  ],
+  "White Feather 7": [
+   -463,
+   472,
+   3263.7
+  ],
+  "White Feather 8": [
+   -336,
+   384,
+   3343.2
+  ],
+  "White Feather 9": [
+   -718,
+   730,
+   3152.3
+  ],
+  "White Feather 10": [
+   -767,
+   940,
+   3080.0
+  ],
+  "Bob's / Honeysuckle": [
+   -434,
+   -716,
+   3546.7
+  ],
+  "Bob's": [
+   -375,
+   -689,
+   3513.4
+  ],
+  "White Feather 11": [
+   -788,
+   634,
+   3191.0
+  ],
+  "Lower Stauffenberg 2": [
+   -945,
+   817,
+   3137.4
+  ],
+  "Hunziker Bowl 2": [
+   545,
+   -1153,
+   3344.5
+  ],
+  "Winkelried 2": [
+   736,
+   -556,
+   3171.6
+  ],
+  "Rubezahl": [
+   851,
+   -354,
+   3110.3
+  ],
+  "Hunziker Bowl / High Noon": [
+   631,
+   -1165,
+   3359.6
+  ],
+  "White Feather 12": [
+   -660,
+   1000,
+   3100.2
+  ],
+  "White Feather 13": [
+   -768,
+   1082,
+   3049.6
+  ],
+  "Lorelei / Bambi": [
+   -260,
+   -65,
+   3508.2
+  ],
+  "Lorelei / Lower Totemoff": [
+   537,
+   -292,
+   3235.4
+  ],
+  "Bonanza 2": [
+   -574,
+   341,
+   3303.6
+  ],
+  "West Basin / Blitz": [
+   -521,
+   -323,
+   3488.9
+  ],
+  "Zagava / Upper Powderhorn": [
+   -229,
+   215,
+   3441.9
+  ],
+  "Unnamed run / Japanese Flag": [
+   413,
+   -1300,
+   3386.8
+  ],
+  "Hunziker Bowl 3": [
+   486,
+   -1285,
+   3361.6
+  ],
+  "Unnamed run / Al's Run": [
+   -24,
+   1130,
+   3061.9
+  ],
+  "Papa Bear / Lower Patton": [
+   446,
+   -835,
+   3311.2
+  ],
+  "Papa Bear / Baby Bear": [
+   689,
+   -631,
+   3196.8
+  ],
+  "White Feather 14": [
+   -610,
+   706,
+   3174.5
+  ],
+  "White Feather 15": [
+   -685,
+   897,
+   3123.2
+  ],
+  "Unnamed run / Lower Patton": [
+   555,
+   -890,
+   3295.8
+  ],
+  "Unnamed run / Honeysuckle": [
+   517,
+   -670,
+   3274.0
+  ],
+  "Pioneer top": [
+   391,
+   1160,
+   2922.4
+  ],
+  "Zipper 1 top": [
+   154,
+   1416,
+   2882.4
+  ],
+  "Rubezahl 2": [
+   61,
+   1442,
+   2882.1
+  ],
+  "Zipper 1 bottom": [
+   -290,
+   1630,
+   2851.6
+  ],
+  "Rueggli top": [
+   -77,
+   1464,
+   2889.0
+  ],
+  "Mama Bear / Lower Patton": [
+   665,
+   -836,
+   3263.9
+  ],
+  "Papa Bear": [
+   664,
+   -685,
+   3218.6
+  ],
+  "Rubezahl 3": [
+   35,
+   1379,
+   2906.2
+  ],
+  "Zipper 1 bottom 2": [
+   128,
+   1516,
+   2874.7
+  ],
+  "Japanese Flag / Honeysuckle": [
+   361,
+   -753,
+   3320.5
+  ],
+  "Rubezahl 4": [
+   462,
+   1037,
+   2944.9
+  ],
+  "Lower Patton / Honeysuckle": [
+   289,
+   -765,
+   3337.2
+  ],
+  "Japanese Flag": [
+   340,
+   -1395,
+   3444.7
+  ],
+  "North American": [
+   -162,
+   475,
+   3378.5
+  ],
+  "Easy Trip": [
+   166,
+   -1509,
+   3473.3
+  ],
+  "Japanese Flag 2": [
+   296,
+   -1183,
+   3372.4
+  ],
+  "Mama Bear": [
+   704,
+   -793,
+   3249.9
+  ],
+  "Upper Totemoff / Honeysuckle": [
+   -137,
+   -860,
+   3473.1
+  ],
+  "Upper Totemoff / Lower Totemoff": [
+   150,
+   -590,
+   3368.5
+  ],
+  "Etch's Glade / Porcupine": [
+   -404,
+   922,
+   3229.3
+  ],
+  "Etch's Glade / Lower Inferno": [
+   -327,
+   1157,
+   3107.1
+  ],
+  "El Funko": [
+   817,
+   -954,
+   3269.2
+  ],
+  "El Funko 2": [
+   993,
+   -1000,
+   3180.7
+  ],
+  "Lower Totemoff / Honeysuckle": [
+   48,
+   -768,
+   3402.4
+  ],
+  "Unnamed run 6": [
+   -855,
+   780,
+   3150.2
+  ],
+  "White Feather 16": [
+   -866,
+   981,
+   3072.4
+  ],
+  "Lift 1 bottom": [
+   70,
+   1482,
+   2875.7
+  ],
+  "White Feather 17": [
+   -527,
+   352,
+   3295.4
+  ],
+  "Ash Pond / Bob's": [
+   -212,
+   -660,
+   3495.1
+  ],
+  "Ash Pond / Walkyries Glade": [
+   -128,
+   -597,
+   3432.7
+  ],
+  "Lower Inferno / White Feather 2": [
+   -577,
+   1364,
+   2990.7
+  ],
+  "Unnamed run / White Feather": [
+   -785,
+   1218,
+   3027.8
+  ],
+  "Unnamed run 7": [
+   -181,
+   1306,
+   2979.4
+  ],
+  "Honeysuckle": [
+   -472,
+   -655,
+   3554.8
+  ],
+  "Moe's": [
+   -101,
+   -697,
+   3439.2
+  ],
+  "Lift 7 top": [
+   -238,
+   -725,
+   3510.4
+  ],
+  "Bonanza 3": [
+   -556,
+   -177,
+   3431.3
+  ],
+  "Unnamed run / White Feather 2": [
+   -180,
+   1393,
+   2940.2
+  ],
+  "Unnamed run 8": [
+   -321,
+   746,
+   3294.8
+  ],
+  "Bambi Glade": [
+   -590,
+   771,
+   3164.4
+  ],
+  "High Five": [
+   -432,
+   160,
+   3354.8
+  ],
+  "Lower Stauffenberg 3": [
+   -994,
+   905,
+   3124.3
+  ],
+  "Honeysuckle 2": [
+   -429,
+   -490,
+   3601.8
+  ],
+  "Upper Totemoff": [
+   -22,
+   -703,
+   3413.1
+  ],
+  "Al's Run": [
+   -63,
+   957,
+   3162.4
+  ],
+  "Lower Patton": [
+   972,
+   -731,
+   3143.8
+  ],
+  "Honeysuckle 3": [
+   -379,
+   -473,
+   3597.0
+  ],
+  "White Feather 18": [
+   -645,
+   916,
+   3120.7
+  ],
+  "Winkelried 3": [
+   959,
+   -509,
+   3112.5
+  ],
+  "Rubezahl 5": [
+   839,
+   -425,
+   3118.2
+  ],
+  "El Funko 3": [
+   729,
+   -929,
+   3284.7
+  ],
+  "Maxie's Terrain Park": [
+   440,
+   -348,
+   3262.0
+  ],
+  "Lift 7A bottom": [
+   -271,
+   -700,
+   3509.6
+  ],
+  "White Feather 19": [
+   -236,
+   1403,
+   2948.7
+  ],
+  "Rueggli Beginner's Hill": [
+   -151,
+   1564,
+   2869.9
+  ],
+  "Zipper 2 bottom": [
+   -207,
+   1637,
+   2855.2
+  ],
+  "Zipper 2 bottom 2": [
+   116,
+   1402,
+   2886.3
+  ],
+  "Zipper 2 top": [
+   152,
+   1360,
+   2889.4
+  ],
+  "Gondolita top": [
+   -53,
+   1548,
+   2869.7
+  ]
+ },
+ "lifts": [
+  [
+   "Rueggli",
+   "Zipper 1 bottom",
+   "Rueggli top",
+   5.0
+  ],
+  [
+   "Lift 8",
+   "Lift 8 bottom",
+   "Lift 8 top",
+   12.7
+  ],
+  [
+   "Zipper 2",
+   "Zipper 2 bottom 2",
+   "Zipper 2 top",
+   4.2
+  ],
+  [
+   "Gondolita",
+   "Zipper 1 bottom",
+   "Gondolita top",
+   3.8
+  ],
+  [
+   "Gondolita",
+   "Gondolita top",
+   "Zipper 1 bottom",
+   3.8
+  ],
+  [
+   "Lift 2",
+   "Lift 2 bottom",
+   "Lift 2 top",
+   10.1
+  ],
+  [
+   "Lift 1",
+   "Lift 1 bottom",
+   "Lift 1 top",
+   7.4
+  ],
+  [
+   "Zipper 1",
+   "Zipper 1 bottom 2",
+   "Zipper 1 top",
+   4.0
+  ],
+  [
+   "Lift 7A",
+   "Lift 7A bottom",
+   "Lift 7A top",
+   5.0
+  ],
+  [
+   "Lift 4",
+   "Lift 4 bottom",
+   "Lift 4 top",
+   7.6
+  ],
+  [
+   "Pioneer",
+   "Zipper 1 top",
+   "Pioneer top",
+   5.6
+  ],
+  [
+   "Lift 7",
+   "Lift 7 bottom",
+   "Lift 7 top",
+   9.8
+  ]
+ ],
+ "runs": [
+  [
+   "Unnamed run",
+   "Lift 7A top",
+   "Lift 2 top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Lift 2 top",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Hunziker Bowl",
+   "Hunziker Bowl",
+   "Hunziker Bowl 3",
+   1.0
+  ],
+  [
+   "Hunziker Bowl",
+   "Hunziker Bowl 3",
+   "Hunziker Bowl 2",
+   0.6
+  ],
+  [
+   "Hunziker Bowl",
+   "Hunziker Bowl 2",
+   "Hunziker Bowl / Shalako",
+   0.9
+  ],
+  [
+   "Easy Trip",
+   "Lift 4 top",
+   "Easy Trip",
+   0.5
+  ],
+  [
+   "Easy Trip",
+   "Easy Trip",
+   "Kachina Peak Lift bottom",
+   0.6
+  ],
+  [
+   "Poco Gusto",
+   "Poco Gusto / Mucho Gusto",
+   "Lift 2 bottom",
+   0.7
+  ],
+  [
+   "El Funko",
+   "El Funko / Staub",
+   "El Funko 3",
+   0.5
+  ],
+  [
+   "El Funko",
+   "El Funko 3",
+   "El Funko",
+   0.5
+  ],
+  [
+   "El Funko",
+   "El Funko",
+   "El Funko 2",
+   0.9
+  ],
+  [
+   "El Funko",
+   "El Funko 2",
+   "El Funko / Cache Stash",
+   1.3
+  ],
+  [
+   "White Feather",
+   "White Feather",
+   "White Feather 11",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 11",
+   "White Feather 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Unnamed run 4",
+   2.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "Unnamed run 3",
+   1.8
+  ],
+  [
+   "West Basin",
+   "West Basin",
+   "Lift 8 top",
+   0.7
+  ],
+  [
+   "Moe's",
+   "Moe's / Honeysuckle",
+   "Moe's",
+   0.7
+  ],
+  [
+   "Moe's",
+   "Moe's",
+   "Moe's / Maxie's Terrain Park",
+   0.6
+  ],
+  [
+   "Ponsse Scheme",
+   "Ponsse Scheme / Winkelried",
+   "Ponsse Scheme / Rubezahl",
+   1.0
+  ],
+  [
+   "White Feather",
+   "Lift 1 top",
+   "White Feather 6",
+   0.7
+  ],
+  [
+   "White Feather",
+   "White Feather 6",
+   "White Feather 8",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 8",
+   "White Feather 4",
+   0.8
+  ],
+  [
+   "White Feather",
+   "White Feather 4",
+   "White Feather 17",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 17",
+   "White Feather 3",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 3",
+   "Lift 2 bottom",
+   0.5
+  ],
+  [
+   "White Feather",
+   "Lift 2 bottom",
+   "White Feather 3",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 3",
+   "White Feather 7",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 7",
+   "White Feather",
+   1.5
+  ],
+  [
+   "White Feather",
+   "White Feather",
+   "White Feather 14",
+   0.9
+  ],
+  [
+   "White Feather",
+   "White Feather 14",
+   "White Feather 9",
+   0.7
+  ],
+  [
+   "White Feather",
+   "White Feather 9",
+   "White Feather 2",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 2",
+   "White Feather 9",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 9",
+   "White Feather 15",
+   0.6
+  ],
+  [
+   "White Feather",
+   "White Feather 15",
+   "White Feather 18",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 18",
+   "White Feather 12",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 12",
+   "White Feather 10",
+   0.6
+  ],
+  [
+   "White Feather",
+   "White Feather 10",
+   "White Feather 16",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 16",
+   "White Feather 5",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 5",
+   "White Feather 16",
+   0.6
+  ],
+  [
+   "White Feather",
+   "White Feather 16",
+   "White Feather 13",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 13",
+   "White Feather / Unnamed run",
+   0.5
+  ],
+  [
+   "West Basin",
+   "Lift 8 top",
+   "West Basin / Bonanza",
+   0.5
+  ],
+  [
+   "Winkelried",
+   "Lift 7 bottom",
+   "Ponsse Scheme / Winkelried",
+   0.5
+  ],
+  [
+   "Winkelried",
+   "Ponsse Scheme / Winkelried",
+   "Winkelried 2",
+   0.9
+  ],
+  [
+   "Winkelried",
+   "Winkelried 2",
+   "Winkelried",
+   0.8
+  ],
+  [
+   "Winkelried",
+   "Winkelried",
+   "Winkelried 3",
+   0.5
+  ],
+  [
+   "Winkelried",
+   "Winkelried 3",
+   "Lift 4 bottom",
+   0.5
+  ],
+  [
+   "Rubezahl",
+   "Winkelried",
+   "Rubezahl 5",
+   0.7
+  ],
+  [
+   "Rubezahl",
+   "Rubezahl 5",
+   "Rubezahl",
+   0.5
+  ],
+  [
+   "Rubezahl",
+   "Rubezahl",
+   "Ponsse Scheme / Rubezahl",
+   0.5
+  ],
+  [
+   "Rubezahl",
+   "Ponsse Scheme / Rubezahl",
+   "Rubezahl 4",
+   6.3
+  ],
+  [
+   "Rubezahl",
+   "Rubezahl 4",
+   "Zipper 2 top",
+   1.9
+  ],
+  [
+   "Rubezahl",
+   "Zipper 2 top",
+   "Rubezahl 3",
+   0.5
+  ],
+  [
+   "Rubezahl",
+   "Rubezahl 3",
+   "Rubezahl 2",
+   0.5
+  ],
+  [
+   "Rubezahl",
+   "Rubezahl 2",
+   "Rubezahl / Rueggli Beginner's Hill",
+   0.5
+  ],
+  [
+   "Lower Stauffenberg",
+   "Lift 8 top",
+   "Lower Stauffenberg",
+   0.5
+  ],
+  [
+   "Lower Stauffenberg",
+   "Lower Stauffenberg",
+   "Lift 8 top",
+   0.5
+  ],
+  [
+   "Lower Stauffenberg",
+   "Lift 8 top",
+   "Lower Stauffenberg 2",
+   4.6
+  ],
+  [
+   "Lower Stauffenberg",
+   "Lower Stauffenberg 2",
+   "Lower Stauffenberg 3",
+   0.5
+  ],
+  [
+   "Lower Stauffenberg",
+   "Lower Stauffenberg 3",
+   "Lift 8 bottom",
+   1.1
+  ],
+  [
+   "Lone Star",
+   "Lone Star / Honeysuckle",
+   "Lone Star / Honeysuckle 2",
+   2.3
+  ],
+  [
+   "Reforma",
+   "Lift 2 top",
+   "Reforma / Jess's",
+   2.0
+  ],
+  [
+   "Bonanza",
+   "Lower Stauffenberg",
+   "Bonanza 3",
+   0.5
+  ],
+  [
+   "Bonanza",
+   "Bonanza 3",
+   "West Basin / Bonanza",
+   0.5
+  ],
+  [
+   "Bonanza",
+   "West Basin / Bonanza",
+   "Bonanza",
+   1.6
+  ],
+  [
+   "Bonanza",
+   "Bonanza",
+   "Bonanza 2",
+   0.5
+  ],
+  [
+   "Bonanza",
+   "Bonanza 2",
+   "White Feather 3",
+   0.5
+  ],
+  [
+   "White Feather Bowl",
+   "White Feather",
+   "White Feather 2",
+   0.5
+  ],
+  [
+   "High Five",
+   "Lift 1 top",
+   "High Five",
+   1.1
+  ],
+  [
+   "High Five",
+   "High Five",
+   "White Feather 4",
+   0.6
+  ],
+  [
+   "White Feather",
+   "Lift 8 bottom",
+   "White Feather 5",
+   0.5
+  ],
+  [
+   "Japanese Flag Glade",
+   "Japanese Flag Glade / Japanese Flag",
+   "Japanese Flag Glade / Lower Patton",
+   0.6
+  ],
+  [
+   "Cache Stash",
+   "Cache Stash / Lower Patton",
+   "El Funko / Cache Stash",
+   0.9
+  ],
+  [
+   "Jess's",
+   "Reforma / Jess's",
+   "Bonanza",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Unnamed run 8",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 8",
+   "Unnamed run 4",
+   1.6
+  ],
+  [
+   "Lower Inferno",
+   "Lower Inferno",
+   "Lower Inferno / White Feather",
+   0.5
+  ],
+  [
+   "Powderhorn Bowl",
+   "White Feather 4",
+   "White Feather 7",
+   0.7
+  ],
+  [
+   "Psycho Path",
+   "White Feather 8",
+   "White Feather 7",
+   0.8
+  ],
+  [
+   "Whitefeather Gully",
+   "White Feather 9",
+   "White Feather 10",
+   0.8
+  ],
+  [
+   "Bob's",
+   "Bob's / Honeysuckle",
+   "Bob's",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "White Feather 11",
+   "Unnamed run 6",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 6",
+   "Lower Stauffenberg 2",
+   0.5
+  ],
+  [
+   "Staub",
+   "Hunziker Bowl 2",
+   "El Funko / Staub",
+   1.1
+  ],
+  [
+   "Street Car",
+   "Winkelried 2",
+   "Rubezahl",
+   0.9
+  ],
+  [
+   "Hunziker Bowl",
+   "Kachina Peak Lift bottom",
+   "Hunziker Bowl",
+   0.5
+  ],
+  [
+   "Hunziker Bowl",
+   "Hunziker Bowl",
+   "Hunziker Bowl / High Noon",
+   2.1
+  ],
+  [
+   "Powderhorn Gully",
+   "White Feather 12",
+   "White Feather 13",
+   0.5
+  ],
+  [
+   "Lorelei",
+   "Lorelei / Bambi",
+   "Lorelei / Lower Totemoff",
+   4.3
+  ],
+  [
+   "Unnamed run",
+   "White Feather 4",
+   "Bonanza 2",
+   0.5
+  ],
+  [
+   "West Basin",
+   "West Basin / Blitz",
+   "West Basin",
+   0.5
+  ],
+  [
+   "Zagava",
+   "Zagava / Upper Powderhorn",
+   "Lift 1 top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Japanese Flag",
+   "Hunziker Bowl 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Al's Run",
+   "Unnamed run 3",
+   1.0
+  ],
+  [
+   "Papa Bear",
+   "Papa Bear / Lower Patton",
+   "Papa Bear",
+   1.1
+  ],
+  [
+   "Papa Bear",
+   "Papa Bear",
+   "Papa Bear / Baby Bear",
+   0.5
+  ],
+  [
+   "Bambi Glade",
+   "White Feather 14",
+   "Bambi Glade",
+   0.5
+  ],
+  [
+   "Bambi Glade",
+   "Bambi Glade",
+   "White Feather 15",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Lower Patton",
+   "Unnamed run / Honeysuckle",
+   0.9
+  ],
+  [
+   "Free Tacos",
+   "Pioneer top",
+   "Zipper 2 top",
+   1.2
+  ],
+  [
+   "Free Tacos",
+   "Zipper 2 top",
+   "Zipper 1 top",
+   0.5
+  ],
+  [
+   "Al's Run",
+   "White Feather 6",
+   "Al's Run",
+   2.1
+  ],
+  [
+   "Al's Run",
+   "Al's Run",
+   "Unnamed run / Al's Run",
+   0.8
+  ],
+  [
+   "Al's Run",
+   "Unnamed run / Al's Run",
+   "Rubezahl 3",
+   1.3
+  ],
+  [
+   "Al's Run",
+   "Rubezahl 3",
+   "Rubezahl 2",
+   0.5
+  ],
+  [
+   "Rueggli Beginner's Hill",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Rueggli top",
+   0.5
+  ],
+  [
+   "Rueggli Beginner's Hill",
+   "Rueggli top",
+   "Rueggli Beginner's Hill",
+   0.5
+  ],
+  [
+   "Rueggli Beginner's Hill",
+   "Rueggli Beginner's Hill",
+   "Zipper 1 bottom",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Rueggli top",
+   "Rubezahl / Rueggli Beginner's Hill",
+   0.5
+  ],
+  [
+   "Mama Bear",
+   "Mama Bear / Lower Patton",
+   "Mama Bear",
+   0.5
+  ],
+  [
+   "Mama Bear",
+   "Mama Bear",
+   "Papa Bear",
+   0.5
+  ],
+  [
+   "White Feather",
+   "Rubezahl 3",
+   "Rubezahl / Rueggli Beginner's Hill",
+   0.5
+  ],
+  [
+   "White Feather",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Rubezahl 2",
+   0.5
+  ],
+  [
+   "White Feather",
+   "Rubezahl 2",
+   "Lift 1 bottom",
+   0.5
+  ],
+  [
+   "White Feather",
+   "Lift 1 bottom",
+   "Zipper 1 bottom 2",
+   0.5
+  ],
+  [
+   "Japanese Flag",
+   "Kachina Peak Lift bottom",
+   "Japanese Flag",
+   0.5
+  ],
+  [
+   "Japanese Flag",
+   "Japanese Flag",
+   "Unnamed run / Japanese Flag",
+   1.5
+  ],
+  [
+   "Japanese Flag",
+   "Unnamed run / Japanese Flag",
+   "Japanese Flag 2",
+   0.8
+  ],
+  [
+   "Japanese Flag",
+   "Japanese Flag 2",
+   "Japanese Flag Glade / Japanese Flag",
+   1.0
+  ],
+  [
+   "Japanese Flag",
+   "Japanese Flag Glade / Japanese Flag",
+   "Japanese Flag / Honeysuckle",
+   0.9
+  ],
+  [
+   "North American",
+   "White Feather 6",
+   "North American",
+   0.5
+  ],
+  [
+   "North American",
+   "North American",
+   "Rubezahl 4",
+   4.0
+  ],
+  [
+   "Lower Patton",
+   "Lower Patton / Honeysuckle",
+   "Japanese Flag Glade / Lower Patton",
+   0.5
+  ],
+  [
+   "Lower Patton",
+   "Japanese Flag Glade / Lower Patton",
+   "Papa Bear / Lower Patton",
+   0.5
+  ],
+  [
+   "Lower Patton",
+   "Papa Bear / Lower Patton",
+   "Unnamed run / Lower Patton",
+   0.5
+  ],
+  [
+   "Lower Patton",
+   "Unnamed run / Lower Patton",
+   "Mama Bear / Lower Patton",
+   0.6
+  ],
+  [
+   "Lower Patton",
+   "Mama Bear / Lower Patton",
+   "Mama Bear",
+   0.5
+  ],
+  [
+   "Lower Patton",
+   "Mama Bear",
+   "Cache Stash / Lower Patton",
+   1.1
+  ],
+  [
+   "Lower Patton",
+   "Cache Stash / Lower Patton",
+   "Lower Patton",
+   1.2
+  ],
+  [
+   "Lower Patton",
+   "Lower Patton",
+   "El Funko / Cache Stash",
+   0.5
+  ],
+  [
+   "Lower Patton",
+   "El Funko / Cache Stash",
+   "Winkelried 3",
+   1.1
+  ],
+  [
+   "Lower Patton",
+   "Winkelried 3",
+   "Lift 4 bottom",
+   0.5
+  ],
+  [
+   "$ Slot",
+   "Japanese Flag",
+   "Unnamed run / Japanese Flag",
+   0.5
+  ],
+  [
+   "Shalako",
+   "Easy Trip",
+   "Japanese Flag 2",
+   1.4
+  ],
+  [
+   "Shalako",
+   "Japanese Flag 2",
+   "Hunziker Bowl / Shalako",
+   1.4
+  ],
+  [
+   "Shalako",
+   "Hunziker Bowl / Shalako",
+   "Unnamed run / Lower Patton",
+   0.5
+  ],
+  [
+   "Upper Patton",
+   "Japanese Flag 2",
+   "Papa Bear / Lower Patton",
+   1.5
+  ],
+  [
+   "Showoff",
+   "Japanese Flag 2",
+   "Hunziker Bowl / Shalako",
+   1.4
+  ],
+  [
+   "Ruby Gully",
+   "Mama Bear",
+   "Winkelried 2",
+   0.9
+  ],
+  [
+   "Upper Totemoff",
+   "Upper Totemoff / Honeysuckle",
+   "Upper Totemoff",
+   0.7
+  ],
+  [
+   "Upper Totemoff",
+   "Upper Totemoff",
+   "Upper Totemoff / Lower Totemoff",
+   0.9
+  ],
+  [
+   "Etch's Glade",
+   "Etch's Glade / Porcupine",
+   "Etch's Glade / Lower Inferno",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "El Funko",
+   "El Funko 2",
+   0.7
+  ],
+  [
+   "Lower Totemoff",
+   "Lower Totemoff / Honeysuckle",
+   "Upper Totemoff / Lower Totemoff",
+   0.8
+  ],
+  [
+   "Lower Totemoff",
+   "Upper Totemoff / Lower Totemoff",
+   "Lorelei / Lower Totemoff",
+   2.3
+  ],
+  [
+   "Lower Totemoff",
+   "Lorelei / Lower Totemoff",
+   "Lift 7 bottom",
+   0.5
+  ],
+  [
+   "Tell Glade",
+   "Unnamed run 6",
+   "White Feather 16",
+   0.8
+  ],
+  [
+   "Pioneer",
+   "Pioneer top",
+   "Zipper 2 top",
+   1.3
+  ],
+  [
+   "Pioneer",
+   "Zipper 2 top",
+   "Zipper 1 top",
+   0.5
+  ],
+  [
+   "Pioneer",
+   "Zipper 1 top",
+   "Lift 1 bottom",
+   0.5
+  ],
+  [
+   "Pioneer",
+   "Lift 1 bottom",
+   "Rubezahl 2",
+   0.5
+  ],
+  [
+   "Pioneer",
+   "Rubezahl 2",
+   "Lift 1 bottom",
+   0.5
+  ],
+  [
+   "Powerderhorn",
+   "White Feather 17",
+   "White Feather 7",
+   0.5
+  ],
+  [
+   "Powerderhorn",
+   "White Feather 7",
+   "Bambi Glade",
+   1.4
+  ],
+  [
+   "Powerderhorn",
+   "Bambi Glade",
+   "White Feather 18",
+   0.7
+  ],
+  [
+   "Powerderhorn",
+   "White Feather 18",
+   "White Feather 12",
+   0.5
+  ],
+  [
+   "Ash Pond",
+   "Ash Pond / Bob's",
+   "Ash Pond / Walkyries Glade",
+   0.5
+  ],
+  [
+   "Tell Trees",
+   "White Feather 11",
+   "White Feather 10",
+   1.3
+  ],
+  [
+   "Lower Inferno",
+   "Unnamed run 4",
+   "Etch's Glade / Lower Inferno",
+   0.5
+  ],
+  [
+   "Lower Inferno",
+   "Etch's Glade / Lower Inferno",
+   "Lower Inferno",
+   0.9
+  ],
+  [
+   "Lower Inferno",
+   "Lower Inferno",
+   "Lower Inferno / White Feather 2",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "White Feather 12",
+   "White Feather / Unnamed run",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "White Feather / Unnamed run",
+   "Unnamed run / White Feather",
+   0.5
+  ],
+  [
+   "Honeysuckle",
+   "Lift 2 top",
+   "Honeysuckle 2",
+   0.5
+  ],
+  [
+   "Honeysuckle",
+   "Honeysuckle 2",
+   "Honeysuckle 3",
+   0.5
+  ],
+  [
+   "Honeysuckle",
+   "Honeysuckle 3",
+   "Lift 7A top",
+   0.5
+  ],
+  [
+   "Honeysuckle",
+   "Lift 7A top",
+   "Honeysuckle 3",
+   0.5
+  ],
+  [
+   "Honeysuckle",
+   "Honeysuckle 3",
+   "Honeysuckle",
+   0.9
+  ],
+  [
+   "Honeysuckle",
+   "Honeysuckle",
+   "Bob's / Honeysuckle",
+   0.5
+  ],
+  [
+   "Honeysuckle",
+   "Bob's / Honeysuckle",
+   "Moe's / Honeysuckle",
+   1.0
+  ],
+  [
+   "Honeysuckle",
+   "Moe's / Honeysuckle",
+   "Upper Totemoff / Honeysuckle",
+   0.5
+  ],
+  [
+   "Honeysuckle",
+   "Upper Totemoff / Honeysuckle",
+   "Lower Totemoff / Honeysuckle",
+   1.0
+  ],
+  [
+   "Honeysuckle",
+   "Lower Totemoff / Honeysuckle",
+   "Lone Star / Honeysuckle",
+   0.5
+  ],
+  [
+   "Honeysuckle",
+   "Lone Star / Honeysuckle",
+   "Lower Patton / Honeysuckle",
+   0.8
+  ],
+  [
+   "Honeysuckle",
+   "Lower Patton / Honeysuckle",
+   "Japanese Flag / Honeysuckle",
+   0.5
+  ],
+  [
+   "Honeysuckle",
+   "Japanese Flag / Honeysuckle",
+   "Unnamed run / Honeysuckle",
+   0.8
+  ],
+  [
+   "Honeysuckle",
+   "Unnamed run / Honeysuckle",
+   "Lone Star / Honeysuckle 2",
+   0.9
+  ],
+  [
+   "Honeysuckle",
+   "Lone Star / Honeysuckle 2",
+   "Lift 7 bottom",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "Unnamed run 7",
+   1.0
+  ],
+  [
+   "Bob's",
+   "Honeysuckle",
+   "Bob's",
+   0.5
+  ],
+  [
+   "Bob's",
+   "Bob's",
+   "Lift 7A bottom",
+   0.5
+  ],
+  [
+   "Bob's",
+   "Lift 7A bottom",
+   "Ash Pond / Bob's",
+   0.5
+  ],
+  [
+   "Bob's",
+   "Ash Pond / Bob's",
+   "Moe's",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Lift 7 top",
+   "Moe's / Honeysuckle",
+   0.5
+  ],
+  [
+   "Mucho Gusto",
+   "Bonanza 3",
+   "West Basin / Bonanza",
+   0.5
+  ],
+  [
+   "Mucho Gusto",
+   "West Basin / Bonanza",
+   "Poco Gusto / Mucho Gusto",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "Unnamed run 7",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 7",
+   "Unnamed run / White Feather 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 8",
+   "Bambi Glade",
+   1.2
+  ],
+  [
+   "Upper Powderhorn",
+   "Zagava / Upper Powderhorn",
+   "Reforma / Jess's",
+   1.2
+  ],
+  [
+   "Upper Powderhorn",
+   "Reforma / Jess's",
+   "High Five",
+   0.7
+  ],
+  [
+   "Blitz",
+   "Honeysuckle 2",
+   "Lift 2 top",
+   0.5
+  ],
+  [
+   "Blitz",
+   "Lift 2 top",
+   "West Basin / Blitz",
+   0.7
+  ],
+  [
+   "Blitz",
+   "West Basin / Blitz",
+   "Bonanza 3",
+   0.7
+  ],
+  [
+   "Maxie's Terrain Park",
+   "Upper Totemoff",
+   "Moe's / Maxie's Terrain Park",
+   0.5
+  ],
+  [
+   "Maxie's Terrain Park",
+   "Moe's / Maxie's Terrain Park",
+   "Maxie's Terrain Park",
+   2.3
+  ],
+  [
+   "Maxie's Terrain Park",
+   "Maxie's Terrain Park",
+   "Lorelei / Lower Totemoff",
+   0.5
+  ],
+  [
+   "Maxie's Terrain Park",
+   "Lorelei / Lower Totemoff",
+   "Lift 7 bottom",
+   0.5
+  ],
+  [
+   "Middle Patton",
+   "Unnamed run / Lower Patton",
+   "El Funko / Staub",
+   0.5
+  ],
+  [
+   "Middle Patton",
+   "El Funko / Staub",
+   "El Funko 3",
+   0.5
+  ],
+  [
+   "Middle Patton",
+   "El Funko 3",
+   "Mama Bear",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Al's Run",
+   "Unnamed run 4",
+   0.9
+  ],
+  [
+   "Cache Stash",
+   "Cache Stash / Lower Patton",
+   "Lower Patton",
+   0.6
+  ],
+  [
+   "Firlefanz",
+   "Poco Gusto / Mucho Gusto",
+   "White Feather 11",
+   1.7
+  ],
+  [
+   "Bambi",
+   "Honeysuckle 3",
+   "Lift 7A top",
+   0.5
+  ],
+  [
+   "Bambi",
+   "Lift 7A top",
+   "Lorelei / Bambi",
+   1.6
+  ],
+  [
+   "Bambi",
+   "Lorelei / Bambi",
+   "Zagava / Upper Powderhorn",
+   1.2
+  ],
+  [
+   "Porcupine",
+   "Lift 1 top",
+   "North American",
+   0.6
+  ],
+  [
+   "Porcupine",
+   "North American",
+   "White Feather 6",
+   0.5
+  ],
+  [
+   "Porcupine",
+   "White Feather 6",
+   "Unnamed run 2",
+   0.9
+  ],
+  [
+   "Porcupine",
+   "Unnamed run 2",
+   "Unnamed run 8",
+   0.5
+  ],
+  [
+   "Porcupine",
+   "Unnamed run 8",
+   "Etch's Glade / Porcupine",
+   0.9
+  ],
+  [
+   "Porcupine",
+   "Etch's Glade / Porcupine",
+   "White Feather 18",
+   1.9
+  ],
+  [
+   "Baby Bear",
+   "Unnamed run / Lower Patton",
+   "Papa Bear",
+   0.9
+  ],
+  [
+   "Baby Bear",
+   "Papa Bear",
+   "Papa Bear / Baby Bear",
+   0.5
+  ],
+  [
+   "Baby Bear",
+   "Papa Bear / Baby Bear",
+   "Winkelried 2",
+   0.5
+  ],
+  [
+   "Rubezahl",
+   "Winkelried 3",
+   "Rubezahl 5",
+   0.5
+  ],
+  [
+   "High Noon",
+   "Hunziker Bowl 3",
+   "Hunziker Bowl / High Noon",
+   0.7
+  ],
+  [
+   "High Noon",
+   "Hunziker Bowl / High Noon",
+   "El Funko 3",
+   1.1
+  ],
+  [
+   "White Feather",
+   "White Feather 16",
+   "White Feather 13",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather 13",
+   "White Feather / Unnamed run",
+   0.5
+  ],
+  [
+   "White Feather",
+   "White Feather / Unnamed run",
+   "Unnamed run / White Feather",
+   0.5
+  ],
+  [
+   "White Feather",
+   "Unnamed run / White Feather",
+   "Lower Inferno / White Feather 2",
+   1.2
+  ],
+  [
+   "White Feather",
+   "Lower Inferno / White Feather 2",
+   "Lower Inferno / White Feather",
+   0.5
+  ],
+  [
+   "White Feather",
+   "Lower Inferno / White Feather",
+   "White Feather 19",
+   1.1
+  ],
+  [
+   "White Feather",
+   "White Feather 19",
+   "Unnamed run / White Feather 2",
+   0.5
+  ],
+  [
+   "White Feather",
+   "Unnamed run / White Feather 2",
+   "Unnamed run 3",
+   0.7
+  ],
+  [
+   "White Feather",
+   "Unnamed run 3",
+   "Rubezahl 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 3",
+   "Rubezahl 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Rubezahl 3",
+   "Rubezahl 2",
+   0.5
+  ],
+  [
+   "Walkyries Glade",
+   "Moe's",
+   "Ash Pond / Walkyries Glade",
+   0.5
+  ],
+  [
+   "Walkyries Glade",
+   "Ash Pond / Walkyries Glade",
+   "Maxie's Terrain Park",
+   2.8
+  ],
+  [
+   "Unnamed run",
+   "Lift 7 top",
+   "Lift 7A bottom",
+   0.5
+  ],
+  [
+   "Raspberry Hill",
+   "White Feather 19",
+   "Rueggli Beginner's Hill",
+   0.7
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Lift 7A top",
+   "Unnamed run",
+   2.3
+  ],
+  [
+   "walk",
+   "Lift 7A top",
+   "Lift 2 top",
+   1.0
+  ],
+  [
+   "walk",
+   "Lift 7A top",
+   "West Basin / Blitz",
+   2.8
+  ],
+  [
+   "walk",
+   "Lift 7A top",
+   "Honeysuckle",
+   3.4
+  ],
+  [
+   "walk",
+   "Lift 7A top",
+   "Honeysuckle 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Lift 7A top",
+   "Honeysuckle 3",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "West Basin",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "West Basin / Blitz",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Honeysuckle",
+   2.7
+  ],
+  [
+   "walk",
+   "Hunziker Bowl",
+   "Kachina Peak Lift bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Lift 4 top",
+   "Kachina Peak Lift bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Lift 4 top",
+   "Japanese Flag",
+   3.2
+  ],
+  [
+   "walk",
+   "Lift 4 top",
+   "Easy Trip",
+   0.9
+  ],
+  [
+   "walk",
+   "Kachina Peak Lift bottom",
+   "Hunziker Bowl",
+   1.6
+  ],
+  [
+   "walk",
+   "Kachina Peak Lift bottom",
+   "Unnamed run / Japanese Flag",
+   2.7
+  ],
+  [
+   "walk",
+   "Kachina Peak Lift bottom",
+   "Japanese Flag",
+   1.1
+  ],
+  [
+   "walk",
+   "Kachina Peak Lift bottom",
+   "Easy Trip",
+   2.1
+  ],
+  [
+   "walk",
+   "Poco Gusto / Mucho Gusto",
+   "Lift 2 bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Lift 2 bottom",
+   "White Feather",
+   2.7
+  ],
+  [
+   "walk",
+   "Lift 2 bottom",
+   "White Feather 3",
+   0.6
+  ],
+  [
+   "walk",
+   "Lift 2 bottom",
+   "White Feather 7",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Zipper 1 top",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Rueggli top",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Zipper 1 bottom 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Lift 1 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Zipper 2 bottom 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Zipper 2 top",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Gondolita top",
+   2.7
+  ],
+  [
+   "walk",
+   "West Basin",
+   "Lift 8 top",
+   2.8
+  ],
+  [
+   "walk",
+   "Lift 8 top",
+   "West Basin / Bonanza",
+   1.2
+  ],
+  [
+   "walk",
+   "Lift 8 top",
+   "Lower Stauffenberg",
+   0.6
+  ],
+  [
+   "walk",
+   "Lift 8 top",
+   "Bonanza 3",
+   1.2
+  ],
+  [
+   "walk",
+   "Ponsse Scheme / Rubezahl",
+   "Lift 4 bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Lift 1 top",
+   "White Feather 4",
+   3.0
+  ],
+  [
+   "walk",
+   "Lift 1 top",
+   "White Feather 6",
+   2.5
+  ],
+  [
+   "walk",
+   "Lift 1 top",
+   "White Feather 8",
+   1.5
+  ],
+  [
+   "walk",
+   "Lift 1 top",
+   "North American",
+   2.4
+  ],
+  [
+   "walk",
+   "Lift 1 top",
+   "High Five",
+   3.4
+  ],
+  [
+   "walk",
+   "West Basin / Bonanza",
+   "Lift 8 top",
+   1.2
+  ],
+  [
+   "walk",
+   "Lift 7 bottom",
+   "Ponsse Scheme / Winkelried",
+   1.1
+  ],
+  [
+   "walk",
+   "Lift 7 bottom",
+   "Lone Star / Honeysuckle 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Lift 7 bottom",
+   "Lorelei / Lower Totemoff",
+   0.7
+  ],
+  [
+   "walk",
+   "Lift 4 bottom",
+   "Ponsse Scheme / Rubezahl",
+   3.2
+  ],
+  [
+   "walk",
+   "Lift 4 bottom",
+   "Rubezahl",
+   2.5
+  ],
+  [
+   "walk",
+   "Lift 4 bottom",
+   "Winkelried 3",
+   0.6
+  ],
+  [
+   "walk",
+   "Lift 4 bottom",
+   "Rubezahl 5",
+   2.2
+  ],
+  [
+   "walk",
+   "Winkelried",
+   "Lift 4 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Zipper 1 top",
+   2.7
+  ],
+  [
+   "walk",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Rueggli top",
+   0.6
+  ],
+  [
+   "walk",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Zipper 1 bottom 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Lift 1 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Zipper 2 bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Zipper 2 bottom 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Zipper 2 top",
+   2.9
+  ],
+  [
+   "walk",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Gondolita top",
+   1.2
+  ],
+  [
+   "walk",
+   "Lift 8 bottom",
+   "White Feather / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Lift 8 bottom",
+   "White Feather 5",
+   0.6
+  ],
+  [
+   "walk",
+   "Lift 8 bottom",
+   "White Feather 13",
+   2.5
+  ],
+  [
+   "walk",
+   "Lift 8 bottom",
+   "White Feather 16",
+   1.9
+  ],
+  [
+   "walk",
+   "Lift 8 bottom",
+   "Unnamed run / White Feather",
+   2.9
+  ],
+  [
+   "walk",
+   "Lone Star / Honeysuckle 2",
+   "Lift 7 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Lift 7A top",
+   1.0
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Unnamed run",
+   1.2
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "West Basin",
+   3.0
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "West Basin / Blitz",
+   2.1
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Honeysuckle",
+   3.0
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Honeysuckle 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Honeysuckle 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Lower Stauffenberg",
+   "Lift 8 top",
+   0.6
+  ],
+  [
+   "walk",
+   "White Feather 3",
+   "Lift 2 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "White Feather 4",
+   "Lift 2 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "White Feather 5",
+   "Lift 8 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "Lift 2 bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "White Feather 7",
+   "Lift 2 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "White Feather 10",
+   "Lift 8 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Bob's / Honeysuckle",
+   "Lift 7 top",
+   2.7
+  ],
+  [
+   "walk",
+   "Bob's / Honeysuckle",
+   "Lift 7A bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Bob's",
+   "Lift 7 top",
+   2.0
+  ],
+  [
+   "walk",
+   "Bob's",
+   "Lift 7A bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Rubezahl",
+   "Lift 4 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "White Feather 13",
+   "Lift 8 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Lorelei / Lower Totemoff",
+   "Lift 7 bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "Lift 2 bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "West Basin / Blitz",
+   "Lift 8 top",
+   2.8
+  ],
+  [
+   "walk",
+   "Zagava / Upper Powderhorn",
+   "Lift 1 top",
+   1.5
+  ],
+  [
+   "walk",
+   "Zipper 1 top",
+   "Rubezahl / Rueggli Beginner's Hill",
+   2.7
+  ],
+  [
+   "walk",
+   "Zipper 1 top",
+   "Rubezahl 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Zipper 1 top",
+   "Rueggli top",
+   3.3
+  ],
+  [
+   "walk",
+   "Zipper 1 top",
+   "Zipper 1 bottom 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Zipper 1 top",
+   "Lift 1 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Zipper 1 top",
+   "Zipper 2 bottom 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Zipper 1 top",
+   "Zipper 2 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Zipper 1 top",
+   "Gondolita top",
+   3.4
+  ],
+  [
+   "walk",
+   "Rubezahl 2",
+   "Zipper 1 top",
+   1.3
+  ],
+  [
+   "walk",
+   "Rubezahl 2",
+   "Rueggli top",
+   1.9
+  ],
+  [
+   "walk",
+   "Rubezahl 2",
+   "Zipper 1 bottom 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Rubezahl 2",
+   "Lift 1 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Rubezahl 2",
+   "Zipper 2 bottom 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Rubezahl 2",
+   "Zipper 2 top",
+   1.7
+  ],
+  [
+   "walk",
+   "Rubezahl 2",
+   "Gondolita top",
+   2.2
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom",
+   "Zipper 2 bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Rueggli top",
+   "Rubezahl / Rueggli Beginner's Hill",
+   0.6
+  ],
+  [
+   "walk",
+   "Rueggli top",
+   "Zipper 1 top",
+   3.3
+  ],
+  [
+   "walk",
+   "Rueggli top",
+   "Rubezahl 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Rueggli top",
+   "Zipper 1 bottom 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Rueggli top",
+   "Lift 1 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Rueggli top",
+   "Rueggli Beginner's Hill",
+   1.7
+  ],
+  [
+   "walk",
+   "Rueggli top",
+   "Zipper 2 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Rueggli top",
+   "Zipper 2 bottom 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Rueggli top",
+   "Gondolita top",
+   1.2
+  ],
+  [
+   "walk",
+   "Rubezahl 3",
+   "Zipper 1 top",
+   1.7
+  ],
+  [
+   "walk",
+   "Rubezahl 3",
+   "Rueggli top",
+   2.0
+  ],
+  [
+   "walk",
+   "Rubezahl 3",
+   "Zipper 1 bottom 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Rubezahl 3",
+   "Lift 1 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Rubezahl 3",
+   "Zipper 2 bottom 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Rubezahl 3",
+   "Zipper 2 top",
+   1.6
+  ],
+  [
+   "walk",
+   "Rubezahl 3",
+   "Gondolita top",
+   2.7
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom 2",
+   "Rubezahl / Rueggli Beginner's Hill",
+   2.4
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom 2",
+   "Zipper 1 top",
+   1.4
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom 2",
+   "Rubezahl 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom 2",
+   "Rueggli top",
+   2.9
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom 2",
+   "Lift 1 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom 2",
+   "Zipper 2 bottom 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom 2",
+   "Zipper 2 top",
+   2.2
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom 2",
+   "Gondolita top",
+   2.5
+  ],
+  [
+   "walk",
+   "Rubezahl 4",
+   "Pioneer top",
+   2.0
+  ],
+  [
+   "walk",
+   "North American",
+   "Lift 1 top",
+   2.4
+  ],
+  [
+   "walk",
+   "Easy Trip",
+   "Lift 4 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Easy Trip",
+   "Kachina Peak Lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "White Feather 16",
+   "Lift 8 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Lift 1 bottom",
+   "Rubezahl / Rueggli Beginner's Hill",
+   1.5
+  ],
+  [
+   "walk",
+   "Lift 1 bottom",
+   "Zipper 1 top",
+   1.5
+  ],
+  [
+   "walk",
+   "Lift 1 bottom",
+   "Rubezahl 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Lift 1 bottom",
+   "Rueggli top",
+   2.1
+  ],
+  [
+   "walk",
+   "Lift 1 bottom",
+   "Zipper 1 bottom 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Lift 1 bottom",
+   "Rueggli Beginner's Hill",
+   3.3
+  ],
+  [
+   "walk",
+   "Lift 1 bottom",
+   "Zipper 2 bottom 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Lift 1 bottom",
+   "Zipper 2 top",
+   2.1
+  ],
+  [
+   "walk",
+   "Lift 1 bottom",
+   "Gondolita top",
+   1.9
+  ],
+  [
+   "walk",
+   "White Feather 17",
+   "Lift 2 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Ash Pond / Bob's",
+   "Lift 7A bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Rueggli top",
+   2.6
+  ],
+  [
+   "walk",
+   "Honeysuckle",
+   "Lift 7 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Honeysuckle",
+   "Lift 7A bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Moe's / Honeysuckle",
+   1.3
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Bob's",
+   2.0
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Upper Totemoff / Honeysuckle",
+   2.3
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Ash Pond / Bob's",
+   1.0
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Ash Pond / Walkyries Glade",
+   2.3
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Moe's",
+   1.9
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Upper Totemoff",
+   3.0
+  ],
+  [
+   "walk",
+   "Lift 7 top",
+   "Lift 7A bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Bonanza 3",
+   "Lift 8 top",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run / White Feather 2",
+   "Rueggli top",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / White Feather 2",
+   "Zipper 2 bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / White Feather 2",
+   "Gondolita top",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Stauffenberg 3",
+   "Lift 8 bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Honeysuckle 2",
+   "Lift 7A top",
+   1.2
+  ],
+  [
+   "walk",
+   "Honeysuckle 2",
+   "Lift 2 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Honeysuckle 3",
+   "Lift 7A top",
+   0.6
+  ],
+  [
+   "walk",
+   "Honeysuckle 3",
+   "Lift 2 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Winkelried 3",
+   "Lift 4 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Rubezahl 5",
+   "Lift 4 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Maxie's Terrain Park",
+   "Lift 7 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Lift 7A bottom",
+   "Moe's / Honeysuckle",
+   1.7
+  ],
+  [
+   "walk",
+   "Lift 7A bottom",
+   "Bob's",
+   1.4
+  ],
+  [
+   "walk",
+   "Lift 7A bottom",
+   "Upper Totemoff / Honeysuckle",
+   2.9
+  ],
+  [
+   "walk",
+   "Lift 7A bottom",
+   "Ash Pond / Bob's",
+   1.0
+  ],
+  [
+   "walk",
+   "Lift 7A bottom",
+   "Ash Pond / Walkyries Glade",
+   2.4
+  ],
+  [
+   "walk",
+   "Lift 7A bottom",
+   "Moe's",
+   2.4
+  ],
+  [
+   "walk",
+   "Lift 7A bottom",
+   "Lift 7 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Lift 7A bottom",
+   "Upper Totemoff",
+   3.5
+  ],
+  [
+   "walk",
+   "White Feather 19",
+   "Zipper 1 bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "White Feather 19",
+   "Rueggli top",
+   2.4
+  ],
+  [
+   "walk",
+   "White Feather 19",
+   "Zipper 2 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "White Feather 19",
+   "Gondolita top",
+   3.2
+  ],
+  [
+   "walk",
+   "Rueggli Beginner's Hill",
+   "Zipper 1 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Rueggli Beginner's Hill",
+   "Lift 1 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Rueggli Beginner's Hill",
+   "Zipper 2 bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Rueggli Beginner's Hill",
+   "Gondolita top",
+   1.4
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom",
+   "Zipper 1 bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom",
+   "Rueggli Beginner's Hill",
+   1.3
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom",
+   "Gondolita top",
+   2.5
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom 2",
+   "Rubezahl / Rueggli Beginner's Hill",
+   2.2
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom 2",
+   "Zipper 1 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom 2",
+   "Rubezahl 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom 2",
+   "Rueggli top",
+   2.8
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom 2",
+   "Zipper 1 bottom 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom 2",
+   "Lift 1 bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom 2",
+   "Zipper 2 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom 2",
+   "Gondolita top",
+   3.1
+  ],
+  [
+   "walk",
+   "Zipper 2 top",
+   "Rubezahl / Rueggli Beginner's Hill",
+   2.9
+  ],
+  [
+   "walk",
+   "Zipper 2 top",
+   "Zipper 1 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Zipper 2 top",
+   "Rubezahl 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Zipper 2 top",
+   "Zipper 1 bottom 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Zipper 2 top",
+   "Lift 1 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Zipper 2 top",
+   "Zipper 2 bottom 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Gondolita top",
+   "Zipper 1 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Gondolita top",
+   "Rubezahl 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Gondolita top",
+   "Zipper 1 bottom 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Gondolita top",
+   "Lift 1 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Gondolita top",
+   "Rueggli Beginner's Hill",
+   1.4
+  ],
+  [
+   "walk",
+   "Gondolita top",
+   "Zipper 2 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Honeysuckle 2",
+   "Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "Honeysuckle 2",
+   "West Basin / Blitz",
+   2.7
+  ],
+  [
+   "walk",
+   "Honeysuckle 2",
+   "Honeysuckle",
+   3.6
+  ],
+  [
+   "walk",
+   "Honeysuckle 2",
+   "Honeysuckle 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Honeysuckle 3",
+   "Unnamed run",
+   2.1
+  ],
+  [
+   "walk",
+   "Honeysuckle 3",
+   "West Basin / Blitz",
+   2.9
+  ],
+  [
+   "walk",
+   "Honeysuckle 3",
+   "Honeysuckle",
+   3.8
+  ],
+  [
+   "walk",
+   "Honeysuckle 3",
+   "Honeysuckle 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Lift 7A top",
+   "West Basin",
+   4.1
+  ],
+  [
+   "walk",
+   "Honeysuckle 2",
+   "West Basin",
+   3.7
+  ],
+  [
+   "walk",
+   "Honeysuckle 3",
+   "West Basin",
+   3.9
+  ],
+  [
+   "walk",
+   "Easy Trip",
+   "Japanese Flag",
+   3.2
+  ],
+  [
+   "walk",
+   "Hunziker Bowl",
+   "Unnamed run / Japanese Flag",
+   4.3
+  ],
+  [
+   "walk",
+   "Hunziker Bowl",
+   "Japanese Flag",
+   2.7
+  ],
+  [
+   "walk",
+   "Hunziker Bowl",
+   "Easy Trip",
+   3.7
+  ],
+  [
+   "walk",
+   "Lift 4 top",
+   "Hunziker Bowl",
+   4.3
+  ],
+  [
+   "walk",
+   "Lift 4 top",
+   "Unnamed run / Japanese Flag",
+   5.4
+  ],
+  [
+   "walk",
+   "Easy Trip",
+   "Hunziker Bowl",
+   3.7
+  ],
+  [
+   "walk",
+   "Easy Trip",
+   "Unnamed run / Japanese Flag",
+   4.8
+  ],
+  [
+   "walk",
+   "Poco Gusto / Mucho Gusto",
+   "White Feather",
+   5.4
+  ],
+  [
+   "walk",
+   "Poco Gusto / Mucho Gusto",
+   "White Feather 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Poco Gusto / Mucho Gusto",
+   "White Feather 7",
+   5.0
+  ],
+  [
+   "walk",
+   "White Feather 3",
+   "White Feather",
+   3.2
+  ],
+  [
+   "walk",
+   "White Feather 3",
+   "White Feather 7",
+   2.8
+  ],
+  [
+   "walk",
+   "White Feather 4",
+   "White Feather",
+   5.6
+  ],
+  [
+   "walk",
+   "White Feather 4",
+   "White Feather 3",
+   3.5
+  ],
+  [
+   "walk",
+   "White Feather 4",
+   "White Feather 7",
+   5.2
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "White Feather",
+   5.1
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "White Feather 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "White Feather 7",
+   4.7
+  ],
+  [
+   "walk",
+   "White Feather 7",
+   "White Feather",
+   4.9
+  ],
+  [
+   "walk",
+   "White Feather 7",
+   "White Feather 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "White Feather",
+   3.9
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "White Feather 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "White Feather 7",
+   3.5
+  ],
+  [
+   "walk",
+   "White Feather 17",
+   "White Feather",
+   4.2
+  ],
+  [
+   "walk",
+   "White Feather 17",
+   "White Feather 3",
+   2.1
+  ],
+  [
+   "walk",
+   "White Feather 17",
+   "White Feather 7",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Lift 8 top",
+   4.8
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Lift 8 top",
+   4.9
+  ],
+  [
+   "walk",
+   "West Basin",
+   "West Basin / Bonanza",
+   3.9
+  ],
+  [
+   "walk",
+   "West Basin",
+   "Lower Stauffenberg",
+   3.4
+  ],
+  [
+   "walk",
+   "West Basin",
+   "Bonanza 3",
+   4.0
+  ],
+  [
+   "walk",
+   "West Basin / Bonanza",
+   "Lower Stauffenberg",
+   1.8
+  ],
+  [
+   "walk",
+   "West Basin / Bonanza",
+   "Bonanza 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Stauffenberg",
+   "West Basin / Bonanza",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Stauffenberg",
+   "Bonanza 3",
+   1.8
+  ],
+  [
+   "walk",
+   "West Basin / Blitz",
+   "West Basin / Bonanza",
+   4.0
+  ],
+  [
+   "walk",
+   "West Basin / Blitz",
+   "Lower Stauffenberg",
+   3.4
+  ],
+  [
+   "walk",
+   "West Basin / Blitz",
+   "Bonanza 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Bonanza 3",
+   "West Basin / Bonanza",
+   2.4
+  ],
+  [
+   "walk",
+   "Bonanza 3",
+   "Lower Stauffenberg",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "West Basin / Bonanza",
+   6.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Lower Stauffenberg",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Bonanza 3",
+   6.0
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Lower Stauffenberg",
+   5.5
+  ],
+  [
+   "walk",
+   "Zagava / Upper Powderhorn",
+   "White Feather 4",
+   4.5
+  ],
+  [
+   "walk",
+   "Zagava / Upper Powderhorn",
+   "White Feather 6",
+   4.0
+  ],
+  [
+   "walk",
+   "Zagava / Upper Powderhorn",
+   "White Feather 8",
+   3.0
+  ],
+  [
+   "walk",
+   "Zagava / Upper Powderhorn",
+   "North American",
+   3.9
+  ],
+  [
+   "walk",
+   "Zagava / Upper Powderhorn",
+   "High Five",
+   4.9
+  ],
+  [
+   "walk",
+   "North American",
+   "White Feather 4",
+   5.4
+  ],
+  [
+   "walk",
+   "North American",
+   "White Feather 6",
+   4.9
+  ],
+  [
+   "walk",
+   "North American",
+   "White Feather 8",
+   4.0
+  ],
+  [
+   "walk",
+   "North American",
+   "High Five",
+   5.9
+  ],
+  [
+   "walk",
+   "Lone Star / Honeysuckle 2",
+   "Ponsse Scheme / Winkelried",
+   3.1
+  ],
+  [
+   "walk",
+   "Lone Star / Honeysuckle 2",
+   "Lorelei / Lower Totemoff",
+   2.6
+  ],
+  [
+   "walk",
+   "Lorelei / Lower Totemoff",
+   "Ponsse Scheme / Winkelried",
+   1.8
+  ],
+  [
+   "walk",
+   "Lorelei / Lower Totemoff",
+   "Lone Star / Honeysuckle 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Maxie's Terrain Park",
+   "Ponsse Scheme / Winkelried",
+   3.0
+  ],
+  [
+   "walk",
+   "Maxie's Terrain Park",
+   "Lone Star / Honeysuckle 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Maxie's Terrain Park",
+   "Lorelei / Lower Totemoff",
+   2.6
+  ],
+  [
+   "walk",
+   "Ponsse Scheme / Rubezahl",
+   "Rubezahl",
+   5.8
+  ],
+  [
+   "walk",
+   "Ponsse Scheme / Rubezahl",
+   "Winkelried 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Ponsse Scheme / Rubezahl",
+   "Rubezahl 5",
+   5.4
+  ],
+  [
+   "walk",
+   "Winkelried",
+   "Ponsse Scheme / Rubezahl",
+   5.4
+  ],
+  [
+   "walk",
+   "Winkelried",
+   "Rubezahl",
+   4.7
+  ],
+  [
+   "walk",
+   "Winkelried",
+   "Winkelried 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Winkelried",
+   "Rubezahl 5",
+   4.3
+  ],
+  [
+   "walk",
+   "Rubezahl",
+   "Ponsse Scheme / Rubezahl",
+   5.8
+  ],
+  [
+   "walk",
+   "Rubezahl",
+   "Winkelried 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Rubezahl",
+   "Rubezahl 5",
+   4.7
+  ],
+  [
+   "walk",
+   "Winkelried 3",
+   "Ponsse Scheme / Rubezahl",
+   3.8
+  ],
+  [
+   "walk",
+   "Winkelried 3",
+   "Rubezahl",
+   3.1
+  ],
+  [
+   "walk",
+   "Winkelried 3",
+   "Rubezahl 5",
+   2.7
+  ],
+  [
+   "walk",
+   "Rubezahl 5",
+   "Ponsse Scheme / Rubezahl",
+   5.4
+  ],
+  [
+   "walk",
+   "Rubezahl 5",
+   "Rubezahl",
+   4.7
+  ],
+  [
+   "walk",
+   "Rubezahl 5",
+   "Winkelried 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Zipper 1 top",
+   "Zipper 2 bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Rueggli top",
+   "Zipper 2 top",
+   3.5
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom 2",
+   "Zipper 2 bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Lift 1 bottom",
+   "Zipper 2 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom 2",
+   "Zipper 2 bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Zipper 2 top",
+   "Rueggli top",
+   3.5
+  ],
+  [
+   "walk",
+   "Zipper 2 top",
+   "Zipper 2 bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Zipper 2 top",
+   "Gondolita top",
+   3.9
+  ],
+  [
+   "walk",
+   "White Feather 5",
+   "White Feather / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "White Feather 5",
+   "White Feather 13",
+   3.1
+  ],
+  [
+   "walk",
+   "White Feather 5",
+   "White Feather 16",
+   2.5
+  ],
+  [
+   "walk",
+   "White Feather 5",
+   "Unnamed run / White Feather",
+   3.5
+  ],
+  [
+   "walk",
+   "White Feather 10",
+   "White Feather / Unnamed run",
+   5.7
+  ],
+  [
+   "walk",
+   "White Feather 10",
+   "White Feather 5",
+   3.9
+  ],
+  [
+   "walk",
+   "White Feather 10",
+   "White Feather 13",
+   5.8
+  ],
+  [
+   "walk",
+   "White Feather 10",
+   "White Feather 16",
+   5.2
+  ],
+  [
+   "walk",
+   "White Feather 10",
+   "Unnamed run / White Feather",
+   6.2
+  ],
+  [
+   "walk",
+   "White Feather 13",
+   "White Feather / Unnamed run",
+   4.9
+  ],
+  [
+   "walk",
+   "White Feather 13",
+   "White Feather 5",
+   3.1
+  ],
+  [
+   "walk",
+   "White Feather 13",
+   "White Feather 16",
+   4.4
+  ],
+  [
+   "walk",
+   "White Feather 13",
+   "Unnamed run / White Feather",
+   5.4
+  ],
+  [
+   "walk",
+   "White Feather 16",
+   "White Feather / Unnamed run",
+   4.3
+  ],
+  [
+   "walk",
+   "White Feather 16",
+   "White Feather 5",
+   2.5
+  ],
+  [
+   "walk",
+   "White Feather 16",
+   "White Feather 13",
+   4.4
+  ],
+  [
+   "walk",
+   "White Feather 16",
+   "Unnamed run / White Feather",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower Stauffenberg 3",
+   "White Feather / Unnamed run",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Stauffenberg 3",
+   "White Feather 5",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Stauffenberg 3",
+   "White Feather 13",
+   5.2
+  ],
+  [
+   "walk",
+   "Lower Stauffenberg 3",
+   "White Feather 16",
+   4.6
+  ],
+  [
+   "walk",
+   "Lower Stauffenberg 3",
+   "Unnamed run / White Feather",
+   5.5
+  ],
+  [
+   "walk",
+   "Lift 7A top",
+   "Lift 8 top",
+   5.6
+  ],
+  [
+   "walk",
+   "Honeysuckle 2",
+   "Lift 8 top",
+   5.6
+  ],
+  [
+   "walk",
+   "Honeysuckle 3",
+   "Lift 8 top",
+   5.8
+  ],
+  [
+   "walk",
+   "Lift 1 top",
+   "Lift 2 bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Lift 1 top",
+   "White Feather 3",
+   6.5
+  ],
+  [
+   "walk",
+   "Lift 7A top",
+   "West Basin / Bonanza",
+   6.8
+  ],
+  [
+   "walk",
+   "Lift 7A top",
+   "Lower Stauffenberg",
+   6.3
+  ],
+  [
+   "walk",
+   "Lift 7A top",
+   "Bonanza 3",
+   6.9
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "West Basin / Bonanza",
+   6.1
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Bonanza 3",
+   6.2
+  ],
+  [
+   "walk",
+   "Honeysuckle 2",
+   "West Basin / Bonanza",
+   6.7
+  ],
+  [
+   "walk",
+   "Honeysuckle 2",
+   "Lower Stauffenberg",
+   6.2
+  ],
+  [
+   "walk",
+   "Honeysuckle 2",
+   "Bonanza 3",
+   6.8
+  ],
+  [
+   "walk",
+   "Honeysuckle 3",
+   "West Basin / Bonanza",
+   6.9
+  ],
+  [
+   "walk",
+   "Honeysuckle 3",
+   "Lower Stauffenberg",
+   6.4
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Rubezahl / Rueggli Beginner's Hill",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Rubezahl 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Rubezahl 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Rubezahl 2",
+   "Rubezahl / Rueggli Beginner's Hill",
+   2.0
+  ],
+  [
+   "walk",
+   "Rubezahl 3",
+   "Rubezahl / Rueggli Beginner's Hill",
+   2.6
+  ],
+  [
+   "walk",
+   "Rubezahl 3",
+   "Rubezahl 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Gondolita top",
+   "Rubezahl / Rueggli Beginner's Hill",
+   3.4
+  ],
+  [
+   "walk",
+   "Gondolita top",
+   "Rueggli top",
+   4.0
+  ],
+  [
+   "walk",
+   "Gondolita top",
+   "Zipper 2 bottom 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Gondolita top",
+   "Zipper 2 top",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Rueggli Beginner's Hill",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Zipper 2 bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Rueggli Beginner's Hill",
+   2.3
+  ],
+  [
+   "walk",
+   "Zipper 1 top",
+   "Rueggli Beginner's Hill",
+   4.8
+  ],
+  [
+   "walk",
+   "Rubezahl 2",
+   "Rueggli Beginner's Hill",
+   3.5
+  ],
+  [
+   "walk",
+   "Rubezahl 2",
+   "Zipper 2 bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Rubezahl 3",
+   "Rueggli Beginner's Hill",
+   3.7
+  ],
+  [
+   "walk",
+   "Rubezahl 3",
+   "Zipper 2 bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom 2",
+   "Rueggli Beginner's Hill",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Rubezahl / Rueggli Beginner's Hill",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Zipper 1 top",
+   5.9
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Rubezahl 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Zipper 1 bottom 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Lift 1 bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Rueggli Beginner's Hill",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Zipper 2 bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Zipper 2 bottom 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Gondolita top",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Zipper 2 top",
+   6.2
+  ],
+  [
+   "walk",
+   "Unnamed run / White Feather 2",
+   "Rubezahl / Rueggli Beginner's Hill",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / White Feather 2",
+   "Zipper 1 top",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / White Feather 2",
+   "Rubezahl 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / White Feather 2",
+   "Zipper 1 bottom 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run / White Feather 2",
+   "Lift 1 bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / White Feather 2",
+   "Rueggli Beginner's Hill",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / White Feather 2",
+   "Zipper 2 bottom 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed run / White Feather 2",
+   "Zipper 2 top",
+   5.3
+  ],
+  [
+   "walk",
+   "White Feather 19",
+   "Rubezahl / Rueggli Beginner's Hill",
+   3.0
+  ],
+  [
+   "walk",
+   "White Feather 19",
+   "Zipper 1 top",
+   5.6
+  ],
+  [
+   "walk",
+   "White Feather 19",
+   "Rubezahl 2",
+   4.3
+  ],
+  [
+   "walk",
+   "White Feather 19",
+   "Zipper 1 bottom 2",
+   5.3
+  ],
+  [
+   "walk",
+   "White Feather 19",
+   "Lift 1 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "White Feather 19",
+   "Rueggli Beginner's Hill",
+   4.1
+  ],
+  [
+   "walk",
+   "White Feather 19",
+   "Zipper 2 bottom 2",
+   5.2
+  ],
+  [
+   "walk",
+   "White Feather 19",
+   "Zipper 2 top",
+   5.9
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom 2",
+   "Rueggli Beginner's Hill",
+   4.5
+  ],
+  [
+   "walk",
+   "Zipper 2 top",
+   "Rueggli Beginner's Hill",
+   5.2
+  ],
+  [
+   "walk",
+   "Kachina Peak Lift bottom",
+   "Lift 4 top",
+   3.0
+  ],
+  [
+   "walk",
+   "Hunziker Bowl",
+   "Lift 4 top",
+   4.6
+  ],
+  [
+   "walk",
+   "Rueggli Beginner's Hill",
+   "Rubezahl / Rueggli Beginner's Hill",
+   4.7
+  ],
+  [
+   "walk",
+   "Rueggli Beginner's Hill",
+   "Zipper 1 top",
+   4.8
+  ],
+  [
+   "walk",
+   "Rueggli Beginner's Hill",
+   "Rubezahl 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Rueggli Beginner's Hill",
+   "Rueggli top",
+   5.3
+  ],
+  [
+   "walk",
+   "Rueggli Beginner's Hill",
+   "Zipper 1 bottom 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Rueggli Beginner's Hill",
+   "Zipper 2 bottom 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Rueggli Beginner's Hill",
+   "Zipper 2 top",
+   5.2
+  ],
+  [
+   "walk",
+   "Lift 7A top",
+   "Lift 7 top",
+   6.8
+  ],
+  [
+   "walk",
+   "Lift 7A top",
+   "Lift 7A bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Lift 7 top",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Lift 7A bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Lift 7 top",
+   6.4
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Lift 7A bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Honeysuckle 2",
+   "Lift 7A bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Honeysuckle 3",
+   "Lift 7A bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Bob's / Honeysuckle",
+   "Moe's / Honeysuckle",
+   4.0
+  ],
+  [
+   "walk",
+   "Bob's / Honeysuckle",
+   "Bob's",
+   3.7
+  ],
+  [
+   "walk",
+   "Bob's / Honeysuckle",
+   "Upper Totemoff / Honeysuckle",
+   5.1
+  ],
+  [
+   "walk",
+   "Bob's / Honeysuckle",
+   "Ash Pond / Bob's",
+   3.3
+  ],
+  [
+   "walk",
+   "Bob's / Honeysuckle",
+   "Ash Pond / Walkyries Glade",
+   4.7
+  ],
+  [
+   "walk",
+   "Bob's / Honeysuckle",
+   "Moe's",
+   4.6
+  ],
+  [
+   "walk",
+   "Bob's / Honeysuckle",
+   "Upper Totemoff",
+   5.7
+  ],
+  [
+   "walk",
+   "Bob's",
+   "Moe's / Honeysuckle",
+   3.2
+  ],
+  [
+   "walk",
+   "Bob's",
+   "Upper Totemoff / Honeysuckle",
+   4.3
+  ],
+  [
+   "walk",
+   "Bob's",
+   "Ash Pond / Bob's",
+   2.4
+  ],
+  [
+   "walk",
+   "Bob's",
+   "Ash Pond / Walkyries Glade",
+   3.9
+  ],
+  [
+   "walk",
+   "Bob's",
+   "Moe's",
+   3.8
+  ],
+  [
+   "walk",
+   "Bob's",
+   "Upper Totemoff",
+   4.9
+  ],
+  [
+   "walk",
+   "Honeysuckle",
+   "Moe's / Honeysuckle",
+   4.6
+  ],
+  [
+   "walk",
+   "Honeysuckle",
+   "Bob's",
+   4.3
+  ],
+  [
+   "walk",
+   "Honeysuckle",
+   "Upper Totemoff / Honeysuckle",
+   5.7
+  ],
+  [
+   "walk",
+   "Honeysuckle",
+   "Ash Pond / Bob's",
+   3.9
+  ],
+  [
+   "walk",
+   "Honeysuckle",
+   "Ash Pond / Walkyries Glade",
+   5.3
+  ],
+  [
+   "walk",
+   "Honeysuckle",
+   "Moe's",
+   5.2
+  ],
+  [
+   "walk",
+   "Honeysuckle",
+   "Upper Totemoff",
+   6.3
+  ],
+  [
+   "walk",
+   "Ash Pond / Bob's",
+   "Moe's / Honeysuckle",
+   2.7
+  ],
+  [
+   "walk",
+   "Ash Pond / Bob's",
+   "Bob's",
+   2.4
+  ],
+  [
+   "walk",
+   "Ash Pond / Bob's",
+   "Upper Totemoff / Honeysuckle",
+   3.9
+  ],
+  [
+   "walk",
+   "Ash Pond / Bob's",
+   "Ash Pond / Walkyries Glade",
+   3.4
+  ],
+  [
+   "walk",
+   "Ash Pond / Bob's",
+   "Moe's",
+   3.4
+  ],
+  [
+   "walk",
+   "Ash Pond / Bob's",
+   "Lift 7 top",
+   1.6
+  ],
+  [
+   "walk",
+   "Ash Pond / Bob's",
+   "Upper Totemoff",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Ash Pond / Bob's",
+   6.6
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Ash Pond / Bob's",
+   6.8
+  ],
+  [
+   "walk",
+   "Rueggli top",
+   "Zipper 1 bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Lift 1 bottom",
+   "Zipper 1 bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom",
+   "Lift 1 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom",
+   "Rubezahl / Rueggli Beginner's Hill",
+   5.9
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom",
+   "Zipper 1 top",
+   5.9
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom",
+   "Rubezahl 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom",
+   "Rueggli top",
+   6.5
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom",
+   "Zipper 1 bottom 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom",
+   "Zipper 2 bottom 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom",
+   "Zipper 2 top",
+   6.3
+  ],
+  [
+   "walk",
+   "Gondolita top",
+   "Zipper 1 bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Zipper 1 bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Rubezahl / Rueggli Beginner's Hill",
+   "Zipper 1 bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Zipper 1 top",
+   "Zipper 1 bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Rubezahl 2",
+   "Zipper 1 bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Rubezahl 3",
+   "Zipper 1 bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom 2",
+   "Zipper 1 bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Zipper 1 bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Unnamed run / White Feather 2",
+   "Zipper 1 bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Zipper 2 bottom 2",
+   "Zipper 1 bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom",
+   "Rueggli Beginner's Hill",
+   2.4
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom",
+   "Gondolita top",
+   3.6
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom",
+   "Lift 1 bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom",
+   "Rubezahl 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom",
+   "Zipper 1 bottom 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Zipper 1 bottom",
+   "Zipper 2 bottom 2",
+   6.7
+  ]
+ ],
+ "base": "Lift 1 bottom",
+ "info": {}
+}

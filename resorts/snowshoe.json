@@ -1,0 +1,2034 @@
+{
+ "name": "Snowshoe Mountain",
+ "source": "OpenSkiMap ski area 1facaf3d92da6719b1c7aa95f763fbeda72222b3",
+ "origin_lonlat": [
+  -79.99361516650835,
+  38.421991628028515
+ ],
+ "nodes": {
+  "Ballhooter High Speed Quad top": [
+   -83,
+   -1162,
+   1449.1
+  ],
+  "Grabhammer / Skip Jack": [
+   290,
+   -792,
+   1316.6
+  ],
+  "Shay's Revenge / Cupp Run": [
+   -375,
+   -577,
+   1432.0
+  ],
+  "Shay's Revenge / Lower Shay's Revenge": [
+   -1061,
+   -403,
+   1243.1
+  ],
+  "Powder Monkey / Lower Whistlepunk": [
+   91,
+   -658,
+   1329.6
+  ],
+  "Grabhammer bottom": [
+   653,
+   -676,
+   1247.6
+  ],
+  "Lower Whistlepunk / Log Slide": [
+   465,
+   -596,
+   1276.5
+  ],
+  "Lower Flume / Ballhooter": [
+   639,
+   -1060,
+   1301.6
+  ],
+  "Lower Flume / Log Slide": [
+   696,
+   -592,
+   1250.2
+  ],
+  "Choker / Heisler Way": [
+   -193,
+   -730,
+   1413.3
+  ],
+  "Powder Monkey": [
+   147,
+   -718,
+   1327.4
+  ],
+  "Moonshine / Singletree": [
+   -88,
+   -588,
+   1381.0
+  ],
+  "Powderidge, Gangway Crossover / Gangway": [
+   -20,
+   -324,
+   1398.4
+  ],
+  "Powderidge, Gangway Crossover / Whistlepunk": [
+   -38,
+   -387,
+   1400.2
+  ],
+  "Powderidge top": [
+   -86,
+   -169,
+   1421.2
+  ],
+  "Skip Jack / Crosscut": [
+   -111,
+   -1031,
+   1427.8
+  ],
+  "Skip Jack / Whiffletree": [
+   499,
+   -771,
+   1277.4
+  ],
+  "Grabhammer top": [
+   -145,
+   -1128,
+   1444.9
+  ],
+  "Skidder bottom": [
+   -166,
+   -949,
+   1427.0
+  ],
+  "Soaring Eagle Express top": [
+   85,
+   -2245,
+   1455.6
+  ],
+  "Camp 4 / Gangway": [
+   22,
+   -244,
+   1381.5
+  ],
+  "Log Slide / Heisler Way": [
+   84,
+   -391,
+   1360.3
+  ],
+  "Powderidge bottom": [
+   749,
+   -556,
+   1244.9
+  ],
+  "Ballhooter": [
+   -31,
+   -1193,
+   1448.7
+  ],
+  "Ballhooter High Speed Quad bottom": [
+   838,
+   -805,
+   1241.1
+  ],
+  "Western Express top": [
+   -338,
+   -655,
+   1438.2
+  ],
+  "Western Express bottom": [
+   -1950,
+   164,
+   994.0
+  ],
+  "Grabhammer": [
+   113,
+   -1024,
+   1382.5
+  ],
+  "Ballhooter 2": [
+   291,
+   -1048,
+   1349.8
+  ],
+  "Spruce / Crosscut": [
+   -133,
+   -978,
+   1423.0
+  ],
+  "Powder Monkey 2": [
+   277,
+   -721,
+   1306.6
+  ],
+  "Stemwinder / Gandy Dancer": [
+   -82,
+   -801,
+   1379.5
+  ],
+  "Heisler Way": [
+   51,
+   -430,
+   1370.9
+  ],
+  "Heisler Way 2": [
+   -193,
+   -912,
+   1423.0
+  ],
+  "J Hook / Upper Flume": [
+   88,
+   -1886,
+   1411.7
+  ],
+  "J Hook / Lower Hootenanny": [
+   511,
+   -1941,
+   1302.1
+  ],
+  "Knot Bumper / Upper Hootenanny": [
+   83,
+   -1199,
+   1432.4
+  ],
+  "Ballhooter 3": [
+   417,
+   -1058,
+   1330.9
+  ],
+  "Lower Hootenanny / Mid Flume": [
+   198,
+   -1574,
+   1383.0
+  ],
+  "Soaring Eagle Express bottom": [
+   806,
+   -1793,
+   1261.0
+  ],
+  "Camp 99 / Sawmill": [
+   217,
+   -2256,
+   1420.0
+  ],
+  "Camp 99 / Sawmill 2": [
+   690,
+   -1916,
+   1272.7
+  ],
+  "Knot Bumper Glades / Upper Hootenanny": [
+   121,
+   -1237,
+   1425.3
+  ],
+  "Ballhooter 4": [
+   545,
+   -1061,
+   1312.5
+  ],
+  "Lower Hootenanny": [
+   719,
+   -1826,
+   1265.9
+  ],
+  "Cupp Run": [
+   -1071,
+   -204,
+   1216.9
+  ],
+  "Powder Monkey top": [
+   -270,
+   -737,
+   1436.1
+  ],
+  "Ballhooter 5": [
+   15,
+   -1172,
+   1436.7
+  ],
+  "Gandy Dancer": [
+   -159,
+   -880,
+   1412.0
+  ],
+  "Heisler Way 3": [
+   -78,
+   -502,
+   1388.5
+  ],
+  "Log Slide": [
+   507,
+   -593,
+   1270.7
+  ],
+  "Powder Monkey 3": [
+   564,
+   -676,
+   1260.2
+  ],
+  "Powder Monkey 4": [
+   382,
+   -725,
+   1291.2
+  ],
+  "Powder Monkey bottom": [
+   626,
+   -617,
+   1252.7
+  ]
+ },
+ "lifts": [
+  [
+   "Soaring Eagle Express",
+   "Soaring Eagle Express bottom",
+   "Soaring Eagle Express top",
+   5.9
+  ],
+  [
+   "Powder Monkey",
+   "Powder Monkey bottom",
+   "Powder Monkey top",
+   9.7
+  ],
+  [
+   "Grabhammer",
+   "Grabhammer bottom",
+   "Grabhammer top",
+   9.5
+  ],
+  [
+   "Ballhooter High Speed Quad",
+   "Ballhooter High Speed Quad bottom",
+   "Ballhooter High Speed Quad top",
+   10.2
+  ],
+  [
+   "Village Access",
+   "Grabhammer top",
+   "Ballhooter High Speed Quad top",
+   3.9
+  ],
+  [
+   "Western Express",
+   "Western Express bottom",
+   "Western Express top",
+   9.1
+  ],
+  [
+   "Powderidge",
+   "Powderidge bottom",
+   "Powderidge top",
+   9.8
+  ],
+  [
+   "Skidder",
+   "Skidder bottom",
+   "Grabhammer top",
+   4.3
+  ]
+ ],
+ "runs": [
+  [
+   "Grabhammer",
+   "Ballhooter High Speed Quad top",
+   "Grabhammer",
+   0.9
+  ],
+  [
+   "Grabhammer",
+   "Grabhammer",
+   "Grabhammer / Skip Jack",
+   1.3
+  ],
+  [
+   "Shay's Revenge",
+   "Shay's Revenge / Cupp Run",
+   "Shay's Revenge / Lower Shay's Revenge",
+   3.2
+  ],
+  [
+   "Powder Monkey",
+   "Powder Monkey / Lower Whistlepunk",
+   "Powder Monkey",
+   0.5
+  ],
+  [
+   "Powder Monkey",
+   "Powder Monkey",
+   "Powder Monkey 2",
+   0.6
+  ],
+  [
+   "Powder Monkey",
+   "Powder Monkey 2",
+   "Powder Monkey 4",
+   0.5
+  ],
+  [
+   "Powder Monkey",
+   "Powder Monkey 4",
+   "Powder Monkey 3",
+   0.8
+  ],
+  [
+   "Powder Monkey",
+   "Powder Monkey 3",
+   "Grabhammer bottom",
+   0.5
+  ],
+  [
+   "Lower Whistlepunk",
+   "Powder Monkey / Lower Whistlepunk",
+   "Lower Whistlepunk / Log Slide",
+   1.4
+  ],
+  [
+   "Lower Flume",
+   "Lower Flume / Ballhooter",
+   "Powder Monkey 3",
+   1.6
+  ],
+  [
+   "Lower Flume",
+   "Powder Monkey 3",
+   "Grabhammer bottom",
+   0.5
+  ],
+  [
+   "Lower Flume",
+   "Grabhammer bottom",
+   "Powder Monkey bottom",
+   0.5
+  ],
+  [
+   "Lower Flume",
+   "Powder Monkey bottom",
+   "Lower Flume / Log Slide",
+   0.5
+  ],
+  [
+   "Choker",
+   "Choker / Heisler Way",
+   "Powder Monkey",
+   1.3
+  ],
+  [
+   "Moonshine",
+   "Moonshine / Singletree",
+   "Powder Monkey / Lower Whistlepunk",
+   0.7
+  ],
+  [
+   "Powderidge, Gangway Crossover",
+   "Powderidge, Gangway Crossover / Gangway",
+   "Powderidge, Gangway Crossover / Whistlepunk",
+   0.5
+  ],
+  [
+   "Skip Jack",
+   "Skip Jack / Crosscut",
+   "Grabhammer / Skip Jack",
+   1.9
+  ],
+  [
+   "Skip Jack",
+   "Grabhammer / Skip Jack",
+   "Skip Jack / Whiffletree",
+   0.9
+  ],
+  [
+   "Skidder",
+   "Grabhammer top",
+   "Skidder bottom",
+   0.7
+  ],
+  [
+   "Camp 4",
+   "Powderidge top",
+   "Camp 4 / Gangway",
+   1.7
+  ],
+  [
+   "Log Slide",
+   "Log Slide / Heisler Way",
+   "Lower Whistlepunk / Log Slide",
+   1.8
+  ],
+  [
+   "Log Slide",
+   "Lower Whistlepunk / Log Slide",
+   "Log Slide",
+   0.5
+  ],
+  [
+   "Log Slide",
+   "Log Slide",
+   "Powder Monkey bottom",
+   0.6
+  ],
+  [
+   "Log Slide",
+   "Powder Monkey bottom",
+   "Lower Flume / Log Slide",
+   0.5
+  ],
+  [
+   "Log Slide",
+   "Lower Flume / Log Slide",
+   "Powderidge bottom",
+   0.5
+  ],
+  [
+   "Heisler Way",
+   "Skidder bottom",
+   "Heisler Way 2",
+   0.5
+  ],
+  [
+   "Heisler Way",
+   "Heisler Way 2",
+   "Choker / Heisler Way",
+   0.7
+  ],
+  [
+   "Heisler Way",
+   "Choker / Heisler Way",
+   "Heisler Way 3",
+   1.1
+  ],
+  [
+   "Heisler Way",
+   "Heisler Way 3",
+   "Heisler Way",
+   0.6
+  ],
+  [
+   "Heisler Way",
+   "Heisler Way",
+   "Log Slide / Heisler Way",
+   0.5
+  ],
+  [
+   "Ballhooter",
+   "Ballhooter",
+   "Ballhooter 5",
+   0.5
+  ],
+  [
+   "Ballhooter",
+   "Ballhooter 5",
+   "Ballhooter 2",
+   1.2
+  ],
+  [
+   "Ballhooter",
+   "Ballhooter 2",
+   "Ballhooter 3",
+   0.5
+  ],
+  [
+   "Ballhooter",
+   "Ballhooter 3",
+   "Ballhooter 4",
+   0.6
+  ],
+  [
+   "Ballhooter",
+   "Ballhooter 4",
+   "Lower Flume / Ballhooter",
+   0.5
+  ],
+  [
+   "Ballhooter",
+   "Lower Flume / Ballhooter",
+   "Ballhooter High Speed Quad bottom",
+   1.4
+  ],
+  [
+   "Cupp Run",
+   "Western Express top",
+   "Shay's Revenge / Cupp Run",
+   0.5
+  ],
+  [
+   "Cupp Run",
+   "Shay's Revenge / Cupp Run",
+   "Cupp Run",
+   3.7
+  ],
+  [
+   "Cupp Run",
+   "Cupp Run",
+   "Western Express bottom",
+   4.3
+  ],
+  [
+   "Grab Hook",
+   "Grabhammer",
+   "Ballhooter 2",
+   0.6
+  ],
+  [
+   "Gangway",
+   "Powderidge top",
+   "Powderidge, Gangway Crossover / Gangway",
+   0.6
+  ],
+  [
+   "Gangway",
+   "Powderidge, Gangway Crossover / Gangway",
+   "Camp 4 / Gangway",
+   0.5
+  ],
+  [
+   "Gangway",
+   "Camp 4 / Gangway",
+   "Log Slide / Heisler Way",
+   0.8
+  ],
+  [
+   "Spruce",
+   "Spruce / Crosscut",
+   "Powder Monkey 2",
+   2.0
+  ],
+  [
+   "Stemwinder",
+   "Choker / Heisler Way",
+   "Stemwinder / Gandy Dancer",
+   0.5
+  ],
+  [
+   "Whistlepunk",
+   "Heisler Way",
+   "Powder Monkey / Lower Whistlepunk",
+   0.9
+  ],
+  [
+   "Lower Shay's Revenge",
+   "Shay's Revenge / Lower Shay's Revenge",
+   "Western Express bottom",
+   4.8
+  ],
+  [
+   "Gandy Dancer",
+   "Heisler Way 2",
+   "Gandy Dancer",
+   0.5
+  ],
+  [
+   "Gandy Dancer",
+   "Gandy Dancer",
+   "Stemwinder / Gandy Dancer",
+   0.5
+  ],
+  [
+   "Gandy Dancer",
+   "Stemwinder / Gandy Dancer",
+   "Powder Monkey",
+   1.1
+  ],
+  [
+   "J Hook",
+   "J Hook / Upper Flume",
+   "J Hook / Lower Hootenanny",
+   1.9
+  ],
+  [
+   "Knot Bumper",
+   "Knot Bumper / Upper Hootenanny",
+   "Ballhooter 3",
+   1.5
+  ],
+  [
+   "Lower Hootenanny",
+   "Lower Hootenanny / Mid Flume",
+   "J Hook / Lower Hootenanny",
+   2.1
+  ],
+  [
+   "Lower Hootenanny",
+   "J Hook / Lower Hootenanny",
+   "Lower Hootenanny",
+   1.0
+  ],
+  [
+   "Lower Hootenanny",
+   "Lower Hootenanny",
+   "Soaring Eagle Express bottom",
+   0.5
+  ],
+  [
+   "Mid Flume",
+   "Lower Hootenanny / Mid Flume",
+   "Lower Flume / Ballhooter",
+   2.9
+  ],
+  [
+   "Crosscut",
+   "Ballhooter High Speed Quad top",
+   "Skip Jack / Crosscut",
+   0.5
+  ],
+  [
+   "Crosscut",
+   "Skip Jack / Crosscut",
+   "Spruce / Crosscut",
+   0.5
+  ],
+  [
+   "Crosscut",
+   "Spruce / Crosscut",
+   "Skidder bottom",
+   0.5
+  ],
+  [
+   "Crosscut",
+   "Skidder bottom",
+   "Heisler Way 2",
+   0.5
+  ],
+  [
+   "Camp 99",
+   "Camp 99 / Sawmill",
+   "Camp 99 / Sawmill 2",
+   2.4
+  ],
+  [
+   "Knot Bumper Glades",
+   "Knot Bumper Glades / Upper Hootenanny",
+   "Ballhooter 4",
+   1.8
+  ],
+  [
+   "Sawmill",
+   "Soaring Eagle Express top",
+   "Camp 99 / Sawmill",
+   0.5
+  ],
+  [
+   "Sawmill",
+   "Camp 99 / Sawmill",
+   "Camp 99 / Sawmill 2",
+   2.8
+  ],
+  [
+   "Sawmill",
+   "Camp 99 / Sawmill 2",
+   "Lower Hootenanny",
+   0.5
+  ],
+  [
+   "Mid-Station",
+   "Shay's Revenge / Lower Shay's Revenge",
+   "Cupp Run",
+   0.7
+  ],
+  [
+   "Whistlepunk",
+   "Powder Monkey top",
+   "Powderidge, Gangway Crossover / Whistlepunk",
+   1.7
+  ],
+  [
+   "Upper Hootenanny",
+   "Ballhooter 5",
+   "Knot Bumper / Upper Hootenanny",
+   0.5
+  ],
+  [
+   "Upper Hootenanny",
+   "Knot Bumper / Upper Hootenanny",
+   "Knot Bumper Glades / Upper Hootenanny",
+   0.5
+  ],
+  [
+   "Upper Hootenanny",
+   "Knot Bumper Glades / Upper Hootenanny",
+   "Lower Hootenanny / Mid Flume",
+   1.4
+  ],
+  [
+   "Tail Tree",
+   "Powder Monkey top",
+   "Gandy Dancer",
+   0.7
+  ],
+  [
+   "Powderidge",
+   "Powderidge top",
+   "Powderidge, Gangway Crossover / Gangway",
+   0.6
+  ],
+  [
+   "Powderidge",
+   "Powderidge, Gangway Crossover / Gangway",
+   "Powderidge, Gangway Crossover / Whistlepunk",
+   0.5
+  ],
+  [
+   "Powderidge",
+   "Powderidge, Gangway Crossover / Whistlepunk",
+   "Heisler Way 3",
+   0.5
+  ],
+  [
+   "Cut-off",
+   "Log Slide",
+   "Powder Monkey 3",
+   0.5
+  ],
+  [
+   "Whiffletree",
+   "Powder Monkey 4",
+   "Skip Jack / Whiffletree",
+   0.5
+  ],
+  [
+   "Whiffletree",
+   "Skip Jack / Whiffletree",
+   "Ballhooter High Speed Quad bottom",
+   1.5
+  ],
+  [
+   "Upper Flume",
+   "Soaring Eagle Express top",
+   "J Hook / Upper Flume",
+   1.4
+  ],
+  [
+   "Upper Flume",
+   "J Hook / Upper Flume",
+   "Lower Hootenanny / Mid Flume",
+   1.4
+  ],
+  [
+   "Singletree",
+   "Heisler Way 3",
+   "Moonshine / Singletree",
+   0.5
+  ],
+  [
+   "Singletree",
+   "Moonshine / Singletree",
+   "Powder Monkey / Lower Whistlepunk",
+   1.0
+  ],
+  [
+   "Widowmaker",
+   "Soaring Eagle Express top",
+   "J Hook / Lower Hootenanny",
+   2.1
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Skip Jack / Crosscut",
+   1.9
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Grabhammer top",
+   1.0
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Skidder bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Ballhooter",
+   0.8
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Grabhammer",
+   3.3
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Spruce / Crosscut",
+   2.7
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Knot Bumper / Upper Hootenanny",
+   2.4
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Knot Bumper Glades / Upper Hootenanny",
+   3.0
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Ballhooter 5",
+   1.4
+  ],
+  [
+   "walk",
+   "Shay's Revenge / Cupp Run",
+   "Western Express top",
+   1.2
+  ],
+  [
+   "walk",
+   "Shay's Revenge / Cupp Run",
+   "Powder Monkey top",
+   2.7
+  ],
+  [
+   "walk",
+   "Grabhammer bottom",
+   "Lower Flume / Log Slide",
+   1.3
+  ],
+  [
+   "walk",
+   "Grabhammer bottom",
+   "Powderidge bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Grabhammer bottom",
+   "Ballhooter High Speed Quad bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Grabhammer bottom",
+   "Powder Monkey 3",
+   1.2
+  ],
+  [
+   "walk",
+   "Grabhammer bottom",
+   "Powder Monkey bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Lower Whistlepunk / Log Slide",
+   "Grabhammer bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Whistlepunk / Log Slide",
+   "Powder Monkey bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Flume / Log Slide",
+   "Grabhammer bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Lower Flume / Log Slide",
+   "Powderidge bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Lower Flume / Log Slide",
+   "Powder Monkey bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Choker / Heisler Way",
+   "Skidder bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Powderidge top",
+   "Powderidge, Gangway Crossover / Gangway",
+   2.3
+  ],
+  [
+   "walk",
+   "Powderidge top",
+   "Powderidge, Gangway Crossover / Whistlepunk",
+   3.1
+  ],
+  [
+   "walk",
+   "Powderidge top",
+   "Camp 4 / Gangway",
+   1.8
+  ],
+  [
+   "walk",
+   "Skip Jack / Crosscut",
+   "Skidder bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Skip Jack / Whiffletree",
+   "Grabhammer bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Skip Jack / Whiffletree",
+   "Powder Monkey bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Ballhooter High Speed Quad top",
+   1.0
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Skip Jack / Crosscut",
+   1.4
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Skidder bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Ballhooter",
+   1.8
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Spruce / Crosscut",
+   2.1
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Heisler Way 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Knot Bumper / Upper Hootenanny",
+   3.3
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Ballhooter 5",
+   2.3
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Gandy Dancer",
+   3.4
+  ],
+  [
+   "walk",
+   "Skidder bottom",
+   "Choker / Heisler Way",
+   3.1
+  ],
+  [
+   "walk",
+   "Skidder bottom",
+   "Skip Jack / Crosscut",
+   1.4
+  ],
+  [
+   "walk",
+   "Skidder bottom",
+   "Spruce / Crosscut",
+   0.6
+  ],
+  [
+   "walk",
+   "Skidder bottom",
+   "Stemwinder / Gandy Dancer",
+   2.4
+  ],
+  [
+   "walk",
+   "Skidder bottom",
+   "Heisler Way 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Skidder bottom",
+   "Powder Monkey top",
+   3.3
+  ],
+  [
+   "walk",
+   "Skidder bottom",
+   "Gandy Dancer",
+   1.0
+  ],
+  [
+   "walk",
+   "Soaring Eagle Express top",
+   "Camp 99 / Sawmill",
+   1.8
+  ],
+  [
+   "walk",
+   "Powderidge bottom",
+   "Grabhammer bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Powderidge bottom",
+   "Lower Flume / Log Slide",
+   0.9
+  ],
+  [
+   "walk",
+   "Powderidge bottom",
+   "Powder Monkey bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Ballhooter",
+   "Ballhooter High Speed Quad top",
+   0.8
+  ],
+  [
+   "walk",
+   "Ballhooter",
+   "Grabhammer top",
+   1.8
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad bottom",
+   "Grabhammer bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Western Express top",
+   "Shay's Revenge / Cupp Run",
+   1.2
+  ],
+  [
+   "walk",
+   "Western Express top",
+   "Choker / Heisler Way",
+   2.3
+  ],
+  [
+   "walk",
+   "Western Express top",
+   "Powder Monkey top",
+   1.5
+  ],
+  [
+   "walk",
+   "Spruce / Crosscut",
+   "Skidder bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Heisler Way 2",
+   "Skidder bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Heisler Way 2",
+   "Powder Monkey top",
+   2.7
+  ],
+  [
+   "walk",
+   "Knot Bumper / Upper Hootenanny",
+   "Grabhammer top",
+   3.3
+  ],
+  [
+   "walk",
+   "Soaring Eagle Express bottom",
+   "Camp 99 / Sawmill 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Soaring Eagle Express bottom",
+   "Lower Hootenanny",
+   1.3
+  ],
+  [
+   "walk",
+   "Camp 99 / Sawmill 2",
+   "Soaring Eagle Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Hootenanny",
+   "Soaring Eagle Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Powder Monkey top",
+   "Shay's Revenge / Cupp Run",
+   2.7
+  ],
+  [
+   "walk",
+   "Powder Monkey top",
+   "Choker / Heisler Way",
+   1.1
+  ],
+  [
+   "walk",
+   "Powder Monkey top",
+   "Moonshine / Singletree",
+   3.3
+  ],
+  [
+   "walk",
+   "Powder Monkey top",
+   "Skidder bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Powder Monkey top",
+   "Western Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Powder Monkey top",
+   "Stemwinder / Gandy Dancer",
+   2.8
+  ],
+  [
+   "walk",
+   "Powder Monkey top",
+   "Heisler Way 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Powder Monkey top",
+   "Gandy Dancer",
+   2.5
+  ],
+  [
+   "walk",
+   "Ballhooter 5",
+   "Ballhooter High Speed Quad top",
+   1.4
+  ],
+  [
+   "walk",
+   "Ballhooter 5",
+   "Grabhammer top",
+   2.3
+  ],
+  [
+   "walk",
+   "Gandy Dancer",
+   "Skidder bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Log Slide",
+   "Grabhammer bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Log Slide",
+   "Powderidge bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Log Slide",
+   "Powder Monkey bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Powder Monkey 3",
+   "Grabhammer bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Powder Monkey 3",
+   "Powderidge bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Powder Monkey 3",
+   "Powder Monkey bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Powder Monkey bottom",
+   "Grabhammer bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Powder Monkey bottom",
+   "Lower Flume / Log Slide",
+   1.0
+  ],
+  [
+   "walk",
+   "Powder Monkey bottom",
+   "Powderidge bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Powder Monkey bottom",
+   "Powder Monkey 3",
+   1.2
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Grabhammer",
+   4.3
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Knot Bumper Glades / Upper Hootenanny",
+   4.0
+  ],
+  [
+   "walk",
+   "Ballhooter",
+   "Skip Jack / Crosscut",
+   2.7
+  ],
+  [
+   "walk",
+   "Ballhooter",
+   "Skidder bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Ballhooter",
+   "Grabhammer",
+   4.2
+  ],
+  [
+   "walk",
+   "Ballhooter",
+   "Spruce / Crosscut",
+   3.5
+  ],
+  [
+   "walk",
+   "Ballhooter",
+   "Knot Bumper / Upper Hootenanny",
+   3.2
+  ],
+  [
+   "walk",
+   "Ballhooter",
+   "Knot Bumper Glades / Upper Hootenanny",
+   3.9
+  ],
+  [
+   "walk",
+   "Ballhooter",
+   "Ballhooter 5",
+   2.2
+  ],
+  [
+   "walk",
+   "Ballhooter 5",
+   "Skip Jack / Crosscut",
+   3.2
+  ],
+  [
+   "walk",
+   "Ballhooter 5",
+   "Skidder bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Ballhooter 5",
+   "Ballhooter",
+   2.2
+  ],
+  [
+   "walk",
+   "Ballhooter 5",
+   "Grabhammer",
+   4.7
+  ],
+  [
+   "walk",
+   "Ballhooter 5",
+   "Spruce / Crosscut",
+   4.0
+  ],
+  [
+   "walk",
+   "Ballhooter 5",
+   "Knot Bumper / Upper Hootenanny",
+   3.7
+  ],
+  [
+   "walk",
+   "Ballhooter 5",
+   "Knot Bumper Glades / Upper Hootenanny",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Whistlepunk / Log Slide",
+   "Lower Flume / Log Slide",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Whistlepunk / Log Slide",
+   "Powderidge bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Whistlepunk / Log Slide",
+   "Ballhooter High Speed Quad bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower Whistlepunk / Log Slide",
+   "Powder Monkey 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower Flume / Log Slide",
+   "Ballhooter High Speed Quad bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Flume / Log Slide",
+   "Powder Monkey 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Skip Jack / Whiffletree",
+   "Lower Flume / Log Slide",
+   3.8
+  ],
+  [
+   "walk",
+   "Skip Jack / Whiffletree",
+   "Powderidge bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Skip Jack / Whiffletree",
+   "Ballhooter High Speed Quad bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Skip Jack / Whiffletree",
+   "Powder Monkey 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Powderidge bottom",
+   "Ballhooter High Speed Quad bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Powderidge bottom",
+   "Powder Monkey 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad bottom",
+   "Lower Flume / Log Slide",
+   4.4
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad bottom",
+   "Powderidge bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad bottom",
+   "Powder Monkey 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad bottom",
+   "Powder Monkey bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Log Slide",
+   "Lower Flume / Log Slide",
+   2.7
+  ],
+  [
+   "walk",
+   "Log Slide",
+   "Ballhooter High Speed Quad bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Log Slide",
+   "Powder Monkey 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Powder Monkey 3",
+   "Lower Flume / Log Slide",
+   2.2
+  ],
+  [
+   "walk",
+   "Powder Monkey 3",
+   "Ballhooter High Speed Quad bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Powder Monkey bottom",
+   "Ballhooter High Speed Quad bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Western Express top",
+   "Skidder bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Heisler Way 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Gandy Dancer",
+   4.1
+  ],
+  [
+   "walk",
+   "Ballhooter",
+   "Heisler Way 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Ballhooter",
+   "Gandy Dancer",
+   5.0
+  ],
+  [
+   "walk",
+   "Knot Bumper / Upper Hootenanny",
+   "Ballhooter High Speed Quad top",
+   4.3
+  ],
+  [
+   "walk",
+   "Knot Bumper / Upper Hootenanny",
+   "Skip Jack / Crosscut",
+   4.7
+  ],
+  [
+   "walk",
+   "Knot Bumper / Upper Hootenanny",
+   "Skidder bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Knot Bumper / Upper Hootenanny",
+   "Ballhooter",
+   5.1
+  ],
+  [
+   "walk",
+   "Knot Bumper / Upper Hootenanny",
+   "Spruce / Crosscut",
+   5.4
+  ],
+  [
+   "walk",
+   "Knot Bumper / Upper Hootenanny",
+   "Heisler Way 2",
+   6.4
+  ],
+  [
+   "walk",
+   "Knot Bumper / Upper Hootenanny",
+   "Ballhooter 5",
+   5.6
+  ],
+  [
+   "walk",
+   "Knot Bumper / Upper Hootenanny",
+   "Gandy Dancer",
+   6.7
+  ],
+  [
+   "walk",
+   "Ballhooter 5",
+   "Heisler Way 2",
+   5.2
+  ],
+  [
+   "walk",
+   "Ballhooter 5",
+   "Gandy Dancer",
+   5.5
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Choker / Heisler Way",
+   6.2
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Stemwinder / Gandy Dancer",
+   5.5
+  ],
+  [
+   "walk",
+   "Ballhooter High Speed Quad top",
+   "Powder Monkey top",
+   6.5
+  ],
+  [
+   "walk",
+   "Choker / Heisler Way",
+   "Skip Jack / Crosscut",
+   4.4
+  ],
+  [
+   "walk",
+   "Choker / Heisler Way",
+   "Spruce / Crosscut",
+   3.7
+  ],
+  [
+   "walk",
+   "Choker / Heisler Way",
+   "Stemwinder / Gandy Dancer",
+   5.4
+  ],
+  [
+   "walk",
+   "Choker / Heisler Way",
+   "Heisler Way 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Choker / Heisler Way",
+   "Powder Monkey top",
+   6.3
+  ],
+  [
+   "walk",
+   "Choker / Heisler Way",
+   "Gandy Dancer",
+   4.0
+  ],
+  [
+   "walk",
+   "Skip Jack / Crosscut",
+   "Choker / Heisler Way",
+   4.4
+  ],
+  [
+   "walk",
+   "Skip Jack / Crosscut",
+   "Spruce / Crosscut",
+   2.0
+  ],
+  [
+   "walk",
+   "Skip Jack / Crosscut",
+   "Stemwinder / Gandy Dancer",
+   3.7
+  ],
+  [
+   "walk",
+   "Skip Jack / Crosscut",
+   "Heisler Way 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Skip Jack / Crosscut",
+   "Powder Monkey top",
+   4.6
+  ],
+  [
+   "walk",
+   "Skip Jack / Crosscut",
+   "Gandy Dancer",
+   2.3
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Choker / Heisler Way",
+   5.6
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Stemwinder / Gandy Dancer",
+   4.9
+  ],
+  [
+   "walk",
+   "Grabhammer top",
+   "Powder Monkey top",
+   5.7
+  ],
+  [
+   "walk",
+   "Spruce / Crosscut",
+   "Choker / Heisler Way",
+   3.7
+  ],
+  [
+   "walk",
+   "Spruce / Crosscut",
+   "Skip Jack / Crosscut",
+   2.0
+  ],
+  [
+   "walk",
+   "Spruce / Crosscut",
+   "Stemwinder / Gandy Dancer",
+   3.0
+  ],
+  [
+   "walk",
+   "Spruce / Crosscut",
+   "Heisler Way 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Spruce / Crosscut",
+   "Powder Monkey top",
+   3.9
+  ],
+  [
+   "walk",
+   "Spruce / Crosscut",
+   "Gandy Dancer",
+   1.6
+  ],
+  [
+   "walk",
+   "Heisler Way 2",
+   "Choker / Heisler Way",
+   3.7
+  ],
+  [
+   "walk",
+   "Heisler Way 2",
+   "Skip Jack / Crosscut",
+   2.0
+  ],
+  [
+   "walk",
+   "Heisler Way 2",
+   "Spruce / Crosscut",
+   1.2
+  ],
+  [
+   "walk",
+   "Heisler Way 2",
+   "Stemwinder / Gandy Dancer",
+   3.0
+  ],
+  [
+   "walk",
+   "Heisler Way 2",
+   "Gandy Dancer",
+   1.6
+  ],
+  [
+   "walk",
+   "Powder Monkey top",
+   "Skip Jack / Crosscut",
+   4.6
+  ],
+  [
+   "walk",
+   "Powder Monkey top",
+   "Spruce / Crosscut",
+   3.9
+  ],
+  [
+   "walk",
+   "Gandy Dancer",
+   "Choker / Heisler Way",
+   4.0
+  ],
+  [
+   "walk",
+   "Gandy Dancer",
+   "Skip Jack / Crosscut",
+   2.3
+  ],
+  [
+   "walk",
+   "Gandy Dancer",
+   "Spruce / Crosscut",
+   1.6
+  ],
+  [
+   "walk",
+   "Gandy Dancer",
+   "Stemwinder / Gandy Dancer",
+   3.3
+  ],
+  [
+   "walk",
+   "Gandy Dancer",
+   "Heisler Way 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Gandy Dancer",
+   "Powder Monkey top",
+   4.2
+  ],
+  [
+   "walk",
+   "Ballhooter",
+   "Stemwinder / Gandy Dancer",
+   6.4
+  ],
+  [
+   "walk",
+   "Ballhooter 5",
+   "Stemwinder / Gandy Dancer",
+   6.9
+  ],
+  [
+   "walk",
+   "Western Express top",
+   "Skip Jack / Crosscut",
+   6.1
+  ],
+  [
+   "walk",
+   "Western Express top",
+   "Spruce / Crosscut",
+   5.4
+  ],
+  [
+   "walk",
+   "Western Express top",
+   "Heisler Way 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Western Express top",
+   "Gandy Dancer",
+   4.0
+  ],
+  [
+   "walk",
+   "Shay's Revenge / Cupp Run",
+   "Choker / Heisler Way",
+   3.5
+  ],
+  [
+   "walk",
+   "Shay's Revenge / Cupp Run",
+   "Skidder bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Camp 99 / Sawmill 2",
+   "Lower Hootenanny",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Hootenanny",
+   "Camp 99 / Sawmill 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Shay's Revenge / Cupp Run",
+   "Moonshine / Singletree",
+   5.9
+  ],
+  [
+   "walk",
+   "Shay's Revenge / Cupp Run",
+   "Stemwinder / Gandy Dancer",
+   5.4
+  ],
+  [
+   "walk",
+   "Shay's Revenge / Cupp Run",
+   "Heisler Way 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Shay's Revenge / Cupp Run",
+   "Gandy Dancer",
+   5.2
+  ],
+  [
+   "walk",
+   "Shay's Revenge / Cupp Run",
+   "Spruce / Crosscut",
+   6.5
+  ],
+  [
+   "walk",
+   "Skidder bottom",
+   "Shay's Revenge / Cupp Run",
+   5.9
+  ],
+  [
+   "walk",
+   "Skidder bottom",
+   "Moonshine / Singletree",
+   6.5
+  ],
+  [
+   "walk",
+   "Skidder bottom",
+   "Western Express top",
+   4.8
+  ],
+  [
+   "walk",
+   "Western Express top",
+   "Moonshine / Singletree",
+   4.8
+  ],
+  [
+   "walk",
+   "Western Express top",
+   "Stemwinder / Gandy Dancer",
+   4.3
+  ],
+  [
+   "walk",
+   "Heisler Way 2",
+   "Shay's Revenge / Cupp Run",
+   5.3
+  ],
+  [
+   "walk",
+   "Heisler Way 2",
+   "Moonshine / Singletree",
+   5.9
+  ],
+  [
+   "walk",
+   "Heisler Way 2",
+   "Western Express top",
+   4.1
+  ],
+  [
+   "walk",
+   "Skip Jack / Crosscut",
+   "Western Express top",
+   6.1
+  ],
+  [
+   "walk",
+   "Spruce / Crosscut",
+   "Shay's Revenge / Cupp Run",
+   6.5
+  ],
+  [
+   "walk",
+   "Spruce / Crosscut",
+   "Western Express top",
+   5.4
+  ],
+  [
+   "walk",
+   "Gandy Dancer",
+   "Shay's Revenge / Cupp Run",
+   6.9
+  ],
+  [
+   "walk",
+   "Gandy Dancer",
+   "Western Express top",
+   5.7
+  ]
+ ],
+ "base": "Western Express bottom",
+ "info": {}
+}

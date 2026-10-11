@@ -1,0 +1,4221 @@
+{
+ "name": "Aspen Mountain",
+ "source": "OpenSkiMap ski area 2a2d5ad1138c3aac0abe644e073bee96589412d4",
+ "origin_lonlat": [
+  -106.82072620248641,
+  39.16707193535257
+ ],
+ "nodes": {
+  "Rideout / 1 & 2 Leaf": [
+   276,
+   -1332,
+   3335.7
+  ],
+  "Rideout / Buddy System": [
+   852,
+   -1541,
+   3171.8
+  ],
+  "Kristi / Hyrup's": [
+   367,
+   -1263,
+   3306.1
+  ],
+  "Kristi": [
+   453,
+   -1175,
+   3273.3
+  ],
+  "Loushin's / Star Walk": [
+   806,
+   -2233,
+   3248.7
+  ],
+  "1 & 2 Leaf": [
+   128,
+   -1692,
+   3413.4
+  ],
+  "1 & 2 Leaf / Back of Bell Cutt-off": [
+   234,
+   -644,
+   3220.8
+  ],
+  "Back of Bell Cutt-off / Keith Glen": [
+   157,
+   -341,
+   3203.5
+  ],
+  "Lower Corkscrew / Summer Road": [
+   -276,
+   1732,
+   2544.8
+  ],
+  "Rayburn's / Silver Queen Ridge": [
+   -106,
+   986,
+   2837.9
+  ],
+  "Rayburn's / Spar Gulch": [
+   99,
+   994,
+   2711.5
+  ],
+  "Keith Glen / Copper Bowl": [
+   291,
+   156,
+   2995.3
+  ],
+  "Dipsy Doodle / Silver Bell": [
+   100,
+   -1646,
+   3412.8
+  ],
+  "Dipsy Doodle / Tortilla Flats": [
+   -175,
+   -401,
+   3101.9
+  ],
+  "Back of Bell Cutt-off": [
+   219,
+   -539,
+   3220.9
+  ],
+  "Seibert's / Knowlton's": [
+   403,
+   -388,
+   3116.5
+  ],
+  "Keith Glen": [
+   124,
+   -49,
+   3121.2
+  ],
+  "Bell Meadow": [
+   79,
+   -20,
+   3097.3
+  ],
+  "Corkscrew Gully / Summer Road": [
+   -416,
+   1320,
+   2750.9
+  ],
+  "Corkscrew Gully / Summer Road 2": [
+   -333,
+   1737,
+   2545.6
+  ],
+  "Face of Bell": [
+   -10,
+   -225,
+   3127.8
+  ],
+  "Face of Bell / Spar Gulch": [
+   -138,
+   -104,
+   3037.7
+  ],
+  "Schuss Gully / Lower Little Nell": [
+   97,
+   1601,
+   2546.0
+  ],
+  "Gretl's / Tourtelotte Park": [
+   -335,
+   -610,
+   3161.9
+  ],
+  "Gretl's / Percy": [
+   -336,
+   -521,
+   3168.1
+  ],
+  "Normandy / Summer Road": [
+   -202,
+   1721,
+   2537.9
+  ],
+  "Summer Road / Upper Roch Run": [
+   -444,
+   598,
+   3020.9
+  ],
+  "Summer Road / Lower Little Nell": [
+   144,
+   1808,
+   2491.9
+  ],
+  "Ruthie's top": [
+   -557,
+   -498,
+   3259.7
+  ],
+  "Midway Road": [
+   -514,
+   -855,
+   3246.2
+  ],
+  "Upper Roch Run / Ruthie's Run": [
+   -525,
+   421,
+   3069.4
+  ],
+  "Spar Gulch / Tortilla Flats": [
+   -197,
+   -267,
+   3079.2
+  ],
+  "Spar Gulch / Kleenex Cornner": [
+   113,
+   1227,
+   2686.1
+  ],
+  "Summer Road": [
+   -398,
+   1033,
+   2864.7
+  ],
+  "Star Walk / Harris's Wall 2": [
+   833,
+   -2195,
+   3236.0
+  ],
+  "Dipsy Doodle": [
+   59,
+   -1488,
+   3399.3
+  ],
+  "Cutoff": [
+   -13,
+   -1362,
+   3369.1
+  ],
+  "Summer Road 2": [
+   -682,
+   978,
+   2950.3
+  ],
+  "Summer Road 3": [
+   -559,
+   1190,
+   2827.8
+  ],
+  "Hero's top": [
+   252,
+   -2015,
+   3431.4
+  ],
+  "1 & 2 Leaf 2": [
+   243,
+   -1667,
+   3395.8
+  ],
+  "Summer Road 4": [
+   -457,
+   1180,
+   2810.8
+  ],
+  "1 & 2 Leaf 3": [
+   246,
+   -1264,
+   3332.1
+  ],
+  "1 & 2 Leaf 4": [
+   140,
+   -940,
+   3272.2
+  ],
+  "Cone 1 / Schiller Road": [
+   -287,
+   715,
+   2950.4
+  ],
+  "Spar Gulch": [
+   12,
+   701,
+   2776.1
+  ],
+  "Jim's / Powerline I": [
+   288,
+   -1974,
+   3423.2
+  ],
+  "Rideout": [
+   587,
+   -1619,
+   3250.6
+  ],
+  "Glade #3 / Gent's Ridge": [
+   455,
+   531,
+   2976.7
+  ],
+  "Glade #3 / Ridge of Bell": [
+   149,
+   545,
+   2835.2
+  ],
+  "S1 / International": [
+   -391,
+   51,
+   3131.9
+  ],
+  "Spar Gulch 2": [
+   -116,
+   242,
+   2927.6
+  ],
+  "Silver Bell / Deer Park": [
+   -106,
+   -531,
+   3142.8
+  ],
+  "Summer Road 5": [
+   -348,
+   1032,
+   2872.1
+  ],
+  "Keith Glen 2": [
+   121,
+   -210,
+   3171.9
+  ],
+  "Spar Gulch 3": [
+   -117,
+   -64,
+   3023.8
+  ],
+  "Ruthie's Run": [
+   -544,
+   -158,
+   3192.4
+  ],
+  "International / Schiller Road": [
+   -368,
+   342,
+   3021.6
+  ],
+  "E.E.K.! / Powerline II": [
+   361,
+   -2226,
+   3427.4
+  ],
+  "E.E.K.! / Powerline II 2": [
+   729,
+   -2048,
+   3240.7
+  ],
+  "Summer Road 6": [
+   -420,
+   1873,
+   2561.0
+  ],
+  "Glade #2 / Gent's Ridge": [
+   461,
+   318,
+   3024.9
+  ],
+  "Glade #2 / Copper Bowl": [
+   204,
+   435,
+   2886.7
+  ],
+  "Back of Bell Cutt-off 2": [
+   199,
+   -455,
+   3216.8
+  ],
+  "Knowlton's / Copper Bowl": [
+   404,
+   -331,
+   3101.7
+  ],
+  "1 & 2 Leaf 5": [
+   307,
+   -1633,
+   3382.5
+  ],
+  "Jim's": [
+   534,
+   -1646,
+   3271.8
+  ],
+  "Spar Gulch 4": [
+   109,
+   1132,
+   2686.7
+  ],
+  "Face of Bell 2": [
+   41,
+   -249,
+   3159.1
+  ],
+  "Face of Bell 3": [
+   64,
+   -165,
+   3139.7
+  ],
+  "Face of Bell 4": [
+   75,
+   -108,
+   3124.8
+  ],
+  "Ruthie's Run 2": [
+   -500,
+   237,
+   3084.4
+  ],
+  "Spar Gulch 5": [
+   -120,
+   315,
+   2900.2
+  ],
+  "Cone 2 / Schiller Road": [
+   -229,
+   799,
+   2919.9
+  ],
+  "Spar Gulch 6": [
+   50,
+   787,
+   2753.1
+  ],
+  "Midway Road 2": [
+   -515,
+   -775,
+   3236.8
+  ],
+  "Silver Bell": [
+   158,
+   -1344,
+   3357.1
+  ],
+  "Dipsy Doodle 2": [
+   -185,
+   -838,
+   3202.4
+  ],
+  "Rideout 2": [
+   441,
+   -1534,
+   3311.9
+  ],
+  "Magnifico / Magnifico Road": [
+   -176,
+   1401,
+   2693.6
+  ],
+  "1 & 2 Leaf 6": [
+   199,
+   -1025,
+   3291.0
+  ],
+  "1 & 2 Leaf 7": [
+   227,
+   -735,
+   3239.4
+  ],
+  "Northstar / Copper": [
+   298,
+   -1042,
+   3278.3
+  ],
+  "Northstar / North Star": [
+   395,
+   -944,
+   3222.0
+  ],
+  "Back of Bell Cutt-off 3": [
+   220,
+   -606,
+   3215.6
+  ],
+  "Face of Bell Cut-off / Face of Bell": [
+   48,
+   -297,
+   3176.6
+  ],
+  "FIS Trail": [
+   -363,
+   -169,
+   3117.0
+  ],
+  "Legel Tender / Rewrite": [
+   417,
+   -1998,
+   3381.6
+  ],
+  "Legel Tender": [
+   641,
+   -1881,
+   3247.4
+  ],
+  "Glade #1 / Gent's Ridge": [
+   483,
+   183,
+   3042.3
+  ],
+  "Glade #1 / Copper Bowl": [
+   278,
+   267,
+   2955.3
+  ],
+  "Dipsy Doodle 3": [
+   -203,
+   -934,
+   3220.7
+  ],
+  "Unnamed run / North American": [
+   -354,
+   -762,
+   3196.1
+  ],
+  "Lazy8 Gully / Super 8": [
+   -199,
+   1525,
+   2621.0
+  ],
+  "North American / Midway Road": [
+   -410,
+   -965,
+   3262.8
+  ],
+  "Dipsy Doodle 4": [
+   -178,
+   -495,
+   3120.7
+  ],
+  "Dipsy Doodle 5": [
+   77,
+   -1371,
+   3370.9
+  ],
+  "Cutoff / Buckhorn": [
+   -151,
+   -1357,
+   3351.8
+  ],
+  "F.I.S. bottom": [
+   -109,
+   -17,
+   3011.9
+  ],
+  "Magnifico Road / Kleenex Cornner": [
+   -5,
+   1307,
+   2654.2
+  ],
+  "Ajax Express top": [
+   27,
+   -1617,
+   3418.3
+  ],
+  "Buckhorn / Midway Road": [
+   -285,
+   -1277,
+   3317.0
+  ],
+  "Face of Bell Cut-off": [
+   24,
+   -331,
+   3176.7
+  ],
+  "Hero's bottom": [
+   1029,
+   -1088,
+   3054.5
+  ],
+  "Schiller Road": [
+   -247,
+   859,
+   2913.4
+  ],
+  "Magnifico Road": [
+   -74,
+   1294,
+   2671.2
+  ],
+  "Summer Road 7": [
+   -460,
+   1334,
+   2739.6
+  ],
+  "Glade #3": [
+   386,
+   541,
+   2954.8
+  ],
+  "Gent's Ridge": [
+   278,
+   657,
+   2906.8
+  ],
+  "Jim's / Hodge Podge": [
+   1001,
+   -1129,
+   3068.0
+  ],
+  "Cutoff 2": [
+   -65,
+   -1342,
+   3365.7
+  ],
+  "Summit / Midnight": [
+   -217,
+   -1126,
+   3256.6
+  ],
+  "Lazy Boy / Copper": [
+   385,
+   -592,
+   3166.3
+  ],
+  "International": [
+   -406,
+   -10,
+   3149.9
+  ],
+  "Spar Gulch 7": [
+   -113,
+   134,
+   2961.4
+  ],
+  "Magnifico Road 2": [
+   -359,
+   1404,
+   2730.6
+  ],
+  "Papa Bear / The Shaft": [
+   780,
+   -2145,
+   3241.4
+  ],
+  "Percy": [
+   -403,
+   -569,
+   3191.0
+  ],
+  "Magnifico Road 3": [
+   -290,
+   1430,
+   2705.1
+  ],
+  "1A Lift Line / Tower Ten Road": [
+   -272,
+   1572,
+   2611.4
+  ],
+  "Jackpot / Gent's Ridge": [
+   406,
+   641,
+   2948.9
+  ],
+  "Spar Gulch 8": [
+   96,
+   949,
+   2718.3
+  ],
+  "Tortilla Flats": [
+   -217,
+   -318,
+   3088.4
+  ],
+  "Keith Glen Glade / Copper Bowl": [
+   303,
+   71,
+   3020.3
+  ],
+  "Silver Queen": [
+   -178,
+   1155,
+   2749.3
+  ],
+  "Dipsy Doodle 6": [
+   76,
+   -1526,
+   3403.6
+  ],
+  "Gent's Ridge / North Star": [
+   473,
+   -149,
+   3086.5
+  ],
+  "Gent's Ridge / Copper Bowl": [
+   107,
+   604,
+   2813.1
+  ],
+  "Lower Little Nell": [
+   163,
+   1875,
+   2475.4
+  ],
+  "Silver Queen bottom": [
+   196,
+   2129,
+   2425.8
+  ],
+  "Rideout 3": [
+   531,
+   -1601,
+   3268.7
+  ],
+  "Rewrite / Fat City": [
+   607,
+   -1829,
+   3253.0
+  ],
+  "Back of Bell #1 / Copper Bowl": [
+   367,
+   -150,
+   3079.6
+  ],
+  "E. 5th Ave / Strawpile": [
+   -431,
+   1732,
+   2585.4
+  ],
+  "Midway Road 3": [
+   -529,
+   -533,
+   3259.0
+  ],
+  "Copper Connector / Back of Bell #2": [
+   316,
+   0,
+   3040.2
+  ],
+  "Cory-Bob / Here's Too...": [
+   475,
+   -2034,
+   3362.7
+  ],
+  "Cory-Bob / Here's Too... 2": [
+   592,
+   -1972,
+   3280.8
+  ],
+  "Keith Glen 3": [
+   130,
+   -285,
+   3195.4
+  ],
+  "Hanging Tree": [
+   -132,
+   -292,
+   3091.9
+  ],
+  "Summer Road 8": [
+   -537,
+   1508,
+   2692.1
+  ],
+  "Spar Gulch 9": [
+   -107,
+   48,
+   2988.1
+  ],
+  "Lower Little Nell / Upper Little Nell": [
+   76,
+   1487,
+   2583.5
+  ],
+  "Pussyfoot": [
+   117,
+   -1289,
+   3351.3
+  ],
+  "Silver Bell 2": [
+   119,
+   -1142,
+   3300.6
+  ],
+  "Magnifico Road 4": [
+   -260,
+   1402,
+   2711.6
+  ],
+  "Dipsy Doodle 7": [
+   -30,
+   -1235,
+   3313.9
+  ],
+  "Jim's 2": [
+   507,
+   -1683,
+   3285.3
+  ],
+  "1 & 2 Leaf 8": [
+   291,
+   -1531,
+   3365.9
+  ],
+  "Walsh's / Hyrup's": [
+   608,
+   -1261,
+   3178.9
+  ],
+  "Kristi / North Star": [
+   353,
+   -1189,
+   3301.2
+  ],
+  "Kristi / Lud's Lane": [
+   581,
+   -1122,
+   3178.5
+  ],
+  "Spar Gulch 10": [
+   -31,
+   633,
+   2794.8
+  ],
+  "Spar Gulch 11": [
+   -111,
+   379,
+   2882.1
+  ],
+  "Blondie's": [
+   -14,
+   -755,
+   3192.3
+  ],
+  "Lud's Lane / North Star": [
+   545,
+   -739,
+   3154.3
+  ],
+  "Deer Park": [
+   -35,
+   -582,
+   3155.6
+  ],
+  "Magnifico": [
+   -142,
+   1526,
+   2618.6
+  ],
+  "Schuss Gully 4": [
+   -57,
+   1691,
+   2529.9
+  ],
+  "Here's Too...": [
+   682,
+   -1938,
+   3242.0
+  ],
+  "Silver Bell 3": [
+   38,
+   -975,
+   3266.3
+  ],
+  "Blondie's 2": [
+   -5,
+   -670,
+   3173.5
+  ],
+  "Jim's 3": [
+   386,
+   -1859,
+   3371.2
+  ],
+  "Copper": [
+   369,
+   -668,
+   3185.7
+  ],
+  "Silver Bell 4": [
+   -20,
+   -945,
+   3253.3
+  ],
+  "Silver Bell 5": [
+   -94,
+   -700,
+   3176.2
+  ],
+  "Powerline II": [
+   627,
+   -2081,
+   3287.0
+  ],
+  "1 & 2 Leaf 9": [
+   215,
+   -1852,
+   3417.5
+  ],
+  "First Tracks": [
+   552,
+   -1751,
+   3269.3
+  ],
+  "Buckhorn": [
+   -207,
+   -1319,
+   3324.3
+  ],
+  "F.I.S. top": [
+   -517,
+   -190,
+   3194.4
+  ],
+  "Ruthie's bottom": [
+   -538,
+   1137,
+   2840.0
+  ],
+  "Ajax Express bottom": [
+   -152,
+   -237,
+   3066.7
+  ],
+  "Silver Queen top": [
+   112,
+   -1741,
+   3416.4
+  ]
+ },
+ "lifts": [
+  [
+   "F.I.S.",
+   "F.I.S. bottom",
+   "F.I.S. top",
+   6.4
+  ],
+  [
+   "Ruthie's",
+   "Ruthie's bottom",
+   "Ruthie's top",
+   15.2
+  ],
+  [
+   "Ajax Express",
+   "Ajax Express bottom",
+   "Ajax Express top",
+   7.8
+  ],
+  [
+   "Silver Queen",
+   "Silver Queen bottom",
+   "Silver Queen top",
+   16.5
+  ],
+  [
+   "Silver Queen",
+   "Silver Queen top",
+   "Silver Queen bottom",
+   16.5
+  ],
+  [
+   "Hero's",
+   "Hero's bottom",
+   "Hero's top",
+   12.2
+  ]
+ ],
+ "runs": [
+  [
+   "Rideout",
+   "Rideout / 1 & 2 Leaf",
+   "Rideout 2",
+   1.0
+  ],
+  [
+   "Rideout",
+   "Rideout 2",
+   "Rideout 3",
+   0.5
+  ],
+  [
+   "Rideout",
+   "Rideout 3",
+   "Rideout",
+   0.5
+  ],
+  [
+   "Rideout",
+   "Rideout",
+   "Rideout / Buddy System",
+   1.6
+  ],
+  [
+   "Kristi",
+   "Kristi / Hyrup's",
+   "Kristi",
+   0.5
+  ],
+  [
+   "1 & 2 Leaf",
+   "1 & 2 Leaf",
+   "1 & 2 Leaf 2",
+   0.5
+  ],
+  [
+   "1 & 2 Leaf",
+   "1 & 2 Leaf 2",
+   "1 & 2 Leaf 5",
+   0.5
+  ],
+  [
+   "1 & 2 Leaf",
+   "1 & 2 Leaf 5",
+   "1 & 2 Leaf 8",
+   0.5
+  ],
+  [
+   "1 & 2 Leaf",
+   "1 & 2 Leaf 8",
+   "Rideout / 1 & 2 Leaf",
+   0.9
+  ],
+  [
+   "1 & 2 Leaf",
+   "Rideout / 1 & 2 Leaf",
+   "1 & 2 Leaf 3",
+   0.5
+  ],
+  [
+   "1 & 2 Leaf",
+   "1 & 2 Leaf 3",
+   "1 & 2 Leaf 6",
+   1.0
+  ],
+  [
+   "1 & 2 Leaf",
+   "1 & 2 Leaf 6",
+   "1 & 2 Leaf 4",
+   0.5
+  ],
+  [
+   "1 & 2 Leaf",
+   "1 & 2 Leaf 4",
+   "1 & 2 Leaf 7",
+   1.0
+  ],
+  [
+   "1 & 2 Leaf",
+   "1 & 2 Leaf 7",
+   "1 & 2 Leaf / Back of Bell Cutt-off",
+   0.5
+  ],
+  [
+   "Back of Bell Cutt-off",
+   "1 & 2 Leaf / Back of Bell Cutt-off",
+   "Back of Bell Cutt-off 3",
+   0.5
+  ],
+  [
+   "Back of Bell Cutt-off",
+   "Back of Bell Cutt-off 3",
+   "Back of Bell Cutt-off",
+   0.5
+  ],
+  [
+   "Back of Bell Cutt-off",
+   "Back of Bell Cutt-off",
+   "Back of Bell Cutt-off 2",
+   0.5
+  ],
+  [
+   "Back of Bell Cutt-off",
+   "Back of Bell Cutt-off 2",
+   "Back of Bell Cutt-off / Keith Glen",
+   0.5
+  ],
+  [
+   "Rayburn's",
+   "Rayburn's / Silver Queen Ridge",
+   "Rayburn's / Spar Gulch",
+   0.9
+  ],
+  [
+   "Keith Glen",
+   "Back of Bell Cutt-off / Keith Glen",
+   "Keith Glen 3",
+   0.5
+  ],
+  [
+   "Keith Glen",
+   "Keith Glen 3",
+   "Keith Glen 2",
+   0.5
+  ],
+  [
+   "Keith Glen",
+   "Keith Glen 2",
+   "Keith Glen",
+   0.8
+  ],
+  [
+   "Keith Glen",
+   "Keith Glen",
+   "Keith Glen / Copper Bowl",
+   1.4
+  ],
+  [
+   "Dipsy Doodle",
+   "Dipsy Doodle / Silver Bell",
+   "Dipsy Doodle 6",
+   0.5
+  ],
+  [
+   "Dipsy Doodle",
+   "Dipsy Doodle 6",
+   "Dipsy Doodle",
+   0.5
+  ],
+  [
+   "Dipsy Doodle",
+   "Dipsy Doodle",
+   "Dipsy Doodle 5",
+   0.5
+  ],
+  [
+   "Dipsy Doodle",
+   "Dipsy Doodle 5",
+   "Dipsy Doodle 7",
+   0.8
+  ],
+  [
+   "Dipsy Doodle",
+   "Dipsy Doodle 7",
+   "Dipsy Doodle 3",
+   1.5
+  ],
+  [
+   "Dipsy Doodle",
+   "Dipsy Doodle 3",
+   "Dipsy Doodle 2",
+   0.5
+  ],
+  [
+   "Dipsy Doodle",
+   "Dipsy Doodle 2",
+   "Dipsy Doodle 4",
+   1.5
+  ],
+  [
+   "Dipsy Doodle",
+   "Dipsy Doodle 4",
+   "Dipsy Doodle / Tortilla Flats",
+   0.5
+  ],
+  [
+   "Seibert's",
+   "Back of Bell Cutt-off",
+   "Seibert's / Knowlton's",
+   1.0
+  ],
+  [
+   "Bell Meadow",
+   "Keith Glen",
+   "Bell Meadow",
+   0.5
+  ],
+  [
+   "Corkscrew Gully",
+   "Corkscrew Gully / Summer Road",
+   "Corkscrew Gully / Summer Road 2",
+   1.9
+  ],
+  [
+   "Face of Bell",
+   "Face of Bell",
+   "Face of Bell / Spar Gulch",
+   0.8
+  ],
+  [
+   "Schuss Gully",
+   "Schuss Gully / Lower Little Nell",
+   "Schuss Gully 4",
+   0.7
+  ],
+  [
+   "Gretl's",
+   "Gretl's / Tourtelotte Park",
+   "Gretl's / Percy",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Summer Road / Upper Roch Run",
+   "Summer Road 2",
+   2.0
+  ],
+  [
+   "Summer Road",
+   "Summer Road 2",
+   "Summer Road 5",
+   1.8
+  ],
+  [
+   "Summer Road",
+   "Summer Road 5",
+   "Summer Road",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Summer Road",
+   "Ruthie's bottom",
+   0.8
+  ],
+  [
+   "Summer Road",
+   "Ruthie's bottom",
+   "Summer Road 3",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Summer Road 3",
+   "Summer Road 4",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Summer Road 4",
+   "Corkscrew Gully / Summer Road",
+   1.9
+  ],
+  [
+   "Summer Road",
+   "Corkscrew Gully / Summer Road",
+   "Summer Road 7",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Summer Road 7",
+   "Summer Road 8",
+   0.7
+  ],
+  [
+   "Summer Road",
+   "Summer Road 8",
+   "Summer Road 6",
+   3.0
+  ],
+  [
+   "Summer Road",
+   "Summer Road 6",
+   "Corkscrew Gully / Summer Road 2",
+   0.8
+  ],
+  [
+   "Summer Road",
+   "Corkscrew Gully / Summer Road 2",
+   "Lower Corkscrew / Summer Road",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Lower Corkscrew / Summer Road",
+   "Normandy / Summer Road",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Normandy / Summer Road",
+   "Schuss Gully 4",
+   0.6
+  ],
+  [
+   "Summer Road",
+   "Schuss Gully 4",
+   "Summer Road / Lower Little Nell",
+   1.1
+  ],
+  [
+   "Midway Road",
+   "Ruthie's top",
+   "Midway Road 3",
+   0.5
+  ],
+  [
+   "Midway Road",
+   "Midway Road 3",
+   "Midway Road 2",
+   0.9
+  ],
+  [
+   "Midway Road",
+   "Midway Road 2",
+   "Midway Road",
+   0.5
+  ],
+  [
+   "Upper Roch Run",
+   "Upper Roch Run / Ruthie's Run",
+   "Summer Road / Upper Roch Run",
+   0.7
+  ],
+  [
+   "Spar Gulch",
+   "Spar Gulch / Tortilla Flats",
+   "Face of Bell / Spar Gulch",
+   0.6
+  ],
+  [
+   "Spar Gulch",
+   "Face of Bell / Spar Gulch",
+   "Spar Gulch 3",
+   0.5
+  ],
+  [
+   "Spar Gulch",
+   "Spar Gulch 3",
+   "F.I.S. bottom",
+   0.5
+  ],
+  [
+   "Spar Gulch",
+   "F.I.S. bottom",
+   "Spar Gulch 9",
+   0.5
+  ],
+  [
+   "Spar Gulch",
+   "Spar Gulch 9",
+   "Spar Gulch 7",
+   0.5
+  ],
+  [
+   "Spar Gulch",
+   "Spar Gulch 7",
+   "Spar Gulch 2",
+   0.5
+  ],
+  [
+   "Spar Gulch",
+   "Spar Gulch 2",
+   "Spar Gulch 5",
+   0.5
+  ],
+  [
+   "Spar Gulch",
+   "Spar Gulch 5",
+   "Spar Gulch 11",
+   0.5
+  ],
+  [
+   "Spar Gulch",
+   "Spar Gulch 11",
+   "Spar Gulch 10",
+   1.1
+  ],
+  [
+   "Spar Gulch",
+   "Spar Gulch 10",
+   "Spar Gulch",
+   0.5
+  ],
+  [
+   "Spar Gulch",
+   "Spar Gulch",
+   "Spar Gulch 6",
+   0.5
+  ],
+  [
+   "Spar Gulch",
+   "Spar Gulch 6",
+   "Spar Gulch 8",
+   0.7
+  ],
+  [
+   "Spar Gulch",
+   "Spar Gulch 8",
+   "Rayburn's / Spar Gulch",
+   0.5
+  ],
+  [
+   "Spar Gulch",
+   "Rayburn's / Spar Gulch",
+   "Spar Gulch 4",
+   0.6
+  ],
+  [
+   "Spar Gulch",
+   "Spar Gulch 4",
+   "Spar Gulch / Kleenex Cornner",
+   0.5
+  ],
+  [
+   "Roch Run",
+   "Summer Road / Upper Roch Run",
+   "Summer Road",
+   1.8
+  ],
+  [
+   "Star Walk",
+   "Loushin's / Star Walk",
+   "Star Walk / Harris's Wall 2",
+   0.5
+  ],
+  [
+   "Cutoff",
+   "Dipsy Doodle",
+   "Cutoff",
+   0.5
+  ],
+  [
+   "Aztec",
+   "Summer Road 2",
+   "Summer Road 3",
+   1.0
+  ],
+  [
+   "1 & 2 Leaf",
+   "Hero's top",
+   "1 & 2 Leaf 9",
+   0.6
+  ],
+  [
+   "1 & 2 Leaf",
+   "1 & 2 Leaf 9",
+   "1 & 2 Leaf 2",
+   0.8
+  ],
+  [
+   "Ruthie's Run",
+   "Ruthie's top",
+   "F.I.S. top",
+   1.3
+  ],
+  [
+   "Ruthie's Run",
+   "F.I.S. top",
+   "Ruthie's Run",
+   0.5
+  ],
+  [
+   "Ruthie's Run",
+   "Ruthie's Run",
+   "Ruthie's Run 2",
+   1.7
+  ],
+  [
+   "Ruthie's Run",
+   "Ruthie's Run 2",
+   "Upper Roch Run / Ruthie's Run",
+   0.8
+  ],
+  [
+   "Ruthie's Run",
+   "Upper Roch Run / Ruthie's Run",
+   "Summer Road 4",
+   3.4
+  ],
+  [
+   "1 & 2 Leaf Bottom Half",
+   "1 & 2 Leaf 3",
+   "1 & 2 Leaf 4",
+   1.4
+  ],
+  [
+   "Cone 1",
+   "Cone 1 / Schiller Road",
+   "Spar Gulch",
+   1.3
+  ],
+  [
+   "Jim's",
+   "Jim's / Powerline I",
+   "Jim's 3",
+   0.5
+  ],
+  [
+   "Jim's",
+   "Jim's 3",
+   "Jim's 2",
+   1.0
+  ],
+  [
+   "Jim's",
+   "Jim's 2",
+   "Jim's",
+   0.5
+  ],
+  [
+   "Jim's",
+   "Jim's",
+   "Rideout",
+   0.5
+  ],
+  [
+   "Glade #3",
+   "Glade #3 / Gent's Ridge",
+   "Glade #3",
+   0.5
+  ],
+  [
+   "Glade #3",
+   "Glade #3",
+   "Glade #3 / Ridge of Bell",
+   1.0
+  ],
+  [
+   "S1",
+   "S1 / International",
+   "Spar Gulch 2",
+   1.5
+  ],
+  [
+   "Silver Bell",
+   "Dipsy Doodle / Silver Bell",
+   "Silver Bell",
+   1.2
+  ],
+  [
+   "Silver Bell",
+   "Silver Bell",
+   "Silver Bell 2",
+   1.0
+  ],
+  [
+   "Silver Bell",
+   "Silver Bell 2",
+   "Silver Bell 3",
+   0.8
+  ],
+  [
+   "Silver Bell",
+   "Silver Bell 3",
+   "Silver Bell 4",
+   0.5
+  ],
+  [
+   "Silver Bell",
+   "Silver Bell 4",
+   "Silver Bell 5",
+   1.2
+  ],
+  [
+   "Silver Bell",
+   "Silver Bell 5",
+   "Silver Bell / Deer Park",
+   0.7
+  ],
+  [
+   "Gene Reardon's Run",
+   "Summer Road / Upper Roch Run",
+   "Summer Road 5",
+   1.9
+  ],
+  [
+   "Face of Bell",
+   "Keith Glen 2",
+   "Face of Bell 3",
+   0.5
+  ],
+  [
+   "Face of Bell",
+   "Face of Bell 3",
+   "Face of Bell 4",
+   0.5
+  ],
+  [
+   "Face of Bell",
+   "Face of Bell 4",
+   "Spar Gulch 3",
+   0.9
+  ],
+  [
+   "International",
+   "Ruthie's Run",
+   "International",
+   0.7
+  ],
+  [
+   "International",
+   "International",
+   "S1 / International",
+   0.5
+  ],
+  [
+   "International",
+   "S1 / International",
+   "International / Schiller Road",
+   1.3
+  ],
+  [
+   "E.E.K.!",
+   "E.E.K.! / Powerline II",
+   "E.E.K.! / Powerline II 2",
+   1.9
+  ],
+  [
+   "Glade #2",
+   "Glade #2 / Gent's Ridge",
+   "Glade #2 / Copper Bowl",
+   1.2
+  ],
+  [
+   "Knowlton's",
+   "Back of Bell Cutt-off 2",
+   "Seibert's / Knowlton's",
+   0.9
+  ],
+  [
+   "Knowlton's",
+   "Seibert's / Knowlton's",
+   "Knowlton's / Copper Bowl",
+   0.5
+  ],
+  [
+   "Elli's",
+   "1 & 2 Leaf 5",
+   "Jim's 2",
+   0.8
+  ],
+  [
+   "Elli's",
+   "Jim's 2",
+   "Jim's",
+   0.5
+  ],
+  [
+   "Face of Bell",
+   "Face of Bell 2",
+   "Face of Bell 3",
+   0.5
+  ],
+  [
+   "Bell Meadow",
+   "Face of Bell 4",
+   "Bell Meadow",
+   0.5
+  ],
+  [
+   "Bell Meadow",
+   "Bell Meadow",
+   "Spar Gulch 2",
+   1.8
+  ],
+  [
+   "Short Snort",
+   "Ruthie's Run 2",
+   "Spar Gulch 5",
+   1.8
+  ],
+  [
+   "Cone 2",
+   "Cone 2 / Schiller Road",
+   "Spar Gulch 6",
+   1.3
+  ],
+  [
+   "Tourtelotte Park",
+   "Midway Road 2",
+   "Gretl's / Tourtelotte Park",
+   1.0
+  ],
+  [
+   "Pussyfoot",
+   "Silver Bell",
+   "Pussyfoot",
+   0.5
+  ],
+  [
+   "Pussyfoot",
+   "Pussyfoot",
+   "Dipsy Doodle 2",
+   2.4
+  ],
+  [
+   "Tortilla Flats",
+   "Dipsy Doodle / Tortilla Flats",
+   "Tortilla Flats",
+   0.5
+  ],
+  [
+   "Tortilla Flats",
+   "Tortilla Flats",
+   "Spar Gulch / Tortilla Flats",
+   0.5
+  ],
+  [
+   "D’kine Bowl",
+   "1 & 2 Leaf 5",
+   "Rideout 2",
+   0.6
+  ],
+  [
+   "Deer Park",
+   "1 & 2 Leaf / Back of Bell Cutt-off",
+   "Back of Bell Cutt-off 3",
+   0.5
+  ],
+  [
+   "Deer Park",
+   "Back of Bell Cutt-off 3",
+   "Deer Park",
+   0.9
+  ],
+  [
+   "Deer Park",
+   "Deer Park",
+   "Silver Bell / Deer Park",
+   0.5
+  ],
+  [
+   "Deer Park",
+   "Silver Bell / Deer Park",
+   "Dipsy Doodle / Tortilla Flats",
+   0.6
+  ],
+  [
+   "Magnifico",
+   "Magnifico / Magnifico Road",
+   "Magnifico",
+   0.5
+  ],
+  [
+   "Magnifico",
+   "Magnifico",
+   "Normandy / Summer Road",
+   0.9
+  ],
+  [
+   "Bellissimo",
+   "1 & 2 Leaf 6",
+   "1 & 2 Leaf 7",
+   1.1
+  ],
+  [
+   "Schiller Road",
+   "International / Schiller Road",
+   "Cone 1 / Schiller Road",
+   1.5
+  ],
+  [
+   "Schiller Road",
+   "Cone 1 / Schiller Road",
+   "Cone 2 / Schiller Road",
+   0.5
+  ],
+  [
+   "Schiller Road",
+   "Cone 2 / Schiller Road",
+   "Schiller Road",
+   0.5
+  ],
+  [
+   "Schiller Road",
+   "Schiller Road",
+   "Summer Road 5",
+   0.8
+  ],
+  [
+   "Northstar",
+   "Northstar / Copper",
+   "Northstar / North Star",
+   0.5
+  ],
+  [
+   "Face of Bell Cut-off",
+   "Back of Bell Cutt-off 3",
+   "Face of Bell Cut-off",
+   1.4
+  ],
+  [
+   "Face of Bell Cut-off",
+   "Face of Bell Cut-off",
+   "Face of Bell Cut-off / Face of Bell",
+   0.5
+  ],
+  [
+   "FIS Trail",
+   "Ruthie's Run",
+   "F.I.S. top",
+   0.5
+  ],
+  [
+   "FIS Trail",
+   "F.I.S. top",
+   "FIS Trail",
+   0.6
+  ],
+  [
+   "Legel Tender",
+   "Legel Tender / Rewrite",
+   "Legel Tender",
+   1.1
+  ],
+  [
+   "Upper Roch Run",
+   "Ruthie's Run 2",
+   "Summer Road / Upper Roch Run",
+   1.5
+  ],
+  [
+   "Glade #1",
+   "Glade #1 / Gent's Ridge",
+   "Glade #1 / Copper Bowl",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Dipsy Doodle 3",
+   "Unnamed run / North American",
+   0.9
+  ],
+  [
+   "Lazy8 Gully",
+   "Lazy8 Gully / Super 8",
+   "Normandy / Summer Road",
+   0.8
+  ],
+  [
+   "Lower Roch Run",
+   "Summer Road",
+   "Corkscrew Gully / Summer Road",
+   1.1
+  ],
+  [
+   "North American",
+   "North American / Midway Road",
+   "Unnamed run / North American",
+   0.8
+  ],
+  [
+   "North American",
+   "Unnamed run / North American",
+   "Gretl's / Tourtelotte Park",
+   0.7
+  ],
+  [
+   "North American",
+   "Gretl's / Tourtelotte Park",
+   "Dipsy Doodle 4",
+   0.7
+  ],
+  [
+   "Cutoff",
+   "Dipsy Doodle 5",
+   "Cutoff",
+   0.5
+  ],
+  [
+   "Cutoff",
+   "Cutoff",
+   "Cutoff 2",
+   0.5
+  ],
+  [
+   "Cutoff",
+   "Cutoff 2",
+   "Cutoff / Buckhorn",
+   0.5
+  ],
+  [
+   "Harris's Wall",
+   "Loushin's / Star Walk",
+   "Star Walk / Harris's Wall 2",
+   0.5
+  ],
+  [
+   "FIS Trail",
+   "Ruthie's top",
+   "FIS Trail",
+   1.6
+  ],
+  [
+   "FIS Trail",
+   "FIS Trail",
+   "Face of Bell / Spar Gulch",
+   1.1
+  ],
+  [
+   "FIS Trail",
+   "Face of Bell / Spar Gulch",
+   "Spar Gulch 3",
+   0.5
+  ],
+  [
+   "FIS Trail",
+   "Spar Gulch 3",
+   "F.I.S. bottom",
+   0.5
+  ],
+  [
+   "Magnifico Road",
+   "Corkscrew Gully / Summer Road",
+   "Magnifico Road 2",
+   0.5
+  ],
+  [
+   "Magnifico Road",
+   "Magnifico Road 2",
+   "Magnifico Road 3",
+   0.5
+  ],
+  [
+   "Magnifico Road",
+   "Magnifico Road 3",
+   "Magnifico Road 4",
+   0.5
+  ],
+  [
+   "Magnifico Road",
+   "Magnifico Road 4",
+   "Magnifico / Magnifico Road",
+   0.5
+  ],
+  [
+   "Magnifico Road",
+   "Magnifico / Magnifico Road",
+   "Magnifico Road",
+   0.8
+  ],
+  [
+   "Magnifico Road",
+   "Magnifico Road",
+   "Magnifico Road / Kleenex Cornner",
+   0.5
+  ],
+  [
+   "Buckhorn",
+   "Ajax Express top",
+   "Cutoff / Buckhorn",
+   1.3
+  ],
+  [
+   "Buckhorn",
+   "Cutoff / Buckhorn",
+   "Buckhorn",
+   0.5
+  ],
+  [
+   "Buckhorn",
+   "Buckhorn",
+   "Buckhorn / Midway Road",
+   0.5
+  ],
+  [
+   "Hanging Tree",
+   "Face of Bell Cut-off",
+   "Hanging Tree",
+   0.6
+  ],
+  [
+   "Hanging Tree",
+   "Hanging Tree",
+   "Spar Gulch / Tortilla Flats",
+   0.5
+  ],
+  [
+   "Buddy System",
+   "Star Walk / Harris's Wall 2",
+   "Rideout / Buddy System",
+   2.6
+  ],
+  [
+   "Buddy System",
+   "Rideout / Buddy System",
+   "Hero's bottom",
+   2.4
+  ],
+  [
+   "Silver Queen",
+   "Schiller Road",
+   "Silver Queen",
+   1.3
+  ],
+  [
+   "Silver Queen",
+   "Silver Queen",
+   "Magnifico Road",
+   0.8
+  ],
+  [
+   "Spring Pitch",
+   "Summer Road 3",
+   "Summer Road 7",
+   0.7
+  ],
+  [
+   "Gent's Ridge",
+   "Glade #3",
+   "Gent's Ridge",
+   0.6
+  ],
+  [
+   "Jim's",
+   "Rideout",
+   "Jim's / Hodge Podge",
+   2.7
+  ],
+  [
+   "Summit",
+   "Cutoff 2",
+   "Summit / Midnight",
+   1.1
+  ],
+  [
+   "Lazy Boy",
+   "1 & 2 Leaf 7",
+   "Lazy Boy / Copper",
+   0.8
+  ],
+  [
+   "Bear Paw",
+   "International",
+   "Spar Gulch 7",
+   1.6
+  ],
+  [
+   "Dipsy Doodle",
+   "Ajax Express top",
+   "Dipsy Doodle 6",
+   0.5
+  ],
+  [
+   "Dipsy Doodle",
+   "Dipsy Doodle 6",
+   "Dipsy Doodle",
+   0.5
+  ],
+  [
+   "Corkscrew",
+   "Magnifico Road 2",
+   "Lower Corkscrew / Summer Road",
+   1.6
+  ],
+  [
+   "Percy",
+   "Percy",
+   "Gretl's / Tourtelotte Park",
+   0.5
+  ],
+  [
+   "1A Lift Line",
+   "Magnifico Road 3",
+   "1A Lift Line / Tower Ten Road",
+   0.6
+  ],
+  [
+   "Midway Road",
+   "Buckhorn / Midway Road",
+   "North American / Midway Road",
+   1.3
+  ],
+  [
+   "Midway Road",
+   "North American / Midway Road",
+   "Midway Road",
+   0.7
+  ],
+  [
+   "Jackpot",
+   "Jackpot / Gent's Ridge",
+   "Spar Gulch 8",
+   2.1
+  ],
+  [
+   "Reds Run",
+   "Ruthie's top",
+   "Tortilla Flats",
+   1.6
+  ],
+  [
+   "Keith Glen Glade",
+   "Keith Glen",
+   "Keith Glen Glade / Copper Bowl",
+   0.8
+  ],
+  [
+   "Silver Queen Ridge",
+   "Cone 2 / Schiller Road",
+   "Schiller Road",
+   0.5
+  ],
+  [
+   "Silver Queen Ridge",
+   "Schiller Road",
+   "Rayburn's / Silver Queen Ridge",
+   0.7
+  ],
+  [
+   "Silver Queen Ridge",
+   "Rayburn's / Silver Queen Ridge",
+   "Silver Queen",
+   0.8
+  ],
+  [
+   "Dipsy Doodle",
+   "Dipsy Doodle 6",
+   "Dipsy Doodle",
+   0.5
+  ],
+  [
+   "Ute Camp",
+   "Loushin's / Star Walk",
+   "Star Walk / Harris's Wall 2",
+   0.5
+  ],
+  [
+   "Gent's Ridge",
+   "Gent's Ridge / North Star",
+   "Glade #1 / Gent's Ridge",
+   1.3
+  ],
+  [
+   "Gent's Ridge",
+   "Glade #1 / Gent's Ridge",
+   "Glade #2 / Gent's Ridge",
+   0.6
+  ],
+  [
+   "Gent's Ridge",
+   "Glade #2 / Gent's Ridge",
+   "Glade #3 / Gent's Ridge",
+   0.9
+  ],
+  [
+   "Gent's Ridge",
+   "Glade #3 / Gent's Ridge",
+   "Jackpot / Gent's Ridge",
+   0.5
+  ],
+  [
+   "Gent's Ridge",
+   "Jackpot / Gent's Ridge",
+   "Gent's Ridge",
+   0.6
+  ],
+  [
+   "Gent's Ridge",
+   "Gent's Ridge",
+   "Gent's Ridge / Copper Bowl",
+   0.9
+  ],
+  [
+   "Lower Little Nell",
+   "Lower Little Nell",
+   "Silver Queen bottom",
+   1.0
+  ],
+  [
+   "Ollie's Yot",
+   "1 & 2 Leaf 5",
+   "Rideout 3",
+   1.0
+  ],
+  [
+   "Rewrite",
+   "Legel Tender / Rewrite",
+   "Rewrite / Fat City",
+   1.2
+  ],
+  [
+   "Back of Bell #1",
+   "Back of Bell Cutt-off / Keith Glen",
+   "Back of Bell #1 / Copper Bowl",
+   1.3
+  ],
+  [
+   "E. 5th Ave",
+   "E. 5th Ave / Strawpile",
+   "Corkscrew Gully / Summer Road 2",
+   0.5
+  ],
+  [
+   "Percy",
+   "Midway Road 3",
+   "Percy",
+   0.5
+  ],
+  [
+   "Percy",
+   "Percy",
+   "Gretl's / Percy",
+   0.5
+  ],
+  [
+   "Cory-Bob",
+   "Cory-Bob / Here's Too...",
+   "Cory-Bob / Here's Too... 2",
+   0.5
+  ],
+  [
+   "Gretl's",
+   "Gretl's / Percy",
+   "Dipsy Doodle / Tortilla Flats",
+   1.0
+  ],
+  [
+   "Face of Bell",
+   "Keith Glen 3",
+   "Face of Bell Cut-off / Face of Bell",
+   0.5
+  ],
+  [
+   "Face of Bell",
+   "Face of Bell Cut-off / Face of Bell",
+   "Face of Bell 2",
+   0.5
+  ],
+  [
+   "Face of Bell",
+   "Face of Bell 2",
+   "Face of Bell",
+   0.5
+  ],
+  [
+   "Face of Bell",
+   "Face of Bell",
+   "Hanging Tree",
+   0.7
+  ],
+  [
+   "Strawpile",
+   "Summer Road 8",
+   "E. 5th Ave / Strawpile",
+   1.0
+  ],
+  [
+   "Bell Meadow",
+   "Bell Meadow",
+   "Spar Gulch 9",
+   1.0
+  ],
+  [
+   "Lower Little Nell",
+   "Lower Little Nell / Upper Little Nell",
+   "Schuss Gully / Lower Little Nell",
+   0.5
+  ],
+  [
+   "Lower Little Nell",
+   "Schuss Gully / Lower Little Nell",
+   "Summer Road / Lower Little Nell",
+   0.9
+  ],
+  [
+   "Lower Little Nell",
+   "Summer Road / Lower Little Nell",
+   "Lower Little Nell",
+   0.5
+  ],
+  [
+   "Lower Little Nell",
+   "Lower Little Nell",
+   "Silver Queen bottom",
+   1.1
+  ],
+  [
+   "Easy Chair",
+   "Pussyfoot",
+   "Silver Bell 2",
+   0.5
+  ],
+  [
+   "Super 8",
+   "Magnifico Road 4",
+   "Lazy8 Gully / Super 8",
+   0.6
+  ],
+  [
+   "Dispy Headwall",
+   "Cutoff",
+   "Dipsy Doodle 7",
+   0.5
+  ],
+  [
+   "Walsh's",
+   "1 & 2 Leaf 8",
+   "Walsh's / Hyrup's",
+   1.8
+  ],
+  [
+   "Kleenex Cornner",
+   "Spar Gulch / Kleenex Cornner",
+   "Magnifico Road / Kleenex Cornner",
+   0.8
+  ],
+  [
+   "Back of Bell #2",
+   "Keith Glen 3",
+   "Keith Glen 2",
+   0.5
+  ],
+  [
+   "Back of Bell #2",
+   "Keith Glen 2",
+   "Copper Connector / Back of Bell #2",
+   1.3
+  ],
+  [
+   "Kristi",
+   "Kristi / North Star",
+   "Kristi",
+   0.5
+  ],
+  [
+   "Kristi",
+   "Kristi",
+   "Kristi / Lud's Lane",
+   0.7
+  ],
+  [
+   "Copper Bowl",
+   "Knowlton's / Copper Bowl",
+   "Back of Bell #1 / Copper Bowl",
+   0.5
+  ],
+  [
+   "Copper Bowl",
+   "Back of Bell #1 / Copper Bowl",
+   "Copper Connector / Back of Bell #2",
+   0.7
+  ],
+  [
+   "Copper Bowl",
+   "Copper Connector / Back of Bell #2",
+   "Keith Glen Glade / Copper Bowl",
+   0.5
+  ],
+  [
+   "Copper Bowl",
+   "Keith Glen Glade / Copper Bowl",
+   "Keith Glen / Copper Bowl",
+   0.5
+  ],
+  [
+   "Copper Bowl",
+   "Keith Glen / Copper Bowl",
+   "Glade #1 / Copper Bowl",
+   0.5
+  ],
+  [
+   "Copper Bowl",
+   "Glade #1 / Copper Bowl",
+   "Glade #2 / Copper Bowl",
+   0.8
+  ],
+  [
+   "Copper Bowl",
+   "Glade #2 / Copper Bowl",
+   "Glade #3 / Ridge of Bell",
+   0.6
+  ],
+  [
+   "Copper Bowl",
+   "Glade #3 / Ridge of Bell",
+   "Gent's Ridge / Copper Bowl",
+   0.5
+  ],
+  [
+   "Copper Bowl",
+   "Gent's Ridge / Copper Bowl",
+   "Spar Gulch",
+   0.6
+  ],
+  [
+   "Copper Bowl",
+   "Spar Gulch",
+   "Spar Gulch 6",
+   0.5
+  ],
+  [
+   "Hyrup's",
+   "Rideout / 1 & 2 Leaf",
+   "Kristi / Hyrup's",
+   0.5
+  ],
+  [
+   "Hyrup's",
+   "Kristi / Hyrup's",
+   "Walsh's / Hyrup's",
+   1.2
+  ],
+  [
+   "Last Dollar",
+   "Summer Road / Upper Roch Run",
+   "Spar Gulch 10",
+   1.9
+  ],
+  [
+   "Zaugg Dump",
+   "International / Schiller Road",
+   "Spar Gulch 11",
+   1.2
+  ],
+  [
+   "Blondie's",
+   "Blondie's",
+   "Blondie's 2",
+   0.5
+  ],
+  [
+   "Blondie's",
+   "Blondie's 2",
+   "Deer Park",
+   0.5
+  ],
+  [
+   "Blondie's",
+   "Deer Park",
+   "Silver Bell / Deer Park",
+   0.5
+  ],
+  [
+   "Tower Ten Road",
+   "Magnifico Road / Kleenex Cornner",
+   "Magnifico",
+   0.9
+  ],
+  [
+   "Tower Ten Road",
+   "Magnifico",
+   "Lazy8 Gully / Super 8",
+   0.5
+  ],
+  [
+   "Tower Ten Road",
+   "Lazy8 Gully / Super 8",
+   "1A Lift Line / Tower Ten Road",
+   0.5
+  ],
+  [
+   "Tower Ten Road",
+   "1A Lift Line / Tower Ten Road",
+   "E. 5th Ave / Strawpile",
+   1.2
+  ],
+  [
+   "Tower Ten Road",
+   "E. 5th Ave / Strawpile",
+   "Summer Road 6",
+   0.7
+  ],
+  [
+   "Lud's Lane",
+   "Rideout / Buddy System",
+   "Walsh's / Hyrup's",
+   1.5
+  ],
+  [
+   "Lud's Lane",
+   "Walsh's / Hyrup's",
+   "Kristi / Lud's Lane",
+   0.6
+  ],
+  [
+   "Lud's Lane",
+   "Kristi / Lud's Lane",
+   "Lud's Lane / North Star",
+   1.7
+  ],
+  [
+   "Copper",
+   "Dipsy Doodle / Silver Bell",
+   "1 & 2 Leaf 3",
+   1.6
+  ],
+  [
+   "Copper",
+   "1 & 2 Leaf 3",
+   "Northstar / Copper",
+   1.0
+  ],
+  [
+   "Copper",
+   "Northstar / Copper",
+   "Copper",
+   1.6
+  ],
+  [
+   "Copper",
+   "Copper",
+   "Lazy Boy / Copper",
+   0.5
+  ],
+  [
+   "Copper",
+   "Lazy Boy / Copper",
+   "Seibert's / Knowlton's",
+   0.9
+  ],
+  [
+   "Copper",
+   "Seibert's / Knowlton's",
+   "Knowlton's / Copper Bowl",
+   0.5
+  ],
+  [
+   "Silver Dip",
+   "1 & 2 Leaf 4",
+   "Blondie's 2",
+   1.2
+  ],
+  [
+   "Silver Dip",
+   "Blondie's 2",
+   "Deer Park",
+   0.5
+  ],
+  [
+   "FIS Slalom Hill",
+   "Magnifico",
+   "Schuss Gully 4",
+   0.8
+  ],
+  [
+   "Here's Too...",
+   "Legel Tender / Rewrite",
+   "Cory-Bob / Here's Too...",
+   0.5
+  ],
+  [
+   "Here's Too...",
+   "Cory-Bob / Here's Too...",
+   "Cory-Bob / Here's Too... 2",
+   0.5
+  ],
+  [
+   "Here's Too...",
+   "Cory-Bob / Here's Too... 2",
+   "Here's Too...",
+   0.5
+  ],
+  [
+   "Powerline II",
+   "E.E.K.! / Powerline II",
+   "Powerline II",
+   1.3
+  ],
+  [
+   "Powerline II",
+   "Powerline II",
+   "E.E.K.! / Powerline II 2",
+   0.5
+  ],
+  [
+   "Blondie's",
+   "Silver Bell 3",
+   "Blondie's",
+   0.9
+  ],
+  [
+   "Blondie's",
+   "Blondie's",
+   "Blondie's 2",
+   0.5
+  ],
+  [
+   "North Star",
+   "Rideout / 1 & 2 Leaf",
+   "Kristi / North Star",
+   0.7
+  ],
+  [
+   "North Star",
+   "Kristi / North Star",
+   "Northstar / North Star",
+   1.2
+  ],
+  [
+   "North Star",
+   "Northstar / North Star",
+   "Lud's Lane / North Star",
+   1.1
+  ],
+  [
+   "North Star",
+   "Lud's Lane / North Star",
+   "Gent's Ridge / North Star",
+   2.6
+  ],
+  [
+   "Fat City",
+   "Jim's 3",
+   "Rewrite / Fat City",
+   0.9
+  ],
+  [
+   "Hodge Podge",
+   "Copper",
+   "Jim's / Hodge Podge",
+   4.1
+  ],
+  [
+   "Hodge Podge",
+   "Jim's / Hodge Podge",
+   "Hero's bottom",
+   0.5
+  ],
+  [
+   "Blazing Star",
+   "Silver Bell 4",
+   "Silver Bell 5",
+   1.0
+  ],
+  [
+   "Powerline I",
+   "Jim's / Powerline I",
+   "Legel Tender / Rewrite",
+   0.5
+  ],
+  [
+   "Powerline I",
+   "Legel Tender / Rewrite",
+   "Cory-Bob / Here's Too...",
+   0.5
+  ],
+  [
+   "Powerline I",
+   "Cory-Bob / Here's Too...",
+   "Powerline II",
+   0.7
+  ],
+  [
+   "First Tracks",
+   "1 & 2 Leaf 9",
+   "First Tracks",
+   1.5
+  ],
+  [
+   "Upper Little Nell",
+   "Magnifico Road / Kleenex Cornner",
+   "Lower Little Nell / Upper Little Nell",
+   0.7
+  ],
+  [
+   "Midnight",
+   "Buckhorn",
+   "Summit / Midnight",
+   0.7
+  ],
+  [
+   "Midnight",
+   "Summit / Midnight",
+   "Dipsy Doodle 3",
+   0.8
+  ],
+  [
+   "Midnight",
+   "Dipsy Doodle 3",
+   "Dipsy Doodle 2",
+   0.5
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "1 & 2 Leaf",
+   "Ajax Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf",
+   "Silver Queen top",
+   0.7
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Silver Bell",
+   "Ajax Express top",
+   1.1
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Silver Bell",
+   "Silver Queen top",
+   1.3
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Tortilla Flats",
+   "Ajax Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Keith Glen",
+   "F.I.S. bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Bell Meadow",
+   "F.I.S. bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Face of Bell",
+   "F.I.S. bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Face of Bell",
+   "Ajax Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Face of Bell / Spar Gulch",
+   "F.I.S. bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Ruthie's top",
+   "Gretl's / Tourtelotte Park",
+   3.4
+  ],
+  [
+   "walk",
+   "Ruthie's top",
+   "Gretl's / Percy",
+   3.1
+  ],
+  [
+   "walk",
+   "Ruthie's top",
+   "Percy",
+   2.3
+  ],
+  [
+   "walk",
+   "Ruthie's top",
+   "Midway Road 3",
+   0.6
+  ],
+  [
+   "walk",
+   "Midway Road",
+   "Midway Road 2",
+   1.1
+  ],
+  [
+   "walk",
+   "Midway Road",
+   "Unnamed run / North American",
+   2.6
+  ],
+  [
+   "walk",
+   "Spar Gulch / Tortilla Flats",
+   "Ajax Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Ruthie's bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Ruthie's bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Ruthie's bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Hero's top",
+   "Jim's / Powerline I",
+   0.8
+  ],
+  [
+   "walk",
+   "Hero's top",
+   "E.E.K.! / Powerline II",
+   3.3
+  ],
+  [
+   "walk",
+   "Hero's top",
+   "Legel Tender / Rewrite",
+   2.3
+  ],
+  [
+   "walk",
+   "Hero's top",
+   "Cory-Bob / Here's Too...",
+   3.1
+  ],
+  [
+   "walk",
+   "Hero's top",
+   "Jim's 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Hero's top",
+   "1 & 2 Leaf 9",
+   2.3
+  ],
+  [
+   "walk",
+   "Jim's / Powerline I",
+   "Hero's top",
+   0.8
+  ],
+  [
+   "walk",
+   "Summer Road 5",
+   "Ruthie's bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Spar Gulch 3",
+   "F.I.S. bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Ruthie's Run",
+   "F.I.S. top",
+   0.6
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II",
+   "Hero's top",
+   3.3
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II 2",
+   "Loushin's / Star Walk",
+   2.8
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II 2",
+   "Star Walk / Harris's Wall 2",
+   2.5
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II 2",
+   "Legel Tender",
+   2.6
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II 2",
+   "Papa Bear / The Shaft",
+   1.5
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II 2",
+   "Here's Too...",
+   1.7
+  ],
+  [
+   "walk",
+   "Face of Bell 2",
+   "Ajax Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Face of Bell 3",
+   "F.I.S. bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Face of Bell 3",
+   "Ajax Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Face of Bell 4",
+   "F.I.S. bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Face of Bell Cut-off / Face of Bell",
+   "Ajax Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "FIS Trail",
+   "Ajax Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Legel Tender",
+   "E.E.K.! / Powerline II 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Legel Tender",
+   "Rewrite / Fat City",
+   0.9
+  ],
+  [
+   "walk",
+   "Legel Tender",
+   "Here's Too...",
+   1.0
+  ],
+  [
+   "walk",
+   "F.I.S. bottom",
+   "Spar Gulch 3",
+   0.7
+  ],
+  [
+   "walk",
+   "F.I.S. bottom",
+   "Spar Gulch 7",
+   2.1
+  ],
+  [
+   "walk",
+   "F.I.S. bottom",
+   "Spar Gulch 9",
+   0.9
+  ],
+  [
+   "walk",
+   "Ajax Express top",
+   "1 & 2 Leaf",
+   1.7
+  ],
+  [
+   "walk",
+   "Ajax Express top",
+   "Dipsy Doodle / Silver Bell",
+   1.1
+  ],
+  [
+   "walk",
+   "Ajax Express top",
+   "Dipsy Doodle",
+   1.8
+  ],
+  [
+   "walk",
+   "Ajax Express top",
+   "1 & 2 Leaf 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Ajax Express top",
+   "Dipsy Doodle 6",
+   1.4
+  ],
+  [
+   "walk",
+   "Ajax Express top",
+   "Silver Queen top",
+   2.1
+  ],
+  [
+   "walk",
+   "Face of Bell Cut-off",
+   "Ajax Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Hero's bottom",
+   "Jim's / Hodge Podge",
+   0.7
+  ],
+  [
+   "walk",
+   "Jim's / Hodge Podge",
+   "Hero's bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Papa Bear / The Shaft",
+   "Loushin's / Star Walk",
+   1.3
+  ],
+  [
+   "walk",
+   "Papa Bear / The Shaft",
+   "Star Walk / Harris's Wall 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Papa Bear / The Shaft",
+   "E.E.K.! / Powerline II 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Papa Bear / The Shaft",
+   "Here's Too...",
+   3.2
+  ],
+  [
+   "walk",
+   "Tortilla Flats",
+   "Ajax Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 6",
+   "Ajax Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 6",
+   "Silver Queen top",
+   3.0
+  ],
+  [
+   "walk",
+   "Rewrite / Fat City",
+   "Rideout",
+   2.9
+  ],
+  [
+   "walk",
+   "Rewrite / Fat City",
+   "Legel Tender",
+   0.9
+  ],
+  [
+   "walk",
+   "Rewrite / Fat City",
+   "Here's Too...",
+   1.8
+  ],
+  [
+   "walk",
+   "Midway Road 3",
+   "Ruthie's top",
+   0.6
+  ],
+  [
+   "walk",
+   "Hanging Tree",
+   "Ajax Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Here's Too...",
+   "E.E.K.! / Powerline II 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Here's Too...",
+   "Legel Tender",
+   1.0
+  ],
+  [
+   "walk",
+   "Here's Too...",
+   "Papa Bear / The Shaft",
+   3.2
+  ],
+  [
+   "walk",
+   "Here's Too...",
+   "Rewrite / Fat City",
+   1.8
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "Hero's top",
+   2.3
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "Silver Queen top",
+   2.1
+  ],
+  [
+   "walk",
+   "First Tracks",
+   "Rideout",
+   1.9
+  ],
+  [
+   "walk",
+   "First Tracks",
+   "Jim's",
+   1.5
+  ],
+  [
+   "walk",
+   "First Tracks",
+   "Legel Tender",
+   2.2
+  ],
+  [
+   "walk",
+   "First Tracks",
+   "Rideout 3",
+   2.1
+  ],
+  [
+   "walk",
+   "First Tracks",
+   "Rewrite / Fat City",
+   1.3
+  ],
+  [
+   "walk",
+   "First Tracks",
+   "Cory-Bob / Here's Too... 2",
+   3.1
+  ],
+  [
+   "walk",
+   "First Tracks",
+   "Here's Too...",
+   3.2
+  ],
+  [
+   "walk",
+   "F.I.S. top",
+   "Ruthie's Run",
+   0.6
+  ],
+  [
+   "walk",
+   "F.I.S. top",
+   "FIS Trail",
+   2.2
+  ],
+  [
+   "walk",
+   "F.I.S. top",
+   "International",
+   2.9
+  ],
+  [
+   "walk",
+   "Ruthie's bottom",
+   "Corkscrew Gully / Summer Road",
+   3.1
+  ],
+  [
+   "walk",
+   "Ruthie's bottom",
+   "Summer Road 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Ruthie's bottom",
+   "Summer Road 4",
+   1.3
+  ],
+  [
+   "walk",
+   "Ruthie's bottom",
+   "Summer Road 7",
+   2.9
+  ],
+  [
+   "walk",
+   "Ajax Express bottom",
+   "Face of Bell / Spar Gulch",
+   1.9
+  ],
+  [
+   "walk",
+   "Ajax Express bottom",
+   "Spar Gulch / Tortilla Flats",
+   0.8
+  ],
+  [
+   "walk",
+   "Ajax Express bottom",
+   "Spar Gulch 3",
+   2.5
+  ],
+  [
+   "walk",
+   "Ajax Express bottom",
+   "F.I.S. bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Silver Queen top",
+   "1 & 2 Leaf",
+   0.7
+  ],
+  [
+   "walk",
+   "Silver Queen top",
+   "Dipsy Doodle / Silver Bell",
+   1.3
+  ],
+  [
+   "walk",
+   "Silver Queen top",
+   "1 & 2 Leaf 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Silver Queen top",
+   "1 & 2 Leaf 5",
+   3.1
+  ],
+  [
+   "walk",
+   "Silver Queen top",
+   "Ajax Express top",
+   2.1
+  ],
+  [
+   "walk",
+   "Silver Queen top",
+   "Dipsy Doodle 6",
+   3.0
+  ],
+  [
+   "walk",
+   "Silver Queen top",
+   "1 & 2 Leaf 9",
+   2.1
+  ],
+  [
+   "walk",
+   "Midway Road 3",
+   "Gretl's / Tourtelotte Park",
+   4.1
+  ],
+  [
+   "walk",
+   "Midway Road 3",
+   "Gretl's / Percy",
+   3.7
+  ],
+  [
+   "walk",
+   "Midway Road 3",
+   "Percy",
+   3.0
+  ],
+  [
+   "walk",
+   "Jim's / Powerline I",
+   "E.E.K.! / Powerline II",
+   4.0
+  ],
+  [
+   "walk",
+   "Jim's / Powerline I",
+   "Legel Tender / Rewrite",
+   3.1
+  ],
+  [
+   "walk",
+   "Jim's / Powerline I",
+   "Cory-Bob / Here's Too...",
+   3.9
+  ],
+  [
+   "walk",
+   "Jim's / Powerline I",
+   "Jim's 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Jim's / Powerline I",
+   "1 & 2 Leaf 9",
+   3.1
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II",
+   "Jim's / Powerline I",
+   4.0
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II",
+   "Legel Tender / Rewrite",
+   5.6
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II",
+   "Cory-Bob / Here's Too...",
+   6.4
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II",
+   "Jim's 3",
+   6.1
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II",
+   "1 & 2 Leaf 9",
+   5.6
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "Jim's / Powerline I",
+   3.1
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "E.E.K.! / Powerline II",
+   5.6
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "Legel Tender / Rewrite",
+   4.6
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "Cory-Bob / Here's Too...",
+   5.4
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "Jim's 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Legel Tender",
+   "Loushin's / Star Walk",
+   5.4
+  ],
+  [
+   "walk",
+   "Legel Tender",
+   "Star Walk / Harris's Wall 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Legel Tender",
+   "Papa Bear / The Shaft",
+   4.1
+  ],
+  [
+   "walk",
+   "Papa Bear / The Shaft",
+   "Legel Tender",
+   4.1
+  ],
+  [
+   "walk",
+   "Here's Too...",
+   "Loushin's / Star Walk",
+   4.5
+  ],
+  [
+   "walk",
+   "Here's Too...",
+   "Star Walk / Harris's Wall 2",
+   4.2
+  ],
+  [
+   "walk",
+   "F.I.S. top",
+   "Ajax Express bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II 2",
+   "Rewrite / Fat City",
+   3.5
+  ],
+  [
+   "walk",
+   "Rewrite / Fat City",
+   "E.E.K.! / Powerline II 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Rewrite / Fat City",
+   "Loushin's / Star Walk",
+   6.3
+  ],
+  [
+   "walk",
+   "Rewrite / Fat City",
+   "Star Walk / Harris's Wall 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Rewrite / Fat City",
+   "Papa Bear / The Shaft",
+   5.0
+  ],
+  [
+   "walk",
+   "First Tracks",
+   "E.E.K.! / Powerline II 2",
+   4.8
+  ],
+  [
+   "walk",
+   "First Tracks",
+   "Papa Bear / The Shaft",
+   6.3
+  ],
+  [
+   "walk",
+   "Papa Bear / The Shaft",
+   "Rewrite / Fat City",
+   5.0
+  ],
+  [
+   "walk",
+   "Keith Glen",
+   "Spar Gulch 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Keith Glen",
+   "Spar Gulch 7",
+   5.4
+  ],
+  [
+   "walk",
+   "Keith Glen",
+   "Spar Gulch 9",
+   4.2
+  ],
+  [
+   "walk",
+   "Bell Meadow",
+   "Spar Gulch 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Bell Meadow",
+   "Spar Gulch 7",
+   4.7
+  ],
+  [
+   "walk",
+   "Bell Meadow",
+   "Spar Gulch 9",
+   3.5
+  ],
+  [
+   "walk",
+   "Face of Bell",
+   "Spar Gulch 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Face of Bell",
+   "Spar Gulch 7",
+   5.3
+  ],
+  [
+   "walk",
+   "Face of Bell",
+   "Spar Gulch 9",
+   4.1
+  ],
+  [
+   "walk",
+   "Face of Bell / Spar Gulch",
+   "Spar Gulch 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Face of Bell / Spar Gulch",
+   "Spar Gulch 7",
+   3.4
+  ],
+  [
+   "walk",
+   "Face of Bell / Spar Gulch",
+   "Spar Gulch 9",
+   2.2
+  ],
+  [
+   "walk",
+   "Spar Gulch 3",
+   "Spar Gulch 7",
+   2.8
+  ],
+  [
+   "walk",
+   "Spar Gulch 3",
+   "Spar Gulch 9",
+   1.6
+  ],
+  [
+   "walk",
+   "Face of Bell 3",
+   "Spar Gulch 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Face of Bell 3",
+   "Spar Gulch 7",
+   5.3
+  ],
+  [
+   "walk",
+   "Face of Bell 3",
+   "Spar Gulch 9",
+   4.1
+  ],
+  [
+   "walk",
+   "Face of Bell 4",
+   "Spar Gulch 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Face of Bell 4",
+   "Spar Gulch 7",
+   4.9
+  ],
+  [
+   "walk",
+   "Face of Bell 4",
+   "Spar Gulch 9",
+   3.8
+  ],
+  [
+   "walk",
+   "Ajax Express bottom",
+   "Spar Gulch 7",
+   5.2
+  ],
+  [
+   "walk",
+   "Ajax Express bottom",
+   "Spar Gulch 9",
+   4.0
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf",
+   "Dipsy Doodle / Silver Bell",
+   2.0
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf",
+   "Dipsy Doodle",
+   3.6
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf",
+   "1 & 2 Leaf 2",
+   2.8
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf",
+   "Dipsy Doodle 6",
+   3.2
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Silver Bell",
+   "1 & 2 Leaf",
+   2.0
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Silver Bell",
+   "Dipsy Doodle",
+   2.9
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Silver Bell",
+   "1 & 2 Leaf 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Silver Bell",
+   "Dipsy Doodle 6",
+   2.5
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 6",
+   "1 & 2 Leaf",
+   3.2
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 6",
+   "Dipsy Doodle / Silver Bell",
+   2.5
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 6",
+   "Dipsy Doodle",
+   3.3
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 6",
+   "1 & 2 Leaf 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Silver Queen top",
+   "Dipsy Doodle",
+   3.9
+  ],
+  [
+   "walk",
+   "Legel Tender",
+   "Rideout",
+   3.8
+  ],
+  [
+   "walk",
+   "Here's Too...",
+   "Rideout",
+   4.8
+  ],
+  [
+   "walk",
+   "E.E.K.! / Powerline II 2",
+   "Rideout",
+   6.4
+  ],
+  [
+   "walk",
+   "Hero's top",
+   "Silver Queen top",
+   4.4
+  ],
+  [
+   "walk",
+   "Silver Queen top",
+   "Hero's top",
+   4.4
+  ],
+  [
+   "walk",
+   "Silver Queen top",
+   "Jim's / Powerline I",
+   5.2
+  ],
+  [
+   "walk",
+   "Silver Queen top",
+   "Legel Tender / Rewrite",
+   6.7
+  ],
+  [
+   "walk",
+   "Jim's / Powerline I",
+   "Silver Queen top",
+   5.2
+  ],
+  [
+   "walk",
+   "Ruthie's Run",
+   "FIS Trail",
+   2.7
+  ],
+  [
+   "walk",
+   "Ruthie's Run",
+   "International",
+   3.5
+  ],
+  [
+   "walk",
+   "Ruthie's Run",
+   "Ajax Express bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Corkscrew Gully / Summer Road",
+   5.5
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Summer Road 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Summer Road 4",
+   3.7
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Summer Road 7",
+   5.4
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Corkscrew Gully / Summer Road",
+   6.0
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Summer Road 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Summer Road 4",
+   4.2
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Summer Road 7",
+   5.9
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Corkscrew Gully / Summer Road",
+   3.8
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Summer Road 4",
+   2.1
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Summer Road 7",
+   3.7
+  ],
+  [
+   "walk",
+   "Summer Road 5",
+   "Corkscrew Gully / Summer Road",
+   6.1
+  ],
+  [
+   "walk",
+   "Summer Road 5",
+   "Summer Road 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Summer Road 5",
+   "Summer Road 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Summer Road 5",
+   "Summer Road 7",
+   6.0
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Tortilla Flats",
+   "Face of Bell / Spar Gulch",
+   4.2
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Tortilla Flats",
+   "Spar Gulch / Tortilla Flats",
+   3.1
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Tortilla Flats",
+   "Spar Gulch 3",
+   4.8
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Tortilla Flats",
+   "F.I.S. bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Tortilla Flats",
+   "Spar Gulch 9",
+   6.3
+  ],
+  [
+   "walk",
+   "Face of Bell",
+   "Face of Bell / Spar Gulch",
+   3.8
+  ],
+  [
+   "walk",
+   "Face of Bell",
+   "Spar Gulch / Tortilla Flats",
+   2.7
+  ],
+  [
+   "walk",
+   "Spar Gulch / Tortilla Flats",
+   "Face of Bell / Spar Gulch",
+   2.6
+  ],
+  [
+   "walk",
+   "Spar Gulch / Tortilla Flats",
+   "Spar Gulch 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Spar Gulch / Tortilla Flats",
+   "F.I.S. bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Spar Gulch / Tortilla Flats",
+   "Spar Gulch 7",
+   6.0
+  ],
+  [
+   "walk",
+   "Spar Gulch / Tortilla Flats",
+   "Spar Gulch 9",
+   4.8
+  ],
+  [
+   "walk",
+   "Face of Bell 2",
+   "Face of Bell / Spar Gulch",
+   4.5
+  ],
+  [
+   "walk",
+   "Face of Bell 2",
+   "Spar Gulch / Tortilla Flats",
+   3.4
+  ],
+  [
+   "walk",
+   "Face of Bell 2",
+   "Spar Gulch 3",
+   5.1
+  ],
+  [
+   "walk",
+   "Face of Bell 2",
+   "F.I.S. bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Face of Bell 2",
+   "Spar Gulch 9",
+   6.7
+  ],
+  [
+   "walk",
+   "Face of Bell 3",
+   "Face of Bell / Spar Gulch",
+   5.0
+  ],
+  [
+   "walk",
+   "Face of Bell 3",
+   "Spar Gulch / Tortilla Flats",
+   3.9
+  ],
+  [
+   "walk",
+   "Face of Bell Cut-off / Face of Bell",
+   "Face of Bell / Spar Gulch",
+   4.8
+  ],
+  [
+   "walk",
+   "Face of Bell Cut-off / Face of Bell",
+   "Spar Gulch / Tortilla Flats",
+   3.6
+  ],
+  [
+   "walk",
+   "Face of Bell Cut-off / Face of Bell",
+   "Spar Gulch 3",
+   5.3
+  ],
+  [
+   "walk",
+   "Face of Bell Cut-off / Face of Bell",
+   "F.I.S. bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Face of Bell Cut-off / Face of Bell",
+   "Spar Gulch 9",
+   6.9
+  ],
+  [
+   "walk",
+   "FIS Trail",
+   "Face of Bell / Spar Gulch",
+   4.9
+  ],
+  [
+   "walk",
+   "FIS Trail",
+   "Spar Gulch / Tortilla Flats",
+   3.8
+  ],
+  [
+   "walk",
+   "FIS Trail",
+   "Spar Gulch 3",
+   5.5
+  ],
+  [
+   "walk",
+   "FIS Trail",
+   "F.I.S. bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Face of Bell Cut-off",
+   "Face of Bell / Spar Gulch",
+   4.6
+  ],
+  [
+   "walk",
+   "Face of Bell Cut-off",
+   "Spar Gulch / Tortilla Flats",
+   3.5
+  ],
+  [
+   "walk",
+   "Face of Bell Cut-off",
+   "Spar Gulch 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Face of Bell Cut-off",
+   "F.I.S. bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Face of Bell Cut-off",
+   "Spar Gulch 9",
+   6.8
+  ],
+  [
+   "walk",
+   "Tortilla Flats",
+   "Face of Bell / Spar Gulch",
+   3.3
+  ],
+  [
+   "walk",
+   "Tortilla Flats",
+   "Spar Gulch / Tortilla Flats",
+   2.2
+  ],
+  [
+   "walk",
+   "Tortilla Flats",
+   "Spar Gulch 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Tortilla Flats",
+   "F.I.S. bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Tortilla Flats",
+   "Spar Gulch 7",
+   6.7
+  ],
+  [
+   "walk",
+   "Tortilla Flats",
+   "Spar Gulch 9",
+   5.5
+  ],
+  [
+   "walk",
+   "Hanging Tree",
+   "Face of Bell / Spar Gulch",
+   2.7
+  ],
+  [
+   "walk",
+   "Hanging Tree",
+   "Spar Gulch / Tortilla Flats",
+   1.6
+  ],
+  [
+   "walk",
+   "Hanging Tree",
+   "Spar Gulch 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Hanging Tree",
+   "F.I.S. bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Hanging Tree",
+   "Spar Gulch 7",
+   6.0
+  ],
+  [
+   "walk",
+   "Hanging Tree",
+   "Spar Gulch 9",
+   4.8
+  ],
+  [
+   "walk",
+   "F.I.S. top",
+   "Spar Gulch / Tortilla Flats",
+   6.0
+  ],
+  [
+   "walk",
+   "Ruthie's Run",
+   "Spar Gulch / Tortilla Flats",
+   6.6
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf",
+   "1 & 2 Leaf 5",
+   3.8
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf",
+   "1 & 2 Leaf 9",
+   2.8
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf",
+   "Hero's top",
+   5.1
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf",
+   "Jim's / Powerline I",
+   5.9
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Silver Bell",
+   "1 & 2 Leaf 5",
+   4.4
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Silver Bell",
+   "1 & 2 Leaf 9",
+   3.4
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Silver Bell",
+   "Hero's top",
+   5.8
+  ],
+  [
+   "walk",
+   "Dipsy Doodle / Silver Bell",
+   "Jim's / Powerline I",
+   6.5
+  ],
+  [
+   "walk",
+   "Ajax Express top",
+   "1 & 2 Leaf 5",
+   5.2
+  ],
+  [
+   "walk",
+   "Ajax Express top",
+   "1 & 2 Leaf 9",
+   4.2
+  ],
+  [
+   "walk",
+   "Ajax Express top",
+   "Hero's top",
+   6.5
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 6",
+   "1 & 2 Leaf 5",
+   6.1
+  ],
+  [
+   "walk",
+   "Dipsy Doodle 6",
+   "1 & 2 Leaf 9",
+   5.1
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "1 & 2 Leaf",
+   2.8
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "Dipsy Doodle / Silver Bell",
+   3.4
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "1 & 2 Leaf 2",
+   4.2
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "1 & 2 Leaf 5",
+   5.2
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "Ajax Express top",
+   4.2
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "Dipsy Doodle 6",
+   5.1
+  ],
+  [
+   "walk",
+   "1 & 2 Leaf 9",
+   "Dipsy Doodle",
+   6.0
+  ],
+  [
+   "walk",
+   "Hero's top",
+   "1 & 2 Leaf",
+   5.1
+  ],
+  [
+   "walk",
+   "Hero's top",
+   "Dipsy Doodle / Silver Bell",
+   5.8
+  ],
+  [
+   "walk",
+   "Hero's top",
+   "1 & 2 Leaf 2",
+   6.5
+  ],
+  [
+   "walk",
+   "Hero's top",
+   "Ajax Express top",
+   6.5
+  ],
+  [
+   "walk",
+   "Jim's / Powerline I",
+   "1 & 2 Leaf",
+   5.9
+  ],
+  [
+   "walk",
+   "Jim's / Powerline I",
+   "Dipsy Doodle / Silver Bell",
+   6.5
+  ]
+ ],
+ "base": "Silver Queen bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "8",
+  "downhill_trails": "181",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

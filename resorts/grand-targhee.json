@@ -1,0 +1,3093 @@
+{
+ "name": "Grand Targhee Resort",
+ "source": "OpenSkiMap ski area 84ddf46f67c0fca577dc969188dc189f1c7a040f",
+ "origin_lonlat": [
+  -110.94668593432289,
+  43.784446970673436
+ ],
+ "nodes": {
+  "Sweetwater / Rock Garden": [
+   143,
+   512,
+   2749.9
+  ],
+  "Sweetwater / Unnamed run": [
+   -766,
+   442,
+   2443.8
+  ],
+  "Lost Groomer / Teton Vista Traverse": [
+   1252,
+   -75,
+   2915.3
+  ],
+  "Lost Groomer / Teton Vista Traverse 2": [
+   1010,
+   -513,
+   2739.9
+  ],
+  "Shoshone top": [
+   -370,
+   768,
+   2538.5
+  ],
+  "Dreamcatcher bottom": [
+   -844,
+   485,
+   2430.4
+  ],
+  "Dreamcatcher top": [
+   990,
+   271,
+   2999.3
+  ],
+  "Unnamed run / Teton Vista Traverse": [
+   942,
+   134,
+   2956.4
+  ],
+  "Lower Exhibition / North Pole": [
+   -872,
+   660,
+   2420.5
+  ],
+  "Huckleberry Conveyor bottom": [
+   -928,
+   615,
+   2414.7
+  ],
+  "Fred's Chute / Rainbow Road": [
+   -714,
+   834,
+   2481.7
+  ],
+  "Fred's Chute / Outback": [
+   -915,
+   744,
+   2422.8
+  ],
+  "Sweetwater": [
+   76,
+   517,
+   2729.6
+  ],
+  "Watchabe Woods / Medicine Bowl": [
+   -387,
+   -976,
+   2530.3
+  ],
+  "Sacajawea bottom": [
+   -943,
+   -397,
+   2317.6
+  ],
+  "Outback / North Pole": [
+   -480,
+   869,
+   2515.2
+  ],
+  "Outback": [
+   -913,
+   819,
+   2428.6
+  ],
+  "Big Horn": [
+   -672,
+   596,
+   2453.4
+  ],
+  "Unnamed run / Huckleberry": [
+   -875,
+   607,
+   2422.2
+  ],
+  "Sacajawea top": [
+   199,
+   -643,
+   2703.1
+  ],
+  "Dreamweaver / Millcreek Traverse": [
+   -955,
+   -99,
+   2345.9
+  ],
+  "Mark's Meadow / Wacky Weasel Way": [
+   -623,
+   804,
+   2488.6
+  ],
+  "Mark's Meadow / Wacky Weasel Way 2": [
+   -640,
+   764,
+   2485.0
+  ],
+  "Unnamed run / Teton Vista Traverse 2": [
+   791,
+   -451,
+   2708.9
+  ],
+  "Unnamed run / Teton Vista Traverse 3": [
+   342,
+   -342,
+   2635.6
+  ],
+  "Unnamed run / Jack Straw": [
+   503,
+   -784,
+   2749.8
+  ],
+  "Unnamed run": [
+   445,
+   -756,
+   2744.1
+  ],
+  "Big Thunder / Palmer's Raceway": [
+   -398,
+   580,
+   2528.9
+  ],
+  "Unnamed run / Pierre's Hole": [
+   416,
+   -1277,
+   2639.9
+  ],
+  "Crazy Horse / Teton Vista Traverse": [
+   -68,
+   97,
+   2570.3
+  ],
+  "Unnamed run / Redezvous": [
+   177,
+   -804,
+   2664.8
+  ],
+  "Unnamed run / Jack Straw 2": [
+   256,
+   -1048,
+   2633.4
+  ],
+  "Blackfoot top": [
+   428,
+   1077,
+   2830.8
+  ],
+  "Floyd's Fantasy / Williamson Bowl": [
+   -303,
+   1079,
+   2508.8
+  ],
+  "Little Beaver Traverse / Chief Joe Bowl": [
+   -367,
+   931,
+   2481.7
+  ],
+  "Little Beaver Traverse / North Pole": [
+   -906,
+   896,
+   2439.4
+  ],
+  "Big Horn 2": [
+   -737,
+   564,
+   2444.6
+  ],
+  "Rainbow Road": [
+   -732,
+   722,
+   2471.5
+  ],
+  "Paintbrush / Rolling Thunder": [
+   539,
+   -2014,
+   2544.9
+  ],
+  "Colter Lift bottom": [
+   119,
+   -1822,
+   2395.4
+  ],
+  "Unnamed run / Snowdancer": [
+   -85,
+   -805,
+   2589.0
+  ],
+  "Dreamweaver": [
+   -332,
+   -319,
+   2545.7
+  ],
+  "Floyd's Fantasy": [
+   260,
+   1081,
+   2747.6
+  ],
+  "Steamvent / Chief Joe Bowl": [
+   -18,
+   792,
+   2601.0
+  ],
+  "Unnamed run / Chief Joe Bowl": [
+   -292,
+   865,
+   2514.2
+  ],
+  "Outback 2": [
+   -768,
+   892,
+   2461.5
+  ],
+  "Colter Lift top": [
+   1198,
+   -988,
+   2947.6
+  ],
+  "Poudrerie / Goat Path": [
+   391,
+   -1051,
+   2652.0
+  ],
+  "Rock Garden / Headwall Traverse": [
+   812,
+   663,
+   2945.3
+  ],
+  "Outback 3": [
+   -804,
+   858,
+   2451.3
+  ],
+  "Big Horn 3": [
+   -369,
+   711,
+   2539.2
+  ],
+  "Little Bighorn": [
+   -429,
+   835,
+   2520.7
+  ],
+  "Dreamweaver 2": [
+   -153,
+   -430,
+   2583.4
+  ],
+  "Wolverine / Powder Reserve Traverse": [
+   -97,
+   -270,
+   2537.9
+  ],
+  "Ermine / Snowdancer": [
+   -257,
+   -920,
+   2532.6
+  ],
+  "Sitting Bull / Headwall Traverse": [
+   919,
+   545,
+   2965.3
+  ],
+  "Wild Willie / Headwall Traverse": [
+   928,
+   365,
+   2988.6
+  ],
+  "Crazy Horse": [
+   11,
+   137,
+   2586.2
+  ],
+  "Headwall Traverse / Chief Joseph Traverse": [
+   448,
+   1035,
+   2830.1
+  ],
+  "Headwall / Fallen Timber": [
+   356,
+   808,
+   2729.8
+  ],
+  "Wandering Moose / Teton Vista Traverse": [
+   -150,
+   102,
+   2556.6
+  ],
+  "Headwall Traverse": [
+   505,
+   970,
+   2821.9
+  ],
+  "Fallen Timber / Chief Joe Bowl": [
+   299,
+   801,
+   2713.7
+  ],
+  "North Boundary Traverse / Williamson Bowl": [
+   -387,
+   1056,
+   2480.4
+  ],
+  "Little Bighorn 2": [
+   -544,
+   786,
+   2499.5
+  ],
+  "Dreamweaver 3": [
+   -529,
+   -165,
+   2511.9
+  ],
+  "Shadow Woman / Millcreek Traverse": [
+   -979,
+   -338,
+   2321.2
+  ],
+  "Dreamweaver 4": [
+   -271,
+   -359,
+   2558.2
+  ],
+  "Wampum": [
+   -603,
+   -492,
+   2404.8
+  ],
+  "Dreamweaver 5": [
+   117,
+   -588,
+   2690.6
+  ],
+  "Ermine": [
+   47,
+   -1499,
+   2431.4
+  ],
+  "Unnamed run / Rolling Thunder": [
+   1115,
+   -1207,
+   2905.7
+  ],
+  "Unnamed run / Redezvous 2": [
+   717,
+   -752,
+   2788.8
+  ],
+  "Blackfoot Traverse / Raven Wood": [
+   183,
+   1394,
+   2755.5
+  ],
+  "Teton Vista Traverse": [
+   -252,
+   128,
+   2531.0
+  ],
+  "Little Bighorn 3": [
+   -643,
+   682,
+   2481.1
+  ],
+  "Sweetwater 2": [
+   8,
+   494,
+   2703.2
+  ],
+  "Teton Vista Traverse 2": [
+   -548,
+   346,
+   2473.4
+  ],
+  "Floyd's Fantasy 2": [
+   400,
+   1047,
+   2817.0
+  ],
+  "Floyd's Fantasy 3": [
+   377,
+   1111,
+   2808.2
+  ],
+  "Jack Straw / Redezvous": [
+   1200,
+   -944,
+   2949.4
+  ],
+  "Ermine 2": [
+   -45,
+   -1415,
+   2441.2
+  ],
+  "Redezvous / Goat Path": [
+   86,
+   -950,
+   2607.5
+  ],
+  "Blackfoot Traverse": [
+   308,
+   1254,
+   2782.0
+  ],
+  "Blackfoot bottom": [
+   -456,
+   1045,
+   2466.4
+  ],
+  "Medicine Bowl / Snowdancer": [
+   -454,
+   -719,
+   2450.2
+  ],
+  "Teton Vista Traverse 3": [
+   1424,
+   -191,
+   2894.6
+  ],
+  "Teton Vista Traverse 4": [
+   1181,
+   -545,
+   2761.5
+  ],
+  "Palmer's Raceway / Unnamed run": [
+   -389,
+   652,
+   2535.0
+  ],
+  "Big Horn 4": [
+   -786,
+   540,
+   2439.1
+  ],
+  "Rolling Thunder": [
+   998,
+   -1668,
+   2727.5
+  ],
+  "North Boundary Traverse 2": [
+   -389,
+   1111,
+   2489.6
+  ],
+  "Chief Joseph Traverse / Chief Joe Bowl": [
+   564,
+   875,
+   2810.0
+  ],
+  "Sweetwater 3": [
+   -427,
+   468,
+   2516.7
+  ],
+  "Headwall Traverse 2": [
+   914,
+   445,
+   2981.0
+  ],
+  "Rock Garden": [
+   577,
+   586,
+   2866.3
+  ],
+  "Bird Woman": [
+   -812,
+   -405,
+   2340.8
+  ],
+  "Headwall Traverse 3": [
+   843,
+   863,
+   2917.4
+  ],
+  "Ermine 3": [
+   -233,
+   -1231,
+   2480.6
+  ],
+  "Bird Woman 2": [
+   -548,
+   -610,
+   2412.4
+  ],
+  "Ermine 4": [
+   69,
+   -1586,
+   2418.2
+  ],
+  "Huckleberry Conveyor top": [
+   -874,
+   550,
+   2426.4
+  ]
+ },
+ "lifts": [
+  [
+   "Huckleberry Conveyor",
+   "Huckleberry Conveyor bottom",
+   "Huckleberry Conveyor top",
+   4.7
+  ],
+  [
+   "Dreamcatcher",
+   "Dreamcatcher bottom",
+   "Dreamcatcher top",
+   16.9
+  ],
+  [
+   "Blackfoot",
+   "Blackfoot bottom",
+   "Blackfoot top",
+   9.9
+  ],
+  [
+   "Colter Lift",
+   "Colter Lift bottom",
+   "Colter Lift top",
+   13.6
+  ],
+  [
+   "Sacajawea",
+   "Sacajawea bottom",
+   "Sacajawea top",
+   12.1
+  ],
+  [
+   "Shoshone",
+   "Huckleberry Conveyor bottom",
+   "Shoshone top",
+   7.1
+  ]
+ ],
+ "runs": [
+  [
+   "Sweetwater",
+   "Sweetwater / Rock Garden",
+   "Sweetwater",
+   0.5
+  ],
+  [
+   "Sweetwater",
+   "Sweetwater",
+   "Sweetwater 2",
+   0.5
+  ],
+  [
+   "Sweetwater",
+   "Sweetwater 2",
+   "Sweetwater 3",
+   1.9
+  ],
+  [
+   "Sweetwater",
+   "Sweetwater 3",
+   "Sweetwater / Unnamed run",
+   1.5
+  ],
+  [
+   "Lost Groomer",
+   "Lost Groomer / Teton Vista Traverse",
+   "Lost Groomer / Teton Vista Traverse 2",
+   2.1
+  ],
+  [
+   "Big Horn",
+   "Shoshone top",
+   "Big Horn 3",
+   0.5
+  ],
+  [
+   "Big Horn",
+   "Big Horn 3",
+   "Big Horn",
+   1.2
+  ],
+  [
+   "Big Horn",
+   "Big Horn",
+   "Big Horn 2",
+   0.5
+  ],
+  [
+   "Big Horn",
+   "Big Horn 2",
+   "Big Horn 4",
+   0.5
+  ],
+  [
+   "Big Horn",
+   "Big Horn 4",
+   "Dreamcatcher bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Dreamcatcher top",
+   "Unnamed run / Teton Vista Traverse",
+   0.5
+  ],
+  [
+   "Lower Exhibition",
+   "Lower Exhibition / North Pole",
+   "Huckleberry Conveyor bottom",
+   0.5
+  ],
+  [
+   "Fred's Chute",
+   "Fred's Chute / Rainbow Road",
+   "Fred's Chute / Outback",
+   0.8
+  ],
+  [
+   "Wild Turkey",
+   "Sweetwater",
+   "Shoshone top",
+   2.1
+  ],
+  [
+   "Watchabe Woods",
+   "Watchabe Woods / Medicine Bowl",
+   "Sacajawea bottom",
+   4.7
+  ],
+  [
+   "Outback",
+   "Outback / North Pole",
+   "Outback 2",
+   1.1
+  ],
+  [
+   "Outback",
+   "Outback 2",
+   "Outback 3",
+   0.5
+  ],
+  [
+   "Outback",
+   "Outback 3",
+   "Outback",
+   0.5
+  ],
+  [
+   "Little Bighorn",
+   "Shoshone top",
+   "Little Bighorn",
+   0.5
+  ],
+  [
+   "Little Bighorn",
+   "Little Bighorn",
+   "Little Bighorn 2",
+   0.5
+  ],
+  [
+   "Little Bighorn",
+   "Little Bighorn 2",
+   "Little Bighorn 3",
+   0.6
+  ],
+  [
+   "Little Bighorn",
+   "Little Bighorn 3",
+   "Big Horn",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Dreamcatcher bottom",
+   "Huckleberry Conveyor top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Huckleberry Conveyor top",
+   "Unnamed run / Huckleberry",
+   0.5
+  ],
+  [
+   "Dreamweaver",
+   "Sacajawea top",
+   "Dreamweaver 5",
+   0.5
+  ],
+  [
+   "Dreamweaver",
+   "Dreamweaver 5",
+   "Dreamweaver 2",
+   1.4
+  ],
+  [
+   "Dreamweaver",
+   "Dreamweaver 2",
+   "Dreamweaver 4",
+   0.6
+  ],
+  [
+   "Dreamweaver",
+   "Dreamweaver 4",
+   "Dreamweaver",
+   0.5
+  ],
+  [
+   "Dreamweaver",
+   "Dreamweaver",
+   "Dreamweaver 3",
+   1.0
+  ],
+  [
+   "Dreamweaver",
+   "Dreamweaver 3",
+   "Dreamweaver / Millcreek Traverse",
+   2.9
+  ],
+  [
+   "Rainbow Road",
+   "Fred's Chute / Rainbow Road",
+   "Rainbow Road",
+   0.5
+  ],
+  [
+   "Rainbow Road",
+   "Rainbow Road",
+   "Big Horn",
+   0.7
+  ],
+  [
+   "Mark's Meadow",
+   "Mark's Meadow / Wacky Weasel Way",
+   "Mark's Meadow / Wacky Weasel Way 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Teton Vista Traverse 2",
+   "Unnamed run / Teton Vista Traverse 3",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Jack Straw",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Big Thunder",
+   "Sweetwater",
+   "Sweetwater 2",
+   0.5
+  ],
+  [
+   "Big Thunder",
+   "Sweetwater 2",
+   "Big Thunder / Palmer's Raceway",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Sacajawea top",
+   "Unnamed run / Pierre's Hole",
+   2.6
+  ],
+  [
+   "Crazy Horse",
+   "Dreamcatcher top",
+   "Crazy Horse",
+   4.5
+  ],
+  [
+   "Crazy Horse",
+   "Crazy Horse",
+   "Crazy Horse / Teton Vista Traverse",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Redezvous",
+   "Unnamed run / Jack Straw 2",
+   0.9
+  ],
+  [
+   "Floyd's Fantasy",
+   "Blackfoot top",
+   "Floyd's Fantasy 2",
+   0.5
+  ],
+  [
+   "Floyd's Fantasy",
+   "Floyd's Fantasy 2",
+   "Floyd's Fantasy 3",
+   0.5
+  ],
+  [
+   "Floyd's Fantasy",
+   "Floyd's Fantasy 3",
+   "Floyd's Fantasy",
+   0.5
+  ],
+  [
+   "Floyd's Fantasy",
+   "Floyd's Fantasy",
+   "Floyd's Fantasy / Williamson Bowl",
+   2.6
+  ],
+  [
+   "Little Beaver Traverse",
+   "Little Beaver Traverse / Chief Joe Bowl",
+   "Little Beaver Traverse / North Pole",
+   2.6
+  ],
+  [
+   "Huckleberry",
+   "Big Horn 2",
+   "Big Horn 4",
+   0.5
+  ],
+  [
+   "Huckleberry",
+   "Big Horn 4",
+   "Unnamed run / Huckleberry",
+   0.5
+  ],
+  [
+   "Huckleberry",
+   "Unnamed run / Huckleberry",
+   "Huckleberry Conveyor bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Big Horn",
+   "Big Horn 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Big Horn 2",
+   "Sweetwater / Unnamed run",
+   0.5
+  ],
+  [
+   "Lower Exhibition",
+   "Rainbow Road",
+   "Unnamed run / Huckleberry",
+   0.7
+  ],
+  [
+   "Palmer's Raceway",
+   "Big Thunder / Palmer's Raceway",
+   "Sweetwater / Unnamed run",
+   1.6
+  ],
+  [
+   "Paintbrush",
+   "Paintbrush / Rolling Thunder",
+   "Colter Lift bottom",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Snowdancer",
+   "Dreamweaver 4",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Dreamweaver 4",
+   "Dreamweaver",
+   0.5
+  ],
+  [
+   "Steamvent",
+   "Floyd's Fantasy",
+   "Steamvent / Chief Joe Bowl",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Shoshone top",
+   "Unnamed run / Chief Joe Bowl",
+   0.5
+  ],
+  [
+   "Outback",
+   "Outback 2",
+   "Outback 3",
+   0.5
+  ],
+  [
+   "Outback",
+   "Outback 3",
+   "Outback",
+   0.5
+  ],
+  [
+   "Outback",
+   "Outback",
+   "Fred's Chute / Outback",
+   0.5
+  ],
+  [
+   "Poudrerie",
+   "Colter Lift top",
+   "Poudrerie / Goat Path",
+   3.5
+  ],
+  [
+   "Rock Garden",
+   "Rock Garden / Headwall Traverse",
+   "Rock Garden",
+   1.0
+  ],
+  [
+   "Rock Garden",
+   "Rock Garden",
+   "Sweetwater / Rock Garden",
+   1.9
+  ],
+  [
+   "Rock Garden",
+   "Sweetwater / Rock Garden",
+   "Sweetwater",
+   0.5
+  ],
+  [
+   "Outback",
+   "Fred's Chute / Rainbow Road",
+   "Outback 2",
+   0.5
+  ],
+  [
+   "Outback",
+   "Outback 2",
+   "Outback 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Big Horn 3",
+   "Shoshone top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Shoshone top",
+   "Little Bighorn",
+   0.5
+  ],
+  [
+   "North Pole",
+   "Shoshone top",
+   "Little Bighorn",
+   0.5
+  ],
+  [
+   "North Pole",
+   "Little Bighorn",
+   "Outback / North Pole",
+   0.5
+  ],
+  [
+   "North Pole",
+   "Outback / North Pole",
+   "Little Beaver Traverse / North Pole",
+   2.0
+  ],
+  [
+   "North Pole",
+   "Little Beaver Traverse / North Pole",
+   "Outback",
+   0.5
+  ],
+  [
+   "North Pole",
+   "Outback",
+   "Fred's Chute / Outback",
+   0.5
+  ],
+  [
+   "North Pole",
+   "Fred's Chute / Outback",
+   "Lower Exhibition / North Pole",
+   0.5
+  ],
+  [
+   "North Pole",
+   "Lower Exhibition / North Pole",
+   "Huckleberry Conveyor bottom",
+   0.5
+  ],
+  [
+   "Wolverine",
+   "Dreamweaver 2",
+   "Wolverine / Powder Reserve Traverse",
+   0.6
+  ],
+  [
+   "Ermine",
+   "Ermine / Snowdancer",
+   "Ermine 3",
+   1.2
+  ],
+  [
+   "Ermine",
+   "Ermine 3",
+   "Ermine 2",
+   1.1
+  ],
+  [
+   "Ermine",
+   "Ermine 2",
+   "Ermine",
+   0.6
+  ],
+  [
+   "Ermine",
+   "Ermine",
+   "Ermine 4",
+   0.5
+  ],
+  [
+   "Ermine",
+   "Ermine 4",
+   "Colter Lift bottom",
+   1.0
+  ],
+  [
+   "Sitting Bull",
+   "Sitting Bull / Headwall Traverse",
+   "Sweetwater / Rock Garden",
+   3.3
+  ],
+  [
+   "Wild Willie",
+   "Wild Willie / Headwall Traverse",
+   "Crazy Horse",
+   4.3
+  ],
+  [
+   "Pie Highway",
+   "Rainbow Road",
+   "Outback 3",
+   0.5
+  ],
+  [
+   "Headwall Traverse",
+   "Dreamcatcher top",
+   "Wild Willie / Headwall Traverse",
+   0.5
+  ],
+  [
+   "Headwall Traverse",
+   "Wild Willie / Headwall Traverse",
+   "Headwall Traverse 2",
+   0.5
+  ],
+  [
+   "Headwall Traverse",
+   "Headwall Traverse 2",
+   "Sitting Bull / Headwall Traverse",
+   0.5
+  ],
+  [
+   "Headwall Traverse",
+   "Sitting Bull / Headwall Traverse",
+   "Rock Garden / Headwall Traverse",
+   0.7
+  ],
+  [
+   "Headwall Traverse",
+   "Rock Garden / Headwall Traverse",
+   "Headwall Traverse 3",
+   1.0
+  ],
+  [
+   "Headwall Traverse",
+   "Headwall Traverse 3",
+   "Headwall Traverse",
+   1.7
+  ],
+  [
+   "Headwall Traverse",
+   "Headwall Traverse",
+   "Headwall Traverse / Chief Joseph Traverse",
+   0.5
+  ],
+  [
+   "Alley Oop Alley",
+   "Outback / North Pole",
+   "Fred's Chute / Rainbow Road",
+   0.9
+  ],
+  [
+   "Headwall",
+   "Rock Garden / Headwall Traverse",
+   "Headwall / Fallen Timber",
+   1.9
+  ],
+  [
+   "Wandering Moose",
+   "Sweetwater / Rock Garden",
+   "Wandering Moose / Teton Vista Traverse",
+   2.1
+  ],
+  [
+   "Fallen Timber",
+   "Headwall Traverse",
+   "Headwall / Fallen Timber",
+   0.9
+  ],
+  [
+   "Fallen Timber",
+   "Headwall / Fallen Timber",
+   "Fallen Timber / Chief Joe Bowl",
+   0.5
+  ],
+  [
+   "North Boundary Traverse",
+   "North Boundary Traverse 2",
+   "North Boundary Traverse / Williamson Bowl",
+   0.5
+  ],
+  [
+   "Teton Vista Traverse",
+   "Dreamcatcher top",
+   "Unnamed run / Teton Vista Traverse",
+   1.1
+  ],
+  [
+   "Teton Vista Traverse",
+   "Unnamed run / Teton Vista Traverse",
+   "Lost Groomer / Teton Vista Traverse",
+   1.7
+  ],
+  [
+   "Teton Vista Traverse",
+   "Lost Groomer / Teton Vista Traverse",
+   "Teton Vista Traverse 3",
+   0.9
+  ],
+  [
+   "Teton Vista Traverse",
+   "Teton Vista Traverse 3",
+   "Teton Vista Traverse 4",
+   3.5
+  ],
+  [
+   "Teton Vista Traverse",
+   "Teton Vista Traverse 4",
+   "Lost Groomer / Teton Vista Traverse 2",
+   0.7
+  ],
+  [
+   "Teton Vista Traverse",
+   "Lost Groomer / Teton Vista Traverse 2",
+   "Unnamed run / Teton Vista Traverse 2",
+   1.0
+  ],
+  [
+   "Teton Vista Traverse",
+   "Unnamed run / Teton Vista Traverse 2",
+   "Unnamed run / Teton Vista Traverse 3",
+   2.0
+  ],
+  [
+   "Teton Vista Traverse",
+   "Unnamed run / Teton Vista Traverse 3",
+   "Crazy Horse / Teton Vista Traverse",
+   2.7
+  ],
+  [
+   "Teton Vista Traverse",
+   "Crazy Horse / Teton Vista Traverse",
+   "Wandering Moose / Teton Vista Traverse",
+   0.5
+  ],
+  [
+   "Teton Vista Traverse",
+   "Wandering Moose / Teton Vista Traverse",
+   "Teton Vista Traverse",
+   0.5
+  ],
+  [
+   "Teton Vista Traverse",
+   "Teton Vista Traverse",
+   "Teton Vista Traverse 2",
+   1.6
+  ],
+  [
+   "Teton Vista Traverse",
+   "Teton Vista Traverse 2",
+   "Sweetwater / Unnamed run",
+   1.0
+  ],
+  [
+   "Teton Vista Traverse",
+   "Sweetwater / Unnamed run",
+   "Dreamcatcher bottom",
+   0.5
+  ],
+  [
+   "Wacky Weasel Way",
+   "Little Bighorn 2",
+   "Mark's Meadow / Wacky Weasel Way",
+   0.5
+  ],
+  [
+   "Wacky Weasel Way",
+   "Mark's Meadow / Wacky Weasel Way",
+   "Mark's Meadow / Wacky Weasel Way 2",
+   0.5
+  ],
+  [
+   "Wacky Weasel Way",
+   "Mark's Meadow / Wacky Weasel Way 2",
+   "Rainbow Road",
+   0.5
+  ],
+  [
+   "Shadow Woman",
+   "Dreamweaver 3",
+   "Shadow Woman / Millcreek Traverse",
+   2.0
+  ],
+  [
+   "Wampum",
+   "Dreamweaver 4",
+   "Wampum",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Sacajawea top",
+   "Dreamweaver 5",
+   0.5
+  ],
+  [
+   "Pierre's Hole",
+   "Colter Lift top",
+   "Unnamed run / Pierre's Hole",
+   3.4
+  ],
+  [
+   "Pierre's Hole",
+   "Unnamed run / Pierre's Hole",
+   "Ermine",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Rolling Thunder",
+   "Unnamed run / Redezvous 2",
+   2.5
+  ],
+  [
+   "Blackfoot Traverse",
+   "Blackfoot top",
+   "Floyd's Fantasy 3",
+   0.5
+  ],
+  [
+   "Blackfoot Traverse",
+   "Floyd's Fantasy 3",
+   "Blackfoot Traverse",
+   0.6
+  ],
+  [
+   "Blackfoot Traverse",
+   "Blackfoot Traverse",
+   "Blackfoot Traverse / Raven Wood",
+   0.8
+  ],
+  [
+   "Chief Joseph Traverse",
+   "Blackfoot top",
+   "Headwall Traverse / Chief Joseph Traverse",
+   0.5
+  ],
+  [
+   "Slim's Shot",
+   "Sweetwater / Rock Garden",
+   "Sweetwater",
+   0.5
+  ],
+  [
+   "Slim's Shot",
+   "Sweetwater",
+   "Teton Vista Traverse",
+   2.2
+  ],
+  [
+   "Rolling Thunder",
+   "Colter Lift top",
+   "Unnamed run / Rolling Thunder",
+   1.1
+  ],
+  [
+   "Rolling Thunder",
+   "Unnamed run / Rolling Thunder",
+   "Rolling Thunder",
+   2.1
+  ],
+  [
+   "Rolling Thunder",
+   "Rolling Thunder",
+   "Paintbrush / Rolling Thunder",
+   2.6
+  ],
+  [
+   "Rolling Thunder",
+   "Paintbrush / Rolling Thunder",
+   "Colter Lift bottom",
+   3.0
+  ],
+  [
+   "Little Bighorn",
+   "Mark's Meadow / Wacky Weasel Way 2",
+   "Little Bighorn 3",
+   0.5
+  ],
+  [
+   "Six Shooter",
+   "Sweetwater 2",
+   "Teton Vista Traverse 2",
+   2.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Sacajawea top",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Floyd's Fantasy 2",
+   "Blackfoot top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Blackfoot top",
+   "Floyd's Fantasy 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Floyd's Fantasy 2",
+   "Floyd's Fantasy 3",
+   0.5
+  ],
+  [
+   "Jack Straw",
+   "Jack Straw / Redezvous",
+   "Unnamed run / Jack Straw",
+   3.0
+  ],
+  [
+   "Jack Straw",
+   "Unnamed run / Jack Straw",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Jack Straw",
+   "Unnamed run",
+   "Unnamed run / Jack Straw 2",
+   1.3
+  ],
+  [
+   "Jack Straw",
+   "Unnamed run / Jack Straw 2",
+   "Ermine 2",
+   2.4
+  ],
+  [
+   "Redezvous",
+   "Sacajawea top",
+   "Unnamed run / Redezvous",
+   0.5
+  ],
+  [
+   "Redezvous",
+   "Unnamed run / Redezvous",
+   "Redezvous / Goat Path",
+   0.8
+  ],
+  [
+   "Williamson Bowl",
+   "Blackfoot Traverse",
+   "Floyd's Fantasy / Williamson Bowl",
+   2.8
+  ],
+  [
+   "Williamson Bowl",
+   "Floyd's Fantasy / Williamson Bowl",
+   "North Boundary Traverse / Williamson Bowl",
+   0.5
+  ],
+  [
+   "Williamson Bowl",
+   "North Boundary Traverse / Williamson Bowl",
+   "Blackfoot bottom",
+   0.5
+  ],
+  [
+   "Powder Reserve Traverse",
+   "Dreamweaver 4",
+   "Wolverine / Powder Reserve Traverse",
+   0.7
+  ],
+  [
+   "Powder Reserve Traverse",
+   "Wolverine / Powder Reserve Traverse",
+   "Dreamcatcher bottom",
+   5.7
+  ],
+  [
+   "Medicine Bowl",
+   "Watchabe Woods / Medicine Bowl",
+   "Medicine Bowl / Snowdancer",
+   1.0
+  ],
+  [
+   "Snowdancer",
+   "Sacajawea top",
+   "Unnamed run / Snowdancer",
+   1.2
+  ],
+  [
+   "Snowdancer",
+   "Unnamed run / Snowdancer",
+   "Ermine / Snowdancer",
+   0.9
+  ],
+  [
+   "Snowdancer",
+   "Ermine / Snowdancer",
+   "Medicine Bowl / Snowdancer",
+   1.1
+  ],
+  [
+   "Painted Pony",
+   "Teton Vista Traverse 3",
+   "Teton Vista Traverse 4",
+   1.9
+  ],
+  [
+   "Arrowhead",
+   "Headwall Traverse / Chief Joseph Traverse",
+   "Floyd's Fantasy 2",
+   0.5
+  ],
+  [
+   "Arrowhead",
+   "Floyd's Fantasy 2",
+   "Floyd's Fantasy / Williamson Bowl",
+   3.2
+  ],
+  [
+   "Arrowhead",
+   "Floyd's Fantasy / Williamson Bowl",
+   "North Boundary Traverse / Williamson Bowl",
+   0.5
+  ],
+  [
+   "Arrowhead",
+   "North Boundary Traverse / Williamson Bowl",
+   "Blackfoot bottom",
+   0.5
+  ],
+  [
+   "Palmer's Raceway",
+   "Palmer's Raceway / Unnamed run",
+   "Big Horn 2",
+   1.6
+  ],
+  [
+   "Palmer's Raceway",
+   "Big Horn 2",
+   "Big Horn 4",
+   0.5
+  ],
+  [
+   "Goat Path",
+   "Rolling Thunder",
+   "Poudrerie / Goat Path",
+   3.5
+  ],
+  [
+   "Goat Path",
+   "Poudrerie / Goat Path",
+   "Unnamed run / Jack Straw 2",
+   0.6
+  ],
+  [
+   "Goat Path",
+   "Unnamed run / Jack Straw 2",
+   "Redezvous / Goat Path",
+   0.8
+  ],
+  [
+   "Goat Path",
+   "Redezvous / Goat Path",
+   "Ermine / Snowdancer",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Jack Straw",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Raven Wood",
+   "Blackfoot Traverse / Raven Wood",
+   "North Boundary Traverse 2",
+   2.8
+  ],
+  [
+   "Chief Joseph Traverse",
+   "Headwall Traverse / Chief Joseph Traverse",
+   "Headwall Traverse",
+   0.5
+  ],
+  [
+   "Chief Joseph Traverse",
+   "Headwall Traverse",
+   "Chief Joseph Traverse / Chief Joe Bowl",
+   0.5
+  ],
+  [
+   "Eleanor",
+   "Unnamed run / Rolling Thunder",
+   "Colter Lift bottom",
+   5.5
+  ],
+  [
+   "Lower Exhibition",
+   "Little Bighorn 3",
+   "Rainbow Road",
+   0.5
+  ],
+  [
+   "Lower Exhibition",
+   "Rainbow Road",
+   "Lower Exhibition / North Pole",
+   0.6
+  ],
+  [
+   "Lower Exhibition",
+   "Lower Exhibition / North Pole",
+   "Huckleberry Conveyor bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Big Horn 3",
+   "Palmer's Raceway / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Palmer's Raceway / Unnamed run",
+   "Big Thunder / Palmer's Raceway",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Big Thunder / Palmer's Raceway",
+   "Sweetwater 3",
+   0.5
+  ],
+  [
+   "The Face",
+   "Headwall Traverse 2",
+   "Rock Garden",
+   1.5
+  ],
+  [
+   "Bird Woman",
+   "Sacajawea top",
+   "Bird Woman 2",
+   3.2
+  ],
+  [
+   "Bird Woman",
+   "Bird Woman 2",
+   "Bird Woman",
+   1.4
+  ],
+  [
+   "Bird Woman",
+   "Bird Woman",
+   "Sacajawea bottom",
+   0.6
+  ],
+  [
+   "Mark's Meadow",
+   "Outback / North Pole",
+   "Mark's Meadow / Wacky Weasel Way",
+   0.5
+  ],
+  [
+   "Mark's Meadow",
+   "Mark's Meadow / Wacky Weasel Way",
+   "Fred's Chute / Rainbow Road",
+   0.5
+  ],
+  [
+   "Bobsled",
+   "Outback / North Pole",
+   "Outback 2",
+   1.2
+  ],
+  [
+   "Bobsled",
+   "Outback 2",
+   "Little Beaver Traverse / North Pole",
+   0.5
+  ],
+  [
+   "Northern Lights",
+   "Ermine / Snowdancer",
+   "Watchabe Woods / Medicine Bowl",
+   0.5
+  ],
+  [
+   "Northern Lights",
+   "Watchabe Woods / Medicine Bowl",
+   "Bird Woman",
+   3.3
+  ],
+  [
+   "Chief Joe Bowl",
+   "Headwall Traverse 3",
+   "Chief Joseph Traverse / Chief Joe Bowl",
+   1.2
+  ],
+  [
+   "Chief Joe Bowl",
+   "Chief Joseph Traverse / Chief Joe Bowl",
+   "Headwall / Fallen Timber",
+   1.0
+  ],
+  [
+   "Chief Joe Bowl",
+   "Headwall / Fallen Timber",
+   "Fallen Timber / Chief Joe Bowl",
+   0.5
+  ],
+  [
+   "Chief Joe Bowl",
+   "Fallen Timber / Chief Joe Bowl",
+   "Steamvent / Chief Joe Bowl",
+   1.3
+  ],
+  [
+   "Chief Joe Bowl",
+   "Steamvent / Chief Joe Bowl",
+   "Unnamed run / Chief Joe Bowl",
+   1.2
+  ],
+  [
+   "Chief Joe Bowl",
+   "Unnamed run / Chief Joe Bowl",
+   "Little Beaver Traverse / Chief Joe Bowl",
+   0.5
+  ],
+  [
+   "Chief Joe Bowl",
+   "Little Beaver Traverse / Chief Joe Bowl",
+   "Blackfoot bottom",
+   0.6
+  ],
+  [
+   "Upper Exhibition",
+   "Shoshone top",
+   "Little Bighorn 3",
+   1.1
+  ],
+  [
+   "Millcreek Traverse",
+   "Sweetwater / Unnamed run",
+   "Dreamweaver / Millcreek Traverse",
+   2.5
+  ],
+  [
+   "Millcreek Traverse",
+   "Dreamweaver / Millcreek Traverse",
+   "Shadow Woman / Millcreek Traverse",
+   1.0
+  ],
+  [
+   "Millcreek Traverse",
+   "Shadow Woman / Millcreek Traverse",
+   "Sacajawea bottom",
+   0.5
+  ],
+  [
+   "Redezvous",
+   "Colter Lift top",
+   "Jack Straw / Redezvous",
+   0.5
+  ],
+  [
+   "Redezvous",
+   "Jack Straw / Redezvous",
+   "Unnamed run / Redezvous 2",
+   2.2
+  ],
+  [
+   "Redezvous",
+   "Unnamed run / Redezvous 2",
+   "Unnamed run / Jack Straw",
+   1.0
+  ],
+  [
+   "Redezvous",
+   "Unnamed run / Jack Straw",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Redezvous",
+   "Unnamed run",
+   "Redezvous / Goat Path",
+   1.7
+  ],
+  [
+   "Redezvous",
+   "Redezvous / Goat Path",
+   "Ermine 3",
+   1.9
+  ],
+  [
+   "Shaman",
+   "Sacajawea top",
+   "Medicine Bowl / Snowdancer",
+   2.7
+  ],
+  [
+   "Shaman",
+   "Medicine Bowl / Snowdancer",
+   "Bird Woman 2",
+   0.6
+  ],
+  [
+   "Beaver Dick's",
+   "Unnamed run / Rolling Thunder",
+   "Ermine 4",
+   5.0
+  ],
+  [
+   "Funnel",
+   "Steamvent / Chief Joe Bowl",
+   "Shoshone top",
+   1.4
+  ],
+  [
+   "Funnel",
+   "Shoshone top",
+   "Big Horn 3",
+   0.5
+  ],
+  [
+   "Funnel",
+   "Big Horn 3",
+   "Palmer's Raceway / Unnamed run",
+   0.5
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Sweetwater / Unnamed run",
+   "Dreamcatcher bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Sweetwater / Unnamed run",
+   "Huckleberry Conveyor bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Sweetwater / Unnamed run",
+   "Huckleberry Conveyor top",
+   2.1
+  ],
+  [
+   "walk",
+   "Shoshone top",
+   "Outback / North Pole",
+   2.1
+  ],
+  [
+   "walk",
+   "Shoshone top",
+   "Big Thunder / Palmer's Raceway",
+   2.6
+  ],
+  [
+   "walk",
+   "Shoshone top",
+   "Little Beaver Traverse / Chief Joe Bowl",
+   2.3
+  ],
+  [
+   "walk",
+   "Shoshone top",
+   "Unnamed run / Chief Joe Bowl",
+   1.7
+  ],
+  [
+   "walk",
+   "Shoshone top",
+   "Big Horn 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Shoshone top",
+   "Little Bighorn",
+   1.2
+  ],
+  [
+   "walk",
+   "Shoshone top",
+   "Little Bighorn 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Shoshone top",
+   "Palmer's Raceway / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Dreamcatcher bottom",
+   "Sweetwater / Unnamed run",
+   1.2
+  ],
+  [
+   "walk",
+   "Dreamcatcher bottom",
+   "Lower Exhibition / North Pole",
+   2.5
+  ],
+  [
+   "walk",
+   "Dreamcatcher bottom",
+   "Huckleberry Conveyor bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Dreamcatcher bottom",
+   "Unnamed run / Huckleberry",
+   1.7
+  ],
+  [
+   "walk",
+   "Dreamcatcher bottom",
+   "Big Horn 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Dreamcatcher bottom",
+   "Big Horn 4",
+   1.1
+  ],
+  [
+   "walk",
+   "Dreamcatcher bottom",
+   "Huckleberry Conveyor top",
+   1.0
+  ],
+  [
+   "walk",
+   "Dreamcatcher top",
+   "Unnamed run / Teton Vista Traverse",
+   2.0
+  ],
+  [
+   "walk",
+   "Dreamcatcher top",
+   "Wild Willie / Headwall Traverse",
+   1.6
+  ],
+  [
+   "walk",
+   "Dreamcatcher top",
+   "Headwall Traverse 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Exhibition / North Pole",
+   "Dreamcatcher bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Exhibition / North Pole",
+   "Huckleberry Conveyor bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Lower Exhibition / North Pole",
+   "Huckleberry Conveyor top",
+   1.5
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor bottom",
+   "Lower Exhibition / North Pole",
+   1.0
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor bottom",
+   "Fred's Chute / Outback",
+   1.8
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor bottom",
+   "Outback",
+   2.8
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor bottom",
+   "Unnamed run / Huckleberry",
+   0.7
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor bottom",
+   "Huckleberry Conveyor top",
+   1.2
+  ],
+  [
+   "walk",
+   "Fred's Chute / Outback",
+   "Huckleberry Conveyor bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Fred's Chute / Outback",
+   "Huckleberry Conveyor top",
+   2.8
+  ],
+  [
+   "walk",
+   "Sacajawea bottom",
+   "Shadow Woman / Millcreek Traverse",
+   1.0
+  ],
+  [
+   "walk",
+   "Outback / North Pole",
+   "Blackfoot bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Outback",
+   "Huckleberry Conveyor bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Big Horn",
+   "Dreamcatcher bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Big Horn",
+   "Huckleberry Conveyor top",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Huckleberry",
+   "Dreamcatcher bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Huckleberry",
+   "Huckleberry Conveyor bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Huckleberry",
+   "Huckleberry Conveyor top",
+   0.8
+  ],
+  [
+   "walk",
+   "Sacajawea top",
+   "Unnamed run / Redezvous",
+   2.3
+  ],
+  [
+   "walk",
+   "Sacajawea top",
+   "Dreamweaver 5",
+   1.4
+  ],
+  [
+   "walk",
+   "Big Thunder / Palmer's Raceway",
+   "Shoshone top",
+   2.6
+  ],
+  [
+   "walk",
+   "Blackfoot top",
+   "Floyd's Fantasy",
+   2.3
+  ],
+  [
+   "walk",
+   "Blackfoot top",
+   "Headwall Traverse / Chief Joseph Traverse",
+   0.7
+  ],
+  [
+   "walk",
+   "Blackfoot top",
+   "Headwall Traverse",
+   1.8
+  ],
+  [
+   "walk",
+   "Blackfoot top",
+   "Floyd's Fantasy 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Blackfoot top",
+   "Floyd's Fantasy 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Blackfoot top",
+   "Blackfoot Traverse",
+   3.0
+  ],
+  [
+   "walk",
+   "Blackfoot top",
+   "Chief Joseph Traverse / Chief Joe Bowl",
+   3.4
+  ],
+  [
+   "walk",
+   "Floyd's Fantasy / Williamson Bowl",
+   "Blackfoot bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Little Beaver Traverse / Chief Joe Bowl",
+   "Blackfoot bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Big Horn 2",
+   "Dreamcatcher bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Big Horn 2",
+   "Huckleberry Conveyor bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Big Horn 2",
+   "Huckleberry Conveyor top",
+   1.9
+  ],
+  [
+   "walk",
+   "Rainbow Road",
+   "Huckleberry Conveyor bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Rainbow Road",
+   "Huckleberry Conveyor top",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Chief Joe Bowl",
+   "Blackfoot bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Colter Lift top",
+   "Unnamed run / Rolling Thunder",
+   3.3
+  ],
+  [
+   "walk",
+   "Colter Lift top",
+   "Jack Straw / Redezvous",
+   0.6
+  ],
+  [
+   "walk",
+   "Big Horn 3",
+   "Shoshone top",
+   0.8
+  ],
+  [
+   "walk",
+   "Little Bighorn",
+   "Blackfoot bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Wild Willie / Headwall Traverse",
+   "Dreamcatcher top",
+   1.6
+  ],
+  [
+   "walk",
+   "Headwall Traverse / Chief Joseph Traverse",
+   "Blackfoot top",
+   0.7
+  ],
+  [
+   "walk",
+   "Headwall Traverse",
+   "Blackfoot top",
+   1.8
+  ],
+  [
+   "walk",
+   "North Boundary Traverse / Williamson Bowl",
+   "Blackfoot bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Shadow Woman / Millcreek Traverse",
+   "Sacajawea bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Wampum",
+   "Bird Woman",
+   3.1
+  ],
+  [
+   "walk",
+   "Wampum",
+   "Bird Woman 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Dreamweaver 5",
+   "Sacajawea top",
+   1.4
+  ],
+  [
+   "walk",
+   "Floyd's Fantasy 2",
+   "Blackfoot top",
+   0.6
+  ],
+  [
+   "walk",
+   "Jack Straw / Redezvous",
+   "Colter Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Blackfoot bottom",
+   "North Boundary Traverse / Williamson Bowl",
+   1.0
+  ],
+  [
+   "walk",
+   "Palmer's Raceway / Unnamed run",
+   "Shoshone top",
+   1.6
+  ],
+  [
+   "walk",
+   "Big Horn 4",
+   "Dreamcatcher bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Big Horn 4",
+   "Huckleberry Conveyor bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Big Horn 4",
+   "Huckleberry Conveyor top",
+   1.2
+  ],
+  [
+   "walk",
+   "North Boundary Traverse 2",
+   "Blackfoot bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Bird Woman",
+   "Sacajawea bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Ermine 4",
+   "Colter Lift bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor top",
+   "Dreamcatcher bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor top",
+   "Lower Exhibition / North Pole",
+   1.5
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor top",
+   "Huckleberry Conveyor bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor top",
+   "Fred's Chute / Outback",
+   2.8
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor top",
+   "Unnamed run / Huckleberry",
+   0.8
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor top",
+   "Big Horn 4",
+   1.2
+  ],
+  [
+   "walk",
+   "Big Thunder / Palmer's Raceway",
+   "Outback / North Pole",
+   4.7
+  ],
+  [
+   "walk",
+   "Big Thunder / Palmer's Raceway",
+   "Little Beaver Traverse / Chief Joe Bowl",
+   4.9
+  ],
+  [
+   "walk",
+   "Big Thunder / Palmer's Raceway",
+   "Unnamed run / Chief Joe Bowl",
+   4.4
+  ],
+  [
+   "walk",
+   "Big Thunder / Palmer's Raceway",
+   "Big Horn 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Big Thunder / Palmer's Raceway",
+   "Little Bighorn",
+   3.9
+  ],
+  [
+   "walk",
+   "Big Thunder / Palmer's Raceway",
+   "Little Bighorn 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Big Thunder / Palmer's Raceway",
+   "Palmer's Raceway / Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Big Horn 3",
+   "Outback / North Pole",
+   2.9
+  ],
+  [
+   "walk",
+   "Big Horn 3",
+   "Big Thunder / Palmer's Raceway",
+   3.4
+  ],
+  [
+   "walk",
+   "Big Horn 3",
+   "Little Beaver Traverse / Chief Joe Bowl",
+   3.1
+  ],
+  [
+   "walk",
+   "Big Horn 3",
+   "Unnamed run / Chief Joe Bowl",
+   2.5
+  ],
+  [
+   "walk",
+   "Big Horn 3",
+   "Little Bighorn",
+   2.0
+  ],
+  [
+   "walk",
+   "Big Horn 3",
+   "Little Bighorn 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Big Horn 3",
+   "Palmer's Raceway / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Palmer's Raceway / Unnamed run",
+   "Outback / North Pole",
+   3.7
+  ],
+  [
+   "walk",
+   "Palmer's Raceway / Unnamed run",
+   "Big Thunder / Palmer's Raceway",
+   4.2
+  ],
+  [
+   "walk",
+   "Palmer's Raceway / Unnamed run",
+   "Little Beaver Traverse / Chief Joe Bowl",
+   3.9
+  ],
+  [
+   "walk",
+   "Palmer's Raceway / Unnamed run",
+   "Unnamed run / Chief Joe Bowl",
+   3.4
+  ],
+  [
+   "walk",
+   "Palmer's Raceway / Unnamed run",
+   "Big Horn 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Palmer's Raceway / Unnamed run",
+   "Little Bighorn",
+   2.9
+  ],
+  [
+   "walk",
+   "Palmer's Raceway / Unnamed run",
+   "Little Bighorn 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Sweetwater / Unnamed run",
+   "Lower Exhibition / North Pole",
+   3.6
+  ],
+  [
+   "walk",
+   "Sweetwater / Unnamed run",
+   "Unnamed run / Huckleberry",
+   2.9
+  ],
+  [
+   "walk",
+   "Sweetwater / Unnamed run",
+   "Big Horn 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Sweetwater / Unnamed run",
+   "Big Horn 4",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Exhibition / North Pole",
+   "Sweetwater / Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Lower Exhibition / North Pole",
+   "Unnamed run / Huckleberry",
+   1.7
+  ],
+  [
+   "walk",
+   "Lower Exhibition / North Pole",
+   "Big Horn 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Exhibition / North Pole",
+   "Big Horn 4",
+   2.8
+  ],
+  [
+   "walk",
+   "Big Horn",
+   "Sweetwater / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Big Horn",
+   "Lower Exhibition / North Pole",
+   4.4
+  ],
+  [
+   "walk",
+   "Big Horn",
+   "Huckleberry Conveyor bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Big Horn",
+   "Unnamed run / Huckleberry",
+   3.7
+  ],
+  [
+   "walk",
+   "Big Horn",
+   "Big Horn 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Big Horn",
+   "Big Horn 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Huckleberry",
+   "Sweetwater / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Huckleberry",
+   "Lower Exhibition / North Pole",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Huckleberry",
+   "Big Horn 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Huckleberry",
+   "Big Horn 4",
+   2.0
+  ],
+  [
+   "walk",
+   "Big Horn 2",
+   "Sweetwater / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Big Horn 2",
+   "Lower Exhibition / North Pole",
+   3.4
+  ],
+  [
+   "walk",
+   "Big Horn 2",
+   "Unnamed run / Huckleberry",
+   2.7
+  ],
+  [
+   "walk",
+   "Big Horn 2",
+   "Big Horn 4",
+   3.0
+  ],
+  [
+   "walk",
+   "Big Horn 4",
+   "Sweetwater / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Big Horn 4",
+   "Lower Exhibition / North Pole",
+   2.8
+  ],
+  [
+   "walk",
+   "Big Horn 4",
+   "Unnamed run / Huckleberry",
+   2.0
+  ],
+  [
+   "walk",
+   "Big Horn 4",
+   "Big Horn 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor top",
+   "Sweetwater / Unnamed run",
+   2.2
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor top",
+   "Big Horn 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Wild Willie / Headwall Traverse",
+   "Unnamed run / Teton Vista Traverse",
+   3.6
+  ],
+  [
+   "walk",
+   "Wild Willie / Headwall Traverse",
+   "Headwall Traverse 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor bottom",
+   "Dreamcatcher bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor bottom",
+   "Sweetwater / Unnamed run",
+   3.4
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor bottom",
+   "Big Horn 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor bottom",
+   "Big Horn 4",
+   2.4
+  ],
+  [
+   "walk",
+   "Sweetwater / Unnamed run",
+   "Fred's Chute / Outback",
+   4.9
+  ],
+  [
+   "walk",
+   "Sweetwater / Unnamed run",
+   "Outback",
+   6.1
+  ],
+  [
+   "walk",
+   "Dreamcatcher bottom",
+   "Fred's Chute / Outback",
+   3.8
+  ],
+  [
+   "walk",
+   "Dreamcatcher bottom",
+   "Outback",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Exhibition / North Pole",
+   "Fred's Chute / Outback",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Exhibition / North Pole",
+   "Outback",
+   3.8
+  ],
+  [
+   "walk",
+   "Fred's Chute / Outback",
+   "Lower Exhibition / North Pole",
+   2.8
+  ],
+  [
+   "walk",
+   "Fred's Chute / Outback",
+   "Outback",
+   4.7
+  ],
+  [
+   "walk",
+   "Fred's Chute / Outback",
+   "Unnamed run / Huckleberry",
+   2.6
+  ],
+  [
+   "walk",
+   "Fred's Chute / Outback",
+   "Dreamcatcher bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Fred's Chute / Outback",
+   "Sweetwater / Unnamed run",
+   5.0
+  ],
+  [
+   "walk",
+   "Fred's Chute / Outback",
+   "Big Horn 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Outback",
+   "Lower Exhibition / North Pole",
+   3.8
+  ],
+  [
+   "walk",
+   "Outback",
+   "Fred's Chute / Outback",
+   4.7
+  ],
+  [
+   "walk",
+   "Outback",
+   "Unnamed run / Huckleberry",
+   3.6
+  ],
+  [
+   "walk",
+   "Outback",
+   "Huckleberry Conveyor top",
+   4.0
+  ],
+  [
+   "walk",
+   "Outback",
+   "Dreamcatcher bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Huckleberry",
+   "Fred's Chute / Outback",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Huckleberry",
+   "Outback",
+   3.6
+  ],
+  [
+   "walk",
+   "Big Horn 2",
+   "Fred's Chute / Outback",
+   4.6
+  ],
+  [
+   "walk",
+   "Big Horn 2",
+   "Outback",
+   5.6
+  ],
+  [
+   "walk",
+   "Rainbow Road",
+   "Lower Exhibition / North Pole",
+   4.1
+  ],
+  [
+   "walk",
+   "Rainbow Road",
+   "Fred's Chute / Outback",
+   4.9
+  ],
+  [
+   "walk",
+   "Rainbow Road",
+   "Outback",
+   6.0
+  ],
+  [
+   "walk",
+   "Rainbow Road",
+   "Unnamed run / Huckleberry",
+   3.8
+  ],
+  [
+   "walk",
+   "Rainbow Road",
+   "Dreamcatcher bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Big Horn 4",
+   "Fred's Chute / Outback",
+   4.0
+  ],
+  [
+   "walk",
+   "Big Horn 4",
+   "Outback",
+   5.1
+  ],
+  [
+   "walk",
+   "Huckleberry Conveyor top",
+   "Outback",
+   4.0
+  ],
+  [
+   "walk",
+   "Big Horn",
+   "Fred's Chute / Outback",
+   5.6
+  ],
+  [
+   "walk",
+   "Bird Woman",
+   "Shadow Woman / Millcreek Traverse",
+   2.8
+  ],
+  [
+   "walk",
+   "Shoshone top",
+   "Blackfoot bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Big Horn 3",
+   "Blackfoot bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Palmer's Raceway / Unnamed run",
+   "Blackfoot bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Fred's Chute / Outback",
+   "Big Horn 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Outback",
+   "Sweetwater / Unnamed run",
+   6.2
+  ],
+  [
+   "walk",
+   "Outback",
+   "Big Horn 4",
+   5.3
+  ],
+  [
+   "walk",
+   "Rainbow Road",
+   "Sweetwater / Unnamed run",
+   5.3
+  ],
+  [
+   "walk",
+   "Rainbow Road",
+   "Big Horn 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Dreamweaver 5",
+   "Unnamed run / Redezvous",
+   3.6
+  ],
+  [
+   "walk",
+   "Headwall Traverse / Chief Joseph Traverse",
+   "Floyd's Fantasy",
+   3.0
+  ],
+  [
+   "walk",
+   "Headwall Traverse / Chief Joseph Traverse",
+   "Headwall Traverse",
+   2.5
+  ],
+  [
+   "walk",
+   "Headwall Traverse / Chief Joseph Traverse",
+   "Floyd's Fantasy 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Headwall Traverse / Chief Joseph Traverse",
+   "Floyd's Fantasy 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Headwall Traverse / Chief Joseph Traverse",
+   "Blackfoot Traverse",
+   3.6
+  ],
+  [
+   "walk",
+   "Headwall Traverse / Chief Joseph Traverse",
+   "Chief Joseph Traverse / Chief Joe Bowl",
+   4.0
+  ],
+  [
+   "walk",
+   "Headwall Traverse",
+   "Floyd's Fantasy",
+   4.2
+  ],
+  [
+   "walk",
+   "Headwall Traverse",
+   "Headwall Traverse / Chief Joseph Traverse",
+   2.5
+  ],
+  [
+   "walk",
+   "Headwall Traverse",
+   "Floyd's Fantasy 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Headwall Traverse",
+   "Floyd's Fantasy 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Headwall Traverse",
+   "Blackfoot Traverse",
+   4.8
+  ],
+  [
+   "walk",
+   "Headwall Traverse",
+   "Chief Joseph Traverse / Chief Joe Bowl",
+   5.2
+  ],
+  [
+   "walk",
+   "Floyd's Fantasy 2",
+   "Floyd's Fantasy",
+   2.9
+  ],
+  [
+   "walk",
+   "Floyd's Fantasy 2",
+   "Headwall Traverse / Chief Joseph Traverse",
+   1.2
+  ],
+  [
+   "walk",
+   "Floyd's Fantasy 2",
+   "Headwall Traverse",
+   2.4
+  ],
+  [
+   "walk",
+   "Floyd's Fantasy 2",
+   "Floyd's Fantasy 3",
+   1.4
+  ],
+  [
+   "walk",
+   "Floyd's Fantasy 2",
+   "Blackfoot Traverse",
+   3.5
+  ],
+  [
+   "walk",
+   "Floyd's Fantasy 2",
+   "Chief Joseph Traverse / Chief Joe Bowl",
+   4.0
+  ],
+  [
+   "walk",
+   "Big Thunder / Palmer's Raceway",
+   "Blackfoot bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Jack Straw / Redezvous",
+   "Unnamed run / Rolling Thunder",
+   3.9
+  ],
+  [
+   "walk",
+   "Outback / North Pole",
+   "North Boundary Traverse / Williamson Bowl",
+   3.4
+  ],
+  [
+   "walk",
+   "Floyd's Fantasy / Williamson Bowl",
+   "North Boundary Traverse / Williamson Bowl",
+   3.2
+  ],
+  [
+   "walk",
+   "Little Beaver Traverse / Chief Joe Bowl",
+   "North Boundary Traverse / Williamson Bowl",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Chief Joe Bowl",
+   "North Boundary Traverse / Williamson Bowl",
+   4.4
+  ],
+  [
+   "walk",
+   "Little Bighorn",
+   "North Boundary Traverse / Williamson Bowl",
+   3.9
+  ],
+  [
+   "walk",
+   "North Boundary Traverse 2",
+   "North Boundary Traverse / Williamson Bowl",
+   2.3
+  ],
+  [
+   "walk",
+   "Shoshone top",
+   "North Boundary Traverse / Williamson Bowl",
+   5.2
+  ],
+  [
+   "walk",
+   "Big Horn 3",
+   "North Boundary Traverse / Williamson Bowl",
+   5.9
+  ],
+  [
+   "walk",
+   "Palmer's Raceway / Unnamed run",
+   "North Boundary Traverse / Williamson Bowl",
+   6.8
+  ],
+  [
+   "walk",
+   "Wampum",
+   "Sacajawea bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Wampum",
+   "Shadow Woman / Millcreek Traverse",
+   5.9
+  ],
+  [
+   "walk",
+   "Big Horn",
+   "Outback",
+   6.9
+  ],
+  [
+   "walk",
+   "Rainbow Road",
+   "Big Horn 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Outback",
+   "Big Horn 2",
+   6.9
+  ]
+ ],
+ "base": "Colter Lift bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Wyoming",
+  "total_lifts": "6",
+  "downhill_trails": "112",
+  "elevation_low_m": 2268.0,
+  "elevation_high_m": 3022.0,
+  "vertical_drop_m": 754.0,
+  "website": "https://www.grandtarghee.com/"
+ }
+}

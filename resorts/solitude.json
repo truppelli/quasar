@@ -1,0 +1,2365 @@
+{
+ "name": "Solitude Mountain Resort",
+ "source": "OpenSkiMap ski area b40e925163e2330550f940711b8571409fafb3a4",
+ "origin_lonlat": [
+  -111.60330185503513,
+  40.61526935021079
+ ],
+ "nodes": {
+  "Summit Express top": [
+   -272,
+   -1834,
+   3051.5
+  ],
+  "Tude-Dudes / Little Dollie": [
+   135,
+   359,
+   2613.9
+  ],
+  "Tude-Dudes / Home Run": [
+   256,
+   550,
+   2575.7
+  ],
+  "Wanderer / Sundancer": [
+   -139,
+   503,
+   2631.9
+  ],
+  "Wanderer / Stumble": [
+   -383,
+   777,
+   2637.7
+  ],
+  "Apex Express top": [
+   132,
+   -137,
+   2756.0
+  ],
+  "Wall Street / Fluid Drive": [
+   156,
+   224,
+   2631.4
+  ],
+  "Postcard / Hal's Hollow": [
+   71,
+   798,
+   2553.9
+  ],
+  "Eagle Express bottom": [
+   127,
+   1224,
+   2440.0
+  ],
+  "Sunrise top": [
+   700,
+   -649,
+   2749.6
+  ],
+  "Sunrise bottom": [
+   769,
+   285,
+   2505.9
+  ],
+  "Paradise / Eagle Ridge": [
+   -273,
+   -536,
+   2928.1
+  ],
+  "Paradise / Concord": [
+   -107,
+   -313,
+   2782.4
+  ],
+  "Liberty / Mine": [
+   -60,
+   -1570,
+   2931.3
+  ],
+  "Mine / Dynamite": [
+   -8,
+   -1290,
+   2843.1
+  ],
+  "Challanger / Eagle Ridge": [
+   -474,
+   345,
+   2778.5
+  ],
+  "Challanger / Honeycomb Return": [
+   -134,
+   1158,
+   2468.9
+  ],
+  "Powderhorn 2 top": [
+   -174,
+   -715,
+   2979.8
+  ],
+  "Challanger": [
+   -460,
+   387,
+   2775.9
+  ],
+  "Wanderer": [
+   -255,
+   653,
+   2621.2
+  ],
+  "Challanger 2": [
+   -456,
+   473,
+   2758.6
+  ],
+  "Broadway / Dynamite": [
+   30,
+   -1259,
+   2827.6
+  ],
+  "Broadway / Dynamite 2": [
+   404,
+   -1011,
+   2712.4
+  ],
+  "Eagle Ridge": [
+   -404,
+   -203,
+   2866.7
+  ],
+  "Paradise Lost / Last Run": [
+   -42,
+   5,
+   2674.8
+  ],
+  "Altabird / North Star": [
+   471,
+   -37,
+   2610.3
+  ],
+  "Wanderer 2": [
+   -327,
+   736,
+   2627.5
+  ],
+  "Grumble / Inspiration": [
+   23,
+   1078,
+   2478.0
+  ],
+  "Dean's Dash / Little Dollie": [
+   286,
+   393,
+   2595.8
+  ],
+  "Dean's Dash / Tude-Dudes": [
+   386,
+   589,
+   2555.8
+  ],
+  "Sunshine Bowl / Last Run": [
+   54,
+   394,
+   2619.3
+  ],
+  "Dean's Dash": [
+   334,
+   576,
+   2566.2
+  ],
+  "Tude-Dudes": [
+   451,
+   829,
+   2478.4
+  ],
+  "Zip-A-Dee / Summit Access East": [
+   541,
+   -833,
+   2721.5
+  ],
+  "Zip-A-Dee / Dynamite": [
+   421,
+   -808,
+   2678.5
+  ],
+  "Inspiration / Honeycomb Return": [
+   106,
+   1272,
+   2439.1
+  ],
+  "Eagle Ridge 2": [
+   -435,
+   -107,
+   2851.2
+  ],
+  "Rhapsody / Last Run": [
+   -44,
+   201,
+   2655.1
+  ],
+  "Roller Coaster": [
+   734,
+   -194,
+   2596.9
+  ],
+  "Wall Street": [
+   196,
+   -72,
+   2708.0
+  ],
+  "Blue Spruce / TBD": [
+   677,
+   317,
+   2510.9
+  ],
+  "Summit Access East / Dynamite": [
+   416,
+   -879,
+   2695.6
+  ],
+  "Hal's Hollow / Last Run": [
+   60,
+   601,
+   2591.8
+  ],
+  "Timberline": [
+   637,
+   -492,
+   2700.1
+  ],
+  "Wanderer 3": [
+   -298,
+   692,
+   2622.1
+  ],
+  "Diamond Lane": [
+   -45,
+   -380,
+   2817.6
+  ],
+  "Diamond Lane / Abba's Alley": [
+   -35,
+   -128,
+   2700.9
+  ],
+  "Eagle Ridge 3": [
+   -335,
+   -396,
+   2912.3
+  ],
+  "Last Run": [
+   424,
+   864,
+   2474.8
+  ],
+  "Eagle Ridge 4": [
+   -446,
+   -51,
+   2845.9
+  ],
+  "Gary's Glade / Olympia": [
+   -150,
+   258,
+   2664.1
+  ],
+  "Powderhorn 2 bottom": [
+   -40,
+   305,
+   2639.9
+  ],
+  "Serenity/F.I.S. / Honeycomb Return": [
+   -32,
+   1179,
+   2456.9
+  ],
+  "Last Run 2": [
+   370,
+   839,
+   2485.2
+  ],
+  "Challanger 3": [
+   -464,
+   534,
+   2733.8
+  ],
+  "Moonbeam Express top": [
+   7,
+   116,
+   2667.1
+  ],
+  "Little Dollie": [
+   491,
+   802,
+   2482.0
+  ],
+  "Apex Express bottom": [
+   779,
+   414,
+   2501.0
+  ],
+  "Stumble": [
+   -409,
+   598,
+   2700.7
+  ],
+  "Abba's Alley": [
+   111,
+   -192,
+   2759.4
+  ],
+  "Mine": [
+   -34,
+   -1416,
+   2874.5
+  ],
+  "Shaft / Dynamite": [
+   176,
+   -1249,
+   2765.3
+  ],
+  "North Star": [
+   542,
+   -324,
+   2669.5
+  ],
+  "South Star / Dynamite": [
+   423,
+   -154,
+   2625.0
+  ],
+  "Honeycomb Return bottom": [
+   -912,
+   373,
+   2588.5
+  ],
+  "Same Street / Easy Street": [
+   632,
+   548,
+   2505.1
+  ],
+  "Liberty": [
+   -256,
+   -1763,
+   3034.9
+  ],
+  "Dynamite": [
+   395,
+   -440,
+   2642.9
+  ],
+  "Hal's Hollow": [
+   72,
+   714,
+   2574.1
+  ],
+  "Postcard": [
+   239,
+   972,
+   2469.9
+  ],
+  "Timberline 2": [
+   653,
+   -667,
+   2742.1
+  ],
+  "Dynamite 2": [
+   391,
+   -368,
+   2642.9
+  ],
+  "Link top": [
+   631,
+   480,
+   2513.4
+  ],
+  "Link bottom": [
+   559,
+   857,
+   2469.6
+  ],
+  "Dynamite 3": [
+   -68,
+   -1742,
+   2955.8
+  ],
+  "Moonbeam Express bottom": [
+   424,
+   917,
+   2469.6
+  ],
+  "Unnamed lift top": [
+   618,
+   831,
+   2472.3
+  ],
+  "Honeycomb Return top": [
+   -515,
+   310,
+   2785.1
+  ],
+  "Summit Express bottom": [
+   340,
+   -501,
+   2644.8
+  ],
+  "Eagle Express top": [
+   -460,
+   4,
+   2841.3
+  ]
+ },
+ "lifts": [
+  [
+   "Moonbeam Express",
+   "Moonbeam Express bottom",
+   "Moonbeam Express top",
+   6.1
+  ],
+  [
+   "Link",
+   "Link bottom",
+   "Link top",
+   5.7
+  ],
+  [
+   "Unnamed lift",
+   "Link bottom",
+   "Unnamed lift top",
+   3.9
+  ],
+  [
+   "Sunrise",
+   "Sunrise bottom",
+   "Sunrise top",
+   10.2
+  ],
+  [
+   "Apex Express",
+   "Apex Express bottom",
+   "Apex Express top",
+   6.0
+  ],
+  [
+   "Honeycomb Return",
+   "Honeycomb Return bottom",
+   "Honeycomb Return top",
+   6.2
+  ],
+  [
+   "Summit Express",
+   "Summit Express bottom",
+   "Summit Express top",
+   8.1
+  ],
+  [
+   "Eagle Express",
+   "Eagle Express bottom",
+   "Eagle Express top",
+   7.8
+  ],
+  [
+   "Powderhorn 2",
+   "Powderhorn 2 bottom",
+   "Powderhorn 2 top",
+   10.7
+  ]
+ ],
+ "runs": [
+  [
+   "Tude-Dudes",
+   "Tude-Dudes / Little Dollie",
+   "Tude-Dudes / Home Run",
+   0.8
+  ],
+  [
+   "Wanderer",
+   "Wanderer / Sundancer",
+   "Wanderer",
+   0.8
+  ],
+  [
+   "Wanderer",
+   "Wanderer",
+   "Wanderer 3",
+   0.5
+  ],
+  [
+   "Wanderer",
+   "Wanderer 3",
+   "Wanderer 2",
+   0.5
+  ],
+  [
+   "Wanderer",
+   "Wanderer 2",
+   "Wanderer / Stumble",
+   0.5
+  ],
+  [
+   "Wall Street",
+   "Apex Express top",
+   "Wall Street",
+   0.5
+  ],
+  [
+   "Wall Street",
+   "Wall Street",
+   "Wall Street / Fluid Drive",
+   1.2
+  ],
+  [
+   "Postcard",
+   "Postcard / Hal's Hollow",
+   "Postcard",
+   1.0
+  ],
+  [
+   "Postcard",
+   "Postcard",
+   "Eagle Express bottom",
+   1.2
+  ],
+  [
+   "Roller Coaster",
+   "Sunrise top",
+   "Roller Coaster",
+   1.9
+  ],
+  [
+   "Roller Coaster",
+   "Roller Coaster",
+   "Sunrise bottom",
+   2.0
+  ],
+  [
+   "Paradise",
+   "Paradise / Eagle Ridge",
+   "Paradise / Concord",
+   1.2
+  ],
+  [
+   "Liberty",
+   "Summit Express top",
+   "Liberty",
+   0.5
+  ],
+  [
+   "Liberty",
+   "Liberty",
+   "Liberty / Mine",
+   1.3
+  ],
+  [
+   "Mine",
+   "Liberty / Mine",
+   "Mine",
+   0.6
+  ],
+  [
+   "Mine",
+   "Mine",
+   "Mine / Dynamite",
+   0.5
+  ],
+  [
+   "Challanger",
+   "Challanger / Eagle Ridge",
+   "Challanger",
+   0.5
+  ],
+  [
+   "Challanger",
+   "Challanger",
+   "Challanger 2",
+   0.5
+  ],
+  [
+   "Challanger",
+   "Challanger 2",
+   "Challanger 3",
+   0.5
+  ],
+  [
+   "Challanger",
+   "Challanger 3",
+   "Challanger / Honeycomb Return",
+   3.4
+  ],
+  [
+   "Eagle Ridge",
+   "Powderhorn 2 top",
+   "Paradise / Eagle Ridge",
+   0.7
+  ],
+  [
+   "Eagle Ridge",
+   "Paradise / Eagle Ridge",
+   "Eagle Ridge 3",
+   0.6
+  ],
+  [
+   "Eagle Ridge",
+   "Eagle Ridge 3",
+   "Eagle Ridge",
+   0.9
+  ],
+  [
+   "Eagle Ridge",
+   "Eagle Ridge",
+   "Eagle Ridge 2",
+   0.5
+  ],
+  [
+   "Eagle Ridge",
+   "Eagle Ridge 2",
+   "Eagle Ridge 4",
+   0.5
+  ],
+  [
+   "Eagle Ridge",
+   "Eagle Ridge 4",
+   "Eagle Express top",
+   0.5
+  ],
+  [
+   "Eagle Ridge",
+   "Eagle Express top",
+   "Honeycomb Return top",
+   1.3
+  ],
+  [
+   "Eagle Ridge",
+   "Honeycomb Return top",
+   "Challanger / Eagle Ridge",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Challanger",
+   "Wanderer",
+   1.5
+  ],
+  [
+   "Stumble",
+   "Challanger 2",
+   "Challanger 3",
+   0.5
+  ],
+  [
+   "Stumble",
+   "Challanger 3",
+   "Stumble",
+   0.5
+  ],
+  [
+   "Stumble",
+   "Stumble",
+   "Wanderer 2",
+   0.8
+  ],
+  [
+   "Stumble",
+   "Wanderer 2",
+   "Wanderer / Stumble",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Broadway / Dynamite",
+   "Broadway / Dynamite 2",
+   1.8
+  ],
+  [
+   "Paradise Lost",
+   "Eagle Ridge",
+   "Paradise Lost / Last Run",
+   1.8
+  ],
+  [
+   "Altabird",
+   "Apex Express top",
+   "Altabird / North Star",
+   1.7
+  ],
+  [
+   "Grumble",
+   "Wanderer 2",
+   "Grumble / Inspiration",
+   2.1
+  ],
+  [
+   "Dean's Dash",
+   "Dean's Dash / Little Dollie",
+   "Dean's Dash",
+   0.7
+  ],
+  [
+   "Dean's Dash",
+   "Dean's Dash",
+   "Dean's Dash / Tude-Dudes",
+   0.5
+  ],
+  [
+   "Sunshine Bowl",
+   "Challanger / Eagle Ridge",
+   "Sunshine Bowl / Last Run",
+   2.3
+  ],
+  [
+   "Tude-Dudes",
+   "Dean's Dash",
+   "Dean's Dash / Tude-Dudes",
+   0.5
+  ],
+  [
+   "Tude-Dudes",
+   "Dean's Dash / Tude-Dudes",
+   "Tude-Dudes",
+   1.0
+  ],
+  [
+   "Zip-A-Dee",
+   "Zip-A-Dee / Summit Access East",
+   "Zip-A-Dee / Dynamite",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Wanderer",
+   "Grumble / Inspiration",
+   2.2
+  ],
+  [
+   "Inspiration",
+   "Grumble / Inspiration",
+   "Eagle Express bottom",
+   0.8
+  ],
+  [
+   "Inspiration",
+   "Eagle Express bottom",
+   "Inspiration / Honeycomb Return",
+   0.5
+  ],
+  [
+   "Rhapsody",
+   "Eagle Ridge 2",
+   "Rhapsody / Last Run",
+   2.2
+  ],
+  [
+   "Timberline",
+   "Sunrise top",
+   "Timberline 2",
+   0.5
+  ],
+  [
+   "Timberline",
+   "Timberline 2",
+   "Timberline",
+   0.6
+  ],
+  [
+   "Timberline",
+   "Timberline",
+   "Roller Coaster",
+   1.6
+  ],
+  [
+   "Blue Spruce",
+   "Wall Street",
+   "Blue Spruce / TBD",
+   2.7
+  ],
+  [
+   "Summit Access East",
+   "Sunrise top",
+   "Timberline 2",
+   0.5
+  ],
+  [
+   "Summit Access East",
+   "Timberline 2",
+   "Zip-A-Dee / Summit Access East",
+   0.7
+  ],
+  [
+   "Summit Access East",
+   "Zip-A-Dee / Summit Access East",
+   "Summit Access East / Dynamite",
+   0.7
+  ],
+  [
+   "Hal's Hollow",
+   "Hal's Hollow / Last Run",
+   "Hal's Hollow",
+   0.5
+  ],
+  [
+   "Hal's Hollow",
+   "Hal's Hollow",
+   "Postcard / Hal's Hollow",
+   0.5
+  ],
+  [
+   "Hal's Hollow",
+   "Postcard / Hal's Hollow",
+   "Eagle Express bottom",
+   1.9
+  ],
+  [
+   "North Star",
+   "Timberline",
+   "North Star",
+   0.8
+  ],
+  [
+   "North Star",
+   "North Star",
+   "Altabird / North Star",
+   1.3
+  ],
+  [
+   "North Star",
+   "Altabird / North Star",
+   "Sunrise bottom",
+   1.9
+  ],
+  [
+   "Rumble",
+   "Challanger 2",
+   "Wanderer 3",
+   1.3
+  ],
+  [
+   "Diamond Lane",
+   "Diamond Lane",
+   "Diamond Lane / Abba's Alley",
+   1.0
+  ],
+  [
+   "Abba's Alley",
+   "Apex Express top",
+   "Abba's Alley",
+   0.5
+  ],
+  [
+   "Abba's Alley",
+   "Abba's Alley",
+   "Diamond Lane / Abba's Alley",
+   0.6
+  ],
+  [
+   "Rumble",
+   "Wanderer 3",
+   "Grumble / Inspiration",
+   2.1
+  ],
+  [
+   "Stumble",
+   "Wanderer / Stumble",
+   "Grumble / Inspiration",
+   2.2
+  ],
+  [
+   "Vertigo",
+   "Eagle Ridge 3",
+   "Diamond Lane / Abba's Alley",
+   1.8
+  ],
+  [
+   "Last Run",
+   "Diamond Lane / Abba's Alley",
+   "Paradise Lost / Last Run",
+   0.5
+  ],
+  [
+   "Last Run",
+   "Paradise Lost / Last Run",
+   "Moonbeam Express top",
+   0.6
+  ],
+  [
+   "Last Run",
+   "Moonbeam Express top",
+   "Rhapsody / Last Run",
+   0.5
+  ],
+  [
+   "Last Run",
+   "Rhapsody / Last Run",
+   "Powderhorn 2 bottom",
+   0.5
+  ],
+  [
+   "Last Run",
+   "Powderhorn 2 bottom",
+   "Sunshine Bowl / Last Run",
+   0.6
+  ],
+  [
+   "Last Run",
+   "Sunshine Bowl / Last Run",
+   "Hal's Hollow / Last Run",
+   0.9
+  ],
+  [
+   "Last Run",
+   "Hal's Hollow / Last Run",
+   "Last Run 2",
+   1.7
+  ],
+  [
+   "Last Run",
+   "Last Run 2",
+   "Last Run",
+   0.5
+  ],
+  [
+   "Gary's Glade",
+   "Eagle Ridge 4",
+   "Gary's Glade / Olympia",
+   2.0
+  ],
+  [
+   "Olympia",
+   "Eagle Ridge 4",
+   "Eagle Express top",
+   0.5
+  ],
+  [
+   "Olympia",
+   "Eagle Express top",
+   "Gary's Glade / Olympia",
+   1.7
+  ],
+  [
+   "Olympia",
+   "Gary's Glade / Olympia",
+   "Powderhorn 2 bottom",
+   0.6
+  ],
+  [
+   "Serenity/F.I.S.",
+   "Wanderer / Stumble",
+   "Serenity/F.I.S. / Honeycomb Return",
+   2.2
+  ],
+  [
+   "Home Run",
+   "Tude-Dudes / Home Run",
+   "Dean's Dash",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Dean's Dash",
+   "Last Run 2",
+   1.1
+  ],
+  [
+   "Serenity/F.I.S.",
+   "Challanger 3",
+   "Stumble",
+   0.5
+  ],
+  [
+   "Serenity/F.I.S.",
+   "Stumble",
+   "Wanderer / Stumble",
+   0.8
+  ],
+  [
+   "Little Dollie",
+   "Moonbeam Express top",
+   "Rhapsody / Last Run",
+   0.5
+  ],
+  [
+   "Little Dollie",
+   "Rhapsody / Last Run",
+   "Tude-Dudes / Little Dollie",
+   0.9
+  ],
+  [
+   "Little Dollie",
+   "Tude-Dudes / Little Dollie",
+   "Dean's Dash / Little Dollie",
+   0.7
+  ],
+  [
+   "Little Dollie",
+   "Dean's Dash / Little Dollie",
+   "Little Dollie",
+   2.2
+  ],
+  [
+   "Fluid Drive",
+   "Apex Express top",
+   "Wall Street / Fluid Drive",
+   1.6
+  ],
+  [
+   "TBD",
+   "Apex Express top",
+   "Wall Street",
+   0.5
+  ],
+  [
+   "TBD",
+   "Wall Street",
+   "Blue Spruce / TBD",
+   2.7
+  ],
+  [
+   "TBD",
+   "Blue Spruce / TBD",
+   "Apex Express bottom",
+   0.6
+  ],
+  [
+   "Grumble",
+   "Stumble",
+   "Wanderer 2",
+   0.6
+  ],
+  [
+   "Main Street",
+   "Wall Street / Fluid Drive",
+   "Apex Express bottom",
+   2.7
+  ],
+  [
+   "Diamond Lane",
+   "Powderhorn 2 top",
+   "Diamond Lane",
+   1.5
+  ],
+  [
+   "Diamond Lane",
+   "Diamond Lane",
+   "Abba's Alley",
+   1.1
+  ],
+  [
+   "Shaft",
+   "Mine",
+   "Shaft / Dynamite",
+   1.1
+  ],
+  [
+   "South Star",
+   "North Star",
+   "South Star / Dynamite",
+   0.8
+  ],
+  [
+   "Sundancer",
+   "Challanger / Eagle Ridge",
+   "Challanger",
+   0.5
+  ],
+  [
+   "Sundancer",
+   "Challanger",
+   "Wanderer / Sundancer",
+   1.4
+  ],
+  [
+   "Sundancer",
+   "Wanderer / Sundancer",
+   "Eagle Express bottom",
+   3.5
+  ],
+  [
+   "Wood Lawn",
+   "Summit Express top",
+   "Honeycomb Return bottom",
+   10.3
+  ],
+  [
+   "Same Street",
+   "Moonbeam Express top",
+   "Rhapsody / Last Run",
+   0.5
+  ],
+  [
+   "Same Street",
+   "Rhapsody / Last Run",
+   "Powderhorn 2 bottom",
+   0.5
+  ],
+  [
+   "Same Street",
+   "Powderhorn 2 bottom",
+   "Sunshine Bowl / Last Run",
+   0.5
+  ],
+  [
+   "Same Street",
+   "Sunshine Bowl / Last Run",
+   "Tude-Dudes / Home Run",
+   1.1
+  ],
+  [
+   "Same Street",
+   "Tude-Dudes / Home Run",
+   "Dean's Dash",
+   0.5
+  ],
+  [
+   "Same Street",
+   "Dean's Dash",
+   "Dean's Dash / Tude-Dudes",
+   0.5
+  ],
+  [
+   "Same Street",
+   "Dean's Dash / Tude-Dudes",
+   "Same Street / Easy Street",
+   1.1
+  ],
+  [
+   "Sensation",
+   "North Star",
+   "Sunrise bottom",
+   2.6
+  ],
+  [
+   "Dynamite",
+   "Liberty",
+   "Dynamite 3",
+   1.0
+  ],
+  [
+   "Dynamite",
+   "Dynamite 3",
+   "Liberty / Mine",
+   0.7
+  ],
+  [
+   "Dynamite",
+   "Liberty / Mine",
+   "Mine / Dynamite",
+   1.4
+  ],
+  [
+   "Dynamite",
+   "Mine / Dynamite",
+   "Broadway / Dynamite",
+   0.5
+  ],
+  [
+   "Dynamite",
+   "Broadway / Dynamite",
+   "Shaft / Dynamite",
+   0.5
+  ],
+  [
+   "Dynamite",
+   "Shaft / Dynamite",
+   "Broadway / Dynamite 2",
+   1.4
+  ],
+  [
+   "Dynamite",
+   "Broadway / Dynamite 2",
+   "Summit Access East / Dynamite",
+   0.5
+  ],
+  [
+   "Dynamite",
+   "Summit Access East / Dynamite",
+   "Zip-A-Dee / Dynamite",
+   0.5
+  ],
+  [
+   "Dynamite",
+   "Zip-A-Dee / Dynamite",
+   "Dynamite",
+   1.5
+  ],
+  [
+   "Dynamite",
+   "Dynamite",
+   "Dynamite 2",
+   0.5
+  ],
+  [
+   "Dynamite",
+   "Dynamite 2",
+   "South Star / Dynamite",
+   0.9
+  ],
+  [
+   "Dynamite",
+   "South Star / Dynamite",
+   "Altabird / North Star",
+   0.5
+  ],
+  [
+   "Dynamite",
+   "Altabird / North Star",
+   "Sunrise bottom",
+   2.0
+  ],
+  [
+   "Concord",
+   "Powderhorn 2 top",
+   "Paradise / Concord",
+   1.8
+  ],
+  [
+   "Concord",
+   "Paradise / Concord",
+   "Diamond Lane / Abba's Alley",
+   0.9
+  ],
+  [
+   "Summit Access West",
+   "Abba's Alley",
+   "Dynamite",
+   1.7
+  ],
+  [
+   "Shady Lane",
+   "Hal's Hollow",
+   "Postcard",
+   1.3
+  ],
+  [
+   "Honeycomb Return",
+   "Honeycomb Return bottom",
+   "Challanger / Honeycomb Return",
+   5.5
+  ],
+  [
+   "Honeycomb Return",
+   "Challanger / Honeycomb Return",
+   "Serenity/F.I.S. / Honeycomb Return",
+   0.5
+  ],
+  [
+   "Honeycomb Return",
+   "Serenity/F.I.S. / Honeycomb Return",
+   "Inspiration / Honeycomb Return",
+   0.8
+  ],
+  [
+   "Polaris",
+   "Timberline 2",
+   "Dynamite 2",
+   1.7
+  ],
+  [
+   "Easy Street",
+   "Link top",
+   "Same Street / Easy Street",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Same Street / Easy Street",
+   "Link bottom",
+   1.4
+  ],
+  [
+   "Fleet Street",
+   "Apex Express top",
+   "Moonbeam Express top",
+   1.2
+  ],
+  [
+   "Fleet Street",
+   "Moonbeam Express top",
+   "Rhapsody / Last Run",
+   0.5
+  ],
+  [
+   "Front Door",
+   "Liberty",
+   "Dynamite 3",
+   0.7
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Summit Express top",
+   "Liberty",
+   1.0
+  ],
+  [
+   "walk",
+   "Summit Express top",
+   "Dynamite 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Wanderer / Sundancer",
+   "Powderhorn 2 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Apex Express top",
+   "Paradise Lost / Last Run",
+   3.1
+  ],
+  [
+   "walk",
+   "Apex Express top",
+   "Wall Street",
+   1.3
+  ],
+  [
+   "walk",
+   "Apex Express top",
+   "Diamond Lane / Abba's Alley",
+   2.3
+  ],
+  [
+   "walk",
+   "Apex Express top",
+   "Abba's Alley",
+   0.8
+  ],
+  [
+   "walk",
+   "Wall Street / Fluid Drive",
+   "Powderhorn 2 bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Eagle Express bottom",
+   "Inspiration / Honeycomb Return",
+   0.7
+  ],
+  [
+   "walk",
+   "Sunrise top",
+   "Zip-A-Dee / Summit Access East",
+   3.4
+  ],
+  [
+   "walk",
+   "Sunrise top",
+   "Timberline",
+   2.3
+  ],
+  [
+   "walk",
+   "Sunrise top",
+   "Timberline 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Sunrise bottom",
+   "Blue Spruce / TBD",
+   1.3
+  ],
+  [
+   "walk",
+   "Sunrise bottom",
+   "Apex Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Sunrise bottom",
+   "Link top",
+   3.3
+  ],
+  [
+   "walk",
+   "Challanger / Eagle Ridge",
+   "Honeycomb Return top",
+   0.8
+  ],
+  [
+   "walk",
+   "Powderhorn 2 top",
+   "Paradise / Eagle Ridge",
+   2.8
+  ],
+  [
+   "walk",
+   "Challanger",
+   "Honeycomb Return top",
+   1.3
+  ],
+  [
+   "walk",
+   "Eagle Ridge",
+   "Eagle Express top",
+   3.0
+  ],
+  [
+   "walk",
+   "Paradise Lost / Last Run",
+   "Moonbeam Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Grumble / Inspiration",
+   "Eagle Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Tude-Dudes",
+   "Last Run",
+   0.6
+  ],
+  [
+   "walk",
+   "Tude-Dudes",
+   "Last Run 2",
+   1.1
+  ],
+  [
+   "walk",
+   "Tude-Dudes",
+   "Little Dollie",
+   0.7
+  ],
+  [
+   "walk",
+   "Tude-Dudes",
+   "Link bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Tude-Dudes",
+   "Moonbeam Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Tude-Dudes",
+   "Unnamed lift top",
+   2.3
+  ],
+  [
+   "walk",
+   "Inspiration / Honeycomb Return",
+   "Eagle Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Eagle Ridge 2",
+   "Eagle Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Rhapsody / Last Run",
+   "Powderhorn 2 bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Rhapsody / Last Run",
+   "Moonbeam Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Blue Spruce / TBD",
+   "Sunrise bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Blue Spruce / TBD",
+   "Apex Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Blue Spruce / TBD",
+   "Link top",
+   2.4
+  ],
+  [
+   "walk",
+   "Diamond Lane / Abba's Alley",
+   "Moonbeam Express top",
+   3.4
+  ],
+  [
+   "walk",
+   "Last Run",
+   "Tude-Dudes",
+   0.6
+  ],
+  [
+   "walk",
+   "Last Run",
+   "Last Run 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Last Run",
+   "Little Dollie",
+   1.3
+  ],
+  [
+   "walk",
+   "Last Run",
+   "Postcard",
+   3.0
+  ],
+  [
+   "walk",
+   "Last Run",
+   "Link bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Last Run",
+   "Moonbeam Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Last Run",
+   "Unnamed lift top",
+   2.7
+  ],
+  [
+   "walk",
+   "Eagle Ridge 4",
+   "Eagle Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Gary's Glade / Olympia",
+   "Powderhorn 2 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Gary's Glade / Olympia",
+   "Moonbeam Express top",
+   2.9
+  ],
+  [
+   "walk",
+   "Powderhorn 2 bottom",
+   "Tude-Dudes / Little Dollie",
+   2.5
+  ],
+  [
+   "walk",
+   "Powderhorn 2 bottom",
+   "Wanderer / Sundancer",
+   3.1
+  ],
+  [
+   "walk",
+   "Powderhorn 2 bottom",
+   "Wall Street / Fluid Drive",
+   2.9
+  ],
+  [
+   "walk",
+   "Powderhorn 2 bottom",
+   "Sunshine Bowl / Last Run",
+   1.8
+  ],
+  [
+   "walk",
+   "Serenity/F.I.S. / Honeycomb Return",
+   "Eagle Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Last Run 2",
+   "Link bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Last Run 2",
+   "Moonbeam Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Last Run 2",
+   "Unnamed lift top",
+   3.4
+  ],
+  [
+   "walk",
+   "Moonbeam Express top",
+   "Wall Street / Fluid Drive",
+   2.6
+  ],
+  [
+   "walk",
+   "Moonbeam Express top",
+   "Paradise Lost / Last Run",
+   1.7
+  ],
+  [
+   "walk",
+   "Moonbeam Express top",
+   "Rhapsody / Last Run",
+   1.4
+  ],
+  [
+   "walk",
+   "Moonbeam Express top",
+   "Gary's Glade / Olympia",
+   2.9
+  ],
+  [
+   "walk",
+   "Moonbeam Express top",
+   "Powderhorn 2 bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Little Dollie",
+   "Tude-Dudes",
+   0.7
+  ],
+  [
+   "walk",
+   "Little Dollie",
+   "Last Run",
+   1.3
+  ],
+  [
+   "walk",
+   "Little Dollie",
+   "Last Run 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Little Dollie",
+   "Link bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Little Dollie",
+   "Moonbeam Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Little Dollie",
+   "Unnamed lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "Apex Express bottom",
+   "Sunrise bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Apex Express bottom",
+   "Blue Spruce / TBD",
+   1.9
+  ],
+  [
+   "walk",
+   "Apex Express bottom",
+   "Same Street / Easy Street",
+   2.8
+  ],
+  [
+   "walk",
+   "Apex Express bottom",
+   "Link top",
+   2.2
+  ],
+  [
+   "walk",
+   "Abba's Alley",
+   "Apex Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Same Street / Easy Street",
+   "Apex Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Same Street / Easy Street",
+   "Link top",
+   0.9
+  ],
+  [
+   "walk",
+   "Dynamite",
+   "Summit Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Postcard",
+   "Moonbeam Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Timberline 2",
+   "Sunrise top",
+   0.7
+  ],
+  [
+   "walk",
+   "Dynamite 2",
+   "Summit Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Link top",
+   "Sunrise bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Link top",
+   "Blue Spruce / TBD",
+   2.4
+  ],
+  [
+   "walk",
+   "Link top",
+   "Apex Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Link top",
+   "Same Street / Easy Street",
+   0.9
+  ],
+  [
+   "walk",
+   "Link bottom",
+   "Tude-Dudes",
+   1.6
+  ],
+  [
+   "walk",
+   "Link bottom",
+   "Last Run",
+   1.9
+  ],
+  [
+   "walk",
+   "Link bottom",
+   "Little Dollie",
+   1.2
+  ],
+  [
+   "walk",
+   "Link bottom",
+   "Moonbeam Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Link bottom",
+   "Unnamed lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Moonbeam Express bottom",
+   "Tude-Dudes",
+   1.3
+  ],
+  [
+   "walk",
+   "Moonbeam Express bottom",
+   "Last Run",
+   0.7
+  ],
+  [
+   "walk",
+   "Moonbeam Express bottom",
+   "Little Dollie",
+   1.8
+  ],
+  [
+   "walk",
+   "Moonbeam Express bottom",
+   "Postcard",
+   2.7
+  ],
+  [
+   "walk",
+   "Moonbeam Express bottom",
+   "Link bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Moonbeam Express bottom",
+   "Unnamed lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Tude-Dudes",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Last Run",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Last Run 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Little Dollie",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Link bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Moonbeam Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Honeycomb Return top",
+   "Challanger / Eagle Ridge",
+   0.8
+  ],
+  [
+   "walk",
+   "Honeycomb Return top",
+   "Challanger",
+   1.3
+  ],
+  [
+   "walk",
+   "Honeycomb Return top",
+   "Challanger 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Honeycomb Return top",
+   "Challanger 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Summit Express bottom",
+   "Dynamite",
+   1.1
+  ],
+  [
+   "walk",
+   "Summit Express bottom",
+   "Dynamite 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Eagle Express top",
+   "Eagle Ridge 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Eagle Express top",
+   "Eagle Ridge 4",
+   0.8
+  ],
+  [
+   "walk",
+   "Abba's Alley",
+   "Paradise Lost / Last Run",
+   3.9
+  ],
+  [
+   "walk",
+   "Abba's Alley",
+   "Wall Street",
+   2.1
+  ],
+  [
+   "walk",
+   "Abba's Alley",
+   "Diamond Lane / Abba's Alley",
+   3.1
+  ],
+  [
+   "walk",
+   "Grumble / Inspiration",
+   "Inspiration / Honeycomb Return",
+   3.2
+  ],
+  [
+   "walk",
+   "Serenity/F.I.S. / Honeycomb Return",
+   "Inspiration / Honeycomb Return",
+   3.0
+  ],
+  [
+   "walk",
+   "Timberline 2",
+   "Zip-A-Dee / Summit Access East",
+   4.1
+  ],
+  [
+   "walk",
+   "Timberline 2",
+   "Timberline",
+   3.1
+  ],
+  [
+   "walk",
+   "Apex Express top",
+   "Moonbeam Express top",
+   4.8
+  ],
+  [
+   "walk",
+   "Abba's Alley",
+   "Moonbeam Express top",
+   5.6
+  ],
+  [
+   "walk",
+   "Link bottom",
+   "Last Run 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Moonbeam Express bottom",
+   "Last Run 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Tude-Dudes",
+   "Postcard",
+   3.6
+  ],
+  [
+   "walk",
+   "Little Dollie",
+   "Postcard",
+   4.2
+  ],
+  [
+   "walk",
+   "Link bottom",
+   "Postcard",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Postcard",
+   5.6
+  ],
+  [
+   "walk",
+   "Wanderer / Sundancer",
+   "Tude-Dudes / Little Dollie",
+   5.6
+  ],
+  [
+   "walk",
+   "Wanderer / Sundancer",
+   "Wall Street / Fluid Drive",
+   6.0
+  ],
+  [
+   "walk",
+   "Wanderer / Sundancer",
+   "Sunshine Bowl / Last Run",
+   4.9
+  ],
+  [
+   "walk",
+   "Wall Street / Fluid Drive",
+   "Tude-Dudes / Little Dollie",
+   5.5
+  ],
+  [
+   "walk",
+   "Wall Street / Fluid Drive",
+   "Wanderer / Sundancer",
+   6.0
+  ],
+  [
+   "walk",
+   "Wall Street / Fluid Drive",
+   "Sunshine Bowl / Last Run",
+   4.7
+  ],
+  [
+   "walk",
+   "Rhapsody / Last Run",
+   "Tude-Dudes / Little Dollie",
+   4.0
+  ],
+  [
+   "walk",
+   "Rhapsody / Last Run",
+   "Wanderer / Sundancer",
+   4.5
+  ],
+  [
+   "walk",
+   "Rhapsody / Last Run",
+   "Wall Street / Fluid Drive",
+   3.9
+  ],
+  [
+   "walk",
+   "Rhapsody / Last Run",
+   "Sunshine Bowl / Last Run",
+   3.2
+  ],
+  [
+   "walk",
+   "Gary's Glade / Olympia",
+   "Tude-Dudes / Little Dollie",
+   4.2
+  ],
+  [
+   "walk",
+   "Gary's Glade / Olympia",
+   "Wanderer / Sundancer",
+   4.7
+  ],
+  [
+   "walk",
+   "Gary's Glade / Olympia",
+   "Wall Street / Fluid Drive",
+   4.6
+  ],
+  [
+   "walk",
+   "Gary's Glade / Olympia",
+   "Sunshine Bowl / Last Run",
+   3.5
+  ],
+  [
+   "walk",
+   "Moonbeam Express top",
+   "Tude-Dudes / Little Dollie",
+   5.2
+  ],
+  [
+   "walk",
+   "Moonbeam Express top",
+   "Wanderer / Sundancer",
+   5.8
+  ],
+  [
+   "walk",
+   "Moonbeam Express top",
+   "Sunshine Bowl / Last Run",
+   4.5
+  ],
+  [
+   "walk",
+   "Paradise Lost / Last Run",
+   "Wall Street / Fluid Drive",
+   4.2
+  ],
+  [
+   "walk",
+   "Paradise Lost / Last Run",
+   "Rhapsody / Last Run",
+   3.1
+  ],
+  [
+   "walk",
+   "Paradise Lost / Last Run",
+   "Gary's Glade / Olympia",
+   4.6
+  ],
+  [
+   "walk",
+   "Paradise Lost / Last Run",
+   "Powderhorn 2 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Paradise Lost / Last Run",
+   "Tude-Dudes / Little Dollie",
+   6.9
+  ],
+  [
+   "walk",
+   "Paradise Lost / Last Run",
+   "Sunshine Bowl / Last Run",
+   6.2
+  ],
+  [
+   "walk",
+   "Rhapsody / Last Run",
+   "Paradise Lost / Last Run",
+   3.1
+  ],
+  [
+   "walk",
+   "Rhapsody / Last Run",
+   "Gary's Glade / Olympia",
+   4.3
+  ],
+  [
+   "walk",
+   "Diamond Lane / Abba's Alley",
+   "Wall Street / Fluid Drive",
+   6.0
+  ],
+  [
+   "walk",
+   "Diamond Lane / Abba's Alley",
+   "Paradise Lost / Last Run",
+   5.1
+  ],
+  [
+   "walk",
+   "Diamond Lane / Abba's Alley",
+   "Rhapsody / Last Run",
+   4.8
+  ],
+  [
+   "walk",
+   "Diamond Lane / Abba's Alley",
+   "Gary's Glade / Olympia",
+   6.4
+  ],
+  [
+   "walk",
+   "Diamond Lane / Abba's Alley",
+   "Powderhorn 2 bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Gary's Glade / Olympia",
+   "Paradise Lost / Last Run",
+   4.6
+  ],
+  [
+   "walk",
+   "Gary's Glade / Olympia",
+   "Rhapsody / Last Run",
+   4.3
+  ],
+  [
+   "walk",
+   "Apex Express top",
+   "Rhapsody / Last Run",
+   6.2
+  ],
+  [
+   "walk",
+   "Sunrise bottom",
+   "Same Street / Easy Street",
+   4.3
+  ],
+  [
+   "walk",
+   "Blue Spruce / TBD",
+   "Same Street / Easy Street",
+   3.3
+  ],
+  [
+   "walk",
+   "Same Street / Easy Street",
+   "Sunrise bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Same Street / Easy Street",
+   "Blue Spruce / TBD",
+   3.3
+  ],
+  [
+   "walk",
+   "Last Run 2",
+   "Tude-Dudes",
+   2.6
+  ],
+  [
+   "walk",
+   "Last Run 2",
+   "Last Run",
+   2.1
+  ],
+  [
+   "walk",
+   "Last Run 2",
+   "Little Dollie",
+   3.2
+  ],
+  [
+   "walk",
+   "Last Run 2",
+   "Postcard",
+   4.0
+  ],
+  [
+   "walk",
+   "Postcard",
+   "Tude-Dudes",
+   4.0
+  ],
+  [
+   "walk",
+   "Postcard",
+   "Last Run",
+   3.4
+  ],
+  [
+   "walk",
+   "Postcard",
+   "Little Dollie",
+   4.5
+  ],
+  [
+   "walk",
+   "Postcard",
+   "Link bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Postcard",
+   "Unnamed lift top",
+   5.6
+  ],
+  [
+   "walk",
+   "Postcard",
+   "Last Run 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Challanger / Eagle Ridge",
+   "Challanger",
+   2.1
+  ],
+  [
+   "walk",
+   "Challanger / Eagle Ridge",
+   "Challanger 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Challanger / Eagle Ridge",
+   "Challanger 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Challanger",
+   "Challanger / Eagle Ridge",
+   2.1
+  ],
+  [
+   "walk",
+   "Challanger",
+   "Challanger 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Challanger",
+   "Challanger 3",
+   4.5
+  ],
+  [
+   "walk",
+   "Dynamite",
+   "Dynamite 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Dynamite 2",
+   "Dynamite",
+   3.1
+  ],
+  [
+   "walk",
+   "Eagle Ridge",
+   "Eagle Ridge 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Eagle Ridge",
+   "Eagle Ridge 4",
+   3.8
+  ],
+  [
+   "walk",
+   "Eagle Ridge 2",
+   "Eagle Ridge 4",
+   2.4
+  ],
+  [
+   "walk",
+   "Eagle Ridge 4",
+   "Eagle Ridge 2",
+   2.4
+  ]
+ ],
+ "base": "Eagle Express bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Utah",
+  "total_lifts": "9",
+  "downhill_trails": "110",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

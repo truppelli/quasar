@@ -1,7 +1,7 @@
 """Build QUASAR resort graphs from the raw datasets in data/ (gitignored, ~1 GB).
 
     python datasets.py "Crystal Mountain" --region Washington    -> resorts/crystal-mountain-washington.json
-    python datasets.py --top-us                                  -> the 3D map's 20 resorts, same slugs (resorts/vail.json)
+    python datasets.py --top-us                                  -> the 3D map's 50 resorts, same slugs (resorts/vail.json)
 
 OpenSkiMap (data/openskidata) gives the routing graph: 3D run and lift lines tagged with their ski area.
 Global Ski Atlas (data/global-ski-atlas) gives catalogue stats (lift/trail counts, website) stored as "info" and,
@@ -281,7 +281,7 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("name", nargs="?", help="ski area name exactly as in OpenSkiMap")
     ap.add_argument("--region", help="region or country to disambiguate, e.g. Washington")
-    ap.add_argument("--top-us", action="store_true", help="build the 3D map's 20 resorts (extract.TOP_US slugs)")
+    ap.add_argument("--top-us", action="store_true", help="build the 3D map's 50 resorts (extract.TOP_US slugs)")
     a = ap.parse_args()
 
     if a.top_us:

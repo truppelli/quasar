@@ -1,0 +1,3617 @@
+{
+ "name": "Loon Mountain Resort",
+ "source": "OpenSkiMap ski area 84db66751dfc13969441d94cb66617193fe7407d",
+ "origin_lonlat": [
+  -71.63530565308204,
+  44.04471044526247
+ ],
+ "nodes": {
+  "Rolling Bear / Bear Pause": [
+   694,
+   155,
+   528.2
+  ],
+  "Rolling Bear / Brookway": [
+   920,
+   228,
+   457.4
+  ],
+  "White Mountain Express top": [
+   621,
+   -778,
+   834.0
+  ],
+  "Exodus / Bear Claw Extension": [
+   364,
+   -709,
+   761.8
+  ],
+  "Exodus": [
+   494,
+   -653,
+   789.1
+  ],
+  "Summit Loop / Bear Claw Extension": [
+   401,
+   -740,
+   768.2
+  ],
+  "Exodus 2": [
+   567,
+   -669,
+   811.3
+  ],
+  "Ken's Way / Boom Run": [
+   -455,
+   -243,
+   614.9
+  ],
+  "Ken's Way / Upper Twitcher": [
+   -611,
+   -262,
+   594.5
+  ],
+  "Triple Trouble / Can't Dog": [
+   704,
+   -587,
+   747.2
+  ],
+  "Triple Trouble / Bear Pause": [
+   952,
+   179,
+   464.3
+  ],
+  "Escape Route / Chipper": [
+   -1747,
+   -162,
+   329.4
+  ],
+  "Escape Route": [
+   -2137,
+   -309,
+   261.3
+  ],
+  "Lower Bear Claw / Grand Junction": [
+   607,
+   317,
+   516.7
+  ],
+  "Lower Bear Claw / Brookway": [
+   666,
+   1182,
+   328.1
+  ],
+  "Lower Northstar / Slash": [
+   193,
+   492,
+   487.4
+  ],
+  "Lower Northstar / Coolidge Street": [
+   82,
+   1083,
+   310.3
+  ],
+  "Chipper / Cruiser": [
+   -1217,
+   -477,
+   430.2
+  ],
+  "Timbertown Quad bottom": [
+   -2084,
+   -168,
+   265.0
+  ],
+  "Jobber / Lower Twitcher": [
+   -724,
+   -182,
+   535.7
+  ],
+  "Lincoln Express Quad bottom": [
+   -1287,
+   288,
+   299.7
+  ],
+  "Springboard / Seven Brothers": [
+   575,
+   441,
+   496.1
+  ],
+  "Springboard / Seven Brothers 2": [
+   543,
+   891,
+   395.9
+  ],
+  "Kancamagus 8 top": [
+   286,
+   4,
+   619.9
+  ],
+  "Unnamed run / Upper Rumrunner": [
+   72,
+   494,
+   484.5
+  ],
+  "Unnamed run / Coolidge Street": [
+   102,
+   526,
+   475.7
+  ],
+  "Little Sister Double bottom": [
+   535,
+   1282,
+   307.6
+  ],
+  "Sarsaparilla Carpet Lift top": [
+   -176,
+   1019,
+   312.1
+  ],
+  "Sarsaparilla Carpet Lift bottom": [
+   -23,
+   1122,
+   296.2
+  ],
+  "Basin Street / Angel Street": [
+   714,
+   -341,
+   650.8
+  ],
+  "Basin Street / Bear Pause": [
+   847,
+   46,
+   499.4
+  ],
+  "North Peak Express Quad top": [
+   1247,
+   -1081,
+   928.0
+  ],
+  "Upper Flume / Haulback": [
+   1166,
+   -590,
+   738.2
+  ],
+  "Unnamed run / Blue Ox": [
+   267,
+   977,
+   356.9
+  ],
+  "Unnamed run / Lower Picked Rock": [
+   339,
+   1023,
+   352.4
+  ],
+  "Lincoln Express Quad top": [
+   -249,
+   -929,
+   749.4
+  ],
+  "Grand Junction": [
+   562,
+   117,
+   556.5
+  ],
+  "East Basin Double bottom": [
+   966,
+   223,
+   459.0
+  ],
+  "Picaroon / Lower Picked Rock": [
+   473,
+   1255,
+   306.2
+  ],
+  "Exodus 3": [
+   460,
+   -631,
+   781.7
+  ],
+  "Lower Walking Boss / Haulback": [
+   1368,
+   -515,
+   704.3
+  ],
+  "Brookway": [
+   1013,
+   284,
+   453.3
+  ],
+  "Can't Dog / Haulback": [
+   807,
+   -771,
+   795.8
+  ],
+  "Can't Dog / Angel Street": [
+   667,
+   -523,
+   727.2
+  ],
+  "Seven Brothers Express Quad top": [
+   570,
+   249,
+   529.7
+  ],
+  "Unnamed run / Loon Mountain Park": [
+   487,
+   323,
+   523.9
+  ],
+  "Bear Claw Extension": [
+   645,
+   -892,
+   813.2
+  ],
+  "Haulback": [
+   748,
+   -822,
+   807.2
+  ],
+  "Unnamed run": [
+   -842,
+   529,
+   343.0
+  ],
+  "Unnamed run / Boom Run": [
+   -890,
+   422,
+   353.0
+  ],
+  "River's Edge bottom": [
+   -1502,
+   393,
+   262.6
+  ],
+  "Rip Saw / Boom Run": [
+   -360,
+   -578,
+   692.8
+  ],
+  "Cruiser": [
+   -1338,
+   231,
+   302.1
+  ],
+  "Blazer / Stillwater": [
+   -1450,
+   -406,
+   393.1
+  ],
+  "Blazer / Fox Run": [
+   -1540,
+   -160,
+   346.2
+  ],
+  "Sidewinder / Upper Stinger": [
+   -1644,
+   -299,
+   367.6
+  ],
+  "Chipper": [
+   -1655,
+   -179,
+   352.2
+  ],
+  "Air Site / Lower Flume": [
+   1125,
+   -369,
+   633.1
+  ],
+  "Air Site / Lower Flume 2": [
+   1036,
+   23,
+   498.4
+  ],
+  "Bear Island Bypass / Upper Bear Claw": [
+   211,
+   -212,
+   677.9
+  ],
+  "Bear Island Bypass / Lower Speakeasy": [
+   239,
+   30,
+   615.1
+  ],
+  "Slash / Rampasture": [
+   251,
+   476,
+   490.0
+  ],
+  "Slash / Lower Speakeasy": [
+   -95,
+   567,
+   434.8
+  ],
+  "Sunset": [
+   731,
+   -922,
+   828.7
+  ],
+  "Lower Speakeasy / Lower Rumrunner": [
+   -21,
+   849,
+   368.3
+  ],
+  "Blazer": [
+   -1527,
+   -274,
+   370.1
+  ],
+  "Camp Out / Fox Run": [
+   -1729,
+   -66,
+   317.4
+  ],
+  "Timbertown Quad top": [
+   -1310,
+   -388,
+   406.1
+  ],
+  "Chipper 2": [
+   -1517,
+   -403,
+   386.6
+  ],
+  "Slash": [
+   40,
+   556,
+   458.7
+  ],
+  "Bear Island Bypass": [
+   275,
+   -54,
+   635.1
+  ],
+  "Rampasture": [
+   179,
+   1004,
+   339.1
+  ],
+  "Rampasture 2": [
+   267,
+   74,
+   604.7
+  ],
+  "Unnamed run 5": [
+   -1157,
+   457,
+   298.0
+  ],
+  "Grand Junction 2": [
+   349,
+   -8,
+   612.9
+  ],
+  "Crosscut / Flying Fox": [
+   443,
+   -178,
+   625.3
+  ],
+  "Basin Street": [
+   693,
+   -115,
+   570.5
+  ],
+  "Angel Street": [
+   804,
+   -270,
+   600.7
+  ],
+  "Cruiser 2": [
+   -1360,
+   -265,
+   374.3
+  ],
+  "Escape Route 2": [
+   -1825,
+   -256,
+   315.5
+  ],
+  "Chipper 3": [
+   -2008,
+   -178,
+   279.5
+  ],
+  "Fox Run": [
+   -1474,
+   -218,
+   357.6
+  ],
+  "Cruiser 3": [
+   -361,
+   -834,
+   711.0
+  ],
+  "Cruiser 4": [
+   -1085,
+   -618,
+   470.7
+  ],
+  "Rip Saw": [
+   -525,
+   -468,
+   660.4
+  ],
+  "Bail Out / Upper Twitcher": [
+   -480,
+   -420,
+   659.1
+  ],
+  "Little Sister Double top": [
+   581,
+   965,
+   376.5
+  ],
+  "Brookway 2": [
+   616,
+   1252,
+   317.0
+  ],
+  "Grand Junction 3": [
+   445,
+   -16,
+   598.0
+  ],
+  "Lower Picked Rock": [
+   351,
+   836,
+   396.9
+  ],
+  "Blue Ox": [
+   277,
+   910,
+   373.6
+  ],
+  "Brookway Extension": [
+   1100,
+   243,
+   462.7
+  ],
+  "Brookway 3": [
+   1085,
+   421,
+   427.0
+  ],
+  "Stillwater": [
+   -1377,
+   -391,
+   401.9
+  ],
+  "Tote Road Quad top": [
+   324,
+   -669,
+   754.6
+  ],
+  "Lower Speakeasy": [
+   197,
+   45,
+   610.1
+  ],
+  "Cruiser 5": [
+   -1414,
+   -21,
+   332.6
+  ],
+  "Bear Pause": [
+   606,
+   141,
+   548.3
+  ],
+  "The Link": [
+   665,
+   346,
+   504.5
+  ],
+  "Lower Speakeasy 2": [
+   -67,
+   733,
+   397.6
+  ],
+  "Grand Junction 4": [
+   532,
+   28,
+   577.0
+  ],
+  "Upper Twitcher / Boom Run": [
+   -446,
+   -461,
+   669.4
+  ],
+  "Lower Picked Rock 2": [
+   438,
+   87,
+   580.6
+  ],
+  "Lower Picked Rock 3": [
+   422,
+   1234,
+   311.6
+  ],
+  "Boom Run": [
+   -271,
+   -829,
+   728.0
+  ],
+  "Lower Walking Boss": [
+   1061,
+   117,
+   483.5
+  ],
+  "Kancamagus 8 bottom": [
+   87,
+   1181,
+   295.9
+  ],
+  "River's Edge top": [
+   -1348,
+   292,
+   297.9
+  ],
+  "Tote Road Quad bottom": [
+   -205,
+   -928,
+   748.9
+  ],
+  "Kissin' Cousin Double top": [
+   -119,
+   733,
+   398.1
+  ],
+  "North Peak Express Quad bottom": [
+   1056,
+   293,
+   453.5
+  ],
+  "White Mountain Express bottom": [
+   446,
+   1306,
+   304.4
+  ]
+ },
+ "lifts": [
+  [
+   "Little Sister Double",
+   "Little Sister Double bottom",
+   "Little Sister Double top",
+   5.3
+  ],
+  [
+   "Kancamagus 8",
+   "Kancamagus 8 bottom",
+   "Kancamagus 8 top",
+   11.9
+  ],
+  [
+   "Timbertown Quad",
+   "Timbertown Quad bottom",
+   "Timbertown Quad top",
+   8.9
+  ],
+  [
+   "Sarsaparilla Carpet Lift",
+   "Sarsaparilla Carpet Lift bottom",
+   "Sarsaparilla Carpet Lift top",
+   6.3
+  ],
+  [
+   "Lincoln Express Quad",
+   "Lincoln Express Quad bottom",
+   "Lincoln Express Quad top",
+   8.5
+  ],
+  [
+   "River's Edge",
+   "River's Edge bottom",
+   "River's Edge top",
+   6.0
+  ],
+  [
+   "Tote Road Quad",
+   "Tote Road Quad bottom",
+   "Tote Road Quad top",
+   7.1
+  ],
+  [
+   "Tote Road Quad",
+   "Tote Road Quad top",
+   "Tote Road Quad bottom",
+   7.1
+  ],
+  [
+   "Kissin' Cousin Double",
+   "Sarsaparilla Carpet Lift bottom",
+   "Kissin' Cousin Double top",
+   5.8
+  ],
+  [
+   "North Peak Express Quad",
+   "North Peak Express Quad bottom",
+   "North Peak Express Quad top",
+   7.9
+  ],
+  [
+   "White Mountain Express",
+   "White Mountain Express bottom",
+   "White Mountain Express top",
+   10.2
+  ],
+  [
+   "White Mountain Express",
+   "White Mountain Express top",
+   "White Mountain Express bottom",
+   10.2
+  ],
+  [
+   "East Basin Double",
+   "East Basin Double bottom",
+   "White Mountain Express top",
+   11.1
+  ],
+  [
+   "Seven Brothers Express Quad",
+   "Little Sister Double bottom",
+   "Seven Brothers Express Quad top",
+   6.4
+  ]
+ ],
+ "runs": [
+  [
+   "Rolling Bear",
+   "Rolling Bear / Bear Pause",
+   "Rolling Bear / Brookway",
+   1.0
+  ],
+  [
+   "Exodus",
+   "White Mountain Express top",
+   "Exodus 2",
+   0.5
+  ],
+  [
+   "Exodus",
+   "Exodus 2",
+   "Exodus",
+   0.5
+  ],
+  [
+   "Exodus",
+   "Exodus",
+   "Exodus 3",
+   0.5
+  ],
+  [
+   "Exodus",
+   "Exodus 3",
+   "Exodus / Bear Claw Extension",
+   0.5
+  ],
+  [
+   "Summit Loop",
+   "Exodus",
+   "Summit Loop / Bear Claw Extension",
+   0.5
+  ],
+  [
+   "Harder Way",
+   "White Mountain Express top",
+   "Exodus 2",
+   0.5
+  ],
+  [
+   "Ken's Way",
+   "Ken's Way / Boom Run",
+   "Ken's Way / Upper Twitcher",
+   0.5
+  ],
+  [
+   "Triple Trouble",
+   "Triple Trouble / Can't Dog",
+   "Triple Trouble / Bear Pause",
+   3.7
+  ],
+  [
+   "Escape Route",
+   "Escape Route / Chipper",
+   "Escape Route 2",
+   0.5
+  ],
+  [
+   "Escape Route",
+   "Escape Route 2",
+   "Escape Route",
+   1.6
+  ],
+  [
+   "Lower Bear Claw",
+   "Lower Bear Claw / Grand Junction",
+   "Lower Bear Claw / Brookway",
+   3.7
+  ],
+  [
+   "Lower Northstar",
+   "Lower Northstar / Slash",
+   "Lower Northstar / Coolidge Street",
+   2.5
+  ],
+  [
+   "Chipper",
+   "Chipper / Cruiser",
+   "Chipper 2",
+   1.3
+  ],
+  [
+   "Chipper",
+   "Chipper 2",
+   "Chipper",
+   1.2
+  ],
+  [
+   "Chipper",
+   "Chipper",
+   "Escape Route / Chipper",
+   0.5
+  ],
+  [
+   "Chipper",
+   "Escape Route / Chipper",
+   "Chipper 3",
+   1.2
+  ],
+  [
+   "Chipper",
+   "Chipper 3",
+   "Timbertown Quad bottom",
+   0.5
+  ],
+  [
+   "Jobber",
+   "Jobber / Lower Twitcher",
+   "Lincoln Express Quad bottom",
+   3.2
+  ],
+  [
+   "Springboard",
+   "Springboard / Seven Brothers",
+   "Springboard / Seven Brothers 2",
+   2.0
+  ],
+  [
+   "Grand Junction",
+   "Kancamagus 8 top",
+   "Grand Junction 2",
+   0.5
+  ],
+  [
+   "Grand Junction",
+   "Grand Junction 2",
+   "Grand Junction 3",
+   0.5
+  ],
+  [
+   "Grand Junction",
+   "Grand Junction 3",
+   "Grand Junction 4",
+   0.5
+  ],
+  [
+   "Grand Junction",
+   "Grand Junction 4",
+   "Grand Junction",
+   0.5
+  ],
+  [
+   "Grand Junction",
+   "Grand Junction",
+   "Seven Brothers Express Quad top",
+   0.6
+  ],
+  [
+   "Grand Junction",
+   "Seven Brothers Express Quad top",
+   "Lower Bear Claw / Grand Junction",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Upper Rumrunner",
+   "Unnamed run / Coolidge Street",
+   0.5
+  ],
+  [
+   "Brookway",
+   "Rolling Bear / Brookway",
+   "East Basin Double bottom",
+   0.5
+  ],
+  [
+   "Brookway",
+   "East Basin Double bottom",
+   "Brookway",
+   0.5
+  ],
+  [
+   "Brookway",
+   "Brookway",
+   "Brookway 3",
+   0.6
+  ],
+  [
+   "Brookway",
+   "Brookway 3",
+   "Lower Bear Claw / Brookway",
+   3.8
+  ],
+  [
+   "Brookway",
+   "Lower Bear Claw / Brookway",
+   "Brookway 2",
+   0.5
+  ],
+  [
+   "Brookway",
+   "Brookway 2",
+   "Little Sister Double bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Sarsaparilla Carpet Lift top",
+   "Sarsaparilla Carpet Lift bottom",
+   0.6
+  ],
+  [
+   "Bear Claw Extension",
+   "White Mountain Express top",
+   "Bear Claw Extension",
+   0.5
+  ],
+  [
+   "Bear Claw Extension",
+   "Bear Claw Extension",
+   "Summit Loop / Bear Claw Extension",
+   1.3
+  ],
+  [
+   "Bear Claw Extension",
+   "Summit Loop / Bear Claw Extension",
+   "Exodus / Bear Claw Extension",
+   0.5
+  ],
+  [
+   "Basin Street",
+   "Basin Street / Angel Street",
+   "Basin Street",
+   0.9
+  ],
+  [
+   "Basin Street",
+   "Basin Street",
+   "Basin Street / Bear Pause",
+   1.0
+  ],
+  [
+   "Upper Flume",
+   "North Peak Express Quad top",
+   "Upper Flume / Haulback",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Blue Ox",
+   "Unnamed run / Lower Picked Rock",
+   0.5
+  ],
+  [
+   "Coolidge Street",
+   "Unnamed run / Coolidge Street",
+   "Lower Northstar / Coolidge Street",
+   2.3
+  ],
+  [
+   "Cruiser",
+   "Lincoln Express Quad top",
+   "Cruiser 3",
+   0.5
+  ],
+  [
+   "Cruiser",
+   "Cruiser 3",
+   "Cruiser 4",
+   4.1
+  ],
+  [
+   "Cruiser",
+   "Cruiser 4",
+   "Chipper / Cruiser",
+   0.8
+  ],
+  [
+   "Cruiser",
+   "Chipper / Cruiser",
+   "Timbertown Quad top",
+   0.6
+  ],
+  [
+   "Cruiser",
+   "Timbertown Quad top",
+   "Cruiser 2",
+   0.5
+  ],
+  [
+   "Cruiser",
+   "Cruiser 2",
+   "Cruiser 5",
+   1.2
+  ],
+  [
+   "Cruiser",
+   "Cruiser 5",
+   "Cruiser",
+   1.0
+  ],
+  [
+   "Cruiser",
+   "Cruiser",
+   "River's Edge top",
+   0.5
+  ],
+  [
+   "Cruiser",
+   "River's Edge top",
+   "Lincoln Express Quad bottom",
+   0.5
+  ],
+  [
+   "Bear Pause",
+   "Grand Junction",
+   "Bear Pause",
+   0.5
+  ],
+  [
+   "Bear Pause",
+   "Bear Pause",
+   "Rolling Bear / Bear Pause",
+   0.5
+  ],
+  [
+   "Bear Pause",
+   "Rolling Bear / Bear Pause",
+   "Basin Street / Bear Pause",
+   0.8
+  ],
+  [
+   "Bear Pause",
+   "Basin Street / Bear Pause",
+   "Triple Trouble / Bear Pause",
+   0.8
+  ],
+  [
+   "Bear Pause",
+   "Triple Trouble / Bear Pause",
+   "East Basin Double bottom",
+   0.5
+  ],
+  [
+   "Picaroon",
+   "Grand Junction",
+   "Seven Brothers Express Quad top",
+   0.5
+  ],
+  [
+   "Picaroon",
+   "Seven Brothers Express Quad top",
+   "Picaroon / Lower Picked Rock",
+   4.3
+  ],
+  [
+   "Flying Fox",
+   "Exodus",
+   "Exodus 3",
+   0.5
+  ],
+  [
+   "Lower Walking Boss",
+   "Lower Walking Boss / Haulback",
+   "Lower Walking Boss",
+   3.1
+  ],
+  [
+   "Lower Walking Boss",
+   "Lower Walking Boss",
+   "Brookway",
+   0.8
+  ],
+  [
+   "Can't Dog",
+   "Can't Dog / Haulback",
+   "Triple Trouble / Can't Dog",
+   0.8
+  ],
+  [
+   "Can't Dog",
+   "Triple Trouble / Can't Dog",
+   "Can't Dog / Angel Street",
+   0.5
+  ],
+  [
+   "The Link",
+   "Lower Bear Claw / Grand Junction",
+   "The Link",
+   0.5
+  ],
+  [
+   "The Link",
+   "The Link",
+   "Rolling Bear / Brookway",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Seven Brothers Express Quad top",
+   "Unnamed run / Loon Mountain Park",
+   0.5
+  ],
+  [
+   "Haulback",
+   "Bear Claw Extension",
+   "Haulback",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Boom Run",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Unnamed run 5",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 5",
+   "River's Edge bottom",
+   1.5
+  ],
+  [
+   "Rip Saw",
+   "Rip Saw / Boom Run",
+   "Rip Saw",
+   0.7
+  ],
+  [
+   "Rip Saw",
+   "Rip Saw",
+   "Cruiser",
+   5.0
+  ],
+  [
+   "Blazer",
+   "Blazer / Stillwater",
+   "Blazer",
+   0.5
+  ],
+  [
+   "Blazer",
+   "Blazer",
+   "Blazer / Fox Run",
+   0.5
+  ],
+  [
+   "Sidewinder",
+   "Sidewinder / Upper Stinger",
+   "Chipper",
+   0.5
+  ],
+  [
+   "Air Site",
+   "Air Site / Lower Flume",
+   "Air Site / Lower Flume 2",
+   1.8
+  ],
+  [
+   "Bear Island Bypass",
+   "Bear Island Bypass / Upper Bear Claw",
+   "Bear Island Bypass",
+   0.7
+  ],
+  [
+   "Bear Island Bypass",
+   "Bear Island Bypass",
+   "Kancamagus 8 top",
+   0.5
+  ],
+  [
+   "Bear Island Bypass",
+   "Kancamagus 8 top",
+   "Bear Island Bypass / Lower Speakeasy",
+   0.5
+  ],
+  [
+   "Sunset",
+   "North Peak Express Quad top",
+   "Sunset",
+   2.3
+  ],
+  [
+   "Sunset",
+   "Sunset",
+   "Bear Claw Extension",
+   0.5
+  ],
+  [
+   "Slash",
+   "Slash / Rampasture",
+   "Lower Northstar / Slash",
+   0.5
+  ],
+  [
+   "Slash",
+   "Lower Northstar / Slash",
+   "Unnamed run / Coolidge Street",
+   0.5
+  ],
+  [
+   "Slash",
+   "Unnamed run / Coolidge Street",
+   "Slash",
+   0.5
+  ],
+  [
+   "Slash",
+   "Slash",
+   "Slash / Lower Speakeasy",
+   0.5
+  ],
+  [
+   "Haulback",
+   "Sunset",
+   "Haulback",
+   0.5
+  ],
+  [
+   "Haulback",
+   "Haulback",
+   "Can't Dog / Haulback",
+   0.5
+  ],
+  [
+   "Haulback",
+   "Can't Dog / Haulback",
+   "Upper Flume / Haulback",
+   1.7
+  ],
+  [
+   "Haulback",
+   "Upper Flume / Haulback",
+   "Lower Walking Boss / Haulback",
+   0.9
+  ],
+  [
+   "Lower Speakeasy",
+   "Kancamagus 8 top",
+   "Bear Island Bypass / Lower Speakeasy",
+   0.5
+  ],
+  [
+   "Lower Speakeasy",
+   "Bear Island Bypass / Lower Speakeasy",
+   "Lower Speakeasy",
+   0.5
+  ],
+  [
+   "Lower Speakeasy",
+   "Lower Speakeasy",
+   "Slash / Lower Speakeasy",
+   2.9
+  ],
+  [
+   "Lower Speakeasy",
+   "Slash / Lower Speakeasy",
+   "Lower Speakeasy 2",
+   0.8
+  ],
+  [
+   "Lower Speakeasy",
+   "Lower Speakeasy 2",
+   "Lower Speakeasy / Lower Rumrunner",
+   0.5
+  ],
+  [
+   "Camp Out",
+   "Blazer",
+   "Chipper",
+   0.6
+  ],
+  [
+   "Camp Out",
+   "Chipper",
+   "Camp Out / Fox Run",
+   0.6
+  ],
+  [
+   "Stillwater",
+   "Timbertown Quad top",
+   "Stillwater",
+   0.5
+  ],
+  [
+   "Stillwater",
+   "Stillwater",
+   "Blazer / Stillwater",
+   0.5
+  ],
+  [
+   "Stillwater",
+   "Blazer / Stillwater",
+   "Chipper 2",
+   0.5
+  ],
+  [
+   "Lower Rumrunner",
+   "Slash",
+   "Lower Speakeasy / Lower Rumrunner",
+   1.2
+  ],
+  [
+   "Lower Rumrunner",
+   "Lower Speakeasy / Lower Rumrunner",
+   "Lower Northstar / Coolidge Street",
+   1.2
+  ],
+  [
+   "Rampasture",
+   "Bear Island Bypass / Lower Speakeasy",
+   "Rampasture 2",
+   0.5
+  ],
+  [
+   "Rampasture",
+   "Rampasture 2",
+   "Slash / Rampasture",
+   1.7
+  ],
+  [
+   "Rampasture",
+   "Slash / Rampasture",
+   "Rampasture",
+   2.4
+  ],
+  [
+   "Rampasture",
+   "Rampasture",
+   "Lower Northstar / Coolidge Street",
+   0.6
+  ],
+  [
+   "Blue Ox",
+   "Bear Island Bypass",
+   "Kancamagus 8 top",
+   0.5
+  ],
+  [
+   "Blue Ox",
+   "Kancamagus 8 top",
+   "Grand Junction 2",
+   0.5
+  ],
+  [
+   "Blue Ox",
+   "Grand Junction 2",
+   "Blue Ox",
+   4.0
+  ],
+  [
+   "Blue Ox",
+   "Blue Ox",
+   "Unnamed run / Blue Ox",
+   0.5
+  ],
+  [
+   "Blue Ox",
+   "Unnamed run / Blue Ox",
+   "Rampasture",
+   0.5
+  ],
+  [
+   "Upper Northstar",
+   "Rampasture 2",
+   "Lower Northstar / Slash",
+   1.7
+  ],
+  [
+   "Lower Picked Rock",
+   "Grand Junction 2",
+   "Lower Picked Rock 2",
+   0.5
+  ],
+  [
+   "Lower Picked Rock",
+   "Lower Picked Rock 2",
+   "Lower Picked Rock",
+   3.3
+  ],
+  [
+   "Lower Picked Rock",
+   "Lower Picked Rock",
+   "Unnamed run / Lower Picked Rock",
+   0.8
+  ],
+  [
+   "Lower Picked Rock",
+   "Unnamed run / Lower Picked Rock",
+   "Lower Picked Rock 3",
+   1.2
+  ],
+  [
+   "Lower Picked Rock",
+   "Lower Picked Rock 3",
+   "Picaroon / Lower Picked Rock",
+   0.5
+  ],
+  [
+   "Crosscut",
+   "Crosscut / Flying Fox",
+   "Basin Street",
+   1.0
+  ],
+  [
+   "Angel Street",
+   "Exodus 2",
+   "Can't Dog / Angel Street",
+   0.7
+  ],
+  [
+   "Angel Street",
+   "Can't Dog / Angel Street",
+   "Basin Street / Angel Street",
+   0.9
+  ],
+  [
+   "Angel Street",
+   "Basin Street / Angel Street",
+   "Angel Street",
+   0.5
+  ],
+  [
+   "Fox Run",
+   "Cruiser 2",
+   "Fox Run",
+   0.5
+  ],
+  [
+   "Fox Run",
+   "Fox Run",
+   "Blazer / Fox Run",
+   0.5
+  ],
+  [
+   "Fox Run",
+   "Blazer / Fox Run",
+   "Camp Out / Fox Run",
+   0.9
+  ],
+  [
+   "Fox Run",
+   "Camp Out / Fox Run",
+   "Timbertown Quad bottom",
+   1.7
+  ],
+  [
+   "Lower Stinger",
+   "Escape Route 2",
+   "Chipper 3",
+   0.8
+  ],
+  [
+   "Lincoln Woods",
+   "Blazer / Stillwater",
+   "Fox Run",
+   0.6
+  ],
+  [
+   "Lower Twitcher",
+   "Jobber / Lower Twitcher",
+   "Cruiser",
+   3.2
+  ],
+  [
+   "Undercut",
+   "Cruiser 3",
+   "Cruiser 4",
+   3.5
+  ],
+  [
+   "Bail Out",
+   "Rip Saw",
+   "Bail Out / Upper Twitcher",
+   0.5
+  ],
+  [
+   "Seven Brothers",
+   "Seven Brothers Express Quad top",
+   "Lower Bear Claw / Grand Junction",
+   0.5
+  ],
+  [
+   "Seven Brothers",
+   "Lower Bear Claw / Grand Junction",
+   "Springboard / Seven Brothers",
+   0.5
+  ],
+  [
+   "Seven Brothers",
+   "Springboard / Seven Brothers",
+   "Springboard / Seven Brothers 2",
+   1.9
+  ],
+  [
+   "Seven Brothers",
+   "Springboard / Seven Brothers 2",
+   "Picaroon / Lower Picked Rock",
+   1.6
+  ],
+  [
+   "Little Sister",
+   "Little Sister Double top",
+   "Brookway 2",
+   1.2
+  ],
+  [
+   "Upper Bear Claw",
+   "Exodus / Bear Claw Extension",
+   "Tote Road Quad top",
+   0.5
+  ],
+  [
+   "Upper Bear Claw",
+   "Tote Road Quad top",
+   "Bear Island Bypass / Upper Bear Claw",
+   2.1
+  ],
+  [
+   "Upper Bear Claw",
+   "Bear Island Bypass / Upper Bear Claw",
+   "Bear Island Bypass",
+   1.2
+  ],
+  [
+   "Upper Bear Claw",
+   "Bear Island Bypass",
+   "Grand Junction 3",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Lower Picked Rock",
+   "Blue Ox",
+   0.5
+  ],
+  [
+   "Brookway Extension",
+   "Brookway Extension",
+   "Brookway 3",
+   1.0
+  ],
+  [
+   "Hannah's Bypass",
+   "White Mountain Express top",
+   "Exodus 2",
+   0.7
+  ],
+  [
+   "Jack Pot",
+   "Stillwater",
+   "Fox Run",
+   0.7
+  ],
+  [
+   "Upper Speakeasy",
+   "Tote Road Quad top",
+   "Lower Speakeasy",
+   3.5
+  ],
+  [
+   "Upper Rumrunner",
+   "Lower Speakeasy",
+   "Unnamed run / Upper Rumrunner",
+   1.9
+  ],
+  [
+   "Upper Rumrunner",
+   "Unnamed run / Upper Rumrunner",
+   "Slash",
+   0.5
+  ],
+  [
+   "Dropline",
+   "Bear Pause",
+   "The Link",
+   0.8
+  ],
+  [
+   "Snubber",
+   "Lower Speakeasy 2",
+   "Kissin' Cousin Double top",
+   0.5
+  ],
+  [
+   "Snubber",
+   "Kissin' Cousin Double top",
+   "Sarsaparilla Carpet Lift bottom",
+   3.1
+  ],
+  [
+   "Flying Fox",
+   "Exodus 2",
+   "Exodus 3",
+   0.5
+  ],
+  [
+   "Flying Fox",
+   "Exodus 3",
+   "Exodus",
+   0.5
+  ],
+  [
+   "Flying Fox",
+   "Exodus",
+   "Exodus 3",
+   0.5
+  ],
+  [
+   "Flying Fox",
+   "Exodus 3",
+   "Crosscut / Flying Fox",
+   2.3
+  ],
+  [
+   "Flying Fox",
+   "Crosscut / Flying Fox",
+   "Grand Junction 4",
+   1.0
+  ],
+  [
+   "Upper Twitcher",
+   "Upper Twitcher / Boom Run",
+   "Bail Out / Upper Twitcher",
+   0.5
+  ],
+  [
+   "Upper Twitcher",
+   "Bail Out / Upper Twitcher",
+   "Ken's Way / Upper Twitcher",
+   0.9
+  ],
+  [
+   "Upper Twitcher",
+   "Ken's Way / Upper Twitcher",
+   "Jobber / Lower Twitcher",
+   0.6
+  ],
+  [
+   "Upper Stinger",
+   "Chipper 2",
+   "Sidewinder / Upper Stinger",
+   0.6
+  ],
+  [
+   "Upper Stinger",
+   "Sidewinder / Upper Stinger",
+   "Escape Route 2",
+   0.8
+  ],
+  [
+   "Upper Picked Rock",
+   "Exodus",
+   "Exodus 3",
+   0.5
+  ],
+  [
+   "Upper Picked Rock",
+   "Exodus 3",
+   "Grand Junction 3",
+   3.3
+  ],
+  [
+   "Upper Picked Rock",
+   "Grand Junction 3",
+   "Lower Picked Rock 2",
+   0.5
+  ],
+  [
+   "Loon Mountain Park",
+   "Grand Junction 4",
+   "Unnamed run / Loon Mountain Park",
+   1.1
+  ],
+  [
+   "Loon Mountain Park",
+   "Unnamed run / Loon Mountain Park",
+   "Lower Picked Rock 3",
+   4.0
+  ],
+  [
+   "Boom Run",
+   "Lincoln Express Quad top",
+   "Boom Run",
+   0.5
+  ],
+  [
+   "Boom Run",
+   "Boom Run",
+   "Rip Saw / Boom Run",
+   1.2
+  ],
+  [
+   "Boom Run",
+   "Rip Saw / Boom Run",
+   "Upper Twitcher / Boom Run",
+   0.6
+  ],
+  [
+   "Boom Run",
+   "Upper Twitcher / Boom Run",
+   "Bail Out / Upper Twitcher",
+   0.5
+  ],
+  [
+   "Boom Run",
+   "Bail Out / Upper Twitcher",
+   "Ken's Way / Boom Run",
+   0.7
+  ],
+  [
+   "Boom Run",
+   "Ken's Way / Boom Run",
+   "Unnamed run / Boom Run",
+   5.2
+  ],
+  [
+   "Boom Run",
+   "Unnamed run / Boom Run",
+   "Lincoln Express Quad bottom",
+   1.8
+  ],
+  [
+   "Cruiser",
+   "Boom Run",
+   "Cruiser 3",
+   0.5
+  ],
+  [
+   "Lower Flume",
+   "Upper Flume / Haulback",
+   "Air Site / Lower Flume",
+   0.9
+  ],
+  [
+   "Lower Flume",
+   "Air Site / Lower Flume",
+   "Air Site / Lower Flume 2",
+   1.8
+  ],
+  [
+   "Lower Flume",
+   "Air Site / Lower Flume 2",
+   "Lower Walking Boss",
+   0.5
+  ],
+  [
+   "Upper Walking Boss",
+   "North Peak Express Quad top",
+   "Lower Walking Boss / Haulback",
+   2.6
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Rolling Bear / Bear Pause",
+   "Seven Brothers Express Quad top",
+   2.2
+  ],
+  [
+   "walk",
+   "Rolling Bear / Brookway",
+   "East Basin Double bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Rolling Bear / Brookway",
+   "North Peak Express Quad bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "White Mountain Express top",
+   "Exodus",
+   2.5
+  ],
+  [
+   "walk",
+   "White Mountain Express top",
+   "Summit Loop / Bear Claw Extension",
+   3.1
+  ],
+  [
+   "walk",
+   "White Mountain Express top",
+   "Exodus 2",
+   1.7
+  ],
+  [
+   "walk",
+   "White Mountain Express top",
+   "Triple Trouble / Can't Dog",
+   2.9
+  ],
+  [
+   "walk",
+   "White Mountain Express top",
+   "Exodus 3",
+   3.0
+  ],
+  [
+   "walk",
+   "White Mountain Express top",
+   "Can't Dog / Haulback",
+   2.6
+  ],
+  [
+   "walk",
+   "White Mountain Express top",
+   "Bear Claw Extension",
+   1.6
+  ],
+  [
+   "walk",
+   "White Mountain Express top",
+   "Haulback",
+   1.9
+  ],
+  [
+   "walk",
+   "White Mountain Express top",
+   "Sunset",
+   2.5
+  ],
+  [
+   "walk",
+   "Exodus / Bear Claw Extension",
+   "Tote Road Quad top",
+   0.8
+  ],
+  [
+   "walk",
+   "Exodus",
+   "Tote Road Quad top",
+   2.4
+  ],
+  [
+   "walk",
+   "Summit Loop / Bear Claw Extension",
+   "Tote Road Quad top",
+   1.5
+  ],
+  [
+   "walk",
+   "Exodus 2",
+   "Tote Road Quad top",
+   3.4
+  ],
+  [
+   "walk",
+   "Triple Trouble / Bear Pause",
+   "East Basin Double bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Triple Trouble / Bear Pause",
+   "North Peak Express Quad bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Escape Route",
+   "Timbertown Quad bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Bear Claw / Grand Junction",
+   "Seven Brothers Express Quad top",
+   1.1
+  ],
+  [
+   "walk",
+   "Lower Bear Claw / Brookway",
+   "Little Sister Double bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Northstar / Coolidge Street",
+   "Sarsaparilla Carpet Lift bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Lower Northstar / Coolidge Street",
+   "Kancamagus 8 bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Chipper / Cruiser",
+   "Timbertown Quad top",
+   1.8
+  ],
+  [
+   "walk",
+   "Timbertown Quad bottom",
+   "Escape Route",
+   2.1
+  ],
+  [
+   "walk",
+   "Timbertown Quad bottom",
+   "Chipper 3",
+   1.1
+  ],
+  [
+   "walk",
+   "Lincoln Express Quad bottom",
+   "River's Edge bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Lincoln Express Quad bottom",
+   "Cruiser",
+   1.1
+  ],
+  [
+   "walk",
+   "Lincoln Express Quad bottom",
+   "Unnamed run 5",
+   3.0
+  ],
+  [
+   "walk",
+   "Lincoln Express Quad bottom",
+   "River's Edge top",
+   0.8
+  ],
+  [
+   "walk",
+   "Springboard / Seven Brothers 2",
+   "Little Sister Double top",
+   1.2
+  ],
+  [
+   "walk",
+   "Kancamagus 8 top",
+   "Bear Island Bypass / Lower Speakeasy",
+   0.7
+  ],
+  [
+   "walk",
+   "Kancamagus 8 top",
+   "Rampasture 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Kancamagus 8 top",
+   "Grand Junction 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Kancamagus 8 top",
+   "Crosscut / Flying Fox",
+   3.3
+  ],
+  [
+   "walk",
+   "Kancamagus 8 top",
+   "Grand Junction 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Kancamagus 8 top",
+   "Lower Speakeasy",
+   1.4
+  ],
+  [
+   "walk",
+   "Kancamagus 8 top",
+   "Grand Junction 4",
+   3.4
+  ],
+  [
+   "walk",
+   "Kancamagus 8 top",
+   "Lower Picked Rock 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Little Sister Double bottom",
+   "Picaroon / Lower Picked Rock",
+   0.9
+  ],
+  [
+   "walk",
+   "Little Sister Double bottom",
+   "Brookway 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Little Sister Double bottom",
+   "Lower Picked Rock 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Little Sister Double bottom",
+   "White Mountain Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Sarsaparilla Carpet Lift top",
+   "Sarsaparilla Carpet Lift bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Sarsaparilla Carpet Lift bottom",
+   "Lower Northstar / Coolidge Street",
+   1.6
+  ],
+  [
+   "walk",
+   "Sarsaparilla Carpet Lift bottom",
+   "Kancamagus 8 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Basin Street / Bear Pause",
+   "East Basin Double bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Lincoln Express Quad top",
+   "Cruiser 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Lincoln Express Quad top",
+   "Boom Run",
+   1.4
+  ],
+  [
+   "walk",
+   "Lincoln Express Quad top",
+   "Tote Road Quad bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Grand Junction",
+   "Seven Brothers Express Quad top",
+   1.8
+  ],
+  [
+   "walk",
+   "East Basin Double bottom",
+   "Rolling Bear / Brookway",
+   0.6
+  ],
+  [
+   "walk",
+   "East Basin Double bottom",
+   "Triple Trouble / Bear Pause",
+   0.6
+  ],
+  [
+   "walk",
+   "East Basin Double bottom",
+   "Brookway",
+   1.1
+  ],
+  [
+   "walk",
+   "East Basin Double bottom",
+   "Brookway Extension",
+   1.9
+  ],
+  [
+   "walk",
+   "East Basin Double bottom",
+   "Brookway 3",
+   3.2
+  ],
+  [
+   "walk",
+   "East Basin Double bottom",
+   "North Peak Express Quad bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Picaroon / Lower Picked Rock",
+   "Little Sister Double bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Picaroon / Lower Picked Rock",
+   "Brookway 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Picaroon / Lower Picked Rock",
+   "Lower Picked Rock 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Picaroon / Lower Picked Rock",
+   "White Mountain Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Exodus 3",
+   "Tote Road Quad top",
+   2.0
+  ],
+  [
+   "walk",
+   "Brookway",
+   "East Basin Double bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Brookway",
+   "North Peak Express Quad bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Seven Brothers Express Quad top",
+   "Rolling Bear / Bear Pause",
+   2.2
+  ],
+  [
+   "walk",
+   "Seven Brothers Express Quad top",
+   "Lower Bear Claw / Grand Junction",
+   1.1
+  ],
+  [
+   "walk",
+   "Seven Brothers Express Quad top",
+   "Springboard / Seven Brothers",
+   2.7
+  ],
+  [
+   "walk",
+   "Seven Brothers Express Quad top",
+   "Unnamed run / Loon Mountain Park",
+   1.5
+  ],
+  [
+   "walk",
+   "Seven Brothers Express Quad top",
+   "The Link",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Loon Mountain Park",
+   "Seven Brothers Express Quad top",
+   1.5
+  ],
+  [
+   "walk",
+   "Cruiser",
+   "Lincoln Express Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Cruiser",
+   "River's Edge bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Cruiser",
+   "River's Edge top",
+   0.9
+  ],
+  [
+   "walk",
+   "Blazer / Stillwater",
+   "Timbertown Quad top",
+   2.0
+  ],
+  [
+   "walk",
+   "Air Site / Lower Flume 2",
+   "East Basin Double bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Upper Bear Claw",
+   "Kancamagus 8 top",
+   3.2
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Lower Speakeasy",
+   "Kancamagus 8 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Slash / Lower Speakeasy",
+   "Kissin' Cousin Double top",
+   2.3
+  ],
+  [
+   "walk",
+   "Sunset",
+   "White Mountain Express top",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Speakeasy / Lower Rumrunner",
+   "Sarsaparilla Carpet Lift top",
+   3.2
+  ],
+  [
+   "walk",
+   "Timbertown Quad top",
+   "Blazer / Stillwater",
+   2.0
+  ],
+  [
+   "walk",
+   "Timbertown Quad top",
+   "Blazer",
+   3.4
+  ],
+  [
+   "walk",
+   "Timbertown Quad top",
+   "Chipper 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Timbertown Quad top",
+   "Cruiser 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Timbertown Quad top",
+   "Fox Run",
+   3.3
+  ],
+  [
+   "walk",
+   "Timbertown Quad top",
+   "Stillwater",
+   0.9
+  ],
+  [
+   "walk",
+   "Slash",
+   "Kissin' Cousin Double top",
+   3.3
+  ],
+  [
+   "walk",
+   "Bear Island Bypass",
+   "Kancamagus 8 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Rampasture",
+   "Sarsaparilla Carpet Lift bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Rampasture",
+   "Kancamagus 8 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Lincoln Express Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Grand Junction 2",
+   "Kancamagus 8 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Crosscut / Flying Fox",
+   "Kancamagus 8 top",
+   3.3
+  ],
+  [
+   "walk",
+   "Angel Street",
+   "Basin Street",
+   2.6
+  ],
+  [
+   "walk",
+   "Chipper 3",
+   "Timbertown Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Little Sister Double top",
+   "Lower Bear Claw / Brookway",
+   3.2
+  ],
+  [
+   "walk",
+   "Little Sister Double top",
+   "Unnamed run / Lower Picked Rock",
+   3.5
+  ],
+  [
+   "walk",
+   "Brookway 2",
+   "Little Sister Double bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Brookway 2",
+   "White Mountain Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Brookway Extension",
+   "East Basin Double bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Brookway Extension",
+   "North Peak Express Quad bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Stillwater",
+   "Timbertown Quad top",
+   0.9
+  ],
+  [
+   "walk",
+   "Tote Road Quad top",
+   "Exodus / Bear Claw Extension",
+   0.8
+  ],
+  [
+   "walk",
+   "Tote Road Quad top",
+   "Summit Loop / Bear Claw Extension",
+   1.5
+  ],
+  [
+   "walk",
+   "Lower Speakeasy",
+   "Kancamagus 8 top",
+   1.4
+  ],
+  [
+   "walk",
+   "Bear Pause",
+   "Seven Brothers Express Quad top",
+   1.6
+  ],
+  [
+   "walk",
+   "Lower Speakeasy 2",
+   "Kissin' Cousin Double top",
+   0.7
+  ],
+  [
+   "walk",
+   "Grand Junction 4",
+   "Seven Brothers Express Quad top",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Picked Rock 2",
+   "Seven Brothers Express Quad top",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Picked Rock 3",
+   "Little Sister Double bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Lower Picked Rock 3",
+   "White Mountain Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Lower Walking Boss",
+   "East Basin Double bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Walking Boss",
+   "North Peak Express Quad bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Kancamagus 8 bottom",
+   "Lower Northstar / Coolidge Street",
+   1.4
+  ],
+  [
+   "walk",
+   "Kancamagus 8 bottom",
+   "Sarsaparilla Carpet Lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "River's Edge top",
+   "Lincoln Express Quad bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "River's Edge top",
+   "River's Edge bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "River's Edge top",
+   "Cruiser",
+   0.9
+  ],
+  [
+   "walk",
+   "Tote Road Quad bottom",
+   "Lincoln Express Quad top",
+   0.6
+  ],
+  [
+   "walk",
+   "Tote Road Quad bottom",
+   "Cruiser 3",
+   2.5
+  ],
+  [
+   "walk",
+   "Tote Road Quad bottom",
+   "Boom Run",
+   1.7
+  ],
+  [
+   "walk",
+   "Kissin' Cousin Double top",
+   "Lower Speakeasy / Lower Rumrunner",
+   2.1
+  ],
+  [
+   "walk",
+   "Kissin' Cousin Double top",
+   "Lower Speakeasy 2",
+   0.7
+  ],
+  [
+   "walk",
+   "North Peak Express Quad bottom",
+   "Rolling Bear / Brookway",
+   2.1
+  ],
+  [
+   "walk",
+   "North Peak Express Quad bottom",
+   "Triple Trouble / Bear Pause",
+   2.1
+  ],
+  [
+   "walk",
+   "North Peak Express Quad bottom",
+   "East Basin Double bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "North Peak Express Quad bottom",
+   "Brookway",
+   0.6
+  ],
+  [
+   "walk",
+   "North Peak Express Quad bottom",
+   "Brookway Extension",
+   0.9
+  ],
+  [
+   "walk",
+   "North Peak Express Quad bottom",
+   "Brookway 3",
+   1.8
+  ],
+  [
+   "walk",
+   "White Mountain Express bottom",
+   "Little Sister Double bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "White Mountain Express bottom",
+   "Picaroon / Lower Picked Rock",
+   0.8
+  ],
+  [
+   "walk",
+   "White Mountain Express bottom",
+   "Brookway 2",
+   2.5
+  ],
+  [
+   "walk",
+   "White Mountain Express bottom",
+   "Lower Picked Rock 3",
+   1.1
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Exodus",
+   5.0
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Summit Loop / Bear Claw Extension",
+   5.6
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Exodus 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Triple Trouble / Can't Dog",
+   5.4
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Exodus 3",
+   5.5
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Can't Dog / Haulback",
+   5.1
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Bear Claw Extension",
+   4.2
+  ],
+  [
+   "walk",
+   "Sunset",
+   "Haulback",
+   4.4
+  ],
+  [
+   "walk",
+   "White Mountain Express top",
+   "Tote Road Quad top",
+   4.6
+  ],
+  [
+   "walk",
+   "Little Sister Double top",
+   "Little Sister Double bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Escape Route",
+   "Chipper 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Chipper 3",
+   "Escape Route",
+   3.2
+  ],
+  [
+   "walk",
+   "Cruiser",
+   "Unnamed run 5",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "River's Edge bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Cruiser",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "River's Edge top",
+   3.8
+  ],
+  [
+   "walk",
+   "River's Edge top",
+   "Unnamed run 5",
+   3.8
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Upper Bear Claw",
+   "Bear Island Bypass / Lower Speakeasy",
+   3.9
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Upper Bear Claw",
+   "Rampasture 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Upper Bear Claw",
+   "Grand Junction 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Upper Bear Claw",
+   "Crosscut / Flying Fox",
+   6.5
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Upper Bear Claw",
+   "Grand Junction 3",
+   5.4
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Upper Bear Claw",
+   "Lower Speakeasy",
+   4.5
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Upper Bear Claw",
+   "Grand Junction 4",
+   6.6
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Upper Bear Claw",
+   "Lower Picked Rock 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Lower Speakeasy",
+   "Rampasture 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Lower Speakeasy",
+   "Grand Junction 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Lower Speakeasy",
+   "Crosscut / Flying Fox",
+   4.1
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Lower Speakeasy",
+   "Grand Junction 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Lower Speakeasy",
+   "Lower Speakeasy",
+   2.1
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Lower Speakeasy",
+   "Grand Junction 4",
+   4.2
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Lower Speakeasy",
+   "Lower Picked Rock 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Bear Island Bypass",
+   "Bear Island Bypass / Lower Speakeasy",
+   1.6
+  ],
+  [
+   "walk",
+   "Bear Island Bypass",
+   "Rampasture 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Bear Island Bypass",
+   "Grand Junction 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Bear Island Bypass",
+   "Crosscut / Flying Fox",
+   4.2
+  ],
+  [
+   "walk",
+   "Bear Island Bypass",
+   "Grand Junction 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Bear Island Bypass",
+   "Lower Speakeasy",
+   2.2
+  ],
+  [
+   "walk",
+   "Bear Island Bypass",
+   "Grand Junction 4",
+   4.2
+  ],
+  [
+   "walk",
+   "Bear Island Bypass",
+   "Lower Picked Rock 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Grand Junction 2",
+   "Bear Island Bypass / Lower Speakeasy",
+   1.6
+  ],
+  [
+   "walk",
+   "Grand Junction 2",
+   "Rampasture 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Grand Junction 2",
+   "Crosscut / Flying Fox",
+   4.2
+  ],
+  [
+   "walk",
+   "Grand Junction 2",
+   "Grand Junction 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Grand Junction 2",
+   "Lower Speakeasy",
+   2.2
+  ],
+  [
+   "walk",
+   "Grand Junction 2",
+   "Grand Junction 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Grand Junction 2",
+   "Lower Picked Rock 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Crosscut / Flying Fox",
+   "Bear Island Bypass / Lower Speakeasy",
+   4.1
+  ],
+  [
+   "walk",
+   "Crosscut / Flying Fox",
+   "Rampasture 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Crosscut / Flying Fox",
+   "Grand Junction 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Crosscut / Flying Fox",
+   "Grand Junction 3",
+   5.6
+  ],
+  [
+   "walk",
+   "Crosscut / Flying Fox",
+   "Lower Speakeasy",
+   4.7
+  ],
+  [
+   "walk",
+   "Crosscut / Flying Fox",
+   "Grand Junction 4",
+   6.8
+  ],
+  [
+   "walk",
+   "Crosscut / Flying Fox",
+   "Lower Picked Rock 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Lower Speakeasy",
+   "Bear Island Bypass / Lower Speakeasy",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Speakeasy",
+   "Rampasture 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Speakeasy",
+   "Grand Junction 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Lower Speakeasy",
+   "Crosscut / Flying Fox",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Speakeasy",
+   "Grand Junction 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Speakeasy",
+   "Grand Junction 4",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower Speakeasy",
+   "Lower Picked Rock 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Bear Claw / Brookway",
+   "Picaroon / Lower Picked Rock",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Bear Claw / Brookway",
+   "Brookway 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower Bear Claw / Brookway",
+   "Lower Picked Rock 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Lower Bear Claw / Brookway",
+   "White Mountain Express bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Brookway 2",
+   "Picaroon / Lower Picked Rock",
+   2.1
+  ],
+  [
+   "walk",
+   "Brookway 2",
+   "Lower Picked Rock 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Picked Rock 3",
+   "Picaroon / Lower Picked Rock",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Picked Rock 3",
+   "Brookway 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Little Sister Double top",
+   "Picaroon / Lower Picked Rock",
+   6.5
+  ],
+  [
+   "walk",
+   "Little Sister Double top",
+   "Brookway 2",
+   6.7
+  ],
+  [
+   "walk",
+   "Little Sister Double top",
+   "White Mountain Express bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Lower Speakeasy / Lower Rumrunner",
+   "Sarsaparilla Carpet Lift bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Sarsaparilla Carpet Lift top",
+   "Lower Northstar / Coolidge Street",
+   4.1
+  ],
+  [
+   "walk",
+   "Sarsaparilla Carpet Lift top",
+   "Kancamagus 8 bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Rampasture",
+   "Lower Northstar / Coolidge Street",
+   4.1
+  ],
+  [
+   "walk",
+   "Rolling Bear / Brookway",
+   "Triple Trouble / Bear Pause",
+   1.3
+  ],
+  [
+   "walk",
+   "Rolling Bear / Brookway",
+   "Brookway",
+   1.7
+  ],
+  [
+   "walk",
+   "Rolling Bear / Brookway",
+   "Brookway Extension",
+   2.5
+  ],
+  [
+   "walk",
+   "Rolling Bear / Brookway",
+   "Brookway 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Triple Trouble / Bear Pause",
+   "Rolling Bear / Brookway",
+   1.3
+  ],
+  [
+   "walk",
+   "Triple Trouble / Bear Pause",
+   "Brookway",
+   1.7
+  ],
+  [
+   "walk",
+   "Triple Trouble / Bear Pause",
+   "Brookway Extension",
+   2.5
+  ],
+  [
+   "walk",
+   "Triple Trouble / Bear Pause",
+   "Brookway 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Basin Street / Bear Pause",
+   "Rolling Bear / Brookway",
+   3.6
+  ],
+  [
+   "walk",
+   "Basin Street / Bear Pause",
+   "Triple Trouble / Bear Pause",
+   3.6
+  ],
+  [
+   "walk",
+   "Basin Street / Bear Pause",
+   "Brookway",
+   4.0
+  ],
+  [
+   "walk",
+   "Basin Street / Bear Pause",
+   "Brookway Extension",
+   4.8
+  ],
+  [
+   "walk",
+   "Basin Street / Bear Pause",
+   "Brookway 3",
+   6.2
+  ],
+  [
+   "walk",
+   "Basin Street / Bear Pause",
+   "North Peak Express Quad bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Brookway",
+   "Rolling Bear / Brookway",
+   1.7
+  ],
+  [
+   "walk",
+   "Brookway",
+   "Triple Trouble / Bear Pause",
+   1.7
+  ],
+  [
+   "walk",
+   "Brookway",
+   "Brookway Extension",
+   1.5
+  ],
+  [
+   "walk",
+   "Brookway",
+   "Brookway 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Air Site / Lower Flume 2",
+   "Rolling Bear / Brookway",
+   3.6
+  ],
+  [
+   "walk",
+   "Air Site / Lower Flume 2",
+   "Triple Trouble / Bear Pause",
+   3.6
+  ],
+  [
+   "walk",
+   "Air Site / Lower Flume 2",
+   "Brookway",
+   4.0
+  ],
+  [
+   "walk",
+   "Air Site / Lower Flume 2",
+   "Brookway Extension",
+   4.8
+  ],
+  [
+   "walk",
+   "Air Site / Lower Flume 2",
+   "Brookway 3",
+   6.2
+  ],
+  [
+   "walk",
+   "Air Site / Lower Flume 2",
+   "North Peak Express Quad bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Brookway Extension",
+   "Rolling Bear / Brookway",
+   2.5
+  ],
+  [
+   "walk",
+   "Brookway Extension",
+   "Triple Trouble / Bear Pause",
+   2.5
+  ],
+  [
+   "walk",
+   "Brookway Extension",
+   "Brookway",
+   1.5
+  ],
+  [
+   "walk",
+   "Brookway Extension",
+   "Brookway 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Lower Walking Boss",
+   "Rolling Bear / Brookway",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Walking Boss",
+   "Triple Trouble / Bear Pause",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Walking Boss",
+   "Brookway",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Walking Boss",
+   "Brookway Extension",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Walking Boss",
+   "Brookway 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Rolling Bear / Bear Pause",
+   "Lower Bear Claw / Grand Junction",
+   3.2
+  ],
+  [
+   "walk",
+   "Rolling Bear / Bear Pause",
+   "Springboard / Seven Brothers",
+   4.8
+  ],
+  [
+   "walk",
+   "Rolling Bear / Bear Pause",
+   "Unnamed run / Loon Mountain Park",
+   3.7
+  ],
+  [
+   "walk",
+   "Rolling Bear / Bear Pause",
+   "The Link",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Bear Claw / Grand Junction",
+   "Rolling Bear / Bear Pause",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Bear Claw / Grand Junction",
+   "Springboard / Seven Brothers",
+   3.7
+  ],
+  [
+   "walk",
+   "Lower Bear Claw / Grand Junction",
+   "Unnamed run / Loon Mountain Park",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Bear Claw / Grand Junction",
+   "The Link",
+   3.0
+  ],
+  [
+   "walk",
+   "Grand Junction",
+   "Rolling Bear / Bear Pause",
+   4.0
+  ],
+  [
+   "walk",
+   "Grand Junction",
+   "Lower Bear Claw / Grand Junction",
+   2.9
+  ],
+  [
+   "walk",
+   "Grand Junction",
+   "Springboard / Seven Brothers",
+   4.5
+  ],
+  [
+   "walk",
+   "Grand Junction",
+   "Unnamed run / Loon Mountain Park",
+   3.4
+  ],
+  [
+   "walk",
+   "Grand Junction",
+   "The Link",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Loon Mountain Park",
+   "Rolling Bear / Bear Pause",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Loon Mountain Park",
+   "Lower Bear Claw / Grand Junction",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Loon Mountain Park",
+   "Springboard / Seven Brothers",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Loon Mountain Park",
+   "The Link",
+   3.4
+  ],
+  [
+   "walk",
+   "Bear Pause",
+   "Rolling Bear / Bear Pause",
+   3.7
+  ],
+  [
+   "walk",
+   "Bear Pause",
+   "Lower Bear Claw / Grand Junction",
+   2.7
+  ],
+  [
+   "walk",
+   "Bear Pause",
+   "Springboard / Seven Brothers",
+   4.3
+  ],
+  [
+   "walk",
+   "Bear Pause",
+   "Unnamed run / Loon Mountain Park",
+   3.1
+  ],
+  [
+   "walk",
+   "Bear Pause",
+   "The Link",
+   3.5
+  ],
+  [
+   "walk",
+   "Grand Junction 4",
+   "Rolling Bear / Bear Pause",
+   5.3
+  ],
+  [
+   "walk",
+   "Grand Junction 4",
+   "Lower Bear Claw / Grand Junction",
+   4.2
+  ],
+  [
+   "walk",
+   "Grand Junction 4",
+   "Springboard / Seven Brothers",
+   5.8
+  ],
+  [
+   "walk",
+   "Grand Junction 4",
+   "Unnamed run / Loon Mountain Park",
+   4.6
+  ],
+  [
+   "walk",
+   "Grand Junction 4",
+   "The Link",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Picked Rock 2",
+   "Rolling Bear / Bear Pause",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Picked Rock 2",
+   "Lower Bear Claw / Grand Junction",
+   4.0
+  ],
+  [
+   "walk",
+   "Lower Picked Rock 2",
+   "Springboard / Seven Brothers",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower Picked Rock 2",
+   "Unnamed run / Loon Mountain Park",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Picked Rock 2",
+   "The Link",
+   4.8
+  ],
+  [
+   "walk",
+   "Kissin' Cousin Double top",
+   "Sarsaparilla Carpet Lift top",
+   5.3
+  ],
+  [
+   "walk",
+   "Chipper / Cruiser",
+   "Blazer / Stillwater",
+   3.7
+  ],
+  [
+   "walk",
+   "Chipper / Cruiser",
+   "Blazer",
+   5.2
+  ],
+  [
+   "walk",
+   "Chipper / Cruiser",
+   "Chipper 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Chipper / Cruiser",
+   "Cruiser 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Chipper / Cruiser",
+   "Fox Run",
+   5.1
+  ],
+  [
+   "walk",
+   "Chipper / Cruiser",
+   "Stillwater",
+   2.7
+  ],
+  [
+   "walk",
+   "Blazer / Stillwater",
+   "Blazer",
+   5.4
+  ],
+  [
+   "walk",
+   "Blazer / Stillwater",
+   "Chipper 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Blazer / Stillwater",
+   "Cruiser 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Blazer / Stillwater",
+   "Fox Run",
+   5.3
+  ],
+  [
+   "walk",
+   "Blazer / Stillwater",
+   "Stillwater",
+   2.9
+  ],
+  [
+   "walk",
+   "Stillwater",
+   "Blazer / Stillwater",
+   2.9
+  ],
+  [
+   "walk",
+   "Stillwater",
+   "Blazer",
+   4.3
+  ],
+  [
+   "walk",
+   "Stillwater",
+   "Chipper 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Stillwater",
+   "Cruiser 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Stillwater",
+   "Fox Run",
+   4.2
+  ],
+  [
+   "walk",
+   "Springboard / Seven Brothers 2",
+   "Lower Bear Claw / Brookway",
+   4.4
+  ],
+  [
+   "walk",
+   "Springboard / Seven Brothers 2",
+   "Unnamed run / Lower Picked Rock",
+   4.6
+  ],
+  [
+   "walk",
+   "Springboard / Seven Brothers 2",
+   "Little Sister Double bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Exodus / Bear Claw Extension",
+   "Summit Loop / Bear Claw Extension",
+   2.2
+  ],
+  [
+   "walk",
+   "Exodus",
+   "Exodus / Bear Claw Extension",
+   3.2
+  ],
+  [
+   "walk",
+   "Exodus",
+   "Summit Loop / Bear Claw Extension",
+   3.8
+  ],
+  [
+   "walk",
+   "Summit Loop / Bear Claw Extension",
+   "Exodus / Bear Claw Extension",
+   2.2
+  ],
+  [
+   "walk",
+   "Exodus 2",
+   "Exodus / Bear Claw Extension",
+   4.2
+  ],
+  [
+   "walk",
+   "Exodus 2",
+   "Summit Loop / Bear Claw Extension",
+   4.8
+  ],
+  [
+   "walk",
+   "Exodus 3",
+   "Exodus / Bear Claw Extension",
+   2.8
+  ],
+  [
+   "walk",
+   "Exodus 3",
+   "Summit Loop / Bear Claw Extension",
+   3.4
+  ],
+  [
+   "walk",
+   "White Mountain Express top",
+   "Exodus / Bear Claw Extension",
+   5.3
+  ],
+  [
+   "walk",
+   "Kancamagus 8 top",
+   "Seven Brothers Express Quad top",
+   5.3
+  ],
+  [
+   "walk",
+   "Kancamagus 8 top",
+   "Lower Bear Claw / Grand Junction",
+   6.4
+  ],
+  [
+   "walk",
+   "Kancamagus 8 top",
+   "Unnamed run / Loon Mountain Park",
+   6.8
+  ],
+  [
+   "walk",
+   "Bear Island Bypass / Lower Speakeasy",
+   "Seven Brothers Express Quad top",
+   6.0
+  ],
+  [
+   "walk",
+   "Bear Island Bypass",
+   "Seven Brothers Express Quad top",
+   6.1
+  ],
+  [
+   "walk",
+   "Grand Junction 2",
+   "Seven Brothers Express Quad top",
+   6.2
+  ],
+  [
+   "walk",
+   "Lower Speakeasy",
+   "Seven Brothers Express Quad top",
+   6.7
+  ],
+  [
+   "walk",
+   "Slash / Lower Speakeasy",
+   "Lower Speakeasy / Lower Rumrunner",
+   4.4
+  ],
+  [
+   "walk",
+   "Slash / Lower Speakeasy",
+   "Lower Speakeasy 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Slash",
+   "Lower Speakeasy / Lower Rumrunner",
+   5.4
+  ],
+  [
+   "walk",
+   "Slash",
+   "Lower Speakeasy 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Lower Speakeasy 2",
+   "Lower Speakeasy / Lower Rumrunner",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Speakeasy 2",
+   "Sarsaparilla Carpet Lift top",
+   6.0
+  ]
+ ],
+ "base": "Lincoln Express Quad bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "New Hampshire",
+  "total_lifts": "13",
+  "downhill_trails": "97",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

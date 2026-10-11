@@ -1,0 +1,3658 @@
+{
+ "name": "Purgatory Resort",
+ "source": "OpenSkiMap ski area 66ebd7d72089d0697f49126b4fe6bfadbb08f9e0",
+ "origin_lonlat": [
+  -107.83454006467011,
+  37.625785320394186
+ ],
+ "nodes": {
+  "Snag / Legends": [
+   -756,
+   -176,
+   3155.0
+  ],
+  "Snag": [
+   -756,
+   920,
+   2856.7
+  ],
+  "When": [
+   478,
+   -778,
+   3163.6
+  ],
+  "When / Mercy": [
+   730,
+   -297,
+   3046.9
+  ],
+  "Headwaters": [
+   335,
+   -910,
+   3179.4
+  ],
+  "Headwaters / West Fork": [
+   381,
+   -649,
+   3141.9
+  ],
+  "Ray's Ridge / Elliott's": [
+   -1935,
+   -623,
+   3205.0
+  ],
+  "Ray's Ridge / Elliott's 2": [
+   -2054,
+   -44,
+   3013.3
+  ],
+  "Twilight Lift #4 top": [
+   262,
+   398,
+   3026.9
+  ],
+  "Divinity / Yellow Brick Road": [
+   1239,
+   488,
+   2845.4
+  ],
+  "Sa's Psyche / Walk-A-Lot": [
+   291,
+   -458,
+   3116.7
+  ],
+  "Engineer Lift #2 bottom": [
+   466,
+   114,
+   2993.6
+  ],
+  "Needles Lift #6 top": [
+   624,
+   -880,
+   3177.2
+  ],
+  "Bank / Angel's Road": [
+   660,
+   342,
+   2970.2
+  ],
+  "Grizzly Lift #5 top": [
+   -795,
+   -734,
+   3226.8
+  ],
+  "BD&M Expressway / Limbo": [
+   357,
+   -505,
+   3124.0
+  ],
+  "Nirvana / Upper Bank": [
+   211,
+   -403,
+   3110.9
+  ],
+  "Nirvana / Unnamed run": [
+   14,
+   159,
+   3038.4
+  ],
+  "Easiest Way Down / Hermosa Parkway": [
+   -952,
+   776,
+   2881.6
+  ],
+  "Hermosa Park Express #3 bottom": [
+   -812,
+   954,
+   2859.6
+  ],
+  "Salvation / Unnamed run": [
+   -185,
+   737,
+   2955.8
+  ],
+  "Dead Spike / Joan's Jubilee": [
+   -883,
+   -351,
+   3199.1
+  ],
+  "Dead Spike / Hermosa Parkway": [
+   -1132,
+   822,
+   2853.7
+  ],
+  "Unnamed run / Where": [
+   -259,
+   -120,
+   3089.9
+  ],
+  "Unnamed run / Zinfandel": [
+   -144,
+   -104,
+   3074.5
+  ],
+  "Legends Express #8 top": [
+   -1639,
+   -856,
+   3291.7
+  ],
+  "BD&M Expressway": [
+   -668,
+   -559,
+   3208.5
+  ],
+  "Unnamed run / 777": [
+   1043,
+   -164,
+   3013.5
+  ],
+  "Unnamed run / 777 2": [
+   982,
+   -60,
+   2991.2
+  ],
+  "Mercy": [
+   765,
+   -530,
+   3091.7
+  ],
+  "Upper Catharsis / Cherub": [
+   1217,
+   -26,
+   2937.4
+  ],
+  "Yote's Chute / Grizzly Gulley": [
+   -699,
+   588,
+   2983.6
+  ],
+  "Boudreaux's / Elliott's": [
+   -1786,
+   -769,
+   3233.0
+  ],
+  "Boudreaux's / Blackburn's Bash": [
+   -1764,
+   -428,
+   3109.0
+  ],
+  "Dirty's Secret / Siegele Street": [
+   -1671,
+   327,
+   2972.9
+  ],
+  "Unnamed lift bottom": [
+   -1764,
+   631,
+   2847.4
+  ],
+  "Upper Catharsis": [
+   1077,
+   -215,
+   3019.9
+  ],
+  "777 / Cherub": [
+   1101,
+   113,
+   2915.3
+  ],
+  "Unnamed run / Hermosa Parkway": [
+   -25,
+   464,
+   2999.2
+  ],
+  "Unnamed run / Boogie": [
+   -698,
+   967,
+   2858.2
+  ],
+  "Styx / Upper Hades": [
+   684,
+   -909,
+   3177.0
+  ],
+  "Styx / Brimstone": [
+   1671,
+   70,
+   2760.4
+  ],
+  "Airmail / Silvertip": [
+   -234,
+   -696,
+   3206.8
+  ],
+  "Airmail / Unnamed run": [
+   -64,
+   -168,
+   3074.0
+  ],
+  "Cherub / Upper Hades": [
+   1283,
+   -311,
+   2993.5
+  ],
+  "Cherub / Upper Demon": [
+   1048,
+   283,
+   2881.9
+  ],
+  "Upper Catharsis 2": [
+   1175,
+   -143,
+   2988.6
+  ],
+  "Cherub": [
+   1138,
+   74,
+   2921.0
+  ],
+  "Ray's Ridge": [
+   -1917,
+   -543,
+   3181.4
+  ],
+  "James' Gang / Blackburn's Bash": [
+   -1798,
+   -347,
+   3090.9
+  ],
+  "Cherub 2": [
+   1276,
+   -129,
+   2954.0
+  ],
+  "Pandemonium / Lower Pandemonium": [
+   1568,
+   209,
+   2780.8
+  ],
+  "Sa's Psyche": [
+   323,
+   10,
+   3034.6
+  ],
+  "BD&M Expressway 2": [
+   -1117,
+   -679,
+   3234.0
+  ],
+  "Siegele Street": [
+   -2064,
+   477,
+   2846.0
+  ],
+  "Purgatory Village Express #1 bottom": [
+   1732,
+   396,
+   2730.1
+  ],
+  "Cathedral Treeway / Legends": [
+   -1529,
+   277,
+   2994.0
+  ],
+  "Harris Hill Run / Peace": [
+   -351,
+   237,
+   3047.1
+  ],
+  "Harris Hill Run / Boogie": [
+   -471,
+   913,
+   2884.3
+  ],
+  "Path to Peace / Peace": [
+   -474,
+   30,
+   3080.4
+  ],
+  "Styx": [
+   1317,
+   -369,
+   2978.7
+  ],
+  "Sheol / Lower Hades": [
+   1600,
+   -13,
+   2815.1
+  ],
+  "BD&M Expressway 3": [
+   63,
+   -564,
+   3164.1
+  ],
+  "Nirvana": [
+   137,
+   -285,
+   3086.7
+  ],
+  "Grizzly Lift #5 bottom": [
+   -1181,
+   880,
+   2850.7
+  ],
+  "Major Fun / Vincent's": [
+   -1150,
+   -614,
+   3229.7
+  ],
+  "Cathedral Treeway": [
+   -1346,
+   93,
+   3060.0
+  ],
+  "Legends": [
+   -2046,
+   254,
+   2931.4
+  ],
+  "Legends Express #8 bottom": [
+   -2179,
+   481,
+   2846.1
+  ],
+  "Hermosa Park Express #3 top": [
+   -325,
+   -705,
+   3214.6
+  ],
+  "Silvertip": [
+   -288,
+   -730,
+   3212.7
+  ],
+  "Headwaters 2": [
+   348,
+   -704,
+   3156.3
+  ],
+  "Mercy 2": [
+   531,
+   -745,
+   3148.4
+  ],
+  "BD&M Expressway 4": [
+   -449,
+   -512,
+   3197.4
+  ],
+  "Gelande top": [
+   754,
+   -920,
+   3174.4
+  ],
+  "Brimstone / Lower Hades": [
+   1697,
+   125,
+   2747.5
+  ],
+  "Lower Demon / Upper Demon": [
+   1233,
+   352,
+   2843.9
+  ],
+  "Limbo": [
+   446,
+   -104,
+   3033.4
+  ],
+  "Mercy 3": [
+   481,
+   58,
+   2996.6
+  ],
+  "Divinity": [
+   340,
+   481,
+   3013.8
+  ],
+  "Snag 2": [
+   -614,
+   383,
+   3043.6
+  ],
+  "Hermosa Parkway": [
+   -720,
+   745,
+   2918.7
+  ],
+  "Catharsis / Tinker's Dam": [
+   1423,
+   254,
+   2828.4
+  ],
+  "Horbs / West Fork": [
+   312,
+   -1054,
+   3199.7
+  ],
+  "Purgatory Village Express #1 top": [
+   401,
+   -949,
+   3185.2
+  ],
+  "Legends 2": [
+   -1149,
+   92,
+   3088.5
+  ],
+  "Legends 3": [
+   -1401,
+   201,
+   3033.6
+  ],
+  "Legends 4": [
+   -315,
+   -646,
+   3208.8
+  ],
+  "Boogie": [
+   -216,
+   650,
+   2970.2
+  ],
+  "Elevator Shaft / Wapiti": [
+   -1082,
+   451,
+   3002.0
+  ],
+  "Elevator Shaft / Wapiti 2": [
+   -1138,
+   686,
+   2911.5
+  ],
+  "Cathedral Treeway 2": [
+   -976,
+   -173,
+   3144.0
+  ],
+  "Legends 5": [
+   -1037,
+   29,
+   3105.8
+  ],
+  "Silvertip 2": [
+   -95,
+   -692,
+   3197.4
+  ],
+  "Upper Bank / Walk-A-Lot": [
+   237,
+   -37,
+   3045.5
+  ],
+  "BD&M Expressway 5": [
+   -1430,
+   -866,
+   3266.7
+  ],
+  "Legends 6": [
+   -1983,
+   269,
+   2937.0
+  ],
+  "Limbo 2": [
+   376,
+   -429,
+   3110.3
+  ],
+  "Limbo 3": [
+   405,
+   70,
+   3003.3
+  ],
+  "Legends 7": [
+   -537,
+   -427,
+   3187.5
+  ],
+  "Engineer Lift #2 top": [
+   291,
+   -1093,
+   3201.2
+  ],
+  "Snag 3": [
+   -775,
+   -138,
+   3151.4
+  ],
+  "Gutless": [
+   -924,
+   473,
+   3002.1
+  ],
+  "Twilight Lift #4 bottom": [
+   1691,
+   507,
+   2732.6
+  ],
+  "Mercy 4": [
+   544,
+   -871,
+   3176.5
+  ],
+  "Cherub 3": [
+   1036,
+   222,
+   2893.0
+  ],
+  "Tinker's Detour / Tinker's Dam": [
+   1511,
+   373,
+   2773.7
+  ],
+  "Angel's Road": [
+   834,
+   505,
+   2937.1
+  ],
+  "Headwaters 3": [
+   402,
+   -753,
+   3153.7
+  ],
+  "Unnamed run / Walk-A-Lot": [
+   -11,
+   -301,
+   3098.1
+  ],
+  "Legends 8": [
+   -1791,
+   258,
+   2961.0
+  ],
+  "Limbo 4": [
+   496,
+   -189,
+   3042.4
+  ],
+  "Chet's": [
+   -1823,
+   -13,
+   3021.3
+  ],
+  "BD&M Expressway 6": [
+   -1276,
+   -809,
+   3243.8
+  ],
+  "Hermosa Parkway 2": [
+   -829,
+   755,
+   2903.9
+  ],
+  "Lower Pandemonium": [
+   1716,
+   342,
+   2730.4
+  ],
+  "Ray's Ridge 2": [
+   -1886,
+   -376,
+   3119.3
+  ],
+  "Blackburn's Bash": [
+   -1834,
+   -260,
+   3069.4
+  ],
+  "Styx 2": [
+   1597,
+   -149,
+   2832.3
+  ],
+  "Gelande Dead End": [
+   1864,
+   -305,
+   2695.8
+  ],
+  "Cherub 4": [
+   1294,
+   -227,
+   2978.0
+  ],
+  "Lower Demon": [
+   1270,
+   368,
+   2828.5
+  ],
+  "Mercy 5": [
+   578,
+   -715,
+   3141.3
+  ],
+  "When 2": [
+   747,
+   -347,
+   3052.5
+  ],
+  "Hermosa Parkway 3": [
+   -632,
+   741,
+   2928.0
+  ],
+  "Snag 4": [
+   -654,
+   865,
+   2878.3
+  ],
+  "Columbine Lift #9 bottom": [
+   2085,
+   251,
+   2679.5
+  ],
+  "Columbine Lift #9 top": [
+   1931,
+   273,
+   2702.3
+  ],
+  "Unnamed lift bottom 2": [
+   1632,
+   497,
+   2740.7
+  ],
+  "Unnamed lift top": [
+   1588,
+   481,
+   2745.9
+  ],
+  "Unnamed lift top 2": [
+   -1953,
+   564,
+   2848.1
+  ],
+  "Unnamed lift bottom 3": [
+   -2124,
+   488,
+   2842.8
+  ],
+  "Graduate Lift #7 bottom": [
+   2060,
+   320,
+   2681.6
+  ],
+  "Graduate Lift #7 top": [
+   1760,
+   361,
+   2729.9
+  ],
+  "Gelande bottom": [
+   1869,
+   -386,
+   2699.0
+  ],
+  "Ski School Magic Carpet #10 bottom": [
+   2082,
+   370,
+   2681.3
+  ],
+  "Ski School Magic Carpet #10 top": [
+   2036,
+   369,
+   2685.1
+  ]
+ },
+ "lifts": [
+  [
+   "Hermosa Park Express #3",
+   "Hermosa Park Express #3 bottom",
+   "Hermosa Park Express #3 top",
+   9.0
+  ],
+  [
+   "Columbine Lift #9",
+   "Columbine Lift #9 bottom",
+   "Columbine Lift #9 top",
+   4.1
+  ],
+  [
+   "Purgatory Village Express #1",
+   "Purgatory Village Express #1 bottom",
+   "Purgatory Village Express #1 top",
+   9.6
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top",
+   4.0
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 3",
+   "Unnamed lift top 2",
+   4.0
+  ],
+  [
+   "Graduate Lift #7",
+   "Graduate Lift #7 bottom",
+   "Graduate Lift #7 top",
+   5.2
+  ],
+  [
+   "Grizzly Lift #5",
+   "Grizzly Lift #5 bottom",
+   "Grizzly Lift #5 top",
+   15.4
+  ],
+  [
+   "Engineer Lift #2",
+   "Engineer Lift #2 bottom",
+   "Engineer Lift #2 top",
+   12.0
+  ],
+  [
+   "Twilight Lift #4",
+   "Twilight Lift #4 bottom",
+   "Twilight Lift #4 top",
+   13.8
+  ],
+  [
+   "Needles Lift #6",
+   "Purgatory Village Express #1 bottom",
+   "Needles Lift #6 top",
+   15.7
+  ],
+  [
+   "Legends Express #8",
+   "Legends Express #8 bottom",
+   "Legends Express #8 top",
+   8.1
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom",
+   "Unnamed lift top 2",
+   4.0
+  ],
+  [
+   "Gelande",
+   "Gelande bottom",
+   "Gelande top",
+   12.6
+  ],
+  [
+   "Ski School Magic Carpet #10",
+   "Ski School Magic Carpet #10 bottom",
+   "Ski School Magic Carpet #10 top",
+   4.0
+  ]
+ ],
+ "runs": [
+  [
+   "Snag",
+   "Snag / Legends",
+   "Snag 3",
+   0.5
+  ],
+  [
+   "Snag",
+   "Snag 3",
+   "Snag 2",
+   2.2
+  ],
+  [
+   "Snag",
+   "Snag 2",
+   "Snag 4",
+   2.4
+  ],
+  [
+   "Snag",
+   "Snag 4",
+   "Snag",
+   0.5
+  ],
+  [
+   "When",
+   "When",
+   "When 2",
+   2.2
+  ],
+  [
+   "When",
+   "When 2",
+   "When / Mercy",
+   0.5
+  ],
+  [
+   "Headwaters",
+   "Headwaters",
+   "Headwaters 3",
+   0.6
+  ],
+  [
+   "Headwaters",
+   "Headwaters 3",
+   "Headwaters 2",
+   0.5
+  ],
+  [
+   "Headwaters",
+   "Headwaters 2",
+   "Headwaters / West Fork",
+   0.5
+  ],
+  [
+   "Ray's Ridge",
+   "Ray's Ridge / Elliott's",
+   "Ray's Ridge",
+   0.5
+  ],
+  [
+   "Ray's Ridge",
+   "Ray's Ridge",
+   "Ray's Ridge 2",
+   0.8
+  ],
+  [
+   "Ray's Ridge",
+   "Ray's Ridge 2",
+   "Ray's Ridge / Elliott's 2",
+   1.7
+  ],
+  [
+   "Divinity",
+   "Twilight Lift #4 top",
+   "Divinity",
+   0.5
+  ],
+  [
+   "Divinity",
+   "Divinity",
+   "Divinity / Yellow Brick Road",
+   4.8
+  ],
+  [
+   "Sa's Psyche",
+   "Sa's Psyche / Walk-A-Lot",
+   "Sa's Psyche",
+   1.9
+  ],
+  [
+   "Sa's Psyche",
+   "Sa's Psyche",
+   "Engineer Lift #2 bottom",
+   1.6
+  ],
+  [
+   "Mercy",
+   "Needles Lift #6 top",
+   "Mercy 4",
+   0.5
+  ],
+  [
+   "Mercy",
+   "Mercy 4",
+   "Mercy 2",
+   0.6
+  ],
+  [
+   "Mercy",
+   "Mercy 2",
+   "Mercy 5",
+   0.5
+  ],
+  [
+   "Mercy",
+   "Mercy 5",
+   "Mercy",
+   1.1
+  ],
+  [
+   "Mercy",
+   "Mercy",
+   "When 2",
+   0.8
+  ],
+  [
+   "Mercy",
+   "When 2",
+   "When / Mercy",
+   0.5
+  ],
+  [
+   "Mercy",
+   "When / Mercy",
+   "Mercy 3",
+   1.9
+  ],
+  [
+   "Mercy",
+   "Mercy 3",
+   "Engineer Lift #2 bottom",
+   0.5
+  ],
+  [
+   "Bank",
+   "Twilight Lift #4 top",
+   "Bank / Angel's Road",
+   2.1
+  ],
+  [
+   "BD&M Expressway",
+   "Grizzly Lift #5 top",
+   "BD&M Expressway",
+   0.8
+  ],
+  [
+   "BD&M Expressway",
+   "BD&M Expressway",
+   "BD&M Expressway 4",
+   0.9
+  ],
+  [
+   "BD&M Expressway",
+   "BD&M Expressway 4",
+   "BD&M Expressway 3",
+   2.2
+  ],
+  [
+   "BD&M Expressway",
+   "BD&M Expressway 3",
+   "BD&M Expressway / Limbo",
+   1.4
+  ],
+  [
+   "Nirvana",
+   "Nirvana / Upper Bank",
+   "Nirvana",
+   0.5
+  ],
+  [
+   "Nirvana",
+   "Nirvana",
+   "Nirvana / Unnamed run",
+   2.1
+  ],
+  [
+   "Easiest Way Down",
+   "Easiest Way Down / Hermosa Parkway",
+   "Hermosa Park Express #3 bottom",
+   0.8
+  ],
+  [
+   "Salvation",
+   "Twilight Lift #4 top",
+   "Salvation / Unnamed run",
+   2.3
+  ],
+  [
+   "Dead Spike",
+   "Dead Spike / Joan's Jubilee",
+   "Dead Spike / Hermosa Parkway",
+   5.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Where",
+   "Unnamed run / Zinfandel",
+   0.5
+  ],
+  [
+   "BD&M Expressway",
+   "Legends Express #8 top",
+   "BD&M Expressway 5",
+   0.8
+  ],
+  [
+   "BD&M Expressway",
+   "BD&M Expressway 5",
+   "BD&M Expressway 6",
+   0.7
+  ],
+  [
+   "BD&M Expressway",
+   "BD&M Expressway 6",
+   "BD&M Expressway 2",
+   0.9
+  ],
+  [
+   "BD&M Expressway",
+   "BD&M Expressway 2",
+   "BD&M Expressway",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / 777",
+   "Unnamed run / 777 2",
+   0.5
+  ],
+  [
+   "Upper Catharsis",
+   "Mercy",
+   "Upper Catharsis",
+   1.8
+  ],
+  [
+   "Upper Catharsis",
+   "Upper Catharsis",
+   "Upper Catharsis 2",
+   0.5
+  ],
+  [
+   "Upper Catharsis",
+   "Upper Catharsis 2",
+   "Upper Catharsis / Cherub",
+   0.6
+  ],
+  [
+   "Boudreaux's",
+   "Boudreaux's / Elliott's",
+   "Boudreaux's / Blackburn's Bash",
+   1.4
+  ],
+  [
+   "Dirty's Secret",
+   "Dirty's Secret / Siegele Street",
+   "Unnamed lift bottom",
+   1.4
+  ],
+  [
+   "777",
+   "Upper Catharsis",
+   "Unnamed run / 777",
+   0.5
+  ],
+  [
+   "777",
+   "Unnamed run / 777",
+   "Unnamed run / 777 2",
+   0.5
+  ],
+  [
+   "777",
+   "Unnamed run / 777 2",
+   "777 / Cherub",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Hermosa Parkway",
+   "Salvation / Unnamed run",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Salvation / Unnamed run",
+   "Unnamed run / Boogie",
+   2.8
+  ],
+  [
+   "Limbo",
+   "BD&M Expressway / Limbo",
+   "Limbo 2",
+   0.5
+  ],
+  [
+   "Limbo",
+   "Limbo 2",
+   "Limbo 4",
+   1.1
+  ],
+  [
+   "Limbo",
+   "Limbo 4",
+   "Limbo",
+   0.5
+  ],
+  [
+   "Limbo",
+   "Limbo",
+   "Limbo 3",
+   0.8
+  ],
+  [
+   "Limbo",
+   "Limbo 3",
+   "Engineer Lift #2 bottom",
+   0.5
+  ],
+  [
+   "Styx",
+   "Styx / Upper Hades",
+   "Gelande top",
+   0.5
+  ],
+  [
+   "Styx",
+   "Gelande top",
+   "Styx",
+   3.5
+  ],
+  [
+   "Styx",
+   "Styx",
+   "Styx 2",
+   1.7
+  ],
+  [
+   "Styx",
+   "Styx 2",
+   "Styx / Brimstone",
+   1.0
+  ],
+  [
+   "Airmail",
+   "Airmail / Silvertip",
+   "Airmail / Unnamed run",
+   2.3
+  ],
+  [
+   "Cherub",
+   "Cherub / Upper Hades",
+   "Cherub 4",
+   0.5
+  ],
+  [
+   "Cherub",
+   "Cherub 4",
+   "Cherub 2",
+   0.5
+  ],
+  [
+   "Cherub",
+   "Cherub 2",
+   "Upper Catharsis / Cherub",
+   0.5
+  ],
+  [
+   "Cherub",
+   "Upper Catharsis / Cherub",
+   "Cherub",
+   0.6
+  ],
+  [
+   "Cherub",
+   "Cherub",
+   "777 / Cherub",
+   0.5
+  ],
+  [
+   "Cherub",
+   "777 / Cherub",
+   "Cherub 3",
+   0.6
+  ],
+  [
+   "Cherub",
+   "Cherub 3",
+   "Cherub / Upper Demon",
+   0.5
+  ],
+  [
+   "666",
+   "Upper Catharsis 2",
+   "Cherub",
+   1.1
+  ],
+  [
+   "James' Gang",
+   "Ray's Ridge",
+   "James' Gang / Blackburn's Bash",
+   0.9
+  ],
+  [
+   "Pandemonium",
+   "Cherub 2",
+   "Pandemonium / Lower Pandemonium",
+   1.9
+  ],
+  [
+   "El Diablo",
+   "Sa's Psyche",
+   "Limbo 3",
+   0.5
+  ],
+  [
+   "El Diablo",
+   "Limbo 3",
+   "Engineer Lift #2 bottom",
+   0.5
+  ],
+  [
+   "Joan's Jubilee",
+   "BD&M Expressway 2",
+   "Dead Spike / Joan's Jubilee",
+   1.6
+  ],
+  [
+   "Siegele Street",
+   "Dirty's Secret / Siegele Street",
+   "Siegele Street",
+   2.0
+  ],
+  [
+   "Lower Pandemonium",
+   "Pandemonium / Lower Pandemonium",
+   "Lower Pandemonium",
+   0.8
+  ],
+  [
+   "Lower Pandemonium",
+   "Lower Pandemonium",
+   "Purgatory Village Express #1 bottom",
+   0.5
+  ],
+  [
+   "Cathedral Treeway",
+   "Dead Spike / Joan's Jubilee",
+   "Cathedral Treeway 2",
+   0.7
+  ],
+  [
+   "Cathedral Treeway",
+   "Cathedral Treeway 2",
+   "Cathedral Treeway",
+   1.9
+  ],
+  [
+   "Cathedral Treeway",
+   "Cathedral Treeway",
+   "Cathedral Treeway / Legends",
+   1.2
+  ],
+  [
+   "Harris Hill Run",
+   "Harris Hill Run / Peace",
+   "Harris Hill Run / Boogie",
+   3.1
+  ],
+  [
+   "Path to Peace",
+   "Dead Spike / Joan's Jubilee",
+   "Path to Peace / Peace",
+   2.3
+  ],
+  [
+   "Upper Hades",
+   "Needles Lift #6 top",
+   "Styx / Upper Hades",
+   0.5
+  ],
+  [
+   "Upper Hades",
+   "Styx / Upper Hades",
+   "Cherub / Upper Hades",
+   3.6
+  ],
+  [
+   "Sheol",
+   "Styx",
+   "Styx 2",
+   1.6
+  ],
+  [
+   "Sheol",
+   "Styx 2",
+   "Sheol / Lower Hades",
+   0.5
+  ],
+  [
+   "Cool It",
+   "BD&M Expressway 3",
+   "Nirvana",
+   1.1
+  ],
+  [
+   "Hermosa Parkway",
+   "Unnamed run / Hermosa Parkway",
+   "Hermosa Parkway 3",
+   2.8
+  ],
+  [
+   "Hermosa Parkway",
+   "Hermosa Parkway 3",
+   "Hermosa Parkway",
+   0.5
+  ],
+  [
+   "Hermosa Parkway",
+   "Hermosa Parkway",
+   "Hermosa Parkway 2",
+   0.5
+  ],
+  [
+   "Hermosa Parkway",
+   "Hermosa Parkway 2",
+   "Easiest Way Down / Hermosa Parkway",
+   0.5
+  ],
+  [
+   "Hermosa Parkway",
+   "Easiest Way Down / Hermosa Parkway",
+   "Dead Spike / Hermosa Parkway",
+   0.8
+  ],
+  [
+   "Hermosa Parkway",
+   "Dead Spike / Hermosa Parkway",
+   "Grizzly Lift #5 bottom",
+   0.5
+  ],
+  [
+   "Major Fun",
+   "Major Fun / Vincent's",
+   "Cathedral Treeway",
+   3.2
+  ],
+  [
+   "Legends",
+   "Legends",
+   "Legends Express #8 bottom",
+   2.4
+  ],
+  [
+   "Legends",
+   "Hermosa Park Express #3 top",
+   "Legends 4",
+   0.5
+  ],
+  [
+   "Legends",
+   "Legends 4",
+   "BD&M Expressway 4",
+   0.7
+  ],
+  [
+   "Legends",
+   "BD&M Expressway 4",
+   "Legends 7",
+   0.5
+  ],
+  [
+   "Legends",
+   "Legends 7",
+   "Snag / Legends",
+   1.5
+  ],
+  [
+   "Legends",
+   "Snag / Legends",
+   "Snag 3",
+   0.5
+  ],
+  [
+   "Legends",
+   "Snag 3",
+   "Legends 5",
+   1.3
+  ],
+  [
+   "Legends",
+   "Legends 5",
+   "Legends 2",
+   0.5
+  ],
+  [
+   "Legends",
+   "Legends 2",
+   "Legends 3",
+   1.2
+  ],
+  [
+   "Legends",
+   "Legends 3",
+   "Cathedral Treeway / Legends",
+   0.6
+  ],
+  [
+   "Legends",
+   "Cathedral Treeway / Legends",
+   "Dirty's Secret / Siegele Street",
+   0.6
+  ],
+  [
+   "Legends",
+   "Dirty's Secret / Siegele Street",
+   "Legends 8",
+   0.5
+  ],
+  [
+   "Legends",
+   "Legends 8",
+   "Legends 6",
+   0.8
+  ],
+  [
+   "Legends",
+   "Legends 6",
+   "Legends",
+   0.5
+  ],
+  [
+   "Silvertip",
+   "Silvertip",
+   "Airmail / Silvertip",
+   0.5
+  ],
+  [
+   "Silvertip",
+   "Airmail / Silvertip",
+   "Silvertip 2",
+   0.6
+  ],
+  [
+   "Silvertip",
+   "Silvertip 2",
+   "Headwaters 2",
+   2.0
+  ],
+  [
+   "Mark's Park",
+   "Mercy 2",
+   "Mercy 5",
+   0.5
+  ],
+  [
+   "Mark's Park",
+   "Mercy 5",
+   "When 2",
+   1.6
+  ],
+  [
+   "Mark's Park",
+   "When 2",
+   "When / Mercy",
+   0.5
+  ],
+  [
+   "Boogie",
+   "BD&M Expressway 4",
+   "Boogie",
+   5.2
+  ],
+  [
+   "Boogie",
+   "Boogie",
+   "Harris Hill Run / Boogie",
+   1.6
+  ],
+  [
+   "Boogie",
+   "Harris Hill Run / Boogie",
+   "Unnamed run / Boogie",
+   1.0
+  ],
+  [
+   "Brimstone",
+   "Gelande top",
+   "Styx / Brimstone",
+   6.2
+  ],
+  [
+   "Brimstone",
+   "Styx / Brimstone",
+   "Brimstone / Lower Hades",
+   0.5
+  ],
+  [
+   "Lower Demon",
+   "Lower Demon / Upper Demon",
+   "Lower Demon",
+   0.5
+  ],
+  [
+   "Lower Demon",
+   "Lower Demon",
+   "Purgatory Village Express #1 bottom",
+   1.9
+  ],
+  [
+   "Blackburn's Bash",
+   "Legends Express #8 top",
+   "Boudreaux's / Blackburn's Bash",
+   1.9
+  ],
+  [
+   "Blackburn's Bash",
+   "Boudreaux's / Blackburn's Bash",
+   "James' Gang / Blackburn's Bash",
+   0.5
+  ],
+  [
+   "Blackburn's Bash",
+   "James' Gang / Blackburn's Bash",
+   "Blackburn's Bash",
+   0.5
+  ],
+  [
+   "Blackburn's Bash",
+   "Blackburn's Bash",
+   "Legends",
+   2.4
+  ],
+  [
+   "Blackburn's Bash",
+   "Legends",
+   "Legends Express #8 bottom",
+   1.2
+  ],
+  [
+   "Limbo Alley",
+   "Limbo",
+   "Mercy 3",
+   0.6
+  ],
+  [
+   "Yellow Brick Road",
+   "Divinity",
+   "Divinity / Yellow Brick Road",
+   7.6
+  ],
+  [
+   "Yellow Brick Road",
+   "Divinity / Yellow Brick Road",
+   "Lower Demon",
+   0.5
+  ],
+  [
+   "Yellow Brick Road",
+   "Lower Demon",
+   "Pandemonium / Lower Pandemonium",
+   1.4
+  ],
+  [
+   "Grizzly Gulley",
+   "Snag 2",
+   "Yote's Chute / Grizzly Gulley",
+   0.9
+  ],
+  [
+   "Grizzly Gulley",
+   "Yote's Chute / Grizzly Gulley",
+   "Hermosa Parkway",
+   0.6
+  ],
+  [
+   "Catharsis",
+   "Upper Catharsis / Cherub",
+   "Catharsis / Tinker's Dam",
+   1.4
+  ],
+  [
+   "Horbs",
+   "Horbs / West Fork",
+   "Purgatory Village Express #1 top",
+   0.5
+  ],
+  [
+   "Gateway",
+   "Legends 2",
+   "Cathedral Treeway",
+   0.8
+  ],
+  [
+   "Gateway",
+   "Cathedral Treeway",
+   "Legends 3",
+   0.5
+  ],
+  [
+   "Zinfandel",
+   "Legends 4",
+   "Unnamed run / Zinfandel",
+   2.3
+  ],
+  [
+   "Zinfandel",
+   "Unnamed run / Zinfandel",
+   "Unnamed run / Hermosa Parkway",
+   2.7
+  ],
+  [
+   "Zinfandel",
+   "Unnamed run / Hermosa Parkway",
+   "Boogie",
+   0.9
+  ],
+  [
+   "Elevator Shaft",
+   "Elevator Shaft / Wapiti",
+   "Elevator Shaft / Wapiti 2",
+   0.9
+  ],
+  [
+   "Bull Run",
+   "Cathedral Treeway 2",
+   "Legends 5",
+   0.8
+  ],
+  [
+   "Upper Bank",
+   "Silvertip 2",
+   "BD&M Expressway 3",
+   0.7
+  ],
+  [
+   "Upper Bank",
+   "BD&M Expressway 3",
+   "Nirvana / Upper Bank",
+   1.3
+  ],
+  [
+   "Upper Bank",
+   "Nirvana / Upper Bank",
+   "Upper Bank / Walk-A-Lot",
+   1.5
+  ],
+  [
+   "Chet's",
+   "BD&M Expressway 5",
+   "Chet's",
+   4.3
+  ],
+  [
+   "Chet's",
+   "Chet's",
+   "Legends 6",
+   1.5
+  ],
+  [
+   "Westfork",
+   "Limbo 2",
+   "Sa's Psyche",
+   1.8
+  ],
+  [
+   "Westfork",
+   "Sa's Psyche",
+   "Limbo 3",
+   0.5
+  ],
+  [
+   "Peace",
+   "Legends 7",
+   "Path to Peace / Peace",
+   1.9
+  ],
+  [
+   "Peace",
+   "Path to Peace / Peace",
+   "Harris Hill Run / Peace",
+   1.0
+  ],
+  [
+   "Peace",
+   "Harris Hill Run / Peace",
+   "Harris Hill Run / Boogie",
+   3.2
+  ],
+  [
+   "Peace",
+   "Harris Hill Run / Boogie",
+   "Unnamed run / Boogie",
+   1.0
+  ],
+  [
+   "Peace",
+   "Unnamed run / Boogie",
+   "Hermosa Park Express #3 bottom",
+   0.5
+  ],
+  [
+   "West Fork",
+   "Engineer Lift #2 top",
+   "Horbs / West Fork",
+   0.5
+  ],
+  [
+   "West Fork",
+   "Horbs / West Fork",
+   "Purgatory Village Express #1 top",
+   0.6
+  ],
+  [
+   "West Fork",
+   "Purgatory Village Express #1 top",
+   "Headwaters 3",
+   0.9
+  ],
+  [
+   "West Fork",
+   "Headwaters 3",
+   "Headwaters 2",
+   0.5
+  ],
+  [
+   "West Fork",
+   "Headwaters 2",
+   "Headwaters / West Fork",
+   0.5
+  ],
+  [
+   "West Fork",
+   "Headwaters / West Fork",
+   "BD&M Expressway / Limbo",
+   0.7
+  ],
+  [
+   "West Fork",
+   "BD&M Expressway / Limbo",
+   "Limbo 2",
+   0.5
+  ],
+  [
+   "Gutless",
+   "Snag 3",
+   "Gutless",
+   2.6
+  ],
+  [
+   "Lower Divinity",
+   "Divinity / Yellow Brick Road",
+   "Unnamed lift top",
+   1.7
+  ],
+  [
+   "Lower Divinity",
+   "Unnamed lift top",
+   "Unnamed lift bottom 2",
+   0.5
+  ],
+  [
+   "Lower Divinity",
+   "Unnamed lift bottom 2",
+   "Twilight Lift #4 bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Purgatory Village Express #1 top",
+   "Mercy 4",
+   0.5
+  ],
+  [
+   "Tinker's Detour",
+   "Cherub 3",
+   "Tinker's Detour / Tinker's Dam",
+   2.1
+  ],
+  [
+   "Angel's Road",
+   "Engineer Lift #2 bottom",
+   "Bank / Angel's Road",
+   1.0
+  ],
+  [
+   "Angel's Road",
+   "Bank / Angel's Road",
+   "Angel's Road",
+   1.0
+  ],
+  [
+   "Angel's Road",
+   "Angel's Road",
+   "Divinity / Yellow Brick Road",
+   2.1
+  ],
+  [
+   "Columbine",
+   "Twilight Lift #4 top",
+   "Angel's Road",
+   2.4
+  ],
+  [
+   "What",
+   "Headwaters 3",
+   "When / Mercy",
+   2.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Walk-A-Lot",
+   "Airmail / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Airmail / Unnamed run",
+   "Nirvana / Unnamed run",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Nirvana / Unnamed run",
+   "Unnamed run / Hermosa Parkway",
+   1.6
+  ],
+  [
+   "Upper Demon",
+   "Engineer Lift #2 bottom",
+   "Cherub / Upper Demon",
+   2.3
+  ],
+  [
+   "Upper Demon",
+   "Cherub / Upper Demon",
+   "Lower Demon / Upper Demon",
+   0.9
+  ],
+  [
+   "Vincent's",
+   "BD&M Expressway 2",
+   "Major Fun / Vincent's",
+   0.5
+  ],
+  [
+   "Vincent's",
+   "Major Fun / Vincent's",
+   "Legends 8",
+   4.9
+  ],
+  [
+   "Walk-A-Lot",
+   "BD&M Expressway / Limbo",
+   "Sa's Psyche / Walk-A-Lot",
+   0.5
+  ],
+  [
+   "Walk-A-Lot",
+   "Sa's Psyche / Walk-A-Lot",
+   "Nirvana / Upper Bank",
+   0.5
+  ],
+  [
+   "Walk-A-Lot",
+   "Nirvana / Upper Bank",
+   "Unnamed run / Walk-A-Lot",
+   1.0
+  ],
+  [
+   "Walk-A-Lot",
+   "Unnamed run / Walk-A-Lot",
+   "Airmail / Unnamed run",
+   1.4
+  ],
+  [
+   "Walk-A-Lot",
+   "Airmail / Unnamed run",
+   "Upper Bank / Walk-A-Lot",
+   1.6
+  ],
+  [
+   "Walk-A-Lot",
+   "Upper Bank / Walk-A-Lot",
+   "Engineer Lift #2 bottom",
+   2.4
+  ],
+  [
+   "Unnamed run",
+   "Chet's",
+   "Legends",
+   1.5
+  ],
+  [
+   "Sally's Run",
+   "BD&M Expressway 6",
+   "Legends 8",
+   5.2
+  ],
+  [
+   "Crazy Joe's",
+   "Yote's Chute / Grizzly Gulley",
+   "Hermosa Parkway 2",
+   1.0
+  ],
+  [
+   "Wapiti",
+   "Dead Spike / Joan's Jubilee",
+   "Cathedral Treeway 2",
+   0.7
+  ],
+  [
+   "Wapiti",
+   "Cathedral Treeway 2",
+   "Elevator Shaft / Wapiti",
+   2.6
+  ],
+  [
+   "Wapiti",
+   "Elevator Shaft / Wapiti",
+   "Elevator Shaft / Wapiti 2",
+   1.1
+  ],
+  [
+   "Wapiti",
+   "Elevator Shaft / Wapiti 2",
+   "Grizzly Lift #5 bottom",
+   0.8
+  ],
+  [
+   "Where",
+   "Hermosa Park Express #3 top",
+   "Legends 4",
+   0.5
+  ],
+  [
+   "Where",
+   "Legends 4",
+   "Unnamed run / Where",
+   2.3
+  ],
+  [
+   "Where",
+   "Unnamed run / Where",
+   "Boogie",
+   3.3
+  ],
+  [
+   "Where",
+   "Boogie",
+   "Salvation / Unnamed run",
+   0.5
+  ],
+  [
+   "Where",
+   "Salvation / Unnamed run",
+   "Unnamed run / Boogie",
+   2.5
+  ],
+  [
+   "Lower Hades",
+   "Cherub / Upper Hades",
+   "Sheol / Lower Hades",
+   1.9
+  ],
+  [
+   "Lower Hades",
+   "Sheol / Lower Hades",
+   "Styx / Brimstone",
+   0.5
+  ],
+  [
+   "Lower Hades",
+   "Styx / Brimstone",
+   "Brimstone / Lower Hades",
+   0.5
+  ],
+  [
+   "Lower Hades",
+   "Brimstone / Lower Hades",
+   "Lower Pandemonium",
+   0.8
+  ],
+  [
+   "Tinker's Dam",
+   "777 / Cherub",
+   "Catharsis / Tinker's Dam",
+   1.4
+  ],
+  [
+   "Tinker's Dam",
+   "Catharsis / Tinker's Dam",
+   "Tinker's Detour / Tinker's Dam",
+   0.6
+  ],
+  [
+   "Tinker's Dam",
+   "Tinker's Detour / Tinker's Dam",
+   "Purgatory Village Express #1 bottom",
+   1.0
+  ],
+  [
+   "Kim-Kim",
+   "Ray's Ridge 2",
+   "Blackburn's Bash",
+   0.5
+  ],
+  [
+   "Elliott's",
+   "Legends Express #8 top",
+   "Boudreaux's / Elliott's",
+   0.6
+  ],
+  [
+   "Elliott's",
+   "Boudreaux's / Elliott's",
+   "Ray's Ridge / Elliott's",
+   0.9
+  ],
+  [
+   "Elliott's",
+   "Ray's Ridge / Elliott's",
+   "Ray's Ridge / Elliott's 2",
+   2.7
+  ],
+  [
+   "Elliott's",
+   "Ray's Ridge / Elliott's 2",
+   "Legends Express #8 bottom",
+   2.5
+  ],
+  [
+   "Unnamed run",
+   "Purgatory Village Express #1 top",
+   "Headwaters 3",
+   0.7
+  ],
+  [
+   "Gelande Dead End",
+   "Styx 2",
+   "Gelande Dead End",
+   1.3
+  ],
+  [
+   "Paradise",
+   "Mercy 4",
+   "Cherub / Upper Hades",
+   4.0
+  ],
+  [
+   "Paradise",
+   "Cherub / Upper Hades",
+   "Cherub 4",
+   0.5
+  ],
+  [
+   "Lower Bank",
+   "Bank / Angel's Road",
+   "Lower Demon / Upper Demon",
+   2.5
+  ],
+  [
+   "Lower Bank",
+   "Lower Demon / Upper Demon",
+   "Lower Demon",
+   0.5
+  ],
+  [
+   "Who",
+   "Mercy 5",
+   "When 2",
+   1.6
+  ],
+  [
+   "Gunsight",
+   "Hermosa Parkway 3",
+   "Snag 4",
+   0.5
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Snag",
+   "Hermosa Park Express #3 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Snag",
+   "Unnamed run / Boogie",
+   1.0
+  ],
+  [
+   "walk",
+   "When",
+   "Needles Lift #6 top",
+   2.5
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "Purgatory Village Express #1 top",
+   1.1
+  ],
+  [
+   "walk",
+   "Twilight Lift #4 top",
+   "Divinity",
+   1.6
+  ],
+  [
+   "walk",
+   "Engineer Lift #2 bottom",
+   "Mercy 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Engineer Lift #2 bottom",
+   "Limbo 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Needles Lift #6 top",
+   "When",
+   2.5
+  ],
+  [
+   "walk",
+   "Needles Lift #6 top",
+   "Styx / Upper Hades",
+   0.9
+  ],
+  [
+   "walk",
+   "Needles Lift #6 top",
+   "Mercy 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Needles Lift #6 top",
+   "Gelande top",
+   1.9
+  ],
+  [
+   "walk",
+   "Needles Lift #6 top",
+   "Purgatory Village Express #1 top",
+   3.2
+  ],
+  [
+   "walk",
+   "Needles Lift #6 top",
+   "Mercy 4",
+   1.1
+  ],
+  [
+   "walk",
+   "Needles Lift #6 top",
+   "Mercy 5",
+   2.4
+  ],
+  [
+   "walk",
+   "Grizzly Lift #5 top",
+   "BD&M Expressway",
+   3.0
+  ],
+  [
+   "walk",
+   "Easiest Way Down / Hermosa Parkway",
+   "Hermosa Park Express #3 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Hermosa Park Express #3 bottom",
+   "Snag",
+   0.9
+  ],
+  [
+   "walk",
+   "Hermosa Park Express #3 bottom",
+   "Unnamed run / Boogie",
+   1.6
+  ],
+  [
+   "walk",
+   "Dead Spike / Hermosa Parkway",
+   "Grizzly Lift #5 bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Legends Express #8 top",
+   "Boudreaux's / Elliott's",
+   2.4
+  ],
+  [
+   "walk",
+   "Legends Express #8 top",
+   "BD&M Expressway 5",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift top 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Boogie",
+   "Hermosa Park Express #3 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Styx / Upper Hades",
+   "Needles Lift #6 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Styx / Upper Hades",
+   "Gelande top",
+   1.0
+  ],
+  [
+   "walk",
+   "Airmail / Silvertip",
+   "Hermosa Park Express #3 top",
+   1.3
+  ],
+  [
+   "walk",
+   "Pandemonium / Lower Pandemonium",
+   "Purgatory Village Express #1 bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Pandemonium / Lower Pandemonium",
+   "Graduate Lift #7 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Sa's Psyche",
+   "Engineer Lift #2 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Siegele Street",
+   "Legends Express #8 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Siegele Street",
+   "Unnamed lift top 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Siegele Street",
+   "Unnamed lift bottom 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 bottom",
+   "Twilight Lift #4 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 bottom",
+   "Lower Pandemonium",
+   0.8
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 bottom",
+   "Columbine Lift #9 top",
+   3.2
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 bottom",
+   "Unnamed lift bottom 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 bottom",
+   "Graduate Lift #7 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Grizzly Lift #5 bottom",
+   "Dead Spike / Hermosa Parkway",
+   1.1
+  ],
+  [
+   "walk",
+   "Legends",
+   "Unnamed lift bottom 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Legends Express #8 bottom",
+   "Siegele Street",
+   1.6
+  ],
+  [
+   "walk",
+   "Legends Express #8 bottom",
+   "Unnamed lift top 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Legends Express #8 bottom",
+   "Unnamed lift bottom 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Hermosa Park Express #3 top",
+   "Airmail / Silvertip",
+   1.3
+  ],
+  [
+   "walk",
+   "Hermosa Park Express #3 top",
+   "Silvertip",
+   0.6
+  ],
+  [
+   "walk",
+   "Hermosa Park Express #3 top",
+   "BD&M Expressway 4",
+   3.2
+  ],
+  [
+   "walk",
+   "Hermosa Park Express #3 top",
+   "Legends 4",
+   0.8
+  ],
+  [
+   "walk",
+   "Hermosa Park Express #3 top",
+   "Silvertip 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Silvertip",
+   "Hermosa Park Express #3 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Gelande top",
+   "Needles Lift #6 top",
+   1.9
+  ],
+  [
+   "walk",
+   "Gelande top",
+   "Styx / Upper Hades",
+   1.0
+  ],
+  [
+   "walk",
+   "Gelande top",
+   "Mercy 4",
+   3.0
+  ],
+  [
+   "walk",
+   "Brimstone / Lower Hades",
+   "Graduate Lift #7 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Limbo",
+   "Engineer Lift #2 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Mercy 3",
+   "Engineer Lift #2 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Divinity",
+   "Twilight Lift #4 top",
+   1.6
+  ],
+  [
+   "walk",
+   "Hermosa Parkway",
+   "Hermosa Park Express #3 bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Horbs / West Fork",
+   "Purgatory Village Express #1 top",
+   1.9
+  ],
+  [
+   "walk",
+   "Horbs / West Fork",
+   "Engineer Lift #2 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 top",
+   "When",
+   2.6
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 top",
+   "Headwaters",
+   1.1
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 top",
+   "Needles Lift #6 top",
+   3.2
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 top",
+   "Mercy 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 top",
+   "Horbs / West Fork",
+   1.9
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 top",
+   "Mercy 4",
+   2.3
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 top",
+   "Headwaters 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Legends 4",
+   "Hermosa Park Express #3 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Elevator Shaft / Wapiti 2",
+   "Grizzly Lift #5 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Limbo 3",
+   "Engineer Lift #2 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Engineer Lift #2 top",
+   "Headwaters",
+   2.6
+  ],
+  [
+   "walk",
+   "Engineer Lift #2 top",
+   "Horbs / West Fork",
+   0.6
+  ],
+  [
+   "walk",
+   "Engineer Lift #2 top",
+   "Purgatory Village Express #1 top",
+   2.5
+  ],
+  [
+   "walk",
+   "Gutless",
+   "Elevator Shaft / Wapiti",
+   2.2
+  ],
+  [
+   "walk",
+   "Twilight Lift #4 bottom",
+   "Purgatory Village Express #1 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Twilight Lift #4 bottom",
+   "Lower Pandemonium",
+   2.3
+  ],
+  [
+   "walk",
+   "Twilight Lift #4 bottom",
+   "Unnamed lift bottom 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Twilight Lift #4 bottom",
+   "Unnamed lift top",
+   1.5
+  ],
+  [
+   "walk",
+   "Twilight Lift #4 bottom",
+   "Graduate Lift #7 top",
+   2.2
+  ],
+  [
+   "walk",
+   "Mercy 4",
+   "Needles Lift #6 top",
+   1.1
+  ],
+  [
+   "walk",
+   "Mercy 4",
+   "Gelande top",
+   3.0
+  ],
+  [
+   "walk",
+   "Mercy 4",
+   "Purgatory Village Express #1 top",
+   2.3
+  ],
+  [
+   "walk",
+   "Tinker's Detour / Tinker's Dam",
+   "Purgatory Village Express #1 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Tinker's Detour / Tinker's Dam",
+   "Twilight Lift #4 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Tinker's Detour / Tinker's Dam",
+   "Unnamed lift bottom 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Tinker's Detour / Tinker's Dam",
+   "Unnamed lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "Tinker's Detour / Tinker's Dam",
+   "Graduate Lift #7 top",
+   3.5
+  ],
+  [
+   "walk",
+   "Hermosa Parkway 2",
+   "Hermosa Park Express #3 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Pandemonium",
+   "Purgatory Village Express #1 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Lower Pandemonium",
+   "Twilight Lift #4 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Pandemonium",
+   "Columbine Lift #9 top",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Pandemonium",
+   "Unnamed lift bottom 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Pandemonium",
+   "Graduate Lift #7 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Gelande Dead End",
+   "Gelande bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Snag 4",
+   "Hermosa Park Express #3 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Columbine Lift #9 bottom",
+   "Graduate Lift #7 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Columbine Lift #9 bottom",
+   "Ski School Magic Carpet #10 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Columbine Lift #9 bottom",
+   "Ski School Magic Carpet #10 top",
+   1.8
+  ],
+  [
+   "walk",
+   "Columbine Lift #9 top",
+   "Columbine Lift #9 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Columbine Lift #9 top",
+   "Graduate Lift #7 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Columbine Lift #9 top",
+   "Ski School Magic Carpet #10 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Columbine Lift #9 top",
+   "Ski School Magic Carpet #10 top",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Purgatory Village Express #1 bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Twilight Lift #4 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Lower Pandemonium",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Graduate Lift #7 top",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Purgatory Village Express #1 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Twilight Lift #4 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Lower Pandemonium",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom 2",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Graduate Lift #7 top",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Siegele Street",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Legends Express #8 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Siegele Street",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Legends Express #8 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Unnamed lift top 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 bottom",
+   "Columbine Lift #9 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 bottom",
+   "Ski School Magic Carpet #10 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 bottom",
+   "Ski School Magic Carpet #10 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 top",
+   "Purgatory Village Express #1 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 top",
+   "Twilight Lift #4 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 top",
+   "Lower Pandemonium",
+   0.7
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 top",
+   "Columbine Lift #9 top",
+   2.7
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 top",
+   "Unnamed lift bottom 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Gelande bottom",
+   "Gelande Dead End",
+   1.1
+  ],
+  [
+   "walk",
+   "Ski School Magic Carpet #10 bottom",
+   "Columbine Lift #9 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Ski School Magic Carpet #10 bottom",
+   "Graduate Lift #7 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Ski School Magic Carpet #10 bottom",
+   "Ski School Magic Carpet #10 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Ski School Magic Carpet #10 top",
+   "Columbine Lift #9 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Ski School Magic Carpet #10 top",
+   "Graduate Lift #7 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Ski School Magic Carpet #10 top",
+   "Ski School Magic Carpet #10 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Sa's Psyche",
+   "Mercy 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Sa's Psyche",
+   "Limbo 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Limbo",
+   "Mercy 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Limbo",
+   "Limbo 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Mercy 3",
+   "Limbo 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Limbo 3",
+   "Mercy 3",
+   1.9
+  ],
+  [
+   "walk",
+   "When",
+   "Styx / Upper Hades",
+   3.4
+  ],
+  [
+   "walk",
+   "When",
+   "Mercy 2",
+   4.7
+  ],
+  [
+   "walk",
+   "When",
+   "Gelande top",
+   4.4
+  ],
+  [
+   "walk",
+   "When",
+   "Purgatory Village Express #1 top",
+   5.7
+  ],
+  [
+   "walk",
+   "When",
+   "Mercy 4",
+   3.6
+  ],
+  [
+   "walk",
+   "When",
+   "Mercy 5",
+   4.9
+  ],
+  [
+   "walk",
+   "Styx / Upper Hades",
+   "When",
+   3.4
+  ],
+  [
+   "walk",
+   "Styx / Upper Hades",
+   "Mercy 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Styx / Upper Hades",
+   "Purgatory Village Express #1 top",
+   4.2
+  ],
+  [
+   "walk",
+   "Styx / Upper Hades",
+   "Mercy 4",
+   2.0
+  ],
+  [
+   "walk",
+   "Styx / Upper Hades",
+   "Mercy 5",
+   3.3
+  ],
+  [
+   "walk",
+   "Gelande top",
+   "When",
+   4.4
+  ],
+  [
+   "walk",
+   "Gelande top",
+   "Mercy 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Gelande top",
+   "Purgatory Village Express #1 top",
+   5.1
+  ],
+  [
+   "walk",
+   "Gelande top",
+   "Mercy 5",
+   4.3
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 top",
+   "Styx / Upper Hades",
+   4.2
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 top",
+   "Gelande top",
+   5.1
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 top",
+   "Mercy 5",
+   5.6
+  ],
+  [
+   "walk",
+   "Mercy 4",
+   "When",
+   3.6
+  ],
+  [
+   "walk",
+   "Mercy 4",
+   "Styx / Upper Hades",
+   2.0
+  ],
+  [
+   "walk",
+   "Mercy 4",
+   "Mercy 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Mercy 4",
+   "Mercy 5",
+   3.5
+  ],
+  [
+   "walk",
+   "Easiest Way Down / Hermosa Parkway",
+   "Snag",
+   4.1
+  ],
+  [
+   "walk",
+   "Easiest Way Down / Hermosa Parkway",
+   "Unnamed run / Boogie",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Boogie",
+   "Snag",
+   2.5
+  ],
+  [
+   "walk",
+   "Hermosa Parkway",
+   "Snag",
+   4.1
+  ],
+  [
+   "walk",
+   "Hermosa Parkway",
+   "Unnamed run / Boogie",
+   4.8
+  ],
+  [
+   "walk",
+   "Hermosa Parkway 2",
+   "Snag",
+   3.7
+  ],
+  [
+   "walk",
+   "Hermosa Parkway 2",
+   "Unnamed run / Boogie",
+   4.4
+  ],
+  [
+   "walk",
+   "Snag 4",
+   "Snag",
+   3.4
+  ],
+  [
+   "walk",
+   "Snag 4",
+   "Unnamed run / Boogie",
+   4.1
+  ],
+  [
+   "walk",
+   "Pandemonium / Lower Pandemonium",
+   "Twilight Lift #4 bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Pandemonium / Lower Pandemonium",
+   "Lower Pandemonium",
+   4.1
+  ],
+  [
+   "walk",
+   "Pandemonium / Lower Pandemonium",
+   "Columbine Lift #9 top",
+   6.1
+  ],
+  [
+   "walk",
+   "Pandemonium / Lower Pandemonium",
+   "Unnamed lift bottom 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Twilight Lift #4 bottom",
+   "Columbine Lift #9 top",
+   4.9
+  ],
+  [
+   "walk",
+   "Tinker's Detour / Tinker's Dam",
+   "Lower Pandemonium",
+   3.9
+  ],
+  [
+   "walk",
+   "Tinker's Detour / Tinker's Dam",
+   "Columbine Lift #9 top",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Columbine Lift #9 top",
+   5.2
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Columbine Lift #9 top",
+   5.6
+  ],
+  [
+   "walk",
+   "Elevator Shaft / Wapiti 2",
+   "Dead Spike / Hermosa Parkway",
+   3.8
+  ],
+  [
+   "walk",
+   "Airmail / Silvertip",
+   "Silvertip",
+   1.9
+  ],
+  [
+   "walk",
+   "Airmail / Silvertip",
+   "BD&M Expressway 4",
+   4.4
+  ],
+  [
+   "walk",
+   "Airmail / Silvertip",
+   "Legends 4",
+   2.1
+  ],
+  [
+   "walk",
+   "Airmail / Silvertip",
+   "Silvertip 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Silvertip",
+   "Airmail / Silvertip",
+   1.9
+  ],
+  [
+   "walk",
+   "Silvertip",
+   "BD&M Expressway 4",
+   3.8
+  ],
+  [
+   "walk",
+   "Silvertip",
+   "Legends 4",
+   1.5
+  ],
+  [
+   "walk",
+   "Silvertip",
+   "Silvertip 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Legends 4",
+   "Airmail / Silvertip",
+   2.1
+  ],
+  [
+   "walk",
+   "Legends 4",
+   "Silvertip",
+   1.5
+  ],
+  [
+   "walk",
+   "Legends 4",
+   "BD&M Expressway 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Legends 4",
+   "Silvertip 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 top",
+   "Engineer Lift #2 top",
+   2.5
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "When",
+   3.7
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "Needles Lift #6 top",
+   4.3
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "Mercy 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "Horbs / West Fork",
+   3.0
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "Mercy 4",
+   3.3
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "Headwaters 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "Styx / Upper Hades",
+   5.2
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "Gelande top",
+   6.2
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "Mercy 5",
+   6.7
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "Engineer Lift #2 top",
+   3.6
+  ],
+  [
+   "walk",
+   "Needles Lift #6 top",
+   "Headwaters",
+   4.3
+  ],
+  [
+   "walk",
+   "Needles Lift #6 top",
+   "Horbs / West Fork",
+   5.2
+  ],
+  [
+   "walk",
+   "Needles Lift #6 top",
+   "Headwaters 3",
+   6.0
+  ],
+  [
+   "walk",
+   "Needles Lift #6 top",
+   "Engineer Lift #2 top",
+   5.8
+  ],
+  [
+   "walk",
+   "Horbs / West Fork",
+   "When",
+   4.5
+  ],
+  [
+   "walk",
+   "Horbs / West Fork",
+   "Headwaters",
+   3.0
+  ],
+  [
+   "walk",
+   "Horbs / West Fork",
+   "Needles Lift #6 top",
+   5.2
+  ],
+  [
+   "walk",
+   "Horbs / West Fork",
+   "Mercy 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Horbs / West Fork",
+   "Mercy 4",
+   4.2
+  ],
+  [
+   "walk",
+   "Horbs / West Fork",
+   "Headwaters 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Horbs / West Fork",
+   "Styx / Upper Hades",
+   6.1
+  ],
+  [
+   "walk",
+   "Engineer Lift #2 top",
+   "When",
+   5.1
+  ],
+  [
+   "walk",
+   "Engineer Lift #2 top",
+   "Needles Lift #6 top",
+   5.8
+  ],
+  [
+   "walk",
+   "Engineer Lift #2 top",
+   "Mercy 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Engineer Lift #2 top",
+   "Mercy 4",
+   4.8
+  ],
+  [
+   "walk",
+   "Engineer Lift #2 top",
+   "Headwaters 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Engineer Lift #2 top",
+   "Styx / Upper Hades",
+   6.7
+  ],
+  [
+   "walk",
+   "Mercy 4",
+   "Headwaters",
+   3.3
+  ],
+  [
+   "walk",
+   "Mercy 4",
+   "Horbs / West Fork",
+   4.2
+  ],
+  [
+   "walk",
+   "Mercy 4",
+   "Headwaters 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Mercy 4",
+   "Engineer Lift #2 top",
+   4.8
+  ],
+  [
+   "walk",
+   "When",
+   "Headwaters",
+   6.8
+  ],
+  [
+   "walk",
+   "Styx / Upper Hades",
+   "Headwaters",
+   5.2
+  ],
+  [
+   "walk",
+   "Styx / Upper Hades",
+   "Horbs / West Fork",
+   6.1
+  ],
+  [
+   "walk",
+   "Styx / Upper Hades",
+   "Headwaters 3",
+   6.9
+  ],
+  [
+   "walk",
+   "Styx / Upper Hades",
+   "Engineer Lift #2 top",
+   6.7
+  ],
+  [
+   "walk",
+   "Gelande top",
+   "Headwaters",
+   6.2
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 bottom",
+   "Unnamed lift top",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Pandemonium",
+   "Unnamed lift top",
+   3.1
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 top",
+   "Unnamed lift top",
+   3.2
+  ],
+  [
+   "walk",
+   "Pandemonium / Lower Pandemonium",
+   "Unnamed lift top",
+   6.1
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 bottom",
+   "Columbine Lift #9 bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 bottom",
+   "Graduate Lift #7 bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 bottom",
+   "Ski School Magic Carpet #10 bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Purgatory Village Express #1 bottom",
+   "Ski School Magic Carpet #10 top",
+   5.2
+  ],
+  [
+   "walk",
+   "Lower Pandemonium",
+   "Columbine Lift #9 bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Lower Pandemonium",
+   "Graduate Lift #7 bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Pandemonium",
+   "Ski School Magic Carpet #10 bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower Pandemonium",
+   "Ski School Magic Carpet #10 top",
+   5.1
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 top",
+   "Columbine Lift #9 bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 top",
+   "Graduate Lift #7 bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 top",
+   "Ski School Magic Carpet #10 bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Graduate Lift #7 top",
+   "Ski School Magic Carpet #10 top",
+   4.7
+  ],
+  [
+   "walk",
+   "Twilight Lift #4 bottom",
+   "Graduate Lift #7 bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Twilight Lift #4 bottom",
+   "Ski School Magic Carpet #10 top",
+   6.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Siegele Street",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Legends Express #8 bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift bottom 3",
+   5.4
+  ],
+  [
+   "walk",
+   "Siegele Street",
+   "Unnamed lift bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Legends Express #8 bottom",
+   "Unnamed lift bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 3",
+   "Unnamed lift bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Legends",
+   "Siegele Street",
+   4.3
+  ],
+  [
+   "walk",
+   "Legends",
+   "Legends Express #8 bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Legends",
+   "Unnamed lift top 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Brimstone / Lower Hades",
+   "Purgatory Village Express #1 bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Brimstone / Lower Hades",
+   "Twilight Lift #4 bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Brimstone / Lower Hades",
+   "Lower Pandemonium",
+   4.0
+  ],
+  [
+   "walk",
+   "Brimstone / Lower Hades",
+   "Columbine Lift #9 top",
+   6.1
+  ],
+  [
+   "walk",
+   "Brimstone / Lower Hades",
+   "Unnamed lift bottom 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Brimstone / Lower Hades",
+   "Unnamed lift top",
+   6.6
+  ]
+ ],
+ "base": "Purgatory Village Express #1 bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "14",
+  "downhill_trails": "103",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

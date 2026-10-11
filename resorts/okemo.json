@@ -1,0 +1,5158 @@
+{
+ "name": "Okemo Mountain",
+ "source": "OpenSkiMap ski area f6908eabbb258d109d1b4c9f86f83620dcd69380",
+ "origin_lonlat": [
+  -72.7351929719945,
+  43.41003465700138
+ ],
+ "nodes": {
+  "Roundhouse Run / Unnamed run": [
+   -421,
+   700,
+   765.0
+  ],
+  "Easy Rider / Sweet Solitude": [
+   -738,
+   -196,
+   939.4
+  ],
+  "Easy Rider / Upper Mountain Road": [
+   -826,
+   580,
+   805.3
+  ],
+  "Glades Peak Quad top": [
+   -1203,
+   -532,
+   1008.3
+  ],
+  "Sachem Quad top": [
+   -92,
+   -814,
+   711.4
+  ],
+  "Rimrock": [
+   -896,
+   -1134,
+   890.1
+  ],
+  "Blind Faith / Catnap": [
+   -362,
+   -1658,
+   694.2
+  ],
+  "Upper Fall Line / Fall Line": [
+   -690,
+   -713,
+   859.5
+  ],
+  "Rimrock 2": [
+   -1211,
+   -786,
+   982.7
+  ],
+  "Double Diamond / Outrage": [
+   -838,
+   -828,
+   856.0
+  ],
+  "Side Out / Sidewinder": [
+   675,
+   630,
+   533.2
+  ],
+  "Side Out / Boomerang": [
+   761,
+   511,
+   512.9
+  ],
+  "Lower Sapphire / Express Lane": [
+   -283,
+   18,
+   818.3
+  ],
+  "Lower Sapphire / Lower Mountain Road": [
+   396,
+   223,
+   637.9
+  ],
+  "Rising Star / Upper Moonshadow": [
+   542,
+   862,
+   563.1
+  ],
+  "Rising Star / Promenade": [
+   709,
+   837,
+   528.4
+  ],
+  "South Ridge Quad B top": [
+   953,
+   -189,
+   526.4
+  ],
+  "South Ridge Quad A bottom": [
+   1389,
+   -869,
+   402.4
+  ],
+  "Scooter / Drop Off": [
+   -141,
+   -716,
+   737.4
+  ],
+  "Scooter / Link": [
+   -8,
+   -730,
+   705.4
+  ],
+  "Quantum Six bottom": [
+   802,
+   1380,
+   445.1
+  ],
+  "Unnamed run / Fast Track": [
+   788,
+   1456,
+   442.2
+  ],
+  "Sidewinder / Coleman Brook": [
+   -60,
+   560,
+   716.5
+  ],
+  "Sidewinder / Promenade": [
+   856,
+   723,
+   503.6
+  ],
+  "Eclipse / Vortex": [
+   -149,
+   1276,
+   730.3
+  ],
+  "Eclipse / Tuckered Out": [
+   675,
+   1570,
+   467.2
+  ],
+  "Home Stretch / Ledges": [
+   384,
+   -820,
+   624.4
+  ],
+  "Home Stretch / Sachem": [
+   497,
+   -1059,
+   576.9
+  ],
+  "Quantum Six top": [
+   -480,
+   1207,
+   823.4
+  ],
+  "Sunset Strip / Blue Moon": [
+   -407,
+   755,
+   763.1
+  ],
+  "Switchback / Lower Mountain Road": [
+   469,
+   40,
+   624.7
+  ],
+  "Switchback / Lower Mountain Road 2": [
+   638,
+   54,
+   577.7
+  ],
+  "Solitude Express Quad top": [
+   -466,
+   188,
+   842.2
+  ],
+  "Rimrock 3": [
+   -303,
+   -996,
+   742.4
+  ],
+  "South Face Express Quad bottom": [
+   -373,
+   -1740,
+   688.1
+  ],
+  "Exhibition / Sweet Solitude": [
+   -429,
+   221,
+   834.0
+  ],
+  "Exhibition / Lower Mountain Road": [
+   212,
+   405,
+   668.6
+  ],
+  "Rimrock 4": [
+   -1230,
+   -575,
+   1002.9
+  ],
+  "Jolly Green Giant / Nor'Easter": [
+   -694,
+   -328,
+   945.1
+  ],
+  "Jolly Green Giant / Ridge Runner": [
+   198,
+   -167,
+   716.3
+  ],
+  "Zip / Sachem": [
+   997,
+   -810,
+   468.7
+  ],
+  "Zip / Lower World Cup": [
+   985,
+   -726,
+   463.7
+  ],
+  "F-10 Carpet top": [
+   1303,
+   -776,
+   419.4
+  ],
+  "Green Link / Mountain Road": [
+   -14,
+   505,
+   708.4
+  ],
+  "Green Link / Heaven's Gate": [
+   311,
+   334,
+   650.9
+  ],
+  "Rimrock 5": [
+   -148,
+   -888,
+   713.0
+  ],
+  "Inn Bound / Fast Track": [
+   1117,
+   1554,
+   388.1
+  ],
+  "Coleman Brook Express Quad bottom": [
+   1415,
+   1384,
+   352.6
+  ],
+  "Rimrock 6": [
+   -438,
+   -976,
+   767.3
+  ],
+  "Express Lane": [
+   -412,
+   150,
+   836.0
+  ],
+  "Nor'Easter": [
+   -740,
+   -361,
+   954.8
+  ],
+  "Nor'Easter / Lower Mountain Road": [
+   1077,
+   -460,
+   484.5
+  ],
+  "Triplesec / Buckhorn": [
+   -1155,
+   -460,
+   993.9
+  ],
+  "Upper Fall Line": [
+   -856,
+   -656,
+   893.7
+  ],
+  "South Ridge Quad A top": [
+   1018,
+   -178,
+   526.6
+  ],
+  "Ski School Carpet bottom": [
+   1440,
+   -846,
+   401.1
+  ],
+  "Lower Limelight / Upper Limelight": [
+   -193,
+   978,
+   734.9
+  ],
+  "South Face Express Quad top": [
+   -1302,
+   -721,
+   1012.1
+  ],
+  "Tuckered Out / Quantum Leap": [
+   -475,
+   1248,
+   822.2
+  ],
+  "Buckhorn / Rum Run": [
+   -866,
+   -329,
+   966.4
+  ],
+  "Chute / Upper World Cup": [
+   55,
+   -675,
+   693.7
+  ],
+  "Chute / Lower Chief": [
+   269,
+   -477,
+   653.9
+  ],
+  "Lower Timberline / Upper Timberline": [
+   -207,
+   -82,
+   804.7
+  ],
+  "Evergreen Express bottom": [
+   323,
+   86,
+   660.3
+  ],
+  "Sunshine Quad top": [
+   -401,
+   -1778,
+   689.8
+  ],
+  "The Plunge / Village Run": [
+   684,
+   362,
+   531.8
+  ],
+  "Rimrock 7": [
+   -1238,
+   -617,
+   1001.8
+  ],
+  "Loose Spruce / Stump Jumper": [
+   -1061,
+   -1159,
+   901.3
+  ],
+  "Dream Weaver": [
+   -921,
+   -1650,
+   777.0
+  ],
+  "Upper World Cup / Turkey Shoot": [
+   -723,
+   -476,
+   922.4
+  ],
+  "Lower Moonshadow / Southern Crossing": [
+   1018,
+   1062,
+   457.4
+  ],
+  "Morning Star Triple bottom": [
+   1392,
+   974,
+   381.0
+  ],
+  "Rolling Thunder / White Lightning": [
+   -134,
+   1091,
+   736.1
+  ],
+  "Rolling Thunder / Quantum Leap": [
+   442,
+   1357,
+   534.1
+  ],
+  "Rimrock 8": [
+   -1127,
+   -1036,
+   945.0
+  ],
+  "Dream Weaver 2": [
+   -756,
+   -1734,
+   748.4
+  ],
+  "Upper Chief / Countdown": [
+   -721,
+   -404,
+   947.0
+  ],
+  "Upper Chief / Lower Chief": [
+   -11,
+   -479,
+   728.8
+  ],
+  "Ridge Runner / Black Out": [
+   188,
+   -207,
+   715.0
+  ],
+  "Heaven's Gate": [
+   266,
+   325,
+   660.4
+  ],
+  "Turkey Shoot / Challenger": [
+   -844,
+   -393,
+   955.3
+  ],
+  "Dream Weaver 3": [
+   -893,
+   -1716,
+   769.2
+  ],
+  "Wardance": [
+   180,
+   -312,
+   709.1
+  ],
+  "Nor'Easter 2": [
+   1014,
+   -423,
+   491.4
+  ],
+  "Upper Timberline / Upper Sapphire": [
+   -661,
+   -248,
+   934.5
+  ],
+  "Upper Mountain Road": [
+   -1023,
+   -123,
+   938.5
+  ],
+  "Everglade": [
+   -803,
+   -67,
+   904.3
+  ],
+  "Everglade / Mountain Road": [
+   -619,
+   512,
+   784.1
+  ],
+  "Black Ridge Triple bottom": [
+   944,
+   -334,
+   505.0
+  ],
+  "Starlight Carpet bottom": [
+   1338,
+   1376,
+   354.3
+  ],
+  "Buckhorn": [
+   -989,
+   -338,
+   979.2
+  ],
+  "Upper Fall Line 2": [
+   -753,
+   -694,
+   867.2
+  ],
+  "Lower Mountain Road": [
+   505,
+   -36,
+   619.4
+  ],
+  "Lower Mountain Road 2": [
+   868,
+   -201,
+   527.8
+  ],
+  "Sunset Strip": [
+   -463,
+   764,
+   768.1
+  ],
+  "Snow Star Carpet top": [
+   1510,
+   -884,
+   396.2
+  ],
+  "Snow Star Carpet bottom": [
+   1542,
+   -921,
+   391.6
+  ],
+  "Lower Mountain Road 3": [
+   1063,
+   -523,
+   476.4
+  ],
+  "Rimrock 9": [
+   -809,
+   -1101,
+   874.0
+  ],
+  "Catnap": [
+   -354,
+   -1338,
+   720.4
+  ],
+  "Eclipse": [
+   -137,
+   1317,
+   726.5
+  ],
+  "Sunshine Quad bottom": [
+   319,
+   -2194,
+   554.5
+  ],
+  "Upper World Cup": [
+   -172,
+   -598,
+   763.2
+  ],
+  "Lower Chief": [
+   703,
+   -516,
+   544.0
+  ],
+  "Sunburst Six bottom": [
+   1006,
+   -656,
+   461.1
+  ],
+  "Ski School Carpet top": [
+   1457,
+   -785,
+   403.9
+  ],
+  "Hot Dog Hill": [
+   1094,
+   -556,
+   472.7
+  ],
+  "Open Slope": [
+   1259,
+   -663,
+   443.9
+  ],
+  "Double Dipper / Upper Arrow": [
+   237,
+   -71,
+   696.7
+  ],
+  "Double Dipper / Upper Arrow 2": [
+   428,
+   -30,
+   638.2
+  ],
+  "Drop Off": [
+   -153,
+   -759,
+   733.7
+  ],
+  "The Pull top": [
+   520,
+   -222,
+   605.8
+  ],
+  "Fast Track": [
+   874,
+   1536,
+   432.6
+  ],
+  "Snow Trak / Ledgewood": [
+   1164,
+   -276,
+   507.0
+  ],
+  "Fall Line": [
+   -626,
+   -734,
+   840.5
+  ],
+  "Moment's Rest": [
+   -598,
+   -845,
+   816.6
+  ],
+  "Homeward Bound": [
+   1076,
+   -272,
+   510.3
+  ],
+  "Homeward Bound 2": [
+   1180,
+   -360,
+   490.4
+  ],
+  "Orion's Belt Carpet top": [
+   1287,
+   1625,
+   369.3
+  ],
+  "Stargazer Carpet bottom": [
+   1391,
+   1430,
+   354.1
+  ],
+  "Line Drive / Jack-A-Lope, Jack-a-lope": [
+   922,
+   749,
+   494.7
+  ],
+  "Tuckered Out": [
+   -470,
+   1306,
+   816.0
+  ],
+  "Eclipse 2": [
+   -46,
+   1538,
+   668.4
+  ],
+  "Sunset Strip 2": [
+   -463,
+   1146,
+   820.7
+  ],
+  "Upper Limelight": [
+   -354,
+   1118,
+   797.7
+  ],
+  "Quantum Leap": [
+   125,
+   1319,
+   637.5
+  ],
+  "Upper Limelight 2": [
+   -257,
+   1022,
+   761.0
+  ],
+  "Quantum Leap 2": [
+   653,
+   1383,
+   472.9
+  ],
+  "Sidewinder": [
+   440,
+   593,
+   593.0
+  ],
+  "Upper Timberline": [
+   -337,
+   -131,
+   839.2
+  ],
+  "Solitude Express Quad bottom": [
+   857,
+   582,
+   503.2
+  ],
+  "Daybreak": [
+   1426,
+   939,
+   380.9
+  ],
+  "Upper Sapphire": [
+   -642,
+   -173,
+   920.3
+  ],
+  "Express Lane 2": [
+   -334,
+   64,
+   826.1
+  ],
+  "Lower Sapphire": [
+   304,
+   164,
+   665.1
+  ],
+  "Homeward Bound 3": [
+   1199,
+   -472,
+   477.1
+  ],
+  "Homeward Bound 4": [
+   1366,
+   -718,
+   431.1
+  ],
+  "Suncatcher": [
+   -80,
+   -1999,
+   633.8
+  ],
+  "Homeward Bound 5": [
+   1131,
+   -356,
+   494.4
+  ],
+  "Orion's Belt Carpet bottom": [
+   1341,
+   1542,
+   361.9
+  ],
+  "Sachem Quad bottom": [
+   1266,
+   -805,
+   420.1
+  ],
+  "Evergreen Express top": [
+   -810,
+   -294,
+   970.2
+  ],
+  "Coleman Brook Express Quad top": [
+   659,
+   1611,
+   470.7
+  ],
+  "Morning Star Triple top": [
+   716,
+   677,
+   535.1
+  ],
+  "Glades Peak Quad bottom": [
+   -102,
+   -911,
+   699.2
+  ],
+  "The Pull bottom": [
+   842,
+   -282,
+   528.8
+  ],
+  "Sunburst Six top": [
+   -813,
+   -340,
+   968.6
+  ],
+  "F-10 Carpet bottom": [
+   1362,
+   -902,
+   403.2
+  ],
+  "Black Ridge Triple top": [
+   151,
+   -234,
+   723.0
+  ]
+ },
+ "lifts": [
+  [
+   "Orion's Belt Carpet",
+   "Orion's Belt Carpet bottom",
+   "Orion's Belt Carpet top",
+   5.2
+  ],
+  [
+   "South Ridge Quad A",
+   "South Ridge Quad A bottom",
+   "South Ridge Quad A top",
+   9.0
+  ],
+  [
+   "Sachem Quad",
+   "Sachem Quad bottom",
+   "Sachem Quad top",
+   13.0
+  ],
+  [
+   "Evergreen Express",
+   "Evergreen Express bottom",
+   "Evergreen Express top",
+   7.2
+  ],
+  [
+   "Ski School Carpet",
+   "Ski School Carpet bottom",
+   "Ski School Carpet top",
+   3.6
+  ],
+  [
+   "Coleman Brook Express Quad",
+   "Coleman Brook Express Quad bottom",
+   "Coleman Brook Express Quad top",
+   5.6
+  ],
+  [
+   "Snow Star Carpet",
+   "Snow Star Carpet bottom",
+   "Snow Star Carpet top",
+   4.1
+  ],
+  [
+   "Morning Star Triple",
+   "Morning Star Triple bottom",
+   "Morning Star Triple top",
+   9.0
+  ],
+  [
+   "Stargazer Carpet",
+   "Stargazer Carpet bottom",
+   "Orion's Belt Carpet bottom",
+   5.3
+  ],
+  [
+   "Glades Peak Quad",
+   "Glades Peak Quad bottom",
+   "Glades Peak Quad top",
+   11.0
+  ],
+  [
+   "The Pull",
+   "The Pull bottom",
+   "The Pull top",
+   4.8
+  ],
+  [
+   "Sunburst Six",
+   "Sunburst Six bottom",
+   "Sunburst Six top",
+   9.0
+  ],
+  [
+   "South Ridge Quad B",
+   "South Ridge Quad A bottom",
+   "South Ridge Quad B top",
+   9.0
+  ],
+  [
+   "Quantum Six",
+   "Quantum Six bottom",
+   "Quantum Six top",
+   12.7
+  ],
+  [
+   "Sunshine Quad",
+   "Sunshine Quad bottom",
+   "Sunshine Quad top",
+   9.3
+  ],
+  [
+   "F-10 Carpet",
+   "F-10 Carpet bottom",
+   "F-10 Carpet top",
+   5.6
+  ],
+  [
+   "South Face Express Quad",
+   "South Face Express Quad bottom",
+   "South Face Express Quad top",
+   8.0
+  ],
+  [
+   "Black Ridge Triple",
+   "Black Ridge Triple bottom",
+   "Black Ridge Triple top",
+   9.1
+  ],
+  [
+   "Solitude Express Quad",
+   "Solitude Express Quad bottom",
+   "Solitude Express Quad top",
+   8.0
+  ]
+ ],
+ "runs": [
+  [
+   "Easy Rider",
+   "Easy Rider / Sweet Solitude",
+   "Easy Rider / Upper Mountain Road",
+   3.7
+  ],
+  [
+   "Rimrock",
+   "Glades Peak Quad top",
+   "Rimrock 4",
+   0.5
+  ],
+  [
+   "Rimrock",
+   "Rimrock 4",
+   "Rimrock 7",
+   0.5
+  ],
+  [
+   "Rimrock",
+   "Rimrock 7",
+   "Rimrock 2",
+   0.6
+  ],
+  [
+   "Rimrock",
+   "Rimrock 2",
+   "Rimrock 8",
+   1.2
+  ],
+  [
+   "Rimrock",
+   "Rimrock 8",
+   "Rimrock",
+   1.1
+  ],
+  [
+   "Rimrock",
+   "Rimrock",
+   "Rimrock 9",
+   0.5
+  ],
+  [
+   "Rimrock",
+   "Rimrock 9",
+   "Rimrock 6",
+   1.8
+  ],
+  [
+   "Rimrock",
+   "Rimrock 6",
+   "Rimrock 3",
+   0.6
+  ],
+  [
+   "Rimrock",
+   "Rimrock 3",
+   "Rimrock 5",
+   0.8
+  ],
+  [
+   "Rimrock",
+   "Rimrock 5",
+   "Sachem Quad top",
+   0.5
+  ],
+  [
+   "Blind Faith",
+   "Rimrock",
+   "Blind Faith / Catnap",
+   3.1
+  ],
+  [
+   "Upper Fall Line",
+   "Glades Peak Quad top",
+   "Upper Fall Line",
+   1.5
+  ],
+  [
+   "Upper Fall Line",
+   "Upper Fall Line",
+   "Upper Fall Line 2",
+   0.5
+  ],
+  [
+   "Upper Fall Line",
+   "Upper Fall Line 2",
+   "Upper Fall Line / Fall Line",
+   0.5
+  ],
+  [
+   "Double Diamond",
+   "Rimrock 2",
+   "Double Diamond / Outrage",
+   1.6
+  ],
+  [
+   "Side Out",
+   "Side Out / Sidewinder",
+   "Side Out / Boomerang",
+   0.5
+  ],
+  [
+   "Lower Sapphire",
+   "Lower Sapphire / Express Lane",
+   "Lower Sapphire",
+   2.4
+  ],
+  [
+   "Lower Sapphire",
+   "Lower Sapphire",
+   "Lower Sapphire / Lower Mountain Road",
+   0.5
+  ],
+  [
+   "Rising Star",
+   "Rising Star / Upper Moonshadow",
+   "Rising Star / Promenade",
+   0.6
+  ],
+  [
+   "Open Slope",
+   "South Ridge Quad B top",
+   "Open Slope",
+   2.2
+  ],
+  [
+   "Open Slope",
+   "Open Slope",
+   "F-10 Carpet top",
+   0.5
+  ],
+  [
+   "Open Slope",
+   "F-10 Carpet top",
+   "South Ridge Quad A bottom",
+   0.5
+  ],
+  [
+   "Scooter",
+   "Scooter / Drop Off",
+   "Scooter / Link",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Quantum Six bottom",
+   "Unnamed run / Fast Track",
+   0.5
+  ],
+  [
+   "Sidewinder",
+   "Sidewinder / Coleman Brook",
+   "Sidewinder",
+   2.0
+  ],
+  [
+   "Sidewinder",
+   "Sidewinder",
+   "Side Out / Sidewinder",
+   1.0
+  ],
+  [
+   "Sidewinder",
+   "Side Out / Sidewinder",
+   "Morning Star Triple top",
+   0.5
+  ],
+  [
+   "Sidewinder",
+   "Morning Star Triple top",
+   "Sidewinder / Promenade",
+   0.5
+  ],
+  [
+   "Eclipse",
+   "Eclipse / Vortex",
+   "Eclipse",
+   0.5
+  ],
+  [
+   "Eclipse",
+   "Eclipse",
+   "Eclipse 2",
+   0.9
+  ],
+  [
+   "Eclipse",
+   "Eclipse 2",
+   "Eclipse / Tuckered Out",
+   3.1
+  ],
+  [
+   "Home Stretch",
+   "Home Stretch / Ledges",
+   "Home Stretch / Sachem",
+   1.0
+  ],
+  [
+   "Sunset Strip",
+   "Quantum Six top",
+   "Sunset Strip 2",
+   0.5
+  ],
+  [
+   "Sunset Strip",
+   "Sunset Strip 2",
+   "Sunset Strip",
+   1.6
+  ],
+  [
+   "Sunset Strip",
+   "Sunset Strip",
+   "Sunset Strip / Blue Moon",
+   0.5
+  ],
+  [
+   "Switchback",
+   "Switchback / Lower Mountain Road",
+   "Switchback / Lower Mountain Road 2",
+   1.1
+  ],
+  [
+   "Express Lane",
+   "Solitude Express Quad top",
+   "Express Lane",
+   0.5
+  ],
+  [
+   "Express Lane",
+   "Express Lane",
+   "Express Lane 2",
+   0.5
+  ],
+  [
+   "Express Lane",
+   "Express Lane 2",
+   "Lower Sapphire / Express Lane",
+   0.5
+  ],
+  [
+   "Catnap",
+   "Rimrock 3",
+   "Catnap",
+   1.4
+  ],
+  [
+   "Catnap",
+   "Catnap",
+   "Blind Faith / Catnap",
+   1.4
+  ],
+  [
+   "Catnap",
+   "Blind Faith / Catnap",
+   "South Face Express Quad bottom",
+   0.5
+  ],
+  [
+   "Exhibition",
+   "Exhibition / Sweet Solitude",
+   "Exhibition / Lower Mountain Road",
+   2.7
+  ],
+  [
+   "Outrage",
+   "Rimrock 4",
+   "Double Diamond / Outrage",
+   1.9
+  ],
+  [
+   "Jolly Green Giant",
+   "Jolly Green Giant / Nor'Easter",
+   "Jolly Green Giant / Ridge Runner",
+   3.8
+  ],
+  [
+   "Zip",
+   "Zip / Sachem",
+   "Zip / Lower World Cup",
+   0.5
+  ],
+  [
+   "Sachem",
+   "Sachem Quad top",
+   "Glades Peak Quad bottom",
+   0.5
+  ],
+  [
+   "Sachem",
+   "Glades Peak Quad bottom",
+   "Home Stretch / Sachem",
+   3.4
+  ],
+  [
+   "Sachem",
+   "Home Stretch / Sachem",
+   "Zip / Sachem",
+   2.9
+  ],
+  [
+   "Sachem",
+   "Zip / Sachem",
+   "Sachem Quad bottom",
+   1.1
+  ],
+  [
+   "Sachem",
+   "Sachem Quad bottom",
+   "F-10 Carpet top",
+   0.5
+  ],
+  [
+   "Green Link",
+   "Green Link / Mountain Road",
+   "Lower Sapphire",
+   1.8
+  ],
+  [
+   "Green Link",
+   "Lower Sapphire",
+   "Green Link / Heaven's Gate",
+   0.7
+  ],
+  [
+   "Fall Line",
+   "Upper Fall Line / Fall Line",
+   "Fall Line",
+   0.5
+  ],
+  [
+   "Fall Line",
+   "Fall Line",
+   "Rimrock 5",
+   2.1
+  ],
+  [
+   "Fairway",
+   "F-10 Carpet top",
+   "South Ridge Quad A bottom",
+   0.5
+  ],
+  [
+   "Inn Bound",
+   "Inn Bound / Fast Track",
+   "Starlight Carpet bottom",
+   1.2
+  ],
+  [
+   "Inn Bound",
+   "Starlight Carpet bottom",
+   "Coleman Brook Express Quad bottom",
+   0.5
+  ],
+  [
+   "Moment's Rest",
+   "Double Diamond / Outrage",
+   "Moment's Rest",
+   0.9
+  ],
+  [
+   "Moment's Rest",
+   "Moment's Rest",
+   "Rimrock 6",
+   0.9
+  ],
+  [
+   "Heaven's Gate",
+   "Express Lane",
+   "Heaven's Gate",
+   2.9
+  ],
+  [
+   "Heaven's Gate",
+   "Heaven's Gate",
+   "Green Link / Heaven's Gate",
+   0.5
+  ],
+  [
+   "Nor'Easter",
+   "Nor'Easter",
+   "Jolly Green Giant / Nor'Easter",
+   0.5
+  ],
+  [
+   "Nor'Easter",
+   "Jolly Green Giant / Nor'Easter",
+   "Nor'Easter 2",
+   7.4
+  ],
+  [
+   "Nor'Easter",
+   "Nor'Easter 2",
+   "Nor'Easter / Lower Mountain Road",
+   0.5
+  ],
+  [
+   "Lower Mountain Road",
+   "Exhibition / Lower Mountain Road",
+   "Heaven's Gate",
+   0.5
+  ],
+  [
+   "Lower Mountain Road",
+   "Heaven's Gate",
+   "Green Link / Heaven's Gate",
+   0.5
+  ],
+  [
+   "Lower Mountain Road",
+   "Green Link / Heaven's Gate",
+   "Lower Sapphire / Lower Mountain Road",
+   0.6
+  ],
+  [
+   "Lower Mountain Road",
+   "Lower Sapphire / Lower Mountain Road",
+   "Switchback / Lower Mountain Road",
+   0.8
+  ],
+  [
+   "Lower Mountain Road",
+   "Switchback / Lower Mountain Road",
+   "Lower Mountain Road",
+   0.5
+  ],
+  [
+   "Lower Mountain Road",
+   "Lower Mountain Road",
+   "The Pull top",
+   0.8
+  ],
+  [
+   "Lower Mountain Road",
+   "The Pull top",
+   "Switchback / Lower Mountain Road 2",
+   1.3
+  ],
+  [
+   "Lower Mountain Road",
+   "Switchback / Lower Mountain Road 2",
+   "Lower Mountain Road 2",
+   1.4
+  ],
+  [
+   "Lower Mountain Road",
+   "Lower Mountain Road 2",
+   "Black Ridge Triple bottom",
+   0.7
+  ],
+  [
+   "Lower Mountain Road",
+   "Black Ridge Triple bottom",
+   "Nor'Easter 2",
+   0.5
+  ],
+  [
+   "Lower Mountain Road",
+   "Nor'Easter 2",
+   "Nor'Easter / Lower Mountain Road",
+   0.5
+  ],
+  [
+   "Lower Mountain Road",
+   "Nor'Easter / Lower Mountain Road",
+   "Lower Mountain Road 3",
+   0.5
+  ],
+  [
+   "Lower Mountain Road",
+   "Lower Mountain Road 3",
+   "F-10 Carpet top",
+   1.7
+  ],
+  [
+   "Triplesec",
+   "Triplesec / Buckhorn",
+   "Upper Fall Line",
+   1.5
+  ],
+  [
+   "Vortex",
+   "Quantum Six top",
+   "Eclipse / Vortex",
+   1.4
+  ],
+  [
+   "Homeward Bound",
+   "South Ridge Quad A top",
+   "Homeward Bound",
+   0.5
+  ],
+  [
+   "Homeward Bound",
+   "Homeward Bound",
+   "Homeward Bound 5",
+   0.5
+  ],
+  [
+   "Homeward Bound",
+   "Homeward Bound 5",
+   "Homeward Bound 2",
+   0.5
+  ],
+  [
+   "Homeward Bound",
+   "Homeward Bound 2",
+   "Homeward Bound 3",
+   0.5
+  ],
+  [
+   "Homeward Bound",
+   "Homeward Bound 3",
+   "Homeward Bound 4",
+   1.3
+  ],
+  [
+   "Homeward Bound",
+   "Homeward Bound 4",
+   "Ski School Carpet bottom",
+   0.6
+  ],
+  [
+   "Lower Limelight",
+   "Lower Limelight / Upper Limelight",
+   "Quantum Six bottom",
+   5.0
+  ],
+  [
+   "Moon Dog",
+   "South Face Express Quad top",
+   "Rimrock 2",
+   0.5
+  ],
+  [
+   "Tuckered Out",
+   "Tuckered Out / Quantum Leap",
+   "Tuckered Out",
+   0.5
+  ],
+  [
+   "Tuckered Out",
+   "Tuckered Out",
+   "Coleman Brook Express Quad top",
+   8.9
+  ],
+  [
+   "Tuckered Out",
+   "Coleman Brook Express Quad top",
+   "Eclipse / Tuckered Out",
+   0.5
+  ],
+  [
+   "Fast Track",
+   "Unnamed run / Fast Track",
+   "Fast Track",
+   0.5
+  ],
+  [
+   "Fast Track",
+   "Fast Track",
+   "Inn Bound / Fast Track",
+   1.0
+  ],
+  [
+   "Buckhorn",
+   "Glades Peak Quad top",
+   "Triplesec / Buckhorn",
+   0.5
+  ],
+  [
+   "Buckhorn",
+   "Triplesec / Buckhorn",
+   "Buckhorn",
+   0.9
+  ],
+  [
+   "Buckhorn",
+   "Buckhorn",
+   "Buckhorn / Rum Run",
+   0.5
+  ],
+  [
+   "Chute",
+   "Chute / Upper World Cup",
+   "Chute / Lower Chief",
+   1.1
+  ],
+  [
+   "Lower Timberline",
+   "Lower Timberline / Upper Timberline",
+   "Evergreen Express bottom",
+   2.3
+  ],
+  [
+   "Dream Weaver",
+   "South Face Express Quad top",
+   "Dream Weaver",
+   4.6
+  ],
+  [
+   "Dream Weaver",
+   "Dream Weaver",
+   "Dream Weaver 3",
+   0.5
+  ],
+  [
+   "Dream Weaver",
+   "Dream Weaver 3",
+   "Dream Weaver 2",
+   0.6
+  ],
+  [
+   "Dream Weaver",
+   "Dream Weaver 2",
+   "Sunshine Quad top",
+   1.6
+  ],
+  [
+   "Sweet Solitude",
+   "Easy Rider / Sweet Solitude",
+   "Exhibition / Sweet Solitude",
+   2.4
+  ],
+  [
+   "The Plunge",
+   "Lower Sapphire / Lower Mountain Road",
+   "The Plunge / Village Run",
+   1.3
+  ],
+  [
+   "Sun Dog",
+   "South Face Express Quad top",
+   "Rimrock 7",
+   0.5
+  ],
+  [
+   "Loose Spruce",
+   "Loose Spruce / Stump Jumper",
+   "Dream Weaver",
+   2.1
+  ],
+  [
+   "Upper World Cup",
+   "Upper World Cup / Turkey Shoot",
+   "Upper World Cup",
+   2.4
+  ],
+  [
+   "Upper World Cup",
+   "Upper World Cup",
+   "Chute / Upper World Cup",
+   1.0
+  ],
+  [
+   "Upper Mountain Road",
+   "Rimrock 4",
+   "Upper Mountain Road",
+   2.7
+  ],
+  [
+   "Upper Mountain Road",
+   "Upper Mountain Road",
+   "Easy Rider / Upper Mountain Road",
+   5.4
+  ],
+  [
+   "Lower Moonshadow",
+   "Lower Moonshadow / Southern Crossing",
+   "Morning Star Triple bottom",
+   1.5
+  ],
+  [
+   "Rolling Thunder",
+   "Rolling Thunder / White Lightning",
+   "Rolling Thunder / Quantum Leap",
+   2.8
+  ],
+  [
+   "Stump Jumper",
+   "Rimrock 8",
+   "Loose Spruce / Stump Jumper",
+   0.5
+  ],
+  [
+   "Stump Jumper",
+   "Loose Spruce / Stump Jumper",
+   "Dream Weaver 2",
+   2.9
+  ],
+  [
+   "Upper Chief",
+   "Upper Chief / Countdown",
+   "Upper Chief / Lower Chief",
+   3.0
+  ],
+  [
+   "Ridge Runner",
+   "Ridge Runner / Black Out",
+   "Jolly Green Giant / Ridge Runner",
+   0.5
+  ],
+  [
+   "Ridge Runner",
+   "Jolly Green Giant / Ridge Runner",
+   "Heaven's Gate",
+   2.2
+  ],
+  [
+   "Turkey Shoot",
+   "Turkey Shoot / Challenger",
+   "Upper World Cup / Turkey Shoot",
+   0.5
+  ],
+  [
+   "Off The Rim",
+   "Rimrock 8",
+   "Dream Weaver",
+   3.0
+  ],
+  [
+   "Off The Rim",
+   "Dream Weaver",
+   "Dream Weaver 3",
+   0.5
+  ],
+  [
+   "Roundhouse Run",
+   "Exhibition / Sweet Solitude",
+   "Roundhouse Run / Unnamed run",
+   1.8
+  ],
+  [
+   "Wardance",
+   "Wardance",
+   "Nor'Easter 2",
+   3.6
+  ],
+  [
+   "Upper Timberline",
+   "Upper Timberline / Upper Sapphire",
+   "Upper Timberline",
+   1.4
+  ],
+  [
+   "Upper Timberline",
+   "Upper Timberline",
+   "Lower Timberline / Upper Timberline",
+   0.6
+  ],
+  [
+   "Rum Run",
+   "Buckhorn / Rum Run",
+   "Upper Mountain Road",
+   1.0
+  ],
+  [
+   "Everglade",
+   "Everglade",
+   "Everglade / Mountain Road",
+   2.5
+  ],
+  [
+   "Black Out",
+   "Ridge Runner / Black Out",
+   "The Pull bottom",
+   2.8
+  ],
+  [
+   "Black Out",
+   "The Pull bottom",
+   "Black Ridge Triple bottom",
+   0.5
+  ],
+  [
+   "Southern Crossing",
+   "Lower Moonshadow / Southern Crossing",
+   "Starlight Carpet bottom",
+   2.5
+  ],
+  [
+   "Challenger",
+   "Buckhorn",
+   "Turkey Shoot / Challenger",
+   0.5
+  ],
+  [
+   "Challenger",
+   "Turkey Shoot / Challenger",
+   "Upper Fall Line 2",
+   1.4
+  ],
+  [
+   "Lower Arrow",
+   "Lower Mountain Road",
+   "Lower Mountain Road 2",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Sunset Strip",
+   "Roundhouse Run / Unnamed run",
+   0.5
+  ],
+  [
+   "Galaxy Bowl",
+   "Snow Star Carpet top",
+   "Snow Star Carpet bottom",
+   0.5
+  ],
+  [
+   "Expresso",
+   "Eclipse / Tuckered Out",
+   "Unnamed run / Fast Track",
+   0.7
+  ],
+  [
+   "Coleman Brook",
+   "Exhibition / Sweet Solitude",
+   "Sidewinder / Coleman Brook",
+   2.1
+  ],
+  [
+   "Lower Chief",
+   "Upper Chief / Lower Chief",
+   "Chute / Lower Chief",
+   1.1
+  ],
+  [
+   "Lower Chief",
+   "Chute / Lower Chief",
+   "Lower Chief",
+   1.9
+  ],
+  [
+   "Lower Chief",
+   "Lower Chief",
+   "Lower Mountain Road 3",
+   1.5
+  ],
+  [
+   "Quantum Leap",
+   "Tuckered Out / Quantum Leap",
+   "Eclipse / Vortex",
+   1.2
+  ],
+  [
+   "Quantum Leap",
+   "Eclipse / Vortex",
+   "Quantum Leap",
+   1.2
+  ],
+  [
+   "Quantum Leap",
+   "Quantum Leap",
+   "Rolling Thunder / Quantum Leap",
+   1.4
+  ],
+  [
+   "Quantum Leap",
+   "Rolling Thunder / Quantum Leap",
+   "Quantum Leap 2",
+   0.9
+  ],
+  [
+   "Quantum Leap",
+   "Quantum Leap 2",
+   "Quantum Six bottom",
+   0.6
+  ],
+  [
+   "Forest Bump",
+   "Rimrock 9",
+   "Catnap",
+   2.2
+  ],
+  [
+   "Black Hole",
+   "Tuckered Out / Quantum Leap",
+   "Eclipse",
+   1.4
+  ],
+  [
+   "Suncatcher",
+   "Sunshine Quad top",
+   "Suncatcher",
+   1.6
+  ],
+  [
+   "Suncatcher",
+   "Suncatcher",
+   "Sunshine Quad bottom",
+   1.9
+  ],
+  [
+   "Drop Off",
+   "Upper World Cup",
+   "Scooter / Drop Off",
+   0.5
+  ],
+  [
+   "Drop Off",
+   "Scooter / Drop Off",
+   "Drop Off",
+   0.5
+  ],
+  [
+   "Drop Off",
+   "Drop Off",
+   "Sachem Quad top",
+   0.5
+  ],
+  [
+   "Willie's Way",
+   "Lower Chief",
+   "Sunburst Six bottom",
+   1.4
+  ],
+  [
+   "Ski School Slope",
+   "Ski School Carpet top",
+   "Ski School Carpet bottom",
+   0.5
+  ],
+  [
+   "Mountain Road",
+   "Easy Rider / Upper Mountain Road",
+   "Everglade / Mountain Road",
+   0.9
+  ],
+  [
+   "Mountain Road",
+   "Everglade / Mountain Road",
+   "Roundhouse Run / Unnamed run",
+   1.2
+  ],
+  [
+   "Mountain Road",
+   "Roundhouse Run / Unnamed run",
+   "Sidewinder / Coleman Brook",
+   1.7
+  ],
+  [
+   "Mountain Road",
+   "Sidewinder / Coleman Brook",
+   "Green Link / Mountain Road",
+   0.5
+  ],
+  [
+   "Mountain Road",
+   "Green Link / Mountain Road",
+   "Exhibition / Lower Mountain Road",
+   1.0
+  ],
+  [
+   "Hot Dog Hill",
+   "Hot Dog Hill",
+   "Open Slope",
+   0.7
+  ],
+  [
+   "Double Dipper",
+   "Double Dipper / Upper Arrow",
+   "Evergreen Express bottom",
+   0.6
+  ],
+  [
+   "Double Dipper",
+   "Evergreen Express bottom",
+   "Double Dipper / Upper Arrow 2",
+   0.7
+  ],
+  [
+   "Muellers' Run",
+   "Upper World Cup / Turkey Shoot",
+   "Drop Off",
+   2.7
+  ],
+  [
+   "Sel's Choice",
+   "Jolly Green Giant / Ridge Runner",
+   "The Pull top",
+   1.4
+  ],
+  [
+   "Promenade",
+   "Side Out / Sidewinder",
+   "Morning Star Triple top",
+   0.5
+  ],
+  [
+   "Promenade",
+   "Morning Star Triple top",
+   "Rising Star / Promenade",
+   0.5
+  ],
+  [
+   "Promenade",
+   "Rising Star / Promenade",
+   "Sidewinder / Promenade",
+   1.3
+  ],
+  [
+   "Spur Line",
+   "Eclipse / Tuckered Out",
+   "Fast Track",
+   0.8
+  ],
+  [
+   "Lower World Cup",
+   "Chute / Upper World Cup",
+   "Zip / Lower World Cup",
+   3.9
+  ],
+  [
+   "Boomerang",
+   "Exhibition / Lower Mountain Road",
+   "Side Out / Boomerang",
+   2.3
+  ],
+  [
+   "Sprint",
+   "Fall Line",
+   "Moment's Rest",
+   0.5
+  ],
+  [
+   "Lower Wild Thing",
+   "Rimrock",
+   "South Face Express Quad bottom",
+   3.4
+  ],
+  [
+   "Ledgewood",
+   "Homeward Bound",
+   "Snow Trak / Ledgewood",
+   0.5
+  ],
+  [
+   "Ledgewood",
+   "Snow Trak / Ledgewood",
+   "Homeward Bound 2",
+   0.5
+  ],
+  [
+   "Bright Star Basin",
+   "Orion's Belt Carpet top",
+   "Orion's Belt Carpet bottom",
+   0.5
+  ],
+  [
+   "Bright Star Basin",
+   "Orion's Belt Carpet bottom",
+   "Stargazer Carpet bottom",
+   0.5
+  ],
+  [
+   "Ledges",
+   "Home Stretch / Ledges",
+   "Zip / Sachem",
+   2.5
+  ],
+  [
+   "Screamin' Demon",
+   "Green Link / Heaven's Gate",
+   "Side Out / Boomerang",
+   2.0
+  ],
+  [
+   "Upper Sapphire",
+   "Upper Timberline / Upper Sapphire",
+   "Upper Sapphire",
+   0.5
+  ],
+  [
+   "Upper Sapphire",
+   "Upper Sapphire",
+   "Lower Sapphire / Express Lane",
+   1.8
+  ],
+  [
+   "Line Drive",
+   "Line Drive / Jack-A-Lope, Jack-a-lope",
+   "Morning Star Triple bottom",
+   2.1
+  ],
+  [
+   "Big Bang",
+   "Tuckered Out",
+   "Eclipse 2",
+   2.1
+  ],
+  [
+   "Upper Limelight",
+   "Sunset Strip 2",
+   "Upper Limelight",
+   0.5
+  ],
+  [
+   "Upper Limelight",
+   "Upper Limelight",
+   "Upper Limelight 2",
+   0.5
+  ],
+  [
+   "Upper Limelight",
+   "Upper Limelight 2",
+   "Lower Limelight / Upper Limelight",
+   0.5
+  ],
+  [
+   "Link",
+   "Sachem Quad top",
+   "Scooter / Link",
+   0.5
+  ],
+  [
+   "Link",
+   "Scooter / Link",
+   "Chute / Upper World Cup",
+   0.5
+  ],
+  [
+   "Upper Arrow",
+   "Lower Timberline / Upper Timberline",
+   "Double Dipper / Upper Arrow",
+   1.9
+  ],
+  [
+   "Upper Arrow",
+   "Double Dipper / Upper Arrow",
+   "Double Dipper / Upper Arrow 2",
+   0.9
+  ],
+  [
+   "Upper Arrow",
+   "Double Dipper / Upper Arrow 2",
+   "Lower Mountain Road",
+   0.5
+  ],
+  [
+   "White Lightning",
+   "Upper Limelight",
+   "Rolling Thunder / White Lightning",
+   0.8
+  ],
+  [
+   "White Lightning",
+   "Rolling Thunder / White Lightning",
+   "Quantum Leap",
+   1.6
+  ],
+  [
+   "Supernova",
+   "Upper Limelight 2",
+   "Quantum Leap 2",
+   4.2
+  ],
+  [
+   "Jack-A-Lope, Jack-a-lope",
+   "Sidewinder / Promenade",
+   "Line Drive / Jack-A-Lope, Jack-a-lope",
+   0.5
+  ],
+  [
+   "Jack-A-Lope, Jack-a-lope",
+   "Line Drive / Jack-A-Lope, Jack-a-lope",
+   "Lower Moonshadow / Southern Crossing",
+   1.4
+  ],
+  [
+   "Upper Moonshadow",
+   "Sidewinder",
+   "Rising Star / Upper Moonshadow",
+   1.1
+  ],
+  [
+   "Upper Moonshadow",
+   "Rising Star / Upper Moonshadow",
+   "Lower Moonshadow / Southern Crossing",
+   2.7
+  ],
+  [
+   "Easy Street",
+   "Sachem Quad top",
+   "Home Stretch / Ledges",
+   1.9
+  ],
+  [
+   "Route 103",
+   "Lower Sapphire / Express Lane",
+   "Lower Timberline / Upper Timberline",
+   0.5
+  ],
+  [
+   "Countdown",
+   "Upper Chief / Countdown",
+   "Upper World Cup / Turkey Shoot",
+   0.5
+  ],
+  [
+   "Countdown",
+   "Upper World Cup / Turkey Shoot",
+   "Upper Fall Line / Fall Line",
+   1.1
+  ],
+  [
+   "Cutter's Folly",
+   "Upper Timberline",
+   "Lower Sapphire / Express Lane",
+   0.6
+  ],
+  [
+   "Daybreak",
+   "Solitude Express Quad bottom",
+   "Daybreak",
+   3.4
+  ],
+  [
+   "Village Run",
+   "Switchback / Lower Mountain Road 2",
+   "The Plunge / Village Run",
+   1.3
+  ],
+  [
+   "Village Run",
+   "The Plunge / Village Run",
+   "Side Out / Boomerang",
+   0.7
+  ],
+  [
+   "Village Run",
+   "Side Out / Boomerang",
+   "Solitude Express Quad bottom",
+   0.5
+  ],
+  [
+   "Side Kick",
+   "Black Ridge Triple top",
+   "Ridge Runner / Black Out",
+   0.5
+  ],
+  [
+   "Side Kick",
+   "Ridge Runner / Black Out",
+   "Jolly Green Giant / Ridge Runner",
+   0.5
+  ],
+  [
+   "Upper Tomahawk",
+   "Upper Sapphire",
+   "Express Lane 2",
+   1.7
+  ],
+  [
+   "Lower Tomahawk",
+   "Express Lane 2",
+   "Lower Sapphire",
+   2.8
+  ],
+  [
+   "Lift Line",
+   "Homeward Bound 3",
+   "Open Slope",
+   0.8
+  ],
+  [
+   "Lift Line",
+   "Open Slope",
+   "Homeward Bound 4",
+   0.5
+  ],
+  [
+   "Rossi Run",
+   "Suncatcher",
+   "Sunshine Quad bottom",
+   3.6
+  ],
+  [
+   "Blue Moon",
+   "Roundhouse Run / Unnamed run",
+   "Sunset Strip / Blue Moon",
+   0.5
+  ],
+  [
+   "Blue Moon",
+   "Sunset Strip / Blue Moon",
+   "Lower Limelight / Upper Limelight",
+   1.2
+  ],
+  [
+   "Kettle Brook",
+   "Homeward Bound 5",
+   "Homeward Bound 2",
+   0.5
+  ],
+  [
+   "Kettle Brook",
+   "Homeward Bound 2",
+   "Homeward Bound 4",
+   2.1
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Glades Peak Quad top",
+   "Rimrock 4",
+   0.7
+  ],
+  [
+   "walk",
+   "Glades Peak Quad top",
+   "Triplesec / Buckhorn",
+   1.2
+  ],
+  [
+   "walk",
+   "Glades Peak Quad top",
+   "South Face Express Quad top",
+   3.0
+  ],
+  [
+   "walk",
+   "Glades Peak Quad top",
+   "Rimrock 7",
+   1.3
+  ],
+  [
+   "walk",
+   "Sachem Quad top",
+   "Scooter / Link",
+   1.6
+  ],
+  [
+   "walk",
+   "Sachem Quad top",
+   "Rimrock 5",
+   1.3
+  ],
+  [
+   "walk",
+   "Sachem Quad top",
+   "Chute / Upper World Cup",
+   2.8
+  ],
+  [
+   "walk",
+   "Sachem Quad top",
+   "Glades Peak Quad bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Blind Faith / Catnap",
+   "South Face Express Quad bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Blind Faith / Catnap",
+   "Sunshine Quad top",
+   1.7
+  ],
+  [
+   "walk",
+   "Side Out / Sidewinder",
+   "Solitude Express Quad bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Side Out / Sidewinder",
+   "Morning Star Triple top",
+   0.9
+  ],
+  [
+   "walk",
+   "Side Out / Boomerang",
+   "Solitude Express Quad bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Rising Star / Promenade",
+   "Morning Star Triple top",
+   2.2
+  ],
+  [
+   "walk",
+   "South Ridge Quad B top",
+   "South Ridge Quad A top",
+   0.9
+  ],
+  [
+   "walk",
+   "South Ridge Quad B top",
+   "Nor'Easter 2",
+   3.4
+  ],
+  [
+   "walk",
+   "South Ridge Quad B top",
+   "Black Ridge Triple bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "South Ridge Quad B top",
+   "Lower Mountain Road 2",
+   1.2
+  ],
+  [
+   "walk",
+   "South Ridge Quad B top",
+   "Snow Trak / Ledgewood",
+   3.2
+  ],
+  [
+   "walk",
+   "South Ridge Quad B top",
+   "Homeward Bound",
+   2.1
+  ],
+  [
+   "walk",
+   "South Ridge Quad B top",
+   "Homeward Bound 5",
+   3.4
+  ],
+  [
+   "walk",
+   "South Ridge Quad B top",
+   "The Pull bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "South Ridge Quad A bottom",
+   "Ski School Carpet bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "South Ridge Quad A bottom",
+   "Snow Star Carpet top",
+   1.7
+  ],
+  [
+   "walk",
+   "South Ridge Quad A bottom",
+   "Snow Star Carpet bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "South Ridge Quad A bottom",
+   "Ski School Carpet top",
+   1.5
+  ],
+  [
+   "walk",
+   "South Ridge Quad A bottom",
+   "F-10 Carpet bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Scooter / Drop Off",
+   "Sachem Quad top",
+   1.5
+  ],
+  [
+   "walk",
+   "Scooter / Drop Off",
+   "Glades Peak Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Scooter / Link",
+   "Sachem Quad top",
+   1.6
+  ],
+  [
+   "walk",
+   "Scooter / Link",
+   "Glades Peak Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Quantum Six bottom",
+   "Unnamed run / Fast Track",
+   1.1
+  ],
+  [
+   "walk",
+   "Quantum Six bottom",
+   "Fast Track",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Fast Track",
+   "Quantum Six bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Sidewinder / Promenade",
+   "Solitude Express Quad bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Eclipse / Tuckered Out",
+   "Quantum Six bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Eclipse / Tuckered Out",
+   "Coleman Brook Express Quad top",
+   0.6
+  ],
+  [
+   "walk",
+   "Quantum Six top",
+   "Tuckered Out / Quantum Leap",
+   0.6
+  ],
+  [
+   "walk",
+   "Quantum Six top",
+   "Tuckered Out",
+   1.4
+  ],
+  [
+   "walk",
+   "Quantum Six top",
+   "Sunset Strip 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Quantum Six top",
+   "Upper Limelight",
+   2.1
+  ],
+  [
+   "walk",
+   "Solitude Express Quad top",
+   "Lower Sapphire / Express Lane",
+   3.5
+  ],
+  [
+   "walk",
+   "Solitude Express Quad top",
+   "Exhibition / Sweet Solitude",
+   0.7
+  ],
+  [
+   "walk",
+   "Solitude Express Quad top",
+   "Express Lane",
+   0.9
+  ],
+  [
+   "walk",
+   "Solitude Express Quad top",
+   "Express Lane 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Rimrock 3",
+   "Glades Peak Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "South Face Express Quad bottom",
+   "Blind Faith / Catnap",
+   1.2
+  ],
+  [
+   "walk",
+   "South Face Express Quad bottom",
+   "Sunshine Quad top",
+   0.6
+  ],
+  [
+   "walk",
+   "Exhibition / Sweet Solitude",
+   "Solitude Express Quad top",
+   0.7
+  ],
+  [
+   "walk",
+   "Rimrock 4",
+   "Glades Peak Quad top",
+   0.7
+  ],
+  [
+   "walk",
+   "Rimrock 4",
+   "South Face Express Quad top",
+   2.3
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ridge Runner",
+   "Black Ridge Triple top",
+   1.1
+  ],
+  [
+   "walk",
+   "Zip / Sachem",
+   "Sunburst Six bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Zip / Lower World Cup",
+   "Zip / Sachem",
+   1.2
+  ],
+  [
+   "walk",
+   "Zip / Lower World Cup",
+   "Lower Mountain Road 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Zip / Lower World Cup",
+   "Sunburst Six bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Zip / Lower World Cup",
+   "Hot Dog Hill",
+   2.8
+  ],
+  [
+   "walk",
+   "F-10 Carpet top",
+   "South Ridge Quad A bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "F-10 Carpet top",
+   "Ski School Carpet bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "F-10 Carpet top",
+   "Snow Star Carpet top",
+   3.2
+  ],
+  [
+   "walk",
+   "F-10 Carpet top",
+   "Ski School Carpet top",
+   2.1
+  ],
+  [
+   "walk",
+   "F-10 Carpet top",
+   "Homeward Bound 4",
+   1.2
+  ],
+  [
+   "walk",
+   "F-10 Carpet top",
+   "Sachem Quad bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "F-10 Carpet top",
+   "F-10 Carpet bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Green Link / Heaven's Gate",
+   "Evergreen Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Rimrock 5",
+   "Sachem Quad top",
+   1.3
+  ],
+  [
+   "walk",
+   "Rimrock 5",
+   "Glades Peak Quad bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Inn Bound / Fast Track",
+   "Orion's Belt Carpet top",
+   2.6
+  ],
+  [
+   "walk",
+   "Inn Bound / Fast Track",
+   "Orion's Belt Carpet bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Coleman Brook Express Quad bottom",
+   "Starlight Carpet bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Coleman Brook Express Quad bottom",
+   "Stargazer Carpet bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Coleman Brook Express Quad bottom",
+   "Orion's Belt Carpet bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Express Lane",
+   "Solitude Express Quad top",
+   0.9
+  ],
+  [
+   "walk",
+   "Nor'Easter",
+   "Sunburst Six top",
+   1.1
+  ],
+  [
+   "walk",
+   "Nor'Easter / Lower Mountain Road",
+   "Sunburst Six bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Triplesec / Buckhorn",
+   "Glades Peak Quad top",
+   1.2
+  ],
+  [
+   "walk",
+   "South Ridge Quad A top",
+   "South Ridge Quad B top",
+   0.9
+  ],
+  [
+   "walk",
+   "South Ridge Quad A top",
+   "Nor'Easter 2",
+   3.4
+  ],
+  [
+   "walk",
+   "South Ridge Quad A top",
+   "Black Ridge Triple bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "South Ridge Quad A top",
+   "Lower Mountain Road 2",
+   2.1
+  ],
+  [
+   "walk",
+   "South Ridge Quad A top",
+   "Snow Trak / Ledgewood",
+   2.5
+  ],
+  [
+   "walk",
+   "South Ridge Quad A top",
+   "Homeward Bound",
+   1.5
+  ],
+  [
+   "walk",
+   "South Ridge Quad A top",
+   "Homeward Bound 2",
+   3.4
+  ],
+  [
+   "walk",
+   "South Ridge Quad A top",
+   "Homeward Bound 5",
+   2.9
+  ],
+  [
+   "walk",
+   "South Ridge Quad A top",
+   "The Pull bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Ski School Carpet bottom",
+   "South Ridge Quad A bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Ski School Carpet bottom",
+   "Snow Star Carpet top",
+   1.1
+  ],
+  [
+   "walk",
+   "Ski School Carpet bottom",
+   "Snow Star Carpet bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Ski School Carpet bottom",
+   "Ski School Carpet top",
+   0.9
+  ],
+  [
+   "walk",
+   "Ski School Carpet bottom",
+   "F-10 Carpet bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "South Face Express Quad top",
+   "Glades Peak Quad top",
+   3.0
+  ],
+  [
+   "walk",
+   "South Face Express Quad top",
+   "Rimrock 2",
+   1.6
+  ],
+  [
+   "walk",
+   "South Face Express Quad top",
+   "Rimrock 4",
+   2.3
+  ],
+  [
+   "walk",
+   "South Face Express Quad top",
+   "Rimrock 7",
+   1.7
+  ],
+  [
+   "walk",
+   "Tuckered Out / Quantum Leap",
+   "Quantum Six top",
+   0.6
+  ],
+  [
+   "walk",
+   "Buckhorn / Rum Run",
+   "Evergreen Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Buckhorn / Rum Run",
+   "Sunburst Six top",
+   0.7
+  ],
+  [
+   "walk",
+   "Evergreen Express bottom",
+   "Lower Sapphire / Lower Mountain Road",
+   2.2
+  ],
+  [
+   "walk",
+   "Evergreen Express bottom",
+   "Switchback / Lower Mountain Road",
+   2.1
+  ],
+  [
+   "walk",
+   "Evergreen Express bottom",
+   "Green Link / Heaven's Gate",
+   3.4
+  ],
+  [
+   "walk",
+   "Evergreen Express bottom",
+   "Heaven's Gate",
+   3.4
+  ],
+  [
+   "walk",
+   "Evergreen Express bottom",
+   "Lower Mountain Road",
+   3.0
+  ],
+  [
+   "walk",
+   "Evergreen Express bottom",
+   "Double Dipper / Upper Arrow 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Evergreen Express bottom",
+   "Lower Sapphire",
+   1.1
+  ],
+  [
+   "walk",
+   "Sunshine Quad top",
+   "Blind Faith / Catnap",
+   1.7
+  ],
+  [
+   "walk",
+   "Sunshine Quad top",
+   "South Face Express Quad bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Rimrock 7",
+   "Glades Peak Quad top",
+   1.3
+  ],
+  [
+   "walk",
+   "Rimrock 7",
+   "South Face Express Quad top",
+   1.7
+  ],
+  [
+   "walk",
+   "Morning Star Triple bottom",
+   "Daybreak",
+   0.7
+  ],
+  [
+   "walk",
+   "Ridge Runner / Black Out",
+   "Black Ridge Triple top",
+   0.6
+  ],
+  [
+   "walk",
+   "Heaven's Gate",
+   "Evergreen Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Turkey Shoot / Challenger",
+   "Evergreen Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Turkey Shoot / Challenger",
+   "Sunburst Six top",
+   0.9
+  ],
+  [
+   "walk",
+   "Wardance",
+   "Black Ridge Triple top",
+   1.1
+  ],
+  [
+   "walk",
+   "Nor'Easter 2",
+   "Black Ridge Triple bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Nor'Easter 2",
+   "Sunburst Six bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Black Ridge Triple bottom",
+   "Nor'Easter / Lower Mountain Road",
+   2.5
+  ],
+  [
+   "walk",
+   "Black Ridge Triple bottom",
+   "Nor'Easter 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Black Ridge Triple bottom",
+   "Lower Mountain Road 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Black Ridge Triple bottom",
+   "Snow Trak / Ledgewood",
+   3.2
+  ],
+  [
+   "walk",
+   "Black Ridge Triple bottom",
+   "Homeward Bound",
+   2.0
+  ],
+  [
+   "walk",
+   "Black Ridge Triple bottom",
+   "Homeward Bound 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Black Ridge Triple bottom",
+   "Homeward Bound 5",
+   2.6
+  ],
+  [
+   "walk",
+   "Starlight Carpet bottom",
+   "Coleman Brook Express Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Starlight Carpet bottom",
+   "Stargazer Carpet bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Starlight Carpet bottom",
+   "Orion's Belt Carpet bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Buckhorn",
+   "Evergreen Express top",
+   2.6
+  ],
+  [
+   "walk",
+   "Buckhorn",
+   "Sunburst Six top",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Mountain Road",
+   "The Pull top",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 2",
+   "South Ridge Quad B top",
+   1.2
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 2",
+   "South Ridge Quad A top",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 2",
+   "Black Ridge Triple bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 2",
+   "The Pull bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Snow Star Carpet top",
+   "South Ridge Quad A bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Snow Star Carpet top",
+   "Ski School Carpet bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Snow Star Carpet top",
+   "Snow Star Carpet bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Snow Star Carpet top",
+   "Ski School Carpet top",
+   1.6
+  ],
+  [
+   "walk",
+   "Snow Star Carpet top",
+   "F-10 Carpet bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Snow Star Carpet bottom",
+   "South Ridge Quad A bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Snow Star Carpet bottom",
+   "Ski School Carpet bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Snow Star Carpet bottom",
+   "Snow Star Carpet top",
+   0.7
+  ],
+  [
+   "walk",
+   "Snow Star Carpet bottom",
+   "Ski School Carpet top",
+   2.2
+  ],
+  [
+   "walk",
+   "Snow Star Carpet bottom",
+   "F-10 Carpet bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 3",
+   "Sunburst Six bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Upper World Cup",
+   "Sachem Quad top",
+   3.2
+  ],
+  [
+   "walk",
+   "Sunburst Six bottom",
+   "Zip / Sachem",
+   2.1
+  ],
+  [
+   "walk",
+   "Sunburst Six bottom",
+   "Zip / Lower World Cup",
+   1.0
+  ],
+  [
+   "walk",
+   "Sunburst Six bottom",
+   "Hot Dog Hill",
+   1.9
+  ],
+  [
+   "walk",
+   "Ski School Carpet top",
+   "South Ridge Quad A bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Ski School Carpet top",
+   "Ski School Carpet bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Ski School Carpet top",
+   "Snow Star Carpet top",
+   1.6
+  ],
+  [
+   "walk",
+   "Ski School Carpet top",
+   "Snow Star Carpet bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Ski School Carpet top",
+   "F-10 Carpet bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Hot Dog Hill",
+   "Sunburst Six bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Open Slope",
+   "South Ridge Quad A bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Open Slope",
+   "F-10 Carpet top",
+   1.7
+  ],
+  [
+   "walk",
+   "Open Slope",
+   "Ski School Carpet top",
+   3.2
+  ],
+  [
+   "walk",
+   "Open Slope",
+   "Sachem Quad bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Double Dipper / Upper Arrow",
+   "Evergreen Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Double Dipper / Upper Arrow 2",
+   "The Pull top",
+   3.0
+  ],
+  [
+   "walk",
+   "Drop Off",
+   "Sachem Quad top",
+   1.1
+  ],
+  [
+   "walk",
+   "Drop Off",
+   "Glades Peak Quad bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "The Pull top",
+   "Lower Mountain Road",
+   2.6
+  ],
+  [
+   "walk",
+   "Fast Track",
+   "Quantum Six bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Snow Trak / Ledgewood",
+   "Black Ridge Triple bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Black Ridge Triple bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Homeward Bound 2",
+   "Black Ridge Triple bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Orion's Belt Carpet top",
+   "Stargazer Carpet bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Orion's Belt Carpet top",
+   "Orion's Belt Carpet bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Stargazer Carpet bottom",
+   "Coleman Brook Express Quad bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Stargazer Carpet bottom",
+   "Starlight Carpet bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Stargazer Carpet bottom",
+   "Orion's Belt Carpet bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Line Drive / Jack-A-Lope, Jack-a-lope",
+   "Solitude Express Quad bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Tuckered Out",
+   "Quantum Six top",
+   1.4
+  ],
+  [
+   "walk",
+   "Sunset Strip 2",
+   "Quantum Six top",
+   0.9
+  ],
+  [
+   "walk",
+   "Quantum Leap 2",
+   "Quantum Six bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Quantum Leap 2",
+   "Coleman Brook Express Quad top",
+   3.2
+  ],
+  [
+   "walk",
+   "Solitude Express Quad bottom",
+   "Side Out / Boomerang",
+   1.7
+  ],
+  [
+   "walk",
+   "Solitude Express Quad bottom",
+   "Sidewinder / Promenade",
+   2.0
+  ],
+  [
+   "walk",
+   "Solitude Express Quad bottom",
+   "Line Drive / Jack-A-Lope, Jack-a-lope",
+   2.5
+  ],
+  [
+   "walk",
+   "Daybreak",
+   "Morning Star Triple bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Lower Sapphire",
+   "Evergreen Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Homeward Bound 4",
+   "South Ridge Quad A bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Homeward Bound 4",
+   "F-10 Carpet top",
+   1.2
+  ],
+  [
+   "walk",
+   "Homeward Bound 4",
+   "Ski School Carpet bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Homeward Bound 4",
+   "Snow Star Carpet top",
+   3.0
+  ],
+  [
+   "walk",
+   "Homeward Bound 4",
+   "Ski School Carpet top",
+   1.6
+  ],
+  [
+   "walk",
+   "Homeward Bound 4",
+   "Sachem Quad bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Homeward Bound 4",
+   "F-10 Carpet bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Homeward Bound 5",
+   "Black Ridge Triple bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Orion's Belt Carpet bottom",
+   "Coleman Brook Express Quad bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Orion's Belt Carpet bottom",
+   "Starlight Carpet bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Orion's Belt Carpet bottom",
+   "Orion's Belt Carpet top",
+   1.4
+  ],
+  [
+   "walk",
+   "Orion's Belt Carpet bottom",
+   "Stargazer Carpet bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Sachem Quad bottom",
+   "South Ridge Quad A bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Sachem Quad bottom",
+   "F-10 Carpet top",
+   0.7
+  ],
+  [
+   "walk",
+   "Sachem Quad bottom",
+   "Ski School Carpet bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Sachem Quad bottom",
+   "Ski School Carpet top",
+   2.7
+  ],
+  [
+   "walk",
+   "Sachem Quad bottom",
+   "Homeward Bound 4",
+   1.8
+  ],
+  [
+   "walk",
+   "Sachem Quad bottom",
+   "F-10 Carpet bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Evergreen Express top",
+   "Easy Rider / Sweet Solitude",
+   1.7
+  ],
+  [
+   "walk",
+   "Evergreen Express top",
+   "Jolly Green Giant / Nor'Easter",
+   1.7
+  ],
+  [
+   "walk",
+   "Evergreen Express top",
+   "Nor'Easter",
+   1.3
+  ],
+  [
+   "walk",
+   "Evergreen Express top",
+   "Buckhorn / Rum Run",
+   0.9
+  ],
+  [
+   "walk",
+   "Evergreen Express top",
+   "Upper World Cup / Turkey Shoot",
+   2.8
+  ],
+  [
+   "walk",
+   "Evergreen Express top",
+   "Upper Chief / Countdown",
+   2.0
+  ],
+  [
+   "walk",
+   "Evergreen Express top",
+   "Turkey Shoot / Challenger",
+   1.5
+  ],
+  [
+   "walk",
+   "Evergreen Express top",
+   "Upper Timberline / Upper Sapphire",
+   2.2
+  ],
+  [
+   "walk",
+   "Evergreen Express top",
+   "Everglade",
+   3.1
+  ],
+  [
+   "walk",
+   "Evergreen Express top",
+   "Buckhorn",
+   2.6
+  ],
+  [
+   "walk",
+   "Evergreen Express top",
+   "Upper Sapphire",
+   2.9
+  ],
+  [
+   "walk",
+   "Evergreen Express top",
+   "Sunburst Six top",
+   0.6
+  ],
+  [
+   "walk",
+   "Coleman Brook Express Quad top",
+   "Unnamed run / Fast Track",
+   2.8
+  ],
+  [
+   "walk",
+   "Coleman Brook Express Quad top",
+   "Eclipse / Tuckered Out",
+   0.6
+  ],
+  [
+   "walk",
+   "Coleman Brook Express Quad top",
+   "Fast Track",
+   3.2
+  ],
+  [
+   "walk",
+   "Coleman Brook Express Quad top",
+   "Quantum Leap 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Morning Star Triple top",
+   "Side Out / Sidewinder",
+   0.9
+  ],
+  [
+   "walk",
+   "Morning Star Triple top",
+   "Side Out / Boomerang",
+   2.4
+  ],
+  [
+   "walk",
+   "Morning Star Triple top",
+   "Rising Star / Promenade",
+   2.2
+  ],
+  [
+   "walk",
+   "Morning Star Triple top",
+   "Sidewinder / Promenade",
+   2.1
+  ],
+  [
+   "walk",
+   "Morning Star Triple top",
+   "Line Drive / Jack-A-Lope, Jack-a-lope",
+   3.0
+  ],
+  [
+   "walk",
+   "Morning Star Triple top",
+   "Solitude Express Quad bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Glades Peak Quad bottom",
+   "Sachem Quad top",
+   1.4
+  ],
+  [
+   "walk",
+   "Glades Peak Quad bottom",
+   "Scooter / Link",
+   2.8
+  ],
+  [
+   "walk",
+   "Glades Peak Quad bottom",
+   "Rimrock 5",
+   0.7
+  ],
+  [
+   "walk",
+   "The Pull bottom",
+   "South Ridge Quad B top",
+   2.0
+  ],
+  [
+   "walk",
+   "The Pull bottom",
+   "South Ridge Quad A top",
+   2.8
+  ],
+  [
+   "walk",
+   "The Pull bottom",
+   "Nor'Easter 2",
+   3.1
+  ],
+  [
+   "walk",
+   "The Pull bottom",
+   "Black Ridge Triple bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "The Pull bottom",
+   "Lower Mountain Road 2",
+   1.2
+  ],
+  [
+   "walk",
+   "The Pull bottom",
+   "Homeward Bound",
+   3.3
+  ],
+  [
+   "walk",
+   "Sunburst Six top",
+   "Easy Rider / Sweet Solitude",
+   2.3
+  ],
+  [
+   "walk",
+   "Sunburst Six top",
+   "Jolly Green Giant / Nor'Easter",
+   1.7
+  ],
+  [
+   "walk",
+   "Sunburst Six top",
+   "Nor'Easter",
+   1.1
+  ],
+  [
+   "walk",
+   "Sunburst Six top",
+   "Buckhorn / Rum Run",
+   0.7
+  ],
+  [
+   "walk",
+   "Sunburst Six top",
+   "Upper World Cup / Turkey Shoot",
+   2.3
+  ],
+  [
+   "walk",
+   "Sunburst Six top",
+   "Upper Chief / Countdown",
+   1.6
+  ],
+  [
+   "walk",
+   "Sunburst Six top",
+   "Turkey Shoot / Challenger",
+   0.9
+  ],
+  [
+   "walk",
+   "Sunburst Six top",
+   "Upper Timberline / Upper Sapphire",
+   2.5
+  ],
+  [
+   "walk",
+   "Sunburst Six top",
+   "Buckhorn",
+   2.4
+  ],
+  [
+   "walk",
+   "Sunburst Six top",
+   "Upper Sapphire",
+   3.3
+  ],
+  [
+   "walk",
+   "Sunburst Six top",
+   "Evergreen Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "F-10 Carpet bottom",
+   "South Ridge Quad A bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "F-10 Carpet bottom",
+   "Ski School Carpet bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "F-10 Carpet bottom",
+   "Snow Star Carpet top",
+   2.1
+  ],
+  [
+   "walk",
+   "F-10 Carpet bottom",
+   "Snow Star Carpet bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "F-10 Carpet bottom",
+   "Ski School Carpet top",
+   2.1
+  ],
+  [
+   "walk",
+   "Black Ridge Triple top",
+   "Jolly Green Giant / Ridge Runner",
+   1.1
+  ],
+  [
+   "walk",
+   "Black Ridge Triple top",
+   "Ridge Runner / Black Out",
+   0.6
+  ],
+  [
+   "walk",
+   "Black Ridge Triple top",
+   "Wardance",
+   1.1
+  ],
+  [
+   "walk",
+   "Black Ridge Triple top",
+   "Double Dipper / Upper Arrow",
+   2.6
+  ],
+  [
+   "walk",
+   "Rimrock 4",
+   "Triplesec / Buckhorn",
+   1.9
+  ],
+  [
+   "walk",
+   "Rimrock 4",
+   "Rimrock 7",
+   2.0
+  ],
+  [
+   "walk",
+   "Triplesec / Buckhorn",
+   "Rimrock 4",
+   1.9
+  ],
+  [
+   "walk",
+   "Triplesec / Buckhorn",
+   "South Face Express Quad top",
+   4.2
+  ],
+  [
+   "walk",
+   "Triplesec / Buckhorn",
+   "Rimrock 7",
+   2.5
+  ],
+  [
+   "walk",
+   "South Face Express Quad top",
+   "Triplesec / Buckhorn",
+   4.2
+  ],
+  [
+   "walk",
+   "Rimrock 7",
+   "Rimrock 4",
+   2.0
+  ],
+  [
+   "walk",
+   "Rimrock 7",
+   "Triplesec / Buckhorn",
+   2.5
+  ],
+  [
+   "walk",
+   "Scooter / Drop Off",
+   "Scooter / Link",
+   3.2
+  ],
+  [
+   "walk",
+   "Scooter / Drop Off",
+   "Rimrock 5",
+   2.8
+  ],
+  [
+   "walk",
+   "Scooter / Drop Off",
+   "Chute / Upper World Cup",
+   4.3
+  ],
+  [
+   "walk",
+   "Scooter / Link",
+   "Rimrock 5",
+   2.9
+  ],
+  [
+   "walk",
+   "Scooter / Link",
+   "Chute / Upper World Cup",
+   4.4
+  ],
+  [
+   "walk",
+   "Rimrock 5",
+   "Scooter / Link",
+   2.9
+  ],
+  [
+   "walk",
+   "Rimrock 5",
+   "Chute / Upper World Cup",
+   4.1
+  ],
+  [
+   "walk",
+   "Upper World Cup",
+   "Scooter / Link",
+   4.8
+  ],
+  [
+   "walk",
+   "Upper World Cup",
+   "Rimrock 5",
+   4.5
+  ],
+  [
+   "walk",
+   "Upper World Cup",
+   "Chute / Upper World Cup",
+   6.0
+  ],
+  [
+   "walk",
+   "Upper World Cup",
+   "Glades Peak Quad bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Drop Off",
+   "Scooter / Link",
+   2.8
+  ],
+  [
+   "walk",
+   "Drop Off",
+   "Rimrock 5",
+   2.4
+  ],
+  [
+   "walk",
+   "Drop Off",
+   "Chute / Upper World Cup",
+   3.9
+  ],
+  [
+   "walk",
+   "Glades Peak Quad bottom",
+   "Chute / Upper World Cup",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 2",
+   "Nor'Easter 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 2",
+   "Snow Trak / Ledgewood",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 2",
+   "Homeward Bound",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 2",
+   "Homeward Bound 5",
+   4.6
+  ],
+  [
+   "walk",
+   "The Pull bottom",
+   "Snow Trak / Ledgewood",
+   4.8
+  ],
+  [
+   "walk",
+   "The Pull bottom",
+   "Homeward Bound 5",
+   4.2
+  ],
+  [
+   "walk",
+   "F-10 Carpet top",
+   "Snow Star Carpet bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Open Slope",
+   "Ski School Carpet bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Open Slope",
+   "Snow Star Carpet top",
+   4.8
+  ],
+  [
+   "walk",
+   "Open Slope",
+   "Snow Star Carpet bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Open Slope",
+   "F-10 Carpet bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Homeward Bound 4",
+   "Snow Star Carpet bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Sachem Quad bottom",
+   "Snow Star Carpet top",
+   3.6
+  ],
+  [
+   "walk",
+   "Sachem Quad bottom",
+   "Snow Star Carpet bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Fast Track",
+   "Fast Track",
+   3.5
+  ],
+  [
+   "walk",
+   "Eclipse / Tuckered Out",
+   "Unnamed run / Fast Track",
+   3.4
+  ],
+  [
+   "walk",
+   "Eclipse / Tuckered Out",
+   "Fast Track",
+   3.8
+  ],
+  [
+   "walk",
+   "Fast Track",
+   "Unnamed run / Fast Track",
+   3.5
+  ],
+  [
+   "walk",
+   "Quantum Leap 2",
+   "Unnamed run / Fast Track",
+   3.1
+  ],
+  [
+   "walk",
+   "Quantum Leap 2",
+   "Fast Track",
+   4.5
+  ],
+  [
+   "walk",
+   "Coleman Brook Express Quad top",
+   "Quantum Six bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Tuckered Out / Quantum Leap",
+   "Tuckered Out",
+   2.0
+  ],
+  [
+   "walk",
+   "Tuckered Out / Quantum Leap",
+   "Sunset Strip 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Tuckered Out / Quantum Leap",
+   "Upper Limelight",
+   2.7
+  ],
+  [
+   "walk",
+   "Tuckered Out",
+   "Tuckered Out / Quantum Leap",
+   2.0
+  ],
+  [
+   "walk",
+   "Tuckered Out",
+   "Sunset Strip 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Tuckered Out",
+   "Upper Limelight",
+   3.5
+  ],
+  [
+   "walk",
+   "Sunset Strip 2",
+   "Tuckered Out / Quantum Leap",
+   1.4
+  ],
+  [
+   "walk",
+   "Sunset Strip 2",
+   "Tuckered Out",
+   2.3
+  ],
+  [
+   "walk",
+   "Sunset Strip 2",
+   "Upper Limelight",
+   3.0
+  ],
+  [
+   "walk",
+   "Exhibition / Sweet Solitude",
+   "Lower Sapphire / Express Lane",
+   4.2
+  ],
+  [
+   "walk",
+   "Exhibition / Sweet Solitude",
+   "Express Lane",
+   1.6
+  ],
+  [
+   "walk",
+   "Exhibition / Sweet Solitude",
+   "Express Lane 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Express Lane",
+   "Lower Sapphire / Express Lane",
+   4.4
+  ],
+  [
+   "walk",
+   "Express Lane",
+   "Exhibition / Sweet Solitude",
+   1.6
+  ],
+  [
+   "walk",
+   "Express Lane",
+   "Express Lane 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Sunburst Six bottom",
+   "Lower Mountain Road 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Open Slope",
+   "Homeward Bound 4",
+   2.9
+  ],
+  [
+   "walk",
+   "Black Ridge Triple bottom",
+   "Sunburst Six bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "South Ridge Quad B top",
+   "Homeward Bound 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 2",
+   "Homeward Bound 2",
+   5.4
+  ],
+  [
+   "walk",
+   "The Pull bottom",
+   "Homeward Bound 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Glades Peak Quad top",
+   "Rimrock 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Rimrock 4",
+   "Rimrock 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Rimrock 7",
+   "Rimrock 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Triplesec / Buckhorn",
+   "Rimrock 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Green Link / Heaven's Gate",
+   "Lower Sapphire / Lower Mountain Road",
+   5.6
+  ],
+  [
+   "walk",
+   "Green Link / Heaven's Gate",
+   "Switchback / Lower Mountain Road",
+   5.6
+  ],
+  [
+   "walk",
+   "Green Link / Heaven's Gate",
+   "Heaven's Gate",
+   6.9
+  ],
+  [
+   "walk",
+   "Green Link / Heaven's Gate",
+   "Lower Mountain Road",
+   6.5
+  ],
+  [
+   "walk",
+   "Green Link / Heaven's Gate",
+   "Double Dipper / Upper Arrow 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Green Link / Heaven's Gate",
+   "Lower Sapphire",
+   4.6
+  ],
+  [
+   "walk",
+   "Heaven's Gate",
+   "Lower Sapphire / Lower Mountain Road",
+   5.6
+  ],
+  [
+   "walk",
+   "Heaven's Gate",
+   "Switchback / Lower Mountain Road",
+   5.5
+  ],
+  [
+   "walk",
+   "Heaven's Gate",
+   "Green Link / Heaven's Gate",
+   6.9
+  ],
+  [
+   "walk",
+   "Heaven's Gate",
+   "Lower Mountain Road",
+   6.5
+  ],
+  [
+   "walk",
+   "Heaven's Gate",
+   "Double Dipper / Upper Arrow 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Heaven's Gate",
+   "Lower Sapphire",
+   4.5
+  ],
+  [
+   "walk",
+   "Double Dipper / Upper Arrow",
+   "Lower Sapphire / Lower Mountain Road",
+   4.6
+  ],
+  [
+   "walk",
+   "Double Dipper / Upper Arrow",
+   "Switchback / Lower Mountain Road",
+   4.6
+  ],
+  [
+   "walk",
+   "Double Dipper / Upper Arrow",
+   "Green Link / Heaven's Gate",
+   5.9
+  ],
+  [
+   "walk",
+   "Double Dipper / Upper Arrow",
+   "Heaven's Gate",
+   5.9
+  ],
+  [
+   "walk",
+   "Double Dipper / Upper Arrow",
+   "Lower Mountain Road",
+   5.5
+  ],
+  [
+   "walk",
+   "Double Dipper / Upper Arrow",
+   "Double Dipper / Upper Arrow 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Double Dipper / Upper Arrow",
+   "Lower Sapphire",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Sapphire",
+   "Lower Sapphire / Lower Mountain Road",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Sapphire",
+   "Switchback / Lower Mountain Road",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Sapphire",
+   "Green Link / Heaven's Gate",
+   4.6
+  ],
+  [
+   "walk",
+   "Lower Sapphire",
+   "Heaven's Gate",
+   4.5
+  ],
+  [
+   "walk",
+   "Lower Sapphire",
+   "Lower Mountain Road",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Sapphire",
+   "Double Dipper / Upper Arrow 2",
+   3.3
+  ],
+  [
+   "walk",
+   "South Ridge Quad B top",
+   "Sunburst Six bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "South Ridge Quad A top",
+   "Sunburst Six bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "The Pull bottom",
+   "Sunburst Six bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "South Ridge Quad B top",
+   "Nor'Easter / Lower Mountain Road",
+   4.6
+  ],
+  [
+   "walk",
+   "South Ridge Quad B top",
+   "Lower Mountain Road 3",
+   5.1
+  ],
+  [
+   "walk",
+   "South Ridge Quad A top",
+   "Nor'Easter / Lower Mountain Road",
+   4.9
+  ],
+  [
+   "walk",
+   "South Ridge Quad A top",
+   "Lower Mountain Road 3",
+   5.5
+  ],
+  [
+   "walk",
+   "Nor'Easter 2",
+   "Nor'Easter / Lower Mountain Road",
+   4.1
+  ],
+  [
+   "walk",
+   "Nor'Easter 2",
+   "Lower Mountain Road 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Nor'Easter 2",
+   "Snow Trak / Ledgewood",
+   4.7
+  ],
+  [
+   "walk",
+   "Nor'Easter 2",
+   "Homeward Bound",
+   3.6
+  ],
+  [
+   "walk",
+   "Nor'Easter 2",
+   "Homeward Bound 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Nor'Easter 2",
+   "Homeward Bound 5",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 2",
+   "Nor'Easter / Lower Mountain Road",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 2",
+   "Lower Mountain Road 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 2",
+   "Sunburst Six bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Snow Trak / Ledgewood",
+   "Nor'Easter / Lower Mountain Road",
+   5.7
+  ],
+  [
+   "walk",
+   "Snow Trak / Ledgewood",
+   "Nor'Easter 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Snow Trak / Ledgewood",
+   "Lower Mountain Road 3",
+   6.3
+  ],
+  [
+   "walk",
+   "Snow Trak / Ledgewood",
+   "Homeward Bound",
+   5.2
+  ],
+  [
+   "walk",
+   "Snow Trak / Ledgewood",
+   "Homeward Bound 2",
+   6.5
+  ],
+  [
+   "walk",
+   "Snow Trak / Ledgewood",
+   "Homeward Bound 5",
+   5.8
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Nor'Easter / Lower Mountain Road",
+   4.6
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Nor'Easter 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Lower Mountain Road 3",
+   5.1
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Snow Trak / Ledgewood",
+   5.2
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Homeward Bound 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Homeward Bound 5",
+   4.6
+  ],
+  [
+   "walk",
+   "Homeward Bound",
+   "Sunburst Six bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Homeward Bound 2",
+   "Nor'Easter / Lower Mountain Road",
+   5.8
+  ],
+  [
+   "walk",
+   "Homeward Bound 2",
+   "Nor'Easter 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Homeward Bound 2",
+   "Lower Mountain Road 3",
+   6.4
+  ],
+  [
+   "walk",
+   "Homeward Bound 2",
+   "Snow Trak / Ledgewood",
+   6.5
+  ],
+  [
+   "walk",
+   "Homeward Bound 2",
+   "Homeward Bound",
+   5.3
+  ],
+  [
+   "walk",
+   "Homeward Bound 2",
+   "Homeward Bound 5",
+   5.9
+  ],
+  [
+   "walk",
+   "Homeward Bound 5",
+   "Nor'Easter / Lower Mountain Road",
+   5.2
+  ],
+  [
+   "walk",
+   "Homeward Bound 5",
+   "Nor'Easter 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Homeward Bound 5",
+   "Lower Mountain Road 3",
+   5.7
+  ],
+  [
+   "walk",
+   "Homeward Bound 5",
+   "Snow Trak / Ledgewood",
+   5.8
+  ],
+  [
+   "walk",
+   "Homeward Bound 5",
+   "Homeward Bound",
+   4.6
+  ],
+  [
+   "walk",
+   "Homeward Bound 5",
+   "Homeward Bound 2",
+   5.9
+  ],
+  [
+   "walk",
+   "The Pull bottom",
+   "Nor'Easter / Lower Mountain Road",
+   4.1
+  ],
+  [
+   "walk",
+   "The Pull bottom",
+   "Lower Mountain Road 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Evergreen Express bottom",
+   "The Pull top",
+   5.1
+  ],
+  [
+   "walk",
+   "Lower Sapphire",
+   "The Pull top",
+   6.2
+  ],
+  [
+   "walk",
+   "Zip / Sachem",
+   "Zip / Lower World Cup",
+   3.1
+  ],
+  [
+   "walk",
+   "Zip / Sachem",
+   "Hot Dog Hill",
+   4.0
+  ],
+  [
+   "walk",
+   "Zip / Sachem",
+   "Lower Mountain Road 3",
+   6.2
+  ],
+  [
+   "walk",
+   "Nor'Easter / Lower Mountain Road",
+   "Zip / Sachem",
+   5.0
+  ],
+  [
+   "walk",
+   "Nor'Easter / Lower Mountain Road",
+   "Zip / Lower World Cup",
+   3.9
+  ],
+  [
+   "walk",
+   "Nor'Easter / Lower Mountain Road",
+   "Hot Dog Hill",
+   4.8
+  ],
+  [
+   "walk",
+   "Nor'Easter / Lower Mountain Road",
+   "Lower Mountain Road 3",
+   6.9
+  ],
+  [
+   "walk",
+   "Nor'Easter 2",
+   "Zip / Sachem",
+   5.4
+  ],
+  [
+   "walk",
+   "Nor'Easter 2",
+   "Zip / Lower World Cup",
+   4.2
+  ],
+  [
+   "walk",
+   "Nor'Easter 2",
+   "Hot Dog Hill",
+   5.1
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 3",
+   "Zip / Sachem",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 3",
+   "Zip / Lower World Cup",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Mountain Road 3",
+   "Hot Dog Hill",
+   3.9
+  ],
+  [
+   "walk",
+   "Hot Dog Hill",
+   "Zip / Sachem",
+   4.0
+  ],
+  [
+   "walk",
+   "Hot Dog Hill",
+   "Zip / Lower World Cup",
+   2.9
+  ],
+  [
+   "walk",
+   "Hot Dog Hill",
+   "Lower Mountain Road 3",
+   5.9
+  ],
+  [
+   "walk",
+   "Black Ridge Triple bottom",
+   "Zip / Sachem",
+   6.9
+  ],
+  [
+   "walk",
+   "Black Ridge Triple bottom",
+   "Zip / Lower World Cup",
+   5.8
+  ],
+  [
+   "walk",
+   "Black Ridge Triple bottom",
+   "Hot Dog Hill",
+   6.7
+  ],
+  [
+   "walk",
+   "Black Ridge Triple top",
+   "Evergreen Express bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Black Ridge Triple top",
+   "Lower Sapphire",
+   6.2
+  ],
+  [
+   "walk",
+   "Double Dipper / Upper Arrow 2",
+   "Lower Mountain Road",
+   5.5
+  ],
+  [
+   "walk",
+   "Inn Bound / Fast Track",
+   "Stargazer Carpet bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Orion's Belt Carpet top",
+   "Coleman Brook Express Quad bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Orion's Belt Carpet top",
+   "Starlight Carpet bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Inn Bound / Fast Track",
+   "Coleman Brook Express Quad bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Inn Bound / Fast Track",
+   "Starlight Carpet bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Side Out / Sidewinder",
+   "Side Out / Boomerang",
+   3.2
+  ],
+  [
+   "walk",
+   "Side Out / Sidewinder",
+   "Sidewinder / Promenade",
+   2.9
+  ],
+  [
+   "walk",
+   "Side Out / Sidewinder",
+   "Line Drive / Jack-A-Lope, Jack-a-lope",
+   3.9
+  ],
+  [
+   "walk",
+   "Side Out / Boomerang",
+   "Sidewinder / Promenade",
+   3.6
+  ],
+  [
+   "walk",
+   "Side Out / Boomerang",
+   "Line Drive / Jack-A-Lope, Jack-a-lope",
+   4.2
+  ],
+  [
+   "walk",
+   "Sidewinder / Promenade",
+   "Side Out / Boomerang",
+   3.6
+  ],
+  [
+   "walk",
+   "Sidewinder / Promenade",
+   "Line Drive / Jack-A-Lope, Jack-a-lope",
+   4.5
+  ],
+  [
+   "walk",
+   "Line Drive / Jack-A-Lope, Jack-a-lope",
+   "Side Out / Boomerang",
+   4.2
+  ],
+  [
+   "walk",
+   "Line Drive / Jack-A-Lope, Jack-a-lope",
+   "Sidewinder / Promenade",
+   4.5
+  ],
+  [
+   "walk",
+   "Coleman Brook Express Quad bottom",
+   "Orion's Belt Carpet top",
+   3.8
+  ],
+  [
+   "walk",
+   "Starlight Carpet bottom",
+   "Orion's Belt Carpet top",
+   3.7
+  ],
+  [
+   "walk",
+   "Stargazer Carpet bottom",
+   "Orion's Belt Carpet top",
+   3.1
+  ],
+  [
+   "walk",
+   "Buckhorn / Rum Run",
+   "Easy Rider / Sweet Solitude",
+   2.6
+  ],
+  [
+   "walk",
+   "Buckhorn / Rum Run",
+   "Jolly Green Giant / Nor'Easter",
+   2.4
+  ],
+  [
+   "walk",
+   "Buckhorn / Rum Run",
+   "Nor'Easter",
+   1.8
+  ],
+  [
+   "walk",
+   "Buckhorn / Rum Run",
+   "Upper World Cup / Turkey Shoot",
+   3.0
+  ],
+  [
+   "walk",
+   "Buckhorn / Rum Run",
+   "Upper Chief / Countdown",
+   2.3
+  ],
+  [
+   "walk",
+   "Buckhorn / Rum Run",
+   "Turkey Shoot / Challenger",
+   1.6
+  ],
+  [
+   "walk",
+   "Buckhorn / Rum Run",
+   "Upper Timberline / Upper Sapphire",
+   3.1
+  ],
+  [
+   "walk",
+   "Buckhorn / Rum Run",
+   "Everglade",
+   4.1
+  ],
+  [
+   "walk",
+   "Buckhorn / Rum Run",
+   "Buckhorn",
+   3.2
+  ],
+  [
+   "walk",
+   "Buckhorn / Rum Run",
+   "Upper Sapphire",
+   3.8
+  ],
+  [
+   "walk",
+   "Turkey Shoot / Challenger",
+   "Easy Rider / Sweet Solitude",
+   3.1
+  ],
+  [
+   "walk",
+   "Turkey Shoot / Challenger",
+   "Jolly Green Giant / Nor'Easter",
+   2.5
+  ],
+  [
+   "walk",
+   "Turkey Shoot / Challenger",
+   "Nor'Easter",
+   1.9
+  ],
+  [
+   "walk",
+   "Turkey Shoot / Challenger",
+   "Buckhorn / Rum Run",
+   1.6
+  ],
+  [
+   "walk",
+   "Turkey Shoot / Challenger",
+   "Upper World Cup / Turkey Shoot",
+   3.1
+  ],
+  [
+   "walk",
+   "Turkey Shoot / Challenger",
+   "Upper Chief / Countdown",
+   2.4
+  ],
+  [
+   "walk",
+   "Turkey Shoot / Challenger",
+   "Upper Timberline / Upper Sapphire",
+   3.3
+  ],
+  [
+   "walk",
+   "Turkey Shoot / Challenger",
+   "Everglade",
+   4.6
+  ],
+  [
+   "walk",
+   "Turkey Shoot / Challenger",
+   "Buckhorn",
+   3.3
+  ],
+  [
+   "walk",
+   "Turkey Shoot / Challenger",
+   "Upper Sapphire",
+   4.2
+  ],
+  [
+   "walk",
+   "Buckhorn",
+   "Easy Rider / Sweet Solitude",
+   4.3
+  ],
+  [
+   "walk",
+   "Buckhorn",
+   "Jolly Green Giant / Nor'Easter",
+   4.1
+  ],
+  [
+   "walk",
+   "Buckhorn",
+   "Nor'Easter",
+   3.5
+  ],
+  [
+   "walk",
+   "Buckhorn",
+   "Buckhorn / Rum Run",
+   3.2
+  ],
+  [
+   "walk",
+   "Buckhorn",
+   "Upper World Cup / Turkey Shoot",
+   4.7
+  ],
+  [
+   "walk",
+   "Buckhorn",
+   "Upper Chief / Countdown",
+   4.0
+  ],
+  [
+   "walk",
+   "Buckhorn",
+   "Turkey Shoot / Challenger",
+   3.3
+  ],
+  [
+   "walk",
+   "Buckhorn",
+   "Upper Timberline / Upper Sapphire",
+   4.7
+  ],
+  [
+   "walk",
+   "Buckhorn",
+   "Everglade",
+   5.7
+  ],
+  [
+   "walk",
+   "Buckhorn",
+   "Upper Sapphire",
+   5.4
+  ],
+  [
+   "walk",
+   "Sunburst Six top",
+   "Everglade",
+   3.8
+  ],
+  [
+   "walk",
+   "Eclipse / Tuckered Out",
+   "Quantum Leap 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Quantum Leap 2",
+   "Eclipse / Tuckered Out",
+   3.8
+  ],
+  [
+   "walk",
+   "Side Out / Sidewinder",
+   "Rising Star / Promenade",
+   3.1
+  ],
+  [
+   "walk",
+   "Rising Star / Promenade",
+   "Side Out / Sidewinder",
+   3.1
+  ],
+  [
+   "walk",
+   "Rising Star / Promenade",
+   "Side Out / Boomerang",
+   4.6
+  ],
+  [
+   "walk",
+   "Rising Star / Promenade",
+   "Sidewinder / Promenade",
+   4.3
+  ],
+  [
+   "walk",
+   "Rising Star / Promenade",
+   "Line Drive / Jack-A-Lope, Jack-a-lope",
+   5.3
+  ],
+  [
+   "walk",
+   "Rising Star / Promenade",
+   "Solitude Express Quad bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Rimrock 3",
+   "Sachem Quad top",
+   4.4
+  ],
+  [
+   "walk",
+   "Rimrock 3",
+   "Scooter / Link",
+   5.9
+  ],
+  [
+   "walk",
+   "Rimrock 3",
+   "Rimrock 5",
+   3.7
+  ],
+  [
+   "walk",
+   "Nor'Easter",
+   "Easy Rider / Sweet Solitude",
+   3.3
+  ],
+  [
+   "walk",
+   "Nor'Easter",
+   "Jolly Green Giant / Nor'Easter",
+   2.7
+  ],
+  [
+   "walk",
+   "Nor'Easter",
+   "Buckhorn / Rum Run",
+   1.8
+  ],
+  [
+   "walk",
+   "Nor'Easter",
+   "Upper World Cup / Turkey Shoot",
+   3.3
+  ],
+  [
+   "walk",
+   "Nor'Easter",
+   "Upper Chief / Countdown",
+   2.6
+  ],
+  [
+   "walk",
+   "Nor'Easter",
+   "Turkey Shoot / Challenger",
+   1.9
+  ],
+  [
+   "walk",
+   "Nor'Easter",
+   "Upper Timberline / Upper Sapphire",
+   3.5
+  ],
+  [
+   "walk",
+   "Nor'Easter",
+   "Buckhorn",
+   3.5
+  ],
+  [
+   "walk",
+   "Nor'Easter",
+   "Upper Sapphire",
+   4.4
+  ],
+  [
+   "walk",
+   "Nor'Easter",
+   "Evergreen Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Nor'Easter",
+   "Everglade",
+   4.8
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ridge Runner",
+   "Ridge Runner / Black Out",
+   1.8
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ridge Runner",
+   "Wardance",
+   2.3
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ridge Runner",
+   "Double Dipper / Upper Arrow",
+   3.7
+  ],
+  [
+   "walk",
+   "Jolly Green Giant / Ridge Runner",
+   "Evergreen Express bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Ridge Runner / Black Out",
+   "Jolly Green Giant / Ridge Runner",
+   1.8
+  ],
+  [
+   "walk",
+   "Ridge Runner / Black Out",
+   "Wardance",
+   1.8
+  ],
+  [
+   "walk",
+   "Ridge Runner / Black Out",
+   "Double Dipper / Upper Arrow",
+   3.2
+  ],
+  [
+   "walk",
+   "Ridge Runner / Black Out",
+   "Evergreen Express bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Ridge Runner / Black Out",
+   "Lower Sapphire",
+   6.8
+  ],
+  [
+   "walk",
+   "Wardance",
+   "Jolly Green Giant / Ridge Runner",
+   2.3
+  ],
+  [
+   "walk",
+   "Wardance",
+   "Ridge Runner / Black Out",
+   1.8
+  ],
+  [
+   "walk",
+   "Wardance",
+   "Double Dipper / Upper Arrow",
+   3.7
+  ],
+  [
+   "walk",
+   "Wardance",
+   "Evergreen Express bottom",
+   6.2
+  ]
+ ],
+ "base": "Morning Star Triple bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Vermont",
+  "total_lifts": "21",
+  "downhill_trails": "142",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": "https://www.okemo.com"
+ }
+}

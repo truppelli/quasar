@@ -1,0 +1,3789 @@
+{
+ "name": "Brighton Resort",
+ "source": "OpenSkiMap ski area ab2b5807422f8a412c013e32e73b521f76a65d98",
+ "origin_lonlat": [
+  -111.58149613583548,
+  40.59419344952792
+ ],
+ "nodes": {
+  "Canyon": [
+   -563,
+   286,
+   2723.7
+  ],
+  "Canyon 2": [
+   -489,
+   371,
+   2694.7
+  ],
+  "Candyland / Thunder Road": [
+   529,
+   -617,
+   2900.1
+  ],
+  "Candyland / Pee Wee": [
+   408,
+   -370,
+   2872.2
+  ],
+  "Majestic Access / Hawkeye": [
+   379,
+   -313,
+   2869.3
+  ],
+  "Majestic Access / Terrain Park": [
+   204,
+   -277,
+   2840.6
+  ],
+  "Ziggy / Pioneer": [
+   765,
+   -655,
+   2936.7
+  ],
+  "Ziggy / Pioneer 2": [
+   786,
+   -431,
+   2857.4
+  ],
+  "Milly Express top": [
+   -1316,
+   -49,
+   3004.9
+  ],
+  "Lone Pine / Canyon": [
+   -838,
+   181,
+   2780.2
+  ],
+  "Western Trail / True Grit": [
+   1618,
+   -640,
+   3112.2
+  ],
+  "Western Trail / Thor": [
+   1296,
+   -1040,
+   3061.8
+  ],
+  "Unnamed run / Thunder Road": [
+   677,
+   -1152,
+   3025.5
+  ],
+  "Unnamed run / Tantamount": [
+   581,
+   -953,
+   2944.1
+  ],
+  "Wren Hollow / Pacific Highway": [
+   81,
+   -850,
+   2945.9
+  ],
+  "Wren Hollow / Mary Back": [
+   -60,
+   -445,
+   2811.1
+  ],
+  "Rockin' R / Elk Park Ridge": [
+   991,
+   289,
+   2956.0
+  ],
+  "Snake Creek Express bottom": [
+   498,
+   37,
+   2796.4
+  ],
+  "Unnamed run / Wee Willow": [
+   -820,
+   370,
+   2801.4
+  ],
+  "Unnamed run": [
+   -754,
+   435,
+   2783.1
+  ],
+  "Pee Wee / Pacific Highway": [
+   209,
+   -704,
+   2912.0
+  ],
+  "Unnamed run / Canyon": [
+   -945,
+   432,
+   2817.2
+  ],
+  "Unnamed run / Easy Out": [
+   -786,
+   557,
+   2760.3
+  ],
+  "Canyon / Exhibition": [
+   -1188,
+   415,
+   2866.3
+  ],
+  "Milly Express bottom": [
+   -381,
+   593,
+   2666.4
+  ],
+  "True Grit / Lone Star": [
+   1333,
+   -444,
+   2968.3
+  ],
+  "Unnamed run 2": [
+   662,
+   -1048,
+   2979.6
+  ],
+  "My oh My / Thunder Road": [
+   660,
+   -771,
+   2919.4
+  ],
+  "Majestic top": [
+   274,
+   -389,
+   2891.4
+  ],
+  "Mary Back / Lower Majestic": [
+   -137,
+   -174,
+   2766.1
+  ],
+  "Canyon / Majestic Access": [
+   -529,
+   257,
+   2716.2
+  ],
+  "Canyon 3": [
+   -502,
+   309,
+   2705.4
+  ],
+  "Unnamed run / Scree Slope": [
+   -897,
+   48,
+   2812.8
+  ],
+  "Lone Pine": [
+   -894,
+   154,
+   2790.8
+  ],
+  "Scout / Lower Majestic": [
+   -107,
+   335,
+   2696.4
+  ],
+  "Thunder Road / Wintergreen": [
+   511,
+   -1210,
+   3039.6
+  ],
+  "Hawkeye / Hawkeye Access": [
+   250,
+   49,
+   2773.5
+  ],
+  "Silver Spur / Elk Park Ridge": [
+   877,
+   378,
+   2933.2
+  ],
+  "Silver Spur / Thor": [
+   236,
+   410,
+   2747.1
+  ],
+  "Mary Back": [
+   216,
+   -486,
+   2874.1
+  ],
+  "Backbone / Unnamed run": [
+   -1212,
+   328,
+   2897.0
+  ],
+  "Tantamount / Pacific Highway": [
+   438,
+   -1118,
+   3014.4
+  ],
+  "Unnamed run / Aspen Glo": [
+   1218,
+   95,
+   2989.9
+  ],
+  "Unnamed run / Golden Needle": [
+   1032,
+   143,
+   2925.0
+  ],
+  "Majestic Access": [
+   256,
+   -277,
+   2840.3
+  ],
+  "Powder Alley / Hawkeye Access": [
+   33,
+   124,
+   2742.3
+  ],
+  "Unnamed run / Elk Park Ridge": [
+   167,
+   459,
+   2720.7
+  ],
+  "Great Western Express bottom": [
+   -60,
+   592,
+   2672.0
+  ],
+  "Unnamed run / Snake Creek Access": [
+   527,
+   -350,
+   2859.6
+  ],
+  "Unnamed run / Thunder Road 2": [
+   581,
+   -302,
+   2841.4
+  ],
+  "Lone Star / Thor": [
+   1328,
+   -763,
+   3003.8
+  ],
+  "Lone Star / Thor 2": [
+   928,
+   -263,
+   2859.4
+  ],
+  "Golden Needle / Elk Park": [
+   1121,
+   214,
+   2962.9
+  ],
+  "Golden Needle / Thor": [
+   717,
+   -31,
+   2821.3
+  ],
+  "Hard Coin / Sunshine": [
+   1070,
+   -1141,
+   3086.7
+  ],
+  "Hard Coin / Deer Park": [
+   965,
+   -805,
+   2970.6
+  ],
+  "Unnamed lift top": [
+   71,
+   437,
+   2702.6
+  ],
+  "Unnamed lift bottom": [
+   -33,
+   508,
+   2680.8
+  ],
+  "Evergreen / Exhibition": [
+   -1167,
+   502,
+   2864.6
+  ],
+  "Evergreen": [
+   -613,
+   697,
+   2699.4
+  ],
+  "Easy Out / Exhibition": [
+   -1015,
+   555,
+   2846.4
+  ],
+  "Aspen Glo / Elk Park": [
+   1282,
+   125,
+   3011.1
+  ],
+  "Aspen Glo / Thor": [
+   873,
+   -171,
+   2846.2
+  ],
+  "Rockin' R": [
+   595,
+   53,
+   2812.5
+  ],
+  "Silver Spur": [
+   502,
+   219,
+   2800.7
+  ],
+  "Elk Park / Western Trail": [
+   1649,
+   -309,
+   3156.9
+  ],
+  "Scout": [
+   402,
+   64,
+   2792.4
+  ],
+  "Majestic bottom": [
+   -208,
+   404,
+   2679.2
+  ],
+  "Backdoor": [
+   -1378,
+   184,
+   2930.9
+  ],
+  "Pacific Highway / Lower Mary": [
+   -188,
+   183,
+   2709.0
+  ],
+  "Little Milly / Devil's Drop": [
+   -1165,
+   202,
+   2903.4
+  ],
+  "Lone Pine 2": [
+   -978,
+   77,
+   2825.9
+  ],
+  "Perris Bowl": [
+   -715,
+   477,
+   2769.7
+  ],
+  "Christy Bowl / Easy Out": [
+   -587,
+   606,
+   2727.1
+  ],
+  "Explorer top": [
+   59,
+   347,
+   2709.9
+  ],
+  "Explorer bottom": [
+   -139,
+   499,
+   2673.2
+  ],
+  "Scout 2": [
+   440,
+   21,
+   2795.7
+  ],
+  "Pacific Highway": [
+   -179,
+   117,
+   2717.5
+  ],
+  "Mary Back 2": [
+   240,
+   -424,
+   2885.8
+  ],
+  "Lower Majestic": [
+   -89,
+   267,
+   2710.7
+  ],
+  "Thunder Road": [
+   630,
+   -1171,
+   3029.1
+  ],
+  "Wintergreen": [
+   588,
+   -1052,
+   2977.9
+  ],
+  "Thunderhead / Thor": [
+   1007,
+   -336,
+   2877.1
+  ],
+  "Backbone": [
+   -1313,
+   101,
+   2969.6
+  ],
+  "Canyon 4": [
+   -859,
+   297,
+   2797.3
+  ],
+  "Pine Martin / Pioneer": [
+   724,
+   -648,
+   2931.5
+  ],
+  "Backdoor 2": [
+   -1370,
+   -35,
+   2998.0
+  ],
+  "Backdoor 3": [
+   -1391,
+   56,
+   2961.6
+  ],
+  "Deer Park / Pioneer": [
+   1022,
+   -805,
+   2979.0
+  ],
+  "Canyon 5": [
+   -616,
+   249,
+   2729.9
+  ],
+  "Crest Express bottom": [
+   -251,
+   314,
+   2678.2
+  ],
+  "Snake Creek Express top": [
+   1004,
+   -1222,
+   3094.6
+  ],
+  "Wintergreen 2": [
+   514,
+   -447,
+   2878.2
+  ],
+  "Thunder Road 2": [
+   560,
+   -179,
+   2820.4
+  ],
+  "Great Western Express top": [
+   1696,
+   -205,
+   3184.5
+  ],
+  "Evergreen 2": [
+   -745,
+   723,
+   2732.3
+  ],
+  "Unnamed run 3": [
+   -1145,
+   373,
+   2866.9
+  ],
+  "Canyon 6": [
+   -885,
+   364,
+   2807.3
+  ],
+  "Canyon 7": [
+   -725,
+   199,
+   2753.7
+  ],
+  "Pacific Highway 2": [
+   187,
+   -924,
+   2959.1
+  ],
+  "Pioneer": [
+   882,
+   -526,
+   2909.2
+  ],
+  "Sunshine": [
+   900,
+   -421,
+   2891.7
+  ],
+  "Sunshine 2": [
+   1149,
+   -1079,
+   3070.8
+  ],
+  "Terrain Park": [
+   -36,
+   142,
+   2736.1
+  ],
+  "Western Trail": [
+   1628,
+   -366,
+   3149.0
+  ],
+  "Lone Star": [
+   1302,
+   -335,
+   2937.8
+  ],
+  "Lower Mary": [
+   -265,
+   353,
+   2677.1
+  ],
+  "Perris Bowl 2": [
+   -515,
+   572,
+   2704.5
+  ],
+  "Elk Park Ridge": [
+   791,
+   434,
+   2930.5
+  ],
+  "Lost Maid": [
+   -212,
+   40,
+   2726.9
+  ],
+  "Deer Park": [
+   820,
+   -739,
+   2935.3
+  ],
+  "Solbright 3": [
+   -1152,
+   557,
+   2856.0
+  ],
+  "Elk Park": [
+   1505,
+   -111,
+   3091.4
+  ],
+  "Silver Spur 2": [
+   418,
+   268,
+   2795.8
+  ],
+  "Thor": [
+   318,
+   271,
+   2780.3
+  ],
+  "Mary Back 3": [
+   14,
+   -578,
+   2844.2
+  ],
+  "Pacific Highway 3": [
+   61,
+   -287,
+   2808.3
+  ],
+  "Unnamed lift bottom 2": [
+   -116,
+   450,
+   2680.7
+  ],
+  "Unnamed lift top 2": [
+   -91,
+   391,
+   2690.0
+  ],
+  "Crest Express top": [
+   469,
+   -1153,
+   3038.7
+  ]
+ },
+ "lifts": [
+  [
+   "Explorer",
+   "Explorer bottom",
+   "Explorer top",
+   4.8
+  ],
+  [
+   "Majestic",
+   "Majestic bottom",
+   "Majestic top",
+   9.8
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   5.5
+  ],
+  [
+   "Milly Express",
+   "Milly Express bottom",
+   "Milly Express top",
+   6.9
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top 2",
+   4.4
+  ],
+  [
+   "Crest Express",
+   "Crest Express bottom",
+   "Crest Express top",
+   8.7
+  ],
+  [
+   "Snake Creek Express",
+   "Snake Creek Express bottom",
+   "Snake Creek Express top",
+   7.6
+  ],
+  [
+   "Great Western Express",
+   "Great Western Express bottom",
+   "Great Western Express top",
+   9.5
+  ]
+ ],
+ "runs": [
+  [
+   "Canyon",
+   "Canyon",
+   "Canyon 3",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Canyon 3",
+   "Canyon 2",
+   0.5
+  ],
+  [
+   "Candyland",
+   "Candyland / Thunder Road",
+   "Candyland / Pee Wee",
+   1.1
+  ],
+  [
+   "Majestic Access",
+   "Majestic Access / Hawkeye",
+   "Majestic Access",
+   0.5
+  ],
+  [
+   "Majestic Access",
+   "Majestic Access",
+   "Majestic Access / Terrain Park",
+   0.5
+  ],
+  [
+   "Ziggy",
+   "Ziggy / Pioneer",
+   "Ziggy / Pioneer 2",
+   0.9
+  ],
+  [
+   "Lone Pine",
+   "Milly Express top",
+   "Lone Pine 2",
+   1.8
+  ],
+  [
+   "Lone Pine",
+   "Lone Pine 2",
+   "Lone Pine",
+   0.5
+  ],
+  [
+   "Lone Pine",
+   "Lone Pine",
+   "Lone Pine / Canyon",
+   0.5
+  ],
+  [
+   "Western Trail",
+   "Western Trail / True Grit",
+   "Western Trail / Thor",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Thunder Road",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Unnamed run / Tantamount",
+   0.5
+  ],
+  [
+   "Wren Hollow",
+   "Wren Hollow / Pacific Highway",
+   "Wren Hollow / Mary Back",
+   2.4
+  ],
+  [
+   "Rockin' R",
+   "Rockin' R / Elk Park Ridge",
+   "Rockin' R",
+   1.9
+  ],
+  [
+   "Rockin' R",
+   "Rockin' R",
+   "Snake Creek Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Wee Willow",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Pee Wee",
+   "Pee Wee / Pacific Highway",
+   "Candyland / Pee Wee",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Canyon",
+   "Unnamed run",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Unnamed run / Easy Out",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Canyon / Exhibition",
+   "Unnamed run / Canyon",
+   0.9
+  ],
+  [
+   "Canyon",
+   "Unnamed run / Canyon",
+   "Canyon 6",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Canyon 6",
+   "Canyon 4",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Canyon 4",
+   "Lone Pine / Canyon",
+   0.6
+  ],
+  [
+   "Canyon",
+   "Lone Pine / Canyon",
+   "Canyon 7",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Canyon 7",
+   "Canyon 5",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Canyon 5",
+   "Canyon",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Canyon",
+   "Canyon 3",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Canyon 3",
+   "Canyon 2",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Canyon 2",
+   "Milly Express bottom",
+   1.1
+  ],
+  [
+   "True Grit",
+   "Western Trail / True Grit",
+   "True Grit / Lone Star",
+   1.6
+  ],
+  [
+   "My oh My",
+   "Unnamed run 2",
+   "My oh My / Thunder Road",
+   1.1
+  ],
+  [
+   "Mary Back",
+   "Majestic top",
+   "Mary Back 2",
+   0.5
+  ],
+  [
+   "Mary Back",
+   "Mary Back 2",
+   "Mary Back",
+   0.5
+  ],
+  [
+   "Mary Back",
+   "Mary Back",
+   "Mary Back 3",
+   1.0
+  ],
+  [
+   "Mary Back",
+   "Mary Back 3",
+   "Wren Hollow / Mary Back",
+   0.7
+  ],
+  [
+   "Mary Back",
+   "Wren Hollow / Mary Back",
+   "Mary Back / Lower Majestic",
+   1.2
+  ],
+  [
+   "Canyon",
+   "Canyon / Majestic Access",
+   "Canyon 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Scree Slope",
+   "Lone Pine",
+   0.5
+  ],
+  [
+   "Scout",
+   "Snake Creek Express bottom",
+   "Scout 2",
+   0.5
+  ],
+  [
+   "Scout",
+   "Scout 2",
+   "Scout",
+   0.5
+  ],
+  [
+   "Scout",
+   "Scout",
+   "Explorer top",
+   2.0
+  ],
+  [
+   "Scout",
+   "Explorer top",
+   "Scout / Lower Majestic",
+   0.7
+  ],
+  [
+   "Thunder Road",
+   "Thunder Road / Wintergreen",
+   "Thunder Road",
+   0.5
+  ],
+  [
+   "Thunder Road",
+   "Thunder Road",
+   "Unnamed run / Thunder Road",
+   0.5
+  ],
+  [
+   "Thunder Road",
+   "Unnamed run / Thunder Road",
+   "My oh My / Thunder Road",
+   2.2
+  ],
+  [
+   "Thunder Road",
+   "My oh My / Thunder Road",
+   "Candyland / Thunder Road",
+   1.0
+  ],
+  [
+   "Hawkeye",
+   "Majestic top",
+   "Majestic Access / Hawkeye",
+   0.5
+  ],
+  [
+   "Hawkeye",
+   "Majestic Access / Hawkeye",
+   "Hawkeye / Hawkeye Access",
+   1.9
+  ],
+  [
+   "Silver Spur",
+   "Silver Spur / Elk Park Ridge",
+   "Silver Spur",
+   1.7
+  ],
+  [
+   "Silver Spur",
+   "Silver Spur",
+   "Silver Spur 2",
+   0.5
+  ],
+  [
+   "Silver Spur",
+   "Silver Spur 2",
+   "Silver Spur / Thor",
+   1.0
+  ],
+  [
+   "Krista's",
+   "Mary Back",
+   "Majestic Access / Hawkeye",
+   0.9
+  ],
+  [
+   "Backbone",
+   "Milly Express top",
+   "Backbone",
+   0.5
+  ],
+  [
+   "Backbone",
+   "Backbone",
+   "Backbone / Unnamed run",
+   1.1
+  ],
+  [
+   "Tantamount",
+   "Tantamount / Pacific Highway",
+   "Unnamed run / Tantamount",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Aspen Glo",
+   "Unnamed run / Golden Needle",
+   0.7
+  ],
+  [
+   "Powder Alley",
+   "Majestic Access",
+   "Powder Alley / Hawkeye Access",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Elk Park Ridge",
+   "Great Western Express bottom",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Snake Creek Access",
+   "Unnamed run / Thunder Road 2",
+   0.5
+  ],
+  [
+   "Lower Majestic",
+   "Mary Back / Lower Majestic",
+   "Lower Majestic",
+   1.7
+  ],
+  [
+   "Lower Majestic",
+   "Lower Majestic",
+   "Scout / Lower Majestic",
+   0.5
+  ],
+  [
+   "Lone Star",
+   "Lone Star / Thor",
+   "True Grit / Lone Star",
+   1.3
+  ],
+  [
+   "Lone Star",
+   "True Grit / Lone Star",
+   "Lone Star",
+   0.5
+  ],
+  [
+   "Lone Star",
+   "Lone Star",
+   "Lone Star / Thor 2",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Backbone / Unnamed run",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 3",
+   "Unnamed run / Canyon",
+   1.2
+  ],
+  [
+   "Golden Needle",
+   "Golden Needle / Elk Park",
+   "Unnamed run / Golden Needle",
+   0.5
+  ],
+  [
+   "Golden Needle",
+   "Unnamed run / Golden Needle",
+   "Golden Needle / Thor",
+   1.6
+  ],
+  [
+   "Hard Coin",
+   "Hard Coin / Sunshine",
+   "Hard Coin / Deer Park",
+   1.7
+  ],
+  [
+   "Perris Bowl",
+   "Unnamed run",
+   "Perris Bowl",
+   0.5
+  ],
+  [
+   "Perris Bowl",
+   "Perris Bowl",
+   "Perris Bowl 2",
+   1.0
+  ],
+  [
+   "Perris Bowl",
+   "Perris Bowl 2",
+   "Milly Express bottom",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   0.5
+  ],
+  [
+   "Evergreen",
+   "Evergreen / Exhibition",
+   "Solbright 3",
+   0.5
+  ],
+  [
+   "Evergreen",
+   "Solbright 3",
+   "Evergreen 2",
+   2.0
+  ],
+  [
+   "Evergreen",
+   "Evergreen 2",
+   "Evergreen",
+   0.6
+  ],
+  [
+   "Easy Out",
+   "Easy Out / Exhibition",
+   "Unnamed run / Easy Out",
+   0.9
+  ],
+  [
+   "Aspen Glo",
+   "Aspen Glo / Elk Park",
+   "Unnamed run / Aspen Glo",
+   0.5
+  ],
+  [
+   "Aspen Glo",
+   "Unnamed run / Aspen Glo",
+   "Aspen Glo / Thor",
+   2.0
+  ],
+  [
+   "Wintergreen",
+   "Thunder Road / Wintergreen",
+   "Wintergreen",
+   0.6
+  ],
+  [
+   "Wintergreen",
+   "Wintergreen",
+   "Unnamed run / Tantamount",
+   0.5
+  ],
+  [
+   "Wintergreen",
+   "Unnamed run / Tantamount",
+   "Candyland / Thunder Road",
+   1.4
+  ],
+  [
+   "Wintergreen",
+   "Candyland / Thunder Road",
+   "Wintergreen 2",
+   0.7
+  ],
+  [
+   "Wintergreen",
+   "Wintergreen 2",
+   "Candyland / Pee Wee",
+   0.6
+  ],
+  [
+   "Wintergreen",
+   "Candyland / Pee Wee",
+   "Majestic Access / Hawkeye",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Rockin' R",
+   "Silver Spur",
+   0.7
+  ],
+  [
+   "Elk Park",
+   "Elk Park / Western Trail",
+   "Elk Park",
+   0.9
+  ],
+  [
+   "Elk Park",
+   "Elk Park",
+   "Aspen Glo / Elk Park",
+   1.4
+  ],
+  [
+   "Elk Park",
+   "Aspen Glo / Elk Park",
+   "Golden Needle / Elk Park",
+   0.8
+  ],
+  [
+   "Elk Park Ridge",
+   "Golden Needle / Elk Park",
+   "Rockin' R / Elk Park Ridge",
+   0.5
+  ],
+  [
+   "Elk Park Ridge",
+   "Rockin' R / Elk Park Ridge",
+   "Silver Spur / Elk Park Ridge",
+   0.6
+  ],
+  [
+   "Elk Park Ridge",
+   "Silver Spur / Elk Park Ridge",
+   "Elk Park Ridge",
+   0.5
+  ],
+  [
+   "Elk Park Ridge",
+   "Elk Park Ridge",
+   "Unnamed run / Elk Park Ridge",
+   3.2
+  ],
+  [
+   "Hawkeye Access",
+   "Scout",
+   "Hawkeye / Hawkeye Access",
+   0.6
+  ],
+  [
+   "Hawkeye Access",
+   "Hawkeye / Hawkeye Access",
+   "Powder Alley / Hawkeye Access",
+   1.0
+  ],
+  [
+   "Hawkeye Access",
+   "Powder Alley / Hawkeye Access",
+   "Lower Majestic",
+   0.9
+  ],
+  [
+   "Hawkeye Access",
+   "Lower Majestic",
+   "Scout / Lower Majestic",
+   0.5
+  ],
+  [
+   "Hawkeye Access",
+   "Scout / Lower Majestic",
+   "Majestic bottom",
+   0.5
+  ],
+  [
+   "Backdoor",
+   "Backdoor",
+   "Backbone / Unnamed run",
+   0.8
+  ],
+  [
+   "Pacific Highway",
+   "Thunder Road / Wintergreen",
+   "Crest Express top",
+   0.5
+  ],
+  [
+   "Pacific Highway",
+   "Crest Express top",
+   "Tantamount / Pacific Highway",
+   0.5
+  ],
+  [
+   "Pacific Highway",
+   "Tantamount / Pacific Highway",
+   "Pacific Highway 2",
+   1.4
+  ],
+  [
+   "Pacific Highway",
+   "Pacific Highway 2",
+   "Wren Hollow / Pacific Highway",
+   0.5
+  ],
+  [
+   "Pacific Highway",
+   "Wren Hollow / Pacific Highway",
+   "Pee Wee / Pacific Highway",
+   0.9
+  ],
+  [
+   "Pacific Highway",
+   "Pee Wee / Pacific Highway",
+   "Pacific Highway 3",
+   1.9
+  ],
+  [
+   "Pacific Highway",
+   "Pacific Highway 3",
+   "Pacific Highway",
+   2.1
+  ],
+  [
+   "Pacific Highway",
+   "Pacific Highway",
+   "Pacific Highway / Lower Mary",
+   0.5
+  ],
+  [
+   "Little Milly",
+   "Little Milly / Devil's Drop",
+   "Lone Pine 2",
+   0.9
+  ],
+  [
+   "Christy Bowl",
+   "Perris Bowl",
+   "Christy Bowl / Easy Out",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Explorer top",
+   "Unnamed lift bottom 2",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift bottom 2",
+   "Explorer bottom",
+   0.5
+  ],
+  [
+   "Thunder Road",
+   "Candyland / Thunder Road",
+   "Unnamed run / Thunder Road 2",
+   1.2
+  ],
+  [
+   "Thunder Road",
+   "Unnamed run / Thunder Road 2",
+   "Thunder Road 2",
+   0.5
+  ],
+  [
+   "Thunder Road",
+   "Thunder Road 2",
+   "Scout 2",
+   1.0
+  ],
+  [
+   "Lost Maid",
+   "Mary Back / Lower Majestic",
+   "Lost Maid",
+   1.0
+  ],
+  [
+   "Lost Maid",
+   "Lost Maid",
+   "Pacific Highway",
+   0.5
+  ],
+  [
+   "Exhibition",
+   "Canyon / Exhibition",
+   "Evergreen / Exhibition",
+   0.5
+  ],
+  [
+   "Exhibition",
+   "Evergreen / Exhibition",
+   "Easy Out / Exhibition",
+   0.6
+  ],
+  [
+   "Exhibition",
+   "Easy Out / Exhibition",
+   "Unnamed run / Easy Out",
+   1.0
+  ],
+  [
+   "Terrain Park",
+   "Mary Back 2",
+   "Majestic Access / Terrain Park",
+   0.5
+  ],
+  [
+   "Terrain Park",
+   "Majestic Access / Terrain Park",
+   "Terrain Park",
+   2.1
+  ],
+  [
+   "Terrain Park",
+   "Terrain Park",
+   "Lower Majestic",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Thunder Road",
+   "Wintergreen",
+   0.5
+  ],
+  [
+   "Easy Out",
+   "Canyon / Exhibition",
+   "Evergreen / Exhibition",
+   0.5
+  ],
+  [
+   "Easy Out",
+   "Evergreen / Exhibition",
+   "Easy Out / Exhibition",
+   0.7
+  ],
+  [
+   "Easy Out",
+   "Easy Out / Exhibition",
+   "Unnamed run / Easy Out",
+   1.9
+  ],
+  [
+   "Easy Out",
+   "Unnamed run / Easy Out",
+   "Christy Bowl / Easy Out",
+   0.8
+  ],
+  [
+   "Easy Out",
+   "Christy Bowl / Easy Out",
+   "Milly Express bottom",
+   0.9
+  ],
+  [
+   "Thunderhead",
+   "True Grit / Lone Star",
+   "Thunderhead / Thor",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Explorer top",
+   "Unnamed lift bottom 2",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift bottom 2",
+   "Explorer bottom",
+   0.5
+  ],
+  [
+   "Devil's Drop",
+   "Backbone",
+   "Little Milly / Devil's Drop",
+   0.7
+  ],
+  [
+   "Devil's Drop",
+   "Little Milly / Devil's Drop",
+   "Canyon 4",
+   1.5
+  ],
+  [
+   "Pine Martin",
+   "Pine Martin / Pioneer",
+   "Unnamed run / Thunder Road 2",
+   1.6
+  ],
+  [
+   "Pine Martin",
+   "Unnamed run / Thunder Road 2",
+   "Thunder Road 2",
+   0.5
+  ],
+  [
+   "Pine Martin",
+   "Thunder Road 2",
+   "Snake Creek Express bottom",
+   0.9
+  ],
+  [
+   "Thor",
+   "Western Trail / Thor",
+   "Lone Star / Thor",
+   1.1
+  ],
+  [
+   "Thor",
+   "Lone Star / Thor",
+   "Thunderhead / Thor",
+   2.4
+  ],
+  [
+   "Thor",
+   "Thunderhead / Thor",
+   "Lone Star / Thor 2",
+   0.5
+  ],
+  [
+   "Thor",
+   "Lone Star / Thor 2",
+   "Aspen Glo / Thor",
+   0.5
+  ],
+  [
+   "Thor",
+   "Aspen Glo / Thor",
+   "Golden Needle / Thor",
+   0.9
+  ],
+  [
+   "Thor",
+   "Golden Needle / Thor",
+   "Rockin' R",
+   0.6
+  ],
+  [
+   "Thor",
+   "Rockin' R",
+   "Snake Creek Express bottom",
+   0.5
+  ],
+  [
+   "Thor",
+   "Snake Creek Express bottom",
+   "Thor",
+   1.1
+  ],
+  [
+   "Thor",
+   "Thor",
+   "Silver Spur / Thor",
+   0.7
+  ],
+  [
+   "Thor",
+   "Silver Spur / Thor",
+   "Unnamed run / Elk Park Ridge",
+   0.5
+  ],
+  [
+   "Thor",
+   "Unnamed run / Elk Park Ridge",
+   "Great Western Express bottom",
+   1.1
+  ],
+  [
+   "Backdoor",
+   "Backdoor 2",
+   "Backdoor 3",
+   0.5
+  ],
+  [
+   "Deer Park",
+   "Deer Park / Pioneer",
+   "Hard Coin / Deer Park",
+   0.5
+  ],
+  [
+   "Deer Park",
+   "Hard Coin / Deer Park",
+   "Deer Park",
+   0.7
+  ],
+  [
+   "Deer Park",
+   "Deer Park",
+   "Candyland / Thunder Road",
+   1.3
+  ],
+  [
+   "Majestic Access",
+   "Canyon 5",
+   "Canyon",
+   0.5
+  ],
+  [
+   "Majestic Access",
+   "Canyon",
+   "Canyon / Majestic Access",
+   0.5
+  ],
+  [
+   "Majestic Access",
+   "Canyon / Majestic Access",
+   "Crest Express bottom",
+   1.1
+  ],
+  [
+   "Sunshine",
+   "Snake Creek Express top",
+   "Hard Coin / Sunshine",
+   0.5
+  ],
+  [
+   "Sunshine",
+   "Hard Coin / Sunshine",
+   "Sunshine 2",
+   0.5
+  ],
+  [
+   "Sunshine",
+   "Sunshine 2",
+   "Sunshine",
+   3.9
+  ],
+  [
+   "Sunshine",
+   "Sunshine",
+   "Snake Creek Express bottom",
+   2.7
+  ],
+  [
+   "Snake Creek Access",
+   "Wintergreen 2",
+   "Unnamed run / Snake Creek Access",
+   0.5
+  ],
+  [
+   "Snake Creek Access",
+   "Unnamed run / Snake Creek Access",
+   "Thunder Road 2",
+   0.7
+  ],
+  [
+   "Western Trail",
+   "Great Western Express top",
+   "Elk Park / Western Trail",
+   0.5
+  ],
+  [
+   "Western Trail",
+   "Elk Park / Western Trail",
+   "Western Trail",
+   0.5
+  ],
+  [
+   "Western Trail",
+   "Western Trail",
+   "Western Trail / True Grit",
+   1.1
+  ],
+  [
+   "Pioneer",
+   "Deer Park / Pioneer",
+   "Pioneer",
+   1.2
+  ],
+  [
+   "Pioneer",
+   "Pioneer",
+   "Ziggy / Pioneer 2",
+   0.6
+  ],
+  [
+   "Pioneer",
+   "Ziggy / Pioneer 2",
+   "Snake Creek Express bottom",
+   2.4
+  ],
+  [
+   "Evergreen",
+   "Evergreen 2",
+   "Evergreen",
+   0.6
+  ],
+  [
+   "Evergreen",
+   "Evergreen",
+   "Milly Express bottom",
+   1.2
+  ],
+  [
+   "Chute 2",
+   "Unnamed run 3",
+   "Canyon 6",
+   1.0
+  ],
+  [
+   "Scree Slope",
+   "Milly Express top",
+   "Unnamed run / Scree Slope",
+   2.9
+  ],
+  [
+   "Scree Slope",
+   "Unnamed run / Scree Slope",
+   "Canyon 7",
+   1.0
+  ],
+  [
+   "Snow Drift",
+   "Pacific Highway 2",
+   "Pee Wee / Pacific Highway",
+   0.8
+  ],
+  [
+   "Easy Out",
+   "Pioneer",
+   "Sunshine",
+   0.5
+  ],
+  [
+   "Wee Willow",
+   "Canyon 6",
+   "Unnamed run / Wee Willow",
+   0.5
+  ],
+  [
+   "Wee Willow",
+   "Unnamed run / Wee Willow",
+   "Canyon 5",
+   1.1
+  ],
+  [
+   "Pioneer",
+   "Sunshine 2",
+   "Deer Park / Pioneer",
+   1.4
+  ],
+  [
+   "Pioneer",
+   "Deer Park / Pioneer",
+   "Hard Coin / Deer Park",
+   0.5
+  ],
+  [
+   "Pioneer",
+   "Hard Coin / Deer Park",
+   "Ziggy / Pioneer",
+   1.1
+  ],
+  [
+   "Pioneer",
+   "Ziggy / Pioneer",
+   "Pine Martin / Pioneer",
+   0.5
+  ],
+  [
+   "Pioneer",
+   "Pine Martin / Pioneer",
+   "Candyland / Thunder Road",
+   0.7
+  ],
+  [
+   "Face",
+   "Mary Back",
+   "Terrain Park",
+   2.7
+  ],
+  [
+   "Backdoor",
+   "Milly Express top",
+   "Backdoor 2",
+   0.5
+  ],
+  [
+   "Backdoor",
+   "Backdoor 2",
+   "Backdoor 3",
+   0.8
+  ],
+  [
+   "Backdoor",
+   "Backdoor 3",
+   "Backdoor",
+   0.6
+  ],
+  [
+   "Backdoor",
+   "Backdoor",
+   "Backbone / Unnamed run",
+   1.0
+  ],
+  [
+   "Backdoor",
+   "Backbone / Unnamed run",
+   "Canyon / Exhibition",
+   0.5
+  ],
+  [
+   "Rein's Run",
+   "Western Trail",
+   "Lone Star",
+   1.5
+  ],
+  [
+   "Lower Mary",
+   "Pacific Highway",
+   "Pacific Highway / Lower Mary",
+   0.5
+  ],
+  [
+   "Lower Mary",
+   "Pacific Highway / Lower Mary",
+   "Crest Express bottom",
+   0.6
+  ],
+  [
+   "Lower Mary",
+   "Crest Express bottom",
+   "Lower Mary",
+   0.5
+  ],
+  [
+   "Main Street",
+   "Canyon / Exhibition",
+   "Unnamed run / Canyon",
+   0.9
+  ],
+  [
+   "Main Street",
+   "Unnamed run / Canyon",
+   "Unnamed run",
+   0.8
+  ],
+  [
+   "Main Street",
+   "Unnamed run",
+   "Perris Bowl 2",
+   1.6
+  ],
+  [
+   "Desperado",
+   "Elk Park Ridge",
+   "Silver Spur / Thor",
+   2.4
+  ],
+  [
+   "Milly Access",
+   "Lost Maid",
+   "Milly Express bottom",
+   2.6
+  ],
+  [
+   "Doyle's Dive",
+   "Snake Creek Express top",
+   "Deer Park",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Evergreen / Exhibition",
+   "Solbright 3",
+   0.5
+  ],
+  [
+   "Endless Winter",
+   "Elk Park",
+   "Lone Star",
+   1.3
+  ],
+  [
+   "Scout",
+   "Silver Spur 2",
+   "Thor",
+   0.5
+  ],
+  [
+   "Cat Track",
+   "Mary Back 3",
+   "Pacific Highway 3",
+   1.1
+  ],
+  [
+   "Wrangler",
+   "Great Western Express top",
+   "Elk Park",
+   0.8
+  ],
+  [
+   "Wrangler",
+   "Elk Park",
+   "Aspen Glo / Thor",
+   3.1
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Canyon 2",
+   "Milly Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Canyon 2",
+   "Crest Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Milly Express top",
+   "Backdoor",
+   3.3
+  ],
+  [
+   "walk",
+   "Milly Express top",
+   "Backbone",
+   2.1
+  ],
+  [
+   "walk",
+   "Milly Express top",
+   "Backdoor 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Milly Express top",
+   "Backdoor 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Road",
+   "Crest Express top",
+   2.9
+  ],
+  [
+   "walk",
+   "Snake Creek Express bottom",
+   "Hawkeye / Hawkeye Access",
+   3.5
+  ],
+  [
+   "walk",
+   "Snake Creek Express bottom",
+   "Silver Spur",
+   2.5
+  ],
+  [
+   "walk",
+   "Snake Creek Express bottom",
+   "Scout",
+   1.4
+  ],
+  [
+   "walk",
+   "Snake Creek Express bottom",
+   "Scout 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Snake Creek Express bottom",
+   "Silver Spur 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Majestic top",
+   "Candyland / Pee Wee",
+   1.9
+  ],
+  [
+   "walk",
+   "Majestic top",
+   "Majestic Access / Hawkeye",
+   1.8
+  ],
+  [
+   "walk",
+   "Majestic top",
+   "Majestic Access / Terrain Park",
+   1.8
+  ],
+  [
+   "walk",
+   "Majestic top",
+   "Mary Back",
+   1.6
+  ],
+  [
+   "walk",
+   "Majestic top",
+   "Majestic Access",
+   1.6
+  ],
+  [
+   "walk",
+   "Majestic top",
+   "Mary Back 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Majestic top",
+   "Wintergreen 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Majestic top",
+   "Pacific Highway 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Scout / Lower Majestic",
+   "Unnamed lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Scout / Lower Majestic",
+   "Unnamed lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Scout / Lower Majestic",
+   "Majestic bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Scout / Lower Majestic",
+   "Explorer top",
+   2.3
+  ],
+  [
+   "walk",
+   "Scout / Lower Majestic",
+   "Explorer bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Scout / Lower Majestic",
+   "Crest Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Scout / Lower Majestic",
+   "Unnamed lift bottom 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Scout / Lower Majestic",
+   "Unnamed lift top 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Thunder Road / Wintergreen",
+   "Crest Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Silver Spur / Thor",
+   "Unnamed lift top",
+   2.3
+  ],
+  [
+   "walk",
+   "Silver Spur / Thor",
+   "Explorer top",
+   2.6
+  ],
+  [
+   "walk",
+   "Powder Alley / Hawkeye Access",
+   "Explorer top",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Elk Park Ridge",
+   "Unnamed lift top",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Elk Park Ridge",
+   "Unnamed lift bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Elk Park Ridge",
+   "Explorer top",
+   2.2
+  ],
+  [
+   "walk",
+   "Great Western Express bottom",
+   "Unnamed lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Great Western Express bottom",
+   "Majestic bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Great Western Express bottom",
+   "Explorer bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Great Western Express bottom",
+   "Unnamed lift bottom 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Golden Needle / Thor",
+   "Snake Creek Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Hard Coin / Sunshine",
+   "Snake Creek Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Scout / Lower Majestic",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Great Western Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Explorer top",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Explorer bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Lower Majestic",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift top 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Great Western Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Majestic bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Explorer bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift bottom 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift top 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Rockin' R",
+   "Snake Creek Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Silver Spur",
+   "Snake Creek Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Scout",
+   "Snake Creek Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Majestic bottom",
+   "Great Western Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Majestic bottom",
+   "Unnamed lift bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Majestic bottom",
+   "Explorer bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Majestic bottom",
+   "Crest Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Majestic bottom",
+   "Lower Mary",
+   1.1
+  ],
+  [
+   "walk",
+   "Majestic bottom",
+   "Unnamed lift bottom 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Majestic bottom",
+   "Unnamed lift top 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Pacific Highway / Lower Mary",
+   "Majestic bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Pacific Highway / Lower Mary",
+   "Crest Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Pacific Highway / Lower Mary",
+   "Unnamed lift top 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Christy Bowl / Easy Out",
+   "Milly Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Explorer top",
+   "Scout / Lower Majestic",
+   2.3
+  ],
+  [
+   "walk",
+   "Explorer top",
+   "Unnamed run / Elk Park Ridge",
+   2.2
+  ],
+  [
+   "walk",
+   "Explorer top",
+   "Unnamed lift top",
+   1.3
+  ],
+  [
+   "walk",
+   "Explorer top",
+   "Unnamed lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Explorer top",
+   "Explorer bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Explorer top",
+   "Lower Majestic",
+   2.3
+  ],
+  [
+   "walk",
+   "Explorer top",
+   "Unnamed lift bottom 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Explorer top",
+   "Unnamed lift top 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Explorer bottom",
+   "Great Western Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Explorer bottom",
+   "Unnamed lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Explorer bottom",
+   "Majestic bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Explorer bottom",
+   "Crest Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Explorer bottom",
+   "Lower Mary",
+   2.7
+  ],
+  [
+   "walk",
+   "Explorer bottom",
+   "Unnamed lift bottom 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Scout 2",
+   "Snake Creek Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Pacific Highway",
+   "Crest Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Mary Back 2",
+   "Majestic top",
+   0.7
+  ],
+  [
+   "walk",
+   "Lower Majestic",
+   "Unnamed lift top",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Majestic",
+   "Unnamed lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Majestic",
+   "Majestic bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Majestic",
+   "Explorer top",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Majestic",
+   "Explorer bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Majestic",
+   "Crest Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Majestic",
+   "Unnamed lift bottom 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Majestic",
+   "Unnamed lift top 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Thunder Road",
+   "Crest Express top",
+   2.2
+  ],
+  [
+   "walk",
+   "Backdoor 2",
+   "Milly Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Crest Express bottom",
+   "Majestic bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Crest Express bottom",
+   "Explorer bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Crest Express bottom",
+   "Lower Mary",
+   0.6
+  ],
+  [
+   "walk",
+   "Crest Express bottom",
+   "Unnamed lift bottom 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Crest Express bottom",
+   "Unnamed lift top 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Snake Creek Express top",
+   "Hard Coin / Sunshine",
+   1.4
+  ],
+  [
+   "walk",
+   "Snake Creek Express top",
+   "Sunshine 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Wintergreen 2",
+   "Majestic top",
+   3.4
+  ],
+  [
+   "walk",
+   "Thunder Road 2",
+   "Snake Creek Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Great Western Express top",
+   "Elk Park / Western Trail",
+   1.6
+  ],
+  [
+   "walk",
+   "Great Western Express top",
+   "Western Trail",
+   2.4
+  ],
+  [
+   "walk",
+   "Great Western Express top",
+   "Elk Park",
+   2.9
+  ],
+  [
+   "walk",
+   "Terrain Park",
+   "Explorer top",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Mary",
+   "Majestic bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Lower Mary",
+   "Explorer bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Lower Mary",
+   "Crest Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Lower Mary",
+   "Unnamed lift bottom 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Mary",
+   "Unnamed lift top 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Perris Bowl 2",
+   "Milly Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Silver Spur 2",
+   "Snake Creek Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Great Western Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Majestic bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Explorer bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Crest Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Lower Mary",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Scout / Lower Majestic",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Great Western Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift top",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Majestic bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Explorer bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Crest Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Lower Mary",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Crest Express top",
+   "Unnamed run / Thunder Road",
+   2.9
+  ],
+  [
+   "walk",
+   "Crest Express top",
+   "Unnamed run / Tantamount",
+   3.2
+  ],
+  [
+   "walk",
+   "Crest Express top",
+   "Unnamed run 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Crest Express top",
+   "Thunder Road / Wintergreen",
+   1.0
+  ],
+  [
+   "walk",
+   "Crest Express top",
+   "Tantamount / Pacific Highway",
+   0.7
+  ],
+  [
+   "walk",
+   "Crest Express top",
+   "Thunder Road",
+   2.2
+  ],
+  [
+   "walk",
+   "Crest Express top",
+   "Wintergreen",
+   2.2
+  ],
+  [
+   "walk",
+   "Backdoor 2",
+   "Backdoor",
+   4.1
+  ],
+  [
+   "walk",
+   "Backdoor 2",
+   "Backbone",
+   2.9
+  ],
+  [
+   "walk",
+   "Backdoor 2",
+   "Backdoor 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Golden Needle / Thor",
+   "Hawkeye / Hawkeye Access",
+   6.6
+  ],
+  [
+   "walk",
+   "Golden Needle / Thor",
+   "Silver Spur",
+   5.7
+  ],
+  [
+   "walk",
+   "Golden Needle / Thor",
+   "Scout",
+   4.6
+  ],
+  [
+   "walk",
+   "Golden Needle / Thor",
+   "Scout 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Golden Needle / Thor",
+   "Silver Spur 2",
+   6.6
+  ],
+  [
+   "walk",
+   "Rockin' R",
+   "Hawkeye / Hawkeye Access",
+   4.8
+  ],
+  [
+   "walk",
+   "Rockin' R",
+   "Silver Spur",
+   3.9
+  ],
+  [
+   "walk",
+   "Rockin' R",
+   "Scout",
+   2.8
+  ],
+  [
+   "walk",
+   "Rockin' R",
+   "Scout 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Rockin' R",
+   "Silver Spur 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Silver Spur",
+   "Hawkeye / Hawkeye Access",
+   6.0
+  ],
+  [
+   "walk",
+   "Silver Spur",
+   "Scout",
+   3.9
+  ],
+  [
+   "walk",
+   "Silver Spur",
+   "Scout 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Silver Spur",
+   "Silver Spur 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Scout",
+   "Hawkeye / Hawkeye Access",
+   4.9
+  ],
+  [
+   "walk",
+   "Scout",
+   "Silver Spur",
+   3.9
+  ],
+  [
+   "walk",
+   "Scout",
+   "Scout 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Scout",
+   "Silver Spur 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Scout 2",
+   "Hawkeye / Hawkeye Access",
+   4.3
+  ],
+  [
+   "walk",
+   "Scout 2",
+   "Silver Spur",
+   3.4
+  ],
+  [
+   "walk",
+   "Scout 2",
+   "Scout",
+   2.2
+  ],
+  [
+   "walk",
+   "Scout 2",
+   "Silver Spur 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Thunder Road 2",
+   "Hawkeye / Hawkeye Access",
+   6.6
+  ],
+  [
+   "walk",
+   "Thunder Road 2",
+   "Silver Spur",
+   5.6
+  ],
+  [
+   "walk",
+   "Thunder Road 2",
+   "Scout",
+   4.5
+  ],
+  [
+   "walk",
+   "Thunder Road 2",
+   "Scout 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Thunder Road 2",
+   "Silver Spur 2",
+   6.5
+  ],
+  [
+   "walk",
+   "Silver Spur 2",
+   "Hawkeye / Hawkeye Access",
+   6.9
+  ],
+  [
+   "walk",
+   "Silver Spur 2",
+   "Silver Spur",
+   5.9
+  ],
+  [
+   "walk",
+   "Silver Spur 2",
+   "Scout",
+   4.8
+  ],
+  [
+   "walk",
+   "Silver Spur 2",
+   "Scout 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Mary Back 2",
+   "Candyland / Pee Wee",
+   2.6
+  ],
+  [
+   "walk",
+   "Mary Back 2",
+   "Majestic Access / Hawkeye",
+   2.5
+  ],
+  [
+   "walk",
+   "Mary Back 2",
+   "Majestic Access / Terrain Park",
+   2.5
+  ],
+  [
+   "walk",
+   "Mary Back 2",
+   "Mary Back",
+   2.2
+  ],
+  [
+   "walk",
+   "Mary Back 2",
+   "Majestic Access",
+   2.3
+  ],
+  [
+   "walk",
+   "Mary Back 2",
+   "Wintergreen 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Mary Back 2",
+   "Pacific Highway 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Wintergreen 2",
+   "Candyland / Pee Wee",
+   5.3
+  ],
+  [
+   "walk",
+   "Wintergreen 2",
+   "Majestic Access / Hawkeye",
+   5.2
+  ],
+  [
+   "walk",
+   "Wintergreen 2",
+   "Majestic Access / Terrain Park",
+   5.3
+  ],
+  [
+   "walk",
+   "Wintergreen 2",
+   "Mary Back",
+   5.0
+  ],
+  [
+   "walk",
+   "Wintergreen 2",
+   "Majestic Access",
+   5.0
+  ],
+  [
+   "walk",
+   "Wintergreen 2",
+   "Mary Back 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Wintergreen 2",
+   "Pacific Highway 3",
+   6.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Majestic bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Crest Express bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Explorer top",
+   "Majestic bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Explorer top",
+   "Crest Express bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Explorer top",
+   3.1
+  ],
+  [
+   "walk",
+   "Scout / Lower Majestic",
+   "Great Western Express bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Scout / Lower Majestic",
+   "Lower Majestic",
+   4.7
+  ],
+  [
+   "walk",
+   "Silver Spur / Thor",
+   "Scout / Lower Majestic",
+   4.9
+  ],
+  [
+   "walk",
+   "Silver Spur / Thor",
+   "Great Western Express bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Silver Spur / Thor",
+   "Unnamed lift bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Silver Spur / Thor",
+   "Explorer bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Silver Spur / Thor",
+   "Lower Majestic",
+   4.9
+  ],
+  [
+   "walk",
+   "Silver Spur / Thor",
+   "Unnamed lift bottom 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Silver Spur / Thor",
+   "Unnamed lift top 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Silver Spur / Thor",
+   "Majestic bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Elk Park Ridge",
+   "Scout / Lower Majestic",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Elk Park Ridge",
+   "Great Western Express bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Elk Park Ridge",
+   "Explorer bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Elk Park Ridge",
+   "Lower Majestic",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Elk Park Ridge",
+   "Unnamed lift bottom 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Elk Park Ridge",
+   "Unnamed lift top 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Elk Park Ridge",
+   "Majestic bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Elk Park Ridge",
+   "Crest Express bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Explorer top",
+   "Great Western Express bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Majestic",
+   "Scout / Lower Majestic",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Majestic",
+   "Great Western Express bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Lower Majestic",
+   5.5
+  ],
+  [
+   "walk",
+   "Great Western Express bottom",
+   "Unnamed lift top 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Explorer bottom",
+   "Unnamed lift top 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Scout / Lower Majestic",
+   "Lower Mary",
+   2.6
+  ],
+  [
+   "walk",
+   "Great Western Express bottom",
+   "Crest Express bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Great Western Express bottom",
+   "Lower Mary",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Crest Express bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Lower Mary",
+   3.9
+  ],
+  [
+   "walk",
+   "Pacific Highway / Lower Mary",
+   "Great Western Express bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Pacific Highway / Lower Mary",
+   "Unnamed lift bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Pacific Highway / Lower Mary",
+   "Explorer bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Pacific Highway / Lower Mary",
+   "Lower Mary",
+   2.6
+  ],
+  [
+   "walk",
+   "Pacific Highway / Lower Mary",
+   "Unnamed lift bottom 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Majestic",
+   "Lower Mary",
+   2.9
+  ],
+  [
+   "walk",
+   "Crest Express bottom",
+   "Great Western Express bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Crest Express bottom",
+   "Unnamed lift bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Mary",
+   "Great Western Express bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Mary",
+   "Unnamed lift bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Lower Mary",
+   4.8
+  ],
+  [
+   "walk",
+   "Explorer top",
+   "Lower Mary",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Elk Park Ridge",
+   "Lower Mary",
+   6.2
+  ],
+  [
+   "walk",
+   "Scout / Lower Majestic",
+   "Unnamed run / Elk Park Ridge",
+   4.5
+  ],
+  [
+   "walk",
+   "Silver Spur / Thor",
+   "Unnamed run / Elk Park Ridge",
+   4.8
+  ],
+  [
+   "walk",
+   "Silver Spur / Thor",
+   "Crest Express bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Powder Alley / Hawkeye Access",
+   "Scout / Lower Majestic",
+   5.4
+  ],
+  [
+   "walk",
+   "Powder Alley / Hawkeye Access",
+   "Unnamed run / Elk Park Ridge",
+   5.3
+  ],
+  [
+   "walk",
+   "Powder Alley / Hawkeye Access",
+   "Unnamed lift top",
+   4.4
+  ],
+  [
+   "walk",
+   "Powder Alley / Hawkeye Access",
+   "Unnamed lift bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Powder Alley / Hawkeye Access",
+   "Explorer bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Powder Alley / Hawkeye Access",
+   "Lower Majestic",
+   5.5
+  ],
+  [
+   "walk",
+   "Powder Alley / Hawkeye Access",
+   "Unnamed lift bottom 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Powder Alley / Hawkeye Access",
+   "Unnamed lift top 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Powder Alley / Hawkeye Access",
+   "Great Western Express bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed run / Elk Park Ridge",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Majestic",
+   "Unnamed run / Elk Park Ridge",
+   4.5
+  ],
+  [
+   "walk",
+   "Terrain Park",
+   "Scout / Lower Majestic",
+   5.5
+  ],
+  [
+   "walk",
+   "Terrain Park",
+   "Unnamed run / Elk Park Ridge",
+   5.3
+  ],
+  [
+   "walk",
+   "Terrain Park",
+   "Unnamed lift top",
+   4.4
+  ],
+  [
+   "walk",
+   "Terrain Park",
+   "Unnamed lift bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Terrain Park",
+   "Explorer bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Terrain Park",
+   "Lower Majestic",
+   5.5
+  ],
+  [
+   "walk",
+   "Terrain Park",
+   "Unnamed lift bottom 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Terrain Park",
+   "Unnamed lift top 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Terrain Park",
+   "Great Western Express bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed run / Elk Park Ridge",
+   5.3
+  ],
+  [
+   "walk",
+   "Canyon 2",
+   "Majestic bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Canyon 2",
+   "Explorer bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Canyon 2",
+   "Lower Mary",
+   4.0
+  ],
+  [
+   "walk",
+   "Canyon 2",
+   "Unnamed lift bottom 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Canyon 2",
+   "Unnamed lift top 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Pacific Highway",
+   "Majestic bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Pacific Highway",
+   "Explorer bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Pacific Highway",
+   "Lower Mary",
+   3.5
+  ],
+  [
+   "walk",
+   "Pacific Highway",
+   "Unnamed lift bottom 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Pacific Highway",
+   "Unnamed lift top 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Hard Coin / Sunshine",
+   "Sunshine 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Scout / Lower Majestic",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Explorer top",
+   4.9
+  ],
+  [
+   "walk",
+   "Majestic bottom",
+   "Scout / Lower Majestic",
+   2.4
+  ],
+  [
+   "walk",
+   "Majestic bottom",
+   "Unnamed lift top",
+   4.0
+  ],
+  [
+   "walk",
+   "Majestic bottom",
+   "Explorer top",
+   4.8
+  ],
+  [
+   "walk",
+   "Majestic bottom",
+   "Unnamed run / Elk Park Ridge",
+   6.9
+  ],
+  [
+   "walk",
+   "Pacific Highway / Lower Mary",
+   "Scout / Lower Majestic",
+   4.0
+  ],
+  [
+   "walk",
+   "Pacific Highway / Lower Mary",
+   "Unnamed lift top",
+   5.5
+  ],
+  [
+   "walk",
+   "Pacific Highway / Lower Mary",
+   "Explorer top",
+   6.3
+  ],
+  [
+   "walk",
+   "Crest Express bottom",
+   "Scout / Lower Majestic",
+   3.3
+  ],
+  [
+   "walk",
+   "Crest Express bottom",
+   "Unnamed lift top",
+   4.8
+  ],
+  [
+   "walk",
+   "Crest Express bottom",
+   "Explorer top",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower Mary",
+   "Scout / Lower Majestic",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Mary",
+   "Unnamed lift top",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower Mary",
+   "Explorer top",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Scout / Lower Majestic",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Explorer top",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Lower Majestic",
+   6.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed run / Elk Park Ridge",
+   6.2
+  ],
+  [
+   "walk",
+   "Great Western Express bottom",
+   "Scout / Lower Majestic",
+   3.8
+  ],
+  [
+   "walk",
+   "Great Western Express bottom",
+   "Unnamed lift top",
+   5.4
+  ],
+  [
+   "walk",
+   "Great Western Express bottom",
+   "Explorer top",
+   6.1
+  ],
+  [
+   "walk",
+   "Explorer bottom",
+   "Scout / Lower Majestic",
+   2.4
+  ],
+  [
+   "walk",
+   "Explorer bottom",
+   "Unnamed lift top",
+   4.0
+  ],
+  [
+   "walk",
+   "Explorer bottom",
+   "Explorer top",
+   4.8
+  ],
+  [
+   "walk",
+   "Explorer bottom",
+   "Unnamed run / Elk Park Ridge",
+   6.9
+  ],
+  [
+   "walk",
+   "Powder Alley / Hawkeye Access",
+   "Majestic bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Canyon 2",
+   "Scout / Lower Majestic",
+   6.7
+  ],
+  [
+   "walk",
+   "Pacific Highway",
+   "Scout / Lower Majestic",
+   6.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Road",
+   "Unnamed run / Tantamount",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Road",
+   "Unnamed run 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Road",
+   "Thunder Road / Wintergreen",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Road",
+   "Tantamount / Pacific Highway",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Road",
+   "Thunder Road",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Thunder Road",
+   "Wintergreen",
+   5.1
+  ],
+  [
+   "walk",
+   "Thunder Road / Wintergreen",
+   "Unnamed run / Thunder Road",
+   3.9
+  ],
+  [
+   "walk",
+   "Thunder Road / Wintergreen",
+   "Unnamed run / Tantamount",
+   4.2
+  ],
+  [
+   "walk",
+   "Thunder Road / Wintergreen",
+   "Unnamed run 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Thunder Road / Wintergreen",
+   "Tantamount / Pacific Highway",
+   1.6
+  ],
+  [
+   "walk",
+   "Thunder Road / Wintergreen",
+   "Thunder Road",
+   3.2
+  ],
+  [
+   "walk",
+   "Thunder Road / Wintergreen",
+   "Wintergreen",
+   3.2
+  ],
+  [
+   "walk",
+   "Thunder Road",
+   "Unnamed run / Thunder Road",
+   5.1
+  ],
+  [
+   "walk",
+   "Thunder Road",
+   "Unnamed run / Tantamount",
+   5.4
+  ],
+  [
+   "walk",
+   "Thunder Road",
+   "Unnamed run 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Thunder Road",
+   "Thunder Road / Wintergreen",
+   3.2
+  ],
+  [
+   "walk",
+   "Thunder Road",
+   "Tantamount / Pacific Highway",
+   2.9
+  ],
+  [
+   "walk",
+   "Thunder Road",
+   "Wintergreen",
+   4.4
+  ]
+ ],
+ "base": "Milly Express bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Utah",
+  "total_lifts": "8",
+  "downhill_trails": "75",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

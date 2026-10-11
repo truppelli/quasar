@@ -1,0 +1,5881 @@
+{
+ "name": "Whitefish Mountain Resort",
+ "source": "OpenSkiMap ski area a9b9ab0ad6bb668e32b74a1745baa5974cdef3ec",
+ "origin_lonlat": [
+  -114.34431542237394,
+  48.496338765871634
+ ],
+ "nodes": {
+  "Whiskey Spring / Big Creek": [
+   1238,
+   1235,
+   1927.8
+  ],
+  "Whiskey Spring / Goat Haunt": [
+   840,
+   1576,
+   1796.6
+  ],
+  "Heratage T-Bar (Intermittent) top": [
+   -1346,
+   -900,
+   1625.6
+  ],
+  "Slalom / Ed's Run": [
+   -926,
+   -1276,
+   1448.5
+  ],
+  "Chair 2 Swift Creek Express top": [
+   -1167,
+   -211,
+   1788.4
+  ],
+  "Unnamed run / Goat Haunt": [
+   862,
+   1613,
+   1796.8
+  ],
+  "Unnamed run": [
+   1095,
+   1890,
+   1738.5
+  ],
+  "Russ's Street": [
+   -707,
+   -1275,
+   1443.7
+  ],
+  "Chair 2 Swift Creek Express bottom": [
+   -764,
+   -1361,
+   1427.9
+  ],
+  "Unnamed run / Langley": [
+   226,
+   -502,
+   1802.7
+  ],
+  "Unnamed run / Friends of Langley": [
+   352,
+   -611,
+   1788.9
+  ],
+  "1000 Turns / The Big Ravine": [
+   -243,
+   256,
+   1963.9
+  ],
+  "1000 Turns / The Big Ravine 2": [
+   -733,
+   -35,
+   1803.3
+  ],
+  "Chute / Elephant's Graveyard": [
+   225,
+   40,
+   1980.2
+  ],
+  "Chute / Unnamed run": [
+   22,
+   -285,
+   1805.7
+  ],
+  "Ptarmigan Bowl / Toni Matt": [
+   9,
+   366,
+   2030.0
+  ],
+  "Ptarmigan Bowl / Bench Run": [
+   -158,
+   -48,
+   1861.9
+  ],
+  "Tunnel Run / Chipmonk": [
+   -637,
+   -1458,
+   1412.7
+  ],
+  "Tunnel Run / Home Again": [
+   -610,
+   -1729,
+   1375.8
+  ],
+  "Picture Chutes / Hell Fire": [
+   -427,
+   885,
+   1999.3
+  ],
+  "Picture Chutes / Glory Hole": [
+   -537,
+   578,
+   1797.1
+  ],
+  "Heratage T-Bar (Intermittent) bottom": [
+   -1001,
+   -1303,
+   1454.7
+  ],
+  "Ridge Run / Hidden Meadow": [
+   1723,
+   1200,
+   2004.5
+  ],
+  "Ridge Run / Hidden Meadow 2": [
+   1250,
+   2010,
+   1706.8
+  ],
+  "Fault 2 / Inspiration": [
+   333,
+   -348,
+   1867.6
+  ],
+  "Fault 2 / Russ's Street": [
+   861,
+   -473,
+   1654.5
+  ],
+  "Under Easy / Over Easy": [
+   244,
+   -1429,
+   1439.5
+  ],
+  "Under Easy / Unnamed run": [
+   -14,
+   -1571,
+   1396.4
+  ],
+  "Unnamed run 2": [
+   187,
+   -404,
+   1816.9
+  ],
+  "Unnamed run / Upper Langley": [
+   204,
+   -463,
+   1809.3
+  ],
+  "Chair 11 Flower Point bottom": [
+   1191,
+   2114,
+   1702.8
+  ],
+  "Gray's Golf Course / Pat's Ride": [
+   -689,
+   911,
+   1935.4
+  ],
+  "Gray's Golf Course / Pat's Ride 2": [
+   -969,
+   544,
+   1742.8
+  ],
+  "Unnamed run / Lower Mully's": [
+   -983,
+   -561,
+   1698.6
+  ],
+  "Unnamed run / Lower Mully's 2": [
+   -927,
+   -810,
+   1598.3
+  ],
+  "Expressway / Russ's Street": [
+   822,
+   -632,
+   1646.1
+  ],
+  "Expressway": [
+   195,
+   -1319,
+   1480.5
+  ],
+  "Barndance / Middle Fork": [
+   -641,
+   -1378,
+   1427.6
+  ],
+  "Big Easy Carpet bottom": [
+   -359,
+   -1709,
+   1368.9
+  ],
+  "Elephant's Graveyard / Inspiration": [
+   196,
+   96,
+   1992.4
+  ],
+  "Elephant's Graveyard / Unnamed run": [
+   529,
+   78,
+   1863.5
+  ],
+  "Hogan's East / Hogan's": [
+   430,
+   -679,
+   1761.8
+  ],
+  "Hogan's East / Russ's Street": [
+   651,
+   -1053,
+   1606.2
+  ],
+  "No Name / Inspiration": [
+   361,
+   -144,
+   1937.0
+  ],
+  "No Name / Moe Mentum": [
+   693,
+   -54,
+   1812.0
+  ],
+  "Chair 11 Flower Point top": [
+   1691,
+   1140,
+   2003.7
+  ],
+  "Lodi Ridge / Russ's Street": [
+   1281,
+   454,
+   1855.5
+  ],
+  "Hailey's / Alpinglow Alley": [
+   -1413,
+   -1453,
+   1497.4
+  ],
+  "Hailey's / Central Avenue": [
+   -1241,
+   -1455,
+   1466.4
+  ],
+  "Hibernation / Hellroaring": [
+   -1223,
+   -482,
+   1734.9
+  ],
+  "Hibernation / Hellroaring 2": [
+   -1019,
+   -1003,
+   1531.9
+  ],
+  "Marmot / Moe Mentum": [
+   295,
+   694,
+   2053.6
+  ],
+  "Marmot / Caribou": [
+   497,
+   1007,
+   1929.4
+  ],
+  "Three Stooges / Russ's Street": [
+   520,
+   -1105,
+   1593.7
+  ],
+  "Expressway 2": [
+   509,
+   -1251,
+   1528.9
+  ],
+  "2nd Street / Central Avenue": [
+   -1677,
+   -1323,
+   1555.1
+  ],
+  "2nd Street / Central Avenue 2": [
+   -1468,
+   -1358,
+   1504.0
+  ],
+  "Silvertip / Caribou": [
+   487,
+   1187,
+   1913.5
+  ],
+  "Silvertip / Whitetail": [
+   790,
+   1714,
+   1785.0
+  ],
+  "Chair 9 Easy Rider top": [
+   202,
+   -1454,
+   1442.2
+  ],
+  "Unnamed Cat Track / Expressway": [
+   -176,
+   -1464,
+   1409.1
+  ],
+  "Unnamed run 3": [
+   -897,
+   -713,
+   1634.3
+  ],
+  "Wood Lot / The Big Ravine": [
+   -654,
+   -903,
+   1510.1
+  ],
+  "East Rim / Whitey's": [
+   699,
+   313,
+   1946.0
+  ],
+  "East Rim / Unnamed run": [
+   604,
+   52,
+   1840.6
+  ],
+  "Big Easy Carpet top": [
+   -302,
+   -1623,
+   1380.5
+  ],
+  "Chair 6 Base Lodge top": [
+   -680,
+   -1405,
+   1425.9
+  ],
+  "Chair 6 Base Lodge bottom": [
+   -469,
+   -1695,
+   1364.1
+  ],
+  "NBC / Whitey's": [
+   645,
+   403,
+   1984.4
+  ],
+  "NBC / Moose": [
+   888,
+   291,
+   1813.5
+  ],
+  "Larch / Bench Run": [
+   -248,
+   -382,
+   1768.0
+  ],
+  "Larch / Heep Steep": [
+   -153,
+   -558,
+   1676.1
+  ],
+  "The Big Ravine / Russ's Street": [
+   -745,
+   -1222,
+   1453.8
+  ],
+  "Ridge Run": [
+   1761,
+   1446,
+   1935.6
+  ],
+  "Outside Road / North Fork": [
+   1507,
+   1661,
+   1833.1
+  ],
+  "Slingshot / Hell Fire": [
+   -153,
+   901,
+   2019.9
+  ],
+  "Slingshot / Glory Hole": [
+   -245,
+   623,
+   1899.1
+  ],
+  "Glory Hole, Lacy Lane / Lacy Lane": [
+   -1050,
+   314,
+   1669.0
+  ],
+  "Chair 8 Hellroaring bottom": [
+   -1196,
+   292,
+   1632.8
+  ],
+  "Friends of Langley / Langley": [
+   103,
+   -972,
+   1576.8
+  ],
+  "Hogan's / Inspiration": [
+   378,
+   -661,
+   1777.3
+  ],
+  "Hogan's / Three Stooges": [
+   594,
+   -1083,
+   1599.7
+  ],
+  "Unnamed / Corkscrew": [
+   -14,
+   -1518,
+   1400.3
+  ],
+  "Barndance": [
+   -146,
+   -1522,
+   1396.0
+  ],
+  "Russ's Street / Moe Mentum": [
+   404,
+   680,
+   2014.8
+  ],
+  "Whitey's / Moe Mentum": [
+   836,
+   -24,
+   1774.0
+  ],
+  "Evan's Heaven / Lee's Way": [
+   1159,
+   546,
+   1903.6
+  ],
+  "Evan's Heaven / Moose": [
+   907,
+   228,
+   1798.3
+  ],
+  "Bigfoot T-Bar (T-bar 2) top": [
+   1139,
+   919,
+   1992.8
+  ],
+  "Russ's Street 2": [
+   1100,
+   614,
+   1929.3
+  ],
+  "Snow Making Ponds / Toni Matt": [
+   -249,
+   179,
+   1948.8
+  ],
+  "Snow Making Ponds / Toni Matt 2": [
+   -317,
+   -220,
+   1845.6
+  ],
+  "Ranger Trail / Home Again": [
+   -1450,
+   -938,
+   1612.4
+  ],
+  "Ranger Trail / Ski Way": [
+   -1322,
+   -1342,
+   1482.6
+  ],
+  "Russ's Street 3": [
+   1140,
+   595,
+   1919.1
+  ],
+  "Russ's Street 4": [
+   1091,
+   279,
+   1800.6
+  ],
+  "Russ's Street 5": [
+   576,
+   693,
+   1982.1
+  ],
+  "Chair 7 Big Creek Express bottom": [
+   1073,
+   2238,
+   1695.7
+  ],
+  "Glory Hole / Hell Fire": [
+   8,
+   931,
+   2031.1
+  ],
+  "Haskill Slide / Cal's Country": [
+   509,
+   -237,
+   1863.4
+  ],
+  "Haskill Slide / Over The Hill Gang": [
+   862,
+   -383,
+   1659.2
+  ],
+  "Pat's Ride / Hell Fire": [
+   -552,
+   952,
+   1985.7
+  ],
+  "Schmidt's Chute / Inspiration": [
+   168,
+   505,
+   2047.1
+  ],
+  "Schmidt's Chute / North Bowl Face": [
+   410,
+   372,
+   1910.7
+  ],
+  "Russ's Street 6": [
+   634,
+   702,
+   1972.9
+  ],
+  "Don's Descent / Moose": [
+   814,
+   582,
+   1898.0
+  ],
+  "Goat Haunt": [
+   957,
+   1887,
+   1744.8
+  ],
+  "Unnamed run / George's Gorge": [
+   909,
+   1954,
+   1733.6
+  ],
+  "Unnamed run / Inspiration": [
+   -179,
+   -1677,
+   1378.0
+  ],
+  "Ed's Run": [
+   -937,
+   -1129,
+   1484.9
+  ],
+  "Home Again": [
+   -1650,
+   -1082,
+   1581.3
+  ],
+  "Russ's Street 7": [
+   940,
+   -104,
+   1747.3
+  ],
+  "Central Avenue / Alpinglow Alley": [
+   -1719,
+   -1375,
+   1569.6
+  ],
+  "Chair 3 Tenderfoot bottom": [
+   -1051,
+   -1413,
+   1443.1
+  ],
+  "Ski Way / Alpinglow Alley": [
+   -1693,
+   -1233,
+   1563.9
+  ],
+  "Inside Road / Big Creek": [
+   1205,
+   1457,
+   1884.5
+  ],
+  "Middle Fork / Toni Matt": [
+   -508,
+   -1135,
+   1522.3
+  ],
+  "Inside Road": [
+   1574,
+   1120,
+   1979.6
+  ],
+  "Unnamed run / Lodi Ridge": [
+   1426,
+   1054,
+   1938.3
+  ],
+  "Unnamed run / Heep Steep": [
+   -238,
+   -683,
+   1649.9
+  ],
+  "Unnamed run / Toni Matt": [
+   -337,
+   -853,
+   1617.5
+  ],
+  "Connie's Coulee / Inspiration": [
+   192,
+   619,
+   2057.2
+  ],
+  "Glory Hole": [
+   -132,
+   706,
+   1913.1
+  ],
+  "1000 Turns": [
+   -699,
+   12,
+   1822.7
+  ],
+  "Lacy Lane": [
+   -921,
+   267,
+   1696.9
+  ],
+  "Sandi's / Interstate": [
+   -875,
+   -201,
+   1791.6
+  ],
+  "The Big Ravine": [
+   -671,
+   -337,
+   1690.8
+  ],
+  "Bald Rock / Toni Matt": [
+   -376,
+   -999,
+   1578.5
+  ],
+  "Barndance 2": [
+   -247,
+   -1510,
+   1403.2
+  ],
+  "Silvertip": [
+   520,
+   1231,
+   1902.3
+  ],
+  "Silvertip 2": [
+   736,
+   1605,
+   1796.3
+  ],
+  "Goat Haunt 2": [
+   603,
+   775,
+   1963.3
+  ],
+  "Caribou / Whitetail": [
+   865,
+   2141,
+   1721.3
+  ],
+  "Wing and a Prayer": [
+   -797,
+   263,
+   1772.1
+  ],
+  "Russ's Street 8": [
+   1253,
+   561,
+   1886.5
+  ],
+  "Bigfoot T-Bar (T-bar 2) bottom": [
+   1388,
+   567,
+   1869.4
+  ],
+  "Cal's Country / Inspiration": [
+   355,
+   -284,
+   1891.1
+  ],
+  "No Name": [
+   597,
+   -93,
+   1828.6
+  ],
+  "Chair 3 Tenderfoot top": [
+   -1768,
+   -1474,
+   1573.8
+  ],
+  "Big Creek / Lodi Ridge": [
+   1207,
+   1044,
+   1972.8
+  ],
+  "Unnamed run 4": [
+   955,
+   1684,
+   1795.0
+  ],
+  "Elkweed / Inspiration": [
+   313,
+   -451,
+   1828.2
+  ],
+  "Expressway 3": [
+   767,
+   -717,
+   1639.5
+  ],
+  "Pat's Ride": [
+   -756,
+   871,
+   1921.0
+  ],
+  "Radjack / Hell Fire": [
+   -1153,
+   799,
+   1720.2
+  ],
+  "Expressway 4": [
+   580,
+   -1220,
+   1542.4
+  ],
+  "Chair 9 Easy Rider bottom": [
+   -337,
+   -1783,
+   1364.0
+  ],
+  "North Bowl Face / Moe Mentum": [
+   336,
+   689,
+   2034.4
+  ],
+  "North Bowl Face / Unnamed run": [
+   455,
+   306,
+   1893.1
+  ],
+  "Caribou": [
+   445,
+   1385,
+   1885.2
+  ],
+  "Kodiak / Whitetail": [
+   773,
+   1851,
+   1768.6
+  ],
+  "North Fork / Lodi Ridge": [
+   1348,
+   1105,
+   1951.1
+  ],
+  "Bench Run / Toni Matt": [
+   -262,
+   -10,
+   1896.3
+  ],
+  "Bench Run / Toni Matt 2": [
+   -389,
+   -561,
+   1706.9
+  ],
+  "Glory Hole 2": [
+   -467,
+   528,
+   1810.1
+  ],
+  "Heep Steep / Unnamed run": [
+   -94,
+   -295,
+   1791.8
+  ],
+  "Whiskey Spring": [
+   871,
+   1547,
+   1806.8
+  ],
+  "Powder Trap / Unnamed run": [
+   74,
+   -312,
+   1811.2
+  ],
+  "Powder Trap / Corkscrew": [
+   -178,
+   -791,
+   1598.1
+  ],
+  "Lodi Ridge": [
+   1519,
+   781,
+   1905.2
+  ],
+  "Goat Haunt 3": [
+   948,
+   1829,
+   1754.7
+  ],
+  "First Creek": [
+   572,
+   634,
+   1989.0
+  ],
+  "First Creek / Moose": [
+   871,
+   430,
+   1854.0
+  ],
+  "Lodi Ridge 2": [
+   1181,
+   973,
+   1984.3
+  ],
+  "Lodi Ridge 3": [
+   1459,
+   898,
+   1926.8
+  ],
+  "Fault 2": [
+   380,
+   -371,
+   1860.4
+  ],
+  "Elkweed": [
+   576,
+   -583,
+   1761.3
+  ],
+  "Expressway 5": [
+   -420,
+   -1604,
+   1379.4
+  ],
+  "Bench Run": [
+   -358,
+   -493,
+   1735.0
+  ],
+  "Unnamed run / Moe Mentum": [
+   471,
+   357,
+   1902.2
+  ],
+  "Hailey's": [
+   -1239,
+   -1555,
+   1478.5
+  ],
+  "Unnamed run 5": [
+   -1176,
+   -1629,
+   1449.6
+  ],
+  "Alpinglow Alley": [
+   -1505,
+   -1445,
+   1520.6
+  ],
+  "Bench Run 2": [
+   -197,
+   -335,
+   1779.3
+  ],
+  "Corkscrew": [
+   -59,
+   -1153,
+   1472.0
+  ],
+  "Russ's Street 9": [
+   481,
+   681,
+   1998.2
+  ],
+  "Inspiration": [
+   171,
+   568,
+   2052.3
+  ],
+  "Toni Matt / Russ's Street": [
+   -646,
+   -1178,
+   1472.0
+  ],
+  "East Rim Face / Moe Mentum": [
+   506,
+   223,
+   1886.5
+  ],
+  "Three Stooges / Russ's Street 2": [
+   447,
+   -1118,
+   1587.8
+  ],
+  "Expressway 6": [
+   410,
+   -1261,
+   1512.8
+  ],
+  "Hell Fire / Gray Wolf": [
+   124,
+   912,
+   2032.4
+  ],
+  "Toni Matt": [
+   -367,
+   -687,
+   1666.3
+  ],
+  "Hogan's East": [
+   530,
+   -681,
+   1753.8
+  ],
+  "Expressway 7": [
+   753,
+   -799,
+   1633.2
+  ],
+  "Unnamed run 6": [
+   -417,
+   -843,
+   1612.1
+  ],
+  "The Big Ravine 2": [
+   -709,
+   -1098,
+   1469.5
+  ],
+  "Black Bear / Gray Wolf": [
+   193,
+   803,
+   2052.8
+  ],
+  "Inspiration 2": [
+   300,
+   -70,
+   1956.6
+  ],
+  "Chair 7 Big Creek Express top": [
+   213,
+   732,
+   2062.9
+  ],
+  "Whitetail": [
+   921,
+   2219,
+   1703.6
+  ],
+  "Chair 5 East Rim bottom": [
+   944,
+   -63,
+   1760.3
+  ],
+  "Ranger Trail": [
+   -1361,
+   -1356,
+   1485.4
+  ],
+  "Russ's Street 10": [
+   737,
+   741,
+   1952.8
+  ],
+  "Russ's Street 11": [
+   974,
+   68,
+   1767.3
+  ],
+  "Ed's Run 2": [
+   -966,
+   -1028,
+   1517.7
+  ],
+  "Under Easy": [
+   89,
+   -1526,
+   1412.3
+  ],
+  "Upper Mully's": [
+   -1073,
+   -333,
+   1764.2
+  ],
+  "Gray Wolf": [
+   104,
+   1631,
+   1862.6
+  ],
+  "Caribou 2": [
+   294,
+   1849,
+   1841.7
+  ],
+  "Ed's Run 3": [
+   -1178,
+   -315,
+   1780.6
+  ],
+  "Inspiration 3": [
+   144,
+   191,
+   2016.0
+  ],
+  "Unnamed run 7": [
+   -52,
+   -272,
+   1802.0
+  ],
+  "Chair 5 East Rim top": [
+   518,
+   605,
+   2006.4
+  ],
+  "Chair 10 Bad Rock (Intermittent) bottom": [
+   -415,
+   -1671,
+   1370.1
+  ],
+  "Chair 10 Bad Rock (Intermittent) top": [
+   -355,
+   -1212,
+   1509.8
+  ],
+  "Chair 1 Big Mountain Express bottom": [
+   -699,
+   -1368,
+   1426.9
+  ],
+  "Chair 1 Big Mountain Express top": [
+   193,
+   689,
+   2062.6
+  ],
+  "Elk Highlands Chair (Private Homeowner Lift) top": [
+   -1421,
+   -1869,
+   1461.5
+  ],
+  "2 Easy Carpet top": [
+   -235,
+   -1569,
+   1386.6
+  ],
+  "Chair 4 Snow Ghost Express top": [
+   118,
+   415,
+   2054.6
+  ],
+  "Chair 8 Hellroaring top": [
+   -283,
+   242,
+   1961.2
+  ]
+ },
+ "lifts": [
+  [
+   "Chair 5 East Rim",
+   "Chair 5 East Rim bottom",
+   "Chair 5 East Rim top",
+   9.0
+  ],
+  [
+   "Chair 6 Base Lodge",
+   "Chair 6 Base Lodge bottom",
+   "Chair 6 Base Lodge top",
+   5.9
+  ],
+  [
+   "Chair 10 Bad Rock (Intermittent)",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "Chair 10 Bad Rock (Intermittent) top",
+   6.5
+  ],
+  [
+   "Chair 1 Big Mountain Express",
+   "Chair 1 Big Mountain Express bottom",
+   "Chair 1 Big Mountain Express top",
+   10.8
+  ],
+  [
+   "Chair 11 Flower Point",
+   "Chair 11 Flower Point bottom",
+   "Chair 11 Flower Point top",
+   11.3
+  ],
+  [
+   "Chair 7 Big Creek Express",
+   "Chair 7 Big Creek Express bottom",
+   "Chair 7 Big Creek Express top",
+   8.9
+  ],
+  [
+   "Chair 3 Tenderfoot",
+   "Chair 3 Tenderfoot bottom",
+   "Chair 3 Tenderfoot top",
+   8.2
+  ],
+  [
+   "Big Easy Carpet",
+   "Big Easy Carpet bottom",
+   "Big Easy Carpet top",
+   5.1
+  ],
+  [
+   "Heratage T-Bar (Intermittent)",
+   "Heratage T-Bar (Intermittent) bottom",
+   "Heratage T-Bar (Intermittent) top",
+   6.0
+  ],
+  [
+   "2 Easy Carpet",
+   "Big Easy Carpet top",
+   "2 Easy Carpet top",
+   4.8
+  ],
+  [
+   "Chair 4 Snow Ghost Express",
+   "Big Easy Carpet bottom",
+   "Chair 4 Snow Ghost Express top",
+   9.3
+  ],
+  [
+   "Chair 9 Easy Rider",
+   "Chair 9 Easy Rider bottom",
+   "Chair 9 Easy Rider top",
+   7.7
+  ],
+  [
+   "Chair 8 Hellroaring",
+   "Chair 8 Hellroaring bottom",
+   "Chair 8 Hellroaring top",
+   10.1
+  ],
+  [
+   "Bigfoot T-Bar (T-bar 2)",
+   "Bigfoot T-Bar (T-bar 2) bottom",
+   "Bigfoot T-Bar (T-bar 2) top",
+   5.5
+  ],
+  [
+   "Chair 2 Swift Creek Express",
+   "Chair 2 Swift Creek Express bottom",
+   "Chair 2 Swift Creek Express top",
+   7.2
+  ]
+ ],
+ "runs": [
+  [
+   "Whiskey Spring",
+   "Whiskey Spring / Big Creek",
+   "Whiskey Spring",
+   2.0
+  ],
+  [
+   "Whiskey Spring",
+   "Whiskey Spring",
+   "Whiskey Spring / Goat Haunt",
+   0.5
+  ],
+  [
+   "Slalom",
+   "Heratage T-Bar (Intermittent) top",
+   "Slalom / Ed's Run",
+   2.4
+  ],
+  [
+   "Ed's Run",
+   "Chair 2 Swift Creek Express top",
+   "Ed's Run 3",
+   0.5
+  ],
+  [
+   "Ed's Run",
+   "Ed's Run 3",
+   "Ed's Run 2",
+   3.3
+  ],
+  [
+   "Ed's Run",
+   "Ed's Run 2",
+   "Ed's Run",
+   0.5
+  ],
+  [
+   "Ed's Run",
+   "Ed's Run",
+   "Slalom / Ed's Run",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Goat Haunt",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "Unnamed run",
+   1.1
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street",
+   "Chair 2 Swift Creek Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Langley",
+   "Unnamed run / Friends of Langley",
+   0.6
+  ],
+  [
+   "1000 Turns",
+   "1000 Turns / The Big Ravine",
+   "Chair 8 Hellroaring top",
+   0.5
+  ],
+  [
+   "1000 Turns",
+   "Chair 8 Hellroaring top",
+   "1000 Turns",
+   2.8
+  ],
+  [
+   "1000 Turns",
+   "1000 Turns",
+   "1000 Turns / The Big Ravine 2",
+   0.5
+  ],
+  [
+   "Chute",
+   "Chute / Elephant's Graveyard",
+   "Chute / Unnamed run",
+   1.6
+  ],
+  [
+   "Ptarmigan Bowl",
+   "Ptarmigan Bowl / Toni Matt",
+   "Ptarmigan Bowl / Bench Run",
+   1.9
+  ],
+  [
+   "Tunnel Run",
+   "Tunnel Run / Chipmonk",
+   "Tunnel Run / Home Again",
+   1.3
+  ],
+  [
+   "Picture Chutes",
+   "Picture Chutes / Hell Fire",
+   "Picture Chutes / Glory Hole",
+   1.5
+  ],
+  [
+   "Heaven's",
+   "Heratage T-Bar (Intermittent) top",
+   "Heratage T-Bar (Intermittent) bottom",
+   2.2
+  ],
+  [
+   "Ridge Run",
+   "Ridge Run / Hidden Meadow",
+   "Ridge Run",
+   1.0
+  ],
+  [
+   "Ridge Run",
+   "Ridge Run",
+   "Ridge Run / Hidden Meadow 2",
+   6.1
+  ],
+  [
+   "Fault 2",
+   "Fault 2 / Inspiration",
+   "Fault 2",
+   0.5
+  ],
+  [
+   "Fault 2",
+   "Fault 2",
+   "Fault 2 / Russ's Street",
+   2.2
+  ],
+  [
+   "Under Easy",
+   "Under Easy / Over Easy",
+   "Chair 9 Easy Rider top",
+   0.5
+  ],
+  [
+   "Under Easy",
+   "Chair 9 Easy Rider top",
+   "Under Easy",
+   0.5
+  ],
+  [
+   "Under Easy",
+   "Under Easy",
+   "Under Easy / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Unnamed run / Upper Langley",
+   0.5
+  ],
+  [
+   "Hidden Meadow",
+   "Ridge Run / Hidden Meadow",
+   "Ridge Run / Hidden Meadow 2",
+   4.1
+  ],
+  [
+   "Hidden Meadow",
+   "Ridge Run / Hidden Meadow 2",
+   "Chair 11 Flower Point bottom",
+   0.5
+  ],
+  [
+   "Gray's Golf Course",
+   "Gray's Golf Course / Pat's Ride",
+   "Gray's Golf Course / Pat's Ride 2",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Lower Mully's",
+   "Unnamed run 3",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 3",
+   "Unnamed run / Lower Mully's 2",
+   0.5
+  ],
+  [
+   "Expressway",
+   "Expressway / Russ's Street",
+   "Expressway 3",
+   0.5
+  ],
+  [
+   "Expressway",
+   "Expressway 3",
+   "Expressway 7",
+   0.5
+  ],
+  [
+   "Expressway",
+   "Expressway 7",
+   "Expressway 4",
+   2.1
+  ],
+  [
+   "Expressway",
+   "Expressway 4",
+   "Expressway 2",
+   0.5
+  ],
+  [
+   "Expressway",
+   "Expressway 2",
+   "Expressway 6",
+   0.5
+  ],
+  [
+   "Expressway",
+   "Expressway 6",
+   "Expressway",
+   0.9
+  ],
+  [
+   "Barndance",
+   "Barndance / Middle Fork",
+   "Barndance 2",
+   1.6
+  ],
+  [
+   "Barndance",
+   "Barndance 2",
+   "Barndance",
+   0.5
+  ],
+  [
+   "Barndance",
+   "Barndance",
+   "2 Easy Carpet top",
+   0.5
+  ],
+  [
+   "Barndance",
+   "2 Easy Carpet top",
+   "Big Easy Carpet top",
+   0.5
+  ],
+  [
+   "Barndance",
+   "Big Easy Carpet top",
+   "Big Easy Carpet bottom",
+   0.5
+  ],
+  [
+   "Elephant's Graveyard",
+   "Elephant's Graveyard / Inspiration",
+   "Chute / Elephant's Graveyard",
+   0.5
+  ],
+  [
+   "Elephant's Graveyard",
+   "Chute / Elephant's Graveyard",
+   "Elephant's Graveyard / Unnamed run",
+   1.6
+  ],
+  [
+   "Hogan's East",
+   "Hogan's East / Hogan's",
+   "Hogan's East",
+   0.5
+  ],
+  [
+   "Hogan's East",
+   "Hogan's East",
+   "Hogan's East / Russ's Street",
+   1.7
+  ],
+  [
+   "No Name",
+   "No Name / Inspiration",
+   "No Name",
+   0.9
+  ],
+  [
+   "No Name",
+   "No Name",
+   "No Name / Moe Mentum",
+   0.5
+  ],
+  [
+   "Lodi Ridge",
+   "Chair 11 Flower Point top",
+   "Lodi Ridge",
+   1.6
+  ],
+  [
+   "Lodi Ridge",
+   "Lodi Ridge",
+   "Bigfoot T-Bar (T-bar 2) bottom",
+   1.1
+  ],
+  [
+   "Lodi Ridge",
+   "Bigfoot T-Bar (T-bar 2) bottom",
+   "Lodi Ridge / Russ's Street",
+   0.7
+  ],
+  [
+   "Hailey's",
+   "Hailey's / Alpinglow Alley",
+   "Hailey's",
+   0.7
+  ],
+  [
+   "Hailey's",
+   "Hailey's",
+   "Hailey's / Central Avenue",
+   0.5
+  ],
+  [
+   "Hibernation",
+   "Hibernation / Hellroaring",
+   "Hibernation / Hellroaring 2",
+   2.5
+  ],
+  [
+   "Marmot",
+   "Marmot / Moe Mentum",
+   "Marmot / Caribou",
+   1.5
+  ],
+  [
+   "Three Stooges",
+   "Three Stooges / Russ's Street",
+   "Expressway 2",
+   0.5
+  ],
+  [
+   "2nd Street",
+   "2nd Street / Central Avenue",
+   "2nd Street / Central Avenue 2",
+   0.8
+  ],
+  [
+   "Silvertip",
+   "Silvertip / Caribou",
+   "Silvertip",
+   0.5
+  ],
+  [
+   "Silvertip",
+   "Silvertip",
+   "Silvertip 2",
+   1.9
+  ],
+  [
+   "Silvertip",
+   "Silvertip 2",
+   "Silvertip / Whitetail",
+   0.5
+  ],
+  [
+   "Unnamed Cat Track",
+   "Chair 9 Easy Rider top",
+   "Unnamed Cat Track / Expressway",
+   1.6
+  ],
+  [
+   "Wood Lot",
+   "Unnamed run 3",
+   "Wood Lot / The Big Ravine",
+   1.3
+  ],
+  [
+   "East Rim",
+   "East Rim / Whitey's",
+   "East Rim / Unnamed run",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Under Easy / Unnamed run",
+   "2 Easy Carpet top",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "2 Easy Carpet top",
+   "Big Easy Carpet top",
+   0.5
+  ],
+  [
+   "Chipmonk",
+   "Chair 6 Base Lodge top",
+   "Tunnel Run / Chipmonk",
+   0.5
+  ],
+  [
+   "Chipmonk",
+   "Tunnel Run / Chipmonk",
+   "Chair 6 Base Lodge bottom",
+   1.2
+  ],
+  [
+   "NBC",
+   "NBC / Whitey's",
+   "NBC / Moose",
+   1.2
+  ],
+  [
+   "Larch",
+   "Larch / Bench Run",
+   "Larch / Heep Steep",
+   0.8
+  ],
+  [
+   "The Big Ravine",
+   "1000 Turns / The Big Ravine",
+   "Chair 8 Hellroaring top",
+   0.5
+  ],
+  [
+   "The Big Ravine",
+   "Chair 8 Hellroaring top",
+   "1000 Turns",
+   1.9
+  ],
+  [
+   "The Big Ravine",
+   "1000 Turns",
+   "1000 Turns / The Big Ravine 2",
+   0.5
+  ],
+  [
+   "The Big Ravine",
+   "1000 Turns / The Big Ravine 2",
+   "The Big Ravine",
+   1.4
+  ],
+  [
+   "The Big Ravine",
+   "The Big Ravine",
+   "Wood Lot / The Big Ravine",
+   2.5
+  ],
+  [
+   "The Big Ravine",
+   "Wood Lot / The Big Ravine",
+   "The Big Ravine 2",
+   0.9
+  ],
+  [
+   "The Big Ravine",
+   "The Big Ravine 2",
+   "The Big Ravine / Russ's Street",
+   0.5
+  ],
+  [
+   "Outside Road",
+   "Ridge Run",
+   "Outside Road / North Fork",
+   1.4
+  ],
+  [
+   "Slingshot",
+   "Slingshot / Hell Fire",
+   "Slingshot / Glory Hole",
+   1.2
+  ],
+  [
+   "Expressway",
+   "Expressway",
+   "Unnamed Cat Track / Expressway",
+   1.9
+  ],
+  [
+   "Expressway",
+   "Unnamed Cat Track / Expressway",
+   "Barndance 2",
+   0.5
+  ],
+  [
+   "Expressway",
+   "Barndance 2",
+   "Expressway 5",
+   0.9
+  ],
+  [
+   "Expressway",
+   "Expressway 5",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   0.5
+  ],
+  [
+   "Expressway",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "Chair 6 Base Lodge bottom",
+   0.5
+  ],
+  [
+   "Glory Hole, Lacy Lane",
+   "Glory Hole, Lacy Lane / Lacy Lane",
+   "Chair 8 Hellroaring bottom",
+   0.5
+  ],
+  [
+   "Friends of Langley",
+   "Unnamed run / Friends of Langley",
+   "Friends of Langley / Langley",
+   1.9
+  ],
+  [
+   "Hogan's",
+   "Hogan's / Inspiration",
+   "Hogan's East / Hogan's",
+   0.5
+  ],
+  [
+   "Hogan's",
+   "Hogan's East / Hogan's",
+   "Hogan's / Three Stooges",
+   1.9
+  ],
+  [
+   "Unnamed",
+   "Unnamed / Corkscrew",
+   "Barndance",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street / Moe Mentum",
+   "Russ's Street 9",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street 9",
+   "Russ's Street 5",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street 5",
+   "Russ's Street 6",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street 6",
+   "Russ's Street 10",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street 10",
+   "Russ's Street 2",
+   1.6
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street 2",
+   "Russ's Street 3",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street 3",
+   "Russ's Street 8",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street 8",
+   "Lodi Ridge / Russ's Street",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Lodi Ridge / Russ's Street",
+   "Russ's Street 4",
+   1.1
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street 4",
+   "Russ's Street 11",
+   1.0
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street 11",
+   "Chair 5 East Rim bottom",
+   0.6
+  ],
+  [
+   "Russ's Street",
+   "Chair 5 East Rim bottom",
+   "Russ's Street 7",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street 7",
+   "Fault 2 / Russ's Street",
+   1.6
+  ],
+  [
+   "Russ's Street",
+   "Fault 2 / Russ's Street",
+   "Expressway / Russ's Street",
+   0.7
+  ],
+  [
+   "Whitey's",
+   "NBC / Whitey's",
+   "East Rim / Whitey's",
+   0.5
+  ],
+  [
+   "Whitey's",
+   "East Rim / Whitey's",
+   "Whitey's / Moe Mentum",
+   1.9
+  ],
+  [
+   "Evan's Heaven",
+   "Evan's Heaven / Lee's Way",
+   "Evan's Heaven / Moose",
+   1.7
+  ],
+  [
+   "Trapper's Trail",
+   "Bigfoot T-Bar (T-bar 2) top",
+   "Russ's Street 2",
+   1.2
+  ],
+  [
+   "Lacy Lane",
+   "Chair 2 Swift Creek Express top",
+   "Lacy Lane",
+   3.1
+  ],
+  [
+   "Lacy Lane",
+   "Lacy Lane",
+   "Glory Hole, Lacy Lane / Lacy Lane",
+   0.7
+  ],
+  [
+   "Snow Making Ponds",
+   "Snow Making Ponds / Toni Matt",
+   "Snow Making Ponds / Toni Matt 2",
+   2.2
+  ],
+  [
+   "Ranger Trail",
+   "Ranger Trail / Home Again",
+   "Ranger Trail",
+   2.0
+  ],
+  [
+   "Ranger Trail",
+   "Ranger Trail",
+   "Ranger Trail / Ski Way",
+   0.5
+  ],
+  [
+   "Swift Creek Express",
+   "Chair 2 Swift Creek Express top",
+   "Heratage T-Bar (Intermittent) top",
+   3.5
+  ],
+  [
+   "Lee's Way",
+   "Russ's Street 3",
+   "Evan's Heaven / Lee's Way",
+   0.5
+  ],
+  [
+   "Lee's Way",
+   "Evan's Heaven / Lee's Way",
+   "Russ's Street 4",
+   1.2
+  ],
+  [
+   "Goat Haunt",
+   "Russ's Street 5",
+   "Goat Haunt 2",
+   0.5
+  ],
+  [
+   "Goat Haunt",
+   "Goat Haunt 2",
+   "Whiskey Spring / Goat Haunt",
+   3.7
+  ],
+  [
+   "Goat Haunt",
+   "Whiskey Spring / Goat Haunt",
+   "Unnamed run / Goat Haunt",
+   0.5
+  ],
+  [
+   "Goat Haunt",
+   "Unnamed run / Goat Haunt",
+   "Goat Haunt 3",
+   0.9
+  ],
+  [
+   "Goat Haunt",
+   "Goat Haunt 3",
+   "Goat Haunt",
+   0.5
+  ],
+  [
+   "Goat Haunt",
+   "Goat Haunt",
+   "Chair 7 Big Creek Express bottom",
+   1.7
+  ],
+  [
+   "Glory Hole",
+   "Glory Hole / Hell Fire",
+   "Glory Hole",
+   1.1
+  ],
+  [
+   "Glory Hole",
+   "Glory Hole",
+   "Slingshot / Glory Hole",
+   0.6
+  ],
+  [
+   "Glory Hole",
+   "Slingshot / Glory Hole",
+   "Glory Hole 2",
+   1.1
+  ],
+  [
+   "Glory Hole",
+   "Glory Hole 2",
+   "Picture Chutes / Glory Hole",
+   0.5
+  ],
+  [
+   "Glory Hole",
+   "Picture Chutes / Glory Hole",
+   "Glory Hole, Lacy Lane / Lacy Lane",
+   2.7
+  ],
+  [
+   "Haskill Slide",
+   "Haskill Slide / Cal's Country",
+   "Haskill Slide / Over The Hill Gang",
+   1.8
+  ],
+  [
+   "Pat's Ride",
+   "Pat's Ride / Hell Fire",
+   "Gray's Golf Course / Pat's Ride",
+   0.5
+  ],
+  [
+   "Pat's Ride",
+   "Gray's Golf Course / Pat's Ride",
+   "Pat's Ride",
+   0.5
+  ],
+  [
+   "Pat's Ride",
+   "Pat's Ride",
+   "Gray's Golf Course / Pat's Ride 2",
+   2.0
+  ],
+  [
+   "Pat's Ride",
+   "Gray's Golf Course / Pat's Ride 2",
+   "Glory Hole, Lacy Lane / Lacy Lane",
+   1.1
+  ],
+  [
+   "Schmidt's Chute",
+   "Schmidt's Chute / Inspiration",
+   "Schmidt's Chute / North Bowl Face",
+   1.2
+  ],
+  [
+   "Don's Descent",
+   "Russ's Street 6",
+   "Don's Descent / Moose",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Goat Haunt",
+   "Unnamed run / George's Gorge",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Inspiration",
+   "Big Easy Carpet bottom",
+   0.7
+  ],
+  [
+   "Lower Mully's",
+   "Unnamed run / Lower Mully's",
+   "Unnamed run / Lower Mully's 2",
+   1.0
+  ],
+  [
+   "Lower Mully's",
+   "Unnamed run / Lower Mully's 2",
+   "Ed's Run",
+   1.4
+  ],
+  [
+   "Home Again",
+   "Unnamed run / Lower Mully's",
+   "Heratage T-Bar (Intermittent) top",
+   2.1
+  ],
+  [
+   "Home Again",
+   "Heratage T-Bar (Intermittent) top",
+   "Ranger Trail / Home Again",
+   0.5
+  ],
+  [
+   "Home Again",
+   "Ranger Trail / Home Again",
+   "Home Again",
+   1.3
+  ],
+  [
+   "Over The Hill Gang",
+   "Russ's Street 7",
+   "Haskill Slide / Over The Hill Gang",
+   1.2
+  ],
+  [
+   "Over The Hill Gang",
+   "Haskill Slide / Over The Hill Gang",
+   "Fault 2 / Russ's Street",
+   0.5
+  ],
+  [
+   "Central Avenue",
+   "Central Avenue / Alpinglow Alley",
+   "2nd Street / Central Avenue",
+   0.5
+  ],
+  [
+   "Central Avenue",
+   "2nd Street / Central Avenue",
+   "2nd Street / Central Avenue 2",
+   0.8
+  ],
+  [
+   "Central Avenue",
+   "2nd Street / Central Avenue 2",
+   "Ranger Trail",
+   0.5
+  ],
+  [
+   "Central Avenue",
+   "Ranger Trail",
+   "Hailey's / Central Avenue",
+   0.6
+  ],
+  [
+   "Central Avenue",
+   "Hailey's / Central Avenue",
+   "Chair 3 Tenderfoot bottom",
+   0.7
+  ],
+  [
+   "Ski Way",
+   "Ski Way / Alpinglow Alley",
+   "2nd Street / Central Avenue 2",
+   1.0
+  ],
+  [
+   "Ski Way",
+   "2nd Street / Central Avenue 2",
+   "Ranger Trail",
+   0.5
+  ],
+  [
+   "Ski Way",
+   "Ranger Trail",
+   "Ranger Trail / Ski Way",
+   0.5
+  ],
+  [
+   "Ski Way",
+   "Ranger Trail / Ski Way",
+   "Heratage T-Bar (Intermittent) bottom",
+   1.4
+  ],
+  [
+   "Inside Road",
+   "Chair 11 Flower Point top",
+   "Inside Road",
+   0.5
+  ],
+  [
+   "Inside Road",
+   "Inside Road",
+   "Inside Road / Big Creek",
+   2.2
+  ],
+  [
+   "Middle Fork",
+   "Middle Fork / Toni Matt",
+   "Barndance / Middle Fork",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Inside Road",
+   "Unnamed run / Lodi Ridge",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Heep Steep",
+   "Unnamed run / Toni Matt",
+   0.7
+  ],
+  [
+   "Connie's Coulee",
+   "Connie's Coulee / Inspiration",
+   "Glory Hole",
+   1.4
+  ],
+  [
+   "Short but Sweet",
+   "1000 Turns",
+   "Lacy Lane",
+   1.4
+  ],
+  [
+   "Sandi's",
+   "Sandi's / Interstate",
+   "The Big Ravine",
+   1.0
+  ],
+  [
+   "Bald Rock",
+   "Bald Rock / Toni Matt",
+   "Barndance 2",
+   2.2
+  ],
+  [
+   "Hollywood",
+   "Silvertip",
+   "Silvertip 2",
+   1.7
+  ],
+  [
+   "Caribou",
+   "Goat Haunt 2",
+   "Marmot / Caribou",
+   1.0
+  ],
+  [
+   "Caribou",
+   "Marmot / Caribou",
+   "Silvertip / Caribou",
+   0.7
+  ],
+  [
+   "Caribou",
+   "Silvertip / Caribou",
+   "Caribou",
+   0.9
+  ],
+  [
+   "Caribou",
+   "Caribou",
+   "Caribou 2",
+   2.2
+  ],
+  [
+   "Caribou",
+   "Caribou 2",
+   "Caribou / Whitetail",
+   2.8
+  ],
+  [
+   "Wing and a Prayer",
+   "1000 Turns / The Big Ravine",
+   "Chair 8 Hellroaring top",
+   0.5
+  ],
+  [
+   "Wing and a Prayer",
+   "Chair 8 Hellroaring top",
+   "Wing and a Prayer",
+   2.2
+  ],
+  [
+   "Ski Way",
+   "Heratage T-Bar (Intermittent) bottom",
+   "Slalom / Ed's Run",
+   0.5
+  ],
+  [
+   "Ski Way",
+   "Slalom / Ed's Run",
+   "Chair 2 Swift Creek Express bottom",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Russ's Street 8",
+   "Bigfoot T-Bar (T-bar 2) bottom",
+   0.5
+  ],
+  [
+   "Cal's Country",
+   "Cal's Country / Inspiration",
+   "Haskill Slide / Cal's Country",
+   0.6
+  ],
+  [
+   "Cal's Country",
+   "Haskill Slide / Cal's Country",
+   "No Name",
+   0.8
+  ],
+  [
+   "Alpinglow Alley",
+   "Chair 3 Tenderfoot top",
+   "Central Avenue / Alpinglow Alley",
+   0.5
+  ],
+  [
+   "Alpinglow Alley",
+   "Central Avenue / Alpinglow Alley",
+   "Ski Way / Alpinglow Alley",
+   0.6
+  ],
+  [
+   "Big Creek",
+   "Big Creek / Lodi Ridge",
+   "Whiskey Spring / Big Creek",
+   0.7
+  ],
+  [
+   "Big Creek",
+   "Whiskey Spring / Big Creek",
+   "Inside Road / Big Creek",
+   1.0
+  ],
+  [
+   "Big Creek",
+   "Inside Road / Big Creek",
+   "Unnamed run 4",
+   1.6
+  ],
+  [
+   "Elkweed",
+   "Elkweed / Inspiration",
+   "Elkweed",
+   1.1
+  ],
+  [
+   "Elkweed",
+   "Elkweed",
+   "Expressway 3",
+   1.1
+  ],
+  [
+   "Alpinglow Alley",
+   "Chair 3 Tenderfoot top",
+   "Alpinglow Alley",
+   1.0
+  ],
+  [
+   "Alpinglow Alley",
+   "Alpinglow Alley",
+   "Hailey's / Alpinglow Alley",
+   0.5
+  ],
+  [
+   "Alpinglow Alley",
+   "Hailey's / Alpinglow Alley",
+   "Hailey's / Central Avenue",
+   0.7
+  ],
+  [
+   "Alpinglow Alley",
+   "Hailey's / Central Avenue",
+   "Chair 3 Tenderfoot bottom",
+   0.8
+  ],
+  [
+   "George's Gorge",
+   "Whiskey Spring / Goat Haunt",
+   "Unnamed run / Goat Haunt",
+   0.5
+  ],
+  [
+   "George's Gorge",
+   "Unnamed run / Goat Haunt",
+   "Unnamed run / George's Gorge",
+   1.3
+  ],
+  [
+   "George's Gorge",
+   "Unnamed run / George's Gorge",
+   "Chair 7 Big Creek Express bottom",
+   1.5
+  ],
+  [
+   "Radjack",
+   "Pat's Ride",
+   "Radjack / Hell Fire",
+   1.7
+  ],
+  [
+   "Three Stooges",
+   "Hogan's / Three Stooges",
+   "Expressway 4",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Expressway",
+   "Under Easy",
+   0.9
+  ],
+  [
+   "Inspiration",
+   "Under Easy",
+   "Under Easy / Unnamed run",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Under Easy / Unnamed run",
+   "Unnamed run / Inspiration",
+   0.8
+  ],
+  [
+   "Inspiration",
+   "Unnamed run / Inspiration",
+   "Chair 9 Easy Rider bottom",
+   0.8
+  ],
+  [
+   "North Bowl Face",
+   "North Bowl Face / Moe Mentum",
+   "Schmidt's Chute / North Bowl Face",
+   1.4
+  ],
+  [
+   "North Bowl Face",
+   "Schmidt's Chute / North Bowl Face",
+   "North Bowl Face / Unnamed run",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Connie's Coulee / Inspiration",
+   "Inspiration",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Inspiration",
+   "Schmidt's Chute / Inspiration",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Schmidt's Chute / Inspiration",
+   "Chair 4 Snow Ghost Express top",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Chair 4 Snow Ghost Express top",
+   "Inspiration 3",
+   0.9
+  ],
+  [
+   "Inspiration",
+   "Inspiration 3",
+   "Elephant's Graveyard / Inspiration",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Elephant's Graveyard / Inspiration",
+   "Chute / Elephant's Graveyard",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Chute / Elephant's Graveyard",
+   "Inspiration 2",
+   0.6
+  ],
+  [
+   "Inspiration",
+   "Inspiration 2",
+   "No Name / Inspiration",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "No Name / Inspiration",
+   "Cal's Country / Inspiration",
+   0.6
+  ],
+  [
+   "Inspiration",
+   "Cal's Country / Inspiration",
+   "Fault 2 / Inspiration",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Fault 2 / Inspiration",
+   "Elkweed / Inspiration",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Elkweed / Inspiration",
+   "Unnamed run / Friends of Langley",
+   0.7
+  ],
+  [
+   "Inspiration",
+   "Unnamed run / Friends of Langley",
+   "Hogan's / Inspiration",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Hogan's / Inspiration",
+   "Hogan's East / Hogan's",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Hogan's East / Hogan's",
+   "Expressway",
+   2.9
+  ],
+  [
+   "Kodiak",
+   "Caribou",
+   "Kodiak / Whitetail",
+   2.4
+  ],
+  [
+   "North Fork",
+   "North Fork / Lodi Ridge",
+   "Outside Road / North Fork",
+   2.5
+  ],
+  [
+   "North Fork",
+   "Outside Road / North Fork",
+   "Ridge Run / Hidden Meadow 2",
+   2.0
+  ],
+  [
+   "Bench Run",
+   "Bench Run / Toni Matt",
+   "Ptarmigan Bowl / Bench Run",
+   0.5
+  ],
+  [
+   "Bench Run",
+   "Ptarmigan Bowl / Bench Run",
+   "Bench Run 2",
+   1.5
+  ],
+  [
+   "Bench Run",
+   "Bench Run 2",
+   "Larch / Bench Run",
+   0.5
+  ],
+  [
+   "Bench Run",
+   "Larch / Bench Run",
+   "Bench Run",
+   0.7
+  ],
+  [
+   "Bench Run",
+   "Bench Run",
+   "Bench Run / Toni Matt 2",
+   0.5
+  ],
+  [
+   "Upper Mully's",
+   "Chair 2 Swift Creek Express top",
+   "Upper Mully's",
+   0.5
+  ],
+  [
+   "Upper Mully's",
+   "Upper Mully's",
+   "Unnamed run / Lower Mully's",
+   1.1
+  ],
+  [
+   "Chet's Stache",
+   "1000 Turns / The Big Ravine",
+   "Glory Hole 2",
+   1.5
+  ],
+  [
+   "Heep Steep",
+   "Heep Steep / Unnamed run",
+   "Larch / Heep Steep",
+   1.2
+  ],
+  [
+   "Heep Steep",
+   "Larch / Heep Steep",
+   "Unnamed run / Heep Steep",
+   0.6
+  ],
+  [
+   "Stumptown",
+   "Bigfoot T-Bar (T-bar 2) top",
+   "Whiskey Spring",
+   2.9
+  ],
+  [
+   "Powder Trap",
+   "Powder Trap / Unnamed run",
+   "Powder Trap / Corkscrew",
+   2.4
+  ],
+  [
+   "Lodi Ridge",
+   "Bigfoot T-Bar (T-bar 2) top",
+   "Lodi Ridge 2",
+   0.5
+  ],
+  [
+   "Lodi Ridge",
+   "Lodi Ridge 2",
+   "Big Creek / Lodi Ridge",
+   0.5
+  ],
+  [
+   "Lodi Ridge",
+   "Big Creek / Lodi Ridge",
+   "North Fork / Lodi Ridge",
+   0.7
+  ],
+  [
+   "Lodi Ridge",
+   "North Fork / Lodi Ridge",
+   "Unnamed run / Lodi Ridge",
+   0.5
+  ],
+  [
+   "Lodi Ridge",
+   "Unnamed run / Lodi Ridge",
+   "Lodi Ridge 3",
+   0.7
+  ],
+  [
+   "Lodi Ridge",
+   "Lodi Ridge 3",
+   "Lodi Ridge",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Goat Haunt 3",
+   "Goat Haunt",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Goat Haunt",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Ridge Run / Hidden Meadow 2",
+   0.8
+  ],
+  [
+   "First Creek",
+   "First Creek",
+   "First Creek / Moose",
+   1.5
+  ],
+  [
+   "Lynx",
+   "Lodi Ridge 2",
+   "Lodi Ridge 3",
+   1.1
+  ],
+  [
+   "Fault 3",
+   "Fault 2",
+   "Elkweed",
+   1.1
+  ],
+  [
+   "Home Again",
+   "Home Again",
+   "Ski Way / Alpinglow Alley",
+   0.7
+  ],
+  [
+   "Home Again",
+   "Ski Way / Alpinglow Alley",
+   "2nd Street / Central Avenue",
+   0.5
+  ],
+  [
+   "Home Again",
+   "2nd Street / Central Avenue",
+   "Elk Highlands Chair (Private Homeowner Lift) top",
+   3.4
+  ],
+  [
+   "Home Again",
+   "Elk Highlands Chair (Private Homeowner Lift) top",
+   "Tunnel Run / Home Again",
+   3.8
+  ],
+  [
+   "Home Again",
+   "Tunnel Run / Home Again",
+   "Chair 6 Base Lodge bottom",
+   0.6
+  ],
+  [
+   "Huckleberry Patch",
+   "Tunnel Run / Chipmonk",
+   "Expressway 5",
+   1.2
+  ],
+  [
+   "Corkscrew",
+   "Bench Run",
+   "Unnamed run / Heep Steep",
+   0.8
+  ],
+  [
+   "Corkscrew",
+   "Unnamed run / Heep Steep",
+   "Powder Trap / Corkscrew",
+   0.6
+  ],
+  [
+   "Corkscrew",
+   "Powder Trap / Corkscrew",
+   "Corkscrew",
+   1.7
+  ],
+  [
+   "Corkscrew",
+   "Corkscrew",
+   "Unnamed / Corkscrew",
+   1.6
+  ],
+  [
+   "Corkscrew",
+   "Unnamed / Corkscrew",
+   "Under Easy / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Moe Mentum",
+   "North Bowl Face / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "North Bowl Face / Unnamed run",
+   "Elephant's Graveyard / Unnamed run",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Elephant's Graveyard / Unnamed run",
+   "East Rim / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Hailey's",
+   "Unnamed run 5",
+   0.5
+  ],
+  [
+   "Alpinglow Alley",
+   "Chair 3 Tenderfoot top",
+   "Alpinglow Alley",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Powder Trap / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Powder Trap / Unnamed run",
+   "Chute / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Chute / Unnamed run",
+   "Unnamed run 7",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 7",
+   "Heep Steep / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Heep Steep / Unnamed run",
+   "Bench Run 2",
+   0.5
+  ],
+  [
+   "Langley",
+   "Unnamed run / Langley",
+   "Friends of Langley / Langley",
+   2.0
+  ],
+  [
+   "Langley",
+   "Friends of Langley / Langley",
+   "Corkscrew",
+   1.1
+  ],
+  [
+   "Whitetail",
+   "Russ's Street 9",
+   "Marmot / Caribou",
+   1.3
+  ],
+  [
+   "Whitetail",
+   "Marmot / Caribou",
+   "Silvertip / Whitetail",
+   3.5
+  ],
+  [
+   "Whitetail",
+   "Silvertip / Whitetail",
+   "Kodiak / Whitetail",
+   0.6
+  ],
+  [
+   "Whitetail",
+   "Kodiak / Whitetail",
+   "Caribou / Whitetail",
+   1.3
+  ],
+  [
+   "Whitetail",
+   "Caribou / Whitetail",
+   "Whitetail",
+   0.5
+  ],
+  [
+   "Whitetail",
+   "Whitetail",
+   "Chair 7 Big Creek Express bottom",
+   0.6
+  ],
+  [
+   "Toni Matt",
+   "Inspiration",
+   "Schmidt's Chute / Inspiration",
+   0.5
+  ],
+  [
+   "Toni Matt",
+   "Schmidt's Chute / Inspiration",
+   "Ptarmigan Bowl / Toni Matt",
+   0.8
+  ],
+  [
+   "Toni Matt",
+   "Ptarmigan Bowl / Toni Matt",
+   "1000 Turns / The Big Ravine",
+   1.2
+  ],
+  [
+   "Toni Matt",
+   "1000 Turns / The Big Ravine",
+   "Snow Making Ponds / Toni Matt",
+   0.5
+  ],
+  [
+   "Toni Matt",
+   "Snow Making Ponds / Toni Matt",
+   "Bench Run / Toni Matt",
+   0.9
+  ],
+  [
+   "Toni Matt",
+   "Bench Run / Toni Matt",
+   "Snow Making Ponds / Toni Matt 2",
+   0.9
+  ],
+  [
+   "Toni Matt",
+   "Snow Making Ponds / Toni Matt 2",
+   "Bench Run",
+   1.4
+  ],
+  [
+   "Toni Matt",
+   "Bench Run",
+   "Bench Run / Toni Matt 2",
+   0.5
+  ],
+  [
+   "Toni Matt",
+   "Bench Run / Toni Matt 2",
+   "Toni Matt",
+   0.6
+  ],
+  [
+   "Toni Matt",
+   "Toni Matt",
+   "Unnamed run / Toni Matt",
+   0.7
+  ],
+  [
+   "Toni Matt",
+   "Unnamed run / Toni Matt",
+   "Bald Rock / Toni Matt",
+   0.7
+  ],
+  [
+   "Toni Matt",
+   "Bald Rock / Toni Matt",
+   "Middle Fork / Toni Matt",
+   0.8
+  ],
+  [
+   "Toni Matt",
+   "Middle Fork / Toni Matt",
+   "Toni Matt / Russ's Street",
+   0.6
+  ],
+  [
+   "Upper Langley",
+   "Unnamed run / Upper Langley",
+   "Unnamed run / Langley",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Chair 7 Big Creek Express bottom",
+   "Chair 11 Flower Point bottom",
+   0.5
+  ],
+  [
+   "East Rim Face",
+   "Russ's Street 9",
+   "Chair 5 East Rim top",
+   0.5
+  ],
+  [
+   "East Rim Face",
+   "Chair 5 East Rim top",
+   "NBC / Whitey's",
+   0.9
+  ],
+  [
+   "East Rim Face",
+   "NBC / Whitey's",
+   "East Rim Face / Moe Mentum",
+   1.0
+  ],
+  [
+   "Three Stooges",
+   "Three Stooges / Russ's Street 2",
+   "Expressway 6",
+   0.5
+  ],
+  [
+   "Hell Fire",
+   "Hell Fire / Gray Wolf",
+   "Glory Hole / Hell Fire",
+   0.5
+  ],
+  [
+   "Hell Fire",
+   "Glory Hole / Hell Fire",
+   "Slingshot / Hell Fire",
+   0.7
+  ],
+  [
+   "Hell Fire",
+   "Slingshot / Hell Fire",
+   "Picture Chutes / Hell Fire",
+   1.2
+  ],
+  [
+   "Hell Fire",
+   "Picture Chutes / Hell Fire",
+   "Pat's Ride / Hell Fire",
+   0.6
+  ],
+  [
+   "Hell Fire",
+   "Pat's Ride / Hell Fire",
+   "Radjack / Hell Fire",
+   6.9
+  ],
+  [
+   "Hell Fire",
+   "Radjack / Hell Fire",
+   "Chair 8 Hellroaring bottom",
+   2.3
+  ],
+  [
+   "Unnamed run",
+   "Toni Matt",
+   "Unnamed run 6",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 6",
+   "Bald Rock / Toni Matt",
+   0.7
+  ],
+  [
+   "Russ's Street",
+   "Expressway / Russ's Street",
+   "Expressway 3",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Expressway 3",
+   "Expressway 7",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Expressway 7",
+   "Hogan's East / Russ's Street",
+   1.2
+  ],
+  [
+   "Russ's Street",
+   "Hogan's East / Russ's Street",
+   "Hogan's / Three Stooges",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Hogan's / Three Stooges",
+   "Three Stooges / Russ's Street",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Three Stooges / Russ's Street",
+   "Three Stooges / Russ's Street 2",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Three Stooges / Russ's Street 2",
+   "Chair 10 Bad Rock (Intermittent) top",
+   4.1
+  ],
+  [
+   "Russ's Street",
+   "Chair 10 Bad Rock (Intermittent) top",
+   "Toni Matt / Russ's Street",
+   1.3
+  ],
+  [
+   "Russ's Street",
+   "Toni Matt / Russ's Street",
+   "The Big Ravine / Russ's Street",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "The Big Ravine / Russ's Street",
+   "Russ's Street",
+   0.5
+  ],
+  [
+   "Russ's Street",
+   "Russ's Street",
+   "Barndance / Middle Fork",
+   0.5
+  ],
+  [
+   "Movieland",
+   "Hogan's East",
+   "Expressway 7",
+   1.1
+  ],
+  [
+   "Headwall",
+   "Unnamed run 6",
+   "The Big Ravine 2",
+   1.7
+  ],
+  [
+   "Black Bear",
+   "Black Bear / Gray Wolf",
+   "Silvertip / Caribou",
+   2.0
+  ],
+  [
+   "Upper Langley",
+   "Inspiration 2",
+   "Unnamed run 2",
+   1.4
+  ],
+  [
+   "Upper Langley",
+   "Unnamed run 2",
+   "Unnamed run / Upper Langley",
+   0.5
+  ],
+  [
+   "Gray Wolf",
+   "Chair 7 Big Creek Express top",
+   "Black Bear / Gray Wolf",
+   0.5
+  ],
+  [
+   "Gray Wolf",
+   "Black Bear / Gray Wolf",
+   "Hell Fire / Gray Wolf",
+   0.5
+  ],
+  [
+   "Gray Wolf",
+   "Hell Fire / Gray Wolf",
+   "Gray Wolf",
+   4.0
+  ],
+  [
+   "Gray Wolf",
+   "Gray Wolf",
+   "Whitetail",
+   6.2
+  ],
+  [
+   "Moe Mentum",
+   "Marmot / Moe Mentum",
+   "North Bowl Face / Moe Mentum",
+   0.5
+  ],
+  [
+   "Moe Mentum",
+   "North Bowl Face / Moe Mentum",
+   "Russ's Street / Moe Mentum",
+   0.5
+  ],
+  [
+   "Moe Mentum",
+   "Russ's Street / Moe Mentum",
+   "Russ's Street 9",
+   0.5
+  ],
+  [
+   "Moe Mentum",
+   "Russ's Street 9",
+   "Unnamed run / Moe Mentum",
+   1.2
+  ],
+  [
+   "Moe Mentum",
+   "Unnamed run / Moe Mentum",
+   "North Bowl Face / Unnamed run",
+   0.5
+  ],
+  [
+   "Moe Mentum",
+   "North Bowl Face / Unnamed run",
+   "East Rim Face / Moe Mentum",
+   0.5
+  ],
+  [
+   "Moe Mentum",
+   "East Rim Face / Moe Mentum",
+   "East Rim / Unnamed run",
+   0.9
+  ],
+  [
+   "Moe Mentum",
+   "East Rim / Unnamed run",
+   "No Name / Moe Mentum",
+   0.6
+  ],
+  [
+   "Moe Mentum",
+   "No Name / Moe Mentum",
+   "Whitey's / Moe Mentum",
+   0.7
+  ],
+  [
+   "Moe Mentum",
+   "Whitey's / Moe Mentum",
+   "Chair 5 East Rim bottom",
+   0.5
+  ],
+  [
+   "The Depot",
+   "Ranger Trail",
+   "Ranger Trail / Ski Way",
+   0.5
+  ],
+  [
+   "The Depot",
+   "Ranger Trail / Ski Way",
+   "Chair 3 Tenderfoot bottom",
+   1.2
+  ],
+  [
+   "Moose",
+   "Russ's Street 10",
+   "Don's Descent / Moose",
+   0.6
+  ],
+  [
+   "Moose",
+   "Don's Descent / Moose",
+   "First Creek / Moose",
+   0.8
+  ],
+  [
+   "Moose",
+   "First Creek / Moose",
+   "NBC / Moose",
+   0.6
+  ],
+  [
+   "Moose",
+   "NBC / Moose",
+   "Evan's Heaven / Moose",
+   0.5
+  ],
+  [
+   "Moose",
+   "Evan's Heaven / Moose",
+   "Russ's Street 11",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Ed's Run 2",
+   "The Big Ravine / Russ's Street",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "The Big Ravine / Russ's Street",
+   "Russ's Street",
+   0.5
+  ],
+  [
+   "Over Easy",
+   "Under Easy / Over Easy",
+   "Chair 9 Easy Rider top",
+   0.5
+  ],
+  [
+   "Over Easy",
+   "Chair 9 Easy Rider top",
+   "Under Easy",
+   0.5
+  ],
+  [
+   "Interstate",
+   "1000 Turns / The Big Ravine 2",
+   "Sandi's / Interstate",
+   0.8
+  ],
+  [
+   "Interstate",
+   "Sandi's / Interstate",
+   "Upper Mully's",
+   1.1
+  ],
+  [
+   "Caribou Cut-Across",
+   "Gray Wolf",
+   "Caribou 2",
+   1.4
+  ],
+  [
+   "Hellroaring",
+   "Ed's Run 3",
+   "Hibernation / Hellroaring",
+   0.6
+  ],
+  [
+   "Hellroaring",
+   "Hibernation / Hellroaring",
+   "Hibernation / Hellroaring 2",
+   3.2
+  ],
+  [
+   "Hellroaring",
+   "Hibernation / Hellroaring 2",
+   "Ed's Run 2",
+   0.5
+  ],
+  [
+   "Big Face",
+   "Inspiration 3",
+   "Unnamed run 7",
+   2.2
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Heratage T-Bar (Intermittent) top",
+   "Ranger Trail / Home Again",
+   1.5
+  ],
+  [
+   "walk",
+   "Slalom / Ed's Run",
+   "Chair 2 Swift Creek Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Slalom / Ed's Run",
+   "Heratage T-Bar (Intermittent) bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Slalom / Ed's Run",
+   "Chair 3 Tenderfoot bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Slalom / Ed's Run",
+   "Chair 1 Big Mountain Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Chair 2 Swift Creek Express top",
+   "Upper Mully's",
+   2.1
+  ],
+  [
+   "walk",
+   "Chair 2 Swift Creek Express top",
+   "Ed's Run 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Chair 11 Flower Point bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Russ's Street",
+   "Chair 2 Swift Creek Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Russ's Street",
+   "Chair 6 Base Lodge top",
+   1.9
+  ],
+  [
+   "walk",
+   "Russ's Street",
+   "Chair 1 Big Mountain Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Chair 2 Swift Creek Express bottom",
+   "Tunnel Run / Chipmonk",
+   2.2
+  ],
+  [
+   "walk",
+   "Chair 2 Swift Creek Express bottom",
+   "Barndance / Middle Fork",
+   1.7
+  ],
+  [
+   "walk",
+   "Chair 2 Swift Creek Express bottom",
+   "Chair 6 Base Lodge top",
+   1.3
+  ],
+  [
+   "walk",
+   "Chair 2 Swift Creek Express bottom",
+   "Chair 1 Big Mountain Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "1000 Turns / The Big Ravine",
+   "Chair 8 Hellroaring top",
+   0.6
+  ],
+  [
+   "walk",
+   "Tunnel Run / Chipmonk",
+   "Chair 6 Base Lodge top",
+   0.9
+  ],
+  [
+   "walk",
+   "Tunnel Run / Chipmonk",
+   "Chair 1 Big Mountain Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Tunnel Run / Home Again",
+   "Chair 6 Base Lodge bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Tunnel Run / Home Again",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Heratage T-Bar (Intermittent) bottom",
+   "Slalom / Ed's Run",
+   1.1
+  ],
+  [
+   "walk",
+   "Heratage T-Bar (Intermittent) bottom",
+   "Chair 2 Swift Creek Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Heratage T-Bar (Intermittent) bottom",
+   "Chair 3 Tenderfoot bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Ridge Run / Hidden Meadow",
+   "Chair 11 Flower Point top",
+   0.9
+  ],
+  [
+   "walk",
+   "Ridge Run / Hidden Meadow 2",
+   "Chair 11 Flower Point bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Under Easy / Over Easy",
+   "Chair 9 Easy Rider top",
+   0.7
+  ],
+  [
+   "walk",
+   "Under Easy / Unnamed run",
+   "2 Easy Carpet top",
+   3.1
+  ],
+  [
+   "walk",
+   "Chair 11 Flower Point bottom",
+   "Ridge Run / Hidden Meadow 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Chair 11 Flower Point bottom",
+   "Chair 7 Big Creek Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Expressway",
+   "Chair 9 Easy Rider top",
+   1.9
+  ],
+  [
+   "walk",
+   "Barndance / Middle Fork",
+   "Chair 2 Swift Creek Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Barndance / Middle Fork",
+   "Chair 6 Base Lodge top",
+   0.7
+  ],
+  [
+   "walk",
+   "Barndance / Middle Fork",
+   "Chair 1 Big Mountain Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Big Easy Carpet bottom",
+   "Big Easy Carpet top",
+   1.4
+  ],
+  [
+   "walk",
+   "Big Easy Carpet bottom",
+   "Chair 6 Base Lodge bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Big Easy Carpet bottom",
+   "Unnamed run / Inspiration",
+   2.5
+  ],
+  [
+   "walk",
+   "Big Easy Carpet bottom",
+   "Chair 9 Easy Rider bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Big Easy Carpet bottom",
+   "Expressway 5",
+   1.7
+  ],
+  [
+   "walk",
+   "Big Easy Carpet bottom",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Chair 11 Flower Point top",
+   "Ridge Run / Hidden Meadow",
+   0.9
+  ],
+  [
+   "walk",
+   "Chair 11 Flower Point top",
+   "Inside Road",
+   1.6
+  ],
+  [
+   "walk",
+   "Lodi Ridge / Russ's Street",
+   "Bigfoot T-Bar (T-bar 2) bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Hailey's / Central Avenue",
+   "Chair 3 Tenderfoot bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Chair 7 Big Creek Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Chair 5 East Rim top",
+   3.3
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Chair 1 Big Mountain Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider top",
+   "Under Easy / Over Easy",
+   0.7
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider top",
+   "Under Easy / Unnamed run",
+   3.4
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider top",
+   "Unnamed / Corkscrew",
+   3.1
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider top",
+   "Under Easy",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed Cat Track / Expressway",
+   "Big Easy Carpet top",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed Cat Track / Expressway",
+   "2 Easy Carpet top",
+   1.7
+  ],
+  [
+   "walk",
+   "Big Easy Carpet top",
+   "Big Easy Carpet bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Big Easy Carpet top",
+   "Chair 6 Base Lodge bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Big Easy Carpet top",
+   "Unnamed run / Inspiration",
+   1.9
+  ],
+  [
+   "walk",
+   "Big Easy Carpet top",
+   "Chair 9 Easy Rider bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Big Easy Carpet top",
+   "Expressway 5",
+   1.7
+  ],
+  [
+   "walk",
+   "Big Easy Carpet top",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Big Easy Carpet top",
+   "2 Easy Carpet top",
+   1.2
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge top",
+   "Chair 2 Swift Creek Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge top",
+   "Tunnel Run / Chipmonk",
+   0.9
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge top",
+   "Barndance / Middle Fork",
+   0.7
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge top",
+   "Chair 1 Big Mountain Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge bottom",
+   "Tunnel Run / Home Again",
+   2.0
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge bottom",
+   "Big Easy Carpet bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge bottom",
+   "Chair 9 Easy Rider bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge bottom",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "The Big Ravine / Russ's Street",
+   "Chair 2 Swift Creek Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "The Big Ravine / Russ's Street",
+   "Chair 6 Base Lodge top",
+   2.7
+  ],
+  [
+   "walk",
+   "The Big Ravine / Russ's Street",
+   "Chair 1 Big Mountain Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Glory Hole, Lacy Lane / Lacy Lane",
+   "Chair 8 Hellroaring bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed / Corkscrew",
+   "2 Easy Carpet top",
+   3.2
+  ],
+  [
+   "walk",
+   "Barndance",
+   "Big Easy Carpet top",
+   2.6
+  ],
+  [
+   "walk",
+   "Barndance",
+   "2 Easy Carpet top",
+   1.4
+  ],
+  [
+   "walk",
+   "Russ's Street / Moe Mentum",
+   "Chair 5 East Rim top",
+   1.9
+  ],
+  [
+   "walk",
+   "Whitey's / Moe Mentum",
+   "Chair 5 East Rim bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Evan's Heaven / Lee's Way",
+   "Bigfoot T-Bar (T-bar 2) bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Bigfoot T-Bar (T-bar 2) top",
+   "Big Creek / Lodi Ridge",
+   2.0
+  ],
+  [
+   "walk",
+   "Bigfoot T-Bar (T-bar 2) top",
+   "Lodi Ridge 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Snow Making Ponds / Toni Matt",
+   "Chair 8 Hellroaring top",
+   1.0
+  ],
+  [
+   "walk",
+   "Ranger Trail / Home Again",
+   "Heratage T-Bar (Intermittent) top",
+   1.5
+  ],
+  [
+   "walk",
+   "Russ's Street 3",
+   "Bigfoot T-Bar (T-bar 2) bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express bottom",
+   "Chair 11 Flower Point bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express bottom",
+   "Whitetail",
+   2.1
+  ],
+  [
+   "walk",
+   "Schmidt's Chute / Inspiration",
+   "Chair 4 Snow Ghost Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Inspiration",
+   "Big Easy Carpet bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Inspiration",
+   "Big Easy Carpet top",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Inspiration",
+   "Chair 9 Easy Rider bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Inspiration",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Inspiration",
+   "2 Easy Carpet top",
+   1.7
+  ],
+  [
+   "walk",
+   "Ed's Run",
+   "Heratage T-Bar (Intermittent) bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Russ's Street 7",
+   "Chair 5 East Rim bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Central Avenue / Alpinglow Alley",
+   "Chair 3 Tenderfoot top",
+   1.5
+  ],
+  [
+   "walk",
+   "Chair 3 Tenderfoot bottom",
+   "Slalom / Ed's Run",
+   2.6
+  ],
+  [
+   "walk",
+   "Chair 3 Tenderfoot bottom",
+   "Heratage T-Bar (Intermittent) bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Chair 3 Tenderfoot bottom",
+   "Unnamed run 5",
+   3.5
+  ],
+  [
+   "walk",
+   "Middle Fork / Toni Matt",
+   "Chair 10 Bad Rock (Intermittent) top",
+   2.4
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Chair 7 Big Creek Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Chair 1 Big Mountain Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Chair 4 Snow Ghost Express top",
+   3.0
+  ],
+  [
+   "walk",
+   "Bald Rock / Toni Matt",
+   "Chair 10 Bad Rock (Intermittent) top",
+   3.0
+  ],
+  [
+   "walk",
+   "Barndance 2",
+   "Big Easy Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Barndance 2",
+   "Big Easy Carpet top",
+   1.7
+  ],
+  [
+   "walk",
+   "Barndance 2",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Barndance 2",
+   "2 Easy Carpet top",
+   0.8
+  ],
+  [
+   "walk",
+   "Caribou / Whitetail",
+   "Chair 7 Big Creek Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Wing and a Prayer",
+   "Lacy Lane",
+   1.7
+  ],
+  [
+   "walk",
+   "Russ's Street 8",
+   "Bigfoot T-Bar (T-bar 2) bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Bigfoot T-Bar (T-bar 2) bottom",
+   "Lodi Ridge / Russ's Street",
+   2.2
+  ],
+  [
+   "walk",
+   "Chair 3 Tenderfoot top",
+   "2nd Street / Central Avenue",
+   2.5
+  ],
+  [
+   "walk",
+   "Chair 3 Tenderfoot top",
+   "Central Avenue / Alpinglow Alley",
+   1.5
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider bottom",
+   "Big Easy Carpet bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider bottom",
+   "Chair 6 Base Lodge bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider bottom",
+   "Unnamed run / Inspiration",
+   2.6
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider bottom",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "North Bowl Face / Moe Mentum",
+   "Chair 5 East Rim top",
+   2.8
+  ],
+  [
+   "walk",
+   "Lodi Ridge 2",
+   "Bigfoot T-Bar (T-bar 2) top",
+   0.9
+  ],
+  [
+   "walk",
+   "Expressway 5",
+   "Big Easy Carpet bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Expressway 5",
+   "Big Easy Carpet top",
+   1.7
+  ],
+  [
+   "walk",
+   "Expressway 5",
+   "Chair 6 Base Lodge bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Expressway 5",
+   "Chair 9 Easy Rider bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Expressway 5",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Expressway 5",
+   "2 Easy Carpet top",
+   2.6
+  ],
+  [
+   "walk",
+   "Hailey's",
+   "Chair 3 Tenderfoot bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Chair 3 Tenderfoot bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Russ's Street 9",
+   "Chair 5 East Rim top",
+   1.2
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "Chair 7 Big Creek Express top",
+   2.3
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "Chair 1 Big Mountain Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "Chair 4 Snow Ghost Express top",
+   2.3
+  ],
+  [
+   "walk",
+   "Toni Matt / Russ's Street",
+   "Chair 2 Swift Creek Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Toni Matt / Russ's Street",
+   "Chair 6 Base Lodge top",
+   3.2
+  ],
+  [
+   "walk",
+   "Toni Matt / Russ's Street",
+   "Chair 1 Big Mountain Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "Chair 7 Big Creek Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "Chair 1 Big Mountain Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Marmot / Moe Mentum",
+   1.3
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Russ's Street / Moe Mentum",
+   2.8
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Schmidt's Chute / Inspiration",
+   3.2
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Connie's Coulee / Inspiration",
+   1.6
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "North Bowl Face / Moe Mentum",
+   1.8
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Inspiration",
+   2.3
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Hell Fire / Gray Wolf",
+   2.8
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Black Bear / Gray Wolf",
+   1.0
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Chair 1 Big Mountain Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Whitetail",
+   "Chair 7 Big Creek Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Chair 5 East Rim bottom",
+   "Whitey's / Moe Mentum",
+   1.6
+  ],
+  [
+   "walk",
+   "Chair 5 East Rim bottom",
+   "Russ's Street 7",
+   0.6
+  ],
+  [
+   "walk",
+   "Chair 5 East Rim bottom",
+   "Russ's Street 11",
+   1.9
+  ],
+  [
+   "walk",
+   "Russ's Street 11",
+   "Chair 5 East Rim bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Ed's Run 3",
+   "Chair 2 Swift Creek Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Chair 5 East Rim top",
+   "NBC / Whitey's",
+   3.3
+  ],
+  [
+   "walk",
+   "Chair 5 East Rim top",
+   "Russ's Street / Moe Mentum",
+   1.9
+  ],
+  [
+   "walk",
+   "Chair 5 East Rim top",
+   "Russ's Street 5",
+   1.5
+  ],
+  [
+   "walk",
+   "Chair 5 East Rim top",
+   "Russ's Street 6",
+   2.1
+  ],
+  [
+   "walk",
+   "Chair 5 East Rim top",
+   "Goat Haunt 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Chair 5 East Rim top",
+   "First Creek",
+   0.8
+  ],
+  [
+   "walk",
+   "Chair 5 East Rim top",
+   "Russ's Street 9",
+   1.2
+  ],
+  [
+   "walk",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "Tunnel Run / Home Again",
+   2.8
+  ],
+  [
+   "walk",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "Big Easy Carpet bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "Big Easy Carpet top",
+   1.7
+  ],
+  [
+   "walk",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "Chair 6 Base Lodge bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "Unnamed run / Inspiration",
+   3.3
+  ],
+  [
+   "walk",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "Chair 9 Easy Rider bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "Expressway 5",
+   0.9
+  ],
+  [
+   "walk",
+   "Chair 10 Bad Rock (Intermittent) top",
+   "Middle Fork / Toni Matt",
+   2.4
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express bottom",
+   "Chair 2 Swift Creek Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express bottom",
+   "Tunnel Run / Chipmonk",
+   1.5
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express bottom",
+   "Barndance / Middle Fork",
+   0.8
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express bottom",
+   "Chair 6 Base Lodge top",
+   0.6
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Marmot / Moe Mentum",
+   1.4
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Russ's Street / Moe Mentum",
+   2.9
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Schmidt's Chute / Inspiration",
+   2.6
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Connie's Coulee / Inspiration",
+   1.0
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "North Bowl Face / Moe Mentum",
+   2.0
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Inspiration",
+   1.7
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Hell Fire / Gray Wolf",
+   3.2
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Black Bear / Gray Wolf",
+   1.6
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Chair 7 Big Creek Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "2 Easy Carpet top",
+   "Under Easy / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "2 Easy Carpet top",
+   "Big Easy Carpet bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "2 Easy Carpet top",
+   "Big Easy Carpet top",
+   1.2
+  ],
+  [
+   "walk",
+   "2 Easy Carpet top",
+   "Unnamed / Corkscrew",
+   3.2
+  ],
+  [
+   "walk",
+   "2 Easy Carpet top",
+   "Barndance",
+   1.4
+  ],
+  [
+   "walk",
+   "2 Easy Carpet top",
+   "Unnamed run / Inspiration",
+   1.7
+  ],
+  [
+   "walk",
+   "2 Easy Carpet top",
+   "Chair 9 Easy Rider bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "2 Easy Carpet top",
+   "Expressway 5",
+   2.6
+  ],
+  [
+   "walk",
+   "2 Easy Carpet top",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Chair 4 Snow Ghost Express top",
+   "Ptarmigan Bowl / Toni Matt",
+   1.7
+  ],
+  [
+   "walk",
+   "Chair 4 Snow Ghost Express top",
+   "Schmidt's Chute / Inspiration",
+   1.4
+  ],
+  [
+   "walk",
+   "Chair 4 Snow Ghost Express top",
+   "Connie's Coulee / Inspiration",
+   3.0
+  ],
+  [
+   "walk",
+   "Chair 4 Snow Ghost Express top",
+   "Inspiration",
+   2.3
+  ],
+  [
+   "walk",
+   "Chair 4 Snow Ghost Express top",
+   "Inspiration 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Chair 8 Hellroaring top",
+   "1000 Turns / The Big Ravine",
+   0.6
+  ],
+  [
+   "walk",
+   "Chair 8 Hellroaring top",
+   "Snow Making Ponds / Toni Matt",
+   1.0
+  ],
+  [
+   "walk",
+   "Heratage T-Bar (Intermittent) bottom",
+   "Chair 1 Big Mountain Express bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Chair 3 Tenderfoot bottom",
+   "Chair 2 Swift Creek Express bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Chair 3 Tenderfoot bottom",
+   "Chair 1 Big Mountain Express bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Ed's Run 3",
+   "Upper Mully's",
+   3.6
+  ],
+  [
+   "walk",
+   "Slalom / Ed's Run",
+   "Tunnel Run / Chipmonk",
+   4.8
+  ],
+  [
+   "walk",
+   "Slalom / Ed's Run",
+   "Barndance / Middle Fork",
+   4.2
+  ],
+  [
+   "walk",
+   "Slalom / Ed's Run",
+   "Chair 6 Base Lodge top",
+   3.9
+  ],
+  [
+   "walk",
+   "Russ's Street",
+   "Tunnel Run / Chipmonk",
+   2.8
+  ],
+  [
+   "walk",
+   "Russ's Street",
+   "Barndance / Middle Fork",
+   2.1
+  ],
+  [
+   "walk",
+   "Heratage T-Bar (Intermittent) bottom",
+   "Tunnel Run / Chipmonk",
+   5.6
+  ],
+  [
+   "walk",
+   "Heratage T-Bar (Intermittent) bottom",
+   "Barndance / Middle Fork",
+   5.1
+  ],
+  [
+   "walk",
+   "Heratage T-Bar (Intermittent) bottom",
+   "Chair 6 Base Lodge top",
+   4.7
+  ],
+  [
+   "walk",
+   "Barndance / Middle Fork",
+   "Tunnel Run / Chipmonk",
+   1.6
+  ],
+  [
+   "walk",
+   "The Big Ravine / Russ's Street",
+   "Tunnel Run / Chipmonk",
+   3.6
+  ],
+  [
+   "walk",
+   "The Big Ravine / Russ's Street",
+   "Barndance / Middle Fork",
+   2.9
+  ],
+  [
+   "walk",
+   "Toni Matt / Russ's Street",
+   "Tunnel Run / Chipmonk",
+   4.1
+  ],
+  [
+   "walk",
+   "Toni Matt / Russ's Street",
+   "Barndance / Middle Fork",
+   3.6
+  ],
+  [
+   "walk",
+   "Chair 3 Tenderfoot bottom",
+   "Barndance / Middle Fork",
+   6.8
+  ],
+  [
+   "walk",
+   "Chair 3 Tenderfoot bottom",
+   "Chair 6 Base Lodge top",
+   6.4
+  ],
+  [
+   "walk",
+   "Ed's Run",
+   "Slalom / Ed's Run",
+   3.7
+  ],
+  [
+   "walk",
+   "Ed's Run",
+   "Chair 2 Swift Creek Express bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Ed's Run",
+   "Chair 3 Tenderfoot bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Ed's Run",
+   "Chair 1 Big Mountain Express bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider top",
+   "2 Easy Carpet top",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Ridge Run / Hidden Meadow 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Chair 7 Big Creek Express bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Ridge Run / Hidden Meadow 2",
+   "Chair 7 Big Creek Express bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express bottom",
+   "Ridge Run / Hidden Meadow 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge bottom",
+   "Big Easy Carpet top",
+   2.5
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge bottom",
+   "Unnamed run / Inspiration",
+   4.1
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge bottom",
+   "Expressway 5",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Inspiration",
+   "Chair 6 Base Lodge bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Inspiration",
+   "Expressway 5",
+   3.5
+  ],
+  [
+   "walk",
+   "Barndance 2",
+   "Chair 6 Base Lodge bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Barndance 2",
+   "Unnamed run / Inspiration",
+   2.5
+  ],
+  [
+   "walk",
+   "Barndance 2",
+   "Chair 9 Easy Rider bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Barndance 2",
+   "Expressway 5",
+   3.4
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider bottom",
+   "Big Easy Carpet top",
+   2.5
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider bottom",
+   "Expressway 5",
+   2.8
+  ],
+  [
+   "walk",
+   "Expressway 5",
+   "Unnamed run / Inspiration",
+   3.5
+  ],
+  [
+   "walk",
+   "2 Easy Carpet top",
+   "Chair 6 Base Lodge bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Ridge Run / Hidden Meadow",
+   "Inside Road",
+   2.6
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Chair 5 East Rim top",
+   4.6
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Chair 5 East Rim top",
+   4.8
+  ],
+  [
+   "walk",
+   "Under Easy / Over Easy",
+   "Under Easy / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Under Easy / Over Easy",
+   "Unnamed / Corkscrew",
+   3.8
+  ],
+  [
+   "walk",
+   "Under Easy / Over Easy",
+   "Under Easy",
+   2.5
+  ],
+  [
+   "walk",
+   "Expressway",
+   "Under Easy / Over Easy",
+   2.6
+  ],
+  [
+   "walk",
+   "Expressway",
+   "Under Easy / Unnamed run",
+   5.3
+  ],
+  [
+   "walk",
+   "Expressway",
+   "Unnamed / Corkscrew",
+   5.0
+  ],
+  [
+   "walk",
+   "Expressway",
+   "Under Easy",
+   3.7
+  ],
+  [
+   "walk",
+   "Big Easy Carpet bottom",
+   "2 Easy Carpet top",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed Cat Track / Expressway",
+   "Big Easy Carpet bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed Cat Track / Expressway",
+   "Chair 6 Base Lodge bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed Cat Track / Expressway",
+   "Unnamed run / Inspiration",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed Cat Track / Expressway",
+   "Chair 9 Easy Rider bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed Cat Track / Expressway",
+   "Expressway 5",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed Cat Track / Expressway",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Barndance",
+   "Big Easy Carpet bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Barndance",
+   "Chair 6 Base Lodge bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Barndance",
+   "Unnamed run / Inspiration",
+   3.1
+  ],
+  [
+   "walk",
+   "Barndance",
+   "Chair 9 Easy Rider bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Barndance",
+   "Expressway 5",
+   4.0
+  ],
+  [
+   "walk",
+   "Barndance",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "2 Easy Carpet top",
+   2.9
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge bottom",
+   "2 Easy Carpet top",
+   3.7
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider bottom",
+   "2 Easy Carpet top",
+   3.7
+  ],
+  [
+   "walk",
+   "Tunnel Run / Chipmonk",
+   "Chair 2 Swift Creek Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Tunnel Run / Chipmonk",
+   "Barndance / Middle Fork",
+   1.6
+  ],
+  [
+   "walk",
+   "Tunnel Run / Home Again",
+   "Big Easy Carpet bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Tunnel Run / Home Again",
+   "Chair 9 Easy Rider bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Tunnel Run / Home Again",
+   "Big Easy Carpet top",
+   4.5
+  ],
+  [
+   "walk",
+   "Tunnel Run / Home Again",
+   "Unnamed run / Inspiration",
+   6.1
+  ],
+  [
+   "walk",
+   "Tunnel Run / Home Again",
+   "Expressway 5",
+   3.8
+  ],
+  [
+   "walk",
+   "Tunnel Run / Home Again",
+   "2 Easy Carpet top",
+   5.7
+  ],
+  [
+   "walk",
+   "Big Easy Carpet bottom",
+   "Tunnel Run / Home Again",
+   3.6
+  ],
+  [
+   "walk",
+   "Big Easy Carpet top",
+   "Tunnel Run / Home Again",
+   4.5
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider bottom",
+   "Tunnel Run / Home Again",
+   4.2
+  ],
+  [
+   "walk",
+   "Expressway 5",
+   "Tunnel Run / Home Again",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Inspiration",
+   "Tunnel Run / Home Again",
+   6.1
+  ],
+  [
+   "walk",
+   "Barndance 2",
+   "Tunnel Run / Home Again",
+   6.1
+  ],
+  [
+   "walk",
+   "2 Easy Carpet top",
+   "Tunnel Run / Home Again",
+   5.7
+  ],
+  [
+   "walk",
+   "Lodi Ridge 2",
+   "Big Creek / Lodi Ridge",
+   2.9
+  ],
+  [
+   "walk",
+   "Chair 11 Flower Point bottom",
+   "Whitetail",
+   4.5
+  ],
+  [
+   "walk",
+   "Caribou / Whitetail",
+   "Chair 11 Flower Point bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Caribou / Whitetail",
+   "Whitetail",
+   5.3
+  ],
+  [
+   "walk",
+   "Whitetail",
+   "Chair 11 Flower Point bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Whitetail",
+   "Ridge Run / Hidden Meadow 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Ridge Run / Hidden Meadow 2",
+   "Whitetail",
+   6.2
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Chair 4 Snow Ghost Express top",
+   4.6
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Chair 4 Snow Ghost Express top",
+   3.9
+  ],
+  [
+   "walk",
+   "Slalom / Ed's Run",
+   "Unnamed run 5",
+   6.0
+  ],
+  [
+   "walk",
+   "Heratage T-Bar (Intermittent) bottom",
+   "Unnamed run 5",
+   5.1
+  ],
+  [
+   "walk",
+   "Hailey's / Central Avenue",
+   "Slalom / Ed's Run",
+   5.3
+  ],
+  [
+   "walk",
+   "Hailey's / Central Avenue",
+   "Heratage T-Bar (Intermittent) bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Hailey's / Central Avenue",
+   "Unnamed run 5",
+   6.2
+  ],
+  [
+   "walk",
+   "Hailey's",
+   "Slalom / Ed's Run",
+   5.8
+  ],
+  [
+   "walk",
+   "Hailey's",
+   "Heratage T-Bar (Intermittent) bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Hailey's",
+   "Unnamed run 5",
+   6.7
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Slalom / Ed's Run",
+   6.0
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Heratage T-Bar (Intermittent) bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Chair 4 Snow Ghost Express top",
+   "Chair 7 Big Creek Express top",
+   4.6
+  ],
+  [
+   "walk",
+   "Chair 4 Snow Ghost Express top",
+   "Chair 1 Big Mountain Express top",
+   3.9
+  ],
+  [
+   "walk",
+   "Evan's Heaven / Lee's Way",
+   "Lodi Ridge / Russ's Street",
+   5.3
+  ],
+  [
+   "walk",
+   "Russ's Street 3",
+   "Lodi Ridge / Russ's Street",
+   5.6
+  ],
+  [
+   "walk",
+   "Russ's Street 8",
+   "Lodi Ridge / Russ's Street",
+   4.0
+  ],
+  [
+   "walk",
+   "Central Avenue / Alpinglow Alley",
+   "2nd Street / Central Avenue",
+   4.0
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Russ's Street / Moe Mentum",
+   4.0
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Schmidt's Chute / Inspiration",
+   4.0
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Connie's Coulee / Inspiration",
+   2.4
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "North Bowl Face / Moe Mentum",
+   3.1
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Inspiration",
+   3.1
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Hell Fire / Gray Wolf",
+   4.0
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Black Bear / Gray Wolf",
+   2.3
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Chair 4 Snow Ghost Express top",
+   5.4
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Marmot / Moe Mentum",
+   2.4
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Russ's Street / Moe Mentum",
+   3.9
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Schmidt's Chute / Inspiration",
+   3.5
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "North Bowl Face / Moe Mentum",
+   3.0
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Inspiration",
+   2.7
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Hell Fire / Gray Wolf",
+   4.2
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Black Bear / Gray Wolf",
+   2.5
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Chair 5 East Rim top",
+   5.7
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "Marmot / Moe Mentum",
+   3.1
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "Russ's Street / Moe Mentum",
+   4.6
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "Schmidt's Chute / Inspiration",
+   3.7
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "Connie's Coulee / Inspiration",
+   2.7
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "North Bowl Face / Moe Mentum",
+   3.7
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "Hell Fire / Gray Wolf",
+   4.9
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "Black Bear / Gray Wolf",
+   3.3
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "Chair 5 East Rim top",
+   6.5
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "Marmot / Moe Mentum",
+   2.3
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "Russ's Street / Moe Mentum",
+   3.8
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "Schmidt's Chute / Inspiration",
+   4.2
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "Connie's Coulee / Inspiration",
+   2.5
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "North Bowl Face / Moe Mentum",
+   2.8
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "Inspiration",
+   3.3
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "Hell Fire / Gray Wolf",
+   3.8
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "Chair 5 East Rim top",
+   5.6
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "Chair 4 Snow Ghost Express top",
+   5.5
+  ],
+  [
+   "walk",
+   "Chair 4 Snow Ghost Express top",
+   "Marmot / Moe Mentum",
+   5.4
+  ],
+  [
+   "walk",
+   "Chair 4 Snow Ghost Express top",
+   "North Bowl Face / Moe Mentum",
+   5.9
+  ],
+  [
+   "walk",
+   "Chair 4 Snow Ghost Express top",
+   "Black Bear / Gray Wolf",
+   5.5
+  ],
+  [
+   "walk",
+   "Whitey's / Moe Mentum",
+   "Russ's Street 7",
+   2.2
+  ],
+  [
+   "walk",
+   "Whitey's / Moe Mentum",
+   "Russ's Street 11",
+   3.5
+  ],
+  [
+   "walk",
+   "Russ's Street 7",
+   "Whitey's / Moe Mentum",
+   2.2
+  ],
+  [
+   "walk",
+   "Russ's Street 7",
+   "Russ's Street 11",
+   2.4
+  ],
+  [
+   "walk",
+   "Russ's Street 11",
+   "Whitey's / Moe Mentum",
+   3.5
+  ],
+  [
+   "walk",
+   "Russ's Street 11",
+   "Russ's Street 7",
+   2.4
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "NBC / Whitey's",
+   6.6
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Russ's Street 5",
+   4.8
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Russ's Street 6",
+   5.4
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Goat Haunt 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "First Creek",
+   4.2
+  ],
+  [
+   "walk",
+   "Marmot / Moe Mentum",
+   "Russ's Street 9",
+   4.5
+  ],
+  [
+   "walk",
+   "Russ's Street / Moe Mentum",
+   "NBC / Whitey's",
+   5.2
+  ],
+  [
+   "walk",
+   "Russ's Street / Moe Mentum",
+   "Russ's Street 5",
+   3.4
+  ],
+  [
+   "walk",
+   "Russ's Street / Moe Mentum",
+   "Russ's Street 6",
+   4.0
+  ],
+  [
+   "walk",
+   "Russ's Street / Moe Mentum",
+   "Goat Haunt 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Russ's Street / Moe Mentum",
+   "First Creek",
+   2.7
+  ],
+  [
+   "walk",
+   "Russ's Street / Moe Mentum",
+   "Russ's Street 9",
+   3.1
+  ],
+  [
+   "walk",
+   "North Bowl Face / Moe Mentum",
+   "NBC / Whitey's",
+   6.1
+  ],
+  [
+   "walk",
+   "North Bowl Face / Moe Mentum",
+   "Russ's Street / Moe Mentum",
+   4.7
+  ],
+  [
+   "walk",
+   "North Bowl Face / Moe Mentum",
+   "Russ's Street 5",
+   4.2
+  ],
+  [
+   "walk",
+   "North Bowl Face / Moe Mentum",
+   "Russ's Street 6",
+   4.9
+  ],
+  [
+   "walk",
+   "North Bowl Face / Moe Mentum",
+   "Goat Haunt 2",
+   5.4
+  ],
+  [
+   "walk",
+   "North Bowl Face / Moe Mentum",
+   "First Creek",
+   3.6
+  ],
+  [
+   "walk",
+   "North Bowl Face / Moe Mentum",
+   "Russ's Street 9",
+   4.0
+  ],
+  [
+   "walk",
+   "Russ's Street 9",
+   "NBC / Whitey's",
+   4.5
+  ],
+  [
+   "walk",
+   "Russ's Street 9",
+   "Russ's Street / Moe Mentum",
+   3.1
+  ],
+  [
+   "walk",
+   "Russ's Street 9",
+   "Russ's Street 5",
+   2.6
+  ],
+  [
+   "walk",
+   "Russ's Street 9",
+   "Russ's Street 6",
+   3.3
+  ],
+  [
+   "walk",
+   "Russ's Street 9",
+   "Goat Haunt 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Russ's Street 9",
+   "First Creek",
+   2.0
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Russ's Street 5",
+   6.1
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Russ's Street 6",
+   6.7
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "First Creek",
+   5.4
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Russ's Street 9",
+   5.8
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Russ's Street 5",
+   6.2
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Russ's Street 6",
+   6.8
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "First Creek",
+   5.6
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Russ's Street 9",
+   5.9
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "First Creek",
+   6.5
+  ],
+  [
+   "walk",
+   "Black Bear / Gray Wolf",
+   "Russ's Street 9",
+   6.8
+  ],
+  [
+   "walk",
+   "Bald Rock / Toni Matt",
+   "Middle Fork / Toni Matt",
+   5.3
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "First Creek",
+   6.6
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Russ's Street 9",
+   6.9
+  ],
+  [
+   "walk",
+   "Chair 4 Snow Ghost Express top",
+   "Russ's Street / Moe Mentum",
+   6.9
+  ],
+  [
+   "walk",
+   "Under Easy / Unnamed run",
+   "Big Easy Carpet bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Under Easy / Unnamed run",
+   "Big Easy Carpet top",
+   4.3
+  ],
+  [
+   "walk",
+   "Under Easy / Unnamed run",
+   "Unnamed / Corkscrew",
+   6.2
+  ],
+  [
+   "walk",
+   "Under Easy / Unnamed run",
+   "Barndance",
+   4.5
+  ],
+  [
+   "walk",
+   "Under Easy / Unnamed run",
+   "Unnamed run / Inspiration",
+   4.8
+  ],
+  [
+   "walk",
+   "Under Easy / Unnamed run",
+   "Chair 9 Easy Rider bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Under Easy / Unnamed run",
+   "Expressway 5",
+   5.7
+  ],
+  [
+   "walk",
+   "Under Easy / Unnamed run",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Under Easy / Unnamed run",
+   "Chair 6 Base Lodge bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Unnamed Cat Track / Expressway",
+   "Under Easy / Unnamed run",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed Cat Track / Expressway",
+   "Unnamed / Corkscrew",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed Cat Track / Expressway",
+   "Barndance",
+   3.1
+  ],
+  [
+   "walk",
+   "Big Easy Carpet top",
+   "Under Easy / Unnamed run",
+   4.3
+  ],
+  [
+   "walk",
+   "Big Easy Carpet top",
+   "Unnamed / Corkscrew",
+   4.3
+  ],
+  [
+   "walk",
+   "Big Easy Carpet top",
+   "Barndance",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed / Corkscrew",
+   "Under Easy / Unnamed run",
+   6.2
+  ],
+  [
+   "walk",
+   "Unnamed / Corkscrew",
+   "Big Easy Carpet bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Unnamed / Corkscrew",
+   "Big Easy Carpet top",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed / Corkscrew",
+   "Barndance",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed / Corkscrew",
+   "Unnamed run / Inspiration",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed / Corkscrew",
+   "Chair 9 Easy Rider bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Unnamed / Corkscrew",
+   "Expressway 5",
+   5.8
+  ],
+  [
+   "walk",
+   "Unnamed / Corkscrew",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Unnamed / Corkscrew",
+   "Chair 6 Base Lodge bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Barndance",
+   "Under Easy / Unnamed run",
+   4.5
+  ],
+  [
+   "walk",
+   "Barndance",
+   "Unnamed / Corkscrew",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Inspiration",
+   "Under Easy / Unnamed run",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Inspiration",
+   "Unnamed / Corkscrew",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Inspiration",
+   "Barndance",
+   3.1
+  ],
+  [
+   "walk",
+   "Barndance 2",
+   "Under Easy / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "Barndance 2",
+   "Unnamed / Corkscrew",
+   4.0
+  ],
+  [
+   "walk",
+   "Barndance 2",
+   "Barndance",
+   2.2
+  ],
+  [
+   "walk",
+   "Expressway 5",
+   "Under Easy / Unnamed run",
+   5.7
+  ],
+  [
+   "walk",
+   "Expressway 5",
+   "Unnamed / Corkscrew",
+   5.8
+  ],
+  [
+   "walk",
+   "Expressway 5",
+   "Barndance",
+   4.0
+  ],
+  [
+   "walk",
+   "Big Easy Carpet bottom",
+   "Under Easy / Unnamed run",
+   5.7
+  ],
+  [
+   "walk",
+   "Big Easy Carpet bottom",
+   "Unnamed / Corkscrew",
+   5.8
+  ],
+  [
+   "walk",
+   "Big Easy Carpet bottom",
+   "Barndance",
+   4.0
+  ],
+  [
+   "walk",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "Under Easy / Unnamed run",
+   6.0
+  ],
+  [
+   "walk",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "Unnamed / Corkscrew",
+   6.1
+  ],
+  [
+   "walk",
+   "Chair 10 Bad Rock (Intermittent) bottom",
+   "Barndance",
+   4.3
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge bottom",
+   "Under Easy / Unnamed run",
+   6.8
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge bottom",
+   "Unnamed / Corkscrew",
+   6.9
+  ],
+  [
+   "walk",
+   "Chair 6 Base Lodge bottom",
+   "Barndance",
+   5.1
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider bottom",
+   "Under Easy / Unnamed run",
+   6.8
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider bottom",
+   "Unnamed / Corkscrew",
+   6.9
+  ],
+  [
+   "walk",
+   "Chair 9 Easy Rider bottom",
+   "Barndance",
+   5.1
+  ],
+  [
+   "walk",
+   "Schmidt's Chute / Inspiration",
+   "Ptarmigan Bowl / Toni Matt",
+   3.1
+  ],
+  [
+   "walk",
+   "Schmidt's Chute / Inspiration",
+   "Connie's Coulee / Inspiration",
+   4.4
+  ],
+  [
+   "walk",
+   "Schmidt's Chute / Inspiration",
+   "Inspiration",
+   3.7
+  ],
+  [
+   "walk",
+   "Schmidt's Chute / Inspiration",
+   "Inspiration 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Schmidt's Chute / Inspiration",
+   "Chair 7 Big Creek Express top",
+   6.0
+  ],
+  [
+   "walk",
+   "Schmidt's Chute / Inspiration",
+   "Chair 1 Big Mountain Express top",
+   5.4
+  ],
+  [
+   "walk",
+   "Schmidt's Chute / Inspiration",
+   "Marmot / Moe Mentum",
+   6.8
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Ptarmigan Bowl / Toni Matt",
+   4.7
+  ],
+  [
+   "walk",
+   "Connie's Coulee / Inspiration",
+   "Inspiration 3",
+   6.1
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "Ptarmigan Bowl / Toni Matt",
+   3.9
+  ],
+  [
+   "walk",
+   "Inspiration",
+   "Inspiration 3",
+   5.4
+  ],
+  [
+   "walk",
+   "Chair 7 Big Creek Express top",
+   "Ptarmigan Bowl / Toni Matt",
+   6.3
+  ],
+  [
+   "walk",
+   "Chair 1 Big Mountain Express top",
+   "Ptarmigan Bowl / Toni Matt",
+   5.6
+  ],
+  [
+   "walk",
+   "1000 Turns / The Big Ravine",
+   "Snow Making Ponds / Toni Matt",
+   1.6
+  ],
+  [
+   "walk",
+   "Snow Making Ponds / Toni Matt",
+   "1000 Turns / The Big Ravine",
+   1.6
+  ]
+ ],
+ "base": "Chair 6 Base Lodge bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Montana",
+  "total_lifts": "16",
+  "downhill_trails": "154",
+  "elevation_low_m": 1237.0,
+  "elevation_high_m": 2078.0,
+  "vertical_drop_m": 841.0,
+  "website": ""
+ }
+}

@@ -1,0 +1,3427 @@
+{
+ "name": "Crested Butte Mountain Resort",
+ "source": "OpenSkiMap ski area c7ba44969ddc615ea94968125fc96d9b584c388f",
+ "origin_lonlat": [
+  -106.94673503692941,
+  38.89858473552902
+ ],
+ "nodes": {
+  "Meander / Bushwacker": [
+   461,
+   163,
+   3106.4
+  ],
+  "Meander / Bushwacker 2": [
+   580,
+   433,
+   3053.9
+  ],
+  "Horseshoe Springs / Ruby Road": [
+   255,
+   -450,
+   3249.7
+  ],
+  "Horseshoe Springs / Bubba's Shortcut": [
+   226,
+   -94,
+   3137.4
+  ],
+  "Painter Boy Lift top": [
+   -558,
+   1017,
+   3091.7
+  ],
+  "Columbine Hill / Warming House Hill": [
+   -1406,
+   126,
+   2893.3
+  ],
+  "West Wall Lift top": [
+   -1170,
+   -352,
+   2970.5
+  ],
+  "T-Bar Road / Banana Exit": [
+   -1318,
+   -636,
+   2941.6
+  ],
+  "North Face Lift top": [
+   1052,
+   -1006,
+   3478.2
+  ],
+  "Belleview": [
+   923,
+   -920,
+   3426.6
+  ],
+  "Floresta / Daisy": [
+   1101,
+   27,
+   3057.7
+  ],
+  "Floresta / Lower Treasury": [
+   1251,
+   405,
+   2965.8
+  ],
+  "Lower Canaan / Family Cross / Fallaway": [
+   690,
+   -163,
+   3122.9
+  ],
+  "Lower Canaan / Family Cross / Lower Ruby Chief": [
+   836,
+   389,
+   3014.6
+  ],
+  "Columbine Hill": [
+   -867,
+   857,
+   3064.9
+  ],
+  "Gold Link LIft bottom": [
+   -827,
+   1673,
+   2934.6
+  ],
+  "Middle Gallowich / Daisy": [
+   1011,
+   428,
+   3018.3
+  ],
+  "Middle Gallowich / Lower Gallowich": [
+   1156,
+   729,
+   2916.0
+  ],
+  "Gold Link LIft top": [
+   -502,
+   1027,
+   3093.3
+  ],
+  "Panion's Run / Elko Park": [
+   -638,
+   1541,
+   2957.6
+  ],
+  "Lower Forest Queen / Upper Forest Queen": [
+   444,
+   -280,
+   3150.9
+  ],
+  "Lower Forest Queen / Lower Ruby Chief": [
+   639,
+   181,
+   3060.3
+  ],
+  "Bushwacker / Breakfast Trail": [
+   341,
+   -71,
+   3139.3
+  ],
+  "Teocalli Lift bottom": [
+   831,
+   786,
+   2954.4
+  ],
+  "East River Express Lift top": [
+   1264,
+   -67,
+   3092.5
+  ],
+  "Paradise Express Lift bottom": [
+   890,
+   550,
+   2996.8
+  ],
+  "Houston / Bubba's Shortcut": [
+   339,
+   51,
+   3123.7
+  ],
+  "Houston / Lower Twister": [
+   -1335,
+   73,
+   2908.7
+  ],
+  "Upper Gallowich / Upper Treasury": [
+   797,
+   -64,
+   3100.7
+  ],
+  "Daisy": [
+   1015,
+   320,
+   3024.5
+  ],
+  "East River Express Lift bottom": [
+   1739,
+   812,
+   2782.5
+  ],
+  "Twister / Ruby Road": [
+   19,
+   -821,
+   3343.1
+  ],
+  "Twister / Middle Twister": [
+   -274,
+   -447,
+   3140.9
+  ],
+  "Black Eagle / Lower Treasury": [
+   1644,
+   774,
+   2807.0
+  ],
+  "Red Lady Express Lift top": [
+   90,
+   -120,
+   3149.8
+  ],
+  "Peanut / Lower Twister": [
+   -525,
+   -238,
+   3083.3
+  ],
+  "Prospector / Gunsight Pass Road": [
+   -327,
+   1063,
+   3081.8
+  ],
+  "Prospect Lift bottom": [
+   -227,
+   1731,
+   2931.5
+  ],
+  "Upper International / Ruby Road": [
+   -41,
+   -850,
+   3340.6
+  ],
+  "Upper International / Lower International": [
+   -687,
+   -477,
+   3092.7
+  ],
+  "Breakfast Trail / Ruby Steep": [
+   346,
+   -410,
+   3191.3
+  ],
+  "Upper Conundrum / Conundrum": [
+   869,
+   761,
+   2945.8
+  ],
+  "Fallaway / Upper Forest Queen": [
+   458,
+   -428,
+   3202.8
+  ],
+  "West Wall Lift bottom": [
+   -1691,
+   -356,
+   2828.3
+  ],
+  "Lower Crystal / Crystal": [
+   -374,
+   -448,
+   3132.0
+  ],
+  "Lower Crystal / Unnamed run": [
+   -526,
+   -414,
+   3096.2
+  ],
+  "Lower International / Lower Twister": [
+   -1311,
+   28,
+   2910.2
+  ],
+  "Red Lady Express Lift bottom": [
+   -1620,
+   58,
+   2856.7
+  ],
+  "Upper Championship / Aspen Park Road": [
+   -842,
+   -453,
+   3035.1
+  ],
+  "Lower Twister": [
+   -680,
+   7,
+   3020.3
+  ],
+  "Houston": [
+   -934,
+   245,
+   2961.6
+  ],
+  "Buckley Traverse / Rustler's Gulch": [
+   -1422,
+   -174,
+   2883.3
+  ],
+  "Upper Forest Queen / Upper Ruby Chief": [
+   404,
+   -1008,
+   3381.2
+  ],
+  "Poverty Gulch / Kubler": [
+   245,
+   -51,
+   3133.3
+  ],
+  "Houston 2": [
+   -85,
+   453,
+   3043.7
+  ],
+  "Peanut": [
+   -292,
+   -228,
+   3112.6
+  ],
+  "Painter Boy Lift bottom": [
+   -617,
+   454,
+   2991.4
+  ],
+  "Upper Canaan / Paradise Bowl": [
+   585,
+   -709,
+   3281.5
+  ],
+  "Upper International": [
+   -557,
+   -561,
+   3107.3
+  ],
+  "Unnamed run": [
+   -588,
+   -258,
+   3080.3
+  ],
+  "Conundrum": [
+   909,
+   738,
+   2939.5
+  ],
+  "Shep's Chute / Schofield Road": [
+   997,
+   -1153,
+   3449.3
+  ],
+  "Shep's Chute / Paradise Bowl": [
+   636,
+   -917,
+   3334.3
+  ],
+  "Meander": [
+   459,
+   324,
+   3090.7
+  ],
+  "Gunsight Pass Road": [
+   463,
+   980,
+   2994.5
+  ],
+  "Gunsight Pass Road 2": [
+   162,
+   1010,
+   3033.5
+  ],
+  "Deer Pass / Elko Park": [
+   -381,
+   1406,
+   3005.2
+  ],
+  "Fallaway": [
+   542,
+   -291,
+   3151.2
+  ],
+  "Lower Forest Queen": [
+   605,
+   -84,
+   3100.2
+  ],
+  "Upper Ruby Chief / Ruby Steep": [
+   292,
+   -573,
+   3256.3
+  ],
+  "Kubler / Upper Smith Hill": [
+   -230,
+   47,
+   3082.6
+  ],
+  "Upper Smith Hill / Lower Smith Hill": [
+   -454,
+   133,
+   3044.3
+  ],
+  "Upper Conundrum": [
+   855,
+   628,
+   2983.3
+  ],
+  "Conundrum 2": [
+   936,
+   678,
+   2935.0
+  ],
+  "Upper Park / Yellow Brick Road": [
+   38,
+   -541,
+   3226.6
+  ],
+  "Avery": [
+   1022,
+   -774,
+   3414.3
+  ],
+  "Prospect Lift top": [
+   -419,
+   1003,
+   3094.2
+  ],
+  "Splains Gulch": [
+   -650,
+   531,
+   3001.8
+  ],
+  "Lower Twister 2": [
+   -1128,
+   68,
+   2937.5
+  ],
+  "Unnamed run 2": [
+   -534,
+   -464,
+   3101.5
+  ],
+  "Aspen Park Road": [
+   -1103,
+   -14,
+   2940.8
+  ],
+  "Peanut 2": [
+   65,
+   -80,
+   3146.3
+  ],
+  "Houston 3": [
+   -254,
+   440,
+   3023.2
+  ],
+  "Unnamed run / Silver Queen Road": [
+   222,
+   -1156,
+   3474.8
+  ],
+  "Unnamed run / Silver Queen Road 2": [
+   188,
+   -961,
+   3427.6
+  ],
+  "Daisy 2": [
+   978,
+   166,
+   3033.4
+  ],
+  "Black Eagle": [
+   1750,
+   258,
+   2914.7
+  ],
+  "Ruby Steep / Lower Ruby Chief": [
+   386,
+   -199,
+   3135.8
+  ],
+  "Peanut 3": [
+   -460,
+   -256,
+   3100.3
+  ],
+  "Jokerville / Ruby Road": [
+   138,
+   -789,
+   3354.4
+  ],
+  "Jokerville / Yellow Brick Road": [
+   -22,
+   -537,
+   3219.3
+  ],
+  "Paradise Express Lift top": [
+   433,
+   -1071,
+   3390.3
+  ],
+  "Upper Forest Queen": [
+   436,
+   -658,
+   3264.6
+  ],
+  "Ruby Access / Lower Ruby Chief": [
+   549,
+   43,
+   3095.7
+  ],
+  "Schofield Road": [
+   1092,
+   -1028,
+   3480.6
+  ],
+  "Schofield Road / Silver Queen Road": [
+   475,
+   -1119,
+   3389.6
+  ],
+  "Peachtree Lift top": [
+   -1430,
+   -118,
+   2893.4
+  ],
+  "Peachtree Lift bottom": [
+   -1685,
+   -277,
+   2834.2
+  ],
+  "Daisy 3": [
+   903,
+   508,
+   3000.3
+  ],
+  "North Pass": [
+   -838,
+   1609,
+   2937.5
+  ],
+  "Roller Coaster / Yellow Brick Road": [
+   -106,
+   -416,
+   3154.5
+  ],
+  "Lower Keystone": [
+   -426,
+   -25,
+   3060.0
+  ],
+  "High Tide": [
+   -1488,
+   -93,
+   2883.5
+  ],
+  "Houston 4": [
+   341,
+   108,
+   3113.3
+  ],
+  "Houston 5": [
+   -1285,
+   122,
+   2916.1
+  ],
+  "Silver Queen Express Lift top": [
+   270,
+   -1244,
+   3487.8
+  ],
+  "Upper Park": [
+   -166,
+   -329,
+   3139.6
+  ],
+  "Middle Twister": [
+   -390,
+   -300,
+   3112.9
+  ],
+  "Lower Forest Queen 2": [
+   676,
+   14,
+   3080.9
+  ],
+  "Ruby Road": [
+   199,
+   -782,
+   3359.1
+  ],
+  "Keystone / Yellow Brick Road": [
+   123,
+   -529,
+   3236.4
+  ],
+  "Black Eagle 2": [
+   1631,
+   578,
+   2852.7
+  ],
+  "Gunsight Pass Road 3": [
+   -102,
+   1058,
+   3058.2
+  ],
+  "Prospector": [
+   -297,
+   1211,
+   3041.7
+  ],
+  "Teocalli Lift top": [
+   119,
+   -76,
+   3146.1
+  ],
+  "Spruce Conveyor bottom": [
+   -1555,
+   152,
+   2865.6
+  ],
+  "Spruce Conveyor top": [
+   -1504,
+   155,
+   2870.3
+  ],
+  "Pine Carpet top": [
+   -1630,
+   -101,
+   2852.8
+  ],
+  "Pine Carpet bottom": [
+   -1643,
+   -151,
+   2849.6
+  ],
+  "Aspen Carpet top": [
+   -1633,
+   -42,
+   2854.7
+  ],
+  "The High Lift bottom": [
+   252,
+   -1055,
+   3438.8
+  ],
+  "North Face Lift bottom": [
+   680,
+   -910,
+   3336.5
+  ]
+ },
+ "lifts": [
+  [
+   "Teocalli Lift",
+   "Teocalli Lift bottom",
+   "Teocalli Lift top",
+   11.3
+  ],
+  [
+   "Red Lady Express Lift",
+   "Red Lady Express Lift bottom",
+   "Red Lady Express Lift top",
+   8.7
+  ],
+  [
+   "Gold Link LIft",
+   "Gold Link LIft bottom",
+   "Gold Link LIft top",
+   8.4
+  ],
+  [
+   "Spruce Conveyor",
+   "Spruce Conveyor bottom",
+   "Spruce Conveyor top",
+   4.1
+  ],
+  [
+   "Painter Boy Lift",
+   "Painter Boy Lift bottom",
+   "Painter Boy Lift top",
+   7.1
+  ],
+  [
+   "East River Express Lift",
+   "East River Express Lift bottom",
+   "East River Express Lift top",
+   6.5
+  ],
+  [
+   "Pine Carpet",
+   "Pine Carpet bottom",
+   "Pine Carpet top",
+   4.1
+  ],
+  [
+   "Aspen Carpet",
+   "Pine Carpet top",
+   "Aspen Carpet top",
+   3.7
+  ],
+  [
+   "West Wall Lift",
+   "West Wall Lift bottom",
+   "West Wall Lift top",
+   6.8
+  ],
+  [
+   "Peachtree Lift",
+   "Peachtree Lift bottom",
+   "Peachtree Lift top",
+   5.2
+  ],
+  [
+   "Prospect Lift",
+   "Prospect Lift bottom",
+   "Prospect Lift top",
+   8.5
+  ],
+  [
+   "Silver Queen Express Lift",
+   "Red Lady Express Lift bottom",
+   "Silver Queen Express Lift top",
+   10.9
+  ],
+  [
+   "Paradise Express Lift",
+   "Paradise Express Lift bottom",
+   "Paradise Express Lift top",
+   8.7
+  ],
+  [
+   "North Face Lift",
+   "North Face Lift bottom",
+   "North Face Lift top",
+   5.4
+  ]
+ ],
+ "runs": [
+  [
+   "Meander",
+   "Meander / Bushwacker",
+   "Meander",
+   0.5
+  ],
+  [
+   "Meander",
+   "Meander",
+   "Meander / Bushwacker 2",
+   0.7
+  ],
+  [
+   "Horseshoe Springs",
+   "Horseshoe Springs / Ruby Road",
+   "Horseshoe Springs / Bubba's Shortcut",
+   1.7
+  ],
+  [
+   "Columbine Hill",
+   "Painter Boy Lift top",
+   "Columbine Hill",
+   1.4
+  ],
+  [
+   "Columbine Hill",
+   "Columbine Hill",
+   "Columbine Hill / Warming House Hill",
+   4.1
+  ],
+  [
+   "T-Bar Road",
+   "West Wall Lift top",
+   "T-Bar Road / Banana Exit",
+   1.2
+  ],
+  [
+   "Belleview",
+   "North Face Lift top",
+   "Belleview",
+   0.5
+  ],
+  [
+   "Floresta",
+   "Floresta / Daisy",
+   "Floresta / Lower Treasury",
+   1.7
+  ],
+  [
+   "Lower Canaan / Family Cross",
+   "Lower Canaan / Family Cross / Fallaway",
+   "Lower Canaan / Family Cross / Lower Ruby Chief",
+   2.3
+  ],
+  [
+   "Homeowner's",
+   "Columbine Hill",
+   "Gold Link LIft bottom",
+   3.7
+  ],
+  [
+   "Middle Gallowich",
+   "Middle Gallowich / Daisy",
+   "Middle Gallowich / Lower Gallowich",
+   1.4
+  ],
+  [
+   "Panion's Run",
+   "Gold Link LIft top",
+   "Panion's Run / Elko Park",
+   2.3
+  ],
+  [
+   "Lower Forest Queen",
+   "Lower Forest Queen / Upper Forest Queen",
+   "Lower Forest Queen",
+   1.0
+  ],
+  [
+   "Lower Forest Queen",
+   "Lower Forest Queen",
+   "Lower Forest Queen 2",
+   0.6
+  ],
+  [
+   "Lower Forest Queen",
+   "Lower Forest Queen 2",
+   "Lower Forest Queen / Lower Ruby Chief",
+   0.7
+  ],
+  [
+   "Bushwacker",
+   "Bushwacker / Breakfast Trail",
+   "Meander / Bushwacker",
+   1.0
+  ],
+  [
+   "Bushwacker",
+   "Meander / Bushwacker",
+   "Meander / Bushwacker 2",
+   1.3
+  ],
+  [
+   "Bushwacker",
+   "Meander / Bushwacker 2",
+   "Teocalli Lift bottom",
+   1.9
+  ],
+  [
+   "Daisy",
+   "East River Express Lift top",
+   "Floresta / Daisy",
+   0.7
+  ],
+  [
+   "Daisy",
+   "Floresta / Daisy",
+   "Daisy 2",
+   0.8
+  ],
+  [
+   "Daisy",
+   "Daisy 2",
+   "Daisy",
+   0.6
+  ],
+  [
+   "Daisy",
+   "Daisy",
+   "Middle Gallowich / Daisy",
+   0.5
+  ],
+  [
+   "Daisy",
+   "Middle Gallowich / Daisy",
+   "Daisy 3",
+   0.6
+  ],
+  [
+   "Daisy",
+   "Daisy 3",
+   "Paradise Express Lift bottom",
+   0.5
+  ],
+  [
+   "Houston",
+   "Houston / Bubba's Shortcut",
+   "Houston 4",
+   0.5
+  ],
+  [
+   "Houston",
+   "Houston 4",
+   "Houston 2",
+   2.3
+  ],
+  [
+   "Houston",
+   "Houston 2",
+   "Houston 3",
+   0.8
+  ],
+  [
+   "Houston",
+   "Houston 3",
+   "Painter Boy Lift bottom",
+   1.6
+  ],
+  [
+   "Houston",
+   "Painter Boy Lift bottom",
+   "Houston",
+   1.6
+  ],
+  [
+   "Houston",
+   "Houston",
+   "Houston 5",
+   1.6
+  ],
+  [
+   "Houston",
+   "Houston 5",
+   "Houston / Lower Twister",
+   0.5
+  ],
+  [
+   "Upper Gallowich",
+   "Upper Gallowich / Upper Treasury",
+   "Daisy",
+   1.8
+  ],
+  [
+   "Lower Gallowich",
+   "Middle Gallowich / Lower Gallowich",
+   "East River Express Lift bottom",
+   2.7
+  ],
+  [
+   "Twister",
+   "Twister / Ruby Road",
+   "Twister / Middle Twister",
+   2.1
+  ],
+  [
+   "Black Eagle",
+   "East River Express Lift top",
+   "Black Eagle",
+   3.5
+  ],
+  [
+   "Black Eagle",
+   "Black Eagle",
+   "Black Eagle 2",
+   1.5
+  ],
+  [
+   "Black Eagle",
+   "Black Eagle 2",
+   "Black Eagle / Lower Treasury",
+   0.9
+  ],
+  [
+   "Peanut",
+   "Red Lady Express Lift top",
+   "Peanut 2",
+   0.5
+  ],
+  [
+   "Peanut",
+   "Peanut 2",
+   "Peanut",
+   1.4
+  ],
+  [
+   "Peanut",
+   "Peanut",
+   "Peanut 3",
+   0.7
+  ],
+  [
+   "Peanut",
+   "Peanut 3",
+   "Peanut / Lower Twister",
+   0.5
+  ],
+  [
+   "Prospector",
+   "Prospector / Gunsight Pass Road",
+   "Prospector",
+   0.5
+  ],
+  [
+   "Prospector",
+   "Prospector",
+   "Prospect Lift bottom",
+   2.3
+  ],
+  [
+   "Upper International",
+   "Upper International / Ruby Road",
+   "Upper International",
+   2.7
+  ],
+  [
+   "Upper International",
+   "Upper International",
+   "Upper International / Lower International",
+   0.6
+  ],
+  [
+   "Breakfast Trail",
+   "Breakfast Trail / Ruby Steep",
+   "Bushwacker / Breakfast Trail",
+   1.3
+  ],
+  [
+   "Upper Conundrum",
+   "Paradise Express Lift bottom",
+   "Upper Conundrum",
+   0.5
+  ],
+  [
+   "Upper Conundrum",
+   "Upper Conundrum",
+   "Teocalli Lift bottom",
+   0.7
+  ],
+  [
+   "Upper Conundrum",
+   "Teocalli Lift bottom",
+   "Upper Conundrum / Conundrum",
+   0.5
+  ],
+  [
+   "Fallaway",
+   "Fallaway / Upper Forest Queen",
+   "Fallaway",
+   0.6
+  ],
+  [
+   "Fallaway",
+   "Fallaway",
+   "Lower Canaan / Family Cross / Fallaway",
+   0.8
+  ],
+  [
+   "Buckley",
+   "West Wall Lift top",
+   "West Wall Lift bottom",
+   2.3
+  ],
+  [
+   "Lower Crystal",
+   "Lower Crystal / Crystal",
+   "Lower Crystal / Unnamed run",
+   0.6
+  ],
+  [
+   "Lower International",
+   "Upper International / Lower International",
+   "Lower International / Lower Twister",
+   3.4
+  ],
+  [
+   "Lower Twister",
+   "Peanut / Lower Twister",
+   "Lower Twister",
+   1.1
+  ],
+  [
+   "Lower Twister",
+   "Lower Twister",
+   "Lower Twister 2",
+   2.0
+  ],
+  [
+   "Lower Twister",
+   "Lower Twister 2",
+   "Lower International / Lower Twister",
+   0.8
+  ],
+  [
+   "Lower Twister",
+   "Lower International / Lower Twister",
+   "Houston / Lower Twister",
+   0.5
+  ],
+  [
+   "Lower Twister",
+   "Houston / Lower Twister",
+   "Red Lady Express Lift bottom",
+   1.3
+  ],
+  [
+   "Upper Championship",
+   "Upper International / Lower International",
+   "Upper Championship / Aspen Park Road",
+   0.6
+  ],
+  [
+   "Big Al's",
+   "Lower Twister",
+   "Houston",
+   1.4
+  ],
+  [
+   "Buckley Traverse",
+   "T-Bar Road / Banana Exit",
+   "Buckley Traverse / Rustler's Gulch",
+   1.9
+  ],
+  [
+   "Upper Forest Queen",
+   "Upper Forest Queen / Upper Ruby Chief",
+   "Upper Forest Queen",
+   1.4
+  ],
+  [
+   "Upper Forest Queen",
+   "Upper Forest Queen",
+   "Fallaway / Upper Forest Queen",
+   1.0
+  ],
+  [
+   "Upper Forest Queen",
+   "Fallaway / Upper Forest Queen",
+   "Lower Forest Queen / Upper Forest Queen",
+   0.7
+  ],
+  [
+   "Poverty Gulch",
+   "Poverty Gulch / Kubler",
+   "Houston 2",
+   2.5
+  ],
+  [
+   "Lower Keystone",
+   "Peanut",
+   "Lower Keystone",
+   0.9
+  ],
+  [
+   "Lower Keystone",
+   "Lower Keystone",
+   "Houston",
+   2.5
+  ],
+  [
+   "Conundrum",
+   "Upper Conundrum / Conundrum",
+   "Conundrum",
+   0.5
+  ],
+  [
+   "Conundrum",
+   "Conundrum",
+   "Conundrum 2",
+   0.5
+  ],
+  [
+   "Conundrum",
+   "Conundrum 2",
+   "Middle Gallowich / Lower Gallowich",
+   0.9
+  ],
+  [
+   "Splains Gulch",
+   "Painter Boy Lift top",
+   "Splains Gulch",
+   2.1
+  ],
+  [
+   "Splains Gulch",
+   "Splains Gulch",
+   "Painter Boy Lift bottom",
+   0.5
+  ],
+  [
+   "North Pass",
+   "Gold Link LIft top",
+   "Painter Boy Lift top",
+   0.5
+  ],
+  [
+   "North Pass",
+   "Painter Boy Lift top",
+   "North Pass",
+   3.1
+  ],
+  [
+   "North Pass",
+   "North Pass",
+   "Gold Link LIft bottom",
+   0.5
+  ],
+  [
+   "Upper Canaan",
+   "Upper Canaan / Paradise Bowl",
+   "Fallaway / Upper Forest Queen",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Upper International",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Lower Crystal / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Lower Crystal / Unnamed run",
+   "Unnamed run",
+   0.7
+  ],
+  [
+   "Gunsight Pass Road",
+   "Painter Boy Lift top",
+   "Gold Link LIft top",
+   0.5
+  ],
+  [
+   "Gunsight Pass Road",
+   "Gold Link LIft top",
+   "Prospect Lift top",
+   0.5
+  ],
+  [
+   "Gunsight Pass Road",
+   "Prospect Lift top",
+   "Prospector / Gunsight Pass Road",
+   0.5
+  ],
+  [
+   "Gunsight Pass Road",
+   "Prospector / Gunsight Pass Road",
+   "Gunsight Pass Road 3",
+   1.0
+  ],
+  [
+   "Gunsight Pass Road",
+   "Gunsight Pass Road 3",
+   "Gunsight Pass Road 2",
+   1.1
+  ],
+  [
+   "Gunsight Pass Road",
+   "Gunsight Pass Road 2",
+   "Gunsight Pass Road",
+   1.3
+  ],
+  [
+   "Gunsight Pass Road",
+   "Gunsight Pass Road",
+   "Teocalli Lift bottom",
+   1.9
+  ],
+  [
+   "Gunsight Pass Road",
+   "Teocalli Lift bottom",
+   "Upper Conundrum / Conundrum",
+   0.8
+  ],
+  [
+   "Gunsight Pass Road",
+   "Upper Conundrum / Conundrum",
+   "Conundrum",
+   0.5
+  ],
+  [
+   "Shep's Chute",
+   "Shep's Chute / Schofield Road",
+   "North Face Lift bottom",
+   1.7
+  ],
+  [
+   "Shep's Chute",
+   "North Face Lift bottom",
+   "Shep's Chute / Paradise Bowl",
+   0.5
+  ],
+  [
+   "Gus' Way",
+   "Meander",
+   "Gunsight Pass Road",
+   2.9
+  ],
+  [
+   "Twin Bridges",
+   "Gunsight Pass Road 2",
+   "Prospect Lift bottom",
+   3.8
+  ],
+  [
+   "Deer Pass",
+   "Deer Pass / Elko Park",
+   "Prospect Lift bottom",
+   1.6
+  ],
+  [
+   "Bear",
+   "Fallaway",
+   "Lower Forest Queen",
+   0.8
+  ],
+  [
+   "Upper Ruby Chief",
+   "Upper Forest Queen / Upper Ruby Chief",
+   "Upper Ruby Chief / Ruby Steep",
+   2.0
+  ],
+  [
+   "Kubler",
+   "Poverty Gulch / Kubler",
+   "Kubler / Upper Smith Hill",
+   2.1
+  ],
+  [
+   "Upper Smith Hill",
+   "Red Lady Express Lift top",
+   "Peanut 2",
+   0.5
+  ],
+  [
+   "Upper Smith Hill",
+   "Peanut 2",
+   "Kubler / Upper Smith Hill",
+   1.2
+  ],
+  [
+   "Upper Smith Hill",
+   "Kubler / Upper Smith Hill",
+   "Upper Smith Hill / Lower Smith Hill",
+   1.0
+  ],
+  [
+   "Mach 1",
+   "Upper Conundrum",
+   "Conundrum 2",
+   0.5
+  ],
+  [
+   "Upper Park",
+   "Upper Park / Yellow Brick Road",
+   "Upper Park",
+   1.2
+  ],
+  [
+   "Upper Park",
+   "Upper Park",
+   "Peanut",
+   0.7
+  ],
+  [
+   "Avery",
+   "North Face Lift top",
+   "Avery",
+   0.9
+  ],
+  [
+   "Lower Championship",
+   "West Wall Lift top",
+   "West Wall Lift bottom",
+   2.2
+  ],
+  [
+   "Little Lizzie",
+   "Prospect Lift top",
+   "Painter Boy Lift bottom",
+   2.5
+  ],
+  [
+   "Painter Boy",
+   "Painter Boy Lift top",
+   "Splains Gulch",
+   2.0
+  ],
+  [
+   "Aspen Park Road",
+   "Upper International",
+   "Upper Championship / Aspen Park Road",
+   3.2
+  ],
+  [
+   "Aspen Park Road",
+   "Upper Championship / Aspen Park Road",
+   "West Wall Lift top",
+   3.0
+  ],
+  [
+   "Aspen Park Road",
+   "West Wall Lift top",
+   "Aspen Park Road",
+   1.3
+  ],
+  [
+   "Aspen Park Road",
+   "Aspen Park Road",
+   "Lower Twister 2",
+   0.5
+  ],
+  [
+   "Sylvanite",
+   "Unnamed run 2",
+   "Lower Crystal / Unnamed run",
+   0.5
+  ],
+  [
+   "Sylvanite",
+   "Lower Crystal / Unnamed run",
+   "Aspen Park Road",
+   3.1
+  ],
+  [
+   "Mineral Point",
+   "Peanut 2",
+   "Houston 3",
+   2.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Silver Queen Road",
+   "The High Lift bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "The High Lift bottom",
+   "Unnamed run / Silver Queen Road 2",
+   0.5
+  ],
+  [
+   "Upper Treasury",
+   "Lower Canaan / Family Cross / Fallaway",
+   "Upper Gallowich / Upper Treasury",
+   0.5
+  ],
+  [
+   "Upper Treasury",
+   "Upper Gallowich / Upper Treasury",
+   "Daisy 2",
+   1.3
+  ],
+  [
+   "Double Top Glades",
+   "East River Express Lift top",
+   "Black Eagle",
+   2.5
+  ],
+  [
+   "Ruby Steep",
+   "Upper Ruby Chief / Ruby Steep",
+   "Breakfast Trail / Ruby Steep",
+   0.6
+  ],
+  [
+   "Ruby Steep",
+   "Breakfast Trail / Ruby Steep",
+   "Ruby Steep / Lower Ruby Chief",
+   1.0
+  ],
+  [
+   "Bubba's Shortcut",
+   "Red Lady Express Lift top",
+   "Horseshoe Springs / Bubba's Shortcut",
+   0.5
+  ],
+  [
+   "Bubba's Shortcut",
+   "Horseshoe Springs / Bubba's Shortcut",
+   "Poverty Gulch / Kubler",
+   0.5
+  ],
+  [
+   "Bubba's Shortcut",
+   "Poverty Gulch / Kubler",
+   "Houston / Bubba's Shortcut",
+   0.5
+  ],
+  [
+   "Lower Treasury",
+   "Daisy 2",
+   "Floresta / Lower Treasury",
+   1.5
+  ],
+  [
+   "Lower Treasury",
+   "Floresta / Lower Treasury",
+   "Black Eagle / Lower Treasury",
+   2.4
+  ],
+  [
+   "Lower Treasury",
+   "Black Eagle / Lower Treasury",
+   "East River Express Lift bottom",
+   0.5
+  ],
+  [
+   "Middle Twister",
+   "Twister / Middle Twister",
+   "Middle Twister",
+   0.6
+  ],
+  [
+   "Middle Twister",
+   "Middle Twister",
+   "Peanut 3",
+   0.5
+  ],
+  [
+   "Jokerville",
+   "Jokerville / Ruby Road",
+   "Jokerville / Yellow Brick Road",
+   1.2
+  ],
+  [
+   "Paradise Bowl",
+   "Paradise Express Lift top",
+   "Shep's Chute / Paradise Bowl",
+   1.0
+  ],
+  [
+   "Paradise Bowl",
+   "Shep's Chute / Paradise Bowl",
+   "Upper Canaan / Paradise Bowl",
+   0.9
+  ],
+  [
+   "Paradise Bowl",
+   "Upper Canaan / Paradise Bowl",
+   "Upper Forest Queen",
+   0.7
+  ],
+  [
+   "Ruby Access",
+   "Houston / Bubba's Shortcut",
+   "Ruby Access / Lower Ruby Chief",
+   0.8
+  ],
+  [
+   "Schofield Road",
+   "Schofield Road",
+   "Shep's Chute / Schofield Road",
+   1.4
+  ],
+  [
+   "Schofield Road",
+   "Shep's Chute / Schofield Road",
+   "Schofield Road / Silver Queen Road",
+   2.6
+  ],
+  [
+   "Middle Championship",
+   "Upper Championship / Aspen Park Road",
+   "West Wall Lift top",
+   1.3
+  ],
+  [
+   "High Tide",
+   "Peachtree Lift top",
+   "High Tide",
+   0.5
+  ],
+  [
+   "High Tide",
+   "High Tide",
+   "Pine Carpet bottom",
+   0.7
+  ],
+  [
+   "High Tide",
+   "Pine Carpet bottom",
+   "Peachtree Lift bottom",
+   0.5
+  ],
+  [
+   "Lower Ruby Chief",
+   "Ruby Steep / Lower Ruby Chief",
+   "Ruby Access / Lower Ruby Chief",
+   1.1
+  ],
+  [
+   "Lower Ruby Chief",
+   "Ruby Access / Lower Ruby Chief",
+   "Lower Forest Queen / Lower Ruby Chief",
+   0.7
+  ],
+  [
+   "Lower Ruby Chief",
+   "Lower Forest Queen / Lower Ruby Chief",
+   "Lower Canaan / Family Cross / Lower Ruby Chief",
+   1.2
+  ],
+  [
+   "Lower Ruby Chief",
+   "Lower Canaan / Family Cross / Lower Ruby Chief",
+   "Daisy 3",
+   0.6
+  ],
+  [
+   "Cascade",
+   "Painter Boy Lift top",
+   "North Pass",
+   2.6
+  ],
+  [
+   "Roller Coaster",
+   "Roller Coaster / Yellow Brick Road",
+   "Lower Keystone",
+   2.3
+  ],
+  [
+   "Augusta",
+   "High Tide",
+   "Peachtree Lift bottom",
+   1.0
+  ],
+  [
+   "Houston Access",
+   "Lower Forest Queen / Upper Forest Queen",
+   "Ruby Steep / Lower Ruby Chief",
+   0.5
+  ],
+  [
+   "Houston Access",
+   "Ruby Steep / Lower Ruby Chief",
+   "Bushwacker / Breakfast Trail",
+   0.6
+  ],
+  [
+   "Houston Access",
+   "Bushwacker / Breakfast Trail",
+   "Houston / Bubba's Shortcut",
+   0.6
+  ],
+  [
+   "Houston Access",
+   "Houston / Bubba's Shortcut",
+   "Houston 4",
+   0.5
+  ],
+  [
+   "Warming House Hill",
+   "Houston 5",
+   "Columbine Hill / Warming House Hill",
+   0.5
+  ],
+  [
+   "Warming House Hill",
+   "Columbine Hill / Warming House Hill",
+   "Spruce Conveyor top",
+   0.5
+  ],
+  [
+   "Warming House Hill",
+   "Spruce Conveyor top",
+   "Spruce Conveyor bottom",
+   0.5
+  ],
+  [
+   "Warming House Hill",
+   "Spruce Conveyor bottom",
+   "Red Lady Express Lift bottom",
+   0.5
+  ],
+  [
+   "Silver Queen Road",
+   "Silver Queen Express Lift top",
+   "Unnamed run / Silver Queen Road",
+   0.5
+  ],
+  [
+   "Silver Queen Road",
+   "Unnamed run / Silver Queen Road",
+   "Unnamed run / Silver Queen Road 2",
+   1.2
+  ],
+  [
+   "Silver Queen Road",
+   "Unnamed run / Silver Queen Road 2",
+   "Paradise Express Lift top",
+   1.2
+  ],
+  [
+   "Silver Queen Road",
+   "Paradise Express Lift top",
+   "Schofield Road / Silver Queen Road",
+   0.5
+  ],
+  [
+   "Silver Queen Road",
+   "Schofield Road / Silver Queen Road",
+   "Paradise Express Lift top",
+   0.7
+  ],
+  [
+   "Upper Park",
+   "Upper Park",
+   "Middle Twister",
+   0.8
+  ],
+  [
+   "Lower Canaan",
+   "Lower Canaan / Family Cross / Fallaway",
+   "Lower Forest Queen 2",
+   0.7
+  ],
+  [
+   "Ruby Road",
+   "Paradise Express Lift top",
+   "Upper Forest Queen / Upper Ruby Chief",
+   0.5
+  ],
+  [
+   "Ruby Road",
+   "Upper Forest Queen / Upper Ruby Chief",
+   "Ruby Road",
+   1.2
+  ],
+  [
+   "Ruby Road",
+   "Ruby Road",
+   "Jokerville / Ruby Road",
+   0.5
+  ],
+  [
+   "Ruby Road",
+   "Jokerville / Ruby Road",
+   "Twister / Ruby Road",
+   0.5
+  ],
+  [
+   "Ruby Road",
+   "Twister / Ruby Road",
+   "Upper International / Ruby Road",
+   0.5
+  ],
+  [
+   "Ruby Road",
+   "Upper International / Ruby Road",
+   "Horseshoe Springs / Ruby Road",
+   4.6
+  ],
+  [
+   "Crystal",
+   "Twister / Ruby Road",
+   "Lower Crystal / Crystal",
+   2.2
+  ],
+  [
+   "Keystone",
+   "Ruby Road",
+   "Keystone / Yellow Brick Road",
+   1.1
+  ],
+  [
+   "Resurrection",
+   "East River Express Lift top",
+   "Black Eagle 2",
+   3.1
+  ],
+  [
+   "Lower Smith Hill",
+   "Upper Smith Hill / Lower Smith Hill",
+   "Painter Boy Lift bottom",
+   1.4
+  ],
+  [
+   "Yellow Brick Road",
+   "Horseshoe Springs / Ruby Road",
+   "Keystone / Yellow Brick Road",
+   0.6
+  ],
+  [
+   "Yellow Brick Road",
+   "Keystone / Yellow Brick Road",
+   "Upper Park / Yellow Brick Road",
+   0.5
+  ],
+  [
+   "Yellow Brick Road",
+   "Upper Park / Yellow Brick Road",
+   "Jokerville / Yellow Brick Road",
+   0.5
+  ],
+  [
+   "Yellow Brick Road",
+   "Jokerville / Yellow Brick Road",
+   "Roller Coaster / Yellow Brick Road",
+   3.1
+  ],
+  [
+   "Yellow Brick Road",
+   "Roller Coaster / Yellow Brick Road",
+   "Twister / Middle Twister",
+   0.8
+  ],
+  [
+   "Yellow Brick Road",
+   "Twister / Middle Twister",
+   "Lower Crystal / Crystal",
+   0.5
+  ],
+  [
+   "Yellow Brick Road",
+   "Lower Crystal / Crystal",
+   "Upper International",
+   1.1
+  ],
+  [
+   "Horseshoe",
+   "Horseshoe Springs / Ruby Road",
+   "Breakfast Trail / Ruby Steep",
+   0.5
+  ],
+  [
+   "Rustler's Gulch",
+   "Peachtree Lift top",
+   "Buckley Traverse / Rustler's Gulch",
+   0.5
+  ],
+  [
+   "Rustler's Gulch",
+   "Buckley Traverse / Rustler's Gulch",
+   "Peachtree Lift bottom",
+   1.3
+  ],
+  [
+   "Little Queen",
+   "Gunsight Pass Road 3",
+   "Prospector",
+   1.0
+  ],
+  [
+   "Elko Park",
+   "Prospect Lift top",
+   "Deer Pass / Elko Park",
+   1.6
+  ],
+  [
+   "Elko Park",
+   "Deer Pass / Elko Park",
+   "Panion's Run / Elko Park",
+   1.3
+  ],
+  [
+   "Elko Park",
+   "Panion's Run / Elko Park",
+   "Gold Link LIft bottom",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Upper Forest Queen",
+   "Upper Ruby Chief / Ruby Steep",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Upper Ruby Chief / Ruby Steep",
+   "Horseshoe Springs / Ruby Road",
+   0.6
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Horseshoe Springs / Bubba's Shortcut",
+   "Red Lady Express Lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Horseshoe Springs / Bubba's Shortcut",
+   "Teocalli Lift top",
+   1.5
+  ],
+  [
+   "walk",
+   "Painter Boy Lift top",
+   "Gold Link LIft top",
+   0.8
+  ],
+  [
+   "walk",
+   "Painter Boy Lift top",
+   "Prospector / Gunsight Pass Road",
+   3.3
+  ],
+  [
+   "walk",
+   "Painter Boy Lift top",
+   "Prospect Lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Columbine Hill / Warming House Hill",
+   "Red Lady Express Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Columbine Hill / Warming House Hill",
+   "Peachtree Lift top",
+   3.4
+  ],
+  [
+   "walk",
+   "Columbine Hill / Warming House Hill",
+   "Spruce Conveyor bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Columbine Hill / Warming House Hill",
+   "Spruce Conveyor top",
+   1.4
+  ],
+  [
+   "walk",
+   "North Face Lift top",
+   "Belleview",
+   2.1
+  ],
+  [
+   "walk",
+   "North Face Lift top",
+   "Shep's Chute / Schofield Road",
+   2.2
+  ],
+  [
+   "walk",
+   "North Face Lift top",
+   "Avery",
+   3.2
+  ],
+  [
+   "walk",
+   "North Face Lift top",
+   "Schofield Road",
+   0.6
+  ],
+  [
+   "walk",
+   "Belleview",
+   "Avery",
+   2.5
+  ],
+  [
+   "walk",
+   "Belleview",
+   "North Face Lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Canaan / Family Cross / Lower Ruby Chief",
+   "Paradise Express Lift bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Gold Link LIft bottom",
+   "North Pass",
+   0.9
+  ],
+  [
+   "walk",
+   "Middle Gallowich / Daisy",
+   "Paradise Express Lift bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Gold Link LIft top",
+   "Painter Boy Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Gold Link LIft top",
+   "Prospector / Gunsight Pass Road",
+   2.5
+  ],
+  [
+   "walk",
+   "Gold Link LIft top",
+   "Prospect Lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "Panion's Run / Elko Park",
+   "Gold Link LIft bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Bushwacker / Breakfast Trail",
+   "Teocalli Lift top",
+   3.1
+  ],
+  [
+   "walk",
+   "Teocalli Lift bottom",
+   "Upper Conundrum / Conundrum",
+   0.6
+  ],
+  [
+   "walk",
+   "Teocalli Lift bottom",
+   "Conundrum",
+   1.3
+  ],
+  [
+   "walk",
+   "Teocalli Lift bottom",
+   "Conundrum 2",
+   2.1
+  ],
+  [
+   "walk",
+   "East River Express Lift top",
+   "Floresta / Daisy",
+   2.6
+  ],
+  [
+   "walk",
+   "Paradise Express Lift bottom",
+   "Teocalli Lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Paradise Express Lift bottom",
+   "Upper Conundrum / Conundrum",
+   3.0
+  ],
+  [
+   "walk",
+   "Paradise Express Lift bottom",
+   "Conundrum",
+   2.6
+  ],
+  [
+   "walk",
+   "Paradise Express Lift bottom",
+   "Upper Conundrum",
+   1.2
+  ],
+  [
+   "walk",
+   "Paradise Express Lift bottom",
+   "Conundrum 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Paradise Express Lift bottom",
+   "Daisy 3",
+   0.6
+  ],
+  [
+   "walk",
+   "Houston / Lower Twister",
+   "Peachtree Lift top",
+   3.0
+  ],
+  [
+   "walk",
+   "Houston / Lower Twister",
+   "Spruce Conveyor bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Houston / Lower Twister",
+   "Spruce Conveyor top",
+   2.6
+  ],
+  [
+   "walk",
+   "Black Eagle / Lower Treasury",
+   "East River Express Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift top",
+   "Horseshoe Springs / Bubba's Shortcut",
+   1.9
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift top",
+   "Poverty Gulch / Kubler",
+   2.4
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift top",
+   "Peanut 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift top",
+   "Teocalli Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Prospector / Gunsight Pass Road",
+   "Painter Boy Lift top",
+   3.3
+  ],
+  [
+   "walk",
+   "Prospector / Gunsight Pass Road",
+   "Gold Link LIft top",
+   2.5
+  ],
+  [
+   "walk",
+   "Prospector / Gunsight Pass Road",
+   "Prospect Lift top",
+   1.5
+  ],
+  [
+   "walk",
+   "Upper Conundrum / Conundrum",
+   "Teocalli Lift bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "West Wall Lift bottom",
+   "Peachtree Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Lower International / Lower Twister",
+   "Peachtree Lift top",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower International / Lower Twister",
+   "Spruce Conveyor top",
+   3.2
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift bottom",
+   "Spruce Conveyor bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift bottom",
+   "Spruce Conveyor top",
+   2.1
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift bottom",
+   "Pine Carpet top",
+   2.2
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift bottom",
+   "Pine Carpet bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift bottom",
+   "Aspen Carpet top",
+   1.4
+  ],
+  [
+   "walk",
+   "Buckley Traverse / Rustler's Gulch",
+   "Peachtree Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Buckley Traverse / Rustler's Gulch",
+   "Pine Carpet top",
+   3.1
+  ],
+  [
+   "walk",
+   "Buckley Traverse / Rustler's Gulch",
+   "Pine Carpet bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Buckley Traverse / Rustler's Gulch",
+   "Aspen Carpet top",
+   3.5
+  ],
+  [
+   "walk",
+   "Upper Forest Queen / Upper Ruby Chief",
+   "Paradise Express Lift top",
+   1.0
+  ],
+  [
+   "walk",
+   "Poverty Gulch / Kubler",
+   "Teocalli Lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "Painter Boy Lift bottom",
+   "Splains Gulch",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Peanut / Lower Twister",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Upper International / Lower International",
+   3.3
+  ],
+  [
+   "walk",
+   "Conundrum",
+   "Teocalli Lift bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Shep's Chute / Paradise Bowl",
+   "North Face Lift bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Upper Conundrum",
+   "Teocalli Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Upper Conundrum",
+   "Paradise Express Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Avery",
+   "Belleview",
+   2.5
+  ],
+  [
+   "walk",
+   "Prospect Lift top",
+   "Painter Boy Lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Prospect Lift top",
+   "Gold Link LIft top",
+   1.2
+  ],
+  [
+   "walk",
+   "Prospect Lift top",
+   "Prospector / Gunsight Pass Road",
+   1.5
+  ],
+  [
+   "walk",
+   "Prospect Lift top",
+   "Prospector",
+   3.4
+  ],
+  [
+   "walk",
+   "Splains Gulch",
+   "Painter Boy Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Peanut 2",
+   "Red Lady Express Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Peanut 2",
+   "Teocalli Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Silver Queen Road",
+   "Paradise Express Lift top",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Silver Queen Road",
+   "Silver Queen Express Lift top",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Silver Queen Road",
+   "The High Lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Silver Queen Road 2",
+   "The High Lift bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Paradise Express Lift top",
+   "Upper Forest Queen / Upper Ruby Chief",
+   1.0
+  ],
+  [
+   "walk",
+   "Paradise Express Lift top",
+   "Schofield Road / Silver Queen Road",
+   0.9
+  ],
+  [
+   "walk",
+   "Schofield Road",
+   "North Face Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Schofield Road / Silver Queen Road",
+   "Paradise Express Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Peachtree Lift top",
+   "Columbine Hill / Warming House Hill",
+   3.4
+  ],
+  [
+   "walk",
+   "Peachtree Lift top",
+   "Buckley Traverse / Rustler's Gulch",
+   0.8
+  ],
+  [
+   "walk",
+   "Peachtree Lift top",
+   "High Tide",
+   0.9
+  ],
+  [
+   "walk",
+   "Peachtree Lift top",
+   "Pine Carpet top",
+   2.8
+  ],
+  [
+   "walk",
+   "Peachtree Lift top",
+   "Pine Carpet bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Peachtree Lift top",
+   "Aspen Carpet top",
+   3.0
+  ],
+  [
+   "walk",
+   "Peachtree Lift bottom",
+   "West Wall Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Daisy 3",
+   "Paradise Express Lift bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "North Pass",
+   "Gold Link LIft bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "High Tide",
+   "Red Lady Express Lift bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "High Tide",
+   "Peachtree Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "High Tide",
+   "Spruce Conveyor top",
+   3.4
+  ],
+  [
+   "walk",
+   "High Tide",
+   "Pine Carpet top",
+   2.0
+  ],
+  [
+   "walk",
+   "High Tide",
+   "Pine Carpet bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "High Tide",
+   "Aspen Carpet top",
+   2.1
+  ],
+  [
+   "walk",
+   "Houston 5",
+   "Spruce Conveyor top",
+   3.1
+  ],
+  [
+   "walk",
+   "Silver Queen Express Lift top",
+   "Unnamed run / Silver Queen Road",
+   1.4
+  ],
+  [
+   "walk",
+   "Silver Queen Express Lift top",
+   "Paradise Express Lift top",
+   3.3
+  ],
+  [
+   "walk",
+   "Silver Queen Express Lift top",
+   "Schofield Road / Silver Queen Road",
+   3.3
+  ],
+  [
+   "walk",
+   "Silver Queen Express Lift top",
+   "The High Lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Teocalli Lift top",
+   "Horseshoe Springs / Bubba's Shortcut",
+   1.5
+  ],
+  [
+   "walk",
+   "Teocalli Lift top",
+   "Bushwacker / Breakfast Trail",
+   3.1
+  ],
+  [
+   "walk",
+   "Teocalli Lift top",
+   "Red Lady Express Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Teocalli Lift top",
+   "Poverty Gulch / Kubler",
+   1.8
+  ],
+  [
+   "walk",
+   "Teocalli Lift top",
+   "Peanut 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Spruce Conveyor bottom",
+   "Red Lady Express Lift bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Spruce Conveyor bottom",
+   "Spruce Conveyor top",
+   0.7
+  ],
+  [
+   "walk",
+   "Spruce Conveyor bottom",
+   "Aspen Carpet top",
+   2.9
+  ],
+  [
+   "walk",
+   "Spruce Conveyor top",
+   "Red Lady Express Lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Spruce Conveyor top",
+   "High Tide",
+   3.4
+  ],
+  [
+   "walk",
+   "Spruce Conveyor top",
+   "Spruce Conveyor bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Spruce Conveyor top",
+   "Aspen Carpet top",
+   3.3
+  ],
+  [
+   "walk",
+   "Pine Carpet top",
+   "Red Lady Express Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Pine Carpet top",
+   "Peachtree Lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Pine Carpet top",
+   "Pine Carpet bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Pine Carpet top",
+   "Aspen Carpet top",
+   0.8
+  ],
+  [
+   "walk",
+   "Pine Carpet bottom",
+   "West Wall Lift bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Pine Carpet bottom",
+   "Red Lady Express Lift bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Pine Carpet bottom",
+   "Peachtree Lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Pine Carpet bottom",
+   "Pine Carpet top",
+   0.7
+  ],
+  [
+   "walk",
+   "Pine Carpet bottom",
+   "Aspen Carpet top",
+   1.5
+  ],
+  [
+   "walk",
+   "Aspen Carpet top",
+   "Red Lady Express Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Aspen Carpet top",
+   "Peachtree Lift bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Aspen Carpet top",
+   "Spruce Conveyor bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Aspen Carpet top",
+   "Pine Carpet top",
+   0.8
+  ],
+  [
+   "walk",
+   "Aspen Carpet top",
+   "Pine Carpet bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "The High Lift bottom",
+   "Upper Forest Queen / Upper Ruby Chief",
+   2.2
+  ],
+  [
+   "walk",
+   "The High Lift bottom",
+   "Unnamed run / Silver Queen Road 2",
+   1.6
+  ],
+  [
+   "walk",
+   "The High Lift bottom",
+   "Paradise Express Lift top",
+   2.5
+  ],
+  [
+   "walk",
+   "The High Lift bottom",
+   "Schofield Road / Silver Queen Road",
+   3.2
+  ],
+  [
+   "walk",
+   "North Face Lift bottom",
+   "Upper Canaan / Paradise Bowl",
+   3.1
+  ],
+  [
+   "walk",
+   "North Face Lift bottom",
+   "Shep's Chute / Paradise Bowl",
+   0.6
+  ],
+  [
+   "walk",
+   "Peachtree Lift top",
+   "Red Lady Express Lift bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Peachtree Lift top",
+   "Spruce Conveyor bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Peachtree Lift top",
+   "Spruce Conveyor top",
+   4.3
+  ],
+  [
+   "walk",
+   "Schofield Road",
+   "Belleview",
+   2.8
+  ],
+  [
+   "walk",
+   "Schofield Road",
+   "Shep's Chute / Schofield Road",
+   2.8
+  ],
+  [
+   "walk",
+   "Schofield Road",
+   "Avery",
+   3.9
+  ],
+  [
+   "walk",
+   "North Face Lift top",
+   "North Face Lift bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Avery",
+   "North Face Lift bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Schofield Road",
+   "North Face Lift bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Panion's Run / Elko Park",
+   "North Pass",
+   4.1
+  ],
+  [
+   "walk",
+   "Upper Conundrum / Conundrum",
+   "Conundrum",
+   1.9
+  ],
+  [
+   "walk",
+   "Upper Conundrum / Conundrum",
+   "Conundrum 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Conundrum",
+   "Upper Conundrum / Conundrum",
+   1.9
+  ],
+  [
+   "walk",
+   "Conundrum",
+   "Conundrum 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Upper Conundrum",
+   "Upper Conundrum / Conundrum",
+   2.8
+  ],
+  [
+   "walk",
+   "Upper Conundrum",
+   "Conundrum",
+   3.5
+  ],
+  [
+   "walk",
+   "Upper Conundrum",
+   "Conundrum 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Canaan / Family Cross / Lower Ruby Chief",
+   "Teocalli Lift bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Lower Canaan / Family Cross / Lower Ruby Chief",
+   "Upper Conundrum / Conundrum",
+   5.3
+  ],
+  [
+   "walk",
+   "Lower Canaan / Family Cross / Lower Ruby Chief",
+   "Conundrum",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Canaan / Family Cross / Lower Ruby Chief",
+   "Upper Conundrum",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Canaan / Family Cross / Lower Ruby Chief",
+   "Conundrum 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Canaan / Family Cross / Lower Ruby Chief",
+   "Daisy 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Middle Gallowich / Daisy",
+   "Teocalli Lift bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Middle Gallowich / Daisy",
+   "Upper Conundrum / Conundrum",
+   5.3
+  ],
+  [
+   "walk",
+   "Middle Gallowich / Daisy",
+   "Conundrum",
+   5.0
+  ],
+  [
+   "walk",
+   "Middle Gallowich / Daisy",
+   "Upper Conundrum",
+   3.6
+  ],
+  [
+   "walk",
+   "Middle Gallowich / Daisy",
+   "Conundrum 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Middle Gallowich / Daisy",
+   "Daisy 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Upper Conundrum",
+   "Daisy 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Daisy 3",
+   "Teocalli Lift bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Daisy 3",
+   "Upper Conundrum / Conundrum",
+   3.6
+  ],
+  [
+   "walk",
+   "Daisy 3",
+   "Conundrum",
+   3.2
+  ],
+  [
+   "walk",
+   "Daisy 3",
+   "Upper Conundrum",
+   1.8
+  ],
+  [
+   "walk",
+   "Daisy 3",
+   "Conundrum 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Horseshoe Springs / Bubba's Shortcut",
+   "Poverty Gulch / Kubler",
+   3.3
+  ],
+  [
+   "walk",
+   "Horseshoe Springs / Bubba's Shortcut",
+   "Peanut 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Peanut 2",
+   "Horseshoe Springs / Bubba's Shortcut",
+   2.3
+  ],
+  [
+   "walk",
+   "Peanut 2",
+   "Poverty Gulch / Kubler",
+   2.5
+  ],
+  [
+   "walk",
+   "Columbine Hill / Warming House Hill",
+   "Pine Carpet top",
+   5.3
+  ],
+  [
+   "walk",
+   "Columbine Hill / Warming House Hill",
+   "Pine Carpet bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Columbine Hill / Warming House Hill",
+   "Aspen Carpet top",
+   4.5
+  ],
+  [
+   "walk",
+   "High Tide",
+   "Spruce Conveyor bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Spruce Conveyor bottom",
+   "Pine Carpet top",
+   3.7
+  ],
+  [
+   "walk",
+   "Spruce Conveyor bottom",
+   "Pine Carpet bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Spruce Conveyor top",
+   "Pine Carpet top",
+   4.1
+  ],
+  [
+   "walk",
+   "Spruce Conveyor top",
+   "Pine Carpet bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Pine Carpet top",
+   "Spruce Conveyor bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Pine Carpet top",
+   "Spruce Conveyor top",
+   4.3
+  ],
+  [
+   "walk",
+   "Pine Carpet bottom",
+   "Spruce Conveyor bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Pine Carpet bottom",
+   "Spruce Conveyor top",
+   5.0
+  ],
+  [
+   "walk",
+   "Aspen Carpet top",
+   "Spruce Conveyor top",
+   3.5
+  ],
+  [
+   "walk",
+   "Painter Boy Lift top",
+   "Prospector",
+   5.3
+  ],
+  [
+   "walk",
+   "Gold Link LIft top",
+   "Prospector",
+   4.5
+  ],
+  [
+   "walk",
+   "Prospector / Gunsight Pass Road",
+   "Prospector",
+   4.9
+  ],
+  [
+   "walk",
+   "Upper Forest Queen / Upper Ruby Chief",
+   "Schofield Road / Silver Queen Road",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Silver Queen Road",
+   "Upper Forest Queen / Upper Ruby Chief",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Silver Queen Road",
+   "Schofield Road / Silver Queen Road",
+   4.0
+  ],
+  [
+   "walk",
+   "Schofield Road / Silver Queen Road",
+   "Upper Forest Queen / Upper Ruby Chief",
+   1.9
+  ],
+  [
+   "walk",
+   "Silver Queen Express Lift top",
+   "Upper Forest Queen / Upper Ruby Chief",
+   4.3
+  ],
+  [
+   "walk",
+   "Columbine Hill / Warming House Hill",
+   "Buckley Traverse / Rustler's Gulch",
+   4.2
+  ],
+  [
+   "walk",
+   "Columbine Hill / Warming House Hill",
+   "High Tide",
+   4.3
+  ],
+  [
+   "walk",
+   "Houston / Lower Twister",
+   "Columbine Hill / Warming House Hill",
+   6.4
+  ],
+  [
+   "walk",
+   "Houston / Lower Twister",
+   "Buckley Traverse / Rustler's Gulch",
+   3.7
+  ],
+  [
+   "walk",
+   "Houston / Lower Twister",
+   "High Tide",
+   3.8
+  ],
+  [
+   "walk",
+   "Houston / Lower Twister",
+   "Pine Carpet top",
+   5.7
+  ],
+  [
+   "walk",
+   "Houston / Lower Twister",
+   "Pine Carpet bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Houston / Lower Twister",
+   "Aspen Carpet top",
+   5.9
+  ],
+  [
+   "walk",
+   "Lower International / Lower Twister",
+   "Columbine Hill / Warming House Hill",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower International / Lower Twister",
+   "Buckley Traverse / Rustler's Gulch",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower International / Lower Twister",
+   "High Tide",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower International / Lower Twister",
+   "Pine Carpet top",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower International / Lower Twister",
+   "Pine Carpet bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower International / Lower Twister",
+   "Aspen Carpet top",
+   5.6
+  ],
+  [
+   "walk",
+   "Buckley Traverse / Rustler's Gulch",
+   "Columbine Hill / Warming House Hill",
+   4.2
+  ],
+  [
+   "walk",
+   "Buckley Traverse / Rustler's Gulch",
+   "High Tide",
+   1.7
+  ],
+  [
+   "walk",
+   "Buckley Traverse / Rustler's Gulch",
+   "Spruce Conveyor bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Buckley Traverse / Rustler's Gulch",
+   "Spruce Conveyor top",
+   5.1
+  ],
+  [
+   "walk",
+   "High Tide",
+   "Columbine Hill / Warming House Hill",
+   4.3
+  ],
+  [
+   "walk",
+   "High Tide",
+   "Buckley Traverse / Rustler's Gulch",
+   1.7
+  ],
+  [
+   "walk",
+   "Pine Carpet top",
+   "West Wall Lift bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Aspen Carpet top",
+   "West Wall Lift bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Spruce Conveyor top",
+   "Peachtree Lift top",
+   4.3
+  ],
+  [
+   "walk",
+   "Spruce Conveyor top",
+   "Buckley Traverse / Rustler's Gulch",
+   5.1
+  ],
+  [
+   "walk",
+   "Houston / Lower Twister",
+   "Red Lady Express Lift bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower International / Lower Twister",
+   "Red Lady Express Lift bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Buckley Traverse / Rustler's Gulch",
+   "Red Lady Express Lift bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Horseshoe Springs / Bubba's Shortcut",
+   "Bushwacker / Breakfast Trail",
+   4.6
+  ],
+  [
+   "walk",
+   "Bushwacker / Breakfast Trail",
+   "Horseshoe Springs / Bubba's Shortcut",
+   4.6
+  ],
+  [
+   "walk",
+   "Bushwacker / Breakfast Trail",
+   "Red Lady Express Lift top",
+   3.8
+  ],
+  [
+   "walk",
+   "Bushwacker / Breakfast Trail",
+   "Poverty Gulch / Kubler",
+   4.9
+  ],
+  [
+   "walk",
+   "Bushwacker / Breakfast Trail",
+   "Peanut 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift top",
+   "Bushwacker / Breakfast Trail",
+   3.8
+  ],
+  [
+   "walk",
+   "Poverty Gulch / Kubler",
+   "Horseshoe Springs / Bubba's Shortcut",
+   3.3
+  ],
+  [
+   "walk",
+   "Poverty Gulch / Kubler",
+   "Bushwacker / Breakfast Trail",
+   4.9
+  ],
+  [
+   "walk",
+   "Poverty Gulch / Kubler",
+   "Red Lady Express Lift top",
+   2.5
+  ],
+  [
+   "walk",
+   "Poverty Gulch / Kubler",
+   "Peanut 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Peanut 2",
+   "Bushwacker / Breakfast Trail",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower International / Lower Twister",
+   "Spruce Conveyor bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift bottom",
+   "High Tide",
+   5.6
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift bottom",
+   "Peachtree Lift top",
+   6.4
+  ],
+  [
+   "walk",
+   "Houston 5",
+   "Red Lady Express Lift bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Houston 5",
+   "High Tide",
+   6.5
+  ],
+  [
+   "walk",
+   "Houston 5",
+   "Spruce Conveyor bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Houston 5",
+   "Aspen Carpet top",
+   6.3
+  ],
+  [
+   "walk",
+   "Spruce Conveyor bottom",
+   "High Tide",
+   4.2
+  ],
+  [
+   "walk",
+   "Spruce Conveyor bottom",
+   "Peachtree Lift top",
+   5.0
+  ],
+  [
+   "walk",
+   "Spruce Conveyor bottom",
+   "Buckley Traverse / Rustler's Gulch",
+   5.8
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift bottom",
+   "Peachtree Lift bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Red Lady Express Lift bottom",
+   "West Wall Lift bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Buckley Traverse / Rustler's Gulch",
+   "Peachtree Lift bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Buckley Traverse / Rustler's Gulch",
+   "West Wall Lift bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Peachtree Lift top",
+   "Peachtree Lift bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Peachtree Lift top",
+   "West Wall Lift bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "High Tide",
+   "Peachtree Lift bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "High Tide",
+   "West Wall Lift bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Spruce Conveyor bottom",
+   "Peachtree Lift bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Spruce Conveyor top",
+   "Peachtree Lift bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Silver Queen Road",
+   "Unnamed run / Silver Queen Road 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Silver Queen Road 2",
+   "Upper Forest Queen / Upper Ruby Chief",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Silver Queen Road 2",
+   "Paradise Express Lift top",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Silver Queen Road 2",
+   "Schofield Road / Silver Queen Road",
+   4.8
+  ],
+  [
+   "walk",
+   "Silver Queen Express Lift top",
+   "Unnamed run / Silver Queen Road 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Belleview",
+   "Upper Canaan / Paradise Bowl",
+   6.5
+  ],
+  [
+   "walk",
+   "Belleview",
+   "Shep's Chute / Paradise Bowl",
+   4.0
+  ],
+  [
+   "walk",
+   "Shep's Chute / Paradise Bowl",
+   "Upper Canaan / Paradise Bowl",
+   3.7
+  ],
+  [
+   "walk",
+   "North Face Lift top",
+   "Shep's Chute / Paradise Bowl",
+   6.1
+  ],
+  [
+   "walk",
+   "Avery",
+   "Shep's Chute / Paradise Bowl",
+   6.5
+  ],
+  [
+   "walk",
+   "Schofield Road",
+   "Shep's Chute / Paradise Bowl",
+   6.8
+  ]
+ ],
+ "base": "Peachtree Lift bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "15",
+  "downhill_trails": "280",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": "https://www.skicb.com/"
+ }
+}

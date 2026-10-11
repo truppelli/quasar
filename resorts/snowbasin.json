@@ -1,0 +1,5448 @@
+{
+ "name": "Snowbasin Resort",
+ "source": "OpenSkiMap ski area 423504a1fa53bcfbe5bf956f0cd48c12868c7f06",
+ "origin_lonlat": [
+  -111.8620924750211,
+  41.19934034153255
+ ],
+ "nodes": {
+  "Unnamed run / Orson's": [
+   410,
+   1373,
+   2025.1
+  ],
+  "Wildcat Handle Tow top": [
+   500,
+   1391,
+   2008.6
+  ],
+  "Middle Bowl Express bottom": [
+   145,
+   78,
+   2305.4
+  ],
+  "Bear Hallow / School Hill": [
+   479,
+   630,
+   2191.9
+  ],
+  "Needles Express Gondola bottom": [
+   388,
+   1810,
+   1951.1
+  ],
+  "Little Cat Express Quad bottom": [
+   484,
+   1793,
+   1950.3
+  ],
+  "Orson's / Unnamed run": [
+   445,
+   1707,
+   1963.6
+  ],
+  "White Lightning / Moonshine Bowl": [
+   274,
+   -1457,
+   2511.7
+  ],
+  "White Lightning / Last Chance": [
+   976,
+   -1651,
+   2202.9
+  ],
+  "Little Cat Express Quad top": [
+   750,
+   1349,
+   2003.9
+  ],
+  "119": [
+   -586,
+   -280,
+   2524.5
+  ],
+  "119 2": [
+   -402,
+   -144,
+   2440.6
+  ],
+  "Becker top": [
+   335,
+   -219,
+   2381.8
+  ],
+  "Slo Road / Bear Hollow Woods": [
+   447,
+   143,
+   2330.0
+  ],
+  "Pineview / Sweet Revenge": [
+   -58,
+   -235,
+   2410.9
+  ],
+  "Pineview / Dan's Run": [
+   181,
+   32,
+   2304.5
+  ],
+  "To Utah Express / Dan's Run": [
+   -340,
+   -944,
+   2564.1
+  ],
+  "To Utah Express / Dan's Run 2": [
+   -399,
+   -823,
+   2542.0
+  ],
+  "The Diamond / Philpot Ridge": [
+   206,
+   -513,
+   2467.0
+  ],
+  "The Diamond / Bear Springs Traverse": [
+   598,
+   -359,
+   2294.4
+  ],
+  "Sun King / The Walrus": [
+   -332,
+   -1074,
+   2574.3
+  ],
+  "Sun King / Elk Ridge": [
+   354,
+   -981,
+   2388.4
+  ],
+  "Gordon's / Elk Ridge": [
+   -244,
+   -1399,
+   2581.8
+  ],
+  "Sun King": [
+   313,
+   -997,
+   2392.9
+  ],
+  "Snow King / Unnamed run": [
+   -1431,
+   632,
+   2670.7
+  ],
+  "Snow King / Hollywood": [
+   -706,
+   916,
+   2445.2
+  ],
+  "Needles Run / Porcupine Traverse": [
+   -764,
+   -302,
+   2533.4
+  ],
+  "Needles Run": [
+   -203,
+   693,
+   2286.4
+  ],
+  "Bear Wallow / Dwayne's": [
+   620,
+   341,
+   2253.5
+  ],
+  "Bear Wallow / Penny Lane": [
+   979,
+   625,
+   2126.6
+  ],
+  "The Walrus / Strawberry Fields": [
+   -552,
+   -1209,
+   2664.6
+  ],
+  "Wildcat top": [
+   -174,
+   193,
+   2411.7
+  ],
+  "Bear Hallow": [
+   261,
+   264,
+   2281.5
+  ],
+  "Hohmann's / Elk Ridge": [
+   932,
+   -1020,
+   2303.8
+  ],
+  "Hohmann's / Last Chance": [
+   1587,
+   -885,
+   2085.2
+  ],
+  "Allen Peak Tram bottom": [
+   -1520,
+   562,
+   2690.3
+  ],
+  "Wolverine / Main Street": [
+   63,
+   -849,
+   2477.9
+  ],
+  "Wolverine / Elk Ridge": [
+   805,
+   -955,
+   2340.1
+  ],
+  "Unnamed run 2": [
+   -113,
+   -1245,
+   2543.8
+  ],
+  "Gordon's": [
+   136,
+   -1273,
+   2482.8
+  ],
+  "Sunny Side / Unnamed run": [
+   -258,
+   159,
+   2413.3
+  ],
+  "Snow King": [
+   -875,
+   1004,
+   2467.3
+  ],
+  "The Burn / FTS": [
+   -644,
+   1320,
+   2225.6
+  ],
+  "Unnamed run / Mt. Ogden Road": [
+   -1628,
+   500,
+   2674.4
+  ],
+  "Unnamed run / Mt. Ogden Road 2": [
+   -1062,
+   151,
+   2516.9
+  ],
+  "DeMoisy Express top": [
+   -421,
+   -992,
+   2582.7
+  ],
+  "Dan's Run / Unnamed run": [
+   -244,
+   -863,
+   2536.7
+  ],
+  "Bear Hallow 2": [
+   323,
+   371,
+   2259.9
+  ],
+  "Bear Hollow Woods": [
+   480,
+   239,
+   2314.2
+  ],
+  "Dwayne's / Willow Springs": [
+   891,
+   319,
+   2165.1
+  ],
+  "Smokey's / Cirque": [
+   -73,
+   -778,
+   2517.2
+  ],
+  "Smokey's / Main Street": [
+   191,
+   -807,
+   2439.8
+  ],
+  "Unnamed run 3": [
+   447,
+   1808,
+   1951.3
+  ],
+  "Centennial / Bash": [
+   70,
+   774,
+   2263.8
+  ],
+  "Centennial / Wildcat Bowl": [
+   298,
+   892,
+   2144.8
+  ],
+  "Gordon's 2": [
+   82,
+   -1394,
+   2515.7
+  ],
+  "Needles Run / City Hall": [
+   149,
+   1257,
+   2110.0
+  ],
+  "119 / Unnamed run": [
+   -659,
+   -355,
+   2523.8
+  ],
+  "Willow Springs": [
+   811,
+   243,
+   2187.0
+  ],
+  "Willow Springs / Penny Lane": [
+   975,
+   301,
+   2151.1
+  ],
+  "Bear Springs / Last Chance": [
+   1755,
+   -465,
+   2055.2
+  ],
+  "White Room / Elk Ridge": [
+   -845,
+   -1561,
+   2800.4
+  ],
+  "White Room / Main Street": [
+   -608,
+   -1516,
+   2690.2
+  ],
+  "Slo Road": [
+   415,
+   21,
+   2344.4
+  ],
+  "Willow Springs / Penny Lane 2": [
+   985,
+   491,
+   2137.9
+  ],
+  "Unnamed run / Jani's": [
+   -449,
+   1148,
+   2296.7
+  ],
+  "Unnamed run / FTS": [
+   -356,
+   1305,
+   2169.8
+  ],
+  "Unnamed run / Elk Ridge": [
+   -747,
+   -1805,
+   2771.4
+  ],
+  "Unnamed run / Elk Ridge 2": [
+   -640,
+   -1718,
+   2721.0
+  ],
+  "Penny Lane": [
+   980,
+   757,
+   2113.9
+  ],
+  "Penny Lane / Unnamed run": [
+   674,
+   1333,
+   2010.2
+  ],
+  "Strawberry Express Gondola top": [
+   -882,
+   -1487,
+   2810.2
+  ],
+  "Main Street": [
+   -592,
+   -1437,
+   2677.9
+  ],
+  "Wildflower Finish / City Hall": [
+   196,
+   1373,
+   2066.3
+  ],
+  "John Paul Express Quad bottom": [
+   340,
+   1780,
+   1951.2
+  ],
+  "Sweet Revenge / Dogleg": [
+   -883,
+   -796,
+   2635.9
+  ],
+  "Sweet Revenge / Dan's Run": [
+   184,
+   -219,
+   2358.4
+  ],
+  "Rainer's / Porky Face": [
+   -982,
+   -136,
+   2567.7
+  ],
+  "Needles Run 2": [
+   -684,
+   -82,
+   2477.9
+  ],
+  "Grizz / Philpot Ridge": [
+   35,
+   -697,
+   2512.6
+  ],
+  "Grizz / Dan's Run": [
+   57,
+   -427,
+   2390.5
+  ],
+  "Elk Ridge / Last Chance": [
+   1571,
+   -928,
+   2087.8
+  ],
+  "Rocky J / Bullwinkle": [
+   49,
+   25,
+   2316.6
+  ],
+  "Unnamed run / Wildflower Downhill": [
+   -467,
+   849,
+   2345.9
+  ],
+  "Needles Run 3": [
+   -339,
+   583,
+   2320.3
+  ],
+  "John Paul Face / Wildflower Downhill": [
+   -971,
+   577,
+   2604.5
+  ],
+  "Needles Run 4": [
+   -418,
+   492,
+   2335.9
+  ],
+  "Unnamed run / Boardwalk": [
+   -328,
+   126,
+   2412.5
+  ],
+  "Porcupine top": [
+   -1285,
+   -405,
+   2653.9
+  ],
+  "Middle Bowl Traverse": [
+   -1099,
+   -190,
+   2584.7
+  ],
+  "Snow King 2": [
+   -781,
+   985,
+   2467.8
+  ],
+  "Deane's / FTS": [
+   -496,
+   1315,
+   2187.4
+  ],
+  "Bear Springs": [
+   827,
+   -281,
+   2203.6
+  ],
+  "Bobcat Ridge / Eas A Long": [
+   178,
+   475,
+   2306.7
+  ],
+  "Bobcat Ridge / Stein's": [
+   395,
+   963,
+   2116.5
+  ],
+  "Unnamed run / Porcupine Traverse": [
+   -788,
+   -382,
+   2537.3
+  ],
+  "Main Street 2": [
+   -168,
+   -969,
+   2519.8
+  ],
+  "Wildflower Finish": [
+   158,
+   1686,
+   1964.5
+  ],
+  "Littlecat": [
+   515,
+   1675,
+   1968.2
+  ],
+  "Wolverine": [
+   280,
+   -887,
+   2432.7
+  ],
+  "Coyote Cutoff / Coyote Bowl": [
+   538,
+   -777,
+   2362.3
+  ],
+  "Unnamed run / Blue Grouse": [
+   -233,
+   426,
+   2356.8
+  ],
+  "Needles Run 5": [
+   -248,
+   638,
+   2296.2
+  ],
+  "Grizzly Finish / Wildflower Downhill": [
+   -286,
+   996,
+   2277.5
+  ],
+  "FTS 2": [
+   27,
+   1589,
+   1991.9
+  ],
+  "Slo Road 2": [
+   357,
+   -121,
+   2371.9
+  ],
+  "Slo Road 3": [
+   385,
+   -43,
+   2354.1
+  ],
+  "Bear Springs Traverse / Main Street": [
+   270,
+   -782,
+   2413.4
+  ],
+  "Bear Springs 2": [
+   591,
+   -283,
+   2289.2
+  ],
+  "Bear Springs Traverse": [
+   563,
+   -490,
+   2320.6
+  ],
+  "Bear Springs 3": [
+   941,
+   -310,
+   2170.7
+  ],
+  "Becker bottom": [
+   554,
+   1501,
+   1990.8
+  ],
+  "119 / Herbert's": [
+   -158,
+   55,
+   2359.4
+  ],
+  "Jani's / Hollywood": [
+   -554,
+   976,
+   2370.5
+  ],
+  "Rocky J / Bullwinkle 2": [
+   -115,
+   -187,
+   2399.7
+  ],
+  "Rocky J": [
+   -19,
+   -86,
+   2354.1
+  ],
+  "Mt. Ogden Road": [
+   -1445,
+   414,
+   2629.7
+  ],
+  "Mt. Ogden Road 2": [
+   -1143,
+   245,
+   2541.8
+  ],
+  "3 skis / Women's GS": [
+   -113,
+   438,
+   2378.8
+  ],
+  "Needles Run 6": [
+   -149,
+   818,
+   2251.3
+  ],
+  "The Jungle / Hollywood": [
+   -1164,
+   654,
+   2643.3
+  ],
+  "Snow King 3": [
+   -1065,
+   908,
+   2496.6
+  ],
+  "Mt. Ogden Road 3": [
+   -1162,
+   470,
+   2573.8
+  ],
+  "Unnamed run 4": [
+   -1543,
+   620,
+   2688.6
+  ],
+  "Beck's / Wildcat Ridge": [
+   -34,
+   585,
+   2343.1
+  ],
+  "Needles Run 7": [
+   -38,
+   1012,
+   2191.3
+  ],
+  "Grizzly Finish": [
+   -271,
+   1077,
+   2255.7
+  ],
+  "Porcupine Traverse / Strawberry Traverse": [
+   -679,
+   -846,
+   2602.6
+  ],
+  "Snow King 4": [
+   -832,
+   1001,
+   2468.8
+  ],
+  "FTS 3": [
+   -535,
+   1331,
+   2191.8
+  ],
+  "Unnamed run / Philpot Ridge": [
+   160,
+   -609,
+   2490.2
+  ],
+  "Bear Springs Traverse 2": [
+   369,
+   -722,
+   2388.2
+  ],
+  "Dan's Run / Strawberry Traverse": [
+   -538,
+   -931,
+   2574.9
+  ],
+  "Sweet Revenge": [
+   -405,
+   -415,
+   2472.4
+  ],
+  "Wildcat Traverse / Wildcat Bowl": [
+   172,
+   641,
+   2240.7
+  ],
+  "Elk Ridge": [
+   865,
+   -983,
+   2324.1
+  ],
+  "Carnhan's / Coyote Bowl": [
+   1117,
+   -728,
+   2182.7
+  ],
+  "Penny Lane 2": [
+   879,
+   1245,
+   2052.7
+  ],
+  "DeMoisy Express bottom": [
+   1684,
+   -386,
+   2054.0
+  ],
+  "Stein's / Unnamed run": [
+   383,
+   1068,
+   2078.6
+  ],
+  "Sweet Revenge 2": [
+   -732,
+   -634,
+   2566.5
+  ],
+  "Sweet Revenge 3": [
+   85,
+   -276,
+   2371.3
+  ],
+  "Pineview": [
+   147,
+   -22,
+   2307.9
+  ],
+  "Stein's": [
+   355,
+   1020,
+   2098.9
+  ],
+  "Elk Ridge 2": [
+   -618,
+   -1628,
+   2707.8
+  ],
+  "Penny Lane 3": [
+   817,
+   -15,
+   2179.9
+  ],
+  "Beaver Slide": [
+   36,
+   274,
+   2357.2
+  ],
+  "Unnamed run / Eas A Long": [
+   69,
+   376,
+   2338.0
+  ],
+  "Sweet Revenge 4": [
+   -122,
+   -244,
+   2421.0
+  ],
+  "Wildcat Bowl / Wildcat Ridge": [
+   -154,
+   307,
+   2406.4
+  ],
+  "Littlecat 2": [
+   623,
+   1507,
+   1987.6
+  ],
+  "DeMoisey Face / Coyote Bowl": [
+   608,
+   -792,
+   2355.2
+  ],
+  "DeMoisey Face / Unnamed run": [
+   1152,
+   -521,
+   2158.1
+  ],
+  "Middle Bowl Express top": [
+   -1019,
+   -767,
+   2662.2
+  ],
+  "Sunshine / Strawberry Traverse": [
+   -922,
+   -751,
+   2642.3
+  ],
+  "Sunshine Bowl": [
+   413,
+   -191,
+   2366.8
+  ],
+  "Penny Lane 4": [
+   883,
+   -224,
+   2197.3
+  ],
+  "Gun Tower / Moonshine Bowl": [
+   504,
+   -1358,
+   2430.7
+  ],
+  "Gun Tower / Gordon's Gully": [
+   894,
+   -1183,
+   2233.3
+  ],
+  "Needles Express Gondola top": [
+   -1008,
+   -601,
+   2654.7
+  ],
+  "Gordon's 3": [
+   204,
+   -1152,
+   2440.4
+  ],
+  "Twist and Shout / Gordon's Gully": [
+   651,
+   -1014,
+   2318.8
+  ],
+  "Needles Run 8": [
+   -525,
+   266,
+   2386.3
+  ],
+  "DeMoisey Face": [
+   750,
+   -689,
+   2298.5
+  ],
+  "Grizzly Start": [
+   -1857,
+   648,
+   2835.2
+  ],
+  "Main Street 3": [
+   -77,
+   -922,
+   2504.5
+  ],
+  "Utah Express / Moose Mound": [
+   11,
+   -331,
+   2378.3
+  ],
+  "Dry Bowl / Grizzly Downhill": [
+   -1382,
+   643,
+   2668.5
+  ],
+  "Strawberry Express Gondola bottom": [
+   1756,
+   -507,
+   2055.4
+  ],
+  "Grizzly Finish 2": [
+   -154,
+   1214,
+   2185.6
+  ],
+  "FTS 4": [
+   -139,
+   1517,
+   2032.9
+  ],
+  "Hohmann's": [
+   1086,
+   -930,
+   2227.9
+  ],
+  "Hohmann's / Coyote Bowl": [
+   1333,
+   -715,
+   2131.1
+  ],
+  "Dan's Run": [
+   -265,
+   -722,
+   2492.8
+  ],
+  "Sweet Revenge 5": [
+   -337,
+   -383,
+   2461.3
+  ],
+  "Needles' Way": [
+   -1001,
+   -644,
+   2658.4
+  ],
+  "School Hill": [
+   647,
+   864,
+   2133.7
+  ],
+  "Harold's / Becker Face": [
+   619,
+   1066,
+   2073.9
+  ],
+  "Elk Ridge 3": [
+   398,
+   -983,
+   2384.7
+  ],
+  "Last Chance": [
+   1124,
+   -1354,
+   2166.1
+  ],
+  "Wildcat Bowl": [
+   494,
+   1242,
+   2027.7
+  ],
+  "Sweet Revenge 6": [
+   -265,
+   -341,
+   2450.4
+  ],
+  "Two Bit Street / Herbert's": [
+   5,
+   78,
+   2319.5
+  ],
+  "Strawberry Fields / Sowback": [
+   -715,
+   -1293,
+   2758.1
+  ],
+  "Main Street 4": [
+   -340,
+   -1248,
+   2582.6
+  ],
+  "Last Chance 2": [
+   1059,
+   -1397,
+   2174.8
+  ],
+  "Cirque / Philpot Ridge": [
+   -125,
+   -813,
+   2529.3
+  ],
+  "Dan's Run 2": [
+   -77,
+   -583,
+   2449.0
+  ],
+  "Grizzly Downhill / Wildflower Downhill": [
+   -634,
+   768,
+   2422.6
+  ],
+  "Sweet Revenge 7": [
+   -771,
+   -683,
+   2591.0
+  ],
+  "Bear Springs 4": [
+   1439,
+   -325,
+   2091.3
+  ],
+  "Last Chance 3": [
+   1722,
+   -657,
+   2066.5
+  ],
+  "Needles Run 9": [
+   -578,
+   171,
+   2413.2
+  ],
+  "Showboat": [
+   258,
+   1253,
+   2087.5
+  ],
+  "Needles Run 10": [
+   -69,
+   967,
+   2198.2
+  ],
+  "Middle Bowl Traverse 2": [
+   -1299,
+   -344,
+   2647.5
+  ],
+  "Mt. Ogden Road 4": [
+   -941,
+   144,
+   2495.6
+  ],
+  "Unnamed run 5": [
+   336,
+   1239,
+   2067.9
+  ],
+  "Mt. Ogden Road 5": [
+   -1311,
+   503,
+   2601.6
+  ],
+  "Snowshoe": [
+   716,
+   910,
+   2125.6
+  ],
+  "Main Street 5": [
+   -454,
+   -1334,
+   2632.5
+  ],
+  "Wildcat Bowl 2": [
+   57,
+   496,
+   2308.9
+  ],
+  "Sweet Revenge 8": [
+   -578,
+   -596,
+   2537.6
+  ],
+  "Dan's Run 3": [
+   231,
+   24,
+   2307.0
+  ],
+  "Stein's 2": [
+   473,
+   674,
+   2174.5
+  ],
+  "Squirrel 2": [
+   683,
+   1424,
+   1999.5
+  ],
+  "Needles Run 11": [
+   -611,
+   -13,
+   2455.3
+  ],
+  "Allen Peak Tram top": [
+   -1859,
+   600,
+   2855.3
+  ],
+  "Unnamed lift bottom": [
+   231,
+   1908,
+   1946.3
+  ],
+  "Unnamed lift bottom 2": [
+   177,
+   1918,
+   1938.6
+  ],
+  "Unnamed lift top": [
+   211,
+   1869,
+   1948.1
+  ],
+  "Wildcat Handle Tow bottom": [
+   490,
+   1541,
+   1983.3
+  ],
+  "Porcupine bottom": [
+   -24,
+   964,
+   2195.9
+  ]
+ },
+ "lifts": [
+  [
+   "Allen Peak Tram",
+   "Allen Peak Tram bottom",
+   "Allen Peak Tram top",
+   3.8
+  ],
+  [
+   "Allen Peak Tram",
+   "Allen Peak Tram top",
+   "Allen Peak Tram bottom",
+   3.8
+  ],
+  [
+   "John Paul Express Quad",
+   "John Paul Express Quad bottom",
+   "Allen Peak Tram bottom",
+   10.8
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top",
+   4.3
+  ],
+  [
+   "Wildcat Handle Tow",
+   "Wildcat Handle Tow bottom",
+   "Wildcat Handle Tow top",
+   3.7
+  ],
+  [
+   "Becker",
+   "Becker bottom",
+   "Becker top",
+   15.6
+  ],
+  [
+   "Wildcat",
+   "Becker bottom",
+   "Wildcat top",
+   14.2
+  ],
+  [
+   "Middle Bowl Express",
+   "Middle Bowl Express bottom",
+   "Middle Bowl Express top",
+   7.9
+  ],
+  [
+   "Porcupine",
+   "Porcupine bottom",
+   "Porcupine top",
+   17.0
+  ],
+  [
+   "Strawberry Express Gondola",
+   "Strawberry Express Gondola bottom",
+   "Strawberry Express Gondola top",
+   12.7
+  ],
+  [
+   "Strawberry Express Gondola",
+   "Strawberry Express Gondola top",
+   "Strawberry Express Gondola bottom",
+   12.7
+  ],
+  [
+   "Little Cat Express Quad",
+   "Little Cat Express Quad bottom",
+   "Little Cat Express Quad top",
+   4.6
+  ],
+  [
+   "Needles Express Gondola",
+   "Needles Express Gondola bottom",
+   "Needles Express Gondola top",
+   12.5
+  ],
+  [
+   "DeMoisy Express",
+   "DeMoisy Express bottom",
+   "DeMoisy Express top",
+   10.5
+  ]
+ ],
+ "runs": [
+  [
+   "Unnamed run",
+   "Unnamed run / Orson's",
+   "Wildcat Handle Tow top",
+   0.5
+  ],
+  [
+   "Bear Hallow",
+   "Middle Bowl Express bottom",
+   "Bear Hallow",
+   0.8
+  ],
+  [
+   "Bear Hallow",
+   "Bear Hallow",
+   "Bear Hallow 2",
+   0.5
+  ],
+  [
+   "Bear Hallow",
+   "Bear Hallow 2",
+   "Bear Hallow / School Hill",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Needles Express Gondola bottom",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 3",
+   "Little Cat Express Quad bottom",
+   0.5
+  ],
+  [
+   "Orson's",
+   "Wildcat Handle Tow top",
+   "Wildcat Handle Tow bottom",
+   0.5
+  ],
+  [
+   "Orson's",
+   "Wildcat Handle Tow bottom",
+   "Orson's / Unnamed run",
+   0.8
+  ],
+  [
+   "White Lightning",
+   "White Lightning / Moonshine Bowl",
+   "White Lightning / Last Chance",
+   3.2
+  ],
+  [
+   "Squirrel",
+   "Little Cat Express Quad top",
+   "Squirrel 2",
+   0.5
+  ],
+  [
+   "119",
+   "119",
+   "119 2",
+   1.3
+  ],
+  [
+   "Slo Road",
+   "Becker top",
+   "Slo Road 2",
+   0.5
+  ],
+  [
+   "Slo Road",
+   "Slo Road 2",
+   "Slo Road 3",
+   0.7
+  ],
+  [
+   "Slo Road",
+   "Slo Road 3",
+   "Slo Road",
+   0.5
+  ],
+  [
+   "Slo Road",
+   "Slo Road",
+   "Slo Road / Bear Hollow Woods",
+   0.5
+  ],
+  [
+   "Pineview",
+   "Pineview / Sweet Revenge",
+   "Pineview",
+   1.2
+  ],
+  [
+   "Pineview",
+   "Pineview",
+   "Pineview / Dan's Run",
+   0.5
+  ],
+  [
+   "To Utah Express",
+   "To Utah Express / Dan's Run",
+   "To Utah Express / Dan's Run 2",
+   0.5
+  ],
+  [
+   "The Diamond",
+   "The Diamond / Philpot Ridge",
+   "The Diamond / Bear Springs Traverse",
+   1.8
+  ],
+  [
+   "Sun King",
+   "Sun King / The Walrus",
+   "Sun King",
+   2.8
+  ],
+  [
+   "Sun King",
+   "Sun King",
+   "Sun King / Elk Ridge",
+   0.5
+  ],
+  [
+   "Gordon's",
+   "Gordon's / Elk Ridge",
+   "Gordon's 2",
+   1.2
+  ],
+  [
+   "Gordon's",
+   "Gordon's 2",
+   "Gordon's",
+   0.6
+  ],
+  [
+   "Gordon's",
+   "Gordon's",
+   "Gordon's 3",
+   0.6
+  ],
+  [
+   "Gordon's",
+   "Gordon's 3",
+   "Sun King",
+   0.8
+  ],
+  [
+   "Snow King",
+   "Snow King / Unnamed run",
+   "Snow King 3",
+   2.3
+  ],
+  [
+   "Snow King",
+   "Snow King 3",
+   "Snow King",
+   0.9
+  ],
+  [
+   "Snow King",
+   "Snow King",
+   "Snow King 4",
+   0.5
+  ],
+  [
+   "Snow King",
+   "Snow King 4",
+   "Snow King 2",
+   0.5
+  ],
+  [
+   "Snow King",
+   "Snow King 2",
+   "Snow King / Hollywood",
+   0.5
+  ],
+  [
+   "Needles Run",
+   "Needles Run / Porcupine Traverse",
+   "Needles Run 2",
+   0.9
+  ],
+  [
+   "Needles Run",
+   "Needles Run 2",
+   "Needles Run 11",
+   0.5
+  ],
+  [
+   "Needles Run",
+   "Needles Run 11",
+   "Needles Run 9",
+   0.9
+  ],
+  [
+   "Needles Run",
+   "Needles Run 9",
+   "Needles Run 8",
+   0.5
+  ],
+  [
+   "Needles Run",
+   "Needles Run 8",
+   "Needles Run 4",
+   1.1
+  ],
+  [
+   "Needles Run",
+   "Needles Run 4",
+   "Needles Run 3",
+   0.5
+  ],
+  [
+   "Needles Run",
+   "Needles Run 3",
+   "Needles Run 5",
+   0.5
+  ],
+  [
+   "Needles Run",
+   "Needles Run 5",
+   "Needles Run",
+   0.5
+  ],
+  [
+   "Bear Wallow",
+   "Bear Wallow / Dwayne's",
+   "Bear Wallow / Penny Lane",
+   1.9
+  ],
+  [
+   "The Walrus",
+   "The Walrus / Strawberry Fields",
+   "Sun King / The Walrus",
+   1.0
+  ],
+  [
+   "Beaver Slide",
+   "Wildcat top",
+   "Beaver Slide",
+   0.9
+  ],
+  [
+   "Beaver Slide",
+   "Beaver Slide",
+   "Bear Hallow",
+   1.0
+  ],
+  [
+   "Hohmann's",
+   "Hohmann's / Elk Ridge",
+   "Hohmann's",
+   0.7
+  ],
+  [
+   "Hohmann's",
+   "Hohmann's",
+   "Hohmann's / Last Chance",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Allen Peak Tram bottom",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Wolverine",
+   "Wolverine / Main Street",
+   "Wolverine",
+   0.8
+  ],
+  [
+   "Wolverine",
+   "Wolverine",
+   "Wolverine / Elk Ridge",
+   2.3
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Gordon's",
+   0.9
+  ],
+  [
+   "Sunny Side",
+   "Sunny Side / Unnamed run",
+   "Middle Bowl Express bottom",
+   1.7
+  ],
+  [
+   "The Burn",
+   "Snow King",
+   "The Burn / FTS",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Mt. Ogden Road",
+   "Unnamed run / Mt. Ogden Road 2",
+   3.5
+  ],
+  [
+   "Dan's Run",
+   "DeMoisy Express top",
+   "To Utah Express / Dan's Run",
+   0.5
+  ],
+  [
+   "Dan's Run",
+   "To Utah Express / Dan's Run",
+   "Dan's Run / Unnamed run",
+   0.5
+  ],
+  [
+   "Bear Hollow Woods",
+   "Slo Road / Bear Hollow Woods",
+   "Bear Hollow Woods",
+   0.5
+  ],
+  [
+   "Bear Hollow Woods",
+   "Bear Hollow Woods",
+   "Bear Hallow 2",
+   1.1
+  ],
+  [
+   "Dwayne's",
+   "Bear Hollow Woods",
+   "Bear Wallow / Dwayne's",
+   0.7
+  ],
+  [
+   "Dwayne's",
+   "Bear Wallow / Dwayne's",
+   "Dwayne's / Willow Springs",
+   1.2
+  ],
+  [
+   "Smokey's",
+   "Smokey's / Cirque",
+   "Smokey's / Main Street",
+   1.0
+  ],
+  [
+   "Littlecat",
+   "Little Cat Express Quad top",
+   "Squirrel 2",
+   0.5
+  ],
+  [
+   "Littlecat",
+   "Squirrel 2",
+   "Littlecat 2",
+   0.5
+  ],
+  [
+   "Littlecat",
+   "Littlecat 2",
+   "Littlecat",
+   0.8
+  ],
+  [
+   "Littlecat",
+   "Littlecat",
+   "Little Cat Express Quad bottom",
+   0.6
+  ],
+  [
+   "Littlecat",
+   "Little Cat Express Quad bottom",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Centennial",
+   "Centennial / Bash",
+   "Centennial / Wildcat Bowl",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Sun King / The Walrus",
+   "Unnamed run 2",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Gordon's 2",
+   1.0
+  ],
+  [
+   "Needles Run",
+   "Needles Run",
+   "Needles Run 6",
+   0.5
+  ],
+  [
+   "Needles Run",
+   "Needles Run 6",
+   "Needles Run 10",
+   0.7
+  ],
+  [
+   "Needles Run",
+   "Needles Run 10",
+   "Needles Run 7",
+   0.5
+  ],
+  [
+   "Needles Run",
+   "Needles Run 7",
+   "Needles Run / City Hall",
+   1.3
+  ],
+  [
+   "119",
+   "119 / Unnamed run",
+   "119",
+   0.5
+  ],
+  [
+   "119",
+   "119",
+   "119 2",
+   1.2
+  ],
+  [
+   "Willow Springs",
+   "Willow Springs",
+   "Willow Springs / Penny Lane",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Allen Peak Tram bottom",
+   "Snow King / Unnamed run",
+   0.5
+  ],
+  [
+   "Bear Springs",
+   "Becker top",
+   "Bear Springs 2",
+   1.1
+  ],
+  [
+   "Bear Springs",
+   "Bear Springs 2",
+   "Bear Springs",
+   1.1
+  ],
+  [
+   "Bear Springs",
+   "Bear Springs",
+   "Bear Springs 3",
+   0.5
+  ],
+  [
+   "Bear Springs",
+   "Bear Springs 3",
+   "Bear Springs 4",
+   2.2
+  ],
+  [
+   "Bear Springs",
+   "Bear Springs 4",
+   "Bear Springs / Last Chance",
+   1.5
+  ],
+  [
+   "White Room",
+   "White Room / Elk Ridge",
+   "White Room / Main Street",
+   1.0
+  ],
+  [
+   "Willow Springs",
+   "Slo Road",
+   "Willow Springs",
+   1.9
+  ],
+  [
+   "Willow Springs",
+   "Willow Springs",
+   "Dwayne's / Willow Springs",
+   0.5
+  ],
+  [
+   "Willow Springs",
+   "Dwayne's / Willow Springs",
+   "Willow Springs / Penny Lane 2",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Jani's",
+   "Unnamed run / FTS",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Elk Ridge",
+   "Unnamed run / Elk Ridge 2",
+   1.3
+  ],
+  [
+   "Penny Lane",
+   "Penny Lane",
+   "Penny Lane 2",
+   2.0
+  ],
+  [
+   "Penny Lane",
+   "Penny Lane 2",
+   "Penny Lane / Unnamed run",
+   1.3
+  ],
+  [
+   "Main Street",
+   "Strawberry Express Gondola top",
+   "Main Street",
+   1.2
+  ],
+  [
+   "Wildflower Finish",
+   "Wildflower Finish / City Hall",
+   "Wildflower Finish",
+   1.3
+  ],
+  [
+   "Wildflower Finish",
+   "Wildflower Finish",
+   "John Paul Express Quad bottom",
+   0.9
+  ],
+  [
+   "Sweet Revenge",
+   "Sweet Revenge / Dogleg",
+   "Sweet Revenge 7",
+   0.6
+  ],
+  [
+   "Sweet Revenge",
+   "Sweet Revenge 7",
+   "Sweet Revenge 2",
+   0.5
+  ],
+  [
+   "Sweet Revenge",
+   "Sweet Revenge 2",
+   "Sweet Revenge 8",
+   0.6
+  ],
+  [
+   "Sweet Revenge",
+   "Sweet Revenge 8",
+   "Sweet Revenge",
+   1.1
+  ],
+  [
+   "Sweet Revenge",
+   "Sweet Revenge",
+   "Sweet Revenge 5",
+   0.5
+  ],
+  [
+   "Sweet Revenge",
+   "Sweet Revenge 5",
+   "Sweet Revenge 6",
+   0.5
+  ],
+  [
+   "Sweet Revenge",
+   "Sweet Revenge 6",
+   "Sweet Revenge 4",
+   0.7
+  ],
+  [
+   "Sweet Revenge",
+   "Sweet Revenge 4",
+   "Pineview / Sweet Revenge",
+   0.5
+  ],
+  [
+   "Sweet Revenge",
+   "Pineview / Sweet Revenge",
+   "Sweet Revenge 3",
+   0.6
+  ],
+  [
+   "Sweet Revenge",
+   "Sweet Revenge 3",
+   "Sweet Revenge / Dan's Run",
+   0.5
+  ],
+  [
+   "Rainer's",
+   "Rainer's / Porky Face",
+   "Needles Run 2",
+   1.2
+  ],
+  [
+   "Grizz",
+   "Grizz / Philpot Ridge",
+   "Grizz / Dan's Run",
+   1.1
+  ],
+  [
+   "Elk Ridge",
+   "Strawberry Express Gondola top",
+   "White Room / Elk Ridge",
+   0.5
+  ],
+  [
+   "Elk Ridge",
+   "White Room / Elk Ridge",
+   "Unnamed run / Elk Ridge",
+   1.1
+  ],
+  [
+   "Elk Ridge",
+   "Unnamed run / Elk Ridge",
+   "Unnamed run / Elk Ridge 2",
+   0.7
+  ],
+  [
+   "Elk Ridge",
+   "Unnamed run / Elk Ridge 2",
+   "Elk Ridge 2",
+   0.5
+  ],
+  [
+   "Elk Ridge",
+   "Elk Ridge 2",
+   "Gordon's / Elk Ridge",
+   2.0
+  ],
+  [
+   "Elk Ridge",
+   "Gordon's / Elk Ridge",
+   "Unnamed run 2",
+   0.8
+  ],
+  [
+   "Elk Ridge",
+   "Unnamed run 2",
+   "Sun King",
+   2.2
+  ],
+  [
+   "Elk Ridge",
+   "Sun King",
+   "Sun King / Elk Ridge",
+   0.5
+  ],
+  [
+   "Elk Ridge",
+   "Sun King / Elk Ridge",
+   "Elk Ridge 3",
+   0.5
+  ],
+  [
+   "Elk Ridge",
+   "Elk Ridge 3",
+   "Wolverine / Elk Ridge",
+   1.6
+  ],
+  [
+   "Elk Ridge",
+   "Wolverine / Elk Ridge",
+   "Elk Ridge",
+   0.5
+  ],
+  [
+   "Elk Ridge",
+   "Elk Ridge",
+   "Hohmann's / Elk Ridge",
+   0.5
+  ],
+  [
+   "Elk Ridge",
+   "Hohmann's / Elk Ridge",
+   "Elk Ridge / Last Chance",
+   3.1
+  ],
+  [
+   "Rocky J",
+   "Pineview / Sweet Revenge",
+   "Rocky J",
+   0.6
+  ],
+  [
+   "Rocky J",
+   "Rocky J",
+   "Rocky J / Bullwinkle",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Wildflower Downhill",
+   "Needles Run 3",
+   1.2
+  ],
+  [
+   "John Paul Face",
+   "John Paul Face / Wildflower Downhill",
+   "Needles Run 4",
+   2.4
+  ],
+  [
+   "Unnamed run",
+   "Wildcat top",
+   "Sunny Side / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Sunny Side / Unnamed run",
+   "Unnamed run / Boardwalk",
+   0.5
+  ],
+  [
+   "Middle Bowl Traverse",
+   "Porcupine top",
+   "Middle Bowl Traverse 2",
+   0.5
+  ],
+  [
+   "Middle Bowl Traverse",
+   "Middle Bowl Traverse 2",
+   "Middle Bowl Traverse",
+   1.1
+  ],
+  [
+   "Deane's",
+   "Snow King 2",
+   "Deane's / FTS",
+   2.0
+  ],
+  [
+   "Penny Lane",
+   "Bear Springs",
+   "Penny Lane 4",
+   0.5
+  ],
+  [
+   "Penny Lane",
+   "Penny Lane 4",
+   "Penny Lane 3",
+   1.1
+  ],
+  [
+   "Penny Lane",
+   "Penny Lane 3",
+   "Willow Springs / Penny Lane",
+   1.6
+  ],
+  [
+   "Penny Lane",
+   "Willow Springs / Penny Lane",
+   "Willow Springs / Penny Lane 2",
+   0.8
+  ],
+  [
+   "Penny Lane",
+   "Willow Springs / Penny Lane 2",
+   "Bear Wallow / Penny Lane",
+   0.6
+  ],
+  [
+   "Penny Lane",
+   "Bear Wallow / Penny Lane",
+   "Penny Lane",
+   0.6
+  ],
+  [
+   "Bobcat Ridge",
+   "Bobcat Ridge / Eas A Long",
+   "Bobcat Ridge / Stein's",
+   2.3
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Porcupine Traverse",
+   "119 / Unnamed run",
+   0.5
+  ],
+  [
+   "Main Street",
+   "DeMoisy Express top",
+   "Sun King / The Walrus",
+   0.5
+  ],
+  [
+   "Main Street",
+   "Sun King / The Walrus",
+   "Main Street 2",
+   0.8
+  ],
+  [
+   "FTS",
+   "The Burn / FTS",
+   "FTS 3",
+   0.5
+  ],
+  [
+   "FTS",
+   "FTS 3",
+   "Deane's / FTS",
+   0.5
+  ],
+  [
+   "FTS",
+   "Deane's / FTS",
+   "Unnamed run / FTS",
+   0.6
+  ],
+  [
+   "FTS",
+   "Unnamed run / FTS",
+   "FTS 4",
+   1.7
+  ],
+  [
+   "FTS",
+   "FTS 4",
+   "FTS 2",
+   1.0
+  ],
+  [
+   "FTS",
+   "FTS 2",
+   "Wildflower Finish",
+   0.7
+  ],
+  [
+   "Last Chance",
+   "White Lightning / Last Chance",
+   "Last Chance 2",
+   1.1
+  ],
+  [
+   "Last Chance",
+   "Last Chance 2",
+   "Last Chance",
+   0.5
+  ],
+  [
+   "Last Chance",
+   "Last Chance",
+   "Elk Ridge / Last Chance",
+   3.5
+  ],
+  [
+   "Last Chance",
+   "Elk Ridge / Last Chance",
+   "Hohmann's / Last Chance",
+   0.5
+  ],
+  [
+   "Last Chance",
+   "Hohmann's / Last Chance",
+   "Last Chance 3",
+   1.1
+  ],
+  [
+   "Last Chance",
+   "Last Chance 3",
+   "Strawberry Express Gondola bottom",
+   0.6
+  ],
+  [
+   "Last Chance",
+   "Strawberry Express Gondola bottom",
+   "Bear Springs / Last Chance",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Littlecat",
+   "Orson's / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Orson's / Unnamed run",
+   "John Paul Express Quad bottom",
+   0.5
+  ],
+  [
+   "Coyote Cutoff",
+   "Wolverine",
+   "Coyote Cutoff / Coyote Bowl",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Blue Grouse",
+   "Needles Run 5",
+   0.8
+  ],
+  [
+   "Grizzly Finish",
+   "Grizzly Finish / Wildflower Downhill",
+   "Grizzly Finish",
+   0.5
+  ],
+  [
+   "Grizzly Finish",
+   "Grizzly Finish",
+   "Grizzly Finish 2",
+   0.8
+  ],
+  [
+   "Grizzly Finish",
+   "Grizzly Finish 2",
+   "FTS 2",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "Slo Road 2",
+   "Slo Road 3",
+   0.5
+  ],
+  [
+   "Bear Springs Traverse",
+   "Bear Springs Traverse / Main Street",
+   "Bear Springs Traverse 2",
+   0.5
+  ],
+  [
+   "Bear Springs Traverse",
+   "Bear Springs Traverse 2",
+   "Bear Springs Traverse",
+   1.3
+  ],
+  [
+   "Bear Springs Traverse",
+   "Bear Springs Traverse",
+   "The Diamond / Bear Springs Traverse",
+   0.6
+  ],
+  [
+   "Bear Springs Traverse",
+   "The Diamond / Bear Springs Traverse",
+   "Bear Springs 2",
+   0.5
+  ],
+  [
+   "Trappers Trail",
+   "Bear Springs Traverse",
+   "Bear Springs 3",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Penny Lane / Unnamed run",
+   "Becker bottom",
+   0.7
+  ],
+  [
+   "119",
+   "119 2",
+   "119 / Herbert's",
+   1.3
+  ],
+  [
+   "Jani's",
+   "Jani's / Hollywood",
+   "Unnamed run / Jani's",
+   0.8
+  ],
+  [
+   "Rocky J",
+   "Rocky J / Bullwinkle 2",
+   "Rocky J",
+   0.5
+  ],
+  [
+   "School Hill",
+   "Bear Hallow / School Hill",
+   "School Hill",
+   1.1
+  ],
+  [
+   "School Hill",
+   "School Hill",
+   "Little Cat Express Quad top",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Gordon's / Elk Ridge",
+   "Dan's Run / Unnamed run",
+   2.2
+  ],
+  [
+   "Mt. Ogden Road",
+   "Mt. Ogden Road",
+   "Mt. Ogden Road 5",
+   0.6
+  ],
+  [
+   "Mt. Ogden Road",
+   "Mt. Ogden Road 5",
+   "Mt. Ogden Road 3",
+   0.7
+  ],
+  [
+   "Mt. Ogden Road",
+   "Mt. Ogden Road 3",
+   "Mt. Ogden Road 2",
+   1.1
+  ],
+  [
+   "3 skis",
+   "3 skis / Women's GS",
+   "Needles Run 6",
+   1.7
+  ],
+  [
+   "The Jungle",
+   "The Jungle / Hollywood",
+   "Snow King 3",
+   1.1
+  ],
+  [
+   "Roy's",
+   "Mt. Ogden Road 3",
+   "Needles Run 4",
+   3.5
+  ],
+  [
+   "Beck's",
+   "Beck's / Wildcat Ridge",
+   "Porcupine bottom",
+   1.6
+  ],
+  [
+   "Beck's",
+   "Porcupine bottom",
+   "Needles Run 10",
+   0.5
+  ],
+  [
+   "Beck's",
+   "Needles Run 10",
+   "Needles Run 7",
+   0.5
+  ],
+  [
+   "Hollywood",
+   "The Jungle / Hollywood",
+   "Snow King / Hollywood",
+   2.3
+  ],
+  [
+   "Hollywood",
+   "Snow King / Hollywood",
+   "Jani's / Hollywood",
+   0.7
+  ],
+  [
+   "Hollywood",
+   "Jani's / Hollywood",
+   "Grizzly Finish",
+   1.3
+  ],
+  [
+   "Porcupine Traverse",
+   "Porcupine Traverse / Strawberry Traverse",
+   "Sweet Revenge 2",
+   0.9
+  ],
+  [
+   "Porcupine Traverse",
+   "Sweet Revenge 2",
+   "Unnamed run / Porcupine Traverse",
+   1.1
+  ],
+  [
+   "Porcupine Traverse",
+   "Unnamed run / Porcupine Traverse",
+   "Needles Run / Porcupine Traverse",
+   0.5
+  ],
+  [
+   "Ellison's",
+   "Snow King 4",
+   "FTS 3",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Philpot Ridge",
+   "Bear Springs Traverse 2",
+   0.9
+  ],
+  [
+   "Dan's Run",
+   "Dan's Run / Strawberry Traverse",
+   "To Utah Express / Dan's Run 2",
+   0.6
+  ],
+  [
+   "Dan's Run",
+   "To Utah Express / Dan's Run 2",
+   "Dan's Run",
+   0.7
+  ],
+  [
+   "Dan's Run",
+   "Dan's Run",
+   "Dan's Run 2",
+   1.0
+  ],
+  [
+   "Dan's Run",
+   "Dan's Run 2",
+   "Grizz / Dan's Run",
+   0.9
+  ],
+  [
+   "Dan's Run",
+   "Grizz / Dan's Run",
+   "Sweet Revenge / Dan's Run",
+   1.0
+  ],
+  [
+   "Dan's Run",
+   "Sweet Revenge / Dan's Run",
+   "Dan's Run 3",
+   1.1
+  ],
+  [
+   "Dan's Run",
+   "Dan's Run 3",
+   "Pineview / Dan's Run",
+   0.5
+  ],
+  [
+   "Middle Bowl Traverse",
+   "Middle Bowl Traverse",
+   "Needles Run / Porcupine Traverse",
+   1.5
+  ],
+  [
+   "Middle Bowl Traverse",
+   "Needles Run / Porcupine Traverse",
+   "119 / Unnamed run",
+   0.5
+  ],
+  [
+   "Middle Bowl Traverse",
+   "119 / Unnamed run",
+   "Sweet Revenge",
+   1.2
+  ],
+  [
+   "Wildcat Traverse",
+   "Bear Hallow",
+   "Bear Hallow 2",
+   0.5
+  ],
+  [
+   "Wildcat Traverse",
+   "Bear Hallow 2",
+   "Wildcat Traverse / Wildcat Bowl",
+   1.6
+  ],
+  [
+   "Carnhan's",
+   "Elk Ridge",
+   "Carnhan's / Coyote Bowl",
+   1.5
+  ],
+  [
+   "Snowshoe",
+   "Bear Hallow / School Hill",
+   "Snowshoe",
+   1.9
+  ],
+  [
+   "Snowshoe",
+   "Snowshoe",
+   "Penny Lane 2",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Bear Springs / Last Chance",
+   "DeMoisy Express bottom",
+   0.5
+  ],
+  [
+   "Stein's",
+   "Bear Hallow / School Hill",
+   "Stein's 2",
+   0.5
+  ],
+  [
+   "Stein's",
+   "Stein's 2",
+   "Bobcat Ridge / Stein's",
+   1.1
+  ],
+  [
+   "Stein's",
+   "Bobcat Ridge / Stein's",
+   "Stein's",
+   0.5
+  ],
+  [
+   "Stein's",
+   "Stein's",
+   "Stein's / Unnamed run",
+   0.5
+  ],
+  [
+   "Lo Fro Zone",
+   "Sweet Revenge 2",
+   "Sweet Revenge",
+   1.6
+  ],
+  [
+   "LMM",
+   "Sweet Revenge 3",
+   "Pineview",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Stein's",
+   "Stein's / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Stein's / Unnamed run",
+   "Unnamed run 5",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 5",
+   "Penny Lane / Unnamed run",
+   1.9
+  ],
+  [
+   "WFO",
+   "Gordon's 2",
+   "White Lightning / Last Chance",
+   4.2
+  ],
+  [
+   "Main Street",
+   "Elk Ridge 2",
+   "White Room / Main Street",
+   0.5
+  ],
+  [
+   "Main Street",
+   "White Room / Main Street",
+   "Main Street",
+   0.5
+  ],
+  [
+   "Main Street",
+   "Main Street",
+   "Main Street 5",
+   0.8
+  ],
+  [
+   "Main Street",
+   "Main Street 5",
+   "Main Street 4",
+   0.6
+  ],
+  [
+   "Main Street",
+   "Main Street 4",
+   "Main Street 2",
+   1.4
+  ],
+  [
+   "Main Street",
+   "Main Street 2",
+   "Main Street 3",
+   0.5
+  ],
+  [
+   "Main Street",
+   "Main Street 3",
+   "Wolverine / Main Street",
+   0.7
+  ],
+  [
+   "Main Street",
+   "Wolverine / Main Street",
+   "Smokey's / Main Street",
+   0.6
+  ],
+  [
+   "Main Street",
+   "Smokey's / Main Street",
+   "Bear Springs Traverse / Main Street",
+   0.5
+  ],
+  [
+   "Main Street",
+   "Bear Springs Traverse / Main Street",
+   "Bear Springs Traverse 2",
+   0.5
+  ],
+  [
+   "Sunshine Bowl",
+   "Becker top",
+   "Sunshine Bowl",
+   0.5
+  ],
+  [
+   "Sunshine Bowl",
+   "Sunshine Bowl",
+   "Penny Lane 3",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "Beaver Slide",
+   "Unnamed run / Eas A Long",
+   0.5
+  ],
+  [
+   "Bullwinkle",
+   "Sweet Revenge 4",
+   "Rocky J / Bullwinkle 2",
+   0.5
+  ],
+  [
+   "Bullwinkle",
+   "Rocky J / Bullwinkle 2",
+   "Rocky J / Bullwinkle",
+   1.3
+  ],
+  [
+   "Bullwinkle",
+   "Rocky J / Bullwinkle",
+   "Middle Bowl Express bottom",
+   0.5
+  ],
+  [
+   "Wildcat Bowl",
+   "Wildcat Bowl / Wildcat Ridge",
+   "Wildcat Bowl 2",
+   1.1
+  ],
+  [
+   "Wildcat Bowl",
+   "Wildcat Bowl 2",
+   "Wildcat Traverse / Wildcat Bowl",
+   0.8
+  ],
+  [
+   "Wildcat Bowl",
+   "Wildcat Traverse / Wildcat Bowl",
+   "Centennial / Wildcat Bowl",
+   1.2
+  ],
+  [
+   "Wildcat Bowl",
+   "Centennial / Wildcat Bowl",
+   "Stein's",
+   0.6
+  ],
+  [
+   "Wildcat Bowl",
+   "Stein's",
+   "Stein's / Unnamed run",
+   0.5
+  ],
+  [
+   "Wildcat Bowl",
+   "Stein's / Unnamed run",
+   "Wildcat Bowl",
+   0.9
+  ],
+  [
+   "Wildcat Bowl",
+   "Wildcat Bowl",
+   "Littlecat 2",
+   1.3
+  ],
+  [
+   "DeMoisey Face",
+   "DeMoisey Face / Coyote Bowl",
+   "DeMoisey Face",
+   0.6
+  ],
+  [
+   "DeMoisey Face",
+   "DeMoisey Face",
+   "DeMoisey Face / Unnamed run",
+   1.9
+  ],
+  [
+   "Dogleg",
+   "Middle Bowl Express top",
+   "Sweet Revenge / Dogleg",
+   0.5
+  ],
+  [
+   "Sunshine",
+   "Middle Bowl Express top",
+   "Sunshine / Strawberry Traverse",
+   0.5
+  ],
+  [
+   "Pfeffalina",
+   "Sunshine Bowl",
+   "Penny Lane 4",
+   2.0
+  ],
+  [
+   "Gun Tower",
+   "Gun Tower / Moonshine Bowl",
+   "Gun Tower / Gordon's Gully",
+   1.9
+  ],
+  [
+   "Needles' Way",
+   "Middle Bowl Express top",
+   "Needles' Way",
+   0.5
+  ],
+  [
+   "Needles' Way",
+   "Needles' Way",
+   "Needles Express Gondola top",
+   0.5
+  ],
+  [
+   "Pork Barrel",
+   "Needles Express Gondola top",
+   "Unnamed run / Porcupine Traverse",
+   1.3
+  ],
+  [
+   "Twist and Shout",
+   "Gordon's 3",
+   "Twist and Shout / Gordon's Gully",
+   2.0
+  ],
+  [
+   "Mt. Ogden Road",
+   "Allen Peak Tram bottom",
+   "Unnamed run / Mt. Ogden Road",
+   0.5
+  ],
+  [
+   "Mt. Ogden Road",
+   "Unnamed run / Mt. Ogden Road",
+   "Mt. Ogden Road",
+   0.8
+  ],
+  [
+   "Mt. Ogden Road",
+   "Mt. Ogden Road",
+   "Mt. Ogden Road 2",
+   1.8
+  ],
+  [
+   "Mt. Ogden Road",
+   "Mt. Ogden Road 2",
+   "Unnamed run / Mt. Ogden Road 2",
+   0.5
+  ],
+  [
+   "Mt. Ogden Road",
+   "Unnamed run / Mt. Ogden Road 2",
+   "Mt. Ogden Road 4",
+   0.5
+  ],
+  [
+   "Mt. Ogden Road",
+   "Mt. Ogden Road 4",
+   "Needles Run 8",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "DeMoisey Face",
+   "DeMoisey Face / Unnamed run",
+   1.9
+  ],
+  [
+   "Grizzly Start",
+   "Grizzly Start",
+   "Unnamed run 4",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "To Utah Express / Dan's Run 2",
+   "Dan's Run / Unnamed run",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Dan's Run / Unnamed run",
+   "Main Street 3",
+   0.8
+  ],
+  [
+   "Utah Express",
+   "To Utah Express / Dan's Run 2",
+   "Utah Express / Moose Mound",
+   2.9
+  ],
+  [
+   "Dry Bowl",
+   "Dry Bowl / Grizzly Downhill",
+   "Mt. Ogden Road 3",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Bear Springs / Last Chance",
+   "Strawberry Express Gondola bottom",
+   0.5
+  ],
+  [
+   "Pig Pen",
+   "Grizzly Finish 2",
+   "FTS 4",
+   1.3
+  ],
+  [
+   "Hohmann's",
+   "Hohmann's",
+   "Hohmann's / Coyote Bowl",
+   1.3
+  ],
+  [
+   "Dan's Run",
+   "Dan's Run / Unnamed run",
+   "Dan's Run",
+   0.5
+  ],
+  [
+   "Boardwalk",
+   "Sweet Revenge 5",
+   "119 2",
+   0.9
+  ],
+  [
+   "Boardwalk",
+   "119 2",
+   "Unnamed run / Boardwalk",
+   1.2
+  ],
+  [
+   "Strawberry Traverse",
+   "Needles' Way",
+   "Sunshine / Strawberry Traverse",
+   0.5
+  ],
+  [
+   "Strawberry Traverse",
+   "Sunshine / Strawberry Traverse",
+   "Sweet Revenge / Dogleg",
+   0.5
+  ],
+  [
+   "Strawberry Traverse",
+   "Sweet Revenge / Dogleg",
+   "Porcupine Traverse / Strawberry Traverse",
+   0.9
+  ],
+  [
+   "Strawberry Traverse",
+   "Porcupine Traverse / Strawberry Traverse",
+   "Dan's Run / Strawberry Traverse",
+   0.7
+  ],
+  [
+   "Strawberry Traverse",
+   "Dan's Run / Strawberry Traverse",
+   "To Utah Express / Dan's Run",
+   0.8
+  ],
+  [
+   "Strawberry Traverse",
+   "To Utah Express / Dan's Run",
+   "Main Street 2",
+   0.9
+  ],
+  [
+   "Strawberry Traverse",
+   "Main Street 2",
+   "Main Street 3",
+   0.5
+  ],
+  [
+   "Harold's",
+   "School Hill",
+   "Harold's / Becker Face",
+   0.8
+  ],
+  [
+   "Gordon's Gully",
+   "Elk Ridge 3",
+   "Twist and Shout / Gordon's Gully",
+   1.1
+  ],
+  [
+   "Gordon's Gully",
+   "Twist and Shout / Gordon's Gully",
+   "Gun Tower / Gordon's Gully",
+   1.4
+  ],
+  [
+   "Gordon's Gully",
+   "Gun Tower / Gordon's Gully",
+   "Last Chance",
+   1.3
+  ],
+  [
+   "Eas A Long",
+   "Sunny Side / Unnamed run",
+   "Wildcat top",
+   0.5
+  ],
+  [
+   "Eas A Long",
+   "Wildcat top",
+   "Unnamed run / Eas A Long",
+   1.3
+  ],
+  [
+   "Eas A Long",
+   "Unnamed run / Eas A Long",
+   "Bobcat Ridge / Eas A Long",
+   0.6
+  ],
+  [
+   "Eas A Long",
+   "Bobcat Ridge / Eas A Long",
+   "Bear Hallow",
+   1.0
+  ],
+  [
+   "Bash",
+   "Centennial / Bash",
+   "Wildcat Bowl",
+   2.7
+  ],
+  [
+   "Catastrophe Rocks!",
+   "Mt. Ogden Road 2",
+   "Needles Run 4",
+   3.6
+  ],
+  [
+   "Slo Road",
+   "Slo Road / Bear Hollow Woods",
+   "Dan's Run 3",
+   1.0
+  ],
+  [
+   "Slo Road",
+   "Dan's Run 3",
+   "Pineview / Dan's Run",
+   0.5
+  ],
+  [
+   "Slo Road",
+   "Pineview / Dan's Run",
+   "Middle Bowl Express bottom",
+   0.5
+  ],
+  [
+   "Lower Main Street",
+   "Bear Springs Traverse 2",
+   "DeMoisey Face / Unnamed run",
+   3.5
+  ],
+  [
+   "Lower Main Street",
+   "DeMoisey Face / Unnamed run",
+   "Strawberry Express Gondola bottom",
+   2.8
+  ],
+  [
+   "Two Bit Street",
+   "Sweet Revenge 6",
+   "Two Bit Street / Herbert's",
+   2.2
+  ],
+  [
+   "City Hall",
+   "Needles Run / City Hall",
+   "Wildflower Finish / City Hall",
+   0.5
+  ],
+  [
+   "City Hall",
+   "Wildflower Finish / City Hall",
+   "Needles Express Gondola bottom",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Penny Lane 2",
+   "Little Cat Express Quad top",
+   0.6
+  ],
+  [
+   "Showboat",
+   "Needles Run / City Hall",
+   "Showboat",
+   0.5
+  ],
+  [
+   "Showboat",
+   "Showboat",
+   "Unnamed run 5",
+   0.5
+  ],
+  [
+   "Showboat",
+   "Unnamed run 5",
+   "Wildcat Handle Tow top",
+   0.9
+  ],
+  [
+   "Showboat",
+   "Wildcat Handle Tow top",
+   "Becker bottom",
+   0.6
+  ],
+  [
+   "Showboat",
+   "Becker bottom",
+   "Littlecat 2",
+   0.5
+  ],
+  [
+   "Strawberry Fields",
+   "Strawberry Fields / Sowback",
+   "The Walrus / Strawberry Fields",
+   0.7
+  ],
+  [
+   "Strawberry Fields",
+   "The Walrus / Strawberry Fields",
+   "Main Street 4",
+   1.0
+  ],
+  [
+   "Moonshine Bowl",
+   "Gordon's 2",
+   "White Lightning / Moonshine Bowl",
+   0.7
+  ],
+  [
+   "Moonshine Bowl",
+   "White Lightning / Moonshine Bowl",
+   "Gun Tower / Moonshine Bowl",
+   1.1
+  ],
+  [
+   "Moonshine Bowl",
+   "Gun Tower / Moonshine Bowl",
+   "Last Chance 2",
+   2.6
+  ],
+  [
+   "Coyote Bowl",
+   "Bear Springs Traverse 2",
+   "Coyote Cutoff / Coyote Bowl",
+   0.5
+  ],
+  [
+   "Coyote Bowl",
+   "Coyote Cutoff / Coyote Bowl",
+   "DeMoisey Face / Coyote Bowl",
+   0.5
+  ],
+  [
+   "Coyote Bowl",
+   "DeMoisey Face / Coyote Bowl",
+   "Carnhan's / Coyote Bowl",
+   2.2
+  ],
+  [
+   "Coyote Bowl",
+   "Carnhan's / Coyote Bowl",
+   "Hohmann's / Coyote Bowl",
+   0.9
+  ],
+  [
+   "Coyote Bowl",
+   "Hohmann's / Coyote Bowl",
+   "Strawberry Express Gondola bottom",
+   2.2
+  ],
+  [
+   "Cirque",
+   "Cirque / Philpot Ridge",
+   "Smokey's / Cirque",
+   0.5
+  ],
+  [
+   "Cirque",
+   "Smokey's / Cirque",
+   "Dan's Run 2",
+   0.8
+  ],
+  [
+   "Grizzly Downhill",
+   "Unnamed run 4",
+   "Snow King / Unnamed run",
+   0.5
+  ],
+  [
+   "Grizzly Downhill",
+   "Snow King / Unnamed run",
+   "Dry Bowl / Grizzly Downhill",
+   0.5
+  ],
+  [
+   "Grizzly Downhill",
+   "Dry Bowl / Grizzly Downhill",
+   "The Jungle / Hollywood",
+   0.8
+  ],
+  [
+   "Grizzly Downhill",
+   "The Jungle / Hollywood",
+   "Grizzly Downhill / Wildflower Downhill",
+   2.6
+  ],
+  [
+   "Fro Zone",
+   "Sunshine / Strawberry Traverse",
+   "Sweet Revenge 7",
+   0.6
+  ],
+  [
+   "Blue Grouse",
+   "Unnamed run / Boardwalk",
+   "Unnamed run / Blue Grouse",
+   1.2
+  ],
+  [
+   "Blue Grouse",
+   "Unnamed run / Blue Grouse",
+   "Needles Run",
+   1.2
+  ],
+  [
+   "To DeMoisy",
+   "Bear Springs 4",
+   "DeMoisy Express bottom",
+   1.1
+  ],
+  [
+   "Philpot Ridge",
+   "Dan's Run / Unnamed run",
+   "Cirque / Philpot Ridge",
+   0.5
+  ],
+  [
+   "Philpot Ridge",
+   "Cirque / Philpot Ridge",
+   "Smokey's / Cirque",
+   0.5
+  ],
+  [
+   "Philpot Ridge",
+   "Smokey's / Cirque",
+   "Grizz / Philpot Ridge",
+   0.6
+  ],
+  [
+   "Philpot Ridge",
+   "Grizz / Philpot Ridge",
+   "Unnamed run / Philpot Ridge",
+   0.6
+  ],
+  [
+   "Philpot Ridge",
+   "Unnamed run / Philpot Ridge",
+   "The Diamond / Philpot Ridge",
+   0.5
+  ],
+  [
+   "Philpot Ridge",
+   "The Diamond / Philpot Ridge",
+   "Becker top",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Last Chance 3",
+   "DeMoisy Express bottom",
+   1.0
+  ],
+  [
+   "Porky Face",
+   "Middle Bowl Traverse",
+   "Rainer's / Porky Face",
+   0.5
+  ],
+  [
+   "Porky Face",
+   "Rainer's / Porky Face",
+   "Needles Run 9",
+   2.3
+  ],
+  [
+   "Wildflower Downhill",
+   "The Jungle / Hollywood",
+   "John Paul Face / Wildflower Downhill",
+   0.8
+  ],
+  [
+   "Wildflower Downhill",
+   "John Paul Face / Wildflower Downhill",
+   "Grizzly Downhill / Wildflower Downhill",
+   1.8
+  ],
+  [
+   "Wildflower Downhill",
+   "Grizzly Downhill / Wildflower Downhill",
+   "Unnamed run / Wildflower Downhill",
+   0.9
+  ],
+  [
+   "Wildflower Downhill",
+   "Unnamed run / Wildflower Downhill",
+   "Grizzly Finish / Wildflower Downhill",
+   1.0
+  ],
+  [
+   "Wildflower Downhill",
+   "Grizzly Finish / Wildflower Downhill",
+   "Needles Run 10",
+   1.0
+  ],
+  [
+   "Wildflower Downhill",
+   "Needles Run 10",
+   "Needles Run 7",
+   0.5
+  ],
+  [
+   "Orson's",
+   "Showboat",
+   "Unnamed run / Orson's",
+   0.7
+  ],
+  [
+   "Orson's",
+   "Unnamed run / Orson's",
+   "Wildcat Handle Tow bottom",
+   0.8
+  ],
+  [
+   "Orson's",
+   "Wildcat Handle Tow bottom",
+   "Orson's / Unnamed run",
+   0.6
+  ],
+  [
+   "Orson's",
+   "Orson's / Unnamed run",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Orson's",
+   "Unnamed run 3",
+   "Needles Express Gondola bottom",
+   0.5
+  ],
+  [
+   "Parson's",
+   "Unnamed run / Wildflower Downhill",
+   "Needles Run 10",
+   1.9
+  ],
+  [
+   "Powderhound Bowl",
+   "Middle Bowl Traverse 2",
+   "Mt. Ogden Road 4",
+   2.5
+  ],
+  [
+   "Unnamed run",
+   "Showboat",
+   "Unnamed run 5",
+   0.5
+  ],
+  [
+   "Staircase",
+   "Snow King / Unnamed run",
+   "Mt. Ogden Road 5",
+   0.6
+  ],
+  [
+   "Snowshoe",
+   "School Hill",
+   "Snowshoe",
+   0.5
+  ],
+  [
+   "Sowback",
+   "Strawberry Express Gondola top",
+   "Strawberry Fields / Sowback",
+   0.9
+  ],
+  [
+   "Sowback",
+   "Strawberry Fields / Sowback",
+   "Main Street 5",
+   1.3
+  ],
+  [
+   "Women's GS",
+   "3 skis / Women's GS",
+   "Wildcat Bowl 2",
+   0.6
+  ],
+  [
+   "Wildcat Ridge",
+   "Wildcat top",
+   "Wildcat Bowl / Wildcat Ridge",
+   0.5
+  ],
+  [
+   "Wildcat Ridge",
+   "Wildcat Bowl / Wildcat Ridge",
+   "3 skis / Women's GS",
+   0.6
+  ],
+  [
+   "Wildcat Ridge",
+   "3 skis / Women's GS",
+   "Beck's / Wildcat Ridge",
+   0.7
+  ],
+  [
+   "Wildcat Ridge",
+   "Beck's / Wildcat Ridge",
+   "Centennial / Bash",
+   1.0
+  ],
+  [
+   "Moose Mound",
+   "Sweet Revenge 8",
+   "Utah Express / Moose Mound",
+   2.6
+  ],
+  [
+   "Moose Mound",
+   "Utah Express / Moose Mound",
+   "Sweet Revenge 3",
+   0.5
+  ],
+  [
+   "25th Street",
+   "Slo Road 2",
+   "Dan's Run 3",
+   0.8
+  ],
+  [
+   "Becker Face",
+   "Stein's 2",
+   "Harold's / Becker Face",
+   1.7
+  ],
+  [
+   "Becker Face",
+   "Harold's / Becker Face",
+   "Penny Lane / Unnamed run",
+   1.2
+  ],
+  [
+   "Becker Face",
+   "Penny Lane / Unnamed run",
+   "Squirrel 2",
+   0.5
+  ],
+  [
+   "Herbert's",
+   "Needles Run 11",
+   "Unnamed run / Boardwalk",
+   1.3
+  ],
+  [
+   "Herbert's",
+   "Unnamed run / Boardwalk",
+   "119 / Herbert's",
+   0.9
+  ],
+  [
+   "Herbert's",
+   "119 / Herbert's",
+   "Two Bit Street / Herbert's",
+   0.7
+  ],
+  [
+   "Herbert's",
+   "Two Bit Street / Herbert's",
+   "Middle Bowl Express bottom",
+   0.6
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "Wildcat Handle Tow top",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "Becker bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "Wildcat Handle Tow bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow top",
+   "Penny Lane / Unnamed run",
+   2.6
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow top",
+   "Becker bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow top",
+   "Littlecat 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow top",
+   "Squirrel 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow top",
+   "Wildcat Handle Tow bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Middle Bowl Express bottom",
+   "Pineview / Dan's Run",
+   0.8
+  ],
+  [
+   "walk",
+   "Middle Bowl Express bottom",
+   "Bear Hallow",
+   3.1
+  ],
+  [
+   "walk",
+   "Middle Bowl Express bottom",
+   "Rocky J / Bullwinkle",
+   1.5
+  ],
+  [
+   "walk",
+   "Middle Bowl Express bottom",
+   "Pineview",
+   1.4
+  ],
+  [
+   "walk",
+   "Middle Bowl Express bottom",
+   "Two Bit Street / Herbert's",
+   1.9
+  ],
+  [
+   "walk",
+   "Middle Bowl Express bottom",
+   "Dan's Run 3",
+   1.4
+  ],
+  [
+   "walk",
+   "Needles Express Gondola bottom",
+   "Little Cat Express Quad bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Needles Express Gondola bottom",
+   "Orson's / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Needles Express Gondola bottom",
+   "Unnamed run 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Needles Express Gondola bottom",
+   "John Paul Express Quad bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Needles Express Gondola bottom",
+   "Unnamed lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Needles Express Gondola bottom",
+   "Unnamed lift bottom 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Needles Express Gondola bottom",
+   "Unnamed lift top",
+   2.6
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad bottom",
+   "Needles Express Gondola bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad bottom",
+   "Orson's / Unnamed run",
+   1.3
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad bottom",
+   "Unnamed run 3",
+   0.6
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad bottom",
+   "John Paul Express Quad bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Orson's / Unnamed run",
+   "Needles Express Gondola bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Orson's / Unnamed run",
+   "Little Cat Express Quad bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Orson's / Unnamed run",
+   "John Paul Express Quad bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad top",
+   "Penny Lane / Unnamed run",
+   1.1
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad top",
+   "Becker bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad top",
+   "Littlecat 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad top",
+   "Squirrel 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Becker top",
+   "Sweet Revenge / Dan's Run",
+   2.1
+  ],
+  [
+   "walk",
+   "Becker top",
+   "Slo Road 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Becker top",
+   "Slo Road 3",
+   2.5
+  ],
+  [
+   "walk",
+   "Becker top",
+   "Sunshine Bowl",
+   1.2
+  ],
+  [
+   "walk",
+   "Pineview / Dan's Run",
+   "Middle Bowl Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Sun King / The Walrus",
+   "DeMoisy Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Sunny Side / Unnamed run",
+   1.3
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Unnamed run / Boardwalk",
+   2.3
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Unnamed run / Blue Grouse",
+   3.3
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "119 / Herbert's",
+   1.9
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Beaver Slide",
+   3.1
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Wildcat Bowl / Wildcat Ridge",
+   1.6
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Two Bit Street / Herbert's",
+   3.0
+  ],
+  [
+   "walk",
+   "Allen Peak Tram bottom",
+   "Snow King / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Allen Peak Tram bottom",
+   "Unnamed run / Mt. Ogden Road",
+   1.7
+  ],
+  [
+   "walk",
+   "Allen Peak Tram bottom",
+   "Mt. Ogden Road",
+   2.3
+  ],
+  [
+   "walk",
+   "Allen Peak Tram bottom",
+   "Unnamed run 4",
+   0.9
+  ],
+  [
+   "walk",
+   "Allen Peak Tram bottom",
+   "Dry Bowl / Grizzly Downhill",
+   2.2
+  ],
+  [
+   "walk",
+   "Allen Peak Tram bottom",
+   "Mt. Ogden Road 5",
+   3.0
+  ],
+  [
+   "walk",
+   "Sunny Side / Unnamed run",
+   "Wildcat top",
+   1.3
+  ],
+  [
+   "walk",
+   "DeMoisy Express top",
+   "To Utah Express / Dan's Run",
+   1.3
+  ],
+  [
+   "walk",
+   "DeMoisy Express top",
+   "To Utah Express / Dan's Run 2",
+   2.4
+  ],
+  [
+   "walk",
+   "DeMoisy Express top",
+   "Sun King / The Walrus",
+   1.7
+  ],
+  [
+   "walk",
+   "DeMoisy Express top",
+   "Dan's Run / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "DeMoisy Express top",
+   "Dan's Run / Strawberry Traverse",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Needles Express Gondola bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Little Cat Express Quad bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "John Paul Express Quad bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Unnamed lift bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Unnamed lift top",
+   3.4
+  ],
+  [
+   "walk",
+   "Centennial / Bash",
+   "Porcupine bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Bear Springs / Last Chance",
+   "DeMoisy Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Bear Springs / Last Chance",
+   "Strawberry Express Gondola bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "White Room / Elk Ridge",
+   "Strawberry Express Gondola top",
+   1.2
+  ],
+  [
+   "walk",
+   "Penny Lane / Unnamed run",
+   "Wildcat Handle Tow top",
+   2.6
+  ],
+  [
+   "walk",
+   "Penny Lane / Unnamed run",
+   "Little Cat Express Quad top",
+   1.1
+  ],
+  [
+   "walk",
+   "Penny Lane / Unnamed run",
+   "Becker bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Strawberry Express Gondola top",
+   "White Room / Elk Ridge",
+   1.2
+  ],
+  [
+   "walk",
+   "John Paul Express Quad bottom",
+   "Needles Express Gondola bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "John Paul Express Quad bottom",
+   "Little Cat Express Quad bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "John Paul Express Quad bottom",
+   "Orson's / Unnamed run",
+   1.8
+  ],
+  [
+   "walk",
+   "John Paul Express Quad bottom",
+   "Unnamed run 3",
+   1.5
+  ],
+  [
+   "walk",
+   "John Paul Express Quad bottom",
+   "Wildflower Finish",
+   2.8
+  ],
+  [
+   "walk",
+   "John Paul Express Quad bottom",
+   "Unnamed lift bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "John Paul Express Quad bottom",
+   "Unnamed lift bottom 2",
+   3.0
+  ],
+  [
+   "walk",
+   "John Paul Express Quad bottom",
+   "Unnamed lift top",
+   2.2
+  ],
+  [
+   "walk",
+   "Rocky J / Bullwinkle",
+   "Middle Bowl Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Boardwalk",
+   "Wildcat top",
+   2.3
+  ],
+  [
+   "walk",
+   "Porcupine top",
+   "Middle Bowl Traverse 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Wildflower Finish",
+   "John Paul Express Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Wildflower Finish",
+   "Unnamed lift bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Wildflower Finish",
+   "Unnamed lift bottom 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Wildflower Finish",
+   "Unnamed lift top",
+   2.6
+  ],
+  [
+   "walk",
+   "Littlecat",
+   "Needles Express Gondola bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Littlecat",
+   "Little Cat Express Quad bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Littlecat",
+   "John Paul Express Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Slo Road 2",
+   "Becker top",
+   1.4
+  ],
+  [
+   "walk",
+   "Becker bottom",
+   "Orson's / Unnamed run",
+   3.2
+  ],
+  [
+   "walk",
+   "Becker bottom",
+   "Little Cat Express Quad top",
+   3.4
+  ],
+  [
+   "walk",
+   "Becker bottom",
+   "Littlecat",
+   2.5
+  ],
+  [
+   "walk",
+   "Becker bottom",
+   "Littlecat 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Becker bottom",
+   "Squirrel 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Becker bottom",
+   "Wildcat Handle Tow bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Rocky J",
+   "Middle Bowl Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Needles Run 6",
+   "Porcupine bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Allen Peak Tram bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Needles Run 7",
+   "Porcupine bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Dan's Run / Strawberry Traverse",
+   "DeMoisy Express top",
+   1.8
+  ],
+  [
+   "walk",
+   "Penny Lane 2",
+   "Little Cat Express Quad top",
+   2.3
+  ],
+  [
+   "walk",
+   "DeMoisy Express bottom",
+   "Bear Springs / Last Chance",
+   1.5
+  ],
+  [
+   "walk",
+   "DeMoisy Express bottom",
+   "Strawberry Express Gondola bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Pineview",
+   "Middle Bowl Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Beaver Slide",
+   "Middle Bowl Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Wildcat Ridge",
+   "Wildcat top",
+   1.6
+  ],
+  [
+   "walk",
+   "Littlecat 2",
+   "Becker bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Littlecat 2",
+   "Wildcat Handle Tow bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Middle Bowl Express top",
+   "Sweet Revenge / Dogleg",
+   1.9
+  ],
+  [
+   "walk",
+   "Middle Bowl Express top",
+   "Sunshine / Strawberry Traverse",
+   1.4
+  ],
+  [
+   "walk",
+   "Middle Bowl Express top",
+   "Needles Express Gondola top",
+   2.3
+  ],
+  [
+   "walk",
+   "Middle Bowl Express top",
+   "Needles' Way",
+   1.7
+  ],
+  [
+   "walk",
+   "Sunshine / Strawberry Traverse",
+   "Needles Express Gondola top",
+   2.4
+  ],
+  [
+   "walk",
+   "Needles Express Gondola top",
+   "Sweet Revenge / Dogleg",
+   3.2
+  ],
+  [
+   "walk",
+   "Needles Express Gondola top",
+   "Middle Bowl Express top",
+   2.3
+  ],
+  [
+   "walk",
+   "Needles Express Gondola top",
+   "Sunshine / Strawberry Traverse",
+   2.4
+  ],
+  [
+   "walk",
+   "Needles Express Gondola top",
+   "Needles' Way",
+   0.6
+  ],
+  [
+   "walk",
+   "Strawberry Express Gondola bottom",
+   "Bear Springs / Last Chance",
+   0.6
+  ],
+  [
+   "walk",
+   "Strawberry Express Gondola bottom",
+   "DeMoisy Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Strawberry Express Gondola bottom",
+   "Last Chance 3",
+   2.1
+  ],
+  [
+   "walk",
+   "Needles' Way",
+   "Middle Bowl Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Needles' Way",
+   "Needles Express Gondola top",
+   0.6
+  ],
+  [
+   "walk",
+   "Wildcat Bowl",
+   "Wildcat Handle Tow top",
+   2.1
+  ],
+  [
+   "walk",
+   "Two Bit Street / Herbert's",
+   "Middle Bowl Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Last Chance 3",
+   "Strawberry Express Gondola bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Needles Run 10",
+   "Porcupine bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Middle Bowl Traverse 2",
+   "Porcupine top",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Wildcat Handle Tow top",
+   3.1
+  ],
+  [
+   "walk",
+   "Dan's Run 3",
+   "Middle Bowl Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Squirrel 2",
+   "Wildcat Handle Tow top",
+   2.6
+  ],
+  [
+   "walk",
+   "Squirrel 2",
+   "Little Cat Express Quad top",
+   1.4
+  ],
+  [
+   "walk",
+   "Squirrel 2",
+   "Becker bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Squirrel 2",
+   "Wildcat Handle Tow bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Allen Peak Tram top",
+   "Grizzly Start",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Needles Express Gondola bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed run 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "John Paul Express Quad bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift bottom 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Needles Express Gondola bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "John Paul Express Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Needles Express Gondola bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed run 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "John Paul Express Quad bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Orson's / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Littlecat",
+   1.9
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Becker bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Littlecat 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Porcupine bottom",
+   "Needles Run 7",
+   0.7
+  ],
+  [
+   "walk",
+   "Porcupine bottom",
+   "Needles Run 10",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "Penny Lane / Unnamed run",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "Littlecat 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "Squirrel 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Penny Lane / Unnamed run",
+   "Littlecat 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Penny Lane / Unnamed run",
+   "Squirrel 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Penny Lane / Unnamed run",
+   "Wildcat Handle Tow bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Wildcat Bowl",
+   "Penny Lane / Unnamed run",
+   4.6
+  ],
+  [
+   "walk",
+   "Wildcat Bowl",
+   "Becker bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Wildcat Bowl",
+   "Littlecat 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Wildcat Bowl",
+   "Squirrel 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Wildcat Bowl",
+   "Wildcat Handle Tow bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Penny Lane / Unnamed run",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Becker bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Littlecat 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Squirrel 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Wildcat Handle Tow bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Squirrel 2",
+   "Penny Lane / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Squirrel 2",
+   "Littlecat 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Pineview / Dan's Run",
+   "Bear Hallow",
+   3.9
+  ],
+  [
+   "walk",
+   "Pineview / Dan's Run",
+   "Rocky J / Bullwinkle",
+   2.3
+  ],
+  [
+   "walk",
+   "Pineview / Dan's Run",
+   "Pineview",
+   2.2
+  ],
+  [
+   "walk",
+   "Pineview / Dan's Run",
+   "Two Bit Street / Herbert's",
+   2.8
+  ],
+  [
+   "walk",
+   "Pineview / Dan's Run",
+   "Dan's Run 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Rocky J / Bullwinkle",
+   "Pineview / Dan's Run",
+   2.3
+  ],
+  [
+   "walk",
+   "Rocky J / Bullwinkle",
+   "Bear Hallow",
+   4.6
+  ],
+  [
+   "walk",
+   "Rocky J / Bullwinkle",
+   "Pineview",
+   2.9
+  ],
+  [
+   "walk",
+   "Rocky J / Bullwinkle",
+   "Two Bit Street / Herbert's",
+   3.4
+  ],
+  [
+   "walk",
+   "Rocky J / Bullwinkle",
+   "Dan's Run 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Rocky J",
+   "Pineview / Dan's Run",
+   4.0
+  ],
+  [
+   "walk",
+   "Rocky J",
+   "Bear Hallow",
+   6.3
+  ],
+  [
+   "walk",
+   "Rocky J",
+   "Rocky J / Bullwinkle",
+   4.7
+  ],
+  [
+   "walk",
+   "Rocky J",
+   "Pineview",
+   4.6
+  ],
+  [
+   "walk",
+   "Rocky J",
+   "Two Bit Street / Herbert's",
+   5.2
+  ],
+  [
+   "walk",
+   "Rocky J",
+   "Dan's Run 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Pineview",
+   "Pineview / Dan's Run",
+   2.2
+  ],
+  [
+   "walk",
+   "Pineview",
+   "Bear Hallow",
+   4.4
+  ],
+  [
+   "walk",
+   "Pineview",
+   "Rocky J / Bullwinkle",
+   2.9
+  ],
+  [
+   "walk",
+   "Pineview",
+   "Two Bit Street / Herbert's",
+   3.3
+  ],
+  [
+   "walk",
+   "Pineview",
+   "Dan's Run 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Beaver Slide",
+   "Pineview / Dan's Run",
+   3.9
+  ],
+  [
+   "walk",
+   "Beaver Slide",
+   "Bear Hallow",
+   6.2
+  ],
+  [
+   "walk",
+   "Beaver Slide",
+   "Rocky J / Bullwinkle",
+   4.6
+  ],
+  [
+   "walk",
+   "Beaver Slide",
+   "Pineview",
+   4.5
+  ],
+  [
+   "walk",
+   "Beaver Slide",
+   "Two Bit Street / Herbert's",
+   5.0
+  ],
+  [
+   "walk",
+   "Beaver Slide",
+   "Dan's Run 3",
+   4.5
+  ],
+  [
+   "walk",
+   "Two Bit Street / Herbert's",
+   "Pineview / Dan's Run",
+   2.8
+  ],
+  [
+   "walk",
+   "Two Bit Street / Herbert's",
+   "Bear Hallow",
+   5.0
+  ],
+  [
+   "walk",
+   "Two Bit Street / Herbert's",
+   "Rocky J / Bullwinkle",
+   3.4
+  ],
+  [
+   "walk",
+   "Two Bit Street / Herbert's",
+   "Pineview",
+   3.3
+  ],
+  [
+   "walk",
+   "Two Bit Street / Herbert's",
+   "Dan's Run 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Dan's Run 3",
+   "Pineview / Dan's Run",
+   2.2
+  ],
+  [
+   "walk",
+   "Dan's Run 3",
+   "Bear Hallow",
+   4.5
+  ],
+  [
+   "walk",
+   "Dan's Run 3",
+   "Rocky J / Bullwinkle",
+   2.9
+  ],
+  [
+   "walk",
+   "Dan's Run 3",
+   "Pineview",
+   2.8
+  ],
+  [
+   "walk",
+   "Dan's Run 3",
+   "Two Bit Street / Herbert's",
+   3.4
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad bottom",
+   "Unnamed lift bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad bottom",
+   "Unnamed lift bottom 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad bottom",
+   "Unnamed lift top",
+   3.9
+  ],
+  [
+   "walk",
+   "Orson's / Unnamed run",
+   "Unnamed run 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Orson's / Unnamed run",
+   "Unnamed lift bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Orson's / Unnamed run",
+   "Unnamed lift bottom 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Orson's / Unnamed run",
+   "Unnamed lift top",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Orson's / Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Unnamed lift bottom 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Littlecat",
+   "Orson's / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Littlecat",
+   "Unnamed run 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Littlecat",
+   "Unnamed lift bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Littlecat",
+   "Unnamed lift bottom 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Littlecat",
+   "Unnamed lift top",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Little Cat Express Quad bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Orson's / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Little Cat Express Quad bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Orson's / Unnamed run",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed run 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Little Cat Express Quad bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Orson's / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "Becker bottom",
+   "Needles Express Gondola bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Becker bottom",
+   "Little Cat Express Quad bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Becker bottom",
+   "John Paul Express Quad bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Becker bottom",
+   "Unnamed run 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Needles Express Gondola bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Little Cat Express Quad bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "John Paul Express Quad bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Unnamed run 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Unnamed lift bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Unnamed lift top",
+   6.3
+  ],
+  [
+   "walk",
+   "Becker bottom",
+   "Penny Lane / Unnamed run",
+   4.5
+  ],
+  [
+   "walk",
+   "Penny Lane 2",
+   "Penny Lane / Unnamed run",
+   3.4
+  ],
+  [
+   "walk",
+   "Penny Lane 2",
+   "Becker bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Penny Lane 2",
+   "Littlecat 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Penny Lane 2",
+   "Squirrel 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Slo Road 2",
+   "Sweet Revenge / Dan's Run",
+   3.5
+  ],
+  [
+   "walk",
+   "Slo Road 2",
+   "Slo Road 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Slo Road 2",
+   "Sunshine Bowl",
+   2.6
+  ],
+  [
+   "walk",
+   "Sunny Side / Unnamed run",
+   "Unnamed run / Boardwalk",
+   3.6
+  ],
+  [
+   "walk",
+   "Sunny Side / Unnamed run",
+   "Unnamed run / Blue Grouse",
+   4.6
+  ],
+  [
+   "walk",
+   "Sunny Side / Unnamed run",
+   "119 / Herbert's",
+   3.2
+  ],
+  [
+   "walk",
+   "Sunny Side / Unnamed run",
+   "Beaver Slide",
+   4.4
+  ],
+  [
+   "walk",
+   "Sunny Side / Unnamed run",
+   "Wildcat Bowl / Wildcat Ridge",
+   2.9
+  ],
+  [
+   "walk",
+   "Sunny Side / Unnamed run",
+   "Two Bit Street / Herbert's",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Boardwalk",
+   "Sunny Side / Unnamed run",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Boardwalk",
+   "Unnamed run / Blue Grouse",
+   5.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Boardwalk",
+   "119 / Herbert's",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Boardwalk",
+   "Beaver Slide",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Boardwalk",
+   "Wildcat Bowl / Wildcat Ridge",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Boardwalk",
+   "Two Bit Street / Herbert's",
+   5.3
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Wildcat Ridge",
+   "Sunny Side / Unnamed run",
+   2.9
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Wildcat Ridge",
+   "Unnamed run / Boardwalk",
+   3.9
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Wildcat Ridge",
+   "Unnamed run / Blue Grouse",
+   4.9
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Wildcat Ridge",
+   "119 / Herbert's",
+   3.5
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Wildcat Ridge",
+   "Beaver Slide",
+   4.7
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Wildcat Ridge",
+   "Two Bit Street / Herbert's",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Snow King / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Unnamed run / Mt. Ogden Road",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Mt. Ogden Road",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Dry Bowl / Grizzly Downhill",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run 4",
+   "Mt. Ogden Road 5",
+   3.9
+  ],
+  [
+   "walk",
+   "Sun King / The Walrus",
+   "To Utah Express / Dan's Run",
+   3.0
+  ],
+  [
+   "walk",
+   "Sun King / The Walrus",
+   "To Utah Express / Dan's Run 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Sun King / The Walrus",
+   "Dan's Run / Unnamed run",
+   4.7
+  ],
+  [
+   "walk",
+   "Sun King / The Walrus",
+   "Dan's Run / Strawberry Traverse",
+   3.5
+  ],
+  [
+   "walk",
+   "Dan's Run / Strawberry Traverse",
+   "To Utah Express / Dan's Run",
+   3.1
+  ],
+  [
+   "walk",
+   "Dan's Run / Strawberry Traverse",
+   "To Utah Express / Dan's Run 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Dan's Run / Strawberry Traverse",
+   "Sun King / The Walrus",
+   3.5
+  ],
+  [
+   "walk",
+   "Dan's Run / Strawberry Traverse",
+   "Dan's Run / Unnamed run",
+   4.9
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow top",
+   "Little Cat Express Quad top",
+   3.6
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad top",
+   "Wildcat Handle Tow top",
+   3.6
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad top",
+   "Wildcat Handle Tow bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "Little Cat Express Quad top",
+   4.9
+  ],
+  [
+   "walk",
+   "Wildcat Bowl",
+   "Little Cat Express Quad top",
+   5.7
+  ],
+  [
+   "walk",
+   "Unnamed run 5",
+   "Little Cat Express Quad top",
+   6.7
+  ],
+  [
+   "walk",
+   "Penny Lane 2",
+   "Wildcat Handle Tow top",
+   5.9
+  ],
+  [
+   "walk",
+   "Needles Express Gondola bottom",
+   "Wildflower Finish",
+   3.6
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad bottom",
+   "Wildflower Finish",
+   4.9
+  ],
+  [
+   "walk",
+   "Orson's / Unnamed run",
+   "Wildflower Finish",
+   4.6
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Wildflower Finish",
+   4.4
+  ],
+  [
+   "walk",
+   "Wildflower Finish",
+   "Needles Express Gondola bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Wildflower Finish",
+   "Little Cat Express Quad bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Wildflower Finish",
+   "Orson's / Unnamed run",
+   4.6
+  ],
+  [
+   "walk",
+   "Wildflower Finish",
+   "Unnamed run 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Littlecat",
+   "Wildflower Finish",
+   5.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Wildflower Finish",
+   5.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Wildflower Finish",
+   5.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Wildflower Finish",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "Orson's / Unnamed run",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "Littlecat",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "Little Cat Express Quad bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow top",
+   "Orson's / Unnamed run",
+   4.5
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow top",
+   "Littlecat",
+   4.0
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow top",
+   "Needles Express Gondola bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow top",
+   "Little Cat Express Quad bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow top",
+   "John Paul Express Quad bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow top",
+   "Unnamed run 3",
+   6.2
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad top",
+   "Orson's / Unnamed run",
+   6.7
+  ],
+  [
+   "walk",
+   "Little Cat Express Quad top",
+   "Littlecat",
+   5.9
+  ],
+  [
+   "walk",
+   "Penny Lane / Unnamed run",
+   "Orson's / Unnamed run",
+   6.1
+  ],
+  [
+   "walk",
+   "Penny Lane / Unnamed run",
+   "Littlecat",
+   5.3
+  ],
+  [
+   "walk",
+   "Littlecat 2",
+   "Orson's / Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Littlecat 2",
+   "Little Cat Express Quad top",
+   4.4
+  ],
+  [
+   "walk",
+   "Littlecat 2",
+   "Littlecat",
+   3.5
+  ],
+  [
+   "walk",
+   "Littlecat 2",
+   "Squirrel 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Littlecat 2",
+   "Needles Express Gondola bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Littlecat 2",
+   "Little Cat Express Quad bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Littlecat 2",
+   "John Paul Express Quad bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Littlecat 2",
+   "Unnamed run 3",
+   5.7
+  ],
+  [
+   "walk",
+   "Littlecat 2",
+   "Penny Lane / Unnamed run",
+   5.5
+  ],
+  [
+   "walk",
+   "Squirrel 2",
+   "Orson's / Unnamed run",
+   5.3
+  ],
+  [
+   "walk",
+   "Squirrel 2",
+   "Littlecat",
+   4.6
+  ],
+  [
+   "walk",
+   "Squirrel 2",
+   "Little Cat Express Quad bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Squirrel 2",
+   "Unnamed run 3",
+   6.8
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Little Cat Express Quad top",
+   4.5
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Squirrel 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Penny Lane / Unnamed run",
+   5.6
+  ],
+  [
+   "walk",
+   "Wildcat Bowl",
+   "Littlecat",
+   6.1
+  ],
+  [
+   "walk",
+   "Penny Lane 2",
+   "Wildcat Handle Tow bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Middle Bowl Express bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Needles' Way",
+   "Sweet Revenge / Dogleg",
+   3.7
+  ],
+  [
+   "walk",
+   "Needles' Way",
+   "Sunshine / Strawberry Traverse",
+   3.0
+  ],
+  [
+   "walk",
+   "Sunshine / Strawberry Traverse",
+   "Sweet Revenge / Dogleg",
+   5.6
+  ],
+  [
+   "walk",
+   "Sunshine / Strawberry Traverse",
+   "Middle Bowl Express top",
+   4.7
+  ],
+  [
+   "walk",
+   "Sunshine / Strawberry Traverse",
+   "Needles' Way",
+   3.0
+  ],
+  [
+   "walk",
+   "Bear Springs / Last Chance",
+   "Last Chance 3",
+   2.7
+  ],
+  [
+   "walk",
+   "DeMoisy Express bottom",
+   "Last Chance 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Last Chance 3",
+   "Bear Springs / Last Chance",
+   2.7
+  ],
+  [
+   "walk",
+   "Last Chance 3",
+   "DeMoisy Express bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Pineview / Dan's Run",
+   5.7
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Rocky J / Bullwinkle",
+   6.4
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Pineview",
+   6.3
+  ],
+  [
+   "walk",
+   "Wildcat top",
+   "Dan's Run 3",
+   6.3
+  ],
+  [
+   "walk",
+   "Sunny Side / Unnamed run",
+   "Middle Bowl Express bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Wildcat Bowl / Wildcat Ridge",
+   "Middle Bowl Express bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Becker bottom",
+   "Wildcat Handle Tow top",
+   4.7
+  ],
+  [
+   "walk",
+   "Littlecat 2",
+   "Wildcat Handle Tow top",
+   5.6
+  ],
+  [
+   "walk",
+   "Wildcat Handle Tow bottom",
+   "Wildcat Handle Tow top",
+   5.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "Needles Express Gondola bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "John Paul Express Quad bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Orson's",
+   "Unnamed run 3",
+   6.7
+  ],
+  [
+   "walk",
+   "Wildcat Bowl",
+   "Orson's / Unnamed run",
+   6.6
+  ],
+  [
+   "walk",
+   "Centennial / Bash",
+   "Needles Run 7",
+   3.6
+  ],
+  [
+   "walk",
+   "Centennial / Bash",
+   "Needles Run 10",
+   3.6
+  ],
+  [
+   "walk",
+   "Needles Run 6",
+   "Needles Run 7",
+   3.4
+  ],
+  [
+   "walk",
+   "Needles Run 6",
+   "Needles Run 10",
+   3.3
+  ],
+  [
+   "walk",
+   "Needles Run 7",
+   "Needles Run 10",
+   1.3
+  ],
+  [
+   "walk",
+   "Needles Run 10",
+   "Needles Run 7",
+   1.3
+  ]
+ ],
+ "base": "Strawberry Express Gondola bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Utah",
+  "total_lifts": "13",
+  "downhill_trails": "184",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

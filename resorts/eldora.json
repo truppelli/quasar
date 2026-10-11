@@ -1,0 +1,4987 @@
+{
+ "name": "Eldora",
+ "source": "OpenSkiMap ski area 1f25a1eacb8cc9814282d91ae00fd9af7a533d0e",
+ "origin_lonlat": [
+  -105.59371759549447,
+  39.9393658230769
+ ],
+ "nodes": {
+  "Unnamed run / Hornblower": [
+   -174,
+   40,
+   3061.0
+  ],
+  "Unnamed run / Windmill": [
+   -60,
+   7,
+   3048.0
+  ],
+  "Windmill / Hornblower": [
+   -366,
+   -266,
+   3161.4
+  ],
+  "Windmill / Hornblower 2": [
+   46,
+   32,
+   3029.7
+  ],
+  "Muleshoe / Wayback": [
+   -692,
+   -94,
+   3177.3
+  ],
+  "Muleshoe / Corona": [
+   -494,
+   974,
+   2844.1
+  ],
+  "Alpenglow top": [
+   -341,
+   -320,
+   3160.5
+  ],
+  "Powderhorn / Jolly Jug": [
+   301,
+   -373,
+   2958.8
+  ],
+  "Psychopath / La Belle Dame": [
+   -98,
+   -214,
+   3115.8
+  ],
+  "Psychopath / Hotdog Alley": [
+   297,
+   -162,
+   2961.0
+  ],
+  "Unnamed run / Wayback": [
+   -498,
+   -20,
+   3147.5
+  ],
+  "Muleshoe": [
+   -516,
+   61,
+   3143.0
+  ],
+  "Corona top": [
+   -1202,
+   189,
+   3231.6
+  ],
+  "Wayback / Hornblower": [
+   -303,
+   36,
+   3104.6
+  ],
+  "Cascade / Corona": [
+   -799,
+   667,
+   2985.2
+  ],
+  "Cascade / West Ridge": [
+   -713,
+   995,
+   2862.3
+  ],
+  "Four O'Clock Trail / Lower Ambush": [
+   -119,
+   284,
+   2991.3
+  ],
+  "Four O'Clock Trail / Klondike": [
+   300,
+   70,
+   2941.4
+  ],
+  "Indian Peaks top": [
+   -579,
+   -199,
+   3170.6
+  ],
+  "Windmill": [
+   -296,
+   -164,
+   3124.6
+  ],
+  "Muleshoe / Pipeline": [
+   -881,
+   -128,
+   3208.5
+  ],
+  "Little Hawk top": [
+   1054,
+   -648,
+   2883.0
+  ],
+  "Little Hawk bottom": [
+   1081,
+   -407,
+   2851.3
+  ],
+  "Cannonball Run / La Belle Dame": [
+   -305,
+   -270,
+   3155.9
+  ],
+  "Cannonball Run / Hotdog Alley": [
+   538,
+   -166,
+   2897.4
+  ],
+  "EZ Liftline / Summer Road": [
+   704,
+   -633,
+   2922.7
+  ],
+  "EZ Liftline / Bunnyfair": [
+   961,
+   -462,
+   2862.4
+  ],
+  "Bunnyfair": [
+   693,
+   -720,
+   2915.2
+  ],
+  "Four O'Clock Trail / Around the Horn": [
+   -107,
+   219,
+   3004.4
+  ],
+  "Four O'Clock Trail / Lower Diamond Back": [
+   11,
+   298,
+   2961.8
+  ],
+  "Race top": [
+   570,
+   -442,
+   2936.2
+  ],
+  "Race bottom": [
+   815,
+   -254,
+   2859.2
+  ],
+  "Foxtail / Bunnyfair": [
+   775,
+   -657,
+   2904.6
+  ],
+  "Challenge / Sunset": [
+   518,
+   -283,
+   2926.0
+  ],
+  "Indian Peaks bottom": [
+   125,
+   806,
+   2835.6
+  ],
+  "Corona bottom": [
+   -462,
+   1085,
+   2824.3
+  ],
+  "Corona": [
+   -637,
+   830,
+   2900.1
+  ],
+  "Cannonball Run": [
+   -82,
+   -301,
+   3096.2
+  ],
+  "Powderhorn": [
+   12,
+   -344,
+   3047.2
+  ],
+  "Summer Road / Bonanza": [
+   459,
+   -338,
+   2947.0
+  ],
+  "Four O'Clock Trail": [
+   19,
+   194,
+   2980.2
+  ],
+  "EZ bottom": [
+   1004,
+   -453,
+   2858.4
+  ],
+  "Crewcut / La Belle Dame": [
+   316,
+   -80,
+   2947.6
+  ],
+  "Crewcut / Klondike": [
+   436,
+   -37,
+   2910.7
+  ],
+  "Hornblower / International": [
+   110,
+   -19,
+   3017.0
+  ],
+  "Little Hawk": [
+   1065,
+   -597,
+   2876.6
+  ],
+  "Bunnyfair 2": [
+   752,
+   -707,
+   2908.6
+  ],
+  "Foxtail": [
+   893,
+   -670,
+   2894.1
+  ],
+  "Hotdog Alley / La Belle Dame": [
+   218,
+   -113,
+   2988.2
+  ],
+  "Hotdog Alley / Klondike": [
+   652,
+   -167,
+   2876.9
+  ],
+  "Wayback": [
+   -1120,
+   106,
+   3223.7
+  ],
+  "Pipeline / Jolly Jug": [
+   -352,
+   -363,
+   3153.1
+  ],
+  "EZ top": [
+   632,
+   -688,
+   2933.1
+  ],
+  "Fun Zone / Uncle Bob's": [
+   1110,
+   -653,
+   2881.6
+  ],
+  "Tenderfoot bottom": [
+   1159,
+   -433,
+   2850.9
+  ],
+  "Cannonball Run 2": [
+   441,
+   -195,
+   2931.0
+  ],
+  "Unnamed run / Sunset": [
+   588,
+   -235,
+   2901.0
+  ],
+  "Summer Road": [
+   640,
+   -507,
+   2932.8
+  ],
+  "Unnamed run / Trick Ditch": [
+   673,
+   -439,
+   2913.9
+  ],
+  "Around the Horn": [
+   -139,
+   664,
+   2900.6
+  ],
+  "Sundance top": [
+   573,
+   -598,
+   2957.5
+  ],
+  "Sundance bottom": [
+   935,
+   -361,
+   2855.1
+  ],
+  "Wayback 2": [
+   -1051,
+   77,
+   3214.8
+  ],
+  "Muleshoe 2": [
+   -536,
+   764,
+   2910.5
+  ],
+  "Uncle Bob's": [
+   1118,
+   -426,
+   2850.9
+  ],
+  "Crewcut": [
+   360,
+   -92,
+   2935.7
+  ],
+  "Alpenhorn": [
+   -743,
+   567,
+   3005.1
+  ],
+  "Ambush": [
+   -275,
+   175,
+   3087.7
+  ],
+  "Lower Ambush": [
+   149,
+   774,
+   2837.2
+  ],
+  "Caribou top": [
+   669,
+   -609,
+   2927.9
+  ],
+  "Caribou bottom": [
+   974,
+   -408,
+   2857.6
+  ],
+  "Wayback 3": [
+   -507,
+   -69,
+   3150.1
+  ],
+  "International / Sunset": [
+   722,
+   -183,
+   2867.5
+  ],
+  "Bonanza": [
+   778,
+   -215,
+   2861.4
+  ],
+  "Summer Road 2": [
+   608,
+   -477,
+   2934.9
+  ],
+  "Trick Ditch / Gabor's": [
+   833,
+   -307,
+   2862.8
+  ],
+  "Wayback 4": [
+   -756,
+   -62,
+   3184.6
+  ],
+  "Muleshoe 3": [
+   -553,
+   277,
+   3096.0
+  ],
+  "Lower Diamond Back": [
+   156,
+   546,
+   2898.1
+  ],
+  "Around the Horn 2": [
+   -222,
+   839,
+   2860.9
+  ],
+  "Sundance": [
+   734,
+   -511,
+   2912.8
+  ],
+  "Summer Road 3": [
+   537,
+   -386,
+   2942.3
+  ],
+  "Bonanza 2": [
+   616,
+   -298,
+   2903.5
+  ],
+  "Tenderfoot top": [
+   1125,
+   -560,
+   2866.4
+  ],
+  "Sun Kid bottom": [
+   980,
+   -289,
+   2852.1
+  ],
+  "Alpenglow bottom": [
+   845,
+   -195,
+   2858.7
+  ]
+ },
+ "lifts": [
+  [
+   "Little Hawk",
+   "Little Hawk bottom",
+   "Little Hawk top",
+   4.8
+  ],
+  [
+   "Tenderfoot",
+   "Tenderfoot bottom",
+   "Tenderfoot top",
+   5.7
+  ],
+  [
+   "Sundance",
+   "Sundance bottom",
+   "Sundance top",
+   6.6
+  ],
+  [
+   "Indian Peaks",
+   "Indian Peaks bottom",
+   "Indian Peaks top",
+   12.3
+  ],
+  [
+   "Corona",
+   "Corona bottom",
+   "Corona top",
+   11.9
+  ],
+  [
+   "EZ",
+   "EZ bottom",
+   "EZ top",
+   6.2
+  ],
+  [
+   "Alpenglow",
+   "Alpenglow bottom",
+   "Alpenglow top",
+   11.9
+  ],
+  [
+   "Race",
+   "Race bottom",
+   "Race top",
+   4.6
+  ],
+  [
+   "Caribou",
+   "Caribou bottom",
+   "Caribou top",
+   5.7
+  ]
+ ],
+ "runs": [
+  [
+   "Unnamed run",
+   "Unnamed run / Hornblower",
+   "Unnamed run / Windmill",
+   0.5
+  ],
+  [
+   "Windmill",
+   "Windmill / Hornblower",
+   "Windmill",
+   0.5
+  ],
+  [
+   "Windmill",
+   "Windmill",
+   "Unnamed run / Windmill",
+   1.3
+  ],
+  [
+   "Windmill",
+   "Unnamed run / Windmill",
+   "Windmill / Hornblower 2",
+   0.5
+  ],
+  [
+   "Muleshoe",
+   "Muleshoe / Wayback",
+   "Muleshoe",
+   0.9
+  ],
+  [
+   "Muleshoe",
+   "Muleshoe",
+   "Muleshoe 3",
+   0.9
+  ],
+  [
+   "Muleshoe",
+   "Muleshoe 3",
+   "Muleshoe 2",
+   2.2
+  ],
+  [
+   "Muleshoe",
+   "Muleshoe 2",
+   "Muleshoe / Corona",
+   1.0
+  ],
+  [
+   "Powderhorn",
+   "Alpenglow top",
+   "Powderhorn",
+   1.4
+  ],
+  [
+   "Powderhorn",
+   "Powderhorn",
+   "Powderhorn / Jolly Jug",
+   1.3
+  ],
+  [
+   "Psychopath",
+   "Psychopath / La Belle Dame",
+   "Psychopath / Hotdog Alley",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Wayback",
+   "Muleshoe",
+   0.5
+  ],
+  [
+   "Wayback",
+   "Corona top",
+   "Wayback",
+   0.5
+  ],
+  [
+   "Wayback",
+   "Wayback",
+   "Wayback 2",
+   0.5
+  ],
+  [
+   "Wayback",
+   "Wayback 2",
+   "Wayback 4",
+   1.4
+  ],
+  [
+   "Wayback",
+   "Wayback 4",
+   "Muleshoe / Wayback",
+   0.5
+  ],
+  [
+   "Wayback",
+   "Muleshoe / Wayback",
+   "Wayback 3",
+   0.8
+  ],
+  [
+   "Wayback",
+   "Wayback 3",
+   "Unnamed run / Wayback",
+   0.5
+  ],
+  [
+   "Wayback",
+   "Unnamed run / Wayback",
+   "Wayback / Hornblower",
+   1.0
+  ],
+  [
+   "Cascade",
+   "Cascade / Corona",
+   "Cascade / West Ridge",
+   1.4
+  ],
+  [
+   "Four O'Clock Trail",
+   "Four O'Clock Trail / Lower Ambush",
+   "Four O'Clock Trail",
+   0.6
+  ],
+  [
+   "Four O'Clock Trail",
+   "Four O'Clock Trail",
+   "Four O'Clock Trail / Klondike",
+   1.5
+  ],
+  [
+   "City Lights",
+   "Indian Peaks top",
+   "Windmill",
+   1.1
+  ],
+  [
+   "Muleshoe",
+   "Muleshoe / Pipeline",
+   "Muleshoe / Wayback",
+   0.7
+  ],
+  [
+   "Little Hawk",
+   "Little Hawk top",
+   "Little Hawk",
+   0.5
+  ],
+  [
+   "Little Hawk",
+   "Little Hawk",
+   "Little Hawk bottom",
+   0.7
+  ],
+  [
+   "Cannonball Run",
+   "Cannonball Run / La Belle Dame",
+   "Cannonball Run",
+   0.9
+  ],
+  [
+   "Cannonball Run",
+   "Cannonball Run",
+   "Cannonball Run 2",
+   2.3
+  ],
+  [
+   "Cannonball Run",
+   "Cannonball Run 2",
+   "Cannonball Run / Hotdog Alley",
+   0.5
+  ],
+  [
+   "EZ Liftline",
+   "EZ Liftline / Summer Road",
+   "EZ Liftline / Bunnyfair",
+   1.2
+  ],
+  [
+   "Four O'Clock Trail",
+   "Four O'Clock Trail / Around the Horn",
+   "Four O'Clock Trail / Lower Diamond Back",
+   0.5
+  ],
+  [
+   "Chute",
+   "Race top",
+   "Race bottom",
+   1.2
+  ],
+  [
+   "Foxtail",
+   "Foxtail / Bunnyfair",
+   "Foxtail",
+   0.5
+  ],
+  [
+   "Foxtail",
+   "Foxtail",
+   "Little Hawk top",
+   0.7
+  ],
+  [
+   "Challenge",
+   "Alpenglow top",
+   "Cannonball Run",
+   1.0
+  ],
+  [
+   "Challenge",
+   "Cannonball Run",
+   "Challenge / Sunset",
+   2.7
+  ],
+  [
+   "Lower Ambush",
+   "Four O'Clock Trail / Lower Ambush",
+   "Lower Ambush",
+   2.3
+  ],
+  [
+   "Lower Ambush",
+   "Lower Ambush",
+   "Indian Peaks bottom",
+   0.5
+  ],
+  [
+   "Corona",
+   "Corona top",
+   "Cascade / Corona",
+   2.7
+  ],
+  [
+   "Corona",
+   "Cascade / Corona",
+   "Corona",
+   1.1
+  ],
+  [
+   "Corona",
+   "Corona",
+   "Muleshoe / Corona",
+   0.9
+  ],
+  [
+   "Corona",
+   "Muleshoe / Corona",
+   "Corona bottom",
+   0.5
+  ],
+  [
+   "Corrona",
+   "Corona",
+   "Corona bottom",
+   1.3
+  ],
+  [
+   "Powderhorn",
+   "Cannonball Run",
+   "Powderhorn",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Summer Road / Bonanza",
+   "Summer Road 3",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Summer Road 3",
+   "Race top",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Race top",
+   "Summer Road 2",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Summer Road 2",
+   "Summer Road",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Summer Road",
+   "Caribou top",
+   0.5
+  ],
+  [
+   "Summer Road",
+   "Caribou top",
+   "EZ Liftline / Summer Road",
+   0.5
+  ],
+  [
+   "Upper Diamond Back",
+   "Unnamed run / Windmill",
+   "Four O'Clock Trail",
+   0.8
+  ],
+  [
+   "Bunnyfair",
+   "Bunnyfair",
+   "Bunnyfair 2",
+   0.5
+  ],
+  [
+   "Bunnyfair",
+   "Bunnyfair 2",
+   "Foxtail / Bunnyfair",
+   0.5
+  ],
+  [
+   "Bunnyfair",
+   "Foxtail / Bunnyfair",
+   "EZ Liftline / Bunnyfair",
+   1.2
+  ],
+  [
+   "Bunnyfair",
+   "EZ Liftline / Bunnyfair",
+   "EZ bottom",
+   0.5
+  ],
+  [
+   "Crewcut",
+   "Crewcut / La Belle Dame",
+   "Crewcut",
+   0.5
+  ],
+  [
+   "Crewcut",
+   "Crewcut",
+   "Crewcut / Klondike",
+   0.5
+  ],
+  [
+   "Hornblower",
+   "Windmill / Hornblower",
+   "Wayback / Hornblower",
+   1.5
+  ],
+  [
+   "Hornblower",
+   "Wayback / Hornblower",
+   "Unnamed run / Hornblower",
+   0.5
+  ],
+  [
+   "Hornblower",
+   "Unnamed run / Hornblower",
+   "Windmill / Hornblower 2",
+   1.0
+  ],
+  [
+   "Hornblower",
+   "Windmill / Hornblower 2",
+   "Hornblower / International",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Little Hawk",
+   "EZ bottom",
+   0.5
+  ],
+  [
+   "Fun Gully",
+   "Bunnyfair 2",
+   "Foxtail",
+   0.5
+  ],
+  [
+   "Hotdog Alley",
+   "Hotdog Alley / La Belle Dame",
+   "Psychopath / Hotdog Alley",
+   0.5
+  ],
+  [
+   "Hotdog Alley",
+   "Psychopath / Hotdog Alley",
+   "Cannonball Run 2",
+   0.6
+  ],
+  [
+   "Hotdog Alley",
+   "Cannonball Run 2",
+   "Cannonball Run / Hotdog Alley",
+   0.5
+  ],
+  [
+   "Hotdog Alley",
+   "Cannonball Run / Hotdog Alley",
+   "Hotdog Alley / Klondike",
+   0.5
+  ],
+  [
+   "Pipeline",
+   "Wayback",
+   "Wayback 2",
+   0.5
+  ],
+  [
+   "Pipeline",
+   "Wayback 2",
+   "Muleshoe / Pipeline",
+   1.0
+  ],
+  [
+   "Pipeline",
+   "Muleshoe / Pipeline",
+   "Indian Peaks top",
+   1.4
+  ],
+  [
+   "Pipeline",
+   "Indian Peaks top",
+   "Pipeline / Jolly Jug",
+   1.1
+  ],
+  [
+   "Liftline",
+   "Indian Peaks top",
+   "Wayback 3",
+   0.5
+  ],
+  [
+   "Liftline",
+   "Wayback 3",
+   "Unnamed run / Wayback",
+   0.5
+  ],
+  [
+   "Liftline",
+   "Unnamed run / Wayback",
+   "Indian Peaks bottom",
+   4.5
+  ],
+  [
+   "Unnamed run",
+   "EZ top",
+   "Caribou top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Caribou top",
+   "EZ Liftline / Summer Road",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "EZ Liftline / Summer Road",
+   "Foxtail / Bunnyfair",
+   0.5
+  ],
+  [
+   "Fun Zone",
+   "Fun Zone / Uncle Bob's",
+   "Tenderfoot top",
+   0.5
+  ],
+  [
+   "Fun Zone",
+   "Tenderfoot top",
+   "Tenderfoot bottom",
+   0.5
+  ],
+  [
+   "Bunnyfair",
+   "EZ top",
+   "Bunnyfair",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Cannonball Run 2",
+   "Unnamed run / Sunset",
+   0.5
+  ],
+  [
+   "Klondike",
+   "Windmill / Hornblower 2",
+   "Four O'Clock Trail / Klondike",
+   1.0
+  ],
+  [
+   "Klondike",
+   "Four O'Clock Trail / Klondike",
+   "Crewcut / Klondike",
+   0.8
+  ],
+  [
+   "Klondike",
+   "Crewcut / Klondike",
+   "Hotdog Alley / Klondike",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Summer Road",
+   "Unnamed run / Trick Ditch",
+   0.5
+  ],
+  [
+   "Around the Horn",
+   "Around the Horn",
+   "Indian Peaks bottom",
+   1.4
+  ],
+  [
+   "Sundance",
+   "Sundance top",
+   "Sundance",
+   0.6
+  ],
+  [
+   "Sundance",
+   "Sundance",
+   "Sundance bottom",
+   1.1
+  ],
+  [
+   "Alpenhorn",
+   "Wayback 2",
+   "Alpenhorn",
+   2.5
+  ],
+  [
+   "Alpenhorn",
+   "Alpenhorn",
+   "Muleshoe 2",
+   1.3
+  ],
+  [
+   "Ambush",
+   "Wayback / Hornblower",
+   "Ambush",
+   0.5
+  ],
+  [
+   "Ambush",
+   "Ambush",
+   "Four O'Clock Trail / Lower Ambush",
+   0.9
+  ],
+  [
+   "Uncle Bob's",
+   "Fun Zone / Uncle Bob's",
+   "Little Hawk",
+   0.5
+  ],
+  [
+   "Uncle Bob's",
+   "Little Hawk",
+   "Tenderfoot top",
+   0.5
+  ],
+  [
+   "Uncle Bob's",
+   "Tenderfoot top",
+   "Uncle Bob's",
+   0.5
+  ],
+  [
+   "Around the Horn",
+   "Unnamed run / Hornblower",
+   "Four O'Clock Trail / Around the Horn",
+   0.6
+  ],
+  [
+   "Around the Horn",
+   "Four O'Clock Trail / Around the Horn",
+   "Four O'Clock Trail / Lower Ambush",
+   0.5
+  ],
+  [
+   "Around the Horn",
+   "Four O'Clock Trail / Lower Ambush",
+   "Around the Horn",
+   1.8
+  ],
+  [
+   "Around the Horn",
+   "Around the Horn",
+   "Around the Horn 2",
+   0.9
+  ],
+  [
+   "Around the Horn",
+   "Around the Horn 2",
+   "Corona bottom",
+   1.5
+  ],
+  [
+   "La Belle Dame",
+   "Windmill / Hornblower",
+   "Cannonball Run / La Belle Dame",
+   0.5
+  ],
+  [
+   "La Belle Dame",
+   "Cannonball Run / La Belle Dame",
+   "Psychopath / La Belle Dame",
+   0.8
+  ],
+  [
+   "La Belle Dame",
+   "Psychopath / La Belle Dame",
+   "Hotdog Alley / La Belle Dame",
+   1.6
+  ],
+  [
+   "La Belle Dame",
+   "Hotdog Alley / La Belle Dame",
+   "Crewcut / La Belle Dame",
+   0.5
+  ],
+  [
+   "La Belle Dame",
+   "Crewcut / La Belle Dame",
+   "Crewcut",
+   0.5
+  ],
+  [
+   "Upper Bunnyfair",
+   "Sundance top",
+   "EZ top",
+   0.5
+  ],
+  [
+   "West Ridge",
+   "Corona top",
+   "Cascade / West Ridge",
+   5.2
+  ],
+  [
+   "West Ridge",
+   "Cascade / West Ridge",
+   "Corona bottom",
+   1.2
+  ],
+  [
+   "Wolf Tongue",
+   "Wayback",
+   "Alpenhorn",
+   2.5
+  ],
+  [
+   "Escape",
+   "Ambush",
+   "Unnamed run / Hornblower",
+   0.5
+  ],
+  [
+   "Lower Diamond Back",
+   "Four O'Clock Trail",
+   "Four O'Clock Trail / Lower Diamond Back",
+   0.5
+  ],
+  [
+   "Lower Diamond Back",
+   "Four O'Clock Trail / Lower Diamond Back",
+   "Lower Diamond Back",
+   1.2
+  ],
+  [
+   "Lower Diamond Back",
+   "Lower Diamond Back",
+   "Lower Ambush",
+   1.0
+  ],
+  [
+   "Ryder's",
+   "Caribou top",
+   "EZ Liftline / Summer Road",
+   0.5
+  ],
+  [
+   "Ryder's",
+   "EZ Liftline / Summer Road",
+   "Sundance",
+   0.5
+  ],
+  [
+   "Ryder's",
+   "Sundance",
+   "EZ Liftline / Bunnyfair",
+   1.0
+  ],
+  [
+   "Ryder's",
+   "EZ Liftline / Bunnyfair",
+   "Caribou bottom",
+   0.5
+  ],
+  [
+   "Corona Traverse",
+   "Windmill / Hornblower",
+   "Wayback 3",
+   1.0
+  ],
+  [
+   "International",
+   "Hornblower / International",
+   "Crewcut / La Belle Dame",
+   0.8
+  ],
+  [
+   "International",
+   "Crewcut / La Belle Dame",
+   "Crewcut",
+   0.5
+  ],
+  [
+   "International",
+   "Crewcut",
+   "Cannonball Run / Hotdog Alley",
+   0.7
+  ],
+  [
+   "International",
+   "Cannonball Run / Hotdog Alley",
+   "Hotdog Alley / Klondike",
+   0.5
+  ],
+  [
+   "International",
+   "Hotdog Alley / Klondike",
+   "International / Sunset",
+   0.5
+  ],
+  [
+   "Easyway",
+   "Bunnyfair",
+   "Bunnyfair 2",
+   0.5
+  ],
+  [
+   "Easyway",
+   "Bunnyfair 2",
+   "Foxtail",
+   0.6
+  ],
+  [
+   "Bonanza",
+   "Summer Road / Bonanza",
+   "Bonanza 2",
+   0.6
+  ],
+  [
+   "Bonanza",
+   "Bonanza 2",
+   "Bonanza",
+   0.8
+  ],
+  [
+   "Trick Ditch",
+   "Summer Road 2",
+   "Unnamed run / Trick Ditch",
+   0.5
+  ],
+  [
+   "Trick Ditch",
+   "Unnamed run / Trick Ditch",
+   "Trick Ditch / Gabor's",
+   0.9
+  ],
+  [
+   "Red Tail",
+   "Wayback 4",
+   "Muleshoe 3",
+   1.6
+  ],
+  [
+   "Easyway",
+   "EZ Liftline / Summer Road",
+   "Bunnyfair",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Hornblower / International",
+   "Hotdog Alley / La Belle Dame",
+   0.5
+  ],
+  [
+   "Corona Road",
+   "Lower Diamond Back",
+   "Around the Horn 2",
+   1.9
+  ],
+  [
+   "Jolly Jug",
+   "Alpenglow top",
+   "Pipeline / Jolly Jug",
+   0.5
+  ],
+  [
+   "Jolly Jug",
+   "Pipeline / Jolly Jug",
+   "Powderhorn / Jolly Jug",
+   3.2
+  ],
+  [
+   "Jolly Jug",
+   "Powderhorn / Jolly Jug",
+   "Summer Road / Bonanza",
+   0.7
+  ],
+  [
+   "Gabor's",
+   "Sundance",
+   "Trick Ditch / Gabor's",
+   0.9
+  ],
+  [
+   "Dream & Scream",
+   "Unnamed run / Wayback",
+   "Unnamed run / Hornblower",
+   1.4
+  ],
+  [
+   "Almost Perfect",
+   "Summer Road 3",
+   "Bonanza 2",
+   0.5
+  ],
+  [
+   "Sunset",
+   "Summer Road / Bonanza",
+   "Challenge / Sunset",
+   0.5
+  ],
+  [
+   "Sunset",
+   "Challenge / Sunset",
+   "Unnamed run / Sunset",
+   0.5
+  ],
+  [
+   "Sunset",
+   "Unnamed run / Sunset",
+   "Hotdog Alley / Klondike",
+   0.5
+  ],
+  [
+   "Sunset",
+   "Hotdog Alley / Klondike",
+   "International / Sunset",
+   0.5
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Windmill / Hornblower",
+   "Alpenglow top",
+   0.8
+  ],
+  [
+   "walk",
+   "Windmill / Hornblower",
+   "Indian Peaks top",
+   3.1
+  ],
+  [
+   "walk",
+   "Muleshoe / Wayback",
+   "Indian Peaks top",
+   2.1
+  ],
+  [
+   "walk",
+   "Muleshoe / Corona",
+   "Corona bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Windmill / Hornblower",
+   0.8
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Windmill",
+   2.3
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Cannonball Run / La Belle Dame",
+   0.9
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Pipeline / Jolly Jug",
+   0.6
+  ],
+  [
+   "walk",
+   "Corona top",
+   "Wayback",
+   1.6
+  ],
+  [
+   "walk",
+   "Corona top",
+   "Wayback 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Indian Peaks top",
+   "Windmill / Hornblower",
+   3.1
+  ],
+  [
+   "walk",
+   "Indian Peaks top",
+   "Muleshoe / Wayback",
+   2.1
+  ],
+  [
+   "walk",
+   "Indian Peaks top",
+   "Unnamed run / Wayback",
+   2.7
+  ],
+  [
+   "walk",
+   "Indian Peaks top",
+   "Wayback 3",
+   2.1
+  ],
+  [
+   "walk",
+   "Indian Peaks top",
+   "Wayback 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "Little Hawk bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "EZ Liftline / Bunnyfair",
+   2.9
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "EZ bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "Little Hawk",
+   0.7
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "Foxtail",
+   2.3
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "Fun Zone / Uncle Bob's",
+   0.8
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "Tenderfoot bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "Uncle Bob's",
+   3.2
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "Tenderfoot top",
+   1.6
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "EZ Liftline / Bunnyfair",
+   1.8
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "EZ bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Tenderfoot bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Sundance bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Uncle Bob's",
+   0.6
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Caribou bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Sun Kid bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Cannonball Run / La Belle Dame",
+   "Alpenglow top",
+   0.9
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Race top",
+   3.2
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "EZ top",
+   1.3
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Caribou top",
+   0.6
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Little Hawk bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "EZ bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Tenderfoot bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Sundance bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Caribou bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Tenderfoot top",
+   2.6
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Sun Kid bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Caribou top",
+   1.6
+  ],
+  [
+   "walk",
+   "Race top",
+   "EZ Liftline / Summer Road",
+   3.2
+  ],
+  [
+   "walk",
+   "Race top",
+   "Challenge / Sunset",
+   2.3
+  ],
+  [
+   "walk",
+   "Race top",
+   "Summer Road / Bonanza",
+   2.1
+  ],
+  [
+   "walk",
+   "Race top",
+   "Unnamed run / Sunset",
+   2.9
+  ],
+  [
+   "walk",
+   "Race top",
+   "Summer Road",
+   1.3
+  ],
+  [
+   "walk",
+   "Race top",
+   "Unnamed run / Trick Ditch",
+   1.4
+  ],
+  [
+   "walk",
+   "Race top",
+   "Caribou top",
+   2.7
+  ],
+  [
+   "walk",
+   "Race top",
+   "Summer Road 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Race top",
+   "Sundance",
+   2.5
+  ],
+  [
+   "walk",
+   "Race top",
+   "Summer Road 3",
+   0.9
+  ],
+  [
+   "walk",
+   "Race top",
+   "Bonanza 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "Sundance bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "Caribou bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "International / Sunset",
+   1.6
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "Bonanza",
+   0.7
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "Trick Ditch / Gabor's",
+   0.8
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "Sun Kid bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "Alpenglow bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Race top",
+   2.3
+  ],
+  [
+   "walk",
+   "Indian Peaks bottom",
+   "Lower Ambush",
+   0.6
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Race top",
+   2.1
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Little Hawk bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "EZ Liftline / Bunnyfair",
+   0.6
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Tenderfoot bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Sundance bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Uncle Bob's",
+   1.6
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Caribou bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Trick Ditch / Gabor's",
+   3.1
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Tenderfoot top",
+   2.2
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Sun Kid bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Little Hawk top",
+   0.7
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Little Hawk bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "EZ bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Tenderfoot bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Caribou bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Tenderfoot top",
+   1.0
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "Little Hawk top",
+   2.3
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "EZ bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Hotdog Alley / Klondike",
+   "Race bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Hotdog Alley / Klondike",
+   "Alpenglow bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Wayback",
+   "Corona top",
+   1.6
+  ],
+  [
+   "walk",
+   "Pipeline / Jolly Jug",
+   "Alpenglow top",
+   0.6
+  ],
+  [
+   "walk",
+   "EZ top",
+   "EZ Liftline / Summer Road",
+   1.3
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Bunnyfair",
+   1.0
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Foxtail / Bunnyfair",
+   2.0
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Bunnyfair 2",
+   1.7
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Summer Road",
+   2.5
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Caribou top",
+   1.2
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Summer Road 2",
+   3.0
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Sundance",
+   2.8
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "Little Hawk top",
+   0.8
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "Little Hawk bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "EZ bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "Tenderfoot bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "Tenderfoot top",
+   1.3
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Little Hawk bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "EZ Liftline / Bunnyfair",
+   2.8
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "EZ bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Sundance bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Uncle Bob's",
+   0.6
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Caribou bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Sun Kid bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "Race bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Race top",
+   1.3
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "EZ top",
+   2.5
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Caribou top",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Race bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Caribou top",
+   2.4
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "EZ Liftline / Summer Road",
+   1.9
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Bunnyfair",
+   2.4
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Race top",
+   2.2
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Foxtail / Bunnyfair",
+   2.9
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Bunnyfair 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "EZ top",
+   1.5
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Summer Road",
+   1.6
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Unnamed run / Trick Ditch",
+   2.6
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Caribou top",
+   1.4
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Summer Road 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Sundance",
+   2.6
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Summer Road 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Little Hawk bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "EZ Liftline / Bunnyfair",
+   1.4
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Race bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "EZ bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Tenderfoot bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Uncle Bob's",
+   2.7
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Caribou bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Bonanza",
+   3.0
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Trick Ditch / Gabor's",
+   1.6
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Sun Kid bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Alpenglow bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Little Hawk bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "EZ Liftline / Bunnyfair",
+   2.2
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "EZ bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Tenderfoot bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Sundance bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Caribou bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Sun Kid bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Lower Ambush",
+   "Indian Peaks bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "EZ Liftline / Summer Road",
+   0.6
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Bunnyfair",
+   1.6
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Race top",
+   2.7
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Foxtail / Bunnyfair",
+   1.6
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Bunnyfair 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Foxtail",
+   3.2
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "EZ top",
+   1.2
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Summer Road",
+   1.5
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Unnamed run / Trick Ditch",
+   2.4
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Summer Road 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Sundance",
+   1.6
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Little Hawk bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "EZ Liftline / Bunnyfair",
+   0.8
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Race bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "EZ bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Tenderfoot bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Sundance bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Uncle Bob's",
+   2.0
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Trick Ditch / Gabor's",
+   2.4
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Tenderfoot top",
+   3.0
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Sun Kid bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Alpenglow bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "International / Sunset",
+   "Race bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "International / Sunset",
+   "Hotdog Alley / Klondike",
+   1.0
+  ],
+  [
+   "walk",
+   "International / Sunset",
+   "Bonanza",
+   0.9
+  ],
+  [
+   "walk",
+   "International / Sunset",
+   "Trick Ditch / Gabor's",
+   2.3
+  ],
+  [
+   "walk",
+   "International / Sunset",
+   "Alpenglow bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "Race bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "Sundance bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "International / Sunset",
+   0.9
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "Trick Ditch / Gabor's",
+   1.5
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "Sun Kid bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "Alpenglow bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Race top",
+   0.7
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "EZ top",
+   3.0
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Caribou top",
+   2.0
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "EZ Liftline / Bunnyfair",
+   2.8
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "Race bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "EZ bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "Hotdog Alley / Klondike",
+   3.2
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "Sundance bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "Caribou bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "International / Sunset",
+   2.3
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "Bonanza",
+   1.5
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "Sun Kid bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "Alpenglow bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Wayback 4",
+   "Indian Peaks top",
+   3.1
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Race top",
+   0.9
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "Race bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Little Hawk bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "EZ Liftline / Bunnyfair",
+   2.6
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "EZ bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Little Hawk",
+   1.0
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Tenderfoot bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Uncle Bob's",
+   1.9
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Caribou bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Little Hawk bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "EZ Liftline / Bunnyfair",
+   2.4
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Race bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "EZ bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Tenderfoot bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Sundance bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Uncle Bob's",
+   2.7
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Caribou bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Bonanza",
+   3.0
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Trick Ditch / Gabor's",
+   2.0
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Alpenglow bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Race bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Sundance bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Caribou bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "International / Sunset",
+   1.7
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Bonanza",
+   1.0
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Trick Ditch / Gabor's",
+   1.6
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Sun Kid bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Indian Peaks top",
+   3.9
+  ],
+  [
+   "walk",
+   "Indian Peaks top",
+   "Alpenglow top",
+   3.9
+  ],
+  [
+   "walk",
+   "Windmill / Hornblower",
+   "Windmill",
+   3.1
+  ],
+  [
+   "walk",
+   "Windmill / Hornblower",
+   "Cannonball Run / La Belle Dame",
+   1.7
+  ],
+  [
+   "walk",
+   "Windmill / Hornblower",
+   "Pipeline / Jolly Jug",
+   1.4
+  ],
+  [
+   "walk",
+   "Cannonball Run / La Belle Dame",
+   "Windmill / Hornblower",
+   1.7
+  ],
+  [
+   "walk",
+   "Cannonball Run / La Belle Dame",
+   "Windmill",
+   3.1
+  ],
+  [
+   "walk",
+   "Cannonball Run / La Belle Dame",
+   "Pipeline / Jolly Jug",
+   1.5
+  ],
+  [
+   "walk",
+   "Cannonball Run / La Belle Dame",
+   "Indian Peaks top",
+   4.8
+  ],
+  [
+   "walk",
+   "Pipeline / Jolly Jug",
+   "Windmill / Hornblower",
+   1.4
+  ],
+  [
+   "walk",
+   "Pipeline / Jolly Jug",
+   "Windmill",
+   2.9
+  ],
+  [
+   "walk",
+   "Pipeline / Jolly Jug",
+   "Cannonball Run / La Belle Dame",
+   1.5
+  ],
+  [
+   "walk",
+   "Pipeline / Jolly Jug",
+   "Indian Peaks top",
+   4.5
+  ],
+  [
+   "walk",
+   "Indian Peaks top",
+   "Windmill",
+   6.2
+  ],
+  [
+   "walk",
+   "Indian Peaks top",
+   "Cannonball Run / La Belle Dame",
+   4.8
+  ],
+  [
+   "walk",
+   "Indian Peaks top",
+   "Pipeline / Jolly Jug",
+   4.5
+  ],
+  [
+   "walk",
+   "Wayback",
+   "Wayback 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Windmill / Hornblower",
+   "Muleshoe / Wayback",
+   5.2
+  ],
+  [
+   "walk",
+   "Windmill / Hornblower",
+   "Unnamed run / Wayback",
+   5.8
+  ],
+  [
+   "walk",
+   "Windmill / Hornblower",
+   "Wayback 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Windmill / Hornblower",
+   "Wayback 4",
+   6.2
+  ],
+  [
+   "walk",
+   "Muleshoe / Wayback",
+   "Windmill / Hornblower",
+   5.2
+  ],
+  [
+   "walk",
+   "Muleshoe / Wayback",
+   "Unnamed run / Wayback",
+   4.9
+  ],
+  [
+   "walk",
+   "Muleshoe / Wayback",
+   "Wayback 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Muleshoe / Wayback",
+   "Wayback 4",
+   5.3
+  ],
+  [
+   "walk",
+   "Muleshoe / Wayback",
+   "Alpenglow top",
+   6.1
+  ],
+  [
+   "walk",
+   "Muleshoe / Wayback",
+   "Cannonball Run / La Belle Dame",
+   6.9
+  ],
+  [
+   "walk",
+   "Muleshoe / Wayback",
+   "Pipeline / Jolly Jug",
+   6.7
+  ],
+  [
+   "walk",
+   "Wayback 4",
+   "Windmill / Hornblower",
+   6.2
+  ],
+  [
+   "walk",
+   "Wayback 4",
+   "Muleshoe / Wayback",
+   5.3
+  ],
+  [
+   "walk",
+   "Wayback 4",
+   "Unnamed run / Wayback",
+   5.8
+  ],
+  [
+   "walk",
+   "Wayback 4",
+   "Wayback 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Muleshoe / Wayback",
+   6.1
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Unnamed run / Wayback",
+   6.7
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Wayback 3",
+   6.0
+  ],
+  [
+   "walk",
+   "Cannonball Run / La Belle Dame",
+   "Muleshoe / Wayback",
+   6.9
+  ],
+  [
+   "walk",
+   "Cannonball Run / La Belle Dame",
+   "Wayback 3",
+   6.9
+  ],
+  [
+   "walk",
+   "Pipeline / Jolly Jug",
+   "Muleshoe / Wayback",
+   6.7
+  ],
+  [
+   "walk",
+   "Pipeline / Jolly Jug",
+   "Wayback 3",
+   6.6
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "EZ Liftline / Bunnyfair",
+   2.8
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Foxtail",
+   3.0
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Fun Zone / Uncle Bob's",
+   1.5
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Uncle Bob's",
+   2.8
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "Little Hawk bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "EZ Liftline / Bunnyfair",
+   4.0
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "Little Hawk",
+   3.0
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "Fun Zone / Uncle Bob's",
+   3.0
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "Tenderfoot bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "Uncle Bob's",
+   5.0
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "Tenderfoot top",
+   3.8
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "EZ Liftline / Bunnyfair",
+   3.7
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "Little Hawk",
+   1.5
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "Foxtail",
+   3.0
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "Uncle Bob's",
+   3.2
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "Sundance bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "Caribou bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "Sun Kid bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Uncle Bob's",
+   2.2
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Sundance bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Sun Kid bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "Sundance bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "Caribou bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "Sun Kid bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Sundance bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Sun Kid bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Race top",
+   "EZ top",
+   3.7
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Race top",
+   3.7
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Tenderfoot top",
+   3.5
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Tenderfoot top",
+   4.4
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Tenderfoot top",
+   3.8
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Tenderfoot top",
+   3.9
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "Little Hawk bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "Tenderfoot bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "Tenderfoot top",
+   5.4
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "Uncle Bob's",
+   4.3
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Tenderfoot top",
+   4.5
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "Sundance bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "Caribou bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Challenge / Sunset",
+   5.6
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Summer Road / Bonanza",
+   5.4
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Unnamed run / Sunset",
+   6.1
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Summer Road",
+   2.1
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Unnamed run / Trick Ditch",
+   2.9
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Summer Road 2",
+   2.6
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Sundance",
+   2.2
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Summer Road 3",
+   4.1
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Bonanza 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "EZ Liftline / Summer Road",
+   5.6
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Summer Road / Bonanza",
+   4.4
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Unnamed run / Sunset",
+   5.2
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Summer Road",
+   3.6
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Unnamed run / Trick Ditch",
+   3.7
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Caribou top",
+   5.0
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Summer Road 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Sundance",
+   4.8
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Summer Road 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Bonanza 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "EZ top",
+   6.0
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "EZ Liftline / Summer Road",
+   5.4
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Challenge / Sunset",
+   4.4
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Unnamed run / Sunset",
+   5.0
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Summer Road",
+   3.4
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Unnamed run / Trick Ditch",
+   3.5
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Caribou top",
+   4.8
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Summer Road 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Sundance",
+   4.6
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Summer Road 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Bonanza 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "EZ top",
+   5.8
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "EZ Liftline / Summer Road",
+   2.1
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Challenge / Sunset",
+   3.6
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Summer Road / Bonanza",
+   3.4
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Unnamed run / Sunset",
+   4.2
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Unnamed run / Trick Ditch",
+   2.8
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Summer Road 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Sundance",
+   3.1
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Summer Road 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Bonanza 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Challenge / Sunset",
+   4.5
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Summer Road / Bonanza",
+   4.3
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Unnamed run / Sunset",
+   5.1
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Bonanza 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Challenge / Sunset",
+   5.0
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Summer Road / Bonanza",
+   4.8
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Unnamed run / Sunset",
+   5.6
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Summer Road 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Bonanza 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "EZ Liftline / Summer Road",
+   2.6
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Challenge / Sunset",
+   3.0
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Summer Road / Bonanza",
+   2.8
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Unnamed run / Sunset",
+   3.6
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Summer Road",
+   2.1
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Unnamed run / Trick Ditch",
+   2.1
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Sundance",
+   3.2
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Summer Road 3",
+   1.6
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Bonanza 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "EZ Liftline / Summer Road",
+   4.1
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Challenge / Sunset",
+   3.2
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Summer Road / Bonanza",
+   3.0
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Unnamed run / Sunset",
+   3.8
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Summer Road",
+   2.2
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Unnamed run / Trick Ditch",
+   2.3
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Caribou top",
+   3.6
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Summer Road 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Sundance",
+   3.4
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Bonanza 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "EZ top",
+   4.6
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Challenge / Sunset",
+   6.0
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Summer Road / Bonanza",
+   5.8
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Unnamed run / Trick Ditch",
+   3.6
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Summer Road 3",
+   4.6
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Bonanza 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Hotdog Alley / Klondike",
+   "Sundance bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Hotdog Alley / Klondike",
+   "Caribou bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Hotdog Alley / Klondike",
+   "International / Sunset",
+   4.2
+  ],
+  [
+   "walk",
+   "Hotdog Alley / Klondike",
+   "Bonanza",
+   3.3
+  ],
+  [
+   "walk",
+   "Hotdog Alley / Klondike",
+   "Trick Ditch / Gabor's",
+   3.4
+  ],
+  [
+   "walk",
+   "Hotdog Alley / Klondike",
+   "Sun Kid bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "Sundance bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "Caribou bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "International / Sunset",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "Bonanza",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "Trick Ditch / Gabor's",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "Sun Kid bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "Alpenglow bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Sundance bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Caribou bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "International / Sunset",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Bonanza",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Trick Ditch / Gabor's",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Sun Kid bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Alpenglow bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "International / Sunset",
+   3.9
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "International / Sunset",
+   4.7
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Bonanza",
+   3.8
+  ],
+  [
+   "walk",
+   "International / Sunset",
+   "Sundance bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "International / Sunset",
+   "Caribou bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "International / Sunset",
+   "Sun Kid bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "Caribou bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "Sundance bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "Caribou bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "International / Sunset",
+   4.5
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "Bonanza",
+   3.6
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "Trick Ditch / Gabor's",
+   3.6
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "Sun Kid bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "Alpenglow bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "International / Sunset",
+   3.9
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "Trick Ditch / Gabor's",
+   5.9
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Trick Ditch / Gabor's",
+   3.7
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Trick Ditch / Gabor's",
+   3.0
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Trick Ditch / Gabor's",
+   5.3
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "Trick Ditch / Gabor's",
+   6.5
+  ],
+  [
+   "walk",
+   "Foxtail",
+   "Sun Kid bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Fun Zone / Uncle Bob's",
+   "Trick Ditch / Gabor's",
+   6.3
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Trick Ditch / Gabor's",
+   4.9
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Trick Ditch / Gabor's",
+   4.3
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Trick Ditch / Gabor's",
+   5.4
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Little Hawk top",
+   1.7
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Foxtail",
+   4.0
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Fun Zone / Uncle Bob's",
+   2.5
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Little Hawk top",
+   5.5
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "EZ bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Little Hawk",
+   6.2
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Fun Zone / Uncle Bob's",
+   6.3
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Bunnyfair",
+   2.2
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Foxtail / Bunnyfair",
+   2.2
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Bunnyfair 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Bunnyfair",
+   3.1
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Foxtail / Bunnyfair",
+   3.1
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Bunnyfair 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Bunnyfair",
+   3.6
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Foxtail / Bunnyfair",
+   3.6
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Bunnyfair 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Race top",
+   "Bunnyfair",
+   4.3
+  ],
+  [
+   "walk",
+   "Race top",
+   "Foxtail / Bunnyfair",
+   4.3
+  ],
+  [
+   "walk",
+   "Race top",
+   "Bunnyfair 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Bunnyfair",
+   5.2
+  ],
+  [
+   "walk",
+   "Race top",
+   "Race bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Race top",
+   "Bonanza",
+   5.4
+  ],
+  [
+   "walk",
+   "Race top",
+   "Trick Ditch / Gabor's",
+   5.5
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Race bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Race bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Unnamed run / Sunset",
+   6.6
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Bunnyfair",
+   6.4
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Foxtail / Bunnyfair",
+   5.2
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Bunnyfair 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Race top",
+   "Sundance bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Race top",
+   "International / Sunset",
+   6.3
+  ],
+  [
+   "walk",
+   "Race top",
+   "Alpenglow bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Race bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Bonanza",
+   6.6
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Trick Ditch / Gabor's",
+   6.6
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Alpenglow bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Race bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Bonanza",
+   6.4
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Trick Ditch / Gabor's",
+   6.4
+  ],
+  [
+   "walk",
+   "Caribou top",
+   "Alpenglow bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Race bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Race bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Bonanza",
+   6.8
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Trick Ditch / Gabor's",
+   6.8
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Alpenglow bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Bonanza",
+   6.1
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Trick Ditch / Gabor's",
+   6.2
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Alpenglow bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Bonanza",
+   6.3
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Trick Ditch / Gabor's",
+   6.3
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Alpenglow bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Race bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Bonanza",
+   5.1
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Alpenglow bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "International / Sunset",
+   6.0
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Race bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Bonanza",
+   4.4
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Alpenglow bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "International / Sunset",
+   5.3
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "Little Hawk bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "EZ Liftline / Bunnyfair",
+   3.6
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "EZ bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "Tenderfoot bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "Uncle Bob's",
+   4.9
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "Tenderfoot top",
+   6.0
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Race bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Bonanza",
+   4.6
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Alpenglow bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "International / Sunset",
+   5.4
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Race bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Bonanza",
+   6.2
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Alpenglow bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Race bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Bonanza",
+   5.7
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Alpenglow bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "International / Sunset",
+   6.6
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "Little Hawk bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "EZ Liftline / Bunnyfair",
+   4.3
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "EZ bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "Tenderfoot bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "Uncle Bob's",
+   5.7
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "Tenderfoot top",
+   6.8
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Little Hawk bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "EZ Liftline / Bunnyfair",
+   4.1
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "EZ bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Tenderfoot bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Uncle Bob's",
+   5.0
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Tenderfoot top",
+   6.4
+  ],
+  [
+   "walk",
+   "Little Hawk top",
+   "Race bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Race bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Bonanza",
+   6.7
+  ],
+  [
+   "walk",
+   "Little Hawk",
+   "Alpenglow bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Race bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Bonanza",
+   6.8
+  ],
+  [
+   "walk",
+   "Tenderfoot top",
+   "Alpenglow bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Hotdog Alley / Klondike",
+   "Little Hawk bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Hotdog Alley / Klondike",
+   "EZ Liftline / Bunnyfair",
+   6.1
+  ],
+  [
+   "walk",
+   "Hotdog Alley / Klondike",
+   "EZ bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "EZ Liftline / Bunnyfair",
+   6.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "EZ Liftline / Bunnyfair",
+   6.8
+  ],
+  [
+   "walk",
+   "International / Sunset",
+   "Little Hawk bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "International / Sunset",
+   "EZ Liftline / Bunnyfair",
+   5.1
+  ],
+  [
+   "walk",
+   "International / Sunset",
+   "EZ bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "International / Sunset",
+   "Uncle Bob's",
+   6.6
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "EZ Liftline / Bunnyfair",
+   6.4
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "EZ bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Foxtail",
+   3.8
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Little Hawk top",
+   6.1
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Little Hawk",
+   6.8
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Fun Zone / Uncle Bob's",
+   6.8
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Race bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "EZ Liftline / Summer Road",
+   "Bonanza",
+   6.9
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "EZ Liftline / Summer Road",
+   2.2
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Race top",
+   4.3
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Foxtail / Bunnyfair",
+   3.2
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Bunnyfair 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Foxtail",
+   4.8
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "EZ top",
+   2.8
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Summer Road",
+   3.1
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Unnamed run / Trick Ditch",
+   3.9
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Summer Road 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Sundance",
+   3.2
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Challenge / Sunset",
+   6.6
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Summer Road / Bonanza",
+   6.4
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Summer Road 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Bunnyfair",
+   "Bonanza 2",
+   6.4
+  ],
+  [
+   "walk",
+   "Race top",
+   "Foxtail",
+   5.9
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Foxtail",
+   4.4
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Little Hawk top",
+   6.7
+  ],
+  [
+   "walk",
+   "EZ top",
+   "Race bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Summer Road",
+   "Foxtail",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "EZ Liftline / Summer Road",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Bunnyfair",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Race top",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Foxtail / Bunnyfair",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Bunnyfair 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Foxtail",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "EZ top",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Summer Road",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Summer Road 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Sundance",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Summer Road 3",
+   6.0
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Foxtail",
+   4.6
+  ],
+  [
+   "walk",
+   "Sundance top",
+   "Little Hawk top",
+   6.8
+  ],
+  [
+   "walk",
+   "Summer Road 2",
+   "Foxtail",
+   5.2
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Bunnyfair",
+   6.6
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Foxtail / Bunnyfair",
+   6.6
+  ],
+  [
+   "walk",
+   "Challenge / Sunset",
+   "Bunnyfair 2",
+   6.8
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Foxtail / Bunnyfair",
+   6.4
+  ],
+  [
+   "walk",
+   "Summer Road / Bonanza",
+   "Bunnyfair 2",
+   6.6
+  ],
+  [
+   "walk",
+   "Summer Road 3",
+   "Foxtail",
+   6.8
+  ],
+  [
+   "walk",
+   "Race bottom",
+   "Hotdog Alley / Klondike",
+   2.6
+  ],
+  [
+   "walk",
+   "Bonanza",
+   "Hotdog Alley / Klondike",
+   1.9
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Hotdog Alley / Klondike",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Sunset",
+   "Hotdog Alley / Klondike",
+   5.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Trick Ditch",
+   "Hotdog Alley / Klondike",
+   5.9
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Hotdog Alley / Klondike",
+   4.8
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Hotdog Alley / Klondike",
+   5.6
+  ],
+  [
+   "walk",
+   "Bonanza 2",
+   "Hotdog Alley / Klondike",
+   5.5
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Hotdog Alley / Klondike",
+   4.9
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Hotdog Alley / Klondike",
+   6.2
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Hotdog Alley / Klondike",
+   6.3
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Hotdog Alley / Klondike",
+   6.9
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Little Hawk",
+   3.6
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Little Hawk top",
+   4.4
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Foxtail",
+   6.6
+  ],
+  [
+   "walk",
+   "EZ Liftline / Bunnyfair",
+   "Fun Zone / Uncle Bob's",
+   5.1
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Little Hawk",
+   3.2
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Little Hawk top",
+   4.0
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Foxtail",
+   6.2
+  ],
+  [
+   "walk",
+   "EZ bottom",
+   "Fun Zone / Uncle Bob's",
+   4.7
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Little Hawk",
+   4.0
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Little Hawk top",
+   4.7
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Foxtail",
+   6.9
+  ],
+  [
+   "walk",
+   "Caribou bottom",
+   "Fun Zone / Uncle Bob's",
+   5.5
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Little Hawk",
+   4.5
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Little Hawk top",
+   5.2
+  ],
+  [
+   "walk",
+   "Little Hawk bottom",
+   "Fun Zone / Uncle Bob's",
+   6.0
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Little Hawk",
+   5.4
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Little Hawk top",
+   6.1
+  ],
+  [
+   "walk",
+   "Tenderfoot bottom",
+   "Fun Zone / Uncle Bob's",
+   6.9
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Little Hawk",
+   4.8
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Little Hawk top",
+   5.5
+  ],
+  [
+   "walk",
+   "Sundance bottom",
+   "Fun Zone / Uncle Bob's",
+   6.3
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Little Hawk",
+   4.9
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Little Hawk top",
+   5.6
+  ],
+  [
+   "walk",
+   "Uncle Bob's",
+   "Fun Zone / Uncle Bob's",
+   6.4
+  ],
+  [
+   "walk",
+   "Trick Ditch / Gabor's",
+   "Little Hawk",
+   6.3
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Little Hawk",
+   5.5
+  ],
+  [
+   "walk",
+   "Sun Kid bottom",
+   "Little Hawk top",
+   6.3
+  ]
+ ],
+ "base": "Corona bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "10",
+  "downhill_trails": "73",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

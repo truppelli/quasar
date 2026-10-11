@@ -1,0 +1,6257 @@
+{
+ "name": "Sugarloaf",
+ "source": "OpenSkiMap ski area ba6f009c039cdf1008684fbf790a3fef14ec068a",
+ "origin_lonlat": [
+  -70.31430776616867,
+  45.04416363183898
+ ],
+ "nodes": {
+  "Timberline top": [
+   -36,
+   -1365,
+   1269.0
+  ],
+  "Narrow Gauge Extension / Spillway X-Cut": [
+   -270,
+   -1065,
+   1168.9
+  ],
+  "Sheer Boom / Upper Competition Hill": [
+   -236,
+   -435,
+   940.7
+  ],
+  "Sheer Boom / Peavy X-Cut": [
+   -84,
+   23,
+   748.8
+  ],
+  "Wedge / Mid-Station X-Cut": [
+   258,
+   -689,
+   950.5
+  ],
+  "Wedge / L. Bubblecuffer": [
+   286,
+   -406,
+   841.9
+  ],
+  "Hayburnder / Pinch": [
+   -489,
+   -687,
+   1063.0
+  ],
+  "Hayburnder / Peavy X-Cut": [
+   -318,
+   -12,
+   785.9
+  ],
+  "Picaroon / L. Narrow Gauge": [
+   113,
+   196,
+   713.0
+  ],
+  "Picaroon / L. Narrow Gauge 2": [
+   143,
+   308,
+   680.0
+  ],
+  "Skyline top": [
+   -194,
+   -1029,
+   1174.4
+  ],
+  "Spillway X-Cut / Upper Timberline": [
+   -454,
+   -1123,
+   1148.1
+  ],
+  "Cinder Hoe / Binder Extension": [
+   -70,
+   -1410,
+   1260.7
+  ],
+  "Cinder Hoe / Tote Road": [
+   -405,
+   -941,
+   1120.3
+  ],
+  "Bucksaw Express top": [
+   -994,
+   108,
+   904.8
+  ],
+  "Upper West Mountain / Lower West Mountain": [
+   -1201,
+   731,
+   733.1
+  ],
+  "U. Cruiser / Upper Whiffletree": [
+   554,
+   -287,
+   814.5
+  ],
+  "U. Cruiser / Condo X-Cut": [
+   701,
+   226,
+   687.5
+  ],
+  "Lower Timberline / Pick Pole": [
+   -929,
+   -516,
+   981.6
+  ],
+  "Lower Timberline / Birch Hook": [
+   -925,
+   -155,
+   918.6
+  ],
+  "Upper Whiffletree / Slasher": [
+   614,
+   158,
+   697.5
+  ],
+  "Skybound / L. Cruiser": [
+   743,
+   553,
+   614.1
+  ],
+  "Snubber top": [
+   652,
+   906,
+   557.0
+  ],
+  "Upper West Mountain": [
+   -1117,
+   488,
+   787.5
+  ],
+  "Beaver Trail / Knot Bumper": [
+   -922,
+   942,
+   662.9
+  ],
+  "Lower Scoot / Lower Glancer": [
+   -222,
+   823,
+   646.5
+  ],
+  "Lower Scoot / Lower Binder": [
+   9,
+   952,
+   595.8
+  ],
+  "Double Runner East top": [
+   161,
+   71,
+   732.3
+  ],
+  "Condo X-Cut / Lower Stub's": [
+   1271,
+   409,
+   620.7
+  ],
+  "Bateau T-Bar top": [
+   -212,
+   -974,
+   1150.3
+  ],
+  "Sluice Headwall / Gin Pole": [
+   -96,
+   -782,
+   1050.5
+  ],
+  "Lower Stub's": [
+   680,
+   1385,
+   501.6
+  ],
+  "Sidewinder / Peavy X-Cut": [
+   -6,
+   67,
+   743.4
+  ],
+  "Sidewinder / L. Narrow Gauge": [
+   177,
+   583,
+   624.2
+  ],
+  "Birch Hook / Upper Binder": [
+   -900,
+   -200,
+   927.4
+  ],
+  "Birch Hook / Windrow Extension": [
+   -932,
+   16,
+   900.6
+  ],
+  "Windrow Extension / Spurline": [
+   -821,
+   -127,
+   916.9
+  ],
+  "Windrow Extension / Horseshoe": [
+   -936,
+   64,
+   900.4
+  ],
+  "Upper Stub's Trail / Upper Buckboard": [
+   827,
+   -62,
+   743.9
+  ],
+  "Stomping Ground / Spurline": [
+   -508,
+   -19,
+   827.3
+  ],
+  "Stomping Ground / Candy Side": [
+   -155,
+   327,
+   701.5
+  ],
+  "Condo X-Cut": [
+   520,
+   192,
+   690.6
+  ],
+  "Whiffletree SuperQuad bottom": [
+   638,
+   1035,
+   537.4
+  ],
+  "Upper Competition Hill / Pick Pole": [
+   -325,
+   -659,
+   1042.4
+  ],
+  "Upper Competition Hill / Tote Road Crosscut": [
+   -125,
+   -263,
+   853.0
+  ],
+  "Upper Winter's Way / Spillway X-Cut": [
+   -73,
+   -1017,
+   1164.3
+  ],
+  "Upper Winter's Way / Old Winter's Way": [
+   155,
+   -461,
+   886.1
+  ],
+  "U. Bubblecuffer / Spillway X-Cut": [
+   88,
+   -1064,
+   1153.4
+  ],
+  "U. Bubblecuffer / Mid-Station X-Cut": [
+   202,
+   -677,
+   953.8
+  ],
+  "Bucksaw / Lower Glancer": [
+   -422,
+   770,
+   665.9
+  ],
+  "Bucksaw / Feller Buncher": [
+   -214,
+   1915,
+   465.5
+  ],
+  "Narrow Gauge / Upper Narrow Gauge": [
+   -62,
+   -280,
+   856.4
+  ],
+  "Narrow Gauge / L. Narrow Gauge": [
+   75,
+   80,
+   739.5
+  ],
+  "Spillway X-Cut": [
+   -372,
+   -1112,
+   1158.9
+  ],
+  "Candy Side / Haywire": [
+   86,
+   670,
+   621.2
+  ],
+  "Sugarloaf SuperQuad bottom": [
+   332,
+   1057,
+   539.2
+  ],
+  "L. Narrow Gauge / Boardwalk": [
+   338,
+   758,
+   584.9
+  ],
+  "Upper Whiffletree / L. Boomauger": [
+   521,
+   -412,
+   842.3
+  ],
+  "Twitcher / Yarder": [
+   -1118,
+   1106,
+   653.3
+  ],
+  "Twitcher / Whistle Punk": [
+   -601,
+   1856,
+   493.8
+  ],
+  "Snowbrook / Birches Slope": [
+   417,
+   1619,
+   484.4
+  ],
+  "Snubber Lower bottom": [
+   146,
+   2517,
+   425.2
+  ],
+  "Upper Scoot": [
+   -865,
+   6,
+   896.2
+  ],
+  "Upper Scoot 2": [
+   -824,
+   63,
+   881.9
+  ],
+  "Whistle Punk / Yarder": [
+   -701,
+   1212,
+   604.9
+  ],
+  "Bucksaw Express bottom": [
+   -285,
+   1954,
+   466.1
+  ],
+  "Lower Glancer / Horseshoe": [
+   -703,
+   420,
+   762.1
+  ],
+  "Lower Scoot": [
+   -171,
+   876,
+   636.0
+  ],
+  "Horseshoe / Windrow": [
+   -625,
+   394,
+   756.1
+  ],
+  "Peavy X-Cut / Tote Road Crosscut": [
+   -621,
+   73,
+   825.7
+  ],
+  "Slasher / Boardwalk": [
+   363,
+   723,
+   590.2
+  ],
+  "King Pine top": [
+   380,
+   -1109,
+   1086.1
+  ],
+  "Widowmaker / L. Boomauger": [
+   464,
+   -553,
+   884.8
+  ],
+  "Buckskin / U. Binder": [
+   -461,
+   -998,
+   1127.0
+  ],
+  "Buckskin / Upper Binder": [
+   -532,
+   -877,
+   1093.7
+  ],
+  "Bucksaw X-Cut": [
+   -771,
+   -51,
+   894.3
+  ],
+  "Spurline": [
+   -672,
+   -77,
+   880.4
+  ],
+  "Narrow Gauge Extension": [
+   -19,
+   -1274,
+   1258.5
+  ],
+  "White Nitro Extension / White Nitro": [
+   189,
+   -1062,
+   1130.7
+  ],
+  "Sheer Boom": [
+   -185,
+   -248,
+   847.5
+  ],
+  "Tote Road Crosscut / Lower Tote Road": [
+   -589,
+   114,
+   807.3
+  ],
+  "West Mountain bottom": [
+   -1642,
+   2096,
+   518.3
+  ],
+  "Upper Buckboard / Tohaul": [
+   624,
+   -461,
+   844.5
+  ],
+  "Upper Buckboard / Lower Buckboard": [
+   815,
+   544,
+   614.7
+  ],
+  "Birch Hook": [
+   -934,
+   -107,
+   910.7
+  ],
+  "West Mountain top": [
+   -1245,
+   884,
+   697.5
+  ],
+  "L. Boomauger / Mid-Station X-Cut": [
+   372,
+   -717,
+   944.3
+  ],
+  "Unnamed run / Windrow": [
+   -404,
+   638,
+   697.8
+  ],
+  "Unnamed run / Lower Tote Road": [
+   -295,
+   622,
+   692.5
+  ],
+  "King Pine bottom": [
+   1012,
+   -481,
+   762.9
+  ],
+  "Sugarloaf SuperQuad top": [
+   -390,
+   -779,
+   1077.0
+  ],
+  "Gin Pole / Upper Gondola Line": [
+   123,
+   -799,
+   1020.0
+  ],
+  "Upper Spillway / Old Winter's Way": [
+   53,
+   -312,
+   855.2
+  ],
+  "Widowmaker": [
+   354,
+   -1059,
+   1080.0
+  ],
+  "Sluice / Lombard X-Cut": [
+   222,
+   -57,
+   744.3
+  ],
+  "Double Bitter / Pinch": [
+   -629,
+   -547,
+   1028.8
+  ],
+  "Spurline 2": [
+   -545,
+   -92,
+   856.7
+  ],
+  "Bridle Chain / Pinch": [
+   -591,
+   -633,
+   1047.7
+  ],
+  "Timberline bottom": [
+   -892,
+   -556,
+   996.5
+  ],
+  "Upper Poleline / Lombard X-Cut": [
+   469,
+   -368,
+   826.1
+  ],
+  "Unnamed run / Mid-Station X-Cut": [
+   144,
+   -660,
+   958.3
+  ],
+  "Bateau T-Bar bottom": [
+   13,
+   -292,
+   855.8
+  ],
+  "Lower Glancer": [
+   -637,
+   468,
+   739.4
+  ],
+  "Hatchet / Feller Buncher": [
+   -659,
+   809,
+   670.6
+  ],
+  "Sluice": [
+   28,
+   -618,
+   966.1
+  ],
+  "Ramdown": [
+   419,
+   -711,
+   938.8
+  ],
+  "White Nitro / Old Winter's Way": [
+   258,
+   -826,
+   1000.2
+  ],
+  "L. Narrow Gauge": [
+   203,
+   530,
+   633.6
+  ],
+  "L. Narrow Gauge 2": [
+   245,
+   674,
+   604.6
+  ],
+  "Peavy X-Cut": [
+   -377,
+   -20,
+   794.8
+  ],
+  "Haul Back": [
+   446,
+   -1112,
+   1075.8
+  ],
+  "Upper Poleline": [
+   497,
+   -269,
+   812.4
+  ],
+  "Haywire / Lower Tote Road": [
+   -441,
+   239,
+   779.4
+  ],
+  "Bucksaw X-Cut 2": [
+   -814,
+   -23,
+   893.7
+  ],
+  "Upper Scoot / Middle Scoot": [
+   -692,
+   224,
+   805.9
+  ],
+  "Bubblecuffer Extension / Gondola Line Extension": [
+   6,
+   -1168,
+   1221.2
+  ],
+  "Haul Back 2": [
+   962,
+   -530,
+   776.7
+  ],
+  "Double Runner East bottom": [
+   394,
+   954,
+   548.7
+  ],
+  "Upper Glancer": [
+   -961,
+   168,
+   888.4
+  ],
+  "Horseshoe": [
+   -889,
+   419,
+   792.0
+  ],
+  "Rough Cut Glade": [
+   1068,
+   -487,
+   760.6
+  ],
+  "Unnamed run / Upper Timberline": [
+   -908,
+   -731,
+   1015.7
+  ],
+  "Skidway bottom": [
+   505,
+   983,
+   542.0
+  ],
+  "U. Cruiser": [
+   658,
+   -47,
+   744.2
+  ],
+  "Windrow / Upper Windrow": [
+   -722,
+   297,
+   790.6
+  ],
+  "Windrow": [
+   148,
+   1177,
+   540.9
+  ],
+  "Widowmaker 2": [
+   508,
+   -898,
+   983.9
+  ],
+  "Tohaul": [
+   769,
+   -580,
+   814.3
+  ],
+  "Lower Glancer 2": [
+   -366,
+   824,
+   652.9
+  ],
+  "[condo access]": [
+   -235,
+   933,
+   631.1
+  ],
+  "Lombard X-Cut": [
+   291,
+   -244,
+   778.9
+  ],
+  "Bridle Chain": [
+   -773,
+   -633,
+   1027.4
+  ],
+  "Birch Hook 2": [
+   -941,
+   -44,
+   902.4
+  ],
+  "Horseshoe 2": [
+   -993,
+   343,
+   830.8
+  ],
+  "Cutter / Feller Buncher": [
+   -599,
+   1051,
+   618.1
+  ],
+  "Pinch": [
+   -423,
+   -754,
+   1075.7
+  ],
+  "Candy Side": [
+   -254,
+   65,
+   759.5
+  ],
+  "Sluice Headwall": [
+   -130,
+   -902,
+   1109.0
+  ],
+  "Upper Winter's Way": [
+   -22,
+   -873,
+   1087.1
+  ],
+  "Lower Binder / Lower Tote Road": [
+   245,
+   977,
+   560.5
+  ],
+  "Lombard X-Cut 2": [
+   199,
+   32,
+   730.6
+  ],
+  "Narrow Gauge Extension 2": [
+   -64,
+   -1317,
+   1262.4
+  ],
+  "White Nitro": [
+   228,
+   -998,
+   1081.3
+  ],
+  "Whiffletree SuperQuad top": [
+   584,
+   -430,
+   847.5
+  ],
+  "Upper Poleline 2": [
+   479,
+   -222,
+   800.4
+  ],
+  "Widowmaker 3": [
+   557,
+   -638,
+   896.1
+  ],
+  "Tohaul 2": [
+   707,
+   -560,
+   825.0
+  ],
+  "Lower West Mountain": [
+   -1478,
+   1593,
+   587.7
+  ],
+  "Upper Whiffletree": [
+   577,
+   -387,
+   841.1
+  ],
+  "U. Cruiser 2": [
+   647,
+   -106,
+   755.6
+  ],
+  "Spillway X-Cut 2": [
+   279,
+   -1084,
+   1112.0
+  ],
+  "Spillway X-Cut 3": [
+   36,
+   -1051,
+   1161.5
+  ],
+  "Upper Narrow Gauge": [
+   -191,
+   -492,
+   965.7
+  ],
+  "Upper Narrow Gauge 2": [
+   -131,
+   -374,
+   897.2
+  ],
+  "Condo X-Cut 2": [
+   221,
+   112,
+   715.0
+  ],
+  "Lower Winter's Way / The Landing": [
+   407,
+   791,
+   573.8
+  ],
+  "Tote Road": [
+   -334,
+   -1026,
+   1148.0
+  ],
+  "Spillway X-Cut 4": [
+   -124,
+   -1013,
+   1168.4
+  ],
+  "Narrow Gauge Extension 3": [
+   -94,
+   -1146,
+   1223.0
+  ],
+  "Lombard X-Cut 3": [
+   256,
+   -205,
+   771.0
+  ],
+  "Lower Whiffletree": [
+   674,
+   592,
+   608.5
+  ],
+  "Lower Tote Road": [
+   285,
+   1081,
+   543.0
+  ],
+  "Slasher": [
+   396,
+   623,
+   601.4
+  ],
+  "Snubber bottom": [
+   393,
+   1681,
+   480.8
+  ],
+  "Skidway top": [
+   465,
+   692,
+   583.6
+  ],
+  "Sawduster bottom": [
+   546,
+   1355,
+   508.0
+  ],
+  "Sawduster top": [
+   455,
+   970,
+   547.1
+  ],
+  "Moosecalator bottom": [
+   539,
+   1292,
+   512.3
+  ],
+  "Moosecalator top": [
+   552,
+   1174,
+   522.8
+  ]
+ },
+ "lifts": [
+  [
+   "Snubber",
+   "Snubber bottom",
+   "Snubber top",
+   13.9
+  ],
+  [
+   "Whiffletree SuperQuad",
+   "Whiffletree SuperQuad bottom",
+   "Whiffletree SuperQuad top",
+   7.4
+  ],
+  [
+   "Bucksaw Express",
+   "Bucksaw Express bottom",
+   "Bucksaw Express top",
+   9.6
+  ],
+  [
+   "Bateau T-Bar",
+   "Bateau T-Bar bottom",
+   "Bateau T-Bar top",
+   7.3
+  ],
+  [
+   "Skidway",
+   "Skidway bottom",
+   "Skidway top",
+   5.1
+  ],
+  [
+   "Timberline",
+   "Timberline bottom",
+   "Timberline top",
+   12.1
+  ],
+  [
+   "Sugarloaf SuperQuad",
+   "Sugarloaf SuperQuad bottom",
+   "Sugarloaf SuperQuad top",
+   9.2
+  ],
+  [
+   "West Mountain",
+   "West Mountain bottom",
+   "West Mountain top",
+   16.9
+  ],
+  [
+   "Double Runner East",
+   "Double Runner East bottom",
+   "Double Runner East top",
+   9.8
+  ],
+  [
+   "Skyline",
+   "Double Runner East top",
+   "Skyline top",
+   10.7
+  ],
+  [
+   "Sawduster",
+   "Sawduster bottom",
+   "Sawduster top",
+   5.9
+  ],
+  [
+   "Snubber Lower",
+   "Snubber Lower bottom",
+   "Snubber bottom",
+   13.9
+  ],
+  [
+   "King Pine",
+   "King Pine bottom",
+   "King Pine top",
+   10.1
+  ],
+  [
+   "Moosecalator",
+   "Moosecalator bottom",
+   "Moosecalator top",
+   5.5
+  ],
+  [
+   "Doubble Runner West",
+   "Double Runner East bottom",
+   "Bateau T-Bar bottom",
+   12.8
+  ]
+ ],
+ "runs": [
+  [
+   "Narrow Gauge Extension",
+   "Timberline top",
+   "Narrow Gauge Extension 2",
+   0.5
+  ],
+  [
+   "Narrow Gauge Extension",
+   "Narrow Gauge Extension 2",
+   "Narrow Gauge Extension",
+   0.5
+  ],
+  [
+   "Narrow Gauge Extension",
+   "Narrow Gauge Extension",
+   "Narrow Gauge Extension 3",
+   0.7
+  ],
+  [
+   "Narrow Gauge Extension",
+   "Narrow Gauge Extension 3",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   0.9
+  ],
+  [
+   "Sheer Boom",
+   "Sheer Boom / Upper Competition Hill",
+   "Sheer Boom",
+   0.8
+  ],
+  [
+   "Sheer Boom",
+   "Sheer Boom",
+   "Sheer Boom / Peavy X-Cut",
+   1.3
+  ],
+  [
+   "Wedge",
+   "Wedge / Mid-Station X-Cut",
+   "Wedge / L. Bubblecuffer",
+   1.3
+  ],
+  [
+   "Hayburnder",
+   "Hayburnder / Pinch",
+   "Hayburnder / Peavy X-Cut",
+   3.1
+  ],
+  [
+   "Picaroon",
+   "Picaroon / L. Narrow Gauge",
+   "Picaroon / L. Narrow Gauge 2",
+   0.5
+  ],
+  [
+   "Spillway X-Cut",
+   "Skyline top",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   0.5
+  ],
+  [
+   "Spillway X-Cut",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Spillway X-Cut",
+   0.5
+  ],
+  [
+   "Spillway X-Cut",
+   "Spillway X-Cut",
+   "Spillway X-Cut / Upper Timberline",
+   0.5
+  ],
+  [
+   "Cinder Hoe",
+   "Cinder Hoe / Binder Extension",
+   "Spillway X-Cut",
+   1.8
+  ],
+  [
+   "Cinder Hoe",
+   "Spillway X-Cut",
+   "Cinder Hoe / Tote Road",
+   0.6
+  ],
+  [
+   "Upper West Mountain",
+   "Bucksaw Express top",
+   "Upper West Mountain",
+   1.6
+  ],
+  [
+   "Upper West Mountain",
+   "Upper West Mountain",
+   "Upper West Mountain / Lower West Mountain",
+   1.1
+  ],
+  [
+   "U. Cruiser",
+   "U. Cruiser / Upper Whiffletree",
+   "U. Cruiser 2",
+   1.0
+  ],
+  [
+   "U. Cruiser",
+   "U. Cruiser 2",
+   "U. Cruiser",
+   0.5
+  ],
+  [
+   "U. Cruiser",
+   "U. Cruiser",
+   "U. Cruiser / Condo X-Cut",
+   1.3
+  ],
+  [
+   "Lower Timberline",
+   "Lower Timberline / Pick Pole",
+   "Lower Timberline / Birch Hook",
+   1.5
+  ],
+  [
+   "Upper Whiffletree",
+   "U. Cruiser / Upper Whiffletree",
+   "Upper Whiffletree / Slasher",
+   1.8
+  ],
+  [
+   "Skybound",
+   "Skybound / L. Cruiser",
+   "Snubber top",
+   1.5
+  ],
+  [
+   "Beaver Trail",
+   "Upper West Mountain",
+   "Beaver Trail / Knot Bumper",
+   2.0
+  ],
+  [
+   "Lower Scoot",
+   "Lower Scoot / Lower Glancer",
+   "Lower Scoot",
+   0.5
+  ],
+  [
+   "Lower Scoot",
+   "Lower Scoot",
+   "Lower Scoot / Lower Binder",
+   0.9
+  ],
+  [
+   "Condo X-Cut",
+   "Double Runner East top",
+   "Condo X-Cut 2",
+   0.5
+  ],
+  [
+   "Condo X-Cut",
+   "Condo X-Cut 2",
+   "Condo X-Cut",
+   1.8
+  ],
+  [
+   "Condo X-Cut",
+   "Condo X-Cut",
+   "U. Cruiser / Condo X-Cut",
+   0.8
+  ],
+  [
+   "Condo X-Cut",
+   "U. Cruiser / Condo X-Cut",
+   "Condo X-Cut / Lower Stub's",
+   2.7
+  ],
+  [
+   "Sluice Headwall",
+   "Bateau T-Bar top",
+   "Sluice Headwall",
+   0.5
+  ],
+  [
+   "Sluice Headwall",
+   "Sluice Headwall",
+   "Sluice Headwall / Gin Pole",
+   0.5
+  ],
+  [
+   "Lower Stub's",
+   "Condo X-Cut / Lower Stub's",
+   "Lower Stub's",
+   5.0
+  ],
+  [
+   "Sidewinder",
+   "Sidewinder / Peavy X-Cut",
+   "Sidewinder / L. Narrow Gauge",
+   2.2
+  ],
+  [
+   "Birch Hook",
+   "Birch Hook / Upper Binder",
+   "Lower Timberline / Birch Hook",
+   0.5
+  ],
+  [
+   "Birch Hook",
+   "Lower Timberline / Birch Hook",
+   "Birch Hook",
+   0.5
+  ],
+  [
+   "Birch Hook",
+   "Birch Hook",
+   "Birch Hook 2",
+   0.5
+  ],
+  [
+   "Birch Hook",
+   "Birch Hook 2",
+   "Birch Hook / Windrow Extension",
+   0.5
+  ],
+  [
+   "Windrow Extension",
+   "Windrow Extension / Spurline",
+   "Birch Hook / Windrow Extension",
+   0.6
+  ],
+  [
+   "Windrow Extension",
+   "Birch Hook / Windrow Extension",
+   "Windrow Extension / Horseshoe",
+   0.5
+  ],
+  [
+   "Upper Stub's Trail",
+   "Upper Stub's Trail / Upper Buckboard",
+   "Condo X-Cut / Lower Stub's",
+   3.4
+  ],
+  [
+   "Stomping Ground",
+   "Stomping Ground / Spurline",
+   "Stomping Ground / Candy Side",
+   2.1
+  ],
+  [
+   "Lower Poleline",
+   "Condo X-Cut",
+   "Whiffletree SuperQuad bottom",
+   3.5
+  ],
+  [
+   "Upper Competition Hill",
+   "Upper Competition Hill / Pick Pole",
+   "Sheer Boom / Upper Competition Hill",
+   0.9
+  ],
+  [
+   "Upper Competition Hill",
+   "Sheer Boom / Upper Competition Hill",
+   "Upper Competition Hill / Tote Road Crosscut",
+   0.9
+  ],
+  [
+   "Upper Winter's Way",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Upper Winter's Way",
+   0.6
+  ],
+  [
+   "Upper Winter's Way",
+   "Upper Winter's Way",
+   "Upper Winter's Way / Old Winter's Way",
+   2.1
+  ],
+  [
+   "U. Bubblecuffer",
+   "U. Bubblecuffer / Spillway X-Cut",
+   "U. Bubblecuffer / Mid-Station X-Cut",
+   1.8
+  ],
+  [
+   "Bucksaw",
+   "Bucksaw / Lower Glancer",
+   "Bucksaw / Feller Buncher",
+   5.4
+  ],
+  [
+   "Narrow Gauge",
+   "Narrow Gauge / Upper Narrow Gauge",
+   "Narrow Gauge / L. Narrow Gauge",
+   1.6
+  ],
+  [
+   "Binder Extension",
+   "Cinder Hoe / Binder Extension",
+   "Spillway X-Cut",
+   1.7
+  ],
+  [
+   "Candy Side",
+   "Candy Side / Haywire",
+   "Sugarloaf SuperQuad bottom",
+   1.8
+  ],
+  [
+   "L. Narrow Gauge",
+   "Narrow Gauge / L. Narrow Gauge",
+   "Picaroon / L. Narrow Gauge",
+   0.5
+  ],
+  [
+   "L. Narrow Gauge",
+   "Picaroon / L. Narrow Gauge",
+   "Picaroon / L. Narrow Gauge 2",
+   0.5
+  ],
+  [
+   "L. Narrow Gauge",
+   "Picaroon / L. Narrow Gauge 2",
+   "L. Narrow Gauge",
+   1.0
+  ],
+  [
+   "L. Narrow Gauge",
+   "L. Narrow Gauge",
+   "Sidewinder / L. Narrow Gauge",
+   0.5
+  ],
+  [
+   "L. Narrow Gauge",
+   "Sidewinder / L. Narrow Gauge",
+   "L. Narrow Gauge 2",
+   0.5
+  ],
+  [
+   "L. Narrow Gauge",
+   "L. Narrow Gauge 2",
+   "L. Narrow Gauge / Boardwalk",
+   0.5
+  ],
+  [
+   "Upper Whiffletree",
+   "Upper Whiffletree / L. Boomauger",
+   "Upper Whiffletree",
+   0.5
+  ],
+  [
+   "Upper Whiffletree",
+   "Upper Whiffletree",
+   "U. Cruiser / Upper Whiffletree",
+   0.5
+  ],
+  [
+   "Lower Springboard",
+   "Condo X-Cut",
+   "Snubber top",
+   2.9
+  ],
+  [
+   "Twitcher",
+   "Twitcher / Yarder",
+   "Twitcher / Whistle Punk",
+   4.5
+  ],
+  [
+   "Snowbrook",
+   "Snowbrook / Birches Slope",
+   "Snubber bottom",
+   0.5
+  ],
+  [
+   "Snowbrook",
+   "Snubber bottom",
+   "Snubber Lower bottom",
+   3.7
+  ],
+  [
+   "Spurline",
+   "Windrow Extension / Spurline",
+   "Spurline",
+   0.6
+  ],
+  [
+   "Spurline",
+   "Spurline",
+   "Spurline 2",
+   0.5
+  ],
+  [
+   "Spurline",
+   "Spurline 2",
+   "Stomping Ground / Spurline",
+   0.5
+  ],
+  [
+   "Upper Scoot",
+   "Upper Scoot",
+   "Upper Scoot 2",
+   0.5
+  ],
+  [
+   "Whistle Punk",
+   "Whistle Punk / Yarder",
+   "Twitcher / Whistle Punk",
+   2.7
+  ],
+  [
+   "Whistle Punk",
+   "Twitcher / Whistle Punk",
+   "Bucksaw Express bottom",
+   1.3
+  ],
+  [
+   "Lower Glancer",
+   "Lower Glancer / Horseshoe",
+   "Lower Glancer",
+   0.5
+  ],
+  [
+   "Lower Glancer",
+   "Lower Glancer",
+   "Bucksaw / Lower Glancer",
+   1.6
+  ],
+  [
+   "Lower Glancer",
+   "Bucksaw / Lower Glancer",
+   "Lower Glancer 2",
+   0.5
+  ],
+  [
+   "Lower Glancer",
+   "Lower Glancer 2",
+   "Lower Scoot / Lower Glancer",
+   0.7
+  ],
+  [
+   "Lower Glancer",
+   "Lower Scoot / Lower Glancer",
+   "Lower Scoot",
+   0.5
+  ],
+  [
+   "Horseshoe",
+   "Birch Hook / Windrow Extension",
+   "Windrow Extension / Horseshoe",
+   0.5
+  ],
+  [
+   "Horseshoe",
+   "Windrow Extension / Horseshoe",
+   "Bucksaw Express top",
+   0.5
+  ],
+  [
+   "Horseshoe",
+   "Bucksaw Express top",
+   "Horseshoe 2",
+   1.5
+  ],
+  [
+   "Horseshoe",
+   "Horseshoe 2",
+   "Horseshoe",
+   0.6
+  ],
+  [
+   "Horseshoe",
+   "Horseshoe",
+   "Lower Glancer / Horseshoe",
+   0.8
+  ],
+  [
+   "Horseshoe",
+   "Lower Glancer / Horseshoe",
+   "Horseshoe / Windrow",
+   0.5
+  ],
+  [
+   "Peavy X-Cut",
+   "Peavy X-Cut / Tote Road Crosscut",
+   "Peavy X-Cut",
+   1.0
+  ],
+  [
+   "Peavy X-Cut",
+   "Peavy X-Cut",
+   "Hayburnder / Peavy X-Cut",
+   0.5
+  ],
+  [
+   "Peavy X-Cut",
+   "Hayburnder / Peavy X-Cut",
+   "Sheer Boom / Peavy X-Cut",
+   1.1
+  ],
+  [
+   "Peavy X-Cut",
+   "Sheer Boom / Peavy X-Cut",
+   "Sidewinder / Peavy X-Cut",
+   0.5
+  ],
+  [
+   "Peavy X-Cut",
+   "Sidewinder / Peavy X-Cut",
+   "Narrow Gauge / L. Narrow Gauge",
+   0.5
+  ],
+  [
+   "Peavy X-Cut",
+   "Narrow Gauge / L. Narrow Gauge",
+   "Double Runner East top",
+   0.5
+  ],
+  [
+   "Slasher",
+   "Upper Whiffletree / Slasher",
+   "Condo X-Cut",
+   0.5
+  ],
+  [
+   "Slasher",
+   "Condo X-Cut",
+   "Slasher",
+   2.0
+  ],
+  [
+   "Slasher",
+   "Slasher",
+   "Slasher / Boardwalk",
+   0.5
+  ],
+  [
+   "Widowmaker",
+   "King Pine top",
+   "Widowmaker",
+   0.5
+  ],
+  [
+   "Widowmaker",
+   "Widowmaker",
+   "Widowmaker 2",
+   0.8
+  ],
+  [
+   "Widowmaker",
+   "Widowmaker 2",
+   "Widowmaker 3",
+   1.2
+  ],
+  [
+   "Widowmaker",
+   "Widowmaker 3",
+   "Widowmaker / L. Boomauger",
+   0.6
+  ],
+  [
+   "Buckskin",
+   "Buckskin / U. Binder",
+   "Buckskin / Upper Binder",
+   0.6
+  ],
+  [
+   "Bucksaw X-Cut",
+   "Bucksaw X-Cut",
+   "Spurline",
+   0.5
+  ],
+  [
+   "West Sluice Chute",
+   "Skyline top",
+   "Bateau T-Bar top",
+   0.5
+  ],
+  [
+   "White Nitro Extension",
+   "Narrow Gauge Extension",
+   "White Nitro Extension / White Nitro",
+   1.4
+  ],
+  [
+   "Tote Road Crosscut",
+   "Sheer Boom",
+   "Stomping Ground / Spurline",
+   1.6
+  ],
+  [
+   "Tote Road Crosscut",
+   "Stomping Ground / Spurline",
+   "Peavy X-Cut / Tote Road Crosscut",
+   0.7
+  ],
+  [
+   "Tote Road Crosscut",
+   "Peavy X-Cut / Tote Road Crosscut",
+   "Tote Road Crosscut / Lower Tote Road",
+   0.5
+  ],
+  [
+   "Lower West Mountain",
+   "Upper West Mountain / Lower West Mountain",
+   "West Mountain top",
+   0.6
+  ],
+  [
+   "Lower West Mountain",
+   "West Mountain top",
+   "Lower West Mountain",
+   3.1
+  ],
+  [
+   "Lower West Mountain",
+   "Lower West Mountain",
+   "West Mountain bottom",
+   2.2
+  ],
+  [
+   "Upper Buckboard",
+   "Upper Buckboard / Tohaul",
+   "Upper Stub's Trail / Upper Buckboard",
+   2.0
+  ],
+  [
+   "Upper Buckboard",
+   "Upper Stub's Trail / Upper Buckboard",
+   "Upper Buckboard / Lower Buckboard",
+   2.8
+  ],
+  [
+   "Upper Scoot",
+   "Birch Hook",
+   "Upper Scoot",
+   0.5
+  ],
+  [
+   "Yarder",
+   "West Mountain top",
+   "Twitcher / Yarder",
+   1.0
+  ],
+  [
+   "Yarder",
+   "Twitcher / Yarder",
+   "Whistle Punk / Yarder",
+   1.9
+  ],
+  [
+   "L. Boomauger",
+   "L. Boomauger / Mid-Station X-Cut",
+   "Widowmaker / L. Boomauger",
+   0.9
+  ],
+  [
+   "L. Boomauger",
+   "Widowmaker / L. Boomauger",
+   "Upper Whiffletree / L. Boomauger",
+   0.6
+  ],
+  [
+   "Knot Bumper",
+   "Upper West Mountain / Lower West Mountain",
+   "Beaver Trail / Knot Bumper",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Windrow",
+   "Unnamed run / Lower Tote Road",
+   0.5
+  ],
+  [
+   "Haul Back",
+   "King Pine top",
+   "Haul Back",
+   0.5
+  ],
+  [
+   "Haul Back",
+   "Haul Back",
+   "Haul Back 2",
+   3.5
+  ],
+  [
+   "Haul Back",
+   "Haul Back 2",
+   "King Pine bottom",
+   0.5
+  ],
+  [
+   "Bucksaw X-Cut",
+   "Birch Hook / Windrow Extension",
+   "Upper Scoot",
+   0.5
+  ],
+  [
+   "Bucksaw X-Cut",
+   "Upper Scoot",
+   "Bucksaw X-Cut 2",
+   0.5
+  ],
+  [
+   "Bucksaw X-Cut",
+   "Bucksaw X-Cut 2",
+   "Bucksaw X-Cut",
+   0.5
+  ],
+  [
+   "Tohaul",
+   "Widowmaker / L. Boomauger",
+   "Upper Buckboard / Tohaul",
+   0.8
+  ],
+  [
+   "Gin Pole",
+   "Sugarloaf SuperQuad top",
+   "Sluice Headwall / Gin Pole",
+   1.1
+  ],
+  [
+   "Gin Pole",
+   "Sluice Headwall / Gin Pole",
+   "Gin Pole / Upper Gondola Line",
+   0.9
+  ],
+  [
+   "Upper Spillway",
+   "Sluice Headwall / Gin Pole",
+   "Upper Spillway / Old Winter's Way",
+   2.0
+  ],
+  [
+   "Upper Glancer",
+   "Windrow Extension / Horseshoe",
+   "Bucksaw Express top",
+   0.5
+  ],
+  [
+   "Upper Glancer",
+   "Bucksaw Express top",
+   "Upper Glancer",
+   0.5
+  ],
+  [
+   "Upper Glancer",
+   "Upper Glancer",
+   "Lower Glancer / Horseshoe",
+   1.6
+  ],
+  [
+   "Ramdown",
+   "Widowmaker",
+   "Ramdown",
+   1.5
+  ],
+  [
+   "Ramdown",
+   "Ramdown",
+   "Widowmaker / L. Boomauger",
+   0.8
+  ],
+  [
+   "Ramdown",
+   "Widowmaker / L. Boomauger",
+   "Upper Whiffletree / L. Boomauger",
+   0.7
+  ],
+  [
+   "U. Binder",
+   "Spillway X-Cut",
+   "Buckskin / U. Binder",
+   0.5
+  ],
+  [
+   "Sluice",
+   "Sluice Headwall / Gin Pole",
+   "Sluice",
+   0.8
+  ],
+  [
+   "Sluice",
+   "Sluice",
+   "Sluice / Lombard X-Cut",
+   2.7
+  ],
+  [
+   "Double Bitter",
+   "Double Bitter / Pinch",
+   "Spurline 2",
+   2.1
+  ],
+  [
+   "Bridle Chain",
+   "Bridle Chain / Pinch",
+   "Bridle Chain",
+   0.6
+  ],
+  [
+   "Bridle Chain",
+   "Bridle Chain",
+   "Timberline bottom",
+   0.7
+  ],
+  [
+   "Upper Poleline",
+   "Upper Poleline / Lombard X-Cut",
+   "Upper Poleline",
+   0.5
+  ],
+  [
+   "Upper Poleline",
+   "Upper Poleline",
+   "Upper Poleline 2",
+   0.5
+  ],
+  [
+   "Upper Poleline",
+   "Upper Poleline 2",
+   "Condo X-Cut",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Mid-Station X-Cut",
+   "Bateau T-Bar bottom",
+   1.6
+  ],
+  [
+   "Hatchet",
+   "Lower Glancer",
+   "Hatchet / Feller Buncher",
+   1.3
+  ],
+  [
+   "Mid-Station X-Cut",
+   "Sluice",
+   "Unnamed run / Mid-Station X-Cut",
+   0.5
+  ],
+  [
+   "Mid-Station X-Cut",
+   "Unnamed run / Mid-Station X-Cut",
+   "U. Bubblecuffer / Mid-Station X-Cut",
+   0.5
+  ],
+  [
+   "Mid-Station X-Cut",
+   "U. Bubblecuffer / Mid-Station X-Cut",
+   "Wedge / Mid-Station X-Cut",
+   0.5
+  ],
+  [
+   "Mid-Station X-Cut",
+   "Wedge / Mid-Station X-Cut",
+   "L. Boomauger / Mid-Station X-Cut",
+   0.5
+  ],
+  [
+   "Mid-Station X-Cut",
+   "L. Boomauger / Mid-Station X-Cut",
+   "Ramdown",
+   0.5
+  ],
+  [
+   "L. Cruiser",
+   "U. Cruiser / Condo X-Cut",
+   "Skybound / L. Cruiser",
+   1.3
+  ],
+  [
+   "Tohaul",
+   "Upper Buckboard / Tohaul",
+   "Tohaul 2",
+   0.5
+  ],
+  [
+   "Tohaul",
+   "Tohaul 2",
+   "Tohaul",
+   0.5
+  ],
+  [
+   "Tohaul",
+   "Tohaul",
+   "Haul Back 2",
+   0.9
+  ],
+  [
+   "Tohaul",
+   "Haul Back 2",
+   "King Pine bottom",
+   0.5
+  ],
+  [
+   "White Nitro",
+   "White Nitro Extension / White Nitro",
+   "White Nitro",
+   0.5
+  ],
+  [
+   "White Nitro",
+   "White Nitro",
+   "White Nitro / Old Winter's Way",
+   0.8
+  ],
+  [
+   "Pinch",
+   "Sugarloaf SuperQuad top",
+   "Pinch",
+   0.5
+  ],
+  [
+   "Pinch",
+   "Pinch",
+   "Hayburnder / Pinch",
+   0.5
+  ],
+  [
+   "Pinch",
+   "Hayburnder / Pinch",
+   "Bridle Chain / Pinch",
+   0.6
+  ],
+  [
+   "Pinch",
+   "Bridle Chain / Pinch",
+   "Double Bitter / Pinch",
+   0.5
+  ],
+  [
+   "Schipper's Streak",
+   "L. Narrow Gauge",
+   "Sidewinder / L. Narrow Gauge",
+   0.5
+  ],
+  [
+   "Schipper's Streak",
+   "Sidewinder / L. Narrow Gauge",
+   "L. Narrow Gauge 2",
+   0.5
+  ],
+  [
+   "Lower Buckboard",
+   "Upper Buckboard / Lower Buckboard",
+   "Whiffletree SuperQuad bottom",
+   2.2
+  ],
+  [
+   "King's Landing",
+   "Bridle Chain / Pinch",
+   "Peavy X-Cut",
+   2.8
+  ],
+  [
+   "Spillway X-Cut",
+   "Skyline top",
+   "Spillway X-Cut 4",
+   0.5
+  ],
+  [
+   "Spillway X-Cut",
+   "Spillway X-Cut 4",
+   "Upper Winter's Way / Spillway X-Cut",
+   0.5
+  ],
+  [
+   "Spillway X-Cut",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Spillway X-Cut 3",
+   0.5
+  ],
+  [
+   "Spillway X-Cut",
+   "Spillway X-Cut 3",
+   "U. Bubblecuffer / Spillway X-Cut",
+   0.5
+  ],
+  [
+   "Spillway X-Cut",
+   "U. Bubblecuffer / Spillway X-Cut",
+   "White Nitro Extension / White Nitro",
+   0.5
+  ],
+  [
+   "Spillway X-Cut",
+   "White Nitro Extension / White Nitro",
+   "Spillway X-Cut 2",
+   0.5
+  ],
+  [
+   "Spillway X-Cut",
+   "Spillway X-Cut 2",
+   "King Pine top",
+   0.5
+  ],
+  [
+   "Spillway X-Cut",
+   "King Pine top",
+   "Haul Back",
+   0.5
+  ],
+  [
+   "Upper Springboard",
+   "Upper Poleline",
+   "Upper Poleline 2",
+   0.5
+  ],
+  [
+   "Upper Springboard",
+   "Upper Poleline 2",
+   "Condo X-Cut",
+   1.7
+  ],
+  [
+   "Haywire",
+   "Haywire / Lower Tote Road",
+   "Candy Side / Haywire",
+   2.9
+  ],
+  [
+   "Upper Binder",
+   "Buckskin / Upper Binder",
+   "Birch Hook / Upper Binder",
+   3.2
+  ],
+  [
+   "Upper Binder",
+   "Birch Hook / Upper Binder",
+   "Windrow Extension / Spurline",
+   0.5
+  ],
+  [
+   "Upper Binder",
+   "Windrow Extension / Spurline",
+   "Bucksaw X-Cut 2",
+   0.5
+  ],
+  [
+   "Candy Side",
+   "Peavy X-Cut",
+   "Hayburnder / Peavy X-Cut",
+   0.5
+  ],
+  [
+   "Candy Side",
+   "Hayburnder / Peavy X-Cut",
+   "Candy Side",
+   0.5
+  ],
+  [
+   "Candy Side",
+   "Candy Side",
+   "Stomping Ground / Candy Side",
+   1.3
+  ],
+  [
+   "Candy Side",
+   "Stomping Ground / Candy Side",
+   "Candy Side / Haywire",
+   1.8
+  ],
+  [
+   "Upper Scoot",
+   "Upper Scoot 2",
+   "Upper Scoot / Middle Scoot",
+   0.9
+  ],
+  [
+   "Bubblecuffer Extension",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "U. Bubblecuffer / Spillway X-Cut",
+   0.5
+  ],
+  [
+   "Ripsaw",
+   "Haul Back",
+   "Haul Back 2",
+   3.7
+  ],
+  [
+   "Boardwalk",
+   "Double Runner East top",
+   "Slasher / Boardwalk",
+   2.8
+  ],
+  [
+   "Boardwalk",
+   "Slasher / Boardwalk",
+   "L. Narrow Gauge / Boardwalk",
+   0.5
+  ],
+  [
+   "Boardwalk",
+   "L. Narrow Gauge / Boardwalk",
+   "Double Runner East bottom",
+   0.9
+  ],
+  [
+   "Tote Road",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Tote Road",
+   0.5
+  ],
+  [
+   "Tote Road",
+   "Tote Road",
+   "Cinder Hoe / Tote Road",
+   0.5
+  ],
+  [
+   "Tote Road",
+   "Cinder Hoe / Tote Road",
+   "Bridle Chain / Pinch",
+   1.6
+  ],
+  [
+   "Tote Road",
+   "Bridle Chain / Pinch",
+   "Double Bitter / Pinch",
+   0.6
+  ],
+  [
+   "Tote Road",
+   "Double Bitter / Pinch",
+   "Windrow Extension / Spurline",
+   2.0
+  ],
+  [
+   "Tote Road",
+   "Windrow Extension / Spurline",
+   "Bucksaw X-Cut",
+   0.5
+  ],
+  [
+   "Tote Road",
+   "Bucksaw X-Cut",
+   "Peavy X-Cut / Tote Road Crosscut",
+   0.9
+  ],
+  [
+   "Pulaski",
+   "Upper Glancer",
+   "Horseshoe",
+   1.0
+  ],
+  [
+   "Old Winter's Way",
+   "King Pine top",
+   "Widowmaker",
+   0.5
+  ],
+  [
+   "Old Winter's Way",
+   "Widowmaker",
+   "White Nitro / Old Winter's Way",
+   1.0
+  ],
+  [
+   "Old Winter's Way",
+   "White Nitro / Old Winter's Way",
+   "Wedge / Mid-Station X-Cut",
+   0.6
+  ],
+  [
+   "Old Winter's Way",
+   "Wedge / Mid-Station X-Cut",
+   "Upper Winter's Way / Old Winter's Way",
+   1.1
+  ],
+  [
+   "Old Winter's Way",
+   "Upper Winter's Way / Old Winter's Way",
+   "Upper Spillway / Old Winter's Way",
+   0.9
+  ],
+  [
+   "Old Winter's Way",
+   "Upper Spillway / Old Winter's Way",
+   "Bateau T-Bar bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Upper Timberline",
+   "Timberline bottom",
+   0.6
+  ],
+  [
+   "Lower Whiffletree",
+   "Upper Whiffletree / Slasher",
+   "Lower Whiffletree",
+   1.8
+  ],
+  [
+   "Lower Whiffletree",
+   "Lower Whiffletree",
+   "Snubber top",
+   1.3
+  ],
+  [
+   "Lower Whiffletree",
+   "Snubber top",
+   "Whiffletree SuperQuad bottom",
+   0.5
+  ],
+  [
+   "Upper Narrow Gauge",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Upper Narrow Gauge",
+   2.6
+  ],
+  [
+   "Upper Narrow Gauge",
+   "Upper Narrow Gauge",
+   "Upper Narrow Gauge 2",
+   0.7
+  ],
+  [
+   "Upper Narrow Gauge",
+   "Upper Narrow Gauge 2",
+   "Narrow Gauge / Upper Narrow Gauge",
+   0.6
+  ],
+  [
+   "Birches Slope",
+   "Skidway bottom",
+   "Moosecalator top",
+   0.8
+  ],
+  [
+   "Birches Slope",
+   "Moosecalator top",
+   "Moosecalator bottom",
+   0.5
+  ],
+  [
+   "Birches Slope",
+   "Moosecalator bottom",
+   "Sawduster bottom",
+   0.5
+  ],
+  [
+   "Birches Slope",
+   "Sawduster bottom",
+   "Snowbrook / Birches Slope",
+   1.1
+  ],
+  [
+   "Tote Road Crosscut",
+   "Bateau T-Bar bottom",
+   "Narrow Gauge / Upper Narrow Gauge",
+   0.5
+  ],
+  [
+   "Tote Road Crosscut",
+   "Narrow Gauge / Upper Narrow Gauge",
+   "Upper Competition Hill / Tote Road Crosscut",
+   0.5
+  ],
+  [
+   "Tote Road Crosscut",
+   "Upper Competition Hill / Tote Road Crosscut",
+   "Sheer Boom",
+   0.5
+  ],
+  [
+   "Moose Alley",
+   "U. Cruiser",
+   "U. Cruiser / Condo X-Cut",
+   1.8
+  ],
+  [
+   "Windrow",
+   "Windrow / Upper Windrow",
+   "Horseshoe / Windrow",
+   0.5
+  ],
+  [
+   "Windrow",
+   "Horseshoe / Windrow",
+   "Unnamed run / Windrow",
+   1.4
+  ],
+  [
+   "Windrow",
+   "Unnamed run / Windrow",
+   "Lower Scoot / Lower Glancer",
+   1.1
+  ],
+  [
+   "Windrow",
+   "Lower Scoot / Lower Glancer",
+   "Lower Scoot",
+   0.5
+  ],
+  [
+   "Windrow",
+   "Lower Scoot",
+   "Windrow",
+   1.9
+  ],
+  [
+   "Choker",
+   "Widowmaker 2",
+   "Tohaul",
+   1.8
+  ],
+  [
+   "Lombard X-Cut",
+   "Upper Buckboard / Tohaul",
+   "Whiffletree SuperQuad top",
+   0.5
+  ],
+  [
+   "Lombard X-Cut",
+   "Whiffletree SuperQuad top",
+   "Upper Whiffletree / L. Boomauger",
+   0.5
+  ],
+  [
+   "Lombard X-Cut",
+   "Upper Whiffletree / L. Boomauger",
+   "Upper Poleline / Lombard X-Cut",
+   0.5
+  ],
+  [
+   "Lombard X-Cut",
+   "Upper Poleline / Lombard X-Cut",
+   "Lombard X-Cut",
+   1.0
+  ],
+  [
+   "Lombard X-Cut",
+   "Lombard X-Cut",
+   "Lombard X-Cut 3",
+   0.5
+  ],
+  [
+   "Lombard X-Cut",
+   "Lombard X-Cut 3",
+   "Sluice / Lombard X-Cut",
+   0.5
+  ],
+  [
+   "Lombard X-Cut",
+   "Sluice / Lombard X-Cut",
+   "Lombard X-Cut 2",
+   0.5
+  ],
+  [
+   "Lombard X-Cut",
+   "Lombard X-Cut 2",
+   "Double Runner East top",
+   0.5
+  ],
+  [
+   "[condo access]",
+   "Lower Glancer 2",
+   "[condo access]",
+   0.6
+  ],
+  [
+   "L. Bubblecuffer",
+   "U. Bubblecuffer / Mid-Station X-Cut",
+   "Wedge / L. Bubblecuffer",
+   1.2
+  ],
+  [
+   "L. Bubblecuffer",
+   "Wedge / L. Bubblecuffer",
+   "Lombard X-Cut",
+   0.7
+  ],
+  [
+   "Tin Pants",
+   "Buckskin / Upper Binder",
+   "Bridle Chain",
+   1.4
+  ],
+  [
+   "Chipper",
+   "Birch Hook 2",
+   "Upper West Mountain / Lower West Mountain",
+   5.4
+  ],
+  [
+   "Cutter",
+   "Horseshoe 2",
+   "Cutter / Feller Buncher",
+   3.6
+  ],
+  [
+   "Upper Skidder",
+   "Pinch",
+   "Candy Side",
+   3.7
+  ],
+  [
+   "Winter's Way Crosscut",
+   "Sluice Headwall",
+   "Upper Winter's Way",
+   0.5
+  ],
+  [
+   "Pick Pole",
+   "Sluice Headwall / Gin Pole",
+   "Upper Competition Hill / Pick Pole",
+   1.0
+  ],
+  [
+   "Pick Pole",
+   "Upper Competition Hill / Pick Pole",
+   "Double Bitter / Pinch",
+   1.4
+  ],
+  [
+   "Pick Pole",
+   "Double Bitter / Pinch",
+   "Timberline bottom",
+   1.1
+  ],
+  [
+   "Pick Pole",
+   "Timberline bottom",
+   "Lower Timberline / Pick Pole",
+   0.5
+  ],
+  [
+   "Lower Binder",
+   "Lower Scoot / Lower Binder",
+   "Lower Binder / Lower Tote Road",
+   0.9
+  ],
+  [
+   "Lower Spillway",
+   "Upper Spillway / Old Winter's Way",
+   "Lombard X-Cut 2",
+   1.5
+  ],
+  [
+   "Tote Road Extension",
+   "Narrow Gauge Extension 2",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   1.4
+  ],
+  [
+   "Upper Boomauger",
+   "White Nitro",
+   "L. Boomauger / Mid-Station X-Cut",
+   1.4
+  ],
+  [
+   "Rollway",
+   "Whiffletree SuperQuad top",
+   "Upper Whiffletree",
+   0.5
+  ],
+  [
+   "Rollway",
+   "Upper Whiffletree",
+   "Upper Poleline",
+   0.5
+  ],
+  [
+   "Rollway",
+   "Upper Poleline",
+   "Upper Poleline 2",
+   0.5
+  ],
+  [
+   "Flume",
+   "Widowmaker 3",
+   "Tohaul 2",
+   0.6
+  ],
+  [
+   "Good Chance X-Cut",
+   "Upper Scoot 2",
+   "Horseshoe 2",
+   1.2
+  ],
+  [
+   "West Mountain Crosscut",
+   "Lower West Mountain",
+   "Twitcher / Whistle Punk",
+   3.9
+  ],
+  [
+   "Jill Poke",
+   "Upper Whiffletree",
+   "U. Cruiser 2",
+   1.2
+  ],
+  [
+   "Middle Scoot",
+   "Upper Scoot / Middle Scoot",
+   "Unnamed run / Windrow",
+   2.2
+  ],
+  [
+   "Spillway X-Cut",
+   "Spillway X-Cut 2",
+   "Widowmaker",
+   0.5
+  ],
+  [
+   "Spillway X-Cut",
+   "Widowmaker",
+   "King Pine top",
+   0.5
+  ],
+  [
+   "Gondola Line Extension",
+   "Narrow Gauge Extension",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   0.5
+  ],
+  [
+   "Gondola Line Extension",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "Spillway X-Cut 3",
+   0.5
+  ],
+  [
+   "Cribworks",
+   "Upper Narrow Gauge",
+   "Upper Narrow Gauge 2",
+   0.5
+  ],
+  [
+   "Upper Gondola Line",
+   "Spillway X-Cut 3",
+   "Gin Pole / Upper Gondola Line",
+   1.1
+  ],
+  [
+   "Upper Gondola Line",
+   "Gin Pole / Upper Gondola Line",
+   "Unnamed run / Mid-Station X-Cut",
+   0.7
+  ],
+  [
+   "Lower Winter's Way",
+   "Condo X-Cut 2",
+   "Slasher / Boardwalk",
+   2.5
+  ],
+  [
+   "Lower Winter's Way",
+   "Slasher / Boardwalk",
+   "L. Narrow Gauge / Boardwalk",
+   0.5
+  ],
+  [
+   "Lower Winter's Way",
+   "L. Narrow Gauge / Boardwalk",
+   "Lower Winter's Way / The Landing",
+   0.5
+  ],
+  [
+   "Beaver Tail",
+   "Beaver Trail / Knot Bumper",
+   "Whistle Punk / Yarder",
+   1.3
+  ],
+  [
+   "Upper Double Bitter",
+   "Tote Road",
+   "Hayburnder / Pinch",
+   1.5
+  ],
+  [
+   "Lower Competition Hill",
+   "Upper Competition Hill / Tote Road Crosscut",
+   "Sidewinder / Peavy X-Cut",
+   1.4
+  ],
+  [
+   "Sluice Chute",
+   "Spillway X-Cut 4",
+   "Sluice Headwall",
+   0.5
+  ],
+  [
+   "Upper Windrow",
+   "Windrow Extension / Horseshoe",
+   "Windrow / Upper Windrow",
+   1.3
+  ],
+  [
+   "Winter's Way Extension",
+   "Narrow Gauge Extension 3",
+   "Upper Winter's Way / Spillway X-Cut",
+   0.5
+  ],
+  [
+   "Upper Timberline",
+   "Timberline top",
+   "Cinder Hoe / Binder Extension",
+   0.5
+  ],
+  [
+   "Upper Timberline",
+   "Cinder Hoe / Binder Extension",
+   "Spillway X-Cut / Upper Timberline",
+   2.2
+  ],
+  [
+   "Upper Timberline",
+   "Spillway X-Cut / Upper Timberline",
+   "Unnamed run / Upper Timberline",
+   2.8
+  ],
+  [
+   "Upper Timberline",
+   "Unnamed run / Upper Timberline",
+   "Lower Timberline / Pick Pole",
+   0.9
+  ],
+  [
+   "Gondola Line",
+   "Unnamed run / Mid-Station X-Cut",
+   "Upper Winter's Way / Old Winter's Way",
+   0.8
+  ],
+  [
+   "Gondola Line",
+   "Upper Winter's Way / Old Winter's Way",
+   "Lombard X-Cut 3",
+   1.1
+  ],
+  [
+   "Feller Buncher",
+   "Hatchet / Feller Buncher",
+   "Cutter / Feller Buncher",
+   0.9
+  ],
+  [
+   "Feller Buncher",
+   "Cutter / Feller Buncher",
+   "Bucksaw / Feller Buncher",
+   4.1
+  ],
+  [
+   "Feller Buncher",
+   "Bucksaw / Feller Buncher",
+   "Bucksaw Express bottom",
+   0.5
+  ],
+  [
+   "Cross Haul",
+   "King Pine bottom",
+   "Upper Buckboard / Lower Buckboard",
+   5.3
+  ],
+  [
+   "Cross Haul",
+   "Upper Buckboard / Lower Buckboard",
+   "Skybound / L. Cruiser",
+   0.5
+  ],
+  [
+   "Cross Haul",
+   "Skybound / L. Cruiser",
+   "Lower Whiffletree",
+   0.5
+  ],
+  [
+   "Lower Tote Road",
+   "Peavy X-Cut / Tote Road Crosscut",
+   "Tote Road Crosscut / Lower Tote Road",
+   0.5
+  ],
+  [
+   "Lower Tote Road",
+   "Tote Road Crosscut / Lower Tote Road",
+   "Haywire / Lower Tote Road",
+   0.7
+  ],
+  [
+   "Lower Tote Road",
+   "Haywire / Lower Tote Road",
+   "Unnamed run / Lower Tote Road",
+   1.8
+  ],
+  [
+   "Lower Tote Road",
+   "Unnamed run / Lower Tote Road",
+   "Lower Binder / Lower Tote Road",
+   2.9
+  ],
+  [
+   "Lower Tote Road",
+   "Lower Binder / Lower Tote Road",
+   "Lower Tote Road",
+   0.5
+  ],
+  [
+   "The Landing",
+   "Slasher",
+   "Skidway top",
+   0.5
+  ],
+  [
+   "The Landing",
+   "Skidway top",
+   "Lower Winter's Way / The Landing",
+   0.5
+  ],
+  [
+   "The Landing",
+   "Lower Winter's Way / The Landing",
+   "Skidway bottom",
+   0.9
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Timberline top",
+   "Cinder Hoe / Binder Extension",
+   0.8
+  ],
+  [
+   "walk",
+   "Timberline top",
+   "Narrow Gauge Extension",
+   1.3
+  ],
+  [
+   "walk",
+   "Timberline top",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   2.8
+  ],
+  [
+   "walk",
+   "Timberline top",
+   "Narrow Gauge Extension 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Timberline top",
+   "Narrow Gauge Extension 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Skyline top",
+   1.2
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Bateau T-Bar top",
+   1.5
+  ],
+  [
+   "walk",
+   "Sheer Boom / Peavy X-Cut",
+   "Double Runner East top",
+   3.5
+  ],
+  [
+   "walk",
+   "Hayburnder / Pinch",
+   "Sugarloaf SuperQuad top",
+   1.9
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   1.2
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Cinder Hoe / Tote Road",
+   3.2
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Bateau T-Bar top",
+   0.8
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Upper Winter's Way / Spillway X-Cut",
+   1.7
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Spillway X-Cut",
+   2.7
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Sluice Headwall",
+   2.0
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Upper Winter's Way",
+   3.2
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Spillway X-Cut 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Tote Road",
+   1.9
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Spillway X-Cut 4",
+   1.0
+  ],
+  [
+   "walk",
+   "Cinder Hoe / Binder Extension",
+   "Timberline top",
+   0.8
+  ],
+  [
+   "walk",
+   "Cinder Hoe / Tote Road",
+   "Sugarloaf SuperQuad top",
+   2.3
+  ],
+  [
+   "walk",
+   "Bucksaw Express top",
+   "Birch Hook / Windrow Extension",
+   1.5
+  ],
+  [
+   "walk",
+   "Bucksaw Express top",
+   "Windrow Extension / Horseshoe",
+   1.0
+  ],
+  [
+   "walk",
+   "Bucksaw Express top",
+   "Upper Scoot",
+   2.3
+  ],
+  [
+   "walk",
+   "Bucksaw Express top",
+   "Upper Scoot 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Bucksaw Express top",
+   "Birch Hook",
+   3.1
+  ],
+  [
+   "walk",
+   "Bucksaw Express top",
+   "Bucksaw X-Cut 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Bucksaw Express top",
+   "Upper Glancer",
+   1.0
+  ],
+  [
+   "walk",
+   "Bucksaw Express top",
+   "Birch Hook 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Bucksaw Express top",
+   "Horseshoe 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Upper West Mountain / Lower West Mountain",
+   "West Mountain top",
+   2.2
+  ],
+  [
+   "walk",
+   "Lower Timberline / Pick Pole",
+   "Timberline bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Snubber top",
+   "Whiffletree SuperQuad bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Snubber top",
+   "Skidway bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Snubber top",
+   "Sawduster top",
+   2.9
+  ],
+  [
+   "walk",
+   "Double Runner East top",
+   "Picaroon / L. Narrow Gauge",
+   1.9
+  ],
+  [
+   "walk",
+   "Double Runner East top",
+   "Picaroon / L. Narrow Gauge 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Double Runner East top",
+   "Sidewinder / Peavy X-Cut",
+   2.3
+  ],
+  [
+   "walk",
+   "Double Runner East top",
+   "Narrow Gauge / L. Narrow Gauge",
+   1.2
+  ],
+  [
+   "walk",
+   "Double Runner East top",
+   "Sluice / Lombard X-Cut",
+   2.0
+  ],
+  [
+   "walk",
+   "Double Runner East top",
+   "Lombard X-Cut 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Double Runner East top",
+   "Condo X-Cut 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Cinder Hoe / Tote Road",
+   2.7
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Sluice Headwall / Gin Pole",
+   3.1
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Upper Winter's Way / Spillway X-Cut",
+   2.0
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Spillway X-Cut",
+   2.9
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Buckskin / U. Binder",
+   3.5
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Sluice Headwall",
+   1.5
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Upper Winter's Way",
+   3.0
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Tote Road",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Stub's",
+   "Sawduster bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Lower Stub's",
+   "Moosecalator bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Sidewinder / Peavy X-Cut",
+   "Double Runner East top",
+   2.3
+  ],
+  [
+   "walk",
+   "Birch Hook / Windrow Extension",
+   "Bucksaw Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Windrow Extension / Horseshoe",
+   "Bucksaw Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad bottom",
+   "Skidway bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad bottom",
+   "Sawduster top",
+   2.7
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad bottom",
+   "Moosecalator top",
+   2.3
+  ],
+  [
+   "walk",
+   "Upper Competition Hill / Tote Road Crosscut",
+   "Bateau T-Bar bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Skyline top",
+   1.7
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Bateau T-Bar top",
+   2.0
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Old Winter's Way",
+   "Bateau T-Bar bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Bucksaw / Feller Buncher",
+   "Bucksaw Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Narrow Gauge / Upper Narrow Gauge",
+   "Bateau T-Bar bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Narrow Gauge / L. Narrow Gauge",
+   "Double Runner East top",
+   1.2
+  ],
+  [
+   "walk",
+   "Spillway X-Cut",
+   "Bateau T-Bar top",
+   2.9
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad bottom",
+   "Double Runner East bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad bottom",
+   "Skidway bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad bottom",
+   "Windrow",
+   3.1
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad bottom",
+   "Lower Tote Road",
+   0.7
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad bottom",
+   "Sawduster top",
+   2.1
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad bottom",
+   "Moosecalator top",
+   3.5
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge / Boardwalk",
+   "Double Runner East bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge / Boardwalk",
+   "Skidway top",
+   2.0
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge / Boardwalk",
+   "Sawduster top",
+   3.4
+  ],
+  [
+   "walk",
+   "Upper Whiffletree / L. Boomauger",
+   "Whiffletree SuperQuad top",
+   0.9
+  ],
+  [
+   "walk",
+   "Snowbrook / Birches Slope",
+   "Snubber bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Upper Scoot",
+   "Bucksaw Express top",
+   2.3
+  ],
+  [
+   "walk",
+   "Bucksaw Express bottom",
+   "Bucksaw / Feller Buncher",
+   1.1
+  ],
+  [
+   "walk",
+   "Slasher / Boardwalk",
+   "Double Runner East bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Slasher / Boardwalk",
+   "Skidway top",
+   1.5
+  ],
+  [
+   "walk",
+   "King Pine top",
+   "Widowmaker",
+   0.8
+  ],
+  [
+   "walk",
+   "King Pine top",
+   "Haul Back",
+   0.9
+  ],
+  [
+   "walk",
+   "King Pine top",
+   "Widowmaker 2",
+   3.4
+  ],
+  [
+   "walk",
+   "King Pine top",
+   "White Nitro",
+   2.6
+  ],
+  [
+   "walk",
+   "Widowmaker / L. Boomauger",
+   "Whiffletree SuperQuad top",
+   2.4
+  ],
+  [
+   "walk",
+   "Buckskin / U. Binder",
+   "Sugarloaf SuperQuad top",
+   3.2
+  ],
+  [
+   "walk",
+   "Buckskin / Upper Binder",
+   "Sugarloaf SuperQuad top",
+   2.4
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension",
+   "Timberline top",
+   1.3
+  ],
+  [
+   "walk",
+   "White Nitro Extension / White Nitro",
+   "King Pine top",
+   2.7
+  ],
+  [
+   "walk",
+   "Sheer Boom",
+   "Bateau T-Bar bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Upper Buckboard / Tohaul",
+   "Whiffletree SuperQuad top",
+   0.7
+  ],
+  [
+   "walk",
+   "Birch Hook",
+   "Bucksaw Express top",
+   3.1
+  ],
+  [
+   "walk",
+   "King Pine bottom",
+   "Haul Back 2",
+   1.0
+  ],
+  [
+   "walk",
+   "King Pine bottom",
+   "Rough Cut Glade",
+   0.8
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad top",
+   "Hayburnder / Pinch",
+   1.9
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad top",
+   "Upper Competition Hill / Pick Pole",
+   1.9
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad top",
+   "Bridle Chain / Pinch",
+   3.5
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad top",
+   "Pinch",
+   0.6
+  ],
+  [
+   "walk",
+   "Upper Spillway / Old Winter's Way",
+   "Bateau T-Bar bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Widowmaker",
+   "King Pine top",
+   0.8
+  ],
+  [
+   "walk",
+   "Sluice / Lombard X-Cut",
+   "Double Runner East top",
+   2.0
+  ],
+  [
+   "walk",
+   "Timberline bottom",
+   "Lower Timberline / Pick Pole",
+   0.8
+  ],
+  [
+   "walk",
+   "Bateau T-Bar bottom",
+   "Upper Competition Hill / Tote Road Crosscut",
+   1.9
+  ],
+  [
+   "walk",
+   "Bateau T-Bar bottom",
+   "Narrow Gauge / Upper Narrow Gauge",
+   1.0
+  ],
+  [
+   "walk",
+   "Bateau T-Bar bottom",
+   "Sheer Boom",
+   2.8
+  ],
+  [
+   "walk",
+   "Bateau T-Bar bottom",
+   "Upper Spillway / Old Winter's Way",
+   0.6
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge 2",
+   "Skidway top",
+   3.1
+  ],
+  [
+   "walk",
+   "Haul Back",
+   "King Pine top",
+   0.9
+  ],
+  [
+   "walk",
+   "Bucksaw X-Cut 2",
+   "Bucksaw Express top",
+   3.1
+  ],
+  [
+   "walk",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "Skyline top",
+   3.4
+  ],
+  [
+   "walk",
+   "Haul Back 2",
+   "King Pine bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Double Runner East bottom",
+   "Sugarloaf SuperQuad bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Double Runner East bottom",
+   "Skidway bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Double Runner East bottom",
+   "Lower Binder / Lower Tote Road",
+   2.1
+  ],
+  [
+   "walk",
+   "Double Runner East bottom",
+   "Lower Tote Road",
+   2.3
+  ],
+  [
+   "walk",
+   "Double Runner East bottom",
+   "Sawduster top",
+   0.9
+  ],
+  [
+   "walk",
+   "Rough Cut Glade",
+   "King Pine bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Upper Timberline",
+   "Timberline bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Skidway bottom",
+   "Whiffletree SuperQuad bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Skidway bottom",
+   "Sugarloaf SuperQuad bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Skidway bottom",
+   "Double Runner East bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Skidway bottom",
+   "Lower Tote Road",
+   3.3
+  ],
+  [
+   "walk",
+   "Skidway bottom",
+   "Sawduster top",
+   0.7
+  ],
+  [
+   "walk",
+   "Skidway bottom",
+   "Moosecalator top",
+   2.7
+  ],
+  [
+   "walk",
+   "Windrow",
+   "Sugarloaf SuperQuad bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Windrow",
+   "Lower Tote Road",
+   2.3
+  ],
+  [
+   "walk",
+   "[condo access]",
+   "Lower Scoot / Lower Binder",
+   3.4
+  ],
+  [
+   "walk",
+   "[condo access]",
+   "Lower Scoot",
+   1.2
+  ],
+  [
+   "walk",
+   "Bridle Chain",
+   "Timberline bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Birch Hook 2",
+   "Bucksaw Express top",
+   2.2
+  ],
+  [
+   "walk",
+   "Pinch",
+   "Sugarloaf SuperQuad top",
+   0.6
+  ],
+  [
+   "walk",
+   "Lower Binder / Lower Tote Road",
+   "Sugarloaf SuperQuad bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Lower Binder / Lower Tote Road",
+   "Double Runner East bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Binder / Lower Tote Road",
+   "Sawduster top",
+   2.9
+  ],
+  [
+   "walk",
+   "Lombard X-Cut 2",
+   "Double Runner East top",
+   0.8
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 2",
+   "Timberline top",
+   0.8
+  ],
+  [
+   "walk",
+   "White Nitro",
+   "King Pine top",
+   2.6
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad top",
+   "U. Cruiser / Upper Whiffletree",
+   2.0
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad top",
+   "Upper Whiffletree / L. Boomauger",
+   0.9
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad top",
+   "Upper Buckboard / Tohaul",
+   0.7
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad top",
+   "Upper Poleline / Lombard X-Cut",
+   1.8
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad top",
+   "Upper Poleline",
+   2.5
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad top",
+   "Tohaul",
+   3.3
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad top",
+   "Upper Poleline 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad top",
+   "Tohaul 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad top",
+   "Upper Whiffletree",
+   0.6
+  ],
+  [
+   "walk",
+   "Widowmaker 3",
+   "Whiffletree SuperQuad top",
+   2.9
+  ],
+  [
+   "walk",
+   "Upper Whiffletree",
+   "Whiffletree SuperQuad top",
+   0.6
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 2",
+   "King Pine top",
+   1.4
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 3",
+   "Skyline top",
+   3.2
+  ],
+  [
+   "walk",
+   "Upper Narrow Gauge 2",
+   "Bateau T-Bar bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "Double Runner East bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "Skidway bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "Skidway top",
+   1.6
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "Sawduster top",
+   2.6
+  ],
+  [
+   "walk",
+   "Tote Road",
+   "Bateau T-Bar top",
+   1.8
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Skyline top",
+   1.0
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Bateau T-Bar top",
+   1.3
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Skyline top",
+   2.1
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Bateau T-Bar top",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Whiffletree",
+   "Skidway top",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Tote Road",
+   "Sugarloaf SuperQuad bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Lower Tote Road",
+   "Double Runner East bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Tote Road",
+   "Skidway bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Tote Road",
+   "Windrow",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Tote Road",
+   "Sawduster top",
+   2.8
+  ],
+  [
+   "walk",
+   "Slasher",
+   "Skidway top",
+   1.4
+  ],
+  [
+   "walk",
+   "Snubber bottom",
+   "Snowbrook / Birches Slope",
+   0.9
+  ],
+  [
+   "walk",
+   "Skidway top",
+   "L. Narrow Gauge / Boardwalk",
+   2.0
+  ],
+  [
+   "walk",
+   "Skidway top",
+   "Slasher / Boardwalk",
+   1.5
+  ],
+  [
+   "walk",
+   "Skidway top",
+   "Lower Winter's Way / The Landing",
+   1.6
+  ],
+  [
+   "walk",
+   "Sawduster bottom",
+   "Lower Stub's",
+   1.9
+  ],
+  [
+   "walk",
+   "Sawduster bottom",
+   "Moosecalator bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Sawduster bottom",
+   "Moosecalator top",
+   2.5
+  ],
+  [
+   "walk",
+   "Sawduster top",
+   "Snubber top",
+   2.9
+  ],
+  [
+   "walk",
+   "Sawduster top",
+   "Whiffletree SuperQuad bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Sawduster top",
+   "Sugarloaf SuperQuad bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Sawduster top",
+   "Double Runner East bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Sawduster top",
+   "Skidway bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Sawduster top",
+   "Lower Binder / Lower Tote Road",
+   2.9
+  ],
+  [
+   "walk",
+   "Sawduster top",
+   "Lower Tote Road",
+   2.8
+  ],
+  [
+   "walk",
+   "Sawduster top",
+   "Moosecalator top",
+   3.1
+  ],
+  [
+   "walk",
+   "Moosecalator bottom",
+   "Lower Stub's",
+   2.3
+  ],
+  [
+   "walk",
+   "Moosecalator bottom",
+   "Sawduster bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Moosecalator bottom",
+   "Moosecalator top",
+   1.6
+  ],
+  [
+   "walk",
+   "Moosecalator top",
+   "Lower Stub's",
+   3.4
+  ],
+  [
+   "walk",
+   "Moosecalator top",
+   "Whiffletree SuperQuad bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Moosecalator top",
+   "Sawduster bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Moosecalator top",
+   "Moosecalator bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Cinder Hoe / Binder Extension",
+   "Narrow Gauge Extension",
+   2.1
+  ],
+  [
+   "walk",
+   "Cinder Hoe / Binder Extension",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   3.6
+  ],
+  [
+   "walk",
+   "Cinder Hoe / Binder Extension",
+   "Narrow Gauge Extension 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Cinder Hoe / Binder Extension",
+   "Narrow Gauge Extension 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension",
+   "Cinder Hoe / Binder Extension",
+   2.1
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   4.1
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension",
+   "Narrow Gauge Extension 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension",
+   "Narrow Gauge Extension 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 2",
+   "Cinder Hoe / Binder Extension",
+   1.6
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 2",
+   "Narrow Gauge Extension",
+   2.0
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 2",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   3.6
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 2",
+   "Narrow Gauge Extension 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Cinder Hoe / Tote Road",
+   4.2
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Upper Winter's Way / Spillway X-Cut",
+   2.9
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Spillway X-Cut",
+   3.9
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Sluice Headwall",
+   3.0
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Upper Winter's Way",
+   4.4
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Spillway X-Cut 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Tote Road",
+   3.1
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Spillway X-Cut 4",
+   2.2
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   2.9
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Cinder Hoe / Tote Road",
+   4.7
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Spillway X-Cut",
+   4.4
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Sluice Headwall",
+   3.5
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Upper Winter's Way",
+   4.9
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Spillway X-Cut 3",
+   4.9
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Tote Road",
+   3.6
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Spillway X-Cut 4",
+   2.7
+  ],
+  [
+   "walk",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   4.5
+  ],
+  [
+   "walk",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "Cinder Hoe / Tote Road",
+   6.5
+  ],
+  [
+   "walk",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "Bateau T-Bar top",
+   4.2
+  ],
+  [
+   "walk",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "Upper Winter's Way / Spillway X-Cut",
+   5.1
+  ],
+  [
+   "walk",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "Spillway X-Cut",
+   6.1
+  ],
+  [
+   "walk",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "Sluice Headwall",
+   5.4
+  ],
+  [
+   "walk",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "Upper Winter's Way",
+   6.6
+  ],
+  [
+   "walk",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "Spillway X-Cut 3",
+   6.6
+  ],
+  [
+   "walk",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "Tote Road",
+   5.3
+  ],
+  [
+   "walk",
+   "Bubblecuffer Extension / Gondola Line Extension",
+   "Spillway X-Cut 4",
+   4.4
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 3",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   4.4
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 3",
+   "Cinder Hoe / Tote Road",
+   6.4
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 3",
+   "Bateau T-Bar top",
+   4.0
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 3",
+   "Upper Winter's Way / Spillway X-Cut",
+   4.9
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 3",
+   "Spillway X-Cut",
+   5.9
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 3",
+   "Sluice Headwall",
+   5.2
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 3",
+   "Upper Winter's Way",
+   6.4
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 3",
+   "Tote Road",
+   5.1
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 3",
+   "Spillway X-Cut 4",
+   4.2
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   2.2
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Cinder Hoe / Tote Road",
+   4.1
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Upper Winter's Way / Spillway X-Cut",
+   2.7
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Spillway X-Cut",
+   3.7
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Sluice Headwall",
+   2.9
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Upper Winter's Way",
+   4.2
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Spillway X-Cut 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Tote Road",
+   2.9
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   3.3
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Cinder Hoe / Tote Road",
+   5.3
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Upper Winter's Way / Spillway X-Cut",
+   3.8
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Spillway X-Cut",
+   4.9
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Sluice Headwall",
+   4.1
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Upper Winter's Way",
+   5.4
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Spillway X-Cut 3",
+   5.3
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Tote Road",
+   4.1
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Spillway X-Cut 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Sugarloaf SuperQuad top",
+   5.4
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Sugarloaf SuperQuad top",
+   5.0
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Sugarloaf SuperQuad top",
+   6.5
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Sugarloaf SuperQuad top",
+   6.3
+  ],
+  [
+   "walk",
+   "Birch Hook / Windrow Extension",
+   "Windrow Extension / Horseshoe",
+   2.5
+  ],
+  [
+   "walk",
+   "Birch Hook / Windrow Extension",
+   "Upper Scoot",
+   3.8
+  ],
+  [
+   "walk",
+   "Birch Hook / Windrow Extension",
+   "Upper Scoot 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Birch Hook / Windrow Extension",
+   "Birch Hook",
+   4.6
+  ],
+  [
+   "walk",
+   "Birch Hook / Windrow Extension",
+   "Bucksaw X-Cut 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Birch Hook / Windrow Extension",
+   "Upper Glancer",
+   2.5
+  ],
+  [
+   "walk",
+   "Birch Hook / Windrow Extension",
+   "Birch Hook 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Birch Hook / Windrow Extension",
+   "Horseshoe 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Windrow Extension / Horseshoe",
+   "Birch Hook / Windrow Extension",
+   2.5
+  ],
+  [
+   "walk",
+   "Windrow Extension / Horseshoe",
+   "Upper Scoot",
+   3.3
+  ],
+  [
+   "walk",
+   "Windrow Extension / Horseshoe",
+   "Upper Scoot 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Windrow Extension / Horseshoe",
+   "Birch Hook",
+   4.1
+  ],
+  [
+   "walk",
+   "Windrow Extension / Horseshoe",
+   "Bucksaw X-Cut 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Windrow Extension / Horseshoe",
+   "Upper Glancer",
+   2.0
+  ],
+  [
+   "walk",
+   "Windrow Extension / Horseshoe",
+   "Birch Hook 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Windrow Extension / Horseshoe",
+   "Horseshoe 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Upper Scoot",
+   "Birch Hook / Windrow Extension",
+   3.8
+  ],
+  [
+   "walk",
+   "Upper Scoot",
+   "Windrow Extension / Horseshoe",
+   3.3
+  ],
+  [
+   "walk",
+   "Upper Scoot",
+   "Upper Scoot 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Upper Scoot",
+   "Birch Hook",
+   5.4
+  ],
+  [
+   "walk",
+   "Upper Scoot",
+   "Bucksaw X-Cut 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Upper Scoot",
+   "Upper Glancer",
+   3.2
+  ],
+  [
+   "walk",
+   "Upper Scoot",
+   "Birch Hook 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Upper Scoot",
+   "Horseshoe 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Birch Hook",
+   "Birch Hook / Windrow Extension",
+   4.6
+  ],
+  [
+   "walk",
+   "Birch Hook",
+   "Windrow Extension / Horseshoe",
+   4.1
+  ],
+  [
+   "walk",
+   "Birch Hook",
+   "Upper Scoot",
+   5.4
+  ],
+  [
+   "walk",
+   "Birch Hook",
+   "Upper Scoot 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Birch Hook",
+   "Bucksaw X-Cut 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Birch Hook",
+   "Upper Glancer",
+   4.1
+  ],
+  [
+   "walk",
+   "Birch Hook",
+   "Birch Hook 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Birch Hook",
+   "Horseshoe 2",
+   6.4
+  ],
+  [
+   "walk",
+   "Bucksaw X-Cut 2",
+   "Birch Hook / Windrow Extension",
+   4.6
+  ],
+  [
+   "walk",
+   "Bucksaw X-Cut 2",
+   "Windrow Extension / Horseshoe",
+   4.1
+  ],
+  [
+   "walk",
+   "Bucksaw X-Cut 2",
+   "Upper Scoot",
+   5.4
+  ],
+  [
+   "walk",
+   "Bucksaw X-Cut 2",
+   "Upper Scoot 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Bucksaw X-Cut 2",
+   "Birch Hook",
+   6.2
+  ],
+  [
+   "walk",
+   "Bucksaw X-Cut 2",
+   "Upper Glancer",
+   4.0
+  ],
+  [
+   "walk",
+   "Bucksaw X-Cut 2",
+   "Birch Hook 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Bucksaw X-Cut 2",
+   "Horseshoe 2",
+   6.4
+  ],
+  [
+   "walk",
+   "Birch Hook 2",
+   "Birch Hook / Windrow Extension",
+   3.8
+  ],
+  [
+   "walk",
+   "Birch Hook 2",
+   "Windrow Extension / Horseshoe",
+   3.2
+  ],
+  [
+   "walk",
+   "Birch Hook 2",
+   "Upper Scoot",
+   4.5
+  ],
+  [
+   "walk",
+   "Birch Hook 2",
+   "Upper Scoot 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Birch Hook 2",
+   "Birch Hook",
+   5.3
+  ],
+  [
+   "walk",
+   "Birch Hook 2",
+   "Bucksaw X-Cut 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Birch Hook 2",
+   "Upper Glancer",
+   3.2
+  ],
+  [
+   "walk",
+   "Birch Hook 2",
+   "Horseshoe 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Sheer Boom / Peavy X-Cut",
+   "Picaroon / L. Narrow Gauge",
+   5.3
+  ],
+  [
+   "walk",
+   "Sheer Boom / Peavy X-Cut",
+   "Picaroon / L. Narrow Gauge 2",
+   6.8
+  ],
+  [
+   "walk",
+   "Sheer Boom / Peavy X-Cut",
+   "Sidewinder / Peavy X-Cut",
+   5.8
+  ],
+  [
+   "walk",
+   "Sheer Boom / Peavy X-Cut",
+   "Narrow Gauge / L. Narrow Gauge",
+   4.7
+  ],
+  [
+   "walk",
+   "Sheer Boom / Peavy X-Cut",
+   "Sluice / Lombard X-Cut",
+   5.4
+  ],
+  [
+   "walk",
+   "Sheer Boom / Peavy X-Cut",
+   "Lombard X-Cut 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Sheer Boom / Peavy X-Cut",
+   "Condo X-Cut 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Sidewinder / Peavy X-Cut",
+   "Picaroon / L. Narrow Gauge",
+   4.2
+  ],
+  [
+   "walk",
+   "Sidewinder / Peavy X-Cut",
+   "Picaroon / L. Narrow Gauge 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Sidewinder / Peavy X-Cut",
+   "Narrow Gauge / L. Narrow Gauge",
+   3.5
+  ],
+  [
+   "walk",
+   "Sidewinder / Peavy X-Cut",
+   "Sluice / Lombard X-Cut",
+   4.3
+  ],
+  [
+   "walk",
+   "Sidewinder / Peavy X-Cut",
+   "Lombard X-Cut 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Sidewinder / Peavy X-Cut",
+   "Condo X-Cut 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Narrow Gauge / L. Narrow Gauge",
+   "Picaroon / L. Narrow Gauge",
+   3.1
+  ],
+  [
+   "walk",
+   "Narrow Gauge / L. Narrow Gauge",
+   "Picaroon / L. Narrow Gauge 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Narrow Gauge / L. Narrow Gauge",
+   "Sidewinder / Peavy X-Cut",
+   3.5
+  ],
+  [
+   "walk",
+   "Narrow Gauge / L. Narrow Gauge",
+   "Sluice / Lombard X-Cut",
+   3.2
+  ],
+  [
+   "walk",
+   "Narrow Gauge / L. Narrow Gauge",
+   "Lombard X-Cut 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Narrow Gauge / L. Narrow Gauge",
+   "Condo X-Cut 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Sluice / Lombard X-Cut",
+   "Picaroon / L. Narrow Gauge",
+   3.8
+  ],
+  [
+   "walk",
+   "Sluice / Lombard X-Cut",
+   "Picaroon / L. Narrow Gauge 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Sluice / Lombard X-Cut",
+   "Sidewinder / Peavy X-Cut",
+   4.3
+  ],
+  [
+   "walk",
+   "Sluice / Lombard X-Cut",
+   "Narrow Gauge / L. Narrow Gauge",
+   3.2
+  ],
+  [
+   "walk",
+   "Sluice / Lombard X-Cut",
+   "Lombard X-Cut 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Sluice / Lombard X-Cut",
+   "Condo X-Cut 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Lombard X-Cut 2",
+   "Picaroon / L. Narrow Gauge",
+   2.6
+  ],
+  [
+   "walk",
+   "Lombard X-Cut 2",
+   "Picaroon / L. Narrow Gauge 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Lombard X-Cut 2",
+   "Sidewinder / Peavy X-Cut",
+   3.1
+  ],
+  [
+   "walk",
+   "Lombard X-Cut 2",
+   "Narrow Gauge / L. Narrow Gauge",
+   2.0
+  ],
+  [
+   "walk",
+   "Lombard X-Cut 2",
+   "Sluice / Lombard X-Cut",
+   2.7
+  ],
+  [
+   "walk",
+   "Lombard X-Cut 2",
+   "Condo X-Cut 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Sluice Headwall / Gin Pole",
+   4.6
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   "Buckskin / U. Binder",
+   5.0
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Sluice Headwall / Gin Pole",
+   3.9
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Buckskin / U. Binder",
+   4.3
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Sluice Headwall / Gin Pole",
+   5.1
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Spillway X-Cut",
+   "Buckskin / U. Binder",
+   5.5
+  ],
+  [
+   "walk",
+   "Spillway X-Cut",
+   "Cinder Hoe / Tote Road",
+   5.6
+  ],
+  [
+   "walk",
+   "Spillway X-Cut",
+   "Sluice Headwall / Gin Pole",
+   6.0
+  ],
+  [
+   "walk",
+   "Spillway X-Cut",
+   "Upper Winter's Way / Spillway X-Cut",
+   5.0
+  ],
+  [
+   "walk",
+   "Spillway X-Cut",
+   "Buckskin / U. Binder",
+   6.4
+  ],
+  [
+   "walk",
+   "Spillway X-Cut",
+   "Sluice Headwall",
+   4.4
+  ],
+  [
+   "walk",
+   "Spillway X-Cut",
+   "Upper Winter's Way",
+   5.9
+  ],
+  [
+   "walk",
+   "Spillway X-Cut",
+   "Tote Road",
+   4.8
+  ],
+  [
+   "walk",
+   "Tote Road",
+   "Cinder Hoe / Tote Road",
+   4.5
+  ],
+  [
+   "walk",
+   "Tote Road",
+   "Sluice Headwall / Gin Pole",
+   5.0
+  ],
+  [
+   "walk",
+   "Tote Road",
+   "Upper Winter's Way / Spillway X-Cut",
+   3.9
+  ],
+  [
+   "walk",
+   "Tote Road",
+   "Spillway X-Cut",
+   4.8
+  ],
+  [
+   "walk",
+   "Tote Road",
+   "Buckskin / U. Binder",
+   5.3
+  ],
+  [
+   "walk",
+   "Tote Road",
+   "Sluice Headwall",
+   3.4
+  ],
+  [
+   "walk",
+   "Tote Road",
+   "Upper Winter's Way",
+   4.8
+  ],
+  [
+   "walk",
+   "Tote Road",
+   "Sugarloaf SuperQuad top",
+   6.8
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Sluice Headwall / Gin Pole",
+   4.5
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Buckskin / U. Binder",
+   4.8
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Sluice Headwall / Gin Pole",
+   6.0
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 3",
+   "Buckskin / U. Binder",
+   6.4
+  ],
+  [
+   "walk",
+   "Snubber top",
+   "Moosecalator top",
+   4.1
+  ],
+  [
+   "walk",
+   "Moosecalator top",
+   "Skidway bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Moosecalator top",
+   "Sawduster top",
+   5.0
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Skyline top",
+   3.7
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   4.9
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Spillway X-Cut 3",
+   6.9
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Spillway X-Cut 4",
+   4.7
+  ],
+  [
+   "walk",
+   "Spillway X-Cut",
+   "Skyline top",
+   6.6
+  ],
+  [
+   "walk",
+   "Tote Road",
+   "Skyline top",
+   5.5
+  ],
+  [
+   "walk",
+   "Tote Road",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   6.7
+  ],
+  [
+   "walk",
+   "Tote Road",
+   "Spillway X-Cut 4",
+   6.5
+  ],
+  [
+   "walk",
+   "Double Runner East bottom",
+   "Windrow",
+   4.7
+  ],
+  [
+   "walk",
+   "Double Runner East bottom",
+   "Moosecalator top",
+   4.0
+  ],
+  [
+   "walk",
+   "Skidway bottom",
+   "Windrow",
+   5.7
+  ],
+  [
+   "walk",
+   "Windrow",
+   "Double Runner East bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Windrow",
+   "Skidway bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Windrow",
+   "Sawduster top",
+   5.1
+  ],
+  [
+   "walk",
+   "Windrow",
+   "Moosecalator top",
+   6.5
+  ],
+  [
+   "walk",
+   "Lower Binder / Lower Tote Road",
+   "Skidway bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Binder / Lower Tote Road",
+   "Windrow",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Binder / Lower Tote Road",
+   "Lower Tote Road",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Binder / Lower Tote Road",
+   "Moosecalator top",
+   5.1
+  ],
+  [
+   "walk",
+   "Lower Tote Road",
+   "Moosecalator top",
+   4.2
+  ],
+  [
+   "walk",
+   "Sawduster top",
+   "Windrow",
+   5.1
+  ],
+  [
+   "walk",
+   "Skidway top",
+   "Double Runner East bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Skidway top",
+   "Sawduster top",
+   4.2
+  ],
+  [
+   "walk",
+   "White Nitro Extension / White Nitro",
+   "Widowmaker",
+   3.5
+  ],
+  [
+   "walk",
+   "White Nitro Extension / White Nitro",
+   "Haul Back",
+   3.7
+  ],
+  [
+   "walk",
+   "White Nitro Extension / White Nitro",
+   "Widowmaker 2",
+   6.2
+  ],
+  [
+   "walk",
+   "White Nitro Extension / White Nitro",
+   "White Nitro",
+   5.3
+  ],
+  [
+   "walk",
+   "Widowmaker",
+   "Haul Back",
+   1.7
+  ],
+  [
+   "walk",
+   "Widowmaker",
+   "Widowmaker 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Widowmaker",
+   "White Nitro",
+   3.4
+  ],
+  [
+   "walk",
+   "Haul Back",
+   "Widowmaker",
+   1.7
+  ],
+  [
+   "walk",
+   "Haul Back",
+   "Widowmaker 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Haul Back",
+   "White Nitro",
+   3.5
+  ],
+  [
+   "walk",
+   "White Nitro",
+   "Widowmaker",
+   3.4
+  ],
+  [
+   "walk",
+   "White Nitro",
+   "Haul Back",
+   3.5
+  ],
+  [
+   "walk",
+   "White Nitro",
+   "Widowmaker 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 2",
+   "Widowmaker",
+   2.2
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 2",
+   "Haul Back",
+   2.4
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 2",
+   "Widowmaker 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 2",
+   "White Nitro",
+   4.1
+  ],
+  [
+   "walk",
+   "Haul Back 2",
+   "Rough Cut Glade",
+   1.7
+  ],
+  [
+   "walk",
+   "Rough Cut Glade",
+   "Haul Back 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Hayburnder / Pinch",
+   "Upper Competition Hill / Pick Pole",
+   3.8
+  ],
+  [
+   "walk",
+   "Hayburnder / Pinch",
+   "Bridle Chain / Pinch",
+   5.3
+  ],
+  [
+   "walk",
+   "Hayburnder / Pinch",
+   "Pinch",
+   2.4
+  ],
+  [
+   "walk",
+   "Cinder Hoe / Tote Road",
+   "Hayburnder / Pinch",
+   4.1
+  ],
+  [
+   "walk",
+   "Cinder Hoe / Tote Road",
+   "Upper Competition Hill / Pick Pole",
+   4.2
+  ],
+  [
+   "walk",
+   "Cinder Hoe / Tote Road",
+   "Bridle Chain / Pinch",
+   5.7
+  ],
+  [
+   "walk",
+   "Cinder Hoe / Tote Road",
+   "Pinch",
+   2.8
+  ],
+  [
+   "walk",
+   "Buckskin / U. Binder",
+   "Hayburnder / Pinch",
+   5.1
+  ],
+  [
+   "walk",
+   "Buckskin / U. Binder",
+   "Upper Competition Hill / Pick Pole",
+   5.1
+  ],
+  [
+   "walk",
+   "Buckskin / U. Binder",
+   "Bridle Chain / Pinch",
+   6.7
+  ],
+  [
+   "walk",
+   "Buckskin / U. Binder",
+   "Pinch",
+   3.8
+  ],
+  [
+   "walk",
+   "Buckskin / Upper Binder",
+   "Hayburnder / Pinch",
+   4.3
+  ],
+  [
+   "walk",
+   "Buckskin / Upper Binder",
+   "Upper Competition Hill / Pick Pole",
+   4.3
+  ],
+  [
+   "walk",
+   "Buckskin / Upper Binder",
+   "Bridle Chain / Pinch",
+   5.8
+  ],
+  [
+   "walk",
+   "Buckskin / Upper Binder",
+   "Pinch",
+   3.0
+  ],
+  [
+   "walk",
+   "Pinch",
+   "Hayburnder / Pinch",
+   2.4
+  ],
+  [
+   "walk",
+   "Pinch",
+   "Upper Competition Hill / Pick Pole",
+   2.5
+  ],
+  [
+   "walk",
+   "Pinch",
+   "Bridle Chain / Pinch",
+   4.0
+  ],
+  [
+   "walk",
+   "Skyline top",
+   "Pinch",
+   6.0
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Hayburnder / Pinch",
+   6.8
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Upper Competition Hill / Pick Pole",
+   6.9
+  ],
+  [
+   "walk",
+   "Bateau T-Bar top",
+   "Pinch",
+   5.5
+  ],
+  [
+   "walk",
+   "Spillway X-Cut 4",
+   "Pinch",
+   6.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Upper Timberline",
+   "Lower Timberline / Pick Pole",
+   3.2
+  ],
+  [
+   "walk",
+   "Bridle Chain",
+   "Lower Timberline / Pick Pole",
+   2.7
+  ],
+  [
+   "walk",
+   "Upper Competition Hill / Tote Road Crosscut",
+   "Narrow Gauge / Upper Narrow Gauge",
+   3.0
+  ],
+  [
+   "walk",
+   "Upper Competition Hill / Tote Road Crosscut",
+   "Sheer Boom",
+   4.8
+  ],
+  [
+   "walk",
+   "Upper Competition Hill / Tote Road Crosscut",
+   "Upper Spillway / Old Winter's Way",
+   2.6
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Old Winter's Way",
+   "Upper Competition Hill / Tote Road Crosscut",
+   5.0
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Old Winter's Way",
+   "Narrow Gauge / Upper Narrow Gauge",
+   4.1
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Old Winter's Way",
+   "Sheer Boom",
+   5.9
+  ],
+  [
+   "walk",
+   "Upper Winter's Way / Old Winter's Way",
+   "Upper Spillway / Old Winter's Way",
+   3.7
+  ],
+  [
+   "walk",
+   "Narrow Gauge / Upper Narrow Gauge",
+   "Upper Competition Hill / Tote Road Crosscut",
+   3.0
+  ],
+  [
+   "walk",
+   "Narrow Gauge / Upper Narrow Gauge",
+   "Sheer Boom",
+   3.9
+  ],
+  [
+   "walk",
+   "Narrow Gauge / Upper Narrow Gauge",
+   "Upper Spillway / Old Winter's Way",
+   1.7
+  ],
+  [
+   "walk",
+   "Sheer Boom",
+   "Upper Competition Hill / Tote Road Crosscut",
+   4.8
+  ],
+  [
+   "walk",
+   "Sheer Boom",
+   "Narrow Gauge / Upper Narrow Gauge",
+   3.9
+  ],
+  [
+   "walk",
+   "Sheer Boom",
+   "Upper Spillway / Old Winter's Way",
+   3.4
+  ],
+  [
+   "walk",
+   "Upper Spillway / Old Winter's Way",
+   "Upper Competition Hill / Tote Road Crosscut",
+   2.6
+  ],
+  [
+   "walk",
+   "Upper Spillway / Old Winter's Way",
+   "Narrow Gauge / Upper Narrow Gauge",
+   1.7
+  ],
+  [
+   "walk",
+   "Upper Spillway / Old Winter's Way",
+   "Sheer Boom",
+   3.4
+  ],
+  [
+   "walk",
+   "Upper Narrow Gauge 2",
+   "Upper Competition Hill / Tote Road Crosscut",
+   4.2
+  ],
+  [
+   "walk",
+   "Upper Narrow Gauge 2",
+   "Narrow Gauge / Upper Narrow Gauge",
+   3.3
+  ],
+  [
+   "walk",
+   "Upper Narrow Gauge 2",
+   "Sheer Boom",
+   5.1
+  ],
+  [
+   "walk",
+   "Upper Narrow Gauge 2",
+   "Upper Spillway / Old Winter's Way",
+   2.9
+  ],
+  [
+   "walk",
+   "Timberline top",
+   "Skyline top",
+   5.3
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 2",
+   "Skyline top",
+   6.0
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad bottom",
+   "Lower Binder / Lower Tote Road",
+   3.8
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge / Boardwalk",
+   "Sugarloaf SuperQuad bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge / Boardwalk",
+   "Skidway bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge / Boardwalk",
+   "Lower Binder / Lower Tote Road",
+   4.9
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge / Boardwalk",
+   "Lower Tote Road",
+   5.2
+  ],
+  [
+   "walk",
+   "Slasher / Boardwalk",
+   "Sugarloaf SuperQuad bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Slasher / Boardwalk",
+   "Skidway bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Slasher / Boardwalk",
+   "Lower Binder / Lower Tote Road",
+   5.3
+  ],
+  [
+   "walk",
+   "Slasher / Boardwalk",
+   "Lower Tote Road",
+   5.6
+  ],
+  [
+   "walk",
+   "Slasher / Boardwalk",
+   "Sawduster top",
+   4.1
+  ],
+  [
+   "walk",
+   "Skidway bottom",
+   "Lower Binder / Lower Tote Road",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "Sugarloaf SuperQuad bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "Lower Binder / Lower Tote Road",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "Lower Tote Road",
+   4.6
+  ],
+  [
+   "walk",
+   "Lower Tote Road",
+   "Lower Binder / Lower Tote Road",
+   4.4
+  ],
+  [
+   "walk",
+   "Windrow",
+   "Lower Binder / Lower Tote Road",
+   6.7
+  ],
+  [
+   "walk",
+   "Skidway top",
+   "Sugarloaf SuperQuad bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Skidway top",
+   "Skidway bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Skidway top",
+   "Lower Binder / Lower Tote Road",
+   5.9
+  ],
+  [
+   "walk",
+   "Snubber top",
+   "Sugarloaf SuperQuad bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Snubber top",
+   "Double Runner East bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Snubber top",
+   "Lower Tote Road",
+   5.7
+  ],
+  [
+   "walk",
+   "Snubber top",
+   "Lower Binder / Lower Tote Road",
+   5.8
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad bottom",
+   "Sugarloaf SuperQuad bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad bottom",
+   "Double Runner East bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad bottom",
+   "Lower Tote Road",
+   5.3
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad bottom",
+   "Lower Binder / Lower Tote Road",
+   5.6
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad bottom",
+   "Whiffletree SuperQuad bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Double Runner East bottom",
+   "Whiffletree SuperQuad bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "Whiffletree SuperQuad bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "Moosecalator top",
+   5.7
+  ],
+  [
+   "walk",
+   "Lower Tote Road",
+   "Whiffletree SuperQuad bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Moosecalator top",
+   "Sugarloaf SuperQuad bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Moosecalator top",
+   "Double Runner East bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Lower Binder / Lower Tote Road",
+   "Whiffletree SuperQuad bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge / Boardwalk",
+   "Whiffletree SuperQuad bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Slasher / Boardwalk",
+   "Whiffletree SuperQuad bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Upper Whiffletree / L. Boomauger",
+   "U. Cruiser / Upper Whiffletree",
+   2.9
+  ],
+  [
+   "walk",
+   "Upper Whiffletree / L. Boomauger",
+   "Upper Buckboard / Tohaul",
+   1.6
+  ],
+  [
+   "walk",
+   "Upper Whiffletree / L. Boomauger",
+   "Upper Poleline / Lombard X-Cut",
+   2.7
+  ],
+  [
+   "walk",
+   "Upper Whiffletree / L. Boomauger",
+   "Upper Poleline",
+   3.5
+  ],
+  [
+   "walk",
+   "Upper Whiffletree / L. Boomauger",
+   "Tohaul",
+   4.2
+  ],
+  [
+   "walk",
+   "Upper Whiffletree / L. Boomauger",
+   "Upper Poleline 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Upper Whiffletree / L. Boomauger",
+   "Tohaul 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Upper Whiffletree / L. Boomauger",
+   "Upper Whiffletree",
+   1.5
+  ],
+  [
+   "walk",
+   "Widowmaker / L. Boomauger",
+   "U. Cruiser / Upper Whiffletree",
+   4.4
+  ],
+  [
+   "walk",
+   "Widowmaker / L. Boomauger",
+   "Upper Whiffletree / L. Boomauger",
+   3.3
+  ],
+  [
+   "walk",
+   "Widowmaker / L. Boomauger",
+   "Upper Buckboard / Tohaul",
+   3.1
+  ],
+  [
+   "walk",
+   "Widowmaker / L. Boomauger",
+   "Upper Poleline / Lombard X-Cut",
+   4.2
+  ],
+  [
+   "walk",
+   "Widowmaker / L. Boomauger",
+   "Upper Poleline",
+   4.9
+  ],
+  [
+   "walk",
+   "Widowmaker / L. Boomauger",
+   "Tohaul",
+   5.7
+  ],
+  [
+   "walk",
+   "Widowmaker / L. Boomauger",
+   "Upper Poleline 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Widowmaker / L. Boomauger",
+   "Tohaul 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Widowmaker / L. Boomauger",
+   "Upper Whiffletree",
+   3.0
+  ],
+  [
+   "walk",
+   "Upper Buckboard / Tohaul",
+   "U. Cruiser / Upper Whiffletree",
+   2.7
+  ],
+  [
+   "walk",
+   "Upper Buckboard / Tohaul",
+   "Upper Whiffletree / L. Boomauger",
+   1.6
+  ],
+  [
+   "walk",
+   "Upper Buckboard / Tohaul",
+   "Upper Poleline / Lombard X-Cut",
+   2.5
+  ],
+  [
+   "walk",
+   "Upper Buckboard / Tohaul",
+   "Upper Poleline",
+   3.2
+  ],
+  [
+   "walk",
+   "Upper Buckboard / Tohaul",
+   "Tohaul",
+   4.0
+  ],
+  [
+   "walk",
+   "Upper Buckboard / Tohaul",
+   "Upper Poleline 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Upper Buckboard / Tohaul",
+   "Tohaul 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Upper Buckboard / Tohaul",
+   "Upper Whiffletree",
+   1.3
+  ],
+  [
+   "walk",
+   "Widowmaker 3",
+   "U. Cruiser / Upper Whiffletree",
+   5.0
+  ],
+  [
+   "walk",
+   "Widowmaker 3",
+   "Upper Whiffletree / L. Boomauger",
+   3.8
+  ],
+  [
+   "walk",
+   "Widowmaker 3",
+   "Upper Buckboard / Tohaul",
+   3.6
+  ],
+  [
+   "walk",
+   "Widowmaker 3",
+   "Upper Poleline / Lombard X-Cut",
+   4.7
+  ],
+  [
+   "walk",
+   "Widowmaker 3",
+   "Upper Poleline",
+   5.5
+  ],
+  [
+   "walk",
+   "Widowmaker 3",
+   "Tohaul",
+   6.2
+  ],
+  [
+   "walk",
+   "Widowmaker 3",
+   "Upper Poleline 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Widowmaker 3",
+   "Tohaul 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Widowmaker 3",
+   "Upper Whiffletree",
+   3.5
+  ],
+  [
+   "walk",
+   "Upper Whiffletree",
+   "U. Cruiser / Upper Whiffletree",
+   2.6
+  ],
+  [
+   "walk",
+   "Upper Whiffletree",
+   "Upper Whiffletree / L. Boomauger",
+   1.5
+  ],
+  [
+   "walk",
+   "Upper Whiffletree",
+   "Upper Buckboard / Tohaul",
+   1.3
+  ],
+  [
+   "walk",
+   "Upper Whiffletree",
+   "Upper Poleline / Lombard X-Cut",
+   2.4
+  ],
+  [
+   "walk",
+   "Upper Whiffletree",
+   "Upper Poleline",
+   3.1
+  ],
+  [
+   "walk",
+   "Upper Whiffletree",
+   "Tohaul",
+   3.9
+  ],
+  [
+   "walk",
+   "Upper Whiffletree",
+   "Upper Poleline 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Upper Whiffletree",
+   "Tohaul 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Skidway top",
+   "Lower Tote Road",
+   6.2
+  ],
+  [
+   "walk",
+   "Skidway top",
+   "Whiffletree SuperQuad bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Timberline top",
+   "Bateau T-Bar top",
+   6.0
+  ],
+  [
+   "walk",
+   "Timberline top",
+   "Narrow Gauge Extension / Spillway X-Cut",
+   6.4
+  ],
+  [
+   "walk",
+   "Timberline top",
+   "Spillway X-Cut 4",
+   6.3
+  ],
+  [
+   "walk",
+   "Cinder Hoe / Binder Extension",
+   "Skyline top",
+   6.1
+  ],
+  [
+   "walk",
+   "Cinder Hoe / Binder Extension",
+   "Bateau T-Bar top",
+   6.8
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension",
+   "Skyline top",
+   6.6
+  ],
+  [
+   "walk",
+   "Narrow Gauge Extension 2",
+   "Bateau T-Bar top",
+   6.8
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "Windrow",
+   6.9
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge / Boardwalk",
+   "Slasher / Boardwalk",
+   3.5
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge / Boardwalk",
+   "Lower Winter's Way / The Landing",
+   3.6
+  ],
+  [
+   "walk",
+   "Slasher / Boardwalk",
+   "L. Narrow Gauge / Boardwalk",
+   3.5
+  ],
+  [
+   "walk",
+   "Slasher / Boardwalk",
+   "Lower Winter's Way / The Landing",
+   3.1
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge 2",
+   "L. Narrow Gauge / Boardwalk",
+   5.1
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge 2",
+   "Slasher / Boardwalk",
+   4.5
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge 2",
+   "Lower Winter's Way / The Landing",
+   4.7
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge 2",
+   "Double Runner East bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "L. Narrow Gauge / Boardwalk",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "Slasher / Boardwalk",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Whiffletree",
+   "L. Narrow Gauge / Boardwalk",
+   5.2
+  ],
+  [
+   "walk",
+   "Lower Whiffletree",
+   "Slasher / Boardwalk",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Whiffletree",
+   "Lower Winter's Way / The Landing",
+   4.8
+  ],
+  [
+   "walk",
+   "Slasher",
+   "L. Narrow Gauge / Boardwalk",
+   3.4
+  ],
+  [
+   "walk",
+   "Slasher",
+   "Slasher / Boardwalk",
+   2.8
+  ],
+  [
+   "walk",
+   "Slasher",
+   "Lower Winter's Way / The Landing",
+   3.0
+  ],
+  [
+   "walk",
+   "Slasher",
+   "Double Runner East bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Slasher",
+   "Sawduster top",
+   5.5
+  ],
+  [
+   "walk",
+   "Slasher",
+   "Sugarloaf SuperQuad bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Slasher",
+   "Skidway bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower Stub's",
+   "Moosecalator top",
+   4.0
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad bottom",
+   "Snubber top",
+   5.6
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad bottom",
+   "Snubber top",
+   5.0
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge / Boardwalk",
+   "Snubber top",
+   6.2
+  ],
+  [
+   "walk",
+   "L. Narrow Gauge / Boardwalk",
+   "Moosecalator top",
+   6.5
+  ],
+  [
+   "walk",
+   "Double Runner East bottom",
+   "Snubber top",
+   3.8
+  ],
+  [
+   "walk",
+   "Skidway bottom",
+   "Snubber top",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Binder / Lower Tote Road",
+   "Snubber top",
+   5.8
+  ],
+  [
+   "walk",
+   "Lower Winter's Way / The Landing",
+   "Snubber top",
+   5.5
+  ],
+  [
+   "walk",
+   "Lower Tote Road",
+   "Snubber top",
+   5.7
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad bottom",
+   "Lower Stub's",
+   5.7
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad bottom",
+   "Sawduster bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Whiffletree SuperQuad bottom",
+   "Moosecalator bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad bottom",
+   "Lower Stub's",
+   6.9
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad bottom",
+   "Sawduster bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Sugarloaf SuperQuad bottom",
+   "Moosecalator bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Skidway bottom",
+   "Lower Stub's",
+   6.1
+  ],
+  [
+   "walk",
+   "Skidway bottom",
+   "Sawduster bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Skidway bottom",
+   "Moosecalator bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Sawduster bottom",
+   "Whiffletree SuperQuad bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Sawduster bottom",
+   "Skidway bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Sawduster top",
+   "Lower Stub's",
+   6.6
+  ],
+  [
+   "walk",
+   "Sawduster top",
+   "Sawduster bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Sawduster top",
+   "Moosecalator bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Moosecalator bottom",
+   "Whiffletree SuperQuad bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Moosecalator bottom",
+   "Skidway bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Moosecalator bottom",
+   "Sawduster top",
+   6.6
+  ],
+  [
+   "walk",
+   "Snubber top",
+   "Sawduster bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Snubber top",
+   "Moosecalator bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Double Runner East bottom",
+   "Sawduster bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Double Runner East bottom",
+   "Moosecalator bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Lower Binder / Lower Tote Road",
+   "Moosecalator bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Lower Tote Road",
+   "Sawduster bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Lower Tote Road",
+   "Moosecalator bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Lower Stub's",
+   "Whiffletree SuperQuad bottom",
+   6.3
+  ]
+ ],
+ "base": "Whiffletree SuperQuad bottom",
+ "info": {}
+}

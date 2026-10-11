@@ -1,0 +1,4676 @@
+{
+ "name": "Mt. Bachelor",
+ "source": "OpenSkiMap ski area df0ebcea3daf2a4ad2c46e99f043d37d57cf1b9b",
+ "origin_lonlat": [
+  -121.68388718167171,
+  43.987128618478124
+ ],
+ "nodes": {
+  "Huckleberry Picker / Kangaroo": [
+   -1628,
+   1099,
+   1900.6
+  ],
+  "Northwest Express bottom": [
+   -2672,
+   1414,
+   1738.4
+  ],
+  "Lava Tube Carpet bottom": [
+   1889,
+   510,
+   1964.7
+  ],
+  "Early Riser bottom": [
+   2003,
+   581,
+   1951.5
+  ],
+  "Ed's Garden / Ed's GArden": [
+   -406,
+   1041,
+   2162.9
+  ],
+  "Outback Express bottom": [
+   -1834,
+   1575,
+   1821.5
+  ],
+  "Pine Cone / Hemlock": [
+   1714,
+   -857,
+   2111.3
+  ],
+  "Pine Cone / Wanoga Way": [
+   2520,
+   -504,
+   1943.9
+  ],
+  "Fish Hawk Wing / Osprey Way": [
+   -2244,
+   1007,
+   1825.9
+  ],
+  "Fish Hawk Wing / Osprey Way 2": [
+   -2557,
+   1297,
+   1749.8
+  ],
+  "Convergence Zone / Cloudchaser Crossover": [
+   795,
+   -897,
+   2344.5
+  ],
+  "Convergence Zone / Flying Dutchman": [
+   1353,
+   -529,
+   2169.1
+  ],
+  "Little Pine top": [
+   778,
+   1117,
+   2022.1
+  ],
+  "Sunshine / DSQ": [
+   993,
+   1224,
+   1971.7
+  ],
+  "Hemlock / Sunrise Getback": [
+   1568,
+   -925,
+   2149.1
+  ],
+  "Hemlock / Wanoga Way": [
+   2114,
+   -830,
+   1999.1
+  ],
+  "Summit Crossover / Olympian": [
+   -129,
+   240,
+   2347.2
+  ],
+  "Sunrise Express top": [
+   931,
+   -257,
+   2217.7
+  ],
+  "Brookie's Run / Sparks Lake Run": [
+   -1592,
+   199,
+   2085.2
+  ],
+  "Brookie's Run / Osprey Way": [
+   -1886,
+   617,
+   1938.0
+  ],
+  "The Point / Gary's Runway": [
+   851,
+   722,
+   2095.0
+  ],
+  "The Point / Skyliner Liftline": [
+   1231,
+   1292,
+   1955.4
+  ],
+  "West Catchline / Sparks Lake Run": [
+   -2507,
+   835,
+   1803.3
+  ],
+  "Cliff's Run / Cliffhanger": [
+   634,
+   188,
+   2219.6
+  ],
+  "Cliff's Run / Dilly Dalley Alley": [
+   1152,
+   308,
+   2088.9
+  ],
+  "Cloudchaser top": [
+   794,
+   -968,
+   2348.2
+  ],
+  "Jet Stream / White Bark": [
+   2029,
+   -558,
+   2027.6
+  ],
+  "Little Pine bottom": [
+   568,
+   1685,
+   1945.1
+  ],
+  "Gary's Runway / DSQ": [
+   523,
+   460,
+   2220.1
+  ],
+  "Atkeson's Zoom / Snapshot Bowl": [
+   -884,
+   239,
+   2264.8
+  ],
+  "Atkeson's Zoom": [
+   -1585,
+   806,
+   1960.0
+  ],
+  "Modo": [
+   -283,
+   385,
+   2349.5
+  ],
+  "Modo / Downunder": [
+   -483,
+   530,
+   2271.7
+  ],
+  "Skyliner Liftline / West Village Getback": [
+   824,
+   824,
+   2088.0
+  ],
+  "Skyliner Express bottom": [
+   1323,
+   1478,
+   1928.9
+  ],
+  "Skyliner Express top": [
+   276,
+   83,
+   2325.2
+  ],
+  "Cliffhanger / Avalanche": [
+   1466,
+   1043,
+   1961.9
+  ],
+  "Northwest Express top": [
+   -859,
+   -314,
+   2461.0
+  ],
+  "Northwest Crossover": [
+   -173,
+   222,
+   2355.5
+  ],
+  "Summit Crossover": [
+   305,
+   184,
+   2309.9
+  ],
+  "Low Pressure / High Pressure": [
+   1918,
+   -232,
+   2018.1
+  ],
+  "Low Pressure / Bluebird": [
+   2098,
+   -36,
+   1974.7
+  ],
+  "Turkey Bowl / West Boundary": [
+   -273,
+   861,
+   2229.3
+  ],
+  "Turkey Bowl / West Boundary 2": [
+   -202,
+   1054,
+   2157.8
+  ],
+  "Summit Express top": [
+   -154,
+   -1081,
+   2724.3
+  ],
+  "Healy Heights / Cloudchaser Crossover": [
+   854,
+   -531,
+   2279.6
+  ],
+  "Northwest Crossover 2": [
+   -641,
+   -114,
+   2433.3
+  ],
+  "Huckleberry Picker": [
+   -1952,
+   1290,
+   1829.0
+  ],
+  "Ed's GArden / Downunder": [
+   -485,
+   637,
+   2264.5
+  ],
+  "White Bark / Sunrise Getback": [
+   1595,
+   -720,
+   2129.3
+  ],
+  "Pine Cone": [
+   2057,
+   -590,
+   2023.6
+  ],
+  "Ed's Garden": [
+   -1296,
+   1642,
+   1876.3
+  ],
+  "Little Canyon / Coffee": [
+   348,
+   1000,
+   2113.4
+  ],
+  "Little Canyon / Tippy Toe": [
+   282,
+   1180,
+   2044.2
+  ],
+  "21 road / Melbourne": [
+   -904,
+   667,
+   2173.1
+  ],
+  "21 road / Osprey Way": [
+   -1239,
+   31,
+   2242.2
+  ],
+  "Old Outback / Downunder West": [
+   -550,
+   585,
+   2262.2
+  ],
+  "Downunder": [
+   -694,
+   939,
+   2142.1
+  ],
+  "East Catchline / Wanoga Way": [
+   2479,
+   -553,
+   1944.0
+  ],
+  "Downunder 2": [
+   -827,
+   1074,
+   2074.2
+  ],
+  "Rooster Tail / Carnival": [
+   1267,
+   -138,
+   2124.4
+  ],
+  "High Pressure / Sunrise Getaback": [
+   1528,
+   -176,
+   2080.8
+  ],
+  "High Pressure / Bluebird": [
+   2165,
+   -46,
+   1968.4
+  ],
+  "Day Break": [
+   1893,
+   558,
+   1964.3
+  ],
+  "Rainbow Chair top": [
+   1311,
+   -215,
+   2128.6
+  ],
+  "Early Riser top": [
+   1796,
+   492,
+   1972.0
+  ],
+  "Sparks Lake Run": [
+   -2390,
+   767,
+   1825.6
+  ],
+  "Milkey Way": [
+   616,
+   1691,
+   1945.5
+  ],
+  "Seaside / West Village Getback": [
+   863,
+   622,
+   2114.0
+  ],
+  "Seaside": [
+   1047,
+   768,
+   2063.6
+  ],
+  "Cloudchaser bottom": [
+   2733,
+   -264,
+   1906.1
+  ],
+  "Canyon / Coffee": [
+   -31,
+   371,
+   2320.8
+  ],
+  "Canyon / Coffee 2": [
+   288,
+   829,
+   2157.6
+  ],
+  "Grotto / Unnamed run": [
+   -76,
+   716,
+   2265.4
+  ],
+  "Grotto / Red Liftline": [
+   38,
+   1148,
+   2090.8
+  ],
+  "Red Chair top": [
+   -244,
+   671,
+   2286.0
+  ],
+  "West Boundary / Leeway": [
+   -247,
+   1181,
+   2108.9
+  ],
+  "Summit Crossover 2": [
+   877,
+   -224,
+   2220.8
+  ],
+  "Red Liftline / Midway": [
+   43,
+   1225,
+   2068.9
+  ],
+  "White Bark": [
+   1840,
+   -662,
+   2073.7
+  ],
+  "Pine Cone 2": [
+   2247,
+   -508,
+   1975.6
+  ],
+  "Dilly Dalley Alley / Marshmallow": [
+   1137,
+   252,
+   2100.0
+  ],
+  "Carnival": [
+   1553,
+   410,
+   2010.2
+  ],
+  "Summit Crossover 3": [
+   389,
+   141,
+   2290.7
+  ],
+  "Avalanche / Marshmallow": [
+   1014,
+   119,
+   2137.9
+  ],
+  "The Point": [
+   991,
+   893,
+   2043.2
+  ],
+  "The Point 2": [
+   1114,
+   1047,
+   1988.7
+  ],
+  "Decaf / Old Skyliner": [
+   385,
+   884,
+   2142.0
+  ],
+  "Decaf / Coffee": [
+   330,
+   962,
+   2127.4
+  ],
+  "Unnamed run / Leeway": [
+   107,
+   1432,
+   2003.9
+  ],
+  "Unnamed run": [
+   304,
+   1562,
+   1960.3
+  ],
+  "Coffee": [
+   -105,
+   326,
+   2336.2
+  ],
+  "Coffee / West Village Getback": [
+   544,
+   1383,
+   1984.6
+  ],
+  "Leeway / Unnamed run": [
+   -129,
+   396,
+   2345.3
+  ],
+  "Leeway": [
+   -152,
+   1241,
+   2094.4
+  ],
+  "Leeway 2": [
+   -340,
+   694,
+   2268.5
+  ],
+  "Cloudchaser Crossover": [
+   822,
+   -710,
+   2324.4
+  ],
+  "I-5": [
+   1345,
+   -267,
+   2125.1
+  ],
+  "DSQ": [
+   744,
+   954,
+   2061.9
+  ],
+  "Olympian Shuttle / Olympian": [
+   258,
+   403,
+   2266.6
+  ],
+  "Northwest Crossover 3": [
+   -828,
+   -249,
+   2454.0
+  ],
+  "Huckleberry Picker / Kangaroo 2": [
+   -1599,
+   964,
+   1924.0
+  ],
+  "Coffee 2": [
+   69,
+   439,
+   2296.3
+  ],
+  "Coffee 3": [
+   248,
+   691,
+   2196.5
+  ],
+  "Carnival / I-5": [
+   1134,
+   -268,
+   2165.8
+  ],
+  "Wallaby / Boomerang": [
+   -875,
+   742,
+   2162.3
+  ],
+  "Downunder 3": [
+   -1035,
+   1310,
+   1963.2
+  ],
+  "Outback Express top": [
+   -269,
+   177,
+   2366.2
+  ],
+  "Red Liftline": [
+   -104,
+   918,
+   2205.5
+  ],
+  "Shorty / Midway": [
+   -26,
+   1210,
+   2080.5
+  ],
+  "Wanoga Way": [
+   1540,
+   -1029,
+   2163.6
+  ],
+  "Pine Marten Express top": [
+   -155,
+   344,
+   2353.2
+  ],
+  "Brookie's Run / Osprey Way 2": [
+   -2114,
+   814,
+   1878.3
+  ],
+  "Kangaroo": [
+   -1193,
+   711,
+   2086.4
+  ],
+  "Avalanche / Marshmallow 2": [
+   1308,
+   457,
+   2047.8
+  ],
+  "Avalanche": [
+   1360,
+   1450,
+   1929.2
+  ],
+  "Triple Nipple": [
+   -230,
+   423,
+   2360.2
+  ],
+  "Downunder 4": [
+   -468,
+   577,
+   2276.9
+  ],
+  "Jet Stream": [
+   1603,
+   -664,
+   2127.0
+  ],
+  "Northwest Crossover 4": [
+   -462,
+   16,
+   2405.1
+  ],
+  "Kangaroo 2": [
+   -553,
+   399,
+   2291.6
+  ],
+  "Jet Stream 2": [
+   1693,
+   -631,
+   2095.9
+  ],
+  "21 road": [
+   -1160,
+   122,
+   2228.8
+  ],
+  "Atkeson's Zoom 2": [
+   -1847,
+   965,
+   1883.8
+  ],
+  "Red Chair bottom": [
+   259,
+   1752,
+   1931.6
+  ],
+  "Coffee 4": [
+   309,
+   918,
+   2143.2
+  ],
+  "Canyon / Tippy Toe": [
+   261,
+   1048,
+   2096.6
+  ],
+  "Tippy Toe / Iceberg": [
+   11,
+   619,
+   2276.0
+  ],
+  "Northwest Crossover 5": [
+   -794,
+   -217,
+   2451.7
+  ],
+  "Aussie Alley / Boomerang": [
+   -1286,
+   1117,
+   1964.2
+  ],
+  "Ed's Garden 2": [
+   -1717,
+   1537,
+   1828.1
+  ],
+  "Pine Marten Express bottom": [
+   432,
+   1662,
+   1941.8
+  ],
+  "Northwest Crossover 6": [
+   -724,
+   -140,
+   2439.1
+  ],
+  "21 road 2": [
+   -1101,
+   219,
+   2215.4
+  ],
+  "Kangaroo 3": [
+   -1077,
+   737,
+   2116.4
+  ],
+  "Kangaroo 4": [
+   -1636,
+   1213,
+   1877.9
+  ],
+  "Unnamed run 3": [
+   389,
+   1659,
+   1941.5
+  ],
+  "Iceberg / Thunderbird": [
+   -127,
+   497,
+   2330.2
+  ],
+  "Iceberg / Thunderbird 2": [
+   75,
+   943,
+   2166.9
+  ],
+  "Jet Stream 3": [
+   982,
+   -918,
+   2299.2
+  ],
+  "Carnival 2": [
+   1519,
+   282,
+   2029.1
+  ],
+  "Alpenglow bottom": [
+   1912,
+   454,
+   1965.8
+  ],
+  "West Village Getback": [
+   676,
+   1116,
+   2030.8
+  ],
+  "Osprey Way": [
+   -1278,
+   66,
+   2220.1
+  ],
+  "Carnival 3": [
+   1477,
+   38,
+   2066.7
+  ],
+  "Ed's Garden 3": [
+   -572,
+   1268,
+   2072.3
+  ],
+  "Ed's Garden 4": [
+   -688,
+   1415,
+   2000.9
+  ],
+  "Downunder West": [
+   -603,
+   609,
+   2250.2
+  ],
+  "Rainbow Chair bottom": [
+   2090,
+   388,
+   1948.6
+  ],
+  "DSQ 2": [
+   912,
+   1062,
+   2009.1
+  ],
+  "Ed's Garden 5": [
+   -1368,
+   1642,
+   1868.4
+  ],
+  "Cloudchaser Crossover 2": [
+   787,
+   -765,
+   2333.2
+  ],
+  "I-5 2": [
+   1890,
+   88,
+   1981.5
+  ],
+  "Flying Dutchman": [
+   1819,
+   -105,
+   2009.7
+  ],
+  "Unnamed run / Thunderbird": [
+   -36,
+   705,
+   2261.3
+  ],
+  "Outback Way": [
+   -246,
+   301,
+   2349.5
+  ],
+  "Leeway 3": [
+   -217,
+   542,
+   2321.2
+  ],
+  "Melbourne": [
+   -765,
+   624,
+   2215.2
+  ],
+  "West Village Getback 2": [
+   894,
+   -18,
+   2179.8
+  ],
+  "Sunrise Express bottom": [
+   1735,
+   559,
+   1972.0
+  ],
+  "Olympian": [
+   352,
+   508,
+   2237.3
+  ],
+  "West Village Getback 3": [
+   589,
+   1342,
+   1994.7
+  ],
+  "Huckleberry Picker 2": [
+   -2298,
+   1457,
+   1768.5
+  ],
+  "Summit Express bottom": [
+   880,
+   -154,
+   2206.9
+  ],
+  "Otter Mountain Carpet bottom": [
+   500,
+   1669,
+   1944.2
+  ],
+  "Otter Mountain Carpet top": [
+   508,
+   1609,
+   1952.1
+  ],
+  "Alpenglow top": [
+   1618,
+   309,
+   2011.1
+  ],
+  "Lava Tube Carpet top": [
+   1787,
+   437,
+   1978.6
+  ],
+  "First Rays Carpet bottom": [
+   1841,
+   526,
+   1969.7
+  ]
+ },
+ "lifts": [
+  [
+   "Summit Express",
+   "Summit Express bottom",
+   "Summit Express top",
+   7.9
+  ],
+  [
+   "Rainbow Chair",
+   "Rainbow Chair bottom",
+   "Rainbow Chair top",
+   10.3
+  ],
+  [
+   "Little Pine",
+   "Little Pine bottom",
+   "Little Pine top",
+   7.3
+  ],
+  [
+   "Otter Mountain Carpet",
+   "Otter Mountain Carpet bottom",
+   "Otter Mountain Carpet top",
+   4.3
+  ],
+  [
+   "Northwest Express",
+   "Northwest Express bottom",
+   "Northwest Express top",
+   11.6
+  ],
+  [
+   "Alpenglow",
+   "Alpenglow bottom",
+   "Alpenglow top",
+   5.4
+  ],
+  [
+   "Pine Marten Express",
+   "Pine Marten Express bottom",
+   "Pine Marten Express top",
+   7.9
+  ],
+  [
+   "Red Chair",
+   "Red Chair bottom",
+   "Red Chair top",
+   11.9
+  ],
+  [
+   "Lava Tube Carpet",
+   "Lava Tube Carpet bottom",
+   "Lava Tube Carpet top",
+   5.2
+  ],
+  [
+   "Sunrise Express",
+   "Sunrise Express bottom",
+   "Sunrise Express top",
+   6.8
+  ],
+  [
+   "Skyliner Express",
+   "Skyliner Express bottom",
+   "Skyliner Express top",
+   8.8
+  ],
+  [
+   "Cloudchaser",
+   "Cloudchaser bottom",
+   "Cloudchaser top",
+   18.2
+  ],
+  [
+   "Early Riser",
+   "Early Riser bottom",
+   "Early Riser top",
+   4.5
+  ],
+  [
+   "Outback Express",
+   "Outback Express bottom",
+   "Outback Express top",
+   10.2
+  ]
+ ],
+ "runs": [
+  [
+   "Huckleberry Picker",
+   "Huckleberry Picker / Kangaroo",
+   "Huckleberry Picker",
+   1.5
+  ],
+  [
+   "Huckleberry Picker",
+   "Huckleberry Picker",
+   "Huckleberry Picker 2",
+   1.6
+  ],
+  [
+   "Huckleberry Picker",
+   "Huckleberry Picker 2",
+   "Northwest Express bottom",
+   1.6
+  ],
+  [
+   "Day Break",
+   "Lava Tube Carpet bottom",
+   "Day Break",
+   0.5
+  ],
+  [
+   "Day Break",
+   "Day Break",
+   "Early Riser bottom",
+   0.5
+  ],
+  [
+   "Ed's Garden",
+   "Ed's Garden / Ed's GArden",
+   "Ed's Garden 3",
+   1.1
+  ],
+  [
+   "Ed's Garden",
+   "Ed's Garden 3",
+   "Ed's Garden 4",
+   0.8
+  ],
+  [
+   "Ed's Garden",
+   "Ed's Garden 4",
+   "Ed's Garden",
+   3.0
+  ],
+  [
+   "Ed's Garden",
+   "Ed's Garden",
+   "Ed's Garden 5",
+   0.5
+  ],
+  [
+   "Ed's Garden",
+   "Ed's Garden 5",
+   "Ed's Garden 2",
+   1.5
+  ],
+  [
+   "Ed's Garden",
+   "Ed's Garden 2",
+   "Outback Express bottom",
+   0.5
+  ],
+  [
+   "Pine Cone",
+   "Pine Cone / Hemlock",
+   "Pine Cone",
+   1.8
+  ],
+  [
+   "Pine Cone",
+   "Pine Cone",
+   "Pine Cone 2",
+   0.9
+  ],
+  [
+   "Pine Cone",
+   "Pine Cone 2",
+   "Pine Cone / Wanoga Way",
+   1.2
+  ],
+  [
+   "Fish Hawk Wing",
+   "Fish Hawk Wing / Osprey Way",
+   "Fish Hawk Wing / Osprey Way 2",
+   2.0
+  ],
+  [
+   "Convergence Zone",
+   "Convergence Zone / Cloudchaser Crossover",
+   "Convergence Zone / Flying Dutchman",
+   2.9
+  ],
+  [
+   "Sunshine",
+   "Little Pine top",
+   "Sunshine / DSQ",
+   0.9
+  ],
+  [
+   "Hemlock",
+   "Hemlock / Sunrise Getback",
+   "Pine Cone / Hemlock",
+   0.6
+  ],
+  [
+   "Hemlock",
+   "Pine Cone / Hemlock",
+   "Hemlock / Wanoga Way",
+   1.8
+  ],
+  [
+   "Summit Crossover",
+   "Summit Crossover / Olympian",
+   "Summit Crossover",
+   1.8
+  ],
+  [
+   "Summit Crossover",
+   "Summit Crossover",
+   "Summit Crossover 3",
+   0.5
+  ],
+  [
+   "Summit Crossover",
+   "Summit Crossover 3",
+   "Summit Crossover 2",
+   2.6
+  ],
+  [
+   "Summit Crossover",
+   "Summit Crossover 2",
+   "Sunrise Express top",
+   0.5
+  ],
+  [
+   "Brookie's Run",
+   "Brookie's Run / Sparks Lake Run",
+   "Brookie's Run / Osprey Way",
+   2.2
+  ],
+  [
+   "The Point",
+   "The Point / Gary's Runway",
+   "The Point",
+   0.9
+  ],
+  [
+   "The Point",
+   "The Point",
+   "The Point 2",
+   0.9
+  ],
+  [
+   "The Point",
+   "The Point 2",
+   "The Point / Skyliner Liftline",
+   1.2
+  ],
+  [
+   "Cliff's Run",
+   "Cliff's Run / Cliffhanger",
+   "Cliff's Run / Dilly Dalley Alley",
+   2.2
+  ],
+  [
+   "Jet Stream",
+   "Cloudchaser top",
+   "Jet Stream 3",
+   0.7
+  ],
+  [
+   "Jet Stream",
+   "Jet Stream 3",
+   "Jet Stream",
+   2.9
+  ],
+  [
+   "Jet Stream",
+   "Jet Stream",
+   "Jet Stream 2",
+   0.5
+  ],
+  [
+   "Jet Stream",
+   "Jet Stream 2",
+   "Jet Stream / White Bark",
+   1.6
+  ],
+  [
+   "Home Run",
+   "Little Pine top",
+   "Little Pine bottom",
+   2.4
+  ],
+  [
+   "Gary's Runway",
+   "Gary's Runway / DSQ",
+   "The Point / Gary's Runway",
+   1.8
+  ],
+  [
+   "Atkeson's Zoom",
+   "Atkeson's Zoom / Snapshot Bowl",
+   "Atkeson's Zoom",
+   4.1
+  ],
+  [
+   "Modo",
+   "Modo",
+   "Modo / Downunder",
+   1.0
+  ],
+  [
+   "Skyliner Liftline",
+   "Skyliner Liftline / West Village Getback",
+   "The Point / Skyliner Liftline",
+   2.5
+  ],
+  [
+   "Skyliner Liftline",
+   "The Point / Skyliner Liftline",
+   "Skyliner Express bottom",
+   0.8
+  ],
+  [
+   "Cliffhanger",
+   "Skyliner Express top",
+   "Cliff's Run / Cliffhanger",
+   1.6
+  ],
+  [
+   "Cliffhanger",
+   "Cliff's Run / Cliffhanger",
+   "Cliffhanger / Avalanche",
+   5.1
+  ],
+  [
+   "Northwest Crossover",
+   "Northwest Express top",
+   "Northwest Crossover 3",
+   0.5
+  ],
+  [
+   "Northwest Crossover",
+   "Northwest Crossover 3",
+   "Northwest Crossover 5",
+   0.5
+  ],
+  [
+   "Northwest Crossover",
+   "Northwest Crossover 5",
+   "Northwest Crossover 6",
+   0.5
+  ],
+  [
+   "Northwest Crossover",
+   "Northwest Crossover 6",
+   "Northwest Crossover 2",
+   0.5
+  ],
+  [
+   "Northwest Crossover",
+   "Northwest Crossover 2",
+   "Northwest Crossover 4",
+   1.1
+  ],
+  [
+   "Northwest Crossover",
+   "Northwest Crossover 4",
+   "Outback Express top",
+   1.2
+  ],
+  [
+   "Northwest Crossover",
+   "Outback Express top",
+   "Northwest Crossover",
+   0.5
+  ],
+  [
+   "DSQ",
+   "Summit Crossover",
+   "Gary's Runway / DSQ",
+   1.4
+  ],
+  [
+   "DSQ",
+   "Gary's Runway / DSQ",
+   "DSQ",
+   2.4
+  ],
+  [
+   "DSQ",
+   "DSQ",
+   "DSQ 2",
+   0.9
+  ],
+  [
+   "DSQ",
+   "DSQ 2",
+   "Sunshine / DSQ",
+   0.8
+  ],
+  [
+   "Low Pressure",
+   "Low Pressure / High Pressure",
+   "Low Pressure / Bluebird",
+   1.0
+  ],
+  [
+   "Turkey Bowl",
+   "Turkey Bowl / West Boundary",
+   "Turkey Bowl / West Boundary 2",
+   0.9
+  ],
+  [
+   "Healy Heights",
+   "Summit Express top",
+   "Healy Heights / Cloudchaser Crossover",
+   5.0
+  ],
+  [
+   "Snapshot Bowl",
+   "Northwest Crossover 2",
+   "Atkeson's Zoom / Snapshot Bowl",
+   1.8
+  ],
+  [
+   "DSQ, Sunshine",
+   "Sunshine / DSQ",
+   "Skyliner Express bottom",
+   1.6
+  ],
+  [
+   "Atkeson's Zoom",
+   "Atkeson's Zoom",
+   "Atkeson's Zoom 2",
+   1.2
+  ],
+  [
+   "Atkeson's Zoom",
+   "Atkeson's Zoom 2",
+   "Huckleberry Picker",
+   1.5
+  ],
+  [
+   "Ed's GArden",
+   "Ed's GArden / Downunder",
+   "Ed's Garden / Ed's GArden",
+   1.7
+  ],
+  [
+   "White Bark",
+   "White Bark / Sunrise Getback",
+   "White Bark",
+   0.9
+  ],
+  [
+   "White Bark",
+   "White Bark",
+   "Jet Stream / White Bark",
+   1.0
+  ],
+  [
+   "White Bark",
+   "Jet Stream / White Bark",
+   "Pine Cone",
+   0.5
+  ],
+  [
+   "Downunder",
+   "Modo / Downunder",
+   "Downunder 4",
+   0.5
+  ],
+  [
+   "Downunder",
+   "Downunder 4",
+   "Ed's GArden / Downunder",
+   0.5
+  ],
+  [
+   "Downunder",
+   "Ed's GArden / Downunder",
+   "Downunder",
+   1.8
+  ],
+  [
+   "Downunder",
+   "Downunder",
+   "Downunder 2",
+   0.9
+  ],
+  [
+   "Downunder",
+   "Downunder 2",
+   "Downunder 3",
+   1.4
+  ],
+  [
+   "Downunder",
+   "Downunder 3",
+   "Ed's Garden",
+   1.9
+  ],
+  [
+   "Little Canyon",
+   "Little Canyon / Coffee",
+   "Little Canyon / Tippy Toe",
+   0.7
+  ],
+  [
+   "21 road",
+   "21 road / Melbourne",
+   "21 road 2",
+   2.1
+  ],
+  [
+   "21 road",
+   "21 road 2",
+   "21 road",
+   0.5
+  ],
+  [
+   "21 road",
+   "21 road",
+   "21 road / Osprey Way",
+   0.5
+  ],
+  [
+   "Old Outback",
+   "Old Outback / Downunder West",
+   "Downunder",
+   1.7
+  ],
+  [
+   "Downunder West",
+   "Modo / Downunder",
+   "Old Outback / Downunder West",
+   0.5
+  ],
+  [
+   "Downunder West",
+   "Old Outback / Downunder West",
+   "Downunder West",
+   0.5
+  ],
+  [
+   "Downunder West",
+   "Downunder West",
+   "Downunder 2",
+   2.2
+  ],
+  [
+   "Rooster Tail",
+   "Sunrise Express top",
+   "Rooster Tail / Carnival",
+   1.5
+  ],
+  [
+   "High Pressure",
+   "High Pressure / Sunrise Getaback",
+   "Low Pressure / High Pressure",
+   1.7
+  ],
+  [
+   "High Pressure",
+   "Low Pressure / High Pressure",
+   "High Pressure / Bluebird",
+   1.4
+  ],
+  [
+   "Early Riser",
+   "Day Break",
+   "Early Riser bottom",
+   0.5
+  ],
+  [
+   "Carnival",
+   "Rainbow Chair top",
+   "Rooster Tail / Carnival",
+   0.5
+  ],
+  [
+   "Carnival",
+   "Rooster Tail / Carnival",
+   "Carnival 3",
+   1.1
+  ],
+  [
+   "Carnival",
+   "Carnival 3",
+   "Carnival 2",
+   1.2
+  ],
+  [
+   "Carnival",
+   "Carnival 2",
+   "Carnival",
+   0.6
+  ],
+  [
+   "Carnival",
+   "Carnival",
+   "Lava Tube Carpet top",
+   1.0
+  ],
+  [
+   "Carnival",
+   "Lava Tube Carpet top",
+   "Early Riser top",
+   0.5
+  ],
+  [
+   "Sparks Lake Run",
+   "Sparks Lake Run",
+   "West Catchline / Sparks Lake Run",
+   0.5
+  ],
+  [
+   "Sparks Lake Run",
+   "West Catchline / Sparks Lake Run",
+   "Northwest Express bottom",
+   2.8
+  ],
+  [
+   "Milkey Way",
+   "Little Pine top",
+   "Milkey Way",
+   2.5
+  ],
+  [
+   "Seaside",
+   "Seaside / West Village Getback",
+   "Seaside",
+   0.9
+  ],
+  [
+   "Wanoga Way",
+   "Summit Express top",
+   "Cloudchaser top",
+   4.2
+  ],
+  [
+   "Wanoga Way",
+   "Cloudchaser top",
+   "Wanoga Way",
+   3.3
+  ],
+  [
+   "Wanoga Way",
+   "Wanoga Way",
+   "Hemlock / Wanoga Way",
+   2.8
+  ],
+  [
+   "Wanoga Way",
+   "Hemlock / Wanoga Way",
+   "East Catchline / Wanoga Way",
+   2.1
+  ],
+  [
+   "Wanoga Way",
+   "East Catchline / Wanoga Way",
+   "Pine Cone / Wanoga Way",
+   0.5
+  ],
+  [
+   "Wanoga Way",
+   "Pine Cone / Wanoga Way",
+   "Cloudchaser bottom",
+   1.4
+  ],
+  [
+   "Canyon",
+   "Canyon / Coffee",
+   "Canyon / Coffee 2",
+   2.4
+  ],
+  [
+   "Grotto",
+   "Grotto / Unnamed run",
+   "Grotto / Red Liftline",
+   2.0
+  ],
+  [
+   "West Boundary",
+   "Red Chair top",
+   "Turkey Bowl / West Boundary",
+   0.7
+  ],
+  [
+   "West Boundary",
+   "Turkey Bowl / West Boundary",
+   "Turkey Bowl / West Boundary 2",
+   0.9
+  ],
+  [
+   "West Boundary",
+   "Turkey Bowl / West Boundary 2",
+   "West Boundary / Leeway",
+   0.6
+  ],
+  [
+   "Morning Glory",
+   "Lava Tube Carpet bottom",
+   "Early Riser bottom",
+   0.5
+  ],
+  [
+   "Cloudchaser Crossover",
+   "Cloudchaser top",
+   "Convergence Zone / Cloudchaser Crossover",
+   0.5
+  ],
+  [
+   "Cloudchaser Crossover",
+   "Convergence Zone / Cloudchaser Crossover",
+   "Cloudchaser Crossover 2",
+   0.6
+  ],
+  [
+   "Cloudchaser Crossover",
+   "Cloudchaser Crossover 2",
+   "Cloudchaser Crossover",
+   0.5
+  ],
+  [
+   "Cloudchaser Crossover",
+   "Cloudchaser Crossover",
+   "Healy Heights / Cloudchaser Crossover",
+   0.9
+  ],
+  [
+   "Cloudchaser Crossover",
+   "Healy Heights / Cloudchaser Crossover",
+   "Summit Crossover 2",
+   1.4
+  ],
+  [
+   "Red Liftline",
+   "Red Chair top",
+   "Red Liftline",
+   1.0
+  ],
+  [
+   "Red Liftline",
+   "Red Liftline",
+   "Grotto / Red Liftline",
+   1.2
+  ],
+  [
+   "Red Liftline",
+   "Grotto / Red Liftline",
+   "Red Liftline / Midway",
+   0.5
+  ],
+  [
+   "Clark's Jay",
+   "White Bark",
+   "Jet Stream / White Bark",
+   0.8
+  ],
+  [
+   "Clark's Jay",
+   "Jet Stream / White Bark",
+   "Pine Cone 2",
+   1.0
+  ],
+  [
+   "Dilly Dalley Alley",
+   "Dilly Dalley Alley / Marshmallow",
+   "Cliff's Run / Dilly Dalley Alley",
+   0.5
+  ],
+  [
+   "Dilly Dalley Alley",
+   "Cliff's Run / Dilly Dalley Alley",
+   "Carnival",
+   1.7
+  ],
+  [
+   "Avalanche",
+   "Summit Crossover 3",
+   "Cliff's Run / Cliffhanger",
+   1.0
+  ],
+  [
+   "Avalanche",
+   "Cliff's Run / Cliffhanger",
+   "Avalanche / Marshmallow",
+   1.7
+  ],
+  [
+   "The Point",
+   "The Point",
+   "The Point 2",
+   0.7
+  ],
+  [
+   "Decaf",
+   "Decaf / Old Skyliner",
+   "Decaf / Coffee",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Leeway",
+   "Unnamed run",
+   0.9
+  ],
+  [
+   "Coffee",
+   "Coffee",
+   "Canyon / Coffee",
+   0.5
+  ],
+  [
+   "Coffee",
+   "Canyon / Coffee",
+   "Coffee 2",
+   0.5
+  ],
+  [
+   "Coffee",
+   "Coffee 2",
+   "Coffee 3",
+   1.5
+  ],
+  [
+   "Coffee",
+   "Coffee 3",
+   "Canyon / Coffee 2",
+   0.6
+  ],
+  [
+   "Coffee",
+   "Canyon / Coffee 2",
+   "Coffee 4",
+   0.5
+  ],
+  [
+   "Coffee",
+   "Coffee 4",
+   "Decaf / Coffee",
+   0.5
+  ],
+  [
+   "Coffee",
+   "Decaf / Coffee",
+   "Little Canyon / Coffee",
+   0.5
+  ],
+  [
+   "Coffee",
+   "Little Canyon / Coffee",
+   "Coffee / West Village Getback",
+   1.9
+  ],
+  [
+   "Leeway",
+   "Leeway / Unnamed run",
+   "Leeway 3",
+   0.6
+  ],
+  [
+   "Leeway",
+   "Leeway 3",
+   "Leeway 2",
+   0.9
+  ],
+  [
+   "Leeway",
+   "Leeway 2",
+   "Ed's Garden / Ed's GArden",
+   1.6
+  ],
+  [
+   "Leeway",
+   "Ed's Garden / Ed's GArden",
+   "West Boundary / Leeway",
+   0.9
+  ],
+  [
+   "Leeway",
+   "West Boundary / Leeway",
+   "Leeway",
+   0.5
+  ],
+  [
+   "Beverley Hills",
+   "Summit Express top",
+   "Summit Crossover 2",
+   5.9
+  ],
+  [
+   "Unnamed run",
+   "Red Chair top",
+   "Leeway 2",
+   0.5
+  ],
+  [
+   "I-5",
+   "Cloudchaser Crossover",
+   "I-5",
+   2.9
+  ],
+  [
+   "West Village Getback",
+   "Sunrise Express top",
+   "Summit Crossover 2",
+   0.5
+  ],
+  [
+   "West Village Getback",
+   "Summit Crossover 2",
+   "Summit Express bottom",
+   0.5
+  ],
+  [
+   "West Village Getback",
+   "Summit Express bottom",
+   "West Village Getback 2",
+   0.6
+  ],
+  [
+   "West Village Getback",
+   "West Village Getback 2",
+   "Seaside / West Village Getback",
+   2.9
+  ],
+  [
+   "West Village Getback",
+   "Seaside / West Village Getback",
+   "The Point / Gary's Runway",
+   0.5
+  ],
+  [
+   "West Village Getback",
+   "The Point / Gary's Runway",
+   "Skyliner Liftline / West Village Getback",
+   0.5
+  ],
+  [
+   "West Village Getback",
+   "Skyliner Liftline / West Village Getback",
+   "DSQ",
+   0.7
+  ],
+  [
+   "Olympian Shuttle",
+   "Summit Crossover",
+   "Olympian Shuttle / Olympian",
+   0.8
+  ],
+  [
+   "Osprey Way",
+   "Northwest Crossover 3",
+   "21 road / Osprey Way",
+   2.1
+  ],
+  [
+   "Osprey Way",
+   "21 road / Osprey Way",
+   "Osprey Way",
+   0.5
+  ],
+  [
+   "Osprey Way",
+   "Osprey Way",
+   "Brookie's Run / Osprey Way",
+   3.8
+  ],
+  [
+   "Huckleberry Picker",
+   "Atkeson's Zoom",
+   "Huckleberry Picker / Kangaroo 2",
+   0.6
+  ],
+  [
+   "Coffee West",
+   "Coffee 2",
+   "Coffee 3",
+   1.3
+  ],
+  [
+   "Carnival",
+   "Healy Heights / Cloudchaser Crossover",
+   "Carnival / I-5",
+   1.6
+  ],
+  [
+   "Wallaby",
+   "Wallaby / Boomerang",
+   "Downunder 3",
+   2.6
+  ],
+  [
+   "Kangaroo",
+   "Outback Express top",
+   "Kangaroo 2",
+   1.5
+  ],
+  [
+   "Kangaroo",
+   "Kangaroo 2",
+   "Kangaroo 3",
+   2.8
+  ],
+  [
+   "Kangaroo",
+   "Kangaroo 3",
+   "Kangaroo",
+   0.5
+  ],
+  [
+   "Kangaroo",
+   "Kangaroo",
+   "Huckleberry Picker / Kangaroo 2",
+   2.2
+  ],
+  [
+   "Kangaroo",
+   "Huckleberry Picker / Kangaroo 2",
+   "Huckleberry Picker / Kangaroo",
+   0.6
+  ],
+  [
+   "Kangaroo",
+   "Huckleberry Picker / Kangaroo",
+   "Kangaroo 4",
+   0.5
+  ],
+  [
+   "Kangaroo",
+   "Kangaroo 4",
+   "Outback Express bottom",
+   1.8
+  ],
+  [
+   "Shorty",
+   "Red Liftline",
+   "Shorty / Midway",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Pine Marten Express top",
+   "Leeway / Unnamed run",
+   0.5
+  ],
+  [
+   "Brookie's Run",
+   "Brookie's Run / Osprey Way 2",
+   "Northwest Express bottom",
+   3.9
+  ],
+  [
+   "Snapshot Alley",
+   "Atkeson's Zoom / Snapshot Bowl",
+   "Kangaroo",
+   2.4
+  ],
+  [
+   "Avalanche",
+   "Avalanche / Marshmallow 2",
+   "Cliffhanger / Avalanche",
+   2.6
+  ],
+  [
+   "Avalanche",
+   "Cliffhanger / Avalanche",
+   "Avalanche",
+   2.0
+  ],
+  [
+   "Triple Nipple",
+   "Triple Nipple",
+   "Downunder 4",
+   1.1
+  ],
+  [
+   "Sunrise Getback",
+   "Wanoga Way",
+   "Hemlock / Sunrise Getback",
+   0.5
+  ],
+  [
+   "Sunrise Getback",
+   "Hemlock / Sunrise Getback",
+   "White Bark / Sunrise Getback",
+   0.9
+  ],
+  [
+   "Sunrise Getback",
+   "White Bark / Sunrise Getback",
+   "Jet Stream",
+   0.5
+  ],
+  [
+   "Chadalak",
+   "Northwest Crossover 4",
+   "Kangaroo 2",
+   1.7
+  ],
+  [
+   "Cirrus",
+   "Jet Stream 2",
+   "Cloudchaser bottom",
+   4.7
+  ],
+  [
+   "Osprey Way",
+   "Brookie's Run / Osprey Way 2",
+   "Fish Hawk Wing / Osprey Way",
+   0.9
+  ],
+  [
+   "Osprey Way",
+   "Fish Hawk Wing / Osprey Way",
+   "Fish Hawk Wing / Osprey Way 2",
+   1.8
+  ],
+  [
+   "Osprey Way",
+   "Fish Hawk Wing / Osprey Way 2",
+   "Northwest Express bottom",
+   0.7
+  ],
+  [
+   "Devil's Backbone",
+   "21 road",
+   "Atkeson's Zoom 2",
+   4.9
+  ],
+  [
+   "Leeway",
+   "Leeway",
+   "Unnamed run / Leeway",
+   1.3
+  ],
+  [
+   "Leeway",
+   "Unnamed run / Leeway",
+   "Red Chair bottom",
+   1.7
+  ],
+  [
+   "Brookie's Run, Osprey Way",
+   "Brookie's Run / Osprey Way",
+   "Brookie's Run / Osprey Way 2",
+   1.2
+  ],
+  [
+   "Green Flash",
+   "Lava Tube Carpet bottom",
+   "Early Riser bottom",
+   0.6
+  ],
+  [
+   "Canyon",
+   "Coffee 4",
+   "Decaf / Coffee",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Decaf / Coffee",
+   "Canyon / Tippy Toe",
+   0.5
+  ],
+  [
+   "Tippy Toe",
+   "Tippy Toe / Iceberg",
+   "Canyon / Tippy Toe",
+   2.1
+  ],
+  [
+   "Tippy Toe",
+   "Canyon / Tippy Toe",
+   "Little Canyon / Tippy Toe",
+   0.6
+  ],
+  [
+   "Devil's West",
+   "Northwest Crossover 5",
+   "21 road",
+   2.2
+  ],
+  [
+   "Aussie Alley",
+   "Aussie Alley / Boomerang",
+   "Ed's Garden 2",
+   2.6
+  ],
+  [
+   "West Village Getback",
+   "DSQ",
+   "West Village Getback",
+   0.6
+  ],
+  [
+   "West Village Getback",
+   "West Village Getback",
+   "West Village Getback 3",
+   1.1
+  ],
+  [
+   "West Village Getback",
+   "West Village Getback 3",
+   "Coffee / West Village Getback",
+   0.5
+  ],
+  [
+   "West Village Getback",
+   "Coffee / West Village Getback",
+   "Pine Marten Express bottom",
+   1.3
+  ],
+  [
+   "Devil's East",
+   "Northwest Crossover 6",
+   "21 road 2",
+   2.2
+  ],
+  [
+   "Bushwacker",
+   "Kangaroo 3",
+   "Kangaroo 4",
+   3.2
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Unnamed run 3",
+   0.6
+  ],
+  [
+   "Boomerang",
+   "Aussie Alley / Boomerang",
+   "Outback Express bottom",
+   3.0
+  ],
+  [
+   "Iceberg",
+   "Iceberg / Thunderbird",
+   "Tippy Toe / Iceberg",
+   0.7
+  ],
+  [
+   "Iceberg",
+   "Tippy Toe / Iceberg",
+   "Iceberg / Thunderbird 2",
+   1.5
+  ],
+  [
+   "Sundog",
+   "Jet Stream 3",
+   "White Bark / Sunrise Getback",
+   2.8
+  ],
+  [
+   "Alpenglow",
+   "Carnival 2",
+   "Alpenglow top",
+   0.5
+  ],
+  [
+   "Alpenglow",
+   "Alpenglow top",
+   "Lava Tube Carpet top",
+   0.9
+  ],
+  [
+   "Alpenglow",
+   "Lava Tube Carpet top",
+   "Alpenglow bottom",
+   0.5
+  ],
+  [
+   "Olympian",
+   "Summit Crossover / Olympian",
+   "Olympian Shuttle / Olympian",
+   1.5
+  ],
+  [
+   "Olympian",
+   "Olympian Shuttle / Olympian",
+   "Olympian",
+   0.6
+  ],
+  [
+   "Olympian",
+   "Olympian",
+   "West Village Getback",
+   3.2
+  ],
+  [
+   "Sparks Lake Run",
+   "Osprey Way",
+   "Brookie's Run / Sparks Lake Run",
+   1.4
+  ],
+  [
+   "Sparks Lake Run",
+   "Brookie's Run / Sparks Lake Run",
+   "Sparks Lake Run",
+   4.3
+  ],
+  [
+   "Sunrise Getaback",
+   "Jet Stream",
+   "High Pressure / Sunrise Getaback",
+   2.1
+  ],
+  [
+   "Sunrise Getaback",
+   "High Pressure / Sunrise Getaback",
+   "Carnival 3",
+   0.9
+  ],
+  [
+   "Ed's Garden",
+   "Ed's Garden 3",
+   "Ed's Garden 4",
+   0.9
+  ],
+  [
+   "Melbourne",
+   "Downunder West",
+   "Melbourne",
+   0.6
+  ],
+  [
+   "Melbourne",
+   "Melbourne",
+   "21 road / Melbourne",
+   0.7
+  ],
+  [
+   "Melbourne",
+   "21 road / Melbourne",
+   "Kangaroo 3",
+   0.9
+  ],
+  [
+   "I-5",
+   "Carnival / I-5",
+   "Rainbow Chair top",
+   0.7
+  ],
+  [
+   "I-5",
+   "Rainbow Chair top",
+   "I-5",
+   0.5
+  ],
+  [
+   "I-5",
+   "I-5",
+   "High Pressure / Sunrise Getaback",
+   0.9
+  ],
+  [
+   "I-5",
+   "High Pressure / Sunrise Getaback",
+   "I-5 2",
+   1.9
+  ],
+  [
+   "I-5",
+   "I-5 2",
+   "Rainbow Chair bottom",
+   1.5
+  ],
+  [
+   "Carnival",
+   "Carnival / I-5",
+   "Rooster Tail / Carnival",
+   0.7
+  ],
+  [
+   "Corkscrew",
+   "Skyliner Liftline / West Village Getback",
+   "DSQ 2",
+   1.0
+  ],
+  [
+   "Downunder West",
+   "Downunder 3",
+   "Ed's Garden 5",
+   2.0
+  ],
+  [
+   "Flying Dutchman",
+   "Cloudchaser Crossover 2",
+   "Cloudchaser Crossover",
+   0.5
+  ],
+  [
+   "Flying Dutchman",
+   "Cloudchaser Crossover",
+   "Convergence Zone / Flying Dutchman",
+   2.3
+  ],
+  [
+   "Flying Dutchman",
+   "Convergence Zone / Flying Dutchman",
+   "Flying Dutchman",
+   2.8
+  ],
+  [
+   "Flying Dutchman",
+   "Flying Dutchman",
+   "I-5 2",
+   0.9
+  ],
+  [
+   "Bluebird",
+   "Flying Dutchman",
+   "Low Pressure / Bluebird",
+   1.1
+  ],
+  [
+   "Bluebird",
+   "Low Pressure / Bluebird",
+   "High Pressure / Bluebird",
+   0.5
+  ],
+  [
+   "Bluebird",
+   "High Pressure / Bluebird",
+   "Cloudchaser bottom",
+   2.6
+  ],
+  [
+   "Unnamed run",
+   "Red Chair top",
+   "Grotto / Unnamed run",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Grotto / Unnamed run",
+   "Unnamed run / Thunderbird",
+   0.5
+  ],
+  [
+   "Outback Way",
+   "Outback Way",
+   "Modo / Downunder",
+   1.5
+  ],
+  [
+   "Thunderbird",
+   "Leeway / Unnamed run",
+   "Iceberg / Thunderbird",
+   0.5
+  ],
+  [
+   "Thunderbird",
+   "Iceberg / Thunderbird",
+   "Grotto / Unnamed run",
+   1.1
+  ],
+  [
+   "Thunderbird",
+   "Grotto / Unnamed run",
+   "Unnamed run / Thunderbird",
+   0.5
+  ],
+  [
+   "Thunderbird",
+   "Unnamed run / Thunderbird",
+   "Iceberg / Thunderbird 2",
+   1.0
+  ],
+  [
+   "Thunderbird",
+   "Iceberg / Thunderbird 2",
+   "Little Canyon / Tippy Toe",
+   1.5
+  ],
+  [
+   "Thunderbird",
+   "Little Canyon / Tippy Toe",
+   "Pine Marten Express bottom",
+   2.2
+  ],
+  [
+   "I-5",
+   "Sunrise Express top",
+   "Carnival / I-5",
+   1.0
+  ],
+  [
+   "Red Shuttle",
+   "Leeway 3",
+   "Red Chair top",
+   0.6
+  ],
+  [
+   "Boomerang",
+   "Melbourne",
+   "Wallaby / Boomerang",
+   0.6
+  ],
+  [
+   "Boomerang",
+   "Wallaby / Boomerang",
+   "Aussie Alley / Boomerang",
+   2.5
+  ],
+  [
+   "Marshmallow",
+   "West Village Getback 2",
+   "Avalanche / Marshmallow",
+   0.7
+  ],
+  [
+   "Marshmallow",
+   "Avalanche / Marshmallow",
+   "Dilly Dalley Alley / Marshmallow",
+   0.8
+  ],
+  [
+   "Marshmallow",
+   "Dilly Dalley Alley / Marshmallow",
+   "Cliff's Run / Dilly Dalley Alley",
+   0.5
+  ],
+  [
+   "Marshmallow",
+   "Cliff's Run / Dilly Dalley Alley",
+   "Avalanche / Marshmallow 2",
+   0.9
+  ],
+  [
+   "Marshmallow",
+   "Avalanche / Marshmallow 2",
+   "Sunrise Express bottom",
+   2.0
+  ],
+  [
+   "Midway",
+   "Leeway",
+   "Shorty / Midway",
+   0.5
+  ],
+  [
+   "Midway",
+   "Shorty / Midway",
+   "Red Liftline / Midway",
+   0.5
+  ],
+  [
+   "Old Skyliner",
+   "Olympian",
+   "Decaf / Old Skyliner",
+   1.5
+  ],
+  [
+   "Old Skyliner",
+   "Decaf / Old Skyliner",
+   "West Village Getback 3",
+   2.3
+  ],
+  [
+   "Northwest Connection",
+   "Outback Express bottom",
+   "Huckleberry Picker 2",
+   1.8
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Northwest Express bottom",
+   "Fish Hawk Wing / Osprey Way 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet bottom",
+   "Early Riser bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet bottom",
+   "Day Break",
+   0.7
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet bottom",
+   "Early Riser top",
+   1.3
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet bottom",
+   "Alpenglow bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet bottom",
+   "Rainbow Chair bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet bottom",
+   "Sunrise Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet bottom",
+   "Lava Tube Carpet top",
+   1.7
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet bottom",
+   "First Rays Carpet bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Early Riser bottom",
+   "Lava Tube Carpet bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Early Riser bottom",
+   "Day Break",
+   1.6
+  ],
+  [
+   "walk",
+   "Early Riser bottom",
+   "Alpenglow bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Early Riser bottom",
+   "Rainbow Chair bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Outback Express bottom",
+   "Ed's Garden 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Fish Hawk Wing / Osprey Way 2",
+   "Northwest Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Convergence Zone / Cloudchaser Crossover",
+   "Cloudchaser top",
+   1.0
+  ],
+  [
+   "walk",
+   "Little Pine top",
+   "Sunshine / DSQ",
+   3.3
+  ],
+  [
+   "walk",
+   "Little Pine top",
+   "West Village Getback",
+   1.4
+  ],
+  [
+   "walk",
+   "Little Pine top",
+   "DSQ 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Pine Marten Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "Summit Crossover 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "Carnival / I-5",
+   2.8
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "West Village Getback 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "Summit Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "The Point / Skyliner Liftline",
+   "Skyliner Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Cloudchaser top",
+   "Convergence Zone / Cloudchaser Crossover",
+   1.0
+  ],
+  [
+   "walk",
+   "Cloudchaser top",
+   "Jet Stream 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Cloudchaser top",
+   "Cloudchaser Crossover 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Little Pine bottom",
+   "Milkey Way",
+   0.7
+  ],
+  [
+   "walk",
+   "Little Pine bottom",
+   "Pine Marten Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Little Pine bottom",
+   "Unnamed run 3",
+   2.5
+  ],
+  [
+   "walk",
+   "Little Pine bottom",
+   "Otter Mountain Carpet bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Little Pine bottom",
+   "Otter Mountain Carpet top",
+   1.3
+  ],
+  [
+   "walk",
+   "Modo",
+   "Pine Marten Express top",
+   1.9
+  ],
+  [
+   "walk",
+   "Skyliner Express bottom",
+   "Avalanche",
+   0.6
+  ],
+  [
+   "walk",
+   "Skyliner Express top",
+   "Summit Crossover",
+   1.5
+  ],
+  [
+   "walk",
+   "Skyliner Express top",
+   "Summit Crossover 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Northwest Express top",
+   "Northwest Crossover 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Northwest Express top",
+   "Northwest Crossover 5",
+   1.6
+  ],
+  [
+   "walk",
+   "Northwest Express top",
+   "Northwest Crossover 6",
+   3.1
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Summit Crossover / Olympian",
+   0.7
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Modo",
+   2.7
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Canyon / Coffee",
+   2.9
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Coffee",
+   1.7
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Leeway / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Outback Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Pine Marten Express top",
+   1.7
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Triple Nipple",
+   2.9
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Outback Way",
+   1.5
+  ],
+  [
+   "walk",
+   "Rooster Tail / Carnival",
+   "Rainbow Chair top",
+   1.2
+  ],
+  [
+   "walk",
+   "Day Break",
+   "Lava Tube Carpet bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Day Break",
+   "Early Riser bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Day Break",
+   "Early Riser top",
+   1.6
+  ],
+  [
+   "walk",
+   "Day Break",
+   "Alpenglow bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Day Break",
+   "Sunrise Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Day Break",
+   "Lava Tube Carpet top",
+   2.2
+  ],
+  [
+   "walk",
+   "Day Break",
+   "First Rays Carpet bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Rainbow Chair top",
+   "Rooster Tail / Carnival",
+   1.2
+  ],
+  [
+   "walk",
+   "Rainbow Chair top",
+   "High Pressure / Sunrise Getaback",
+   3.1
+  ],
+  [
+   "walk",
+   "Rainbow Chair top",
+   "I-5",
+   0.9
+  ],
+  [
+   "walk",
+   "Early Riser top",
+   "Lava Tube Carpet bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Early Riser top",
+   "Early Riser bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Early Riser top",
+   "Day Break",
+   1.6
+  ],
+  [
+   "walk",
+   "Early Riser top",
+   "Alpenglow bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Early Riser top",
+   "Sunrise Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Early Riser top",
+   "Lava Tube Carpet top",
+   0.8
+  ],
+  [
+   "walk",
+   "Early Riser top",
+   "First Rays Carpet bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Milkey Way",
+   "Little Pine bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Milkey Way",
+   "Pine Marten Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Milkey Way",
+   "Unnamed run 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Milkey Way",
+   "Otter Mountain Carpet bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Milkey Way",
+   "Otter Mountain Carpet top",
+   1.9
+  ],
+  [
+   "walk",
+   "Seaside",
+   "The Point",
+   1.9
+  ],
+  [
+   "walk",
+   "Red Chair top",
+   "Turkey Bowl / West Boundary",
+   2.7
+  ],
+  [
+   "walk",
+   "Red Chair top",
+   "Ed's GArden / Downunder",
+   3.4
+  ],
+  [
+   "walk",
+   "Red Chair top",
+   "Grotto / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Red Chair top",
+   "Leeway 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Red Chair top",
+   "Downunder 4",
+   3.4
+  ],
+  [
+   "walk",
+   "Red Chair top",
+   "Unnamed run / Thunderbird",
+   2.9
+  ],
+  [
+   "walk",
+   "Summit Crossover 2",
+   "Sunrise Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Summit Crossover 2",
+   "Summit Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Red Liftline / Midway",
+   "Little Canyon / Tippy Toe",
+   3.4
+  ],
+  [
+   "walk",
+   "Red Liftline / Midway",
+   "Unnamed run / Leeway",
+   3.0
+  ],
+  [
+   "walk",
+   "Red Liftline / Midway",
+   "Shorty / Midway",
+   1.0
+  ],
+  [
+   "walk",
+   "Carnival",
+   "Sunrise Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Carnival",
+   "Alpenglow top",
+   1.7
+  ],
+  [
+   "walk",
+   "Carnival",
+   "Lava Tube Carpet top",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Red Chair bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Pine Marten Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Otter Mountain Carpet bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Otter Mountain Carpet top",
+   2.9
+  ],
+  [
+   "walk",
+   "Coffee / West Village Getback",
+   "Otter Mountain Carpet top",
+   3.2
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Pine Marten Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "I-5",
+   "Rainbow Chair top",
+   0.9
+  ],
+  [
+   "walk",
+   "DSQ",
+   "Little Pine top",
+   2.3
+  ],
+  [
+   "walk",
+   "Northwest Crossover 3",
+   "Northwest Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Carnival / I-5",
+   "Rainbow Chair top",
+   2.6
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Summit Crossover / Olympian",
+   2.1
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Modo",
+   2.9
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Northwest Crossover",
+   1.5
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Coffee",
+   3.1
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Pine Marten Express top",
+   2.8
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Triple Nipple",
+   3.5
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Outback Way",
+   1.8
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Summit Crossover / Olympian",
+   1.5
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Modo",
+   1.9
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Northwest Crossover",
+   1.7
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Canyon / Coffee",
+   1.8
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Coffee",
+   0.7
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Leeway / Unnamed run",
+   0.8
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Coffee 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Outback Express top",
+   2.8
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Triple Nipple",
+   1.5
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Iceberg / Thunderbird",
+   2.2
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Outback Way",
+   1.4
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Leeway 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Avalanche",
+   "Skyliner Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Red Chair top",
+   3.5
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Outback Express top",
+   3.5
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Pine Marten Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Downunder 4",
+   "Red Chair top",
+   3.4
+  ],
+  [
+   "walk",
+   "Red Chair bottom",
+   "Pine Marten Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Red Chair bottom",
+   "Unnamed run 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Northwest Crossover 5",
+   "Northwest Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Ed's Garden 2",
+   "Outback Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Pine Marten Express bottom",
+   "Little Pine bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Pine Marten Express bottom",
+   "Milkey Way",
+   2.6
+  ],
+  [
+   "walk",
+   "Pine Marten Express bottom",
+   "Red Chair bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Pine Marten Express bottom",
+   "Unnamed run 3",
+   0.6
+  ],
+  [
+   "walk",
+   "Pine Marten Express bottom",
+   "Otter Mountain Carpet bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Pine Marten Express bottom",
+   "Otter Mountain Carpet top",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Little Pine bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Milkey Way",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Red Chair bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Pine Marten Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Otter Mountain Carpet bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Otter Mountain Carpet top",
+   1.8
+  ],
+  [
+   "walk",
+   "Iceberg / Thunderbird",
+   "Red Chair top",
+   2.9
+  ],
+  [
+   "walk",
+   "Carnival 2",
+   "Alpenglow top",
+   1.4
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Lava Tube Carpet bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Early Riser bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Day Break",
+   1.5
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Early Riser top",
+   1.7
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Rainbow Chair bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Sunrise Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "Lava Tube Carpet top",
+   1.8
+  ],
+  [
+   "walk",
+   "Alpenglow bottom",
+   "First Rays Carpet bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "West Village Getback",
+   "Little Pine top",
+   1.4
+  ],
+  [
+   "walk",
+   "Rainbow Chair bottom",
+   "Early Riser bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "DSQ 2",
+   "Little Pine top",
+   2.0
+  ],
+  [
+   "walk",
+   "Cloudchaser Crossover 2",
+   "Cloudchaser top",
+   2.8
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Pine Marten Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Leeway 3",
+   "Red Chair top",
+   1.8
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Lava Tube Carpet bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Day Break",
+   2.2
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Early Riser top",
+   1.3
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Alpenglow bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Lava Tube Carpet top",
+   1.9
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "First Rays Carpet bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Summit Express bottom",
+   "Sunrise Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Summit Express bottom",
+   "Summit Crossover 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Summit Express bottom",
+   "West Village Getback 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet bottom",
+   "Little Pine bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet bottom",
+   "Milkey Way",
+   1.6
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet bottom",
+   "Pine Marten Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet bottom",
+   "Unnamed run 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet bottom",
+   "Otter Mountain Carpet top",
+   0.8
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet top",
+   "Little Pine bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet top",
+   "Milkey Way",
+   1.9
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet top",
+   "Unnamed run",
+   2.9
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet top",
+   "Pine Marten Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet top",
+   "Unnamed run 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet top",
+   "Otter Mountain Carpet bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Carnival",
+   1.7
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Lava Tube Carpet top",
+   2.9
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet top",
+   "Lava Tube Carpet bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet top",
+   "Day Break",
+   2.2
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet top",
+   "Early Riser top",
+   0.8
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet top",
+   "Alpenglow bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet top",
+   "Sunrise Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet top",
+   "First Rays Carpet bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "First Rays Carpet bottom",
+   "Lava Tube Carpet bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "First Rays Carpet bottom",
+   "Early Riser bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "First Rays Carpet bottom",
+   "Day Break",
+   0.8
+  ],
+  [
+   "walk",
+   "First Rays Carpet bottom",
+   "Early Riser top",
+   0.8
+  ],
+  [
+   "walk",
+   "First Rays Carpet bottom",
+   "Alpenglow bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "First Rays Carpet bottom",
+   "Sunrise Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "First Rays Carpet bottom",
+   "Lava Tube Carpet top",
+   1.4
+  ],
+  [
+   "walk",
+   "Early Riser bottom",
+   "Early Riser top",
+   3.2
+  ],
+  [
+   "walk",
+   "Early Riser bottom",
+   "Sunrise Express bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Early Riser bottom",
+   "Lava Tube Carpet top",
+   3.6
+  ],
+  [
+   "walk",
+   "Early Riser bottom",
+   "First Rays Carpet bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Day Break",
+   "Rainbow Chair bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Early Riser top",
+   "Rainbow Chair bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Early Riser bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Rainbow Chair bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet top",
+   "Early Riser bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Lava Tube Carpet top",
+   "Rainbow Chair bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "First Rays Carpet bottom",
+   "Rainbow Chair bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Rainbow Chair bottom",
+   "Lava Tube Carpet bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Rainbow Chair bottom",
+   "Day Break",
+   4.5
+  ],
+  [
+   "walk",
+   "Rainbow Chair bottom",
+   "Alpenglow bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Rainbow Chair bottom",
+   "Early Riser top",
+   6.1
+  ],
+  [
+   "walk",
+   "Rainbow Chair bottom",
+   "Lava Tube Carpet top",
+   6.5
+  ],
+  [
+   "walk",
+   "Rainbow Chair bottom",
+   "First Rays Carpet bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "DSQ",
+   "Sunshine / DSQ",
+   5.6
+  ],
+  [
+   "walk",
+   "DSQ",
+   "West Village Getback",
+   3.7
+  ],
+  [
+   "walk",
+   "DSQ",
+   "DSQ 2",
+   4.3
+  ],
+  [
+   "walk",
+   "West Village Getback",
+   "Sunshine / DSQ",
+   4.7
+  ],
+  [
+   "walk",
+   "West Village Getback",
+   "DSQ 2",
+   3.4
+  ],
+  [
+   "walk",
+   "DSQ 2",
+   "Sunshine / DSQ",
+   5.3
+  ],
+  [
+   "walk",
+   "DSQ 2",
+   "West Village Getback",
+   3.4
+  ],
+  [
+   "walk",
+   "Summit Crossover 2",
+   "Carnival / I-5",
+   3.7
+  ],
+  [
+   "walk",
+   "Summit Crossover 2",
+   "West Village Getback 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Summit Express bottom",
+   "Carnival / I-5",
+   4.4
+  ],
+  [
+   "walk",
+   "Convergence Zone / Cloudchaser Crossover",
+   "Jet Stream 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Convergence Zone / Cloudchaser Crossover",
+   "Cloudchaser Crossover 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Cloudchaser Crossover 2",
+   "Convergence Zone / Cloudchaser Crossover",
+   3.8
+  ],
+  [
+   "walk",
+   "Cloudchaser Crossover 2",
+   "Jet Stream 3",
+   5.5
+  ],
+  [
+   "walk",
+   "The Point / Skyliner Liftline",
+   "Avalanche",
+   3.5
+  ],
+  [
+   "walk",
+   "Northwest Crossover 3",
+   "Northwest Crossover 5",
+   2.6
+  ],
+  [
+   "walk",
+   "Northwest Crossover 3",
+   "Northwest Crossover 6",
+   4.1
+  ],
+  [
+   "walk",
+   "Northwest Crossover 5",
+   "Northwest Crossover 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Northwest Crossover 5",
+   "Northwest Crossover 6",
+   4.7
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Canyon / Coffee",
+   4.3
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Leeway / Unnamed run",
+   3.6
+  ],
+  [
+   "walk",
+   "Rainbow Chair bottom",
+   "Sunrise Express bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Rooster Tail / Carnival",
+   "High Pressure / Sunrise Getaback",
+   4.3
+  ],
+  [
+   "walk",
+   "Rooster Tail / Carnival",
+   "I-5",
+   2.1
+  ],
+  [
+   "walk",
+   "I-5",
+   "Rooster Tail / Carnival",
+   2.1
+  ],
+  [
+   "walk",
+   "I-5",
+   "High Pressure / Sunrise Getaback",
+   3.9
+  ],
+  [
+   "walk",
+   "Carnival / I-5",
+   "Rooster Tail / Carnival",
+   3.8
+  ],
+  [
+   "walk",
+   "Carnival / I-5",
+   "High Pressure / Sunrise Getaback",
+   5.6
+  ],
+  [
+   "walk",
+   "Carnival / I-5",
+   "I-5",
+   3.4
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Turkey Bowl / West Boundary",
+   6.1
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Ed's GArden / Downunder",
+   6.8
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Grotto / Unnamed run",
+   5.9
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Leeway 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Downunder 4",
+   6.8
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Unnamed run / Thunderbird",
+   6.4
+  ],
+  [
+   "walk",
+   "Downunder 4",
+   "Turkey Bowl / West Boundary",
+   6.0
+  ],
+  [
+   "walk",
+   "Downunder 4",
+   "Ed's GArden / Downunder",
+   6.7
+  ],
+  [
+   "walk",
+   "Downunder 4",
+   "Grotto / Unnamed run",
+   5.8
+  ],
+  [
+   "walk",
+   "Downunder 4",
+   "Leeway 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Downunder 4",
+   "Unnamed run / Thunderbird",
+   6.3
+  ],
+  [
+   "walk",
+   "Iceberg / Thunderbird",
+   "Turkey Bowl / West Boundary",
+   5.6
+  ],
+  [
+   "walk",
+   "Iceberg / Thunderbird",
+   "Ed's GArden / Downunder",
+   6.3
+  ],
+  [
+   "walk",
+   "Iceberg / Thunderbird",
+   "Grotto / Unnamed run",
+   5.3
+  ],
+  [
+   "walk",
+   "Iceberg / Thunderbird",
+   "Leeway 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Iceberg / Thunderbird",
+   "Downunder 4",
+   6.3
+  ],
+  [
+   "walk",
+   "Iceberg / Thunderbird",
+   "Unnamed run / Thunderbird",
+   5.8
+  ],
+  [
+   "walk",
+   "Leeway 3",
+   "Turkey Bowl / West Boundary",
+   4.5
+  ],
+  [
+   "walk",
+   "Leeway 3",
+   "Ed's GArden / Downunder",
+   5.2
+  ],
+  [
+   "walk",
+   "Leeway 3",
+   "Grotto / Unnamed run",
+   4.3
+  ],
+  [
+   "walk",
+   "Leeway 3",
+   "Leeway 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Leeway 3",
+   "Downunder 4",
+   5.2
+  ],
+  [
+   "walk",
+   "Leeway 3",
+   "Unnamed run / Thunderbird",
+   4.8
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Sunrise Express bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet top",
+   "Red Chair bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "Rainbow Chair top",
+   5.4
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "Rooster Tail / Carnival",
+   6.6
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "I-5",
+   6.3
+  ],
+  [
+   "walk",
+   "Summit Crossover 2",
+   "Rainbow Chair top",
+   6.3
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Summit Crossover / Olympian",
+   3.0
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Modo",
+   3.4
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Northwest Crossover",
+   3.2
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Coffee",
+   2.3
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Outback Way",
+   2.9
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Modo",
+   3.3
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Northwest Crossover",
+   3.2
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Canyon / Coffee",
+   3.3
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Coffee",
+   2.2
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Leeway / Unnamed run",
+   2.3
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Coffee 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Outback Express top",
+   4.3
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Triple Nipple",
+   3.0
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Iceberg / Thunderbird",
+   3.7
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Outback Way",
+   2.9
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Leeway 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Modo",
+   "Summit Crossover / Olympian",
+   3.3
+  ],
+  [
+   "walk",
+   "Modo",
+   "Northwest Crossover",
+   3.6
+  ],
+  [
+   "walk",
+   "Modo",
+   "Canyon / Coffee",
+   3.6
+  ],
+  [
+   "walk",
+   "Modo",
+   "Coffee",
+   2.6
+  ],
+  [
+   "walk",
+   "Modo",
+   "Leeway / Unnamed run",
+   2.7
+  ],
+  [
+   "walk",
+   "Modo",
+   "Coffee 2",
+   5.2
+  ],
+  [
+   "walk",
+   "Modo",
+   "Outback Express top",
+   4.7
+  ],
+  [
+   "walk",
+   "Modo",
+   "Triple Nipple",
+   3.4
+  ],
+  [
+   "walk",
+   "Modo",
+   "Iceberg / Thunderbird",
+   4.0
+  ],
+  [
+   "walk",
+   "Modo",
+   "Outback Way",
+   3.3
+  ],
+  [
+   "walk",
+   "Modo",
+   "Leeway 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Coffee 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Iceberg / Thunderbird",
+   3.9
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Leeway 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Summit Crossover / Olympian",
+   2.3
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Modo",
+   2.7
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Northwest Crossover",
+   2.5
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Canyon / Coffee",
+   2.6
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Coffee",
+   1.6
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Coffee 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Outback Express top",
+   3.6
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Triple Nipple",
+   2.3
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Iceberg / Thunderbird",
+   3.0
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Outback Way",
+   2.2
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Leeway 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Coffee 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Iceberg / Thunderbird",
+   5.0
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Leeway 3",
+   5.7
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Canyon / Coffee",
+   3.3
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Leeway / Unnamed run",
+   2.3
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Coffee 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Iceberg / Thunderbird",
+   3.7
+  ],
+  [
+   "walk",
+   "Triple Nipple",
+   "Leeway 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Summit Crossover / Olympian",
+   2.9
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Modo",
+   3.3
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Northwest Crossover",
+   3.1
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Canyon / Coffee",
+   3.2
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Coffee",
+   2.1
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Leeway / Unnamed run",
+   2.2
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Coffee 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Outback Express top",
+   4.2
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Triple Nipple",
+   2.9
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Iceberg / Thunderbird",
+   3.6
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Leeway 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Northwest Crossover",
+   "Red Chair top",
+   6.4
+  ],
+  [
+   "walk",
+   "Outback Express top",
+   "Red Chair top",
+   6.9
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Red Chair top",
+   4.7
+  ],
+  [
+   "walk",
+   "Pine Marten Express top",
+   "Leeway 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Summit Crossover / Olympian",
+   "Red Chair top",
+   6.2
+  ],
+  [
+   "walk",
+   "Modo",
+   "Red Chair top",
+   6.6
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Red Chair top",
+   5.5
+  ],
+  [
+   "walk",
+   "Outback Way",
+   "Red Chair top",
+   6.1
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Unnamed run 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Little Pine bottom",
+   "Red Chair bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Milkey Way",
+   "Red Chair bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Little Pine bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Milkey Way",
+   4.7
+  ],
+  [
+   "walk",
+   "Red Chair bottom",
+   "Little Pine bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Red Chair bottom",
+   "Milkey Way",
+   5.3
+  ],
+  [
+   "walk",
+   "Red Chair bottom",
+   "Otter Mountain Carpet bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Red Chair bottom",
+   "Otter Mountain Carpet top",
+   4.0
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet bottom",
+   "Red Chair bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Leeway / Unnamed run",
+   "Leeway 2",
+   6.9
+  ],
+  [
+   "walk",
+   "Carnival",
+   "Lava Tube Carpet bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Carnival",
+   "Day Break",
+   5.5
+  ],
+  [
+   "walk",
+   "Carnival",
+   "Early Riser top",
+   4.0
+  ],
+  [
+   "walk",
+   "Carnival",
+   "Alpenglow bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Carnival",
+   "First Rays Carpet bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Early Riser top",
+   3.7
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "First Rays Carpet bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Little Pine bottom",
+   "Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Milkey Way",
+   "Unnamed run",
+   4.8
+  ],
+  [
+   "walk",
+   "Coffee / West Village Getback",
+   "Little Pine bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Coffee / West Village Getback",
+   "Milkey Way",
+   5.1
+  ],
+  [
+   "walk",
+   "Coffee / West Village Getback",
+   "Unnamed run",
+   6.1
+  ],
+  [
+   "walk",
+   "Coffee / West Village Getback",
+   "Pine Marten Express bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Coffee / West Village Getback",
+   "Unnamed run 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Coffee / West Village Getback",
+   "Otter Mountain Carpet bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Pine Marten Express bottom",
+   "Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run 3",
+   "Unnamed run",
+   4.7
+  ],
+  [
+   "walk",
+   "Otter Mountain Carpet bottom",
+   "Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "Red Chair bottom",
+   "Unnamed run",
+   6.9
+  ],
+  [
+   "walk",
+   "Carnival 2",
+   "Carnival",
+   3.1
+  ],
+  [
+   "walk",
+   "Carnival 2",
+   "Lava Tube Carpet top",
+   4.4
+  ],
+  [
+   "walk",
+   "Carnival 2",
+   "Sunrise Express bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Carnival",
+   "Early Riser bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Lava Tube Carpet bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Day Break",
+   5.2
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Alpenglow bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Alpenglow top",
+   "Early Riser bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Carnival 2",
+   "Lava Tube Carpet bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Carnival 2",
+   "Day Break",
+   6.6
+  ],
+  [
+   "walk",
+   "Carnival 2",
+   "Early Riser top",
+   5.1
+  ],
+  [
+   "walk",
+   "Carnival 2",
+   "Alpenglow bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Carnival 2",
+   "First Rays Carpet bottom",
+   5.8
+  ]
+ ],
+ "base": "Northwest Express bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Oregon",
+  "total_lifts": "15",
+  "downhill_trails": "131",
+  "elevation_low_m": 1714.0,
+  "elevation_high_m": 2764.0,
+  "vertical_drop_m": 1050.0,
+  "website": "https://www.mtbachelor.com/"
+ }
+}

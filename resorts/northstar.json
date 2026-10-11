@@ -1,0 +1,4470 @@
+{
+ "name": "Northstar at Tahoe Resort",
+ "source": "OpenSkiMap ski area 717fe0e81e226ce0361fb10dc24e9f863eeda6ba",
+ "origin_lonlat": [
+  -120.13550941588662,
+  39.258030851305776
+ ],
+ "nodes": {
+  "Martis Camp Express bottom": [
+   -1023,
+   2122,
+   1921.2
+  ],
+  "Unnamed run / The Glades": [
+   506,
+   1701,
+   2080.3
+  ],
+  "Unnamed run": [
+   451,
+   1817,
+   2061.3
+  ],
+  "Delight / East Ridge": [
+   811,
+   -1349,
+   2499.1
+  ],
+  "Delight / East Ridge 2": [
+   786,
+   -1119,
+   2435.4
+  ],
+  "Ax Handle / West Ridge": [
+   -404,
+   -1364,
+   2542.9
+  ],
+  "Ax Handle / Unnamed run": [
+   214,
+   -791,
+   2342.5
+  ],
+  "Backside Express top": [
+   -418,
+   -1868,
+   2623.8
+  ],
+  "Polaris / Lower Burnout": [
+   -1649,
+   -731,
+   2077.2
+  ],
+  "The Chute / East Ridge": [
+   557,
+   -1509,
+   2528.0
+  ],
+  "The Chute / Skid Trail": [
+   425,
+   -919,
+   2376.2
+  ],
+  "Lumberjack / Unnamed run": [
+   276,
+   -810,
+   2344.1
+  ],
+  "Lumberjack / Lower Main Street": [
+   665,
+   241,
+   2144.6
+  ],
+  "Village Run / Unnamed run": [
+   831,
+   598,
+   2086.6
+  ],
+  "Village Run": [
+   976,
+   761,
+   2065.3
+  ],
+  "Hornet's Nest / Logger's Loop": [
+   1190,
+   -130,
+   2268.3
+  ],
+  "Hornet's Nest / Logger's Loop 2": [
+   1049,
+   400,
+   2130.6
+  ],
+  "Village Express bottom": [
+   1378,
+   1782,
+   1938.1
+  ],
+  "Lower Pioneer / Upper Pioneer": [
+   -91,
+   375,
+   2284.8
+  ],
+  "Lower Pioneer / Unnamed run": [
+   755,
+   705,
+   2085.1
+  ],
+  "Rail Splitter / Sierra Grande": [
+   -636,
+   -2163,
+   2583.6
+  ],
+  "Rail Splitter / Challenger": [
+   -1669,
+   -1688,
+   2225.5
+  ],
+  "Lower Burnout / Challenger": [
+   -1605,
+   -1320,
+   2182.0
+  ],
+  "Backside Express bottom": [
+   -1776,
+   -666,
+   2061.4
+  ],
+  "Flying Squirrel / Goldmine": [
+   -154,
+   -408,
+   2376.3
+  ],
+  "Comstock Express bottom": [
+   338,
+   -296,
+   2245.9
+  ],
+  "Rendezvous bottom": [
+   227,
+   -846,
+   2348.3
+  ],
+  "Sawmill Glade / Logger's Loop": [
+   1005,
+   -821,
+   2426.4
+  ],
+  "Sawmill Glade / Cat's Face": [
+   1350,
+   148,
+   2188.7
+  ],
+  "Lookout Bypass / Drifter": [
+   -313,
+   -325,
+   2406.7
+  ],
+  "Lookout Bypass / Washoe": [
+   -483,
+   1488,
+   2139.9
+  ],
+  "Lookout Link top": [
+   -614,
+   356,
+   2399.5
+  ],
+  "The Plunge / West Ridge": [
+   -411,
+   -1710,
+   2602.3
+  ],
+  "The Plunge / Springboard": [
+   -200,
+   -1365,
+   2480.4
+  ],
+  "Lookout Road / West Ridge": [
+   -234,
+   -780,
+   2434.2
+  ],
+  "Tahoe Zephyr Express top": [
+   -347,
+   -437,
+   2414.0
+  ],
+  "Martis Camp Express top": [
+   -979,
+   504,
+   2459.3
+  ],
+  "Prosser / Stampede": [
+   -1032,
+   2033,
+   1927.9
+  ],
+  "Comstock Express top": [
+   -358,
+   -1854,
+   2624.2
+  ],
+  "Woodchuck / Logger's Loop": [
+   1148,
+   -243,
+   2283.1
+  ],
+  "Woodchuck / Lower Main Street": [
+   695,
+   316,
+   2133.5
+  ],
+  "Cat's Face / Logger's Loop": [
+   1275,
+   -76,
+   2253.9
+  ],
+  "Lumberjack": [
+   585,
+   -72,
+   2193.3
+  ],
+  "Vista Express bottom": [
+   887,
+   599,
+   2086.0
+  ],
+  "Vista Express top": [
+   891,
+   -1124,
+   2443.1
+  ],
+  "Polaris": [
+   -509,
+   -1627,
+   2580.8
+  ],
+  "Iron Horse / Unnamed run": [
+   -1673,
+   -646,
+   2067.9
+  ],
+  "The Big Easy top": [
+   489,
+   973,
+   2132.3
+  ],
+  "Timberline Triple bottom": [
+   320,
+   2010,
+   2018.9
+  ],
+  "East Ridge": [
+   693,
+   -1433,
+   2519.6
+  ],
+  "Skid Trail": [
+   624,
+   -1038,
+   2413.9
+  ],
+  "Lookout Bypass": [
+   -246,
+   -149,
+   2385.3
+  ],
+  "Sodergren's / The Gulch": [
+   578,
+   179,
+   2158.7
+  ],
+  "Promised Land / West Ridge": [
+   -387,
+   -1284,
+   2526.0
+  ],
+  "Promised Land / Backdoor": [
+   -806,
+   -928,
+   2298.9
+  ],
+  "Webber / Schwarzstrasse": [
+   -834,
+   478,
+   2447.0
+  ],
+  "Webber / Schwarzstrasse 2": [
+   -522,
+   714,
+   2359.0
+  ],
+  "Lookout Bypass 2": [
+   -270,
+   -198,
+   2394.3
+  ],
+  "Christmas Tree / Northern Lights": [
+   92,
+   -144,
+   2315.3
+  ],
+  "East Ridge 2": [
+   366,
+   -1624,
+   2538.0
+  ],
+  "Deerskin / Upper Pioneer": [
+   -138,
+   249,
+   2301.3
+  ],
+  "Deerskin / The Gulch": [
+   655,
+   510,
+   2110.1
+  ],
+  "Condo Run / Village Run": [
+   1283,
+   1177,
+   1998.3
+  ],
+  "Condo Run / Village Run 2": [
+   1371,
+   1627,
+   1952.5
+  ],
+  "Timberline": [
+   293,
+   1818,
+   2036.7
+  ],
+  "Lower Pioneer": [
+   522,
+   625,
+   2123.3
+  ],
+  "The Woods / Village Run": [
+   1454,
+   1516,
+   1959.1
+  ],
+  "Rendezvous top": [
+   212,
+   -1715,
+   2546.6
+  ],
+  "Crosscut / Powder Bowl": [
+   152,
+   -1276,
+   2427.0
+  ],
+  "The Flume / Lower Grouse Alley": [
+   -145,
+   -1568,
+   2506.5
+  ],
+  "Tahoe Zephyr Express bottom": [
+   751,
+   657,
+   2086.1
+  ],
+  "Arrow Express top": [
+   361,
+   -245,
+   2248.6
+  ],
+  "Pegasus bottom": [
+   741,
+   748,
+   2085.9
+  ],
+  "Lumberjack 2": [
+   394,
+   -297,
+   2240.2
+  ],
+  "Lookout Link bottom": [
+   -234,
+   102,
+   2356.7
+  ],
+  "Ax Handle": [
+   112,
+   -1040,
+   2393.7
+  ],
+  "Sodergren's": [
+   -173,
+   -107,
+   2366.4
+  ],
+  "The Gully / The Gulch": [
+   612,
+   411,
+   2128.3
+  ],
+  "Challenger / Sierra Grande": [
+   -821,
+   -2203,
+   2547.4
+  ],
+  "Moonshine / Logger's Loop": [
+   921,
+   -947,
+   2431.7
+  ],
+  "East Ridge 3": [
+   14,
+   -1835,
+   2563.7
+  ],
+  "Promised Land Express top": [
+   -393,
+   -1173,
+   2501.0
+  ],
+  "Promised Land Express bottom": [
+   -1750,
+   -550,
+   2059.7
+  ],
+  "White Rabbit": [
+   -1007,
+   468,
+   2460.1
+  ],
+  "White Rabbit 2": [
+   -1262,
+   -359,
+   2129.2
+  ],
+  "Boondocks / The Face": [
+   -469,
+   263,
+   2380.1
+  ],
+  "Boondocks / Woodcutter": [
+   544,
+   814,
+   2118.3
+  ],
+  "West Ridge": [
+   -270,
+   -948,
+   2447.5
+  ],
+  "Castle Peak": [
+   -413,
+   -997,
+   2452.6
+  ],
+  "The Islands / Drifter": [
+   -1312,
+   -436,
+   2119.2
+  ],
+  "Castle Peak 2": [
+   -1690,
+   -503,
+   2068.4
+  ],
+  "Lookout / Schwarzstrasse": [
+   -594,
+   411,
+   2395.6
+  ],
+  "Timberline Triple top": [
+   160,
+   1099,
+   2220.3
+  ],
+  "Overland Trail / Upper Lion's Way": [
+   334,
+   1051,
+   2173.4
+  ],
+  "Martis / Schwarzstrasse": [
+   -407,
+   977,
+   2331.6
+  ],
+  "Martis / Washoe": [
+   -870,
+   2003,
+   1958.0
+  ],
+  "Lower Pioneer 2": [
+   -51,
+   441,
+   2275.6
+  ],
+  "Timberline 2": [
+   435,
+   1179,
+   2128.4
+  ],
+  "Lumberjack 3": [
+   565,
+   35,
+   2177.7
+  ],
+  "Challenger": [
+   -1399,
+   -2148,
+   2359.0
+  ],
+  "Rail Splitter": [
+   -1615,
+   -1755,
+   2233.5
+  ],
+  "Woodchuck": [
+   1065,
+   -56,
+   2258.9
+  ],
+  "Logger's Loop": [
+   950,
+   446,
+   2112.9
+  ],
+  "Playground / Forerunner": [
+   597,
+   -882,
+   2390.6
+  ],
+  "Lumberjack 4": [
+   352,
+   -610,
+   2299.0
+  ],
+  "Lookout Bypass 3": [
+   -219,
+   57,
+   2357.6
+  ],
+  "Backdoor / Burnout": [
+   -1509,
+   -1377,
+   2211.0
+  ],
+  "Pipeline / Pinball": [
+   880,
+   -791,
+   2404.4
+  ],
+  "West Ridge 2": [
+   -416,
+   -1474,
+   2561.9
+  ],
+  "Lower Grouse Alley": [
+   50,
+   -1194,
+   2420.1
+  ],
+  "East Ridge 4": [
+   848,
+   -1262,
+   2468.8
+  ],
+  "Upper Lion's Way": [
+   369,
+   1125,
+   2151.2
+  ],
+  "Sodergren's 2": [
+   523,
+   150,
+   2177.9
+  ],
+  "Woodchuck 2": [
+   731,
+   165,
+   2165.9
+  ],
+  "Lower Pioneer 3": [
+   323,
+   603,
+   2173.9
+  ],
+  "West Ridge 3": [
+   -367,
+   -1227,
+   2512.0
+  ],
+  "Luggi's": [
+   1,
+   -879,
+   2388.4
+  ],
+  "Big Springs Express Gondola top": [
+   843,
+   646,
+   2083.2
+  ],
+  "Gooseneck / Stampede": [
+   -1007,
+   1257,
+   2124.0
+  ],
+  "Lower Burnout": [
+   -1602,
+   -841,
+   2095.6
+  ],
+  "Schwarzstrasse / Washoe": [
+   -317,
+   1054,
+   2318.8
+  ],
+  "West Ridge 4": [
+   -334,
+   -1134,
+   2489.1
+  ],
+  "The Islands": [
+   -486,
+   -693,
+   2392.5
+  ],
+  "Drifter": [
+   -675,
+   -258,
+   2309.0
+  ],
+  "Logger's Loop 2": [
+   1013,
+   -734,
+   2411.4
+  ],
+  "Woodchuck 3": [
+   928,
+   46,
+   2221.8
+  ],
+  "Prosser": [
+   -1188,
+   739,
+   2397.1
+  ],
+  "Skid Trail 2": [
+   690,
+   -1064,
+   2423.9
+  ],
+  "Sidewinder": [
+   624,
+   -485,
+   2296.2
+  ],
+  "Timberline 3": [
+   448,
+   1351,
+   2104.6
+  ],
+  "Timberline 4": [
+   278,
+   1682,
+   2051.5
+  ],
+  "Goldmine": [
+   8,
+   -502,
+   2368.7
+  ],
+  "Arrow Express bottom": [
+   770,
+   621,
+   2085.4
+  ],
+  "Highlands Gondola bottom": [
+   1114,
+   1893,
+   1943.7
+  ],
+  "Stampede": [
+   -986,
+   1322,
+   2098.1
+  ],
+  "Lower Burnout 2": [
+   -1612,
+   -1128,
+   2150.9
+  ],
+  "Lower Burnout 3": [
+   -1705,
+   -682,
+   2066.0
+  ],
+  "Pegasus top": [
+   727,
+   794,
+   2089.0
+  ],
+  "Village Express top": [
+   1218,
+   390,
+   2151.0
+  ],
+  "Unnamed lift bottom": [
+   1194,
+   1865,
+   1941.2
+  ],
+  "Highlands Gondola top": [
+   543,
+   1086,
+   2122.2
+  ],
+  "Little Dipper bottom": [
+   600,
+   899,
+   2115.1
+  ],
+  "Little Dipper top": [
+   544,
+   925,
+   2123.9
+  ],
+  "Big Dipper top": [
+   670,
+   854,
+   2103.1
+  ]
+ },
+ "lifts": [
+  [
+   "Pegasus",
+   "Pegasus bottom",
+   "Pegasus top",
+   4.1
+  ],
+  [
+   "Timberline Triple",
+   "Timberline Triple bottom",
+   "Timberline Triple top",
+   9.7
+  ],
+  [
+   "Backside Express",
+   "Backside Express bottom",
+   "Backside Express top",
+   9.2
+  ],
+  [
+   "Lookout Link",
+   "Lookout Link bottom",
+   "Lookout Link top",
+   5.5
+  ],
+  [
+   "Village Express",
+   "Village Express bottom",
+   "Village Express top",
+   7.7
+  ],
+  [
+   "Arrow Express",
+   "Arrow Express bottom",
+   "Arrow Express top",
+   6.2
+  ],
+  [
+   "Big Springs Express Gondola",
+   "Village Express bottom",
+   "Big Springs Express Gondola top",
+   7.2
+  ],
+  [
+   "Big Springs Express Gondola",
+   "Big Springs Express Gondola top",
+   "Village Express bottom",
+   7.2
+  ],
+  [
+   "Comstock Express",
+   "Comstock Express bottom",
+   "Comstock Express top",
+   8.8
+  ],
+  [
+   "Rendezvous",
+   "Rendezvous bottom",
+   "Rendezvous top",
+   9.4
+  ],
+  [
+   "The Big Easy",
+   "Pegasus bottom",
+   "The Big Easy top",
+   5.3
+  ],
+  [
+   "Highlands Gondola",
+   "Highlands Gondola bottom",
+   "Highlands Gondola top",
+   6.4
+  ],
+  [
+   "Highlands Gondola",
+   "Highlands Gondola top",
+   "Highlands Gondola bottom",
+   6.4
+  ],
+  [
+   "Tahoe Zephyr Express",
+   "Tahoe Zephyr Express bottom",
+   "Tahoe Zephyr Express top",
+   8.2
+  ],
+  [
+   "Ursa Major",
+   "Pegasus bottom",
+   "Pegasus top",
+   3.5
+  ],
+  [
+   "Promised Land Express",
+   "Promised Land Express bottom",
+   "Promised Land Express top",
+   8.1
+  ],
+  [
+   "Vista Express",
+   "Vista Express bottom",
+   "Vista Express top",
+   8.8
+  ],
+  [
+   "Little Dipper",
+   "Little Dipper bottom",
+   "Little Dipper top",
+   4.3
+  ],
+  [
+   "Martis Camp Express",
+   "Martis Camp Express bottom",
+   "Martis Camp Express top",
+   8.7
+  ],
+  [
+   "Big Dipper",
+   "Pegasus top",
+   "Big Dipper top",
+   5.4
+  ]
+ ],
+ "runs": [
+  [
+   "Unnamed run",
+   "Unnamed run / The Glades",
+   "Unnamed run",
+   0.5
+  ],
+  [
+   "Delight",
+   "Delight / East Ridge",
+   "Delight / East Ridge 2",
+   0.9
+  ],
+  [
+   "Ax Handle",
+   "Ax Handle / West Ridge",
+   "Ax Handle",
+   2.5
+  ],
+  [
+   "Ax Handle",
+   "Ax Handle",
+   "Rendezvous bottom",
+   1.0
+  ],
+  [
+   "Ax Handle",
+   "Rendezvous bottom",
+   "Ax Handle / Unnamed run",
+   0.5
+  ],
+  [
+   "Polaris",
+   "Backside Express top",
+   "Polaris",
+   1.0
+  ],
+  [
+   "Polaris",
+   "Polaris",
+   "Polaris / Lower Burnout",
+   6.5
+  ],
+  [
+   "The Chute",
+   "The Chute / East Ridge",
+   "The Chute / Skid Trail",
+   2.5
+  ],
+  [
+   "Lumberjack",
+   "Lumberjack / Unnamed run",
+   "Lumberjack 4",
+   0.8
+  ],
+  [
+   "Lumberjack",
+   "Lumberjack 4",
+   "Lumberjack 2",
+   1.5
+  ],
+  [
+   "Lumberjack",
+   "Lumberjack 2",
+   "Lumberjack",
+   1.1
+  ],
+  [
+   "Lumberjack",
+   "Lumberjack",
+   "Lumberjack 3",
+   0.5
+  ],
+  [
+   "Lumberjack",
+   "Lumberjack 3",
+   "Lumberjack / Lower Main Street",
+   1.0
+  ],
+  [
+   "Village Run",
+   "Village Run / Unnamed run",
+   "Big Springs Express Gondola top",
+   0.5
+  ],
+  [
+   "Village Run",
+   "Big Springs Express Gondola top",
+   "Village Run",
+   0.7
+  ],
+  [
+   "Hornet's Nest",
+   "Hornet's Nest / Logger's Loop",
+   "Hornet's Nest / Logger's Loop 2",
+   2.3
+  ],
+  [
+   "Lower Pioneer",
+   "Lower Pioneer / Upper Pioneer",
+   "Lower Pioneer 2",
+   0.5
+  ],
+  [
+   "Lower Pioneer",
+   "Lower Pioneer 2",
+   "Lower Pioneer 3",
+   1.8
+  ],
+  [
+   "Lower Pioneer",
+   "Lower Pioneer 3",
+   "Lower Pioneer",
+   0.9
+  ],
+  [
+   "Lower Pioneer",
+   "Lower Pioneer",
+   "Lower Pioneer / Unnamed run",
+   1.0
+  ],
+  [
+   "Rail Splitter",
+   "Rail Splitter / Sierra Grande",
+   "Rail Splitter",
+   4.7
+  ],
+  [
+   "Rail Splitter",
+   "Rail Splitter",
+   "Rail Splitter / Challenger",
+   0.5
+  ],
+  [
+   "Lower Burnout",
+   "Lower Burnout / Challenger",
+   "Lower Burnout 2",
+   0.7
+  ],
+  [
+   "Lower Burnout",
+   "Lower Burnout 2",
+   "Lower Burnout",
+   1.2
+  ],
+  [
+   "Lower Burnout",
+   "Lower Burnout",
+   "Polaris / Lower Burnout",
+   0.5
+  ],
+  [
+   "Lower Burnout",
+   "Polaris / Lower Burnout",
+   "Lower Burnout 3",
+   0.5
+  ],
+  [
+   "Lower Burnout",
+   "Lower Burnout 3",
+   "Backside Express bottom",
+   0.5
+  ],
+  [
+   "Flying Squirrel",
+   "Flying Squirrel / Goldmine",
+   "Comstock Express bottom",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "Ax Handle / Unnamed run",
+   "Lumberjack / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Ax Handle / Unnamed run",
+   "Rendezvous bottom",
+   0.5
+  ],
+  [
+   "Sawmill Glade",
+   "Sawmill Glade / Logger's Loop",
+   "Sawmill Glade / Cat's Face",
+   5.4
+  ],
+  [
+   "Lookout Bypass",
+   "Lookout Bypass / Drifter",
+   "Lookout Bypass 2",
+   0.5
+  ],
+  [
+   "Lookout Bypass",
+   "Lookout Bypass 2",
+   "Lookout Bypass",
+   0.5
+  ],
+  [
+   "Lookout Bypass",
+   "Lookout Bypass",
+   "Lookout Bypass 3",
+   0.9
+  ],
+  [
+   "Lookout Bypass",
+   "Lookout Bypass 3",
+   "Lookout Link bottom",
+   0.5
+  ],
+  [
+   "Lookout Bypass",
+   "Lookout Link bottom",
+   "Lookout Bypass / Washoe",
+   8.6
+  ],
+  [
+   "The Plunge",
+   "The Plunge / West Ridge",
+   "The Plunge / Springboard",
+   1.7
+  ],
+  [
+   "Lookout Road",
+   "Lookout Road / West Ridge",
+   "Tahoe Zephyr Express top",
+   1.4
+  ],
+  [
+   "Prosser",
+   "Martis Camp Express top",
+   "Prosser",
+   1.3
+  ],
+  [
+   "Prosser",
+   "Prosser",
+   "Prosser / Stampede",
+   6.2
+  ],
+  [
+   "East Ridge",
+   "Comstock Express top",
+   "East Ridge 3",
+   1.5
+  ],
+  [
+   "East Ridge",
+   "East Ridge 3",
+   "Rendezvous top",
+   1.0
+  ],
+  [
+   "East Ridge",
+   "Rendezvous top",
+   "East Ridge 2",
+   0.8
+  ],
+  [
+   "East Ridge",
+   "East Ridge 2",
+   "The Chute / East Ridge",
+   0.9
+  ],
+  [
+   "East Ridge",
+   "The Chute / East Ridge",
+   "East Ridge",
+   0.6
+  ],
+  [
+   "East Ridge",
+   "East Ridge",
+   "Delight / East Ridge",
+   0.6
+  ],
+  [
+   "East Ridge",
+   "Delight / East Ridge",
+   "East Ridge 4",
+   0.5
+  ],
+  [
+   "East Ridge",
+   "East Ridge 4",
+   "Delight / East Ridge 2",
+   0.7
+  ],
+  [
+   "Woodchuck",
+   "Woodchuck / Logger's Loop",
+   "Woodchuck",
+   0.7
+  ],
+  [
+   "Woodchuck",
+   "Woodchuck",
+   "Woodchuck 3",
+   0.7
+  ],
+  [
+   "Woodchuck",
+   "Woodchuck 3",
+   "Woodchuck 2",
+   1.0
+  ],
+  [
+   "Woodchuck",
+   "Woodchuck 2",
+   "Woodchuck / Lower Main Street",
+   0.7
+  ],
+  [
+   "Cat's Face",
+   "Cat's Face / Logger's Loop",
+   "Sawmill Glade / Cat's Face",
+   0.9
+  ],
+  [
+   "Sidewinder",
+   "Delight / East Ridge 2",
+   "Sidewinder",
+   2.7
+  ],
+  [
+   "Sidewinder",
+   "Sidewinder",
+   "Lumberjack",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Vista Express bottom",
+   "Village Run / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Village Run / Unnamed run",
+   "Arrow Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Arrow Express bottom",
+   "Tahoe Zephyr Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Tahoe Zephyr Express bottom",
+   "Lower Pioneer / Unnamed run",
+   0.5
+  ],
+  [
+   "Skid Trail",
+   "Vista Express top",
+   "Delight / East Ridge 2",
+   0.5
+  ],
+  [
+   "Skid Trail",
+   "Delight / East Ridge 2",
+   "Skid Trail 2",
+   0.5
+  ],
+  [
+   "Skid Trail",
+   "Skid Trail 2",
+   "Skid Trail",
+   0.5
+  ],
+  [
+   "Skid Trail",
+   "Skid Trail",
+   "The Chute / Skid Trail",
+   1.0
+  ],
+  [
+   "Skid Trail",
+   "The Chute / Skid Trail",
+   "Lumberjack / Unnamed run",
+   0.8
+  ],
+  [
+   "Iron Horse",
+   "Polaris",
+   "Iron Horse / Unnamed run",
+   7.2
+  ],
+  [
+   "Unnamed run",
+   "Backside Express top",
+   "Comstock Express top",
+   0.5
+  ],
+  [
+   "Timberline",
+   "The Big Easy top",
+   "Timberline 2",
+   0.7
+  ],
+  [
+   "Timberline",
+   "Timberline 2",
+   "Timberline 3",
+   0.7
+  ],
+  [
+   "Timberline",
+   "Timberline 3",
+   "Timberline 4",
+   1.7
+  ],
+  [
+   "Timberline",
+   "Timberline 4",
+   "Timberline",
+   0.6
+  ],
+  [
+   "Timberline",
+   "Timberline",
+   "Timberline Triple bottom",
+   0.8
+  ],
+  [
+   "Dutchman",
+   "East Ridge",
+   "Skid Trail",
+   1.6
+  ],
+  [
+   "Sodergren's",
+   "Lookout Bypass",
+   "Sodergren's",
+   0.5
+  ],
+  [
+   "Sodergren's",
+   "Sodergren's",
+   "Sodergren's 2",
+   3.3
+  ],
+  [
+   "Sodergren's",
+   "Sodergren's 2",
+   "Sodergren's / The Gulch",
+   0.5
+  ],
+  [
+   "Promised Land",
+   "Promised Land / West Ridge",
+   "Promised Land / Backdoor",
+   2.5
+  ],
+  [
+   "Webber",
+   "Webber / Schwarzstrasse",
+   "Webber / Schwarzstrasse 2",
+   1.6
+  ],
+  [
+   "Goldmine",
+   "Lookout Bypass 2",
+   "Flying Squirrel / Goldmine",
+   0.9
+  ],
+  [
+   "Goldmine",
+   "Flying Squirrel / Goldmine",
+   "Goldmine",
+   0.8
+  ],
+  [
+   "Goldmine",
+   "Goldmine",
+   "Ax Handle / Unnamed run",
+   1.5
+  ],
+  [
+   "West Ridge",
+   "Comstock Express top",
+   "The Plunge / West Ridge",
+   0.5
+  ],
+  [
+   "West Ridge",
+   "The Plunge / West Ridge",
+   "West Ridge 2",
+   1.0
+  ],
+  [
+   "West Ridge",
+   "West Ridge 2",
+   "Ax Handle / West Ridge",
+   0.5
+  ],
+  [
+   "West Ridge",
+   "Ax Handle / West Ridge",
+   "Promised Land / West Ridge",
+   0.5
+  ],
+  [
+   "West Ridge",
+   "Promised Land / West Ridge",
+   "West Ridge 3",
+   0.5
+  ],
+  [
+   "West Ridge",
+   "West Ridge 3",
+   "West Ridge 4",
+   0.5
+  ],
+  [
+   "West Ridge",
+   "West Ridge 4",
+   "West Ridge",
+   0.8
+  ],
+  [
+   "West Ridge",
+   "West Ridge",
+   "Lookout Road / West Ridge",
+   0.7
+  ],
+  [
+   "Christmas Tree",
+   "Christmas Tree / Northern Lights",
+   "Comstock Express bottom",
+   1.1
+  ],
+  [
+   "Tonini's",
+   "East Ridge 2",
+   "Lumberjack / Unnamed run",
+   3.4
+  ],
+  [
+   "Deerskin",
+   "Deerskin / Upper Pioneer",
+   "Deerskin / The Gulch",
+   3.5
+  ],
+  [
+   "Condo Run",
+   "Condo Run / Village Run",
+   "Condo Run / Village Run 2",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Lower Pioneer",
+   "Village Run / Unnamed run",
+   1.2
+  ],
+  [
+   "The Woods",
+   "Sawmill Glade / Cat's Face",
+   "The Woods / Village Run",
+   6.0
+  ],
+  [
+   "Crosscut",
+   "Rendezvous top",
+   "Crosscut / Powder Bowl",
+   1.9
+  ],
+  [
+   "The Flume",
+   "Rendezvous top",
+   "The Flume / Lower Grouse Alley",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Lower Pioneer / Unnamed run",
+   "Tahoe Zephyr Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Arrow Express top",
+   "Comstock Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Lower Pioneer / Unnamed run",
+   "Pegasus bottom",
+   0.5
+  ],
+  [
+   "Cascades",
+   "Ax Handle / Unnamed run",
+   "Lumberjack 2",
+   2.1
+  ],
+  [
+   "Upper Pioneer",
+   "Lookout Link bottom",
+   "Deerskin / Upper Pioneer",
+   0.6
+  ],
+  [
+   "Upper Pioneer",
+   "Deerskin / Upper Pioneer",
+   "Lower Pioneer / Upper Pioneer",
+   0.6
+  ],
+  [
+   "Lower Grouse Alley",
+   "The Flume / Lower Grouse Alley",
+   "Lower Grouse Alley",
+   1.7
+  ],
+  [
+   "Lower Grouse Alley",
+   "Lower Grouse Alley",
+   "Ax Handle",
+   0.7
+  ],
+  [
+   "The Gully",
+   "Sodergren's",
+   "The Gully / The Gulch",
+   4.3
+  ],
+  [
+   "Challenger",
+   "Challenger / Sierra Grande",
+   "Challenger",
+   2.5
+  ],
+  [
+   "Challenger",
+   "Challenger",
+   "Rail Splitter / Challenger",
+   3.7
+  ],
+  [
+   "Challenger",
+   "Rail Splitter / Challenger",
+   "Lower Burnout / Challenger",
+   1.6
+  ],
+  [
+   "Moonshine",
+   "Moonshine / Logger's Loop",
+   "Lumberjack",
+   4.0
+  ],
+  [
+   "Powder Bowl",
+   "East Ridge 3",
+   "Crosscut / Powder Bowl",
+   2.5
+  ],
+  [
+   "Powder Bowl",
+   "Crosscut / Powder Bowl",
+   "Lumberjack / Unnamed run",
+   2.1
+  ],
+  [
+   "Castle Peak",
+   "Promised Land Express top",
+   "Castle Peak",
+   0.6
+  ],
+  [
+   "Castle Peak",
+   "Castle Peak",
+   "Castle Peak 2",
+   6.3
+  ],
+  [
+   "Castle Peak",
+   "Castle Peak 2",
+   "Promised Land Express bottom",
+   0.5
+  ],
+  [
+   "White Rabbit",
+   "White Rabbit",
+   "White Rabbit 2",
+   3.8
+  ],
+  [
+   "Boondocks",
+   "Boondocks / The Face",
+   "Boondocks / Woodcutter",
+   5.4
+  ],
+  [
+   "Luggi's",
+   "West Ridge",
+   "Luggi's",
+   1.1
+  ],
+  [
+   "Luggi's",
+   "Luggi's",
+   "Ax Handle / Unnamed run",
+   1.1
+  ],
+  [
+   "The Islands",
+   "Castle Peak",
+   "The Islands",
+   1.4
+  ],
+  [
+   "The Islands",
+   "The Islands",
+   "The Islands / Drifter",
+   3.8
+  ],
+  [
+   "The Face",
+   "Boondocks / The Face",
+   "Lower Pioneer / Upper Pioneer",
+   1.6
+  ],
+  [
+   "Drifter",
+   "Lookout Bypass / Drifter",
+   "Drifter",
+   1.5
+  ],
+  [
+   "Drifter",
+   "Drifter",
+   "The Islands / Drifter",
+   2.9
+  ],
+  [
+   "Drifter",
+   "The Islands / Drifter",
+   "Castle Peak 2",
+   1.6
+  ],
+  [
+   "Lookout",
+   "Lookout / Schwarzstrasse",
+   "Boondocks / The Face",
+   0.7
+  ],
+  [
+   "Overland Trail",
+   "Timberline Triple top",
+   "Overland Trail / Upper Lion's Way",
+   0.8
+  ],
+  [
+   "Martis",
+   "Martis / Schwarzstrasse",
+   "Martis / Washoe",
+   4.9
+  ],
+  [
+   "Logger's Loop",
+   "Vista Express top",
+   "Moonshine / Logger's Loop",
+   0.7
+  ],
+  [
+   "Logger's Loop",
+   "Moonshine / Logger's Loop",
+   "Sawmill Glade / Logger's Loop",
+   0.7
+  ],
+  [
+   "Logger's Loop",
+   "Sawmill Glade / Logger's Loop",
+   "Logger's Loop 2",
+   0.5
+  ],
+  [
+   "Logger's Loop",
+   "Logger's Loop 2",
+   "Woodchuck / Logger's Loop",
+   2.2
+  ],
+  [
+   "Logger's Loop",
+   "Woodchuck / Logger's Loop",
+   "Hornet's Nest / Logger's Loop",
+   0.5
+  ],
+  [
+   "Logger's Loop",
+   "Hornet's Nest / Logger's Loop",
+   "Cat's Face / Logger's Loop",
+   0.5
+  ],
+  [
+   "Logger's Loop",
+   "Cat's Face / Logger's Loop",
+   "Sawmill Glade / Cat's Face",
+   1.3
+  ],
+  [
+   "Logger's Loop",
+   "Sawmill Glade / Cat's Face",
+   "Hornet's Nest / Logger's Loop 2",
+   1.7
+  ],
+  [
+   "Logger's Loop",
+   "Hornet's Nest / Logger's Loop 2",
+   "Logger's Loop",
+   0.5
+  ],
+  [
+   "Logger's Loop",
+   "Logger's Loop",
+   "Village Run / Unnamed run",
+   0.8
+  ],
+  [
+   "Upper Lion's Way",
+   "Lower Pioneer 2",
+   "Overland Trail / Upper Lion's Way",
+   3.0
+  ],
+  [
+   "Upper Lion's Way",
+   "Overland Trail / Upper Lion's Way",
+   "Upper Lion's Way",
+   0.5
+  ],
+  [
+   "Upper Lion's Way",
+   "Upper Lion's Way",
+   "Timberline 2",
+   0.5
+  ],
+  [
+   "Upper Main Street",
+   "Comstock Express bottom",
+   "Arrow Express top",
+   0.5
+  ],
+  [
+   "Upper Main Street",
+   "Arrow Express top",
+   "Lumberjack 3",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Iron Horse / Unnamed run",
+   "Promised Land Express bottom",
+   0.5
+  ],
+  [
+   "Follow Me",
+   "Challenger",
+   "Rail Splitter",
+   1.8
+  ],
+  [
+   "Woodcutter",
+   "The Big Easy top",
+   "Little Dipper top",
+   0.5
+  ],
+  [
+   "Woodcutter",
+   "Little Dipper top",
+   "Boondocks / Woodcutter",
+   0.5
+  ],
+  [
+   "Woodcutter",
+   "Boondocks / Woodcutter",
+   "Pegasus bottom",
+   1.6
+  ],
+  [
+   "Woodcutter",
+   "Pegasus bottom",
+   "Lower Pioneer / Unnamed run",
+   0.5
+  ],
+  [
+   "Cowboy Pass",
+   "Tahoe Zephyr Express top",
+   "Flying Squirrel / Goldmine",
+   0.6
+  ],
+  [
+   "Surprise",
+   "Woodchuck",
+   "Logger's Loop",
+   2.1
+  ],
+  [
+   "Playground",
+   "Playground / Forerunner",
+   "Lumberjack 4",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Lookout Bypass 3",
+   "Lookout Link bottom",
+   0.5
+  ],
+  [
+   "Lower Main Street",
+   "Lumberjack / Lower Main Street",
+   "Woodchuck / Lower Main Street",
+   0.5
+  ],
+  [
+   "Lower Main Street",
+   "Woodchuck / Lower Main Street",
+   "Village Run / Unnamed run",
+   1.3
+  ],
+  [
+   "Backdoor",
+   "Boondocks / The Face",
+   "Promised Land / Backdoor",
+   5.1
+  ],
+  [
+   "Backdoor",
+   "Promised Land / Backdoor",
+   "Backdoor / Burnout",
+   3.8
+  ],
+  [
+   "Pipeline",
+   "Pipeline / Pinball",
+   "Village Run / Unnamed run",
+   5.8
+  ],
+  [
+   "Springboard",
+   "West Ridge 2",
+   "The Plunge / Springboard",
+   0.9
+  ],
+  [
+   "Springboard",
+   "The Plunge / Springboard",
+   "Lower Grouse Alley",
+   1.3
+  ],
+  [
+   "Village Run",
+   "Village Run",
+   "Condo Run / Village Run",
+   2.1
+  ],
+  [
+   "Village Run",
+   "Condo Run / Village Run",
+   "The Woods / Village Run",
+   1.7
+  ],
+  [
+   "Village Run",
+   "The Woods / Village Run",
+   "Condo Run / Village Run 2",
+   0.6
+  ],
+  [
+   "Village Run",
+   "Condo Run / Village Run 2",
+   "Village Express bottom",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "East Ridge 4",
+   "Vista Express top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Upper Lion's Way",
+   "The Big Easy top",
+   0.7
+  ],
+  [
+   "Northern Lights",
+   "Lookout Bypass / Drifter",
+   "Christmas Tree / Northern Lights",
+   1.8
+  ],
+  [
+   "Northern Lights",
+   "Christmas Tree / Northern Lights",
+   "Sodergren's 2",
+   2.4
+  ],
+  [
+   "Pinball",
+   "Moonshine / Logger's Loop",
+   "Pipeline / Pinball",
+   0.6
+  ],
+  [
+   "Pinball",
+   "Pipeline / Pinball",
+   "Woodchuck 2",
+   4.2
+  ],
+  [
+   "Hoot Owl",
+   "Lower Pioneer / Upper Pioneer",
+   "Lower Pioneer 3",
+   2.1
+  ],
+  [
+   "Stump Alley",
+   "West Ridge 3",
+   "Luggi's",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Big Springs Express Gondola top",
+   "Village Run / Unnamed run",
+   0.5
+  ],
+  [
+   "Gooseneck",
+   "Martis Camp Express top",
+   "Gooseneck / Stampede",
+   3.3
+  ],
+  [
+   "The Rapids",
+   "Backside Express top",
+   "Lower Burnout",
+   6.8
+  ],
+  [
+   "Schwarzstrasse",
+   "Martis Camp Express top",
+   "Webber / Schwarzstrasse",
+   0.5
+  ],
+  [
+   "Schwarzstrasse",
+   "Webber / Schwarzstrasse",
+   "Lookout Link top",
+   2.1
+  ],
+  [
+   "Schwarzstrasse",
+   "Lookout Link top",
+   "Lookout / Schwarzstrasse",
+   0.5
+  ],
+  [
+   "Schwarzstrasse",
+   "Lookout / Schwarzstrasse",
+   "Webber / Schwarzstrasse 2",
+   1.3
+  ],
+  [
+   "Schwarzstrasse",
+   "Webber / Schwarzstrasse 2",
+   "Martis / Schwarzstrasse",
+   1.2
+  ],
+  [
+   "Schwarzstrasse",
+   "Martis / Schwarzstrasse",
+   "Schwarzstrasse / Washoe",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Promised Land Express top",
+   "West Ridge 4",
+   0.5
+  ],
+  [
+   "Drifter connector",
+   "The Islands",
+   "Drifter",
+   1.9
+  ],
+  [
+   "Drop Off",
+   "Logger's Loop 2",
+   "Woodchuck 3",
+   3.3
+  ],
+  [
+   "Stampede",
+   "Prosser",
+   "Gooseneck / Stampede",
+   2.4
+  ],
+  [
+   "Stampede",
+   "Gooseneck / Stampede",
+   "Stampede",
+   0.5
+  ],
+  [
+   "Stampede",
+   "Stampede",
+   "Prosser / Stampede",
+   3.0
+  ],
+  [
+   "Stampede",
+   "Prosser / Stampede",
+   "Martis Camp Express bottom",
+   0.5
+  ],
+  [
+   "Sierra Grande",
+   "Backside Express top",
+   "Rail Splitter / Sierra Grande",
+   1.4
+  ],
+  [
+   "Sierra Grande",
+   "Rail Splitter / Sierra Grande",
+   "Challenger / Sierra Grande",
+   0.8
+  ],
+  [
+   "Sierra Grande",
+   "Challenger / Sierra Grande",
+   "Rail Splitter",
+   4.1
+  ],
+  [
+   "Sierra Grande",
+   "Rail Splitter",
+   "Rail Splitter / Challenger",
+   0.5
+  ],
+  [
+   "Forerunner",
+   "Skid Trail 2",
+   "Playground / Forerunner",
+   0.7
+  ],
+  [
+   "Forerunner",
+   "Playground / Forerunner",
+   "Sidewinder",
+   1.7
+  ],
+  [
+   "Upper Grouse Alley",
+   "Comstock Express top",
+   "The Flume / Lower Grouse Alley",
+   1.4
+  ],
+  [
+   "Lower Lion's Way",
+   "The Big Easy top",
+   "Little Dipper top",
+   0.5
+  ],
+  [
+   "Lower Lion's Way",
+   "Little Dipper top",
+   "Little Dipper bottom",
+   0.5
+  ],
+  [
+   "Lower Lion's Way",
+   "Little Dipper bottom",
+   "Big Dipper top",
+   0.5
+  ],
+  [
+   "Lower Lion's Way",
+   "Big Dipper top",
+   "Pegasus top",
+   0.5
+  ],
+  [
+   "Lower Lion's Way",
+   "Pegasus top",
+   "Pegasus bottom",
+   0.5
+  ],
+  [
+   "Lower Lion's Way",
+   "Pegasus bottom",
+   "Lower Pioneer / Unnamed run",
+   0.5
+  ],
+  [
+   "The Glades",
+   "Timberline 3",
+   "Unnamed run / The Glades",
+   1.4
+  ],
+  [
+   "The Glades",
+   "Unnamed run / The Glades",
+   "Timberline 4",
+   1.5
+  ],
+  [
+   "Jibboom",
+   "Goldmine",
+   "Comstock Express bottom",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Tahoe Zephyr Express bottom",
+   "Arrow Express bottom",
+   0.5
+  ],
+  [
+   "Washoe",
+   "Schwarzstrasse / Washoe",
+   "Lookout Bypass / Washoe",
+   2.0
+  ],
+  [
+   "Washoe",
+   "Lookout Bypass / Washoe",
+   "Martis / Washoe",
+   3.1
+  ],
+  [
+   "Washoe",
+   "Martis / Washoe",
+   "Martis Camp Express bottom",
+   0.9
+  ],
+  [
+   "Home Run",
+   "Timberline 2",
+   "Highlands Gondola bottom",
+   4.1
+  ],
+  [
+   "Boca",
+   "Martis Camp Express top",
+   "Stampede",
+   4.0
+  ],
+  [
+   "The Gulch",
+   "Lumberjack 3",
+   "Sodergren's / The Gulch",
+   0.5
+  ],
+  [
+   "The Gulch",
+   "Sodergren's / The Gulch",
+   "The Gully / The Gulch",
+   1.0
+  ],
+  [
+   "The Gulch",
+   "The Gully / The Gulch",
+   "Deerskin / The Gulch",
+   0.5
+  ],
+  [
+   "The Gulch",
+   "Deerskin / The Gulch",
+   "Tahoe Zephyr Express bottom",
+   0.8
+  ],
+  [
+   "The Gulch",
+   "Tahoe Zephyr Express bottom",
+   "Lower Pioneer / Unnamed run",
+   0.5
+  ],
+  [
+   "Down Under",
+   "Lower Burnout 2",
+   "Backside Express bottom",
+   2.3
+  ],
+  [
+   "Unnamed run",
+   "Iron Horse / Unnamed run",
+   "Lower Burnout 3",
+   0.5
+  ],
+  [
+   "Upper Jibboom",
+   "Lookout Road / West Ridge",
+   "Goldmine",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Comstock Express bottom",
+   "Lumberjack 2",
+   0.5
+  ],
+  [
+   "Burnout",
+   "Backside Express top",
+   "Backdoor / Burnout",
+   5.2
+  ],
+  [
+   "Burnout",
+   "Backdoor / Burnout",
+   "Lower Burnout / Challenger",
+   0.5
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Martis Camp Express bottom",
+   "Prosser / Stampede",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Timberline Triple bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Timberline",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Timberline 4",
+   3.0
+  ],
+  [
+   "walk",
+   "Delight / East Ridge",
+   "Vista Express top",
+   3.3
+  ],
+  [
+   "walk",
+   "Delight / East Ridge 2",
+   "Vista Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Ax Handle / West Ridge",
+   "Promised Land Express top",
+   2.7
+  ],
+  [
+   "walk",
+   "Ax Handle / Unnamed run",
+   "Rendezvous bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Backside Express top",
+   "The Plunge / West Ridge",
+   2.2
+  ],
+  [
+   "walk",
+   "Backside Express top",
+   "Comstock Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Polaris / Lower Burnout",
+   "Backside Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Polaris / Lower Burnout",
+   "Promised Land Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "The Chute / Skid Trail",
+   "Rendezvous bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Lumberjack / Unnamed run",
+   "Rendezvous bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Village Run / Unnamed run",
+   "Vista Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Village Run / Unnamed run",
+   "Tahoe Zephyr Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Village Run / Unnamed run",
+   "Pegasus bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Village Run / Unnamed run",
+   "Big Springs Express Gondola top",
+   0.7
+  ],
+  [
+   "walk",
+   "Village Run / Unnamed run",
+   "Arrow Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Village Run / Unnamed run",
+   "Pegasus top",
+   3.1
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Condo Run / Village Run 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Unnamed lift bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Vista Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Tahoe Zephyr Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Pegasus bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Big Springs Express Gondola top",
+   1.5
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Arrow Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Pegasus top",
+   1.3
+  ],
+  [
+   "walk",
+   "Backside Express bottom",
+   "Iron Horse / Unnamed run",
+   1.5
+  ],
+  [
+   "walk",
+   "Backside Express bottom",
+   "Promised Land Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Backside Express bottom",
+   "Castle Peak 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Backside Express bottom",
+   "Lower Burnout 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Comstock Express bottom",
+   "Arrow Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Comstock Express bottom",
+   "Lumberjack 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Rendezvous bottom",
+   "Ax Handle / Unnamed run",
+   0.8
+  ],
+  [
+   "walk",
+   "Rendezvous bottom",
+   "Lumberjack / Unnamed run",
+   0.8
+  ],
+  [
+   "walk",
+   "Lookout Bypass / Drifter",
+   "Tahoe Zephyr Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Lookout Link top",
+   "Boondocks / The Face",
+   2.4
+  ],
+  [
+   "walk",
+   "Lookout Link top",
+   "Lookout / Schwarzstrasse",
+   0.8
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express top",
+   "Flying Squirrel / Goldmine",
+   2.7
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express top",
+   "Lookout Bypass / Drifter",
+   1.6
+  ],
+  [
+   "walk",
+   "Martis Camp Express top",
+   "Webber / Schwarzstrasse",
+   2.1
+  ],
+  [
+   "walk",
+   "Martis Camp Express top",
+   "White Rabbit",
+   0.6
+  ],
+  [
+   "walk",
+   "Prosser / Stampede",
+   "Martis Camp Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Comstock Express top",
+   "Backside Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Comstock Express top",
+   "The Plunge / West Ridge",
+   2.1
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Village Run / Unnamed run",
+   0.8
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Village Run",
+   2.6
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Lower Pioneer / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Tahoe Zephyr Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Pegasus bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Big Springs Express Gondola top",
+   0.9
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Arrow Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Vista Express top",
+   "Delight / East Ridge 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Vista Express top",
+   "Moonshine / Logger's Loop",
+   2.5
+  ],
+  [
+   "walk",
+   "Vista Express top",
+   "Skid Trail 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Iron Horse / Unnamed run",
+   "Backside Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Iron Horse / Unnamed run",
+   "Promised Land Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "The Big Easy top",
+   "Boondocks / Woodcutter",
+   2.3
+  ],
+  [
+   "walk",
+   "The Big Easy top",
+   "Timberline 2",
+   2.9
+  ],
+  [
+   "walk",
+   "The Big Easy top",
+   "Highlands Gondola top",
+   1.7
+  ],
+  [
+   "walk",
+   "The Big Easy top",
+   "Little Dipper bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "The Big Easy top",
+   "Little Dipper top",
+   1.0
+  ],
+  [
+   "walk",
+   "The Big Easy top",
+   "Big Dipper top",
+   3.0
+  ],
+  [
+   "walk",
+   "Promised Land / West Ridge",
+   "Promised Land Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Webber / Schwarzstrasse",
+   "Martis Camp Express top",
+   2.1
+  ],
+  [
+   "walk",
+   "East Ridge 2",
+   "Rendezvous top",
+   2.5
+  ],
+  [
+   "walk",
+   "Deerskin / The Gulch",
+   "Vista Express bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Deerskin / The Gulch",
+   "Tahoe Zephyr Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Deerskin / The Gulch",
+   "Big Springs Express Gondola top",
+   3.2
+  ],
+  [
+   "walk",
+   "Deerskin / The Gulch",
+   "Arrow Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Condo Run / Village Run 2",
+   "Village Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Timberline",
+   "Timberline Triple bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Lower Pioneer",
+   "Tahoe Zephyr Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Pioneer",
+   "Arrow Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Rendezvous top",
+   "East Ridge 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "Village Run / Unnamed run",
+   1.4
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "Village Run",
+   3.4
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "Lower Pioneer / Unnamed run",
+   0.7
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "Vista Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "Pegasus bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "Big Springs Express Gondola top",
+   1.3
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "Arrow Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "Pegasus top",
+   1.9
+  ],
+  [
+   "walk",
+   "Arrow Express top",
+   "Comstock Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Arrow Express top",
+   "Lumberjack 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Village Run / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Village Run",
+   3.3
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Lower Pioneer / Unnamed run",
+   0.6
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Vista Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Tahoe Zephyr Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Big Springs Express Gondola top",
+   2.0
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Arrow Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Pegasus top",
+   0.7
+  ],
+  [
+   "walk",
+   "Lumberjack 2",
+   "Comstock Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Lumberjack 2",
+   "Arrow Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Lookout Link bottom",
+   "Deerskin / Upper Pioneer",
+   2.4
+  ],
+  [
+   "walk",
+   "Lookout Link bottom",
+   "Sodergren's",
+   3.0
+  ],
+  [
+   "walk",
+   "Lookout Link bottom",
+   "Lookout Bypass 3",
+   0.7
+  ],
+  [
+   "walk",
+   "Ax Handle",
+   "Rendezvous bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Sodergren's",
+   "Lookout Link bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Moonshine / Logger's Loop",
+   "Vista Express top",
+   2.5
+  ],
+  [
+   "walk",
+   "East Ridge 3",
+   "Rendezvous top",
+   3.2
+  ],
+  [
+   "walk",
+   "Promised Land Express top",
+   "Castle Peak",
+   2.5
+  ],
+  [
+   "walk",
+   "Promised Land Express top",
+   "West Ridge 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Promised Land Express top",
+   "West Ridge 4",
+   1.0
+  ],
+  [
+   "walk",
+   "Promised Land Express bottom",
+   "Backside Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Promised Land Express bottom",
+   "Iron Horse / Unnamed run",
+   1.7
+  ],
+  [
+   "walk",
+   "Promised Land Express bottom",
+   "Castle Peak 2",
+   1.1
+  ],
+  [
+   "walk",
+   "Promised Land Express bottom",
+   "Lower Burnout 3",
+   1.9
+  ],
+  [
+   "walk",
+   "White Rabbit",
+   "Martis Camp Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "White Rabbit 2",
+   "The Islands / Drifter",
+   1.3
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "The Big Easy top",
+   2.3
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Pegasus bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Pegasus top",
+   2.6
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Little Dipper bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Little Dipper top",
+   1.5
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Big Dipper top",
+   1.8
+  ],
+  [
+   "walk",
+   "Castle Peak 2",
+   "Backside Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Castle Peak 2",
+   "Promised Land Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Lookout / Schwarzstrasse",
+   "Lookout Link top",
+   0.8
+  ],
+  [
+   "walk",
+   "Timberline Triple top",
+   "Overland Trail / Upper Lion's Way",
+   2.5
+  ],
+  [
+   "walk",
+   "Timberline Triple top",
+   "Upper Lion's Way",
+   2.9
+  ],
+  [
+   "walk",
+   "Overland Trail / Upper Lion's Way",
+   "The Big Easy top",
+   2.4
+  ],
+  [
+   "walk",
+   "Overland Trail / Upper Lion's Way",
+   "Highlands Gondola top",
+   2.9
+  ],
+  [
+   "walk",
+   "Overland Trail / Upper Lion's Way",
+   "Little Dipper top",
+   3.4
+  ],
+  [
+   "walk",
+   "Martis / Washoe",
+   "Martis Camp Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Timberline 2",
+   "The Big Easy top",
+   2.9
+  ],
+  [
+   "walk",
+   "Timberline 2",
+   "Highlands Gondola top",
+   2.0
+  ],
+  [
+   "walk",
+   "Logger's Loop",
+   "Vista Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Logger's Loop",
+   "Big Springs Express Gondola top",
+   3.1
+  ],
+  [
+   "walk",
+   "Lookout Bypass 3",
+   "Lookout Link bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "East Ridge 4",
+   "Vista Express top",
+   2.0
+  ],
+  [
+   "walk",
+   "Upper Lion's Way",
+   "The Big Easy top",
+   2.7
+  ],
+  [
+   "walk",
+   "Upper Lion's Way",
+   "Highlands Gondola top",
+   2.5
+  ],
+  [
+   "walk",
+   "West Ridge 3",
+   "Promised Land Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Luggi's",
+   "Rendezvous bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "Village Run / Unnamed run",
+   0.7
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "Village Run",
+   2.4
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "Lower Pioneer / Unnamed run",
+   1.5
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "Vista Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "Tahoe Zephyr Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "Pegasus bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "Arrow Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "Pegasus top",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Burnout",
+   "Backside Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "West Ridge 4",
+   "Promised Land Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "Village Run / Unnamed run",
+   0.9
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "Village Run",
+   3.5
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "Lower Pioneer / Unnamed run",
+   1.2
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "Vista Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "Tahoe Zephyr Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "Pegasus bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "Big Springs Express Gondola top",
+   1.1
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "Pegasus top",
+   2.5
+  ],
+  [
+   "walk",
+   "Highlands Gondola bottom",
+   "Unnamed lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Lower Burnout 3",
+   "Backside Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Lower Burnout 3",
+   "Promised Land Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Village Run / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Lower Pioneer / Unnamed run",
+   1.3
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Tahoe Zephyr Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Pegasus bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Big Springs Express Gondola top",
+   2.6
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Arrow Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Big Dipper top",
+   1.2
+  ],
+  [
+   "walk",
+   "Village Express top",
+   "Hornet's Nest / Logger's Loop 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Village Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Highlands Gondola bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Highlands Gondola top",
+   "The Big Easy top",
+   1.7
+  ],
+  [
+   "walk",
+   "Highlands Gondola top",
+   "Timberline 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Highlands Gondola top",
+   "Little Dipper bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Highlands Gondola top",
+   "Little Dipper top",
+   2.2
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Lower Pioneer / Unnamed run",
+   3.4
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Pegasus bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Boondocks / Woodcutter",
+   1.4
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Pegasus top",
+   2.3
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Highlands Gondola top",
+   2.7
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Little Dipper top",
+   0.9
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Big Dipper top",
+   1.2
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "The Big Easy top",
+   1.0
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Boondocks / Woodcutter",
+   1.5
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Pegasus top",
+   3.1
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Highlands Gondola top",
+   2.2
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Little Dipper bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Big Dipper top",
+   2.0
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Lower Pioneer / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Tahoe Zephyr Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Pegasus bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Pegasus top",
+   1.2
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Little Dipper bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Martis / Washoe",
+   "Prosser / Stampede",
+   3.9
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Pegasus top",
+   3.5
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Vista Express bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Condo Run / Village Run 2",
+   "Unnamed lift bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Condo Run / Village Run 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Vista Express bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Tahoe Zephyr Express bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Big Springs Express Gondola top",
+   4.9
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Arrow Express bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Vista Express bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Big Springs Express Gondola top",
+   3.8
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Arrow Express bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Polaris / Lower Burnout",
+   "Iron Horse / Unnamed run",
+   3.5
+  ],
+  [
+   "walk",
+   "Polaris / Lower Burnout",
+   "Castle Peak 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Polaris / Lower Burnout",
+   "Lower Burnout 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Iron Horse / Unnamed run",
+   "Castle Peak 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Iron Horse / Unnamed run",
+   "Lower Burnout 3",
+   2.5
+  ],
+  [
+   "walk",
+   "Castle Peak 2",
+   "Iron Horse / Unnamed run",
+   2.8
+  ],
+  [
+   "walk",
+   "Castle Peak 2",
+   "Lower Burnout 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Burnout",
+   "Iron Horse / Unnamed run",
+   4.9
+  ],
+  [
+   "walk",
+   "Lower Burnout",
+   "Promised Land Express bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Lower Burnout",
+   "Castle Peak 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower Burnout",
+   "Lower Burnout 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Burnout 3",
+   "Iron Horse / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Burnout 3",
+   "Castle Peak 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Ax Handle / Unnamed run",
+   "Lumberjack / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "The Chute / Skid Trail",
+   "Ax Handle / Unnamed run",
+   3.7
+  ],
+  [
+   "walk",
+   "The Chute / Skid Trail",
+   "Lumberjack / Unnamed run",
+   3.8
+  ],
+  [
+   "walk",
+   "Lumberjack / Unnamed run",
+   "Ax Handle / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Ax Handle",
+   "Ax Handle / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "Ax Handle",
+   "Lumberjack / Unnamed run",
+   4.0
+  ],
+  [
+   "walk",
+   "Luggi's",
+   "Ax Handle / Unnamed run",
+   4.0
+  ],
+  [
+   "walk",
+   "Luggi's",
+   "Lumberjack / Unnamed run",
+   4.0
+  ],
+  [
+   "walk",
+   "Lookout / Schwarzstrasse",
+   "Boondocks / The Face",
+   3.2
+  ],
+  [
+   "walk",
+   "Lookout Bypass / Drifter",
+   "Flying Squirrel / Goldmine",
+   4.3
+  ],
+  [
+   "walk",
+   "Webber / Schwarzstrasse",
+   "White Rabbit",
+   2.7
+  ],
+  [
+   "walk",
+   "White Rabbit",
+   "Webber / Schwarzstrasse",
+   2.7
+  ],
+  [
+   "walk",
+   "Village Run / Unnamed run",
+   "Village Run",
+   3.1
+  ],
+  [
+   "walk",
+   "Village Run / Unnamed run",
+   "Lower Pioneer / Unnamed run",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Village Run / Unnamed run",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Village Run",
+   3.9
+  ],
+  [
+   "walk",
+   "Deerskin / The Gulch",
+   "Village Run / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Deerskin / The Gulch",
+   "Village Run",
+   5.7
+  ],
+  [
+   "walk",
+   "Deerskin / The Gulch",
+   "Lower Pioneer / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Deerskin / The Gulch",
+   "Pegasus bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Logger's Loop",
+   "Village Run / Unnamed run",
+   3.1
+  ],
+  [
+   "walk",
+   "Logger's Loop",
+   "Village Run",
+   4.9
+  ],
+  [
+   "walk",
+   "Logger's Loop",
+   "Lower Pioneer / Unnamed run",
+   4.6
+  ],
+  [
+   "walk",
+   "Logger's Loop",
+   "Tahoe Zephyr Express bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Logger's Loop",
+   "Pegasus bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Logger's Loop",
+   "Arrow Express bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Logger's Loop",
+   "Pegasus top",
+   5.8
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Village Run",
+   3.9
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Village Run / Unnamed run",
+   5.3
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Village Run / Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Delight / East Ridge",
+   "Delight / East Ridge 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Delight / East Ridge",
+   "Moonshine / Logger's Loop",
+   5.8
+  ],
+  [
+   "walk",
+   "Delight / East Ridge",
+   "Skid Trail 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Delight / East Ridge 2",
+   "Moonshine / Logger's Loop",
+   3.9
+  ],
+  [
+   "walk",
+   "Delight / East Ridge 2",
+   "Skid Trail 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Moonshine / Logger's Loop",
+   "Delight / East Ridge 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Moonshine / Logger's Loop",
+   "Skid Trail 2",
+   5.4
+  ],
+  [
+   "walk",
+   "East Ridge 4",
+   "Delight / East Ridge 2",
+   3.5
+  ],
+  [
+   "walk",
+   "East Ridge 4",
+   "Moonshine / Logger's Loop",
+   4.5
+  ],
+  [
+   "walk",
+   "East Ridge 4",
+   "Skid Trail 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Timberline 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Highlands Gondola top",
+   3.8
+  ],
+  [
+   "walk",
+   "Overland Trail / Upper Lion's Way",
+   "Boondocks / Woodcutter",
+   4.8
+  ],
+  [
+   "walk",
+   "Overland Trail / Upper Lion's Way",
+   "Timberline 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Overland Trail / Upper Lion's Way",
+   "Little Dipper bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Overland Trail / Upper Lion's Way",
+   "Big Dipper top",
+   5.4
+  ],
+  [
+   "walk",
+   "Timberline 2",
+   "Boondocks / Woodcutter",
+   5.3
+  ],
+  [
+   "walk",
+   "Timberline 2",
+   "Little Dipper bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Timberline 2",
+   "Little Dipper top",
+   4.0
+  ],
+  [
+   "walk",
+   "Timberline 2",
+   "Big Dipper top",
+   5.8
+  ],
+  [
+   "walk",
+   "Upper Lion's Way",
+   "Boondocks / Woodcutter",
+   5.0
+  ],
+  [
+   "walk",
+   "Upper Lion's Way",
+   "Timberline 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Upper Lion's Way",
+   "Little Dipper bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Upper Lion's Way",
+   "Little Dipper top",
+   3.7
+  ],
+  [
+   "walk",
+   "Upper Lion's Way",
+   "Big Dipper top",
+   5.7
+  ],
+  [
+   "walk",
+   "Highlands Gondola top",
+   "Boondocks / Woodcutter",
+   3.8
+  ],
+  [
+   "walk",
+   "Highlands Gondola top",
+   "Big Dipper top",
+   3.9
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Timberline 2",
+   4.0
+  ],
+  [
+   "walk",
+   "East Ridge 3",
+   "East Ridge 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Deerskin / The Gulch",
+   "Pegasus top",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Pioneer",
+   "Village Run / Unnamed run",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Pioneer",
+   "Village Run",
+   6.7
+  ],
+  [
+   "walk",
+   "Lower Pioneer",
+   "Lower Pioneer / Unnamed run",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Pioneer",
+   "Vista Express bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Lower Pioneer",
+   "Pegasus bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Lower Pioneer",
+   "Big Springs Express Gondola top",
+   4.5
+  ],
+  [
+   "walk",
+   "Lower Pioneer",
+   "Pegasus top",
+   5.1
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Village Run",
+   5.0
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Village Run / Unnamed run",
+   5.3
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Village Run",
+   6.2
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Lower Pioneer / Unnamed run",
+   3.5
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Vista Express bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Tahoe Zephyr Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Big Springs Express Gondola top",
+   4.9
+  ],
+  [
+   "walk",
+   "Boondocks / Woodcutter",
+   "Arrow Express bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Village Run",
+   6.1
+  ],
+  [
+   "walk",
+   "Sodergren's",
+   "Deerskin / Upper Pioneer",
+   5.5
+  ],
+  [
+   "walk",
+   "Sodergren's",
+   "Lookout Bypass 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Lookout Bypass 3",
+   "Deerskin / Upper Pioneer",
+   3.1
+  ],
+  [
+   "walk",
+   "Lookout Bypass 3",
+   "Sodergren's",
+   3.7
+  ],
+  [
+   "walk",
+   "Ax Handle / West Ridge",
+   "Castle Peak",
+   5.1
+  ],
+  [
+   "walk",
+   "Ax Handle / West Ridge",
+   "West Ridge 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Ax Handle / West Ridge",
+   "West Ridge 4",
+   3.6
+  ],
+  [
+   "walk",
+   "Promised Land / West Ridge",
+   "Castle Peak",
+   4.0
+  ],
+  [
+   "walk",
+   "Promised Land / West Ridge",
+   "West Ridge 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Promised Land / West Ridge",
+   "West Ridge 4",
+   2.5
+  ],
+  [
+   "walk",
+   "West Ridge 3",
+   "Castle Peak",
+   3.3
+  ],
+  [
+   "walk",
+   "West Ridge 3",
+   "West Ridge 4",
+   1.8
+  ],
+  [
+   "walk",
+   "West Ridge 4",
+   "Castle Peak",
+   3.4
+  ],
+  [
+   "walk",
+   "West Ridge 4",
+   "West Ridge 3",
+   1.8
+  ],
+  [
+   "walk",
+   "The Big Easy top",
+   "Pegasus bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "The Big Easy top",
+   "Pegasus top",
+   4.1
+  ],
+  [
+   "walk",
+   "The Big Easy top",
+   "Lower Pioneer / Unnamed run",
+   5.3
+  ],
+  [
+   "walk",
+   "The Big Easy top",
+   "Tahoe Zephyr Express bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "The Big Easy top",
+   1.9
+  ],
+  [
+   "walk",
+   "Little Dipper bottom",
+   "Timberline 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Pegasus bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Village Run / Unnamed run",
+   6.1
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Lower Pioneer / Unnamed run",
+   4.3
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Tahoe Zephyr Express bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Big Springs Express Gondola top",
+   5.7
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Arrow Express bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Highlands Gondola top",
+   "Pegasus top",
+   5.0
+  ],
+  [
+   "walk",
+   "Timberline Triple top",
+   "The Big Easy top",
+   4.9
+  ],
+  [
+   "walk",
+   "Timberline Triple top",
+   "Highlands Gondola top",
+   5.4
+  ],
+  [
+   "walk",
+   "Timberline Triple top",
+   "Little Dipper top",
+   5.9
+  ],
+  [
+   "walk",
+   "Timberline Triple top",
+   "Little Dipper bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Village Run / Unnamed run",
+   "Big Dipper top",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Big Dipper top",
+   2.4
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "Big Dipper top",
+   3.1
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Big Dipper top",
+   1.8
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "Big Dipper top",
+   3.8
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "Big Dipper top",
+   3.6
+  ],
+  [
+   "walk",
+   "Little Dipper top",
+   "Vista Express bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Big Dipper top",
+   4.7
+  ],
+  [
+   "walk",
+   "Logger's Loop",
+   "Big Dipper top",
+   6.9
+  ],
+  [
+   "walk",
+   "Deerskin / The Gulch",
+   "Big Dipper top",
+   5.5
+  ],
+  [
+   "walk",
+   "Lower Pioneer",
+   "Big Dipper top",
+   6.3
+  ],
+  [
+   "walk",
+   "Village Express bottom",
+   "Highlands Gondola bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Highlands Gondola bottom",
+   "Village Express bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Highlands Gondola bottom",
+   "Condo Run / Village Run 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Condo Run / Village Run 2",
+   "Highlands Gondola bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "The Big Easy top",
+   "Big Springs Express Gondola top",
+   6.7
+  ],
+  [
+   "walk",
+   "The Big Easy top",
+   "Arrow Express bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Highlands Gondola top",
+   "Lower Pioneer / Unnamed run",
+   6.2
+  ],
+  [
+   "walk",
+   "Highlands Gondola top",
+   "Pegasus bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Highlands Gondola top",
+   "Tahoe Zephyr Express bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Boondocks / Woodcutter",
+   2.6
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Highlands Gondola top",
+   3.9
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Little Dipper top",
+   2.0
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "The Big Easy top",
+   3.0
+  ],
+  [
+   "walk",
+   "Big Dipper top",
+   "Timberline 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Overland Trail / Upper Lion's Way",
+   "Pegasus top",
+   6.5
+  ],
+  [
+   "walk",
+   "Upper Lion's Way",
+   "Pegasus top",
+   6.8
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Little Dipper bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Boondocks / Woodcutter",
+   3.7
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Highlands Gondola top",
+   5.0
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "Little Dipper top",
+   3.2
+  ],
+  [
+   "walk",
+   "Pegasus top",
+   "The Big Easy top",
+   4.2
+  ],
+  [
+   "walk",
+   "Village Run / Unnamed run",
+   "Little Dipper bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Village Run / Unnamed run",
+   "Boondocks / Woodcutter",
+   6.8
+  ],
+  [
+   "walk",
+   "Village Run / Unnamed run",
+   "Little Dipper top",
+   6.2
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Little Dipper bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Boondocks / Woodcutter",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Highlands Gondola top",
+   6.3
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "Little Dipper top",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Pioneer / Unnamed run",
+   "The Big Easy top",
+   5.5
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "Little Dipper bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "Boondocks / Woodcutter",
+   5.7
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "Little Dipper top",
+   5.1
+  ],
+  [
+   "walk",
+   "Tahoe Zephyr Express bottom",
+   "The Big Easy top",
+   6.1
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Little Dipper bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Boondocks / Woodcutter",
+   4.4
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Highlands Gondola top",
+   5.7
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "Little Dipper top",
+   3.8
+  ],
+  [
+   "walk",
+   "Pegasus bottom",
+   "The Big Easy top",
+   4.8
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "Little Dipper bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "Boondocks / Woodcutter",
+   6.3
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "Little Dipper top",
+   5.8
+  ],
+  [
+   "walk",
+   "Big Springs Express Gondola top",
+   "The Big Easy top",
+   6.8
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "Little Dipper bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "Boondocks / Woodcutter",
+   6.2
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "Little Dipper top",
+   5.6
+  ],
+  [
+   "walk",
+   "Arrow Express bottom",
+   "The Big Easy top",
+   6.6
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Little Dipper bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Little Dipper top",
+   6.7
+  ],
+  [
+   "walk",
+   "Deerskin / The Gulch",
+   "Little Dipper bottom",
+   6.7
+  ]
+ ],
+ "base": "Pegasus bottom",
+ "info": {}
+}

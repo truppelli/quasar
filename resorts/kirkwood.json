@@ -1,0 +1,1856 @@
+{
+ "name": "Kirkwood Mountain Resort",
+ "source": "OpenSkiMap ski area 718db266e6e9ec76a5003a404aec69a657b3ab33",
+ "origin_lonlat": [
+  -120.06448143205853,
+  38.67728460809901
+ ],
+ "nodes": {
+  "Cornice Express top": [
+   -1122,
+   -204,
+   2795.0
+  ],
+  "Look Out Janek / Olympic": [
+   -618,
+   515,
+   2455.1
+  ],
+  "Bunny top": [
+   -1303,
+   1181,
+   2436.0
+  ],
+  "Bunny bottom": [
+   -887,
+   1274,
+   2384.3
+  ],
+  "Mokelumne / Race Course": [
+   -711,
+   1,
+   2590.5
+  ],
+  "Mokelumne / Lower Monte Wolfe": [
+   -327,
+   325,
+   2448.2
+  ],
+  "The Wall top": [
+   -47,
+   -1070,
+   2883.6
+  ],
+  "Headwaters / Snowsnake Gully": [
+   -100,
+   -497,
+   2616.3
+  ],
+  "Sunnyside / Elevator Shaft": [
+   1188,
+   -1207,
+   2636.1
+  ],
+  "Button Bowl": [
+   1287,
+   -422,
+   2692.2
+  ],
+  "Button Bowl / Elevator Shaft": [
+   1722,
+   -604,
+   2521.8
+  ],
+  "Caples Crest top": [
+   1298,
+   -86,
+   2633.7
+  ],
+  "Herringbone Straight / Elevator Shaft": [
+   1821,
+   -567,
+   2513.4
+  ],
+  "Lost Cabin / Lower Monte Wolfe": [
+   -431,
+   77,
+   2502.4
+  ],
+  "Zachary / Lower Zachary": [
+   -681,
+   121,
+   2544.3
+  ],
+  "Cold Shoulder": [
+   541,
+   -1578,
+   2869.2
+  ],
+  "Cold Shoulder 2": [
+   1024,
+   -1325,
+   2665.5
+  ],
+  "Snowkirk top": [
+   353,
+   -217,
+   2502.0
+  ],
+  "Snowkirk bottom": [
+   -79,
+   647,
+   2381.8
+  ],
+  "Coyote": [
+   1284,
+   -520,
+   2714.0
+  ],
+  "Coyote / Bud's Alley": [
+   1685,
+   -650,
+   2525.9
+  ],
+  "Herringbone Straight": [
+   1529,
+   -280,
+   2585.4
+  ],
+  "Sunrise (4) bottom": [
+   1692,
+   -737,
+   2524.7
+  ],
+  "Thunder Saddle / Bark Shanty": [
+   601,
+   -204,
+   2478.7
+  ],
+  "Sunrise (4) top": [
+   591,
+   -1787,
+   2884.5
+  ],
+  "Happiness is / Devil's Draw": [
+   1239,
+   -1350,
+   2630.7
+  ],
+  "TC Express top": [
+   -926,
+   372,
+   2528.5
+  ],
+  "TC Express bottom": [
+   -853,
+   1227,
+   2384.2
+  ],
+  "The Reut top": [
+   2,
+   -519,
+   2646.4
+  ],
+  "Conestoga / Hay Flat": [
+   78,
+   104,
+   2444.4
+  ],
+  "Stump Run, Rabbit Runs / Sentinel": [
+   -1327,
+   252,
+   2601.9
+  ],
+  "Snowsnake Gully": [
+   -136,
+   169,
+   2441.1
+  ],
+  "School Run": [
+   -1282,
+   1279,
+   2431.1
+  ],
+  "Home Run / Lower Monte Wolfe": [
+   -488,
+   -9,
+   2526.1
+  ],
+  "Hole 'N' Wall": [
+   -842,
+   872,
+   2432.1
+  ],
+  "Hay Flat / Buckboard": [
+   -148,
+   542,
+   2393.6
+  ],
+  "Up'n'over / Olympic": [
+   -665,
+   469,
+   2467.3
+  ],
+  "Jim's / Fireball": [
+   -1320,
+   -54,
+   2763.9
+  ],
+  "Sentinel 2": [
+   -1347,
+   124,
+   2662.7
+  ],
+  "Home Run": [
+   -743,
+   465,
+   2478.5
+  ],
+  "Bark Shanty / Flying Carpet": [
+   1251,
+   -62,
+   2628.8
+  ],
+  "Hully Gully": [
+   553,
+   -1649,
+   2876.9
+  ],
+  "Hully Gully / Elevator Shaft": [
+   1012,
+   -1369,
+   2674.4
+  ],
+  "Solitude bottom": [
+   -282,
+   637,
+   2382.0
+  ],
+  "Lower Monte Wolfe / Monte Wolfe": [
+   -714,
+   -115,
+   2598.7
+  ],
+  "Caples Crest bottom": [
+   438,
+   -59,
+   2468.3
+  ],
+  "Lightning / Squirrel Ridge": [
+   -1135,
+   728,
+   2465.1
+  ],
+  "Buckboard": [
+   -169,
+   -483,
+   2627.9
+  ],
+  "The Wall bottom": [
+   -152,
+   591,
+   2387.2
+  ],
+  "Snowkirk": [
+   130,
+   143,
+   2440.6
+  ],
+  "Rabbit Runs / Squirrel Ridge": [
+   -1109,
+   636,
+   2477.8
+  ],
+  "Look Out Janek": [
+   -1144,
+   -159,
+   2789.5
+  ],
+  "Olympic": [
+   -305,
+   672,
+   2381.5
+  ],
+  "Short Spoke / Wagon Trail": [
+   -45,
+   -72,
+   2510.5
+  ],
+  "Snowkirk 2": [
+   -48,
+   280,
+   2421.0
+  ],
+  "Wonder Carpet 13 top": [
+   -1014,
+   1329,
+   2391.3
+  ],
+  "Lower Monte Wolfe": [
+   -317,
+   469,
+   2424.8
+  ],
+  "Devil's Draw 2": [
+   1501,
+   -1028,
+   2564.6
+  ],
+  "Free 'N' Easy": [
+   -1076,
+   531,
+   2493.0
+  ],
+  "Stump Run": [
+   -1271,
+   254,
+   2596.6
+  ],
+  "Snowkirk 3": [
+   -76,
+   595,
+   2384.4
+  ],
+  "Herringbone Straight 2": [
+   1714,
+   -381,
+   2533.3
+  ],
+  "Graduation": [
+   -1099,
+   1077,
+   2415.6
+  ],
+  "Headwaters": [
+   40,
+   -659,
+   2714.5
+  ],
+  "Thunder Saddle": [
+   526,
+   -535,
+   2508.6
+  ],
+  "The Drain 2": [
+   -257,
+   178,
+   2442.9
+  ],
+  "Iron Horse top": [
+   1294,
+   -174,
+   2641.9
+  ],
+  "Deadwood Spur": [
+   1538,
+   -478,
+   2568.1
+  ],
+  "Wonder Carpet 13 bottom": [
+   -957,
+   1324,
+   2386.3
+  ],
+  "Vista bottom": [
+   1268,
+   -131,
+   2648.4
+  ],
+  "Vista top": [
+   1246,
+   -487,
+   2726.9
+  ],
+  "Solitude top": [
+   -746,
+   -34,
+   2608.8
+  ],
+  "Iron Horse bottom": [
+   1866,
+   -565,
+   2511.2
+  ]
+ },
+ "lifts": [
+  [
+   "Caples Crest",
+   "Caples Crest bottom",
+   "Caples Crest top",
+   9.0
+  ],
+  [
+   "The Wall",
+   "The Wall bottom",
+   "The Wall top",
+   15.7
+  ],
+  [
+   "Wonder Carpet 13",
+   "Wonder Carpet 13 bottom",
+   "Wonder Carpet 13 top",
+   3.9
+  ],
+  [
+   "Vista",
+   "Vista bottom",
+   "Vista top",
+   5.1
+  ],
+  [
+   "Sunrise (4)",
+   "Sunrise (4) bottom",
+   "Sunrise (4) top",
+   14.3
+  ],
+  [
+   "Bunny",
+   "Bunny bottom",
+   "Bunny top",
+   6.1
+  ],
+  [
+   "The Reut",
+   "The Wall bottom",
+   "The Reut top",
+   11.5
+  ],
+  [
+   "TC Express",
+   "TC Express bottom",
+   "TC Express top",
+   5.9
+  ],
+  [
+   "Snowkirk",
+   "Snowkirk bottom",
+   "Snowkirk top",
+   10.0
+  ],
+  [
+   "Solitude",
+   "Solitude bottom",
+   "Solitude top",
+   9.3
+  ],
+  [
+   "Cornice Express",
+   "Solitude bottom",
+   "Cornice Express top",
+   7.2
+  ],
+  [
+   "Iron Horse",
+   "Iron Horse bottom",
+   "Iron Horse top",
+   7.9
+  ]
+ ],
+ "runs": [
+  [
+   "Look Out Janek",
+   "Cornice Express top",
+   "Look Out Janek",
+   0.5
+  ],
+  [
+   "Look Out Janek",
+   "Look Out Janek",
+   "Look Out Janek / Olympic",
+   3.8
+  ],
+  [
+   "School Run",
+   "Bunny top",
+   "School Run",
+   0.5
+  ],
+  [
+   "School Run",
+   "School Run",
+   "Wonder Carpet 13 top",
+   1.4
+  ],
+  [
+   "School Run",
+   "Wonder Carpet 13 top",
+   "Wonder Carpet 13 bottom",
+   0.5
+  ],
+  [
+   "School Run",
+   "Wonder Carpet 13 bottom",
+   "Bunny bottom",
+   0.5
+  ],
+  [
+   "Mokelumne",
+   "Mokelumne / Race Course",
+   "Mokelumne / Lower Monte Wolfe",
+   2.2
+  ],
+  [
+   "Headwaters",
+   "The Wall top",
+   "Headwaters",
+   1.9
+  ],
+  [
+   "Headwaters",
+   "Headwaters",
+   "Headwaters / Snowsnake Gully",
+   0.8
+  ],
+  [
+   "Button Bowl",
+   "Button Bowl",
+   "Button Bowl / Elevator Shaft",
+   2.0
+  ],
+  [
+   "Herringbone Straight",
+   "Caples Crest top",
+   "Herringbone Straight",
+   1.2
+  ],
+  [
+   "Herringbone Straight",
+   "Herringbone Straight",
+   "Herringbone Straight 2",
+   0.9
+  ],
+  [
+   "Herringbone Straight",
+   "Herringbone Straight 2",
+   "Herringbone Straight / Elevator Shaft",
+   0.9
+  ],
+  [
+   "Lost Cabin",
+   "Cornice Express top",
+   "Lost Cabin / Lower Monte Wolfe",
+   3.9
+  ],
+  [
+   "Zachary",
+   "Cornice Express top",
+   "Zachary / Lower Zachary",
+   2.4
+  ],
+  [
+   "Cold Shoulder",
+   "Cold Shoulder",
+   "Cold Shoulder 2",
+   2.3
+  ],
+  [
+   "Snowkirk",
+   "Snowkirk top",
+   "Snowkirk",
+   1.7
+  ],
+  [
+   "Snowkirk",
+   "Snowkirk",
+   "Snowkirk 2",
+   1.0
+  ],
+  [
+   "Snowkirk",
+   "Snowkirk 2",
+   "Snowkirk 3",
+   1.3
+  ],
+  [
+   "Snowkirk",
+   "Snowkirk 3",
+   "Snowkirk bottom",
+   0.5
+  ],
+  [
+   "Coyote",
+   "Coyote",
+   "Coyote / Bud's Alley",
+   1.9
+  ],
+  [
+   "Bud's Alley",
+   "Herringbone Straight",
+   "Coyote / Bud's Alley",
+   1.6
+  ],
+  [
+   "Bud's Alley",
+   "Coyote / Bud's Alley",
+   "Sunrise (4) bottom",
+   0.5
+  ],
+  [
+   "Thunder Saddle",
+   "Thunder Saddle",
+   "Thunder Saddle / Bark Shanty",
+   1.5
+  ],
+  [
+   "Happiness is",
+   "Sunrise (4) top",
+   "Happiness is / Devil's Draw",
+   3.5
+  ],
+  [
+   "Hole 'N' Wall",
+   "TC Express top",
+   "Hole 'N' Wall",
+   2.1
+  ],
+  [
+   "Hole 'N' Wall",
+   "Hole 'N' Wall",
+   "TC Express bottom",
+   1.6
+  ],
+  [
+   "Conestoga",
+   "The Reut top",
+   "Conestoga / Hay Flat",
+   2.7
+  ],
+  [
+   "Snowsnake Gully",
+   "Headwaters / Snowsnake Gully",
+   "Snowsnake Gully",
+   2.8
+  ],
+  [
+   "Sentinel",
+   "Sentinel 2",
+   "Stump Run, Rabbit Runs / Sentinel",
+   0.6
+  ],
+  [
+   "Home Run",
+   "Home Run / Lower Monte Wolfe",
+   "Home Run",
+   2.2
+  ],
+  [
+   "Home Run",
+   "Home Run",
+   "Hole 'N' Wall",
+   1.8
+  ],
+  [
+   "Funny Bunny",
+   "Bunny top",
+   "Bunny bottom",
+   1.7
+  ],
+  [
+   "Hay Flat",
+   "Hay Flat / Buckboard",
+   "Conestoga / Hay Flat",
+   2.1
+  ],
+  [
+   "Hay Flat",
+   "Conestoga / Hay Flat",
+   "Caples Crest bottom",
+   1.7
+  ],
+  [
+   "Hay Flat",
+   "Caples Crest bottom",
+   "Snowkirk top",
+   0.9
+  ],
+  [
+   "Up'n'over",
+   "TC Express top",
+   "Home Run",
+   0.7
+  ],
+  [
+   "Up'n'over",
+   "Home Run",
+   "Up'n'over / Olympic",
+   0.5
+  ],
+  [
+   "Devil's Draw",
+   "Happiness is / Devil's Draw",
+   "Devil's Draw 2",
+   1.7
+  ],
+  [
+   "Devil's Draw",
+   "Devil's Draw 2",
+   "Sunrise (4) bottom",
+   1.6
+  ],
+  [
+   "Jim's",
+   "Jim's / Fireball",
+   "Sentinel 2",
+   0.7
+  ],
+  [
+   "Stump Run",
+   "Stump Run, Rabbit Runs / Sentinel",
+   "Stump Run",
+   0.5
+  ],
+  [
+   "Stump Run",
+   "Stump Run",
+   "Home Run",
+   2.4
+  ],
+  [
+   "Bark Shanty",
+   "Bark Shanty / Flying Carpet",
+   "Thunder Saddle / Bark Shanty",
+   3.1
+  ],
+  [
+   "Hully Gully",
+   "Hully Gully",
+   "Hully Gully / Elevator Shaft",
+   2.3
+  ],
+  [
+   "Lower Zachary",
+   "Zachary / Lower Zachary",
+   "Solitude bottom",
+   2.6
+  ],
+  [
+   "Free 'N' Easy",
+   "TC Express top",
+   "Free 'N' Easy",
+   0.8
+  ],
+  [
+   "Free 'N' Easy",
+   "Free 'N' Easy",
+   "TC Express bottom",
+   3.1
+  ],
+  [
+   "Lower Monte Wolfe",
+   "Lower Monte Wolfe / Monte Wolfe",
+   "Home Run / Lower Monte Wolfe",
+   1.1
+  ],
+  [
+   "Lower Monte Wolfe",
+   "Home Run / Lower Monte Wolfe",
+   "Lost Cabin / Lower Monte Wolfe",
+   0.5
+  ],
+  [
+   "Lower Monte Wolfe",
+   "Lost Cabin / Lower Monte Wolfe",
+   "Mokelumne / Lower Monte Wolfe",
+   1.1
+  ],
+  [
+   "Lower Monte Wolfe",
+   "Mokelumne / Lower Monte Wolfe",
+   "Lower Monte Wolfe",
+   0.7
+  ],
+  [
+   "Lower Monte Wolfe",
+   "Lower Monte Wolfe",
+   "Solitude bottom",
+   0.7
+  ],
+  [
+   "Flying Carpet",
+   "Caples Crest top",
+   "Bark Shanty / Flying Carpet",
+   0.5
+  ],
+  [
+   "Flying Carpet",
+   "Bark Shanty / Flying Carpet",
+   "Caples Crest bottom",
+   3.5
+  ],
+  [
+   "Monte Wolfe",
+   "Cornice Express top",
+   "Lower Monte Wolfe / Monte Wolfe",
+   1.9
+  ],
+  [
+   "Buckboard",
+   "Buckboard",
+   "Hay Flat / Buckboard",
+   4.5
+  ],
+  [
+   "Buckboard",
+   "Hay Flat / Buckboard",
+   "The Wall bottom",
+   0.5
+  ],
+  [
+   "Shotgun",
+   "The Reut top",
+   "Snowkirk",
+   3.2
+  ],
+  [
+   "Gold Rush Kids Adventure Zone",
+   "Bunny top",
+   "Bunny bottom",
+   1.7
+  ],
+  [
+   "Rabbit Runs",
+   "Stump Run, Rabbit Runs / Sentinel",
+   "Rabbit Runs / Squirrel Ridge",
+   1.8
+  ],
+  [
+   "Olympic",
+   "Look Out Janek",
+   "Up'n'over / Olympic",
+   3.7
+  ],
+  [
+   "Olympic",
+   "Up'n'over / Olympic",
+   "Look Out Janek / Olympic",
+   0.5
+  ],
+  [
+   "Olympic",
+   "Look Out Janek / Olympic",
+   "Olympic",
+   1.6
+  ],
+  [
+   "Short Spoke",
+   "Short Spoke / Wagon Trail",
+   "Snowkirk 2",
+   1.4
+  ],
+  [
+   "Hide and Seek",
+   "Bunny top",
+   "Wonder Carpet 13 top",
+   1.2
+  ],
+  [
+   "Race Course",
+   "Mokelumne / Race Course",
+   "Lower Monte Wolfe",
+   2.5
+  ],
+  [
+   "Graduation",
+   "Bunny top",
+   "Graduation",
+   0.9
+  ],
+  [
+   "Graduation",
+   "Graduation",
+   "TC Express bottom",
+   1.3
+  ],
+  [
+   "Graduation",
+   "TC Express bottom",
+   "Bunny bottom",
+   0.5
+  ],
+  [
+   "Squirrel Ridge",
+   "Free 'N' Easy",
+   "Rabbit Runs / Squirrel Ridge",
+   0.5
+  ],
+  [
+   "Squirrel Ridge",
+   "Rabbit Runs / Squirrel Ridge",
+   "Lightning / Squirrel Ridge",
+   0.5
+  ],
+  [
+   "Squirrel Ridge",
+   "Lightning / Squirrel Ridge",
+   "TC Express bottom",
+   2.4
+  ],
+  [
+   "Fireball",
+   "Jim's / Fireball",
+   "Stump Run",
+   1.3
+  ],
+  [
+   "Whiskey Slide",
+   "Caples Crest top",
+   "Bark Shanty / Flying Carpet",
+   0.5
+  ],
+  [
+   "Whiskey Slide",
+   "Bark Shanty / Flying Carpet",
+   "Snowkirk 3",
+   7.2
+  ],
+  [
+   "Easy Rider",
+   "Caples Crest top",
+   "Herringbone Straight 2",
+   2.4
+  ],
+  [
+   "Eagle Bowl",
+   "Headwaters",
+   "Thunder Saddle",
+   2.2
+  ],
+  [
+   "Wagon Trail",
+   "The Reut top",
+   "Short Spoke / Wagon Trail",
+   1.9
+  ],
+  [
+   "Elevator Shaft",
+   "Sunrise (4) top",
+   "Hully Gully / Elevator Shaft",
+   2.6
+  ],
+  [
+   "Elevator Shaft",
+   "Hully Gully / Elevator Shaft",
+   "Sunnyside / Elevator Shaft",
+   1.0
+  ],
+  [
+   "Elevator Shaft",
+   "Sunnyside / Elevator Shaft",
+   "Coyote / Bud's Alley",
+   3.3
+  ],
+  [
+   "Elevator Shaft",
+   "Coyote / Bud's Alley",
+   "Button Bowl / Elevator Shaft",
+   0.5
+  ],
+  [
+   "Elevator Shaft",
+   "Button Bowl / Elevator Shaft",
+   "Herringbone Straight / Elevator Shaft",
+   0.5
+  ],
+  [
+   "Deadwood Spur",
+   "Iron Horse top",
+   "Deadwood Spur",
+   1.8
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Cornice Express top",
+   "Jim's / Fireball",
+   3.4
+  ],
+  [
+   "walk",
+   "Cornice Express top",
+   "Look Out Janek",
+   0.7
+  ],
+  [
+   "walk",
+   "Bunny top",
+   "School Run",
+   1.4
+  ],
+  [
+   "walk",
+   "Bunny top",
+   "Graduation",
+   3.2
+  ],
+  [
+   "walk",
+   "Bunny bottom",
+   "TC Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Bunny bottom",
+   "Wonder Carpet 13 top",
+   1.9
+  ],
+  [
+   "walk",
+   "Bunny bottom",
+   "Wonder Carpet 13 bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Button Bowl",
+   "Iron Horse top",
+   3.4
+  ],
+  [
+   "walk",
+   "Button Bowl / Elevator Shaft",
+   "Sunrise (4) bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Button Bowl / Elevator Shaft",
+   "Iron Horse bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Caples Crest top",
+   "Bark Shanty / Flying Carpet",
+   0.7
+  ],
+  [
+   "walk",
+   "Caples Crest top",
+   "Iron Horse top",
+   1.2
+  ],
+  [
+   "walk",
+   "Caples Crest top",
+   "Vista bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Herringbone Straight / Elevator Shaft",
+   "Button Bowl / Elevator Shaft",
+   1.5
+  ],
+  [
+   "walk",
+   "Herringbone Straight / Elevator Shaft",
+   "Coyote / Bud's Alley",
+   2.2
+  ],
+  [
+   "walk",
+   "Herringbone Straight / Elevator Shaft",
+   "Sunrise (4) bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Herringbone Straight / Elevator Shaft",
+   "Iron Horse bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Cold Shoulder 2",
+   "Sunnyside / Elevator Shaft",
+   2.8
+  ],
+  [
+   "walk",
+   "Cold Shoulder 2",
+   "Happiness is / Devil's Draw",
+   3.0
+  ],
+  [
+   "walk",
+   "Cold Shoulder 2",
+   "Hully Gully / Elevator Shaft",
+   0.6
+  ],
+  [
+   "walk",
+   "Snowkirk top",
+   "Thunder Saddle / Bark Shanty",
+   3.4
+  ],
+  [
+   "walk",
+   "Snowkirk top",
+   "Caples Crest bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Snowkirk bottom",
+   "Hay Flat / Buckboard",
+   1.7
+  ],
+  [
+   "walk",
+   "Snowkirk bottom",
+   "Solitude bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Snowkirk bottom",
+   "The Wall bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Snowkirk bottom",
+   "Olympic",
+   3.2
+  ],
+  [
+   "walk",
+   "Snowkirk bottom",
+   "Snowkirk 3",
+   0.7
+  ],
+  [
+   "walk",
+   "Coyote",
+   "Vista top",
+   0.7
+  ],
+  [
+   "walk",
+   "Coyote / Bud's Alley",
+   "Sunrise (4) bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Coyote / Bud's Alley",
+   "Iron Horse bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Sunrise (4) bottom",
+   "Button Bowl / Elevator Shaft",
+   1.9
+  ],
+  [
+   "walk",
+   "Sunrise (4) bottom",
+   "Herringbone Straight / Elevator Shaft",
+   3.0
+  ],
+  [
+   "walk",
+   "Sunrise (4) bottom",
+   "Coyote / Bud's Alley",
+   1.2
+  ],
+  [
+   "walk",
+   "Sunrise (4) bottom",
+   "Iron Horse bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Thunder Saddle / Bark Shanty",
+   "Caples Crest bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Sunrise (4) top",
+   "Cold Shoulder",
+   3.0
+  ],
+  [
+   "walk",
+   "Sunrise (4) top",
+   "Hully Gully",
+   2.0
+  ],
+  [
+   "walk",
+   "TC Express top",
+   "Home Run",
+   2.8
+  ],
+  [
+   "walk",
+   "TC Express top",
+   "Free 'N' Easy",
+   3.0
+  ],
+  [
+   "walk",
+   "TC Express bottom",
+   "Bunny bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "TC Express bottom",
+   "Wonder Carpet 13 top",
+   2.7
+  ],
+  [
+   "walk",
+   "TC Express bottom",
+   "Wonder Carpet 13 bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "The Reut top",
+   "Headwaters / Snowsnake Gully",
+   1.4
+  ],
+  [
+   "walk",
+   "The Reut top",
+   "Buckboard",
+   2.4
+  ],
+  [
+   "walk",
+   "Snowsnake Gully",
+   "Mokelumne / Lower Monte Wolfe",
+   3.4
+  ],
+  [
+   "walk",
+   "Snowsnake Gully",
+   "Conestoga / Hay Flat",
+   3.1
+  ],
+  [
+   "walk",
+   "Snowsnake Gully",
+   "Snowkirk 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Snowsnake Gully",
+   "The Drain 2",
+   1.7
+  ],
+  [
+   "walk",
+   "School Run",
+   "Bunny top",
+   1.4
+  ],
+  [
+   "walk",
+   "Hay Flat / Buckboard",
+   "Snowkirk bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Hay Flat / Buckboard",
+   "Solitude bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Hay Flat / Buckboard",
+   "The Wall bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Bark Shanty / Flying Carpet",
+   "Caples Crest top",
+   0.7
+  ],
+  [
+   "walk",
+   "Bark Shanty / Flying Carpet",
+   "Iron Horse top",
+   1.7
+  ],
+  [
+   "walk",
+   "Hully Gully",
+   "Sunrise (4) top",
+   2.0
+  ],
+  [
+   "walk",
+   "Solitude bottom",
+   "Snowkirk bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Solitude bottom",
+   "Hay Flat / Buckboard",
+   2.3
+  ],
+  [
+   "walk",
+   "Solitude bottom",
+   "The Wall bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Solitude bottom",
+   "Olympic",
+   0.6
+  ],
+  [
+   "walk",
+   "Solitude bottom",
+   "Snowkirk 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Monte Wolfe / Monte Wolfe",
+   "Solitude top",
+   1.2
+  ],
+  [
+   "walk",
+   "Caples Crest bottom",
+   "Thunder Saddle / Bark Shanty",
+   3.0
+  ],
+  [
+   "walk",
+   "The Wall bottom",
+   "Snowkirk bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "The Wall bottom",
+   "Hay Flat / Buckboard",
+   0.7
+  ],
+  [
+   "walk",
+   "The Wall bottom",
+   "Solitude bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "The Wall bottom",
+   "Olympic",
+   2.4
+  ],
+  [
+   "walk",
+   "The Wall bottom",
+   "Snowkirk 3",
+   1.1
+  ],
+  [
+   "walk",
+   "Look Out Janek",
+   "Cornice Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Snowkirk bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Hay Flat / Buckboard",
+   2.8
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Solitude bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Olympic",
+   "The Wall bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Snowkirk 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Wonder Carpet 13 top",
+   "Bunny bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Wonder Carpet 13 top",
+   "TC Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Wonder Carpet 13 top",
+   "Wonder Carpet 13 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Lower Monte Wolfe",
+   "Solitude bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Monte Wolfe",
+   "The Wall bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Snowkirk 3",
+   "Snowkirk bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Snowkirk 3",
+   "Solitude bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Snowkirk 3",
+   "The Wall bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Herringbone Straight 2",
+   "Iron Horse bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "The Reut top",
+   2.0
+  ],
+  [
+   "walk",
+   "The Drain 2",
+   "Mokelumne / Lower Monte Wolfe",
+   2.3
+  ],
+  [
+   "walk",
+   "The Drain 2",
+   "Snowsnake Gully",
+   1.7
+  ],
+  [
+   "walk",
+   "The Drain 2",
+   "Snowkirk 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Iron Horse top",
+   "Caples Crest top",
+   1.2
+  ],
+  [
+   "walk",
+   "Iron Horse top",
+   "Bark Shanty / Flying Carpet",
+   1.7
+  ],
+  [
+   "walk",
+   "Iron Horse top",
+   "Vista bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Deadwood Spur",
+   "Button Bowl / Elevator Shaft",
+   3.1
+  ],
+  [
+   "walk",
+   "Deadwood Spur",
+   "Coyote / Bud's Alley",
+   3.1
+  ],
+  [
+   "walk",
+   "Deadwood Spur",
+   "Herringbone Straight 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Wonder Carpet 13 bottom",
+   "Bunny bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Wonder Carpet 13 bottom",
+   "TC Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Wonder Carpet 13 bottom",
+   "Wonder Carpet 13 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Vista bottom",
+   "Caples Crest top",
+   0.7
+  ],
+  [
+   "walk",
+   "Vista bottom",
+   "Bark Shanty / Flying Carpet",
+   1.0
+  ],
+  [
+   "walk",
+   "Vista bottom",
+   "Iron Horse top",
+   0.7
+  ],
+  [
+   "walk",
+   "Vista top",
+   "Button Bowl",
+   1.1
+  ],
+  [
+   "walk",
+   "Vista top",
+   "Coyote",
+   0.7
+  ],
+  [
+   "walk",
+   "Solitude top",
+   "Mokelumne / Race Course",
+   0.7
+  ],
+  [
+   "walk",
+   "Solitude top",
+   "Zachary / Lower Zachary",
+   2.3
+  ],
+  [
+   "walk",
+   "Solitude top",
+   "Lower Monte Wolfe / Monte Wolfe",
+   1.2
+  ],
+  [
+   "walk",
+   "Iron Horse bottom",
+   "Button Bowl / Elevator Shaft",
+   2.1
+  ],
+  [
+   "walk",
+   "Iron Horse bottom",
+   "Herringbone Straight / Elevator Shaft",
+   0.6
+  ],
+  [
+   "walk",
+   "Iron Horse bottom",
+   "Coyote / Bud's Alley",
+   2.8
+  ],
+  [
+   "walk",
+   "Iron Horse bottom",
+   "Sunrise (4) bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Look Out Janek",
+   "Jim's / Fireball",
+   4.1
+  ],
+  [
+   "walk",
+   "School Run",
+   "Graduation",
+   4.6
+  ],
+  [
+   "walk",
+   "Vista top",
+   "Iron Horse top",
+   4.5
+  ],
+  [
+   "walk",
+   "Deadwood Spur",
+   "Sunrise (4) bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Deadwood Spur",
+   "Iron Horse bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Bark Shanty / Flying Carpet",
+   "Vista bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Hay Flat / Buckboard",
+   "Olympic",
+   2.9
+  ],
+  [
+   "walk",
+   "Hay Flat / Buckboard",
+   "Snowkirk 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Snowkirk 3",
+   "Hay Flat / Buckboard",
+   1.7
+  ],
+  [
+   "walk",
+   "Snowkirk 3",
+   "Olympic",
+   3.5
+  ],
+  [
+   "walk",
+   "Button Bowl / Elevator Shaft",
+   "Herringbone Straight / Elevator Shaft",
+   2.7
+  ],
+  [
+   "walk",
+   "Button Bowl / Elevator Shaft",
+   "Coyote / Bud's Alley",
+   3.1
+  ],
+  [
+   "walk",
+   "Coyote / Bud's Alley",
+   "Button Bowl / Elevator Shaft",
+   3.1
+  ],
+  [
+   "walk",
+   "Coyote / Bud's Alley",
+   "Herringbone Straight / Elevator Shaft",
+   3.4
+  ],
+  [
+   "walk",
+   "Hully Gully",
+   "Cold Shoulder",
+   5.0
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "Headwaters / Snowsnake Gully",
+   3.5
+  ],
+  [
+   "walk",
+   "Headwaters",
+   "Buckboard",
+   4.4
+  ],
+  [
+   "walk",
+   "The Drain 2",
+   "Conestoga / Hay Flat",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower Monte Wolfe",
+   "Snowkirk bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Monte Wolfe",
+   "Hay Flat / Buckboard",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower Monte Wolfe",
+   "Olympic",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Monte Wolfe",
+   "Snowkirk 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Button Bowl",
+   "Caples Crest top",
+   4.7
+  ],
+  [
+   "walk",
+   "Button Bowl",
+   "Bark Shanty / Flying Carpet",
+   5.1
+  ],
+  [
+   "walk",
+   "Button Bowl",
+   "Vista bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Vista top",
+   "Caples Crest top",
+   5.7
+  ],
+  [
+   "walk",
+   "Vista top",
+   "Bark Shanty / Flying Carpet",
+   6.2
+  ],
+  [
+   "walk",
+   "Vista top",
+   "Vista bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Coyote",
+   "Button Bowl",
+   1.8
+  ],
+  [
+   "walk",
+   "Coyote",
+   "Iron Horse top",
+   5.2
+  ],
+  [
+   "walk",
+   "Coyote",
+   "Caples Crest top",
+   6.4
+  ],
+  [
+   "walk",
+   "Coyote",
+   "Bark Shanty / Flying Carpet",
+   6.9
+  ],
+  [
+   "walk",
+   "Coyote",
+   "Vista bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Lower Monte Wolfe / Monte Wolfe",
+   "Mokelumne / Race Course",
+   1.9
+  ],
+  [
+   "walk",
+   "Lower Monte Wolfe / Monte Wolfe",
+   "Zachary / Lower Zachary",
+   3.5
+  ],
+  [
+   "walk",
+   "Herringbone Straight 2",
+   "Button Bowl / Elevator Shaft",
+   5.4
+  ],
+  [
+   "walk",
+   "Herringbone Straight 2",
+   "Herringbone Straight / Elevator Shaft",
+   3.9
+  ],
+  [
+   "walk",
+   "Herringbone Straight 2",
+   "Coyote / Bud's Alley",
+   6.1
+  ],
+  [
+   "walk",
+   "Herringbone Straight 2",
+   "Sunrise (4) bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Deadwood Spur",
+   "Herringbone Straight / Elevator Shaft",
+   5.8
+  ]
+ ],
+ "base": "TC Express bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "California",
+  "total_lifts": "13",
+  "downhill_trails": "62",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}
