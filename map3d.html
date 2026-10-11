@@ -345,6 +345,7 @@ $("levels").addEventListener("click", (e) => {
     if (interest[t.dataset.lv] === 0) hidden.add(t.dataset.lv); else hidden.delete(t.dataset.lv);
     setRunFilter();
     writeHash();
+    if (route) planRoute();  // Skip drops the level from the route, Want favors it
   }
   renderLevels();
 });
@@ -363,6 +364,7 @@ function vote(id, v) {
   on.has(id) ? on.delete(id) : on.add(id);
   syncVotes(); renderTrip(); writeHash();
   showCard(byId(id));
+  if (route) planRoute();  // 👎 skips the run, 👍 favors it
 }
 const byId = (id) => geo.features.find((f) => f.properties.id === id);
 
@@ -452,7 +454,7 @@ map.on("click", (e) => {
 });
 
 // ---- Plan my day: /plan on the resort's routing graph, drawn along the map's own run and lift lines.
-let graph = null, route = null;
+let graph = null, route = null, lastPrefs = {};
 const R = Math.PI / 180;
 
 function lonlat(node) {  // graph nodes are metres east/north of origin_lonlat (datasets.py's projection)
@@ -462,7 +464,7 @@ function lonlat(node) {  // graph nodes are metres east/north of origin_lonlat (
 
 // The map line with this leg's name and kind whose nearest points to the leg's ends are closest, cut to that span.
 // Graph legs are trails split at junctions, so this is usually a slice of one line. Links: straight walk.
-function legLine(leg) {
+function matchLeg(leg) {  // { id, line } of the matching map feature, or null
   const a = lonlat(leg.from), b = lonlat(leg.to), kx = 111320 * Math.cos(a[1] * R);
   const d = (p, q) => Math.hypot((p[0] - q[0]) * kx, (p[1] - q[1]) * 110540);
   let best = null;
@@ -470,9 +472,28 @@ function legLine(leg) {
     if (f.properties.kind !== leg.kind || f.properties.name !== leg.name || f.geometry.type !== "LineString") continue;
     const c = f.geometry.coordinates, near = (p) => c.reduce((bi, q, i) => (d(q, p) < d(c[bi], p) ? i : bi), 0);
     const i = near(a), j = near(b), cost = d(c[i], a) + d(c[j], b);
-    if (i !== j && (!best || cost < best.cost)) best = { cost, line: i < j ? c.slice(i, j + 1) : c.slice(j, i + 1).reverse() };
+    if (i !== j && (!best || cost < best.cost)) best = { cost, id: f.properties.id, line: i < j ? c.slice(i, j + 1) : c.slice(j, i + 1).reverse() };
   }
-  return best && best.cost < 200 ? best.line.map((p) => p.slice(0, 2)) : [a, b];  // ponytail: 200 m match radius
+  return best && best.cost < 200 ? best : null;  // ponytail: 200 m match radius
+}
+function legLine(leg) {
+  const m = matchLeg(leg);
+  return m ? m.line.map((p) => p.slice(0, 2)) : [lonlat(leg.from), lonlat(leg.to)];
+}
+
+// ---- Preferences -> planner: each graph run is matched to its map run once (name + nearest ends, like the drawing),
+// so a 👎 on one "Unnamed run" skips that trail, not every unnamed run. Unmatched graph runs are left alone.
+function prefs() {
+  if (!graph.runFeature) graph.runFeature = Object.fromEntries(graph.edges.filter((e) => e.kind === "run").map((e) => [e.id, matchLeg(e)?.id]));
+  const exclude = [], want = [];
+  for (const [eid, fid] of Object.entries(graph.runFeature)) {
+    const f = fid && byId(fid);
+    if (!f) continue;
+    const lv = interest[f.properties.level];
+    if (dislikes.has(fid) || lv === 0) exclude.push(eid);
+    else if (likes.has(fid) || lv === 2) want.push(eid);
+  }
+  return { exclude, want };
 }
 
 function drawRoute(fit) {
@@ -490,7 +511,8 @@ function drawRoute(fit) {
   const mid = (s) => { const c = s.lines[Math.floor(s.lines.length / 2)]; return c[Math.floor(c.length / 2)]; };
   map.getSource("steps").setData(fc(steps.map((s, i) => ({ type: "Feature", geometry: { type: "Point", coordinates: mid(s) }, properties: { n: i + 1 } }))));
   $("route").innerHTML = steps.map((s) => `<li>${s.kind === "lift" ? "🚡" : "⛷"} ${esc(s.name)} <small>${Math.round(s.minutes)} min${s.vertical ? ` · ${fmtVert(s.vertical)}` : ""}</small></li>`).join("");
-  if (route) $("plan-out").textContent = `${steps.length} lifts and runs · ${fmtVert(route.vertical_m)} skied · ${Math.round(route.minutes)} min · ${route.optimal ? "proven best route" : "best found (beam search)"}`;
+  const p = [lastPrefs.exclude && `skipping ${lastPrefs.exclude} run segments`, lastPrefs.want && `favoring ${lastPrefs.want}`].filter(Boolean).join(", ");
+  if (route) $("plan-out").textContent = `${steps.length} lifts and runs · ${fmtVert(route.vertical_m)} skied · ${Math.round(route.minutes)} min · ${route.optimal ? "proven best route" : "best found (beam search)"}${p ? ` · ${p}` : ""}`;
   if (fit && lines.length) {
     const b = lines.flat().reduce((b, p) => [[Math.min(b[0][0], p[0]), Math.min(b[0][1], p[1])], [Math.max(b[1][0], p[0]), Math.max(b[1][1], p[1])]], [[180, 90], [-180, -90]]);
     map.fitBounds(b, { padding: { top: 60, bottom: 60, left: innerWidth > 720 ? 380 : 40, right: 60 }, pitch: 62, maxZoom: 15.5, duration: 2500 });
@@ -535,7 +557,10 @@ async function planRoute() {
   try {
     await loadGraph();
     const from = ["start", "end"].map((k) => (pins[k] ? `&${k}=${encodeURIComponent(pins[k])}` : "")).join("");
-    const r = await fetch(`/plan?resort=${encodeURIComponent(slug)}&minutes=${encodeURIComponent(minutes)}${from}`), body = await r.json();
+    const { exclude, want } = prefs();
+    const pref = (exclude.length ? `&exclude=${exclude.join(",")}` : "") + (want.length ? `&want=${want.join(",")}` : "");
+    lastPrefs = { exclude: exclude.length, want: want.length };
+    const r = await fetch(`/plan?resort=${encodeURIComponent(slug)}&minutes=${encodeURIComponent(minutes)}${from}${pref}`), body = await r.json();
     if (resort.slug !== slug) return;  // switched resorts while planning
     route = r.ok && !body.error ? body : null;
     if (!route) $("plan-out").textContent = body.error || "No route";
