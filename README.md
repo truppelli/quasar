@@ -211,7 +211,7 @@ python extract.py --all    # every downhill ski area into data/geo/ (local only;
 [ski-routes.racedayconnect.com](https://ski-routes.racedayconnect.com) runs on a small DigitalOcean Droplet (1 vCPU): `deploy/Dockerfile` (which downloads this repo from GitHub when it builds) behind Caddy, which gets and renews the HTTPS certificate (`deploy/Caddyfile`). A 2-hour plan takes about 2 s there. To deploy the latest `main`, run on the Droplet:
 
 ```sh
-docker build -t quasar https://github.com/truppelli/quasar.git#main:deploy
+docker build --no-cache -t quasar https://github.com/truppelli/quasar.git#main:deploy   # --no-cache: else Docker reuses the old download of the repo
 docker rm -f quasar
 docker run -d --name quasar --restart unless-stopped --network web --user 1000 --memory 512m quasar
 ```
