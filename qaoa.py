@@ -249,16 +249,18 @@ def main(backend=None):
     if counts is not None:
         cw, ca = circuit.unpack(counts, sizes)
         hit_w = sum(c for k, c in cw.items() if k < len(scores) and opt[k])
+        miss_w = sum(c for k, c in cw.items() if k >= len(scores))  # unused register states: only noise lands here
         hit_a = sum(c for k, c in ca.items() if is_opt[k])
         miss_a = sum(c for k, c in ca.items() if route[k] < 0)
         r_w, r_a = (sum(c * v[k] for k, c in cs.items()) / a.shots for cs, v in ((cw, val_w), (ca, val_a)))
         print(
             f"  one job, both circuits on {packed.num_qubits} qubits ({where}), {a.shots} shots: optimum sampled"
-            f" {hit_w} times by QWOA, {hit_a} by QAOA; {miss_a} QAOA shots were not routes;"
+            f" {hit_w} times by QWOA, {hit_a} by QAOA; not routes: {miss_w} QWOA shots, {miss_a} QAOA shots;"
             f" approx. ratio {r_w:.3f} QWOA, {r_a:.3f} QAOA"
         )
         assert sum(cw.values()) == sum(ca.values()) == a.shots
         if where == "local sampler":  # QWOA half must match QWOA's distribution, or unpack mixed up qubits
+            assert miss_w == 0, "noise-free QWOA sampled an index that isn't a route"
             assert 0.5 * sum(abs(cw.get(k, 0) / a.shots - q) for k, q in enumerate(probs_w)) < 0.1, "unpack is wrong"
 
     try:
