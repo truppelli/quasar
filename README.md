@@ -2,7 +2,7 @@
 
 Given where a skier is now and how much time they have, find a near-optimal route that covers the most *unique* vertical. A run scores its full vertical the first time and half on repeats. Repeat lift rides cost a little.
 
-> **Qollab hackathon submission.** This effort is supported by Qollab & IonQ. Student Track, Quantum Impact theme, Colorado School of Mines node. MIT license. Run `python main.py` for the hackathon demo: QWOA against a penalty-QUBO QAOA baseline on one lift pod, with both circuits packed into one IonQ job ([details](#baseline-penalty-qubo-qaoa)). **Live: [ski-routes.racedayconnect.com](https://ski-routes.racedayconnect.com)**, where you can plan a ski day on the 3D map. Demo video outline: [docs/demo-video.md](docs/demo-video.md). Credits: [contributions.md](contributions.md).
+> **Qollab hackathon submission.** This effort is supported by Qollab & IonQ. Student Track, Quantum Impact theme, Colorado School of Mines node. MIT license. Run `python main.py` for the hackathon demo: QWOA against a penalty-QUBO QAOA baseline on one lift pod, with both circuits packed into one IonQ job ([details](#baseline-penalty-qubo-qaoa)). **Live: [ski-routes.racedayconnect.com](https://ski-routes.racedayconnect.com)**, where you can plan a ski day on the 3D map. **Results write-up: [truppelli.github.io/quasar](https://truppelli.github.io/quasar/)**, QWOA vs the baselines with charts and how we checked them. Demo video outline: [docs/demo-video.md](docs/demo-video.md). Credits: [contributions.md](contributions.md).
 
 ## Problem
 
@@ -26,7 +26,7 @@ The quantum side is **QWOA**: QAOA whose mixer is a continuous-time quantum walk
 
 ## QWOA vs the baselines at a glance
 
-Six lift pods, noise-free simulation at p = 1, against the textbook penalty-QUBO QAOA and a uniformly random route. The numbers are the [baseline table](#baseline-penalty-qubo-qaoa)'s; `python charts.py` regenerates the charts from the code (needs `pip install matplotlib`).
+The [results page](https://truppelli.github.io/quasar/) walks through these in full. Six lift pods, noise-free simulation at p = 1, against the textbook penalty-QUBO QAOA and a uniformly random route. The numbers are the [baseline table](#baseline-penalty-qubo-qaoa)'s; `python charts.py` regenerates the charts from the code (needs `pip install matplotlib`).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/img/qwoa-vs-baselines-dark.png">
