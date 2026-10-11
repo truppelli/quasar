@@ -3,7 +3,8 @@
 GET /                         the map page (viz.html)
 GET /resorts                  resort names in resorts/
 GET /resort?resort=toy        nodes, edges and origin_lonlat (node x/y are metres from it)
-GET /plan?resort=toy&start=summit&minutes=25[&end=base]   best route JSON (quasar.plan)
+GET /plan?resort=toy&start=summit&minutes=25[&end=base][&exclude=3,7][&want=5]   best route JSON (quasar.plan;
+                              exclude/want are run edge ids from /resort: runs to skip, runs worth a bonus)
 GET /3d                       the 3D mountain map (map3d.html)
 GET /geo                      3D-map resorts (index.json from resorts/geo and data/geo)
 GET /geo?resort=vail          that resort's runs and lifts as GeoJSON (made by extract.py)
@@ -68,6 +69,11 @@ def feedback(body):
     return 200, {"ok": True}
 
 
+def ids(s):
+    """Comma-separated edge ids from a query value; anything that isn't an integer is dropped."""
+    return {int(x) for x in s.split(",") if x.strip().lstrip("-").isdigit()}
+
+
 def api(path, q):
     """Returns (status, body). Query values are untrusted: resort must be a known file, start/end real nodes."""
     if path == "/resorts":
@@ -95,7 +101,10 @@ def api(path, q):
             return 400, {"error": "minutes must be a number"}
         if not 0 <= minutes <= MAX_MINUTES:
             return 400, {"error": f"minutes must be 0-{MAX_MINUTES}"}
-        return 200, quasar.plan(r, start, minutes, end) or {"error": f"can't reach {end} in {minutes:g} min"}
+        exclude, want = (ids(q.get(k, "")) for k in ("exclude", "want"))
+        why = " without the skipped runs" if exclude else ""
+        found = quasar.plan(r, start, minutes, end, exclude=exclude, want=want)
+        return 200, found or {"error": f"can't reach {end} in {minutes:g} min{why}"}
     return 404, {"error": "not found"}
 
 
@@ -128,6 +137,12 @@ if __name__ == "__main__":
     assert api("/plan", {"resort": "../quasar", "minutes": "25"})[0] == 400
     assert api("/plan", {"resort": "toy", "start": "nowhere", "minutes": "25"})[0] == 400
     assert api("/plan", {"resort": "toy", "minutes": "1e9"})[0] == 400
+    toy = {"resort": "toy", "start": "summit", "minutes": "25"}
+    runs = {e["id"] for e in api("/plan", toy)[1]["route"] if e["kind"] == "run"}
+    skip = api("/plan", {**toy, "exclude": ",".join(map(str, runs)) + ",x"})[1]  # junk ids are ignored
+    assert "error" in skip or not runs & {e["id"] for e in skip["route"]}, "skipped runs were planned"
+    want = api("/plan", {**toy, "want": ",".join(map(str, runs))})[1]
+    assert want["vertical_m"] == sum(e["vertical"] for e in want["route"]), "want inflated the reported vertical"
     assert api("/geo", {"resort": "../serve"})[0] == 400
     vail = api("/geo", {"resort": "vail"})[1]["features"]
     run = next(f["properties"]["id"] for f in vail if f["properties"]["kind"] == "run")

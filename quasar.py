@@ -18,6 +18,7 @@ from scipy.optimize import minimize
 # back to the base. Partial credit keeps long days skiing once new runs run out, while new runs still win 2:1.
 RUN_REPEAT_CREDIT = 0.5  # share of a run's vertical a repeat descent scores
 LIFT_REPEAT_COST = 50  # metres of vertical one repeat ride of the same lift costs
+WANT_BONUS = 0.5  # a run the skier wants scores this share of its vertical extra (plan(want=...))
 
 
 def load(path):
@@ -95,7 +96,7 @@ def _prep(edges, end):
     for i, e in enumerate(edges):
         out.setdefault(e["from"], []).append(i)
     for v in out.values():  # most vertical per minute first, so good routes turn up early
-        v.sort(key=lambda i: -edges[i]["vertical"] / edges[i]["minutes"])
+        v.sort(key=lambda i: -_value(edges[i]) / edges[i]["minutes"])
     # Fastest minutes to `end` from (node, arrived by link?), obeying the same no-two-links rule as _gain,
     # so "can still get home" is never optimistic. Dijkstra on reversed edges.
     into = {}
@@ -115,7 +116,12 @@ def _prep(edges, end):
                 if not (f and by_link) and d + e["minutes"] < home.get(key, np.inf):
                     home[key] = d + e["minutes"]
                     heapq.heappush(heap, (home[key], e["from"], f))
-    return out, home, max(e["vertical"] / e["minutes"] for e in edges)
+    return out, home, max(_value(e) / e["minutes"] for e in edges)
+
+
+def _value(e):
+    """What an edge's first descent scores: its vertical, or more for a run the skier wants (plan(want=...))."""
+    return e.get("value", e["vertical"])
 
 
 def _gain(edges, i, path, times_used, left, home):
@@ -128,8 +134,8 @@ def _gain(edges, i, path, times_used, left, home):
     if e["kind"] == "link":
         return -e["climb"]
     if not times_used:
-        return e["vertical"]
-    return {"run": RUN_REPEAT_CREDIT * e["vertical"], "lift": -LIFT_REPEAT_COST}[e["kind"]]
+        return _value(e)
+    return {"run": RUN_REPEAT_CREDIT * _value(e), "lift": -LIFT_REPEAT_COST}[e["kind"]]
 
 
 def beam(resort, start, end, minutes, width=500):
@@ -179,13 +185,22 @@ def describe(resort, score, path):
     }
 
 
-def plan(resort, start, minutes, end=None, max_nodes=None):
+def plan(resort, start, minutes, end=None, max_nodes=None, exclude=(), want=()):
     """Best route (the app path): exact branch-and-bound if it finishes within max_nodes, else beam search.
 
     Default cap: 300k nodes on small graphs (<= 60 edges), 20k on bigger ones. Lift pods finish well inside 20k;
     whole resorts never finish, so they only lose a fraction of a second before beam search.
     None if `end` is unreachable in time. "optimal" says whether the route is proven best.
+    exclude: run edge ids the skier won't ski (dropped from the graph); want: run edge ids worth WANT_BONUS extra.
     """
+    if exclude or want:
+        exclude, want = set(exclude), set(want)
+        edges = [
+            {**e, "value": e["vertical"] * (1 + WANT_BONUS)} if e["id"] in want else e
+            for e in resort["edges"]
+            if not (e["kind"] == "run" and e["id"] in exclude)
+        ]
+        resort = {**resort, "edges": edges}
     end = end or resort["base"]
     max_nodes = max_nodes or (300_000 if len(resort["edges"]) <= 60 else 20_000)
     sols, tree, _ = search(resort, start, end, minutes, max_nodes=max_nodes)
