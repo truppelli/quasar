@@ -1,0 +1,7406 @@
+{
+ "name": "Stratton Mountain Resort",
+ "source": "OpenSkiMap ski area 856ac5fd0830012a280f9d3939ff687676b429c1",
+ "origin_lonlat": [
+  -72.91176937967387,
+  43.102698308532354
+ ],
+ "nodes": {
+  "Flukey's Run / Snow Bowl Alley": [
+   -420,
+   465,
+   796.3
+  ],
+  "Flukey's Run / Old Smoothie": [
+   -128,
+   886,
+   718.8
+  ],
+  "Grizzly Access / Lower Tamarack": [
+   40,
+   233,
+   823.9
+  ],
+  "Grizzly Access / Bear Bottom": [
+   287,
+   119,
+   789.2
+  ],
+  "Craig's Run / Lower Tamarack": [
+   117,
+   265,
+   810.9
+  ],
+  "Tamarack bottom": [
+   704,
+   968,
+   662.6
+  ],
+  "Lower Drifter / Interstate": [
+   -841,
+   77,
+   960.2
+  ],
+  "Lower Drifter / Drifter Link": [
+   -603,
+   709,
+   802.7
+  ],
+  "Hemlock / Betwixt": [
+   -85,
+   373,
+   826.7
+  ],
+  "Flukey's Run": [
+   -334,
+   592,
+   774.9
+  ],
+  "Ursa Express top": [
+   -682,
+   -784,
+   1181.4
+  ],
+  "Frank's Fall Line": [
+   -631,
+   -679,
+   1156.3
+  ],
+  "Yodeler / Frank's Fall Line": [
+   3,
+   258,
+   827.5
+  ],
+  "Tryo Tube bottom": [
+   337,
+   1118,
+   654.0
+  ],
+  "Way Home / Shooter": [
+   324,
+   -696,
+   941.0
+  ],
+  "Way Home / Black Bear": [
+   302,
+   -174,
+   870.7
+  ],
+  "Craig's Run": [
+   358,
+   401,
+   760.0
+  ],
+  "Craig's Run 2": [
+   592,
+   663,
+   702.0
+  ],
+  "Yodeler": [
+   39,
+   319,
+   827.0
+  ],
+  "Tink's Link / Lower Standard": [
+   -100,
+   493,
+   797.3
+  ],
+  "Lower Standard / Upper Standard": [
+   -214,
+   266,
+   846.2
+  ],
+  "American Express bottom": [
+   210,
+   1121,
+   650.4
+  ],
+  "Shooting Star top": [
+   -723,
+   -835,
+   1181.8
+  ],
+  "Upper Kidderbrook / Lower Kidderbrook": [
+   958,
+   -1409,
+   750.9
+  ],
+  "Bear Botttom / Upper Tamarack": [
+   -264,
+   -353,
+   982.1
+  ],
+  "Bear Botttom / Grizzly Bear": [
+   -128,
+   -343,
+   959.4
+  ],
+  "Frank's Fall Line 2": [
+   -680,
+   -722,
+   1176.4
+  ],
+  "Upper Tamarack / Lower Tamarack": [
+   -1,
+   100,
+   842.0
+  ],
+  "Upper Wanderer / Janeway Jct.": [
+   -770,
+   -714,
+   1175.7
+  ],
+  "Upper Wanderer / Work Road": [
+   -1067,
+   -679,
+   1109.4
+  ],
+  "Big Ben / Home Run": [
+   918,
+   126,
+   770.5
+  ],
+  "Solstice bottom": [
+   1742,
+   -468,
+   610.4
+  ],
+  "Lower Grizzly / Bear Bottom": [
+   -70,
+   -244,
+   923.1
+  ],
+  "Upper Tamarack": [
+   -41,
+   29,
+   860.5
+  ],
+  "Lower Kidderbrook / Sunriser Supertrail": [
+   1664,
+   -659,
+   605.6
+  ],
+  "Drifter Link / Lower Wanderer": [
+   -915,
+   503,
+   884.7
+  ],
+  "Snow Bowl Express bottom": [
+   -514,
+   569,
+   763.9
+  ],
+  "Upper Middlebrook / Chute": [
+   -433,
+   -880,
+   1135.6
+  ],
+  "Upper Middlebrook / Lower Middlebrook": [
+   268,
+   -828,
+   914.2
+  ],
+  "Work Road / Mike's Way": [
+   -1114,
+   -760,
+   1117.0
+  ],
+  "Work Road / Upper West Meadow": [
+   -949,
+   -13,
+   984.7
+  ],
+  "Frank's Fall Line / Upper Standard": [
+   -722,
+   -740,
+   1181.3
+  ],
+  "Lower Spruce / Interstate": [
+   -526,
+   92,
+   914.5
+  ],
+  "Lower Spruce / Lower Liftline": [
+   -503,
+   447,
+   789.8
+  ],
+  "Ethan's Alley / Lower Wanderer": [
+   -57,
+   1141,
+   679.7
+  ],
+  "Summit Gondola top": [
+   -745,
+   -783,
+   1183.4
+  ],
+  "Mike's Way / Upper East Meadow": [
+   -918,
+   -410,
+   1079.7
+  ],
+  "Chute / Black Bear": [
+   -652,
+   -821,
+   1178.4
+  ],
+  "Chute": [
+   -600,
+   -811,
+   1171.3
+  ],
+  "Upper Tamarack 2": [
+   -539,
+   -720,
+   1149.0
+  ],
+  "91 Extension / Soltice Way, Solstice Way": [
+   1383,
+   88,
+   676.4
+  ],
+  "91 Extension / 91": [
+   1593,
+   -110,
+   645.3
+  ],
+  "Cabot's Run / Lower Wanderer": [
+   -418,
+   921,
+   710.9
+  ],
+  "Upper East Meadow / Lower East Meadow": [
+   -905,
+   34,
+   974.5
+  ],
+  "Old Number 8 / Black Bear": [
+   317,
+   -76,
+   841.3
+  ],
+  "Old Number 8 / Runaway": [
+   340,
+   183,
+   775.7
+  ],
+  "Shooter / Bear Down": [
+   89,
+   -888,
+   964.2
+  ],
+  "Stage 1 / Downtowner": [
+   459,
+   915,
+   683.3
+  ],
+  "Villager bottom": [
+   575,
+   1064,
+   656.1
+  ],
+  "Craig's Run 3": [
+   649,
+   847,
+   676.3
+  ],
+  "American Express top": [
+   -136,
+   215,
+   848.3
+  ],
+  "Lower Standard": [
+   58,
+   813,
+   718.7
+  ],
+  "Sunrise Express bottom": [
+   1704,
+   -616,
+   608.1
+  ],
+  "Villager top": [
+   451,
+   850,
+   695.2
+  ],
+  "Upper Standard": [
+   -330,
+   20,
+   916.2
+  ],
+  "Frank's Fall Line 3": [
+   -52,
+   172,
+   843.9
+  ],
+  "Lower Tamarack": [
+   346,
+   521,
+   751.2
+  ],
+  "Tink's Link": [
+   3,
+   430,
+   814.0
+  ],
+  "Lower Standard 2": [
+   -63,
+   570,
+   783.5
+  ],
+  "Solstice top": [
+   400,
+   -139,
+   841.9
+  ],
+  "Big Ben": [
+   1100,
+   157,
+   746.8
+  ],
+  "Chute 2": [
+   -529,
+   -848,
+   1152.3
+  ],
+  "Lower Kidderbrook": [
+   1541,
+   -1278,
+   673.1
+  ],
+  "Upper East Meadow": [
+   -881,
+   -385,
+   1078.3
+  ],
+  "Upper Standard 2": [
+   -242,
+   199,
+   860.1
+  ],
+  "Suntanner": [
+   281,
+   1116,
+   651.6
+  ],
+  "Way Home": [
+   319,
+   -641,
+   937.5
+  ],
+  "Lower Downeaster": [
+   1733,
+   -583,
+   605.9
+  ],
+  "Lower Downeaster 2": [
+   1111,
+   -385,
+   706.4
+  ],
+  "Upper Slalom Glade / Upper Drifter": [
+   -800,
+   -351,
+   1075.0
+  ],
+  "Interstate": [
+   -746,
+   84,
+   941.4
+  ],
+  "Betwixt": [
+   3,
+   548,
+   782.1
+  ],
+  "Upper Kidderbrook": [
+   27,
+   -1171,
+   1022.3
+  ],
+  "Free Fall / Churchill Downs": [
+   392,
+   -1068,
+   872.3
+  ],
+  "Craig's Run 4": [
+   564,
+   510,
+   719.0
+  ],
+  "Craig's Run 5": [
+   548,
+   625,
+   708.9
+  ],
+  "Number 6 / Gentle Ben": [
+   486,
+   -243,
+   821.6
+  ],
+  "Sun Beam": [
+   673,
+   -374,
+   805.9
+  ],
+  "Way Home 2": [
+   281,
+   -413,
+   905.2
+  ],
+  "Lower Downeaster 3": [
+   1634,
+   -559,
+   609.5
+  ],
+  "Janeway Jct.": [
+   -766,
+   -662,
+   1167.1
+  ],
+  "Interstate 2": [
+   -605,
+   72,
+   925.8
+  ],
+  "Yodeler 2": [
+   166,
+   510,
+   783.4
+  ],
+  "Lower Tamarack 2": [
+   441,
+   660,
+   725.2
+  ],
+  "Yodeler 3": [
+   77,
+   355,
+   824.2
+  ],
+  "Lower Tamarack 3": [
+   400,
+   648,
+   733.8
+  ],
+  "Lower Tamarack 4": [
+   265,
+   419,
+   774.4
+  ],
+  "Lower Tamarack 5": [
+   469,
+   706,
+   715.3
+  ],
+  "Bear Down / Churchill Downs": [
+   261,
+   -915,
+   896.7
+  ],
+  "Sunriser Supertrail": [
+   651,
+   -775,
+   883.6
+  ],
+  "Sunriser Supertrail 2": [
+   1623,
+   -676,
+   610.5
+  ],
+  "Lower Middlebrook": [
+   300,
+   -856,
+   902.1
+  ],
+  "Sunriser Supertrail 3": [
+   1111,
+   -676,
+   764.9
+  ],
+  "Polar Bear / Black Bear": [
+   -349,
+   -801,
+   1121.6
+  ],
+  "Lower Downeaster 4": [
+   568,
+   -607,
+   873.6
+  ],
+  "Lower Downeaster 5": [
+   1249,
+   -440,
+   684.5
+  ],
+  "Slider (Tube Park Lift) bottom": [
+   1651,
+   -357,
+   620.2
+  ],
+  "Snow Bowl Alley": [
+   -505,
+   506,
+   775.3
+  ],
+  "Lower Standard 3": [
+   -196,
+   303,
+   841.5
+  ],
+  "Flukey's Run 2": [
+   -376,
+   547,
+   782.8
+  ],
+  "Lower Wanderer": [
+   137,
+   1121,
+   659.1
+  ],
+  "Sunriser Supertrail 4": [
+   1369,
+   -671,
+   679.5
+  ],
+  "Yodeler 4": [
+   268,
+   802,
+   714.1
+  ],
+  "Cub Carpet bottom": [
+   375,
+   1100,
+   657.6
+  ],
+  "Yodeler 5": [
+   242,
+   710,
+   737.3
+  ],
+  "Black Bear": [
+   317,
+   -121,
+   853.4
+  ],
+  "Gentle Ben": [
+   517,
+   -199,
+   814.9
+  ],
+  "Interstate 3": [
+   -425,
+   150,
+   886.9
+  ],
+  "Big Ben 2": [
+   1506,
+   -256,
+   644.4
+  ],
+  "Janeway Jct. 2": [
+   -769,
+   -524,
+   1136.8
+  ],
+  "Mike's Way": [
+   -839,
+   -843,
+   1180.3
+  ],
+  "Lower Slalom Glade": [
+   -685,
+   415,
+   850.1
+  ],
+  "Upper Liftline": [
+   -687,
+   -323,
+   1065.5
+  ],
+  "Lower Standard 4": [
+   -18,
+   673,
+   760.8
+  ],
+  "Upper Standard 3": [
+   -419,
+   -141,
+   967.5
+  ],
+  "Work Road": [
+   -1032,
+   -246,
+   1026.7
+  ],
+  "Lower West Meadow": [
+   -952,
+   465,
+   889.6
+  ],
+  "Sunriser Supertrail 5": [
+   746,
+   -784,
+   856.9
+  ],
+  "Sunriser Supertrail 6": [
+   1575,
+   -671,
+   618.7
+  ],
+  "Dino's Drop": [
+   -731,
+   140,
+   920.6
+  ],
+  "Dino's Drop 2": [
+   -688,
+   152,
+   908.3
+  ],
+  "Lower Wanderer 2": [
+   -462,
+   935,
+   721.2
+  ],
+  "Home Run": [
+   700,
+   580,
+   688.1
+  ],
+  "Drifter Link": [
+   -804,
+   631,
+   853.9
+  ],
+  "Lower Wanderer 3": [
+   -872,
+   854,
+   805.4
+  ],
+  "Redlands bottom": [
+   434,
+   1097,
+   658.6
+  ],
+  "Black Bear 2": [
+   113,
+   -435,
+   968.0
+  ],
+  "Hemlock": [
+   -202,
+   455,
+   809.5
+  ],
+  "Flukey's Run 3": [
+   -214,
+   701,
+   750.1
+  ],
+  "Cub Carpet top": [
+   408,
+   933,
+   683.3
+  ],
+  "Ursa Express bottom": [
+   291,
+   173,
+   775.9
+  ],
+  "Theodore Carpet bottom": [
+   365,
+   1151,
+   653.5
+  ],
+  "Tryo Tube top": [
+   344,
+   1033,
+   667.3
+  ],
+  "Slider (Tube Park Lift) top": [
+   1535,
+   -321,
+   635.6
+  ],
+  "Summit Gondola bottom": [
+   239,
+   1191,
+   647.4
+  ],
+  "Catamount bottom": [
+   531,
+   1068,
+   659.0
+  ],
+  "Snow Bowl Express top": [
+   -785,
+   -762,
+   1181.3
+  ],
+  "Tamarack top": [
+   155,
+   282,
+   807.8
+  ],
+  "South American top": [
+   88,
+   303,
+   827.7
+  ],
+  "Sunrise Express top": [
+   362,
+   -681,
+   937.6
+  ],
+  "Shooting Star bottom": [
+   264,
+   -715,
+   941.1
+  ]
+ },
+ "lifts": [
+  [
+   "Solstice",
+   "Solstice bottom",
+   "Solstice top",
+   13.4
+  ],
+  [
+   "Cub Carpet",
+   "Cub Carpet bottom",
+   "Cub Carpet top",
+   6.5
+  ],
+  [
+   "Ursa Express",
+   "Ursa Express bottom",
+   "Ursa Express top",
+   7.7
+  ],
+  [
+   "Tryo Tube",
+   "Tryo Tube bottom",
+   "Tryo Tube top",
+   4.5
+  ],
+  [
+   "Villager",
+   "Villager bottom",
+   "Villager top",
+   8.0
+  ],
+  [
+   "Slider (Tube Park Lift)",
+   "Slider (Tube Park Lift) bottom",
+   "Slider (Tube Park Lift) top",
+   5.0
+  ],
+  [
+   "Summit Gondola",
+   "Summit Gondola bottom",
+   "Summit Gondola top",
+   11.0
+  ],
+  [
+   "Summit Gondola",
+   "Summit Gondola top",
+   "Summit Gondola bottom",
+   11.0
+  ],
+  [
+   "American Express",
+   "American Express bottom",
+   "American Express top",
+   6.3
+  ],
+  [
+   "Snow Bowl Express",
+   "Snow Bowl Express bottom",
+   "Snow Bowl Express top",
+   7.5
+  ],
+  [
+   "Tamarack",
+   "Tamarack bottom",
+   "Tamarack top",
+   9.4
+  ],
+  [
+   "South American",
+   "Tryo Tube bottom",
+   "South American top",
+   9.1
+  ],
+  [
+   "Sunrise Express",
+   "Sunrise Express bottom",
+   "Sunrise Express top",
+   7.5
+  ],
+  [
+   "Shooting Star",
+   "Shooting Star bottom",
+   "Shooting Star top",
+   10.4
+  ]
+ ],
+ "runs": [
+  [
+   "Flukey's Run",
+   "Flukey's Run / Snow Bowl Alley",
+   "Flukey's Run 2",
+   0.5
+  ],
+  [
+   "Flukey's Run",
+   "Flukey's Run 2",
+   "Flukey's Run",
+   0.5
+  ],
+  [
+   "Flukey's Run",
+   "Flukey's Run",
+   "Flukey's Run 3",
+   0.6
+  ],
+  [
+   "Flukey's Run",
+   "Flukey's Run 3",
+   "Flukey's Run / Old Smoothie",
+   0.9
+  ],
+  [
+   "Grizzly Access",
+   "Grizzly Access / Lower Tamarack",
+   "Grizzly Access / Bear Bottom",
+   1.2
+  ],
+  [
+   "Craig's Run",
+   "Craig's Run / Lower Tamarack",
+   "Tamarack top",
+   0.5
+  ],
+  [
+   "Craig's Run",
+   "Tamarack top",
+   "Craig's Run",
+   0.9
+  ],
+  [
+   "Craig's Run",
+   "Craig's Run",
+   "Craig's Run 4",
+   1.2
+  ],
+  [
+   "Craig's Run",
+   "Craig's Run 4",
+   "Craig's Run 5",
+   0.6
+  ],
+  [
+   "Craig's Run",
+   "Craig's Run 5",
+   "Craig's Run 2",
+   0.5
+  ],
+  [
+   "Craig's Run",
+   "Craig's Run 2",
+   "Craig's Run 3",
+   0.8
+  ],
+  [
+   "Craig's Run",
+   "Craig's Run 3",
+   "Tamarack bottom",
+   0.6
+  ],
+  [
+   "Lower Drifter",
+   "Lower Drifter / Interstate",
+   "Lower Drifter / Drifter Link",
+   2.9
+  ],
+  [
+   "Hemlock",
+   "Hemlock / Betwixt",
+   "Hemlock",
+   0.5
+  ],
+  [
+   "Hemlock",
+   "Hemlock",
+   "Flukey's Run",
+   0.8
+  ],
+  [
+   "Frank's Fall Line",
+   "Ursa Express top",
+   "Frank's Fall Line 2",
+   0.5
+  ],
+  [
+   "Frank's Fall Line",
+   "Frank's Fall Line 2",
+   "Frank's Fall Line",
+   0.5
+  ],
+  [
+   "Yodeler",
+   "Yodeler / Frank's Fall Line",
+   "Yodeler",
+   0.5
+  ],
+  [
+   "Yodeler",
+   "Yodeler",
+   "Yodeler 3",
+   0.5
+  ],
+  [
+   "Yodeler",
+   "Yodeler 3",
+   "Yodeler 2",
+   0.7
+  ],
+  [
+   "Yodeler",
+   "Yodeler 2",
+   "Yodeler 5",
+   0.9
+  ],
+  [
+   "Yodeler",
+   "Yodeler 5",
+   "Yodeler 4",
+   0.5
+  ],
+  [
+   "Yodeler",
+   "Yodeler 4",
+   "Tryo Tube top",
+   1.1
+  ],
+  [
+   "Yodeler",
+   "Tryo Tube top",
+   "Tryo Tube bottom",
+   0.5
+  ],
+  [
+   "Way Home",
+   "Way Home / Shooter",
+   "Way Home",
+   0.5
+  ],
+  [
+   "Way Home",
+   "Way Home",
+   "Way Home 2",
+   0.8
+  ],
+  [
+   "Way Home",
+   "Way Home 2",
+   "Way Home / Black Bear",
+   1.0
+  ],
+  [
+   "Daniel Webster",
+   "Craig's Run",
+   "Craig's Run 5",
+   1.1
+  ],
+  [
+   "Daniel Webster",
+   "Craig's Run 5",
+   "Craig's Run 2",
+   0.5
+  ],
+  [
+   "Tink's Link",
+   "Yodeler",
+   "Tink's Link",
+   0.5
+  ],
+  [
+   "Tink's Link",
+   "Tink's Link",
+   "Tink's Link / Lower Standard",
+   0.5
+  ],
+  [
+   "Lower Standard",
+   "Lower Standard / Upper Standard",
+   "Lower Standard 3",
+   0.5
+  ],
+  [
+   "Lower Standard",
+   "Lower Standard 3",
+   "Tink's Link / Lower Standard",
+   0.8
+  ],
+  [
+   "Lower Standard",
+   "Tink's Link / Lower Standard",
+   "Lower Standard 2",
+   0.5
+  ],
+  [
+   "Lower Standard",
+   "Lower Standard 2",
+   "Lower Standard 4",
+   0.5
+  ],
+  [
+   "Lower Standard",
+   "Lower Standard 4",
+   "Lower Standard",
+   0.7
+  ],
+  [
+   "Lower Standard",
+   "Lower Standard",
+   "American Express bottom",
+   1.5
+  ],
+  [
+   "Upper Kidderbrook",
+   "Shooting Star top",
+   "Upper Kidderbrook",
+   3.5
+  ],
+  [
+   "Upper Kidderbrook",
+   "Upper Kidderbrook",
+   "Upper Kidderbrook / Lower Kidderbrook",
+   4.2
+  ],
+  [
+   "Bear Botttom",
+   "Bear Botttom / Upper Tamarack",
+   "Bear Botttom / Grizzly Bear",
+   0.5
+  ],
+  [
+   "Upper Tamarack",
+   "Frank's Fall Line 2",
+   "Upper Tamarack 2",
+   0.5
+  ],
+  [
+   "Upper Tamarack",
+   "Upper Tamarack 2",
+   "Bear Botttom / Upper Tamarack",
+   2.2
+  ],
+  [
+   "Upper Tamarack",
+   "Bear Botttom / Upper Tamarack",
+   "Upper Tamarack",
+   2.0
+  ],
+  [
+   "Upper Tamarack",
+   "Upper Tamarack",
+   "Upper Tamarack / Lower Tamarack",
+   0.5
+  ],
+  [
+   "Old Smoothie",
+   "Tink's Link / Lower Standard",
+   "Flukey's Run / Old Smoothie",
+   1.5
+  ],
+  [
+   "Upper Wanderer",
+   "Upper Wanderer / Janeway Jct.",
+   "Upper Wanderer / Work Road",
+   1.8
+  ],
+  [
+   "Big Ben",
+   "Big Ben / Home Run",
+   "Big Ben",
+   0.7
+  ],
+  [
+   "Big Ben",
+   "Big Ben",
+   "Big Ben 2",
+   2.5
+  ],
+  [
+   "Big Ben",
+   "Big Ben 2",
+   "Slider (Tube Park Lift) top",
+   0.5
+  ],
+  [
+   "Big Ben",
+   "Slider (Tube Park Lift) top",
+   "Slider (Tube Park Lift) bottom",
+   0.5
+  ],
+  [
+   "Big Ben",
+   "Slider (Tube Park Lift) bottom",
+   "Solstice bottom",
+   0.6
+  ],
+  [
+   "Lower Grizzly",
+   "Lower Grizzly / Bear Bottom",
+   "Upper Tamarack",
+   1.1
+  ],
+  [
+   "Lower Kidderbrook",
+   "Upper Kidderbrook / Lower Kidderbrook",
+   "Lower Kidderbrook",
+   2.6
+  ],
+  [
+   "Lower Kidderbrook",
+   "Lower Kidderbrook",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   2.9
+  ],
+  [
+   "Drifter Link",
+   "Drifter Link / Lower Wanderer",
+   "Drifter Link",
+   0.6
+  ],
+  [
+   "Drifter Link",
+   "Drifter Link",
+   "Lower Drifter / Drifter Link",
+   1.2
+  ],
+  [
+   "Drifter Link",
+   "Lower Drifter / Drifter Link",
+   "Snow Bowl Express bottom",
+   0.8
+  ],
+  [
+   "Upper Middlebrook",
+   "Upper Middlebrook / Chute",
+   "Upper Middlebrook / Lower Middlebrook",
+   3.1
+  ],
+  [
+   "Work Road",
+   "Work Road / Mike's Way",
+   "Upper Wanderer / Work Road",
+   0.5
+  ],
+  [
+   "Work Road",
+   "Upper Wanderer / Work Road",
+   "Work Road",
+   1.7
+  ],
+  [
+   "Work Road",
+   "Work Road",
+   "Work Road / Upper West Meadow",
+   1.1
+  ],
+  [
+   "Frank's Fall Line",
+   "Frank's Fall Line / Upper Standard",
+   "Frank's Fall Line 2",
+   0.5
+  ],
+  [
+   "Frank's Fall Line",
+   "Frank's Fall Line 2",
+   "Frank's Fall Line",
+   0.5
+  ],
+  [
+   "Frank's Fall Line",
+   "Frank's Fall Line",
+   "Frank's Fall Line 3",
+   4.5
+  ],
+  [
+   "Frank's Fall Line",
+   "Frank's Fall Line 3",
+   "Yodeler / Frank's Fall Line",
+   0.5
+  ],
+  [
+   "Lower Spruce",
+   "Lower Spruce / Interstate",
+   "Lower Spruce / Lower Liftline",
+   1.6
+  ],
+  [
+   "Lower Tamarack",
+   "Upper Tamarack / Lower Tamarack",
+   "Grizzly Access / Lower Tamarack",
+   0.5
+  ],
+  [
+   "Lower Tamarack",
+   "Grizzly Access / Lower Tamarack",
+   "Craig's Run / Lower Tamarack",
+   0.5
+  ],
+  [
+   "Lower Tamarack",
+   "Craig's Run / Lower Tamarack",
+   "Tamarack top",
+   0.5
+  ],
+  [
+   "Lower Tamarack",
+   "Tamarack top",
+   "Lower Tamarack 4",
+   0.6
+  ],
+  [
+   "Lower Tamarack",
+   "Lower Tamarack 4",
+   "Lower Tamarack",
+   0.5
+  ],
+  [
+   "Lower Tamarack",
+   "Lower Tamarack",
+   "Lower Tamarack 3",
+   0.6
+  ],
+  [
+   "Lower Tamarack",
+   "Lower Tamarack 3",
+   "Lower Tamarack 2",
+   0.5
+  ],
+  [
+   "Lower Tamarack",
+   "Lower Tamarack 2",
+   "Lower Tamarack 5",
+   0.5
+  ],
+  [
+   "Lower Tamarack",
+   "Lower Tamarack 5",
+   "Tamarack bottom",
+   1.5
+  ],
+  [
+   "Ethan's Alley",
+   "Flukey's Run / Old Smoothie",
+   "Ethan's Alley / Lower Wanderer",
+   1.1
+  ],
+  [
+   "Mike's Way",
+   "Summit Gondola top",
+   "Mike's Way",
+   0.5
+  ],
+  [
+   "Mike's Way",
+   "Mike's Way",
+   "Work Road / Mike's Way",
+   1.9
+  ],
+  [
+   "Mike's Way",
+   "Work Road / Mike's Way",
+   "Upper Wanderer / Work Road",
+   0.5
+  ],
+  [
+   "Mike's Way",
+   "Upper Wanderer / Work Road",
+   "Mike's Way / Upper East Meadow",
+   1.3
+  ],
+  [
+   "Chute",
+   "Chute / Black Bear",
+   "Chute",
+   0.5
+  ],
+  [
+   "Chute",
+   "Chute",
+   "Chute 2",
+   0.5
+  ],
+  [
+   "Chute",
+   "Chute 2",
+   "Upper Middlebrook / Chute",
+   0.5
+  ],
+  [
+   "Big D",
+   "Chute",
+   "Upper Tamarack 2",
+   0.5
+  ],
+  [
+   "Upper Standard",
+   "Summit Gondola top",
+   "Frank's Fall Line / Upper Standard",
+   0.5
+  ],
+  [
+   "Upper Standard",
+   "Frank's Fall Line / Upper Standard",
+   "Frank's Fall Line 2",
+   0.5
+  ],
+  [
+   "Upper Standard",
+   "Frank's Fall Line 2",
+   "Upper Standard 3",
+   2.7
+  ],
+  [
+   "Upper Standard",
+   "Upper Standard 3",
+   "Upper Standard",
+   0.8
+  ],
+  [
+   "Upper Standard",
+   "Upper Standard",
+   "Upper Standard 2",
+   0.9
+  ],
+  [
+   "Upper Standard",
+   "Upper Standard 2",
+   "Lower Standard / Upper Standard",
+   0.5
+  ],
+  [
+   "91 Extension",
+   "91 Extension / Soltice Way, Solstice Way",
+   "91 Extension / 91",
+   1.2
+  ],
+  [
+   "Cabot's Run",
+   "Snow Bowl Express bottom",
+   "Cabot's Run / Lower Wanderer",
+   1.4
+  ],
+  [
+   "Upper East Meadow",
+   "Mike's Way / Upper East Meadow",
+   "Upper East Meadow",
+   0.5
+  ],
+  [
+   "Upper East Meadow",
+   "Upper East Meadow",
+   "Upper East Meadow / Lower East Meadow",
+   1.8
+  ],
+  [
+   "Lower Wanderer",
+   "Drifter Link / Lower Wanderer",
+   "Lower Wanderer 3",
+   1.4
+  ],
+  [
+   "Lower Wanderer",
+   "Lower Wanderer 3",
+   "Lower Wanderer 2",
+   3.0
+  ],
+  [
+   "Lower Wanderer",
+   "Lower Wanderer 2",
+   "Cabot's Run / Lower Wanderer",
+   0.5
+  ],
+  [
+   "Lower Wanderer",
+   "Cabot's Run / Lower Wanderer",
+   "Ethan's Alley / Lower Wanderer",
+   1.8
+  ],
+  [
+   "Lower Wanderer",
+   "Ethan's Alley / Lower Wanderer",
+   "Lower Wanderer",
+   0.8
+  ],
+  [
+   "Lower Wanderer",
+   "Lower Wanderer",
+   "American Express bottom",
+   0.5
+  ],
+  [
+   "Upper West Meadow",
+   "Mike's Way / Upper East Meadow",
+   "Work Road / Upper West Meadow",
+   1.6
+  ],
+  [
+   "Old Number 8",
+   "Old Number 8 / Black Bear",
+   "Old Number 8 / Runaway",
+   1.2
+  ],
+  [
+   "Shooter",
+   "Shooter / Bear Down",
+   "Shooting Star bottom",
+   0.9
+  ],
+  [
+   "Shooter",
+   "Shooting Star bottom",
+   "Way Home / Shooter",
+   0.5
+  ],
+  [
+   "Stage 1",
+   "Stage 1 / Downtowner",
+   "Catamount bottom",
+   0.6
+  ],
+  [
+   "Stage 1",
+   "Catamount bottom",
+   "Villager bottom",
+   0.5
+  ],
+  [
+   "Lower East Meadow",
+   "Upper East Meadow / Lower East Meadow",
+   "Drifter Link / Lower Wanderer",
+   1.9
+  ],
+  [
+   "Soltice Way, Solstice Way",
+   "91 Extension / Soltice Way, Solstice Way",
+   "Solstice bottom",
+   3.7
+  ],
+  [
+   "Home Run",
+   "Big Ben / Home Run",
+   "Home Run",
+   2.2
+  ],
+  [
+   "Home Run",
+   "Home Run",
+   "Craig's Run 3",
+   1.2
+  ],
+  [
+   "Betwixt",
+   "American Express top",
+   "Hemlock / Betwixt",
+   0.6
+  ],
+  [
+   "Betwixt",
+   "Hemlock / Betwixt",
+   "Betwixt",
+   0.9
+  ],
+  [
+   "Betwixt",
+   "Betwixt",
+   "Lower Standard",
+   1.2
+  ],
+  [
+   "Sunriser Supertrail",
+   "Way Home / Shooter",
+   "Sunriser Supertrail",
+   1.3
+  ],
+  [
+   "Sunriser Supertrail",
+   "Sunriser Supertrail",
+   "Sunriser Supertrail 5",
+   0.5
+  ],
+  [
+   "Sunriser Supertrail",
+   "Sunriser Supertrail 5",
+   "Sunriser Supertrail 3",
+   1.7
+  ],
+  [
+   "Sunriser Supertrail",
+   "Sunriser Supertrail 3",
+   "Sunriser Supertrail 4",
+   1.1
+  ],
+  [
+   "Sunriser Supertrail",
+   "Sunriser Supertrail 4",
+   "Sunriser Supertrail 6",
+   0.9
+  ],
+  [
+   "Sunriser Supertrail",
+   "Sunriser Supertrail 6",
+   "Sunriser Supertrail 2",
+   0.5
+  ],
+  [
+   "Sunriser Supertrail",
+   "Sunriser Supertrail 2",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   0.5
+  ],
+  [
+   "Sunriser Supertrail",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   "Sunrise Express bottom",
+   0.5
+  ],
+  [
+   "Overpass",
+   "American Express top",
+   "Yodeler / Frank's Fall Line",
+   0.6
+  ],
+  [
+   "Overpass",
+   "Yodeler / Frank's Fall Line",
+   "Grizzly Access / Lower Tamarack",
+   0.5
+  ],
+  [
+   "Downtowner",
+   "Villager top",
+   "Stage 1 / Downtowner",
+   0.5
+  ],
+  [
+   "Downtowner",
+   "Stage 1 / Downtowner",
+   "Villager bottom",
+   0.9
+  ],
+  [
+   "Rimeline",
+   "Upper Standard",
+   "Frank's Fall Line 3",
+   1.3
+  ],
+  [
+   "Runaway",
+   "Old Number 8 / Runaway",
+   "Craig's Run",
+   0.9
+  ],
+  [
+   "Runaway",
+   "Craig's Run",
+   "Lower Tamarack",
+   0.5
+  ],
+  [
+   "Buckshot",
+   "Tink's Link",
+   "Lower Standard 2",
+   0.6
+  ],
+  [
+   "Shortcut Big Ben",
+   "Solstice top",
+   "Big Ben / Home Run",
+   2.5
+  ],
+  [
+   "Grizzly Bear",
+   "Chute 2",
+   "Bear Botttom / Grizzly Bear",
+   3.0
+  ],
+  [
+   "Lower Middlebrook",
+   "Way Home / Shooter",
+   "Upper Middlebrook / Lower Middlebrook",
+   0.5
+  ],
+  [
+   "Lower Middlebrook",
+   "Upper Middlebrook / Lower Middlebrook",
+   "Lower Middlebrook",
+   0.5
+  ],
+  [
+   "Lower Middlebrook",
+   "Lower Middlebrook",
+   "Lower Kidderbrook",
+   5.6
+  ],
+  [
+   "Janeway Jct.",
+   "Summit Gondola top",
+   "Upper Wanderer / Janeway Jct.",
+   0.5
+  ],
+  [
+   "Janeway Jct.",
+   "Upper Wanderer / Janeway Jct.",
+   "Janeway Jct.",
+   0.5
+  ],
+  [
+   "Janeway Jct.",
+   "Janeway Jct.",
+   "Janeway Jct. 2",
+   0.5
+  ],
+  [
+   "Janeway Jct.",
+   "Janeway Jct. 2",
+   "Upper East Meadow",
+   0.8
+  ],
+  [
+   "Interstate",
+   "Work Road / Upper West Meadow",
+   "Upper East Meadow / Lower East Meadow",
+   0.5
+  ],
+  [
+   "Interstate",
+   "Upper East Meadow / Lower East Meadow",
+   "Lower Drifter / Interstate",
+   0.5
+  ],
+  [
+   "Interstate",
+   "Lower Drifter / Interstate",
+   "Interstate",
+   0.5
+  ],
+  [
+   "Interstate",
+   "Interstate",
+   "Interstate 2",
+   0.6
+  ],
+  [
+   "Interstate",
+   "Interstate 2",
+   "Lower Spruce / Interstate",
+   0.5
+  ],
+  [
+   "Interstate",
+   "Lower Spruce / Interstate",
+   "Interstate 3",
+   0.5
+  ],
+  [
+   "Interstate",
+   "Interstate 3",
+   "Upper Standard 2",
+   0.8
+  ],
+  [
+   "Bear Bottom",
+   "Bear Botttom / Grizzly Bear",
+   "Lower Grizzly / Bear Bottom",
+   0.5
+  ],
+  [
+   "Bear Bottom",
+   "Lower Grizzly / Bear Bottom",
+   "Grizzly Access / Bear Bottom",
+   2.2
+  ],
+  [
+   "Bear Bottom",
+   "Grizzly Access / Bear Bottom",
+   "Ursa Express bottom",
+   0.5
+  ],
+  [
+   "Bear Bottom",
+   "Ursa Express bottom",
+   "Old Number 8 / Runaway",
+   0.5
+  ],
+  [
+   "Suntanner",
+   "Yodeler",
+   "Suntanner",
+   3.4
+  ],
+  [
+   "Lower Downeaster",
+   "Way Home",
+   "Lower Downeaster 4",
+   0.9
+  ],
+  [
+   "Lower Downeaster",
+   "Lower Downeaster 4",
+   "Lower Downeaster 2",
+   2.7
+  ],
+  [
+   "Lower Downeaster",
+   "Lower Downeaster 2",
+   "Lower Downeaster 5",
+   0.6
+  ],
+  [
+   "Lower Downeaster",
+   "Lower Downeaster 5",
+   "Lower Downeaster 3",
+   1.7
+  ],
+  [
+   "Lower Downeaster",
+   "Lower Downeaster 3",
+   "Lower Downeaster",
+   0.5
+  ],
+  [
+   "Lower Downeaster",
+   "Lower Downeaster",
+   "Sunrise Express bottom",
+   0.5
+  ],
+  [
+   "Lower Downeaster",
+   "Sunrise Express bottom",
+   "Lower Downeaster",
+   0.5
+  ],
+  [
+   "Underpass",
+   "American Express top",
+   "Lower Standard / Upper Standard",
+   0.5
+  ],
+  [
+   "Underpass",
+   "Lower Standard / Upper Standard",
+   "Lower Standard 3",
+   0.5
+  ],
+  [
+   "Underpass",
+   "Lower Standard 3",
+   "Yodeler / Frank's Fall Line",
+   0.6
+  ],
+  [
+   "Sun Beam",
+   "Way Home",
+   "Sun Beam",
+   1.9
+  ],
+  [
+   "Sun Beam",
+   "Sun Beam",
+   "Lower Downeaster 2",
+   1.9
+  ],
+  [
+   "Upper Slalom Glade",
+   "Upper Slalom Glade / Upper Drifter",
+   "Interstate",
+   1.9
+  ],
+  [
+   "Beeline",
+   "Hemlock / Betwixt",
+   "Tink's Link",
+   0.5
+  ],
+  [
+   "Beeline",
+   "Tink's Link",
+   "Betwixt",
+   0.5
+  ],
+  [
+   "Upper Spruce",
+   "Upper Wanderer / Janeway Jct.",
+   "Janeway Jct.",
+   0.5
+  ],
+  [
+   "Upper Spruce",
+   "Janeway Jct.",
+   "Lower Spruce / Interstate",
+   3.6
+  ],
+  [
+   "Free Fall",
+   "Upper Kidderbrook",
+   "Free Fall / Churchill Downs",
+   1.6
+  ],
+  [
+   "Daniel's Web",
+   "Craig's Run 4",
+   "Craig's Run 5",
+   0.5
+  ],
+  [
+   "Number 6",
+   "Number 6 / Gentle Ben",
+   "Sun Beam",
+   0.9
+  ],
+  [
+   "Snow Bowl Alley",
+   "Lower Standard / Upper Standard",
+   "Flukey's Run / Snow Bowl Alley",
+   1.2
+  ],
+  [
+   "Snow Bowl Alley",
+   "Flukey's Run / Snow Bowl Alley",
+   "Snow Bowl Alley",
+   0.5
+  ],
+  [
+   "Snow Bowl Alley",
+   "Snow Bowl Alley",
+   "Snow Bowl Express bottom",
+   0.5
+  ],
+  [
+   "Upper Drifter",
+   "Upper Slalom Glade / Upper Drifter",
+   "Lower Drifter / Interstate",
+   1.9
+  ],
+  [
+   "Gentle Ben",
+   "Way Home 2",
+   "Number 6 / Gentle Ben",
+   1.1
+  ],
+  [
+   "Gentle Ben",
+   "Number 6 / Gentle Ben",
+   "Gentle Ben",
+   0.5
+  ],
+  [
+   "Gentle Ben",
+   "Gentle Ben",
+   "Lower Downeaster 3",
+   6.0
+  ],
+  [
+   "Upper Liftline",
+   "Janeway Jct.",
+   "Upper Liftline",
+   1.4
+  ],
+  [
+   "Upper Liftline",
+   "Upper Liftline",
+   "Interstate 2",
+   1.8
+  ],
+  [
+   "Spillway",
+   "Yodeler 2",
+   "Lower Tamarack 3",
+   1.0
+  ],
+  [
+   "Spillway",
+   "Lower Tamarack 3",
+   "Lower Tamarack 2",
+   0.5
+  ],
+  [
+   "Duck Soup",
+   "Yodeler 3",
+   "Lower Tamarack 3",
+   1.7
+  ],
+  [
+   "Mark's Run",
+   "Lower Tamarack 4",
+   "Craig's Run",
+   0.5
+  ],
+  [
+   "Mark's Run",
+   "Craig's Run",
+   "Lower Tamarack 2",
+   1.1
+  ],
+  [
+   "Mark's Run",
+   "Lower Tamarack 2",
+   "Lower Tamarack 5",
+   0.5
+  ],
+  [
+   "Bear Down",
+   "Upper Middlebrook / Chute",
+   "Shooter / Bear Down",
+   2.2
+  ],
+  [
+   "Bear Down",
+   "Shooter / Bear Down",
+   "Bear Down / Churchill Downs",
+   0.8
+  ],
+  [
+   "Rick's Catch 22",
+   "Sunriser Supertrail",
+   "Sunriser Supertrail 2",
+   5.0
+  ],
+  [
+   "Churchill Downs",
+   "Lower Middlebrook",
+   "Bear Down / Churchill Downs",
+   0.5
+  ],
+  [
+   "Churchill Downs",
+   "Bear Down / Churchill Downs",
+   "Free Fall / Churchill Downs",
+   0.9
+  ],
+  [
+   "Churchill Downs",
+   "Free Fall / Churchill Downs",
+   "Upper Kidderbrook / Lower Kidderbrook",
+   2.8
+  ],
+  [
+   "Rowley's Run",
+   "Way Home / Shooter",
+   "Sunrise Express top",
+   0.5
+  ],
+  [
+   "Rowley's Run",
+   "Sunrise Express top",
+   "Sunriser Supertrail 3",
+   3.1
+  ],
+  [
+   "Polar Bear",
+   "Polar Bear / Black Bear",
+   "Old Number 8 / Runaway",
+   5.4
+  ],
+  [
+   "Eclipse",
+   "Lower Downeaster 4",
+   "Lower Downeaster 5",
+   3.0
+  ],
+  [
+   "91",
+   "Old Number 8 / Runaway",
+   "91 Extension / Soltice Way, Solstice Way",
+   4.8
+  ],
+  [
+   "91",
+   "91 Extension / Soltice Way, Solstice Way",
+   "91 Extension / 91",
+   1.3
+  ],
+  [
+   "91",
+   "91 Extension / 91",
+   "Slider (Tube Park Lift) bottom",
+   1.2
+  ],
+  [
+   "Lower Liftline",
+   "Interstate 2",
+   "Lower Spruce / Lower Liftline",
+   1.6
+  ],
+  [
+   "Lower Liftline",
+   "Lower Spruce / Lower Liftline",
+   "Snow Bowl Alley",
+   0.5
+  ],
+  [
+   "White Birch",
+   "Lower Standard 3",
+   "Flukey's Run 2",
+   1.2
+  ],
+  [
+   "Old Log Road",
+   "Snow Bowl Express bottom",
+   "Flukey's Run / Old Smoothie",
+   1.9
+  ],
+  [
+   "Old Log Road",
+   "Flukey's Run / Old Smoothie",
+   "Lower Wanderer",
+   1.5
+  ],
+  [
+   "Buster's Trail",
+   "Sunriser Supertrail 4",
+   "Lower Downeaster 3",
+   1.1
+  ],
+  [
+   "Dino's Drop",
+   "Interstate",
+   "Dino's Drop",
+   0.5
+  ],
+  [
+   "Dino's Drop",
+   "Dino's Drop",
+   "Dino's Drop 2",
+   0.5
+  ],
+  [
+   "Dino's Drop",
+   "Dino's Drop 2",
+   "Snow Bowl Alley",
+   1.7
+  ],
+  [
+   "Dino's Drop",
+   "Snow Bowl Alley",
+   "Snow Bowl Express bottom",
+   0.5
+  ],
+  [
+   "Tyrolienne Park",
+   "Yodeler 4",
+   "Tryo Tube top",
+   1.1
+  ],
+  [
+   "Tyrolienne Park",
+   "Tryo Tube top",
+   "Cub Carpet bottom",
+   0.5
+  ],
+  [
+   "Black Bear",
+   "Ursa Express top",
+   "Chute / Black Bear",
+   0.5
+  ],
+  [
+   "Black Bear",
+   "Chute / Black Bear",
+   "Upper Middlebrook / Chute",
+   1.3
+  ],
+  [
+   "Black Bear",
+   "Upper Middlebrook / Chute",
+   "Polar Bear / Black Bear",
+   0.5
+  ],
+  [
+   "Black Bear",
+   "Polar Bear / Black Bear",
+   "Black Bear 2",
+   2.8
+  ],
+  [
+   "Black Bear",
+   "Black Bear 2",
+   "Way Home / Black Bear",
+   1.4
+  ],
+  [
+   "Black Bear",
+   "Way Home / Black Bear",
+   "Black Bear",
+   0.5
+  ],
+  [
+   "Black Bear",
+   "Black Bear",
+   "Old Number 8 / Black Bear",
+   0.5
+  ],
+  [
+   "Yodeler Express",
+   "Lower Tamarack",
+   "Yodeler 5",
+   0.8
+  ],
+  [
+   "Lower West Meadow",
+   "Work Road / Upper West Meadow",
+   "Lower West Meadow",
+   1.9
+  ],
+  [
+   "Lower West Meadow",
+   "Lower West Meadow",
+   "Drifter Link / Lower Wanderer",
+   0.5
+  ],
+  [
+   "Shortcut Gentle Ben",
+   "Black Bear",
+   "Solstice top",
+   0.5
+  ],
+  [
+   "Shortcut Gentle Ben",
+   "Solstice top",
+   "Number 6 / Gentle Ben",
+   0.6
+  ],
+  [
+   "Shortcut Gentle Ben",
+   "Number 6 / Gentle Ben",
+   "Gentle Ben",
+   0.5
+  ],
+  [
+   "Lower Switchback",
+   "Interstate 3",
+   "Flukey's Run / Snow Bowl Alley",
+   1.2
+  ],
+  [
+   "Main Line",
+   "Big Ben / Home Run",
+   "Big Ben 2",
+   2.9
+  ],
+  [
+   "Get My Drift",
+   "Janeway Jct. 2",
+   "Upper Slalom Glade / Upper Drifter",
+   0.6
+  ],
+  [
+   "Mike's Cut Through",
+   "Summit Gondola top",
+   "Snow Bowl Express top",
+   0.5
+  ],
+  [
+   "Mike's Cut Through",
+   "Snow Bowl Express top",
+   "Mike's Way",
+   0.5
+  ],
+  [
+   "Lower Slalom Glade",
+   "Interstate",
+   "Dino's Drop",
+   0.5
+  ],
+  [
+   "Lower Slalom Glade",
+   "Dino's Drop",
+   "Lower Slalom Glade",
+   1.1
+  ],
+  [
+   "Liftline Cut-thru",
+   "Upper East Meadow",
+   "Upper Slalom Glade / Upper Drifter",
+   0.5
+  ],
+  [
+   "Liftline Cut-thru",
+   "Upper Slalom Glade / Upper Drifter",
+   "Upper Liftline",
+   0.5
+  ],
+  [
+   "East Byrnes Side Park",
+   "Lower Standard 4",
+   "Lower Wanderer",
+   1.9
+  ],
+  [
+   "Upper Switchback",
+   "Upper Standard 3",
+   "Interstate 3",
+   1.3
+  ],
+  [
+   "West Pilot",
+   "Work Road",
+   "Lower West Meadow",
+   3.0
+  ],
+  [
+   "Rising Star",
+   "Sunriser Supertrail 5",
+   "Sunriser Supertrail 6",
+   3.9
+  ],
+  [
+   "Dino's Drop",
+   "Dino's Drop",
+   "Dino's Drop 2",
+   0.5
+  ],
+  [
+   "Cabin Fever",
+   "Lower Drifter / Drifter Link",
+   "Lower Wanderer 2",
+   1.0
+  ],
+  [
+   "Lad's Legacy",
+   "Craig's Run 4",
+   "Home Run",
+   0.5
+  ],
+  [
+   "Moonbeam",
+   "Drifter Link",
+   "Lower Wanderer 3",
+   1.0
+  ],
+  [
+   "Village Walk",
+   "Villager top",
+   "Stage 1 / Downtowner",
+   0.5
+  ],
+  [
+   "Village Walk",
+   "Stage 1 / Downtowner",
+   "Redlands bottom",
+   0.8
+  ],
+  [
+   "Sun Bowl Express",
+   "Black Bear 2",
+   "Way Home",
+   1.2
+  ],
+  [
+   "Sun Bowl Express",
+   "Way Home",
+   "Way Home / Shooter",
+   0.5
+  ],
+  [
+   "Emerald Forest",
+   "Hemlock",
+   "Flukey's Run 3",
+   0.9
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Flukey's Run / Snow Bowl Alley",
+   "Snow Bowl Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Tamarack top",
+   1.7
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "South American top",
+   1.2
+  ],
+  [
+   "walk",
+   "Grizzly Access / Bear Bottom",
+   "Ursa Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Craig's Run / Lower Tamarack",
+   "Ursa Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Craig's Run / Lower Tamarack",
+   "Tamarack top",
+   0.6
+  ],
+  [
+   "walk",
+   "Tamarack bottom",
+   "Villager bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Tamarack bottom",
+   "Craig's Run 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Tamarack bottom",
+   "Catamount bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Drifter / Drifter Link",
+   "Snow Bowl Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "South American top",
+   2.6
+  ],
+  [
+   "walk",
+   "Flukey's Run",
+   "Snow Bowl Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Frank's Fall Line",
+   1.6
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Shooting Star top",
+   0.9
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Frank's Fall Line 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Upper Wanderer / Janeway Jct.",
+   1.6
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Frank's Fall Line / Upper Standard",
+   0.8
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Summit Gondola top",
+   0.9
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Chute / Black Bear",
+   0.7
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Chute",
+   1.2
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Upper Tamarack 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Chute 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Janeway Jct.",
+   2.1
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Mike's Way",
+   2.3
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Snow Bowl Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Tamarack top",
+   2.1
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "South American top",
+   1.3
+  ],
+  [
+   "walk",
+   "Tryo Tube bottom",
+   "American Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Tryo Tube bottom",
+   "Villager bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Tryo Tube bottom",
+   "Suntanner",
+   0.8
+  ],
+  [
+   "walk",
+   "Tryo Tube bottom",
+   "Lower Wanderer",
+   2.8
+  ],
+  [
+   "walk",
+   "Tryo Tube bottom",
+   "Cub Carpet bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Tryo Tube bottom",
+   "Redlands bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Tryo Tube bottom",
+   "Theodore Carpet bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Tryo Tube bottom",
+   "Tryo Tube top",
+   1.2
+  ],
+  [
+   "walk",
+   "Tryo Tube bottom",
+   "Summit Gondola bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Tryo Tube bottom",
+   "Catamount bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Way Home / Shooter",
+   "Sunrise Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Way Home / Shooter",
+   "Shooting Star bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Way Home / Black Bear",
+   "Solstice top",
+   1.4
+  ],
+  [
+   "walk",
+   "Craig's Run 2",
+   "Villager top",
+   3.2
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Tamarack top",
+   1.7
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "South American top",
+   0.7
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "American Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "American Express bottom",
+   "Tryo Tube bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "American Express bottom",
+   "Suntanner",
+   1.0
+  ],
+  [
+   "walk",
+   "American Express bottom",
+   "Lower Wanderer",
+   1.0
+  ],
+  [
+   "walk",
+   "American Express bottom",
+   "Cub Carpet bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "American Express bottom",
+   "Redlands bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "American Express bottom",
+   "Theodore Carpet bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "American Express bottom",
+   "Summit Gondola bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Ursa Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Frank's Fall Line",
+   2.5
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Frank's Fall Line 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Upper Wanderer / Janeway Jct.",
+   1.8
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Frank's Fall Line / Upper Standard",
+   1.3
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Summit Gondola top",
+   0.8
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Chute / Black Bear",
+   1.0
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Chute",
+   1.7
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Upper Tamarack 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Chute 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Janeway Jct.",
+   2.5
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Mike's Way",
+   1.6
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Snow Bowl Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Ursa Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Shooting Star top",
+   1.7
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Summit Gondola top",
+   1.3
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Snow Bowl Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "American Express top",
+   2.5
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Tamarack top",
+   3.3
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "South American top",
+   3.1
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Ursa Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Shooting Star top",
+   1.8
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Summit Gondola top",
+   1.0
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Snow Bowl Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Solstice bottom",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   2.9
+  ],
+  [
+   "walk",
+   "Solstice bottom",
+   "Sunrise Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Solstice bottom",
+   "Lower Downeaster",
+   1.6
+  ],
+  [
+   "walk",
+   "Solstice bottom",
+   "Lower Downeaster 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Solstice bottom",
+   "Sunriser Supertrail 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Solstice bottom",
+   "Slider (Tube Park Lift) bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "American Express top",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   "Solstice bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   "Sunrise Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Snow Bowl Express bottom",
+   "Flukey's Run",
+   2.5
+  ],
+  [
+   "walk",
+   "Snow Bowl Express bottom",
+   "Snow Bowl Alley",
+   0.9
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Ursa Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Shooting Star top",
+   1.3
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Summit Gondola top",
+   0.7
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Snow Bowl Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Lower Spruce / Lower Liftline",
+   "Snow Bowl Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Ursa Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Frank's Fall Line",
+   2.1
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Shooting Star top",
+   0.8
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Frank's Fall Line 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Upper Wanderer / Janeway Jct.",
+   1.0
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Frank's Fall Line / Upper Standard",
+   0.7
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Chute / Black Bear",
+   1.4
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Chute",
+   2.0
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Upper Tamarack 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Chute 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Janeway Jct.",
+   1.7
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Mike's Way",
+   1.5
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Snow Bowl Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Ursa Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Shooting Star top",
+   1.0
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Summit Gondola top",
+   1.4
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Snow Bowl Express top",
+   2.0
+  ],
+  [
+   "walk",
+   "Chute",
+   "Ursa Express top",
+   1.2
+  ],
+  [
+   "walk",
+   "Chute",
+   "Shooting Star top",
+   1.7
+  ],
+  [
+   "walk",
+   "Chute",
+   "Summit Gondola top",
+   2.0
+  ],
+  [
+   "walk",
+   "Chute",
+   "Snow Bowl Express top",
+   2.7
+  ],
+  [
+   "walk",
+   "91 Extension / 91",
+   "Slider (Tube Park Lift) top",
+   3.0
+  ],
+  [
+   "walk",
+   "Old Number 8 / Black Bear",
+   "Solstice top",
+   1.5
+  ],
+  [
+   "walk",
+   "Old Number 8 / Runaway",
+   "Ursa Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Shooter / Bear Down",
+   "Shooting Star bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Tamarack bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Tryo Tube bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Villager bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Villager top",
+   0.9
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Cub Carpet bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Redlands bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Cub Carpet top",
+   0.7
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Tryo Tube top",
+   2.3
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Catamount bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Villager bottom",
+   "Tamarack bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Villager bottom",
+   "Tryo Tube bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Villager bottom",
+   "Cub Carpet bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Villager bottom",
+   "Redlands bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Villager bottom",
+   "Theodore Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Villager bottom",
+   "Tryo Tube top",
+   3.2
+  ],
+  [
+   "walk",
+   "Villager bottom",
+   "Catamount bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Craig's Run 3",
+   "Tamarack bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Craig's Run 3",
+   "Villager bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Grizzly Access / Lower Tamarack",
+   2.5
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Hemlock / Betwixt",
+   2.3
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Yodeler / Frank's Fall Line",
+   2.0
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Yodeler",
+   2.8
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Lower Standard / Upper Standard",
+   1.3
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Upper Tamarack / Lower Tamarack",
+   2.5
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Upper Tamarack",
+   2.9
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Frank's Fall Line 3",
+   1.3
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Upper Standard 2",
+   1.5
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Lower Standard 3",
+   1.5
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Hemlock",
+   3.5
+  ],
+  [
+   "walk",
+   "American Express top",
+   "South American top",
+   3.3
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Solstice bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   0.8
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Lower Downeaster",
+   0.6
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Lower Downeaster 3",
+   1.2
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Sunriser Supertrail 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Sunriser Supertrail 6",
+   1.9
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Craig's Run 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Stage 1 / Downtowner",
+   0.9
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Villager bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Craig's Run 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Craig's Run 5",
+   3.4
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Redlands bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Cub Carpet top",
+   1.3
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Tryo Tube top",
+   2.9
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Catamount bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "American Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Tamarack top",
+   3.3
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "South American top",
+   2.7
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Tamarack top",
+   3.0
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "South American top",
+   2.1
+  ],
+  [
+   "walk",
+   "Solstice top",
+   "Old Number 8 / Black Bear",
+   1.5
+  ],
+  [
+   "walk",
+   "Solstice top",
+   "Number 6 / Gentle Ben",
+   1.9
+  ],
+  [
+   "walk",
+   "Solstice top",
+   "Black Bear",
+   1.2
+  ],
+  [
+   "walk",
+   "Solstice top",
+   "Gentle Ben",
+   1.8
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "American Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Suntanner",
+   "Tryo Tube bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Suntanner",
+   "American Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Suntanner",
+   "Lower Wanderer",
+   2.0
+  ],
+  [
+   "walk",
+   "Suntanner",
+   "Cub Carpet bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Suntanner",
+   "Redlands bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Suntanner",
+   "Theodore Carpet bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Suntanner",
+   "Summit Gondola bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Way Home",
+   "Sunrise Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Way Home",
+   "Shooting Star bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Lower Downeaster",
+   "Solstice bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Lower Downeaster",
+   "Sunrise Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Lower Downeaster",
+   "Slider (Tube Park Lift) bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Craig's Run 5",
+   "Villager top",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Downeaster 3",
+   "Solstice bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Downeaster 3",
+   "Sunrise Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Lower Downeaster 3",
+   "Slider (Tube Park Lift) bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Ursa Express top",
+   2.1
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Shooting Star top",
+   2.5
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Snow Bowl Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "Lower Tamarack 2",
+   "Villager top",
+   2.6
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Tamarack top",
+   1.5
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "South American top",
+   0.7
+  ],
+  [
+   "walk",
+   "Lower Tamarack 3",
+   "Villager top",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Tamarack 4",
+   "Ursa Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Villager top",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Cub Carpet top",
+   3.3
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 2",
+   "Solstice bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 2",
+   "Sunrise Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) bottom",
+   "Solstice bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) bottom",
+   "Lower Downeaster",
+   3.3
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) bottom",
+   "Lower Downeaster 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Snow Bowl Alley",
+   "Snow Bowl Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "American Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Flukey's Run 2",
+   "Snow Bowl Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Lower Wanderer",
+   "Tryo Tube bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Wanderer",
+   "American Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Lower Wanderer",
+   "Cub Carpet bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Wanderer",
+   "Theodore Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Wanderer",
+   "Tryo Tube top",
+   3.1
+  ],
+  [
+   "walk",
+   "Lower Wanderer",
+   "Summit Gondola bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Villager top",
+   2.6
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Cub Carpet top",
+   2.7
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Tryo Tube top",
+   3.4
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Tryo Tube bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "American Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Villager bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Suntanner",
+   1.3
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Lower Wanderer",
+   3.3
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Redlands bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Theodore Carpet bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Tryo Tube top",
+   1.0
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Summit Gondola bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Catamount bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Solstice top",
+   1.2
+  ],
+  [
+   "walk",
+   "Big Ben 2",
+   "Slider (Tube Park Lift) bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Big Ben 2",
+   "Slider (Tube Park Lift) top",
+   1.0
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Ursa Express top",
+   2.3
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Shooting Star top",
+   1.6
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Summit Gondola top",
+   1.5
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Snow Bowl Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Lower Slalom Glade",
+   "Snow Bowl Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Slalom Glade",
+   "Lower Spruce / Lower Liftline",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Slalom Glade",
+   "Snow Bowl Alley",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Slalom Glade",
+   "Drifter Link",
+   3.4
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 6",
+   "Sunrise Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Redlands bottom",
+   "Tryo Tube bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Redlands bottom",
+   "American Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Redlands bottom",
+   "Villager bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Redlands bottom",
+   "Suntanner",
+   2.1
+  ],
+  [
+   "walk",
+   "Redlands bottom",
+   "Cub Carpet bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Redlands bottom",
+   "Theodore Carpet bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Redlands bottom",
+   "Tryo Tube top",
+   1.5
+  ],
+  [
+   "walk",
+   "Redlands bottom",
+   "Summit Gondola bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Redlands bottom",
+   "Catamount bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Tryo Tube bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Stage 1 / Downtowner",
+   0.7
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Villager bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Villager top",
+   1.3
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Suntanner",
+   3.1
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Cub Carpet bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Redlands bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Theodore Carpet bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Tryo Tube top",
+   1.7
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Catamount bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Ursa Express bottom",
+   "Grizzly Access / Bear Bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Ursa Express bottom",
+   "Craig's Run",
+   3.3
+  ],
+  [
+   "walk",
+   "Ursa Express bottom",
+   "Old Number 8 / Runaway",
+   0.7
+  ],
+  [
+   "walk",
+   "Ursa Express bottom",
+   "Lower Tamarack 4",
+   3.4
+  ],
+  [
+   "walk",
+   "Theodore Carpet bottom",
+   "Tryo Tube bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Theodore Carpet bottom",
+   "American Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Theodore Carpet bottom",
+   "Villager bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Theodore Carpet bottom",
+   "Suntanner",
+   1.3
+  ],
+  [
+   "walk",
+   "Theodore Carpet bottom",
+   "Lower Wanderer",
+   3.2
+  ],
+  [
+   "walk",
+   "Theodore Carpet bottom",
+   "Cub Carpet bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Theodore Carpet bottom",
+   "Redlands bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Theodore Carpet bottom",
+   "Tryo Tube top",
+   1.7
+  ],
+  [
+   "walk",
+   "Theodore Carpet bottom",
+   "Summit Gondola bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Theodore Carpet bottom",
+   "Catamount bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Tryo Tube top",
+   "Tryo Tube bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Tryo Tube top",
+   "American Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Tryo Tube top",
+   "Villager bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Tryo Tube top",
+   "Suntanner",
+   1.4
+  ],
+  [
+   "walk",
+   "Tryo Tube top",
+   "Lower Wanderer",
+   3.1
+  ],
+  [
+   "walk",
+   "Tryo Tube top",
+   "Cub Carpet bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Tryo Tube top",
+   "Redlands bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Tryo Tube top",
+   "Theodore Carpet bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Tryo Tube top",
+   "Summit Gondola bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Tryo Tube top",
+   "Catamount bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) top",
+   "91 Extension / 91",
+   3.0
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) top",
+   "Slider (Tube Park Lift) bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) top",
+   "Big Ben 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Summit Gondola bottom",
+   "Tryo Tube bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Summit Gondola bottom",
+   "American Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Summit Gondola bottom",
+   "Suntanner",
+   1.2
+  ],
+  [
+   "walk",
+   "Summit Gondola bottom",
+   "Lower Wanderer",
+   1.7
+  ],
+  [
+   "walk",
+   "Summit Gondola bottom",
+   "Cub Carpet bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Summit Gondola bottom",
+   "Redlands bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Summit Gondola bottom",
+   "Theodore Carpet bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Catamount bottom",
+   "Tamarack bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Catamount bottom",
+   "Tryo Tube bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Catamount bottom",
+   "Villager bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Catamount bottom",
+   "Cub Carpet bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Catamount bottom",
+   "Redlands bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Catamount bottom",
+   "Theodore Carpet bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Catamount bottom",
+   "Tryo Tube top",
+   2.6
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Ursa Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Frank's Fall Line",
+   2.4
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Shooting Star top",
+   1.3
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Frank's Fall Line 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Upper Wanderer / Janeway Jct.",
+   0.7
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Frank's Fall Line / Upper Standard",
+   0.9
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Summit Gondola top",
+   0.6
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Chute / Black Bear",
+   2.0
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Chute",
+   2.7
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Janeway Jct.",
+   1.4
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Janeway Jct. 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Mike's Way",
+   1.3
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "Grizzly Access / Bear Bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "Craig's Run / Lower Tamarack",
+   0.6
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "Craig's Run",
+   3.3
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "Old Number 8 / Runaway",
+   2.9
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "Tink's Link",
+   3.0
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "Yodeler 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "Lower Tamarack 4",
+   2.4
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "Ursa Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "South American top",
+   "Grizzly Access / Lower Tamarack",
+   1.2
+  ],
+  [
+   "walk",
+   "South American top",
+   "Craig's Run / Lower Tamarack",
+   0.7
+  ],
+  [
+   "walk",
+   "South American top",
+   "Hemlock / Betwixt",
+   2.6
+  ],
+  [
+   "walk",
+   "South American top",
+   "Yodeler / Frank's Fall Line",
+   1.3
+  ],
+  [
+   "walk",
+   "South American top",
+   "Yodeler",
+   0.7
+  ],
+  [
+   "walk",
+   "South American top",
+   "Upper Tamarack / Lower Tamarack",
+   3.1
+  ],
+  [
+   "walk",
+   "South American top",
+   "Tink's Link",
+   2.1
+  ],
+  [
+   "walk",
+   "South American top",
+   "Yodeler 2",
+   3.1
+  ],
+  [
+   "walk",
+   "South American top",
+   "Yodeler 3",
+   0.7
+  ],
+  [
+   "walk",
+   "South American top",
+   "Lower Tamarack 4",
+   2.9
+  ],
+  [
+   "walk",
+   "South American top",
+   "Ursa Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "South American top",
+   "Tamarack top",
+   1.0
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "Way Home / Shooter",
+   0.6
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "Upper Middlebrook / Lower Middlebrook",
+   2.4
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "Way Home",
+   0.8
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "Lower Middlebrook",
+   2.6
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "Lower Downeaster 4",
+   3.0
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "Shooting Star bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Shooting Star bottom",
+   "Way Home / Shooter",
+   0.9
+  ],
+  [
+   "walk",
+   "Shooting Star bottom",
+   "Upper Middlebrook / Lower Middlebrook",
+   1.6
+  ],
+  [
+   "walk",
+   "Shooting Star bottom",
+   "Way Home",
+   1.3
+  ],
+  [
+   "walk",
+   "Shooting Star bottom",
+   "Bear Down / Churchill Downs",
+   2.8
+  ],
+  [
+   "walk",
+   "Shooting Star bottom",
+   "Lower Middlebrook",
+   2.0
+  ],
+  [
+   "walk",
+   "Shooting Star bottom",
+   "Sunrise Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Tamarack top",
+   4.2
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Craig's Run 3",
+   3.7
+  ],
+  [
+   "walk",
+   "Villager bottom",
+   "Craig's Run 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Craig's Run 3",
+   "Catamount bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Catamount bottom",
+   "Craig's Run 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Frank's Fall Line",
+   2.5
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Upper Wanderer / Janeway Jct.",
+   2.3
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Frank's Fall Line / Upper Standard",
+   1.7
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Chute / Black Bear",
+   1.5
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Chute",
+   2.1
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Upper Tamarack 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Chute 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Janeway Jct.",
+   2.9
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Mike's Way",
+   2.8
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Frank's Fall Line",
+   3.1
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Frank's Fall Line 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Frank's Fall Line / Upper Standard",
+   1.6
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Chute / Black Bear",
+   2.2
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Chute",
+   2.8
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Upper Tamarack 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Chute 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Janeway Jct.",
+   2.1
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Mike's Way",
+   2.0
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Frank's Fall Line",
+   2.5
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Frank's Fall Line 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Upper Wanderer / Janeway Jct.",
+   1.6
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Chute / Black Bear",
+   1.5
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Chute",
+   2.0
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Upper Tamarack 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Chute 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Janeway Jct.",
+   2.3
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Mike's Way",
+   2.2
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Frank's Fall Line",
+   2.3
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Frank's Fall Line 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Upper Wanderer / Janeway Jct.",
+   2.2
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Frank's Fall Line / Upper Standard",
+   1.5
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Chute",
+   1.8
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Upper Tamarack 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Chute 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Janeway Jct.",
+   2.7
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Mike's Way",
+   2.6
+  ],
+  [
+   "walk",
+   "Chute",
+   "Frank's Fall Line",
+   2.8
+  ],
+  [
+   "walk",
+   "Chute",
+   "Frank's Fall Line 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Chute",
+   "Upper Wanderer / Janeway Jct.",
+   2.8
+  ],
+  [
+   "walk",
+   "Chute",
+   "Frank's Fall Line / Upper Standard",
+   2.0
+  ],
+  [
+   "walk",
+   "Chute",
+   "Chute / Black Bear",
+   1.8
+  ],
+  [
+   "walk",
+   "Chute",
+   "Upper Tamarack 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Chute",
+   "Chute 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Chute",
+   "Janeway Jct.",
+   3.3
+  ],
+  [
+   "walk",
+   "Chute",
+   "Mike's Way",
+   3.3
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Frank's Fall Line",
+   3.7
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Frank's Fall Line 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Upper Wanderer / Janeway Jct.",
+   2.1
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Frank's Fall Line / Upper Standard",
+   2.3
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Summit Gondola top",
+   2.0
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Chute / Black Bear",
+   2.7
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Chute",
+   3.3
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Upper Tamarack 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Chute 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Mike's Way",
+   2.8
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Frank's Fall Line",
+   3.7
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Frank's Fall Line 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Upper Wanderer / Janeway Jct.",
+   2.0
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Frank's Fall Line / Upper Standard",
+   2.2
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Chute / Black Bear",
+   2.6
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Chute",
+   3.3
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Upper Tamarack 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Chute 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Janeway Jct.",
+   2.8
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Upper Tamarack 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Snow Bowl Express top",
+   "Chute 2",
+   3.8
+  ],
+  [
+   "walk",
+   "American Express bottom",
+   "Villager bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "American Express bottom",
+   "Tryo Tube top",
+   3.0
+  ],
+  [
+   "walk",
+   "American Express bottom",
+   "Catamount bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "American Express bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Suntanner",
+   3.7
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Lower Wanderer",
+   5.4
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Theodore Carpet bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Summit Gondola bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Villager bottom",
+   "American Express bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Villager bottom",
+   "Suntanner",
+   4.1
+  ],
+  [
+   "walk",
+   "Villager bottom",
+   "Lower Wanderer",
+   6.1
+  ],
+  [
+   "walk",
+   "Villager bottom",
+   "Summit Gondola bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Suntanner",
+   "Villager bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Suntanner",
+   "Tryo Tube top",
+   2.0
+  ],
+  [
+   "walk",
+   "Suntanner",
+   "Catamount bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower Wanderer",
+   "Villager bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Lower Wanderer",
+   "Suntanner",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Wanderer",
+   "Redlands bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Wanderer",
+   "Catamount bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Redlands bottom",
+   "Lower Wanderer",
+   4.1
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "American Express bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Lower Wanderer",
+   4.8
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Summit Gondola bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Summit Gondola bottom",
+   "Villager bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Summit Gondola bottom",
+   "Tryo Tube top",
+   2.9
+  ],
+  [
+   "walk",
+   "Summit Gondola bottom",
+   "Catamount bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Catamount bottom",
+   "American Express bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Catamount bottom",
+   "Suntanner",
+   3.5
+  ],
+  [
+   "walk",
+   "Catamount bottom",
+   "Lower Wanderer",
+   5.5
+  ],
+  [
+   "walk",
+   "Catamount bottom",
+   "Summit Gondola bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "South American top",
+   "American Express top",
+   5.5
+  ],
+  [
+   "walk",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   "Lower Downeaster",
+   1.4
+  ],
+  [
+   "walk",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   "Lower Downeaster 3",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   "Sunriser Supertrail 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   "Slider (Tube Park Lift) bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Sunrise Express bottom",
+   "Slider (Tube Park Lift) bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Downeaster",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   1.4
+  ],
+  [
+   "walk",
+   "Lower Downeaster",
+   "Lower Downeaster 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Lower Downeaster",
+   "Sunriser Supertrail 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Downeaster 3",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Downeaster 3",
+   "Lower Downeaster",
+   1.9
+  ],
+  [
+   "walk",
+   "Lower Downeaster 3",
+   "Sunriser Supertrail 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 2",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   2.2
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 2",
+   "Lower Downeaster",
+   2.0
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 2",
+   "Lower Downeaster 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 2",
+   "Slider (Tube Park Lift) bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) bottom",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   4.8
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) bottom",
+   "Sunrise Express bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) bottom",
+   "Sunriser Supertrail 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Flukey's Run / Snow Bowl Alley",
+   "Flukey's Run",
+   4.5
+  ],
+  [
+   "walk",
+   "Flukey's Run / Snow Bowl Alley",
+   "Snow Bowl Alley",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Drifter / Drifter Link",
+   "Flukey's Run",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower Drifter / Drifter Link",
+   "Snow Bowl Alley",
+   3.2
+  ],
+  [
+   "walk",
+   "Flukey's Run",
+   "Snow Bowl Alley",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Spruce / Lower Liftline",
+   "Flukey's Run",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Spruce / Lower Liftline",
+   "Snow Bowl Alley",
+   2.6
+  ],
+  [
+   "walk",
+   "Snow Bowl Alley",
+   "Flukey's Run",
+   3.4
+  ],
+  [
+   "walk",
+   "Flukey's Run 2",
+   "Flukey's Run",
+   4.5
+  ],
+  [
+   "walk",
+   "Flukey's Run 2",
+   "Snow Bowl Alley",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Slalom Glade",
+   "Flukey's Run",
+   5.7
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Tamarack bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Tryo Tube bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Cub Carpet bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Villager top",
+   "American Express bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Suntanner",
+   4.4
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Theodore Carpet bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Summit Gondola bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Tamarack bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Craig's Run 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Tamarack bottom",
+   "Tryo Tube bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Tamarack bottom",
+   "Cub Carpet bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Tamarack bottom",
+   "Redlands bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Tamarack bottom",
+   "Theodore Carpet bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Tamarack bottom",
+   "Tryo Tube top",
+   5.4
+  ],
+  [
+   "walk",
+   "Tamarack bottom",
+   "Suntanner",
+   6.3
+  ],
+  [
+   "walk",
+   "Tryo Tube bottom",
+   "Tamarack bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Craig's Run 3",
+   "Tryo Tube bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Craig's Run 3",
+   "Cub Carpet bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Craig's Run 3",
+   "Redlands bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Craig's Run 3",
+   "Theodore Carpet bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Craig's Run 3",
+   "Tryo Tube top",
+   6.4
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Tamarack bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Craig's Run 3",
+   6.8
+  ],
+  [
+   "walk",
+   "Redlands bottom",
+   "Tamarack bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Redlands bottom",
+   "Craig's Run 3",
+   6.0
+  ],
+  [
+   "walk",
+   "Theodore Carpet bottom",
+   "Tamarack bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Tryo Tube top",
+   "Tamarack bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Suntanner",
+   "Tamarack bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Grizzly Access / Lower Tamarack",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Hemlock / Betwixt",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Yodeler / Frank's Fall Line",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Yodeler",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Upper Tamarack / Lower Tamarack",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Upper Tamarack",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Frank's Fall Line 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Upper Standard 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Lower Standard 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Hemlock",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "South American top",
+   4.6
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Tamarack top",
+   5.5
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Grizzly Access / Lower Tamarack",
+   4.2
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Hemlock / Betwixt",
+   4.8
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Yodeler / Frank's Fall Line",
+   4.4
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Yodeler",
+   3.8
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Lower Standard / Upper Standard",
+   3.8
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Upper Tamarack",
+   5.4
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Frank's Fall Line 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Upper Standard 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Lower Standard 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Hemlock",
+   5.9
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "Grizzly Access / Lower Tamarack",
+   5.4
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "Hemlock / Betwixt",
+   5.2
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "Yodeler / Frank's Fall Line",
+   4.9
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "Yodeler",
+   5.7
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "Lower Standard / Upper Standard",
+   4.2
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "Upper Tamarack / Lower Tamarack",
+   5.4
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "Frank's Fall Line 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "Upper Standard 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "Lower Standard 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "Hemlock",
+   6.4
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "South American top",
+   6.2
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Grizzly Access / Lower Tamarack",
+   3.8
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Hemlock / Betwixt",
+   3.6
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Yodeler / Frank's Fall Line",
+   3.3
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Yodeler",
+   3.4
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Lower Standard / Upper Standard",
+   2.6
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Upper Tamarack / Lower Tamarack",
+   3.8
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Upper Tamarack",
+   4.2
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Upper Standard 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Lower Standard 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Hemlock",
+   4.8
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Grizzly Access / Lower Tamarack",
+   4.0
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Hemlock / Betwixt",
+   3.8
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Yodeler / Frank's Fall Line",
+   3.5
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Yodeler",
+   4.3
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Lower Standard / Upper Standard",
+   2.8
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Upper Tamarack / Lower Tamarack",
+   4.0
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Upper Tamarack",
+   4.4
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Frank's Fall Line 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Lower Standard 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Hemlock",
+   4.9
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "South American top",
+   4.8
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Tamarack top",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Grizzly Access / Lower Tamarack",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Hemlock / Betwixt",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Yodeler / Frank's Fall Line",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Yodeler",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Lower Standard / Upper Standard",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Upper Tamarack / Lower Tamarack",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Upper Tamarack",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Frank's Fall Line 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Upper Standard 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Hemlock",
+   4.9
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "South American top",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Tamarack top",
+   5.6
+  ],
+  [
+   "walk",
+   "South American top",
+   "Lower Standard / Upper Standard",
+   6.8
+  ],
+  [
+   "walk",
+   "South American top",
+   "Frank's Fall Line 3",
+   6.9
+  ],
+  [
+   "walk",
+   "Solstice bottom",
+   "Sunriser Supertrail 6",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   "Sunriser Supertrail 6",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Downeaster",
+   "Sunriser Supertrail 6",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Downeaster 3",
+   "Sunriser Supertrail 6",
+   3.2
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 2",
+   "Sunriser Supertrail 6",
+   3.4
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 6",
+   "Solstice bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 6",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   2.8
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 6",
+   "Lower Downeaster",
+   2.6
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 6",
+   "Lower Downeaster 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 6",
+   "Sunriser Supertrail 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Sunriser Supertrail 6",
+   "Slider (Tube Park Lift) bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) bottom",
+   "Sunriser Supertrail 6",
+   5.9
+  ],
+  [
+   "walk",
+   "Craig's Run 2",
+   "Stage 1 / Downtowner",
+   4.2
+  ],
+  [
+   "walk",
+   "Craig's Run 2",
+   "Villager bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Craig's Run 2",
+   "Craig's Run 3",
+   6.0
+  ],
+  [
+   "walk",
+   "Craig's Run 2",
+   "Craig's Run 5",
+   6.6
+  ],
+  [
+   "walk",
+   "Craig's Run 2",
+   "Redlands bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Craig's Run 2",
+   "Cub Carpet top",
+   4.5
+  ],
+  [
+   "walk",
+   "Craig's Run 2",
+   "Tryo Tube top",
+   6.2
+  ],
+  [
+   "walk",
+   "Craig's Run 2",
+   "Catamount bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Craig's Run 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Stage 1 / Downtowner",
+   "Craig's Run 5",
+   4.3
+  ],
+  [
+   "walk",
+   "Craig's Run 5",
+   "Craig's Run 2",
+   6.6
+  ],
+  [
+   "walk",
+   "Craig's Run 5",
+   "Stage 1 / Downtowner",
+   4.3
+  ],
+  [
+   "walk",
+   "Craig's Run 5",
+   "Villager bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Craig's Run 5",
+   "Craig's Run 3",
+   6.1
+  ],
+  [
+   "walk",
+   "Craig's Run 5",
+   "Redlands bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Craig's Run 5",
+   "Cub Carpet top",
+   4.7
+  ],
+  [
+   "walk",
+   "Craig's Run 5",
+   "Tryo Tube top",
+   6.3
+  ],
+  [
+   "walk",
+   "Craig's Run 5",
+   "Catamount bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Lower Tamarack 2",
+   "Craig's Run 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Lower Tamarack 2",
+   "Stage 1 / Downtowner",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Tamarack 2",
+   "Villager bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Lower Tamarack 2",
+   "Craig's Run 3",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower Tamarack 2",
+   "Craig's Run 5",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower Tamarack 2",
+   "Redlands bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Lower Tamarack 2",
+   "Cub Carpet top",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Tamarack 2",
+   "Tryo Tube top",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower Tamarack 2",
+   "Catamount bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Lower Tamarack 2",
+   "Tryo Tube bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Lower Tamarack 2",
+   "Cub Carpet bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Lower Tamarack 3",
+   "Craig's Run 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Lower Tamarack 3",
+   "Stage 1 / Downtowner",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Tamarack 3",
+   "Villager bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Lower Tamarack 3",
+   "Craig's Run 3",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower Tamarack 3",
+   "Craig's Run 5",
+   6.3
+  ],
+  [
+   "walk",
+   "Lower Tamarack 3",
+   "Redlands bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Lower Tamarack 3",
+   "Cub Carpet top",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Tamarack 3",
+   "Tryo Tube top",
+   5.8
+  ],
+  [
+   "walk",
+   "Lower Tamarack 3",
+   "Catamount bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Lower Tamarack 3",
+   "Cub Carpet bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Craig's Run 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Stage 1 / Downtowner",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Villager bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Craig's Run 3",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Craig's Run 5",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Redlands bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Tryo Tube top",
+   4.9
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Catamount bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Tamarack bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Tryo Tube bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Cub Carpet bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Theodore Carpet bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Craig's Run 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Stage 1 / Downtowner",
+   3.4
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Villager bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Craig's Run 3",
+   5.4
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Craig's Run 5",
+   6.0
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Redlands bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Catamount bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Tryo Tube bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Cub Carpet bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Craig's Run 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Craig's Run 5",
+   4.7
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "South American top",
+   5.1
+  ],
+  [
+   "walk",
+   "Way Home / Black Bear",
+   "Old Number 8 / Black Bear",
+   2.9
+  ],
+  [
+   "walk",
+   "Way Home / Black Bear",
+   "Number 6 / Gentle Ben",
+   3.3
+  ],
+  [
+   "walk",
+   "Way Home / Black Bear",
+   "Black Bear",
+   2.6
+  ],
+  [
+   "walk",
+   "Way Home / Black Bear",
+   "Gentle Ben",
+   3.3
+  ],
+  [
+   "walk",
+   "Old Number 8 / Black Bear",
+   "Number 6 / Gentle Ben",
+   3.3
+  ],
+  [
+   "walk",
+   "Old Number 8 / Black Bear",
+   "Black Bear",
+   2.6
+  ],
+  [
+   "walk",
+   "Old Number 8 / Black Bear",
+   "Gentle Ben",
+   3.3
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Old Number 8 / Black Bear",
+   2.6
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Number 6 / Gentle Ben",
+   3.1
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Gentle Ben",
+   3.0
+  ],
+  [
+   "walk",
+   "Big Ben 2",
+   "Solstice bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Big Ben 2",
+   "Lower Downeaster",
+   5.8
+  ],
+  [
+   "walk",
+   "Big Ben 2",
+   "Lower Downeaster 3",
+   5.3
+  ],
+  [
+   "walk",
+   "Big Ben 2",
+   "Sunrise Express bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) top",
+   "Solstice bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) top",
+   "Lower Downeaster",
+   5.0
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) top",
+   "Lower Downeaster 3",
+   4.5
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) top",
+   "Lower Kidderbrook / Sunriser Supertrail",
+   6.5
+  ],
+  [
+   "walk",
+   "Slider (Tube Park Lift) top",
+   "Sunrise Express bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Villager top",
+   "Lower Wanderer",
+   6.1
+  ],
+  [
+   "walk",
+   "Lower Tamarack 5",
+   "Suntanner",
+   6.4
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Suntanner",
+   4.8
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Theodore Carpet bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "American Express bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Tamarack bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Craig's Run 2",
+   "Cub Carpet bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Lower Tamarack 3",
+   "Tryo Tube bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Grizzly Access / Bear Bottom",
+   "Craig's Run",
+   4.1
+  ],
+  [
+   "walk",
+   "Grizzly Access / Bear Bottom",
+   "Old Number 8 / Runaway",
+   1.4
+  ],
+  [
+   "walk",
+   "Grizzly Access / Bear Bottom",
+   "Lower Tamarack 4",
+   4.2
+  ],
+  [
+   "walk",
+   "Craig's Run / Lower Tamarack",
+   "Grizzly Access / Bear Bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Craig's Run / Lower Tamarack",
+   "Craig's Run",
+   3.8
+  ],
+  [
+   "walk",
+   "Craig's Run / Lower Tamarack",
+   "Old Number 8 / Runaway",
+   3.4
+  ],
+  [
+   "walk",
+   "Craig's Run / Lower Tamarack",
+   "Lower Tamarack 4",
+   3.0
+  ],
+  [
+   "walk",
+   "Old Number 8 / Runaway",
+   "Grizzly Access / Bear Bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Old Number 8 / Runaway",
+   "Craig's Run",
+   4.0
+  ],
+  [
+   "walk",
+   "Old Number 8 / Runaway",
+   "Lower Tamarack 4",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Tamarack 4",
+   "Grizzly Access / Bear Bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Tamarack 4",
+   "Craig's Run",
+   6.7
+  ],
+  [
+   "walk",
+   "Lower Tamarack 4",
+   "Old Number 8 / Runaway",
+   4.1
+  ],
+  [
+   "walk",
+   "South American top",
+   "Grizzly Access / Bear Bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "South American top",
+   "Craig's Run",
+   4.2
+  ],
+  [
+   "walk",
+   "South American top",
+   "Old Number 8 / Runaway",
+   3.9
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Lower Wanderer",
+   6.5
+  ],
+  [
+   "walk",
+   "Yodeler 4",
+   "Summit Gondola bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "91 Extension / 91",
+   "Slider (Tube Park Lift) bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "91 Extension / 91",
+   "Big Ben 2",
+   4.0
+  ],
+  [
+   "walk",
+   "91 Extension / 91",
+   "Solstice bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Big Ben 2",
+   "91 Extension / 91",
+   4.0
+  ],
+  [
+   "walk",
+   "Ursa Express top",
+   "Janeway Jct. 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Shooting Star top",
+   "Janeway Jct. 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 2",
+   "Janeway Jct. 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Upper Wanderer / Janeway Jct.",
+   "Janeway Jct. 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Frank's Fall Line / Upper Standard",
+   "Janeway Jct. 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Summit Gondola top",
+   "Janeway Jct. 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Chute / Black Bear",
+   "Janeway Jct. 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Chute",
+   "Janeway Jct. 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Janeway Jct.",
+   "Janeway Jct. 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Mike's Way",
+   "Janeway Jct. 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Grizzly Access / Bear Bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Craig's Run / Lower Tamarack",
+   1.8
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Craig's Run",
+   5.0
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Old Number 8 / Runaway",
+   4.6
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Tink's Link",
+   3.3
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Yodeler 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Lower Tamarack 4",
+   4.1
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Ursa Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Craig's Run / Lower Tamarack",
+   "Tink's Link",
+   3.5
+  ],
+  [
+   "walk",
+   "Craig's Run / Lower Tamarack",
+   "Yodeler 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Craig's Run / Lower Tamarack",
+   "South American top",
+   5.6
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Grizzly Access / Bear Bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Craig's Run / Lower Tamarack",
+   2.0
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Craig's Run",
+   5.4
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Old Number 8 / Runaway",
+   5.1
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Tink's Link",
+   3.5
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Yodeler 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Lower Tamarack 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Ursa Express bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Grizzly Access / Bear Bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Craig's Run / Lower Tamarack",
+   1.4
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Craig's Run",
+   5.0
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Old Number 8 / Runaway",
+   4.6
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Tink's Link",
+   2.9
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Yodeler 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Lower Tamarack 4",
+   3.7
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Ursa Express bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Grizzly Access / Bear Bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Craig's Run / Lower Tamarack",
+   3.7
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Craig's Run",
+   6.6
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Old Number 8 / Runaway",
+   6.2
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Tink's Link",
+   5.2
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Yodeler 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Lower Tamarack 4",
+   5.8
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Ursa Express bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Grizzly Access / Bear Bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Craig's Run / Lower Tamarack",
+   3.3
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Craig's Run",
+   6.5
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Old Number 8 / Runaway",
+   6.2
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Tink's Link",
+   4.8
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Yodeler 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Lower Tamarack 4",
+   5.6
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Ursa Express bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Grizzly Access / Bear Bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Craig's Run / Lower Tamarack",
+   2.8
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Craig's Run",
+   6.2
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Old Number 8 / Runaway",
+   5.9
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Yodeler 2",
+   5.2
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Lower Tamarack 4",
+   5.1
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Ursa Express bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Grizzly Access / Bear Bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Craig's Run / Lower Tamarack",
+   1.4
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Craig's Run",
+   4.7
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Old Number 8 / Runaway",
+   4.4
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Tink's Link",
+   2.9
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Yodeler 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Lower Tamarack 4",
+   3.7
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Ursa Express bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Craig's Run / Lower Tamarack",
+   4.0
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Lower Tamarack 4",
+   6.3
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Ursa Express bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Craig's Run / Lower Tamarack",
+   5.3
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Craig's Run / Lower Tamarack",
+   5.5
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Craig's Run / Lower Tamarack",
+   5.5
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Hemlock / Betwixt",
+   3.8
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Yodeler / Frank's Fall Line",
+   2.5
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Yodeler",
+   1.9
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Upper Tamarack / Lower Tamarack",
+   4.2
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "Yodeler 3",
+   1.9
+  ],
+  [
+   "walk",
+   "Grizzly Access / Lower Tamarack",
+   "American Express top",
+   6.7
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Grizzly Access / Lower Tamarack",
+   3.8
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Craig's Run / Lower Tamarack",
+   3.3
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Yodeler / Frank's Fall Line",
+   3.9
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Yodeler",
+   3.3
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Upper Tamarack / Lower Tamarack",
+   5.7
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Tink's Link",
+   4.7
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Yodeler 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Yodeler 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Lower Tamarack 4",
+   5.5
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Ursa Express bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Tamarack top",
+   3.6
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Grizzly Access / Bear Bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Craig's Run",
+   6.8
+  ],
+  [
+   "walk",
+   "Hemlock / Betwixt",
+   "Old Number 8 / Runaway",
+   6.5
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Grizzly Access / Lower Tamarack",
+   2.5
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Hemlock / Betwixt",
+   3.9
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Yodeler",
+   2.1
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Upper Tamarack / Lower Tamarack",
+   4.4
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "Yodeler 3",
+   2.1
+  ],
+  [
+   "walk",
+   "Yodeler / Frank's Fall Line",
+   "American Express top",
+   6.9
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Grizzly Access / Lower Tamarack",
+   1.9
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Hemlock / Betwixt",
+   3.3
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Yodeler / Frank's Fall Line",
+   2.1
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Upper Tamarack / Lower Tamarack",
+   3.8
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "Yodeler 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Yodeler",
+   "American Express top",
+   6.3
+  ],
+  [
+   "walk",
+   "Upper Tamarack / Lower Tamarack",
+   "Yodeler 3",
+   3.8
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Tink's Link",
+   5.5
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Yodeler 2",
+   6.4
+  ],
+  [
+   "walk",
+   "American Express top",
+   "Yodeler 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Frank's Fall Line 3",
+   "Yodeler 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Grizzly Access / Lower Tamarack",
+   3.3
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Hemlock / Betwixt",
+   4.7
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Yodeler / Frank's Fall Line",
+   3.5
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Yodeler",
+   2.9
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Upper Tamarack / Lower Tamarack",
+   5.2
+  ],
+  [
+   "walk",
+   "Tink's Link",
+   "Yodeler 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Grizzly Access / Lower Tamarack",
+   1.9
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Hemlock / Betwixt",
+   3.3
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Yodeler / Frank's Fall Line",
+   2.1
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Yodeler",
+   1.5
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "Upper Tamarack / Lower Tamarack",
+   3.8
+  ],
+  [
+   "walk",
+   "Yodeler 3",
+   "American Express top",
+   6.3
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Tink's Link",
+   6.8
+  ],
+  [
+   "walk",
+   "Lower Standard / Upper Standard",
+   "Yodeler 3",
+   5.4
+  ],
+  [
+   "walk",
+   "Upper Tamarack",
+   "Craig's Run / Lower Tamarack",
+   6.9
+  ],
+  [
+   "walk",
+   "Upper Standard 2",
+   "Yodeler 3",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower Standard 3",
+   "Yodeler 3",
+   5.6
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "Grizzly Access / Lower Tamarack",
+   6.3
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "Yodeler / Frank's Fall Line",
+   6.4
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "Yodeler",
+   5.8
+  ],
+  [
+   "walk",
+   "Tamarack top",
+   "Yodeler 3",
+   5.8
+  ],
+  [
+   "walk",
+   "Craig's Run / Lower Tamarack",
+   "Grizzly Access / Lower Tamarack",
+   6.8
+  ],
+  [
+   "walk",
+   "Craig's Run / Lower Tamarack",
+   "Yodeler",
+   6.4
+  ],
+  [
+   "walk",
+   "Craig's Run / Lower Tamarack",
+   "Yodeler 3",
+   6.4
+  ],
+  [
+   "walk",
+   "Way Home / Shooter",
+   "Upper Middlebrook / Lower Middlebrook",
+   2.4
+  ],
+  [
+   "walk",
+   "Way Home / Shooter",
+   "Way Home",
+   1.4
+  ],
+  [
+   "walk",
+   "Way Home / Shooter",
+   "Lower Middlebrook",
+   2.9
+  ],
+  [
+   "walk",
+   "Way Home / Shooter",
+   "Lower Downeaster 4",
+   3.6
+  ],
+  [
+   "walk",
+   "Way Home",
+   "Way Home / Shooter",
+   1.4
+  ],
+  [
+   "walk",
+   "Way Home",
+   "Upper Middlebrook / Lower Middlebrook",
+   2.8
+  ],
+  [
+   "walk",
+   "Way Home",
+   "Lower Middlebrook",
+   3.3
+  ],
+  [
+   "walk",
+   "Way Home",
+   "Lower Downeaster 4",
+   3.9
+  ],
+  [
+   "walk",
+   "Shooting Star bottom",
+   "Lower Downeaster 4",
+   4.5
+  ],
+  [
+   "walk",
+   "Way Home / Shooter",
+   "Bear Down / Churchill Downs",
+   3.7
+  ],
+  [
+   "walk",
+   "Shooter / Bear Down",
+   "Way Home / Shooter",
+   4.3
+  ],
+  [
+   "walk",
+   "Shooter / Bear Down",
+   "Upper Middlebrook / Lower Middlebrook",
+   5.0
+  ],
+  [
+   "walk",
+   "Shooter / Bear Down",
+   "Way Home",
+   4.7
+  ],
+  [
+   "walk",
+   "Shooter / Bear Down",
+   "Bear Down / Churchill Downs",
+   6.2
+  ],
+  [
+   "walk",
+   "Shooter / Bear Down",
+   "Lower Middlebrook",
+   5.4
+  ],
+  [
+   "walk",
+   "Shooter / Bear Down",
+   "Sunrise Express top",
+   4.9
+  ],
+  [
+   "walk",
+   "Way Home",
+   "Bear Down / Churchill Downs",
+   4.1
+  ],
+  [
+   "walk",
+   "Sunrise Express top",
+   "Bear Down / Churchill Downs",
+   4.2
+  ]
+ ],
+ "base": "Sunrise Express bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Vermont",
+  "total_lifts": "17",
+  "downhill_trails": "205",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

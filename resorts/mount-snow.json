@@ -1,0 +1,6565 @@
+{
+ "name": "Mount Snow",
+ "source": "OpenSkiMap ski area 74dd4473e21693f4e2d2fdfb66ed5eee9493d4cc",
+ "origin_lonlat": [
+  -72.90882870401354,
+  42.96134086992656
+ ],
+ "nodes": {
+  "Lower Fool's Gold / Prospector": [
+   885,
+   -567,
+   720.6
+  ],
+  "Nitro Express #2 bottom": [
+   1430,
+   -323,
+   601.6
+  ],
+  "High Traverse / Ledge": [
+   -440,
+   103,
+   974.6
+  ],
+  "High Traverse / Link": [
+   -445,
+   338,
+   910.6
+  ],
+  "Tramline / High Traverse": [
+   -568,
+   -42,
+   994.1
+  ],
+  "Ego Alley #12 top": [
+   -203,
+   97,
+   908.6
+  ],
+  "Link / Ridge": [
+   150,
+   -174,
+   823.0
+  ],
+  "Cut Off / Long John": [
+   -263,
+   -633,
+   946.6
+  ],
+  "Cut Off / Long John 2": [
+   7,
+   -529,
+   862.8
+  ],
+  "Unnamed run / Deer Run": [
+   386,
+   -240,
+   783.5
+  ],
+  "Unnamed run / Rusty Nail": [
+   481,
+   -261,
+   774.0
+  ],
+  "High Traverse": [
+   -440,
+   167,
+   959.0
+  ],
+  "Choke / Canyon": [
+   -3,
+   416,
+   829.0
+  ],
+  "Ledge / Upper Exhibition": [
+   -699,
+   -49,
+   1028.5
+  ],
+  "Little Steep / Plummet": [
+   -813,
+   511,
+   854.0
+  ],
+  "Little Steep / Jaws": [
+   -778,
+   619,
+   813.2
+  ],
+  "Yard Sale / Ego Alley": [
+   735,
+   420,
+   694.3
+  ],
+  "Yard Sale / Long John": [
+   922,
+   482,
+   644.5
+  ],
+  "Hop / Little John": [
+   -569,
+   -323,
+   1016.0
+  ],
+  "Link": [
+   87,
+   -152,
+   838.6
+  ],
+  "Sweet Sixteen / Long John": [
+   650,
+   2,
+   723.2
+  ],
+  "Sweet Sixteen / Cooper's Junction": [
+   1104,
+   309,
+   624.3
+  ],
+  "Inferno / Narrow Gauge": [
+   506,
+   -340,
+   777.7
+  ],
+  "Inferno": [
+   1397,
+   -237,
+   603.4
+  ],
+  "Illusion / Roller Coaster": [
+   394,
+   604,
+   733.8
+  ],
+  "Discovery Shuttle #28 top": [
+   875,
+   743,
+   630.0
+  ],
+  "Narrow Gauge / Seasons Pass": [
+   1376,
+   -196,
+   604.9
+  ],
+  "Challenger #18 top": [
+   -931,
+   -97,
+   1089.4
+  ],
+  "Plummet / River Run": [
+   -815,
+   727,
+   801.2
+  ],
+  "Upper Fool's Gold / Nitro": [
+   94,
+   -917,
+   891.4
+  ],
+  "Lower Fool's Gold": [
+   933,
+   -594,
+   714.1
+  ],
+  "Boulder Pile / Free Fall": [
+   -953,
+   510,
+   877.5
+  ],
+  "Plummet": [
+   -846,
+   668,
+   811.7
+  ],
+  "Unnamed run / Snowdance Pitch": [
+   -396,
+   387,
+   897.1
+  ],
+  "Link 2": [
+   -337,
+   332,
+   899.4
+  ],
+  "Sunbrook Express #19 top": [
+   -1135,
+   -231,
+   1092.8
+  ],
+  "Cloud Nine / Shooting Star": [
+   -658,
+   -802,
+   936.5
+  ],
+  "High Traverse 2": [
+   -454,
+   215,
+   947.9
+  ],
+  "Unnamed run / Snowdance": [
+   565,
+   905,
+   661.5
+  ],
+  "Unnamed run / Launch Pad": [
+   848,
+   821,
+   626.2
+  ],
+  "Nitro Express #2 top": [
+   53,
+   -914,
+   902.8
+  ],
+  "Beartrap #14 bottom": [
+   -216,
+   -1240,
+   821.7
+  ],
+  "Long John / Thanks Walt": [
+   -923,
+   -173,
+   1086.7
+  ],
+  "Long John / Low Traverse": [
+   114,
+   -411,
+   838.1
+  ],
+  "Short Fuse / Ridge": [
+   610,
+   106,
+   738.1
+  ],
+  "Short Fuse / Long John": [
+   867,
+   215,
+   682.0
+  ],
+  "Overbrook / Roller Coaster": [
+   -104,
+   453,
+   844.8
+  ],
+  "Overbrook / Snowdance": [
+   807,
+   776,
+   634.7
+  ],
+  "Little Dipper / Skyline": [
+   -991,
+   -164,
+   1085.5
+  ],
+  "Little Dipper / Moon Walk": [
+   -1076,
+   -509,
+   1027.6
+  ],
+  "Low Traverse / Long John, Low Traverse": [
+   192,
+   -301,
+   813.8
+  ],
+  "Low Traverse / Canyon": [
+   535,
+   579,
+   704.5
+  ],
+  "Sundance Express #7 top": [
+   -629,
+   -308,
+   1025.5
+  ],
+  "Canyon Express #9 top": [
+   -383,
+   317,
+   910.6
+  ],
+  "Canyon Express #9 bottom": [
+   1071,
+   734,
+   605.2
+  ],
+  "Link 3": [
+   -261,
+   214,
+   910.7
+  ],
+  "Canyon": [
+   211,
+   468,
+   779.4
+  ],
+  "Free Fall / River Run": [
+   -903,
+   854,
+   789.8
+  ],
+  "Unnamed run / Ridge": [
+   503,
+   15,
+   746.7
+  ],
+  "Unnamed run / Ridge 2": [
+   510,
+   67,
+   747.9
+  ],
+  "Low Traverse / Deer Run": [
+   98,
+   -548,
+   839.4
+  ],
+  "Long John": [
+   -77,
+   -776,
+   908.5
+  ],
+  "Outpost #10 top": [
+   -1055,
+   -166,
+   1084.9
+  ],
+  "Outpost #10 bottom": [
+   -964,
+   952,
+   777.9
+  ],
+  "Grand Summit Express #11 top": [
+   -871,
+   -157,
+   1088.7
+  ],
+  "Low Traverse": [
+   439,
+   362,
+   749.3
+  ],
+  "Grommet #1 top": [
+   1437,
+   -168,
+   604.2
+  ],
+  "Grommet #1 bottom": [
+   1567,
+   -170,
+   590.8
+  ],
+  "Deer Run": [
+   48,
+   -860,
+   901.7
+  ],
+  "Iron Run / Prospector": [
+   684,
+   -429,
+   755.0
+  ],
+  "Canyon 2": [
+   414,
+   531,
+   739.3
+  ],
+  "Skyline / Committed": [
+   -852,
+   -61,
+   1068.2
+  ],
+  "Mineshaft": [
+   89,
+   -872,
+   894.5
+  ],
+  "Free Fall": [
+   -953,
+   113,
+   1013.3
+  ],
+  "Plummet 2": [
+   -834,
+   304,
+   936.3
+  ],
+  "Tramline": [
+   -187,
+   57,
+   905.0
+  ],
+  "Ego Alley / Lower Exhibition": [
+   807,
+   496,
+   671.2
+  ],
+  "Rusty Nail / The Gulch": [
+   1041,
+   -174,
+   672.7
+  ],
+  "Ego Alley #12 bottom": [
+   1107,
+   563,
+   606.2
+  ],
+  "Beartrap #14 top": [
+   -134,
+   -907,
+   934.8
+  ],
+  "Chute": [
+   -992,
+   689,
+   821.0
+  ],
+  "Low Traverse 2": [
+   536,
+   508,
+   715.0
+  ],
+  "Olympic": [
+   -1091,
+   -141,
+   1078.0
+  ],
+  "Cloud Nine": [
+   -946,
+   -383,
+   1049.4
+  ],
+  "Tin Lizzy": [
+   1325,
+   83,
+   603.5
+  ],
+  "Tin Lizzy / Cooper's Junction": [
+   1312,
+   377,
+   592.2
+  ],
+  "Thanks Walt": [
+   -685,
+   -959,
+   913.4
+  ],
+  "Snowdance / Snowdance Pitch": [
+   -177,
+   537,
+   853.2
+  ],
+  "Ridge / Little John": [
+   -497,
+   -365,
+   996.3
+  ],
+  "Long John 2": [
+   908,
+   288,
+   667.4
+  ],
+  "Upper Fool's Gold": [
+   390,
+   -894,
+   834.1
+  ],
+  "Mineshaft 2": [
+   325,
+   -562,
+   794.2
+  ],
+  "Deer Run 2": [
+   37,
+   -810,
+   895.5
+  ],
+  "Long John 3": [
+   912,
+   349,
+   659.8
+  ],
+  "Beaver Hill": [
+   1156,
+   460,
+   603.8
+  ],
+  "Plummet 3": [
+   -877,
+   101,
+   1019.3
+  ],
+  "Ledge": [
+   -638,
+   49,
+   1016.1
+  ],
+  "Little Dipper": [
+   -1074,
+   -210,
+   1087.7
+  ],
+  "Canyon 3": [
+   -260,
+   357,
+   889.1
+  ],
+  "Little Dipper 2": [
+   -573,
+   -1207,
+   882.7
+  ],
+  "Thanks Walt 2": [
+   -341,
+   -1152,
+   836.8
+  ],
+  "Choke": [
+   -43,
+   354,
+   842.6
+  ],
+  "Ledge 2": [
+   139,
+   399,
+   802.0
+  ],
+  "Somerset Road / One More Time": [
+   -53,
+   730,
+   800.2
+  ],
+  "Low Traverse 3": [
+   406,
+   272,
+   759.8
+  ],
+  "Big Dipper / One Small Step": [
+   -844,
+   -967,
+   929.7
+  ],
+  "Shooting Star": [
+   -717,
+   -520,
+   988.2
+  ],
+  "Chute 2": [
+   -1083,
+   -40,
+   1048.6
+  ],
+  "Olympic 2": [
+   -1136,
+   -18,
+   1038.8
+  ],
+  "Long John 4": [
+   -435,
+   -422,
+   982.1
+  ],
+  "Little John": [
+   -848,
+   -198,
+   1075.1
+  ],
+  "South Bowl / Drop": [
+   522,
+   175,
+   745.8
+  ],
+  "Big Dipper": [
+   -1173,
+   -285,
+   1087.3
+  ],
+  "Discovery Shuttle #28 bottom": [
+   959,
+   836,
+   610.2
+  ],
+  "Low Traverse 4": [
+   522,
+   442,
+   724.3
+  ],
+  "Under Pressure / Charlie's Chase": [
+   754,
+   540,
+   673.4
+  ],
+  "Seasons Pass": [
+   1340,
+   -138,
+   609.0
+  ],
+  "Lodge": [
+   277,
+   356,
+   776.3
+  ],
+  "Link 4": [
+   -45,
+   -74,
+   865.4
+  ],
+  "Low Traverse 5": [
+   206,
+   -213,
+   808.8
+  ],
+  "Voyager #24 bottom": [
+   1024,
+   801,
+   607.8
+  ],
+  "Bluebird Express #17 top": [
+   -873,
+   -105,
+   1086.9
+  ],
+  "Ledge 3": [
+   -675,
+   33,
+   1020.8
+  ],
+  "Grand Summit Express #11 bottom": [
+   1133,
+   614,
+   602.1
+  ],
+  "Long John 5": [
+   486,
+   -89,
+   745.3
+  ],
+  "Ridge": [
+   458,
+   25,
+   753.4
+  ],
+  "The Junkyard / The Farm": [
+   1275,
+   -394,
+   633.5
+  ],
+  "Sunbrook Express #19 bottom": [
+   -284,
+   -1240,
+   822.6
+  ],
+  "Roller Coaster": [
+   251,
+   542,
+   764.5
+  ],
+  "Committed": [
+   -784,
+   44,
+   1031.1
+  ],
+  "Jaws": [
+   -803,
+   134,
+   1000.7
+  ],
+  "Free Fall 2": [
+   -954,
+   424,
+   906.5
+  ],
+  "Long John 6": [
+   453,
+   -170,
+   762.5
+  ],
+  "N.E. Time": [
+   -249,
+   566,
+   857.2
+  ],
+  "Snowdance": [
+   600,
+   875,
+   659.9
+  ],
+  "Seasons Pass 2": [
+   1311,
+   -93,
+   611.5
+  ],
+  "Voyager #24 top": [
+   922,
+   739,
+   624.2
+  ],
+  "Seasons #16 bottom": [
+   1356,
+   368,
+   589.5
+  ],
+  "Seasons #16 top": [
+   1040,
+   267,
+   636.4
+  ],
+  "Sundance Express #7 bottom": [
+   1312,
+   420,
+   591.0
+  ],
+  "2 bottom": [
+   -904,
+   990,
+   783.3
+  ],
+  "Covered Bridge #4 bottom": [
+   1332,
+   666,
+   579.9
+  ],
+  "Covered Bridge #4 top": [
+   1210,
+   644,
+   599.6
+  ],
+  "Bluebird Express #17 bottom": [
+   1094,
+   670,
+   604.3
+  ],
+  "Mercury #5 bottom": [
+   996,
+   859,
+   609.0
+  ],
+  "Heavy Metal #3 top": [
+   460,
+   -317,
+   783.6
+  ]
+ },
+ "lifts": [
+  [
+   "Beartrap #14",
+   "Beartrap #14 bottom",
+   "Beartrap #14 top",
+   5.0
+  ],
+  [
+   "Ego Alley #12",
+   "Ego Alley #12 bottom",
+   "Ego Alley #12 top",
+   12.0
+  ],
+  [
+   "Sunbrook Express #19",
+   "Sunbrook Express #19 bottom",
+   "Sunbrook Express #19 top",
+   7.5
+  ],
+  [
+   "Voyager #24",
+   "Voyager #24 bottom",
+   "Voyager #24 top",
+   3.5
+  ],
+  [
+   "Grand Summit Express #11",
+   "Grand Summit Express #11 bottom",
+   "Grand Summit Express #11 top",
+   10.5
+  ],
+  [
+   "Grommet #1",
+   "Grommet #1 bottom",
+   "Grommet #1 top",
+   4.0
+  ],
+  [
+   "Canyon Express #9",
+   "Canyon Express #9 bottom",
+   "Canyon Express #9 top",
+   7.5
+  ],
+  [
+   "Seasons #16",
+   "Seasons #16 bottom",
+   "Seasons #16 top",
+   6.0
+  ],
+  [
+   "Sundance Express #7",
+   "Sundance Express #7 bottom",
+   "Sundance Express #7 top",
+   10.1
+  ],
+  [
+   "Sundance Express #7",
+   "Sundance Express #7 top",
+   "Sundance Express #7 bottom",
+   10.1
+  ],
+  [
+   "Covered Bridge #4",
+   "Covered Bridge #4 bottom",
+   "Covered Bridge #4 top",
+   5.0
+  ],
+  [
+   "Discovery Shuttle #28",
+   "Discovery Shuttle #28 bottom",
+   "Discovery Shuttle #28 top",
+   4.0
+  ],
+  [
+   "Bluebird Express #17",
+   "Bluebird Express #17 bottom",
+   "Bluebird Express #17 top",
+   10.3
+  ],
+  [
+   "Bluebird Express #17",
+   "Bluebird Express #17 top",
+   "Bluebird Express #17 bottom",
+   10.3
+  ],
+  [
+   "Nitro Express #2",
+   "Nitro Express #2 bottom",
+   "Nitro Express #2 top",
+   8.0
+  ],
+  [
+   "Outpost #10",
+   "Outpost #10 bottom",
+   "Outpost #10 top",
+   11.0
+  ],
+  [
+   "Heavy Metal #3",
+   "Grommet #1 top",
+   "Heavy Metal #3 top",
+   10.0
+  ],
+  [
+   "Challenger #18",
+   "Outpost #10 bottom",
+   "Challenger #18 top",
+   10.0
+  ]
+ ],
+ "runs": [
+  [
+   "Lower Fool's Gold",
+   "Lower Fool's Gold / Prospector",
+   "Lower Fool's Gold",
+   0.5
+  ],
+  [
+   "Lower Fool's Gold",
+   "Lower Fool's Gold",
+   "Nitro Express #2 bottom",
+   2.5
+  ],
+  [
+   "High Traverse",
+   "High Traverse / Ledge",
+   "High Traverse",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "High Traverse",
+   "High Traverse 2",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "High Traverse 2",
+   "High Traverse / Link",
+   0.5
+  ],
+  [
+   "Tramline",
+   "Tramline / High Traverse",
+   "Tramline",
+   1.6
+  ],
+  [
+   "Tramline",
+   "Tramline",
+   "Ego Alley #12 top",
+   0.5
+  ],
+  [
+   "Link",
+   "High Traverse / Link",
+   "Canyon Express #9 top",
+   0.5
+  ],
+  [
+   "Link",
+   "Canyon Express #9 top",
+   "Link 2",
+   0.5
+  ],
+  [
+   "Link",
+   "Link 2",
+   "Link 3",
+   0.5
+  ],
+  [
+   "Link",
+   "Link 3",
+   "Ego Alley #12 top",
+   0.6
+  ],
+  [
+   "Link",
+   "Ego Alley #12 top",
+   "Tramline",
+   0.5
+  ],
+  [
+   "Link",
+   "Tramline",
+   "Link 4",
+   0.7
+  ],
+  [
+   "Link",
+   "Link 4",
+   "Link",
+   0.6
+  ],
+  [
+   "Link",
+   "Link",
+   "Link / Ridge",
+   0.5
+  ],
+  [
+   "Cut Off",
+   "Cut Off / Long John",
+   "Cut Off / Long John 2",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Deer Run",
+   "Unnamed run / Rusty Nail",
+   0.5
+  ],
+  [
+   "Choke",
+   "High Traverse",
+   "Link 3",
+   0.8
+  ],
+  [
+   "Choke",
+   "Link 3",
+   "Choke",
+   1.0
+  ],
+  [
+   "Choke",
+   "Choke",
+   "Choke / Canyon",
+   0.5
+  ],
+  [
+   "Ledge",
+   "Ledge / Upper Exhibition",
+   "Ledge 3",
+   0.5
+  ],
+  [
+   "Ledge",
+   "Ledge 3",
+   "Ledge",
+   0.5
+  ],
+  [
+   "Ledge",
+   "Ledge",
+   "High Traverse / Ledge",
+   0.8
+  ],
+  [
+   "Little Steep",
+   "Little Steep / Plummet",
+   "Little Steep / Jaws",
+   0.5
+  ],
+  [
+   "Yard Sale",
+   "Yard Sale / Ego Alley",
+   "Yard Sale / Long John",
+   0.7
+  ],
+  [
+   "Hop",
+   "Hop / Little John",
+   "Link",
+   2.8
+  ],
+  [
+   "Sweet Sixteen",
+   "Sweet Sixteen / Long John",
+   "Sweet Sixteen / Cooper's Junction",
+   2.7
+  ],
+  [
+   "Inferno",
+   "Inferno / Narrow Gauge",
+   "Inferno",
+   3.7
+  ],
+  [
+   "Illusion",
+   "Illusion / Roller Coaster",
+   "Discovery Shuttle #28 top",
+   2.0
+  ],
+  [
+   "Narrow Gauge",
+   "Inferno / Narrow Gauge",
+   "Narrow Gauge / Seasons Pass",
+   3.6
+  ],
+  [
+   "Plummet",
+   "Challenger #18 top",
+   "Plummet 3",
+   0.8
+  ],
+  [
+   "Plummet",
+   "Plummet 3",
+   "Plummet 2",
+   0.9
+  ],
+  [
+   "Plummet",
+   "Plummet 2",
+   "Little Steep / Plummet",
+   1.0
+  ],
+  [
+   "Plummet",
+   "Little Steep / Plummet",
+   "Plummet",
+   0.7
+  ],
+  [
+   "Plummet",
+   "Plummet",
+   "Plummet / River Run",
+   0.5
+  ],
+  [
+   "Upper Fool's Gold",
+   "Upper Fool's Gold / Nitro",
+   "Upper Fool's Gold",
+   1.1
+  ],
+  [
+   "Upper Fool's Gold",
+   "Upper Fool's Gold",
+   "Lower Fool's Gold",
+   2.8
+  ],
+  [
+   "Boulder Pile",
+   "Boulder Pile / Free Fall",
+   "Plummet",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Snowdance Pitch",
+   "Link 2",
+   0.5
+  ],
+  [
+   "Cloud Nine",
+   "Sunbrook Express #19 top",
+   "Cloud Nine",
+   1.0
+  ],
+  [
+   "Cloud Nine",
+   "Cloud Nine",
+   "Cloud Nine / Shooting Star",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Snowdance",
+   "Unnamed run / Launch Pad",
+   1.3
+  ],
+  [
+   "Milky Way",
+   "Nitro Express #2 top",
+   "Beartrap #14 bottom",
+   2.4
+  ],
+  [
+   "Long John",
+   "Long John / Thanks Walt",
+   "Long John 4",
+   2.4
+  ],
+  [
+   "Long John",
+   "Long John 4",
+   "Cut Off / Long John",
+   1.1
+  ],
+  [
+   "Long John",
+   "Cut Off / Long John",
+   "Long John",
+   1.0
+  ],
+  [
+   "Long John",
+   "Long John",
+   "Cut Off / Long John 2",
+   1.2
+  ],
+  [
+   "Long John",
+   "Cut Off / Long John 2",
+   "Long John / Low Traverse",
+   0.7
+  ],
+  [
+   "Short Fuse",
+   "Short Fuse / Ridge",
+   "Short Fuse / Long John",
+   1.0
+  ],
+  [
+   "Overbrook",
+   "Overbrook / Roller Coaster",
+   "Overbrook / Snowdance",
+   4.1
+  ],
+  [
+   "Little Dipper",
+   "Little Dipper / Skyline",
+   "Little Dipper",
+   0.5
+  ],
+  [
+   "Little Dipper",
+   "Little Dipper",
+   "Little Dipper / Moon Walk",
+   1.2
+  ],
+  [
+   "Low Traverse",
+   "Low Traverse / Long John, Low Traverse",
+   "Low Traverse 5",
+   0.5
+  ],
+  [
+   "Low Traverse",
+   "Low Traverse 5",
+   "Low Traverse 3",
+   2.4
+  ],
+  [
+   "Low Traverse",
+   "Low Traverse 3",
+   "Low Traverse",
+   0.5
+  ],
+  [
+   "Low Traverse",
+   "Low Traverse",
+   "Low Traverse 4",
+   0.5
+  ],
+  [
+   "Low Traverse",
+   "Low Traverse 4",
+   "Low Traverse 2",
+   0.5
+  ],
+  [
+   "Low Traverse",
+   "Low Traverse 2",
+   "Low Traverse / Canyon",
+   0.5
+  ],
+  [
+   "High Traverse",
+   "Sundance Express #7 top",
+   "Tramline / High Traverse",
+   1.0
+  ],
+  [
+   "High Traverse",
+   "Tramline / High Traverse",
+   "High Traverse / Ledge",
+   0.8
+  ],
+  [
+   "Canyon",
+   "Canyon Express #9 top",
+   "Link 2",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Link 2",
+   "Canyon 3",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Canyon 3",
+   "Choke / Canyon",
+   1.1
+  ],
+  [
+   "Canyon",
+   "Choke / Canyon",
+   "Canyon",
+   0.9
+  ],
+  [
+   "Canyon",
+   "Canyon",
+   "Canyon 2",
+   0.9
+  ],
+  [
+   "Canyon",
+   "Canyon 2",
+   "Low Traverse / Canyon",
+   0.5
+  ],
+  [
+   "Canyon",
+   "Low Traverse / Canyon",
+   "Canyon Express #9 bottom",
+   2.4
+  ],
+  [
+   "Ledge",
+   "Link 3",
+   "Choke",
+   1.0
+  ],
+  [
+   "Ledge",
+   "Choke",
+   "Ledge 2",
+   0.9
+  ],
+  [
+   "Ledge",
+   "Ledge 2",
+   "Canyon",
+   0.5
+  ],
+  [
+   "Free Fall",
+   "Challenger #18 top",
+   "Free Fall",
+   0.8
+  ],
+  [
+   "Free Fall",
+   "Free Fall",
+   "Free Fall 2",
+   1.4
+  ],
+  [
+   "Free Fall",
+   "Free Fall 2",
+   "Boulder Pile / Free Fall",
+   0.5
+  ],
+  [
+   "Free Fall",
+   "Boulder Pile / Free Fall",
+   "Free Fall / River Run",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Ridge",
+   "Unnamed run / Ridge 2",
+   0.5
+  ],
+  [
+   "Low Traverse",
+   "Low Traverse / Deer Run",
+   "Long John / Low Traverse",
+   0.5
+  ],
+  [
+   "Long John, Low Traverse",
+   "Long John / Low Traverse",
+   "Low Traverse / Long John, Low Traverse",
+   0.5
+  ],
+  [
+   "Deer Run",
+   "Long John",
+   "Deer Run 2",
+   0.5
+  ],
+  [
+   "Deer Run",
+   "Deer Run 2",
+   "Deer Run",
+   0.5
+  ],
+  [
+   "Deer Run",
+   "Deer Run",
+   "Deer Run 2",
+   0.5
+  ],
+  [
+   "Deer Run",
+   "Deer Run 2",
+   "Low Traverse / Deer Run",
+   1.1
+  ],
+  [
+   "Deer Run",
+   "Low Traverse / Deer Run",
+   "Unnamed run / Deer Run",
+   1.9
+  ],
+  [
+   "Chute",
+   "Outpost #10 top",
+   "Chute 2",
+   0.6
+  ],
+  [
+   "Chute",
+   "Chute 2",
+   "Chute",
+   3.1
+  ],
+  [
+   "Chute",
+   "Chute",
+   "Outpost #10 bottom",
+   1.1
+  ],
+  [
+   "Upper Exhibition",
+   "Grand Summit Express #11 top",
+   "Ledge / Upper Exhibition",
+   0.8
+  ],
+  [
+   "Upper Exhibition",
+   "Ledge / Upper Exhibition",
+   "Tramline / High Traverse",
+   0.5
+  ],
+  [
+   "Upper Exhibition",
+   "Tramline / High Traverse",
+   "Ego Alley #12 top",
+   1.6
+  ],
+  [
+   "Upper Exhibition",
+   "Ego Alley #12 top",
+   "Low Traverse",
+   3.0
+  ],
+  [
+   "Grommet",
+   "Grommet #1 top",
+   "Grommet #1 bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Nitro Express #2 top",
+   "Deer Run",
+   0.5
+  ],
+  [
+   "Iron Run",
+   "Iron Run / Prospector",
+   "Nitro Express #2 bottom",
+   3.2
+  ],
+  [
+   "Unnamed run",
+   "Canyon",
+   "Canyon 2",
+   0.8
+  ],
+  [
+   "Skyline",
+   "Little Dipper / Skyline",
+   "Challenger #18 top",
+   0.5
+  ],
+  [
+   "Skyline",
+   "Challenger #18 top",
+   "Skyline / Committed",
+   0.5
+  ],
+  [
+   "Olympic",
+   "Outpost #10 top",
+   "Olympic",
+   0.5
+  ],
+  [
+   "Olympic",
+   "Olympic",
+   "Olympic 2",
+   0.5
+  ],
+  [
+   "Olympic",
+   "Olympic 2",
+   "Outpost #10 bottom",
+   4.7
+  ],
+  [
+   "Mineshaft",
+   "Mineshaft",
+   "Mineshaft 2",
+   1.6
+  ],
+  [
+   "Mineshaft",
+   "Mineshaft 2",
+   "Inferno / Narrow Gauge",
+   1.2
+  ],
+  [
+   "PDF",
+   "Free Fall",
+   "Plummet 2",
+   0.9
+  ],
+  [
+   "Ego Alley",
+   "Tramline",
+   "Low Traverse 3",
+   2.6
+  ],
+  [
+   "Ego Alley",
+   "Low Traverse 3",
+   "Yard Sale / Ego Alley",
+   1.5
+  ],
+  [
+   "Ego Alley",
+   "Yard Sale / Ego Alley",
+   "Ego Alley / Lower Exhibition",
+   0.5
+  ],
+  [
+   "Rusty Nail",
+   "Unnamed run / Rusty Nail",
+   "Rusty Nail / The Gulch",
+   2.5
+  ],
+  [
+   "Long John",
+   "Low Traverse / Long John, Low Traverse",
+   "Unnamed run / Deer Run",
+   0.7
+  ],
+  [
+   "Long John",
+   "Unnamed run / Deer Run",
+   "Long John 6",
+   0.5
+  ],
+  [
+   "Long John",
+   "Long John 6",
+   "Long John 5",
+   0.5
+  ],
+  [
+   "Long John",
+   "Long John 5",
+   "Sweet Sixteen / Long John",
+   0.8
+  ],
+  [
+   "Long John",
+   "Sweet Sixteen / Long John",
+   "Short Fuse / Long John",
+   1.4
+  ],
+  [
+   "Long John",
+   "Short Fuse / Long John",
+   "Long John 2",
+   0.5
+  ],
+  [
+   "Long John",
+   "Long John 2",
+   "Long John 3",
+   0.5
+  ],
+  [
+   "Long John",
+   "Long John 3",
+   "Yard Sale / Long John",
+   0.5
+  ],
+  [
+   "Long John",
+   "Yard Sale / Long John",
+   "Ego Alley #12 bottom",
+   0.9
+  ],
+  [
+   "Fallen Timbers",
+   "Outpost #10 top",
+   "Olympic",
+   0.5
+  ],
+  [
+   "Fallen Timbers",
+   "Olympic",
+   "Chute 2",
+   0.5
+  ],
+  [
+   "Fallen Timbers",
+   "Chute 2",
+   "Chute",
+   3.2
+  ],
+  [
+   "Lodge",
+   "Grand Summit Express #11 top",
+   "Bluebird Express #17 top",
+   0.5
+  ],
+  [
+   "Lodge",
+   "Bluebird Express #17 top",
+   "Ledge / Upper Exhibition",
+   0.6
+  ],
+  [
+   "Lodge",
+   "Ledge / Upper Exhibition",
+   "High Traverse / Ledge",
+   1.3
+  ],
+  [
+   "Lodge",
+   "High Traverse / Ledge",
+   "Lodge",
+   3.3
+  ],
+  [
+   "Lodge",
+   "Lodge",
+   "Low Traverse 2",
+   1.3
+  ],
+  [
+   "Sunspot",
+   "Little Dipper / Skyline",
+   "Cloud Nine",
+   0.8
+  ],
+  [
+   "Thanks Walt",
+   "Long John / Thanks Walt",
+   "Cloud Nine",
+   0.7
+  ],
+  [
+   "Thanks Walt",
+   "Cloud Nine",
+   "Thanks Walt",
+   2.8
+  ],
+  [
+   "Thanks Walt",
+   "Thanks Walt",
+   "Thanks Walt 2",
+   1.8
+  ],
+  [
+   "Thanks Walt",
+   "Thanks Walt 2",
+   "Sunbrook Express #19 bottom",
+   0.5
+  ],
+  [
+   "Thanks Walt",
+   "Sunbrook Express #19 bottom",
+   "Beartrap #14 bottom",
+   0.5
+  ],
+  [
+   "Tin Lizzy",
+   "Tin Lizzy",
+   "Tin Lizzy / Cooper's Junction",
+   1.1
+  ],
+  [
+   "Shooting Star",
+   "Sundance Express #7 top",
+   "Shooting Star",
+   0.9
+  ],
+  [
+   "Shooting Star",
+   "Shooting Star",
+   "Cloud Nine / Shooting Star",
+   1.3
+  ],
+  [
+   "Shooting Star",
+   "Cloud Nine / Shooting Star",
+   "Thanks Walt",
+   0.7
+  ],
+  [
+   "Snowdance",
+   "Snowdance / Snowdance Pitch",
+   "Unnamed run / Snowdance",
+   3.5
+  ],
+  [
+   "Snowdance",
+   "Unnamed run / Snowdance",
+   "Snowdance",
+   0.5
+  ],
+  [
+   "Snowdance",
+   "Snowdance",
+   "Overbrook / Snowdance",
+   0.8
+  ],
+  [
+   "Snowdance",
+   "Overbrook / Snowdance",
+   "Discovery Shuttle #28 top",
+   0.5
+  ],
+  [
+   "Ridge",
+   "Ridge / Little John",
+   "Link / Ridge",
+   3.0
+  ],
+  [
+   "Ridge",
+   "Link / Ridge",
+   "Ridge",
+   1.6
+  ],
+  [
+   "Ridge",
+   "Ridge",
+   "Unnamed run / Ridge",
+   0.5
+  ],
+  [
+   "Ridge",
+   "Unnamed run / Ridge",
+   "Unnamed run / Ridge 2",
+   0.5
+  ],
+  [
+   "Ridge",
+   "Unnamed run / Ridge 2",
+   "Short Fuse / Ridge",
+   0.5
+  ],
+  [
+   "Ridge",
+   "Short Fuse / Ridge",
+   "Long John 2",
+   1.5
+  ],
+  [
+   "Tunnel Vision",
+   "Upper Fool's Gold",
+   "Mineshaft 2",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Deer Run",
+   "Deer Run 2",
+   0.5
+  ],
+  [
+   "Beaver Hill",
+   "Long John 3",
+   "Beaver Hill",
+   1.1
+  ],
+  [
+   "Jaws",
+   "Plummet 3",
+   "Jaws",
+   0.5
+  ],
+  [
+   "Jaws",
+   "Jaws",
+   "Little Steep / Jaws",
+   2.2
+  ],
+  [
+   "Seasons Pass",
+   "Short Fuse / Long John",
+   "Seasons Pass 2",
+   2.1
+  ],
+  [
+   "Seasons Pass",
+   "Seasons Pass 2",
+   "Seasons Pass",
+   0.5
+  ],
+  [
+   "Seasons Pass",
+   "Seasons Pass",
+   "Narrow Gauge / Seasons Pass",
+   0.5
+  ],
+  [
+   "River Run",
+   "High Traverse / Link",
+   "Little Steep / Jaws",
+   2.1
+  ],
+  [
+   "River Run",
+   "Little Steep / Jaws",
+   "Plummet / River Run",
+   0.5
+  ],
+  [
+   "River Run",
+   "Plummet / River Run",
+   "Free Fall / River Run",
+   0.6
+  ],
+  [
+   "River Run",
+   "Free Fall / River Run",
+   "Outpost #10 bottom",
+   0.5
+  ],
+  [
+   "Committed",
+   "Challenger #18 top",
+   "Skyline / Committed",
+   0.5
+  ],
+  [
+   "Committed",
+   "Skyline / Committed",
+   "Committed",
+   0.5
+  ],
+  [
+   "Committed",
+   "Committed",
+   "Ledge 3",
+   0.5
+  ],
+  [
+   "Committed",
+   "Ledge 3",
+   "Ledge",
+   0.5
+  ],
+  [
+   "Skyline",
+   "Little Dipper",
+   "Outpost #10 top",
+   0.5
+  ],
+  [
+   "Skyline",
+   "Outpost #10 top",
+   "Little Dipper / Skyline",
+   0.5
+  ],
+  [
+   "Cascade",
+   "Challenger #18 top",
+   "Bluebird Express #17 top",
+   0.5
+  ],
+  [
+   "Cascade",
+   "Bluebird Express #17 top",
+   "Skyline / Committed",
+   0.5
+  ],
+  [
+   "Cascade",
+   "Skyline / Committed",
+   "Ledge 3",
+   0.9
+  ],
+  [
+   "Cascade",
+   "Ledge 3",
+   "Ledge",
+   0.5
+  ],
+  [
+   "Cascade",
+   "Ledge",
+   "High Traverse",
+   1.0
+  ],
+  [
+   "Cascade",
+   "High Traverse",
+   "Canyon 3",
+   1.2
+  ],
+  [
+   "Snowdance Pitch",
+   "High Traverse / Link",
+   "Unnamed run / Snowdance Pitch",
+   0.5
+  ],
+  [
+   "Snowdance Pitch",
+   "Unnamed run / Snowdance Pitch",
+   "Snowdance / Snowdance Pitch",
+   1.1
+  ],
+  [
+   "Little Dipper",
+   "Little Dipper 2",
+   "Thanks Walt 2",
+   0.9
+  ],
+  [
+   "Beartrap",
+   "Beartrap #14 top",
+   "Beartrap #14 bottom",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Choke",
+   "Ledge 2",
+   0.6
+  ],
+  [
+   "Somerset Road",
+   "Somerset Road / One More Time",
+   "Canyon",
+   1.6
+  ],
+  [
+   "Somerset Road",
+   "Canyon",
+   "Lodge",
+   0.5
+  ],
+  [
+   "Somerset Road",
+   "Lodge",
+   "Low Traverse 3",
+   0.7
+  ],
+  [
+   "Roller Coaster",
+   "Canyon 3",
+   "Overbrook / Roller Coaster",
+   0.7
+  ],
+  [
+   "Roller Coaster",
+   "Overbrook / Roller Coaster",
+   "Choke / Canyon",
+   0.5
+  ],
+  [
+   "Roller Coaster",
+   "Choke / Canyon",
+   "Roller Coaster",
+   1.1
+  ],
+  [
+   "Roller Coaster",
+   "Roller Coaster",
+   "Illusion / Roller Coaster",
+   0.7
+  ],
+  [
+   "Roller Coaster",
+   "Illusion / Roller Coaster",
+   "Overbrook / Snowdance",
+   2.1
+  ],
+  [
+   "Roller Coaster",
+   "Overbrook / Snowdance",
+   "Discovery Shuttle #28 top",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Sunbrook Express #19 top",
+   "Big Dipper",
+   0.5
+  ],
+  [
+   "Big Dipper",
+   "Big Dipper",
+   "Big Dipper / One Small Step",
+   3.8
+  ],
+  [
+   "Dark Side of the Moon",
+   "Cloud Nine",
+   "Shooting Star",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Chute 2",
+   "Olympic 2",
+   0.5
+  ],
+  [
+   "Little John",
+   "Long John / Thanks Walt",
+   "Grand Summit Express #11 top",
+   0.5
+  ],
+  [
+   "Little John",
+   "Grand Summit Express #11 top",
+   "Little John",
+   0.5
+  ],
+  [
+   "Little John",
+   "Little John",
+   "Sundance Express #7 top",
+   1.0
+  ],
+  [
+   "Little John",
+   "Sundance Express #7 top",
+   "Hop / Little John",
+   0.5
+  ],
+  [
+   "Little John",
+   "Hop / Little John",
+   "Ridge / Little John",
+   0.5
+  ],
+  [
+   "Little John",
+   "Ridge / Little John",
+   "Long John 4",
+   0.5
+  ],
+  [
+   "South Bowl",
+   "Little John",
+   "Link 4",
+   3.4
+  ],
+  [
+   "South Bowl",
+   "Link 4",
+   "South Bowl / Drop",
+   2.7
+  ],
+  [
+   "Prospector",
+   "Inferno / Narrow Gauge",
+   "Iron Run / Prospector",
+   0.7
+  ],
+  [
+   "Prospector",
+   "Iron Run / Prospector",
+   "Lower Fool's Gold / Prospector",
+   1.0
+  ],
+  [
+   "Moon Walk",
+   "Big Dipper",
+   "Little Dipper / Moon Walk",
+   1.0
+  ],
+  [
+   "Launch Pad",
+   "Unnamed run / Launch Pad",
+   "Discovery Shuttle #28 bottom",
+   0.5
+  ],
+  [
+   "Under Pressure",
+   "Low Traverse 4",
+   "Under Pressure / Charlie's Chase",
+   0.9
+  ],
+  [
+   "One Small Step",
+   "Big Dipper / One Small Step",
+   "Thanks Walt",
+   0.5
+  ],
+  [
+   "The Gulch",
+   "Unnamed run / Rusty Nail",
+   "Rusty Nail / The Gulch",
+   2.3
+  ],
+  [
+   "The Gulch",
+   "Rusty Nail / The Gulch",
+   "Seasons Pass",
+   1.3
+  ],
+  [
+   "Pat's Pitch",
+   "Lodge",
+   "Low Traverse 4",
+   1.0
+  ],
+  [
+   "Shootout",
+   "Hop / Little John",
+   "Link 4",
+   2.5
+  ],
+  [
+   "Uncles",
+   "Long John 4",
+   "Low Traverse 5",
+   3.0
+  ],
+  [
+   "Unnamed run",
+   "Discovery Shuttle #28 top",
+   "Voyager #24 top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Voyager #24 top",
+   "Voyager #24 bottom",
+   0.5
+  ],
+  [
+   "Drifter",
+   "Bluebird Express #17 top",
+   "Skyline / Committed",
+   0.5
+  ],
+  [
+   "Drifter",
+   "Skyline / Committed",
+   "Ledge / Upper Exhibition",
+   0.7
+  ],
+  [
+   "Drifter",
+   "Ledge / Upper Exhibition",
+   "Ledge 3",
+   0.5
+  ],
+  [
+   "Cooper's Junction",
+   "Long John 2",
+   "Sweet Sixteen / Cooper's Junction",
+   0.7
+  ],
+  [
+   "Cooper's Junction",
+   "Sweet Sixteen / Cooper's Junction",
+   "Tin Lizzy / Cooper's Junction",
+   0.9
+  ],
+  [
+   "Lower Exhibition",
+   "Low Traverse",
+   "Ego Alley / Lower Exhibition",
+   1.5
+  ],
+  [
+   "Lower Exhibition",
+   "Ego Alley / Lower Exhibition",
+   "Ego Alley #12 bottom",
+   1.4
+  ],
+  [
+   "Lower Exhibition",
+   "Ego Alley #12 bottom",
+   "Grand Summit Express #11 bottom",
+   0.5
+  ],
+  [
+   "Skyline",
+   "Little Dipper / Skyline",
+   "Long John / Thanks Walt",
+   0.5
+  ],
+  [
+   "Switchback",
+   "Long John 5",
+   "Unnamed run / Ridge",
+   0.5
+  ],
+  [
+   "Switchback",
+   "Unnamed run / Ridge",
+   "Sweet Sixteen / Long John",
+   0.7
+  ],
+  [
+   "Bear Paw",
+   "Beartrap #14 top",
+   "Deer Run",
+   0.6
+  ],
+  [
+   "Drop",
+   "South Bowl / Drop",
+   "Yard Sale / Ego Alley",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Ridge",
+   "Unnamed run / Ridge",
+   0.5
+  ],
+  [
+   "The Junkyard",
+   "The Junkyard / The Farm",
+   "Nitro Express #2 bottom",
+   0.6
+  ],
+  [
+   "Little Dipper",
+   "Little Dipper / Moon Walk",
+   "Big Dipper / One Small Step",
+   2.2
+  ],
+  [
+   "Little Dipper",
+   "Big Dipper / One Small Step",
+   "Little Dipper 2",
+   1.4
+  ],
+  [
+   "N.E. Time",
+   "High Traverse / Link",
+   "N.E. Time",
+   1.3
+  ],
+  [
+   "N.E. Time",
+   "N.E. Time",
+   "Snowdance / Snowdance Pitch",
+   0.5
+  ],
+  [
+   "Nitro",
+   "Upper Fool's Gold / Nitro",
+   "Lower Fool's Gold / Prospector",
+   3.5
+  ],
+  [
+   "Moon Beam",
+   "Little Dipper 2",
+   "Sunbrook Express #19 bottom",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Long John / Thanks Walt",
+   "Little John",
+   0.5
+  ],
+  [
+   "Charlie's Chase",
+   "Low Traverse 4",
+   "Under Pressure / Charlie's Chase",
+   1.0
+  ],
+  [
+   "Charlie's Chase",
+   "Under Pressure / Charlie's Chase",
+   "Canyon Express #9 bottom",
+   1.6
+  ],
+  [
+   "Skyline",
+   "Sunbrook Express #19 top",
+   "Little Dipper",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Canyon",
+   "Roller Coaster",
+   0.5
+  ],
+  [
+   "Jaws",
+   "Committed",
+   "Jaws",
+   0.5
+  ],
+  [
+   "Challenger",
+   "Little Dipper / Skyline",
+   "Free Fall",
+   1.3
+  ],
+  [
+   "Challenger",
+   "Free Fall",
+   "Free Fall 2",
+   1.2
+  ],
+  [
+   "The Farm",
+   "Lower Fool's Gold / Prospector",
+   "The Junkyard / The Farm",
+   1.7
+  ],
+  [
+   "Ledge",
+   "High Traverse / Ledge",
+   "Link 3",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Rusty Nail",
+   "Long John 6",
+   0.5
+  ],
+  [
+   "One More Time",
+   "N.E. Time",
+   "Somerset Road / One More Time",
+   1.0
+  ],
+  [
+   "One More Time",
+   "Somerset Road / One More Time",
+   "Unnamed run / Snowdance",
+   2.9
+  ],
+  [
+   "One More Time",
+   "Unnamed run / Snowdance",
+   "Snowdance",
+   0.5
+  ],
+  [
+   "Tin Lizzy",
+   "Seasons Pass 2",
+   "Tin Lizzy",
+   0.6
+  ],
+  [
+   "Somerset Road",
+   "Low Traverse 3",
+   "South Bowl / Drop",
+   0.5
+  ],
+  [
+   "Somerset Road",
+   "South Bowl / Drop",
+   "Short Fuse / Ridge",
+   0.5
+  ],
+  [
+   "Somerset Road",
+   "Short Fuse / Ridge",
+   "Sweet Sixteen / Long John",
+   0.5
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Nitro Express #2 bottom",
+   "Inferno",
+   1.3
+  ],
+  [
+   "walk",
+   "Nitro Express #2 bottom",
+   "Narrow Gauge / Seasons Pass",
+   1.9
+  ],
+  [
+   "walk",
+   "Nitro Express #2 bottom",
+   "Grommet #1 top",
+   2.2
+  ],
+  [
+   "walk",
+   "Nitro Express #2 bottom",
+   "Grommet #1 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Nitro Express #2 bottom",
+   "Seasons Pass",
+   2.9
+  ],
+  [
+   "walk",
+   "High Traverse / Ledge",
+   "Ego Alley #12 top",
+   3.3
+  ],
+  [
+   "walk",
+   "High Traverse / Ledge",
+   "Canyon Express #9 top",
+   3.1
+  ],
+  [
+   "walk",
+   "High Traverse / Link",
+   "Canyon Express #9 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Ego Alley #12 top",
+   "Link 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Ego Alley #12 top",
+   "Tramline",
+   0.6
+  ],
+  [
+   "walk",
+   "Ego Alley #12 top",
+   "Link 4",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Deer Run",
+   "Heavy Metal #3 top",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Rusty Nail",
+   "Heavy Metal #3 top",
+   0.8
+  ],
+  [
+   "walk",
+   "High Traverse",
+   "Ego Alley #12 top",
+   3.4
+  ],
+  [
+   "walk",
+   "High Traverse",
+   "Canyon Express #9 top",
+   2.2
+  ],
+  [
+   "walk",
+   "Yard Sale / Long John",
+   "Ego Alley #12 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Yard Sale / Long John",
+   "Grand Summit Express #11 bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Yard Sale / Long John",
+   "Seasons #16 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Hop / Little John",
+   "Sundance Express #7 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Sweet Sixteen / Cooper's Junction",
+   "Seasons #16 top",
+   1.1
+  ],
+  [
+   "walk",
+   "Sweet Sixteen / Cooper's Junction",
+   "Sundance Express #7 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Inferno / Narrow Gauge",
+   "Heavy Metal #3 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Inferno",
+   "Nitro Express #2 bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Inferno",
+   "Narrow Gauge / Seasons Pass",
+   0.6
+  ],
+  [
+   "walk",
+   "Inferno",
+   "Grommet #1 top",
+   1.1
+  ],
+  [
+   "walk",
+   "Inferno",
+   "Grommet #1 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Inferno",
+   "Seasons Pass",
+   1.6
+  ],
+  [
+   "walk",
+   "Inferno",
+   "Seasons Pass 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Unnamed run / Launch Pad",
+   1.2
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Overbrook / Snowdance",
+   1.1
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Canyon Express #9 bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Discovery Shuttle #28 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Voyager #24 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Voyager #24 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Bluebird Express #17 bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Mercury #5 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Narrow Gauge / Seasons Pass",
+   "Nitro Express #2 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Narrow Gauge / Seasons Pass",
+   "Inferno",
+   0.6
+  ],
+  [
+   "walk",
+   "Narrow Gauge / Seasons Pass",
+   "Grommet #1 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Narrow Gauge / Seasons Pass",
+   "Grommet #1 bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Narrow Gauge / Seasons Pass",
+   "Seasons Pass",
+   0.9
+  ],
+  [
+   "walk",
+   "Narrow Gauge / Seasons Pass",
+   "Seasons Pass 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Ledge / Upper Exhibition",
+   3.3
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Sunbrook Express #19 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Long John / Thanks Walt",
+   1.1
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Little Dipper / Skyline",
+   1.3
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Outpost #10 top",
+   2.0
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Grand Summit Express #11 top",
+   1.2
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Skyline / Committed",
+   1.2
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Free Fall",
+   2.9
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Olympic",
+   2.3
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Plummet 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Little Dipper",
+   2.5
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Chute 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Olympic 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Little John",
+   1.8
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Bluebird Express #17 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Committed",
+   2.8
+  ],
+  [
+   "walk",
+   "Upper Fool's Gold / Nitro",
+   "Nitro Express #2 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Snowdance Pitch",
+   "Canyon Express #9 top",
+   1.0
+  ],
+  [
+   "walk",
+   "Link 2",
+   "Canyon Express #9 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Challenger #18 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Long John / Thanks Walt",
+   3.1
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Little Dipper / Skyline",
+   2.2
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Outpost #10 top",
+   1.4
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Olympic",
+   1.4
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Cloud Nine",
+   3.4
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Little Dipper",
+   0.9
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Chute 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Olympic 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Big Dipper",
+   0.9
+  ],
+  [
+   "walk",
+   "High Traverse 2",
+   "Canyon Express #9 top",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Launch Pad",
+   "Discovery Shuttle #28 top",
+   1.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Launch Pad",
+   "Canyon Express #9 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Launch Pad",
+   "Discovery Shuttle #28 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Launch Pad",
+   "Voyager #24 bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Launch Pad",
+   "Voyager #24 top",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Launch Pad",
+   "Mercury #5 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Nitro Express #2 top",
+   "Upper Fool's Gold / Nitro",
+   0.6
+  ],
+  [
+   "walk",
+   "Nitro Express #2 top",
+   "Long John",
+   2.6
+  ],
+  [
+   "walk",
+   "Nitro Express #2 top",
+   "Deer Run",
+   0.8
+  ],
+  [
+   "walk",
+   "Nitro Express #2 top",
+   "Mineshaft",
+   0.8
+  ],
+  [
+   "walk",
+   "Nitro Express #2 top",
+   "Deer Run 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Beartrap #14 bottom",
+   "Sunbrook Express #19 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Challenger #18 top",
+   1.1
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Sunbrook Express #19 top",
+   3.1
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Outpost #10 top",
+   1.8
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Grand Summit Express #11 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Bluebird Express #17 top",
+   1.2
+  ],
+  [
+   "walk",
+   "Short Fuse / Long John",
+   "Seasons #16 top",
+   2.5
+  ],
+  [
+   "walk",
+   "Overbrook / Snowdance",
+   "Discovery Shuttle #28 top",
+   1.1
+  ],
+  [
+   "walk",
+   "Overbrook / Snowdance",
+   "Discovery Shuttle #28 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Overbrook / Snowdance",
+   "Voyager #24 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Overbrook / Snowdance",
+   "Voyager #24 top",
+   1.7
+  ],
+  [
+   "walk",
+   "Overbrook / Snowdance",
+   "Mercury #5 bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Challenger #18 top",
+   1.3
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Sunbrook Express #19 top",
+   2.2
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Outpost #10 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Grand Summit Express #11 top",
+   1.7
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Bluebird Express #17 top",
+   1.8
+  ],
+  [
+   "walk",
+   "Sundance Express #7 top",
+   "Hop / Little John",
+   0.9
+  ],
+  [
+   "walk",
+   "Sundance Express #7 top",
+   "Ridge / Little John",
+   2.0
+  ],
+  [
+   "walk",
+   "Sundance Express #7 top",
+   "Shooting Star",
+   3.2
+  ],
+  [
+   "walk",
+   "Sundance Express #7 top",
+   "Long John 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Canyon Express #9 top",
+   "High Traverse / Link",
+   0.9
+  ],
+  [
+   "walk",
+   "Canyon Express #9 top",
+   "Unnamed run / Snowdance Pitch",
+   1.0
+  ],
+  [
+   "walk",
+   "Canyon Express #9 top",
+   "Link 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Canyon Express #9 top",
+   "Link 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Canyon Express #9 top",
+   "Canyon 3",
+   1.8
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Ego Alley #12 bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Discovery Shuttle #28 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Voyager #24 bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Grand Summit Express #11 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Covered Bridge #4 top",
+   2.3
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Bluebird Express #17 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Mercury #5 bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Link 3",
+   "Ego Alley #12 top",
+   1.8
+  ],
+  [
+   "walk",
+   "Link 3",
+   "Canyon Express #9 top",
+   2.2
+  ],
+  [
+   "walk",
+   "Free Fall / River Run",
+   "Outpost #10 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Free Fall / River Run",
+   "2 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Long John",
+   "Nitro Express #2 top",
+   2.6
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Challenger #18 top",
+   2.0
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Sunbrook Express #19 top",
+   1.4
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Long John / Thanks Walt",
+   1.8
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Little Dipper / Skyline",
+   0.9
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Grand Summit Express #11 top",
+   2.6
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Skyline / Committed",
+   3.2
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Olympic",
+   0.6
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Cloud Nine",
+   3.4
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Little Dipper",
+   0.7
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Chute 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Olympic 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Little John",
+   2.9
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Big Dipper",
+   2.3
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Bluebird Express #17 top",
+   2.7
+  ],
+  [
+   "walk",
+   "Outpost #10 bottom",
+   "Free Fall / River Run",
+   1.6
+  ],
+  [
+   "walk",
+   "Outpost #10 bottom",
+   "2 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Ledge / Upper Exhibition",
+   2.8
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Challenger #18 top",
+   1.2
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Long John / Thanks Walt",
+   0.8
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Little Dipper / Skyline",
+   1.7
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Outpost #10 top",
+   2.6
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Skyline / Committed",
+   1.4
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Olympic",
+   3.1
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Cloud Nine",
+   3.3
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Little Dipper",
+   2.9
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Chute 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Little John",
+   0.6
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Bluebird Express #17 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Committed",
+   3.0
+  ],
+  [
+   "walk",
+   "Grommet #1 top",
+   "Nitro Express #2 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Grommet #1 top",
+   "Inferno",
+   1.1
+  ],
+  [
+   "walk",
+   "Grommet #1 top",
+   "Narrow Gauge / Seasons Pass",
+   0.9
+  ],
+  [
+   "walk",
+   "Grommet #1 top",
+   "Grommet #1 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Grommet #1 top",
+   "Seasons Pass",
+   1.4
+  ],
+  [
+   "walk",
+   "Grommet #1 top",
+   "Seasons Pass 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Grommet #1 bottom",
+   "Nitro Express #2 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Grommet #1 bottom",
+   "Inferno",
+   2.5
+  ],
+  [
+   "walk",
+   "Grommet #1 bottom",
+   "Narrow Gauge / Seasons Pass",
+   2.7
+  ],
+  [
+   "walk",
+   "Grommet #1 bottom",
+   "Grommet #1 top",
+   1.8
+  ],
+  [
+   "walk",
+   "Deer Run",
+   "Nitro Express #2 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Mineshaft",
+   "Nitro Express #2 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Tramline",
+   "Ego Alley #12 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Canyon Express #9 bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Beaver Hill",
+   1.6
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Grand Summit Express #11 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Sundance Express #7 bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Covered Bridge #4 bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Covered Bridge #4 top",
+   1.8
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Bluebird Express #17 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Beartrap #14 top",
+   "Upper Fool's Gold / Nitro",
+   3.2
+  ],
+  [
+   "walk",
+   "Beartrap #14 top",
+   "Nitro Express #2 top",
+   2.6
+  ],
+  [
+   "walk",
+   "Beartrap #14 top",
+   "Long John",
+   2.0
+  ],
+  [
+   "walk",
+   "Beartrap #14 top",
+   "Deer Run",
+   2.6
+  ],
+  [
+   "walk",
+   "Beartrap #14 top",
+   "Mineshaft",
+   3.1
+  ],
+  [
+   "walk",
+   "Beartrap #14 top",
+   "Deer Run 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Challenger #18 top",
+   2.3
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Sunbrook Express #19 top",
+   1.4
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Outpost #10 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Grand Summit Express #11 top",
+   3.1
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Bluebird Express #17 top",
+   3.1
+  ],
+  [
+   "walk",
+   "Tin Lizzy / Cooper's Junction",
+   "Beaver Hill",
+   2.5
+  ],
+  [
+   "walk",
+   "Tin Lizzy / Cooper's Junction",
+   "Seasons #16 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Tin Lizzy / Cooper's Junction",
+   "Sundance Express #7 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Long John 2",
+   "Seasons #16 top",
+   1.8
+  ],
+  [
+   "walk",
+   "Deer Run 2",
+   "Nitro Express #2 top",
+   1.5
+  ],
+  [
+   "walk",
+   "Long John 3",
+   "Seasons #16 top",
+   2.1
+  ],
+  [
+   "walk",
+   "Beaver Hill",
+   "Ego Alley #12 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Beaver Hill",
+   "Tin Lizzy / Cooper's Junction",
+   2.5
+  ],
+  [
+   "walk",
+   "Beaver Hill",
+   "Grand Summit Express #11 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Beaver Hill",
+   "Seasons #16 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Beaver Hill",
+   "Sundance Express #7 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Beaver Hill",
+   "Covered Bridge #4 top",
+   2.7
+  ],
+  [
+   "walk",
+   "Beaver Hill",
+   "Bluebird Express #17 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Challenger #18 top",
+   2.5
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Sunbrook Express #19 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Outpost #10 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Grand Summit Express #11 top",
+   2.9
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Bluebird Express #17 top",
+   3.1
+  ],
+  [
+   "walk",
+   "Thanks Walt 2",
+   "Beartrap #14 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Thanks Walt 2",
+   "Sunbrook Express #19 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Little John",
+   "Challenger #18 top",
+   1.8
+  ],
+  [
+   "walk",
+   "Little John",
+   "Sundance Express #7 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Little John",
+   "Outpost #10 top",
+   2.9
+  ],
+  [
+   "walk",
+   "Little John",
+   "Grand Summit Express #11 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Little John",
+   "Bluebird Express #17 top",
+   1.3
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Sunbrook Express #19 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Outpost #10 top",
+   2.3
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Canyon Express #9 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Voyager #24 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Voyager #24 top",
+   1.4
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Bluebird Express #17 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Mercury #5 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Under Pressure / Charlie's Chase",
+   "Discovery Shuttle #28 top",
+   3.3
+  ],
+  [
+   "walk",
+   "Seasons Pass",
+   "Nitro Express #2 bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Seasons Pass",
+   "Grommet #1 top",
+   1.4
+  ],
+  [
+   "walk",
+   "Seasons Pass",
+   "Grommet #1 bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Canyon Express #9 bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Discovery Shuttle #28 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Grand Summit Express #11 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Covered Bridge #4 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Bluebird Express #17 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Mercury #5 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Ledge / Upper Exhibition",
+   2.5
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Challenger #18 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Long John / Thanks Walt",
+   1.2
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Little Dipper / Skyline",
+   1.8
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Outpost #10 top",
+   2.7
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Grand Summit Express #11 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Skyline / Committed",
+   0.7
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Free Fall",
+   3.2
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Olympic",
+   3.1
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Plummet 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Little Dipper",
+   3.1
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Chute 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Little John",
+   1.3
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Ledge 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Committed",
+   2.4
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Jaws",
+   3.5
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Canyon Express #9 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Ego Alley #12 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Beaver Hill",
+   2.2
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Voyager #24 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Covered Bridge #4 bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Covered Bridge #4 top",
+   1.2
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Bluebird Express #17 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "The Junkyard / The Farm",
+   "Nitro Express #2 bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 bottom",
+   "Beartrap #14 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 bottom",
+   "Thanks Walt 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Seasons Pass 2",
+   "Grommet #1 top",
+   2.0
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Discovery Shuttle #28 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Unnamed run / Launch Pad",
+   1.5
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Overbrook / Snowdance",
+   1.7
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Canyon Express #9 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Discovery Shuttle #28 bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Voyager #24 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Grand Summit Express #11 bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Bluebird Express #17 bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Mercury #5 bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Seasons #16 bottom",
+   "Tin Lizzy / Cooper's Junction",
+   0.6
+  ],
+  [
+   "walk",
+   "Seasons #16 bottom",
+   "Beaver Hill",
+   3.1
+  ],
+  [
+   "walk",
+   "Seasons #16 bottom",
+   "Sundance Express #7 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Seasons #16 top",
+   "Yard Sale / Long John",
+   3.4
+  ],
+  [
+   "walk",
+   "Seasons #16 top",
+   "Sweet Sixteen / Cooper's Junction",
+   1.1
+  ],
+  [
+   "walk",
+   "Seasons #16 top",
+   "Beaver Hill",
+   3.1
+  ],
+  [
+   "walk",
+   "Sundance Express #7 bottom",
+   "Tin Lizzy / Cooper's Junction",
+   0.6
+  ],
+  [
+   "walk",
+   "Sundance Express #7 bottom",
+   "Beaver Hill",
+   2.2
+  ],
+  [
+   "walk",
+   "Sundance Express #7 bottom",
+   "Seasons #16 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Sundance Express #7 bottom",
+   "Covered Bridge #4 bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Sundance Express #7 bottom",
+   "Covered Bridge #4 top",
+   3.4
+  ],
+  [
+   "walk",
+   "2 bottom",
+   "Free Fall / River Run",
+   1.9
+  ],
+  [
+   "walk",
+   "2 bottom",
+   "Outpost #10 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 bottom",
+   "Sundance Express #7 bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Canyon Express #9 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Ego Alley #12 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Beaver Hill",
+   2.7
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Voyager #24 bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Grand Summit Express #11 bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Sundance Express #7 bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Covered Bridge #4 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Bluebird Express #17 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Canyon Express #9 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Ego Alley #12 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Beaver Hill",
+   3.0
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Discovery Shuttle #28 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Voyager #24 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Grand Summit Express #11 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Covered Bridge #4 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Covered Bridge #4 top",
+   1.6
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Mercury #5 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Canyon Express #9 bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Discovery Shuttle #28 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Voyager #24 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Bluebird Express #17 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Heavy Metal #3 top",
+   "Unnamed run / Deer Run",
+   1.5
+  ],
+  [
+   "walk",
+   "Heavy Metal #3 top",
+   "Unnamed run / Rusty Nail",
+   0.8
+  ],
+  [
+   "walk",
+   "Heavy Metal #3 top",
+   "Inferno / Narrow Gauge",
+   0.7
+  ],
+  [
+   "walk",
+   "Heavy Metal #3 top",
+   "Iron Run / Prospector",
+   3.5
+  ],
+  [
+   "walk",
+   "Heavy Metal #3 top",
+   "Long John 5",
+   3.2
+  ],
+  [
+   "walk",
+   "Heavy Metal #3 top",
+   "Long John 6",
+   2.0
+  ],
+  [
+   "walk",
+   "Grommet #1 bottom",
+   "Seasons Pass",
+   3.2
+  ],
+  [
+   "walk",
+   "Seasons Pass",
+   "Inferno",
+   2.5
+  ],
+  [
+   "walk",
+   "Seasons Pass",
+   "Narrow Gauge / Seasons Pass",
+   2.3
+  ],
+  [
+   "walk",
+   "The Junkyard / The Farm",
+   "Inferno",
+   3.7
+  ],
+  [
+   "walk",
+   "The Junkyard / The Farm",
+   "Narrow Gauge / Seasons Pass",
+   4.3
+  ],
+  [
+   "walk",
+   "The Junkyard / The Farm",
+   "Grommet #1 top",
+   4.5
+  ],
+  [
+   "walk",
+   "The Junkyard / The Farm",
+   "Grommet #1 bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "The Junkyard / The Farm",
+   "Seasons Pass",
+   5.2
+  ],
+  [
+   "walk",
+   "High Traverse / Ledge",
+   "Link 3",
+   5.1
+  ],
+  [
+   "walk",
+   "High Traverse / Ledge",
+   "Tramline",
+   3.9
+  ],
+  [
+   "walk",
+   "High Traverse / Ledge",
+   "Link 4",
+   6.5
+  ],
+  [
+   "walk",
+   "High Traverse",
+   "Link 3",
+   4.4
+  ],
+  [
+   "walk",
+   "High Traverse",
+   "Tramline",
+   4.0
+  ],
+  [
+   "walk",
+   "High Traverse",
+   "Link 4",
+   6.7
+  ],
+  [
+   "walk",
+   "Link 3",
+   "Tramline",
+   2.4
+  ],
+  [
+   "walk",
+   "Link 3",
+   "Link 4",
+   5.0
+  ],
+  [
+   "walk",
+   "Tramline",
+   "Link 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Tramline",
+   "Link 4",
+   3.8
+  ],
+  [
+   "walk",
+   "Seasons #16 top",
+   "Ego Alley #12 bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Seasons #16 top",
+   "Grand Summit Express #11 bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Seasons #16 top",
+   "Sundance Express #7 bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Nitro Express #2 bottom",
+   "Seasons Pass 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Grommet #1 bottom",
+   "Seasons Pass 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Seasons Pass",
+   "Seasons Pass 2",
+   3.4
+  ],
+  [
+   "walk",
+   "The Junkyard / The Farm",
+   "Seasons Pass 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Launch Pad",
+   "Overbrook / Snowdance",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Launch Pad",
+   "Bluebird Express #17 bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Overbrook / Snowdance",
+   "Unnamed run / Launch Pad",
+   2.2
+  ],
+  [
+   "walk",
+   "Overbrook / Snowdance",
+   "Canyon Express #9 bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Overbrook / Snowdance",
+   "Bluebird Express #17 bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Under Pressure / Charlie's Chase",
+   "Unnamed run / Launch Pad",
+   4.4
+  ],
+  [
+   "walk",
+   "Under Pressure / Charlie's Chase",
+   "Overbrook / Snowdance",
+   4.3
+  ],
+  [
+   "walk",
+   "Under Pressure / Charlie's Chase",
+   "Canyon Express #9 bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Under Pressure / Charlie's Chase",
+   "Discovery Shuttle #28 bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Under Pressure / Charlie's Chase",
+   "Voyager #24 bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Under Pressure / Charlie's Chase",
+   "Voyager #24 top",
+   3.9
+  ],
+  [
+   "walk",
+   "Under Pressure / Charlie's Chase",
+   "Bluebird Express #17 bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Under Pressure / Charlie's Chase",
+   "Mercury #5 bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Ledge / Upper Exhibition",
+   6.6
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Grand Summit Express #11 top",
+   3.8
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Skyline / Committed",
+   4.6
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Free Fall",
+   6.3
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Plummet 3",
+   6.2
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Little John",
+   4.3
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Bluebird Express #17 top",
+   4.0
+  ],
+  [
+   "walk",
+   "Sunbrook Express #19 top",
+   "Committed",
+   6.2
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Ledge / Upper Exhibition",
+   3.6
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Little Dipper / Skyline",
+   2.3
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Skyline / Committed",
+   1.8
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Free Fall",
+   4.0
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Olympic",
+   2.4
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Plummet 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Little Dipper",
+   2.5
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Chute 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Olympic 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Little John",
+   1.4
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Committed",
+   3.6
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Ledge / Upper Exhibition",
+   4.4
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Long John / Thanks Walt",
+   2.3
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Skyline / Committed",
+   2.5
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Free Fall",
+   4.2
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Olympic",
+   1.5
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Plummet 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Little Dipper",
+   1.5
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Chute 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Olympic 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Little John",
+   2.3
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Committed",
+   4.1
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Ledge / Upper Exhibition",
+   5.2
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Free Fall",
+   4.9
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Plummet 3",
+   4.8
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Committed",
+   4.8
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Sunbrook Express #19 top",
+   3.8
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Free Fall",
+   3.9
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Plummet 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Olympic 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Ledge / Upper Exhibition",
+   5.6
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Long John / Thanks Walt",
+   2.4
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Little Dipper / Skyline",
+   1.5
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Skyline / Committed",
+   3.5
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Free Fall",
+   5.2
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Plummet 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Little Dipper",
+   1.3
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Chute 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Olympic 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Little John",
+   3.5
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Committed",
+   5.1
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Ledge / Upper Exhibition",
+   5.7
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Long John / Thanks Walt",
+   2.5
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Little Dipper / Skyline",
+   1.5
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Skyline / Committed",
+   3.7
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Free Fall",
+   5.5
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Olympic",
+   1.3
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Plummet 3",
+   5.4
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Chute 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Olympic 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Little John",
+   3.6
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Committed",
+   5.4
+  ],
+  [
+   "walk",
+   "Little John",
+   "Ledge / Upper Exhibition",
+   3.5
+  ],
+  [
+   "walk",
+   "Little John",
+   "Sunbrook Express #19 top",
+   4.3
+  ],
+  [
+   "walk",
+   "Little John",
+   "Long John / Thanks Walt",
+   1.4
+  ],
+  [
+   "walk",
+   "Little John",
+   "Little Dipper / Skyline",
+   2.3
+  ],
+  [
+   "walk",
+   "Little John",
+   "Skyline / Committed",
+   2.0
+  ],
+  [
+   "walk",
+   "Little John",
+   "Free Fall",
+   4.6
+  ],
+  [
+   "walk",
+   "Little John",
+   "Olympic",
+   3.5
+  ],
+  [
+   "walk",
+   "Little John",
+   "Plummet 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Little John",
+   "Little Dipper",
+   3.6
+  ],
+  [
+   "walk",
+   "Little John",
+   "Chute 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Little John",
+   "Olympic 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Little John",
+   "Committed",
+   3.7
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Sunbrook Express #19 top",
+   4.0
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Olympic 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Cloud Nine",
+   4.5
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Big Dipper",
+   4.3
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Cloud Nine",
+   4.1
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Big Dipper",
+   4.0
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Cloud Nine",
+   4.3
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Big Dipper",
+   3.1
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Cloud Nine",
+   4.0
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Big Dipper",
+   2.3
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Cloud Nine",
+   4.0
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Big Dipper",
+   1.8
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Challenger #18 top",
+   4.3
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Long John / Thanks Walt",
+   4.0
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Little Dipper / Skyline",
+   3.1
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Olympic",
+   2.3
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Cloud Nine",
+   4.3
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Little Dipper",
+   1.8
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Chute 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Olympic 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Grand Summit Express #11 top",
+   4.7
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Skyline / Committed",
+   5.5
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Little John",
+   5.2
+  ],
+  [
+   "walk",
+   "Big Dipper",
+   "Bluebird Express #17 top",
+   5.0
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Big Dipper",
+   4.7
+  ],
+  [
+   "walk",
+   "Little John",
+   "Big Dipper",
+   5.2
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Big Dipper",
+   5.0
+  ],
+  [
+   "walk",
+   "Upper Fool's Gold / Nitro",
+   "Long John",
+   3.2
+  ],
+  [
+   "walk",
+   "Upper Fool's Gold / Nitro",
+   "Deer Run",
+   1.3
+  ],
+  [
+   "walk",
+   "Upper Fool's Gold / Nitro",
+   "Mineshaft",
+   1.3
+  ],
+  [
+   "walk",
+   "Upper Fool's Gold / Nitro",
+   "Deer Run 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Long John",
+   "Upper Fool's Gold / Nitro",
+   3.2
+  ],
+  [
+   "walk",
+   "Long John",
+   "Deer Run",
+   3.4
+  ],
+  [
+   "walk",
+   "Long John",
+   "Mineshaft",
+   3.4
+  ],
+  [
+   "walk",
+   "Long John",
+   "Deer Run 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Deer Run",
+   "Upper Fool's Gold / Nitro",
+   1.3
+  ],
+  [
+   "walk",
+   "Deer Run",
+   "Long John",
+   3.4
+  ],
+  [
+   "walk",
+   "Deer Run",
+   "Mineshaft",
+   1.5
+  ],
+  [
+   "walk",
+   "Deer Run",
+   "Deer Run 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Mineshaft",
+   "Upper Fool's Gold / Nitro",
+   1.3
+  ],
+  [
+   "walk",
+   "Mineshaft",
+   "Long John",
+   3.4
+  ],
+  [
+   "walk",
+   "Mineshaft",
+   "Deer Run",
+   1.5
+  ],
+  [
+   "walk",
+   "Mineshaft",
+   "Deer Run 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Deer Run 2",
+   "Upper Fool's Gold / Nitro",
+   2.0
+  ],
+  [
+   "walk",
+   "Deer Run 2",
+   "Long John",
+   4.1
+  ],
+  [
+   "walk",
+   "Deer Run 2",
+   "Deer Run",
+   2.2
+  ],
+  [
+   "walk",
+   "Deer Run 2",
+   "Mineshaft",
+   2.2
+  ],
+  [
+   "walk",
+   "Hop / Little John",
+   "Ridge / Little John",
+   2.9
+  ],
+  [
+   "walk",
+   "Hop / Little John",
+   "Shooting Star",
+   4.0
+  ],
+  [
+   "walk",
+   "Hop / Little John",
+   "Long John 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Little John",
+   "Hop / Little John",
+   4.3
+  ],
+  [
+   "walk",
+   "Little John",
+   "Ridge / Little John",
+   5.4
+  ],
+  [
+   "walk",
+   "Little John",
+   "Shooting Star",
+   6.6
+  ],
+  [
+   "walk",
+   "Little John",
+   "Long John 4",
+   6.5
+  ],
+  [
+   "walk",
+   "High Traverse / Ledge",
+   "High Traverse / Link",
+   4.0
+  ],
+  [
+   "walk",
+   "High Traverse / Ledge",
+   "Unnamed run / Snowdance Pitch",
+   4.1
+  ],
+  [
+   "walk",
+   "High Traverse / Ledge",
+   "Link 2",
+   3.7
+  ],
+  [
+   "walk",
+   "High Traverse / Ledge",
+   "Canyon 3",
+   4.9
+  ],
+  [
+   "walk",
+   "High Traverse / Link",
+   "Unnamed run / Snowdance Pitch",
+   1.9
+  ],
+  [
+   "walk",
+   "High Traverse / Link",
+   "Link 2",
+   1.6
+  ],
+  [
+   "walk",
+   "High Traverse / Link",
+   "Link 3",
+   3.1
+  ],
+  [
+   "walk",
+   "High Traverse / Link",
+   "Canyon 3",
+   2.7
+  ],
+  [
+   "walk",
+   "High Traverse",
+   "High Traverse / Link",
+   3.1
+  ],
+  [
+   "walk",
+   "High Traverse",
+   "Unnamed run / Snowdance Pitch",
+   3.2
+  ],
+  [
+   "walk",
+   "High Traverse",
+   "Link 2",
+   2.9
+  ],
+  [
+   "walk",
+   "High Traverse",
+   "Canyon 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Snowdance Pitch",
+   "High Traverse / Link",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Snowdance Pitch",
+   "Link 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Snowdance Pitch",
+   "Link 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Snowdance Pitch",
+   "Canyon 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Link 2",
+   "High Traverse / Link",
+   1.6
+  ],
+  [
+   "walk",
+   "Link 2",
+   "Unnamed run / Snowdance Pitch",
+   1.7
+  ],
+  [
+   "walk",
+   "Link 2",
+   "Link 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Link 2",
+   "Canyon 3",
+   2.4
+  ],
+  [
+   "walk",
+   "High Traverse 2",
+   "High Traverse / Link",
+   2.6
+  ],
+  [
+   "walk",
+   "High Traverse 2",
+   "Unnamed run / Snowdance Pitch",
+   2.7
+  ],
+  [
+   "walk",
+   "High Traverse 2",
+   "Link 2",
+   2.4
+  ],
+  [
+   "walk",
+   "High Traverse 2",
+   "Link 3",
+   3.9
+  ],
+  [
+   "walk",
+   "High Traverse 2",
+   "Canyon 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Link 3",
+   "High Traverse / Link",
+   3.1
+  ],
+  [
+   "walk",
+   "Link 3",
+   "Unnamed run / Snowdance Pitch",
+   3.2
+  ],
+  [
+   "walk",
+   "Link 3",
+   "Link 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Link 3",
+   "Canyon 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Ego Alley #12 bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Grand Summit Express #11 bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Covered Bridge #4 top",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Launch Pad",
+   "Ego Alley #12 bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Launch Pad",
+   "Grand Summit Express #11 bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Launch Pad",
+   "Covered Bridge #4 top",
+   5.6
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Discovery Shuttle #28 bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Voyager #24 bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Mercury #5 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Ego Alley #12 bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Grand Summit Express #11 bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Covered Bridge #4 top",
+   4.4
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Ego Alley #12 bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Discovery Shuttle #28 bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Mercury #5 bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Ego Alley #12 bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Covered Bridge #4 top",
+   4.2
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Discovery Shuttle #28 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Mercury #5 bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Ego Alley #12 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Grand Summit Express #11 bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Covered Bridge #4 top",
+   4.3
+  ],
+  [
+   "walk",
+   "Overbrook / Snowdance",
+   "Ego Alley #12 bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Overbrook / Snowdance",
+   "Grand Summit Express #11 bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Overbrook / Snowdance",
+   "Covered Bridge #4 top",
+   5.9
+  ],
+  [
+   "walk",
+   "Ego Alley #12 top",
+   "Canyon Express #9 top",
+   4.0
+  ],
+  [
+   "walk",
+   "Ego Alley #12 top",
+   "High Traverse / Link",
+   4.9
+  ],
+  [
+   "walk",
+   "Ego Alley #12 top",
+   "Unnamed run / Snowdance Pitch",
+   5.0
+  ],
+  [
+   "walk",
+   "Ego Alley #12 top",
+   "Link 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Ego Alley #12 top",
+   "Canyon 3",
+   5.8
+  ],
+  [
+   "walk",
+   "Canyon Express #9 top",
+   "Ego Alley #12 top",
+   4.0
+  ],
+  [
+   "walk",
+   "Canyon Express #9 top",
+   "Tramline",
+   4.6
+  ],
+  [
+   "walk",
+   "Tramline",
+   "Canyon Express #9 top",
+   4.6
+  ],
+  [
+   "walk",
+   "Tramline",
+   "High Traverse / Link",
+   5.5
+  ],
+  [
+   "walk",
+   "Tramline",
+   "Unnamed run / Snowdance Pitch",
+   5.6
+  ],
+  [
+   "walk",
+   "Tramline",
+   "Link 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Tramline",
+   "Canyon 3",
+   6.4
+  ],
+  [
+   "walk",
+   "High Traverse / Link",
+   "Ego Alley #12 top",
+   4.9
+  ],
+  [
+   "walk",
+   "High Traverse / Link",
+   "Tramline",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Snowdance Pitch",
+   "Ego Alley #12 top",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Snowdance Pitch",
+   "Tramline",
+   5.6
+  ],
+  [
+   "walk",
+   "Link 2",
+   "Ego Alley #12 top",
+   4.7
+  ],
+  [
+   "walk",
+   "Link 2",
+   "Tramline",
+   5.3
+  ],
+  [
+   "walk",
+   "High Traverse 2",
+   "Ego Alley #12 top",
+   5.7
+  ],
+  [
+   "walk",
+   "High Traverse 2",
+   "Tramline",
+   6.4
+  ],
+  [
+   "walk",
+   "Little John",
+   "Cloud Nine",
+   4.0
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Cloud Nine",
+   4.0
+  ],
+  [
+   "walk",
+   "Seasons Pass 2",
+   "Nitro Express #2 bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Seasons Pass 2",
+   "Inferno",
+   3.2
+  ],
+  [
+   "walk",
+   "Seasons Pass 2",
+   "Narrow Gauge / Seasons Pass",
+   3.0
+  ],
+  [
+   "walk",
+   "Seasons Pass 2",
+   "Grommet #1 bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Seasons Pass 2",
+   "Seasons Pass",
+   3.4
+  ],
+  [
+   "walk",
+   "Yard Sale / Long John",
+   "Canyon Express #9 bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Yard Sale / Long John",
+   "Beaver Hill",
+   4.4
+  ],
+  [
+   "walk",
+   "Yard Sale / Long John",
+   "Sundance Express #7 bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Yard Sale / Long John",
+   "Covered Bridge #4 bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Yard Sale / Long John",
+   "Covered Bridge #4 top",
+   4.6
+  ],
+  [
+   "walk",
+   "Yard Sale / Long John",
+   "Bluebird Express #17 bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Yard Sale / Long John",
+   "Voyager #24 bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Beaver Hill",
+   4.0
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Sundance Express #7 bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Covered Bridge #4 bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Beaver Hill",
+   "Canyon Express #9 bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Beaver Hill",
+   "Covered Bridge #4 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Beaver Hill",
+   "Discovery Shuttle #28 bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Beaver Hill",
+   "Voyager #24 bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Beaver Hill",
+   "Mercury #5 bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Sundance Express #7 bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Sundance Express #7 bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Beaver Hill",
+   6.2
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Beaver Hill",
+   6.0
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Beaver Hill",
+   5.1
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Beaver Hill",
+   5.6
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Beaver Hill",
+   6.0
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Tin Lizzy / Cooper's Junction",
+   4.0
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Seasons #16 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Tin Lizzy / Cooper's Junction",
+   "Ego Alley #12 bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Tin Lizzy / Cooper's Junction",
+   "Grand Summit Express #11 bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Tin Lizzy / Cooper's Junction",
+   "Covered Bridge #4 top",
+   4.0
+  ],
+  [
+   "walk",
+   "Tin Lizzy / Cooper's Junction",
+   "Bluebird Express #17 bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Tin Lizzy / Cooper's Junction",
+   "Canyon Express #9 bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Tin Lizzy / Cooper's Junction",
+   4.6
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Seasons #16 bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Seasons #16 bottom",
+   "Ego Alley #12 bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Seasons #16 bottom",
+   "Grand Summit Express #11 bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Seasons #16 bottom",
+   "Covered Bridge #4 top",
+   4.4
+  ],
+  [
+   "walk",
+   "Seasons #16 bottom",
+   "Bluebird Express #17 bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Seasons #16 top",
+   "Tin Lizzy / Cooper's Junction",
+   4.9
+  ],
+  [
+   "walk",
+   "Seasons #16 top",
+   "Seasons #16 bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Seasons #16 top",
+   "Covered Bridge #4 top",
+   5.8
+  ],
+  [
+   "walk",
+   "Seasons #16 top",
+   "Bluebird Express #17 bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Sundance Express #7 bottom",
+   "Ego Alley #12 bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Sundance Express #7 bottom",
+   "Grand Summit Express #11 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Sundance Express #7 bottom",
+   "Bluebird Express #17 bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Sundance Express #7 bottom",
+   "Canyon Express #9 bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Tin Lizzy / Cooper's Junction",
+   4.0
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Seasons #16 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Tin Lizzy / Cooper's Junction",
+   5.5
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Seasons #16 bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Yard Sale / Long John",
+   "Tin Lizzy / Cooper's Junction",
+   6.8
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Tin Lizzy / Cooper's Junction",
+   6.3
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Sundance Express #7 top",
+   5.2
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Hop / Little John",
+   6.1
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Sundance Express #7 top",
+   6.3
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Sundance Express #7 top",
+   4.1
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Hop / Little John",
+   4.9
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Ridge / Little John",
+   6.1
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Sundance Express #7 top",
+   4.7
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Hop / Little John",
+   5.6
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 top",
+   "Ridge / Little John",
+   6.7
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Sundance Express #7 top",
+   4.8
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Hop / Little John",
+   5.7
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Ridge / Little John",
+   6.8
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Sundance Express #7 top",
+   5.7
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Hop / Little John",
+   6.6
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Sundance Express #7 top",
+   6.9
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Voyager #24 top",
+   3.5
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Voyager #24 top",
+   2.5
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Voyager #24 top",
+   4.4
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Voyager #24 top",
+   2.0
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Voyager #24 top",
+   5.9
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Voyager #24 top",
+   5.4
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Voyager #24 top",
+   5.8
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Ledge 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Challenger #18 top",
+   "Jaws",
+   4.3
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Ledge 3",
+   4.5
+  ],
+  [
+   "walk",
+   "Long John / Thanks Walt",
+   "Jaws",
+   4.6
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Ledge 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Little Dipper / Skyline",
+   "Jaws",
+   5.3
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Ledge 3",
+   6.0
+  ],
+  [
+   "walk",
+   "Outpost #10 top",
+   "Jaws",
+   6.1
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Ledge 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 top",
+   "Jaws",
+   4.2
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Ledge 3",
+   6.4
+  ],
+  [
+   "walk",
+   "Olympic",
+   "Jaws",
+   6.5
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Ledge 3",
+   6.5
+  ],
+  [
+   "walk",
+   "Little Dipper",
+   "Jaws",
+   6.6
+  ],
+  [
+   "walk",
+   "Little John",
+   "Ledge 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Little John",
+   "Jaws",
+   4.8
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Covered Bridge #4 bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Voyager #24 top",
+   "Covered Bridge #4 bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Covered Bridge #4 bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Covered Bridge #4 bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Beartrap #14 bottom",
+   "Thanks Walt 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 top",
+   "Covered Bridge #4 bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Discovery Shuttle #28 top",
+   2.1
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Unnamed run / Launch Pad",
+   3.0
+  ],
+  [
+   "walk",
+   "Discovery Shuttle #28 bottom",
+   "Overbrook / Snowdance",
+   3.1
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Discovery Shuttle #28 top",
+   4.2
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Unnamed run / Launch Pad",
+   5.1
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Overbrook / Snowdance",
+   5.2
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Discovery Shuttle #28 top",
+   3.1
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Unnamed run / Launch Pad",
+   4.0
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Overbrook / Snowdance",
+   4.1
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Discovery Shuttle #28 top",
+   5.1
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Unnamed run / Launch Pad",
+   6.0
+  ],
+  [
+   "walk",
+   "Bluebird Express #17 bottom",
+   "Overbrook / Snowdance",
+   6.1
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Discovery Shuttle #28 top",
+   2.7
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Unnamed run / Launch Pad",
+   3.6
+  ],
+  [
+   "walk",
+   "Mercury #5 bottom",
+   "Overbrook / Snowdance",
+   3.7
+  ],
+  [
+   "walk",
+   "Ego Alley #12 bottom",
+   "Discovery Shuttle #28 top",
+   6.6
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Discovery Shuttle #28 top",
+   6.0
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 top",
+   "Discovery Shuttle #28 top",
+   6.5
+  ],
+  [
+   "walk",
+   "Yard Sale / Long John",
+   "Sweet Sixteen / Cooper's Junction",
+   4.5
+  ],
+  [
+   "walk",
+   "Sweet Sixteen / Cooper's Junction",
+   "Yard Sale / Long John",
+   4.5
+  ],
+  [
+   "walk",
+   "Sweet Sixteen / Cooper's Junction",
+   "Beaver Hill",
+   4.2
+  ],
+  [
+   "walk",
+   "Sweet Sixteen / Cooper's Junction",
+   "Ego Alley #12 bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Sweet Sixteen / Cooper's Junction",
+   "Grand Summit Express #11 bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Sweet Sixteen / Cooper's Junction",
+   "Tin Lizzy / Cooper's Junction",
+   3.9
+  ],
+  [
+   "walk",
+   "Sweet Sixteen / Cooper's Junction",
+   "Covered Bridge #4 top",
+   6.7
+  ],
+  [
+   "walk",
+   "Short Fuse / Long John",
+   "Yard Sale / Long John",
+   5.9
+  ],
+  [
+   "walk",
+   "Short Fuse / Long John",
+   "Sweet Sixteen / Cooper's Junction",
+   3.6
+  ],
+  [
+   "walk",
+   "Short Fuse / Long John",
+   "Beaver Hill",
+   5.6
+  ],
+  [
+   "walk",
+   "Short Fuse / Long John",
+   "Sundance Express #7 bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Long John 2",
+   "Yard Sale / Long John",
+   5.3
+  ],
+  [
+   "walk",
+   "Long John 2",
+   "Sweet Sixteen / Cooper's Junction",
+   2.9
+  ],
+  [
+   "walk",
+   "Long John 2",
+   "Beaver Hill",
+   5.0
+  ],
+  [
+   "walk",
+   "Long John 2",
+   "Ego Alley #12 bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Long John 2",
+   "Sundance Express #7 bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Long John 3",
+   "Yard Sale / Long John",
+   5.5
+  ],
+  [
+   "walk",
+   "Long John 3",
+   "Sweet Sixteen / Cooper's Junction",
+   3.2
+  ],
+  [
+   "walk",
+   "Long John 3",
+   "Beaver Hill",
+   5.2
+  ],
+  [
+   "walk",
+   "Long John 3",
+   "Ego Alley #12 bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Long John 3",
+   "Sundance Express #7 bottom",
+   6.4
+  ],
+  [
+   "walk",
+   "Sweet Sixteen / Cooper's Junction",
+   "Seasons #16 bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Sweet Sixteen / Cooper's Junction",
+   "Covered Bridge #4 bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Tin Lizzy / Cooper's Junction",
+   "Covered Bridge #4 bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Seasons #16 bottom",
+   "Covered Bridge #4 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 bottom",
+   "Tin Lizzy / Cooper's Junction",
+   4.0
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 bottom",
+   "Beaver Hill",
+   5.7
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 bottom",
+   "Seasons #16 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Covered Bridge #4 bottom",
+   "Covered Bridge #4 top",
+   6.9
+  ],
+  [
+   "walk",
+   "Canyon Express #9 bottom",
+   "Seasons #16 bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Long John 2",
+   "Tin Lizzy / Cooper's Junction",
+   6.8
+  ],
+  [
+   "walk",
+   "Voyager #24 bottom",
+   "Sundance Express #7 bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Sundance Express #7 bottom",
+   "Voyager #24 bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Seasons #16 bottom",
+   "Canyon Express #9 bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Grand Summit Express #11 bottom",
+   "Unnamed run / Launch Pad",
+   6.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Deer Run",
+   "Unnamed run / Rusty Nail",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Deer Run",
+   "Inferno / Narrow Gauge",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Deer Run",
+   "Iron Run / Prospector",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Deer Run",
+   "Long John 5",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Deer Run",
+   "Long John 6",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Rusty Nail",
+   "Unnamed run / Deer Run",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Rusty Nail",
+   "Inferno / Narrow Gauge",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Rusty Nail",
+   "Iron Run / Prospector",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Rusty Nail",
+   "Long John 5",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Rusty Nail",
+   "Long John 6",
+   2.9
+  ],
+  [
+   "walk",
+   "Inferno / Narrow Gauge",
+   "Unnamed run / Deer Run",
+   2.2
+  ],
+  [
+   "walk",
+   "Inferno / Narrow Gauge",
+   "Unnamed run / Rusty Nail",
+   1.6
+  ],
+  [
+   "walk",
+   "Inferno / Narrow Gauge",
+   "Iron Run / Prospector",
+   4.2
+  ],
+  [
+   "walk",
+   "Inferno / Narrow Gauge",
+   "Long John 5",
+   3.9
+  ],
+  [
+   "walk",
+   "Inferno / Narrow Gauge",
+   "Long John 6",
+   2.8
+  ]
+ ],
+ "base": "Nitro Express #2 bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Vermont",
+  "total_lifts": "19",
+  "downhill_trails": "145",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": "https://www.mountsnow.com/"
+ }
+}

@@ -1,0 +1,1811 @@
+{
+ "name": "Bear Mountain",
+ "source": "OpenSkiMap ski area 78bac1237b378a398d712ba2cc962ddf9d1c6479",
+ "origin_lonlat": [
+  -116.86047018791223,
+  34.21978518241761
+ ],
+ "nodes": {
+  "Bear Mountain Xpress top": [
+   -536,
+   -761,
+   2573.2
+  ],
+  "Rip's Run / Park Run": [
+   -588,
+   -514,
+   2480.0
+  ],
+  "Street Scene / Expressway": [
+   -609,
+   -180,
+   2423.5
+  ],
+  "Chair 3 top": [
+   -646,
+   4,
+   2434.5
+  ],
+  "Boneyard / Unnamed run": [
+   -330,
+   -202,
+   2401.7
+  ],
+  "Boneyard / Amusement Park": [
+   -212,
+   83,
+   2318.3
+  ],
+  "Grizzly / Expressway": [
+   -357,
+   -120,
+   2394.4
+  ],
+  "Grizzly / The Gulch": [
+   -283,
+   114,
+   2315.1
+  ],
+  "Access Xpress top": [
+   641,
+   -76,
+   2344.7
+  ],
+  "Learning Curve / Easy Street": [
+   744,
+   164,
+   2274.8
+  ],
+  "Amusement Park / Easy Street": [
+   222,
+   645,
+   2212.5
+  ],
+  "Ripcord / Exhibition": [
+   -53,
+   -635,
+   2499.6
+  ],
+  "Ripcord / Exhibition 2": [
+   -125,
+   -127,
+   2336.1
+  ],
+  "Chair 4 top": [
+   -8,
+   -890,
+   2593.5
+  ],
+  "Chair 3 bottom": [
+   -363,
+   343,
+   2282.5
+  ],
+  "Unnamed run / Expressway": [
+   -400,
+   -191,
+   2406.4
+  ],
+  "Chair 7 top": [
+   316,
+   559,
+   2220.7
+  ],
+  "Chair 7 bottom": [
+   122,
+   882,
+   2178.1
+  ],
+  "Accelerator / Easy Street": [
+   532,
+   64,
+   2319.1
+  ],
+  "Accelerator / Easy Street 2": [
+   469,
+   402,
+   2234.3
+  ],
+  "Chair 8 top": [
+   889,
+   -1057,
+   2679.6
+  ],
+  "Chair 8 bottom": [
+   578,
+   -57,
+   2338.3
+  ],
+  "Expressway / Outlaw's Alley": [
+   -650,
+   -213,
+   2441.7
+  ],
+  "The Gulch / Gambler": [
+   -318,
+   255,
+   2293.1
+  ],
+  "Outlaw": [
+   -645,
+   97,
+   2396.1
+  ],
+  "Showtime / Park Run": [
+   -492,
+   -639,
+   2535.7
+  ],
+  "Gambler / The Park Run": [
+   -284,
+   368,
+   2266.6
+  ],
+  "Bear Mountain Xpress bottom": [
+   -91,
+   824,
+   2178.3
+  ],
+  "Central Park / Hidden Valley": [
+   -65,
+   542,
+   2254.1
+  ],
+  "Midway Chair 5 bottom": [
+   38,
+   831,
+   2178.9
+  ],
+  "Amusement Park": [
+   -54,
+   98,
+   2293.4
+  ],
+  "Backdoors / Hidden Valley": [
+   -150,
+   425,
+   2280.2
+  ],
+  "Access Xpress bottom": [
+   73,
+   859,
+   2176.9
+  ],
+  "Ripcord": [
+   13,
+   -577,
+   2464.9
+  ],
+  "MC4 bottom": [
+   199,
+   854,
+   2183.1
+  ],
+  "MC4 top": [
+   254,
+   810,
+   2188.9
+  ],
+  "Chair 4 bottom": [
+   -92,
+   20,
+   2310.6
+  ],
+  "MC2 bottom": [
+   163,
+   874,
+   2179.6
+  ],
+  "Midway Chair 5 top": [
+   -155,
+   116,
+   2322.7
+  ],
+  "MC1 bottom": [
+   104,
+   978,
+   2171.5
+  ],
+  "MC1 top": [
+   121,
+   932,
+   2175.3
+  ],
+  "MC3 bottom": [
+   159,
+   991,
+   2171.4
+  ],
+  "MC3 top": [
+   161,
+   943,
+   2174.5
+  ]
+ },
+ "lifts": [
+  [
+   "MC4",
+   "MC4 bottom",
+   "MC4 top",
+   4.5
+  ],
+  [
+   "Chair 8",
+   "Chair 8 bottom",
+   "Chair 8 top",
+   11.1
+  ],
+  [
+   "Chair 4",
+   "Chair 4 bottom",
+   "Chair 4 top",
+   10.0
+  ],
+  [
+   "MC2",
+   "MC2 bottom",
+   "MC4 bottom",
+   4.2
+  ],
+  [
+   "Bear Mountain Xpress",
+   "Bear Mountain Xpress bottom",
+   "Bear Mountain Xpress top",
+   15.4
+  ],
+  [
+   "Midway Chair 5",
+   "Midway Chair 5 bottom",
+   "Midway Chair 5 top",
+   8.5
+  ],
+  [
+   "Access Xpress",
+   "Access Xpress bottom",
+   "Access Xpress top",
+   11.1
+  ],
+  [
+   "Chair 7",
+   "Chair 7 bottom",
+   "Chair 7 top",
+   5.5
+  ],
+  [
+   "MC1",
+   "MC1 bottom",
+   "MC1 top",
+   4.0
+  ],
+  [
+   "Chair 3",
+   "Chair 3 bottom",
+   "Chair 3 top",
+   6.4
+  ],
+  [
+   "MC3",
+   "MC3 bottom",
+   "MC3 top",
+   4.0
+  ]
+ ],
+ "runs": [
+  [
+   "Rip's Run",
+   "Bear Mountain Xpress top",
+   "Rip's Run / Park Run",
+   1.1
+  ],
+  [
+   "Street Scene",
+   "Street Scene / Expressway",
+   "Chair 3 top",
+   0.7
+  ],
+  [
+   "Boneyard",
+   "Boneyard / Unnamed run",
+   "Boneyard / Amusement Park",
+   1.4
+  ],
+  [
+   "Grizzly",
+   "Grizzly / Expressway",
+   "Grizzly / The Gulch",
+   0.9
+  ],
+  [
+   "Learning Curve",
+   "Access Xpress top",
+   "Learning Curve / Easy Street",
+   1.5
+  ],
+  [
+   "Amusement Park",
+   "Boneyard / Amusement Park",
+   "Amusement Park",
+   0.5
+  ],
+  [
+   "Amusement Park",
+   "Amusement Park",
+   "Amusement Park / Easy Street",
+   2.6
+  ],
+  [
+   "Ripcord",
+   "Ripcord / Exhibition",
+   "Ripcord",
+   0.5
+  ],
+  [
+   "Ripcord",
+   "Ripcord",
+   "Ripcord / Exhibition 2",
+   2.3
+  ],
+  [
+   "Exhibition",
+   "Chair 4 top",
+   "Ripcord / Exhibition",
+   1.0
+  ],
+  [
+   "Exhibition",
+   "Ripcord / Exhibition",
+   "Ripcord / Exhibition 2",
+   2.3
+  ],
+  [
+   "Outlaw",
+   "Chair 3 top",
+   "Outlaw",
+   0.5
+  ],
+  [
+   "Outlaw",
+   "Outlaw",
+   "Chair 3 bottom",
+   1.6
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Expressway",
+   "Boneyard / Unnamed run",
+   0.5
+  ],
+  [
+   "Inspiration",
+   "Chair 7 top",
+   "MC2 bottom",
+   1.4
+  ],
+  [
+   "Inspiration",
+   "MC2 bottom",
+   "Chair 7 bottom",
+   0.5
+  ],
+  [
+   "Accelerator",
+   "Accelerator / Easy Street",
+   "Accelerator / Easy Street 2",
+   1.4
+  ],
+  [
+   "Geronimo",
+   "Chair 8 top",
+   "Chair 8 bottom",
+   4.6
+  ],
+  [
+   "Expressway",
+   "Expressway / Outlaw's Alley",
+   "Street Scene / Expressway",
+   0.5
+  ],
+  [
+   "Expressway",
+   "Street Scene / Expressway",
+   "Unnamed run / Expressway",
+   0.8
+  ],
+  [
+   "Expressway",
+   "Unnamed run / Expressway",
+   "Grizzly / Expressway",
+   0.5
+  ],
+  [
+   "Expressway",
+   "Grizzly / Expressway",
+   "Boneyard / Amusement Park",
+   1.1
+  ],
+  [
+   "The Gulch",
+   "Boneyard / Amusement Park",
+   "Grizzly / The Gulch",
+   0.5
+  ],
+  [
+   "The Gulch",
+   "Grizzly / The Gulch",
+   "The Gulch / Gambler",
+   0.6
+  ],
+  [
+   "Outlaw's Alley",
+   "Expressway / Outlaw's Alley",
+   "Chair 3 top",
+   0.9
+  ],
+  [
+   "Outlaw's Alley",
+   "Chair 3 top",
+   "Outlaw",
+   0.5
+  ],
+  [
+   "Showtime",
+   "Showtime / Park Run",
+   "Unnamed run / Expressway",
+   1.9
+  ],
+  [
+   "Gambler",
+   "Chair 3 top",
+   "The Gulch / Gambler",
+   1.8
+  ],
+  [
+   "Gambler",
+   "The Gulch / Gambler",
+   "Chair 3 bottom",
+   0.5
+  ],
+  [
+   "Gambler",
+   "Chair 3 bottom",
+   "Gambler / The Park Run",
+   0.5
+  ],
+  [
+   "The Park Run",
+   "Gambler / The Park Run",
+   "Bear Mountain Xpress bottom",
+   2.0
+  ],
+  [
+   "Park Run",
+   "Bear Mountain Xpress top",
+   "Showtime / Park Run",
+   0.5
+  ],
+  [
+   "Park Run",
+   "Showtime / Park Run",
+   "Rip's Run / Park Run",
+   0.7
+  ],
+  [
+   "Park Run",
+   "Rip's Run / Park Run",
+   "Expressway / Outlaw's Alley",
+   1.4
+  ],
+  [
+   "Park Run",
+   "Expressway / Outlaw's Alley",
+   "Street Scene / Expressway",
+   0.5
+  ],
+  [
+   "Park Run",
+   "Street Scene / Expressway",
+   "The Gulch / Gambler",
+   2.3
+  ],
+  [
+   "Park Run",
+   "The Gulch / Gambler",
+   "Gambler / The Park Run",
+   0.5
+  ],
+  [
+   "Central Park",
+   "Central Park / Hidden Valley",
+   "Midway Chair 5 bottom",
+   1.2
+  ],
+  [
+   "Silver Connection",
+   "Boneyard / Unnamed run",
+   "Ripcord / Exhibition 2",
+   0.9
+  ],
+  [
+   "Silver Connection",
+   "Ripcord / Exhibition 2",
+   "Chair 4 bottom",
+   0.6
+  ],
+  [
+   "Silver Connection",
+   "Chair 4 bottom",
+   "Amusement Park",
+   0.5
+  ],
+  [
+   "Backdoors",
+   "Backdoors / Hidden Valley",
+   "Gambler / The Park Run",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Access Xpress top",
+   "Chair 8 bottom",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Chair 8 bottom",
+   "Accelerator / Easy Street",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Accelerator / Easy Street",
+   "Learning Curve / Easy Street",
+   1.2
+  ],
+  [
+   "Easy Street",
+   "Learning Curve / Easy Street",
+   "Accelerator / Easy Street 2",
+   1.7
+  ],
+  [
+   "Easy Street",
+   "Accelerator / Easy Street 2",
+   "Chair 7 top",
+   0.9
+  ],
+  [
+   "Easy Street",
+   "Chair 7 top",
+   "Amusement Park / Easy Street",
+   0.6
+  ],
+  [
+   "Easy Street",
+   "Amusement Park / Easy Street",
+   "Midway Chair 5 bottom",
+   1.2
+  ],
+  [
+   "Easy Street",
+   "Midway Chair 5 bottom",
+   "Access Xpress bottom",
+   0.5
+  ],
+  [
+   "The Wedge",
+   "Chair 4 top",
+   "Ripcord",
+   1.3
+  ],
+  [
+   "Hidden Valley",
+   "Boneyard / Amusement Park",
+   "Midway Chair 5 top",
+   0.5
+  ],
+  [
+   "Hidden Valley",
+   "Midway Chair 5 top",
+   "Backdoors / Hidden Valley",
+   1.1
+  ],
+  [
+   "Hidden Valley",
+   "Backdoors / Hidden Valley",
+   "Central Park / Hidden Valley",
+   0.6
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Bear Mountain Xpress top",
+   "Showtime / Park Run",
+   1.8
+  ],
+  [
+   "walk",
+   "Street Scene / Expressway",
+   "Chair 3 top",
+   2.6
+  ],
+  [
+   "walk",
+   "Chair 3 top",
+   "Street Scene / Expressway",
+   2.6
+  ],
+  [
+   "walk",
+   "Chair 3 top",
+   "Expressway / Outlaw's Alley",
+   3.0
+  ],
+  [
+   "walk",
+   "Chair 3 top",
+   "Outlaw",
+   1.3
+  ],
+  [
+   "walk",
+   "Boneyard / Amusement Park",
+   "Chair 4 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Boneyard / Amusement Park",
+   "Midway Chair 5 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Grizzly / The Gulch",
+   "Chair 3 bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Grizzly / The Gulch",
+   "Chair 4 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Grizzly / The Gulch",
+   "Midway Chair 5 top",
+   1.8
+  ],
+  [
+   "walk",
+   "Access Xpress top",
+   "Accelerator / Easy Street",
+   2.5
+  ],
+  [
+   "walk",
+   "Access Xpress top",
+   "Chair 8 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "Chair 7 top",
+   1.8
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "MC4 bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "MC4 top",
+   2.3
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "MC2 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Ripcord / Exhibition 2",
+   "Chair 4 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Ripcord / Exhibition 2",
+   "Midway Chair 5 top",
+   3.4
+  ],
+  [
+   "walk",
+   "Chair 3 bottom",
+   "The Gulch / Gambler",
+   1.4
+  ],
+  [
+   "walk",
+   "Chair 3 bottom",
+   "Gambler / The Park Run",
+   1.2
+  ],
+  [
+   "walk",
+   "Chair 3 bottom",
+   "Backdoors / Hidden Valley",
+   3.2
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "Amusement Park / Easy Street",
+   1.8
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "Accelerator / Easy Street 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "Bear Mountain Xpress bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "Midway Chair 5 bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "Access Xpress bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "MC4 bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "MC4 top",
+   2.1
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "MC2 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "MC1 bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "MC1 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "MC3 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Chair 7 bottom",
+   "MC3 top",
+   1.0
+  ],
+  [
+   "walk",
+   "Accelerator / Easy Street 2",
+   "Chair 7 top",
+   3.1
+  ],
+  [
+   "walk",
+   "Chair 8 bottom",
+   "Access Xpress top",
+   0.9
+  ],
+  [
+   "walk",
+   "Chair 8 bottom",
+   "Accelerator / Easy Street",
+   1.8
+  ],
+  [
+   "walk",
+   "Expressway / Outlaw's Alley",
+   "Chair 3 top",
+   3.0
+  ],
+  [
+   "walk",
+   "The Gulch / Gambler",
+   "Chair 3 bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Bear Mountain Xpress bottom",
+   "Chair 7 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Bear Mountain Xpress bottom",
+   "Midway Chair 5 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Bear Mountain Xpress bottom",
+   "Access Xpress bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Bear Mountain Xpress bottom",
+   "MC1 bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Bear Mountain Xpress bottom",
+   "MC1 top",
+   3.3
+  ],
+  [
+   "walk",
+   "Midway Chair 5 bottom",
+   "Chair 7 bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Midway Chair 5 bottom",
+   "Bear Mountain Xpress bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Midway Chair 5 bottom",
+   "Access Xpress bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Midway Chair 5 bottom",
+   "MC4 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Midway Chair 5 bottom",
+   "MC4 top",
+   3.0
+  ],
+  [
+   "walk",
+   "Midway Chair 5 bottom",
+   "MC2 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Midway Chair 5 bottom",
+   "MC1 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Midway Chair 5 bottom",
+   "MC1 top",
+   1.8
+  ],
+  [
+   "walk",
+   "Midway Chair 5 bottom",
+   "MC3 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Midway Chair 5 bottom",
+   "MC3 top",
+   2.3
+  ],
+  [
+   "walk",
+   "Backdoors / Hidden Valley",
+   "Chair 3 bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Access Xpress bottom",
+   "Chair 7 bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Access Xpress bottom",
+   "Bear Mountain Xpress bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Access Xpress bottom",
+   "Midway Chair 5 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Access Xpress bottom",
+   "MC4 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Access Xpress bottom",
+   "MC4 top",
+   2.6
+  ],
+  [
+   "walk",
+   "Access Xpress bottom",
+   "MC2 bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Access Xpress bottom",
+   "MC1 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Access Xpress bottom",
+   "MC1 top",
+   1.2
+  ],
+  [
+   "walk",
+   "Access Xpress bottom",
+   "MC3 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Access Xpress bottom",
+   "MC3 top",
+   1.7
+  ],
+  [
+   "walk",
+   "MC4 bottom",
+   "Chair 7 bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "MC4 bottom",
+   "Midway Chair 5 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "MC4 bottom",
+   "Access Xpress bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "MC4 bottom",
+   "MC4 top",
+   1.0
+  ],
+  [
+   "walk",
+   "MC4 bottom",
+   "MC2 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "MC4 bottom",
+   "MC1 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "MC4 bottom",
+   "MC1 top",
+   1.5
+  ],
+  [
+   "walk",
+   "MC4 bottom",
+   "MC3 bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "MC4 bottom",
+   "MC3 top",
+   1.3
+  ],
+  [
+   "walk",
+   "MC4 top",
+   "Chair 7 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "MC4 top",
+   "Midway Chair 5 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "MC4 top",
+   "Access Xpress bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "MC4 top",
+   "MC4 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "MC4 top",
+   "MC2 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "MC4 top",
+   "MC1 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "MC4 top",
+   "MC1 top",
+   2.5
+  ],
+  [
+   "walk",
+   "MC4 top",
+   "MC3 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "MC4 top",
+   "MC3 top",
+   2.3
+  ],
+  [
+   "walk",
+   "Chair 4 bottom",
+   "Boneyard / Amusement Park",
+   1.9
+  ],
+  [
+   "walk",
+   "Chair 4 bottom",
+   "Grizzly / The Gulch",
+   3.0
+  ],
+  [
+   "walk",
+   "Chair 4 bottom",
+   "Amusement Park",
+   1.2
+  ],
+  [
+   "walk",
+   "Chair 4 bottom",
+   "Midway Chair 5 top",
+   1.6
+  ],
+  [
+   "walk",
+   "MC2 bottom",
+   "Chair 7 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "MC2 bottom",
+   "Midway Chair 5 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "MC2 bottom",
+   "Access Xpress bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "MC2 bottom",
+   "MC4 bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "MC2 bottom",
+   "MC4 top",
+   1.5
+  ],
+  [
+   "walk",
+   "MC2 bottom",
+   "MC1 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "MC2 bottom",
+   "MC1 top",
+   1.0
+  ],
+  [
+   "walk",
+   "MC2 bottom",
+   "MC3 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "MC2 bottom",
+   "MC3 top",
+   1.0
+  ],
+  [
+   "walk",
+   "Midway Chair 5 top",
+   "Boneyard / Amusement Park",
+   0.9
+  ],
+  [
+   "walk",
+   "Midway Chair 5 top",
+   "Grizzly / The Gulch",
+   1.8
+  ],
+  [
+   "walk",
+   "Midway Chair 5 top",
+   "Ripcord / Exhibition 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Midway Chair 5 top",
+   "The Gulch / Gambler",
+   3.0
+  ],
+  [
+   "walk",
+   "Midway Chair 5 top",
+   "Amusement Park",
+   1.4
+  ],
+  [
+   "walk",
+   "Midway Chair 5 top",
+   "Chair 4 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "MC1 bottom",
+   "Chair 7 bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "MC1 bottom",
+   "Bear Mountain Xpress bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "MC1 bottom",
+   "Midway Chair 5 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "MC1 bottom",
+   "Access Xpress bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "MC1 bottom",
+   "MC4 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "MC1 bottom",
+   "MC2 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "MC1 bottom",
+   "MC1 top",
+   0.7
+  ],
+  [
+   "walk",
+   "MC1 bottom",
+   "MC3 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "MC1 bottom",
+   "MC3 top",
+   0.9
+  ],
+  [
+   "walk",
+   "MC1 top",
+   "Chair 7 bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "MC1 top",
+   "Bear Mountain Xpress bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "MC1 top",
+   "Midway Chair 5 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "MC1 top",
+   "Access Xpress bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "MC1 top",
+   "MC4 bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "MC1 top",
+   "MC4 top",
+   2.5
+  ],
+  [
+   "walk",
+   "MC1 top",
+   "MC2 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "MC1 top",
+   "MC1 bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "MC1 top",
+   "MC3 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "MC1 top",
+   "MC3 top",
+   0.6
+  ],
+  [
+   "walk",
+   "MC3 bottom",
+   "Chair 7 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "MC3 bottom",
+   "Midway Chair 5 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "MC3 bottom",
+   "Access Xpress bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "MC3 bottom",
+   "MC4 bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "MC3 bottom",
+   "MC2 bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "MC3 bottom",
+   "MC1 bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "MC3 bottom",
+   "MC1 top",
+   1.0
+  ],
+  [
+   "walk",
+   "MC3 bottom",
+   "MC3 top",
+   0.7
+  ],
+  [
+   "walk",
+   "MC3 top",
+   "Chair 7 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "MC3 top",
+   "Midway Chair 5 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "MC3 top",
+   "Access Xpress bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "MC3 top",
+   "MC4 bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "MC3 top",
+   "MC4 top",
+   2.3
+  ],
+  [
+   "walk",
+   "MC3 top",
+   "MC2 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "MC3 top",
+   "MC1 bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "MC3 top",
+   "MC1 top",
+   0.6
+  ],
+  [
+   "walk",
+   "MC3 top",
+   "MC3 bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Street Scene / Expressway",
+   "Expressway / Outlaw's Alley",
+   5.6
+  ],
+  [
+   "walk",
+   "Street Scene / Expressway",
+   "Outlaw",
+   3.9
+  ],
+  [
+   "walk",
+   "Expressway / Outlaw's Alley",
+   "Street Scene / Expressway",
+   5.6
+  ],
+  [
+   "walk",
+   "Expressway / Outlaw's Alley",
+   "Outlaw",
+   4.3
+  ],
+  [
+   "walk",
+   "Chair 4 bottom",
+   "Chair 3 bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Midway Chair 5 top",
+   "Chair 3 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "MC4 bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "MC4 top",
+   4.1
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "MC2 bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Grizzly / The Gulch",
+   "The Gulch / Gambler",
+   4.7
+  ],
+  [
+   "walk",
+   "Grizzly / The Gulch",
+   "Gambler / The Park Run",
+   4.5
+  ],
+  [
+   "walk",
+   "Grizzly / The Gulch",
+   "Backdoors / Hidden Valley",
+   6.5
+  ],
+  [
+   "walk",
+   "The Gulch / Gambler",
+   "Gambler / The Park Run",
+   2.5
+  ],
+  [
+   "walk",
+   "The Gulch / Gambler",
+   "Backdoors / Hidden Valley",
+   4.6
+  ],
+  [
+   "walk",
+   "Backdoors / Hidden Valley",
+   "The Gulch / Gambler",
+   4.6
+  ],
+  [
+   "walk",
+   "Backdoors / Hidden Valley",
+   "Gambler / The Park Run",
+   4.3
+  ],
+  [
+   "walk",
+   "Midway Chair 5 top",
+   "Gambler / The Park Run",
+   5.5
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "Accelerator / Easy Street 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Accelerator / Easy Street 2",
+   "Amusement Park / Easy Street",
+   4.8
+  ],
+  [
+   "walk",
+   "Bear Mountain Xpress bottom",
+   "MC4 bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Bear Mountain Xpress bottom",
+   "MC4 top",
+   4.8
+  ],
+  [
+   "walk",
+   "Bear Mountain Xpress bottom",
+   "MC2 bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Bear Mountain Xpress bottom",
+   "MC3 bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Bear Mountain Xpress bottom",
+   "MC3 top",
+   3.9
+  ],
+  [
+   "walk",
+   "MC4 bottom",
+   "Bear Mountain Xpress bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "MC4 top",
+   "Bear Mountain Xpress bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "MC2 bottom",
+   "Bear Mountain Xpress bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "MC1 bottom",
+   "MC4 top",
+   3.1
+  ],
+  [
+   "walk",
+   "MC3 bottom",
+   "Bear Mountain Xpress bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "MC3 bottom",
+   "MC4 top",
+   2.9
+  ],
+  [
+   "walk",
+   "MC3 top",
+   "Bear Mountain Xpress bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "Chair 7 bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "Midway Chair 5 bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "Access Xpress bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "MC1 bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "MC1 top",
+   4.3
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "MC3 bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "MC3 top",
+   4.3
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "Chair 7 bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "Access Xpress bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "MC1 bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "MC1 top",
+   6.0
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "MC3 bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "MC3 top",
+   6.0
+  ],
+  [
+   "walk",
+   "Boneyard / Amusement Park",
+   "Grizzly / The Gulch",
+   2.7
+  ],
+  [
+   "walk",
+   "Boneyard / Amusement Park",
+   "Amusement Park",
+   2.3
+  ],
+  [
+   "walk",
+   "Grizzly / The Gulch",
+   "Boneyard / Amusement Park",
+   2.7
+  ],
+  [
+   "walk",
+   "Grizzly / The Gulch",
+   "Amusement Park",
+   3.2
+  ],
+  [
+   "walk",
+   "Ripcord / Exhibition 2",
+   "Boneyard / Amusement Park",
+   4.0
+  ],
+  [
+   "walk",
+   "Ripcord / Exhibition 2",
+   "Grizzly / The Gulch",
+   5.0
+  ],
+  [
+   "walk",
+   "Ripcord / Exhibition 2",
+   "Amusement Park",
+   3.3
+  ],
+  [
+   "walk",
+   "Amusement Park / Easy Street",
+   "Bear Mountain Xpress bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Chair 7 top",
+   "Midway Chair 5 bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Boneyard / Amusement Park",
+   "Ripcord / Exhibition 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Boneyard / Amusement Park",
+   "The Gulch / Gambler",
+   3.9
+  ],
+  [
+   "walk",
+   "Boneyard / Amusement Park",
+   "Chair 3 bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Boneyard / Amusement Park",
+   "Gambler / The Park Run",
+   6.4
+  ],
+  [
+   "walk",
+   "Grizzly / The Gulch",
+   "Ripcord / Exhibition 2",
+   5.2
+  ],
+  [
+   "walk",
+   "Ripcord / Exhibition 2",
+   "The Gulch / Gambler",
+   6.4
+  ],
+  [
+   "walk",
+   "Chair 4 bottom",
+   "Ripcord / Exhibition 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Chair 4 bottom",
+   "The Gulch / Gambler",
+   4.6
+  ]
+ ],
+ "base": "Midway Chair 5 bottom",
+ "info": {}
+}

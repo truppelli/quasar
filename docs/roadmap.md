@@ -9,9 +9,9 @@ Where QUASAR is today, what the next milestones are, and the direction behind th
 | Planner (`quasar.py`) | Exact branch-and-bound for small resorts and beam search for big ones (`optimal: false`). Unique-vertical objective with repeat penalties. |
 | Quantum (`quasar.py`, `circuit.py`, `qaoa.py`, `speedup.py`) | QWOA simulated in NumPy over classically enumerated routes, plus as a Qiskit circuit. Penalty-QUBO QAOA baseline, with both circuits packed into one IonQ job. Speedup analysis for the backtracking quantum walk (a quadratic speedup, which needs about 100+ lifts and runs before it pays off in wall-clock time). |
 | Qollab (`main.py`) | Qollab's Run button runs `main.py` on the machine picked in Select QPU: Crystal Quicksilver, 17 qubits, one job. Checked on Qollab's local simulator and IonQ's Forte Enterprise 1 noise-model simulator; a QPU job was submitted to Forte 1, but no result came back (see Milestone 2). A dropped connection while a job waits is retried, and `JOB_ID` in `main.py` asks for an earlier job's results instead of submitting a new one; on Qollab that request returned an IonQ API error (500). |
-| Real resort graphs (`datasets.py`) | The 3D map's 20 US resorts (`datasets.py --top-us`, same slugs as the map), plus Crystal Mountain WA and Whistler Blackcomb, built from OpenSkiMap and Global Ski Atlas. Repeat runs score half credit, so long budgets fill the day. |
+| Real resort graphs (`datasets.py`) | The 3D map's 50 US resorts in 15 states (`datasets.py --top-us`, same slugs as the map, Crystal Mountain WA among them), plus Whistler Blackcomb, built from OpenSkiMap and Global Ski Atlas. Repeat runs score half credit, so long budgets fill the day. |
 | 2D visualizer (`viz.html`, `/`) | Plans and draws a route on any resort graph. |
-| 3D map (`map3d.html`, `/3d`) | 20 US resorts in 3D. Plan my day (start and end at any lift, minutes slider), turn / tilt / orbit buttons, run inspector, 👍/👎 per run, per-level interest, feedback saved to `feedback.jsonl`, shareable links. |
+| 3D map (`map3d.html`, `/3d`) | 50 US resorts in 3D, picked from a dropdown grouped by state. Plan my day (start and end at any lift, minutes slider), turn / tilt / orbit buttons, run inspector, 👍/👎 per run, per-level interest, feedback saved to `feedback.jsonl`, shareable links. |
 | API (`serve.py`) | Stdlib server: `/resorts`, `/resort`, `/plan`, `/geo`, `POST /feedback`. |
 | Live site | [ski-routes.racedayconnect.com](https://ski-routes.racedayconnect.com): `deploy/Dockerfile` behind Caddy on a 1-vCPU DigitalOcean Droplet. |
 
@@ -21,13 +21,13 @@ Where QUASAR is today, what the next milestones are, and the direction behind th
 
 This is the core product: a skier sees the mountain, says what they like, and gets a route.
 
-- **One data pipeline** *(graphs for all 20 curated resorts done, with the map's slugs)*. Merge `extract.py` and `datasets.py` into a single build that streams OpenSkiData once per resort and writes both the planner graph (`resorts/<slug>.json`) and the map geometry (`resorts/geo/<slug>.geojson`) with the same run ids.
+- **One data pipeline** *(graphs for all 50 curated resorts done, with the map's slugs)*. Merge `extract.py` and `datasets.py` into a single build that streams OpenSkiData once per resort and writes both the planner graph (`resorts/<slug>.json`) and the map geometry (`resorts/geo/<slug>.geojson`) with the same run ids.
 - **Route on the 3D map** *(done: "Plan my day" in `map3d.html`; the route follows the map's own run and lift lines where names match, about 9 in 10 legs, straight lines elsewhere; `min=` in the link replays it)*. Call `/plan` from `map3d.html` and draw the route as an orange line with numbered steps, along with its score, minutes and `optimal` flag. Show the route list in the side panel. This doesn't have to wait for shared run ids: graph nodes store x/y metres from the resort's `origin_lonlat`, so the line can be drawn from the nodes.
 - **Start where you are** *(done: click a white lift dot to set the start, then the end, at the nearest junction; = Start for a loop, Base to reset either; minutes slider; `start=` / `end=` in the link)*. Click a lift terminal or junction on the 3D map to set the start node. Add a minutes slider.
 - **Preference-aware planning** *(done: `exclude=` / `want=` edge ids on `/plan` and `quasar.plan`; the map matches each graph run to its map run by name and nearest ends, so a 👎 skips that one trail; any change re-plans)*. Add `exclude=` (run ids) and `levels=` to `/plan` and `quasar.plan`. 👎 runs and "Skip" levels are excluded, and "Want" levels get a score bonus. This is the first place feedback changes the result.
 - **Retire or merge the 2D visualizer** once the 3D map does everything it does. Keep one map.
 
-**Done when:** for any of the 20 resorts, a skier can pick a start, set a time, mark their preferences, and see a route that respects them, from a shared link.
+**Done when:** for any of the 50 resorts, a skier can pick a start, set a time, mark their preferences, and see a route that respects them, from a shared link.
 
 ## Milestone 2: QWOA on IonQ hardware
 
@@ -83,5 +83,5 @@ Use what skiers tell us.
 
 ## Open questions
 
-- Should the curated set grow past 20 US resorts before the beta, or should the `--all` set be served via PMTiles instead?
+- Should the curated set grow past 50 US resorts before the beta, or should the `--all` set be served via PMTiles instead?
 - How much should feedback reshape a route compared with pure vertical? This needs data from Milestone 5 to tune.

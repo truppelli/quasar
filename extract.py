@@ -1,6 +1,6 @@
 """Cut per-resort 3D map files out of the OpenSkiData dump.
 
-python extract.py          # the 20 curated US resorts -> resorts/geo/ (committed)
+python extract.py          # the 50 curated US resorts -> resorts/geo/ (committed)
 python extract.py --all    # every downhill ski area   -> data/geo/ (local, slow)
 
 Reads data/openskidata/{ski_areas,runs,lifts}.geojson, which hold one feature per line,
@@ -18,7 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 SRC = ROOT / "data" / "openskidata"
 
-# 20 popular US resorts, picked by approximate skier visits (no official per-resort numbers).
+# 50 popular US resorts, picked by approximate skier visits (no official per-resort numbers), across all US regions.
 # slug -> OpenSkiData ski area id.
 TOP_US = {
     "vail": "88a22ba23468cf120025366ef40f004c9043546e",
@@ -41,6 +41,37 @@ TOP_US = {
     "alta": "80b43d73222ff9f4c560fcb7417278f351f5b64c",
     "stowe": "1688ce1f44c0112805d9755f31a8e82283162cfb",
     "telluride": "c036edc54d4fe7d4c6f93de5b9f3dcaff34a5a64",
+    # 30 more, for 50 in all
+    "arapahoe-basin": "1e281ff389476a82150ad7ef7be5f1ea48edd5e5",
+    "loveland": "1dd2321e1ddaeaba8ad3d040cd145bd2ad08c028",  # Loveland Basin, not the small Valley area
+    "eldora": "1f25a1eacb8cc9814282d91ae00fd9af7a533d0e",
+    "crested-butte": "c7ba44969ddc615ea94968125fc96d9b584c388f",
+    "aspen-mountain": "2a2d5ad1138c3aac0abe644e073bee96589412d4",
+    "aspen-highlands": "0469463129ab65721499780f98a6394662564f32",
+    "purgatory": "66ebd7d72089d0697f49126b4fe6bfadbb08f9e0",
+    "brighton": "ab2b5807422f8a412c013e32e73b521f76a65d98",
+    "solitude": "b40e925163e2330550f940711b8571409fafb3a4",
+    "snowbasin": "423504a1fa53bcfbe5bf956f0cd48c12868c7f06",
+    "sun-valley": "b9ec1edd75823059c063c7c7b2a4078cf82542ab",  # Bald Mountain, Sun Valley's main mountain
+    "mt-bachelor": "df0ebcea3daf2a4ad2c46e99f043d37d57cf1b9b",
+    "mt-hood-meadows": "effda1f2db54d33bc3770670cd4335bd56a41eec",
+    "crystal-mountain-washington": "89f555b5b8a62c0c002adaa796997b635f38e6da",  # same area as its QWOA pods
+    "stevens-pass": "53a4f73effb0655bdb69989c1fb297c8206d04dc",
+    "kirkwood": "718db266e6e9ec76a5003a404aec69a657b3ab33",
+    "northstar": "717fe0e81e226ce0361fb10dc24e9f863eeda6ba",
+    "bear-mountain": "78bac1237b378a398d712ba2cc962ddf9d1c6479",
+    "taos": "8faa21d51bf5725e795c0972acbe92178a458347",
+    "sugarloaf": "ba6f009c039cdf1008684fbf790a3fef14ec068a",
+    "sunday-river": "54bceeb62ccd2209e50b8dc7e06b8daa1727ce34",
+    "okemo": "f6908eabbb258d109d1b4c9f86f83620dcd69380",
+    "stratton": "856ac5fd0830012a280f9d3939ff687676b429c1",
+    "mount-snow": "74dd4473e21693f4e2d2fdfb66ed5eee9493d4cc",
+    "sugarbush": "51088afbd7eaf31cf6e677c0b2b6e3ca621754ba",
+    "loon": "84db66751dfc13969441d94cb66617193fe7407d",
+    "whiteface": "d8b3d7d48706c9ce19bd6ba147c156ae89574ad8",
+    "snowshoe": "1facaf3d92da6719b1c7aa95f763fbeda72222b3",
+    "grand-targhee": "84ddf46f67c0fca577dc969188dc189f1c7a040f",
+    "whitefish": "a9b9ab0ad6bb668e32b74a1745baa5974cdef3ec",
 }
 
 

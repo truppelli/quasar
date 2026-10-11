@@ -1,0 +1,6373 @@
+{
+ "name": "Sugarbush Resort",
+ "source": "OpenSkiMap ski area 51088afbd7eaf31cf6e677c0b2b6e3ca621754ba",
+ "origin_lonlat": [
+  -72.91266684198753,
+  44.14850857741111
+ ],
+ "nodes": {
+  "Castlerock Double top": [
+   -1164,
+   -840,
+   1136.1
+  ],
+  "Lift Line / Troll Road": [
+   -596,
+   -1077,
+   867.2
+  ],
+  "Cotillion / Troll Road": [
+   -706,
+   -1247,
+   920.3
+  ],
+  "Cotillion / Castlerock Connection": [
+   31,
+   -1206,
+   674.5
+  ],
+  "Lew's Line / Lower Organgrinder": [
+   -242,
+   -1985,
+   884.9
+  ],
+  "Lew's Line / Domino": [
+   -106,
+   -1813,
+   799.1
+  ],
+  "Mainstream / Northridge Expressway": [
+   -339,
+   2564,
+   736.3
+  ],
+  "Mainstream / The Cliffs": [
+   121,
+   2569,
+   640.6
+  ],
+  "Semi Tough Woods / Semi Tough": [
+   -224,
+   3030,
+   748.7
+  ],
+  "Semi Tough Woods / Semi Tough 2": [
+   423,
+   3081,
+   543.5
+  ],
+  "Moonshine / Snowball": [
+   874,
+   -2310,
+   795.6
+  ],
+  "Moonshine / Lower Moonshine": [
+   1063,
+   -1949,
+   639.1
+  ],
+  "Christmas Tree Woods / The Mall": [
+   690,
+   -2087,
+   761.2
+  ],
+  "Christmas Tree Woods / The Mall 2": [
+   1053,
+   -1745,
+   565.6
+  ],
+  "Walt's Woods / Walt's Trail": [
+   -137,
+   2829,
+   672.4
+  ],
+  "Walt's Woods / Walt's Trail 2": [
+   47,
+   2821,
+   630.8
+  ],
+  "Race Course Woods / Cat's Meow": [
+   1549,
+   -1928,
+   570.0
+  ],
+  "Northridge Expressway / Walt's Trail": [
+   -540,
+   3072,
+   813.1
+  ],
+  "Village Quad top": [
+   1081,
+   -852,
+   566.2
+  ],
+  "Out to Lunch / In Road": [
+   1436,
+   -1143,
+   490.9
+  ],
+  "In Road / Easy Rider": [
+   1395,
+   -1176,
+   495.7
+  ],
+  "Graduation Woods / Graduation": [
+   626,
+   2663,
+   598.8
+  ],
+  "Graduation Woods / Graduation 2": [
+   816,
+   2849,
+   536.1
+  ],
+  "Egan's Woods / Reverse Traverse": [
+   278,
+   -2167,
+   858.8
+  ],
+  "Egan's Woods / Lower Birdland": [
+   584,
+   -1838,
+   666.7
+  ],
+  "Lower Hot Shot / Sugarbear Road": [
+   1175,
+   -1212,
+   517.3
+  ],
+  "Gate House Express Quad bottom": [
+   1386,
+   -1330,
+   493.4
+  ],
+  "Downspout / Domino Chute": [
+   -290,
+   -2130,
+   928.6
+  ],
+  "Heaven's Gate Quad bottom": [
+   -277,
+   -1669,
+   750.9
+  ],
+  "Bravinator Woods / Bravo": [
+   -1153,
+   1919,
+   1063.7
+  ],
+  "Bravinator Woods / Way Back": [
+   -988,
+   2060,
+   968.9
+  ],
+  "Green Mountain Express Quad top": [
+   -523,
+   2095,
+   922.8
+  ],
+  "Moonshine": [
+   984,
+   -2130,
+   717.8
+  ],
+  "Lower Twist / The Mall": [
+   1010,
+   -1824,
+   598.8
+  ],
+  "Sleeper Chutes / Sleeper": [
+   546,
+   -846,
+   723.9
+  ],
+  "Sleeper Chutes / Sleeper 2": [
+   610,
+   -985,
+   671.1
+  ],
+  "Valley House Quad top": [
+   528,
+   -2258,
+   876.3
+  ],
+  "Snowball / Lower Snowball": [
+   1022,
+   -2297,
+   759.5
+  ],
+  "North Lynx Triple top": [
+   -286,
+   -81,
+   1008.0
+  ],
+  "Birch Run / Castlerock Connection": [
+   262,
+   -690,
+   752.6
+  ],
+  "Sugarbear Road / Easy Rider": [
+   1113,
+   -890,
+   556.5
+  ],
+  "Reverse Traverse / Lower Jester": [
+   60,
+   -2001,
+   836.2
+  ],
+  "The Cliffs": [
+   44,
+   2503,
+   668.9
+  ],
+  "Lower Domino / Heaven's Gate Traverse": [
+   -68,
+   -1780,
+   780.6
+  ],
+  "Lower Domino / Unnamed run": [
+   193,
+   -1526,
+   665.2
+  ],
+  "Reverse Traverse": [
+   472,
+   -2168,
+   859.9
+  ],
+  "Stein's Woods / Stein's Run": [
+   675,
+   -1853,
+   650.1
+  ],
+  "Lower Rim Run / Elbow": [
+   -1337,
+   1764,
+   1146.3
+  ],
+  "Summit Quad bottom": [
+   -575,
+   1995,
+   922.1
+  ],
+  "Northridge Expressway": [
+   -413,
+   2552,
+   756.2
+  ],
+  "Mainstream": [
+   59,
+   2569,
+   646.1
+  ],
+  "Spillsville / Jester": [
+   -909,
+   -2381,
+   1112.8
+  ],
+  "Spillsville / Paradise Extension": [
+   -743,
+   -1963,
+   919.5
+  ],
+  "Tumbler Woods / Tumbler": [
+   -169,
+   2170,
+   826.7
+  ],
+  "Tumbler Woods / Tumbler 2": [
+   125,
+   2461,
+   677.8
+  ],
+  "Graduation / Riemergasse": [
+   843,
+   2922,
+   515.3
+  ],
+  "Lower Moonshine / Racer's Edge": [
+   1332,
+   -1596,
+   516.9
+  ],
+  "Overshot / Slowpoke": [
+   762,
+   -775,
+   658.0
+  ],
+  "Overshot / Waterfall": [
+   818,
+   -977,
+   636.8
+  ],
+  "Summit Quad top": [
+   -1313,
+   1342,
+   1238.1
+  ],
+  "Lower Rim Run": [
+   -1083,
+   1539,
+   1079.0
+  ],
+  "Lower Castlerock Run / Bailout": [
+   -713,
+   -1391,
+   883.6
+  ],
+  "Lower Castlerock Run / Troll Road": [
+   -116,
+   -1309,
+   703.0
+  ],
+  "North Ridge Express Quad top": [
+   -1301,
+   1802,
+   1142.5
+  ],
+  "Bravo / Way Back": [
+   -763,
+   2103,
+   927.2
+  ],
+  "Welcome Mat top": [
+   1252,
+   -1165,
+   514.4
+  ],
+  "First Time": [
+   1407,
+   -1278,
+   491.0
+  ],
+  "Paradise Extension / Paradise": [
+   -1011,
+   -1961,
+   1008.9
+  ],
+  "Downspout": [
+   -419,
+   -1916,
+   847.5
+  ],
+  "Unnamed run / Castlerock Runout": [
+   94,
+   -1356,
+   639.6
+  ],
+  "Castlerock Runout / Gondolier": [
+   1046,
+   -1562,
+   521.3
+  ],
+  "Sunshine Quad top": [
+   561,
+   2687,
+   601.8
+  ],
+  "Lower Crackerjack / Straight Shot": [
+   743,
+   3021,
+   516.4
+  ],
+  "Second Thoughts / Lower Pushover": [
+   689,
+   -731,
+   675.7
+  ],
+  "Snowflake / Ellen's Woods": [
+   946,
+   2864,
+   506.8
+  ],
+  "Snowflake": [
+   1107,
+   3127,
+   457.8
+  ],
+  "Walt's Trail / Semi Tough": [
+   651,
+   3176,
+   490.8
+  ],
+  "Racer's Edge / Spring Road": [
+   1431,
+   -2014,
+   614.1
+  ],
+  "Racer's Edge / Spring Fling": [
+   1355,
+   -1554,
+   510.9
+  ],
+  "Super Bravo Express Quad top": [
+   -152,
+   -2205,
+   960.3
+  ],
+  "Birdland / Murphy's Glade": [
+   302,
+   -1959,
+   764.9
+  ],
+  "Village Quad bottom": [
+   1469,
+   -1229,
+   483.2
+  ],
+  "Troll Road / Castlerock Run": [
+   -760,
+   -1271,
+   939.8
+  ],
+  "Cotillion": [
+   -23,
+   -1167,
+   683.6
+  ],
+  "Way Back / Exterminator": [
+   -1074,
+   2127,
+   975.3
+  ],
+  "Way Back": [
+   -632,
+   2105,
+   922.4
+  ],
+  "Murphy's Glade / Allyn's Traverse": [
+   -70,
+   -2275,
+   935.8
+  ],
+  "Murphy's Glade / Lower Organgrinder": [
+   280,
+   -1900,
+   746.7
+  ],
+  "Cruiser / Northstar": [
+   -734,
+   2207,
+   895.9
+  ],
+  "Semi Tough / Inverness": [
+   -381,
+   3156,
+   794.1
+  ],
+  "Spring Road / Spring Fling": [
+   1270,
+   -1824,
+   581.2
+  ],
+  "Slide Brook Express Quad top": [
+   385,
+   -648,
+   748.0
+  ],
+  "Sunshine Quad bottom": [
+   1032,
+   3141,
+   460.6
+  ],
+  "Domino Chute / Lower Organgrinder": [
+   -129,
+   -1987,
+   876.5
+  ],
+  "Brambles / Inverness": [
+   -492,
+   3179,
+   816.2
+  ],
+  "Brambles / Inverness 2": [
+   327,
+   3196,
+   564.1
+  ],
+  "Lower Ripcord": [
+   -537,
+   -1823,
+   830.0
+  ],
+  "Gate House Express Quad top": [
+   421,
+   -713,
+   744.8
+  ],
+  "Hot Shot / Second Thoughts": [
+   673,
+   -881,
+   699.3
+  ],
+  "Green Mountain Express Quad bottom": [
+   986,
+   3168,
+   468.7
+  ],
+  "Heaven's Gate Traverse / Lower Organgrinder": [
+   102,
+   -1885,
+   789.8
+  ],
+  "Lower Birdland / Coffee Run": [
+   799,
+   -1701,
+   573.6
+  ],
+  "Heaven's Gate Quad top": [
+   -1233,
+   -2289,
+   1187.6
+  ],
+  "Pushover Chute / Pushover": [
+   547,
+   -646,
+   708.0
+  ],
+  "Cotillion 2": [
+   -484,
+   -1089,
+   823.8
+  ],
+  "Elbow / Lookin' Good": [
+   -731,
+   1874,
+   956.9
+  ],
+  "Lower Rim Run 2": [
+   -714,
+   1806,
+   957.0
+  ],
+  "Spin Out / Unnamed run": [
+   -533,
+   1786,
+   886.6
+  ],
+  "Allyn's Traverse / Jester": [
+   -422,
+   -2323,
+   973.7
+  ],
+  "Northway": [
+   -748,
+   2151,
+   910.8
+  ],
+  "Graduation": [
+   662,
+   2633,
+   593.2
+  ],
+  "Tumbler Woods": [
+   60,
+   2280,
+   729.0
+  ],
+  "Moose Run Woods / Lower F.I.S.": [
+   202,
+   1884,
+   661.3
+  ],
+  "Coffee Run / The Mall": [
+   1267,
+   -1572,
+   515.0
+  ],
+  "Lower Downspout / Lower Jester": [
+   249,
+   -1529,
+   657.4
+  ],
+  "Downspout 2": [
+   -397,
+   -2071,
+   900.7
+  ],
+  "Unnamed run / Lower F.I.S.": [
+   -338,
+   1854,
+   807.1
+  ],
+  "Unnamed run / Easy Rider": [
+   1339,
+   -1129,
+   505.8
+  ],
+  "Hot Shot": [
+   624,
+   -849,
+   712.7
+  ],
+  "Deeper Sleeper / Lower Hot Shot": [
+   1122,
+   -1181,
+   530.7
+  ],
+  "Moonshine 2": [
+   994,
+   -2085,
+   699.4
+  ],
+  "Lower Moonshine": [
+   1212,
+   -1711,
+   554.4
+  ],
+  "F.I.S. / Panorama": [
+   -1342,
+   1400,
+   1219.3
+  ],
+  "Lower Rim Run 3": [
+   -1155,
+   1562,
+   1094.5
+  ],
+  "Encore / Which Way": [
+   -686,
+   2159,
+   903.3
+  ],
+  "Mainstream 2": [
+   -24,
+   2545,
+   669.6
+  ],
+  "The Cliffs 2": [
+   -468,
+   2119,
+   913.2
+  ],
+  "Tumbler": [
+   161,
+   2540,
+   638.4
+  ],
+  "Slide Brook Express Quad bottom": [
+   231,
+   2587,
+   631.0
+  ],
+  "Lower Crackerjack": [
+   509,
+   2748,
+   591.5
+  ],
+  "Lower Rim Run 4": [
+   -826,
+   1622,
+   1003.7
+  ],
+  "Riemergasse": [
+   890,
+   2971,
+   501.2
+  ],
+  "Lower Snowball": [
+   1125,
+   -2193,
+   723.4
+  ],
+  "Spring Road": [
+   1346,
+   -1959,
+   614.4
+  ],
+  "Bravo Woods": [
+   -1182,
+   1814,
+   1103.1
+  ],
+  "Bravo Woods / Lower Elbow": [
+   -811,
+   2023,
+   956.2
+  ],
+  "Paradise Extension": [
+   -830,
+   -1973,
+   944.5
+  ],
+  "Sugarbear Road": [
+   1149,
+   -1058,
+   538.6
+  ],
+  "Easy Rider": [
+   1302,
+   -1096,
+   512.1
+  ],
+  "Straight Shot": [
+   192,
+   2604,
+   625.2
+  ],
+  "Straight Shot 2": [
+   893,
+   3154,
+   476.8
+  ],
+  "Inverness Quad bottom": [
+   773,
+   3194,
+   480.9
+  ],
+  "Snowball": [
+   733,
+   -2291,
+   838.1
+  ],
+  "Allyn's Traverse": [
+   -276,
+   -2263,
+   954.8
+  ],
+  "Unnamed run / Lower Jester": [
+   -252,
+   -2191,
+   944.7
+  ],
+  "Exterminator Woods / Exterminator": [
+   -1291,
+   1869,
+   1128.7
+  ],
+  "Northway 2": [
+   -937,
+   2366,
+   900.9
+  ],
+  "North Lynx Triple bottom": [
+   310,
+   -673,
+   750.1
+  ],
+  "Bravo": [
+   -908,
+   2064,
+   948.1
+  ],
+  "Northway 3": [
+   -821,
+   2185,
+   906.7
+  ],
+  "Super Bravo Express Quad bottom": [
+   1289,
+   -1451,
+   497.9
+  ],
+  "Racer's Edge": [
+   1424,
+   -1936,
+   591.5
+  ],
+  "Header / Lower Jester": [
+   606,
+   -1636,
+   594.5
+  ],
+  "Castlerock Runout": [
+   607,
+   -1427,
+   569.2
+  ],
+  "Downspout 3": [
+   -365,
+   -1841,
+   812.1
+  ],
+  "Northstar": [
+   -843,
+   2397,
+   865.7
+  ],
+  "Brambles": [
+   -385,
+   3322,
+   790.9
+  ],
+  "Brambles 2": [
+   185,
+   3283,
+   600.2
+  ],
+  "Lower Rim Run 5": [
+   -1281,
+   1731,
+   1135.3
+  ],
+  "Lookin' Good": [
+   -1049,
+   1579,
+   1071.8
+  ],
+  "Hot Shot 2": [
+   522,
+   -776,
+   732.8
+  ],
+  "Lower Birdland": [
+   759,
+   -1733,
+   588.7
+  ],
+  "Lower Snowball 2": [
+   1161,
+   -2217,
+   718.2
+  ],
+  "Murphy's Glade": [
+   6,
+   -2202,
+   908.8
+  ],
+  "Mainstream 3": [
+   -66,
+   2583,
+   670.2
+  ],
+  "Hi & Lo Road / Castlerock Run": [
+   -1079,
+   -992,
+   1082.1
+  ],
+  "Hi & Lo Road / Castlerock Run 2": [
+   -944,
+   -1097,
+   1010.2
+  ],
+  "Elbow": [
+   -816,
+   1912,
+   974.4
+  ],
+  "Sleeper": [
+   727,
+   -1168,
+   623.0
+  ],
+  "Snowball 2": [
+   663,
+   -2251,
+   852.2
+  ],
+  "The Mall": [
+   945,
+   -1912,
+   638.7
+  ],
+  "Jester": [
+   -1210,
+   -2332,
+   1194.4
+  ],
+  "Welcome Mat bottom": [
+   1363,
+   -1261,
+   493.0
+  ],
+  "GMVS Poma bottom": [
+   279,
+   3159,
+   579.7
+  ],
+  "GMVS Poma top": [
+   -299,
+   3129,
+   775.1
+  ],
+  "North Ridge Express Quad bottom": [
+   135,
+   2616,
+   627.3
+  ],
+  "Valley House Quad bottom": [
+   1319,
+   -1502,
+   499.5
+  ],
+  "Sun Kid Teaching Lift top": [
+   1425,
+   -1230,
+   487.8
+  ],
+  "Inverness Quad top": [
+   -475,
+   3128,
+   814.8
+  ],
+  "Castlerock Double bottom": [
+   156,
+   -1378,
+   632.4
+  ],
+  "GMVS T-Bar bottom": [
+   714,
+   3223,
+   483.3
+  ],
+  "GMVS T-Bar top": [
+   274,
+   3215,
+   579.5
+  ]
+ },
+ "lifts": [
+  [
+   "Welcome Mat",
+   "Welcome Mat bottom",
+   "Welcome Mat top",
+   5.8
+  ],
+  [
+   "GMVS Poma",
+   "GMVS Poma bottom",
+   "GMVS Poma top",
+   6.4
+  ],
+  [
+   "Slide Brook Express Quad",
+   "Slide Brook Express Quad bottom",
+   "Slide Brook Express Quad top",
+   14.1
+  ],
+  [
+   "Slide Brook Express Quad",
+   "Slide Brook Express Quad top",
+   "Slide Brook Express Quad bottom",
+   14.1
+  ],
+  [
+   "Sunshine Quad",
+   "Sunshine Quad bottom",
+   "Sunshine Quad top",
+   7.8
+  ],
+  [
+   "North Ridge Express Quad",
+   "North Ridge Express Quad bottom",
+   "North Ridge Express Quad top",
+   8.8
+  ],
+  [
+   "Valley House Quad",
+   "Valley House Quad bottom",
+   "Valley House Quad top",
+   11.4
+  ],
+  [
+   "Super Bravo Express Quad",
+   "Super Bravo Express Quad bottom",
+   "Super Bravo Express Quad top",
+   8.8
+  ],
+  [
+   "Heaven's Gate Quad",
+   "Heaven's Gate Quad bottom",
+   "Heaven's Gate Quad top",
+   11.6
+  ],
+  [
+   "Green Mountain Express Quad",
+   "Green Mountain Express Quad bottom",
+   "Green Mountain Express Quad top",
+   9.4
+  ],
+  [
+   "Village Quad",
+   "Village Quad bottom",
+   "Village Quad top",
+   6.8
+  ],
+  [
+   "Sun Kid Teaching Lift",
+   "Village Quad bottom",
+   "Sun Kid Teaching Lift top",
+   3.6
+  ],
+  [
+   "Inverness Quad",
+   "Inverness Quad bottom",
+   "Inverness Quad top",
+   12.7
+  ],
+  [
+   "Castlerock Double",
+   "Castlerock Double bottom",
+   "Castlerock Double top",
+   14.1
+  ],
+  [
+   "North Lynx Triple",
+   "North Lynx Triple bottom",
+   "North Lynx Triple top",
+   9.5
+  ],
+  [
+   "GMVS T-Bar",
+   "GMVS T-Bar bottom",
+   "GMVS T-Bar top",
+   5.5
+  ],
+  [
+   "Gate House Express Quad",
+   "Gate House Express Quad bottom",
+   "Gate House Express Quad top",
+   6.9
+  ],
+  [
+   "Summit Quad",
+   "Summit Quad bottom",
+   "Summit Quad top",
+   10.7
+  ],
+  [
+   "Tommy's Toy",
+   "Sunshine Quad bottom",
+   "Green Mountain Express Quad bottom",
+   3.3
+  ]
+ ],
+ "runs": [
+  [
+   "Lift Line",
+   "Castlerock Double top",
+   "Lift Line / Troll Road",
+   2.7
+  ],
+  [
+   "Cotillion",
+   "Cotillion / Troll Road",
+   "Cotillion 2",
+   1.2
+  ],
+  [
+   "Cotillion",
+   "Cotillion 2",
+   "Cotillion",
+   2.3
+  ],
+  [
+   "Cotillion",
+   "Cotillion",
+   "Cotillion / Castlerock Connection",
+   0.5
+  ],
+  [
+   "Lew's Line",
+   "Lew's Line / Lower Organgrinder",
+   "Lew's Line / Domino",
+   0.9
+  ],
+  [
+   "Mainstream",
+   "Mainstream / Northridge Expressway",
+   "Mainstream 3",
+   1.1
+  ],
+  [
+   "Mainstream",
+   "Mainstream 3",
+   "Mainstream 2",
+   0.5
+  ],
+  [
+   "Mainstream",
+   "Mainstream 2",
+   "Mainstream",
+   0.5
+  ],
+  [
+   "Mainstream",
+   "Mainstream",
+   "Mainstream / The Cliffs",
+   0.5
+  ],
+  [
+   "Semi Tough Woods",
+   "Semi Tough Woods / Semi Tough",
+   "Semi Tough Woods / Semi Tough 2",
+   2.7
+  ],
+  [
+   "Moonshine",
+   "Moonshine / Snowball",
+   "Moonshine",
+   1.0
+  ],
+  [
+   "Moonshine",
+   "Moonshine",
+   "Moonshine 2",
+   0.5
+  ],
+  [
+   "Moonshine",
+   "Moonshine 2",
+   "Moonshine / Lower Moonshine",
+   0.6
+  ],
+  [
+   "Christmas Tree Woods",
+   "Christmas Tree Woods / The Mall",
+   "Christmas Tree Woods / The Mall 2",
+   2.1
+  ],
+  [
+   "Walt's Woods",
+   "Walt's Woods / Walt's Trail",
+   "Walt's Woods / Walt's Trail 2",
+   0.7
+  ],
+  [
+   "Northridge Expressway",
+   "Northridge Expressway / Walt's Trail",
+   "Northridge Expressway",
+   2.5
+  ],
+  [
+   "Northridge Expressway",
+   "Northridge Expressway",
+   "Mainstream / Northridge Expressway",
+   0.5
+  ],
+  [
+   "Out to Lunch",
+   "Village Quad top",
+   "Out to Lunch / In Road",
+   2.7
+  ],
+  [
+   "In Road",
+   "In Road / Easy Rider",
+   "Out to Lunch / In Road",
+   0.5
+  ],
+  [
+   "Graduation Woods",
+   "Graduation Woods / Graduation",
+   "Graduation Woods / Graduation 2",
+   1.0
+  ],
+  [
+   "Egan's Woods",
+   "Egan's Woods / Reverse Traverse",
+   "Egan's Woods / Lower Birdland",
+   1.9
+  ],
+  [
+   "Lower Hot Shot",
+   "Lower Hot Shot / Sugarbear Road",
+   "Gate House Express Quad bottom",
+   0.9
+  ],
+  [
+   "Downspout",
+   "Downspout / Domino Chute",
+   "Downspout 2",
+   0.5
+  ],
+  [
+   "Downspout",
+   "Downspout 2",
+   "Downspout",
+   0.7
+  ],
+  [
+   "Downspout",
+   "Downspout",
+   "Downspout 3",
+   0.5
+  ],
+  [
+   "Downspout",
+   "Downspout 3",
+   "Heaven's Gate Quad bottom",
+   0.8
+  ],
+  [
+   "Bravinator Woods",
+   "Bravinator Woods / Bravo",
+   "Bravinator Woods / Way Back",
+   0.8
+  ],
+  [
+   "The Cliffs",
+   "Green Mountain Express Quad top",
+   "The Cliffs 2",
+   0.5
+  ],
+  [
+   "The Cliffs",
+   "The Cliffs 2",
+   "The Cliffs",
+   2.8
+  ],
+  [
+   "The Cliffs",
+   "The Cliffs",
+   "Mainstream / The Cliffs",
+   0.5
+  ],
+  [
+   "Lower Twist",
+   "Moonshine",
+   "Moonshine 2",
+   0.5
+  ],
+  [
+   "Lower Twist",
+   "Moonshine 2",
+   "Lower Twist / The Mall",
+   1.1
+  ],
+  [
+   "Sleeper Chutes",
+   "Sleeper Chutes / Sleeper",
+   "Sleeper Chutes / Sleeper 2",
+   0.6
+  ],
+  [
+   "Snowball",
+   "Valley House Quad top",
+   "Snowball 2",
+   0.5
+  ],
+  [
+   "Snowball",
+   "Snowball 2",
+   "Snowball",
+   0.5
+  ],
+  [
+   "Snowball",
+   "Snowball",
+   "Moonshine / Snowball",
+   0.7
+  ],
+  [
+   "Snowball",
+   "Moonshine / Snowball",
+   "Snowball / Lower Snowball",
+   0.7
+  ],
+  [
+   "Birch Run",
+   "North Lynx Triple top",
+   "Birch Run / Castlerock Connection",
+   3.9
+  ],
+  [
+   "Sugarbear Road",
+   "Sugarbear Road / Easy Rider",
+   "Sugarbear Road",
+   0.6
+  ],
+  [
+   "Sugarbear Road",
+   "Sugarbear Road",
+   "Lower Hot Shot / Sugarbear Road",
+   0.6
+  ],
+  [
+   "Reverse Traverse",
+   "Valley House Quad top",
+   "Reverse Traverse",
+   0.5
+  ],
+  [
+   "Reverse Traverse",
+   "Reverse Traverse",
+   "Egan's Woods / Reverse Traverse",
+   0.8
+  ],
+  [
+   "Reverse Traverse",
+   "Egan's Woods / Reverse Traverse",
+   "Reverse Traverse / Lower Jester",
+   1.3
+  ],
+  [
+   "Hammerhead",
+   "Green Mountain Express Quad top",
+   "The Cliffs 2",
+   0.5
+  ],
+  [
+   "Hammerhead",
+   "The Cliffs 2",
+   "The Cliffs",
+   2.9
+  ],
+  [
+   "Lower Domino",
+   "Lower Domino / Heaven's Gate Traverse",
+   "Lower Domino / Unnamed run",
+   1.5
+  ],
+  [
+   "Stein's Woods",
+   "Reverse Traverse",
+   "Stein's Woods / Stein's Run",
+   1.6
+  ],
+  [
+   "Lower Rim Run",
+   "Lower Rim Run / Elbow",
+   "Lower Rim Run 5",
+   0.5
+  ],
+  [
+   "Lower Rim Run",
+   "Lower Rim Run 5",
+   "Lower Rim Run 3",
+   0.8
+  ],
+  [
+   "Lower Rim Run",
+   "Lower Rim Run 3",
+   "Lower Rim Run",
+   0.5
+  ],
+  [
+   "Lower Rim Run",
+   "Lower Rim Run",
+   "Lower Rim Run 4",
+   1.3
+  ],
+  [
+   "Lower Rim Run",
+   "Lower Rim Run 4",
+   "Lower Rim Run 2",
+   0.9
+  ],
+  [
+   "Lower Rim Run",
+   "Lower Rim Run 2",
+   "Summit Quad bottom",
+   1.0
+  ],
+  [
+   "Lower Northstar",
+   "Northridge Expressway",
+   "Mainstream / Northridge Expressway",
+   0.5
+  ],
+  [
+   "Lower Northstar",
+   "Mainstream / Northridge Expressway",
+   "Mainstream 3",
+   1.5
+  ],
+  [
+   "Lower Northstar",
+   "Mainstream 3",
+   "Mainstream",
+   0.5
+  ],
+  [
+   "Spillsville",
+   "Spillsville / Jester",
+   "Spillsville / Paradise Extension",
+   2.4
+  ],
+  [
+   "Tumbler Woods",
+   "Tumbler Woods / Tumbler",
+   "Tumbler Woods",
+   1.0
+  ],
+  [
+   "Tumbler Woods",
+   "Tumbler Woods",
+   "Tumbler Woods / Tumbler 2",
+   0.8
+  ],
+  [
+   "Graduation",
+   "Graduation Woods / Graduation",
+   "Graduation",
+   0.5
+  ],
+  [
+   "Graduation",
+   "Graduation",
+   "Graduation Woods / Graduation 2",
+   0.9
+  ],
+  [
+   "Graduation",
+   "Graduation Woods / Graduation 2",
+   "Graduation / Riemergasse",
+   0.5
+  ],
+  [
+   "Lower Moonshine",
+   "Moonshine / Lower Moonshine",
+   "Lower Moonshine",
+   1.2
+  ],
+  [
+   "Lower Moonshine",
+   "Lower Moonshine",
+   "Lower Moonshine / Racer's Edge",
+   0.6
+  ],
+  [
+   "Overshot",
+   "Overshot / Slowpoke",
+   "Overshot / Waterfall",
+   0.8
+  ],
+  [
+   "Black Diamond",
+   "Summit Quad top",
+   "Lower Rim Run",
+   1.3
+  ],
+  [
+   "Lower Castlerock Run",
+   "Lower Castlerock Run / Bailout",
+   "Lower Castlerock Run / Troll Road",
+   2.7
+  ],
+  [
+   "Bravo",
+   "North Ridge Express Quad top",
+   "Bravinator Woods / Bravo",
+   0.8
+  ],
+  [
+   "Bravo",
+   "Bravinator Woods / Bravo",
+   "Bravo",
+   1.3
+  ],
+  [
+   "Bravo",
+   "Bravo",
+   "Bravo / Way Back",
+   0.5
+  ],
+  [
+   "First Time",
+   "Welcome Mat top",
+   "Welcome Mat bottom",
+   0.5
+  ],
+  [
+   "First Time",
+   "Welcome Mat bottom",
+   "First Time",
+   0.5
+  ],
+  [
+   "Paradise Extension",
+   "Paradise Extension / Paradise",
+   "Paradise Extension",
+   0.7
+  ],
+  [
+   "Paradise Extension",
+   "Paradise Extension",
+   "Spillsville / Paradise Extension",
+   0.5
+  ],
+  [
+   "Paradise Extension",
+   "Spillsville / Paradise Extension",
+   "Downspout",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Lower Domino / Unnamed run",
+   "Castlerock Double bottom",
+   0.6
+  ],
+  [
+   "Unnamed run",
+   "Castlerock Double bottom",
+   "Unnamed run / Castlerock Runout",
+   0.5
+  ],
+  [
+   "Castlerock Runout",
+   "Unnamed run / Castlerock Runout",
+   "Castlerock Double bottom",
+   0.5
+  ],
+  [
+   "Castlerock Runout",
+   "Castlerock Double bottom",
+   "Castlerock Runout",
+   1.9
+  ],
+  [
+   "Castlerock Runout",
+   "Castlerock Runout",
+   "Castlerock Runout / Gondolier",
+   2.0
+  ],
+  [
+   "Lower Crackerjack",
+   "Sunshine Quad top",
+   "Lower Crackerjack",
+   0.5
+  ],
+  [
+   "Lower Crackerjack",
+   "Lower Crackerjack",
+   "Lower Crackerjack / Straight Shot",
+   1.6
+  ],
+  [
+   "Snowflake",
+   "Snowflake / Ellen's Woods",
+   "Snowflake",
+   1.3
+  ],
+  [
+   "Walt's Trail",
+   "Northridge Expressway / Walt's Trail",
+   "Walt's Woods / Walt's Trail",
+   2.8
+  ],
+  [
+   "Walt's Trail",
+   "Walt's Woods / Walt's Trail",
+   "Walt's Woods / Walt's Trail 2",
+   0.9
+  ],
+  [
+   "Walt's Trail",
+   "Walt's Woods / Walt's Trail 2",
+   "Walt's Trail / Semi Tough",
+   3.2
+  ],
+  [
+   "Racer's Edge",
+   "Racer's Edge / Spring Road",
+   "Racer's Edge",
+   0.5
+  ],
+  [
+   "Racer's Edge",
+   "Racer's Edge",
+   "Lower Moonshine / Racer's Edge",
+   1.5
+  ],
+  [
+   "Racer's Edge",
+   "Lower Moonshine / Racer's Edge",
+   "Racer's Edge / Spring Fling",
+   0.5
+  ],
+  [
+   "Birdland",
+   "Super Bravo Express Quad top",
+   "Birdland / Murphy's Glade",
+   2.2
+  ],
+  [
+   "Out Road",
+   "Out to Lunch / In Road",
+   "Village Quad bottom",
+   0.5
+  ],
+  [
+   "Troll Road",
+   "Troll Road / Castlerock Run",
+   "Cotillion / Troll Road",
+   0.5
+  ],
+  [
+   "Troll Road",
+   "Cotillion / Troll Road",
+   "Lift Line / Troll Road",
+   1.5
+  ],
+  [
+   "Troll Road",
+   "Lift Line / Troll Road",
+   "Lower Castlerock Run / Troll Road",
+   5.3
+  ],
+  [
+   "Troll Road",
+   "Lower Castlerock Run / Troll Road",
+   "Cotillion",
+   0.9
+  ],
+  [
+   "Way Back",
+   "Way Back / Exterminator",
+   "Bravinator Woods / Way Back",
+   0.5
+  ],
+  [
+   "Way Back",
+   "Bravinator Woods / Way Back",
+   "Bravo",
+   0.5
+  ],
+  [
+   "Way Back",
+   "Bravo",
+   "Bravo / Way Back",
+   0.7
+  ],
+  [
+   "Way Back",
+   "Bravo / Way Back",
+   "Way Back",
+   0.5
+  ],
+  [
+   "Murphy's Glade",
+   "Murphy's Glade / Allyn's Traverse",
+   "Murphy's Glade",
+   0.5
+  ],
+  [
+   "Murphy's Glade",
+   "Murphy's Glade",
+   "Birdland / Murphy's Glade",
+   1.7
+  ],
+  [
+   "Murphy's Glade",
+   "Birdland / Murphy's Glade",
+   "Murphy's Glade / Lower Organgrinder",
+   0.5
+  ],
+  [
+   "Cruiser",
+   "Cruiser / Northstar",
+   "Mainstream 3",
+   3.4
+  ],
+  [
+   "Cruiser",
+   "Mainstream 3",
+   "Mainstream 2",
+   0.5
+  ],
+  [
+   "Cruiser",
+   "Mainstream 2",
+   "Mainstream",
+   0.5
+  ],
+  [
+   "Semi Tough",
+   "Semi Tough / Inverness",
+   "Semi Tough Woods / Semi Tough",
+   0.9
+  ],
+  [
+   "Semi Tough",
+   "Semi Tough Woods / Semi Tough",
+   "GMVS Poma bottom",
+   2.5
+  ],
+  [
+   "Semi Tough",
+   "GMVS Poma bottom",
+   "Semi Tough Woods / Semi Tough 2",
+   0.6
+  ],
+  [
+   "Semi Tough",
+   "Semi Tough Woods / Semi Tough 2",
+   "Walt's Trail / Semi Tough",
+   1.0
+  ],
+  [
+   "Spring Road",
+   "Racer's Edge / Spring Road",
+   "Spring Road",
+   0.5
+  ],
+  [
+   "Spring Road",
+   "Spring Road",
+   "Spring Road / Spring Fling",
+   0.6
+  ],
+  [
+   "Sugar Run",
+   "Sunshine Quad top",
+   "Sunshine Quad bottom",
+   2.6
+  ],
+  [
+   "Domino Chute",
+   "Downspout / Domino Chute",
+   "Domino Chute / Lower Organgrinder",
+   0.7
+  ],
+  [
+   "Brambles",
+   "Brambles / Inverness",
+   "Brambles",
+   0.7
+  ],
+  [
+   "Brambles",
+   "Brambles",
+   "Brambles 2",
+   2.7
+  ],
+  [
+   "Brambles",
+   "Brambles 2",
+   "GMVS T-Bar top",
+   0.5
+  ],
+  [
+   "Brambles",
+   "GMVS T-Bar top",
+   "Brambles / Inverness 2",
+   0.5
+  ],
+  [
+   "Lower Ripcord",
+   "Lower Ripcord",
+   "Heaven's Gate Quad bottom",
+   1.2
+  ],
+  [
+   "Hot Shot",
+   "Gate House Express Quad top",
+   "Hot Shot 2",
+   0.5
+  ],
+  [
+   "Hot Shot",
+   "Hot Shot 2",
+   "Hot Shot",
+   0.5
+  ],
+  [
+   "Hot Shot",
+   "Hot Shot",
+   "Hot Shot / Second Thoughts",
+   0.5
+  ],
+  [
+   "Easy Does It",
+   "Green Mountain Express Quad bottom",
+   "Sunshine Quad bottom",
+   0.5
+  ],
+  [
+   "Second Thoughts",
+   "Hot Shot / Second Thoughts",
+   "Second Thoughts / Lower Pushover",
+   0.6
+  ],
+  [
+   "Riemergasse",
+   "Sunshine Quad top",
+   "Graduation Woods / Graduation 2",
+   1.2
+  ],
+  [
+   "Riemergasse",
+   "Graduation Woods / Graduation 2",
+   "Graduation / Riemergasse",
+   0.5
+  ],
+  [
+   "Riemergasse",
+   "Graduation / Riemergasse",
+   "Riemergasse",
+   0.5
+  ],
+  [
+   "Riemergasse",
+   "Riemergasse",
+   "Sunshine Quad bottom",
+   1.0
+  ],
+  [
+   "Heaven's Gate Traverse",
+   "Heaven's Gate Traverse / Lower Organgrinder",
+   "Lower Domino / Heaven's Gate Traverse",
+   0.8
+  ],
+  [
+   "Heaven's Gate Traverse",
+   "Lower Domino / Heaven's Gate Traverse",
+   "Heaven's Gate Quad bottom",
+   1.0
+  ],
+  [
+   "Lower Birdland",
+   "Birdland / Murphy's Glade",
+   "Egan's Woods / Lower Birdland",
+   1.2
+  ],
+  [
+   "Lower Birdland",
+   "Egan's Woods / Lower Birdland",
+   "Lower Birdland",
+   0.9
+  ],
+  [
+   "Lower Birdland",
+   "Lower Birdland",
+   "Lower Birdland / Coffee Run",
+   0.5
+  ],
+  [
+   "Paradise",
+   "Heaven's Gate Quad top",
+   "Paradise Extension / Paradise",
+   2.2
+  ],
+  [
+   "Pushover Chute",
+   "Gate House Express Quad top",
+   "Pushover Chute / Pushover",
+   0.5
+  ],
+  [
+   "Lower Ripcord",
+   "Spillsville / Paradise Extension",
+   "Lower Ripcord",
+   1.0
+  ],
+  [
+   "Lower Snowball",
+   "Snowball / Lower Snowball",
+   "Lower Snowball",
+   0.5
+  ],
+  [
+   "Lower Snowball",
+   "Lower Snowball",
+   "Lower Snowball 2",
+   0.5
+  ],
+  [
+   "Lower Snowball",
+   "Lower Snowball 2",
+   "Racer's Edge / Spring Road",
+   1.5
+  ],
+  [
+   "Waterfall",
+   "Hot Shot / Second Thoughts",
+   "Overshot / Waterfall",
+   0.6
+  ],
+  [
+   "Rumble",
+   "Castlerock Double top",
+   "Cotillion 2",
+   3.3
+  ],
+  [
+   "Elbow",
+   "Lower Rim Run / Elbow",
+   "Lower Rim Run 5",
+   0.5
+  ],
+  [
+   "Elbow",
+   "Lower Rim Run 5",
+   "Elbow",
+   2.1
+  ],
+  [
+   "Elbow",
+   "Elbow",
+   "Elbow / Lookin' Good",
+   0.5
+  ],
+  [
+   "Spin Out",
+   "Lower Rim Run 2",
+   "Spin Out / Unnamed run",
+   0.7
+  ],
+  [
+   "Allyn's Traverse",
+   "Allyn's Traverse / Jester",
+   "Allyn's Traverse",
+   0.5
+  ],
+  [
+   "Allyn's Traverse",
+   "Allyn's Traverse",
+   "Super Bravo Express Quad top",
+   0.6
+  ],
+  [
+   "Allyn's Traverse",
+   "Super Bravo Express Quad top",
+   "Murphy's Glade / Allyn's Traverse",
+   0.5
+  ],
+  [
+   "Northway",
+   "Northway",
+   "Northway 3",
+   0.5
+  ],
+  [
+   "Northway",
+   "Northway 3",
+   "Northway 2",
+   0.9
+  ],
+  [
+   "Northway",
+   "Northway 2",
+   "Northridge Expressway / Walt's Trail",
+   4.1
+  ],
+  [
+   "Ellen's Woods",
+   "Graduation",
+   "Snowflake / Ellen's Woods",
+   1.5
+  ],
+  [
+   "Moose Run Woods",
+   "Tumbler Woods",
+   "Moose Run Woods / Lower F.I.S.",
+   1.7
+  ],
+  [
+   "Coffee Run",
+   "Lower Birdland / Coffee Run",
+   "Coffee Run / The Mall",
+   2.0
+  ],
+  [
+   "Lower Downspout",
+   "Heaven's Gate Quad bottom",
+   "Lower Domino / Unnamed run",
+   2.1
+  ],
+  [
+   "Lower Downspout",
+   "Lower Domino / Unnamed run",
+   "Lower Downspout / Lower Jester",
+   0.5
+  ],
+  [
+   "Lower Organgrinder",
+   "Downspout 2",
+   "Lew's Line / Lower Organgrinder",
+   0.6
+  ],
+  [
+   "Lower Organgrinder",
+   "Lew's Line / Lower Organgrinder",
+   "Domino Chute / Lower Organgrinder",
+   0.5
+  ],
+  [
+   "Lower Organgrinder",
+   "Domino Chute / Lower Organgrinder",
+   "Heaven's Gate Traverse / Lower Organgrinder",
+   1.1
+  ],
+  [
+   "Lower Organgrinder",
+   "Heaven's Gate Traverse / Lower Organgrinder",
+   "Murphy's Glade / Lower Organgrinder",
+   0.8
+  ],
+  [
+   "Lower Organgrinder",
+   "Murphy's Glade / Lower Organgrinder",
+   "Lower Birdland",
+   2.2
+  ],
+  [
+   "Lower Organgrinder",
+   "Lower Birdland",
+   "Lower Birdland / Coffee Run",
+   0.5
+  ],
+  [
+   "Spring Fling",
+   "Snowball / Lower Snowball",
+   "Spring Road / Spring Fling",
+   2.2
+  ],
+  [
+   "Spring Fling",
+   "Spring Road / Spring Fling",
+   "Lower Moonshine / Racer's Edge",
+   1.1
+  ],
+  [
+   "Spring Fling",
+   "Lower Moonshine / Racer's Edge",
+   "Racer's Edge / Spring Fling",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Spin Out / Unnamed run",
+   "Unnamed run / Lower F.I.S.",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Welcome Mat top",
+   "Unnamed run / Easy Rider",
+   0.5
+  ],
+  [
+   "Deeper Sleeper",
+   "Hot Shot",
+   "Deeper Sleeper / Lower Hot Shot",
+   2.7
+  ],
+  [
+   "Sap Line",
+   "Moonshine 2",
+   "Moonshine / Lower Moonshine",
+   0.6
+  ],
+  [
+   "Sap Line",
+   "Moonshine / Lower Moonshine",
+   "Lower Moonshine",
+   1.2
+  ],
+  [
+   "F.I.S.",
+   "F.I.S. / Panorama",
+   "Lower Rim Run 3",
+   1.0
+  ],
+  [
+   "Encore",
+   "Encore / Which Way",
+   "Mainstream 2",
+   3.2
+  ],
+  [
+   "Tumbler",
+   "The Cliffs 2",
+   "Tumbler Woods / Tumbler",
+   1.2
+  ],
+  [
+   "Tumbler",
+   "Tumbler Woods / Tumbler",
+   "Tumbler Woods / Tumbler 2",
+   1.8
+  ],
+  [
+   "Tumbler",
+   "Tumbler Woods / Tumbler 2",
+   "Tumbler",
+   0.5
+  ],
+  [
+   "Middle Earth",
+   "Castlerock Double top",
+   "Cotillion",
+   7.0
+  ],
+  [
+   "Crackerjack",
+   "Slide Brook Express Quad bottom",
+   "Lower Crackerjack",
+   1.3
+  ],
+  [
+   "Lower F.I.S.",
+   "Lower Rim Run 4",
+   "Spin Out / Unnamed run",
+   1.3
+  ],
+  [
+   "Lower F.I.S.",
+   "Spin Out / Unnamed run",
+   "Unnamed run / Lower F.I.S.",
+   1.0
+  ],
+  [
+   "Lower F.I.S.",
+   "Unnamed run / Lower F.I.S.",
+   "Moose Run Woods / Lower F.I.S.",
+   2.5
+  ],
+  [
+   "Lower F.I.S.",
+   "Moose Run Woods / Lower F.I.S.",
+   "Snowflake / Ellen's Woods",
+   5.7
+  ],
+  [
+   "Lower F.I.S.",
+   "Snowflake / Ellen's Woods",
+   "Riemergasse",
+   0.6
+  ],
+  [
+   "Eden",
+   "Lower Snowball",
+   "Spring Road",
+   1.3
+  ],
+  [
+   "Bravo Woods",
+   "Bravo Woods",
+   "Bravo Woods / Lower Elbow",
+   1.8
+  ],
+  [
+   "Castlerock Connection",
+   "Birch Run / Castlerock Connection",
+   "Cotillion",
+   3.3
+  ],
+  [
+   "Castlerock Connection",
+   "Cotillion",
+   "Cotillion / Castlerock Connection",
+   0.5
+  ],
+  [
+   "Castlerock Connection",
+   "Cotillion / Castlerock Connection",
+   "Unnamed run / Castlerock Runout",
+   1.0
+  ],
+  [
+   "Lower Lift Line",
+   "Lift Line / Troll Road",
+   "Cotillion 2",
+   0.5
+  ],
+  [
+   "Lower Lift Line",
+   "Cotillion 2",
+   "Unnamed run / Castlerock Runout",
+   2.7
+  ],
+  [
+   "Sigi's Ripcord",
+   "Heaven's Gate Quad top",
+   "Paradise Extension",
+   2.1
+  ],
+  [
+   "Easy Rider",
+   "Village Quad top",
+   "Sugarbear Road / Easy Rider",
+   0.5
+  ],
+  [
+   "Easy Rider",
+   "Sugarbear Road / Easy Rider",
+   "Easy Rider",
+   1.0
+  ],
+  [
+   "Easy Rider",
+   "Easy Rider",
+   "Unnamed run / Easy Rider",
+   0.5
+  ],
+  [
+   "Easy Rider",
+   "Unnamed run / Easy Rider",
+   "In Road / Easy Rider",
+   0.5
+  ],
+  [
+   "Easy Rider",
+   "In Road / Easy Rider",
+   "Sun Kid Teaching Lift top",
+   0.5
+  ],
+  [
+   "Easy Rider",
+   "Sun Kid Teaching Lift top",
+   "Village Quad bottom",
+   0.5
+  ],
+  [
+   "Sugarbear Forest",
+   "Sugarbear Road",
+   "Easy Rider",
+   0.5
+  ],
+  [
+   "Straight Shot",
+   "Straight Shot",
+   "Slide Brook Express Quad bottom",
+   0.5
+  ],
+  [
+   "Straight Shot",
+   "Slide Brook Express Quad bottom",
+   "Lower Crackerjack / Straight Shot",
+   2.7
+  ],
+  [
+   "Straight Shot",
+   "Lower Crackerjack / Straight Shot",
+   "Straight Shot 2",
+   0.8
+  ],
+  [
+   "Inverness",
+   "Brambles / Inverness",
+   "Inverness Quad top",
+   0.5
+  ],
+  [
+   "Inverness",
+   "Inverness Quad top",
+   "Semi Tough / Inverness",
+   0.5
+  ],
+  [
+   "Inverness",
+   "Semi Tough / Inverness",
+   "GMVS Poma top",
+   0.5
+  ],
+  [
+   "Inverness",
+   "GMVS Poma top",
+   "GMVS T-Bar top",
+   2.5
+  ],
+  [
+   "Inverness",
+   "GMVS T-Bar top",
+   "GMVS Poma bottom",
+   0.5
+  ],
+  [
+   "Inverness",
+   "GMVS Poma bottom",
+   "Brambles / Inverness 2",
+   0.5
+  ],
+  [
+   "Inverness",
+   "Brambles / Inverness 2",
+   "Walt's Trail / Semi Tough",
+   1.5
+  ],
+  [
+   "Inverness",
+   "Walt's Trail / Semi Tough",
+   "GMVS T-Bar bottom",
+   0.5
+  ],
+  [
+   "Inverness",
+   "GMVS T-Bar bottom",
+   "Inverness Quad bottom",
+   0.5
+  ],
+  [
+   "Lixi's Twist",
+   "Snowball",
+   "Moonshine",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Allyn's Traverse",
+   "Unnamed run / Lower Jester",
+   0.5
+  ],
+  [
+   "Panorama",
+   "Summit Quad top",
+   "F.I.S. / Panorama",
+   0.5
+  ],
+  [
+   "Exterminator Woods",
+   "Exterminator Woods / Exterminator",
+   "Northway 2",
+   2.6
+  ],
+  [
+   "Morning Star",
+   "North Lynx Triple top",
+   "North Lynx Triple bottom",
+   3.5
+  ],
+  [
+   "Way Back Woods",
+   "Bravo",
+   "Northway 3",
+   0.5
+  ],
+  [
+   "Gondolier",
+   "Lower Birdland / Coffee Run",
+   "Castlerock Runout / Gondolier",
+   1.1
+  ],
+  [
+   "Gondolier",
+   "Castlerock Runout / Gondolier",
+   "Super Bravo Express Quad bottom",
+   1.1
+  ],
+  [
+   "Lookin' Good",
+   "Lower Rim Run",
+   "Lookin' Good",
+   0.5
+  ],
+  [
+   "Lookin' Good",
+   "Lookin' Good",
+   "Elbow / Lookin' Good",
+   1.8
+  ],
+  [
+   "Lookin' Good",
+   "Elbow / Lookin' Good",
+   "Summit Quad bottom",
+   0.8
+  ],
+  [
+   "Cat's Meow",
+   "Racer's Edge",
+   "Race Course Woods / Cat's Meow",
+   0.5
+  ],
+  [
+   "Cat's Meow",
+   "Race Course Woods / Cat's Meow",
+   "Racer's Edge / Spring Fling",
+   1.8
+  ],
+  [
+   "The Mall",
+   "Valley House Quad top",
+   "Christmas Tree Woods / The Mall",
+   0.9
+  ],
+  [
+   "The Mall",
+   "Christmas Tree Woods / The Mall",
+   "The Mall",
+   1.4
+  ],
+  [
+   "The Mall",
+   "The Mall",
+   "Lower Twist / The Mall",
+   0.5
+  ],
+  [
+   "The Mall",
+   "Lower Twist / The Mall",
+   "Christmas Tree Woods / The Mall 2",
+   0.5
+  ],
+  [
+   "The Mall",
+   "Christmas Tree Woods / The Mall 2",
+   "Coffee Run / The Mall",
+   1.1
+  ],
+  [
+   "Header",
+   "Header / Lower Jester",
+   "Castlerock Runout",
+   0.8
+  ],
+  [
+   "Sunrise",
+   "North Lynx Triple top",
+   "Slide Brook Express Quad top",
+   3.9
+  ],
+  [
+   "Unnamed run",
+   "Birch Run / Castlerock Connection",
+   "North Lynx Triple bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "North Lynx Triple bottom",
+   "Gate House Express Quad top",
+   0.5
+  ],
+  [
+   "Bailout",
+   "Lower Castlerock Run / Bailout",
+   "Lower Ripcord",
+   2.1
+  ],
+  [
+   "Bailout",
+   "Lower Ripcord",
+   "Downspout 3",
+   0.7
+  ],
+  [
+   "Exterminator",
+   "North Ridge Express Quad top",
+   "Exterminator Woods / Exterminator",
+   0.5
+  ],
+  [
+   "Exterminator",
+   "Exterminator Woods / Exterminator",
+   "Way Back / Exterminator",
+   1.5
+  ],
+  [
+   "Northstar",
+   "Cruiser / Northstar",
+   "Northstar",
+   0.8
+  ],
+  [
+   "Northstar",
+   "Northstar",
+   "Northridge Expressway",
+   2.2
+  ],
+  [
+   "Southbound",
+   "Summit Quad bottom",
+   "Spin Out / Unnamed run",
+   0.8
+  ],
+  [
+   "Lower Exterminator",
+   "Way Back / Exterminator",
+   "Northstar",
+   1.4
+  ],
+  [
+   "Brambles Woods",
+   "Brambles",
+   "Brambles 2",
+   2.4
+  ],
+  [
+   "Valley House Traverse",
+   "Super Bravo Express Quad top",
+   "Murphy's Glade / Allyn's Traverse",
+   0.5
+  ],
+  [
+   "Valley House Traverse",
+   "Murphy's Glade / Allyn's Traverse",
+   "Valley House Quad top",
+   2.6
+  ],
+  [
+   "Upper Lookin' Good",
+   "Lower Rim Run 5",
+   "Lower Rim Run",
+   1.1
+  ],
+  [
+   "Upper Lookin' Good",
+   "Lower Rim Run",
+   "Lookin' Good",
+   0.5
+  ],
+  [
+   "Sleeper",
+   "Hot Shot 2",
+   "Sleeper Chutes / Sleeper",
+   0.5
+  ],
+  [
+   "Sleeper",
+   "Sleeper Chutes / Sleeper",
+   "Sleeper Chutes / Sleeper 2",
+   1.3
+  ],
+  [
+   "Sleeper",
+   "Sleeper Chutes / Sleeper 2",
+   "Sleeper",
+   0.9
+  ],
+  [
+   "Sleeper",
+   "Sleeper",
+   "Gate House Express Quad bottom",
+   3.2
+  ],
+  [
+   "Stein's Run",
+   "Valley House Quad top",
+   "Stein's Woods / Stein's Run",
+   1.8
+  ],
+  [
+   "Stein's Run",
+   "Stein's Woods / Stein's Run",
+   "Lower Birdland",
+   0.6
+  ],
+  [
+   "Lower Pushover",
+   "Second Thoughts / Lower Pushover",
+   "Village Quad top",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Snowball / Lower Snowball",
+   "Lower Snowball 2",
+   0.6
+  ],
+  [
+   "Slowpoke",
+   "Overshot / Slowpoke",
+   "Sugarbear Road",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Murphy's Glade / Allyn's Traverse",
+   "Murphy's Glade",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Second Thoughts / Lower Pushover",
+   "Overshot / Slowpoke",
+   0.5
+  ],
+  [
+   "Lower Jester",
+   "Super Bravo Express Quad top",
+   "Unnamed run / Lower Jester",
+   0.5
+  ],
+  [
+   "Lower Jester",
+   "Unnamed run / Lower Jester",
+   "Downspout / Domino Chute",
+   0.5
+  ],
+  [
+   "Lower Jester",
+   "Downspout / Domino Chute",
+   "Lew's Line / Lower Organgrinder",
+   0.7
+  ],
+  [
+   "Lower Jester",
+   "Lew's Line / Lower Organgrinder",
+   "Domino Chute / Lower Organgrinder",
+   0.5
+  ],
+  [
+   "Lower Jester",
+   "Domino Chute / Lower Organgrinder",
+   "Reverse Traverse / Lower Jester",
+   0.9
+  ],
+  [
+   "Lower Jester",
+   "Reverse Traverse / Lower Jester",
+   "Heaven's Gate Traverse / Lower Organgrinder",
+   1.1
+  ],
+  [
+   "Lower Jester",
+   "Heaven's Gate Traverse / Lower Organgrinder",
+   "Murphy's Glade / Lower Organgrinder",
+   0.8
+  ],
+  [
+   "Lower Jester",
+   "Murphy's Glade / Lower Organgrinder",
+   "Lower Downspout / Lower Jester",
+   2.1
+  ],
+  [
+   "Lower Jester",
+   "Lower Downspout / Lower Jester",
+   "Header / Lower Jester",
+   1.6
+  ],
+  [
+   "Lower Jester",
+   "Header / Lower Jester",
+   "Lower Birdland / Coffee Run",
+   0.9
+  ],
+  [
+   "Which Way",
+   "Encore / Which Way",
+   "Mainstream 3",
+   3.4
+  ],
+  [
+   "Rim Run",
+   "Summit Quad top",
+   "F.I.S. / Panorama",
+   0.5
+  ],
+  [
+   "Rim Run",
+   "F.I.S. / Panorama",
+   "Lower Rim Run / Elbow",
+   1.5
+  ],
+  [
+   "Hi & Lo Road",
+   "Hi & Lo Road / Castlerock Run",
+   "Hi & Lo Road / Castlerock Run 2",
+   1.2
+  ],
+  [
+   "Domino",
+   "Domino Chute / Lower Organgrinder",
+   "Lew's Line / Domino",
+   0.8
+  ],
+  [
+   "Domino",
+   "Lew's Line / Domino",
+   "Lower Domino / Heaven's Gate Traverse",
+   0.5
+  ],
+  [
+   "Lower Elbow",
+   "Elbow",
+   "Bravo Woods / Lower Elbow",
+   0.5
+  ],
+  [
+   "Lower Elbow",
+   "Bravo Woods / Lower Elbow",
+   "Bravo / Way Back",
+   0.5
+  ],
+  [
+   "Jester",
+   "Heaven's Gate Quad top",
+   "Jester",
+   0.5
+  ],
+  [
+   "Jester",
+   "Jester",
+   "Spillsville / Jester",
+   1.9
+  ],
+  [
+   "Jester",
+   "Spillsville / Jester",
+   "Allyn's Traverse / Jester",
+   3.3
+  ],
+  [
+   "Jester",
+   "Allyn's Traverse / Jester",
+   "Downspout / Domino Chute",
+   1.2
+  ],
+  [
+   "Sleeper Road",
+   "Overshot / Waterfall",
+   "Sleeper",
+   0.8
+  ],
+  [
+   "Pushover",
+   "Slide Brook Express Quad top",
+   "Pushover Chute / Pushover",
+   0.5
+  ],
+  [
+   "Pushover",
+   "Pushover Chute / Pushover",
+   "Second Thoughts / Lower Pushover",
+   0.7
+  ],
+  [
+   "Lower Paradise",
+   "Paradise Extension / Paradise",
+   "Lower Ripcord",
+   2.1
+  ],
+  [
+   "Castlerock Run",
+   "Castlerock Double top",
+   "Hi & Lo Road / Castlerock Run",
+   0.6
+  ],
+  [
+   "Castlerock Run",
+   "Hi & Lo Road / Castlerock Run",
+   "Hi & Lo Road / Castlerock Run 2",
+   0.8
+  ],
+  [
+   "Castlerock Run",
+   "Hi & Lo Road / Castlerock Run 2",
+   "Troll Road / Castlerock Run",
+   1.2
+  ],
+  [
+   "Castlerock Run",
+   "Troll Road / Castlerock Run",
+   "Lower Castlerock Run / Bailout",
+   0.6
+  ],
+  [
+   "Gangstas' Grotto",
+   "Snowball 2",
+   "The Mall",
+   1.9
+  ],
+  [
+   "Lower Hot Shot",
+   "Overshot / Waterfall",
+   "Deeper Sleeper / Lower Hot Shot",
+   1.5
+  ],
+  [
+   "Lower Hot Shot",
+   "Deeper Sleeper / Lower Hot Shot",
+   "Lower Hot Shot / Sugarbear Road",
+   0.5
+  ],
+  [
+   "Organgrinder",
+   "Jester",
+   "Downspout 2",
+   3.6
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Castlerock Double top",
+   "Hi & Lo Road / Castlerock Run",
+   2.4
+  ],
+  [
+   "walk",
+   "Cotillion / Castlerock Connection",
+   "Castlerock Double bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Lew's Line / Domino",
+   "Heaven's Gate Quad bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Mainstream / The Cliffs",
+   "Mainstream",
+   0.8
+  ],
+  [
+   "walk",
+   "Mainstream / The Cliffs",
+   "Tumbler",
+   0.7
+  ],
+  [
+   "walk",
+   "Mainstream / The Cliffs",
+   "Slide Brook Express Quad bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Mainstream / The Cliffs",
+   "Straight Shot",
+   1.1
+  ],
+  [
+   "walk",
+   "Mainstream / The Cliffs",
+   "North Ridge Express Quad bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Walt's Woods / Walt's Trail 2",
+   "North Ridge Express Quad bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Northridge Expressway / Walt's Trail",
+   "GMVS Poma top",
+   3.4
+  ],
+  [
+   "walk",
+   "Northridge Expressway / Walt's Trail",
+   "Inverness Quad top",
+   1.2
+  ],
+  [
+   "walk",
+   "Village Quad top",
+   "Sugarbear Road / Easy Rider",
+   0.7
+  ],
+  [
+   "walk",
+   "Village Quad top",
+   "Sugarbear Road",
+   3.0
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "Gate House Express Quad bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "Village Quad bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "Welcome Mat bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "Sun Kid Teaching Lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Gate House Express Quad bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Village Quad bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Welcome Mat bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Sun Kid Teaching Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Graduation Woods / Graduation",
+   "Sunshine Quad top",
+   1.0
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "Gate House Express Quad bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "Welcome Mat top",
+   1.3
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "Welcome Mat bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Out to Lunch / In Road",
+   2.7
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "In Road / Easy Rider",
+   2.1
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "First Time",
+   0.8
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Village Quad bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Unnamed run / Easy Rider",
+   2.9
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Super Bravo Express Quad bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Welcome Mat bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Valley House Quad bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Sun Kid Teaching Lift top",
+   1.5
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad top",
+   "Summit Quad bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad top",
+   "Bravo / Way Back",
+   3.3
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad top",
+   "Way Back",
+   1.5
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad top",
+   "Cruiser / Northstar",
+   3.3
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad top",
+   "Northway",
+   3.2
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad top",
+   "Encore / Which Way",
+   2.4
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad top",
+   "The Cliffs 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Valley House Quad top",
+   "Christmas Tree Woods / The Mall",
+   3.3
+  ],
+  [
+   "walk",
+   "Valley House Quad top",
+   "Reverse Traverse",
+   1.5
+  ],
+  [
+   "walk",
+   "Valley House Quad top",
+   "Snowball",
+   2.9
+  ],
+  [
+   "walk",
+   "Valley House Quad top",
+   "Snowball 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Birch Run / Castlerock Connection",
+   "Slide Brook Express Quad top",
+   1.8
+  ],
+  [
+   "walk",
+   "Birch Run / Castlerock Connection",
+   "Gate House Express Quad top",
+   2.2
+  ],
+  [
+   "walk",
+   "Birch Run / Castlerock Connection",
+   "North Lynx Triple bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Sugarbear Road / Easy Rider",
+   "Village Quad top",
+   0.7
+  ],
+  [
+   "walk",
+   "The Cliffs",
+   "Slide Brook Express Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "The Cliffs",
+   "North Ridge Express Quad bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Domino / Heaven's Gate Traverse",
+   "Heaven's Gate Quad bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Domino / Unnamed run",
+   "Castlerock Double bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Rim Run / Elbow",
+   "North Ridge Express Quad top",
+   0.7
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Green Mountain Express Quad top",
+   1.6
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Bravo / Way Back",
+   3.0
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Way Back",
+   1.7
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Spin Out / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Northway",
+   3.2
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Encore / Which Way",
+   2.8
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "The Cliffs 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Mainstream",
+   "Slide Brook Express Quad bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Mainstream",
+   "North Ridge Express Quad bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Tumbler Woods / Tumbler 2",
+   "Slide Brook Express Quad bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Tumbler Woods / Tumbler 2",
+   "North Ridge Express Quad bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "Super Bravo Express Quad bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "Valley House Quad bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Summit Quad top",
+   "F.I.S. / Panorama",
+   0.9
+  ],
+  [
+   "walk",
+   "North Ridge Express Quad top",
+   "Bravinator Woods / Bravo",
+   2.6
+  ],
+  [
+   "walk",
+   "North Ridge Express Quad top",
+   "Lower Rim Run / Elbow",
+   0.7
+  ],
+  [
+   "walk",
+   "North Ridge Express Quad top",
+   "Bravo Woods",
+   1.7
+  ],
+  [
+   "walk",
+   "North Ridge Express Quad top",
+   "Exterminator Woods / Exterminator",
+   0.9
+  ],
+  [
+   "walk",
+   "North Ridge Express Quad top",
+   "Lower Rim Run 5",
+   1.0
+  ],
+  [
+   "walk",
+   "Bravo / Way Back",
+   "Green Mountain Express Quad top",
+   3.3
+  ],
+  [
+   "walk",
+   "Bravo / Way Back",
+   "Summit Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "Out to Lunch / In Road",
+   2.6
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "In Road / Easy Rider",
+   2.0
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "Lower Hot Shot / Sugarbear Road",
+   1.3
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "Gate House Express Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "First Time",
+   2.7
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "Village Quad bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "Unnamed run / Easy Rider",
+   1.3
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "Easy Rider",
+   1.2
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "Welcome Mat bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "Sun Kid Teaching Lift top",
+   2.6
+  ],
+  [
+   "walk",
+   "First Time",
+   "Out to Lunch / In Road",
+   1.9
+  ],
+  [
+   "walk",
+   "First Time",
+   "In Road / Easy Rider",
+   1.4
+  ],
+  [
+   "walk",
+   "First Time",
+   "Gate House Express Quad bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "First Time",
+   "Village Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "First Time",
+   "Unnamed run / Easy Rider",
+   2.3
+  ],
+  [
+   "walk",
+   "First Time",
+   "Super Bravo Express Quad bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "First Time",
+   "Welcome Mat bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "First Time",
+   "Valley House Quad bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "First Time",
+   "Sun Kid Teaching Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Castlerock Runout",
+   "Castlerock Double bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Sunshine Quad top",
+   "Graduation Woods / Graduation",
+   1.0
+  ],
+  [
+   "walk",
+   "Sunshine Quad top",
+   "Graduation",
+   1.6
+  ],
+  [
+   "walk",
+   "Sunshine Quad top",
+   "Lower Crackerjack",
+   1.1
+  ],
+  [
+   "walk",
+   "Lower Crackerjack / Straight Shot",
+   "Inverness Quad bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Crackerjack / Straight Shot",
+   "GMVS T-Bar bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Snowflake",
+   "Sunshine Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Snowflake",
+   "Green Mountain Express Quad bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Walt's Trail / Semi Tough",
+   "Inverness Quad bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Walt's Trail / Semi Tough",
+   "GMVS T-Bar bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "Gate House Express Quad bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "Lower Moonshine / Racer's Edge",
+   0.7
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "Coffee Run / The Mall",
+   1.2
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "Super Bravo Express Quad bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "Valley House Quad bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad top",
+   "Lew's Line / Lower Organgrinder",
+   3.3
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad top",
+   "Downspout / Domino Chute",
+   2.2
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad top",
+   "Murphy's Glade / Allyn's Traverse",
+   1.5
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad top",
+   "Domino Chute / Lower Organgrinder",
+   3.0
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad top",
+   "Allyn's Traverse",
+   1.9
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad top",
+   "Unnamed run / Lower Jester",
+   1.4
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad top",
+   "Murphy's Glade",
+   2.2
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Out to Lunch / In Road",
+   1.3
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "In Road / Easy Rider",
+   1.3
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Gate House Express Quad bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "First Time",
+   1.1
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Welcome Mat bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Sun Kid Teaching Lift top",
+   0.6
+  ],
+  [
+   "walk",
+   "Way Back",
+   "Green Mountain Express Quad top",
+   1.5
+  ],
+  [
+   "walk",
+   "Way Back",
+   "Summit Quad bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Way Back",
+   "Bravo / Way Back",
+   1.8
+  ],
+  [
+   "walk",
+   "Way Back",
+   "Cruiser / Northstar",
+   2.0
+  ],
+  [
+   "walk",
+   "Way Back",
+   "Northway",
+   1.7
+  ],
+  [
+   "walk",
+   "Way Back",
+   "Encore / Which Way",
+   1.1
+  ],
+  [
+   "walk",
+   "Way Back",
+   "The Cliffs 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Way Back",
+   "Northway 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Semi Tough / Inverness",
+   "GMVS Poma top",
+   1.2
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad top",
+   "Birch Run / Castlerock Connection",
+   1.8
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad top",
+   "Gate House Express Quad top",
+   1.0
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad top",
+   "Pushover Chute / Pushover",
+   2.3
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad top",
+   "North Lynx Triple bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad top",
+   "Hot Shot 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Sunshine Quad bottom",
+   "Snowflake",
+   1.1
+  ],
+  [
+   "walk",
+   "Sunshine Quad bottom",
+   "Green Mountain Express Quad bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Brambles / Inverness",
+   "GMVS Poma top",
+   2.8
+  ],
+  [
+   "walk",
+   "Brambles / Inverness",
+   "Inverness Quad top",
+   0.7
+  ],
+  [
+   "walk",
+   "Gate House Express Quad top",
+   "Sleeper Chutes / Sleeper",
+   2.5
+  ],
+  [
+   "walk",
+   "Gate House Express Quad top",
+   "Birch Run / Castlerock Connection",
+   2.2
+  ],
+  [
+   "walk",
+   "Gate House Express Quad top",
+   "Slide Brook Express Quad top",
+   1.0
+  ],
+  [
+   "walk",
+   "Gate House Express Quad top",
+   "Pushover Chute / Pushover",
+   2.0
+  ],
+  [
+   "walk",
+   "Gate House Express Quad top",
+   "Hot Shot",
+   3.4
+  ],
+  [
+   "walk",
+   "Gate House Express Quad top",
+   "North Lynx Triple bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Gate House Express Quad top",
+   "Hot Shot 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad bottom",
+   "Snowflake",
+   1.8
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad bottom",
+   "Sunshine Quad bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad bottom",
+   "Straight Shot 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad bottom",
+   "Inverness Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Heaven's Gate Quad top",
+   "Jester",
+   0.7
+  ],
+  [
+   "walk",
+   "Elbow / Lookin' Good",
+   "Summit Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower Rim Run 2",
+   "Summit Quad bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Northway",
+   "Green Mountain Express Quad top",
+   3.2
+  ],
+  [
+   "walk",
+   "Northway",
+   "Summit Quad bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Graduation",
+   "Sunshine Quad top",
+   1.6
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "Lower Moonshine / Racer's Edge",
+   1.0
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "Castlerock Runout / Gondolier",
+   3.1
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "Racer's Edge / Spring Fling",
+   1.2
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "Super Bravo Express Quad bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "Valley House Quad bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Lower Downspout / Lower Jester",
+   "Castlerock Double bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "Gate House Express Quad bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "Welcome Mat top",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "Village Quad bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "Welcome Mat bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "Sun Kid Teaching Lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "Deeper Sleeper / Lower Hot Shot",
+   "Welcome Mat top",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Moonshine",
+   "Valley House Quad bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Mainstream 2",
+   "North Ridge Express Quad bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "The Cliffs 2",
+   "Green Mountain Express Quad top",
+   0.8
+  ],
+  [
+   "walk",
+   "The Cliffs 2",
+   "Summit Quad bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Tumbler",
+   "Mainstream / The Cliffs",
+   0.7
+  ],
+  [
+   "walk",
+   "Tumbler",
+   "Mainstream",
+   1.5
+  ],
+  [
+   "walk",
+   "Tumbler",
+   "Slide Brook Express Quad bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Tumbler",
+   "Straight Shot",
+   1.0
+  ],
+  [
+   "walk",
+   "Tumbler",
+   "North Ridge Express Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad bottom",
+   "Mainstream / The Cliffs",
+   1.5
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad bottom",
+   "Tumbler",
+   1.2
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad bottom",
+   "Straight Shot",
+   0.6
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad bottom",
+   "North Ridge Express Quad bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Lower Crackerjack",
+   "Sunshine Quad top",
+   1.1
+  ],
+  [
+   "walk",
+   "Riemergasse",
+   "Sunshine Quad bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Riemergasse",
+   "Green Mountain Express Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Bravo Woods / Lower Elbow",
+   "Summit Quad bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Sugarbear Road",
+   "Welcome Mat top",
+   2.1
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Gate House Express Quad bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Welcome Mat top",
+   1.2
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Village Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Welcome Mat bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Sun Kid Teaching Lift top",
+   2.5
+  ],
+  [
+   "walk",
+   "Straight Shot",
+   "Slide Brook Express Quad bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Straight Shot",
+   "North Ridge Express Quad bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Straight Shot 2",
+   "Snowflake",
+   3.0
+  ],
+  [
+   "walk",
+   "Straight Shot 2",
+   "Walt's Trail / Semi Tough",
+   3.4
+  ],
+  [
+   "walk",
+   "Straight Shot 2",
+   "Sunshine Quad bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Straight Shot 2",
+   "Green Mountain Express Quad bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Straight Shot 2",
+   "Inverness Quad bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Straight Shot 2",
+   "GMVS T-Bar bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Inverness Quad bottom",
+   "Walt's Trail / Semi Tough",
+   1.7
+  ],
+  [
+   "walk",
+   "Inverness Quad bottom",
+   "Green Mountain Express Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Inverness Quad bottom",
+   "Straight Shot 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Inverness Quad bottom",
+   "GMVS T-Bar bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Allyn's Traverse",
+   "Super Bravo Express Quad top",
+   1.9
+  ],
+  [
+   "walk",
+   "Exterminator Woods / Exterminator",
+   "North Ridge Express Quad top",
+   0.9
+  ],
+  [
+   "walk",
+   "North Lynx Triple bottom",
+   "Birch Run / Castlerock Connection",
+   0.7
+  ],
+  [
+   "walk",
+   "North Lynx Triple bottom",
+   "Slide Brook Express Quad top",
+   1.1
+  ],
+  [
+   "walk",
+   "North Lynx Triple bottom",
+   "Gate House Express Quad top",
+   1.6
+  ],
+  [
+   "walk",
+   "North Lynx Triple bottom",
+   "Pushover Chute / Pushover",
+   3.3
+  ],
+  [
+   "walk",
+   "North Lynx Triple bottom",
+   "Hot Shot 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "Gate House Express Quad bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "First Time",
+   2.9
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "Racer's Edge / Spring Fling",
+   1.7
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "Welcome Mat bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "Valley House Quad bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Downspout 3",
+   "Heaven's Gate Quad bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Brambles",
+   "GMVS Poma top",
+   2.9
+  ],
+  [
+   "walk",
+   "Brambles 2",
+   "GMVS Poma bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Brambles 2",
+   "GMVS T-Bar top",
+   1.6
+  ],
+  [
+   "walk",
+   "Lower Rim Run 5",
+   "North Ridge Express Quad top",
+   1.0
+  ],
+  [
+   "walk",
+   "Hot Shot 2",
+   "Gate House Express Quad top",
+   1.7
+  ],
+  [
+   "walk",
+   "Mainstream 3",
+   "North Ridge Express Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Jester",
+   "Heaven's Gate Quad top",
+   0.7
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Out to Lunch / In Road",
+   1.9
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "In Road / Easy Rider",
+   1.3
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Gate House Express Quad bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "First Time",
+   0.7
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Village Quad bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Unnamed run / Easy Rider",
+   1.9
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Super Bravo Express Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Valley House Quad bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Sun Kid Teaching Lift top",
+   1.0
+  ],
+  [
+   "walk",
+   "GMVS Poma bottom",
+   "Semi Tough Woods / Semi Tough 2",
+   2.3
+  ],
+  [
+   "walk",
+   "GMVS Poma bottom",
+   "Brambles / Inverness 2",
+   0.8
+  ],
+  [
+   "walk",
+   "GMVS Poma bottom",
+   "GMVS T-Bar top",
+   0.8
+  ],
+  [
+   "walk",
+   "GMVS Poma top",
+   "Semi Tough Woods / Semi Tough",
+   1.7
+  ],
+  [
+   "walk",
+   "North Ridge Express Quad bottom",
+   "Mainstream / The Cliffs",
+   0.7
+  ],
+  [
+   "walk",
+   "North Ridge Express Quad bottom",
+   "Walt's Woods / Walt's Trail 2",
+   3.1
+  ],
+  [
+   "walk",
+   "North Ridge Express Quad bottom",
+   "Tumbler",
+   1.1
+  ],
+  [
+   "walk",
+   "North Ridge Express Quad bottom",
+   "Slide Brook Express Quad bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "North Ridge Express Quad bottom",
+   "Straight Shot",
+   0.8
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "Gate House Express Quad bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "First Time",
+   3.4
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "Racer's Edge / Spring Fling",
+   0.9
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "Super Bravo Express Quad bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "Welcome Mat bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Out to Lunch / In Road",
+   1.2
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "In Road / Easy Rider",
+   0.9
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Gate House Express Quad bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "First Time",
+   0.7
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Village Quad bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Welcome Mat bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Inverness Quad top",
+   "Northridge Expressway / Walt's Trail",
+   1.2
+  ],
+  [
+   "walk",
+   "Inverness Quad top",
+   "Semi Tough / Inverness",
+   1.4
+  ],
+  [
+   "walk",
+   "Inverness Quad top",
+   "Brambles / Inverness",
+   0.7
+  ],
+  [
+   "walk",
+   "Inverness Quad top",
+   "Brambles",
+   3.0
+  ],
+  [
+   "walk",
+   "Inverness Quad top",
+   "GMVS Poma top",
+   2.4
+  ],
+  [
+   "walk",
+   "Castlerock Double bottom",
+   "Unnamed run / Castlerock Runout",
+   0.9
+  ],
+  [
+   "walk",
+   "GMVS T-Bar bottom",
+   "Walt's Trail / Semi Tough",
+   1.1
+  ],
+  [
+   "walk",
+   "GMVS T-Bar bottom",
+   "Straight Shot 2",
+   2.7
+  ],
+  [
+   "walk",
+   "GMVS T-Bar bottom",
+   "Inverness Quad bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "GMVS T-Bar top",
+   "Semi Tough Woods / Semi Tough 2",
+   2.8
+  ],
+  [
+   "walk",
+   "GMVS T-Bar top",
+   "Brambles / Inverness 2",
+   0.8
+  ],
+  [
+   "walk",
+   "GMVS T-Bar top",
+   "GMVS Poma bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad bottom",
+   "Mainstream",
+   2.4
+  ],
+  [
+   "walk",
+   "North Ridge Express Quad bottom",
+   "Mainstream",
+   1.5
+  ],
+  [
+   "walk",
+   "Sugarbear Road / Easy Rider",
+   "Sugarbear Road",
+   3.7
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "In Road / Easy Rider",
+   2.1
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "First Time",
+   1.9
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "Unnamed run / Easy Rider",
+   3.8
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "Super Bravo Express Quad bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "Valley House Quad bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Out to Lunch / In Road",
+   2.1
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "First Time",
+   1.6
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Unnamed run / Easy Rider",
+   3.1
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Super Bravo Express Quad bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Valley House Quad bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "Out to Lunch / In Road",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "In Road / Easy Rider",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "First Time",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "Village Quad bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "Unnamed run / Easy Rider",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "Super Bravo Express Quad bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "Valley House Quad bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "Sun Kid Teaching Lift top",
+   3.7
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "Super Bravo Express Quad bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "Valley House Quad bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "Out to Lunch / In Road",
+   5.8
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "In Road / Easy Rider",
+   5.3
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "First Time",
+   3.9
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "Village Quad bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "Unnamed run / Easy Rider",
+   6.0
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "Welcome Mat bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "Sun Kid Teaching Lift top",
+   4.6
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Unnamed run / Easy Rider",
+   3.4
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Super Bravo Express Quad bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Valley House Quad bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "Out to Lunch / In Road",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "In Road / Easy Rider",
+   2.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "First Time",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "Super Bravo Express Quad bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "Valley House Quad bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Out to Lunch / In Road",
+   3.7
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "In Road / Easy Rider",
+   3.2
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "First Time",
+   3.1
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Unnamed run / Easy Rider",
+   2.5
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Super Bravo Express Quad bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Valley House Quad bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "Out to Lunch / In Road",
+   4.8
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "In Road / Easy Rider",
+   4.1
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "Village Quad bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "Unnamed run / Easy Rider",
+   4.7
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "Sun Kid Teaching Lift top",
+   3.6
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "Out to Lunch / In Road",
+   5.3
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "In Road / Easy Rider",
+   4.7
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "Village Quad bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "Unnamed run / Easy Rider",
+   5.3
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "Sun Kid Teaching Lift top",
+   4.1
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Unnamed run / Easy Rider",
+   2.8
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Super Bravo Express Quad bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Valley House Quad bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Cruiser / Northstar",
+   3.7
+  ],
+  [
+   "walk",
+   "Bravo / Way Back",
+   "Way Back",
+   4.7
+  ],
+  [
+   "walk",
+   "Bravo / Way Back",
+   "Cruiser / Northstar",
+   6.6
+  ],
+  [
+   "walk",
+   "Bravo / Way Back",
+   "Northway",
+   6.3
+  ],
+  [
+   "walk",
+   "Bravo / Way Back",
+   "Encore / Which Way",
+   5.8
+  ],
+  [
+   "walk",
+   "Bravo / Way Back",
+   "The Cliffs 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Northway",
+   "Bravo / Way Back",
+   6.3
+  ],
+  [
+   "walk",
+   "Northway",
+   "Way Back",
+   4.7
+  ],
+  [
+   "walk",
+   "Northway",
+   "Cruiser / Northstar",
+   6.5
+  ],
+  [
+   "walk",
+   "Northway",
+   "Encore / Which Way",
+   5.7
+  ],
+  [
+   "walk",
+   "Northway",
+   "The Cliffs 2",
+   4.1
+  ],
+  [
+   "walk",
+   "The Cliffs 2",
+   "Bravo / Way Back",
+   4.2
+  ],
+  [
+   "walk",
+   "The Cliffs 2",
+   "Way Back",
+   2.4
+  ],
+  [
+   "walk",
+   "The Cliffs 2",
+   "Cruiser / Northstar",
+   4.2
+  ],
+  [
+   "walk",
+   "The Cliffs 2",
+   "Northway",
+   4.1
+  ],
+  [
+   "walk",
+   "The Cliffs 2",
+   "Encore / Which Way",
+   3.3
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad top",
+   "Spin Out / Unnamed run",
+   4.5
+  ],
+  [
+   "walk",
+   "Bravo / Way Back",
+   "Spin Out / Unnamed run",
+   6.0
+  ],
+  [
+   "walk",
+   "Way Back",
+   "Spin Out / Unnamed run",
+   4.7
+  ],
+  [
+   "walk",
+   "Elbow / Lookin' Good",
+   "Green Mountain Express Quad top",
+   4.3
+  ],
+  [
+   "walk",
+   "Elbow / Lookin' Good",
+   "Bravo / Way Back",
+   5.8
+  ],
+  [
+   "walk",
+   "Elbow / Lookin' Good",
+   "Way Back",
+   4.5
+  ],
+  [
+   "walk",
+   "Elbow / Lookin' Good",
+   "Spin Out / Unnamed run",
+   5.7
+  ],
+  [
+   "walk",
+   "Elbow / Lookin' Good",
+   "Northway",
+   6.0
+  ],
+  [
+   "walk",
+   "Elbow / Lookin' Good",
+   "Encore / Which Way",
+   5.5
+  ],
+  [
+   "walk",
+   "Elbow / Lookin' Good",
+   "The Cliffs 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Rim Run 2",
+   "Green Mountain Express Quad top",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower Rim Run 2",
+   "Bravo / Way Back",
+   6.3
+  ],
+  [
+   "walk",
+   "Lower Rim Run 2",
+   "Way Back",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Rim Run 2",
+   "Spin Out / Unnamed run",
+   6.2
+  ],
+  [
+   "walk",
+   "Lower Rim Run 2",
+   "Northway",
+   6.5
+  ],
+  [
+   "walk",
+   "Lower Rim Run 2",
+   "Encore / Which Way",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower Rim Run 2",
+   "The Cliffs 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Northway",
+   "Spin Out / Unnamed run",
+   6.2
+  ],
+  [
+   "walk",
+   "The Cliffs 2",
+   "Spin Out / Unnamed run",
+   5.2
+  ],
+  [
+   "walk",
+   "Bravo Woods / Lower Elbow",
+   "Green Mountain Express Quad top",
+   4.9
+  ],
+  [
+   "walk",
+   "Bravo Woods / Lower Elbow",
+   "Bravo / Way Back",
+   6.3
+  ],
+  [
+   "walk",
+   "Bravo Woods / Lower Elbow",
+   "Way Back",
+   5.0
+  ],
+  [
+   "walk",
+   "Bravo Woods / Lower Elbow",
+   "Spin Out / Unnamed run",
+   6.3
+  ],
+  [
+   "walk",
+   "Bravo Woods / Lower Elbow",
+   "Northway",
+   6.6
+  ],
+  [
+   "walk",
+   "Bravo Woods / Lower Elbow",
+   "Encore / Which Way",
+   6.1
+  ],
+  [
+   "walk",
+   "Bravo Woods / Lower Elbow",
+   "The Cliffs 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Lower Rim Run / Elbow",
+   "Bravinator Woods / Bravo",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Rim Run / Elbow",
+   "Bravo Woods",
+   2.4
+  ],
+  [
+   "walk",
+   "Lower Rim Run / Elbow",
+   "Exterminator Woods / Exterminator",
+   1.7
+  ],
+  [
+   "walk",
+   "Lower Rim Run / Elbow",
+   "Lower Rim Run 5",
+   1.8
+  ],
+  [
+   "walk",
+   "Exterminator Woods / Exterminator",
+   "Bravinator Woods / Bravo",
+   3.6
+  ],
+  [
+   "walk",
+   "Exterminator Woods / Exterminator",
+   "Lower Rim Run / Elbow",
+   1.7
+  ],
+  [
+   "walk",
+   "Exterminator Woods / Exterminator",
+   "Bravo Woods",
+   2.6
+  ],
+  [
+   "walk",
+   "Exterminator Woods / Exterminator",
+   "Lower Rim Run 5",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Rim Run 5",
+   "Bravinator Woods / Bravo",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower Rim Run 5",
+   "Lower Rim Run / Elbow",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Rim Run 5",
+   "Bravo Woods",
+   2.7
+  ],
+  [
+   "walk",
+   "Lower Rim Run 5",
+   "Exterminator Woods / Exterminator",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "Easy Rider",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "Lower Hot Shot / Sugarbear Road",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "Easy Rider",
+   2.5
+  ],
+  [
+   "walk",
+   "Deeper Sleeper / Lower Hot Shot",
+   "Out to Lunch / In Road",
+   4.4
+  ],
+  [
+   "walk",
+   "Deeper Sleeper / Lower Hot Shot",
+   "In Road / Easy Rider",
+   3.8
+  ],
+  [
+   "walk",
+   "Deeper Sleeper / Lower Hot Shot",
+   "Lower Hot Shot / Sugarbear Road",
+   3.1
+  ],
+  [
+   "walk",
+   "Deeper Sleeper / Lower Hot Shot",
+   "Gate House Express Quad bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Deeper Sleeper / Lower Hot Shot",
+   "First Time",
+   4.5
+  ],
+  [
+   "walk",
+   "Deeper Sleeper / Lower Hot Shot",
+   "Village Quad bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Deeper Sleeper / Lower Hot Shot",
+   "Unnamed run / Easy Rider",
+   3.1
+  ],
+  [
+   "walk",
+   "Deeper Sleeper / Lower Hot Shot",
+   "Easy Rider",
+   3.0
+  ],
+  [
+   "walk",
+   "Deeper Sleeper / Lower Hot Shot",
+   "Welcome Mat bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Deeper Sleeper / Lower Hot Shot",
+   "Sun Kid Teaching Lift top",
+   4.4
+  ],
+  [
+   "walk",
+   "Deeper Sleeper / Lower Hot Shot",
+   "Super Bravo Express Quad bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Sugarbear Road",
+   "Out to Lunch / In Road",
+   4.6
+  ],
+  [
+   "walk",
+   "Sugarbear Road",
+   "In Road / Easy Rider",
+   4.0
+  ],
+  [
+   "walk",
+   "Sugarbear Road",
+   "Lower Hot Shot / Sugarbear Road",
+   3.3
+  ],
+  [
+   "walk",
+   "Sugarbear Road",
+   "Gate House Express Quad bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Sugarbear Road",
+   "First Time",
+   4.7
+  ],
+  [
+   "walk",
+   "Sugarbear Road",
+   "Village Quad bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Sugarbear Road",
+   "Unnamed run / Easy Rider",
+   3.4
+  ],
+  [
+   "walk",
+   "Sugarbear Road",
+   "Easy Rider",
+   3.2
+  ],
+  [
+   "walk",
+   "Sugarbear Road",
+   "Welcome Mat bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Sugarbear Road",
+   "Sun Kid Teaching Lift top",
+   4.6
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Lower Hot Shot / Sugarbear Road",
+   2.4
+  ],
+  [
+   "walk",
+   "Graduation Woods / Graduation",
+   "Graduation",
+   2.6
+  ],
+  [
+   "walk",
+   "Graduation Woods / Graduation",
+   "Lower Crackerjack",
+   2.1
+  ],
+  [
+   "walk",
+   "Graduation",
+   "Graduation Woods / Graduation",
+   2.6
+  ],
+  [
+   "walk",
+   "Graduation",
+   "Lower Crackerjack",
+   2.7
+  ],
+  [
+   "walk",
+   "Lower Crackerjack",
+   "Graduation Woods / Graduation",
+   2.1
+  ],
+  [
+   "walk",
+   "Lower Crackerjack",
+   "Graduation",
+   2.7
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "Gate House Express Quad bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "In Road / Easy Rider",
+   5.8
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "First Time",
+   4.6
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "Village Quad bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "Welcome Mat bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "Sun Kid Teaching Lift top",
+   5.3
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "Lower Moonshine / Racer's Edge",
+   2.4
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "Coffee Run / The Mall",
+   2.9
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "Lower Moonshine / Racer's Edge",
+   1.5
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "Coffee Run / The Mall",
+   2.1
+  ],
+  [
+   "walk",
+   "Allyn's Traverse",
+   "Lew's Line / Lower Organgrinder",
+   5.2
+  ],
+  [
+   "walk",
+   "Allyn's Traverse",
+   "Downspout / Domino Chute",
+   4.1
+  ],
+  [
+   "walk",
+   "Allyn's Traverse",
+   "Murphy's Glade / Allyn's Traverse",
+   3.4
+  ],
+  [
+   "walk",
+   "Allyn's Traverse",
+   "Domino Chute / Lower Organgrinder",
+   4.9
+  ],
+  [
+   "walk",
+   "Allyn's Traverse",
+   "Unnamed run / Lower Jester",
+   3.3
+  ],
+  [
+   "walk",
+   "Allyn's Traverse",
+   "Murphy's Glade",
+   4.1
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad top",
+   "Northway 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Northway 3",
+   4.6
+  ],
+  [
+   "walk",
+   "The Cliffs 2",
+   "Northway 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Elbow / Lookin' Good",
+   "Cruiser / Northstar",
+   6.5
+  ],
+  [
+   "walk",
+   "Birch Run / Castlerock Connection",
+   "Pushover Chute / Pushover",
+   4.0
+  ],
+  [
+   "walk",
+   "Birch Run / Castlerock Connection",
+   "Hot Shot 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Riemergasse",
+   "Snowflake",
+   4.1
+  ],
+  [
+   "walk",
+   "Birch Run / Castlerock Connection",
+   "Sleeper Chutes / Sleeper",
+   4.8
+  ],
+  [
+   "walk",
+   "Birch Run / Castlerock Connection",
+   "Hot Shot",
+   5.6
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad top",
+   "Sleeper Chutes / Sleeper",
+   3.6
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad top",
+   "Hot Shot",
+   4.4
+  ],
+  [
+   "walk",
+   "North Lynx Triple bottom",
+   "Sleeper Chutes / Sleeper",
+   4.2
+  ],
+  [
+   "walk",
+   "North Lynx Triple bottom",
+   "Hot Shot",
+   5.0
+  ],
+  [
+   "walk",
+   "Hot Shot 2",
+   "Sleeper Chutes / Sleeper",
+   4.2
+  ],
+  [
+   "walk",
+   "Hot Shot 2",
+   "Birch Run / Castlerock Connection",
+   3.9
+  ],
+  [
+   "walk",
+   "Hot Shot 2",
+   "Slide Brook Express Quad top",
+   2.7
+  ],
+  [
+   "walk",
+   "Hot Shot 2",
+   "Pushover Chute / Pushover",
+   3.7
+  ],
+  [
+   "walk",
+   "Hot Shot 2",
+   "Hot Shot",
+   5.1
+  ],
+  [
+   "walk",
+   "Hot Shot 2",
+   "North Lynx Triple bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Snowflake",
+   "Straight Shot 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Snowflake",
+   "Inverness Quad bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Sunshine Quad bottom",
+   "Straight Shot 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Sunshine Quad bottom",
+   "Inverness Quad bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Riemergasse",
+   "Straight Shot 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Riemergasse",
+   "Inverness Quad bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Inverness Quad bottom",
+   "Snowflake",
+   4.8
+  ],
+  [
+   "walk",
+   "Inverness Quad bottom",
+   "Sunshine Quad bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Racer's Edge / Spring Fling",
+   "Castlerock Runout / Gondolier",
+   4.3
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "Castlerock Runout / Gondolier",
+   6.0
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "Castlerock Runout / Gondolier",
+   5.2
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Welcome Mat top",
+   4.2
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Lower Hot Shot / Sugarbear Road",
+   5.4
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Easy Rider",
+   5.4
+  ],
+  [
+   "walk",
+   "First Time",
+   "Welcome Mat top",
+   3.6
+  ],
+  [
+   "walk",
+   "First Time",
+   "Lower Hot Shot / Sugarbear Road",
+   4.8
+  ],
+  [
+   "walk",
+   "First Time",
+   "Easy Rider",
+   4.8
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Welcome Mat top",
+   3.2
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Lower Hot Shot / Sugarbear Road",
+   4.4
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Easy Rider",
+   4.4
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "Welcome Mat top",
+   5.1
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Welcome Mat top",
+   4.4
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Welcome Mat top",
+   4.7
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Lower Hot Shot / Sugarbear Road",
+   5.9
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Easy Rider",
+   5.8
+  ],
+  [
+   "walk",
+   "Super Bravo Express Quad bottom",
+   "Welcome Mat top",
+   6.0
+  ],
+  [
+   "walk",
+   "Valley House Quad bottom",
+   "Welcome Mat top",
+   6.6
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Welcome Mat top",
+   4.1
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Lower Hot Shot / Sugarbear Road",
+   5.4
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Easy Rider",
+   5.3
+  ],
+  [
+   "walk",
+   "The Cliffs",
+   "Mainstream / The Cliffs",
+   2.7
+  ],
+  [
+   "walk",
+   "The Cliffs",
+   "Tumbler",
+   3.1
+  ],
+  [
+   "walk",
+   "The Cliffs",
+   "Straight Shot",
+   2.8
+  ],
+  [
+   "walk",
+   "The Cliffs",
+   "Mainstream",
+   3.5
+  ],
+  [
+   "walk",
+   "Mainstream",
+   "Mainstream / The Cliffs",
+   1.9
+  ],
+  [
+   "walk",
+   "Mainstream",
+   "Tumbler",
+   2.3
+  ],
+  [
+   "walk",
+   "Mainstream",
+   "Straight Shot",
+   2.0
+  ],
+  [
+   "walk",
+   "Tumbler Woods / Tumbler 2",
+   "Mainstream / The Cliffs",
+   2.8
+  ],
+  [
+   "walk",
+   "Tumbler Woods / Tumbler 2",
+   "Tumbler",
+   3.3
+  ],
+  [
+   "walk",
+   "Tumbler Woods / Tumbler 2",
+   "Straight Shot",
+   2.9
+  ],
+  [
+   "walk",
+   "Tumbler Woods / Tumbler 2",
+   "Mainstream",
+   3.7
+  ],
+  [
+   "walk",
+   "Straight Shot",
+   "Mainstream / The Cliffs",
+   1.5
+  ],
+  [
+   "walk",
+   "Straight Shot",
+   "Tumbler",
+   1.8
+  ],
+  [
+   "walk",
+   "Straight Shot",
+   "Mainstream",
+   2.3
+  ],
+  [
+   "walk",
+   "Village Quad top",
+   "Welcome Mat top",
+   5.1
+  ],
+  [
+   "walk",
+   "Village Quad top",
+   "Lower Hot Shot / Sugarbear Road",
+   6.3
+  ],
+  [
+   "walk",
+   "Village Quad top",
+   "Unnamed run / Easy Rider",
+   6.4
+  ],
+  [
+   "walk",
+   "Village Quad top",
+   "Easy Rider",
+   6.3
+  ],
+  [
+   "walk",
+   "Sugarbear Road / Easy Rider",
+   "Welcome Mat top",
+   5.8
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad bottom",
+   "Walt's Trail / Semi Tough",
+   4.7
+  ],
+  [
+   "walk",
+   "Green Mountain Express Quad bottom",
+   "GMVS T-Bar bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "GMVS T-Bar bottom",
+   "Snowflake",
+   5.7
+  ],
+  [
+   "walk",
+   "GMVS T-Bar bottom",
+   "Sunshine Quad bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "GMVS T-Bar bottom",
+   "Green Mountain Express Quad bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Snowflake",
+   "Walt's Trail / Semi Tough",
+   6.5
+  ],
+  [
+   "walk",
+   "Snowflake",
+   "GMVS T-Bar bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Sunshine Quad bottom",
+   "Walt's Trail / Semi Tough",
+   5.4
+  ],
+  [
+   "walk",
+   "Sunshine Quad bottom",
+   "GMVS T-Bar bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Lower Crackerjack / Straight Shot",
+   "Walt's Trail / Semi Tough",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Crackerjack / Straight Shot",
+   "Green Mountain Express Quad bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower Crackerjack / Straight Shot",
+   "Straight Shot 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower Crackerjack / Straight Shot",
+   "Sunshine Quad bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Walt's Trail / Semi Tough",
+   "Green Mountain Express Quad bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Walt's Trail / Semi Tough",
+   "Straight Shot 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Walt's Trail / Semi Tough",
+   "Snowflake",
+   6.5
+  ],
+  [
+   "walk",
+   "Walt's Trail / Semi Tough",
+   "Sunshine Quad bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Riemergasse",
+   "GMVS T-Bar bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Racer's Edge / Spring Fling",
+   3.4
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Lower Moonshine / Racer's Edge",
+   4.1
+  ],
+  [
+   "walk",
+   "Gate House Express Quad bottom",
+   "Coffee Run / The Mall",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "Gate House Express Quad bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "First Time",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "Racer's Edge / Spring Fling",
+   2.2
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "Welcome Mat bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "Out to Lunch / In Road",
+   6.6
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "In Road / Easy Rider",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "Village Quad bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "Sun Kid Teaching Lift top",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "Coffee Run / The Mall",
+   3.4
+  ],
+  [
+   "walk",
+   "First Time",
+   "Racer's Edge / Spring Fling",
+   4.2
+  ],
+  [
+   "walk",
+   "First Time",
+   "Lower Moonshine / Racer's Edge",
+   4.9
+  ],
+  [
+   "walk",
+   "First Time",
+   "Coffee Run / The Mall",
+   5.5
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "Out to Lunch / In Road",
+   6.5
+  ],
+  [
+   "walk",
+   "Coffee Run / The Mall",
+   "Unnamed run / Easy Rider",
+   6.4
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Racer's Edge / Spring Fling",
+   4.3
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Lower Moonshine / Racer's Edge",
+   4.9
+  ],
+  [
+   "walk",
+   "Welcome Mat bottom",
+   "Coffee Run / The Mall",
+   5.5
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "Racer's Edge / Spring Fling",
+   6.1
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Racer's Edge / Spring Fling",
+   5.5
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Lower Moonshine / Racer's Edge",
+   6.2
+  ],
+  [
+   "walk",
+   "Welcome Mat top",
+   "Racer's Edge / Spring Fling",
+   6.3
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Racer's Edge / Spring Fling",
+   5.3
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Lower Moonshine / Racer's Edge",
+   5.9
+  ],
+  [
+   "walk",
+   "Village Quad bottom",
+   "Coffee Run / The Mall",
+   6.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "Racer's Edge / Spring Fling",
+   6.1
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Racer's Edge / Spring Fling",
+   4.9
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Lower Moonshine / Racer's Edge",
+   5.6
+  ],
+  [
+   "walk",
+   "Sun Kid Teaching Lift top",
+   "Coffee Run / The Mall",
+   6.2
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "Lower Hot Shot / Sugarbear Road",
+   6.4
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "Easy Rider",
+   6.3
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Lower Hot Shot / Sugarbear Road",
+   5.7
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Easy Rider",
+   5.6
+  ],
+  [
+   "walk",
+   "Sugarbear Road",
+   "Super Bravo Express Quad bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "Unnamed run / Easy Rider",
+   6.6
+  ],
+  [
+   "walk",
+   "Brambles 2",
+   "Semi Tough Woods / Semi Tough 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Brambles 2",
+   "Brambles / Inverness 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Northridge Expressway / Walt's Trail",
+   "Semi Tough Woods / Semi Tough",
+   5.2
+  ],
+  [
+   "walk",
+   "Semi Tough / Inverness",
+   "Semi Tough Woods / Semi Tough",
+   2.9
+  ],
+  [
+   "walk",
+   "Brambles / Inverness",
+   "Semi Tough Woods / Semi Tough",
+   4.5
+  ],
+  [
+   "walk",
+   "Brambles",
+   "Semi Tough Woods / Semi Tough",
+   4.7
+  ],
+  [
+   "walk",
+   "Inverness Quad top",
+   "Semi Tough Woods / Semi Tough",
+   4.2
+  ],
+  [
+   "walk",
+   "Mainstream / The Cliffs",
+   "Walt's Woods / Walt's Trail 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Walt's Woods / Walt's Trail 2",
+   "Mainstream / The Cliffs",
+   3.8
+  ],
+  [
+   "walk",
+   "Walt's Woods / Walt's Trail 2",
+   "Tumbler",
+   4.2
+  ],
+  [
+   "walk",
+   "Walt's Woods / Walt's Trail 2",
+   "Slide Brook Express Quad bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Walt's Woods / Walt's Trail 2",
+   "Straight Shot",
+   3.9
+  ],
+  [
+   "walk",
+   "Walt's Woods / Walt's Trail 2",
+   "Mainstream",
+   4.6
+  ],
+  [
+   "walk",
+   "The Cliffs",
+   "Walt's Woods / Walt's Trail 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Mainstream",
+   "Walt's Woods / Walt's Trail 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Tumbler Woods / Tumbler 2",
+   "Walt's Woods / Walt's Trail 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Mainstream 2",
+   "Mainstream / The Cliffs",
+   3.1
+  ],
+  [
+   "walk",
+   "Mainstream 2",
+   "Walt's Woods / Walt's Trail 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Mainstream 2",
+   "Tumbler",
+   3.5
+  ],
+  [
+   "walk",
+   "Mainstream 2",
+   "Slide Brook Express Quad bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Mainstream 2",
+   "Straight Shot",
+   3.2
+  ],
+  [
+   "walk",
+   "Mainstream 2",
+   "Mainstream",
+   3.9
+  ],
+  [
+   "walk",
+   "Tumbler",
+   "Walt's Woods / Walt's Trail 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Slide Brook Express Quad bottom",
+   "Walt's Woods / Walt's Trail 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Straight Shot",
+   "Walt's Woods / Walt's Trail 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Mainstream 3",
+   "Mainstream / The Cliffs",
+   3.5
+  ],
+  [
+   "walk",
+   "Mainstream 3",
+   "Walt's Woods / Walt's Trail 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Mainstream 3",
+   "Tumbler",
+   3.9
+  ],
+  [
+   "walk",
+   "Mainstream 3",
+   "Slide Brook Express Quad bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Mainstream 3",
+   "Straight Shot",
+   3.6
+  ],
+  [
+   "walk",
+   "Mainstream 3",
+   "Mainstream",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Moonshine / Racer's Edge",
+   "Castlerock Runout / Gondolier",
+   6.5
+  ],
+  [
+   "walk",
+   "Lower Moonshine",
+   "Gate House Express Quad bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Lower Moonshine",
+   "First Time",
+   6.6
+  ],
+  [
+   "walk",
+   "Lower Moonshine",
+   "Racer's Edge / Spring Fling",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Moonshine",
+   "Super Bravo Express Quad bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Moonshine",
+   "Welcome Mat bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Lower Moonshine",
+   "Lower Moonshine / Racer's Edge",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower Moonshine",
+   "Coffee Run / The Mall",
+   5.4
+  ],
+  [
+   "walk",
+   "Out to Lunch / In Road",
+   "Lower Moonshine / Racer's Edge",
+   6.8
+  ],
+  [
+   "walk",
+   "In Road / Easy Rider",
+   "Coffee Run / The Mall",
+   6.8
+  ],
+  [
+   "walk",
+   "Lower Hot Shot / Sugarbear Road",
+   "Racer's Edge / Spring Fling",
+   6.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Easy Rider",
+   "Lower Moonshine / Racer's Edge",
+   6.8
+  ],
+  [
+   "walk",
+   "Easy Rider",
+   "Racer's Edge / Spring Fling",
+   6.7
+  ],
+  [
+   "walk",
+   "Northridge Expressway / Walt's Trail",
+   "Semi Tough / Inverness",
+   2.6
+  ],
+  [
+   "walk",
+   "Northridge Expressway / Walt's Trail",
+   "Brambles / Inverness",
+   1.9
+  ],
+  [
+   "walk",
+   "Northridge Expressway / Walt's Trail",
+   "Brambles",
+   4.2
+  ],
+  [
+   "walk",
+   "Brambles / Inverness",
+   "Northridge Expressway / Walt's Trail",
+   1.9
+  ],
+  [
+   "walk",
+   "Brambles / Inverness",
+   "Semi Tough / Inverness",
+   2.1
+  ],
+  [
+   "walk",
+   "Brambles / Inverness",
+   "Brambles",
+   3.7
+  ],
+  [
+   "walk",
+   "Cotillion / Castlerock Connection",
+   "Unnamed run / Castlerock Runout",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Domino / Unnamed run",
+   "Unnamed run / Castlerock Runout",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Downspout / Lower Jester",
+   "Unnamed run / Castlerock Runout",
+   3.4
+  ]
+ ],
+ "base": "Sunshine Quad bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Vermont",
+  "total_lifts": "18",
+  "downhill_trails": "149",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

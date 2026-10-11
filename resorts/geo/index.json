@@ -10,6 +10,36 @@
   "bearing": 180
  },
  {
+  "slug": "arapahoe-basin",
+  "name": "Arapahoe Basin",
+  "region": "US-CO",
+  "center": [
+   -105.87895225,
+   39.6267272
+  ],
+  "bearing": 186
+ },
+ {
+  "slug": "aspen-highlands",
+  "name": "Aspen Highlands",
+  "region": "US-CO",
+  "center": [
+   -106.8612809,
+   39.16208505
+  ],
+  "bearing": 232
+ },
+ {
+  "slug": "aspen-mountain",
+  "name": "Aspen Mountain",
+  "region": "US-CO",
+  "center": [
+   -106.81841965000001,
+   39.16534355
+  ],
+  "bearing": 226
+ },
+ {
   "slug": "snowmass",
   "name": "Aspen Snowmass",
   "region": "US-CO",
@@ -18,6 +48,16 @@
    39.186443249999996
   ],
   "bearing": 218
+ },
+ {
+  "slug": "bear-mountain",
+  "name": "Bear Mountain",
+  "region": "US-CA",
+  "center": [
+   -116.85937335,
+   34.21948775
+  ],
+  "bearing": 214
  },
  {
   "slug": "beaver-creek",
@@ -50,6 +90,16 @@
   "bearing": 277
  },
  {
+  "slug": "brighton",
+  "name": "Brighton Resort",
+  "region": "US-UT",
+  "center": [
+   -111.58080695,
+   40.598688749999994
+  ],
+  "bearing": 189
+ },
+ {
   "slug": "copper-mountain",
   "name": "Copper Mountain",
   "region": "US-CO",
@@ -60,6 +110,26 @@
   "bearing": 227
  },
  {
+  "slug": "crested-butte",
+  "name": "Crested Butte Mountain Resort",
+  "region": "US-CO",
+  "center": [
+   -106.94364745,
+   38.89878275
+  ],
+  "bearing": 181
+ },
+ {
+  "slug": "crystal-mountain-washington",
+  "name": "Crystal Mountain",
+  "region": "US-WA",
+  "center": [
+   -121.48613524999999,
+   46.9333574
+  ],
+  "bearing": 285
+ },
+ {
   "slug": "deer-valley",
   "name": "Deer Valley Resort",
   "region": "US-UT",
@@ -68,6 +138,26 @@
    40.61501255
   ],
   "bearing": 258
+ },
+ {
+  "slug": "eldora",
+  "name": "Eldora",
+  "region": "US-CO",
+  "center": [
+   -105.58640105,
+   39.9329782
+  ],
+  "bearing": 269
+ },
+ {
+  "slug": "grand-targhee",
+  "name": "Grand Targhee Resort",
+  "region": "US-WY",
+  "center": [
+   -110.9471838,
+   43.7858404
+  ],
+  "bearing": 112
  },
  {
   "slug": "heavenly",
@@ -110,6 +200,36 @@
   "bearing": 278
  },
  {
+  "slug": "kirkwood",
+  "name": "Kirkwood Mountain Resort",
+  "region": "US-CA",
+  "center": [
+   -120.0646576,
+   38.6738456
+  ],
+  "bearing": 238
+ },
+ {
+  "slug": "loon",
+  "name": "Loon Mountain Resort",
+  "region": "US-NH",
+  "center": [
+   -71.64001834999999,
+   44.04570975
+  ],
+  "bearing": 194
+ },
+ {
+  "slug": "loveland",
+  "name": "Loveland Basin Ski Area",
+  "region": "US-CO",
+  "center": [
+   -105.91071389999999,
+   39.6782712
+  ],
+  "bearing": 281
+ },
+ {
   "slug": "mammoth",
   "name": "Mammoth Mountain",
   "region": "US-CA",
@@ -118,6 +238,56 @@
    37.64018515
   ],
   "bearing": 248
+ },
+ {
+  "slug": "mount-snow",
+  "name": "Mount Snow",
+  "region": "US-VT",
+  "center": [
+   -72.90694045,
+   42.9605326
+  ],
+  "bearing": 278
+ },
+ {
+  "slug": "mt-bachelor",
+  "name": "Mt. Bachelor",
+  "region": "US-OR",
+  "center": [
+   -121.6851552,
+   43.991530600000004
+  ],
+  "bearing": 216
+ },
+ {
+  "slug": "mt-hood-meadows",
+  "name": "Mt. Hood Meadows Ski Resort",
+  "region": "US-OR",
+  "center": [
+   -121.6593609,
+   45.337552
+  ],
+  "bearing": 353
+ },
+ {
+  "slug": "northstar",
+  "name": "Northstar at Tahoe Resort",
+  "region": "US-CA",
+  "center": [
+   -120.13714335,
+   39.2587998
+  ],
+  "bearing": 210
+ },
+ {
+  "slug": "okemo",
+  "name": "Okemo Mountain",
+  "region": "US-VT",
+  "center": [
+   -72.7332828,
+   43.4072678
+  ],
+  "bearing": 306
  },
  {
   "slug": "palisades-tahoe",
@@ -140,6 +310,26 @@
   "bearing": 245
  },
  {
+  "slug": "purgatory",
+  "name": "Purgatory Resort",
+  "region": "US-CO",
+  "center": [
+   -107.8356995,
+   37.62325195
+  ],
+  "bearing": 224
+ },
+ {
+  "slug": "snowbasin",
+  "name": "Snowbasin Resort",
+  "region": "US-UT",
+  "center": [
+   -111.8626243,
+   41.20177995
+  ],
+  "bearing": 263
+ },
+ {
   "slug": "snowbird",
   "name": "Snowbird",
   "region": "US-UT",
@@ -148,6 +338,26 @@
    40.5671507
   ],
   "bearing": 184
+ },
+ {
+  "slug": "snowshoe",
+  "name": "Snowshoe Mountain",
+  "region": "US-WV",
+  "center": [
+   -80.0000784,
+   38.424638849999994
+  ],
+  "bearing": 260
+ },
+ {
+  "slug": "solitude",
+  "name": "Solitude Mountain Resort",
+  "region": "US-UT",
+  "center": [
+   -111.6040683,
+   40.6127271
+  ],
+  "bearing": 236
  },
  {
   "slug": "steamboat",
@@ -160,6 +370,16 @@
   "bearing": 126
  },
  {
+  "slug": "stevens-pass",
+  "name": "Stevens Pass",
+  "region": "US-WA",
+  "center": [
+   -121.0882627,
+   47.734908950000005
+  ],
+  "bearing": 256
+ },
+ {
   "slug": "stowe",
   "name": "Stowe Mountain Resort",
   "region": "US-VT",
@@ -168,6 +388,66 @@
    44.529654050000005
   ],
   "bearing": 314
+ },
+ {
+  "slug": "stratton",
+  "name": "Stratton Mountain Resort",
+  "region": "US-VT",
+  "center": [
+   -72.90241485,
+   43.101070899999996
+  ],
+  "bearing": 261
+ },
+ {
+  "slug": "sugarbush",
+  "name": "Sugarbush Resort",
+  "region": "US-VT",
+  "center": [
+   -72.911269,
+   44.15237105
+  ],
+  "bearing": 284
+ },
+ {
+  "slug": "sugarloaf",
+  "name": "Sugarloaf",
+  "region": "US-ME",
+  "center": [
+   -70.31582705,
+   45.049035849999996
+  ],
+  "bearing": 223
+ },
+ {
+  "slug": "sun-valley",
+  "name": "Sun Valley - Bald Mountain",
+  "region": "US-ID",
+  "center": [
+   -114.38945475,
+   43.6632111
+  ],
+  "bearing": 253
+ },
+ {
+  "slug": "sunday-river",
+  "name": "Sunday River",
+  "region": "US-ME",
+  "center": [
+   -70.8778671,
+   44.47472075
+  ],
+  "bearing": 253
+ },
+ {
+  "slug": "taos",
+  "name": "Taos Ski Valley",
+  "region": "US-NM",
+  "center": [
+   -105.4501779,
+   36.578903
+  ],
+  "bearing": 223
  },
  {
   "slug": "telluride",
@@ -188,6 +468,26 @@
    39.6029693
   ],
   "bearing": 177
+ },
+ {
+  "slug": "whiteface",
+  "name": "Whiteface Mountain Ski Center",
+  "region": "US-NY",
+  "center": [
+   -73.8800756,
+   44.3621043
+  ],
+  "bearing": 315
+ },
+ {
+  "slug": "whitefish",
+  "name": "Whitefish Mountain Resort",
+  "region": "US-MT",
+  "center": [
+   -114.32420404999999,
+   48.47641795
+  ],
+  "bearing": 27
  },
  {
   "slug": "winter-park",

@@ -596,7 +596,8 @@ $("search").addEventListener("change", () => loadResort($("search").value));
 map.once("style.load", async () => {  // the style, not every first tile: resorts appear while imagery streams in
   resorts = await getJSON("/geo");
   // every resort in one scrollable list, grouped by state, so you can see what's available without knowing names
-  const STATES = { CA: "California", CO: "Colorado", MT: "Montana", NV: "Nevada", UT: "Utah", VT: "Vermont", WY: "Wyoming" };
+  const STATES = { CA: "California", CO: "Colorado", ID: "Idaho", ME: "Maine", MT: "Montana", NH: "New Hampshire", NM: "New Mexico",
+    NV: "Nevada", NY: "New York", OR: "Oregon", UT: "Utah", VT: "Vermont", WA: "Washington", WV: "West Virginia", WY: "Wyoming" };
   const groups = {};
   for (const r of resorts) {
     const code = (r.region || "").replace("US-", "");

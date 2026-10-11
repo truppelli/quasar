@@ -1,0 +1,2326 @@
+{
+ "name": "Aspen Highlands",
+ "source": "OpenSkiMap ski area 0469463129ab65721499780f98a6394662564f32",
+ "origin_lonlat": [
+  -106.86697713729444,
+  39.15480012208083
+ ],
+ "nodes": {
+  "Limelight / Park Avenue": [
+   1100,
+   2653,
+   2572.7
+  ],
+  "Limelight": [
+   1029,
+   2796,
+   2496.4
+  ],
+  "Riverside Dr. / Prospector": [
+   136,
+   495,
+   3043.0
+  ],
+  "Riverside Dr. / Nugget": [
+   465,
+   1423,
+   2857.0
+  ],
+  "Moment of Truth / Midway": [
+   -169,
+   427,
+   3056.2
+  ],
+  "Moment of Truth / Robinson's Run": [
+   -199,
+   917,
+   2862.0
+  ],
+  "Face of Olly / No Name (Highlands)": [
+   -362,
+   -925,
+   3429.8
+  ],
+  "Cloud Nine top": [
+   -330,
+   -535,
+   3325.3
+  ],
+  "Boomerang / Hayden": [
+   22,
+   -454,
+   3245.7
+  ],
+  "Upper Robinson's / Pyramid Park": [
+   -458,
+   -159,
+   3223.0
+  ],
+  "Upper Robinson's / Pyramid Park 2": [
+   -416,
+   291,
+   3096.5
+  ],
+  "Lucky Find": [
+   -481,
+   -1557,
+   3516.3
+  ],
+  "Lucky Find 2": [
+   -380,
+   -1698,
+   3460.5
+  ],
+  "Golden Barrel / Nugget": [
+   508,
+   1925,
+   2750.4
+  ],
+  "Golden Barrel / Lower Stein": [
+   583,
+   2141,
+   2682.0
+  ],
+  "Thunderbowl top": [
+   800,
+   1702,
+   2906.9
+  ],
+  "Nugget / Robinson's Run": [
+   322,
+   1865,
+   2726.2
+  ],
+  "Midway / Pyramid Park": [
+   -371,
+   328,
+   3085.1
+  ],
+  "Midway / Red Onion": [
+   -7,
+   474,
+   3048.2
+  ],
+  "St. Moritz / Broadway": [
+   -380,
+   -1006,
+   3444.6
+  ],
+  "Red Onion / Meadows": [
+   67,
+   315,
+   3084.8
+  ],
+  "Red Onion / Exibition": [
+   450,
+   1884,
+   2757.9
+  ],
+  "Prospector Gulch / Wine Ridge": [
+   325,
+   406,
+   3026.5
+  ],
+  "Red Onion": [
+   295,
+   1512,
+   2815.5
+  ],
+  "Why / Lower Olympic": [
+   -360,
+   -481,
+   3304.6
+  ],
+  "Why / Olymic Bowl Exit": [
+   -532,
+   -445,
+   3196.8
+  ],
+  "Pyramid Park / Lower Olympic": [
+   -405,
+   -211,
+   3248.3
+  ],
+  "Alps / Gunbarrel": [
+   -273,
+   -383,
+   3306.2
+  ],
+  "Alps / Kandahar": [
+   -44,
+   -307,
+   3230.7
+  ],
+  "Lucky Find 3": [
+   -426,
+   -1644,
+   3497.8
+  ],
+  "Separator / Golden Horn": [
+   815,
+   1771,
+   2898.9
+  ],
+  "Separator / P-Chutes Road": [
+   856,
+   2140,
+   2752.8
+  ],
+  "P-Chutes Road / Thunder Bowl": [
+   1098,
+   2217,
+   2729.8
+  ],
+  "Sherwood Forest / T-Lazy Catwalk": [
+   499,
+   907,
+   2981.3
+  ],
+  "Riverside Dr.": [
+   409,
+   1262,
+   2877.1
+  ],
+  "Thunder Bowl / Smuggler": [
+   1165,
+   2751,
+   2544.5
+  ],
+  "Sherwood Forest / T-Lazy Catwalk 2": [
+   639,
+   1220,
+   2959.9
+  ],
+  "Sherwood Forest / Suzi Q.": [
+   505,
+   1346,
+   2886.0
+  ],
+  "Five Trees top": [
+   1350,
+   2434,
+   2682.2
+  ],
+  "Thunder Bowl": [
+   1206,
+   2619,
+   2587.8
+  ],
+  "Jerome": [
+   950,
+   2655,
+   2526.1
+  ],
+  "Exhibition bottom": [
+   938,
+   2918,
+   2468.8
+  ],
+  "Smuggler / Jerome": [
+   999,
+   2908,
+   2472.3
+  ],
+  "Meadows / Hayden": [
+   -316,
+   -879,
+   3409.9
+  ],
+  "Heather-Bedlam / Scarlett's Run": [
+   -105,
+   -71,
+   3230.7
+  ],
+  "Meadows": [
+   -230,
+   -803,
+   3361.7
+  ],
+  "Thunder Bowl 2": [
+   1139,
+   2398,
+   2674.2
+  ],
+  "Epicure / Park Avenue": [
+   1029,
+   2560,
+   2579.7
+  ],
+  "Soddbuster / Mousetrap": [
+   -454,
+   -1236,
+   3491.2
+  ],
+  "Deane's / Gunbarrel": [
+   -180,
+   -11,
+   3220.1
+  ],
+  "Upper Jerome / Park Avenue": [
+   819,
+   2273,
+   2655.4
+  ],
+  "Upper Jerome / Jerome": [
+   925,
+   2423,
+   2601.8
+  ],
+  "Lady Luck / Lucky Find": [
+   41,
+   -1512,
+   3205.0
+  ],
+  "Lady Luck / South Castle": [
+   314,
+   -1383,
+   3035.4
+  ],
+  "Midway": [
+   -281,
+   361,
+   3063.4
+  ],
+  "Loge Peak top": [
+   -511,
+   -1357,
+   3528.3
+  ],
+  "Soddbuster 2": [
+   -447,
+   -1196,
+   3479.9
+  ],
+  "Lower Olympic": [
+   -385,
+   -352,
+   3265.2
+  ],
+  "Why Knot / Olymic Bowl Exit": [
+   -527,
+   -364,
+   3195.8
+  ],
+  "Face of Olly": [
+   -390,
+   -675,
+   3365.4
+  ],
+  "Aeroble / Aces & Eights": [
+   -558,
+   -514,
+   3210.8
+  ],
+  "Prospector Gulch": [
+   378,
+   573,
+   2997.1
+  ],
+  "Scarlett's Run / Gunbarrel": [
+   -250,
+   -282,
+   3291.4
+  ],
+  "Red Onion 2": [
+   26,
+   341,
+   3082.6
+  ],
+  "Kessler's / Broadway": [
+   -449,
+   -1342,
+   3511.3
+  ],
+  "Kessler's": [
+   -353,
+   -1366,
+   3447.4
+  ],
+  "Moment of Truth": [
+   -197,
+   609,
+   2982.3
+  ],
+  "Powder Bowl": [
+   1280,
+   2707,
+   2551.7
+  ],
+  "Face of Olly 2": [
+   -346,
+   -605,
+   3353.6
+  ],
+  "Kandahar": [
+   -190,
+   -567,
+   3292.9
+  ],
+  "Heather-Bedlam": [
+   -10,
+   12,
+   3188.4
+  ],
+  "No Name (Highlands) / Deception": [
+   -606,
+   -552,
+   3213.0
+  ],
+  "Deep Temerity top": [
+   -500,
+   -1401,
+   3522.7
+  ],
+  "South Castle / Kessler's": [
+   368,
+   -1360,
+   3013.6
+  ],
+  "Meadows 2": [
+   -192,
+   -674,
+   3320.1
+  ],
+  "Meadows 3": [
+   96,
+   -22,
+   3139.8
+  ],
+  "Lower Stein": [
+   828,
+   2559,
+   2527.2
+  ],
+  "Garmisch / Broadway": [
+   -419,
+   -1115,
+   3470.5
+  ],
+  "Face of Olly 3": [
+   -359,
+   -847,
+   3414.5
+  ],
+  "Lady Luck": [
+   214,
+   -1406,
+   3088.4
+  ],
+  "Wine Ridge": [
+   258,
+   295,
+   3070.8
+  ],
+  "Deception": [
+   -418,
+   -744,
+   3384.3
+  ],
+  "Spring Time / Olymic Bowl Exit": [
+   -566,
+   -265,
+   3188.5
+  ],
+  "Golden Horn": [
+   1065,
+   2157,
+   2748.2
+  ],
+  "Thunderbowl": [
+   1265,
+   2463,
+   2653.6
+  ],
+  "Red Onion 3": [
+   373,
+   1678,
+   2791.0
+  ],
+  "Thunder Bowl 3": [
+   1198,
+   2696,
+   2560.1
+  ],
+  "Gunbarrel": [
+   -108,
+   221,
+   3134.3
+  ],
+  "Upper Robinson's": [
+   -583,
+   73,
+   3144.3
+  ],
+  "Sherwood Forest": [
+   490,
+   1045,
+   2946.2
+  ],
+  "Riverside Dr. 2": [
+   453,
+   1357,
+   2865.2
+  ],
+  "Meadows 4": [
+   92,
+   -95,
+   3142.7
+  ],
+  "Meadows 5": [
+   55,
+   -327,
+   3214.5
+  ],
+  "Riverside Dr. 3": [
+   149,
+   588,
+   3034.0
+  ],
+  "Park Avenue": [
+   846,
+   2390,
+   2606.6
+  ],
+  "Jerome 2": [
+   930,
+   2550,
+   2556.7
+  ],
+  "T-Lazy Catwalk": [
+   677,
+   1311,
+   2955.5
+  ],
+  "Cloud Nine bottom": [
+   121,
+   845,
+   2982.8
+  ],
+  "Loge Peak bottom": [
+   248,
+   464,
+   3034.5
+  ],
+  "Exhibition top": [
+   146,
+   423,
+   3050.7
+  ],
+  "Deep Temerity bottom": [
+   500,
+   -1409,
+   3004.7
+  ]
+ },
+ "lifts": [
+  [
+   "Loge Peak",
+   "Loge Peak bottom",
+   "Loge Peak top",
+   11.0
+  ],
+  [
+   "Exhibition",
+   "Exhibition bottom",
+   "Exhibition top",
+   12.0
+  ],
+  [
+   "Deep Temerity",
+   "Deep Temerity bottom",
+   "Deep Temerity top",
+   10.3
+  ],
+  [
+   "Cloud Nine",
+   "Cloud Nine bottom",
+   "Cloud Nine top",
+   8.0
+  ],
+  [
+   "Thunderbowl",
+   "Exhibition bottom",
+   "Thunderbowl top",
+   11.5
+  ]
+ ],
+ "runs": [
+  [
+   "Limelight",
+   "Limelight / Park Avenue",
+   "Limelight",
+   0.6
+  ],
+  [
+   "Riverside Dr.",
+   "Riverside Dr. / Prospector",
+   "Riverside Dr. 3",
+   0.5
+  ],
+  [
+   "Riverside Dr.",
+   "Riverside Dr. 3",
+   "Riverside Dr.",
+   3.3
+  ],
+  [
+   "Riverside Dr.",
+   "Riverside Dr.",
+   "Riverside Dr. 2",
+   0.5
+  ],
+  [
+   "Riverside Dr.",
+   "Riverside Dr. 2",
+   "Riverside Dr. / Nugget",
+   0.5
+  ],
+  [
+   "Moment of Truth",
+   "Moment of Truth / Midway",
+   "Moment of Truth",
+   0.7
+  ],
+  [
+   "Moment of Truth",
+   "Moment of Truth",
+   "Moment of Truth / Robinson's Run",
+   1.4
+  ],
+  [
+   "Face of Olly",
+   "Face of Olly / No Name (Highlands)",
+   "Face of Olly 3",
+   0.5
+  ],
+  [
+   "Face of Olly",
+   "Face of Olly 3",
+   "Face of Olly",
+   0.8
+  ],
+  [
+   "Face of Olly",
+   "Face of Olly",
+   "Face of Olly 2",
+   0.5
+  ],
+  [
+   "Face of Olly",
+   "Face of Olly 2",
+   "Cloud Nine top",
+   0.5
+  ],
+  [
+   "Upper Robinson's",
+   "Upper Robinson's / Pyramid Park",
+   "Upper Robinson's",
+   1.1
+  ],
+  [
+   "Upper Robinson's",
+   "Upper Robinson's",
+   "Upper Robinson's / Pyramid Park 2",
+   1.3
+  ],
+  [
+   "Lucky Find",
+   "Lucky Find",
+   "Lucky Find 3",
+   0.5
+  ],
+  [
+   "Lucky Find",
+   "Lucky Find 3",
+   "Lucky Find 2",
+   0.5
+  ],
+  [
+   "Golden Barrel",
+   "Golden Barrel / Nugget",
+   "Golden Barrel / Lower Stein",
+   0.9
+  ],
+  [
+   "Nugget",
+   "Thunderbowl top",
+   "Riverside Dr. / Nugget",
+   1.8
+  ],
+  [
+   "Nugget",
+   "Riverside Dr. / Nugget",
+   "Golden Barrel / Nugget",
+   2.2
+  ],
+  [
+   "Nugget",
+   "Golden Barrel / Nugget",
+   "Nugget / Robinson's Run",
+   1.1
+  ],
+  [
+   "Midway",
+   "Midway / Pyramid Park",
+   "Midway",
+   0.5
+  ],
+  [
+   "Midway",
+   "Midway",
+   "Moment of Truth / Midway",
+   0.5
+  ],
+  [
+   "Midway",
+   "Moment of Truth / Midway",
+   "Midway / Red Onion",
+   0.8
+  ],
+  [
+   "Red Onion",
+   "Red Onion / Meadows",
+   "Red Onion 2",
+   0.5
+  ],
+  [
+   "Red Onion",
+   "Red Onion 2",
+   "Midway / Red Onion",
+   0.5
+  ],
+  [
+   "Red Onion",
+   "Midway / Red Onion",
+   "Cloud Nine bottom",
+   1.5
+  ],
+  [
+   "Red Onion",
+   "Cloud Nine bottom",
+   "Red Onion",
+   3.0
+  ],
+  [
+   "Red Onion",
+   "Red Onion",
+   "Red Onion 3",
+   0.8
+  ],
+  [
+   "Red Onion",
+   "Red Onion 3",
+   "Red Onion / Exibition",
+   0.9
+  ],
+  [
+   "Prospector Gulch",
+   "Prospector Gulch / Wine Ridge",
+   "Prospector Gulch",
+   0.6
+  ],
+  [
+   "Prospector Gulch",
+   "Prospector Gulch",
+   "Red Onion",
+   4.1
+  ],
+  [
+   "Why",
+   "Why / Lower Olympic",
+   "Why / Olymic Bowl Exit",
+   0.7
+  ],
+  [
+   "Pyramid Park",
+   "Pyramid Park / Lower Olympic",
+   "Upper Robinson's / Pyramid Park",
+   0.5
+  ],
+  [
+   "Pyramid Park",
+   "Upper Robinson's / Pyramid Park",
+   "Upper Robinson's / Pyramid Park 2",
+   2.2
+  ],
+  [
+   "Pyramid Park",
+   "Upper Robinson's / Pyramid Park 2",
+   "Midway / Pyramid Park",
+   0.5
+  ],
+  [
+   "Alps",
+   "Alps / Gunbarrel",
+   "Alps / Kandahar",
+   0.9
+  ],
+  [
+   "Separator",
+   "Separator / Golden Horn",
+   "Separator / P-Chutes Road",
+   1.6
+  ],
+  [
+   "P-Chutes Road",
+   "Separator / P-Chutes Road",
+   "P-Chutes Road / Thunder Bowl",
+   1.1
+  ],
+  [
+   "Sherwood Forest",
+   "Sherwood Forest / T-Lazy Catwalk",
+   "Sherwood Forest",
+   0.5
+  ],
+  [
+   "Sherwood Forest",
+   "Sherwood Forest",
+   "Riverside Dr.",
+   1.0
+  ],
+  [
+   "Thunder Bowl",
+   "P-Chutes Road / Thunder Bowl",
+   "Thunder Bowl 2",
+   0.5
+  ],
+  [
+   "Thunder Bowl",
+   "Thunder Bowl 2",
+   "Thunder Bowl",
+   1.1
+  ],
+  [
+   "Thunder Bowl",
+   "Thunder Bowl",
+   "Thunder Bowl 3",
+   0.5
+  ],
+  [
+   "Thunder Bowl",
+   "Thunder Bowl 3",
+   "Thunder Bowl / Smuggler",
+   0.5
+  ],
+  [
+   "Sherwood Forest",
+   "Sherwood Forest / T-Lazy Catwalk 2",
+   "Sherwood Forest / Suzi Q.",
+   0.7
+  ],
+  [
+   "Apple Strudel",
+   "Midway / Red Onion",
+   "Red Onion",
+   4.8
+  ],
+  [
+   "Thunderbowl",
+   "Five Trees top",
+   "Thunderbowl",
+   0.5
+  ],
+  [
+   "Thunderbowl",
+   "Thunderbowl",
+   "Thunder Bowl",
+   0.7
+  ],
+  [
+   "Jerome",
+   "Jerome",
+   "Exhibition bottom",
+   1.0
+  ],
+  [
+   "Lower Olympic",
+   "Cloud Nine top",
+   "Why / Lower Olympic",
+   0.5
+  ],
+  [
+   "Lower Olympic",
+   "Why / Lower Olympic",
+   "Lower Olympic",
+   0.5
+  ],
+  [
+   "Lower Olympic",
+   "Lower Olympic",
+   "Pyramid Park / Lower Olympic",
+   0.6
+  ],
+  [
+   "Smuggler",
+   "Thunder Bowl / Smuggler",
+   "Smuggler / Jerome",
+   0.9
+  ],
+  [
+   "Robinson's Run",
+   "Midway / Pyramid Park",
+   "Moment of Truth / Robinson's Run",
+   2.7
+  ],
+  [
+   "Robinson's Run",
+   "Moment of Truth / Robinson's Run",
+   "Nugget / Robinson's Run",
+   4.7
+  ],
+  [
+   "Meadows",
+   "Meadows / Hayden",
+   "Meadows",
+   0.5
+  ],
+  [
+   "Meadows",
+   "Meadows",
+   "Meadows 2",
+   0.5
+  ],
+  [
+   "Meadows",
+   "Meadows 2",
+   "Meadows 5",
+   1.8
+  ],
+  [
+   "Meadows",
+   "Meadows 5",
+   "Meadows 4",
+   1.0
+  ],
+  [
+   "Meadows",
+   "Meadows 4",
+   "Meadows 3",
+   0.5
+  ],
+  [
+   "Meadows",
+   "Meadows 3",
+   "Red Onion / Meadows",
+   1.6
+  ],
+  [
+   "Heather-Bedlam",
+   "Heather-Bedlam / Scarlett's Run",
+   "Heather-Bedlam",
+   0.5
+  ],
+  [
+   "Heather-Bedlam",
+   "Heather-Bedlam",
+   "Red Onion / Meadows",
+   1.4
+  ],
+  [
+   "Epicure",
+   "Thunder Bowl 2",
+   "Epicure / Park Avenue",
+   0.7
+  ],
+  [
+   "Soddbuster",
+   "Soddbuster / Mousetrap",
+   "Soddbuster 2",
+   0.5
+  ],
+  [
+   "Deane's",
+   "Deane's / Gunbarrel",
+   "Midway / Red Onion",
+   2.2
+  ],
+  [
+   "Upper Jerome",
+   "Upper Jerome / Park Avenue",
+   "Upper Jerome / Jerome",
+   0.7
+  ],
+  [
+   "Lady Luck",
+   "Lady Luck / Lucky Find",
+   "Lady Luck",
+   1.0
+  ],
+  [
+   "Lady Luck",
+   "Lady Luck",
+   "Lady Luck / South Castle",
+   0.5
+  ],
+  [
+   "Grand Pr",
+   "Pyramid Park / Lower Olympic",
+   "Midway",
+   2.5
+  ],
+  [
+   "Mousetrap",
+   "Loge Peak top",
+   "Soddbuster / Mousetrap",
+   0.5
+  ],
+  [
+   "Mousetrap",
+   "Soddbuster / Mousetrap",
+   "Soddbuster 2",
+   0.5
+  ],
+  [
+   "Why Knot",
+   "Lower Olympic",
+   "Why Knot / Olymic Bowl Exit",
+   0.5
+  ],
+  [
+   "Aeroble",
+   "Face of Olly",
+   "Aeroble / Aces & Eights",
+   1.0
+  ],
+  [
+   "T-Lazy Catwalk",
+   "Prospector Gulch",
+   "Sherwood Forest / T-Lazy Catwalk",
+   1.4
+  ],
+  [
+   "T-Lazy Catwalk",
+   "Sherwood Forest / T-Lazy Catwalk",
+   "Sherwood Forest / T-Lazy Catwalk 2",
+   1.5
+  ],
+  [
+   "T-Lazy Catwalk",
+   "Sherwood Forest / T-Lazy Catwalk 2",
+   "T-Lazy Catwalk",
+   0.5
+  ],
+  [
+   "T-Lazy Catwalk",
+   "T-Lazy Catwalk",
+   "Thunderbowl top",
+   1.7
+  ],
+  [
+   "Scarlett's Run",
+   "Scarlett's Run / Gunbarrel",
+   "Heather-Bedlam / Scarlett's Run",
+   1.0
+  ],
+  [
+   "Scarlett's Run",
+   "Heather-Bedlam / Scarlett's Run",
+   "Red Onion 2",
+   1.9
+  ],
+  [
+   "Golden Horn",
+   "Thunderbowl top",
+   "Separator / Golden Horn",
+   0.5
+  ],
+  [
+   "Golden Horn",
+   "Separator / Golden Horn",
+   "Golden Horn",
+   1.9
+  ],
+  [
+   "Golden Horn",
+   "Golden Horn",
+   "P-Chutes Road / Thunder Bowl",
+   0.5
+  ],
+  [
+   "Kessler's",
+   "Kessler's / Broadway",
+   "Kessler's",
+   0.5
+  ],
+  [
+   "Willy's",
+   "Midway",
+   "Moment of Truth",
+   1.0
+  ],
+  [
+   "Powder Bowl",
+   "Five Trees top",
+   "Powder Bowl",
+   1.5
+  ],
+  [
+   "Kandahar",
+   "Face of Olly 2",
+   "Kandahar",
+   0.6
+  ],
+  [
+   "Wine Ridge",
+   "Heather-Bedlam",
+   "Wine Ridge",
+   1.6
+  ],
+  [
+   "Wine Ridge",
+   "Wine Ridge",
+   "Prospector Gulch / Wine Ridge",
+   0.6
+  ],
+  [
+   "No Name (Highlands)",
+   "Face of Olly / No Name (Highlands)",
+   "No Name (Highlands) / Deception",
+   3.1
+  ],
+  [
+   "Gunbarrel",
+   "Cloud Nine top",
+   "Alps / Gunbarrel",
+   0.5
+  ],
+  [
+   "Gunbarrel",
+   "Alps / Gunbarrel",
+   "Scarlett's Run / Gunbarrel",
+   0.5
+  ],
+  [
+   "Gunbarrel",
+   "Scarlett's Run / Gunbarrel",
+   "Deane's / Gunbarrel",
+   1.2
+  ],
+  [
+   "Gunbarrel",
+   "Deane's / Gunbarrel",
+   "Gunbarrel",
+   1.1
+  ],
+  [
+   "Gunbarrel",
+   "Gunbarrel",
+   "Midway / Red Onion",
+   1.2
+  ],
+  [
+   "Jerome",
+   "Upper Jerome / Jerome",
+   "Jerome 2",
+   0.5
+  ],
+  [
+   "Jerome",
+   "Jerome 2",
+   "Jerome",
+   0.5
+  ],
+  [
+   "Jerome",
+   "Jerome",
+   "Smuggler / Jerome",
+   1.1
+  ],
+  [
+   "South Castle",
+   "Deep Temerity top",
+   "Lady Luck",
+   3.4
+  ],
+  [
+   "South Castle",
+   "Lady Luck",
+   "Lady Luck / South Castle",
+   0.5
+  ],
+  [
+   "South Castle",
+   "Lady Luck / South Castle",
+   "South Castle / Kessler's",
+   0.5
+  ],
+  [
+   "Kandahar",
+   "Meadows 2",
+   "Kandahar",
+   0.5
+  ],
+  [
+   "Kandahar",
+   "Kandahar",
+   "Alps / Kandahar",
+   1.3
+  ],
+  [
+   "Kandahar",
+   "Alps / Kandahar",
+   "Meadows 4",
+   1.1
+  ],
+  [
+   "Kandahar",
+   "Meadows 4",
+   "Meadows 3",
+   0.5
+  ],
+  [
+   "Lower Stein",
+   "Golden Barrel / Lower Stein",
+   "Lower Stein",
+   2.2
+  ],
+  [
+   "Deception",
+   "Face of Olly 3",
+   "Deception",
+   0.5
+  ],
+  [
+   "Deception",
+   "Deception",
+   "No Name (Highlands) / Deception",
+   1.3
+  ],
+  [
+   "Broadway",
+   "Loge Peak top",
+   "Kessler's / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Kessler's / Broadway",
+   "Soddbuster / Mousetrap",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Soddbuster / Mousetrap",
+   "Soddbuster 2",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Soddbuster 2",
+   "Garmisch / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Garmisch / Broadway",
+   "St. Moritz / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "St. Moritz / Broadway",
+   "Face of Olly / No Name (Highlands)",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Face of Olly / No Name (Highlands)",
+   "Face of Olly 3",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Face of Olly 3",
+   "Deception",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Deception",
+   "Face of Olly",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Face of Olly",
+   "Face of Olly 2",
+   0.5
+  ],
+  [
+   "Lucky Find",
+   "Lucky Find 2",
+   "Lady Luck / Lucky Find",
+   2.3
+  ],
+  [
+   "Lucky Find",
+   "Lady Luck / Lucky Find",
+   "Lady Luck",
+   1.0
+  ],
+  [
+   "Prospector",
+   "Wine Ridge",
+   "Exhibition top",
+   1.0
+  ],
+  [
+   "Prospector",
+   "Exhibition top",
+   "Riverside Dr. / Prospector",
+   0.5
+  ],
+  [
+   "Prospector",
+   "Riverside Dr. / Prospector",
+   "Prospector Gulch",
+   1.2
+  ],
+  [
+   "Aces & Eights",
+   "Deception",
+   "No Name (Highlands) / Deception",
+   1.2
+  ],
+  [
+   "Aces & Eights",
+   "No Name (Highlands) / Deception",
+   "Aeroble / Aces & Eights",
+   0.5
+  ],
+  [
+   "Spring Time",
+   "Lower Olympic",
+   "Spring Time / Olymic Bowl Exit",
+   0.7
+  ],
+  [
+   "Thunderbowl",
+   "Golden Horn",
+   "P-Chutes Road / Thunder Bowl",
+   0.5
+  ],
+  [
+   "Thunderbowl",
+   "P-Chutes Road / Thunder Bowl",
+   "Thunderbowl",
+   1.4
+  ],
+  [
+   "Troyer's Trail",
+   "Red Onion 3",
+   "Nugget / Robinson's Run",
+   0.7
+  ],
+  [
+   "Park Avenue",
+   "Nugget / Robinson's Run",
+   "Golden Barrel / Lower Stein",
+   1.5
+  ],
+  [
+   "Park Avenue",
+   "Golden Barrel / Lower Stein",
+   "Upper Jerome / Park Avenue",
+   1.2
+  ],
+  [
+   "Park Avenue",
+   "Upper Jerome / Park Avenue",
+   "Park Avenue",
+   1.6
+  ],
+  [
+   "Park Avenue",
+   "Park Avenue",
+   "Upper Jerome / Jerome",
+   0.5
+  ],
+  [
+   "Park Avenue",
+   "Upper Jerome / Jerome",
+   "Epicure / Park Avenue",
+   0.7
+  ],
+  [
+   "Park Avenue",
+   "Epicure / Park Avenue",
+   "Limelight / Park Avenue",
+   0.5
+  ],
+  [
+   "Park Avenue",
+   "Limelight / Park Avenue",
+   "Thunder Bowl 3",
+   0.5
+  ],
+  [
+   "Deane's",
+   "Gunbarrel",
+   "Moment of Truth / Midway",
+   0.8
+  ],
+  [
+   "Olymic Bowl Exit",
+   "No Name (Highlands) / Deception",
+   "Aeroble / Aces & Eights",
+   0.5
+  ],
+  [
+   "Olymic Bowl Exit",
+   "Aeroble / Aces & Eights",
+   "Why / Olymic Bowl Exit",
+   0.5
+  ],
+  [
+   "Olymic Bowl Exit",
+   "Why / Olymic Bowl Exit",
+   "Why Knot / Olymic Bowl Exit",
+   0.5
+  ],
+  [
+   "Olymic Bowl Exit",
+   "Why Knot / Olymic Bowl Exit",
+   "Spring Time / Olymic Bowl Exit",
+   0.5
+  ],
+  [
+   "Olymic Bowl Exit",
+   "Spring Time / Olymic Bowl Exit",
+   "Upper Robinson's",
+   1.8
+  ],
+  [
+   "Sherwood Forest",
+   "Sherwood Forest",
+   "Riverside Dr. 2",
+   1.2
+  ],
+  [
+   "Hayden",
+   "Face of Olly / No Name (Highlands)",
+   "Meadows / Hayden",
+   0.5
+  ],
+  [
+   "Hayden",
+   "Meadows / Hayden",
+   "Meadows",
+   0.5
+  ],
+  [
+   "Hayden",
+   "Meadows",
+   "Boomerang / Hayden",
+   1.9
+  ],
+  [
+   "Hayden",
+   "Boomerang / Hayden",
+   "Meadows 5",
+   0.6
+  ],
+  [
+   "Kessler's",
+   "Deep Temerity top",
+   "Kessler's",
+   0.5
+  ],
+  [
+   "Kessler's",
+   "Kessler's",
+   "Lady Luck",
+   2.9
+  ],
+  [
+   "Kessler's",
+   "Lady Luck",
+   "Lady Luck / South Castle",
+   0.5
+  ],
+  [
+   "Kessler's",
+   "Lady Luck / South Castle",
+   "South Castle / Kessler's",
+   0.5
+  ],
+  [
+   "Exibition",
+   "Riverside Dr. 3",
+   "Red Onion / Exibition",
+   5.7
+  ],
+  [
+   "Exibition",
+   "Red Onion / Exibition",
+   "Golden Barrel / Nugget",
+   0.5
+  ],
+  [
+   "Jerome",
+   "Park Avenue",
+   "Jerome 2",
+   0.6
+  ],
+  [
+   "Suzi Q.",
+   "T-Lazy Catwalk",
+   "Sherwood Forest / Suzi Q.",
+   0.6
+  ],
+  [
+   "Suzi Q.",
+   "Sherwood Forest / Suzi Q.",
+   "Riverside Dr. 2",
+   0.5
+  ],
+  [
+   "Suzi Q.",
+   "Riverside Dr. 2",
+   "Riverside Dr. / Nugget",
+   0.5
+  ],
+  [
+   "Memory Lane",
+   "Cloud Nine bottom",
+   "Nugget / Robinson's Run",
+   4.4
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Limelight",
+   "Exhibition bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Limelight",
+   "Smuggler / Jerome",
+   1.6
+  ],
+  [
+   "walk",
+   "Riverside Dr. / Prospector",
+   "Loge Peak bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Riverside Dr. / Prospector",
+   "Exhibition top",
+   1.0
+  ],
+  [
+   "walk",
+   "Cloud Nine top",
+   "Why / Lower Olympic",
+   0.9
+  ],
+  [
+   "walk",
+   "Cloud Nine top",
+   "Why / Olymic Bowl Exit",
+   3.1
+  ],
+  [
+   "walk",
+   "Cloud Nine top",
+   "Alps / Gunbarrel",
+   2.3
+  ],
+  [
+   "walk",
+   "Cloud Nine top",
+   "Lower Olympic",
+   2.7
+  ],
+  [
+   "walk",
+   "Cloud Nine top",
+   "Aeroble / Aces & Eights",
+   3.2
+  ],
+  [
+   "walk",
+   "Cloud Nine top",
+   "Kandahar",
+   2.0
+  ],
+  [
+   "walk",
+   "Cloud Nine top",
+   "Meadows 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Lucky Find",
+   "Loge Peak top",
+   2.8
+  ],
+  [
+   "walk",
+   "Lucky Find",
+   "Deep Temerity top",
+   2.2
+  ],
+  [
+   "walk",
+   "Thunderbowl top",
+   "Separator / Golden Horn",
+   1.0
+  ],
+  [
+   "walk",
+   "Midway / Red Onion",
+   "Exhibition top",
+   2.2
+  ],
+  [
+   "walk",
+   "Red Onion / Meadows",
+   "Loge Peak bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Red Onion / Meadows",
+   "Exhibition top",
+   1.9
+  ],
+  [
+   "walk",
+   "Prospector Gulch / Wine Ridge",
+   "Loge Peak bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Separator / Golden Horn",
+   "Thunderbowl top",
+   1.0
+  ],
+  [
+   "walk",
+   "Five Trees top",
+   "Thunder Bowl",
+   3.3
+  ],
+  [
+   "walk",
+   "Five Trees top",
+   "Thunder Bowl 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Five Trees top",
+   "Thunderbowl",
+   1.2
+  ],
+  [
+   "walk",
+   "Exhibition bottom",
+   "Smuggler / Jerome",
+   0.9
+  ],
+  [
+   "walk",
+   "Smuggler / Jerome",
+   "Exhibition bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Thunder Bowl 2",
+   "Five Trees top",
+   3.0
+  ],
+  [
+   "walk",
+   "Lady Luck / South Castle",
+   "Deep Temerity bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Loge Peak top",
+   "Lucky Find",
+   2.8
+  ],
+  [
+   "walk",
+   "Loge Peak top",
+   "Soddbuster / Mousetrap",
+   1.9
+  ],
+  [
+   "walk",
+   "Loge Peak top",
+   "Soddbuster 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Loge Peak top",
+   "Kessler's / Broadway",
+   0.9
+  ],
+  [
+   "walk",
+   "Loge Peak top",
+   "Kessler's",
+   2.2
+  ],
+  [
+   "walk",
+   "Loge Peak top",
+   "Deep Temerity top",
+   0.6
+  ],
+  [
+   "walk",
+   "Face of Olly",
+   "Cloud Nine top",
+   2.1
+  ],
+  [
+   "walk",
+   "Red Onion 2",
+   "Exhibition top",
+   2.0
+  ],
+  [
+   "walk",
+   "Kessler's / Broadway",
+   "Deep Temerity top",
+   1.1
+  ],
+  [
+   "walk",
+   "Powder Bowl",
+   "Thunder Bowl / Smuggler",
+   1.7
+  ],
+  [
+   "walk",
+   "Powder Bowl",
+   "Thunder Bowl 3",
+   1.1
+  ],
+  [
+   "walk",
+   "Face of Olly 2",
+   "Cloud Nine top",
+   1.0
+  ],
+  [
+   "walk",
+   "Deep Temerity top",
+   "Lucky Find",
+   2.2
+  ],
+  [
+   "walk",
+   "Deep Temerity top",
+   "Soddbuster / Mousetrap",
+   2.4
+  ],
+  [
+   "walk",
+   "Deep Temerity top",
+   "Loge Peak top",
+   0.6
+  ],
+  [
+   "walk",
+   "Deep Temerity top",
+   "Soddbuster 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Deep Temerity top",
+   "Kessler's / Broadway",
+   1.1
+  ],
+  [
+   "walk",
+   "Deep Temerity top",
+   "Kessler's",
+   2.1
+  ],
+  [
+   "walk",
+   "South Castle / Kessler's",
+   "Deep Temerity bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Meadows 2",
+   "Cloud Nine top",
+   2.7
+  ],
+  [
+   "walk",
+   "Lower Stein",
+   "Jerome",
+   2.2
+  ],
+  [
+   "walk",
+   "Wine Ridge",
+   "Loge Peak bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Wine Ridge",
+   "Exhibition top",
+   2.4
+  ],
+  [
+   "walk",
+   "Deception",
+   "Cloud Nine top",
+   3.2
+  ],
+  [
+   "walk",
+   "Riverside Dr. 3",
+   "Loge Peak bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Loge Peak bottom",
+   "Riverside Dr. / Prospector",
+   1.6
+  ],
+  [
+   "walk",
+   "Loge Peak bottom",
+   "Prospector Gulch / Wine Ridge",
+   1.3
+  ],
+  [
+   "walk",
+   "Loge Peak bottom",
+   "Prospector Gulch",
+   2.4
+  ],
+  [
+   "walk",
+   "Loge Peak bottom",
+   "Riverside Dr. 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Exhibition top",
+   "Riverside Dr. / Prospector",
+   1.0
+  ],
+  [
+   "walk",
+   "Exhibition top",
+   "Midway / Red Onion",
+   2.2
+  ],
+  [
+   "walk",
+   "Exhibition top",
+   "Prospector Gulch / Wine Ridge",
+   2.5
+  ],
+  [
+   "walk",
+   "Exhibition top",
+   "Riverside Dr. 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Exhibition top",
+   "Loge Peak bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Deep Temerity bottom",
+   "South Castle / Kessler's",
+   2.0
+  ],
+  [
+   "walk",
+   "Loge Peak bottom",
+   "Exhibition top",
+   2.6
+  ],
+  [
+   "walk",
+   "Face of Olly",
+   "Why / Lower Olympic",
+   3.0
+  ],
+  [
+   "walk",
+   "Face of Olly",
+   "Why / Olymic Bowl Exit",
+   5.2
+  ],
+  [
+   "walk",
+   "Face of Olly",
+   "Alps / Gunbarrel",
+   4.4
+  ],
+  [
+   "walk",
+   "Face of Olly",
+   "Lower Olympic",
+   4.8
+  ],
+  [
+   "walk",
+   "Face of Olly",
+   "Aeroble / Aces & Eights",
+   5.3
+  ],
+  [
+   "walk",
+   "Face of Olly",
+   "Kandahar",
+   4.1
+  ],
+  [
+   "walk",
+   "Face of Olly",
+   "Meadows 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Face of Olly 2",
+   "Why / Lower Olympic",
+   1.9
+  ],
+  [
+   "walk",
+   "Face of Olly 2",
+   "Why / Olymic Bowl Exit",
+   4.1
+  ],
+  [
+   "walk",
+   "Face of Olly 2",
+   "Alps / Gunbarrel",
+   3.3
+  ],
+  [
+   "walk",
+   "Face of Olly 2",
+   "Lower Olympic",
+   3.7
+  ],
+  [
+   "walk",
+   "Face of Olly 2",
+   "Aeroble / Aces & Eights",
+   4.2
+  ],
+  [
+   "walk",
+   "Face of Olly 2",
+   "Kandahar",
+   3.0
+  ],
+  [
+   "walk",
+   "Face of Olly 2",
+   "Meadows 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Meadows 2",
+   "Why / Lower Olympic",
+   3.6
+  ],
+  [
+   "walk",
+   "Meadows 2",
+   "Why / Olymic Bowl Exit",
+   5.8
+  ],
+  [
+   "walk",
+   "Meadows 2",
+   "Alps / Gunbarrel",
+   5.0
+  ],
+  [
+   "walk",
+   "Meadows 2",
+   "Lower Olympic",
+   5.4
+  ],
+  [
+   "walk",
+   "Meadows 2",
+   "Aeroble / Aces & Eights",
+   5.9
+  ],
+  [
+   "walk",
+   "Meadows 2",
+   "Kandahar",
+   4.7
+  ],
+  [
+   "walk",
+   "Deception",
+   "Why / Lower Olympic",
+   4.0
+  ],
+  [
+   "walk",
+   "Deception",
+   "Why / Olymic Bowl Exit",
+   6.2
+  ],
+  [
+   "walk",
+   "Deception",
+   "Alps / Gunbarrel",
+   5.4
+  ],
+  [
+   "walk",
+   "Deception",
+   "Lower Olympic",
+   5.8
+  ],
+  [
+   "walk",
+   "Deception",
+   "Aeroble / Aces & Eights",
+   6.3
+  ],
+  [
+   "walk",
+   "Deception",
+   "Kandahar",
+   5.1
+  ],
+  [
+   "walk",
+   "Deception",
+   "Meadows 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Thunder Bowl 2",
+   "Thunder Bowl",
+   6.2
+  ],
+  [
+   "walk",
+   "Thunder Bowl 2",
+   "Thunderbowl",
+   4.2
+  ],
+  [
+   "walk",
+   "Lucky Find",
+   "Soddbuster / Mousetrap",
+   4.6
+  ],
+  [
+   "walk",
+   "Lucky Find",
+   "Soddbuster 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Lucky Find",
+   "Kessler's / Broadway",
+   3.3
+  ],
+  [
+   "walk",
+   "Lucky Find",
+   "Kessler's",
+   4.3
+  ],
+  [
+   "walk",
+   "Kessler's / Broadway",
+   "Lucky Find",
+   3.3
+  ],
+  [
+   "walk",
+   "Kessler's / Broadway",
+   "Soddbuster / Mousetrap",
+   3.5
+  ],
+  [
+   "walk",
+   "Kessler's / Broadway",
+   "Loge Peak top",
+   1.7
+  ],
+  [
+   "walk",
+   "Kessler's / Broadway",
+   "Soddbuster 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Kessler's / Broadway",
+   "Kessler's",
+   3.2
+  ],
+  [
+   "walk",
+   "Riverside Dr. / Prospector",
+   "Prospector Gulch / Wine Ridge",
+   3.0
+  ],
+  [
+   "walk",
+   "Riverside Dr. / Prospector",
+   "Prospector Gulch",
+   4.0
+  ],
+  [
+   "walk",
+   "Riverside Dr. / Prospector",
+   "Riverside Dr. 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Red Onion / Meadows",
+   "Riverside Dr. / Prospector",
+   2.9
+  ],
+  [
+   "walk",
+   "Red Onion / Meadows",
+   "Prospector Gulch / Wine Ridge",
+   4.4
+  ],
+  [
+   "walk",
+   "Red Onion / Meadows",
+   "Prospector Gulch",
+   5.6
+  ],
+  [
+   "walk",
+   "Red Onion / Meadows",
+   "Riverside Dr. 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Prospector Gulch / Wine Ridge",
+   "Riverside Dr. / Prospector",
+   3.0
+  ],
+  [
+   "walk",
+   "Prospector Gulch / Wine Ridge",
+   "Prospector Gulch",
+   3.7
+  ],
+  [
+   "walk",
+   "Prospector Gulch / Wine Ridge",
+   "Riverside Dr. 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Prospector Gulch / Wine Ridge",
+   "Exhibition top",
+   4.0
+  ],
+  [
+   "walk",
+   "Wine Ridge",
+   "Riverside Dr. / Prospector",
+   3.4
+  ],
+  [
+   "walk",
+   "Wine Ridge",
+   "Prospector Gulch / Wine Ridge",
+   3.7
+  ],
+  [
+   "walk",
+   "Wine Ridge",
+   "Prospector Gulch",
+   4.7
+  ],
+  [
+   "walk",
+   "Wine Ridge",
+   "Riverside Dr. 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Riverside Dr. 3",
+   "Riverside Dr. / Prospector",
+   3.8
+  ],
+  [
+   "walk",
+   "Riverside Dr. 3",
+   "Prospector Gulch / Wine Ridge",
+   3.5
+  ],
+  [
+   "walk",
+   "Riverside Dr. 3",
+   "Prospector Gulch",
+   4.6
+  ],
+  [
+   "walk",
+   "Riverside Dr. 3",
+   "Exhibition top",
+   4.8
+  ],
+  [
+   "walk",
+   "Exhibition top",
+   "Prospector Gulch",
+   3.9
+  ],
+  [
+   "walk",
+   "Riverside Dr. / Prospector",
+   "Midway / Red Onion",
+   3.2
+  ],
+  [
+   "walk",
+   "Midway / Red Onion",
+   "Riverside Dr. / Prospector",
+   3.2
+  ],
+  [
+   "walk",
+   "Midway / Red Onion",
+   "Prospector Gulch / Wine Ridge",
+   4.7
+  ],
+  [
+   "walk",
+   "Midway / Red Onion",
+   "Riverside Dr. 3",
+   4.5
+  ],
+  [
+   "walk",
+   "Midway / Red Onion",
+   "Loge Peak bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Midway / Red Onion",
+   "Prospector Gulch",
+   6.1
+  ],
+  [
+   "walk",
+   "Red Onion / Meadows",
+   "Midway / Red Onion",
+   4.1
+  ],
+  [
+   "walk",
+   "Red Onion 2",
+   "Riverside Dr. / Prospector",
+   3.0
+  ],
+  [
+   "walk",
+   "Red Onion 2",
+   "Midway / Red Onion",
+   4.3
+  ],
+  [
+   "walk",
+   "Red Onion 2",
+   "Prospector Gulch / Wine Ridge",
+   4.5
+  ],
+  [
+   "walk",
+   "Red Onion 2",
+   "Riverside Dr. 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Red Onion 2",
+   "Loge Peak bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Red Onion 2",
+   "Prospector Gulch",
+   5.9
+  ],
+  [
+   "walk",
+   "Wine Ridge",
+   "Midway / Red Onion",
+   4.6
+  ],
+  [
+   "walk",
+   "Loge Peak bottom",
+   "Midway / Red Onion",
+   4.9
+  ],
+  [
+   "walk",
+   "Prospector Gulch / Wine Ridge",
+   "Midway / Red Onion",
+   6.2
+  ],
+  [
+   "walk",
+   "Lady Luck / South Castle",
+   "South Castle / Kessler's",
+   4.6
+  ]
+ ],
+ "base": "Exhibition bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "6",
+  "downhill_trails": "130",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

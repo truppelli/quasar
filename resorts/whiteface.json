@@ -1,0 +1,4194 @@
+{
+ "name": "Whiteface Mountain Ski Center",
+ "source": "OpenSkiMap ski area d8b3d7d48706c9ce19bd6ba147c156ae89574ad8",
+ "origin_lonlat": [
+  -73.88013241854777,
+  44.35968435069315
+ ],
+ "nodes": {
+  "Off Broadway / U. Valley": [
+   21,
+   137,
+   748.7
+  ],
+  "Off Broadway / Broadway": [
+   156,
+   123,
+   707.2
+  ],
+  "Upper Thruway / Mountain Run": [
+   -303,
+   -261,
+   924.3
+  ],
+  "Upper Thruway / Lower Thruway": [
+   323,
+   -282,
+   660.4
+  ],
+  "Freeway bottom": [
+   883,
+   -510,
+   475.0
+  ],
+  "Bear / Wolf": [
+   1294,
+   -773,
+   390.3
+  ],
+  "Falcon Flyer top": [
+   1128,
+   -72,
+   493.8
+  ],
+  "Flying squirrel / Otter": [
+   1565,
+   -207,
+   425.4
+  ],
+  "Glen / Weber's Way": [
+   -882,
+   419,
+   996.1
+  ],
+  "Glen / Weber's Way 2": [
+   -763,
+   261,
+   952.2
+  ],
+  "On Ramp / L. Excelsior": [
+   -250,
+   111,
+   821.4
+  ],
+  "On Ramp / 1,900 Road": [
+   -62,
+   -6,
+   798.0
+  ],
+  "Upper Empire / Approach": [
+   -546,
+   -210,
+   1007.8
+  ],
+  "Upper Empire / Lower Empire": [
+   -323,
+   142,
+   832.5
+  ],
+  "Summit Quad top": [
+   -1545,
+   511,
+   1333.9
+  ],
+  "Riva Ridge / Paron's Run": [
+   -1512,
+   274,
+   1274.3
+  ],
+  "Upper Northway / Approach": [
+   -910,
+   -289,
+   1079.5
+  ],
+  "Upper Northway / Essex": [
+   -847,
+   -81,
+   970.9
+  ],
+  "Upper Empire": [
+   -400,
+   125,
+   848.3
+  ],
+  "High Country Glades / Lower Mackenzie": [
+   216,
+   -86,
+   678.6
+  ],
+  "10th Mt. Division Glades / Lower Northway": [
+   -801,
+   -40,
+   948.4
+  ],
+  "10th Mt. Division Glades / Empire Cut": [
+   -494,
+   113,
+   858.9
+  ],
+  "Face Lift top": [
+   -209,
+   264,
+   777.5
+  ],
+  "Lookout Mountain Triple bottom": [
+   -48,
+   294,
+   736.6
+  ],
+  "Lower Mackenzie / 1,900 Road": [
+   -21,
+   -23,
+   783.5
+  ],
+  "Lower Mackenzie / Mountain Run": [
+   272,
+   -113,
+   660.6
+  ],
+  "Lookout Below / The Wilmington Trail": [
+   145,
+   700,
+   880.8
+  ],
+  "Easy Way": [
+   -102,
+   332,
+   744.0
+  ],
+  "Valvehouse Road": [
+   959,
+   -398,
+   477.7
+  ],
+  "Valvehouse Road / Danny's Bridge": [
+   999,
+   -328,
+   478.6
+  ],
+  "Burton's / Lower Thruway": [
+   438,
+   -330,
+   622.8
+  ],
+  "Burton's / River Run": [
+   400,
+   -110,
+   628.5
+  ],
+  "Wolf Run / Wolf": [
+   949,
+   -654,
+   451.0
+  ],
+  "Wolf Run / Wolf 2": [
+   1055,
+   -755,
+   425.7
+  ],
+  "Lower Parkway / Upper Parkway": [
+   248,
+   -392,
+   684.1
+  ],
+  "Warhorse top": [
+   915,
+   -473,
+   477.0
+  ],
+  "The Notch top": [
+   369,
+   -12,
+   645.1
+  ],
+  "Boreen Loop / Boreen": [
+   507,
+   -100,
+   601.2
+  ],
+  "Upper Wilderness / Approach": [
+   -395,
+   -196,
+   970.0
+  ],
+  "Upper Wilderness / 1,900 Road": [
+   -86,
+   -130,
+   810.3
+  ],
+  "Moose / Bobcat": [
+   1157,
+   -140,
+   480.2
+  ],
+  "Coyote Cruiser top": [
+   1513,
+   -247,
+   432.5
+  ],
+  "Upper Boreen / Easy Street": [
+   110,
+   242,
+   709.0
+  ],
+  "Boreen Loop": [
+   364,
+   99,
+   644.5
+  ],
+  "Lower Switchback / Upper Skyward": [
+   -1154,
+   347,
+   1125.8
+  ],
+  "Lower Switchback / Niagara": [
+   -1061,
+   283,
+   1076.7
+  ],
+  "Lower Parkway": [
+   778,
+   -428,
+   509.4
+  ],
+  "Parkway Exit / Wolf": [
+   862,
+   -583,
+   466.3
+  ],
+  "Approach / Excelsior": [
+   -999,
+   -326,
+   1104.0
+  ],
+  "Approach / Mountain Run": [
+   -369,
+   -256,
+   948.0
+  ],
+  "Falcon Flyer bottom": [
+   1636,
+   -222,
+   419.9
+  ],
+  "Lower Empire / Victoria": [
+   -214,
+   214,
+   783.9
+  ],
+  "Upper Thruway": [
+   -251,
+   -235,
+   899.7
+  ],
+  "2,200 Road / Upper Mackenzie": [
+   -168,
+   -25,
+   843.5
+  ],
+  "Paron's Run / Excelsior": [
+   -1166,
+   -151,
+   1072.2
+  ],
+  "River Run / Danny's Bridge": [
+   658,
+   -270,
+   560.4
+  ],
+  "Freeway top": [
+   -287,
+   -306,
+   915.1
+  ],
+  "Upper Thruway 2": [
+   -107,
+   -205,
+   822.9
+  ],
+  "Bobcat / Boreen": [
+   873,
+   -183,
+   524.0
+  ],
+  "Danny's Bridge / Brookside": [
+   1061,
+   -340,
+   468.7
+  ],
+  "Bobcat": [
+   1097,
+   -131,
+   488.4
+  ],
+  "Moose": [
+   1214,
+   -270,
+   457.5
+  ],
+  "Little Whiteface top": [
+   -951,
+   -356,
+   1112.9
+  ],
+  "Glen": [
+   -812,
+   251,
+   960.9
+  ],
+  "Flying squirrel": [
+   1207,
+   -62,
+   483.4
+  ],
+  "Flying squirrel 2": [
+   1545,
+   -154,
+   431.0
+  ],
+  "Weber's Way / Victoria": [
+   -703,
+   266,
+   929.3
+  ],
+  "Riva Ridge": [
+   -1535,
+   461,
+   1326.5
+  ],
+  "Niagara": [
+   -1023,
+   247,
+   1053.5
+  ],
+  "Cloudsplitter Gondola bottom": [
+   1479,
+   -727,
+   372.6
+  ],
+  "Round-A-Bout / Mixing Bowl": [
+   1298,
+   -884,
+   396.1
+  ],
+  "Bobcat 2": [
+   961,
+   -185,
+   508.3
+  ],
+  "Brookside / Porcupine Pass": [
+   1359,
+   -543,
+   397.4
+  ],
+  "10th Mt. Division Glades": [
+   -540,
+   103,
+   868.7
+  ],
+  "Upper Skyward": [
+   -1260,
+   401,
+   1178.5
+  ],
+  "Lookout Mountain Triple top": [
+   -905,
+   1222,
+   1221.7
+  ],
+  "Bobcat 3": [
+   920,
+   -172,
+   516.3
+  ],
+  "Moose 2": [
+   1391,
+   -350,
+   434.8
+  ],
+  "L. Excelsior / U. Valley": [
+   -136,
+   220,
+   770.4
+  ],
+  "Victoria": [
+   -527,
+   256,
+   850.7
+  ],
+  "Victoria Shoot / Lower Skyward": [
+   -401,
+   287,
+   809.0
+  ],
+  "Excelsior": [
+   -962,
+   -4,
+   983.2
+  ],
+  "Little Whiteface bottom": [
+   339,
+   -106,
+   641.7
+  ],
+  "Bobcat 4": [
+   1319,
+   -228,
+   453.7
+  ],
+  "Upper Thruway 3": [
+   268,
+   -258,
+   674.6
+  ],
+  "Moose 3": [
+   1306,
+   -301,
+   448.2
+  ],
+  "Tom Cat / L. Valley": [
+   640,
+   -320,
+   568.0
+  ],
+  "Tom Cat / Draper's Drop": [
+   697,
+   -390,
+   554.3
+  ],
+  "Mountain Run": [
+   225,
+   -137,
+   671.8
+  ],
+  "The Wilmington Trail": [
+   -780,
+   1308,
+   1197.6
+  ],
+  "Excelsior 2": [
+   -393,
+   173,
+   837.7
+  ],
+  "Lower Empire": [
+   -270,
+   214,
+   802.6
+  ],
+  "Upper Thruway 4": [
+   198,
+   -256,
+   694.6
+  ],
+  "Moose 4": [
+   1267,
+   -284,
+   451.8
+  ],
+  "Moose Cut / Boreen": [
+   1260,
+   -376,
+   443.2
+  ],
+  "Bobcat 5": [
+   1400,
+   -237,
+   444.2
+  ],
+  "Fox": [
+   990,
+   -476,
+   471.0
+  ],
+  "Riva Ridge 2": [
+   -1541,
+   394,
+   1315.7
+  ],
+  "Paron's Run": [
+   -1310,
+   -38,
+   1134.7
+  ],
+  "River Run": [
+   597,
+   -277,
+   569.9
+  ],
+  "L. Valley": [
+   768,
+   -347,
+   533.9
+  ],
+  "Face Lift bottom": [
+   1409,
+   -674,
+   380.6
+  ],
+  "Upper Skyward 2": [
+   -947,
+   392,
+   1030.3
+  ],
+  "Cloudspin": [
+   -1399,
+   267,
+   1241.7
+  ],
+  "Cloudspin 2": [
+   -1310,
+   290,
+   1191.0
+  ],
+  "Boreen": [
+   553,
+   -144,
+   588.5
+  ],
+  "Summit Quad bottom": [
+   -252,
+   286,
+   779.1
+  ],
+  "Cub Carpet bottom": [
+   1614,
+   -320,
+   420.5
+  ],
+  "Cub Carpet top": [
+   1559,
+   -298,
+   426.3
+  ],
+  "Warhorse bottom": [
+   1388,
+   -805,
+   382.9
+  ],
+  "Coyote Cruiser bottom": [
+   1591,
+   -269,
+   425.7
+  ]
+ },
+ "lifts": [
+  [
+   "Summit Quad",
+   "Summit Quad bottom",
+   "Summit Quad top",
+   13.3
+  ],
+  [
+   "Cub Carpet",
+   "Cub Carpet bottom",
+   "Cub Carpet top",
+   7.0
+  ],
+  [
+   "Warhorse",
+   "Warhorse bottom",
+   "Warhorse top",
+   7.1
+  ],
+  [
+   "Coyote Cruiser",
+   "Coyote Cruiser bottom",
+   "Coyote Cruiser top",
+   4.9
+  ],
+  [
+   "Little Whiteface",
+   "Little Whiteface bottom",
+   "Little Whiteface top",
+   13.0
+  ],
+  [
+   "Freeway",
+   "Freeway bottom",
+   "Freeway top",
+   12.3
+  ],
+  [
+   "Falcon Flyer",
+   "Falcon Flyer bottom",
+   "Falcon Flyer top",
+   6.9
+  ],
+  [
+   "Face Lift",
+   "Face Lift bottom",
+   "Face Lift top",
+   16.7
+  ],
+  [
+   "Cloudsplitter Gondola",
+   "Cloudsplitter Gondola bottom",
+   "Little Whiteface top",
+   18.0
+  ],
+  [
+   "Cloudsplitter Gondola",
+   "Little Whiteface top",
+   "Cloudsplitter Gondola bottom",
+   18.0
+  ],
+  [
+   "Lookout Mountain Triple",
+   "Lookout Mountain Triple bottom",
+   "Lookout Mountain Triple top",
+   12.7
+  ],
+  [
+   "The Notch",
+   "Cub Carpet bottom",
+   "The Notch top",
+   12.4
+  ]
+ ],
+ "runs": [
+  [
+   "Off Broadway",
+   "Off Broadway / U. Valley",
+   "Off Broadway / Broadway",
+   0.5
+  ],
+  [
+   "Upper Thruway",
+   "Upper Thruway / Mountain Run",
+   "Upper Thruway",
+   0.5
+  ],
+  [
+   "Upper Thruway",
+   "Upper Thruway",
+   "Upper Thruway 2",
+   0.6
+  ],
+  [
+   "Upper Thruway",
+   "Upper Thruway 2",
+   "Upper Thruway 4",
+   1.3
+  ],
+  [
+   "Upper Thruway",
+   "Upper Thruway 4",
+   "Upper Thruway 3",
+   0.5
+  ],
+  [
+   "Upper Thruway",
+   "Upper Thruway 3",
+   "Upper Thruway / Lower Thruway",
+   0.5
+  ],
+  [
+   "Bear",
+   "Freeway bottom",
+   "Bear / Wolf",
+   2.0
+  ],
+  [
+   "Flying squirrel",
+   "Falcon Flyer top",
+   "Flying squirrel",
+   0.5
+  ],
+  [
+   "Flying squirrel",
+   "Flying squirrel",
+   "Flying squirrel 2",
+   1.5
+  ],
+  [
+   "Flying squirrel",
+   "Flying squirrel 2",
+   "Flying squirrel / Otter",
+   0.5
+  ],
+  [
+   "Glen",
+   "Glen / Weber's Way",
+   "Glen",
+   0.7
+  ],
+  [
+   "Glen",
+   "Glen",
+   "Glen / Weber's Way 2",
+   0.5
+  ],
+  [
+   "On Ramp",
+   "On Ramp / L. Excelsior",
+   "On Ramp / 1,900 Road",
+   0.8
+  ],
+  [
+   "Upper Empire",
+   "Upper Empire / Approach",
+   "Upper Empire",
+   1.6
+  ],
+  [
+   "Upper Empire",
+   "Upper Empire",
+   "Upper Empire / Lower Empire",
+   0.5
+  ],
+  [
+   "Riva Ridge",
+   "Summit Quad top",
+   "Riva Ridge",
+   0.5
+  ],
+  [
+   "Riva Ridge",
+   "Riva Ridge",
+   "Riva Ridge 2",
+   0.5
+  ],
+  [
+   "Riva Ridge",
+   "Riva Ridge 2",
+   "Riva Ridge / Paron's Run",
+   0.5
+  ],
+  [
+   "Upper Northway",
+   "Upper Northway / Approach",
+   "Upper Northway / Essex",
+   0.8
+  ],
+  [
+   "High Country Glades",
+   "Upper Empire",
+   "High Country Glades / Lower Mackenzie",
+   2.8
+  ],
+  [
+   "10th Mt. Division Glades",
+   "10th Mt. Division Glades / Lower Northway",
+   "10th Mt. Division Glades",
+   1.3
+  ],
+  [
+   "10th Mt. Division Glades",
+   "10th Mt. Division Glades",
+   "10th Mt. Division Glades / Empire Cut",
+   0.5
+  ],
+  [
+   "Easy Way",
+   "Face Lift top",
+   "Easy Way",
+   0.6
+  ],
+  [
+   "Easy Way",
+   "Easy Way",
+   "Lookout Mountain Triple bottom",
+   0.5
+  ],
+  [
+   "Lower Mackenzie",
+   "Lower Mackenzie / 1,900 Road",
+   "High Country Glades / Lower Mackenzie",
+   1.0
+  ],
+  [
+   "Lower Mackenzie",
+   "High Country Glades / Lower Mackenzie",
+   "Lower Mackenzie / Mountain Run",
+   0.5
+  ],
+  [
+   "Lookout Below",
+   "Lookout Below / The Wilmington Trail",
+   "Easy Way",
+   1.9
+  ],
+  [
+   "Valvehouse Road",
+   "Valvehouse Road",
+   "Valvehouse Road / Danny's Bridge",
+   0.5
+  ],
+  [
+   "Burton's",
+   "Burton's / Lower Thruway",
+   "Burton's / River Run",
+   1.0
+  ],
+  [
+   "Wolf Run",
+   "Wolf Run / Wolf",
+   "Wolf Run / Wolf 2",
+   0.6
+  ],
+  [
+   "Lower Parkway",
+   "Lower Parkway / Upper Parkway",
+   "Lower Parkway",
+   2.4
+  ],
+  [
+   "Lower Parkway",
+   "Lower Parkway",
+   "Warhorse top",
+   0.7
+  ],
+  [
+   "Boreen Loop",
+   "The Notch top",
+   "Boreen Loop",
+   0.5
+  ],
+  [
+   "Boreen Loop",
+   "Boreen Loop",
+   "Boreen Loop / Boreen",
+   1.1
+  ],
+  [
+   "Upper Wilderness",
+   "Upper Wilderness / Approach",
+   "Upper Wilderness / 1,900 Road",
+   1.3
+  ],
+  [
+   "Moose",
+   "Moose / Bobcat",
+   "Moose",
+   0.6
+  ],
+  [
+   "Moose",
+   "Moose",
+   "Moose 4",
+   0.5
+  ],
+  [
+   "Moose",
+   "Moose 4",
+   "Moose 3",
+   0.5
+  ],
+  [
+   "Moose",
+   "Moose 3",
+   "Moose 2",
+   0.5
+  ],
+  [
+   "Moose",
+   "Moose 2",
+   "Coyote Cruiser top",
+   0.8
+  ],
+  [
+   "Upper Boreen",
+   "Upper Boreen / Easy Street",
+   "Boreen Loop",
+   1.1
+  ],
+  [
+   "Lower Switchback",
+   "Lower Switchback / Upper Skyward",
+   "Lower Switchback / Niagara",
+   0.9
+  ],
+  [
+   "Parkway Exit",
+   "Lower Parkway",
+   "Parkway Exit / Wolf",
+   0.6
+  ],
+  [
+   "Approach",
+   "Approach / Excelsior",
+   "Upper Northway / Approach",
+   0.5
+  ],
+  [
+   "Approach",
+   "Upper Northway / Approach",
+   "Upper Empire / Approach",
+   1.6
+  ],
+  [
+   "Approach",
+   "Upper Empire / Approach",
+   "Upper Wilderness / Approach",
+   0.7
+  ],
+  [
+   "Approach",
+   "Upper Wilderness / Approach",
+   "Approach / Mountain Run",
+   0.5
+  ],
+  [
+   "Wolf",
+   "Freeway bottom",
+   "Parkway Exit / Wolf",
+   0.5
+  ],
+  [
+   "Wolf",
+   "Parkway Exit / Wolf",
+   "Wolf Run / Wolf",
+   0.5
+  ],
+  [
+   "Wolf",
+   "Wolf Run / Wolf",
+   "Wolf Run / Wolf 2",
+   0.7
+  ],
+  [
+   "Wolf",
+   "Wolf Run / Wolf 2",
+   "Bear / Wolf",
+   1.0
+  ],
+  [
+   "Otter",
+   "Falcon Flyer top",
+   "Flying squirrel",
+   0.5
+  ],
+  [
+   "Otter",
+   "Flying squirrel",
+   "Flying squirrel / Otter",
+   1.6
+  ],
+  [
+   "Otter",
+   "Flying squirrel / Otter",
+   "Falcon Flyer bottom",
+   0.5
+  ],
+  [
+   "Lower Empire",
+   "Upper Empire / Lower Empire",
+   "Lower Empire",
+   0.5
+  ],
+  [
+   "Lower Empire",
+   "Lower Empire",
+   "Lower Empire / Victoria",
+   0.5
+  ],
+  [
+   "2,200 Road",
+   "Upper Thruway",
+   "2,200 Road / Upper Mackenzie",
+   0.8
+  ],
+  [
+   "Paron's Run",
+   "Riva Ridge / Paron's Run",
+   "Paron's Run",
+   1.6
+  ],
+  [
+   "Paron's Run",
+   "Paron's Run",
+   "Paron's Run / Excelsior",
+   1.1
+  ],
+  [
+   "River Run",
+   "Burton's / River Run",
+   "River Run",
+   1.0
+  ],
+  [
+   "River Run",
+   "River Run",
+   "River Run / Danny's Bridge",
+   0.5
+  ],
+  [
+   "Upper Parkway",
+   "Freeway top",
+   "Lower Parkway / Upper Parkway",
+   2.5
+  ],
+  [
+   "1,900 Road",
+   "Upper Thruway 2",
+   "Upper Wilderness / 1,900 Road",
+   0.5
+  ],
+  [
+   "1,900 Road",
+   "Upper Wilderness / 1,900 Road",
+   "Lower Mackenzie / 1,900 Road",
+   0.6
+  ],
+  [
+   "1,900 Road",
+   "Lower Mackenzie / 1,900 Road",
+   "On Ramp / 1,900 Road",
+   0.5
+  ],
+  [
+   "1,900 Road",
+   "On Ramp / 1,900 Road",
+   "Lower Mackenzie / 1,900 Road",
+   0.5
+  ],
+  [
+   "Bobcat",
+   "Bobcat / Boreen",
+   "Bobcat 3",
+   0.5
+  ],
+  [
+   "Bobcat",
+   "Bobcat 3",
+   "Bobcat 2",
+   0.5
+  ],
+  [
+   "Bobcat",
+   "Bobcat 2",
+   "Bobcat",
+   0.6
+  ],
+  [
+   "Bobcat",
+   "Bobcat",
+   "Moose / Bobcat",
+   0.5
+  ],
+  [
+   "Bobcat",
+   "Moose / Bobcat",
+   "Bobcat 4",
+   0.8
+  ],
+  [
+   "Bobcat",
+   "Bobcat 4",
+   "Bobcat 5",
+   0.5
+  ],
+  [
+   "Bobcat",
+   "Bobcat 5",
+   "Coyote Cruiser top",
+   0.5
+  ],
+  [
+   "Bobcat",
+   "Coyote Cruiser top",
+   "Flying squirrel / Otter",
+   0.5
+  ],
+  [
+   "Danny's Bridge",
+   "River Run / Danny's Bridge",
+   "Valvehouse Road / Danny's Bridge",
+   1.6
+  ],
+  [
+   "Danny's Bridge",
+   "Valvehouse Road / Danny's Bridge",
+   "Danny's Bridge / Brookside",
+   0.5
+  ],
+  [
+   "Bobcat Glades",
+   "Bobcat",
+   "Moose",
+   0.6
+  ],
+  [
+   "Upper Mackenzie",
+   "Upper Wilderness / Approach",
+   "2,200 Road / Upper Mackenzie",
+   1.4
+  ],
+  [
+   "Upper Mackenzie",
+   "2,200 Road / Upper Mackenzie",
+   "On Ramp / 1,900 Road",
+   0.5
+  ],
+  [
+   "Upper Mackenzie",
+   "On Ramp / 1,900 Road",
+   "Lower Mackenzie / 1,900 Road",
+   0.5
+  ],
+  [
+   "Excelsior",
+   "Little Whiteface top",
+   "Approach / Excelsior",
+   0.5
+  ],
+  [
+   "Excelsior",
+   "Approach / Excelsior",
+   "Paron's Run / Excelsior",
+   1.1
+  ],
+  [
+   "Excelsior",
+   "Paron's Run / Excelsior",
+   "Excelsior",
+   1.5
+  ],
+  [
+   "Excelsior",
+   "Excelsior",
+   "Excelsior 2",
+   2.9
+  ],
+  [
+   "Excelsior",
+   "Excelsior 2",
+   "Upper Empire / Lower Empire",
+   0.5
+  ],
+  [
+   "Niagara",
+   "Lower Switchback / Niagara",
+   "Niagara",
+   0.5
+  ],
+  [
+   "Niagara",
+   "Niagara",
+   "Glen",
+   0.9
+  ],
+  [
+   "Hoot Owl Glades",
+   "Flying squirrel",
+   "Flying squirrel 2",
+   1.4
+  ],
+  [
+   "Weber's Way",
+   "Glen / Weber's Way",
+   "Glen / Weber's Way 2",
+   0.7
+  ],
+  [
+   "Weber's Way",
+   "Glen / Weber's Way 2",
+   "Weber's Way / Victoria",
+   0.5
+  ],
+  [
+   "Upper Skyward",
+   "Riva Ridge",
+   "Upper Skyward",
+   1.2
+  ],
+  [
+   "Upper Skyward",
+   "Upper Skyward",
+   "Lower Switchback / Upper Skyward",
+   0.5
+  ],
+  [
+   "Upper Skyward",
+   "Lower Switchback / Upper Skyward",
+   "Lower Switchback / Niagara",
+   0.5
+  ],
+  [
+   "Upper Skyward",
+   "Lower Switchback / Niagara",
+   "Upper Skyward 2",
+   0.6
+  ],
+  [
+   "Upper Skyward",
+   "Upper Skyward 2",
+   "Glen / Weber's Way",
+   0.5
+  ],
+  [
+   "Cloudspin",
+   "Riva Ridge / Paron's Run",
+   "Cloudspin",
+   0.5
+  ],
+  [
+   "Cloudspin",
+   "Cloudspin",
+   "Cloudspin 2",
+   0.5
+  ],
+  [
+   "Cloudspin",
+   "Cloudspin 2",
+   "Niagara",
+   1.5
+  ],
+  [
+   "Fox",
+   "Warhorse top",
+   "Fox",
+   0.5
+  ],
+  [
+   "Fox",
+   "Fox",
+   "Cloudsplitter Gondola bottom",
+   2.3
+  ],
+  [
+   "Round-A-Bout",
+   "Round-A-Bout / Mixing Bowl",
+   "Bear / Wolf",
+   0.5
+  ],
+  [
+   "Round-A-Bout",
+   "Bear / Wolf",
+   "Cloudsplitter Gondola bottom",
+   0.8
+  ],
+  [
+   "Brookside",
+   "Bobcat 2",
+   "Danny's Bridge / Brookside",
+   0.6
+  ],
+  [
+   "Brookside",
+   "Danny's Bridge / Brookside",
+   "Brookside / Porcupine Pass",
+   1.6
+  ],
+  [
+   "Empire Cut",
+   "10th Mt. Division Glades",
+   "10th Mt. Division Glades / Empire Cut",
+   0.5
+  ],
+  [
+   "Empire Cut",
+   "10th Mt. Division Glades / Empire Cut",
+   "Upper Empire",
+   0.5
+  ],
+  [
+   "Empire Cut",
+   "Upper Empire",
+   "Upper Empire / Lower Empire",
+   0.5
+  ],
+  [
+   "Upper Switchback",
+   "Upper Skyward",
+   "Lower Switchback / Upper Skyward",
+   0.8
+  ],
+  [
+   "The Wilmington Trail",
+   "Lookout Mountain Triple top",
+   "The Wilmington Trail",
+   0.6
+  ],
+  [
+   "The Wilmington Trail",
+   "The Wilmington Trail",
+   "Lookout Below / The Wilmington Trail",
+   6.3
+  ],
+  [
+   "The Wilmington Trail",
+   "Lookout Below / The Wilmington Trail",
+   "Bobcat 3",
+   5.6
+  ],
+  [
+   "Deer",
+   "Warhorse top",
+   "Bear / Wolf",
+   1.8
+  ],
+  [
+   "Porcupine Pass",
+   "Moose 2",
+   "Brookside / Porcupine Pass",
+   0.8
+  ],
+  [
+   "Victoria",
+   "Glen",
+   "Glen / Weber's Way 2",
+   0.5
+  ],
+  [
+   "Victoria",
+   "Glen / Weber's Way 2",
+   "Weber's Way / Victoria",
+   0.5
+  ],
+  [
+   "Victoria",
+   "Weber's Way / Victoria",
+   "Victoria",
+   0.7
+  ],
+  [
+   "Victoria",
+   "Victoria",
+   "Lower Empire",
+   1.1
+  ],
+  [
+   "Victoria",
+   "Lower Empire",
+   "Lower Empire / Victoria",
+   0.5
+  ],
+  [
+   "L. Excelsior",
+   "Upper Empire / Lower Empire",
+   "On Ramp / L. Excelsior",
+   0.5
+  ],
+  [
+   "L. Excelsior",
+   "On Ramp / L. Excelsior",
+   "L. Excelsior / U. Valley",
+   0.9
+  ],
+  [
+   "Victoria Shoot",
+   "Victoria",
+   "Victoria Shoot / Lower Skyward",
+   0.5
+  ],
+  [
+   "Lower Skyward",
+   "Glen / Weber's Way",
+   "Victoria Shoot / Lower Skyward",
+   2.1
+  ],
+  [
+   "Lower Skyward",
+   "Victoria Shoot / Lower Skyward",
+   "Summit Quad bottom",
+   0.7
+  ],
+  [
+   "Lower Skyward",
+   "Summit Quad bottom",
+   "Face Lift top",
+   0.5
+  ],
+  [
+   "John's Bypass",
+   "Paron's Run / Excelsior",
+   "Excelsior",
+   1.3
+  ],
+  [
+   "Mountain Run",
+   "Approach / Mountain Run",
+   "Upper Thruway / Mountain Run",
+   0.5
+  ],
+  [
+   "Mountain Run",
+   "Upper Thruway / Mountain Run",
+   "Upper Thruway",
+   0.5
+  ],
+  [
+   "Mountain Run",
+   "Upper Thruway",
+   "Upper Thruway 2",
+   0.6
+  ],
+  [
+   "Mountain Run",
+   "Upper Thruway 2",
+   "Mountain Run",
+   1.6
+  ],
+  [
+   "Mountain Run",
+   "Mountain Run",
+   "Lower Mackenzie / Mountain Run",
+   0.5
+  ],
+  [
+   "Mountain Run",
+   "Lower Mackenzie / Mountain Run",
+   "Little Whiteface bottom",
+   0.5
+  ],
+  [
+   "U. Valley",
+   "Lower Empire / Victoria",
+   "L. Excelsior / U. Valley",
+   0.5
+  ],
+  [
+   "U. Valley",
+   "L. Excelsior / U. Valley",
+   "Off Broadway / U. Valley",
+   0.7
+  ],
+  [
+   "U. Valley",
+   "Off Broadway / U. Valley",
+   "Little Whiteface bottom",
+   1.8
+  ],
+  [
+   "Runner Up",
+   "Danny's Bridge / Brookside",
+   "Moose",
+   0.6
+  ],
+  [
+   "Runner Up",
+   "Moose",
+   "Moose 4",
+   0.5
+  ],
+  [
+   "Runner Up",
+   "Moose 4",
+   "Bobcat 4",
+   0.5
+  ],
+  [
+   "Calamity Lane",
+   "Upper Thruway 3",
+   "Little Whiteface bottom",
+   0.7
+  ],
+  [
+   "Coyote Cut",
+   "Moose 3",
+   "Bobcat 5",
+   0.5
+  ],
+  [
+   "Coyote Cut",
+   "Bobcat 5",
+   "Coyote Cruiser top",
+   0.5
+  ],
+  [
+   "Tom Cat",
+   "Tom Cat / L. Valley",
+   "Tom Cat / Draper's Drop",
+   0.5
+  ],
+  [
+   "Lower Wilderness",
+   "Upper Wilderness / 1,900 Road",
+   "Mountain Run",
+   1.3
+  ],
+  [
+   "Lookout Loop",
+   "Lookout Mountain Triple top",
+   "The Wilmington Trail",
+   1.2
+  ],
+  [
+   "Summit Express",
+   "Excelsior 2",
+   "Lower Empire",
+   0.5
+  ],
+  [
+   "Draper's Drop",
+   "Upper Thruway 4",
+   "Tom Cat / Draper's Drop",
+   2.2
+  ],
+  [
+   "Draper's Drop",
+   "Tom Cat / Draper's Drop",
+   "Lower Parkway",
+   0.5
+  ],
+  [
+   "Moose Cut",
+   "Moose 4",
+   "Moose Cut / Boreen",
+   0.5
+  ],
+  [
+   "Bobcat Shoot",
+   "Moose / Bobcat",
+   "Bobcat 5",
+   0.9
+  ],
+  [
+   "Broadway",
+   "L. Excelsior / U. Valley",
+   "Off Broadway / Broadway",
+   1.2
+  ],
+  [
+   "Broadway",
+   "Off Broadway / Broadway",
+   "The Notch top",
+   1.1
+  ],
+  [
+   "L. Valley",
+   "Burton's / River Run",
+   "River Run",
+   1.0
+  ],
+  [
+   "L. Valley",
+   "River Run",
+   "Tom Cat / L. Valley",
+   0.5
+  ],
+  [
+   "L. Valley",
+   "Tom Cat / L. Valley",
+   "L. Valley",
+   0.5
+  ],
+  [
+   "L. Valley",
+   "L. Valley",
+   "Fox",
+   1.1
+  ],
+  [
+   "Loon",
+   "Falcon Flyer top",
+   "Moose / Bobcat",
+   0.5
+  ],
+  [
+   "The Follies",
+   "Riva Ridge 2",
+   "Paron's Run",
+   3.4
+  ],
+  [
+   "Lower Gap",
+   "River Run",
+   "River Run / Danny's Bridge",
+   0.5
+  ],
+  [
+   "Lower Gap",
+   "River Run / Danny's Bridge",
+   "L. Valley",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "L. Excelsior / U. Valley",
+   "Lookout Mountain Triple bottom",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Lookout Mountain Triple bottom",
+   "Upper Boreen / Easy Street",
+   0.7
+  ],
+  [
+   "Easy Street",
+   "Upper Boreen / Easy Street",
+   "The Notch top",
+   1.5
+  ],
+  [
+   "Essex",
+   "Approach / Excelsior",
+   "Upper Northway / Essex",
+   1.5
+  ],
+  [
+   "Connector",
+   "Excelsior",
+   "Glen",
+   1.1
+  ],
+  [
+   "Lower Northway",
+   "Upper Northway / Essex",
+   "10th Mt. Division Glades / Lower Northway",
+   0.5
+  ],
+  [
+   "Lower Northway",
+   "10th Mt. Division Glades / Lower Northway",
+   "10th Mt. Division Glades",
+   1.2
+  ],
+  [
+   "Lower Northway",
+   "10th Mt. Division Glades",
+   "10th Mt. Division Glades / Empire Cut",
+   0.5
+  ],
+  [
+   "Lower Northway",
+   "10th Mt. Division Glades / Empire Cut",
+   "Excelsior 2",
+   0.5
+  ],
+  [
+   "Boreen",
+   "The Notch top",
+   "Boreen Loop / Boreen",
+   0.6
+  ],
+  [
+   "Boreen",
+   "Boreen Loop / Boreen",
+   "Boreen",
+   0.5
+  ],
+  [
+   "Boreen",
+   "Boreen",
+   "Bobcat / Boreen",
+   1.4
+  ],
+  [
+   "Boreen",
+   "Bobcat / Boreen",
+   "Bobcat 3",
+   0.5
+  ],
+  [
+   "Boreen",
+   "Bobcat 3",
+   "Bobcat 2",
+   0.5
+  ],
+  [
+   "Boreen",
+   "Bobcat 2",
+   "Moose Cut / Boreen",
+   1.5
+  ],
+  [
+   "Boreen",
+   "Moose Cut / Boreen",
+   "Brookside / Porcupine Pass",
+   0.9
+  ],
+  [
+   "Boreen",
+   "Brookside / Porcupine Pass",
+   "Face Lift bottom",
+   0.6
+  ],
+  [
+   "Lower Thruway",
+   "Upper Thruway / Lower Thruway",
+   "Burton's / Lower Thruway",
+   0.5
+  ],
+  [
+   "Lower Thruway",
+   "Burton's / Lower Thruway",
+   "Tom Cat / L. Valley",
+   0.9
+  ],
+  [
+   "Crossover Loop",
+   "Upper Skyward 2",
+   "Glen / Weber's Way",
+   0.8
+  ],
+  [
+   "Cloudspin Cut",
+   "Cloudspin",
+   "Cloudspin 2",
+   0.9
+  ],
+  [
+   "Low Road",
+   "Lower Parkway / Upper Parkway",
+   "Upper Thruway / Lower Thruway",
+   0.5
+  ],
+  [
+   "Low Road",
+   "Upper Thruway / Lower Thruway",
+   "Mountain Run",
+   0.8
+  ],
+  [
+   "Low Road",
+   "Mountain Run",
+   "Lower Mackenzie / Mountain Run",
+   0.5
+  ],
+  [
+   "Mixing Bowl",
+   "Round-A-Bout / Mixing Bowl",
+   "Warhorse bottom",
+   0.5
+  ],
+  [
+   "Mixing Bowl",
+   "Warhorse bottom",
+   "Cloudsplitter Gondola bottom",
+   0.5
+  ],
+  [
+   "Ladies Bridge",
+   "Boreen",
+   "River Run",
+   0.5
+  ],
+  [
+   "Hoyt's High",
+   "Lookout Mountain Triple top",
+   "Easy Way",
+   5.5
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Off Broadway / U. Valley",
+   "Lookout Mountain Triple bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Upper Thruway / Mountain Run",
+   "Freeway top",
+   0.7
+  ],
+  [
+   "walk",
+   "Upper Thruway / Lower Thruway",
+   "Little Whiteface bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Freeway bottom",
+   "Valvehouse Road",
+   1.9
+  ],
+  [
+   "walk",
+   "Freeway bottom",
+   "Valvehouse Road / Danny's Bridge",
+   3.0
+  ],
+  [
+   "walk",
+   "Freeway bottom",
+   "Wolf Run / Wolf",
+   2.2
+  ],
+  [
+   "walk",
+   "Freeway bottom",
+   "Warhorse top",
+   0.7
+  ],
+  [
+   "walk",
+   "Freeway bottom",
+   "Parkway Exit / Wolf",
+   1.1
+  ],
+  [
+   "walk",
+   "Freeway bottom",
+   "Danny's Bridge / Brookside",
+   3.4
+  ],
+  [
+   "walk",
+   "Freeway bottom",
+   "Fox",
+   1.6
+  ],
+  [
+   "walk",
+   "Bear / Wolf",
+   "Cloudsplitter Gondola bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Bear / Wolf",
+   "Face Lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Bear / Wolf",
+   "Warhorse bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Falcon Flyer top",
+   "Moose / Bobcat",
+   1.0
+  ],
+  [
+   "walk",
+   "Falcon Flyer top",
+   "Bobcat",
+   0.9
+  ],
+  [
+   "walk",
+   "Falcon Flyer top",
+   "Moose",
+   3.0
+  ],
+  [
+   "walk",
+   "Falcon Flyer top",
+   "Flying squirrel",
+   1.1
+  ],
+  [
+   "walk",
+   "Falcon Flyer top",
+   "Bobcat 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Falcon Flyer top",
+   "Bobcat 4",
+   3.4
+  ],
+  [
+   "walk",
+   "Flying squirrel / Otter",
+   "Coyote Cruiser top",
+   0.9
+  ],
+  [
+   "walk",
+   "Flying squirrel / Otter",
+   "Falcon Flyer bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Flying squirrel / Otter",
+   "Cub Carpet bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Flying squirrel / Otter",
+   "Cub Carpet top",
+   1.3
+  ],
+  [
+   "walk",
+   "Flying squirrel / Otter",
+   "Coyote Cruiser bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "On Ramp / L. Excelsior",
+   "Face Lift top",
+   2.2
+  ],
+  [
+   "walk",
+   "On Ramp / L. Excelsior",
+   "Summit Quad bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Upper Empire / Lower Empire",
+   "Face Lift top",
+   2.3
+  ],
+  [
+   "walk",
+   "Upper Empire / Lower Empire",
+   "Summit Quad bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Summit Quad top",
+   "Riva Ridge / Paron's Run",
+   3.3
+  ],
+  [
+   "walk",
+   "Summit Quad top",
+   "Riva Ridge",
+   0.7
+  ],
+  [
+   "walk",
+   "Summit Quad top",
+   "Riva Ridge 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Upper Empire",
+   "Face Lift top",
+   3.3
+  ],
+  [
+   "walk",
+   "Upper Empire",
+   "Summit Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "High Country Glades / Lower Mackenzie",
+   "The Notch top",
+   2.4
+  ],
+  [
+   "walk",
+   "High Country Glades / Lower Mackenzie",
+   "Little Whiteface bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Face Lift top",
+   "Lookout Mountain Triple bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Face Lift top",
+   "Easy Way",
+   1.8
+  ],
+  [
+   "walk",
+   "Face Lift top",
+   "Lower Empire / Victoria",
+   0.7
+  ],
+  [
+   "walk",
+   "Face Lift top",
+   "L. Excelsior / U. Valley",
+   1.2
+  ],
+  [
+   "walk",
+   "Face Lift top",
+   "Summit Quad bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Lookout Mountain Triple bottom",
+   "Off Broadway / U. Valley",
+   2.4
+  ],
+  [
+   "walk",
+   "Lookout Mountain Triple bottom",
+   "Easy Way",
+   0.9
+  ],
+  [
+   "walk",
+   "Lookout Mountain Triple bottom",
+   "Upper Boreen / Easy Street",
+   2.3
+  ],
+  [
+   "walk",
+   "Lower Mackenzie / Mountain Run",
+   "The Notch top",
+   1.9
+  ],
+  [
+   "walk",
+   "Lower Mackenzie / Mountain Run",
+   "Little Whiteface bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Easy Way",
+   "Lookout Mountain Triple bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Valvehouse Road",
+   "Freeway bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Valvehouse Road",
+   "Warhorse top",
+   1.2
+  ],
+  [
+   "walk",
+   "Valvehouse Road / Danny's Bridge",
+   "Freeway bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Valvehouse Road / Danny's Bridge",
+   "Warhorse top",
+   2.3
+  ],
+  [
+   "walk",
+   "Burton's / River Run",
+   "Little Whiteface bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Warhorse top",
+   "Freeway bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Warhorse top",
+   "Valvehouse Road",
+   1.2
+  ],
+  [
+   "walk",
+   "Warhorse top",
+   "Valvehouse Road / Danny's Bridge",
+   2.3
+  ],
+  [
+   "walk",
+   "Warhorse top",
+   "Wolf Run / Wolf",
+   2.6
+  ],
+  [
+   "walk",
+   "Warhorse top",
+   "Parkway Exit / Wolf",
+   1.7
+  ],
+  [
+   "walk",
+   "Warhorse top",
+   "Danny's Bridge / Brookside",
+   2.7
+  ],
+  [
+   "walk",
+   "Warhorse top",
+   "Fox",
+   1.0
+  ],
+  [
+   "walk",
+   "The Notch top",
+   "Burton's / River Run",
+   1.4
+  ],
+  [
+   "walk",
+   "The Notch top",
+   "Boreen Loop / Boreen",
+   2.3
+  ],
+  [
+   "walk",
+   "The Notch top",
+   "Boreen Loop",
+   1.5
+  ],
+  [
+   "walk",
+   "The Notch top",
+   "Little Whiteface bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "The Notch top",
+   "Boreen",
+   3.2
+  ],
+  [
+   "walk",
+   "Upper Wilderness / Approach",
+   "Freeway top",
+   2.1
+  ],
+  [
+   "walk",
+   "Moose / Bobcat",
+   "Falcon Flyer top",
+   1.0
+  ],
+  [
+   "walk",
+   "Coyote Cruiser top",
+   "Flying squirrel / Otter",
+   0.9
+  ],
+  [
+   "walk",
+   "Coyote Cruiser top",
+   "Falcon Flyer bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Coyote Cruiser top",
+   "Flying squirrel 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Coyote Cruiser top",
+   "Moose 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Coyote Cruiser top",
+   "Bobcat 5",
+   1.6
+  ],
+  [
+   "walk",
+   "Coyote Cruiser top",
+   "Cub Carpet bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Coyote Cruiser top",
+   "Cub Carpet top",
+   0.9
+  ],
+  [
+   "walk",
+   "Coyote Cruiser top",
+   "Coyote Cruiser bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Boreen Loop",
+   "The Notch top",
+   1.5
+  ],
+  [
+   "walk",
+   "Boreen Loop",
+   "Little Whiteface bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Parkway",
+   "Freeway bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Lower Parkway",
+   "Warhorse top",
+   2.0
+  ],
+  [
+   "walk",
+   "Parkway Exit / Wolf",
+   "Freeway bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Parkway Exit / Wolf",
+   "Warhorse top",
+   1.7
+  ],
+  [
+   "walk",
+   "Approach / Excelsior",
+   "Little Whiteface top",
+   0.8
+  ],
+  [
+   "walk",
+   "Approach / Mountain Run",
+   "Freeway top",
+   1.3
+  ],
+  [
+   "walk",
+   "Falcon Flyer bottom",
+   "Flying squirrel / Otter",
+   1.0
+  ],
+  [
+   "walk",
+   "Falcon Flyer bottom",
+   "Coyote Cruiser top",
+   1.7
+  ],
+  [
+   "walk",
+   "Falcon Flyer bottom",
+   "Flying squirrel 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Falcon Flyer bottom",
+   "Cub Carpet bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Falcon Flyer bottom",
+   "Cub Carpet top",
+   1.5
+  ],
+  [
+   "walk",
+   "Falcon Flyer bottom",
+   "Coyote Cruiser bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Lower Empire / Victoria",
+   "Face Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Lower Empire / Victoria",
+   "Lookout Mountain Triple bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Lower Empire / Victoria",
+   "Summit Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Freeway top",
+   "Upper Thruway / Mountain Run",
+   0.7
+  ],
+  [
+   "walk",
+   "Freeway top",
+   "Upper Thruway",
+   1.1
+  ],
+  [
+   "walk",
+   "Freeway top",
+   "Upper Thruway 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Danny's Bridge / Brookside",
+   "Freeway bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Danny's Bridge / Brookside",
+   "Warhorse top",
+   2.7
+  ],
+  [
+   "walk",
+   "Bobcat",
+   "Falcon Flyer top",
+   0.9
+  ],
+  [
+   "walk",
+   "Little Whiteface top",
+   "Upper Northway / Approach",
+   1.1
+  ],
+  [
+   "walk",
+   "Little Whiteface top",
+   "Approach / Excelsior",
+   0.8
+  ],
+  [
+   "walk",
+   "Flying squirrel",
+   "Falcon Flyer top",
+   1.1
+  ],
+  [
+   "walk",
+   "Flying squirrel 2",
+   "Coyote Cruiser top",
+   1.4
+  ],
+  [
+   "walk",
+   "Flying squirrel 2",
+   "Falcon Flyer bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Flying squirrel 2",
+   "Cub Carpet bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Flying squirrel 2",
+   "Cub Carpet top",
+   2.0
+  ],
+  [
+   "walk",
+   "Flying squirrel 2",
+   "Coyote Cruiser bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Riva Ridge",
+   "Summit Quad top",
+   0.7
+  ],
+  [
+   "walk",
+   "Cloudsplitter Gondola bottom",
+   "Face Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Cloudsplitter Gondola bottom",
+   "Warhorse bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Round-A-Bout / Mixing Bowl",
+   "Cloudsplitter Gondola bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Round-A-Bout / Mixing Bowl",
+   "Face Lift bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Round-A-Bout / Mixing Bowl",
+   "Warhorse bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Bobcat 2",
+   "Falcon Flyer top",
+   2.8
+  ],
+  [
+   "walk",
+   "Brookside / Porcupine Pass",
+   "Cloudsplitter Gondola bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Brookside / Porcupine Pass",
+   "Face Lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Lookout Mountain Triple top",
+   "The Wilmington Trail",
+   2.1
+  ],
+  [
+   "walk",
+   "Bobcat 3",
+   "Falcon Flyer top",
+   3.2
+  ],
+  [
+   "walk",
+   "Moose 2",
+   "Coyote Cruiser top",
+   2.2
+  ],
+  [
+   "walk",
+   "Moose 2",
+   "Cub Carpet bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Moose 2",
+   "Cub Carpet top",
+   2.4
+  ],
+  [
+   "walk",
+   "Moose 2",
+   "Coyote Cruiser bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "L. Excelsior / U. Valley",
+   "Face Lift top",
+   1.2
+  ],
+  [
+   "walk",
+   "L. Excelsior / U. Valley",
+   "Lookout Mountain Triple bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "L. Excelsior / U. Valley",
+   "Summit Quad bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Victoria Shoot / Lower Skyward",
+   "Face Lift top",
+   2.7
+  ],
+  [
+   "walk",
+   "Victoria Shoot / Lower Skyward",
+   "Summit Quad bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Little Whiteface bottom",
+   "Burton's / Lower Thruway",
+   3.4
+  ],
+  [
+   "walk",
+   "Little Whiteface bottom",
+   "Burton's / River Run",
+   0.9
+  ],
+  [
+   "walk",
+   "Little Whiteface bottom",
+   "The Notch top",
+   1.4
+  ],
+  [
+   "walk",
+   "Little Whiteface bottom",
+   "Boreen Loop / Boreen",
+   2.3
+  ],
+  [
+   "walk",
+   "Little Whiteface bottom",
+   "Boreen Loop",
+   2.9
+  ],
+  [
+   "walk",
+   "Little Whiteface bottom",
+   "Boreen",
+   3.0
+  ],
+  [
+   "walk",
+   "Bobcat 4",
+   "Coyote Cruiser top",
+   2.7
+  ],
+  [
+   "walk",
+   "Upper Thruway 3",
+   "Little Whiteface bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Moose 3",
+   "Coyote Cruiser top",
+   3.0
+  ],
+  [
+   "walk",
+   "Tom Cat / Draper's Drop",
+   "Freeway bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Tom Cat / Draper's Drop",
+   "Warhorse top",
+   3.2
+  ],
+  [
+   "walk",
+   "Mountain Run",
+   "The Notch top",
+   2.6
+  ],
+  [
+   "walk",
+   "Mountain Run",
+   "Little Whiteface bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Excelsior 2",
+   "Face Lift top",
+   2.8
+  ],
+  [
+   "walk",
+   "Excelsior 2",
+   "Summit Quad bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Empire",
+   "Face Lift top",
+   1.1
+  ],
+  [
+   "walk",
+   "Lower Empire",
+   "Lookout Mountain Triple bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Empire",
+   "Summit Quad bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Upper Thruway 4",
+   "Little Whiteface bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Moose 4",
+   "Coyote Cruiser top",
+   3.5
+  ],
+  [
+   "walk",
+   "Bobcat 5",
+   "Coyote Cruiser top",
+   1.6
+  ],
+  [
+   "walk",
+   "Bobcat 5",
+   "Falcon Flyer bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Bobcat 5",
+   "Cub Carpet bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Bobcat 5",
+   "Cub Carpet top",
+   2.4
+  ],
+  [
+   "walk",
+   "Bobcat 5",
+   "Coyote Cruiser bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Fox",
+   "Freeway bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Fox",
+   "Warhorse top",
+   1.0
+  ],
+  [
+   "walk",
+   "L. Valley",
+   "Freeway bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "L. Valley",
+   "Warhorse top",
+   2.7
+  ],
+  [
+   "walk",
+   "Face Lift bottom",
+   "Bear / Wolf",
+   2.1
+  ],
+  [
+   "walk",
+   "Face Lift bottom",
+   "Cloudsplitter Gondola bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Face Lift bottom",
+   "Warhorse bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Face Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Lookout Mountain Triple bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Easy Way",
+   2.2
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Lower Empire / Victoria",
+   1.1
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "L. Excelsior / U. Valley",
+   1.9
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Flying squirrel / Otter",
+   1.7
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Coyote Cruiser top",
+   1.7
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Falcon Flyer bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Flying squirrel 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Moose 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Cub Carpet top",
+   0.8
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Coyote Cruiser bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Flying squirrel / Otter",
+   1.3
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Coyote Cruiser top",
+   0.9
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Falcon Flyer bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Flying squirrel 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Moose 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Cub Carpet bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Coyote Cruiser bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Warhorse bottom",
+   "Bear / Wolf",
+   1.4
+  ],
+  [
+   "walk",
+   "Warhorse bottom",
+   "Cloudsplitter Gondola bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Warhorse bottom",
+   "Round-A-Bout / Mixing Bowl",
+   1.7
+  ],
+  [
+   "walk",
+   "Warhorse bottom",
+   "Face Lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Coyote Cruiser bottom",
+   "Flying squirrel / Otter",
+   0.9
+  ],
+  [
+   "walk",
+   "Coyote Cruiser bottom",
+   "Coyote Cruiser top",
+   1.1
+  ],
+  [
+   "walk",
+   "Coyote Cruiser bottom",
+   "Falcon Flyer bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Coyote Cruiser bottom",
+   "Flying squirrel 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Coyote Cruiser bottom",
+   "Moose 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Coyote Cruiser bottom",
+   "Cub Carpet bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Coyote Cruiser bottom",
+   "Cub Carpet top",
+   0.6
+  ],
+  [
+   "walk",
+   "Valvehouse Road",
+   "Valvehouse Road / Danny's Bridge",
+   3.5
+  ],
+  [
+   "walk",
+   "Valvehouse Road",
+   "Wolf Run / Wolf",
+   3.8
+  ],
+  [
+   "walk",
+   "Valvehouse Road",
+   "Parkway Exit / Wolf",
+   2.9
+  ],
+  [
+   "walk",
+   "Valvehouse Road",
+   "Danny's Bridge / Brookside",
+   3.9
+  ],
+  [
+   "walk",
+   "Valvehouse Road",
+   "Fox",
+   2.2
+  ],
+  [
+   "walk",
+   "Valvehouse Road / Danny's Bridge",
+   "Valvehouse Road",
+   3.5
+  ],
+  [
+   "walk",
+   "Valvehouse Road / Danny's Bridge",
+   "Wolf Run / Wolf",
+   4.9
+  ],
+  [
+   "walk",
+   "Valvehouse Road / Danny's Bridge",
+   "Parkway Exit / Wolf",
+   4.0
+  ],
+  [
+   "walk",
+   "Valvehouse Road / Danny's Bridge",
+   "Danny's Bridge / Brookside",
+   5.1
+  ],
+  [
+   "walk",
+   "Valvehouse Road / Danny's Bridge",
+   "Fox",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower Parkway",
+   "Valvehouse Road",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Parkway",
+   "Valvehouse Road / Danny's Bridge",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Parkway",
+   "Wolf Run / Wolf",
+   4.1
+  ],
+  [
+   "walk",
+   "Lower Parkway",
+   "Parkway Exit / Wolf",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Parkway",
+   "Danny's Bridge / Brookside",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Parkway",
+   "Fox",
+   3.1
+  ],
+  [
+   "walk",
+   "Parkway Exit / Wolf",
+   "Valvehouse Road",
+   2.9
+  ],
+  [
+   "walk",
+   "Parkway Exit / Wolf",
+   "Valvehouse Road / Danny's Bridge",
+   4.0
+  ],
+  [
+   "walk",
+   "Parkway Exit / Wolf",
+   "Wolf Run / Wolf",
+   3.3
+  ],
+  [
+   "walk",
+   "Parkway Exit / Wolf",
+   "Danny's Bridge / Brookside",
+   4.4
+  ],
+  [
+   "walk",
+   "Parkway Exit / Wolf",
+   "Fox",
+   2.6
+  ],
+  [
+   "walk",
+   "Danny's Bridge / Brookside",
+   "Valvehouse Road",
+   3.9
+  ],
+  [
+   "walk",
+   "Danny's Bridge / Brookside",
+   "Valvehouse Road / Danny's Bridge",
+   5.1
+  ],
+  [
+   "walk",
+   "Danny's Bridge / Brookside",
+   "Wolf Run / Wolf",
+   5.3
+  ],
+  [
+   "walk",
+   "Danny's Bridge / Brookside",
+   "Parkway Exit / Wolf",
+   4.4
+  ],
+  [
+   "walk",
+   "Danny's Bridge / Brookside",
+   "Fox",
+   3.8
+  ],
+  [
+   "walk",
+   "Tom Cat / Draper's Drop",
+   "Valvehouse Road",
+   4.4
+  ],
+  [
+   "walk",
+   "Tom Cat / Draper's Drop",
+   "Valvehouse Road / Danny's Bridge",
+   5.6
+  ],
+  [
+   "walk",
+   "Tom Cat / Draper's Drop",
+   "Wolf Run / Wolf",
+   5.3
+  ],
+  [
+   "walk",
+   "Tom Cat / Draper's Drop",
+   "Parkway Exit / Wolf",
+   4.1
+  ],
+  [
+   "walk",
+   "Tom Cat / Draper's Drop",
+   "Danny's Bridge / Brookside",
+   6.0
+  ],
+  [
+   "walk",
+   "Tom Cat / Draper's Drop",
+   "Fox",
+   4.3
+  ],
+  [
+   "walk",
+   "Fox",
+   "Valvehouse Road",
+   2.2
+  ],
+  [
+   "walk",
+   "Fox",
+   "Valvehouse Road / Danny's Bridge",
+   3.4
+  ],
+  [
+   "walk",
+   "Fox",
+   "Wolf Run / Wolf",
+   3.6
+  ],
+  [
+   "walk",
+   "Fox",
+   "Parkway Exit / Wolf",
+   2.6
+  ],
+  [
+   "walk",
+   "Fox",
+   "Danny's Bridge / Brookside",
+   3.8
+  ],
+  [
+   "walk",
+   "L. Valley",
+   "Valvehouse Road",
+   3.9
+  ],
+  [
+   "walk",
+   "L. Valley",
+   "Valvehouse Road / Danny's Bridge",
+   5.0
+  ],
+  [
+   "walk",
+   "L. Valley",
+   "Wolf Run / Wolf",
+   5.0
+  ],
+  [
+   "walk",
+   "L. Valley",
+   "Parkway Exit / Wolf",
+   3.8
+  ],
+  [
+   "walk",
+   "L. Valley",
+   "Danny's Bridge / Brookside",
+   5.4
+  ],
+  [
+   "walk",
+   "L. Valley",
+   "Fox",
+   3.7
+  ],
+  [
+   "walk",
+   "Moose / Bobcat",
+   "Bobcat",
+   1.9
+  ],
+  [
+   "walk",
+   "Moose / Bobcat",
+   "Moose",
+   4.0
+  ],
+  [
+   "walk",
+   "Moose / Bobcat",
+   "Flying squirrel",
+   2.1
+  ],
+  [
+   "walk",
+   "Moose / Bobcat",
+   "Bobcat 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Moose / Bobcat",
+   "Bobcat 4",
+   4.5
+  ],
+  [
+   "walk",
+   "Bobcat",
+   "Moose / Bobcat",
+   1.9
+  ],
+  [
+   "walk",
+   "Bobcat",
+   "Moose",
+   3.9
+  ],
+  [
+   "walk",
+   "Bobcat",
+   "Flying squirrel",
+   2.0
+  ],
+  [
+   "walk",
+   "Bobcat",
+   "Bobcat 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Bobcat",
+   "Bobcat 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Flying squirrel",
+   "Moose / Bobcat",
+   2.1
+  ],
+  [
+   "walk",
+   "Flying squirrel",
+   "Bobcat",
+   2.0
+  ],
+  [
+   "walk",
+   "Flying squirrel",
+   "Moose",
+   4.1
+  ],
+  [
+   "walk",
+   "Flying squirrel",
+   "Bobcat 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Flying squirrel",
+   "Bobcat 4",
+   4.5
+  ],
+  [
+   "walk",
+   "Bobcat 2",
+   "Moose / Bobcat",
+   3.8
+  ],
+  [
+   "walk",
+   "Bobcat 2",
+   "Bobcat",
+   3.7
+  ],
+  [
+   "walk",
+   "Bobcat 2",
+   "Moose",
+   5.8
+  ],
+  [
+   "walk",
+   "Bobcat 2",
+   "Flying squirrel",
+   3.9
+  ],
+  [
+   "walk",
+   "Bobcat 2",
+   "Bobcat 4",
+   6.2
+  ],
+  [
+   "walk",
+   "Bobcat 3",
+   "Moose / Bobcat",
+   4.2
+  ],
+  [
+   "walk",
+   "Bobcat 3",
+   "Bobcat",
+   4.1
+  ],
+  [
+   "walk",
+   "Bobcat 3",
+   "Moose",
+   6.2
+  ],
+  [
+   "walk",
+   "Bobcat 3",
+   "Flying squirrel",
+   4.3
+  ],
+  [
+   "walk",
+   "Bobcat 3",
+   "Bobcat 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Bobcat 3",
+   "Bobcat 4",
+   6.6
+  ],
+  [
+   "walk",
+   "Riva Ridge",
+   "Riva Ridge / Paron's Run",
+   4.0
+  ],
+  [
+   "walk",
+   "Riva Ridge",
+   "Riva Ridge 2",
+   2.3
+  ],
+  [
+   "walk",
+   "On Ramp / L. Excelsior",
+   "Lookout Mountain Triple bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "On Ramp / L. Excelsior",
+   "Easy Way",
+   4.0
+  ],
+  [
+   "walk",
+   "On Ramp / L. Excelsior",
+   "Lower Empire / Victoria",
+   2.9
+  ],
+  [
+   "walk",
+   "On Ramp / L. Excelsior",
+   "L. Excelsior / U. Valley",
+   3.4
+  ],
+  [
+   "walk",
+   "Upper Empire / Lower Empire",
+   "Lookout Mountain Triple bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Upper Empire / Lower Empire",
+   "Easy Way",
+   4.1
+  ],
+  [
+   "walk",
+   "Upper Empire / Lower Empire",
+   "Lower Empire / Victoria",
+   3.0
+  ],
+  [
+   "walk",
+   "Upper Empire / Lower Empire",
+   "L. Excelsior / U. Valley",
+   3.5
+  ],
+  [
+   "walk",
+   "Upper Empire",
+   "Lookout Mountain Triple bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Upper Empire",
+   "Easy Way",
+   5.0
+  ],
+  [
+   "walk",
+   "Upper Empire",
+   "Lower Empire / Victoria",
+   4.0
+  ],
+  [
+   "walk",
+   "Upper Empire",
+   "L. Excelsior / U. Valley",
+   4.5
+  ],
+  [
+   "walk",
+   "Lower Empire / Victoria",
+   "Easy Way",
+   2.5
+  ],
+  [
+   "walk",
+   "Lower Empire / Victoria",
+   "L. Excelsior / U. Valley",
+   1.9
+  ],
+  [
+   "walk",
+   "L. Excelsior / U. Valley",
+   "Easy Way",
+   2.5
+  ],
+  [
+   "walk",
+   "L. Excelsior / U. Valley",
+   "Lower Empire / Victoria",
+   1.9
+  ],
+  [
+   "walk",
+   "Victoria Shoot / Lower Skyward",
+   "Lookout Mountain Triple bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Victoria Shoot / Lower Skyward",
+   "Easy Way",
+   4.2
+  ],
+  [
+   "walk",
+   "Victoria Shoot / Lower Skyward",
+   "Lower Empire / Victoria",
+   3.2
+  ],
+  [
+   "walk",
+   "Victoria Shoot / Lower Skyward",
+   "L. Excelsior / U. Valley",
+   3.9
+  ],
+  [
+   "walk",
+   "Excelsior 2",
+   "Lookout Mountain Triple bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Excelsior 2",
+   "Easy Way",
+   4.6
+  ],
+  [
+   "walk",
+   "Excelsior 2",
+   "Lower Empire / Victoria",
+   3.5
+  ],
+  [
+   "walk",
+   "Excelsior 2",
+   "L. Excelsior / U. Valley",
+   4.0
+  ],
+  [
+   "walk",
+   "Lower Empire",
+   "Easy Way",
+   2.9
+  ],
+  [
+   "walk",
+   "Lower Empire",
+   "Lower Empire / Victoria",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Empire",
+   "L. Excelsior / U. Valley",
+   2.3
+  ],
+  [
+   "walk",
+   "Off Broadway / U. Valley",
+   "Easy Way",
+   3.3
+  ],
+  [
+   "walk",
+   "Off Broadway / U. Valley",
+   "Upper Boreen / Easy Street",
+   4.7
+  ],
+  [
+   "walk",
+   "Face Lift top",
+   "Off Broadway / U. Valley",
+   4.6
+  ],
+  [
+   "walk",
+   "Face Lift top",
+   "Upper Boreen / Easy Street",
+   4.6
+  ],
+  [
+   "walk",
+   "Easy Way",
+   "Off Broadway / U. Valley",
+   3.3
+  ],
+  [
+   "walk",
+   "Easy Way",
+   "Upper Boreen / Easy Street",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Empire / Victoria",
+   "Off Broadway / U. Valley",
+   4.9
+  ],
+  [
+   "walk",
+   "Lower Empire / Victoria",
+   "Upper Boreen / Easy Street",
+   4.9
+  ],
+  [
+   "walk",
+   "L. Excelsior / U. Valley",
+   "Off Broadway / U. Valley",
+   4.0
+  ],
+  [
+   "walk",
+   "L. Excelsior / U. Valley",
+   "Upper Boreen / Easy Street",
+   3.9
+  ],
+  [
+   "walk",
+   "Lower Empire",
+   "Off Broadway / U. Valley",
+   5.7
+  ],
+  [
+   "walk",
+   "Lower Empire",
+   "Upper Boreen / Easy Street",
+   5.6
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Off Broadway / U. Valley",
+   5.2
+  ],
+  [
+   "walk",
+   "Summit Quad bottom",
+   "Upper Boreen / Easy Street",
+   5.1
+  ],
+  [
+   "walk",
+   "On Ramp / L. Excelsior",
+   "Off Broadway / U. Valley",
+   6.8
+  ],
+  [
+   "walk",
+   "On Ramp / L. Excelsior",
+   "Upper Boreen / Easy Street",
+   6.8
+  ],
+  [
+   "walk",
+   "Upper Empire / Lower Empire",
+   "Upper Boreen / Easy Street",
+   6.9
+  ],
+  [
+   "walk",
+   "High Country Glades / Lower Mackenzie",
+   "Burton's / River Run",
+   2.6
+  ],
+  [
+   "walk",
+   "High Country Glades / Lower Mackenzie",
+   "Boreen Loop / Boreen",
+   4.1
+  ],
+  [
+   "walk",
+   "High Country Glades / Lower Mackenzie",
+   "Boreen Loop",
+   3.9
+  ],
+  [
+   "walk",
+   "High Country Glades / Lower Mackenzie",
+   "Boreen",
+   4.8
+  ],
+  [
+   "walk",
+   "Lower Mackenzie / Mountain Run",
+   "Burton's / River Run",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Mackenzie / Mountain Run",
+   "Boreen Loop / Boreen",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Mackenzie / Mountain Run",
+   "Boreen Loop",
+   3.5
+  ],
+  [
+   "walk",
+   "Lower Mackenzie / Mountain Run",
+   "Boreen",
+   4.0
+  ],
+  [
+   "walk",
+   "Boreen Loop",
+   "Burton's / River Run",
+   3.0
+  ],
+  [
+   "walk",
+   "Boreen Loop",
+   "Boreen Loop / Boreen",
+   3.8
+  ],
+  [
+   "walk",
+   "Boreen Loop",
+   "Boreen",
+   4.7
+  ],
+  [
+   "walk",
+   "Mountain Run",
+   "Burton's / River Run",
+   2.5
+  ],
+  [
+   "walk",
+   "Mountain Run",
+   "Boreen Loop / Boreen",
+   4.0
+  ],
+  [
+   "walk",
+   "Mountain Run",
+   "Boreen Loop",
+   4.2
+  ],
+  [
+   "walk",
+   "Mountain Run",
+   "Boreen",
+   4.7
+  ],
+  [
+   "walk",
+   "Flying squirrel / Otter",
+   "Flying squirrel 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Flying squirrel / Otter",
+   "Moose 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Flying squirrel / Otter",
+   "Bobcat 5",
+   2.5
+  ],
+  [
+   "walk",
+   "Falcon Flyer bottom",
+   "Moose 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Falcon Flyer bottom",
+   "Bobcat 5",
+   3.3
+  ],
+  [
+   "walk",
+   "Flying squirrel 2",
+   "Flying squirrel / Otter",
+   2.3
+  ],
+  [
+   "walk",
+   "Flying squirrel 2",
+   "Moose 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Flying squirrel 2",
+   "Bobcat 5",
+   2.9
+  ],
+  [
+   "walk",
+   "Moose 2",
+   "Flying squirrel / Otter",
+   3.1
+  ],
+  [
+   "walk",
+   "Moose 2",
+   "Falcon Flyer bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Moose 2",
+   "Flying squirrel 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Moose 2",
+   "Bobcat 5",
+   3.8
+  ],
+  [
+   "walk",
+   "Bobcat 4",
+   "Flying squirrel / Otter",
+   3.6
+  ],
+  [
+   "walk",
+   "Bobcat 4",
+   "Falcon Flyer bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Bobcat 4",
+   "Flying squirrel 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Bobcat 4",
+   "Moose 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Bobcat 4",
+   "Bobcat 5",
+   4.3
+  ],
+  [
+   "walk",
+   "Bobcat 4",
+   "Cub Carpet bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Bobcat 4",
+   "Cub Carpet top",
+   3.7
+  ],
+  [
+   "walk",
+   "Bobcat 4",
+   "Coyote Cruiser bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Moose 3",
+   "Flying squirrel / Otter",
+   3.9
+  ],
+  [
+   "walk",
+   "Moose 3",
+   "Falcon Flyer bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Moose 3",
+   "Flying squirrel 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Moose 3",
+   "Moose 2",
+   5.2
+  ],
+  [
+   "walk",
+   "Moose 3",
+   "Bobcat 5",
+   4.6
+  ],
+  [
+   "walk",
+   "Moose 3",
+   "Cub Carpet bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Moose 3",
+   "Cub Carpet top",
+   3.9
+  ],
+  [
+   "walk",
+   "Moose 3",
+   "Coyote Cruiser bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Moose 4",
+   "Flying squirrel / Otter",
+   4.4
+  ],
+  [
+   "walk",
+   "Moose 4",
+   "Falcon Flyer bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Moose 4",
+   "Flying squirrel 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Moose 4",
+   "Moose 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Moose 4",
+   "Bobcat 5",
+   5.0
+  ],
+  [
+   "walk",
+   "Moose 4",
+   "Cub Carpet bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Moose 4",
+   "Cub Carpet top",
+   4.4
+  ],
+  [
+   "walk",
+   "Moose 4",
+   "Coyote Cruiser bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Bobcat 5",
+   "Flying squirrel / Otter",
+   2.5
+  ],
+  [
+   "walk",
+   "Bobcat 5",
+   "Flying squirrel 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Bobcat 5",
+   "Moose 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Cub Carpet bottom",
+   "Bobcat 5",
+   3.3
+  ],
+  [
+   "walk",
+   "Cub Carpet top",
+   "Bobcat 5",
+   2.5
+  ],
+  [
+   "walk",
+   "Coyote Cruiser bottom",
+   "Bobcat 5",
+   2.7
+  ],
+  [
+   "walk",
+   "Upper Thruway / Mountain Run",
+   "Upper Thruway",
+   1.8
+  ],
+  [
+   "walk",
+   "Upper Thruway / Mountain Run",
+   "Upper Thruway 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Upper Wilderness / Approach",
+   "Upper Thruway / Mountain Run",
+   2.8
+  ],
+  [
+   "walk",
+   "Upper Wilderness / Approach",
+   "Upper Thruway",
+   3.3
+  ],
+  [
+   "walk",
+   "Upper Wilderness / Approach",
+   "Upper Thruway 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Approach / Mountain Run",
+   "Upper Thruway / Mountain Run",
+   2.0
+  ],
+  [
+   "walk",
+   "Approach / Mountain Run",
+   "Upper Thruway",
+   2.5
+  ],
+  [
+   "walk",
+   "Approach / Mountain Run",
+   "Upper Thruway 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Approach / Excelsior",
+   "Upper Northway / Approach",
+   1.9
+  ],
+  [
+   "walk",
+   "Brookside / Porcupine Pass",
+   "Warhorse bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Upper Thruway / Lower Thruway",
+   "Burton's / Lower Thruway",
+   5.9
+  ],
+  [
+   "walk",
+   "Upper Thruway / Lower Thruway",
+   "Burton's / River Run",
+   3.3
+  ],
+  [
+   "walk",
+   "Upper Thruway / Lower Thruway",
+   "The Notch top",
+   3.8
+  ],
+  [
+   "walk",
+   "Upper Thruway / Lower Thruway",
+   "Boreen Loop / Boreen",
+   4.8
+  ],
+  [
+   "walk",
+   "Upper Thruway / Lower Thruway",
+   "Boreen Loop",
+   5.3
+  ],
+  [
+   "walk",
+   "Upper Thruway / Lower Thruway",
+   "Boreen",
+   5.5
+  ],
+  [
+   "walk",
+   "High Country Glades / Lower Mackenzie",
+   "Burton's / Lower Thruway",
+   5.1
+  ],
+  [
+   "walk",
+   "Lower Mackenzie / Mountain Run",
+   "Burton's / Lower Thruway",
+   4.3
+  ],
+  [
+   "walk",
+   "Burton's / River Run",
+   "Burton's / Lower Thruway",
+   4.3
+  ],
+  [
+   "walk",
+   "Burton's / River Run",
+   "The Notch top",
+   2.2
+  ],
+  [
+   "walk",
+   "Burton's / River Run",
+   "Boreen Loop / Boreen",
+   3.2
+  ],
+  [
+   "walk",
+   "Burton's / River Run",
+   "Boreen Loop",
+   3.7
+  ],
+  [
+   "walk",
+   "Burton's / River Run",
+   "Boreen",
+   3.9
+  ],
+  [
+   "walk",
+   "The Notch top",
+   "Burton's / Lower Thruway",
+   4.8
+  ],
+  [
+   "walk",
+   "Boreen Loop",
+   "Burton's / Lower Thruway",
+   6.3
+  ],
+  [
+   "walk",
+   "Upper Thruway 3",
+   "Burton's / Lower Thruway",
+   5.7
+  ],
+  [
+   "walk",
+   "Upper Thruway 3",
+   "Burton's / River Run",
+   3.2
+  ],
+  [
+   "walk",
+   "Upper Thruway 3",
+   "The Notch top",
+   3.7
+  ],
+  [
+   "walk",
+   "Upper Thruway 3",
+   "Boreen Loop / Boreen",
+   4.7
+  ],
+  [
+   "walk",
+   "Upper Thruway 3",
+   "Boreen Loop",
+   5.2
+  ],
+  [
+   "walk",
+   "Upper Thruway 3",
+   "Boreen",
+   5.4
+  ],
+  [
+   "walk",
+   "Mountain Run",
+   "Burton's / Lower Thruway",
+   5.0
+  ],
+  [
+   "walk",
+   "Upper Thruway 4",
+   "Burton's / Lower Thruway",
+   6.3
+  ],
+  [
+   "walk",
+   "Upper Thruway 4",
+   "Burton's / River Run",
+   3.7
+  ],
+  [
+   "walk",
+   "Upper Thruway 4",
+   "The Notch top",
+   4.2
+  ],
+  [
+   "walk",
+   "Upper Thruway 4",
+   "Boreen Loop / Boreen",
+   5.2
+  ],
+  [
+   "walk",
+   "Upper Thruway 4",
+   "Boreen Loop",
+   5.7
+  ],
+  [
+   "walk",
+   "Upper Thruway 4",
+   "Boreen",
+   5.9
+  ],
+  [
+   "walk",
+   "Falcon Flyer top",
+   "Coyote Cruiser top",
+   6.1
+  ],
+  [
+   "walk",
+   "Cloudsplitter Gondola bottom",
+   "Bear / Wolf",
+   3.0
+  ],
+  [
+   "walk",
+   "Round-A-Bout / Mixing Bowl",
+   "Bear / Wolf",
+   3.0
+  ],
+  [
+   "walk",
+   "Brookside / Porcupine Pass",
+   "Bear / Wolf",
+   4.1
+  ],
+  [
+   "walk",
+   "Bear / Wolf",
+   "Round-A-Bout / Mixing Bowl",
+   3.0
+  ],
+  [
+   "walk",
+   "Cloudsplitter Gondola bottom",
+   "Round-A-Bout / Mixing Bowl",
+   3.3
+  ],
+  [
+   "walk",
+   "Face Lift bottom",
+   "Round-A-Bout / Mixing Bowl",
+   3.5
+  ],
+  [
+   "walk",
+   "Brookside / Porcupine Pass",
+   "Round-A-Bout / Mixing Bowl",
+   5.4
+  ]
+ ],
+ "base": "Cloudsplitter Gondola bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "New York",
+  "total_lifts": "12",
+  "downhill_trails": "98",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": "https://www.whiteface.com/"
+ }
+}

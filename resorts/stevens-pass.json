@@ -1,0 +1,4232 @@
+{
+ "name": "Stevens Pass",
+ "source": "OpenSkiMap ski area 53a4f73effb0655bdb69989c1fb297c8206d04dc",
+ "origin_lonlat": [
+  -121.08889015264295,
+  47.736776805836946
+ ],
+ "nodes": {
+  "Hogsback Express top": [
+   -641,
+   -104,
+   1476.9
+  ],
+  "Rock 'N Blue / Easy Street": [
+   -198,
+   326,
+   1303.7
+  ],
+  "Unnamed run / Promenade": [
+   -21,
+   378,
+   1299.6
+  ],
+  "Unnamed run / Tye Creek": [
+   -101,
+   424,
+   1283.8
+  ],
+  "Tye Mill top": [
+   275,
+   -570,
+   1583.4
+  ],
+  "Gemini / Aquarius": [
+   996,
+   -721,
+   1329.8
+  ],
+  "Rock 'N Blue": [
+   -368,
+   -10,
+   1402.5
+  ],
+  "Walls Street / Hoot'n Holler": [
+   -172,
+   31,
+   1335.1
+  ],
+  "Daisy top": [
+   -203,
+   131,
+   1338.4
+  ],
+  "Daisy bottom": [
+   -132,
+   732,
+   1245.3
+  ],
+  "Unnamed lift bottom": [
+   -67,
+   710,
+   1248.1
+  ],
+  "Skyline Express top": [
+   -1396,
+   -272,
+   1602.8
+  ],
+  "Barrier Ridge / Skyline": [
+   -1089,
+   77,
+   1475.7
+  ],
+  "Jupiter Express top": [
+   303,
+   -535,
+   1581.5
+  ],
+  "Outerlimits / Pegasus": [
+   1399,
+   -698,
+   1176.2
+  ],
+  "Skid Road": [
+   -168,
+   -400,
+   1379.4
+  ],
+  "Skid Road / Haagen Hill": [
+   -183,
+   -347,
+   1373.7
+  ],
+  "Rock 'N Blue 2": [
+   -555,
+   -93,
+   1456.4
+  ],
+  "Shooting Star / Lower Gemini": [
+   1212,
+   -706,
+   1244.1
+  ],
+  "Marmot Meadows / Skyline": [
+   -929,
+   361,
+   1400.7
+  ],
+  "Hogsback Express bottom": [
+   -195,
+   761,
+   1240.7
+  ],
+  "Unnamed run / Skyline": [
+   -1191,
+   -64,
+   1514.0
+  ],
+  "Unnamed run / Hog Heaven": [
+   -833,
+   241,
+   1385.7
+  ],
+  "Pegasus / Double Diamond": [
+   717,
+   206,
+   1694.8
+  ],
+  "Unnamed run / Skyline 2": [
+   -409,
+   648,
+   1259.5
+  ],
+  "Skyline Express bottom": [
+   -288,
+   809,
+   1237.6
+  ],
+  "Easy Street": [
+   -198,
+   564,
+   1269.0
+  ],
+  "Easy Street 2": [
+   -177,
+   696,
+   1246.2
+  ],
+  "Panorama / Skyline": [
+   -796,
+   428,
+   1378.9
+  ],
+  "Panorama / Skyline 2": [
+   -529,
+   574,
+   1282.8
+  ],
+  "Crest Trail / Skid Road": [
+   221,
+   -762,
+   1539.2
+  ],
+  "Crest Trail / Haagen Hill": [
+   -143,
+   -311,
+   1368.7
+  ],
+  "International / Hog Heaven": [
+   -747,
+   -32,
+   1450.6
+  ],
+  "Marmot Meadows": [
+   -578,
+   374,
+   1333.3
+  ],
+  "Unnamed run / Lower Aquarius": [
+   1162,
+   -647,
+   1260.2
+  ],
+  "Skyline": [
+   -1348,
+   -250,
+   1595.8
+  ],
+  "Skyline / Unnamed run": [
+   -239,
+   780,
+   1238.8
+  ],
+  "Unnamed lift top": [
+   -86,
+   634,
+   1261.8
+  ],
+  "Waterfall / Brennan's Trail": [
+   -1210,
+   436,
+   1437.3
+  ],
+  "Unnamed run 2": [
+   -341,
+   768,
+   1249.7
+  ],
+  "Haagen Hill": [
+   -490,
+   -214,
+   1450.7
+  ],
+  "Unnamed run / Broadway": [
+   -1192,
+   297,
+   1443.4
+  ],
+  "Panorama": [
+   -729,
+   430,
+   1370.6
+  ],
+  "Skyline 2": [
+   -686,
+   532,
+   1330.1
+  ],
+  "Lower Gemini": [
+   1117,
+   -652,
+   1277.0
+  ],
+  "Kehr's Chair top": [
+   550,
+   559,
+   1497.5
+  ],
+  "Skyline 3": [
+   -1081,
+   153,
+   1456.4
+  ],
+  "Unnamed run 3": [
+   -1090,
+   284,
+   1431.9
+  ],
+  "Easy Street 3": [
+   -146,
+   196,
+   1324.1
+  ],
+  "Unnamed run 4": [
+   -69,
+   295,
+   1311.6
+  ],
+  "Easy Street 4": [
+   -206,
+   465,
+   1291.5
+  ],
+  "Unnamed run / Promenade 2": [
+   12,
+   616,
+   1261.5
+  ],
+  "Pegasus": [
+   839,
+   -223,
+   1524.0
+  ],
+  "Unnamed run 5": [
+   1039,
+   -659,
+   1313.6
+  ],
+  "Haagen Hill 2": [
+   -365,
+   -279,
+   1408.4
+  ],
+  "Jupiter Express bottom": [
+   1439,
+   -638,
+   1174.5
+  ],
+  "Aquarius": [
+   867,
+   -647,
+   1374.3
+  ],
+  "Unnamed run / Promenade 3": [
+   -15,
+   205,
+   1322.5
+  ],
+  "Unnamed run 6": [
+   -74,
+   224,
+   1322.2
+  ],
+  "Double Diamond / I-5": [
+   322,
+   593,
+   1365.6
+  ],
+  "Unnamed run / Brennan's Trail": [
+   -810,
+   634,
+   1334.6
+  ],
+  "Waterfall": [
+   -572,
+   650,
+   1288.1
+  ],
+  "76 Road / Promenade": [
+   -87,
+   -259,
+   1358.5
+  ],
+  "Easy Street 5": [
+   -163,
+   262,
+   1313.5
+  ],
+  "Marmot Meadows 2": [
+   -213,
+   677,
+   1247.7
+  ],
+  "Double Diamond top": [
+   739,
+   249,
+   1702.5
+  ],
+  "Kehr's Chair bottom": [
+   -26,
+   800,
+   1250.8
+  ],
+  "Southern Cross bottom": [
+   1489,
+   -667,
+   1166.4
+  ],
+  "Gemini": [
+   329,
+   -989,
+   1494.3
+  ],
+  "Gemini 2": [
+   575,
+   -996,
+   1437.6
+  ],
+  "Brooks Express top": [
+   -1340,
+   150,
+   1482.8
+  ],
+  "Waterfall 2": [
+   -422,
+   731,
+   1257.0
+  ],
+  "Rock 'N Blue 3": [
+   -611,
+   -74,
+   1470.3
+  ],
+  "Outerlimits": [
+   1124,
+   -937,
+   1292.9
+  ],
+  "Outerlimits 2": [
+   1310,
+   -888,
+   1195.0
+  ],
+  "Marmot Meadows 3": [
+   -732,
+   291,
+   1354.3
+  ],
+  "International": [
+   -621,
+   202,
+   1356.6
+  ],
+  "Gemini 3": [
+   290,
+   -758,
+   1559.7
+  ],
+  "Double Diamond": [
+   485,
+   425,
+   1483.6
+  ],
+  "Trapper / I-5": [
+   265,
+   595,
+   1337.1
+  ],
+  "Crest Trail": [
+   101,
+   -657,
+   1496.6
+  ],
+  "Skid Road 2": [
+   31,
+   -677,
+   1477.5
+  ],
+  "7th Heaven top": [
+   -1126,
+   -351,
+   1726.0
+  ],
+  "Aquarius 2": [
+   473,
+   -355,
+   1575.6
+  ],
+  "Brennan's Trail": [
+   -1287,
+   224,
+   1472.9
+  ],
+  "Skyline 4": [
+   -741,
+   519,
+   1342.4
+  ],
+  "Southdivide": [
+   583,
+   -189,
+   1626.0
+  ],
+  "Aquarius 3": [
+   679,
+   -381,
+   1502.5
+  ],
+  "Blue Trail": [
+   -268,
+   523,
+   1279.1
+  ],
+  "Broadway": [
+   -866,
+   499,
+   1373.3
+  ],
+  "Unnamed run / Promenade 4": [
+   -17,
+   255,
+   1319.0
+  ],
+  "Tye Creek": [
+   -102,
+   337,
+   1303.8
+  ],
+  "I-5 / Promenade": [
+   9,
+   723,
+   1252.6
+  ],
+  "Waterfall 3": [
+   -783,
+   566,
+   1348.2
+  ],
+  "Unnamed lift top 2": [
+   -118,
+   841,
+   1246.6
+  ],
+  "Unnamed lift bottom 2": [
+   -183,
+   809,
+   1239.5
+  ],
+  "Outerlimits 3": [
+   1031,
+   -808,
+   1318.8
+  ],
+  "Outerlimits 4": [
+   1360,
+   -785,
+   1182.4
+  ],
+  "Unnamed run 7": [
+   -72,
+   821,
+   1247.8
+  ],
+  "Broadway 2": [
+   -968,
+   434,
+   1395.8
+  ],
+  "Skyline 5": [
+   -1009,
+   256,
+   1419.3
+  ],
+  "Marmot Meadows 4": [
+   -803,
+   278,
+   1374.4
+  ],
+  "Aquarius 4": [
+   926,
+   -681,
+   1353.4
+  ],
+  "Double Diamond bottom": [
+   524,
+   522,
+   1500.1
+  ],
+  "Tye Mill bottom": [
+   -103,
+   -311,
+   1368.9
+  ],
+  "7th Heaven bottom": [
+   -1296,
+   -243,
+   1595.2
+  ]
+ },
+ "lifts": [
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top 2",
+   3.4
+  ],
+  [
+   "Double Diamond",
+   "Double Diamond bottom",
+   "Double Diamond top",
+   5.9
+  ],
+  [
+   "Skyline Express",
+   "Skyline Express bottom",
+   "Skyline Express top",
+   8.4
+  ],
+  [
+   "Daisy",
+   "Daisy bottom",
+   "Daisy top",
+   7.2
+  ],
+  [
+   "Southern Cross",
+   "Southern Cross bottom",
+   "Double Diamond top",
+   12.4
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top 2",
+   3.4
+  ],
+  [
+   "Brooks Express",
+   "Skyline Express bottom",
+   "Brooks Express top",
+   7.2
+  ],
+  [
+   "Hogsback Express",
+   "Hogsback Express bottom",
+   "Hogsback Express top",
+   7.3
+  ],
+  [
+   "Kehr's Chair",
+   "Kehr's Chair bottom",
+   "Kehr's Chair top",
+   7.9
+  ],
+  [
+   "Unnamed lift",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   4.7
+  ],
+  [
+   "Tye Mill",
+   "Tye Mill bottom",
+   "Tye Mill top",
+   6.6
+  ],
+  [
+   "Jupiter Express",
+   "Jupiter Express bottom",
+   "Jupiter Express top",
+   7.0
+  ],
+  [
+   "7th Heaven",
+   "7th Heaven bottom",
+   "7th Heaven top",
+   4.8
+  ]
+ ],
+ "runs": [
+  [
+   "Rock 'N Blue",
+   "Hogsback Express top",
+   "Rock 'N Blue 3",
+   0.5
+  ],
+  [
+   "Rock 'N Blue",
+   "Rock 'N Blue 3",
+   "Rock 'N Blue 2",
+   0.5
+  ],
+  [
+   "Rock 'N Blue",
+   "Rock 'N Blue 2",
+   "Rock 'N Blue",
+   0.9
+  ],
+  [
+   "Rock 'N Blue",
+   "Rock 'N Blue",
+   "Rock 'N Blue / Easy Street",
+   1.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Promenade",
+   "Unnamed run / Tye Creek",
+   0.5
+  ],
+  [
+   "Gemini",
+   "Tye Mill top",
+   "Gemini 3",
+   0.7
+  ],
+  [
+   "Gemini",
+   "Gemini 3",
+   "Gemini",
+   1.1
+  ],
+  [
+   "Gemini",
+   "Gemini",
+   "Gemini 2",
+   1.2
+  ],
+  [
+   "Gemini",
+   "Gemini 2",
+   "Gemini / Aquarius",
+   2.2
+  ],
+  [
+   "Walls Street",
+   "Rock 'N Blue",
+   "Walls Street / Hoot'n Holler",
+   0.8
+  ],
+  [
+   "Easy Street",
+   "Daisy top",
+   "Easy Street 3",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Easy Street 3",
+   "Easy Street 5",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Easy Street 5",
+   "Rock 'N Blue / Easy Street",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Rock 'N Blue / Easy Street",
+   "Easy Street 4",
+   0.6
+  ],
+  [
+   "Easy Street",
+   "Easy Street 4",
+   "Easy Street",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Easy Street",
+   "Easy Street 2",
+   0.6
+  ],
+  [
+   "Easy Street",
+   "Easy Street 2",
+   "Daisy bottom",
+   0.5
+  ],
+  [
+   "Barrier Ridge",
+   "Skyline Express top",
+   "Barrier Ridge / Skyline",
+   2.1
+  ],
+  [
+   "Aquarius",
+   "Jupiter Express top",
+   "Aquarius 2",
+   1.0
+  ],
+  [
+   "Aquarius",
+   "Aquarius 2",
+   "Aquarius 3",
+   0.9
+  ],
+  [
+   "Aquarius",
+   "Aquarius 3",
+   "Aquarius",
+   1.5
+  ],
+  [
+   "Aquarius",
+   "Aquarius",
+   "Aquarius 4",
+   0.5
+  ],
+  [
+   "Aquarius",
+   "Aquarius 4",
+   "Gemini / Aquarius",
+   0.5
+  ],
+  [
+   "Outerlimits",
+   "Gemini / Aquarius",
+   "Outerlimits 3",
+   0.5
+  ],
+  [
+   "Outerlimits",
+   "Outerlimits 3",
+   "Outerlimits",
+   0.9
+  ],
+  [
+   "Outerlimits",
+   "Outerlimits",
+   "Outerlimits 2",
+   3.1
+  ],
+  [
+   "Outerlimits",
+   "Outerlimits 2",
+   "Outerlimits 4",
+   0.5
+  ],
+  [
+   "Outerlimits",
+   "Outerlimits 4",
+   "Outerlimits / Pegasus",
+   0.5
+  ],
+  [
+   "Skid Road",
+   "Skid Road",
+   "Skid Road / Haagen Hill",
+   0.5
+  ],
+  [
+   "Rock 'N Blue",
+   "Rock 'N Blue 2",
+   "Hogsback Express top",
+   0.5
+  ],
+  [
+   "Shooting Star",
+   "Gemini / Aquarius",
+   "Shooting Star / Lower Gemini",
+   0.8
+  ],
+  [
+   "Marmot Meadows",
+   "Marmot Meadows / Skyline",
+   "Marmot Meadows 4",
+   0.6
+  ],
+  [
+   "Marmot Meadows",
+   "Marmot Meadows 4",
+   "Marmot Meadows 3",
+   0.5
+  ],
+  [
+   "Marmot Meadows",
+   "Marmot Meadows 3",
+   "Marmot Meadows",
+   0.8
+  ],
+  [
+   "Marmot Meadows",
+   "Marmot Meadows",
+   "Marmot Meadows 2",
+   2.2
+  ],
+  [
+   "Marmot Meadows",
+   "Marmot Meadows 2",
+   "Hogsback Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Skyline",
+   "Unnamed run / Hog Heaven",
+   1.9
+  ],
+  [
+   "Pegasus",
+   "Pegasus / Double Diamond",
+   "Pegasus",
+   1.9
+  ],
+  [
+   "Pegasus",
+   "Pegasus",
+   "Outerlimits / Pegasus",
+   3.4
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Skyline 2",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 2",
+   "Skyline Express bottom",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Easy Street",
+   "Marmot Meadows 2",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Marmot Meadows 2",
+   "Easy Street 2",
+   0.5
+  ],
+  [
+   "Lower Gemini",
+   "Gemini / Aquarius",
+   "Lower Gemini",
+   0.6
+  ],
+  [
+   "Lower Gemini",
+   "Lower Gemini",
+   "Shooting Star / Lower Gemini",
+   0.5
+  ],
+  [
+   "Lower Gemini",
+   "Shooting Star / Lower Gemini",
+   "Outerlimits / Pegasus",
+   0.8
+  ],
+  [
+   "Panorama",
+   "Panorama / Skyline",
+   "Panorama",
+   0.5
+  ],
+  [
+   "Panorama",
+   "Panorama",
+   "Panorama / Skyline 2",
+   1.1
+  ],
+  [
+   "Crest Trail",
+   "Crest Trail / Skid Road",
+   "Crest Trail",
+   0.5
+  ],
+  [
+   "Crest Trail",
+   "Crest Trail",
+   "Tye Mill bottom",
+   2.1
+  ],
+  [
+   "Crest Trail",
+   "Tye Mill bottom",
+   "Crest Trail / Haagen Hill",
+   0.5
+  ],
+  [
+   "International",
+   "International / Hog Heaven",
+   "International",
+   1.1
+  ],
+  [
+   "International",
+   "International",
+   "Marmot Meadows",
+   0.8
+  ],
+  [
+   "Skyline",
+   "Skyline",
+   "7th Heaven bottom",
+   0.5
+  ],
+  [
+   "Skyline",
+   "7th Heaven bottom",
+   "Unnamed run / Skyline",
+   0.7
+  ],
+  [
+   "Skyline",
+   "Unnamed run / Skyline",
+   "Barrier Ridge / Skyline",
+   0.8
+  ],
+  [
+   "Skyline",
+   "Barrier Ridge / Skyline",
+   "Skyline 3",
+   0.5
+  ],
+  [
+   "Skyline",
+   "Skyline 3",
+   "Skyline 5",
+   0.6
+  ],
+  [
+   "Skyline",
+   "Skyline 5",
+   "Marmot Meadows / Skyline",
+   0.6
+  ],
+  [
+   "Skyline",
+   "Marmot Meadows / Skyline",
+   "Panorama / Skyline",
+   0.6
+  ],
+  [
+   "Skyline",
+   "Panorama / Skyline",
+   "Skyline 4",
+   0.5
+  ],
+  [
+   "Skyline",
+   "Skyline 4",
+   "Skyline 2",
+   0.5
+  ],
+  [
+   "Skyline",
+   "Skyline 2",
+   "Panorama / Skyline 2",
+   0.7
+  ],
+  [
+   "Skyline",
+   "Panorama / Skyline 2",
+   "Unnamed run / Skyline 2",
+   0.6
+  ],
+  [
+   "Skyline",
+   "Unnamed run / Skyline 2",
+   "Skyline / Unnamed run",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift top",
+   "Easy Street 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Easy Street 2",
+   "Hogsback Express bottom",
+   0.5
+  ],
+  [
+   "Haagen Hill",
+   "Hogsback Express top",
+   "Haagen Hill",
+   0.7
+  ],
+  [
+   "Haagen Hill",
+   "Haagen Hill",
+   "Haagen Hill 2",
+   0.6
+  ],
+  [
+   "Haagen Hill",
+   "Haagen Hill 2",
+   "Skid Road / Haagen Hill",
+   0.9
+  ],
+  [
+   "Haagen Hill",
+   "Skid Road / Haagen Hill",
+   "Crest Trail / Haagen Hill",
+   0.5
+  ],
+  [
+   "Waterfall",
+   "Waterfall / Brennan's Trail",
+   "Waterfall 3",
+   1.8
+  ],
+  [
+   "Waterfall",
+   "Waterfall 3",
+   "Waterfall",
+   1.0
+  ],
+  [
+   "Waterfall",
+   "Waterfall",
+   "Waterfall 2",
+   0.8
+  ],
+  [
+   "Waterfall",
+   "Waterfall 2",
+   "Unnamed run 2",
+   0.5
+  ],
+  [
+   "Hoot'n Holler",
+   "Haagen Hill",
+   "Walls Street / Hoot'n Holler",
+   2.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Broadway",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 3",
+   "Marmot Meadows / Skyline",
+   0.8
+  ],
+  [
+   "Exhibition",
+   "Panorama",
+   "Skyline 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Gemini / Aquarius",
+   "Unnamed run 5",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 5",
+   "Lower Gemini",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Skyline 3",
+   "Unnamed run 3",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Easy Street 3",
+   "Unnamed run 6",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 6",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Easy Street 4",
+   "Unnamed run / Promenade 2",
+   1.0
+  ],
+  [
+   "Orion",
+   "Pegasus",
+   "Unnamed run 5",
+   2.3
+  ],
+  [
+   "Slow Poke",
+   "Haagen Hill 2",
+   "Crest Trail / Haagen Hill",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Outerlimits / Pegasus",
+   "Jupiter Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Promenade 3",
+   "Unnamed run 6",
+   0.5
+  ],
+  [
+   "Double Diamond",
+   "Pegasus / Double Diamond",
+   "Double Diamond",
+   1.5
+  ],
+  [
+   "Double Diamond",
+   "Double Diamond",
+   "Double Diamond / I-5",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Brennan's Trail",
+   "Waterfall",
+   1.1
+  ],
+  [
+   "76 Road",
+   "76 Road / Promenade",
+   "Walls Street / Hoot'n Holler",
+   1.2
+  ],
+  [
+   "76 Road",
+   "Walls Street / Hoot'n Holler",
+   "Easy Street 3",
+   0.7
+  ],
+  [
+   "76 Road",
+   "Easy Street 3",
+   "Easy Street 5",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Marmot Meadows 2",
+   "Easy Street 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Easy Street 2",
+   "Hogsback Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Hogsback Express bottom",
+   "Skyline / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Double Diamond top",
+   "Pegasus / Double Diamond",
+   0.5
+  ],
+  [
+   "Showcase",
+   "Kehr's Chair top",
+   "Kehr's Chair bottom",
+   3.8
+  ],
+  [
+   "Unnamed run",
+   "Outerlimits / Pegasus",
+   "Southern Cross bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Gemini",
+   "Gemini 2",
+   1.1
+  ],
+  [
+   "Brennan's Trail",
+   "Brooks Express top",
+   "Brennan's Trail",
+   0.5
+  ],
+  [
+   "Brennan's Trail",
+   "Brennan's Trail",
+   "Waterfall / Brennan's Trail",
+   1.0
+  ],
+  [
+   "Brennan's Trail",
+   "Waterfall / Brennan's Trail",
+   "Unnamed run / Brennan's Trail",
+   2.0
+  ],
+  [
+   "Brennan's Trail",
+   "Unnamed run / Brennan's Trail",
+   "Waterfall 2",
+   1.9
+  ],
+  [
+   "Blue Trail",
+   "Rock 'N Blue 3",
+   "Blue Trail",
+   2.9
+  ],
+  [
+   "Blue Trail",
+   "Blue Trail",
+   "Marmot Meadows 2",
+   0.7
+  ],
+  [
+   "Blue Trail",
+   "Marmot Meadows 2",
+   "Hogsback Express bottom",
+   0.5
+  ],
+  [
+   "Lower Voltage",
+   "Outerlimits",
+   "Outerlimits 2",
+   0.8
+  ],
+  [
+   "Hog Heaven",
+   "Hogsback Express top",
+   "International / Hog Heaven",
+   0.5
+  ],
+  [
+   "Hog Heaven",
+   "International / Hog Heaven",
+   "Unnamed run / Hog Heaven",
+   1.3
+  ],
+  [
+   "Hog Heaven",
+   "Unnamed run / Hog Heaven",
+   "Marmot Meadows 4",
+   0.5
+  ],
+  [
+   "Hog Heaven",
+   "Marmot Meadows 4",
+   "Marmot Meadows 3",
+   0.5
+  ],
+  [
+   "Parachute 1",
+   "Hogsback Express top",
+   "Rock 'N Blue 3",
+   0.5
+  ],
+  [
+   "Parachute 1",
+   "Rock 'N Blue 3",
+   "International",
+   1.2
+  ],
+  [
+   "Skid Road",
+   "Gemini 3",
+   "Crest Trail / Skid Road",
+   0.5
+  ],
+  [
+   "Skid Road",
+   "Crest Trail / Skid Road",
+   "Skid Road 2",
+   0.9
+  ],
+  [
+   "Skid Road",
+   "Skid Road 2",
+   "Skid Road",
+   1.6
+  ],
+  [
+   "Skid Road",
+   "Skid Road",
+   "Skid Road / Haagen Hill",
+   0.5
+  ],
+  [
+   "Skid Road",
+   "Skid Road / Haagen Hill",
+   "Crest Trail / Haagen Hill",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Skyline Express bottom",
+   "Skyline / Unnamed run",
+   0.5
+  ],
+  [
+   "Trapper",
+   "Double Diamond",
+   "Trapper / I-5",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Crest Trail",
+   "Skid Road 2",
+   0.5
+  ],
+  [
+   "Southdivide",
+   "Pegasus / Double Diamond",
+   "Southdivide",
+   1.7
+  ],
+  [
+   "Southdivide",
+   "Southdivide",
+   "Aquarius 2",
+   0.9
+  ],
+  [
+   "Broadway",
+   "Brennan's Trail",
+   "Unnamed run / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Unnamed run / Broadway",
+   "Broadway 2",
+   1.1
+  ],
+  [
+   "Broadway",
+   "Broadway 2",
+   "Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Broadway",
+   "Skyline 4",
+   0.5
+  ],
+  [
+   "Aquarius Face",
+   "Southdivide",
+   "Aquarius 3",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Easy Street 4",
+   "Blue Trail",
+   0.5
+  ],
+  [
+   "Tye Creek",
+   "Easy Street 5",
+   "Tye Creek",
+   0.5
+  ],
+  [
+   "Tye Creek",
+   "Tye Creek",
+   "Unnamed run / Tye Creek",
+   0.5
+  ],
+  [
+   "Tye Creek",
+   "Unnamed run / Tye Creek",
+   "Unnamed lift top",
+   1.0
+  ],
+  [
+   "Tye Creek",
+   "Unnamed lift top",
+   "Daisy bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Marmot Meadows / Skyline",
+   "Broadway",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Promenade 4",
+   "Unnamed run 4",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 4",
+   "Tye Creek",
+   0.5
+  ],
+  [
+   "I-5",
+   "Kehr's Chair top",
+   "Double Diamond / I-5",
+   0.9
+  ],
+  [
+   "I-5",
+   "Double Diamond / I-5",
+   "Trapper / I-5",
+   0.5
+  ],
+  [
+   "I-5",
+   "Trapper / I-5",
+   "I-5 / Promenade",
+   1.2
+  ],
+  [
+   "One Light",
+   "Waterfall 3",
+   "Waterfall",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 2",
+   0.5
+  ],
+  [
+   "Promenade",
+   "Crest Trail / Haagen Hill",
+   "76 Road / Promenade",
+   0.5
+  ],
+  [
+   "Promenade",
+   "76 Road / Promenade",
+   "Unnamed run / Promenade 3",
+   2.0
+  ],
+  [
+   "Promenade",
+   "Unnamed run / Promenade 3",
+   "Unnamed run / Promenade 4",
+   0.5
+  ],
+  [
+   "Promenade",
+   "Unnamed run / Promenade 4",
+   "Unnamed run / Promenade",
+   0.5
+  ],
+  [
+   "Promenade",
+   "Unnamed run / Promenade",
+   "Unnamed run / Promenade 2",
+   1.0
+  ],
+  [
+   "Promenade",
+   "Unnamed run / Promenade 2",
+   "I-5 / Promenade",
+   0.5
+  ],
+  [
+   "Promenade",
+   "I-5 / Promenade",
+   "Kehr's Chair bottom",
+   0.5
+  ],
+  [
+   "Borealis",
+   "Outerlimits 3",
+   "Outerlimits 4",
+   1.4
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 7",
+   "Unnamed lift bottom 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed lift bottom 2",
+   "Hogsback Express bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Broadway 2",
+   "Broadway",
+   0.5
+  ],
+  [
+   "Marmot Meadows",
+   "Skyline 5",
+   "Unnamed run / Hog Heaven",
+   0.7
+  ],
+  [
+   "Marmot Meadows",
+   "Unnamed run / Hog Heaven",
+   "Marmot Meadows 4",
+   0.5
+  ],
+  [
+   "Lower Aquarius",
+   "Aquarius 4",
+   "Unnamed run 5",
+   0.5
+  ],
+  [
+   "Lower Aquarius",
+   "Unnamed run 5",
+   "Lower Gemini",
+   0.5
+  ],
+  [
+   "Lower Aquarius",
+   "Lower Gemini",
+   "Unnamed run / Lower Aquarius",
+   0.5
+  ],
+  [
+   "Lower Aquarius",
+   "Unnamed run / Lower Aquarius",
+   "Outerlimits / Pegasus",
+   1.1
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Hogsback Express top",
+   "Rock 'N Blue 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Hogsback Express top",
+   "International / Hog Heaven",
+   1.8
+  ],
+  [
+   "walk",
+   "Hogsback Express top",
+   "Haagen Hill",
+   2.6
+  ],
+  [
+   "walk",
+   "Hogsback Express top",
+   "Rock 'N Blue 3",
+   0.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Unnamed lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Tye Mill top",
+   "Jupiter Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Tye Mill top",
+   "Crest Trail / Skid Road",
+   2.8
+  ],
+  [
+   "walk",
+   "Tye Mill top",
+   "Gemini 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Tye Mill top",
+   "Crest Trail",
+   2.7
+  ],
+  [
+   "walk",
+   "Rock 'N Blue",
+   "Daisy top",
+   3.0
+  ],
+  [
+   "walk",
+   "Walls Street / Hoot'n Holler",
+   "Daisy top",
+   1.5
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Rock 'N Blue / Easy Street",
+   2.7
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Walls Street / Hoot'n Holler",
+   1.5
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Easy Street 3",
+   1.2
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Unnamed run 4",
+   2.9
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Unnamed run / Promenade 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Unnamed run 6",
+   2.2
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Easy Street 5",
+   1.9
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Unnamed run / Promenade 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Tye Creek",
+   3.2
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Unnamed lift bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Hogsback Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Skyline Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Easy Street 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Skyline / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Unnamed run 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Marmot Meadows 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Kehr's Chair bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "I-5 / Promenade",
+   2.0
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Unnamed lift top 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Unnamed lift bottom 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Unnamed run 7",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Daisy bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Hogsback Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Skyline Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Easy Street 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Skyline / Unnamed run",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift top",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed run / Promenade 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Marmot Meadows 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Kehr's Chair bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "I-5 / Promenade",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift top 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed lift bottom 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed run 7",
+   1.5
+  ],
+  [
+   "walk",
+   "Skyline Express top",
+   "Skyline",
+   0.7
+  ],
+  [
+   "walk",
+   "Skyline Express top",
+   "7th Heaven bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Jupiter Express top",
+   "Tye Mill top",
+   0.6
+  ],
+  [
+   "walk",
+   "Jupiter Express top",
+   "Crest Trail / Skid Road",
+   3.4
+  ],
+  [
+   "walk",
+   "Jupiter Express top",
+   "Gemini 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Jupiter Express top",
+   "Crest Trail",
+   3.3
+  ],
+  [
+   "walk",
+   "Jupiter Express top",
+   "Aquarius 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Outerlimits / Pegasus",
+   "Jupiter Express bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Outerlimits / Pegasus",
+   "Southern Cross bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Skid Road",
+   "Tye Mill bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Skid Road / Haagen Hill",
+   "Tye Mill bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Shooting Star / Lower Gemini",
+   "Jupiter Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Daisy bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Unnamed lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Skyline Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Easy Street 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Skyline / Unnamed run",
+   0.7
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Unnamed run 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Marmot Meadows 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Kehr's Chair bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "I-5 / Promenade",
+   2.9
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Unnamed lift top 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Unnamed lift bottom 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Unnamed run 7",
+   1.9
+  ],
+  [
+   "walk",
+   "Pegasus / Double Diamond",
+   "Double Diamond top",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Hogsback Express bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Skyline Express bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Daisy bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Unnamed lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Hogsback Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Easy Street 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Skyline / Unnamed run",
+   0.8
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Unnamed run 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Marmot Meadows 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Unnamed lift top 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Unnamed lift bottom 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Unnamed run 7",
+   3.0
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Daisy bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Unnamed lift bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Hogsback Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Unnamed lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Unnamed lift bottom 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Daisy bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Unnamed lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Hogsback Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Skyline Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Kehr's Chair bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Unnamed lift top 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Unnamed lift bottom 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Crest Trail / Haagen Hill",
+   "Tye Mill bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Skyline",
+   "Skyline Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Skyline",
+   "7th Heaven bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Daisy bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Unnamed lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Hogsback Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Skyline Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Easy Street 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Unnamed run 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Marmot Meadows 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Kehr's Chair bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Unnamed lift top 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Unnamed lift bottom 2",
+   0.9
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Unnamed run 7",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Daisy bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Hogsback Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Easy Street",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Easy Street 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Skyline / Unnamed run",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed run / Promenade 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Marmot Meadows 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Kehr's Chair bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "I-5 / Promenade",
+   1.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift top 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed lift bottom 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed run 7",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Daisy bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Hogsback Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Skyline Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed lift top 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed lift bottom 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Kehr's Chair top",
+   "Double Diamond / I-5",
+   3.2
+  ],
+  [
+   "walk",
+   "Kehr's Chair top",
+   "Double Diamond",
+   2.1
+  ],
+  [
+   "walk",
+   "Kehr's Chair top",
+   "Double Diamond bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Easy Street 3",
+   "Daisy top",
+   1.2
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Unnamed lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Daisy bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Unnamed lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Unnamed lift top",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Kehr's Chair bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Jupiter Express bottom",
+   "Outerlimits / Pegasus",
+   1.0
+  ],
+  [
+   "walk",
+   "Jupiter Express bottom",
+   "Southern Cross bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Jupiter Express bottom",
+   "Outerlimits 4",
+   2.3
+  ],
+  [
+   "walk",
+   "76 Road / Promenade",
+   "Tye Mill bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Daisy bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Unnamed lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Hogsback Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Skyline Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Unnamed lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Kehr's Chair bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Unnamed lift top 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Unnamed lift bottom 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Double Diamond top",
+   "Pegasus / Double Diamond",
+   0.7
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Daisy bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Unnamed lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Hogsback Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Easy Street 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Skyline / Unnamed run",
+   3.0
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Unnamed lift top",
+   2.5
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Unnamed run / Promenade 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Marmot Meadows 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "I-5 / Promenade",
+   1.2
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Unnamed lift top 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Unnamed lift bottom 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Unnamed run 7",
+   0.7
+  ],
+  [
+   "walk",
+   "Southern Cross bottom",
+   "Outerlimits / Pegasus",
+   1.3
+  ],
+  [
+   "walk",
+   "Southern Cross bottom",
+   "Jupiter Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Brooks Express top",
+   "Unnamed run / Broadway",
+   2.9
+  ],
+  [
+   "walk",
+   "Brooks Express top",
+   "Brennan's Trail",
+   1.3
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Hogsback Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Skyline Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Rock 'N Blue 3",
+   "Hogsback Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "Double Diamond",
+   "Kehr's Chair top",
+   2.1
+  ],
+  [
+   "walk",
+   "7th Heaven top",
+   "Skyline",
+   3.4
+  ],
+  [
+   "walk",
+   "7th Heaven top",
+   "7th Heaven bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Aquarius 2",
+   "Jupiter Express top",
+   3.4
+  ],
+  [
+   "walk",
+   "Brennan's Trail",
+   "Brooks Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Daisy bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Hogsback Express bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Unnamed lift top",
+   3.0
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Daisy bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Unnamed lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Hogsback Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Unnamed lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Kehr's Chair bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Unnamed lift top 2",
+   2.4
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Unnamed lift bottom 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Daisy bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Hogsback Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Skyline Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Easy Street 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Skyline / Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed run 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Marmot Meadows 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Kehr's Chair bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "I-5 / Promenade",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift bottom 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed run 7",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Daisy bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Hogsback Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Skyline Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Easy Street 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Skyline / Unnamed run",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed run 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Marmot Meadows 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Kehr's Chair bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "I-5 / Promenade",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed run 7",
+   1.6
+  ],
+  [
+   "walk",
+   "Outerlimits 4",
+   "Jupiter Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Outerlimits 4",
+   "Southern Cross bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Daisy bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Unnamed lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Hogsback Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Skyline Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Unnamed lift top",
+   2.6
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Kehr's Chair bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Unnamed lift top 2",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Unnamed lift bottom 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Double Diamond bottom",
+   "Kehr's Chair top",
+   0.6
+  ],
+  [
+   "walk",
+   "Double Diamond bottom",
+   "Double Diamond / I-5",
+   3.0
+  ],
+  [
+   "walk",
+   "Double Diamond bottom",
+   "Double Diamond",
+   1.5
+  ],
+  [
+   "walk",
+   "Tye Mill bottom",
+   "Skid Road",
+   1.5
+  ],
+  [
+   "walk",
+   "Tye Mill bottom",
+   "Skid Road / Haagen Hill",
+   1.2
+  ],
+  [
+   "walk",
+   "Tye Mill bottom",
+   "Crest Trail / Haagen Hill",
+   0.6
+  ],
+  [
+   "walk",
+   "Tye Mill bottom",
+   "76 Road / Promenade",
+   0.8
+  ],
+  [
+   "walk",
+   "7th Heaven bottom",
+   "Skyline Express top",
+   1.4
+  ],
+  [
+   "walk",
+   "7th Heaven bottom",
+   "Unnamed run / Skyline",
+   2.9
+  ],
+  [
+   "walk",
+   "7th Heaven bottom",
+   "Skyline",
+   0.7
+  ],
+  [
+   "walk",
+   "Rock 'N Blue 3",
+   "Rock 'N Blue 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Rock 'N Blue 3",
+   "International / Hog Heaven",
+   2.4
+  ],
+  [
+   "walk",
+   "Rock 'N Blue 3",
+   "Haagen Hill",
+   3.2
+  ],
+  [
+   "walk",
+   "Rock 'N Blue",
+   "Rock 'N Blue / Easy Street",
+   5.7
+  ],
+  [
+   "walk",
+   "Rock 'N Blue",
+   "Walls Street / Hoot'n Holler",
+   4.5
+  ],
+  [
+   "walk",
+   "Rock 'N Blue",
+   "Easy Street 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Rock 'N Blue",
+   "Unnamed run 4",
+   6.0
+  ],
+  [
+   "walk",
+   "Rock 'N Blue",
+   "Unnamed run / Promenade 3",
+   5.8
+  ],
+  [
+   "walk",
+   "Rock 'N Blue",
+   "Unnamed run 6",
+   5.2
+  ],
+  [
+   "walk",
+   "Rock 'N Blue",
+   "Easy Street 5",
+   4.9
+  ],
+  [
+   "walk",
+   "Rock 'N Blue",
+   "Unnamed run / Promenade 4",
+   6.1
+  ],
+  [
+   "walk",
+   "Rock 'N Blue",
+   "Tye Creek",
+   6.2
+  ],
+  [
+   "walk",
+   "Walls Street / Hoot'n Holler",
+   "Rock 'N Blue / Easy Street",
+   4.2
+  ],
+  [
+   "walk",
+   "Walls Street / Hoot'n Holler",
+   "Easy Street 3",
+   2.6
+  ],
+  [
+   "walk",
+   "Walls Street / Hoot'n Holler",
+   "Unnamed run 4",
+   4.4
+  ],
+  [
+   "walk",
+   "Walls Street / Hoot'n Holler",
+   "Unnamed run / Promenade 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Walls Street / Hoot'n Holler",
+   "Unnamed run 6",
+   3.7
+  ],
+  [
+   "walk",
+   "Walls Street / Hoot'n Holler",
+   "Easy Street 5",
+   3.4
+  ],
+  [
+   "walk",
+   "Walls Street / Hoot'n Holler",
+   "Unnamed run / Promenade 4",
+   4.6
+  ],
+  [
+   "walk",
+   "Walls Street / Hoot'n Holler",
+   "Tye Creek",
+   4.6
+  ],
+  [
+   "walk",
+   "Easy Street 3",
+   "Rock 'N Blue / Easy Street",
+   3.9
+  ],
+  [
+   "walk",
+   "Easy Street 3",
+   "Walls Street / Hoot'n Holler",
+   2.6
+  ],
+  [
+   "walk",
+   "Easy Street 3",
+   "Unnamed run 4",
+   4.1
+  ],
+  [
+   "walk",
+   "Easy Street 3",
+   "Unnamed run / Promenade 3",
+   4.0
+  ],
+  [
+   "walk",
+   "Easy Street 3",
+   "Unnamed run 6",
+   3.4
+  ],
+  [
+   "walk",
+   "Easy Street 3",
+   "Easy Street 5",
+   3.1
+  ],
+  [
+   "walk",
+   "Easy Street 3",
+   "Unnamed run / Promenade 4",
+   4.3
+  ],
+  [
+   "walk",
+   "Easy Street 3",
+   "Tye Creek",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Unnamed run 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Kehr's Chair bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "I-5 / Promenade",
+   4.3
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Skyline Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Easy Street 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Skyline / Unnamed run",
+   3.4
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Unnamed run 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Marmot Meadows 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Kehr's Chair bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "I-5 / Promenade",
+   3.7
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Unnamed lift top 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Unnamed run 7",
+   4.0
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Skyline / Unnamed run",
+   1.6
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Unnamed run 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Marmot Meadows 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "I-5 / Promenade",
+   2.6
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Unnamed run 7",
+   2.3
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "I-5 / Promenade",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Skyline Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed lift top",
+   "Unnamed run 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed lift bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Easy Street 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Skyline / Unnamed run",
+   1.7
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Marmot Meadows 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Kehr's Chair bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "I-5 / Promenade",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed run 7",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Hogsback Express bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Skyline Express bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Easy Street 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Skyline / Unnamed run",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Unnamed run 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Marmot Meadows 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "I-5 / Promenade",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Unnamed lift top 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Unnamed lift bottom 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Unnamed run 7",
+   3.2
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Easy Street 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Skyline / Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Unnamed run 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "I-5 / Promenade",
+   3.2
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Unnamed run 7",
+   2.8
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Skyline Express bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Unnamed run 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Unnamed lift bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Skyline Express bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Easy Street 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Skyline / Unnamed run",
+   4.1
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Unnamed run 2",
+   5.5
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Marmot Meadows 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Kehr's Chair bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "I-5 / Promenade",
+   4.8
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Unnamed lift top 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Unnamed lift bottom 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Unnamed run 7",
+   5.0
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Skyline Express bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Easy Street 2",
+   2.6
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Skyline / Unnamed run",
+   3.6
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Unnamed run 2",
+   4.9
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Marmot Meadows 2",
+   3.2
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Unnamed run 7",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Easy Street 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Skyline / Unnamed run",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Unnamed run 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Marmot Meadows 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "I-5 / Promenade",
+   1.9
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Unnamed lift top",
+   2.0
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Unnamed run / Promenade 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Unnamed lift top",
+   3.0
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Unnamed run / Promenade 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Unnamed lift top",
+   4.0
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Unnamed run / Promenade 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Easy Street",
+   "Unnamed run / Promenade 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Unnamed lift top",
+   2.6
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Unnamed run / Promenade 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Unnamed lift top",
+   3.4
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Unnamed run / Promenade 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Unnamed run / Promenade 2",
+   3.2
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Unnamed run / Promenade 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed lift top",
+   3.0
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Unnamed run / Promenade 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed lift top",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Unnamed run / Promenade 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Unnamed run / Promenade 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed lift top",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Unnamed run / Promenade 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Unnamed run / Promenade 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Tye Mill top",
+   "Aquarius 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Aquarius 2",
+   "Tye Mill top",
+   4.1
+  ],
+  [
+   "walk",
+   "Aquarius 2",
+   "Crest Trail / Skid Road",
+   6.8
+  ],
+  [
+   "walk",
+   "Aquarius 2",
+   "Gemini 3",
+   6.5
+  ],
+  [
+   "walk",
+   "Aquarius 2",
+   "Crest Trail",
+   6.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Daisy bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Unnamed lift bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Easy Street 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Skyline / Unnamed run",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Unnamed run 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Marmot Meadows 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Kehr's Chair bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "I-5 / Promenade",
+   6.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Unnamed lift top 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Unnamed lift bottom 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Unnamed run 7",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Skyline 2",
+   "Unnamed lift top",
+   6.4
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Daisy bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Unnamed lift bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Easy Street 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Skyline / Unnamed run",
+   2.9
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Unnamed run 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Marmot Meadows 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Kehr's Chair bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "I-5 / Promenade",
+   6.1
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Unnamed lift top 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Unnamed lift bottom 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Unnamed run 7",
+   5.1
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Unnamed lift top",
+   6.1
+  ],
+  [
+   "walk",
+   "Waterfall 2",
+   "Unnamed run / Promenade 2",
+   6.8
+  ],
+  [
+   "walk",
+   "7th Heaven top",
+   "Skyline Express top",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Daisy bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Unnamed lift bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Hogsback Express bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Easy Street",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Easy Street 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Skyline / Unnamed run",
+   5.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Unnamed run / Promenade 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Marmot Meadows 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Kehr's Chair bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "I-5 / Promenade",
+   4.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Unnamed lift top 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Unnamed lift bottom 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Unnamed run 7",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Tye Creek",
+   "Skyline Express bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom",
+   "Easy Street",
+   2.9
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Daisy bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Unnamed lift bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Hogsback Express bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Easy Street",
+   4.7
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Easy Street 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Skyline / Unnamed run",
+   5.8
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Unnamed run / Promenade 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Marmot Meadows 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Kehr's Chair bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "I-5 / Promenade",
+   4.7
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Unnamed lift top 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Unnamed lift bottom 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Unnamed run 7",
+   5.5
+  ],
+  [
+   "walk",
+   "Easy Street 4",
+   "Skyline Express bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Promenade 2",
+   "Easy Street",
+   3.2
+  ],
+  [
+   "walk",
+   "Marmot Meadows 2",
+   "Easy Street",
+   3.7
+  ],
+  [
+   "walk",
+   "Kehr's Chair bottom",
+   "Easy Street",
+   4.3
+  ],
+  [
+   "walk",
+   "Blue Trail",
+   "Easy Street",
+   4.8
+  ],
+  [
+   "walk",
+   "I-5 / Promenade",
+   "Easy Street",
+   3.7
+  ],
+  [
+   "walk",
+   "Unnamed run 7",
+   "Easy Street",
+   4.4
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Easy Street",
+   3.9
+  ],
+  [
+   "walk",
+   "Hogsback Express bottom",
+   "Easy Street",
+   4.9
+  ],
+  [
+   "walk",
+   "Skyline Express bottom",
+   "Easy Street",
+   5.8
+  ],
+  [
+   "walk",
+   "Easy Street 2",
+   "Easy Street",
+   4.5
+  ],
+  [
+   "walk",
+   "Skyline / Unnamed run",
+   "Easy Street",
+   5.2
+  ],
+  [
+   "walk",
+   "Unnamed lift top 2",
+   "Easy Street",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed lift bottom 2",
+   "Easy Street",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run 2",
+   "Easy Street",
+   6.8
+  ],
+  [
+   "walk",
+   "Double Diamond",
+   "Double Diamond / I-5",
+   5.3
+  ],
+  [
+   "walk",
+   "Double Diamond",
+   "Double Diamond bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Outerlimits / Pegasus",
+   "Outerlimits 4",
+   3.3
+  ],
+  [
+   "walk",
+   "Shooting Star / Lower Gemini",
+   "Outerlimits / Pegasus",
+   4.3
+  ],
+  [
+   "walk",
+   "Shooting Star / Lower Gemini",
+   "Southern Cross bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Shooting Star / Lower Gemini",
+   "Outerlimits 4",
+   5.6
+  ],
+  [
+   "walk",
+   "Southern Cross bottom",
+   "Outerlimits 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Outerlimits 4",
+   "Outerlimits / Pegasus",
+   3.3
+  ],
+  [
+   "walk",
+   "Brennan's Trail",
+   "Unnamed run / Broadway",
+   4.2
+  ],
+  [
+   "walk",
+   "Skid Road",
+   "Skid Road / Haagen Hill",
+   2.8
+  ],
+  [
+   "walk",
+   "Skid Road",
+   "Crest Trail / Haagen Hill",
+   2.1
+  ],
+  [
+   "walk",
+   "Skid Road",
+   "76 Road / Promenade",
+   2.3
+  ],
+  [
+   "walk",
+   "Skid Road / Haagen Hill",
+   "Skid Road",
+   2.8
+  ],
+  [
+   "walk",
+   "Skid Road / Haagen Hill",
+   "Crest Trail / Haagen Hill",
+   1.8
+  ],
+  [
+   "walk",
+   "Skid Road / Haagen Hill",
+   "76 Road / Promenade",
+   2.0
+  ],
+  [
+   "walk",
+   "Crest Trail / Haagen Hill",
+   "Skid Road",
+   2.1
+  ],
+  [
+   "walk",
+   "Crest Trail / Haagen Hill",
+   "Skid Road / Haagen Hill",
+   1.8
+  ],
+  [
+   "walk",
+   "Crest Trail / Haagen Hill",
+   "76 Road / Promenade",
+   1.3
+  ],
+  [
+   "walk",
+   "76 Road / Promenade",
+   "Skid Road",
+   2.3
+  ],
+  [
+   "walk",
+   "76 Road / Promenade",
+   "Skid Road / Haagen Hill",
+   2.0
+  ],
+  [
+   "walk",
+   "76 Road / Promenade",
+   "Crest Trail / Haagen Hill",
+   1.3
+  ],
+  [
+   "walk",
+   "Skyline Express top",
+   "Unnamed run / Skyline",
+   4.3
+  ],
+  [
+   "walk",
+   "Skyline",
+   "Unnamed run / Skyline",
+   3.6
+  ],
+  [
+   "walk",
+   "7th Heaven top",
+   "Unnamed run / Skyline",
+   5.7
+  ]
+ ],
+ "base": "Hogsback Express bottom",
+ "info": {}
+}

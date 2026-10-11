@@ -1,0 +1,6328 @@
+{
+ "name": "Sunday River",
+ "source": "OpenSkiMap ski area 54bceeb62ccd2209e50b8dc7e06b8daa1727ce34",
+ "origin_lonlat": [
+  -70.87459518207486,
+  44.467866060748214
+ ],
+ "nodes": {
+  "Aurora Peak Quad top": [
+   -1216,
+   -534,
+   841.2
+  ],
+  "Aurora Peak Quad bottom": [
+   -905,
+   411,
+   509.9
+  ],
+  "Cutback / Wildfire": [
+   1218,
+   9,
+   388.5
+  ],
+  "Cutback / Cascades": [
+   1067,
+   118,
+   360.3
+  ],
+  "Escapade / Dream Maker": [
+   -289,
+   360,
+   633.1
+  ],
+  "North Peak Express bottom": [
+   781,
+   657,
+   356.6
+  ],
+  "Quantum Leap Triple top": [
+   -418,
+   254,
+   653.7
+  ],
+  "Spruce Peak Triple bottom": [
+   455,
+   198,
+   451.2
+  ],
+  "3D / Second Mile": [
+   -75,
+   431,
+   603.6
+  ],
+  "3D / Dreammaker": [
+   593,
+   762,
+   377.6
+  ],
+  "Cascades / Sunday Punch": [
+   779,
+   -719,
+   643.6
+  ],
+  "Cascades / Roadrunner": [
+   1029,
+   158,
+   354.5
+  ],
+  "Wonderland (Mixing Bowl) / Mixing Bowl": [
+   1058,
+   421,
+   354.4
+  ],
+  "Wonderland (Mixing Bowl) / Mixing Bowl 2": [
+   1181,
+   452,
+   336.0
+  ],
+  "Airglow": [
+   -1166,
+   -350,
+   773.0
+  ],
+  "Oz Quad bottom": [
+   -1958,
+   -141,
+   635.1
+  ],
+  "Tempest": [
+   1760,
+   -62,
+   324.7
+  ],
+  "White Cap Quad bottom": [
+   2097,
+   113,
+   253.8
+  ],
+  "Downdraft / Second Mile": [
+   -322,
+   84,
+   635.9
+  ],
+  "Downdraft / American Express": [
+   56,
+   133,
+   570.1
+  ],
+  "Barker 6 top": [
+   193,
+   -953,
+   775.3
+  ],
+  "Right Stuff / Lower Sunday Punch": [
+   667,
+   -24,
+   420.7
+  ],
+  "T2 / Goat Path": [
+   530,
+   -1161,
+   773.1
+  ],
+  "Cascades": [
+   844,
+   -707,
+   627.3
+  ],
+  "Lower North Woods / Ridge Run": [
+   349,
+   572,
+   448.0
+  ],
+  "Lower North Woods / Dreammaker": [
+   688,
+   724,
+   361.2
+  ],
+  "Locke Mountain Triple top": [
+   598,
+   -1183,
+   781.2
+  ],
+  "Bim's Whim / Salvation": [
+   934,
+   -1009,
+   709.3
+  ],
+  "Emerald City / Kansas": [
+   -2163,
+   -849,
+   896.5
+  ],
+  "Cyclone": [
+   -1885,
+   -306,
+   670.7
+  ],
+  "Mixing Bowl / Broadway": [
+   1271,
+   518,
+   317.9
+  ],
+  "Escapade": [
+   354,
+   398,
+   467.9
+  ],
+  "Exit Right / Thataway": [
+   407,
+   346,
+   459.7
+  ],
+  "Ridge Express / Spectra": [
+   951,
+   1050,
+   355.6
+  ],
+  "Ridge Express / Ridge Run": [
+   1104,
+   924,
+   335.1
+  ],
+  "South Ridge Express top": [
+   426,
+   384,
+   455.1
+  ],
+  "Airglow 2": [
+   -1127,
+   12,
+   663.7
+  ],
+  "Airglow 3": [
+   -944,
+   307,
+   530.8
+  ],
+  "Celestial / Lights Out": [
+   -1020,
+   -312,
+   738.1
+  ],
+  "Black Hole": [
+   -988,
+   93,
+   585.9
+  ],
+  "Lost Princess / Cowardly Lion": [
+   -2389,
+   -873,
+   935.7
+  ],
+  "Cyclone 2": [
+   -1969,
+   -265,
+   654.0
+  ],
+  "White Cap Quad top": [
+   1163,
+   -383,
+   520.2
+  ],
+  "Wildfire / Roadrunner": [
+   1301,
+   187,
+   335.3
+  ],
+  "iCaramba! / Rogue Angel": [
+   -2536,
+   -550,
+   923.7
+  ],
+  "iCaramba! / State Fair": [
+   -1914,
+   90,
+   605.9
+  ],
+  "Poppy Fields / Kansas": [
+   -2100,
+   -836,
+   885.3
+  ],
+  "Cyclone 3": [
+   -1843,
+   -301,
+   675.0
+  ],
+  "Jibe / Tempest": [
+   1559,
+   -174,
+   375.1
+  ],
+  "Roadrunner / Moonstruck": [
+   2110,
+   152,
+   253.5
+  ],
+  "Last Tango / Lazy River": [
+   -4,
+   -312,
+   625.4
+  ],
+  "Last Tango / Lower Sunday Punch": [
+   715,
+   58,
+   403.9
+  ],
+  "Second Mile / Sensation": [
+   -189,
+   611,
+   583.3
+  ],
+  "Paradigm / Backside": [
+   -485,
+   165,
+   641.9
+  ],
+  "Double Blind / Excalibur": [
+   -2517,
+   -153,
+   804.5
+  ],
+  "Double Blind / Blind Ambition": [
+   -2363,
+   341,
+   650.0
+  ],
+  "Merrill Hill II top": [
+   12,
+   1557,
+   569.9
+  ],
+  "Moonstruck / Green Cheese": [
+   2057,
+   -673,
+   381.0
+  ],
+  "Little White Cap Quad bottom": [
+   2182,
+   149,
+   248.9
+  ],
+  "Merrill Hill Triple bottom": [
+   317,
+   957,
+   425.4
+  ],
+  "Absolutely / Last Mile": [
+   236,
+   488,
+   489.8
+  ],
+  "Absolutely / Northway": [
+   698,
+   649,
+   375.2
+  ],
+  "Jordan Mountain Double bottom": [
+   -943,
+   434,
+   510.4
+  ],
+  "Sunday Punch / Rocking Chair": [
+   689,
+   -196,
+   467.9
+  ],
+  "Cascades 2": [
+   1047,
+   -516,
+   552.1
+  ],
+  "Snowbound / Obsession": [
+   1269,
+   -546,
+   519.3
+  ],
+  "Lower Chondi Line / Lower Lazy River": [
+   499,
+   335,
+   445.2
+  ],
+  "Lower Chondi Line / Mixing Bowl": [
+   684,
+   388,
+   407.1
+  ],
+  "Northern Lights": [
+   -1301,
+   -495,
+   830.5
+  ],
+  "Witch Way / Kansas": [
+   -1445,
+   -508,
+   805.8
+  ],
+  "American Express / Sirius": [
+   -640,
+   -475,
+   818.0
+  ],
+  "Grand Rapids": [
+   345,
+   214,
+   478.5
+  ],
+  "Northern Lights 2": [
+   -1156,
+   237,
+   608.0
+  ],
+  "Jordan Mountain Double top": [
+   -1538,
+   409,
+   531.5
+  ],
+  "Rogue Angel / State Fair": [
+   -1795,
+   261,
+   576.3
+  ],
+  "Tourist Trap / Lower Sunday Punch": [
+   849,
+   178,
+   368.3
+  ],
+  "Sirius / Vortex": [
+   -842,
+   -445,
+   807.4
+  ],
+  "Second Thoughts / Dreammaker": [
+   469,
+   836,
+   401.0
+  ],
+  "Double Dipper / Dreammaker": [
+   970,
+   568,
+   346.0
+  ],
+  "Lower Sundance Surface Lift bottom": [
+   1257,
+   647,
+   306.2
+  ],
+  "Excalibur / Roundabout": [
+   -2636,
+   -533,
+   919.1
+  ],
+  "Excalibur / Lollapalooza": [
+   -1705,
+   457,
+   533.8
+  ],
+  "Monday Mourning": [
+   929,
+   -278,
+   490.6
+  ],
+  "Three Mile Trail": [
+   -32,
+   -870,
+   743.9
+  ],
+  "American Express": [
+   282,
+   187,
+   498.1
+  ],
+  "South Ridge Express bottom": [
+   1336,
+   616,
+   303.9
+  ],
+  "Jungle Road / Upper Cut": [
+   547,
+   -1018,
+   744.8
+  ],
+  "T2": [
+   720,
+   -983,
+   724.7
+  ],
+  "Little White Cap Quad top": [
+   1863,
+   -719,
+   430.8
+  ],
+  "Gould Acadmey Surface Lift bottom": [
+   951,
+   185,
+   358.3
+  ],
+  "Escapade 2": [
+   401,
+   435,
+   452.8
+  ],
+  "Starlight / Green Cheese": [
+   1806,
+   -625,
+   420.9
+  ],
+  "Moonstruck": [
+   2085,
+   -24,
+   274.7
+  ],
+  "Jordan 8 top": [
+   -2581,
+   -623,
+   940.7
+  ],
+  "Sirius": [
+   -651,
+   -435,
+   816.7
+  ],
+  "Lights Out": [
+   -542,
+   -108,
+   676.0
+  ],
+  "Jibe": [
+   1274,
+   -330,
+   493.2
+  ],
+  "Gnarnia / Risky Business": [
+   -383,
+   -360,
+   756.5
+  ],
+  "Lazy River": [
+   18,
+   -101,
+   591.6
+  ],
+  "Cutback": [
+   1177,
+   62,
+   377.2
+  ],
+  "Sunday Punch": [
+   780,
+   -443,
+   553.3
+  ],
+  "Upper Cut / Goat Path": [
+   435,
+   -1105,
+   767.8
+  ],
+  "Upper Cut / Ecstasy": [
+   573,
+   -841,
+   697.8
+  ],
+  "Second Mile": [
+   -175,
+   529,
+   597.4
+  ],
+  "Dream Maker / Dreammaker": [
+   309,
+   826,
+   432.7
+  ],
+  "Rogue Angel": [
+   -2490,
+   -287,
+   839.8
+  ],
+  "Oz Quad top": [
+   -2466,
+   -827,
+   955.1
+  ],
+  "Monday Mourning 2": [
+   950,
+   -168,
+   452.2
+  ],
+  "Rocking Chair": [
+   788,
+   -7,
+   418.0
+  ],
+  "Broadway": [
+   663,
+   460,
+   401.9
+  ],
+  "Top Gun / Agony": [
+   271,
+   -825,
+   753.3
+  ],
+  "Right Stuff": [
+   661,
+   -65,
+   430.6
+  ],
+  "Eureka / Kansas": [
+   -2219,
+   -833,
+   892.9
+  ],
+  "Cyclone 4": [
+   -1946,
+   -182,
+   634.9
+  ],
+  "Downdraft": [
+   -207,
+   125,
+   609.3
+  ],
+  "Agony / Southpaw": [
+   615,
+   -276,
+   495.9
+  ],
+  "Lazy River 2": [
+   -40,
+   -667,
+   684.7
+  ],
+  "Three Mile Trail 2": [
+   -171,
+   -386,
+   680.7
+  ],
+  "Downdraft 2": [
+   -53,
+   195,
+   584.2
+  ],
+  "Grand Rapids 2": [
+   -46,
+   255,
+   583.8
+  ],
+  "Northway": [
+   673,
+   500,
+   398.0
+  ],
+  "Broadway 2": [
+   1073,
+   482,
+   346.8
+  ],
+  "Broadway 3": [
+   973,
+   489,
+   356.7
+  ],
+  "Absolutely": [
+   289,
+   505,
+   473.5
+  ],
+  "Sensation": [
+   -824,
+   412,
+   510.8
+  ],
+  "Ecstasy": [
+   638,
+   -728,
+   666.6
+  ],
+  "Sunday Punch 2": [
+   764,
+   -550,
+   597.5
+  ],
+  "Sundance": [
+   745,
+   506,
+   388.0
+  ],
+  "Quantum Leap": [
+   -506,
+   373,
+   632.3
+  ],
+  "White Heat Quad top": [
+   1155,
+   -1048,
+   736.5
+  ],
+  "Salvation / Heat's Off": [
+   1068,
+   -781,
+   631.5
+  ],
+  "Double Dipper": [
+   1195,
+   595,
+   316.6
+  ],
+  "Chondola top": [
+   -444,
+   93,
+   651.5
+  ],
+  "Broadway Connector": [
+   396,
+   493,
+   448.8
+  ],
+  "Paradigm": [
+   -845,
+   147,
+   560.8
+  ],
+  "Jordan 8 bottom": [
+   -1611,
+   412,
+   532.8
+  ],
+  "Spectra": [
+   56,
+   1862,
+   505.9
+  ],
+  "Airglow 4": [
+   -1208,
+   -248,
+   734.7
+  ],
+  "Celestial": [
+   -1004,
+   -49,
+   625.0
+  ],
+  "Cascades 3": [
+   1005,
+   -574,
+   573.0
+  ],
+  "Tourist Trap": [
+   617,
+   213,
+   418.1
+  ],
+  "Outta Here / Lower Lazy River": [
+   847,
+   366,
+   382.1
+  ],
+  "White Heat / Heat's On": [
+   1861,
+   -235,
+   333.7
+  ],
+  "White Heat": [
+   1702,
+   -452,
+   403.7
+  ],
+  "Lower Upper Cut": [
+   667,
+   -623,
+   630.2
+  ],
+  "Grand Rapids 3": [
+   -127,
+   245,
+   592.9
+  ],
+  "Boots On / Boots off": [
+   -1877,
+   675,
+   575.7
+  ],
+  "Lollapalooza": [
+   -1814,
+   493,
+   540.9
+  ],
+  "Obsession / Heat's On": [
+   1668,
+   -254,
+   359.6
+  ],
+  "Lollapalooza 2": [
+   -2730,
+   -263,
+   837.7
+  ],
+  "Lollapalooza 3": [
+   -1944,
+   525,
+   564.9
+  ],
+  "American Express 2": [
+   -374,
+   -158,
+   687.9
+  ],
+  "Lights Out 2": [
+   -398,
+   38,
+   651.8
+  ],
+  "Barker 6 bottom": [
+   975,
+   284,
+   351.4
+  ],
+  "Dream Maker": [
+   -113,
+   641,
+   565.2
+  ],
+  "Agony": [
+   259,
+   -913,
+   770.9
+  ],
+  "Tempest 2": [
+   1868,
+   -1,
+   301.9
+  ],
+  "Jungle Road": [
+   659,
+   -1006,
+   737.1
+  ],
+  "Upper Sunday Punch": [
+   723,
+   -822,
+   676.4
+  ],
+  "Moonstruck 2": [
+   2098,
+   -229,
+   300.2
+  ],
+  "Lollapalooza 4": [
+   -2088,
+   597,
+   593.8
+  ],
+  "Shock Wave": [
+   1714,
+   -551,
+   417.9
+  ],
+  "White Heat 2": [
+   1239,
+   -1032,
+   724.2
+  ],
+  "White Heat 3": [
+   1647,
+   -518,
+   430.6
+  ],
+  "Gould Acadmey Surface Lift top": [
+   851,
+   -654,
+   620.7
+  ],
+  "Cascades 4": [
+   938,
+   -638,
+   600.8
+  ],
+  "Upper Sunday Punch 2": [
+   679,
+   -841,
+   687.3
+  ],
+  "Starlight": [
+   1925,
+   -178,
+   316.8
+  ],
+  "Spruce Peak Triple top": [
+   -635,
+   -518,
+   818.2
+  ],
+  "Salvation": [
+   876,
+   -916,
+   675.3
+  ],
+  "Spectra 2": [
+   781,
+   1263,
+   403.5
+  ],
+  "Locke Mountain Triple bottom": [
+   987,
+   214,
+   353.5
+  ],
+  "Mixing Bowl": [
+   1213,
+   486,
+   330.6
+  ],
+  "Cyclone 5": [
+   -1661,
+   -271,
+   701.9
+  ],
+  "Second Mile 2": [
+   -109,
+   482,
+   599.0
+  ],
+  "Lollapalooza 5": [
+   -2196,
+   623,
+   609.7
+  ],
+  "White Heat Quad bottom": [
+   1821,
+   -269,
+   345.3
+  ],
+  "Chondola bottom": [
+   1357,
+   579,
+   302.3
+  ],
+  "Quantum Leap Triple bottom": [
+   -869,
+   390,
+   509.8
+  ],
+  "Upper Sundance Surface Lift bottom": [
+   1124,
+   664,
+   316.5
+  ],
+  "Upper Sundance Surface Lift top": [
+   1043,
+   651,
+   327.4
+  ],
+  "Merrill Hill Triple top": [
+   36,
+   1525,
+   574.2
+  ]
+ },
+ "lifts": [
+  [
+   "Aurora Peak Quad",
+   "Aurora Peak Quad bottom",
+   "Aurora Peak Quad top",
+   10.6
+  ],
+  [
+   "Oz Quad",
+   "Oz Quad bottom",
+   "Oz Quad top",
+   9.5
+  ],
+  [
+   "Gould Acadmey Surface Lift",
+   "Gould Acadmey Surface Lift bottom",
+   "Gould Acadmey Surface Lift top",
+   7.9
+  ],
+  [
+   "Spruce Peak Triple",
+   "Spruce Peak Triple bottom",
+   "Spruce Peak Triple top",
+   12.7
+  ],
+  [
+   "White Heat Quad",
+   "White Heat Quad bottom",
+   "White Heat Quad top",
+   11.0
+  ],
+  [
+   "Chondola",
+   "Chondola bottom",
+   "Chondola top",
+   13.4
+  ],
+  [
+   "Quantum Leap Triple",
+   "Quantum Leap Triple bottom",
+   "Quantum Leap Triple top",
+   6.4
+  ],
+  [
+   "Upper Sundance Surface Lift",
+   "Upper Sundance Surface Lift bottom",
+   "Upper Sundance Surface Lift top",
+   4.7
+  ],
+  [
+   "South Ridge Express",
+   "South Ridge Express bottom",
+   "South Ridge Express top",
+   6.0
+  ],
+  [
+   "Jordan 8",
+   "Jordan 8 bottom",
+   "Jordan 8 top",
+   13.6
+  ],
+  [
+   "Locke Mountain Triple",
+   "Locke Mountain Triple bottom",
+   "Locke Mountain Triple top",
+   13.7
+  ],
+  [
+   "Middle Sundance Surface Lift",
+   "Lower Sundance Surface Lift bottom",
+   "Upper Sundance Surface Lift bottom",
+   4.6
+  ],
+  [
+   "Jordan Mountain Double",
+   "Jordan Mountain Double bottom",
+   "Jordan Mountain Double top",
+   7.2
+  ],
+  [
+   "Jordan Mountain Double",
+   "Jordan Mountain Double top",
+   "Jordan Mountain Double bottom",
+   7.2
+  ],
+  [
+   "North Peak Express",
+   "North Peak Express bottom",
+   "Quantum Leap Triple top",
+   7.2
+  ],
+  [
+   "Little White Cap Quad",
+   "Little White Cap Quad bottom",
+   "Little White Cap Quad top",
+   9.9
+  ],
+  [
+   "White Cap Quad",
+   "White Cap Quad bottom",
+   "White Cap Quad top",
+   11.2
+  ],
+  [
+   "Barker 6",
+   "Barker 6 bottom",
+   "Barker 6 top",
+   13.8
+  ],
+  [
+   "Merrill Hill Triple",
+   "Merrill Hill Triple bottom",
+   "Merrill Hill Triple top",
+   7.5
+  ]
+ ],
+ "runs": [
+  [
+   "Airglow",
+   "Aurora Peak Quad top",
+   "Airglow",
+   0.7
+  ],
+  [
+   "Airglow",
+   "Airglow",
+   "Airglow 4",
+   0.5
+  ],
+  [
+   "Airglow",
+   "Airglow 4",
+   "Airglow 2",
+   1.2
+  ],
+  [
+   "Airglow",
+   "Airglow 2",
+   "Airglow 3",
+   1.7
+  ],
+  [
+   "Airglow",
+   "Airglow 3",
+   "Aurora Peak Quad bottom",
+   0.5
+  ],
+  [
+   "Cutback",
+   "Cutback / Wildfire",
+   "Cutback",
+   0.5
+  ],
+  [
+   "Cutback",
+   "Cutback",
+   "Cutback / Cascades",
+   0.5
+  ],
+  [
+   "Escapade",
+   "Escapade / Dream Maker",
+   "Escapade",
+   2.8
+  ],
+  [
+   "Escapade",
+   "Escapade",
+   "Escapade 2",
+   0.5
+  ],
+  [
+   "Escapade",
+   "Escapade 2",
+   "North Peak Express bottom",
+   1.8
+  ],
+  [
+   "Grand Rapids",
+   "Quantum Leap Triple top",
+   "Grand Rapids 3",
+   1.2
+  ],
+  [
+   "Grand Rapids",
+   "Grand Rapids 3",
+   "Grand Rapids 2",
+   0.5
+  ],
+  [
+   "Grand Rapids",
+   "Grand Rapids 2",
+   "Grand Rapids",
+   1.7
+  ],
+  [
+   "Grand Rapids",
+   "Grand Rapids",
+   "Spruce Peak Triple bottom",
+   0.5
+  ],
+  [
+   "3D",
+   "3D / Second Mile",
+   "3D / Dreammaker",
+   3.2
+  ],
+  [
+   "Cascades",
+   "Cascades / Sunday Punch",
+   "Cascades",
+   0.5
+  ],
+  [
+   "Cascades",
+   "Cascades",
+   "Cascades 4",
+   0.5
+  ],
+  [
+   "Cascades",
+   "Cascades 4",
+   "Cascades 3",
+   0.5
+  ],
+  [
+   "Cascades",
+   "Cascades 3",
+   "Cascades 2",
+   0.5
+  ],
+  [
+   "Cascades",
+   "Cascades 2",
+   "Cutback / Cascades",
+   2.8
+  ],
+  [
+   "Cascades",
+   "Cutback / Cascades",
+   "Cascades / Roadrunner",
+   0.5
+  ],
+  [
+   "Wonderland (Mixing Bowl)",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   0.5
+  ],
+  [
+   "Cyclone",
+   "Airglow",
+   "Cyclone 5",
+   2.1
+  ],
+  [
+   "Cyclone",
+   "Cyclone 5",
+   "Cyclone 3",
+   0.8
+  ],
+  [
+   "Cyclone",
+   "Cyclone 3",
+   "Cyclone",
+   0.5
+  ],
+  [
+   "Cyclone",
+   "Cyclone",
+   "Cyclone 2",
+   0.5
+  ],
+  [
+   "Cyclone",
+   "Cyclone 2",
+   "Cyclone 4",
+   0.5
+  ],
+  [
+   "Cyclone",
+   "Cyclone 4",
+   "Oz Quad bottom",
+   0.5
+  ],
+  [
+   "Tempest",
+   "Tempest",
+   "Tempest 2",
+   0.5
+  ],
+  [
+   "Tempest",
+   "Tempest 2",
+   "White Cap Quad bottom",
+   1.1
+  ],
+  [
+   "Downdraft",
+   "Downdraft / Second Mile",
+   "Downdraft",
+   0.5
+  ],
+  [
+   "Downdraft",
+   "Downdraft",
+   "Downdraft 2",
+   0.7
+  ],
+  [
+   "Downdraft",
+   "Downdraft 2",
+   "Downdraft / American Express",
+   0.6
+  ],
+  [
+   "Right Stuff",
+   "Barker 6 top",
+   "Right Stuff",
+   5.1
+  ],
+  [
+   "Right Stuff",
+   "Right Stuff",
+   "Right Stuff / Lower Sunday Punch",
+   0.5
+  ],
+  [
+   "T2",
+   "T2 / Goat Path",
+   "Locke Mountain Triple top",
+   0.5
+  ],
+  [
+   "T2",
+   "Locke Mountain Triple top",
+   "T2",
+   0.8
+  ],
+  [
+   "T2",
+   "T2",
+   "Cascades",
+   1.3
+  ],
+  [
+   "Lower North Woods",
+   "Lower North Woods / Ridge Run",
+   "Lower North Woods / Dreammaker",
+   1.5
+  ],
+  [
+   "Bim's Whim",
+   "Locke Mountain Triple top",
+   "Bim's Whim / Salvation",
+   2.0
+  ],
+  [
+   "Emerald City",
+   "Emerald City / Kansas",
+   "Cyclone",
+   2.6
+  ],
+  [
+   "Mixing Bowl",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   "Mixing Bowl",
+   0.5
+  ],
+  [
+   "Mixing Bowl",
+   "Mixing Bowl",
+   "Mixing Bowl / Broadway",
+   0.5
+  ],
+  [
+   "Exit Right",
+   "Escapade",
+   "Exit Right / Thataway",
+   0.5
+  ],
+  [
+   "Ridge Express",
+   "Ridge Express / Spectra",
+   "Ridge Express / Ridge Run",
+   0.9
+  ],
+  [
+   "Thataway",
+   "South Ridge Express top",
+   "Exit Right / Thataway",
+   0.5
+  ],
+  [
+   "Thataway",
+   "Exit Right / Thataway",
+   "Spruce Peak Triple bottom",
+   0.6
+  ],
+  [
+   "Black Hole",
+   "Airglow 2",
+   "Black Hole",
+   0.6
+  ],
+  [
+   "Black Hole",
+   "Black Hole",
+   "Airglow 3",
+   0.9
+  ],
+  [
+   "Celestial",
+   "Celestial / Lights Out",
+   "Celestial",
+   1.1
+  ],
+  [
+   "Celestial",
+   "Celestial",
+   "Black Hole",
+   0.6
+  ],
+  [
+   "Lost Princess",
+   "Lost Princess / Cowardly Lion",
+   "Cyclone 2",
+   3.2
+  ],
+  [
+   "Wildfire",
+   "White Cap Quad top",
+   "Cutback / Wildfire",
+   1.7
+  ],
+  [
+   "Wildfire",
+   "Cutback / Wildfire",
+   "Wildfire / Roadrunner",
+   0.8
+  ],
+  [
+   "iCaramba!",
+   "iCaramba! / Rogue Angel",
+   "iCaramba! / State Fair",
+   3.8
+  ],
+  [
+   "Poppy Fields",
+   "Poppy Fields / Kansas",
+   "Cyclone",
+   2.6
+  ],
+  [
+   "Poppy Fields",
+   "Cyclone",
+   "Cyclone 3",
+   0.5
+  ],
+  [
+   "Jibe",
+   "White Cap Quad top",
+   "Jibe",
+   0.5
+  ],
+  [
+   "Jibe",
+   "Jibe",
+   "Jibe / Tempest",
+   1.7
+  ],
+  [
+   "Roadrunner",
+   "Cascades / Roadrunner",
+   "Cutback / Cascades",
+   0.5
+  ],
+  [
+   "Roadrunner",
+   "Cutback / Cascades",
+   "Wildfire / Roadrunner",
+   0.9
+  ],
+  [
+   "Roadrunner",
+   "Wildfire / Roadrunner",
+   "Roadrunner / Moonstruck",
+   3.5
+  ],
+  [
+   "Last Tango",
+   "Last Tango / Lazy River",
+   "Last Tango / Lower Sunday Punch",
+   3.4
+  ],
+  [
+   "Second Mile",
+   "Downdraft / Second Mile",
+   "3D / Second Mile",
+   1.9
+  ],
+  [
+   "Second Mile",
+   "3D / Second Mile",
+   "Second Mile 2",
+   0.5
+  ],
+  [
+   "Second Mile",
+   "Second Mile 2",
+   "Second Mile",
+   0.5
+  ],
+  [
+   "Second Mile",
+   "Second Mile",
+   "Second Mile / Sensation",
+   0.5
+  ],
+  [
+   "Paradigm",
+   "Paradigm / Backside",
+   "Paradigm",
+   1.6
+  ],
+  [
+   "Paradigm",
+   "Paradigm",
+   "Airglow 3",
+   0.8
+  ],
+  [
+   "Paradigm",
+   "Airglow 3",
+   "Aurora Peak Quad bottom",
+   0.5
+  ],
+  [
+   "Double Blind",
+   "Double Blind / Excalibur",
+   "Double Blind / Blind Ambition",
+   2.2
+  ],
+  [
+   "Spectra",
+   "Merrill Hill II top",
+   "Spectra",
+   1.6
+  ],
+  [
+   "Spectra",
+   "Spectra",
+   "Spectra 2",
+   5.0
+  ],
+  [
+   "Spectra",
+   "Spectra 2",
+   "Ridge Express / Spectra",
+   1.4
+  ],
+  [
+   "Moonstruck",
+   "Moonstruck / Green Cheese",
+   "Moonstruck 2",
+   1.8
+  ],
+  [
+   "Moonstruck",
+   "Moonstruck 2",
+   "Moonstruck",
+   0.9
+  ],
+  [
+   "Moonstruck",
+   "Moonstruck",
+   "White Cap Quad bottom",
+   0.6
+  ],
+  [
+   "Moonstruck",
+   "White Cap Quad bottom",
+   "Roadrunner / Moonstruck",
+   0.5
+  ],
+  [
+   "Moonstruck",
+   "Roadrunner / Moonstruck",
+   "Little White Cap Quad bottom",
+   0.5
+  ],
+  [
+   "Double Refraction",
+   "Merrill Hill II top",
+   "Merrill Hill Triple bottom",
+   5.2
+  ],
+  [
+   "Three Mile Trail",
+   "Barker 6 top",
+   "Three Mile Trail",
+   1.1
+  ],
+  [
+   "Three Mile Trail",
+   "Three Mile Trail",
+   "Three Mile Trail 2",
+   2.6
+  ],
+  [
+   "Three Mile Trail",
+   "Three Mile Trail 2",
+   "Downdraft / Second Mile",
+   2.3
+  ],
+  [
+   "Absolutely",
+   "Absolutely / Last Mile",
+   "Absolutely",
+   0.5
+  ],
+  [
+   "Absolutely",
+   "Absolutely",
+   "Absolutely / Northway",
+   1.8
+  ],
+  [
+   "Northern Lights",
+   "Aurora Peak Quad top",
+   "Northern Lights",
+   0.5
+  ],
+  [
+   "Northern Lights",
+   "Northern Lights",
+   "Northern Lights 2",
+   3.4
+  ],
+  [
+   "Northern Lights",
+   "Northern Lights 2",
+   "Jordan Mountain Double bottom",
+   1.3
+  ],
+  [
+   "Sunday Punch",
+   "Cascades / Sunday Punch",
+   "Gould Acadmey Surface Lift top",
+   0.5
+  ],
+  [
+   "Sunday Punch",
+   "Gould Acadmey Surface Lift top",
+   "Sunday Punch 2",
+   0.5
+  ],
+  [
+   "Sunday Punch",
+   "Sunday Punch 2",
+   "Sunday Punch",
+   0.5
+  ],
+  [
+   "Sunday Punch",
+   "Sunday Punch",
+   "Sunday Punch / Rocking Chair",
+   1.1
+  ],
+  [
+   "Snowbound",
+   "Cascades 2",
+   "Snowbound / Obsession",
+   0.8
+  ],
+  [
+   "Lower Chondi Line",
+   "Lower Chondi Line / Lower Lazy River",
+   "Lower Chondi Line / Mixing Bowl",
+   0.7
+  ],
+  [
+   "Witch Way",
+   "Northern Lights",
+   "Witch Way / Kansas",
+   0.5
+  ],
+  [
+   "American Express",
+   "American Express / Sirius",
+   "American Express 2",
+   1.7
+  ],
+  [
+   "American Express",
+   "American Express 2",
+   "Downdraft / American Express",
+   2.3
+  ],
+  [
+   "American Express",
+   "Downdraft / American Express",
+   "American Express",
+   1.0
+  ],
+  [
+   "American Express",
+   "American Express",
+   "Grand Rapids",
+   0.5
+  ],
+  [
+   "Firestar",
+   "Northern Lights 2",
+   "Jordan Mountain Double top",
+   2.3
+  ],
+  [
+   "Lights Out",
+   "Airglow",
+   "Celestial / Lights Out",
+   0.5
+  ],
+  [
+   "Lights Out",
+   "Celestial / Lights Out",
+   "Lights Out",
+   2.2
+  ],
+  [
+   "Lights Out",
+   "Lights Out",
+   "Lights Out 2",
+   0.9
+  ],
+  [
+   "Lights Out",
+   "Lights Out 2",
+   "Downdraft / Second Mile",
+   0.5
+  ],
+  [
+   "Rogue Angel",
+   "iCaramba! / Rogue Angel",
+   "Rogue Angel",
+   1.2
+  ],
+  [
+   "Rogue Angel",
+   "Rogue Angel",
+   "Rogue Angel / State Fair",
+   3.9
+  ],
+  [
+   "Tourist Trap",
+   "Spruce Peak Triple bottom",
+   "Tourist Trap",
+   0.6
+  ],
+  [
+   "Tourist Trap",
+   "Tourist Trap",
+   "Tourist Trap / Lower Sunday Punch",
+   1.0
+  ],
+  [
+   "Sirius",
+   "American Express / Sirius",
+   "Sirius",
+   0.5
+  ],
+  [
+   "Sirius",
+   "Sirius",
+   "Sirius / Vortex",
+   0.7
+  ],
+  [
+   "Second Thoughts",
+   "Merrill Hill Triple bottom",
+   "Second Thoughts / Dreammaker",
+   0.7
+  ],
+  [
+   "Double Dipper",
+   "Double Dipper / Dreammaker",
+   "Double Dipper",
+   0.8
+  ],
+  [
+   "Double Dipper",
+   "Double Dipper",
+   "Lower Sundance Surface Lift bottom",
+   0.5
+  ],
+  [
+   "Excalibur",
+   "Excalibur / Roundabout",
+   "Double Blind / Excalibur",
+   1.6
+  ],
+  [
+   "Excalibur",
+   "Double Blind / Excalibur",
+   "Excalibur / Lollapalooza",
+   4.5
+  ],
+  [
+   "Monday Mourning",
+   "Monday Mourning",
+   "Monday Mourning 2",
+   0.5
+  ],
+  [
+   "Monday Mourning",
+   "Monday Mourning 2",
+   "Cascades / Roadrunner",
+   1.4
+  ],
+  [
+   "Lazy River",
+   "Three Mile Trail",
+   "Lazy River 2",
+   0.9
+  ],
+  [
+   "Lazy River",
+   "Lazy River 2",
+   "Last Tango / Lazy River",
+   1.5
+  ],
+  [
+   "Lazy River",
+   "Last Tango / Lazy River",
+   "Lazy River",
+   0.9
+  ],
+  [
+   "Lazy River",
+   "Lazy River",
+   "American Express",
+   1.7
+  ],
+  [
+   "Broadway",
+   "South Ridge Express top",
+   "Broadway",
+   0.9
+  ],
+  [
+   "Broadway",
+   "Broadway",
+   "Broadway 3",
+   1.4
+  ],
+  [
+   "Broadway",
+   "Broadway 3",
+   "Broadway 2",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Broadway 2",
+   "Mixing Bowl",
+   0.6
+  ],
+  [
+   "Broadway",
+   "Mixing Bowl",
+   "Mixing Bowl / Broadway",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Mixing Bowl / Broadway",
+   "South Ridge Express bottom",
+   0.5
+  ],
+  [
+   "Jungle Road",
+   "Jungle Road / Upper Cut",
+   "Jungle Road",
+   0.5
+  ],
+  [
+   "Jungle Road",
+   "Jungle Road",
+   "T2",
+   0.5
+  ],
+  [
+   "Starburst",
+   "Little White Cap Quad top",
+   "Moonstruck",
+   3.1
+  ],
+  [
+   "Starburst",
+   "Moonstruck",
+   "Little White Cap Quad bottom",
+   0.7
+  ],
+  [
+   "Rocking Chair",
+   "Sunday Punch / Rocking Chair",
+   "Rocking Chair",
+   0.8
+  ],
+  [
+   "Rocking Chair",
+   "Rocking Chair",
+   "Gould Acadmey Surface Lift bottom",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Exit Right / Thataway",
+   "South Ridge Express top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "South Ridge Express top",
+   "Escapade 2",
+   0.5
+  ],
+  [
+   "Starlight",
+   "Starlight / Green Cheese",
+   "Starlight",
+   2.0
+  ],
+  [
+   "Starlight",
+   "Starlight",
+   "Moonstruck",
+   1.0
+  ],
+  [
+   "Roundabout",
+   "Jordan 8 top",
+   "Excalibur / Roundabout",
+   0.5
+  ],
+  [
+   "Downdraft",
+   "Sirius",
+   "Lights Out",
+   1.4
+  ],
+  [
+   "Tempest",
+   "Jibe",
+   "Jibe / Tempest",
+   1.3
+  ],
+  [
+   "Tempest",
+   "Jibe / Tempest",
+   "Tempest",
+   1.0
+  ],
+  [
+   "Gnarnia",
+   "Gnarnia / Risky Business",
+   "Lazy River",
+   2.0
+  ],
+  [
+   "Bear Paw",
+   "White Cap Quad top",
+   "Cutback",
+   2.3
+  ],
+  [
+   "Tightwire",
+   "Sunday Punch",
+   "Gould Acadmey Surface Lift bottom",
+   2.8
+  ],
+  [
+   "Upper Cut",
+   "Upper Cut / Goat Path",
+   "Jungle Road / Upper Cut",
+   0.5
+  ],
+  [
+   "Upper Cut",
+   "Jungle Road / Upper Cut",
+   "Upper Cut / Ecstasy",
+   0.8
+  ],
+  [
+   "Dream Maker",
+   "Second Mile",
+   "Dream Maker",
+   0.5
+  ],
+  [
+   "Dream Maker",
+   "Dream Maker",
+   "Dream Maker / Dreammaker",
+   2.1
+  ],
+  [
+   "Wizard's Gulch",
+   "Rogue Angel",
+   "Oz Quad bottom",
+   2.4
+  ],
+  [
+   "Ruby Palace",
+   "Oz Quad top",
+   "Cyclone 4",
+   3.6
+  ],
+  [
+   "Ruby Palace",
+   "Cyclone 4",
+   "Oz Quad bottom",
+   0.5
+  ],
+  [
+   "Dreammaker",
+   "Dream Maker / Dreammaker",
+   "Second Thoughts / Dreammaker",
+   0.6
+  ],
+  [
+   "Dreammaker",
+   "Second Thoughts / Dreammaker",
+   "3D / Dreammaker",
+   0.6
+  ],
+  [
+   "Dreammaker",
+   "3D / Dreammaker",
+   "Lower North Woods / Dreammaker",
+   0.5
+  ],
+  [
+   "Dreammaker",
+   "Lower North Woods / Dreammaker",
+   "North Peak Express bottom",
+   0.5
+  ],
+  [
+   "Dreammaker",
+   "North Peak Express bottom",
+   "Double Dipper / Dreammaker",
+   0.9
+  ],
+  [
+   "1500 Road",
+   "Monday Mourning 2",
+   "Rocking Chair",
+   0.9
+  ],
+  [
+   "Northway",
+   "Broadway",
+   "Northway",
+   0.5
+  ],
+  [
+   "Northway",
+   "Northway",
+   "Absolutely / Northway",
+   0.5
+  ],
+  [
+   "Northway",
+   "Absolutely / Northway",
+   "Lower North Woods / Dreammaker",
+   0.5
+  ],
+  [
+   "Top Gun",
+   "Top Gun / Agony",
+   "Right Stuff",
+   3.9
+  ],
+  [
+   "Sensation",
+   "Second Mile / Sensation",
+   "Sensation",
+   3.0
+  ],
+  [
+   "Sensation",
+   "Sensation",
+   "Aurora Peak Quad bottom",
+   0.5
+  ],
+  [
+   "Eureka",
+   "Eureka / Kansas",
+   "Cyclone",
+   2.7
+  ],
+  [
+   "Eureka",
+   "Cyclone",
+   "Cyclone 4",
+   0.5
+  ],
+  [
+   "Upper Chondi Line",
+   "Downdraft / Second Mile",
+   "Downdraft",
+   0.5
+  ],
+  [
+   "Agony",
+   "Barker 6 top",
+   "Agony",
+   0.5
+  ],
+  [
+   "Agony",
+   "Agony",
+   "Top Gun / Agony",
+   0.5
+  ],
+  [
+   "Agony",
+   "Top Gun / Agony",
+   "Agony / Southpaw",
+   2.9
+  ],
+  [
+   "Goat Path",
+   "Locke Mountain Triple top",
+   "T2 / Goat Path",
+   0.5
+  ],
+  [
+   "Goat Path",
+   "T2 / Goat Path",
+   "Upper Cut / Goat Path",
+   0.5
+  ],
+  [
+   "Goat Path",
+   "Upper Cut / Goat Path",
+   "Lazy River 2",
+   3.4
+  ],
+  [
+   "Sluice",
+   "Three Mile Trail 2",
+   "Last Tango / Lazy River",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Downdraft 2",
+   "Grand Rapids 2",
+   0.5
+  ],
+  [
+   "Ecstasy",
+   "Barker 6 top",
+   "Agony",
+   0.5
+  ],
+  [
+   "Ecstasy",
+   "Agony",
+   "Upper Cut / Ecstasy",
+   1.5
+  ],
+  [
+   "Ecstasy",
+   "Upper Cut / Ecstasy",
+   "Ecstasy",
+   0.5
+  ],
+  [
+   "Ecstasy",
+   "Ecstasy",
+   "Cascades / Sunday Punch",
+   0.6
+  ],
+  [
+   "Sundance",
+   "Northway",
+   "Sundance",
+   0.5
+  ],
+  [
+   "Sundance",
+   "Sundance",
+   "Double Dipper / Dreammaker",
+   1.2
+  ],
+  [
+   "Sundance",
+   "Double Dipper / Dreammaker",
+   "Upper Sundance Surface Lift top",
+   0.5
+  ],
+  [
+   "Sundance",
+   "Upper Sundance Surface Lift top",
+   "Upper Sundance Surface Lift bottom",
+   0.5
+  ],
+  [
+   "Sundance",
+   "Upper Sundance Surface Lift bottom",
+   "Lower Sundance Surface Lift bottom",
+   0.6
+  ],
+  [
+   "Sundance",
+   "Lower Sundance Surface Lift bottom",
+   "South Ridge Express bottom",
+   0.5
+  ],
+  [
+   "Mixing Bowl",
+   "South Ridge Express top",
+   "Lower Chondi Line / Mixing Bowl",
+   0.9
+  ],
+  [
+   "Mixing Bowl",
+   "Lower Chondi Line / Mixing Bowl",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   1.6
+  ],
+  [
+   "Mixing Bowl",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Broadway 2",
+   0.5
+  ],
+  [
+   "Who-ville",
+   "Broadway 3",
+   "Broadway 2",
+   0.5
+  ],
+  [
+   "Who-ville",
+   "Broadway 2",
+   "Double Dipper",
+   0.6
+  ],
+  [
+   "Who-ville",
+   "Double Dipper",
+   "South Ridge Express bottom",
+   0.7
+  ],
+  [
+   "Broadway Connector",
+   "Absolutely",
+   "Broadway Connector",
+   0.5
+  ],
+  [
+   "Broadway Connector",
+   "Broadway Connector",
+   "Escapade 2",
+   0.5
+  ],
+  [
+   "Quantum Leap",
+   "Quantum Leap Triple top",
+   "Quantum Leap",
+   0.5
+  ],
+  [
+   "Quantum Leap",
+   "Quantum Leap",
+   "Sensation",
+   1.5
+  ],
+  [
+   "Lower Upper Cut",
+   "Ecstasy",
+   "Lower Upper Cut",
+   0.5
+  ],
+  [
+   "Lower Upper Cut",
+   "Lower Upper Cut",
+   "Sunday Punch 2",
+   0.5
+  ],
+  [
+   "Double Dipper",
+   "Sundance",
+   "Double Dipper / Dreammaker",
+   0.9
+  ],
+  [
+   "Green Cheese",
+   "Little White Cap Quad top",
+   "Starlight / Green Cheese",
+   0.5
+  ],
+  [
+   "Green Cheese",
+   "Starlight / Green Cheese",
+   "Moonstruck / Green Cheese",
+   1.1
+  ],
+  [
+   "Polaris",
+   "Quantum Leap",
+   "Second Mile / Sensation",
+   1.5
+  ],
+  [
+   "Kansas",
+   "Jordan 8 top",
+   "Eureka / Kansas",
+   2.0
+  ],
+  [
+   "Kansas",
+   "Eureka / Kansas",
+   "Emerald City / Kansas",
+   0.5
+  ],
+  [
+   "Kansas",
+   "Emerald City / Kansas",
+   "Poppy Fields / Kansas",
+   0.5
+  ],
+  [
+   "Kansas",
+   "Poppy Fields / Kansas",
+   "Witch Way / Kansas",
+   3.2
+  ],
+  [
+   "Kansas",
+   "Witch Way / Kansas",
+   "Airglow",
+   1.4
+  ],
+  [
+   "Salvation",
+   "White Heat Quad top",
+   "Bim's Whim / Salvation",
+   0.8
+  ],
+  [
+   "Salvation",
+   "Bim's Whim / Salvation",
+   "Salvation",
+   0.5
+  ],
+  [
+   "Salvation",
+   "Salvation",
+   "Salvation / Heat's Off",
+   1.1
+  ],
+  [
+   "Spectator",
+   "Sundance",
+   "Double Dipper / Dreammaker",
+   0.8
+  ],
+  [
+   "Spectator",
+   "Double Dipper / Dreammaker",
+   "Double Dipper",
+   0.9
+  ],
+  [
+   "Lollapalooza",
+   "Jordan 8 top",
+   "Excalibur / Roundabout",
+   0.5
+  ],
+  [
+   "Lollapalooza",
+   "Excalibur / Roundabout",
+   "Lollapalooza 2",
+   1.3
+  ],
+  [
+   "Lollapalooza",
+   "Lollapalooza 2",
+   "Lollapalooza 5",
+   5.4
+  ],
+  [
+   "Lollapalooza",
+   "Lollapalooza 5",
+   "Lollapalooza 4",
+   0.5
+  ],
+  [
+   "Lollapalooza",
+   "Lollapalooza 4",
+   "Lollapalooza 3",
+   0.7
+  ],
+  [
+   "Lollapalooza",
+   "Lollapalooza 3",
+   "Lollapalooza",
+   0.6
+  ],
+  [
+   "Lollapalooza",
+   "Lollapalooza",
+   "Excalibur / Lollapalooza",
+   0.5
+  ],
+  [
+   "Lollapalooza",
+   "Excalibur / Lollapalooza",
+   "Jordan 8 bottom",
+   0.5
+  ],
+  [
+   "Lollapalooza",
+   "Jordan 8 bottom",
+   "Jordan Mountain Double top",
+   0.5
+  ],
+  [
+   "Backside",
+   "Chondola top",
+   "Paradigm / Backside",
+   0.5
+  ],
+  [
+   "Backside",
+   "Paradigm / Backside",
+   "Quantum Leap",
+   1.0
+  ],
+  [
+   "Enchanted Forest",
+   "Broadway Connector",
+   "Absolutely / Northway",
+   1.4
+  ],
+  [
+   "Vortex",
+   "Sirius / Vortex",
+   "Paradigm",
+   2.6
+  ],
+  [
+   "State Fair",
+   "Oz Quad bottom",
+   "iCaramba! / State Fair",
+   0.8
+  ],
+  [
+   "State Fair",
+   "iCaramba! / State Fair",
+   "Rogue Angel / State Fair",
+   0.9
+  ],
+  [
+   "State Fair",
+   "Rogue Angel / State Fair",
+   "Jordan 8 bottom",
+   1.0
+  ],
+  [
+   "Upper Sunday Punch",
+   "T2 / Goat Path",
+   "Jungle Road / Upper Cut",
+   0.5
+  ],
+  [
+   "Upper Sunday Punch",
+   "Jungle Road / Upper Cut",
+   "Upper Sunday Punch 2",
+   1.0
+  ],
+  [
+   "Upper Sunday Punch",
+   "Upper Sunday Punch 2",
+   "Upper Sunday Punch",
+   0.5
+  ],
+  [
+   "Upper Sunday Punch",
+   "Upper Sunday Punch",
+   "Cascades / Sunday Punch",
+   0.5
+  ],
+  [
+   "Super Nova",
+   "Airglow 4",
+   "Celestial",
+   1.2
+  ],
+  [
+   "Heat's Off",
+   "Salvation / Heat's Off",
+   "Cascades 3",
+   0.8
+  ],
+  [
+   "Outta Here",
+   "Tourist Trap",
+   "Outta Here / Lower Lazy River",
+   1.0
+  ],
+  [
+   "White Heat",
+   "White Heat Quad top",
+   "White Heat 2",
+   0.5
+  ],
+  [
+   "White Heat",
+   "White Heat 2",
+   "White Heat 3",
+   3.0
+  ],
+  [
+   "White Heat",
+   "White Heat 3",
+   "White Heat",
+   0.5
+  ],
+  [
+   "White Heat",
+   "White Heat",
+   "White Heat Quad bottom",
+   1.0
+  ],
+  [
+   "White Heat",
+   "White Heat Quad bottom",
+   "White Heat / Heat's On",
+   0.5
+  ],
+  [
+   "Brilliant",
+   "Merrill Hill II top",
+   "Spectra",
+   1.7
+  ],
+  [
+   "Shock Wave",
+   "White Heat Quad top",
+   "White Heat 2",
+   0.5
+  ],
+  [
+   "Shock Wave",
+   "White Heat 2",
+   "Shock Wave",
+   3.4
+  ],
+  [
+   "Shock Wave",
+   "Shock Wave",
+   "White Heat",
+   0.5
+  ],
+  [
+   "Southpaw",
+   "Lower Upper Cut",
+   "Agony / Southpaw",
+   1.6
+  ],
+  [
+   "Southpaw",
+   "Agony / Southpaw",
+   "Sunday Punch / Rocking Chair",
+   0.5
+  ],
+  [
+   "Exit Left",
+   "Downdraft",
+   "Grand Rapids 3",
+   0.5
+  ],
+  [
+   "Boots On",
+   "Boots On / Boots off",
+   "Lollapalooza",
+   0.7
+  ],
+  [
+   "Peak Easy",
+   "Quantum Leap Triple top",
+   "Downdraft / Second Mile",
+   0.8
+  ],
+  [
+   "Obsession",
+   "White Heat Quad top",
+   "Salvation / Heat's Off",
+   1.2
+  ],
+  [
+   "Obsession",
+   "Salvation / Heat's Off",
+   "Snowbound / Obsession",
+   1.4
+  ],
+  [
+   "Obsession",
+   "Snowbound / Obsession",
+   "Obsession / Heat's On",
+   2.3
+  ],
+  [
+   "Tin Woodsman",
+   "Oz Quad top",
+   "Cyclone 2",
+   3.4
+  ],
+  [
+   "Last Mile",
+   "Second Mile / Sensation",
+   "Dream Maker",
+   0.5
+  ],
+  [
+   "Last Mile",
+   "Dream Maker",
+   "Absolutely / Last Mile",
+   1.6
+  ],
+  [
+   "Last Mile",
+   "Absolutely / Last Mile",
+   "Escapade",
+   0.6
+  ],
+  [
+   "Blind Ambition",
+   "Lollapalooza 2",
+   "Double Blind / Blind Ambition",
+   3.1
+  ],
+  [
+   "Blind Ambition",
+   "Double Blind / Blind Ambition",
+   "Lollapalooza 3",
+   2.0
+  ],
+  [
+   "Overdraft",
+   "American Express 2",
+   "Lights Out 2",
+   0.7
+  ],
+  [
+   "Lower Lazy River",
+   "Exit Right / Thataway",
+   "Lower Chondi Line / Lower Lazy River",
+   0.5
+  ],
+  [
+   "Lower Lazy River",
+   "Lower Chondi Line / Lower Lazy River",
+   "Outta Here / Lower Lazy River",
+   1.5
+  ],
+  [
+   "Lower Lazy River",
+   "Outta Here / Lower Lazy River",
+   "Barker 6 bottom",
+   0.7
+  ],
+  [
+   "Yetiville",
+   "Dream Maker",
+   "Dream Maker / Dreammaker",
+   2.5
+  ],
+  [
+   "Jungle Road",
+   "Agony",
+   "Jungle Road / Upper Cut",
+   1.2
+  ],
+  [
+   "Borealis",
+   "Aurora Peak Quad top",
+   "Sirius / Vortex",
+   1.7
+  ],
+  [
+   "Village Trail",
+   "Tempest",
+   "Tempest 2",
+   1.5
+  ],
+  [
+   "Jim's Whim",
+   "Jungle Road",
+   "Upper Sunday Punch 2",
+   0.6
+  ],
+  [
+   "Jim's Whim",
+   "Upper Sunday Punch 2",
+   "Upper Sunday Punch",
+   0.5
+  ],
+  [
+   "Moonstruck",
+   "Little White Cap Quad top",
+   "Moonstruck / Green Cheese",
+   1.1
+  ],
+  [
+   "Lazy River",
+   "American Express",
+   "Grand Rapids",
+   0.5
+  ],
+  [
+   "Lazy River",
+   "Grand Rapids",
+   "Exit Right / Thataway",
+   0.6
+  ],
+  [
+   "Boots off",
+   "Lollapalooza 4",
+   "Boots On / Boots off",
+   0.9
+  ],
+  [
+   "Dream Maker",
+   "Quantum Leap Triple top",
+   "Escapade / Dream Maker",
+   0.8
+  ],
+  [
+   "Dream Maker",
+   "Escapade / Dream Maker",
+   "Second Mile",
+   0.8
+  ],
+  [
+   "Assumption",
+   "Starlight / Green Cheese",
+   "Shock Wave",
+   0.5
+  ],
+  [
+   "Hard Ball",
+   "White Heat 2",
+   "White Heat 3",
+   3.0
+  ],
+  [
+   "Poma Road",
+   "Gould Acadmey Surface Lift top",
+   "Cascades 4",
+   0.5
+  ],
+  [
+   "Locke Line",
+   "Locke Mountain Triple top",
+   "Jungle Road",
+   0.6
+  ],
+  [
+   "Locke Line",
+   "Jungle Road",
+   "Upper Sunday Punch 2",
+   0.7
+  ],
+  [
+   "Aludra",
+   "Sirius / Vortex",
+   "Airglow",
+   1.3
+  ],
+  [
+   "Monday Mourning",
+   "Cascades",
+   "Gould Acadmey Surface Lift top",
+   0.5
+  ],
+  [
+   "Monday Mourning",
+   "Gould Acadmey Surface Lift top",
+   "Monday Mourning",
+   1.6
+  ],
+  [
+   "Ridge Run",
+   "South Ridge Express top",
+   "Escapade 2",
+   0.5
+  ],
+  [
+   "Ridge Run",
+   "Escapade 2",
+   "Broadway Connector",
+   0.5
+  ],
+  [
+   "Ridge Run",
+   "Broadway Connector",
+   "Lower North Woods / Ridge Run",
+   0.5
+  ],
+  [
+   "Ridge Run",
+   "Lower North Woods / Ridge Run",
+   "Dream Maker / Dreammaker",
+   1.1
+  ],
+  [
+   "Ridge Run",
+   "Dream Maker / Dreammaker",
+   "Merrill Hill Triple bottom",
+   0.6
+  ],
+  [
+   "Ridge Run",
+   "Merrill Hill Triple bottom",
+   "Ridge Express / Spectra",
+   3.0
+  ],
+  [
+   "Ridge Run",
+   "Ridge Express / Spectra",
+   "Ridge Express / Ridge Run",
+   0.9
+  ],
+  [
+   "Ridge Run",
+   "Ridge Express / Ridge Run",
+   "Lower Sundance Surface Lift bottom",
+   1.4
+  ],
+  [
+   "Heat's On",
+   "Jibe / Tempest",
+   "Obsession / Heat's On",
+   0.5
+  ],
+  [
+   "Heat's On",
+   "Obsession / Heat's On",
+   "White Heat Quad bottom",
+   0.7
+  ],
+  [
+   "Heat's On",
+   "White Heat Quad bottom",
+   "White Heat / Heat's On",
+   0.5
+  ],
+  [
+   "Heat's On",
+   "White Heat / Heat's On",
+   "Starlight",
+   0.5
+  ],
+  [
+   "Risky Business",
+   "Spruce Peak Triple top",
+   "Gnarnia / Risky Business",
+   1.3
+  ],
+  [
+   "Risky Business",
+   "Gnarnia / Risky Business",
+   "Lazy River",
+   2.3
+  ],
+  [
+   "Risky Business",
+   "Lazy River",
+   "Spruce Peak Triple bottom",
+   2.2
+  ],
+  [
+   "Chutzpah",
+   "White Heat Quad top",
+   "Obsession / Heat's On",
+   4.1
+  ],
+  [
+   "Double Dipper",
+   "Broadway",
+   "Northway",
+   0.5
+  ],
+  [
+   "Double Dipper",
+   "Northway",
+   "Sundance",
+   0.5
+  ],
+  [
+   "Bim's Whim",
+   "Salvation",
+   "Cascades",
+   0.8
+  ],
+  [
+   "Prism",
+   "Merrill Hill II top",
+   "Spectra 2",
+   4.1
+  ],
+  [
+   "Easy Street",
+   "Locke Mountain Triple bottom",
+   "Barker 6 bottom",
+   0.5
+  ],
+  [
+   "Easy Street",
+   "Barker 6 bottom",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   1.0
+  ],
+  [
+   "Easy Street",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   "Mixing Bowl",
+   0.5
+  ],
+  [
+   "Lower Sunday Punch",
+   "Sunday Punch / Rocking Chair",
+   "Right Stuff",
+   0.5
+  ],
+  [
+   "Lower Sunday Punch",
+   "Right Stuff",
+   "Right Stuff / Lower Sunday Punch",
+   0.5
+  ],
+  [
+   "Lower Sunday Punch",
+   "Right Stuff / Lower Sunday Punch",
+   "Last Tango / Lower Sunday Punch",
+   0.5
+  ],
+  [
+   "Lower Sunday Punch",
+   "Last Tango / Lower Sunday Punch",
+   "Tourist Trap / Lower Sunday Punch",
+   0.8
+  ],
+  [
+   "Lower Sunday Punch",
+   "Tourist Trap / Lower Sunday Punch",
+   "Barker 6 bottom",
+   0.8
+  ],
+  [
+   "Flying Monkey",
+   "Witch Way / Kansas",
+   "Cyclone 5",
+   1.3
+  ],
+  [
+   "Cowardly Lion",
+   "Oz Quad top",
+   "Lost Princess / Cowardly Lion",
+   0.5
+  ],
+  [
+   "Cowardly Lion",
+   "Lost Princess / Cowardly Lion",
+   "Eureka / Kansas",
+   1.0
+  ],
+  [
+   "Cowardly Lion",
+   "Eureka / Kansas",
+   "Emerald City / Kansas",
+   0.5
+  ],
+  [
+   "T72",
+   "Second Mile 2",
+   "3D / Dreammaker",
+   3.3
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Aurora Peak Quad top",
+   "Airglow",
+   2.6
+  ],
+  [
+   "walk",
+   "Aurora Peak Quad top",
+   "Northern Lights",
+   1.3
+  ],
+  [
+   "walk",
+   "Aurora Peak Quad top",
+   "Witch Way / Kansas",
+   3.2
+  ],
+  [
+   "walk",
+   "Aurora Peak Quad bottom",
+   "Jordan Mountain Double bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Aurora Peak Quad bottom",
+   "Sensation",
+   1.1
+  ],
+  [
+   "walk",
+   "Aurora Peak Quad bottom",
+   "Quantum Leap Triple bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Cutback / Cascades",
+   "Gould Acadmey Surface Lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Cutback / Cascades",
+   "Barker 6 bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Cutback / Cascades",
+   "Locke Mountain Triple bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "North Peak Express bottom",
+   "Lower North Woods / Dreammaker",
+   1.6
+  ],
+  [
+   "walk",
+   "North Peak Express bottom",
+   "Double Dipper / Dreammaker",
+   2.9
+  ],
+  [
+   "walk",
+   "Quantum Leap Triple top",
+   "Escapade / Dream Maker",
+   2.3
+  ],
+  [
+   "walk",
+   "Quantum Leap Triple top",
+   "Downdraft / Second Mile",
+   2.7
+  ],
+  [
+   "walk",
+   "Quantum Leap Triple top",
+   "Paradigm / Backside",
+   1.5
+  ],
+  [
+   "walk",
+   "Quantum Leap Triple top",
+   "Downdraft",
+   3.4
+  ],
+  [
+   "walk",
+   "Quantum Leap Triple top",
+   "Quantum Leap",
+   2.0
+  ],
+  [
+   "walk",
+   "Quantum Leap Triple top",
+   "Chondola top",
+   2.3
+  ],
+  [
+   "walk",
+   "Quantum Leap Triple top",
+   "Lights Out 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Spruce Peak Triple bottom",
+   "Exit Right / Thataway",
+   2.2
+  ],
+  [
+   "walk",
+   "Spruce Peak Triple bottom",
+   "South Ridge Express top",
+   2.6
+  ],
+  [
+   "walk",
+   "Spruce Peak Triple bottom",
+   "Lower Chondi Line / Lower Lazy River",
+   2.0
+  ],
+  [
+   "walk",
+   "Spruce Peak Triple bottom",
+   "Escapade 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Spruce Peak Triple bottom",
+   "Tourist Trap",
+   2.3
+  ],
+  [
+   "walk",
+   "3D / Dreammaker",
+   "North Peak Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Cascades / Sunday Punch",
+   "Gould Acadmey Surface Lift top",
+   1.3
+  ],
+  [
+   "walk",
+   "Cascades / Roadrunner",
+   "Gould Acadmey Surface Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Cascades / Roadrunner",
+   "Barker 6 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Cascades / Roadrunner",
+   "Locke Mountain Triple bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Barker 6 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Locke Mountain Triple bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Upper Sundance Surface Lift top",
+   3.2
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   "Lower Sundance Surface Lift bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   "South Ridge Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   "Chondola bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   "Upper Sundance Surface Lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   "Upper Sundance Surface Lift top",
+   3.4
+  ],
+  [
+   "walk",
+   "Oz Quad bottom",
+   "iCaramba! / State Fair",
+   3.3
+  ],
+  [
+   "walk",
+   "Oz Quad bottom",
+   "Cyclone 4",
+   0.6
+  ],
+  [
+   "walk",
+   "White Cap Quad bottom",
+   "Roadrunner / Moonstruck",
+   0.6
+  ],
+  [
+   "walk",
+   "White Cap Quad bottom",
+   "Little White Cap Quad bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Barker 6 top",
+   "Three Mile Trail",
+   3.3
+  ],
+  [
+   "walk",
+   "Barker 6 top",
+   "Top Gun / Agony",
+   2.1
+  ],
+  [
+   "walk",
+   "Barker 6 top",
+   "Agony",
+   1.1
+  ],
+  [
+   "walk",
+   "T2 / Goat Path",
+   "Locke Mountain Triple top",
+   1.0
+  ],
+  [
+   "walk",
+   "Cascades",
+   "Gould Acadmey Surface Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Lower North Woods / Ridge Run",
+   "South Ridge Express top",
+   2.8
+  ],
+  [
+   "walk",
+   "Lower North Woods / Dreammaker",
+   "North Peak Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple top",
+   "T2 / Goat Path",
+   1.0
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple top",
+   "Jungle Road / Upper Cut",
+   2.4
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple top",
+   "T2",
+   3.3
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple top",
+   "Upper Cut / Goat Path",
+   2.5
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple top",
+   "Jungle Road",
+   2.6
+  ],
+  [
+   "walk",
+   "Cyclone",
+   "Oz Quad bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Mixing Bowl / Broadway",
+   "Lower Sundance Surface Lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Mixing Bowl / Broadway",
+   "South Ridge Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Mixing Bowl / Broadway",
+   "Chondola bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Mixing Bowl / Broadway",
+   "Upper Sundance Surface Lift bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Escapade",
+   "Spruce Peak Triple bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Escapade",
+   "South Ridge Express top",
+   1.0
+  ],
+  [
+   "walk",
+   "Exit Right / Thataway",
+   "Spruce Peak Triple bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Exit Right / Thataway",
+   "South Ridge Express top",
+   0.6
+  ],
+  [
+   "walk",
+   "South Ridge Express top",
+   "Spruce Peak Triple bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "South Ridge Express top",
+   "Lower North Woods / Ridge Run",
+   2.8
+  ],
+  [
+   "walk",
+   "South Ridge Express top",
+   "Escapade",
+   1.0
+  ],
+  [
+   "walk",
+   "South Ridge Express top",
+   "Exit Right / Thataway",
+   0.6
+  ],
+  [
+   "walk",
+   "South Ridge Express top",
+   "Lower Chondi Line / Lower Lazy River",
+   1.2
+  ],
+  [
+   "walk",
+   "South Ridge Express top",
+   "Escapade 2",
+   0.8
+  ],
+  [
+   "walk",
+   "South Ridge Express top",
+   "Broadway",
+   3.5
+  ],
+  [
+   "walk",
+   "South Ridge Express top",
+   "Broadway Connector",
+   1.6
+  ],
+  [
+   "walk",
+   "Airglow 3",
+   "Aurora Peak Quad bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Airglow 3",
+   "Jordan Mountain Double bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Airglow 3",
+   "Quantum Leap Triple bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Cyclone 2",
+   "Oz Quad bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "White Cap Quad top",
+   "Snowbound / Obsession",
+   2.7
+  ],
+  [
+   "walk",
+   "White Cap Quad top",
+   "Jibe",
+   1.7
+  ],
+  [
+   "walk",
+   "Cyclone 3",
+   "Oz Quad bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Roadrunner / Moonstruck",
+   "White Cap Quad bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Roadrunner / Moonstruck",
+   "Little White Cap Quad bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Paradigm / Backside",
+   "Quantum Leap Triple top",
+   1.5
+  ],
+  [
+   "walk",
+   "Paradigm / Backside",
+   "Chondola top",
+   1.2
+  ],
+  [
+   "walk",
+   "Merrill Hill II top",
+   "Merrill Hill Triple top",
+   0.6
+  ],
+  [
+   "walk",
+   "Little White Cap Quad bottom",
+   "White Cap Quad bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Little White Cap Quad bottom",
+   "Roadrunner / Moonstruck",
+   1.0
+  ],
+  [
+   "walk",
+   "Merrill Hill Triple bottom",
+   "Second Thoughts / Dreammaker",
+   2.7
+  ],
+  [
+   "walk",
+   "Merrill Hill Triple bottom",
+   "Dream Maker / Dreammaker",
+   1.8
+  ],
+  [
+   "walk",
+   "Absolutely / Last Mile",
+   "South Ridge Express top",
+   3.0
+  ],
+  [
+   "walk",
+   "Absolutely / Northway",
+   "North Peak Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Jordan Mountain Double bottom",
+   "Aurora Peak Quad bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Jordan Mountain Double bottom",
+   "Sensation",
+   1.7
+  ],
+  [
+   "walk",
+   "Jordan Mountain Double bottom",
+   "Quantum Leap Triple bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Cascades 2",
+   "White Cap Quad top",
+   2.4
+  ],
+  [
+   "walk",
+   "Snowbound / Obsession",
+   "White Cap Quad top",
+   2.7
+  ],
+  [
+   "walk",
+   "Lower Chondi Line / Lower Lazy River",
+   "Spruce Peak Triple bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Chondi Line / Lower Lazy River",
+   "South Ridge Express top",
+   1.2
+  ],
+  [
+   "walk",
+   "Northern Lights",
+   "Aurora Peak Quad top",
+   1.3
+  ],
+  [
+   "walk",
+   "American Express / Sirius",
+   "Spruce Peak Triple top",
+   0.6
+  ],
+  [
+   "walk",
+   "Grand Rapids",
+   "Spruce Peak Triple bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Grand Rapids",
+   "South Ridge Express top",
+   2.6
+  ],
+  [
+   "walk",
+   "Jordan Mountain Double top",
+   "Excalibur / Lollapalooza",
+   2.4
+  ],
+  [
+   "walk",
+   "Jordan Mountain Double top",
+   "Jordan 8 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Rogue Angel / State Fair",
+   "Jordan 8 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Tourist Trap / Lower Sunday Punch",
+   "Gould Acadmey Surface Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Tourist Trap / Lower Sunday Punch",
+   "Barker 6 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Tourist Trap / Lower Sunday Punch",
+   "Locke Mountain Triple bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Sirius / Vortex",
+   "Spruce Peak Triple top",
+   3.1
+  ],
+  [
+   "walk",
+   "Double Dipper / Dreammaker",
+   "North Peak Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Double Dipper / Dreammaker",
+   "Upper Sundance Surface Lift bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Double Dipper / Dreammaker",
+   "Upper Sundance Surface Lift top",
+   1.5
+  ],
+  [
+   "walk",
+   "Lower Sundance Surface Lift bottom",
+   "Mixing Bowl / Broadway",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Sundance Surface Lift bottom",
+   "South Ridge Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Lower Sundance Surface Lift bottom",
+   "Double Dipper",
+   1.1
+  ],
+  [
+   "walk",
+   "Lower Sundance Surface Lift bottom",
+   "Chondola bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Lower Sundance Surface Lift bottom",
+   "Upper Sundance Surface Lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Excalibur / Lollapalooza",
+   "Jordan Mountain Double top",
+   2.4
+  ],
+  [
+   "walk",
+   "Excalibur / Lollapalooza",
+   "Jordan 8 bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "American Express",
+   "Spruce Peak Triple bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "American Express",
+   "South Ridge Express top",
+   3.4
+  ],
+  [
+   "walk",
+   "South Ridge Express bottom",
+   "Mixing Bowl / Broadway",
+   1.6
+  ],
+  [
+   "walk",
+   "South Ridge Express bottom",
+   "Lower Sundance Surface Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "South Ridge Express bottom",
+   "Double Dipper",
+   2.0
+  ],
+  [
+   "walk",
+   "South Ridge Express bottom",
+   "Chondola bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "South Ridge Express bottom",
+   "Upper Sundance Surface Lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Little White Cap Quad top",
+   "Moonstruck / Green Cheese",
+   2.8
+  ],
+  [
+   "walk",
+   "Little White Cap Quad top",
+   "Starlight / Green Cheese",
+   1.5
+  ],
+  [
+   "walk",
+   "Little White Cap Quad top",
+   "Shock Wave",
+   3.1
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift bottom",
+   "Cutback / Cascades",
+   1.9
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift bottom",
+   "Cascades / Roadrunner",
+   1.1
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift bottom",
+   "Tourist Trap / Lower Sunday Punch",
+   1.4
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift bottom",
+   "Barker 6 bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift bottom",
+   "Locke Mountain Triple bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Escapade 2",
+   "Spruce Peak Triple bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Escapade 2",
+   "South Ridge Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Starlight / Green Cheese",
+   "Little White Cap Quad top",
+   1.5
+  ],
+  [
+   "walk",
+   "Moonstruck",
+   "White Cap Quad bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Moonstruck",
+   "Little White Cap Quad bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Jordan 8 top",
+   "iCaramba! / Rogue Angel",
+   1.2
+  ],
+  [
+   "walk",
+   "Jordan 8 top",
+   "Excalibur / Roundabout",
+   1.5
+  ],
+  [
+   "walk",
+   "Jordan 8 top",
+   "Oz Quad top",
+   3.2
+  ],
+  [
+   "walk",
+   "Sirius",
+   "Spruce Peak Triple top",
+   1.2
+  ],
+  [
+   "walk",
+   "Lights Out",
+   "Chondola top",
+   3.1
+  ],
+  [
+   "walk",
+   "Cutback",
+   "Locke Mountain Triple bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Upper Cut / Goat Path",
+   "Locke Mountain Triple top",
+   2.5
+  ],
+  [
+   "walk",
+   "Dream Maker / Dreammaker",
+   "Merrill Hill Triple bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Oz Quad top",
+   "Lost Princess / Cowardly Lion",
+   1.2
+  ],
+  [
+   "walk",
+   "Oz Quad top",
+   "Jordan 8 top",
+   3.2
+  ],
+  [
+   "walk",
+   "Oz Quad top",
+   "Eureka / Kansas",
+   3.4
+  ],
+  [
+   "walk",
+   "Broadway",
+   "North Peak Express bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Cyclone 4",
+   "Oz Quad bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Northway",
+   "North Peak Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Lower Sundance Surface Lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Barker 6 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Upper Sundance Surface Lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Upper Sundance Surface Lift top",
+   2.4
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Barker 6 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Upper Sundance Surface Lift bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Upper Sundance Surface Lift top",
+   2.4
+  ],
+  [
+   "walk",
+   "Absolutely",
+   "South Ridge Express top",
+   2.5
+  ],
+  [
+   "walk",
+   "Sensation",
+   "Aurora Peak Quad bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Sensation",
+   "Jordan Mountain Double bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Sensation",
+   "Quantum Leap Triple bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Ecstasy",
+   "Gould Acadmey Surface Lift top",
+   3.1
+  ],
+  [
+   "walk",
+   "Sundance",
+   "North Peak Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "White Heat Quad top",
+   "Bim's Whim / Salvation",
+   3.1
+  ],
+  [
+   "walk",
+   "White Heat Quad top",
+   "White Heat 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Double Dipper",
+   "Lower Sundance Surface Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Double Dipper",
+   "South Ridge Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Double Dipper",
+   "Chondola bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Double Dipper",
+   "Upper Sundance Surface Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Double Dipper",
+   "Upper Sundance Surface Lift top",
+   2.3
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Quantum Leap Triple top",
+   2.3
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Downdraft / Second Mile",
+   1.7
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Paradigm / Backside",
+   1.2
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Downdraft",
+   3.3
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Lights Out 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Broadway Connector",
+   "South Ridge Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "Paradigm",
+   "Quantum Leap Triple bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Jordan 8 bottom",
+   "Jordan Mountain Double top",
+   1.0
+  ],
+  [
+   "walk",
+   "Jordan 8 bottom",
+   "Excalibur / Lollapalooza",
+   1.4
+  ],
+  [
+   "walk",
+   "Jordan 8 bottom",
+   "Lollapalooza",
+   3.0
+  ],
+  [
+   "walk",
+   "Cascades 3",
+   "White Cap Quad top",
+   3.4
+  ],
+  [
+   "walk",
+   "Outta Here / Lower Lazy River",
+   "Gould Acadmey Surface Lift bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Outta Here / Lower Lazy River",
+   "Barker 6 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Outta Here / Lower Lazy River",
+   "Locke Mountain Triple bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "White Heat / Heat's On",
+   "White Heat Quad bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "White Heat",
+   "White Heat Quad bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Lower Upper Cut",
+   "Gould Acadmey Surface Lift top",
+   2.6
+  ],
+  [
+   "walk",
+   "Lollapalooza",
+   "Jordan 8 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Obsession / Heat's On",
+   "White Heat Quad bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Lights Out 2",
+   "Quantum Leap Triple top",
+   3.0
+  ],
+  [
+   "walk",
+   "Lights Out 2",
+   "Chondola top",
+   1.0
+  ],
+  [
+   "walk",
+   "Barker 6 bottom",
+   "Cutback / Cascades",
+   2.6
+  ],
+  [
+   "walk",
+   "Barker 6 bottom",
+   "Cascades / Roadrunner",
+   1.9
+  ],
+  [
+   "walk",
+   "Barker 6 bottom",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   2.2
+  ],
+  [
+   "walk",
+   "Barker 6 bottom",
+   "Gould Acadmey Surface Lift bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Barker 6 bottom",
+   "Broadway 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Barker 6 bottom",
+   "Broadway 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Barker 6 bottom",
+   "Locke Mountain Triple bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Agony",
+   "Barker 6 top",
+   1.1
+  ],
+  [
+   "walk",
+   "Upper Sunday Punch",
+   "Gould Acadmey Surface Lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Shock Wave",
+   "Little White Cap Quad top",
+   3.1
+  ],
+  [
+   "walk",
+   "White Heat 2",
+   "White Heat Quad top",
+   1.2
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift top",
+   "Cascades",
+   0.7
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift top",
+   "Cascades 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift top",
+   "Sunday Punch",
+   3.1
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift top",
+   "Sunday Punch 2",
+   1.9
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift top",
+   "Cascades 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift top",
+   "Lower Upper Cut",
+   2.6
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift top",
+   "Cascades 4",
+   1.2
+  ],
+  [
+   "walk",
+   "Spruce Peak Triple top",
+   "American Express / Sirius",
+   0.6
+  ],
+  [
+   "walk",
+   "Spruce Peak Triple top",
+   "Sirius / Vortex",
+   3.1
+  ],
+  [
+   "walk",
+   "Spruce Peak Triple top",
+   "Sirius",
+   1.2
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple bottom",
+   "Cutback / Cascades",
+   1.7
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple bottom",
+   "Cascades / Roadrunner",
+   1.0
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple bottom",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   3.0
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple bottom",
+   "Tourist Trap / Lower Sunday Punch",
+   2.0
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple bottom",
+   "Gould Acadmey Surface Lift bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple bottom",
+   "Barker 6 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Mixing Bowl",
+   "Lower Sundance Surface Lift bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Mixing Bowl",
+   "South Ridge Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Mixing Bowl",
+   "Chondola bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Mixing Bowl",
+   "Upper Sundance Surface Lift bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Mixing Bowl",
+   "Upper Sundance Surface Lift top",
+   3.3
+  ],
+  [
+   "walk",
+   "White Heat Quad bottom",
+   "Tempest",
+   3.0
+  ],
+  [
+   "walk",
+   "White Heat Quad bottom",
+   "White Heat / Heat's On",
+   0.7
+  ],
+  [
+   "walk",
+   "White Heat Quad bottom",
+   "Obsession / Heat's On",
+   2.1
+  ],
+  [
+   "walk",
+   "White Heat Quad bottom",
+   "Starlight",
+   1.9
+  ],
+  [
+   "walk",
+   "Chondola bottom",
+   "Lower Sundance Surface Lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Chondola bottom",
+   "South Ridge Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Chondola bottom",
+   "Double Dipper",
+   2.3
+  ],
+  [
+   "walk",
+   "Chondola bottom",
+   "Upper Sundance Surface Lift bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Quantum Leap Triple bottom",
+   "Aurora Peak Quad bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Quantum Leap Triple bottom",
+   "Jordan Mountain Double bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Quantum Leap Triple bottom",
+   "Sensation",
+   0.7
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift bottom",
+   "Mixing Bowl / Broadway",
+   2.9
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift bottom",
+   "Lower Sundance Surface Lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift bottom",
+   "South Ridge Express bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift bottom",
+   "Double Dipper",
+   1.4
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift bottom",
+   "Mixing Bowl",
+   2.8
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift bottom",
+   "Chondola bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift bottom",
+   "Upper Sundance Surface Lift top",
+   1.1
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift top",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift top",
+   "Lower Sundance Surface Lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift top",
+   "Double Dipper",
+   2.3
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift top",
+   "Mixing Bowl",
+   3.3
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift top",
+   "Upper Sundance Surface Lift bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Merrill Hill Triple top",
+   "Merrill Hill II top",
+   0.6
+  ],
+  [
+   "walk",
+   "Northern Lights",
+   "Airglow",
+   3.9
+  ],
+  [
+   "walk",
+   "Northern Lights",
+   "Witch Way / Kansas",
+   4.5
+  ],
+  [
+   "walk",
+   "Airglow 3",
+   "Sensation",
+   2.3
+  ],
+  [
+   "walk",
+   "3D / Dreammaker",
+   "Lower North Woods / Dreammaker",
+   4.6
+  ],
+  [
+   "walk",
+   "3D / Dreammaker",
+   "Double Dipper / Dreammaker",
+   5.9
+  ],
+  [
+   "walk",
+   "Lower North Woods / Dreammaker",
+   "Double Dipper / Dreammaker",
+   4.5
+  ],
+  [
+   "walk",
+   "Absolutely / Northway",
+   "Lower North Woods / Dreammaker",
+   2.7
+  ],
+  [
+   "walk",
+   "Absolutely / Northway",
+   "Double Dipper / Dreammaker",
+   4.0
+  ],
+  [
+   "walk",
+   "Double Dipper / Dreammaker",
+   "Lower North Woods / Dreammaker",
+   4.5
+  ],
+  [
+   "walk",
+   "Broadway",
+   "Lower North Woods / Dreammaker",
+   4.8
+  ],
+  [
+   "walk",
+   "Broadway",
+   "Double Dipper / Dreammaker",
+   6.1
+  ],
+  [
+   "walk",
+   "Northway",
+   "Lower North Woods / Dreammaker",
+   4.2
+  ],
+  [
+   "walk",
+   "Northway",
+   "Double Dipper / Dreammaker",
+   5.5
+  ],
+  [
+   "walk",
+   "Sundance",
+   "Lower North Woods / Dreammaker",
+   3.7
+  ],
+  [
+   "walk",
+   "Sundance",
+   "Double Dipper / Dreammaker",
+   5.0
+  ],
+  [
+   "walk",
+   "Paradigm / Backside",
+   "Escapade / Dream Maker",
+   3.9
+  ],
+  [
+   "walk",
+   "Paradigm / Backside",
+   "Downdraft / Second Mile",
+   2.9
+  ],
+  [
+   "walk",
+   "Paradigm / Backside",
+   "Downdraft",
+   4.5
+  ],
+  [
+   "walk",
+   "Paradigm / Backside",
+   "Quantum Leap",
+   3.6
+  ],
+  [
+   "walk",
+   "Paradigm / Backside",
+   "Lights Out 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Escapade / Dream Maker",
+   4.6
+  ],
+  [
+   "walk",
+   "Chondola top",
+   "Quantum Leap",
+   4.3
+  ],
+  [
+   "walk",
+   "Lights Out 2",
+   "Escapade / Dream Maker",
+   5.3
+  ],
+  [
+   "walk",
+   "Lights Out 2",
+   "Downdraft / Second Mile",
+   2.7
+  ],
+  [
+   "walk",
+   "Lights Out 2",
+   "Paradigm / Backside",
+   2.1
+  ],
+  [
+   "walk",
+   "Lights Out 2",
+   "Downdraft",
+   4.3
+  ],
+  [
+   "walk",
+   "Lights Out 2",
+   "Quantum Leap",
+   5.1
+  ],
+  [
+   "walk",
+   "Escapade",
+   "Exit Right / Thataway",
+   1.6
+  ],
+  [
+   "walk",
+   "Escapade",
+   "Lower Chondi Line / Lower Lazy River",
+   2.2
+  ],
+  [
+   "walk",
+   "Escapade",
+   "Escapade 2",
+   1.8
+  ],
+  [
+   "walk",
+   "Escapade",
+   "Tourist Trap",
+   5.4
+  ],
+  [
+   "walk",
+   "Exit Right / Thataway",
+   "Lower Chondi Line / Lower Lazy River",
+   1.8
+  ],
+  [
+   "walk",
+   "Exit Right / Thataway",
+   "Escapade 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Exit Right / Thataway",
+   "Tourist Trap",
+   4.4
+  ],
+  [
+   "walk",
+   "South Ridge Express top",
+   "Tourist Trap",
+   4.9
+  ],
+  [
+   "walk",
+   "Lower Chondi Line / Lower Lazy River",
+   "Exit Right / Thataway",
+   1.8
+  ],
+  [
+   "walk",
+   "Lower Chondi Line / Lower Lazy River",
+   "Escapade 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Lower Chondi Line / Lower Lazy River",
+   "Tourist Trap",
+   4.3
+  ],
+  [
+   "walk",
+   "Grand Rapids",
+   "Exit Right / Thataway",
+   3.2
+  ],
+  [
+   "walk",
+   "Grand Rapids",
+   "Lower Chondi Line / Lower Lazy River",
+   3.5
+  ],
+  [
+   "walk",
+   "Grand Rapids",
+   "Escapade 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Grand Rapids",
+   "Tourist Trap",
+   3.8
+  ],
+  [
+   "walk",
+   "American Express",
+   "Exit Right / Thataway",
+   4.0
+  ],
+  [
+   "walk",
+   "American Express",
+   "Lower Chondi Line / Lower Lazy River",
+   4.4
+  ],
+  [
+   "walk",
+   "American Express",
+   "Escapade 2",
+   4.2
+  ],
+  [
+   "walk",
+   "American Express",
+   "Tourist Trap",
+   4.7
+  ],
+  [
+   "walk",
+   "Escapade 2",
+   "Exit Right / Thataway",
+   1.4
+  ],
+  [
+   "walk",
+   "Escapade 2",
+   "Lower Chondi Line / Lower Lazy River",
+   2.0
+  ],
+  [
+   "walk",
+   "Escapade 2",
+   "Tourist Trap",
+   5.6
+  ],
+  [
+   "walk",
+   "Barker 6 bottom",
+   "Upper Sundance Surface Lift top",
+   5.3
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple bottom",
+   "Upper Sundance Surface Lift top",
+   6.2
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift top",
+   "South Ridge Express bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift top",
+   "Chondola bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Cyclone",
+   "iCaramba! / State Fair",
+   5.8
+  ],
+  [
+   "walk",
+   "Cyclone",
+   "Cyclone 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Cyclone 2",
+   "iCaramba! / State Fair",
+   5.0
+  ],
+  [
+   "walk",
+   "Cyclone 2",
+   "Cyclone 4",
+   2.3
+  ],
+  [
+   "walk",
+   "Cyclone 3",
+   "iCaramba! / State Fair",
+   6.0
+  ],
+  [
+   "walk",
+   "Cyclone 3",
+   "Cyclone 4",
+   3.3
+  ],
+  [
+   "walk",
+   "Cyclone 4",
+   "iCaramba! / State Fair",
+   3.9
+  ],
+  [
+   "walk",
+   "Moonstruck",
+   "Roadrunner / Moonstruck",
+   2.5
+  ],
+  [
+   "walk",
+   "Agony",
+   "Three Mile Trail",
+   4.4
+  ],
+  [
+   "walk",
+   "Agony",
+   "Top Gun / Agony",
+   3.2
+  ],
+  [
+   "walk",
+   "T2 / Goat Path",
+   "Jungle Road / Upper Cut",
+   3.4
+  ],
+  [
+   "walk",
+   "T2 / Goat Path",
+   "T2",
+   4.2
+  ],
+  [
+   "walk",
+   "T2 / Goat Path",
+   "Upper Cut / Goat Path",
+   3.5
+  ],
+  [
+   "walk",
+   "T2 / Goat Path",
+   "Jungle Road",
+   3.6
+  ],
+  [
+   "walk",
+   "Upper Cut / Goat Path",
+   "T2 / Goat Path",
+   3.5
+  ],
+  [
+   "walk",
+   "Upper Cut / Goat Path",
+   "Jungle Road / Upper Cut",
+   4.9
+  ],
+  [
+   "walk",
+   "Upper Cut / Goat Path",
+   "T2",
+   5.8
+  ],
+  [
+   "walk",
+   "Upper Cut / Goat Path",
+   "Jungle Road",
+   5.1
+  ],
+  [
+   "walk",
+   "Spruce Peak Triple bottom",
+   "Lower North Woods / Ridge Run",
+   5.4
+  ],
+  [
+   "walk",
+   "Spruce Peak Triple bottom",
+   "Escapade",
+   3.6
+  ],
+  [
+   "walk",
+   "Spruce Peak Triple bottom",
+   "Broadway",
+   6.1
+  ],
+  [
+   "walk",
+   "Spruce Peak Triple bottom",
+   "Broadway Connector",
+   4.2
+  ],
+  [
+   "walk",
+   "Lower North Woods / Ridge Run",
+   "Spruce Peak Triple bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower North Woods / Ridge Run",
+   "Escapade",
+   3.8
+  ],
+  [
+   "walk",
+   "Lower North Woods / Ridge Run",
+   "Exit Right / Thataway",
+   3.4
+  ],
+  [
+   "walk",
+   "Lower North Woods / Ridge Run",
+   "Lower Chondi Line / Lower Lazy River",
+   4.0
+  ],
+  [
+   "walk",
+   "Lower North Woods / Ridge Run",
+   "Escapade 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Lower North Woods / Ridge Run",
+   "Broadway",
+   6.3
+  ],
+  [
+   "walk",
+   "Lower North Woods / Ridge Run",
+   "Broadway Connector",
+   4.4
+  ],
+  [
+   "walk",
+   "Escapade",
+   "Lower North Woods / Ridge Run",
+   3.8
+  ],
+  [
+   "walk",
+   "Escapade",
+   "Broadway",
+   4.5
+  ],
+  [
+   "walk",
+   "Escapade",
+   "Broadway Connector",
+   2.6
+  ],
+  [
+   "walk",
+   "Exit Right / Thataway",
+   "Lower North Woods / Ridge Run",
+   3.4
+  ],
+  [
+   "walk",
+   "Exit Right / Thataway",
+   "Escapade",
+   1.6
+  ],
+  [
+   "walk",
+   "Exit Right / Thataway",
+   "Broadway",
+   4.1
+  ],
+  [
+   "walk",
+   "Exit Right / Thataway",
+   "Broadway Connector",
+   2.2
+  ],
+  [
+   "walk",
+   "Absolutely / Last Mile",
+   "Spruce Peak Triple bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "Absolutely / Last Mile",
+   "Lower North Woods / Ridge Run",
+   5.8
+  ],
+  [
+   "walk",
+   "Absolutely / Last Mile",
+   "Escapade",
+   4.0
+  ],
+  [
+   "walk",
+   "Absolutely / Last Mile",
+   "Exit Right / Thataway",
+   3.6
+  ],
+  [
+   "walk",
+   "Absolutely / Last Mile",
+   "Lower Chondi Line / Lower Lazy River",
+   4.2
+  ],
+  [
+   "walk",
+   "Absolutely / Last Mile",
+   "Escapade 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Absolutely / Last Mile",
+   "Broadway",
+   6.5
+  ],
+  [
+   "walk",
+   "Absolutely / Last Mile",
+   "Broadway Connector",
+   4.6
+  ],
+  [
+   "walk",
+   "Lower Chondi Line / Lower Lazy River",
+   "Lower North Woods / Ridge Run",
+   4.0
+  ],
+  [
+   "walk",
+   "Lower Chondi Line / Lower Lazy River",
+   "Escapade",
+   2.2
+  ],
+  [
+   "walk",
+   "Lower Chondi Line / Lower Lazy River",
+   "Broadway",
+   4.7
+  ],
+  [
+   "walk",
+   "Lower Chondi Line / Lower Lazy River",
+   "Broadway Connector",
+   2.8
+  ],
+  [
+   "walk",
+   "Grand Rapids",
+   "Lower North Woods / Ridge Run",
+   5.4
+  ],
+  [
+   "walk",
+   "Grand Rapids",
+   "Escapade",
+   3.6
+  ],
+  [
+   "walk",
+   "Grand Rapids",
+   "Broadway",
+   6.1
+  ],
+  [
+   "walk",
+   "Grand Rapids",
+   "Broadway Connector",
+   4.2
+  ],
+  [
+   "walk",
+   "American Express",
+   "Lower North Woods / Ridge Run",
+   6.2
+  ],
+  [
+   "walk",
+   "American Express",
+   "Escapade",
+   4.4
+  ],
+  [
+   "walk",
+   "American Express",
+   "Broadway",
+   6.8
+  ],
+  [
+   "walk",
+   "American Express",
+   "Broadway Connector",
+   5.0
+  ],
+  [
+   "walk",
+   "Escapade 2",
+   "Lower North Woods / Ridge Run",
+   3.6
+  ],
+  [
+   "walk",
+   "Escapade 2",
+   "Escapade",
+   1.8
+  ],
+  [
+   "walk",
+   "Escapade 2",
+   "Broadway",
+   4.2
+  ],
+  [
+   "walk",
+   "Escapade 2",
+   "Broadway Connector",
+   2.4
+  ],
+  [
+   "walk",
+   "Absolutely",
+   "Spruce Peak Triple bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Absolutely",
+   "Lower North Woods / Ridge Run",
+   5.4
+  ],
+  [
+   "walk",
+   "Absolutely",
+   "Escapade",
+   3.6
+  ],
+  [
+   "walk",
+   "Absolutely",
+   "Exit Right / Thataway",
+   3.1
+  ],
+  [
+   "walk",
+   "Absolutely",
+   "Lower Chondi Line / Lower Lazy River",
+   3.8
+  ],
+  [
+   "walk",
+   "Absolutely",
+   "Escapade 2",
+   3.3
+  ],
+  [
+   "walk",
+   "Absolutely",
+   "Broadway",
+   6.0
+  ],
+  [
+   "walk",
+   "Absolutely",
+   "Broadway Connector",
+   4.1
+  ],
+  [
+   "walk",
+   "Broadway Connector",
+   "Spruce Peak Triple bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Broadway Connector",
+   "Lower North Woods / Ridge Run",
+   4.4
+  ],
+  [
+   "walk",
+   "Broadway Connector",
+   "Escapade",
+   2.6
+  ],
+  [
+   "walk",
+   "Broadway Connector",
+   "Exit Right / Thataway",
+   2.2
+  ],
+  [
+   "walk",
+   "Broadway Connector",
+   "Lower Chondi Line / Lower Lazy River",
+   2.8
+  ],
+  [
+   "walk",
+   "Broadway Connector",
+   "Escapade 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Broadway Connector",
+   "Broadway",
+   5.0
+  ],
+  [
+   "walk",
+   "Broadway Connector",
+   "Tourist Trap",
+   6.4
+  ],
+  [
+   "walk",
+   "Cascades 2",
+   "Snowbound / Obsession",
+   5.2
+  ],
+  [
+   "walk",
+   "Cascades 2",
+   "Jibe",
+   4.2
+  ],
+  [
+   "walk",
+   "Snowbound / Obsession",
+   "Jibe",
+   4.4
+  ],
+  [
+   "walk",
+   "Cascades 3",
+   "Snowbound / Obsession",
+   6.1
+  ],
+  [
+   "walk",
+   "Cascades 3",
+   "Jibe",
+   5.1
+  ],
+  [
+   "walk",
+   "Dream Maker / Dreammaker",
+   "Second Thoughts / Dreammaker",
+   4.5
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift top",
+   "White Cap Quad top",
+   5.8
+  ],
+  [
+   "walk",
+   "North Peak Express bottom",
+   "Upper Sundance Surface Lift bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "North Peak Express bottom",
+   "Upper Sundance Surface Lift top",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower North Woods / Dreammaker",
+   "Upper Sundance Surface Lift top",
+   6.0
+  ],
+  [
+   "walk",
+   "Absolutely / Northway",
+   "Upper Sundance Surface Lift bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Absolutely / Northway",
+   "Upper Sundance Surface Lift top",
+   5.6
+  ],
+  [
+   "walk",
+   "Sundance",
+   "Upper Sundance Surface Lift top",
+   6.6
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   "Mixing Bowl / Broadway",
+   4.7
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   "Double Dipper",
+   4.0
+  ],
+  [
+   "walk",
+   "Mixing Bowl / Broadway",
+   "Double Dipper",
+   2.9
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Mixing Bowl / Broadway",
+   5.2
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "South Ridge Express bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Double Dipper",
+   4.0
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Chondola bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Double Dipper",
+   "Mixing Bowl / Broadway",
+   2.9
+  ],
+  [
+   "walk",
+   "Mixing Bowl",
+   "Mixing Bowl / Broadway",
+   4.1
+  ],
+  [
+   "walk",
+   "Mixing Bowl",
+   "Double Dipper",
+   3.4
+  ],
+  [
+   "walk",
+   "Chondola bottom",
+   "Mixing Bowl / Broadway",
+   2.2
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift top",
+   "Mixing Bowl / Broadway",
+   4.0
+  ],
+  [
+   "walk",
+   "Starlight / Green Cheese",
+   "Moonstruck / Green Cheese",
+   4.3
+  ],
+  [
+   "walk",
+   "Starlight / Green Cheese",
+   "Shock Wave",
+   4.7
+  ],
+  [
+   "walk",
+   "Shock Wave",
+   "Moonstruck / Green Cheese",
+   5.9
+  ],
+  [
+   "walk",
+   "Shock Wave",
+   "Starlight / Green Cheese",
+   4.7
+  ],
+  [
+   "walk",
+   "Cutback / Cascades",
+   "Cascades / Roadrunner",
+   2.7
+  ],
+  [
+   "walk",
+   "Cutback / Cascades",
+   "Tourist Trap / Lower Sunday Punch",
+   3.3
+  ],
+  [
+   "walk",
+   "Cascades / Roadrunner",
+   "Cutback / Cascades",
+   2.7
+  ],
+  [
+   "walk",
+   "Cascades / Roadrunner",
+   "Tourist Trap / Lower Sunday Punch",
+   2.6
+  ],
+  [
+   "walk",
+   "Tourist Trap / Lower Sunday Punch",
+   "Cutback / Cascades",
+   3.3
+  ],
+  [
+   "walk",
+   "Tourist Trap / Lower Sunday Punch",
+   "Cascades / Roadrunner",
+   2.6
+  ],
+  [
+   "walk",
+   "Outta Here / Lower Lazy River",
+   "Cutback / Cascades",
+   4.6
+  ],
+  [
+   "walk",
+   "Outta Here / Lower Lazy River",
+   "Cascades / Roadrunner",
+   3.9
+  ],
+  [
+   "walk",
+   "Outta Here / Lower Lazy River",
+   "Tourist Trap / Lower Sunday Punch",
+   4.3
+  ],
+  [
+   "walk",
+   "Barker 6 bottom",
+   "Tourist Trap / Lower Sunday Punch",
+   2.8
+  ],
+  [
+   "walk",
+   "Oz Quad top",
+   "iCaramba! / Rogue Angel",
+   4.4
+  ],
+  [
+   "walk",
+   "Oz Quad top",
+   "Excalibur / Roundabout",
+   4.7
+  ],
+  [
+   "walk",
+   "Jordan 8 top",
+   "Lost Princess / Cowardly Lion",
+   4.5
+  ],
+  [
+   "walk",
+   "Jordan 8 top",
+   "Eureka / Kansas",
+   6.7
+  ],
+  [
+   "walk",
+   "South Ridge Express top",
+   "North Peak Express bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Barker 6 bottom",
+   "Lower Sundance Surface Lift bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Barker 6 bottom",
+   "Upper Sundance Surface Lift bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "White Heat 2",
+   "Bim's Whim / Salvation",
+   4.3
+  ],
+  [
+   "walk",
+   "Lower Sundance Surface Lift bottom",
+   "Upper Sundance Surface Lift top",
+   3.0
+  ],
+  [
+   "walk",
+   "South Ridge Express bottom",
+   "Upper Sundance Surface Lift top",
+   4.2
+  ],
+  [
+   "walk",
+   "Chondola bottom",
+   "Upper Sundance Surface Lift top",
+   4.5
+  ],
+  [
+   "walk",
+   "Mixing Bowl / Broadway",
+   "Upper Sundance Surface Lift top",
+   4.0
+  ],
+  [
+   "walk",
+   "Lights Out",
+   "Quantum Leap Triple top",
+   5.4
+  ],
+  [
+   "walk",
+   "Lights Out",
+   "Downdraft / Second Mile",
+   4.8
+  ],
+  [
+   "walk",
+   "Lights Out",
+   "Paradigm / Backside",
+   4.2
+  ],
+  [
+   "walk",
+   "Lights Out",
+   "Downdraft",
+   6.4
+  ],
+  [
+   "walk",
+   "Lights Out",
+   "Lights Out 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Jordan Mountain Double top",
+   "Lollapalooza",
+   4.0
+  ],
+  [
+   "walk",
+   "Rogue Angel / State Fair",
+   "Jordan Mountain Double top",
+   4.3
+  ],
+  [
+   "walk",
+   "Rogue Angel / State Fair",
+   "Excalibur / Lollapalooza",
+   4.7
+  ],
+  [
+   "walk",
+   "Rogue Angel / State Fair",
+   "Lollapalooza",
+   6.3
+  ],
+  [
+   "walk",
+   "Excalibur / Lollapalooza",
+   "Lollapalooza",
+   4.5
+  ],
+  [
+   "walk",
+   "Lollapalooza",
+   "Jordan Mountain Double top",
+   4.0
+  ],
+  [
+   "walk",
+   "Lollapalooza",
+   "Excalibur / Lollapalooza",
+   4.5
+  ],
+  [
+   "walk",
+   "Cutback / Cascades",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   4.8
+  ],
+  [
+   "walk",
+   "Cutback / Cascades",
+   "Broadway 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Cutback / Cascades",
+   "Broadway 3",
+   5.5
+  ],
+  [
+   "walk",
+   "Cascades / Roadrunner",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   4.0
+  ],
+  [
+   "walk",
+   "Cascades / Roadrunner",
+   "Broadway 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Cascades / Roadrunner",
+   "Broadway 3",
+   4.8
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Cutback / Cascades",
+   4.8
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Cascades / Roadrunner",
+   4.0
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Gould Acadmey Surface Lift bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Broadway 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Broadway 3",
+   5.1
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Tourist Trap / Lower Sunday Punch",
+   5.0
+  ],
+  [
+   "walk",
+   "Tourist Trap / Lower Sunday Punch",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   4.5
+  ],
+  [
+   "walk",
+   "Tourist Trap / Lower Sunday Punch",
+   "Broadway 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Tourist Trap / Lower Sunday Punch",
+   "Broadway 3",
+   5.1
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift bottom",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   3.6
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift bottom",
+   "Broadway 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift bottom",
+   "Broadway 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Gould Acadmey Surface Lift bottom",
+   "Upper Sundance Surface Lift top",
+   6.7
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Cutback / Cascades",
+   5.7
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Cascades / Roadrunner",
+   5.0
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   5.3
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Gould Acadmey Surface Lift bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Broadway 3",
+   5.9
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Locke Mountain Triple bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Tourist Trap / Lower Sunday Punch",
+   5.9
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Cutback / Cascades",
+   5.5
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Cascades / Roadrunner",
+   4.8
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   5.1
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Gould Acadmey Surface Lift bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Broadway 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Locke Mountain Triple bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Tourist Trap / Lower Sunday Punch",
+   5.7
+  ],
+  [
+   "walk",
+   "Outta Here / Lower Lazy River",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   4.3
+  ],
+  [
+   "walk",
+   "Outta Here / Lower Lazy River",
+   "Broadway 2",
+   5.2
+  ],
+  [
+   "walk",
+   "Outta Here / Lower Lazy River",
+   "Broadway 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple bottom",
+   "Broadway 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple bottom",
+   "Broadway 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Locke Mountain Triple bottom",
+   "Upper Sundance Surface Lift bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Cascades / Sunday Punch",
+   "Cascades",
+   2.1
+  ],
+  [
+   "walk",
+   "Cascades / Sunday Punch",
+   "Cascades 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Cascades / Sunday Punch",
+   "Sunday Punch",
+   4.4
+  ],
+  [
+   "walk",
+   "Cascades / Sunday Punch",
+   "Sunday Punch 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Cascades / Sunday Punch",
+   "Cascades 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Cascades / Sunday Punch",
+   "Lower Upper Cut",
+   3.9
+  ],
+  [
+   "walk",
+   "Cascades / Sunday Punch",
+   "Cascades 4",
+   2.6
+  ],
+  [
+   "walk",
+   "Cascades",
+   "Cascades 2",
+   4.1
+  ],
+  [
+   "walk",
+   "Cascades",
+   "Sunday Punch",
+   3.8
+  ],
+  [
+   "walk",
+   "Cascades",
+   "Sunday Punch 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Cascades",
+   "Cascades 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Cascades",
+   "Lower Upper Cut",
+   3.3
+  ],
+  [
+   "walk",
+   "Cascades",
+   "Cascades 4",
+   2.0
+  ],
+  [
+   "walk",
+   "Cascades",
+   "White Cap Quad top",
+   6.5
+  ],
+  [
+   "walk",
+   "Ecstasy",
+   "Cascades",
+   3.9
+  ],
+  [
+   "walk",
+   "Ecstasy",
+   "Cascades 2",
+   6.5
+  ],
+  [
+   "walk",
+   "Ecstasy",
+   "Sunday Punch",
+   6.2
+  ],
+  [
+   "walk",
+   "Ecstasy",
+   "Sunday Punch 2",
+   5.0
+  ],
+  [
+   "walk",
+   "Ecstasy",
+   "Cascades 3",
+   5.5
+  ],
+  [
+   "walk",
+   "Ecstasy",
+   "Lower Upper Cut",
+   5.7
+  ],
+  [
+   "walk",
+   "Ecstasy",
+   "Cascades 4",
+   4.4
+  ],
+  [
+   "walk",
+   "Lower Upper Cut",
+   "Cascades",
+   3.3
+  ],
+  [
+   "walk",
+   "Lower Upper Cut",
+   "Cascades 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Lower Upper Cut",
+   "Sunday Punch",
+   5.7
+  ],
+  [
+   "walk",
+   "Lower Upper Cut",
+   "Sunday Punch 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Lower Upper Cut",
+   "Cascades 3",
+   5.0
+  ],
+  [
+   "walk",
+   "Lower Upper Cut",
+   "Cascades 4",
+   3.8
+  ],
+  [
+   "walk",
+   "Upper Sunday Punch",
+   "Cascades",
+   3.7
+  ],
+  [
+   "walk",
+   "Upper Sunday Punch",
+   "Cascades 2",
+   6.3
+  ],
+  [
+   "walk",
+   "Upper Sunday Punch",
+   "Sunday Punch",
+   6.0
+  ],
+  [
+   "walk",
+   "Upper Sunday Punch",
+   "Sunday Punch 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Upper Sunday Punch",
+   "Cascades 3",
+   5.3
+  ],
+  [
+   "walk",
+   "Upper Sunday Punch",
+   "Lower Upper Cut",
+   5.5
+  ],
+  [
+   "walk",
+   "Upper Sunday Punch",
+   "Cascades 4",
+   4.2
+  ],
+  [
+   "walk",
+   "American Express / Sirius",
+   "Sirius / Vortex",
+   3.7
+  ],
+  [
+   "walk",
+   "American Express / Sirius",
+   "Sirius",
+   1.8
+  ],
+  [
+   "walk",
+   "Sirius / Vortex",
+   "American Express / Sirius",
+   3.7
+  ],
+  [
+   "walk",
+   "Sirius / Vortex",
+   "Sirius",
+   4.2
+  ],
+  [
+   "walk",
+   "Sirius",
+   "American Express / Sirius",
+   1.8
+  ],
+  [
+   "walk",
+   "Sirius",
+   "Sirius / Vortex",
+   4.2
+  ],
+  [
+   "walk",
+   "Cutback",
+   "Cutback / Cascades",
+   5.1
+  ],
+  [
+   "walk",
+   "Cutback",
+   "Cascades / Roadrunner",
+   4.3
+  ],
+  [
+   "walk",
+   "Cutback",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   6.4
+  ],
+  [
+   "walk",
+   "Cutback",
+   "Tourist Trap / Lower Sunday Punch",
+   5.4
+  ],
+  [
+   "walk",
+   "Cutback",
+   "Gould Acadmey Surface Lift bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Cutback",
+   "Barker 6 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "White Heat / Heat's On",
+   "Tempest",
+   3.7
+  ],
+  [
+   "walk",
+   "White Heat / Heat's On",
+   "Obsession / Heat's On",
+   2.9
+  ],
+  [
+   "walk",
+   "White Heat / Heat's On",
+   "Starlight",
+   2.7
+  ],
+  [
+   "walk",
+   "White Heat",
+   "Tempest",
+   6.0
+  ],
+  [
+   "walk",
+   "White Heat",
+   "White Heat / Heat's On",
+   3.8
+  ],
+  [
+   "walk",
+   "White Heat",
+   "Obsession / Heat's On",
+   5.2
+  ],
+  [
+   "walk",
+   "White Heat",
+   "Starlight",
+   5.0
+  ],
+  [
+   "walk",
+   "Obsession / Heat's On",
+   "Tempest",
+   5.1
+  ],
+  [
+   "walk",
+   "Obsession / Heat's On",
+   "White Heat / Heat's On",
+   2.9
+  ],
+  [
+   "walk",
+   "Obsession / Heat's On",
+   "Starlight",
+   4.1
+  ],
+  [
+   "walk",
+   "Paradigm",
+   "Aurora Peak Quad bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Paradigm",
+   "Jordan Mountain Double bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "Paradigm",
+   "Sensation",
+   4.1
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   "Mixing Bowl",
+   5.8
+  ],
+  [
+   "walk",
+   "Mixing Bowl / Broadway",
+   "Mixing Bowl",
+   5.6
+  ],
+  [
+   "walk",
+   "Double Dipper / Dreammaker",
+   "Mixing Bowl / Broadway",
+   5.4
+  ],
+  [
+   "walk",
+   "Double Dipper / Dreammaker",
+   "Lower Sundance Surface Lift bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Double Dipper / Dreammaker",
+   "South Ridge Express bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Double Dipper / Dreammaker",
+   "Double Dipper",
+   3.8
+  ],
+  [
+   "walk",
+   "Double Dipper / Dreammaker",
+   "Mixing Bowl",
+   4.8
+  ],
+  [
+   "walk",
+   "Double Dipper / Dreammaker",
+   "Chondola bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Lower Sundance Surface Lift bottom",
+   "Mixing Bowl",
+   4.6
+  ],
+  [
+   "walk",
+   "South Ridge Express bottom",
+   "Mixing Bowl",
+   5.8
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Mixing Bowl",
+   5.4
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Mixing Bowl / Broadway",
+   6.1
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Lower Sundance Surface Lift bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "South Ridge Express bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Double Dipper",
+   4.6
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Mixing Bowl",
+   5.7
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Chondola bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Double Dipper",
+   "Mixing Bowl",
+   4.1
+  ],
+  [
+   "walk",
+   "Chondola bottom",
+   "Mixing Bowl",
+   6.2
+  ],
+  [
+   "walk",
+   "North Peak Express bottom",
+   "Double Dipper",
+   6.7
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   6.6
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Lower Sundance Surface Lift bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Double Dipper",
+   5.4
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Mixing Bowl",
+   6.5
+  ],
+  [
+   "walk",
+   "Wonderland (Mixing Bowl) / Mixing Bowl",
+   "Upper Sundance Surface Lift bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Double Dipper / Dreammaker",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Broadway 2",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Broadway 3",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Double Dipper",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Mixing Bowl",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   6.7
+  ],
+  [
+   "walk",
+   "Upper Sundance Surface Lift bottom",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Lower Sundance Surface Lift bottom",
+   "Wonderland (Mixing Bowl) / Mixing Bowl 2",
+   6.4
+  ]
+ ],
+ "base": "South Ridge Express bottom",
+ "info": {}
+}

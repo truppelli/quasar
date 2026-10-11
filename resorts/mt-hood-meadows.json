@@ -1,0 +1,4210 @@
+{
+ "name": "Mt. Hood Meadows Ski Resort",
+ "source": "OpenSkiMap ski area effda1f2db54d33bc3770670cd4335bd56a41eec",
+ "origin_lonlat": [
+  -121.6653719939936,
+  45.337309323478884
+ ],
+ "nodes": {
+  "Boardwalk / Breakaway": [
+   1171,
+   -452,
+   1670.1
+  ],
+  "Boardwalk / Breakaway 2": [
+   1259,
+   -739,
+   1566.5
+  ],
+  "Breakaway / Wyeast": [
+   1328,
+   -849,
+   1538.9
+  ],
+  "Tamarack / Lady Slipper Bowl": [
+   543,
+   -293,
+   1728.2
+  ],
+  "Tamarack / HRM Face": [
+   1689,
+   -1223,
+   1400.6
+  ],
+  "Lower Face / Jacob's Ladder": [
+   -265,
+   -30,
+   1719.8
+  ],
+  "Lower Face / Trillium": [
+   -179,
+   -180,
+   1699.9
+  ],
+  "North Canyon": [
+   -190,
+   619,
+   1912.2
+  ],
+  "North Canyon / Trillium": [
+   186,
+   -25,
+   1754.4
+  ],
+  "Cascade Express top": [
+   -1270,
+   1333,
+   2224.9
+  ],
+  "Shooting Star Express top": [
+   -317,
+   927,
+   1999.6
+  ],
+  "Unnamed run / Texas Trails": [
+   -969,
+   -187,
+   1858.5
+  ],
+  "Unnamed run / Mitchell Creek": [
+   -884,
+   -590,
+   1775.9
+  ],
+  "Discovery Ridge": [
+   -181,
+   704,
+   1926.1
+  ],
+  "Discovery Ridge / Tillicum": [
+   -78,
+   577,
+   1912.3
+  ],
+  "Easy Rider top": [
+   -816,
+   -529,
+   1785.0
+  ],
+  "Vista Express bottom": [
+   -102,
+   -858,
+   1657.9
+  ],
+  "Wyeast / Park Place": [
+   976,
+   -248,
+   1724.6
+  ],
+  "Mitchell Creek": [
+   -355,
+   -764,
+   1677.3
+  ],
+  "Outer Limits": [
+   -406,
+   1018,
+   2009.3
+  ],
+  "Inner Limits / North Canyon": [
+   -249,
+   632,
+   1921.1
+  ],
+  "3 Bowl / Ridge Run": [
+   -585,
+   217,
+   1888.4
+  ],
+  "3 Bowl / Blue Face": [
+   -311,
+   68,
+   1739.1
+  ],
+  "Gulch / Unnamed run": [
+   -1329,
+   1180,
+   2197.9
+  ],
+  "Gulch / Unnamed run 2": [
+   -899,
+   248,
+   1908.7
+  ],
+  "Vista Express top": [
+   -1337,
+   278,
+   1996.8
+  ],
+  "Vista Ridge / My Ty": [
+   -956,
+   -696,
+   1782.1
+  ],
+  "Lady Slipper Bowl / Stadium": [
+   440,
+   -14,
+   1794.5
+  ],
+  "Unnamed run / Elevator": [
+   -878,
+   1251,
+   2142.3
+  ],
+  "Unnamed run / Arena": [
+   -791,
+   875,
+   2034.3
+  ],
+  "Tamarack": [
+   1321,
+   -995,
+   1541.7
+  ],
+  "Unnamed run / Kinnikinick": [
+   1374,
+   -939,
+   1534.0
+  ],
+  "Show Off / Trillium": [
+   -36,
+   -99,
+   1717.8
+  ],
+  "Show Off / Reservoir Hill": [
+   -78,
+   -318,
+   1648.8
+  ],
+  "Inner Limits": [
+   -318,
+   649,
+   1933.7
+  ],
+  "Breezeway / Wee Gee Bee Gee": [
+   -47,
+   193,
+   1815.5
+  ],
+  "3D / Roach Bowl": [
+   -2,
+   543,
+   1906.9
+  ],
+  "3D / Nettie's Run": [
+   104,
+   680,
+   1842.0
+  ],
+  "Hood River Express top": [
+   664,
+   51,
+   1803.9
+  ],
+  "Shooting Star Express bottom": [
+   829,
+   445,
+   1718.2
+  ],
+  "Gulch": [
+   -1204,
+   899,
+   2103.2
+  ],
+  "Boulevard / Daisy Bowl": [
+   -815,
+   -269,
+   1821.3
+  ],
+  "Heather Canyon Runout": [
+   1873,
+   -1198,
+   1394.5
+  ],
+  "Rock Garden / Voyager": [
+   153,
+   492,
+   1881.4
+  ],
+  "Rock Garden / Nettie's Run": [
+   307,
+   606,
+   1804.6
+  ],
+  "Mount Hood Express top": [
+   -509,
+   730,
+   1991.5
+  ],
+  "Chunky Swirly / Gingivitis": [
+   -701,
+   -87,
+   1818.6
+  ],
+  "Stadium Express top": [
+   481,
+   171,
+   1808.5
+  ],
+  "HRM Face / Knot Hole": [
+   1440,
+   -867,
+   1525.8
+  ],
+  "Hood River Express bottom": [
+   1766,
+   -1293,
+   1380.5
+  ],
+  "Tamarack 2": [
+   1080,
+   -870,
+   1607.8
+  ],
+  "Beaver Tail / Unnamed run": [
+   -631,
+   -129,
+   1815.5
+  ],
+  "Beaver Tail / Whoopee": [
+   -212,
+   -280,
+   1687.9
+  ],
+  "Unnamed run / Gingivitis": [
+   -894,
+   86,
+   1880.0
+  ],
+  "Jacob's Ladder / 1 Bowl": [
+   -449,
+   554,
+   1920.1
+  ],
+  "Unnamed run / Arena 2": [
+   -1151,
+   1096,
+   2134.9
+  ],
+  "Whoopee / Waterfall": [
+   -95,
+   -455,
+   1640.5
+  ],
+  "Cascade Express bottom": [
+   -670,
+   -175,
+   1805.0
+  ],
+  "Trillium": [
+   269,
+   10,
+   1767.6
+  ],
+  "Ram's Head / Eric's Corner": [
+   91,
+   -358,
+   1647.1
+  ],
+  "Unnamed run / Ridge Run": [
+   -635,
+   446,
+   1931.7
+  ],
+  "Trillium 2": [
+   125,
+   -64,
+   1740.2
+  ],
+  "Eric's Corner": [
+   49,
+   -495,
+   1633.5
+  ],
+  "1 Bowl / Ridge Run": [
+   -581,
+   649,
+   1979.8
+  ],
+  "Voyager": [
+   341,
+   382,
+   1829.8
+  ],
+  "Nettie's Run": [
+   740,
+   462,
+   1727.5
+  ],
+  "Trillium 3": [
+   468,
+   112,
+   1800.8
+  ],
+  "HRM Face": [
+   1526,
+   -1045,
+   1490.3
+  ],
+  "Columbia / Apollo": [
+   404,
+   755,
+   1853.6
+  ],
+  "Columbia / Apollo 2": [
+   795,
+   524,
+   1722.2
+  ],
+  "North Canyon 2": [
+   43,
+   384,
+   1841.9
+  ],
+  "Apollo / Shooting Star Ridge": [
+   206,
+   830,
+   1894.9
+  ],
+  "Apollo": [
+   869,
+   478,
+   1715.0
+  ],
+  "Trillium 4": [
+   -115,
+   -106,
+   1709.2
+  ],
+  "Breezeway": [
+   -141,
+   236,
+   1831.6
+  ],
+  "Lower Face": [
+   -236,
+   -85,
+   1707.5
+  ],
+  "Daisy top": [
+   -797,
+   -199,
+   1835.5
+  ],
+  "Daisy Bowl / South Canyon": [
+   -461,
+   -505,
+   1712.0
+  ],
+  "Outer Limits 2": [
+   -944,
+   1309,
+   2156.1
+  ],
+  "Elevator / Lower Elevator": [
+   -552,
+   868,
+   1971.5
+  ],
+  "Chunky Swirly": [
+   -649,
+   695,
+   1970.1
+  ],
+  "Boardwalk": [
+   1225,
+   -658,
+   1598.6
+  ],
+  "Mercury / Shooting Star Ridge": [
+   -196,
+   1011,
+   1990.2
+  ],
+  "2 Bowl / Ridge Run": [
+   -622,
+   344,
+   1917.8
+  ],
+  "2 Bowl / Blue Face": [
+   -393,
+   247,
+   1823.9
+  ],
+  "Beaver Tail": [
+   -436,
+   -278,
+   1737.6
+  ],
+  "Skyway": [
+   1730,
+   -909,
+   1501.5
+  ],
+  "Skyway 2": [
+   1814,
+   -1032,
+   1436.6
+  ],
+  "1 Bowl": [
+   -562,
+   606,
+   1982.1
+  ],
+  "1 1/2 Bowl / Blue Face": [
+   -431,
+   372,
+   1842.5
+  ],
+  "Beaver Tail 2": [
+   -521,
+   -297,
+   1755.0
+  ],
+  "Speedwell / South Canyon": [
+   -339,
+   -630,
+   1678.0
+  ],
+  "Chunky Swirly 2": [
+   -676,
+   577,
+   1947.3
+  ],
+  "Lady Slipper / Stadium": [
+   137,
+   -474,
+   1639.6
+  ],
+  "Vista Ridge": [
+   -1242,
+   -325,
+   1897.9
+  ],
+  "Inner Limits 2": [
+   -366,
+   751,
+   1931.9
+  ],
+  "Nate's Way": [
+   -1308,
+   62,
+   1960.3
+  ],
+  "Texas Trails": [
+   -1189,
+   3,
+   1929.1
+  ],
+  "Tillicum": [
+   90,
+   522,
+   1899.8
+  ],
+  "Nettie's Run 2": [
+   224,
+   632,
+   1818.9
+  ],
+  "Mitchell Creek 2": [
+   -288,
+   -761,
+   1665.0
+  ],
+  "Unnamed run": [
+   -626,
+   14,
+   1842.0
+  ],
+  "Beaver Tail 3": [
+   -393,
+   -180,
+   1721.7
+  ],
+  "North Canyon 3": [
+   -118,
+   473,
+   1878.5
+  ],
+  "Outer Limits 3": [
+   -300,
+   990,
+   1993.0
+  ],
+  "Nettie's Run 3": [
+   471,
+   552,
+   1781.5
+  ],
+  "Vista Ridge 2": [
+   -1218,
+   -384,
+   1890.4
+  ],
+  "Mitchell Creek 3": [
+   -801,
+   -741,
+   1757.8
+  ],
+  "Skyway 3": [
+   1486,
+   -863,
+   1523.2
+  ],
+  "Skyway 4": [
+   1801,
+   -1143,
+   1407.4
+  ],
+  "Chunky Swirly 3": [
+   -556,
+   693,
+   1992.7
+  ],
+  "Buttercup bottom": [
+   52,
+   -791,
+   1632.2
+  ],
+  "Lady Finger": [
+   661,
+   3,
+   1792.8
+  ],
+  "Kinnikinick": [
+   716,
+   -242,
+   1730.8
+  ],
+  "Middlefork": [
+   -151,
+   388,
+   1862.6
+  ],
+  "South Canyon": [
+   -725,
+   -213,
+   1804.4
+  ],
+  "Stadium Express bottom": [
+   69,
+   -538,
+   1634.2
+  ],
+  "Fireweed": [
+   -546,
+   -718,
+   1715.1
+  ],
+  "Arena": [
+   -928,
+   994,
+   2070.3
+  ],
+  "Skyway 5": [
+   1785,
+   -1192,
+   1392.5
+  ],
+  "Whoopee": [
+   -187,
+   -223,
+   1694.0
+  ],
+  "Reservoir Hill": [
+   -59,
+   -435,
+   1639.1
+  ],
+  "Texas Trails 2": [
+   -1394,
+   961,
+   2160.6
+  ],
+  "Texas Trails 3": [
+   -1118,
+   -59,
+   1902.9
+  ],
+  "Buttercup top": [
+   -216,
+   -668,
+   1676.5
+  ],
+  "Daisy bottom": [
+   27,
+   -715,
+   1634.7
+  ],
+  "Easy Rider bottom": [
+   -203,
+   -820,
+   1656.9
+  ],
+  "Ballroom Carpet bottom": [
+   -38,
+   -564,
+   1639.2
+  ],
+  "Ballroom Carpet top": [
+   -120,
+   -579,
+   1645.9
+  ],
+  "Mount Hood Express bottom": [
+   14,
+   -468,
+   1636.5
+  ],
+  "Heather top": [
+   526,
+   152,
+   1814.9
+  ]
+ },
+ "lifts": [
+  [
+   "Buttercup",
+   "Buttercup bottom",
+   "Buttercup top",
+   5.1
+  ],
+  [
+   "Cascade Express",
+   "Cascade Express bottom",
+   "Cascade Express top",
+   9.0
+  ],
+  [
+   "Daisy",
+   "Daisy bottom",
+   "Daisy top",
+   11.0
+  ],
+  [
+   "Shooting Star Express",
+   "Shooting Star Express bottom",
+   "Shooting Star Express top",
+   8.0
+  ],
+  [
+   "Easy Rider",
+   "Easy Rider bottom",
+   "Easy Rider top",
+   10.0
+  ],
+  [
+   "Vista Express",
+   "Vista Express bottom",
+   "Vista Express top",
+   8.0
+  ],
+  [
+   "Ballroom Carpet",
+   "Ballroom Carpet bottom",
+   "Ballroom Carpet top",
+   4.7
+  ],
+  [
+   "Mount Hood Express",
+   "Mount Hood Express bottom",
+   "Mount Hood Express top",
+   7.5
+  ],
+  [
+   "Hood River Express",
+   "Hood River Express bottom",
+   "Hood River Express top",
+   8.5
+  ],
+  [
+   "Stadium Express",
+   "Stadium Express bottom",
+   "Stadium Express top",
+   5.9
+  ],
+  [
+   "Stadium Express",
+   "Stadium Express top",
+   "Stadium Express bottom",
+   5.9
+  ]
+ ],
+ "runs": [
+  [
+   "Boardwalk",
+   "Boardwalk / Breakaway",
+   "Boardwalk",
+   1.2
+  ],
+  [
+   "Boardwalk",
+   "Boardwalk",
+   "Boardwalk / Breakaway 2",
+   0.5
+  ],
+  [
+   "Breakaway",
+   "Boardwalk / Breakaway",
+   "Boardwalk",
+   0.8
+  ],
+  [
+   "Breakaway",
+   "Boardwalk",
+   "Boardwalk / Breakaway 2",
+   0.5
+  ],
+  [
+   "Breakaway",
+   "Boardwalk / Breakaway 2",
+   "Breakaway / Wyeast",
+   0.6
+  ],
+  [
+   "Tamarack",
+   "Tamarack / Lady Slipper Bowl",
+   "Tamarack 2",
+   3.2
+  ],
+  [
+   "Tamarack",
+   "Tamarack 2",
+   "Tamarack",
+   1.3
+  ],
+  [
+   "Tamarack",
+   "Tamarack",
+   "Tamarack / HRM Face",
+   1.9
+  ],
+  [
+   "Lower Face",
+   "Lower Face / Jacob's Ladder",
+   "Lower Face",
+   0.5
+  ],
+  [
+   "Lower Face",
+   "Lower Face",
+   "Lower Face / Trillium",
+   0.5
+  ],
+  [
+   "North Canyon",
+   "North Canyon",
+   "North Canyon 3",
+   0.6
+  ],
+  [
+   "North Canyon",
+   "North Canyon 3",
+   "North Canyon 2",
+   0.8
+  ],
+  [
+   "North Canyon",
+   "North Canyon 2",
+   "North Canyon / Trillium",
+   1.9
+  ],
+  [
+   "Outer Limits",
+   "Cascade Express top",
+   "Outer Limits 2",
+   1.7
+  ],
+  [
+   "Outer Limits",
+   "Outer Limits 2",
+   "Outer Limits",
+   2.7
+  ],
+  [
+   "Outer Limits",
+   "Outer Limits",
+   "Outer Limits 3",
+   0.5
+  ],
+  [
+   "Outer Limits",
+   "Outer Limits 3",
+   "Shooting Star Express top",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Texas Trails",
+   "Unnamed run / Mitchell Creek",
+   1.8
+  ],
+  [
+   "Discovery Ridge",
+   "Discovery Ridge",
+   "Discovery Ridge / Tillicum",
+   0.6
+  ],
+  [
+   "Mitchell Creek",
+   "Easy Rider top",
+   "Unnamed run / Mitchell Creek",
+   0.5
+  ],
+  [
+   "Mitchell Creek",
+   "Unnamed run / Mitchell Creek",
+   "Mitchell Creek 3",
+   0.7
+  ],
+  [
+   "Mitchell Creek",
+   "Mitchell Creek 3",
+   "Mitchell Creek",
+   3.0
+  ],
+  [
+   "Mitchell Creek",
+   "Mitchell Creek",
+   "Mitchell Creek 2",
+   0.5
+  ],
+  [
+   "Mitchell Creek",
+   "Mitchell Creek 2",
+   "Easy Rider bottom",
+   0.6
+  ],
+  [
+   "Mitchell Creek",
+   "Easy Rider bottom",
+   "Vista Express bottom",
+   0.5
+  ],
+  [
+   "Wyeast",
+   "Wyeast / Park Place",
+   "Boardwalk / Breakaway 2",
+   2.6
+  ],
+  [
+   "Wyeast",
+   "Boardwalk / Breakaway 2",
+   "Breakaway / Wyeast",
+   0.5
+  ],
+  [
+   "Fireweed",
+   "Easy Rider top",
+   "Fireweed",
+   1.6
+  ],
+  [
+   "Fireweed",
+   "Fireweed",
+   "Mitchell Creek",
+   0.8
+  ],
+  [
+   "Inner Limits",
+   "Outer Limits",
+   "Inner Limits 2",
+   1.1
+  ],
+  [
+   "Inner Limits",
+   "Inner Limits 2",
+   "Inner Limits",
+   0.5
+  ],
+  [
+   "Inner Limits",
+   "Inner Limits",
+   "Inner Limits / North Canyon",
+   0.5
+  ],
+  [
+   "3 Bowl",
+   "3 Bowl / Ridge Run",
+   "3 Bowl / Blue Face",
+   1.4
+  ],
+  [
+   "Gulch",
+   "Gulch / Unnamed run",
+   "Gulch",
+   1.2
+  ],
+  [
+   "Gulch",
+   "Gulch",
+   "Gulch / Unnamed run 2",
+   3.3
+  ],
+  [
+   "Vista Ridge",
+   "Vista Express top",
+   "Vista Ridge",
+   2.9
+  ],
+  [
+   "Vista Ridge",
+   "Vista Ridge",
+   "Vista Ridge 2",
+   0.5
+  ],
+  [
+   "Vista Ridge",
+   "Vista Ridge 2",
+   "Vista Ridge / My Ty",
+   3.3
+  ],
+  [
+   "Lady Slipper Bowl",
+   "Lady Slipper Bowl / Stadium",
+   "Tamarack / Lady Slipper Bowl",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Elevator",
+   "Unnamed run / Arena",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Tamarack",
+   "Unnamed run / Kinnikinick",
+   0.5
+  ],
+  [
+   "Show Off",
+   "Show Off / Trillium",
+   "Show Off / Reservoir Hill",
+   0.9
+  ],
+  [
+   "Breezeway",
+   "Inner Limits",
+   "Breezeway",
+   1.9
+  ],
+  [
+   "Breezeway",
+   "Breezeway",
+   "Breezeway / Wee Gee Bee Gee",
+   0.5
+  ],
+  [
+   "3D",
+   "3D / Roach Bowl",
+   "3D / Nettie's Run",
+   0.6
+  ],
+  [
+   "Titan",
+   "Hood River Express top",
+   "Shooting Star Express bottom",
+   1.7
+  ],
+  [
+   "Boulevard",
+   "Gulch",
+   "Boulevard / Daisy Bowl",
+   5.2
+  ],
+  [
+   "Rock Garden",
+   "Rock Garden / Voyager",
+   "Rock Garden / Nettie's Run",
+   0.8
+  ],
+  [
+   "Chunky Swirly",
+   "Mount Hood Express top",
+   "Chunky Swirly 3",
+   0.5
+  ],
+  [
+   "Chunky Swirly",
+   "Chunky Swirly 3",
+   "Chunky Swirly",
+   0.5
+  ],
+  [
+   "Chunky Swirly",
+   "Chunky Swirly",
+   "Chunky Swirly 2",
+   0.5
+  ],
+  [
+   "Chunky Swirly",
+   "Chunky Swirly 2",
+   "Chunky Swirly / Gingivitis",
+   2.9
+  ],
+  [
+   "Trillium",
+   "Stadium Express top",
+   "Trillium 3",
+   0.5
+  ],
+  [
+   "Trillium",
+   "Trillium 3",
+   "Trillium",
+   0.8
+  ],
+  [
+   "Trillium",
+   "Trillium",
+   "North Canyon / Trillium",
+   0.5
+  ],
+  [
+   "Trillium",
+   "North Canyon / Trillium",
+   "Trillium 2",
+   0.5
+  ],
+  [
+   "Trillium",
+   "Trillium 2",
+   "Show Off / Trillium",
+   0.7
+  ],
+  [
+   "Trillium",
+   "Show Off / Trillium",
+   "Trillium 4",
+   0.5
+  ],
+  [
+   "Trillium",
+   "Trillium 4",
+   "Lower Face / Trillium",
+   0.5
+  ],
+  [
+   "Park Place",
+   "Hood River Express top",
+   "Wyeast / Park Place",
+   1.6
+  ],
+  [
+   "Park Place",
+   "Wyeast / Park Place",
+   "Boardwalk / Breakaway",
+   1.2
+  ],
+  [
+   "HRM Face",
+   "HRM Face / Knot Hole",
+   "HRM Face",
+   0.7
+  ],
+  [
+   "HRM Face",
+   "HRM Face",
+   "Tamarack / HRM Face",
+   1.1
+  ],
+  [
+   "HRM Face",
+   "Tamarack / HRM Face",
+   "Hood River Express bottom",
+   0.5
+  ],
+  [
+   "Knot Hole",
+   "Tamarack 2",
+   "Breakaway / Wyeast",
+   0.9
+  ],
+  [
+   "Knot Hole",
+   "Breakaway / Wyeast",
+   "HRM Face / Knot Hole",
+   0.5
+  ],
+  [
+   "North Canyon",
+   "Mount Hood Express top",
+   "Inner Limits",
+   0.7
+  ],
+  [
+   "North Canyon",
+   "Inner Limits",
+   "Inner Limits / North Canyon",
+   0.5
+  ],
+  [
+   "North Canyon",
+   "Inner Limits / North Canyon",
+   "North Canyon",
+   0.5
+  ],
+  [
+   "Beaver Tail",
+   "Beaver Tail / Unnamed run",
+   "Beaver Tail 2",
+   0.8
+  ],
+  [
+   "Beaver Tail",
+   "Beaver Tail 2",
+   "Beaver Tail",
+   0.5
+  ],
+  [
+   "Beaver Tail",
+   "Beaver Tail",
+   "Beaver Tail 3",
+   0.5
+  ],
+  [
+   "Beaver Tail",
+   "Beaver Tail 3",
+   "Beaver Tail / Whoopee",
+   1.1
+  ],
+  [
+   "Voyager",
+   "Rock Garden / Voyager",
+   "Voyager",
+   0.8
+  ],
+  [
+   "Voyager",
+   "Voyager",
+   "Shooting Star Express bottom",
+   2.6
+  ],
+  [
+   "Unnamed run",
+   "Gulch / Unnamed run 2",
+   "Unnamed run / Gingivitis",
+   0.6
+  ],
+  [
+   "Jacob's Ladder",
+   "Jacob's Ladder / 1 Bowl",
+   "Lower Face / Jacob's Ladder",
+   3.0
+  ],
+  [
+   "Discovery Ridge",
+   "Shooting Star Express top",
+   "Discovery Ridge",
+   1.0
+  ],
+  [
+   "Discovery Ridge",
+   "Discovery Ridge",
+   "North Canyon",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Gulch / Unnamed run",
+   "Unnamed run / Arena 2",
+   0.6
+  ],
+  [
+   "Whoopee",
+   "Lower Face / Trillium",
+   "Whoopee",
+   0.5
+  ],
+  [
+   "Whoopee",
+   "Whoopee",
+   "Beaver Tail / Whoopee",
+   0.5
+  ],
+  [
+   "Whoopee",
+   "Beaver Tail / Whoopee",
+   "Whoopee / Waterfall",
+   1.0
+  ],
+  [
+   "Gingivitis",
+   "Unnamed run / Gingivitis",
+   "Chunky Swirly / Gingivitis",
+   1.0
+  ],
+  [
+   "Gingivitis",
+   "Chunky Swirly / Gingivitis",
+   "Cascade Express bottom",
+   0.5
+  ],
+  [
+   "Ram's Head",
+   "Trillium",
+   "Ram's Head / Eric's Corner",
+   1.8
+  ],
+  [
+   "Texas Trails",
+   "Cascade Express top",
+   "Gulch / Unnamed run",
+   0.6
+  ],
+  [
+   "Texas Trails",
+   "Gulch / Unnamed run",
+   "Texas Trails 2",
+   0.9
+  ],
+  [
+   "Texas Trails",
+   "Texas Trails 2",
+   "Texas Trails",
+   4.3
+  ],
+  [
+   "Texas Trails",
+   "Texas Trails",
+   "Texas Trails 3",
+   0.5
+  ],
+  [
+   "Texas Trails",
+   "Texas Trails 3",
+   "Unnamed run / Texas Trails",
+   0.8
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Ridge Run",
+   "Unnamed run",
+   1.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run",
+   "Chunky Swirly / Gingivitis",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Chunky Swirly / Gingivitis",
+   "Beaver Tail / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Beaver Tail / Unnamed run",
+   "Cascade Express bottom",
+   0.5
+  ],
+  [
+   "Eric's Corner",
+   "Trillium 2",
+   "Ram's Head / Eric's Corner",
+   1.2
+  ],
+  [
+   "Eric's Corner",
+   "Ram's Head / Eric's Corner",
+   "Eric's Corner",
+   0.6
+  ],
+  [
+   "Nettie's Run",
+   "Shooting Star Express top",
+   "Outer Limits 3",
+   0.5
+  ],
+  [
+   "Nettie's Run",
+   "Outer Limits 3",
+   "3D / Nettie's Run",
+   2.2
+  ],
+  [
+   "Nettie's Run",
+   "3D / Nettie's Run",
+   "Nettie's Run 2",
+   0.6
+  ],
+  [
+   "Nettie's Run",
+   "Nettie's Run 2",
+   "Rock Garden / Nettie's Run",
+   0.5
+  ],
+  [
+   "Nettie's Run",
+   "Rock Garden / Nettie's Run",
+   "Nettie's Run 3",
+   0.7
+  ],
+  [
+   "Nettie's Run",
+   "Nettie's Run 3",
+   "Nettie's Run",
+   1.2
+  ],
+  [
+   "Nettie's Run",
+   "Nettie's Run",
+   "Shooting Star Express bottom",
+   0.5
+  ],
+  [
+   "1 Bowl",
+   "1 Bowl / Ridge Run",
+   "1 Bowl",
+   0.5
+  ],
+  [
+   "1 Bowl",
+   "1 Bowl",
+   "Jacob's Ladder / 1 Bowl",
+   0.5
+  ],
+  [
+   "Gemini",
+   "Voyager",
+   "Nettie's Run",
+   1.8
+  ],
+  [
+   "Kinnikinick",
+   "Trillium 3",
+   "Kinnikinick",
+   1.7
+  ],
+  [
+   "Kinnikinick",
+   "Kinnikinick",
+   "Unnamed run / Kinnikinick",
+   4.2
+  ],
+  [
+   "Kinnikinick",
+   "Unnamed run / Kinnikinick",
+   "HRM Face",
+   0.8
+  ],
+  [
+   "Columbia",
+   "Columbia / Apollo",
+   "Columbia / Apollo 2",
+   2.2
+  ],
+  [
+   "Lady Finger",
+   "Hood River Express top",
+   "Lady Finger",
+   0.5
+  ],
+  [
+   "Lady Finger",
+   "Lady Finger",
+   "Tamarack / Lady Slipper Bowl",
+   1.2
+  ],
+  [
+   "Roach Bowl",
+   "3D / Roach Bowl",
+   "North Canyon 2",
+   0.6
+  ],
+  [
+   "Tillicum",
+   "North Canyon",
+   "Discovery Ridge / Tillicum",
+   0.5
+  ],
+  [
+   "Tillicum",
+   "Discovery Ridge / Tillicum",
+   "3D / Roach Bowl",
+   0.5
+  ],
+  [
+   "Tillicum",
+   "3D / Roach Bowl",
+   "Tillicum",
+   0.5
+  ],
+  [
+   "Tillicum",
+   "Tillicum",
+   "Rock Garden / Voyager",
+   0.5
+  ],
+  [
+   "Tillicum",
+   "Rock Garden / Voyager",
+   "Trillium 3",
+   2.2
+  ],
+  [
+   "Apollo",
+   "Apollo / Shooting Star Ridge",
+   "Columbia / Apollo",
+   0.8
+  ],
+  [
+   "Apollo",
+   "Columbia / Apollo",
+   "Columbia / Apollo 2",
+   2.0
+  ],
+  [
+   "Apollo",
+   "Columbia / Apollo 2",
+   "Apollo",
+   0.5
+  ],
+  [
+   "Wee Gee Bee Gee",
+   "Breezeway / Wee Gee Bee Gee",
+   "Trillium 4",
+   1.3
+  ],
+  [
+   "Powder Keg",
+   "Breezeway",
+   "Lower Face / Jacob's Ladder",
+   1.3
+  ],
+  [
+   "Powder Keg",
+   "Lower Face / Jacob's Ladder",
+   "Lower Face",
+   0.5
+  ],
+  [
+   "Daisy Bowl",
+   "Daisy top",
+   "Boulevard / Daisy Bowl",
+   0.5
+  ],
+  [
+   "Daisy Bowl",
+   "Boulevard / Daisy Bowl",
+   "Daisy Bowl / South Canyon",
+   2.1
+  ],
+  [
+   "Elevator",
+   "Outer Limits 2",
+   "Unnamed run / Elevator",
+   0.5
+  ],
+  [
+   "Elevator",
+   "Unnamed run / Elevator",
+   "Elevator / Lower Elevator",
+   2.2
+  ],
+  [
+   "Arena",
+   "Cascade Express top",
+   "Unnamed run / Arena 2",
+   1.0
+  ],
+  [
+   "Arena",
+   "Unnamed run / Arena 2",
+   "Arena",
+   1.1
+  ],
+  [
+   "Arena",
+   "Arena",
+   "Unnamed run / Arena",
+   0.8
+  ],
+  [
+   "Arena",
+   "Unnamed run / Arena",
+   "Chunky Swirly",
+   1.0
+  ],
+  [
+   "Pipeline",
+   "Trillium 3",
+   "Hood River Express top",
+   0.7
+  ],
+  [
+   "Pipeline",
+   "Hood River Express top",
+   "Lady Finger",
+   0.5
+  ],
+  [
+   "Pipeline",
+   "Lady Finger",
+   "Boardwalk",
+   3.5
+  ],
+  [
+   "Mercury",
+   "Mercury / Shooting Star Ridge",
+   "3D / Nettie's Run",
+   2.0
+  ],
+  [
+   "Skyway",
+   "HRM Face / Knot Hole",
+   "Skyway 3",
+   0.5
+  ],
+  [
+   "Skyway",
+   "Skyway 3",
+   "Skyway",
+   0.9
+  ],
+  [
+   "Skyway",
+   "Skyway",
+   "Skyway 2",
+   1.7
+  ],
+  [
+   "Skyway",
+   "Skyway 2",
+   "Skyway 4",
+   0.5
+  ],
+  [
+   "Skyway",
+   "Skyway 4",
+   "Skyway 5",
+   0.5
+  ],
+  [
+   "Skyway",
+   "Skyway 5",
+   "Hood River Express bottom",
+   0.5
+  ],
+  [
+   "2 Bowl",
+   "2 Bowl / Ridge Run",
+   "2 Bowl / Blue Face",
+   1.0
+  ],
+  [
+   "5 Bowl",
+   "Beaver Tail / Unnamed run",
+   "Beaver Tail",
+   1.0
+  ],
+  [
+   "Skillit",
+   "Skyway",
+   "Skyway 2",
+   0.5
+  ],
+  [
+   "1 1/2 Bowl",
+   "1 Bowl",
+   "1 1/2 Bowl / Blue Face",
+   1.2
+  ],
+  [
+   "Waterfall",
+   "Beaver Tail 2",
+   "Whoopee / Waterfall",
+   2.1
+  ],
+  [
+   "Speedwell",
+   "Speedwell / South Canyon",
+   "Whoopee / Waterfall",
+   1.2
+  ],
+  [
+   "Cascade Skiway",
+   "Chunky Swirly 2",
+   "Gulch / Unnamed run 2",
+   1.8
+  ],
+  [
+   "Lady Slipper",
+   "Tamarack / Lady Slipper Bowl",
+   "Lady Slipper / Stadium",
+   1.8
+  ],
+  [
+   "Nate's Way",
+   "Vista Express top",
+   "Nate's Way",
+   0.8
+  ],
+  [
+   "Nate's Way",
+   "Nate's Way",
+   "Vista Ridge",
+   1.7
+  ],
+  [
+   "Lower Elevator",
+   "Elevator / Lower Elevator",
+   "Inner Limits 2",
+   0.8
+  ],
+  [
+   "Nate's Other Way",
+   "Nate's Way",
+   "Texas Trails",
+   0.5
+  ],
+  [
+   "O-Ring",
+   "Tillicum",
+   "Nettie's Run 2",
+   0.7
+  ],
+  [
+   "Wall Flower",
+   "Easy Rider top",
+   "Mitchell Creek",
+   2.2
+  ],
+  [
+   "Wall Flower",
+   "Mitchell Creek",
+   "Mitchell Creek 2",
+   0.5
+  ],
+  [
+   "4 Bowl",
+   "Unnamed run",
+   "Beaver Tail 3",
+   1.3
+  ],
+  [
+   "Middlefork",
+   "North Canyon 3",
+   "Middlefork",
+   0.5
+  ],
+  [
+   "Middlefork",
+   "Middlefork",
+   "Show Off / Trillium",
+   2.7
+  ],
+  [
+   "Shooting Star Ridge",
+   "Outer Limits 3",
+   "Mercury / Shooting Star Ridge",
+   0.5
+  ],
+  [
+   "Shooting Star Ridge",
+   "Mercury / Shooting Star Ridge",
+   "Apollo / Shooting Star Ridge",
+   1.9
+  ],
+  [
+   "Shooting Star Ridge",
+   "Apollo / Shooting Star Ridge",
+   "Nettie's Run 3",
+   1.7
+  ],
+  [
+   "My Ty",
+   "Vista Ridge 2",
+   "Vista Ridge / My Ty",
+   1.6
+  ],
+  [
+   "My Ty",
+   "Vista Ridge / My Ty",
+   "Mitchell Creek 3",
+   0.7
+  ],
+  [
+   "Willow",
+   "Skyway 3",
+   "Skyway 4",
+   1.8
+  ],
+  [
+   "Ridge Run",
+   "Chunky Swirly 3",
+   "1 Bowl / Ridge Run",
+   0.5
+  ],
+  [
+   "Ridge Run",
+   "1 Bowl / Ridge Run",
+   "Chunky Swirly 2",
+   0.5
+  ],
+  [
+   "Ridge Run",
+   "Chunky Swirly 2",
+   "Unnamed run / Ridge Run",
+   0.6
+  ],
+  [
+   "Ridge Run",
+   "Unnamed run / Ridge Run",
+   "2 Bowl / Ridge Run",
+   0.5
+  ],
+  [
+   "Ridge Run",
+   "2 Bowl / Ridge Run",
+   "3 Bowl / Ridge Run",
+   0.6
+  ],
+  [
+   "Ridge Run",
+   "3 Bowl / Ridge Run",
+   "Unnamed run",
+   0.9
+  ],
+  [
+   "Ridge Run",
+   "Unnamed run",
+   "Beaver Tail / Unnamed run",
+   0.6
+  ],
+  [
+   "Ridge Run",
+   "Beaver Tail / Unnamed run",
+   "Cascade Express bottom",
+   0.5
+  ],
+  [
+   "South Canyon",
+   "Boulevard / Daisy Bowl",
+   "South Canyon",
+   0.5
+  ],
+  [
+   "South Canyon",
+   "South Canyon",
+   "Daisy Bowl / South Canyon",
+   1.7
+  ],
+  [
+   "South Canyon",
+   "Daisy Bowl / South Canyon",
+   "Speedwell / South Canyon",
+   0.8
+  ],
+  [
+   "South Canyon",
+   "Speedwell / South Canyon",
+   "Buttercup bottom",
+   1.8
+  ],
+  [
+   "Unnamed run",
+   "Lady Finger",
+   "Kinnikinick",
+   0.9
+  ],
+  [
+   "Dental Floss",
+   "Unnamed run / Gingivitis",
+   "South Canyon",
+   1.3
+  ],
+  [
+   "Stadium",
+   "Trillium 3",
+   "Lady Slipper Bowl / Stadium",
+   0.5
+  ],
+  [
+   "Stadium",
+   "Lady Slipper Bowl / Stadium",
+   "Lady Slipper / Stadium",
+   2.5
+  ],
+  [
+   "Stadium",
+   "Lady Slipper / Stadium",
+   "Stadium Express bottom",
+   0.5
+  ],
+  [
+   "Nastar Hill",
+   "Easy Rider top",
+   "Fireweed",
+   1.3
+  ],
+  [
+   "Sunburst",
+   "Outer Limits 2",
+   "Arena",
+   1.3
+  ],
+  [
+   "Heather Canyon Runout",
+   "Heather Canyon Runout",
+   "Skyway 5",
+   0.5
+  ],
+  [
+   "Blue Face",
+   "Mount Hood Express top",
+   "Jacob's Ladder / 1 Bowl",
+   0.7
+  ],
+  [
+   "Blue Face",
+   "Jacob's Ladder / 1 Bowl",
+   "1 1/2 Bowl / Blue Face",
+   0.8
+  ],
+  [
+   "Blue Face",
+   "1 1/2 Bowl / Blue Face",
+   "2 Bowl / Blue Face",
+   0.6
+  ],
+  [
+   "Blue Face",
+   "2 Bowl / Blue Face",
+   "3 Bowl / Blue Face",
+   0.9
+  ],
+  [
+   "Blue Face",
+   "3 Bowl / Blue Face",
+   "Lower Face / Jacob's Ladder",
+   0.5
+  ],
+  [
+   "Discovery",
+   "Shooting Star Express top",
+   "Outer Limits 3",
+   0.5
+  ],
+  [
+   "Discovery",
+   "Outer Limits 3",
+   "3D / Nettie's Run",
+   2.2
+  ],
+  [
+   "Reservoir Hill",
+   "Whoopee",
+   "Show Off / Reservoir Hill",
+   0.5
+  ],
+  [
+   "Reservoir Hill",
+   "Show Off / Reservoir Hill",
+   "Reservoir Hill",
+   0.5
+  ],
+  [
+   "Catacombs",
+   "Texas Trails 2",
+   "Texas Trails 3",
+   4.4
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Tamarack / HRM Face",
+   "Hood River Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Cascade Express top",
+   "Gulch / Unnamed run",
+   2.3
+  ],
+  [
+   "walk",
+   "Shooting Star Express top",
+   "Outer Limits",
+   1.8
+  ],
+  [
+   "walk",
+   "Shooting Star Express top",
+   "Elevator / Lower Elevator",
+   3.4
+  ],
+  [
+   "walk",
+   "Shooting Star Express top",
+   "Mercury / Shooting Star Ridge",
+   2.1
+  ],
+  [
+   "walk",
+   "Shooting Star Express top",
+   "Inner Limits 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Shooting Star Express top",
+   "Outer Limits 3",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Texas Trails",
+   "Daisy top",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Mitchell Creek",
+   "Easy Rider top",
+   1.3
+  ],
+  [
+   "walk",
+   "Easy Rider top",
+   "Unnamed run / Mitchell Creek",
+   1.3
+  ],
+  [
+   "walk",
+   "Easy Rider top",
+   "Vista Ridge / My Ty",
+   3.0
+  ],
+  [
+   "walk",
+   "Easy Rider top",
+   "Mitchell Creek 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Mitchell Creek 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Buttercup bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Daisy bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Easy Rider bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Buttercup top",
+   2.3
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Easy Rider bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Outer Limits",
+   "Shooting Star Express top",
+   1.8
+  ],
+  [
+   "walk",
+   "Vista Express top",
+   "Nate's Way",
+   3.0
+  ],
+  [
+   "walk",
+   "Vista Ridge / My Ty",
+   "Easy Rider top",
+   3.0
+  ],
+  [
+   "walk",
+   "Lady Slipper Bowl / Stadium",
+   "Hood River Express top",
+   3.2
+  ],
+  [
+   "walk",
+   "Lady Slipper Bowl / Stadium",
+   "Stadium Express top",
+   2.6
+  ],
+  [
+   "walk",
+   "Show Off / Reservoir Hill",
+   "Ballroom Carpet bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Show Off / Reservoir Hill",
+   "Mount Hood Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Hood River Express top",
+   "Lady Slipper Bowl / Stadium",
+   3.2
+  ],
+  [
+   "walk",
+   "Hood River Express top",
+   "Stadium Express top",
+   3.0
+  ],
+  [
+   "walk",
+   "Hood River Express top",
+   "Trillium 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Hood River Express top",
+   "Lady Finger",
+   0.7
+  ],
+  [
+   "walk",
+   "Hood River Express top",
+   "Heather top",
+   2.4
+  ],
+  [
+   "walk",
+   "Shooting Star Express bottom",
+   "Nettie's Run",
+   1.3
+  ],
+  [
+   "walk",
+   "Shooting Star Express bottom",
+   "Columbia / Apollo 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Shooting Star Express bottom",
+   "Apollo",
+   0.7
+  ],
+  [
+   "walk",
+   "Boulevard / Daisy Bowl",
+   "Cascade Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Boulevard / Daisy Bowl",
+   "Daisy top",
+   1.0
+  ],
+  [
+   "walk",
+   "Heather Canyon Runout",
+   "Hood River Express bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Mount Hood Express top",
+   "Inner Limits",
+   2.9
+  ],
+  [
+   "walk",
+   "Mount Hood Express top",
+   "Jacob's Ladder / 1 Bowl",
+   2.6
+  ],
+  [
+   "walk",
+   "Mount Hood Express top",
+   "1 Bowl / Ridge Run",
+   1.5
+  ],
+  [
+   "walk",
+   "Mount Hood Express top",
+   "Elevator / Lower Elevator",
+   2.0
+  ],
+  [
+   "walk",
+   "Mount Hood Express top",
+   "Chunky Swirly",
+   2.0
+  ],
+  [
+   "walk",
+   "Mount Hood Express top",
+   "1 Bowl",
+   1.9
+  ],
+  [
+   "walk",
+   "Mount Hood Express top",
+   "Chunky Swirly 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Mount Hood Express top",
+   "Inner Limits 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Mount Hood Express top",
+   "Chunky Swirly 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Chunky Swirly / Gingivitis",
+   "Cascade Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Stadium Express top",
+   "Lady Slipper Bowl / Stadium",
+   2.6
+  ],
+  [
+   "walk",
+   "Stadium Express top",
+   "Hood River Express top",
+   3.0
+  ],
+  [
+   "walk",
+   "Stadium Express top",
+   "Trillium 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Stadium Express top",
+   "Lady Finger",
+   3.4
+  ],
+  [
+   "walk",
+   "Stadium Express top",
+   "Heather top",
+   0.7
+  ],
+  [
+   "walk",
+   "Hood River Express bottom",
+   "Heather Canyon Runout",
+   2.0
+  ],
+  [
+   "walk",
+   "Hood River Express bottom",
+   "Skyway 5",
+   1.4
+  ],
+  [
+   "walk",
+   "Beaver Tail / Unnamed run",
+   "Cascade Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Whoopee / Waterfall",
+   "Show Off / Reservoir Hill",
+   1.9
+  ],
+  [
+   "walk",
+   "Whoopee / Waterfall",
+   "Ram's Head / Eric's Corner",
+   2.9
+  ],
+  [
+   "walk",
+   "Whoopee / Waterfall",
+   "Eric's Corner",
+   2.1
+  ],
+  [
+   "walk",
+   "Whoopee / Waterfall",
+   "Lady Slipper / Stadium",
+   3.2
+  ],
+  [
+   "walk",
+   "Whoopee / Waterfall",
+   "Stadium Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Whoopee / Waterfall",
+   "Reservoir Hill",
+   0.6
+  ],
+  [
+   "walk",
+   "Whoopee / Waterfall",
+   "Ballroom Carpet bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Whoopee / Waterfall",
+   "Ballroom Carpet top",
+   1.8
+  ],
+  [
+   "walk",
+   "Whoopee / Waterfall",
+   "Mount Hood Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Cascade Express bottom",
+   "Chunky Swirly / Gingivitis",
+   1.3
+  ],
+  [
+   "walk",
+   "Cascade Express bottom",
+   "Beaver Tail / Unnamed run",
+   0.8
+  ],
+  [
+   "walk",
+   "Cascade Express bottom",
+   "Beaver Tail 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Cascade Express bottom",
+   "South Canyon",
+   0.9
+  ],
+  [
+   "walk",
+   "Ram's Head / Eric's Corner",
+   "Stadium Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Ram's Head / Eric's Corner",
+   "Ballroom Carpet bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Ram's Head / Eric's Corner",
+   "Mount Hood Express bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Eric's Corner",
+   "Whoopee / Waterfall",
+   2.1
+  ],
+  [
+   "walk",
+   "Eric's Corner",
+   "Ram's Head / Eric's Corner",
+   2.0
+  ],
+  [
+   "walk",
+   "Eric's Corner",
+   "Lady Slipper / Stadium",
+   1.3
+  ],
+  [
+   "walk",
+   "Eric's Corner",
+   "Stadium Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Eric's Corner",
+   "Reservoir Hill",
+   1.7
+  ],
+  [
+   "walk",
+   "Eric's Corner",
+   "Daisy bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Eric's Corner",
+   "Ballroom Carpet bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Eric's Corner",
+   "Ballroom Carpet top",
+   2.6
+  ],
+  [
+   "walk",
+   "Eric's Corner",
+   "Mount Hood Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "1 Bowl / Ridge Run",
+   "Mount Hood Express top",
+   1.5
+  ],
+  [
+   "walk",
+   "Nettie's Run",
+   "Shooting Star Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Trillium 3",
+   "Hood River Express top",
+   2.9
+  ],
+  [
+   "walk",
+   "Trillium 3",
+   "Stadium Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Trillium 3",
+   "Heather top",
+   1.0
+  ],
+  [
+   "walk",
+   "Columbia / Apollo 2",
+   "Shooting Star Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Apollo",
+   "Shooting Star Express bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Apollo",
+   "Nettie's Run",
+   1.8
+  ],
+  [
+   "walk",
+   "Apollo",
+   "Columbia / Apollo 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Boulevard / Daisy Bowl",
+   1.0
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Chunky Swirly / Gingivitis",
+   2.0
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Beaver Tail / Unnamed run",
+   2.5
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Cascade Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "South Canyon",
+   1.0
+  ],
+  [
+   "walk",
+   "Mercury / Shooting Star Ridge",
+   "Shooting Star Express top",
+   2.1
+  ],
+  [
+   "walk",
+   "1 Bowl",
+   "Mount Hood Express top",
+   1.9
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Buttercup top",
+   1.8
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Easy Rider bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Ballroom Carpet top",
+   3.1
+  ],
+  [
+   "walk",
+   "Lady Slipper / Stadium",
+   "Stadium Express bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Lady Slipper / Stadium",
+   "Ballroom Carpet bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Lady Slipper / Stadium",
+   "Mount Hood Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Vista Express bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Buttercup top",
+   1.6
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Easy Rider bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Ballroom Carpet top",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Cascade Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Outer Limits 3",
+   "Shooting Star Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Skyway 4",
+   "Hood River Express bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Chunky Swirly 3",
+   "Mount Hood Express top",
+   0.8
+  ],
+  [
+   "walk",
+   "Buttercup bottom",
+   "Daisy bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Buttercup bottom",
+   "Ballroom Carpet bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Lady Finger",
+   "Hood River Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "South Canyon",
+   "Cascade Express bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Stadium Express bottom",
+   "Whoopee / Waterfall",
+   2.6
+  ],
+  [
+   "walk",
+   "Stadium Express bottom",
+   "Ram's Head / Eric's Corner",
+   2.5
+  ],
+  [
+   "walk",
+   "Stadium Express bottom",
+   "Eric's Corner",
+   0.7
+  ],
+  [
+   "walk",
+   "Stadium Express bottom",
+   "Lady Slipper / Stadium",
+   1.3
+  ],
+  [
+   "walk",
+   "Stadium Express bottom",
+   "Reservoir Hill",
+   2.3
+  ],
+  [
+   "walk",
+   "Stadium Express bottom",
+   "Daisy bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Stadium Express bottom",
+   "Ballroom Carpet bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Stadium Express bottom",
+   "Ballroom Carpet top",
+   2.7
+  ],
+  [
+   "walk",
+   "Stadium Express bottom",
+   "Mount Hood Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Skyway 5",
+   "Hood River Express bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Reservoir Hill",
+   "Show Off / Reservoir Hill",
+   1.6
+  ],
+  [
+   "walk",
+   "Reservoir Hill",
+   "Whoopee / Waterfall",
+   0.6
+  ],
+  [
+   "walk",
+   "Reservoir Hill",
+   "Ram's Head / Eric's Corner",
+   2.3
+  ],
+  [
+   "walk",
+   "Reservoir Hill",
+   "Eric's Corner",
+   1.7
+  ],
+  [
+   "walk",
+   "Reservoir Hill",
+   "Lady Slipper / Stadium",
+   2.8
+  ],
+  [
+   "walk",
+   "Reservoir Hill",
+   "Stadium Express bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Reservoir Hill",
+   "Ballroom Carpet bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Reservoir Hill",
+   "Ballroom Carpet top",
+   2.2
+  ],
+  [
+   "walk",
+   "Reservoir Hill",
+   "Mount Hood Express bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Vista Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Mitchell Creek",
+   2.3
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Whoopee / Waterfall",
+   3.4
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Speedwell / South Canyon",
+   1.8
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Mitchell Creek 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Daisy bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Easy Rider bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Ballroom Carpet bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Ballroom Carpet top",
+   1.8
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Eric's Corner",
+   3.1
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Buttercup bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Stadium Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Ballroom Carpet bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Ballroom Carpet top",
+   2.8
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Mount Hood Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Vista Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Mitchell Creek 2",
+   1.4
+  ],
+  [
+   "walk",
+   "Ballroom Carpet bottom",
+   "Show Off / Reservoir Hill",
+   3.5
+  ],
+  [
+   "walk",
+   "Ballroom Carpet bottom",
+   "Whoopee / Waterfall",
+   1.7
+  ],
+  [
+   "walk",
+   "Ballroom Carpet bottom",
+   "Ram's Head / Eric's Corner",
+   3.4
+  ],
+  [
+   "walk",
+   "Ballroom Carpet bottom",
+   "Eric's Corner",
+   1.5
+  ],
+  [
+   "walk",
+   "Ballroom Carpet bottom",
+   "Lady Slipper / Stadium",
+   2.7
+  ],
+  [
+   "walk",
+   "Ballroom Carpet bottom",
+   "Buttercup bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Ballroom Carpet bottom",
+   "Stadium Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Ballroom Carpet bottom",
+   "Reservoir Hill",
+   1.8
+  ],
+  [
+   "walk",
+   "Ballroom Carpet bottom",
+   "Daisy bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Ballroom Carpet bottom",
+   "Ballroom Carpet top",
+   1.2
+  ],
+  [
+   "walk",
+   "Ballroom Carpet bottom",
+   "Mount Hood Express bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Ballroom Carpet top",
+   "Whoopee / Waterfall",
+   1.8
+  ],
+  [
+   "walk",
+   "Ballroom Carpet top",
+   "Eric's Corner",
+   2.6
+  ],
+  [
+   "walk",
+   "Ballroom Carpet top",
+   "Stadium Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Ballroom Carpet top",
+   "Reservoir Hill",
+   2.2
+  ],
+  [
+   "walk",
+   "Ballroom Carpet top",
+   "Daisy bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Ballroom Carpet top",
+   "Ballroom Carpet bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Ballroom Carpet top",
+   "Mount Hood Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Mount Hood Express bottom",
+   "Show Off / Reservoir Hill",
+   2.4
+  ],
+  [
+   "walk",
+   "Mount Hood Express bottom",
+   "Whoopee / Waterfall",
+   1.5
+  ],
+  [
+   "walk",
+   "Mount Hood Express bottom",
+   "Ram's Head / Eric's Corner",
+   1.9
+  ],
+  [
+   "walk",
+   "Mount Hood Express bottom",
+   "Eric's Corner",
+   0.6
+  ],
+  [
+   "walk",
+   "Mount Hood Express bottom",
+   "Lady Slipper / Stadium",
+   1.7
+  ],
+  [
+   "walk",
+   "Mount Hood Express bottom",
+   "Stadium Express bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Mount Hood Express bottom",
+   "Reservoir Hill",
+   1.1
+  ],
+  [
+   "walk",
+   "Mount Hood Express bottom",
+   "Daisy bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Mount Hood Express bottom",
+   "Ballroom Carpet bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Mount Hood Express bottom",
+   "Ballroom Carpet top",
+   2.4
+  ],
+  [
+   "walk",
+   "Heather top",
+   "Lady Slipper Bowl / Stadium",
+   2.6
+  ],
+  [
+   "walk",
+   "Heather top",
+   "Hood River Express top",
+   2.4
+  ],
+  [
+   "walk",
+   "Heather top",
+   "Stadium Express top",
+   0.7
+  ],
+  [
+   "walk",
+   "Heather top",
+   "Trillium 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Heather top",
+   "Lady Finger",
+   2.8
+  ],
+  [
+   "walk",
+   "Outer Limits",
+   "Elevator / Lower Elevator",
+   5.1
+  ],
+  [
+   "walk",
+   "Outer Limits",
+   "Mercury / Shooting Star Ridge",
+   3.8
+  ],
+  [
+   "walk",
+   "Outer Limits",
+   "Inner Limits 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Outer Limits",
+   "Outer Limits 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Mercury / Shooting Star Ridge",
+   "Outer Limits",
+   3.8
+  ],
+  [
+   "walk",
+   "Mercury / Shooting Star Ridge",
+   "Elevator / Lower Elevator",
+   5.4
+  ],
+  [
+   "walk",
+   "Mercury / Shooting Star Ridge",
+   "Inner Limits 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Mercury / Shooting Star Ridge",
+   "Outer Limits 3",
+   3.0
+  ],
+  [
+   "walk",
+   "Outer Limits 3",
+   "Outer Limits",
+   2.7
+  ],
+  [
+   "walk",
+   "Outer Limits 3",
+   "Elevator / Lower Elevator",
+   4.3
+  ],
+  [
+   "walk",
+   "Outer Limits 3",
+   "Mercury / Shooting Star Ridge",
+   3.0
+  ],
+  [
+   "walk",
+   "Outer Limits 3",
+   "Inner Limits 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Mitchell Creek",
+   "Vista Ridge / My Ty",
+   4.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Mitchell Creek",
+   "Mitchell Creek 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Vista Ridge / My Ty",
+   "Unnamed run / Mitchell Creek",
+   4.3
+  ],
+  [
+   "walk",
+   "Vista Ridge / My Ty",
+   "Mitchell Creek 3",
+   6.0
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Buttercup bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Daisy bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Buttercup bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Buttercup bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Daisy bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Lady Slipper Bowl / Stadium",
+   "Trillium 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Lady Slipper Bowl / Stadium",
+   "Lady Finger",
+   3.9
+  ],
+  [
+   "walk",
+   "Lady Slipper Bowl / Stadium",
+   "Heather top",
+   3.3
+  ],
+  [
+   "walk",
+   "Trillium 3",
+   "Lady Slipper Bowl / Stadium",
+   3.5
+  ],
+  [
+   "walk",
+   "Trillium 3",
+   "Lady Finger",
+   3.5
+  ],
+  [
+   "walk",
+   "Lady Finger",
+   "Lady Slipper Bowl / Stadium",
+   3.9
+  ],
+  [
+   "walk",
+   "Lady Finger",
+   "Stadium Express top",
+   3.7
+  ],
+  [
+   "walk",
+   "Lady Finger",
+   "Trillium 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Lady Finger",
+   "Heather top",
+   3.1
+  ],
+  [
+   "walk",
+   "Nettie's Run",
+   "Columbia / Apollo 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Nettie's Run",
+   "Apollo",
+   2.0
+  ],
+  [
+   "walk",
+   "Columbia / Apollo 2",
+   "Nettie's Run",
+   2.5
+  ],
+  [
+   "walk",
+   "Columbia / Apollo 2",
+   "Apollo",
+   1.9
+  ],
+  [
+   "walk",
+   "1 Bowl / Ridge Run",
+   "Inner Limits",
+   4.4
+  ],
+  [
+   "walk",
+   "1 Bowl / Ridge Run",
+   "Jacob's Ladder / 1 Bowl",
+   4.1
+  ],
+  [
+   "walk",
+   "1 Bowl / Ridge Run",
+   "Elevator / Lower Elevator",
+   3.5
+  ],
+  [
+   "walk",
+   "1 Bowl / Ridge Run",
+   "Chunky Swirly",
+   3.5
+  ],
+  [
+   "walk",
+   "1 Bowl / Ridge Run",
+   "1 Bowl",
+   3.4
+  ],
+  [
+   "walk",
+   "1 Bowl / Ridge Run",
+   "Chunky Swirly 2",
+   4.6
+  ],
+  [
+   "walk",
+   "1 Bowl / Ridge Run",
+   "Inner Limits 2",
+   3.5
+  ],
+  [
+   "walk",
+   "1 Bowl / Ridge Run",
+   "Chunky Swirly 3",
+   2.3
+  ],
+  [
+   "walk",
+   "1 Bowl",
+   "Inner Limits",
+   4.7
+  ],
+  [
+   "walk",
+   "1 Bowl",
+   "Jacob's Ladder / 1 Bowl",
+   4.4
+  ],
+  [
+   "walk",
+   "1 Bowl",
+   "1 Bowl / Ridge Run",
+   3.4
+  ],
+  [
+   "walk",
+   "1 Bowl",
+   "Elevator / Lower Elevator",
+   3.9
+  ],
+  [
+   "walk",
+   "1 Bowl",
+   "Chunky Swirly",
+   3.9
+  ],
+  [
+   "walk",
+   "1 Bowl",
+   "Chunky Swirly 2",
+   5.0
+  ],
+  [
+   "walk",
+   "1 Bowl",
+   "Inner Limits 2",
+   3.9
+  ],
+  [
+   "walk",
+   "1 Bowl",
+   "Chunky Swirly 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Chunky Swirly 3",
+   "Inner Limits",
+   3.7
+  ],
+  [
+   "walk",
+   "Chunky Swirly 3",
+   "Jacob's Ladder / 1 Bowl",
+   3.4
+  ],
+  [
+   "walk",
+   "Chunky Swirly 3",
+   "1 Bowl / Ridge Run",
+   2.3
+  ],
+  [
+   "walk",
+   "Chunky Swirly 3",
+   "Elevator / Lower Elevator",
+   2.8
+  ],
+  [
+   "walk",
+   "Chunky Swirly 3",
+   "Chunky Swirly",
+   2.8
+  ],
+  [
+   "walk",
+   "Chunky Swirly 3",
+   "1 Bowl",
+   2.7
+  ],
+  [
+   "walk",
+   "Chunky Swirly 3",
+   "Chunky Swirly 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Chunky Swirly 3",
+   "Inner Limits 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Tamarack / HRM Face",
+   "Heather Canyon Runout",
+   3.4
+  ],
+  [
+   "walk",
+   "Tamarack / HRM Face",
+   "Skyway 5",
+   2.9
+  ],
+  [
+   "walk",
+   "Heather Canyon Runout",
+   "Skyway 5",
+   3.4
+  ],
+  [
+   "walk",
+   "Skyway 4",
+   "Heather Canyon Runout",
+   4.1
+  ],
+  [
+   "walk",
+   "Skyway 4",
+   "Skyway 5",
+   3.6
+  ],
+  [
+   "walk",
+   "Skyway 5",
+   "Heather Canyon Runout",
+   3.4
+  ],
+  [
+   "walk",
+   "Eric's Corner",
+   "Show Off / Reservoir Hill",
+   3.0
+  ],
+  [
+   "walk",
+   "Stadium Express bottom",
+   "Show Off / Reservoir Hill",
+   3.7
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Show Off / Reservoir Hill",
+   5.3
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Ram's Head / Eric's Corner",
+   6.1
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Eric's Corner",
+   4.4
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Lady Slipper / Stadium",
+   5.6
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Stadium Express bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Reservoir Hill",
+   4.0
+  ],
+  [
+   "walk",
+   "Buttercup top",
+   "Mount Hood Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Ballroom Carpet top",
+   "Show Off / Reservoir Hill",
+   3.7
+  ],
+  [
+   "walk",
+   "Ballroom Carpet top",
+   "Ram's Head / Eric's Corner",
+   4.3
+  ],
+  [
+   "walk",
+   "Ballroom Carpet top",
+   "Lady Slipper / Stadium",
+   3.9
+  ],
+  [
+   "walk",
+   "Boulevard / Daisy Bowl",
+   "Chunky Swirly / Gingivitis",
+   3.1
+  ],
+  [
+   "walk",
+   "Boulevard / Daisy Bowl",
+   "Beaver Tail / Unnamed run",
+   3.2
+  ],
+  [
+   "walk",
+   "Boulevard / Daisy Bowl",
+   "Beaver Tail 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Boulevard / Daisy Bowl",
+   "South Canyon",
+   2.0
+  ],
+  [
+   "walk",
+   "Chunky Swirly / Gingivitis",
+   "Beaver Tail / Unnamed run",
+   2.1
+  ],
+  [
+   "walk",
+   "Chunky Swirly / Gingivitis",
+   "Beaver Tail 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Chunky Swirly / Gingivitis",
+   "South Canyon",
+   2.2
+  ],
+  [
+   "walk",
+   "Beaver Tail / Unnamed run",
+   "Chunky Swirly / Gingivitis",
+   2.1
+  ],
+  [
+   "walk",
+   "Beaver Tail / Unnamed run",
+   "Beaver Tail 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Beaver Tail / Unnamed run",
+   "South Canyon",
+   1.8
+  ],
+  [
+   "walk",
+   "Daisy top",
+   "Beaver Tail 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Chunky Swirly / Gingivitis",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Beaver Tail / Unnamed run",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "Beaver Tail 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Unnamed run",
+   "South Canyon",
+   3.6
+  ],
+  [
+   "walk",
+   "South Canyon",
+   "Chunky Swirly / Gingivitis",
+   2.2
+  ],
+  [
+   "walk",
+   "South Canyon",
+   "Beaver Tail / Unnamed run",
+   1.8
+  ],
+  [
+   "walk",
+   "South Canyon",
+   "Beaver Tail 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Whoopee / Waterfall",
+   "Daisy bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Reservoir Hill",
+   "Daisy bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Whoopee / Waterfall",
+   4.0
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Ram's Head / Eric's Corner",
+   5.1
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Lady Slipper / Stadium",
+   3.8
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Reservoir Hill",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Texas Trails",
+   "Boulevard / Daisy Bowl",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Texas Trails",
+   "Chunky Swirly / Gingivitis",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Texas Trails",
+   "Beaver Tail / Unnamed run",
+   4.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Texas Trails",
+   "Cascade Express bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / Texas Trails",
+   "South Canyon",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Texas Trails",
+   "Beaver Tail 2",
+   6.9
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Buttercup top",
+   4.5
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Ballroom Carpet top",
+   5.5
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Buttercup top",
+   3.1
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Ballroom Carpet top",
+   4.9
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Ballroom Carpet bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Ram's Head / Eric's Corner",
+   "Whoopee / Waterfall",
+   3.4
+  ],
+  [
+   "walk",
+   "Ram's Head / Eric's Corner",
+   "Eric's Corner",
+   2.5
+  ],
+  [
+   "walk",
+   "Ram's Head / Eric's Corner",
+   "Lady Slipper / Stadium",
+   3.6
+  ],
+  [
+   "walk",
+   "Ram's Head / Eric's Corner",
+   "Reservoir Hill",
+   3.0
+  ],
+  [
+   "walk",
+   "Ram's Head / Eric's Corner",
+   "Daisy bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Ram's Head / Eric's Corner",
+   "Ballroom Carpet top",
+   4.3
+  ],
+  [
+   "walk",
+   "Lady Slipper / Stadium",
+   "Whoopee / Waterfall",
+   3.2
+  ],
+  [
+   "walk",
+   "Lady Slipper / Stadium",
+   "Ram's Head / Eric's Corner",
+   3.6
+  ],
+  [
+   "walk",
+   "Lady Slipper / Stadium",
+   "Eric's Corner",
+   2.0
+  ],
+  [
+   "walk",
+   "Lady Slipper / Stadium",
+   "Reservoir Hill",
+   2.8
+  ],
+  [
+   "walk",
+   "Lady Slipper / Stadium",
+   "Daisy bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Lady Slipper / Stadium",
+   "Ballroom Carpet top",
+   3.9
+  ],
+  [
+   "walk",
+   "Lady Slipper / Stadium",
+   "Show Off / Reservoir Hill",
+   4.1
+  ],
+  [
+   "walk",
+   "Daisy bottom",
+   "Show Off / Reservoir Hill",
+   5.7
+  ],
+  [
+   "walk",
+   "Ram's Head / Eric's Corner",
+   "Show Off / Reservoir Hill",
+   4.3
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Vista Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Whoopee / Waterfall",
+   5.7
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Speedwell / South Canyon",
+   4.1
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Mitchell Creek 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Daisy bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Ballroom Carpet bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Ballroom Carpet top",
+   4.2
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Reservoir Hill",
+   6.3
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Vista Express bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Mitchell Creek",
+   4.1
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Whoopee / Waterfall",
+   4.9
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Mitchell Creek 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Daisy bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Ballroom Carpet bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Reservoir Hill",
+   5.3
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Mount Hood Express bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Mitchell Creek",
+   4.0
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Whoopee / Waterfall",
+   5.0
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Speedwell / South Canyon",
+   3.4
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Ballroom Carpet bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Show Off / Reservoir Hill",
+   6.9
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Reservoir Hill",
+   5.6
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Mount Hood Express bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Mitchell Creek",
+   6.9
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Speedwell / South Canyon",
+   6.3
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Mitchell Creek",
+   5.4
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Whoopee / Waterfall",
+   6.5
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Speedwell / South Canyon",
+   4.8
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Ballroom Carpet bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Eric's Corner",
+   5.7
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Stadium Express bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Mount Hood Express bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Lady Slipper / Stadium",
+   6.5
+  ],
+  [
+   "walk",
+   "Eric's Corner",
+   "Buttercup bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Buttercup bottom",
+   "Eric's Corner",
+   4.2
+  ],
+  [
+   "walk",
+   "Buttercup bottom",
+   "Stadium Express bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Buttercup bottom",
+   "Ballroom Carpet top",
+   3.9
+  ],
+  [
+   "walk",
+   "Buttercup bottom",
+   "Mount Hood Express bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Buttercup bottom",
+   "Whoopee / Waterfall",
+   5.1
+  ],
+  [
+   "walk",
+   "Buttercup bottom",
+   "Ram's Head / Eric's Corner",
+   6.2
+  ],
+  [
+   "walk",
+   "Buttercup bottom",
+   "Lady Slipper / Stadium",
+   4.9
+  ],
+  [
+   "walk",
+   "Buttercup bottom",
+   "Reservoir Hill",
+   5.2
+  ],
+  [
+   "walk",
+   "Stadium Express bottom",
+   "Buttercup bottom",
+   3.6
+  ],
+  [
+   "walk",
+   "Ballroom Carpet top",
+   "Buttercup bottom",
+   3.9
+  ],
+  [
+   "walk",
+   "Mount Hood Express bottom",
+   "Buttercup bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Easy Rider bottom",
+   "Stadium Express bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Whoopee / Waterfall",
+   "Buttercup bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Reservoir Hill",
+   "Buttercup bottom",
+   5.2
+  ],
+  [
+   "walk",
+   "Ram's Head / Eric's Corner",
+   "Buttercup bottom",
+   6.2
+  ],
+  [
+   "walk",
+   "Lady Slipper / Stadium",
+   "Buttercup bottom",
+   4.9
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Buttercup bottom",
+   6.1
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Buttercup bottom",
+   6.3
+  ],
+  [
+   "walk",
+   "Show Off / Reservoir Hill",
+   "Whoopee / Waterfall",
+   4.0
+  ],
+  [
+   "walk",
+   "Show Off / Reservoir Hill",
+   "Ram's Head / Eric's Corner",
+   4.3
+  ],
+  [
+   "walk",
+   "Show Off / Reservoir Hill",
+   "Eric's Corner",
+   3.0
+  ],
+  [
+   "walk",
+   "Show Off / Reservoir Hill",
+   "Lady Slipper / Stadium",
+   4.1
+  ],
+  [
+   "walk",
+   "Show Off / Reservoir Hill",
+   "Buttercup bottom",
+   6.8
+  ],
+  [
+   "walk",
+   "Show Off / Reservoir Hill",
+   "Stadium Express bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Show Off / Reservoir Hill",
+   "Reservoir Hill",
+   3.6
+  ],
+  [
+   "walk",
+   "Show Off / Reservoir Hill",
+   "Daisy bottom",
+   5.7
+  ],
+  [
+   "walk",
+   "Show Off / Reservoir Hill",
+   "Ballroom Carpet top",
+   4.6
+  ],
+  [
+   "walk",
+   "Buttercup bottom",
+   "Show Off / Reservoir Hill",
+   6.8
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Whoopee / Waterfall",
+   6.7
+  ],
+  [
+   "walk",
+   "Vista Express bottom",
+   "Reservoir Hill",
+   6.8
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Eric's Corner",
+   6.7
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Stadium Express bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Mitchell Creek",
+   "Mount Hood Express bottom",
+   6.6
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Eric's Corner",
+   5.7
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Stadium Express bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Eric's Corner",
+   6.0
+  ],
+  [
+   "walk",
+   "Mitchell Creek 2",
+   "Stadium Express bottom",
+   6.0
+  ],
+  [
+   "walk",
+   "Speedwell / South Canyon",
+   "Show Off / Reservoir Hill",
+   6.8
+  ]
+ ],
+ "base": "Hood River Express bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Oregon",
+  "total_lifts": "12",
+  "downhill_trails": "150",
+  "elevation_low_m": 1378.0,
+  "elevation_high_m": 2287.0,
+  "vertical_drop_m": 909.0,
+  "website": ""
+ }
+}

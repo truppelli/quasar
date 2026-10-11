@@ -1,0 +1,4389 @@
+{
+ "name": "Loveland Basin Ski Area",
+ "source": "OpenSkiMap ski area 1dd2321e1ddaeaba8ad3d040cd145bd2ad08c028",
+ "origin_lonlat": [
+  -105.908436758563,
+  39.67712228888893
+ ],
+ "nodes": {
+  "Unnamed run / Fail Safe Catwalk": [
+   -31,
+   -174,
+   3455.1
+  ],
+  "Unnamed run / Fire Cut": [
+   169,
+   -212,
+   3437.7
+  ],
+  "Awesome Ungroomed / Rock Chutes": [
+   -272,
+   1480,
+   3685.3
+  ],
+  "Awesome Ungroomed / Awesome": [
+   293,
+   1562,
+   3571.1
+  ],
+  "South Chutes": [
+   -271,
+   -457,
+   3571.7
+  ],
+  "South Chutes 2": [
+   -322,
+   -250,
+   3510.6
+  ],
+  "Fail Safe Catwalk / Fail Safe Trees": [
+   -167,
+   62,
+   3549.6
+  ],
+  "Fire Cut / Fire Bowl": [
+   -129,
+   -493,
+   3556.2
+  ],
+  "Fire Cut / Drifter": [
+   216,
+   -158,
+   3425.5
+  ],
+  "Unnamed run / Turtle Creek": [
+   288,
+   20,
+   3390.2
+  ],
+  "Lift 4 bottom": [
+   264,
+   65,
+   3390.1
+  ],
+  "Fail Safe Catwalk": [
+   -63,
+   -5,
+   3516.0
+  ],
+  "Fail Safe Trees / Creek Trail": [
+   112,
+   -65,
+   3422.3
+  ],
+  "South Chutes 3": [
+   -348,
+   -473,
+   3586.5
+  ],
+  "In The Mood / Chet's Run": [
+   45,
+   1193,
+   3643.8
+  ],
+  "In The Mood / Awesome": [
+   370,
+   1432,
+   3524.4
+  ],
+  "Challenger / North Traverse of Continental Divide": [
+   -1261,
+   301,
+   3806.2
+  ],
+  "Challenger / Apollo": [
+   -699,
+   152,
+   3669.1
+  ],
+  "Tomahawk / Poma Line": [
+   -198,
+   -442,
+   3566.4
+  ],
+  "Tomahawk / Zippity Split": [
+   -209,
+   -236,
+   3488.1
+  ],
+  "Home Run / Mambo": [
+   465,
+   39,
+   3398.2
+  ],
+  "Lift 2 bottom": [
+   911,
+   384,
+   3320.3
+  ],
+  "Chet's Dream top": [
+   1015,
+   -399,
+   3618.3
+  ],
+  "Tiger's Tail / Cat's Meow": [
+   888,
+   -127,
+   3495.8
+  ],
+  "Richard's Run / Cat Walk": [
+   930,
+   -477,
+   3607.8
+  ],
+  "Home Run": [
+   524,
+   89,
+   3385.1
+  ],
+  "North Star / North Traverse of Continental Divide": [
+   -1197,
+   437,
+   3810.5
+  ],
+  "North Star / Apollo": [
+   -749,
+   356,
+   3706.0
+  ],
+  "Tempest": [
+   448,
+   -253,
+   3462.6
+  ],
+  "Tempest / Mambo": [
+   386,
+   -30,
+   3411.4
+  ],
+  "Our Bowl / North Chutes": [
+   -446,
+   -270,
+   3531.1
+  ],
+  "South Chutes 4": [
+   -527,
+   -618,
+   3635.3
+  ],
+  "South Chutes / Our Bowl": [
+   -599,
+   -523,
+   3622.8
+  ],
+  "The Face": [
+   850,
+   418,
+   3329.0
+  ],
+  "Busy Gully / Holy Cat": [
+   939,
+   221,
+   3328.4
+  ],
+  "Fire Bowl Ungroomed": [
+   -442,
+   -768,
+   3648.9
+  ],
+  "Fire Bowl Ungroomed 2": [
+   -228,
+   -573,
+   3571.9
+  ],
+  "Lift 8 top": [
+   -186,
+   1251,
+   3696.0
+  ],
+  "Chet's Run / Zip Trail": [
+   445,
+   934,
+   3520.4
+  ],
+  "Nix Nox / Cat's Meow": [
+   849,
+   -212,
+   3517.0
+  ],
+  "Home Run 2": [
+   659,
+   182,
+   3353.4
+  ],
+  "Holy Cat": [
+   950,
+   136,
+   3372.0
+  ],
+  "Hook 'em Horns / Awesome": [
+   713,
+   905,
+   3464.1
+  ],
+  "Tickler / Zippity Split": [
+   -101,
+   866,
+   3645.3
+  ],
+  "Lift 6 top": [
+   168,
+   -1054,
+   3619.5
+  ],
+  "Forest Meadow / Dealer's Choice": [
+   556,
+   -681,
+   3498.2
+  ],
+  "Tempest 2": [
+   341,
+   -264,
+   3446.3
+  ],
+  "Dueces Wild Ungroomed / Deuces Wild": [
+   5,
+   -879,
+   3588.9
+  ],
+  "Dueces Wild Ungroomed / South Turtle Creek": [
+   65,
+   -618,
+   3519.6
+  ],
+  "Marmot / Awesome": [
+   -224,
+   1279,
+   3693.7
+  ],
+  "Lift 4 top": [
+   -704,
+   466,
+   3716.5
+  ],
+  "Telestar / Perfect Bowl": [
+   -390,
+   324,
+   3632.6
+  ],
+  "North Traverse of Continental Divide / Rookie Road": [
+   -1335,
+   224,
+   3813.2
+  ],
+  "Perfect Bowl / Zippity Split": [
+   -122,
+   150,
+   3548.3
+  ],
+  "Sunburst Chutes / Zip Trail": [
+   16,
+   596,
+   3585.5
+  ],
+  "Sunburst Chutes / Splashdown": [
+   89,
+   249,
+   3462.4
+  ],
+  "In The Mood": [
+   137,
+   1376,
+   3623.9
+  ],
+  "Bennett's Bowl Ungroomed": [
+   -388,
+   -847,
+   3652.7
+  ],
+  "Bennett's Bowl Ungroomed 2": [
+   -158,
+   -591,
+   3560.3
+  ],
+  "Straight Flush / South Turtle Creek": [
+   191,
+   -580,
+   3500.6
+  ],
+  "Velvet Hammer / Sunburst Bowl": [
+   -550,
+   642,
+   3682.4
+  ],
+  "North Blackjack / South Blackjack": [
+   303,
+   -900,
+   3593.6
+  ],
+  "North Blackjack / South Blackjack 2": [
+   340,
+   -688,
+   3526.7
+  ],
+  "Fail Safe Trees / Creek Trail 2": [
+   153,
+   -27,
+   3413.0
+  ],
+  "Sunburst Bowl / Zippity Split": [
+   -108,
+   656,
+   3617.1
+  ],
+  "Ptarmigan Lift top": [
+   -433,
+   -819,
+   3661.2
+  ],
+  "Bennett's Bowl / South Turtle Creek": [
+   -27,
+   -701,
+   3544.7
+  ],
+  "Keno / Dealer's Choice": [
+   308,
+   -986,
+   3601.6
+  ],
+  "Keno / South Blackjack": [
+   351,
+   -520,
+   3488.9
+  ],
+  "Spillway / Cat Walk": [
+   982,
+   -430,
+   3615.8
+  ],
+  "Richard's Run": [
+   820,
+   -293,
+   3538.8
+  ],
+  "Jelly Roll / South Traverse of Continental Divide": [
+   -945,
+   -879,
+   3793.4
+  ],
+  "Zippity Split": [
+   -158,
+   1163,
+   3694.5
+  ],
+  "Home Run 3": [
+   872,
+   321,
+   3320.7
+  ],
+  "Unnamed run / North Chutes": [
+   -261,
+   -245,
+   3496.7
+  ],
+  "Lift 9 bottom": [
+   -128,
+   -271,
+   3484.5
+  ],
+  "Ptarmigan Lift bottom": [
+   219,
+   -88,
+   3416.4
+  ],
+  "Fire Bowl / Drifter": [
+   -15,
+   -514,
+   3530.3
+  ],
+  "Our Bowl 2": [
+   -511,
+   -337,
+   3546.8
+  ],
+  "Tempest 3": [
+   327,
+   -220,
+   3438.6
+  ],
+  "Lift 6 bottom": [
+   339,
+   -95,
+   3419.3
+  ],
+  "Roulette / South Turtle Creek": [
+   278,
+   -333,
+   3448.6
+  ],
+  "Turtle Creek / South Turtle Creek": [
+   283,
+   -232,
+   3432.1
+  ],
+  "Tempest / Cat Walk": [
+   826,
+   -443,
+   3568.0
+  ],
+  "Rainbow 2": [
+   1078,
+   242,
+   3318.0
+  ],
+  "Richard's Run 2": [
+   855,
+   -374,
+   3558.8
+  ],
+  "Rock Chutes 3": [
+   -277,
+   1436,
+   3687.4
+  ],
+  "Apollo": [
+   -618,
+   -278,
+   3575.1
+  ],
+  "Lift 9 top": [
+   -1522,
+   -404,
+   3866.0
+  ],
+  "Apollo 2": [
+   -670,
+   -58,
+   3625.7
+  ],
+  "Royal Flush / Deuces Wild": [
+   35,
+   -914,
+   3593.8
+  ],
+  "Royal Flush / South Turtle Creek": [
+   143,
+   -592,
+   3508.9
+  ],
+  "Hook 'em Horns": [
+   234,
+   1201,
+   3604.1
+  ],
+  "Hook 'em Horns / Awesome 2": [
+   507,
+   1249,
+   3499.3
+  ],
+  "Tomahawk": [
+   -214,
+   -307,
+   3504.5
+  ],
+  "Roulette": [
+   195,
+   -1005,
+   3612.7
+  ],
+  "Cat's Meow": [
+   888,
+   -14,
+   3463.7
+  ],
+  "Nix Nox": [
+   626,
+   55,
+   3402.7
+  ],
+  "Cat's Meow 2": [
+   913,
+   108,
+   3391.8
+  ],
+  "Cat's Meow 3": [
+   887,
+   266,
+   3322.2
+  ],
+  "Zippity Split 2": [
+   -156,
+   1042,
+   3672.1
+  ],
+  "Lift 8 bottom": [
+   771,
+   756,
+   3430.4
+  ],
+  "South Turtle Creek": [
+   24,
+   -656,
+   3529.8
+  ],
+  "Fail Safe Trees / Creek Trail 3": [
+   76,
+   -102,
+   3432.2
+  ],
+  "The Face 2": [
+   823,
+   475,
+   3340.5
+  ],
+  "Home Run 4": [
+   748,
+   247,
+   3332.8
+  ],
+  "South Traverse of Continental Divide 3": [
+   -822,
+   -1005,
+   3779.6
+  ],
+  "Creek Trail": [
+   -104,
+   -203,
+   3469.7
+  ],
+  "Spillway": [
+   887,
+   -300,
+   3554.1
+  ],
+  "Cat Walk": [
+   829,
+   -492,
+   3575.7
+  ],
+  "Forest Meadow": [
+   413,
+   -345,
+   3470.3
+  ],
+  "Zippity Split 3": [
+   -151,
+   329,
+   3569.2
+  ],
+  "Chet's Dream bottom": [
+   924,
+   309,
+   3317.1
+  ],
+  "Lift 2 top": [
+   232,
+   -233,
+   3435.6
+  ]
+ },
+ "lifts": [
+  [
+   "Lift 6",
+   "Lift 6 bottom",
+   "Lift 6 top",
+   10.2
+  ],
+  [
+   "Chet's Dream",
+   "Chet's Dream bottom",
+   "Chet's Dream top",
+   8.7
+  ],
+  [
+   "Lift 2",
+   "Lift 2 bottom",
+   "Lift 2 top",
+   9.5
+  ],
+  [
+   "Ptarmigan Lift",
+   "Ptarmigan Lift bottom",
+   "Ptarmigan Lift top",
+   10.3
+  ],
+  [
+   "Lift 4",
+   "Lift 4 bottom",
+   "Lift 4 top",
+   10.9
+  ],
+  [
+   "Lift 9",
+   "Lift 9 bottom",
+   "Lift 9 top",
+   13.6
+  ],
+  [
+   "Lift 8",
+   "Lift 8 bottom",
+   "Lift 8 top",
+   11.0
+  ]
+ ],
+ "runs": [
+  [
+   "Unnamed run",
+   "Unnamed run / Fail Safe Catwalk",
+   "Unnamed run / Fire Cut",
+   0.8
+  ],
+  [
+   "Awesome Ungroomed",
+   "Awesome Ungroomed / Rock Chutes",
+   "Awesome Ungroomed / Awesome",
+   2.3
+  ],
+  [
+   "South Chutes",
+   "South Chutes",
+   "South Chutes 2",
+   0.8
+  ],
+  [
+   "Fail Safe Catwalk",
+   "Fail Safe Catwalk / Fail Safe Trees",
+   "Fail Safe Catwalk",
+   1.0
+  ],
+  [
+   "Fail Safe Catwalk",
+   "Fail Safe Catwalk",
+   "Unnamed run / Fail Safe Catwalk",
+   2.0
+  ],
+  [
+   "Fire Cut",
+   "Fire Cut / Fire Bowl",
+   "Unnamed run / Fire Cut",
+   1.6
+  ],
+  [
+   "Fire Cut",
+   "Unnamed run / Fire Cut",
+   "Fire Cut / Drifter",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Turtle Creek",
+   "Lift 4 bottom",
+   0.5
+  ],
+  [
+   "Fail Safe Trees",
+   "Fail Safe Catwalk",
+   "Fail Safe Trees / Creek Trail",
+   0.7
+  ],
+  [
+   "South Chutes",
+   "South Chutes 3",
+   "South Chutes 2",
+   0.9
+  ],
+  [
+   "In The Mood",
+   "In The Mood / Chet's Run",
+   "In The Mood",
+   0.7
+  ],
+  [
+   "In The Mood",
+   "In The Mood",
+   "In The Mood / Awesome",
+   1.1
+  ],
+  [
+   "Challenger",
+   "Challenger / North Traverse of Continental Divide",
+   "Challenger / Apollo",
+   2.4
+  ],
+  [
+   "Tomahawk",
+   "Tomahawk / Poma Line",
+   "Tomahawk",
+   0.5
+  ],
+  [
+   "Tomahawk",
+   "Tomahawk",
+   "Tomahawk / Zippity Split",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Home Run / Mambo",
+   "Home Run",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Home Run",
+   "Home Run 2",
+   0.7
+  ],
+  [
+   "Home Run",
+   "Home Run 2",
+   "Home Run 4",
+   0.5
+  ],
+  [
+   "Home Run",
+   "Home Run 4",
+   "Home Run 3",
+   0.6
+  ],
+  [
+   "Home Run",
+   "Home Run 3",
+   "Lift 2 bottom",
+   0.5
+  ],
+  [
+   "Tiger's Tail",
+   "Chet's Dream top",
+   "Tiger's Tail / Cat's Meow",
+   1.4
+  ],
+  [
+   "Richard's Run",
+   "Richard's Run / Cat Walk",
+   "Richard's Run 2",
+   0.5
+  ],
+  [
+   "Richard's Run",
+   "Richard's Run 2",
+   "Richard's Run",
+   0.5
+  ],
+  [
+   "Richard's Run",
+   "Richard's Run",
+   "Home Run",
+   2.4
+  ],
+  [
+   "North Star",
+   "North Star / North Traverse of Continental Divide",
+   "North Star / Apollo",
+   2.0
+  ],
+  [
+   "Tempest",
+   "Tempest",
+   "Tempest 2",
+   0.5
+  ],
+  [
+   "Tempest",
+   "Tempest 2",
+   "Tempest 3",
+   0.5
+  ],
+  [
+   "Tempest",
+   "Tempest 3",
+   "Lift 6 bottom",
+   0.5
+  ],
+  [
+   "Tempest",
+   "Lift 6 bottom",
+   "Tempest / Mambo",
+   0.5
+  ],
+  [
+   "Our Bowl",
+   "Our Bowl 2",
+   "Our Bowl / North Chutes",
+   0.5
+  ],
+  [
+   "South Chutes",
+   "South Chutes 4",
+   "South Chutes / Our Bowl",
+   0.5
+  ],
+  [
+   "The Face",
+   "The Face",
+   "Lift 2 bottom",
+   0.5
+  ],
+  [
+   "Fire Bowl Ungroomed",
+   "Fire Bowl Ungroomed",
+   "Fire Bowl Ungroomed 2",
+   1.1
+  ],
+  [
+   "Chet's Run",
+   "Lift 8 top",
+   "In The Mood / Chet's Run",
+   0.9
+  ],
+  [
+   "Chet's Run",
+   "In The Mood / Chet's Run",
+   "Chet's Run / Zip Trail",
+   2.1
+  ],
+  [
+   "Nix Nox",
+   "Nix Nox / Cat's Meow",
+   "Nix Nox",
+   1.5
+  ],
+  [
+   "Nix Nox",
+   "Nix Nox",
+   "Home Run 2",
+   0.6
+  ],
+  [
+   "Hook 'em Horns",
+   "In The Mood / Chet's Run",
+   "Hook 'em Horns",
+   0.5
+  ],
+  [
+   "Hook 'em Horns",
+   "Hook 'em Horns",
+   "Hook 'em Horns / Awesome",
+   2.5
+  ],
+  [
+   "Forest Meadow",
+   "Forest Meadow / Dealer's Choice",
+   "Forest Meadow",
+   1.4
+  ],
+  [
+   "Forest Meadow",
+   "Forest Meadow",
+   "Tempest 2",
+   0.5
+  ],
+  [
+   "Dueces Wild Ungroomed",
+   "Dueces Wild Ungroomed / Deuces Wild",
+   "Dueces Wild Ungroomed / South Turtle Creek",
+   1.0
+  ],
+  [
+   "Telestar",
+   "Lift 4 top",
+   "Telestar / Perfect Bowl",
+   1.6
+  ],
+  [
+   "North Traverse of Continental Divide",
+   "North Traverse of Continental Divide / Rookie Road",
+   "Challenger / North Traverse of Continental Divide",
+   0.5
+  ],
+  [
+   "North Traverse of Continental Divide",
+   "Challenger / North Traverse of Continental Divide",
+   "North Star / North Traverse of Continental Divide",
+   0.6
+  ],
+  [
+   "Perfect Bowl",
+   "Telestar / Perfect Bowl",
+   "Perfect Bowl / Zippity Split",
+   1.3
+  ],
+  [
+   "Sunburst Chutes",
+   "Sunburst Chutes / Zip Trail",
+   "Sunburst Chutes / Splashdown",
+   1.5
+  ],
+  [
+   "The Plunge",
+   "Lift 8 top",
+   "In The Mood",
+   1.3
+  ],
+  [
+   "Bennett's Bowl Ungroomed",
+   "Bennett's Bowl Ungroomed",
+   "Bennett's Bowl Ungroomed 2",
+   1.4
+  ],
+  [
+   "Straight Flush",
+   "Lift 6 top",
+   "Straight Flush / South Turtle Creek",
+   1.9
+  ],
+  [
+   "North Blackjack",
+   "North Blackjack / South Blackjack",
+   "North Blackjack / South Blackjack 2",
+   0.8
+  ],
+  [
+   "Rock Chutes",
+   "Rock Chutes 3",
+   "Awesome Ungroomed / Rock Chutes",
+   0.5
+  ],
+  [
+   "Fail Safe Trees",
+   "Fail Safe Catwalk / Fail Safe Trees",
+   "Fail Safe Catwalk",
+   0.5
+  ],
+  [
+   "Fail Safe Trees",
+   "Fail Safe Catwalk",
+   "Fail Safe Trees / Creek Trail 2",
+   1.1
+  ],
+  [
+   "Sunburst Bowl",
+   "Lift 4 top",
+   "Velvet Hammer / Sunburst Bowl",
+   0.8
+  ],
+  [
+   "Sunburst Bowl",
+   "Velvet Hammer / Sunburst Bowl",
+   "Sunburst Bowl / Zippity Split",
+   1.9
+  ],
+  [
+   "Bennett's Bowl",
+   "Ptarmigan Lift top",
+   "Bennett's Bowl / South Turtle Creek",
+   2.2
+  ],
+  [
+   "Keno",
+   "Keno / Dealer's Choice",
+   "Keno / South Blackjack",
+   2.2
+  ],
+  [
+   "Spillway",
+   "Spillway / Cat Walk",
+   "Spillway",
+   0.6
+  ],
+  [
+   "Spillway",
+   "Spillway",
+   "Richard's Run",
+   0.5
+  ],
+  [
+   "Zippity Split",
+   "Lift 8 top",
+   "Zippity Split",
+   0.5
+  ],
+  [
+   "Zippity Split",
+   "Zippity Split",
+   "Zippity Split 2",
+   0.5
+  ],
+  [
+   "Zippity Split",
+   "Zippity Split 2",
+   "Tickler / Zippity Split",
+   0.8
+  ],
+  [
+   "Zippity Split",
+   "Tickler / Zippity Split",
+   "Sunburst Bowl / Zippity Split",
+   1.1
+  ],
+  [
+   "Zippity Split",
+   "Sunburst Bowl / Zippity Split",
+   "Zippity Split 3",
+   1.5
+  ],
+  [
+   "Zippity Split",
+   "Zippity Split 3",
+   "Perfect Bowl / Zippity Split",
+   0.8
+  ],
+  [
+   "Zippity Split",
+   "Perfect Bowl / Zippity Split",
+   "Fail Safe Catwalk / Fail Safe Trees",
+   0.5
+  ],
+  [
+   "Zippity Split",
+   "Fail Safe Catwalk / Fail Safe Trees",
+   "Tomahawk / Zippity Split",
+   1.4
+  ],
+  [
+   "Jelly Roll",
+   "Jelly Roll / South Traverse of Continental Divide",
+   "Ptarmigan Lift top",
+   2.2
+  ],
+  [
+   "Cat's Meow",
+   "Nix Nox / Cat's Meow",
+   "Tiger's Tail / Cat's Meow",
+   0.5
+  ],
+  [
+   "Cat's Meow",
+   "Tiger's Tail / Cat's Meow",
+   "Cat's Meow",
+   0.5
+  ],
+  [
+   "Cat's Meow",
+   "Cat's Meow",
+   "Cat's Meow 2",
+   0.6
+  ],
+  [
+   "Cat's Meow",
+   "Cat's Meow 2",
+   "Cat's Meow 3",
+   0.8
+  ],
+  [
+   "Cat's Meow",
+   "Cat's Meow 3",
+   "Home Run 3",
+   0.5
+  ],
+  [
+   "Mercury",
+   "Lift 4 top",
+   "Perfect Bowl / Zippity Split",
+   3.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / North Chutes",
+   "Tomahawk / Zippity Split",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Tomahawk / Zippity Split",
+   "Lift 9 bottom",
+   0.5
+  ],
+  [
+   "Poma Line",
+   "Tomahawk / Poma Line",
+   "Ptarmigan Lift bottom",
+   2.4
+  ],
+  [
+   "Fire Bowl",
+   "Ptarmigan Lift top",
+   "Fire Cut / Fire Bowl",
+   2.5
+  ],
+  [
+   "Fire Bowl",
+   "Fire Cut / Fire Bowl",
+   "Fire Bowl / Drifter",
+   0.5
+  ],
+  [
+   "Our Bowl",
+   "South Chutes / Our Bowl",
+   "Our Bowl 2",
+   1.0
+  ],
+  [
+   "Tempest",
+   "Tempest 3",
+   "Lift 6 bottom",
+   0.5
+  ],
+  [
+   "Roulette",
+   "Lift 6 top",
+   "Roulette",
+   0.5
+  ],
+  [
+   "Roulette",
+   "Roulette",
+   "Roulette / South Turtle Creek",
+   2.8
+  ],
+  [
+   "Turtle Creek",
+   "Turtle Creek / South Turtle Creek",
+   "Unnamed run / Turtle Creek",
+   0.9
+  ],
+  [
+   "Scrub",
+   "Perfect Bowl / Zippity Split",
+   "Lift 4 bottom",
+   1.7
+  ],
+  [
+   "Tempest",
+   "Tempest / Cat Walk",
+   "Tempest",
+   1.8
+  ],
+  [
+   "Tempest",
+   "Tempest",
+   "Lift 6 bottom",
+   0.9
+  ],
+  [
+   "North Chutes",
+   "Unnamed run / North Chutes",
+   "Tomahawk / Zippity Split",
+   0.5
+  ],
+  [
+   "Cat Walk",
+   "Chet's Dream top",
+   "Spillway / Cat Walk",
+   0.5
+  ],
+  [
+   "Cat Walk",
+   "Spillway / Cat Walk",
+   "Richard's Run / Cat Walk",
+   0.5
+  ],
+  [
+   "Cat Walk",
+   "Richard's Run / Cat Walk",
+   "Cat Walk",
+   0.9
+  ],
+  [
+   "Cat Walk",
+   "Cat Walk",
+   "Tempest / Cat Walk",
+   0.5
+  ],
+  [
+   "Cat Walk",
+   "Tempest / Cat Walk",
+   "Richard's Run 2",
+   0.5
+  ],
+  [
+   "Apollo",
+   "Lift 4 top",
+   "North Star / Apollo",
+   0.5
+  ],
+  [
+   "Apollo",
+   "North Star / Apollo",
+   "Challenger / Apollo",
+   0.9
+  ],
+  [
+   "Apollo",
+   "Challenger / Apollo",
+   "Apollo 2",
+   0.9
+  ],
+  [
+   "Apollo",
+   "Apollo 2",
+   "Apollo",
+   1.1
+  ],
+  [
+   "Apollo",
+   "Apollo",
+   "Our Bowl / North Chutes",
+   0.8
+  ],
+  [
+   "Rookie Road",
+   "Lift 9 top",
+   "North Traverse of Continental Divide / Rookie Road",
+   2.8
+  ],
+  [
+   "Rookie Road",
+   "North Traverse of Continental Divide / Rookie Road",
+   "Apollo 2",
+   3.2
+  ],
+  [
+   "Royal Flush",
+   "Royal Flush / Deuces Wild",
+   "Royal Flush / South Turtle Creek",
+   1.3
+  ],
+  [
+   "Hook 'em Horns",
+   "Hook 'em Horns",
+   "Hook 'em Horns / Awesome 2",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Tomahawk",
+   "Lift 9 bottom",
+   0.5
+  ],
+  [
+   "Dealer's Choice",
+   "Lift 6 top",
+   "Roulette",
+   0.5
+  ],
+  [
+   "Dealer's Choice",
+   "Roulette",
+   "Keno / Dealer's Choice",
+   0.5
+  ],
+  [
+   "Dealer's Choice",
+   "Keno / Dealer's Choice",
+   "Forest Meadow / Dealer's Choice",
+   2.4
+  ],
+  [
+   "Mambo",
+   "Richard's Run 2",
+   "Richard's Run",
+   0.5
+  ],
+  [
+   "Mambo",
+   "Richard's Run",
+   "Tempest / Mambo",
+   2.4
+  ],
+  [
+   "Mambo",
+   "Tempest / Mambo",
+   "Home Run / Mambo",
+   0.5
+  ],
+  [
+   "South Turtle Creek",
+   "Bennett's Bowl / South Turtle Creek",
+   "South Turtle Creek",
+   0.5
+  ],
+  [
+   "South Turtle Creek",
+   "South Turtle Creek",
+   "Dueces Wild Ungroomed / South Turtle Creek",
+   0.5
+  ],
+  [
+   "South Turtle Creek",
+   "Dueces Wild Ungroomed / South Turtle Creek",
+   "Royal Flush / South Turtle Creek",
+   0.5
+  ],
+  [
+   "South Turtle Creek",
+   "Royal Flush / South Turtle Creek",
+   "Straight Flush / South Turtle Creek",
+   0.5
+  ],
+  [
+   "South Turtle Creek",
+   "Straight Flush / South Turtle Creek",
+   "Roulette / South Turtle Creek",
+   1.2
+  ],
+  [
+   "South Turtle Creek",
+   "Roulette / South Turtle Creek",
+   "Turtle Creek / South Turtle Creek",
+   0.5
+  ],
+  [
+   "Drifter",
+   "Fire Bowl / Drifter",
+   "Lift 2 top",
+   1.5
+  ],
+  [
+   "Drifter",
+   "Lift 2 top",
+   "Fire Cut / Drifter",
+   0.5
+  ],
+  [
+   "Drifter",
+   "Fire Cut / Drifter",
+   "Ptarmigan Lift bottom",
+   0.5
+  ],
+  [
+   "South Blackjack",
+   "Roulette",
+   "North Blackjack / South Blackjack",
+   0.5
+  ],
+  [
+   "South Blackjack",
+   "North Blackjack / South Blackjack",
+   "North Blackjack / South Blackjack 2",
+   1.0
+  ],
+  [
+   "South Blackjack",
+   "North Blackjack / South Blackjack 2",
+   "Keno / South Blackjack",
+   0.7
+  ],
+  [
+   "South Blackjack",
+   "Keno / South Blackjack",
+   "Tempest 2",
+   1.1
+  ],
+  [
+   "Cat's Nix Trees",
+   "Cat's Meow",
+   "Nix Nox",
+   1.0
+  ],
+  [
+   "Holy Cat",
+   "Cat's Meow 2",
+   "Holy Cat",
+   0.5
+  ],
+  [
+   "Holy Cat",
+   "Holy Cat",
+   "Busy Gully / Holy Cat",
+   0.5
+  ],
+  [
+   "Holy Cat",
+   "Busy Gully / Holy Cat",
+   "Cat's Meow 3",
+   0.5
+  ],
+  [
+   "Tickler Gulch",
+   "Zippity Split 2",
+   "Lift 8 bottom",
+   4.6
+  ],
+  [
+   "North Turtle Creek",
+   "Fire Bowl / Drifter",
+   "Roulette / South Turtle Creek",
+   1.5
+  ],
+  [
+   "Deuces Wild",
+   "Lift 6 top",
+   "Royal Flush / Deuces Wild",
+   0.6
+  ],
+  [
+   "Deuces Wild",
+   "Royal Flush / Deuces Wild",
+   "Dueces Wild Ungroomed / Deuces Wild",
+   0.5
+  ],
+  [
+   "Deuces Wild",
+   "Dueces Wild Ungroomed / Deuces Wild",
+   "Bennett's Bowl / South Turtle Creek",
+   0.8
+  ],
+  [
+   "Deuces Wild",
+   "Bennett's Bowl / South Turtle Creek",
+   "South Turtle Creek",
+   0.5
+  ],
+  [
+   "Fail Safe Trees",
+   "Fail Safe Catwalk",
+   "Fail Safe Trees / Creek Trail 3",
+   0.7
+  ],
+  [
+   "Zip Trail",
+   "Telestar / Perfect Bowl",
+   "Sunburst Chutes / Zip Trail",
+   2.0
+  ],
+  [
+   "Zip Trail",
+   "Sunburst Chutes / Zip Trail",
+   "Chet's Run / Zip Trail",
+   2.5
+  ],
+  [
+   "The Face",
+   "Lift 8 bottom",
+   "The Face 2",
+   1.4
+  ],
+  [
+   "Tango Road",
+   "Unnamed run / Turtle Creek",
+   "Home Run 2",
+   1.8
+  ],
+  [
+   "Tango Road",
+   "Home Run 2",
+   "Home Run 4",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Tempest / Mambo",
+   "Home Run / Mambo",
+   0.5
+  ],
+  [
+   "Creek Trail",
+   "Our Bowl / North Chutes",
+   "South Chutes 2",
+   0.5
+  ],
+  [
+   "Creek Trail",
+   "South Chutes 2",
+   "Unnamed run / North Chutes",
+   0.5
+  ],
+  [
+   "Creek Trail",
+   "Unnamed run / North Chutes",
+   "Tomahawk / Zippity Split",
+   0.5
+  ],
+  [
+   "Creek Trail",
+   "Tomahawk / Zippity Split",
+   "Creek Trail",
+   0.5
+  ],
+  [
+   "Creek Trail",
+   "Creek Trail",
+   "Unnamed run / Fail Safe Catwalk",
+   0.5
+  ],
+  [
+   "Creek Trail",
+   "Unnamed run / Fail Safe Catwalk",
+   "Fail Safe Trees / Creek Trail 3",
+   0.6
+  ],
+  [
+   "Creek Trail",
+   "Fail Safe Trees / Creek Trail 3",
+   "Fail Safe Trees / Creek Trail",
+   0.5
+  ],
+  [
+   "Creek Trail",
+   "Fail Safe Trees / Creek Trail",
+   "Fail Safe Trees / Creek Trail 2",
+   0.5
+  ],
+  [
+   "Creek Trail",
+   "Fail Safe Trees / Creek Trail 2",
+   "Lift 4 bottom",
+   0.5
+  ],
+  [
+   "Creek Trail",
+   "Lift 4 bottom",
+   "Unnamed run / Turtle Creek",
+   0.5
+  ],
+  [
+   "South Traverse of Continental Divide",
+   "Lift 9 top",
+   "Jelly Roll / South Traverse of Continental Divide",
+   3.1
+  ],
+  [
+   "South Traverse of Continental Divide",
+   "Jelly Roll / South Traverse of Continental Divide",
+   "South Traverse of Continental Divide 3",
+   0.7
+  ],
+  [
+   "Waterfall",
+   "Spillway",
+   "Nix Nox / Cat's Meow",
+   0.5
+  ],
+  [
+   "Excelleration",
+   "Cat Walk",
+   "Forest Meadow",
+   1.8
+  ],
+  [
+   "Splashdown",
+   "Zippity Split 3",
+   "Sunburst Chutes / Splashdown",
+   1.0
+  ],
+  [
+   "Splashdown",
+   "Sunburst Chutes / Splashdown",
+   "Lift 4 bottom",
+   1.1
+  ],
+  [
+   "Awesome",
+   "Lift 8 top",
+   "Marmot / Awesome",
+   0.5
+  ],
+  [
+   "Awesome",
+   "Marmot / Awesome",
+   "Rock Chutes 3",
+   0.6
+  ],
+  [
+   "Awesome",
+   "Rock Chutes 3",
+   "Awesome Ungroomed / Rock Chutes",
+   0.5
+  ],
+  [
+   "Awesome",
+   "Awesome Ungroomed / Rock Chutes",
+   "Awesome Ungroomed / Awesome",
+   2.8
+  ],
+  [
+   "Awesome",
+   "Awesome Ungroomed / Awesome",
+   "In The Mood / Awesome",
+   0.7
+  ],
+  [
+   "Awesome",
+   "In The Mood / Awesome",
+   "Hook 'em Horns / Awesome 2",
+   1.0
+  ],
+  [
+   "Awesome",
+   "Hook 'em Horns / Awesome 2",
+   "Hook 'em Horns / Awesome",
+   1.7
+  ],
+  [
+   "Awesome",
+   "Hook 'em Horns / Awesome",
+   "Lift 8 bottom",
+   0.7
+  ],
+  [
+   "Zip Basin Street",
+   "Lift 8 top",
+   "Chet's Run / Zip Trail",
+   3.0
+  ],
+  [
+   "Zip Basin Street",
+   "Chet's Run / Zip Trail",
+   "Lift 8 bottom",
+   1.6
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Ptarmigan Lift bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Lift 6 bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Lift 2 top",
+   0.9
+  ],
+  [
+   "walk",
+   "Awesome Ungroomed / Rock Chutes",
+   "Lift 8 top",
+   3.4
+  ],
+  [
+   "walk",
+   "South Chutes",
+   "Lift 9 bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "South Chutes 2",
+   "Lift 9 bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Fire Cut / Fire Bowl",
+   "Lift 9 bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Lift 4 bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Ptarmigan Lift bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Lift 6 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Lift 2 top",
+   1.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Turtle Creek",
+   "Lift 4 bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Lift 4 bottom",
+   "Unnamed run / Turtle Creek",
+   0.7
+  ],
+  [
+   "walk",
+   "Lift 4 bottom",
+   "Home Run / Mambo",
+   2.8
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Lift 4 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Ptarmigan Lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Lift 6 bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Lift 2 top",
+   2.9
+  ],
+  [
+   "walk",
+   "Tomahawk / Poma Line",
+   "Lift 9 bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Tomahawk / Zippity Split",
+   "Lift 9 bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Home Run / Mambo",
+   "Lift 4 bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Lift 2 bottom",
+   "The Face",
+   1.0
+  ],
+  [
+   "walk",
+   "Lift 2 bottom",
+   "Busy Gully / Holy Cat",
+   2.3
+  ],
+  [
+   "walk",
+   "Lift 2 bottom",
+   "Home Run 3",
+   1.0
+  ],
+  [
+   "walk",
+   "Lift 2 bottom",
+   "Rainbow 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Lift 2 bottom",
+   "Cat's Meow 3",
+   1.7
+  ],
+  [
+   "walk",
+   "Lift 2 bottom",
+   "Home Run 4",
+   3.0
+  ],
+  [
+   "walk",
+   "Lift 2 bottom",
+   "Chet's Dream bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Chet's Dream top",
+   "Richard's Run / Cat Walk",
+   1.6
+  ],
+  [
+   "walk",
+   "Chet's Dream top",
+   "Nix Nox / Cat's Meow",
+   3.5
+  ],
+  [
+   "walk",
+   "Chet's Dream top",
+   "Spillway / Cat Walk",
+   0.6
+  ],
+  [
+   "walk",
+   "Chet's Dream top",
+   "Richard's Run",
+   3.1
+  ],
+  [
+   "walk",
+   "Chet's Dream top",
+   "Tempest / Cat Walk",
+   2.7
+  ],
+  [
+   "walk",
+   "Chet's Dream top",
+   "Richard's Run 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Chet's Dream top",
+   "Spillway",
+   2.2
+  ],
+  [
+   "walk",
+   "Chet's Dream top",
+   "Cat Walk",
+   2.9
+  ],
+  [
+   "walk",
+   "Richard's Run / Cat Walk",
+   "Chet's Dream top",
+   1.6
+  ],
+  [
+   "walk",
+   "North Star / Apollo",
+   "Lift 4 top",
+   1.7
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Lift 6 bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Lift 2 top",
+   3.0
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Lift 4 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Ptarmigan Lift bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Lift 6 bottom",
+   1.1
+  ],
+  [
+   "walk",
+   "The Face",
+   "Lift 2 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "The Face",
+   "Chet's Dream bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Busy Gully / Holy Cat",
+   "Lift 2 bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Busy Gully / Holy Cat",
+   "Chet's Dream bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed",
+   "Ptarmigan Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "South Chutes",
+   1.7
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "Fire Cut / Fire Bowl",
+   1.8
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "South Chutes 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "Tomahawk / Poma Line",
+   1.9
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "Bennett's Bowl Ungroomed 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "Bennett's Bowl / South Turtle Creek",
+   3.3
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "Fire Bowl / Drifter",
+   3.1
+  ],
+  [
+   "walk",
+   "Lift 8 top",
+   "Awesome Ungroomed / Rock Chutes",
+   3.4
+  ],
+  [
+   "walk",
+   "Lift 8 top",
+   "In The Mood / Chet's Run",
+   3.3
+  ],
+  [
+   "walk",
+   "Lift 8 top",
+   "Marmot / Awesome",
+   0.6
+  ],
+  [
+   "walk",
+   "Lift 8 top",
+   "Zippity Split",
+   1.3
+  ],
+  [
+   "walk",
+   "Lift 8 top",
+   "Rock Chutes 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Lift 8 top",
+   "Zippity Split 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Holy Cat",
+   "Chet's Dream bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Hook 'em Horns / Awesome",
+   "Lift 8 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Lift 6 top",
+   "Dueces Wild Ungroomed / Deuces Wild",
+   3.3
+  ],
+  [
+   "walk",
+   "Lift 6 top",
+   "North Blackjack / South Blackjack",
+   2.8
+  ],
+  [
+   "walk",
+   "Lift 6 top",
+   "Keno / Dealer's Choice",
+   2.2
+  ],
+  [
+   "walk",
+   "Lift 6 top",
+   "Royal Flush / Deuces Wild",
+   2.7
+  ],
+  [
+   "walk",
+   "Lift 6 top",
+   "Roulette",
+   0.8
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Ptarmigan Lift bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Lift 6 bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Lift 2 top",
+   1.6
+  ],
+  [
+   "walk",
+   "Marmot / Awesome",
+   "Lift 8 top",
+   0.6
+  ],
+  [
+   "walk",
+   "Lift 4 top",
+   "North Star / Apollo",
+   1.7
+  ],
+  [
+   "walk",
+   "Lift 4 top",
+   "Velvet Hammer / Sunburst Bowl",
+   3.3
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed",
+   "Ptarmigan Lift top",
+   0.7
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "South Chutes",
+   2.4
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "Fire Cut / Fire Bowl",
+   1.4
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "Tomahawk / Poma Line",
+   2.1
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "Fire Bowl Ungroomed 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "Dueces Wild Ungroomed / South Turtle Creek",
+   3.1
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "Bennett's Bowl / South Turtle Creek",
+   2.4
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "Fire Bowl / Drifter",
+   2.2
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "South Turtle Creek",
+   2.7
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Lift 4 bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Ptarmigan Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Lift 6 bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift top",
+   "South Chutes 4",
+   3.1
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift top",
+   "Fire Bowl Ungroomed",
+   0.7
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift top",
+   "Bennett's Bowl Ungroomed",
+   0.7
+  ],
+  [
+   "walk",
+   "Spillway / Cat Walk",
+   "Chet's Dream top",
+   0.6
+  ],
+  [
+   "walk",
+   "Zippity Split",
+   "Lift 8 top",
+   1.3
+  ],
+  [
+   "walk",
+   "Home Run 3",
+   "Lift 2 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Home Run 3",
+   "Chet's Dream bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Unnamed run / North Chutes",
+   "Lift 9 bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Lift 9 bottom",
+   "Unnamed run / Fail Safe Catwalk",
+   1.9
+  ],
+  [
+   "walk",
+   "Lift 9 bottom",
+   "Tomahawk / Zippity Split",
+   1.2
+  ],
+  [
+   "walk",
+   "Lift 9 bottom",
+   "Unnamed run / North Chutes",
+   1.9
+  ],
+  [
+   "walk",
+   "Lift 9 bottom",
+   "Creek Trail",
+   1.0
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Fire Cut / Drifter",
+   1.0
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Unnamed run / Turtle Creek",
+   1.8
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Lift 4 bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Fail Safe Trees / Creek Trail",
+   1.5
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Tempest / Mambo",
+   2.5
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Fail Safe Trees / Creek Trail 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Lift 6 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Ptarmigan Lift bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Lift 6 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Lift 2 top",
+   1.3
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Fire Cut / Drifter",
+   1.9
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Unnamed run / Turtle Creek",
+   1.7
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Lift 4 bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Fail Safe Trees / Creek Trail",
+   3.2
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Home Run / Mambo",
+   2.5
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Tempest / Mambo",
+   1.1
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Fail Safe Trees / Creek Trail 2",
+   2.7
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Ptarmigan Lift bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Turtle Creek / South Turtle Creek",
+   2.1
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Lift 6 bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Lift 2 top",
+   1.5
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Ptarmigan Lift bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Lift 6 bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Lift 2 top",
+   0.7
+  ],
+  [
+   "walk",
+   "Rainbow 2",
+   "Lift 2 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Rainbow 2",
+   "Busy Gully / Holy Cat",
+   2.0
+  ],
+  [
+   "walk",
+   "Rainbow 2",
+   "Home Run 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Rainbow 2",
+   "Cat's Meow 3",
+   2.7
+  ],
+  [
+   "walk",
+   "Rainbow 2",
+   "Chet's Dream bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Rock Chutes 3",
+   "Lift 8 top",
+   2.9
+  ],
+  [
+   "walk",
+   "Tomahawk",
+   "Lift 9 bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Roulette",
+   "Lift 6 top",
+   0.8
+  ],
+  [
+   "walk",
+   "Cat's Meow 2",
+   "Chet's Dream bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Cat's Meow 3",
+   "Lift 2 bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Cat's Meow 3",
+   "Chet's Dream bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Ptarmigan Lift bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Lift 2 top",
+   2.8
+  ],
+  [
+   "walk",
+   "The Face 2",
+   "Lift 2 bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "The Face 2",
+   "The Face",
+   0.9
+  ],
+  [
+   "walk",
+   "The Face 2",
+   "Home Run 3",
+   2.3
+  ],
+  [
+   "walk",
+   "The Face 2",
+   "Cat's Meow 3",
+   3.0
+  ],
+  [
+   "walk",
+   "The Face 2",
+   "Home Run 4",
+   3.3
+  ],
+  [
+   "walk",
+   "The Face 2",
+   "Chet's Dream bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "Home Run 4",
+   "Lift 2 bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Home Run 4",
+   "Chet's Dream bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "South Traverse of Continental Divide 3",
+   "Jelly Roll / South Traverse of Continental Divide",
+   2.4
+  ],
+  [
+   "walk",
+   "Creek Trail",
+   "Lift 9 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Lift 2 top",
+   3.0
+  ],
+  [
+   "walk",
+   "Chet's Dream bottom",
+   "Lift 2 bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Chet's Dream bottom",
+   "The Face",
+   1.8
+  ],
+  [
+   "walk",
+   "Chet's Dream bottom",
+   "Busy Gully / Holy Cat",
+   1.2
+  ],
+  [
+   "walk",
+   "Chet's Dream bottom",
+   "Home Run 3",
+   0.7
+  ],
+  [
+   "walk",
+   "Chet's Dream bottom",
+   "Rainbow 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Chet's Dream bottom",
+   "Cat's Meow 3",
+   0.8
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Unnamed run / Fire Cut",
+   0.9
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Fire Cut / Drifter",
+   1.1
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Fail Safe Trees / Creek Trail",
+   2.9
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Tempest 2",
+   1.6
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Fail Safe Trees / Creek Trail 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Ptarmigan Lift bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Tempest 3",
+   1.3
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Lift 6 bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Roulette / South Turtle Creek",
+   1.5
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Turtle Creek / South Turtle Creek",
+   0.7
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Fail Safe Trees / Creek Trail 3",
+   2.8
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "Lift 9 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "Lift 9 bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Lift 2 top",
+   2.0
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Lift 2 top",
+   2.8
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Lift 4 bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Unnamed run / Turtle Creek",
+   2.8
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Home Run / Mambo",
+   4.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Turtle Creek",
+   "Home Run / Mambo",
+   3.5
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Unnamed run / Turtle Creek",
+   3.3
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Home Run / Mambo",
+   5.6
+  ],
+  [
+   "walk",
+   "Home Run / Mambo",
+   "Unnamed run / Turtle Creek",
+   3.5
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Unnamed run / Turtle Creek",
+   2.8
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Home Run / Mambo",
+   3.6
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Unnamed run / Turtle Creek",
+   2.7
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Home Run / Mambo",
+   4.8
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Home Run / Mambo",
+   4.2
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Unnamed run / Turtle Creek",
+   3.8
+  ],
+  [
+   "walk",
+   "The Face",
+   "Busy Gully / Holy Cat",
+   3.1
+  ],
+  [
+   "walk",
+   "The Face",
+   "Home Run 3",
+   2.0
+  ],
+  [
+   "walk",
+   "The Face",
+   "Rainbow 2",
+   4.0
+  ],
+  [
+   "walk",
+   "The Face",
+   "Cat's Meow 3",
+   2.6
+  ],
+  [
+   "walk",
+   "The Face",
+   "Home Run 4",
+   3.9
+  ],
+  [
+   "walk",
+   "Busy Gully / Holy Cat",
+   "The Face",
+   3.1
+  ],
+  [
+   "walk",
+   "Busy Gully / Holy Cat",
+   "Home Run 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Busy Gully / Holy Cat",
+   "Rainbow 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Busy Gully / Holy Cat",
+   "Cat's Meow 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Busy Gully / Holy Cat",
+   "Home Run 4",
+   5.2
+  ],
+  [
+   "walk",
+   "Home Run 3",
+   "The Face",
+   2.0
+  ],
+  [
+   "walk",
+   "Home Run 3",
+   "Busy Gully / Holy Cat",
+   2.0
+  ],
+  [
+   "walk",
+   "Home Run 3",
+   "Rainbow 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Home Run 3",
+   "Cat's Meow 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Home Run 3",
+   "Home Run 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Rainbow 2",
+   "The Face",
+   4.0
+  ],
+  [
+   "walk",
+   "Rainbow 2",
+   "Home Run 4",
+   6.0
+  ],
+  [
+   "walk",
+   "Cat's Meow 3",
+   "The Face",
+   2.6
+  ],
+  [
+   "walk",
+   "Cat's Meow 3",
+   "Busy Gully / Holy Cat",
+   2.0
+  ],
+  [
+   "walk",
+   "Cat's Meow 3",
+   "Home Run 3",
+   1.5
+  ],
+  [
+   "walk",
+   "Cat's Meow 3",
+   "Rainbow 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Cat's Meow 3",
+   "Home Run 4",
+   4.6
+  ],
+  [
+   "walk",
+   "The Face 2",
+   "Busy Gully / Holy Cat",
+   3.9
+  ],
+  [
+   "walk",
+   "The Face 2",
+   "Rainbow 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Home Run 4",
+   "The Face",
+   3.9
+  ],
+  [
+   "walk",
+   "Home Run 4",
+   "Busy Gully / Holy Cat",
+   3.8
+  ],
+  [
+   "walk",
+   "Home Run 4",
+   "Home Run 3",
+   3.3
+  ],
+  [
+   "walk",
+   "Home Run 4",
+   "Rainbow 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Home Run 4",
+   "Cat's Meow 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Chet's Dream bottom",
+   "Home Run 4",
+   4.0
+  ],
+  [
+   "walk",
+   "Richard's Run / Cat Walk",
+   "Nix Nox / Cat's Meow",
+   5.1
+  ],
+  [
+   "walk",
+   "Richard's Run / Cat Walk",
+   "Spillway / Cat Walk",
+   2.2
+  ],
+  [
+   "walk",
+   "Richard's Run / Cat Walk",
+   "Richard's Run",
+   4.7
+  ],
+  [
+   "walk",
+   "Richard's Run / Cat Walk",
+   "Tempest / Cat Walk",
+   4.3
+  ],
+  [
+   "walk",
+   "Richard's Run / Cat Walk",
+   "Richard's Run 2",
+   3.8
+  ],
+  [
+   "walk",
+   "Richard's Run / Cat Walk",
+   "Spillway",
+   3.8
+  ],
+  [
+   "walk",
+   "Richard's Run / Cat Walk",
+   "Cat Walk",
+   4.5
+  ],
+  [
+   "walk",
+   "Spillway / Cat Walk",
+   "Richard's Run / Cat Walk",
+   2.2
+  ],
+  [
+   "walk",
+   "Spillway / Cat Walk",
+   "Nix Nox / Cat's Meow",
+   4.1
+  ],
+  [
+   "walk",
+   "Spillway / Cat Walk",
+   "Richard's Run",
+   3.7
+  ],
+  [
+   "walk",
+   "Spillway / Cat Walk",
+   "Tempest / Cat Walk",
+   3.3
+  ],
+  [
+   "walk",
+   "Spillway / Cat Walk",
+   "Richard's Run 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Spillway / Cat Walk",
+   "Spillway",
+   2.9
+  ],
+  [
+   "walk",
+   "Spillway / Cat Walk",
+   "Cat Walk",
+   3.5
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "South Chutes 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Awesome Ungroomed / Rock Chutes",
+   "In The Mood / Chet's Run",
+   6.7
+  ],
+  [
+   "walk",
+   "Awesome Ungroomed / Rock Chutes",
+   "Marmot / Awesome",
+   4.0
+  ],
+  [
+   "walk",
+   "Awesome Ungroomed / Rock Chutes",
+   "Zippity Split",
+   4.7
+  ],
+  [
+   "walk",
+   "Awesome Ungroomed / Rock Chutes",
+   "Rock Chutes 3",
+   6.2
+  ],
+  [
+   "walk",
+   "Awesome Ungroomed / Rock Chutes",
+   "Zippity Split 2",
+   6.3
+  ],
+  [
+   "walk",
+   "Marmot / Awesome",
+   "Awesome Ungroomed / Rock Chutes",
+   4.0
+  ],
+  [
+   "walk",
+   "Marmot / Awesome",
+   "In The Mood / Chet's Run",
+   4.0
+  ],
+  [
+   "walk",
+   "Marmot / Awesome",
+   "Zippity Split",
+   1.9
+  ],
+  [
+   "walk",
+   "Marmot / Awesome",
+   "Rock Chutes 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Marmot / Awesome",
+   "Zippity Split 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Zippity Split",
+   "Awesome Ungroomed / Rock Chutes",
+   4.7
+  ],
+  [
+   "walk",
+   "Zippity Split",
+   "In The Mood / Chet's Run",
+   4.6
+  ],
+  [
+   "walk",
+   "Zippity Split",
+   "Marmot / Awesome",
+   1.9
+  ],
+  [
+   "walk",
+   "Zippity Split",
+   "Rock Chutes 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Zippity Split",
+   "Zippity Split 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Rock Chutes 3",
+   "Awesome Ungroomed / Rock Chutes",
+   6.2
+  ],
+  [
+   "walk",
+   "Rock Chutes 3",
+   "In The Mood / Chet's Run",
+   6.2
+  ],
+  [
+   "walk",
+   "Rock Chutes 3",
+   "Marmot / Awesome",
+   3.5
+  ],
+  [
+   "walk",
+   "Rock Chutes 3",
+   "Zippity Split",
+   4.1
+  ],
+  [
+   "walk",
+   "Rock Chutes 3",
+   "Zippity Split 2",
+   5.8
+  ],
+  [
+   "walk",
+   "Roulette",
+   "Dueces Wild Ungroomed / Deuces Wild",
+   4.1
+  ],
+  [
+   "walk",
+   "Roulette",
+   "North Blackjack / South Blackjack",
+   3.6
+  ],
+  [
+   "walk",
+   "Roulette",
+   "Keno / Dealer's Choice",
+   2.9
+  ],
+  [
+   "walk",
+   "Roulette",
+   "Royal Flush / Deuces Wild",
+   3.5
+  ],
+  [
+   "walk",
+   "North Star / Apollo",
+   "Velvet Hammer / Sunburst Bowl",
+   4.9
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "Dueces Wild Ungroomed / South Turtle Creek",
+   4.1
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "South Turtle Creek",
+   3.7
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed",
+   "South Chutes 4",
+   3.8
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed",
+   "Bennett's Bowl Ungroomed",
+   1.5
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed",
+   "South Chutes 4",
+   3.8
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed",
+   "Fire Bowl Ungroomed",
+   1.5
+  ],
+  [
+   "walk",
+   "South Chutes",
+   "Unnamed run / Fail Safe Catwalk",
+   5.2
+  ],
+  [
+   "walk",
+   "South Chutes",
+   "Tomahawk / Zippity Split",
+   4.5
+  ],
+  [
+   "walk",
+   "South Chutes",
+   "Unnamed run / North Chutes",
+   5.2
+  ],
+  [
+   "walk",
+   "South Chutes",
+   "Creek Trail",
+   4.3
+  ],
+  [
+   "walk",
+   "South Chutes 2",
+   "Unnamed run / Fail Safe Catwalk",
+   4.6
+  ],
+  [
+   "walk",
+   "South Chutes 2",
+   "Tomahawk / Zippity Split",
+   3.9
+  ],
+  [
+   "walk",
+   "South Chutes 2",
+   "Unnamed run / North Chutes",
+   4.6
+  ],
+  [
+   "walk",
+   "South Chutes 2",
+   "Creek Trail",
+   3.7
+  ],
+  [
+   "walk",
+   "Fire Cut / Fire Bowl",
+   "Unnamed run / Fail Safe Catwalk",
+   5.0
+  ],
+  [
+   "walk",
+   "Fire Cut / Fire Bowl",
+   "Tomahawk / Zippity Split",
+   4.3
+  ],
+  [
+   "walk",
+   "Fire Cut / Fire Bowl",
+   "Unnamed run / North Chutes",
+   5.0
+  ],
+  [
+   "walk",
+   "Fire Cut / Fire Bowl",
+   "Creek Trail",
+   4.1
+  ],
+  [
+   "walk",
+   "Tomahawk / Poma Line",
+   "Unnamed run / Fail Safe Catwalk",
+   4.5
+  ],
+  [
+   "walk",
+   "Tomahawk / Poma Line",
+   "Tomahawk / Zippity Split",
+   3.8
+  ],
+  [
+   "walk",
+   "Tomahawk / Poma Line",
+   "Unnamed run / North Chutes",
+   4.5
+  ],
+  [
+   "walk",
+   "Tomahawk / Poma Line",
+   "Creek Trail",
+   3.6
+  ],
+  [
+   "walk",
+   "Tomahawk / Zippity Split",
+   "Unnamed run / Fail Safe Catwalk",
+   3.1
+  ],
+  [
+   "walk",
+   "Tomahawk / Zippity Split",
+   "Unnamed run / North Chutes",
+   3.1
+  ],
+  [
+   "walk",
+   "Tomahawk / Zippity Split",
+   "Creek Trail",
+   2.2
+  ],
+  [
+   "walk",
+   "Unnamed run / North Chutes",
+   "Unnamed run / Fail Safe Catwalk",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run / North Chutes",
+   "Tomahawk / Zippity Split",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / North Chutes",
+   "Creek Trail",
+   2.9
+  ],
+  [
+   "walk",
+   "Tomahawk",
+   "Unnamed run / Fail Safe Catwalk",
+   3.2
+  ],
+  [
+   "walk",
+   "Tomahawk",
+   "Tomahawk / Zippity Split",
+   2.5
+  ],
+  [
+   "walk",
+   "Tomahawk",
+   "Unnamed run / North Chutes",
+   3.2
+  ],
+  [
+   "walk",
+   "Tomahawk",
+   "Creek Trail",
+   2.3
+  ],
+  [
+   "walk",
+   "Creek Trail",
+   "Unnamed run / Fail Safe Catwalk",
+   2.9
+  ],
+  [
+   "walk",
+   "Creek Trail",
+   "Tomahawk / Zippity Split",
+   2.2
+  ],
+  [
+   "walk",
+   "Creek Trail",
+   "Unnamed run / North Chutes",
+   2.9
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "Unnamed run / Fail Safe Catwalk",
+   6.3
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "Tomahawk / Zippity Split",
+   5.7
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "Unnamed run / North Chutes",
+   6.3
+  ],
+  [
+   "walk",
+   "Fire Bowl Ungroomed 2",
+   "Creek Trail",
+   5.4
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "Unnamed run / Fail Safe Catwalk",
+   6.4
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "Tomahawk / Zippity Split",
+   5.7
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "Unnamed run / North Chutes",
+   6.4
+  ],
+  [
+   "walk",
+   "Bennett's Bowl Ungroomed 2",
+   "Creek Trail",
+   5.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Fire Cut / Drifter",
+   2.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Unnamed run / Turtle Creek",
+   3.6
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Lift 4 bottom",
+   4.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Fail Safe Trees / Creek Trail",
+   3.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Tempest / Mambo",
+   4.0
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Fail Safe Trees / Creek Trail 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Home Run / Mambo",
+   5.4
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Fail Safe Trees / Creek Trail",
+   2.5
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Tempest / Mambo",
+   3.0
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Fail Safe Trees / Creek Trail 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Fire Cut / Drifter",
+   2.5
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Tempest / Mambo",
+   4.0
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Fail Safe Trees / Creek Trail 2",
+   2.8
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Fire Cut / Drifter",
+   3.0
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Fail Safe Trees / Creek Trail",
+   4.0
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Fail Safe Trees / Creek Trail 2",
+   3.7
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Lift 2 top",
+   3.9
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Fire Cut / Drifter",
+   2.6
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Unnamed run / Turtle Creek",
+   4.1
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Lift 4 bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Fail Safe Trees / Creek Trail",
+   4.4
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Tempest / Mambo",
+   3.5
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Fail Safe Trees / Creek Trail 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Fire Cut / Drifter",
+   2.2
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Fail Safe Trees / Creek Trail",
+   2.8
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Tempest / Mambo",
+   3.7
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Lift 2 top",
+   3.3
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Fire Cut / Drifter",
+   2.4
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Unnamed run / Turtle Creek",
+   3.5
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Lift 4 bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Fail Safe Trees / Creek Trail",
+   3.9
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Tempest / Mambo",
+   2.9
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Fail Safe Trees / Creek Trail 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Fire Cut / Drifter",
+   1.8
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Unnamed run / Turtle Creek",
+   3.8
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Lift 4 bottom",
+   4.4
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Fail Safe Trees / Creek Trail",
+   3.6
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Tempest / Mambo",
+   3.2
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Fail Safe Trees / Creek Trail 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Fire Cut / Drifter",
+   3.0
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Unnamed run / Turtle Creek",
+   3.8
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Lift 4 bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Fail Safe Trees / Creek Trail",
+   3.5
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Tempest / Mambo",
+   4.4
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Fail Safe Trees / Creek Trail 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Lift 6 bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Tempest / Mambo",
+   3.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Turtle Creek / South Turtle Creek",
+   1.6
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Turtle Creek / South Turtle Creek",
+   1.8
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Turtle Creek / South Turtle Creek",
+   3.6
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Fire Cut / Drifter",
+   4.1
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Unnamed run / Turtle Creek",
+   4.4
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Lift 4 bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Fail Safe Trees / Creek Trail",
+   5.8
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Home Run / Mambo",
+   5.2
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Tempest / Mambo",
+   3.8
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Fail Safe Trees / Creek Trail 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Ptarmigan Lift bottom",
+   4.3
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Turtle Creek / South Turtle Creek",
+   3.7
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Turtle Creek / South Turtle Creek",
+   3.2
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Home Run / Mambo",
+   4.9
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Turtle Creek / South Turtle Creek",
+   2.3
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Turtle Creek / South Turtle Creek",
+   4.0
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Turtle Creek / South Turtle Creek",
+   2.7
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Home Run / Mambo",
+   4.3
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Turtle Creek / South Turtle Creek",
+   2.0
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Fire Cut / Drifter",
+   2.6
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Unnamed run / Turtle Creek",
+   5.2
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Lift 4 bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Fail Safe Trees / Creek Trail",
+   4.4
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Home Run / Mambo",
+   6.0
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Tempest / Mambo",
+   4.5
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Fail Safe Trees / Creek Trail 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Ptarmigan Lift bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Turtle Creek / South Turtle Creek",
+   2.2
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Home Run / Mambo",
+   4.6
+  ],
+  [
+   "walk",
+   "Lift 2 top",
+   "Home Run / Mambo",
+   5.0
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Home Run / Mambo",
+   6.2
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Turtle Creek / South Turtle Creek",
+   3.5
+  ],
+  [
+   "walk",
+   "Holy Cat",
+   "Lift 2 bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Holy Cat",
+   "The Face",
+   4.3
+  ],
+  [
+   "walk",
+   "Holy Cat",
+   "Busy Gully / Holy Cat",
+   3.7
+  ],
+  [
+   "walk",
+   "Holy Cat",
+   "Home Run 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Holy Cat",
+   "Rainbow 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Holy Cat",
+   "Cat's Meow 3",
+   3.2
+  ],
+  [
+   "walk",
+   "Holy Cat",
+   "Home Run 4",
+   6.4
+  ],
+  [
+   "walk",
+   "Cat's Meow 2",
+   "Lift 2 bottom",
+   3.8
+  ],
+  [
+   "walk",
+   "Cat's Meow 2",
+   "The Face",
+   4.6
+  ],
+  [
+   "walk",
+   "Cat's Meow 2",
+   "Busy Gully / Holy Cat",
+   4.0
+  ],
+  [
+   "walk",
+   "Cat's Meow 2",
+   "Home Run 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Cat's Meow 2",
+   "Rainbow 2",
+   5.1
+  ],
+  [
+   "walk",
+   "Cat's Meow 2",
+   "Cat's Meow 3",
+   3.6
+  ],
+  [
+   "walk",
+   "Cat's Meow 2",
+   "Home Run 4",
+   6.8
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Tempest 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Tempest 3",
+   2.3
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Roulette / South Turtle Creek",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed run / Fire Cut",
+   "Fail Safe Trees / Creek Trail 3",
+   3.8
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Unnamed run / Fire Cut",
+   2.0
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Tempest 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Tempest 3",
+   2.4
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Roulette / South Turtle Creek",
+   2.6
+  ],
+  [
+   "walk",
+   "Fire Cut / Drifter",
+   "Fail Safe Trees / Creek Trail 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Unnamed run / Fire Cut",
+   3.8
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Tempest 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Tempest 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Roulette / South Turtle Creek",
+   4.4
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail",
+   "Fail Safe Trees / Creek Trail 3",
+   5.7
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Unnamed run / Fire Cut",
+   3.9
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Tempest 2",
+   4.6
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Tempest 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Roulette / South Turtle Creek",
+   4.5
+  ],
+  [
+   "walk",
+   "Tempest",
+   "Fail Safe Trees / Creek Trail 3",
+   5.8
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Unnamed run / Fire Cut",
+   2.5
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Tempest 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Roulette / South Turtle Creek",
+   3.1
+  ],
+  [
+   "walk",
+   "Tempest 2",
+   "Fail Safe Trees / Creek Trail 3",
+   4.4
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Unnamed run / Fire Cut",
+   2.3
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Tempest 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Roulette / South Turtle Creek",
+   2.9
+  ],
+  [
+   "walk",
+   "Tempest 3",
+   "Fail Safe Trees / Creek Trail 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Unnamed run / Fire Cut",
+   2.4
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Tempest 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Tempest 3",
+   2.9
+  ],
+  [
+   "walk",
+   "Roulette / South Turtle Creek",
+   "Fail Safe Trees / Creek Trail 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Unnamed run / Fire Cut",
+   1.6
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Tempest 2",
+   2.3
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Tempest 3",
+   2.0
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Roulette / South Turtle Creek",
+   2.2
+  ],
+  [
+   "walk",
+   "Turtle Creek / South Turtle Creek",
+   "Fail Safe Trees / Creek Trail 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Unnamed run / Fire Cut",
+   3.8
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Tempest 2",
+   4.4
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Tempest 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 3",
+   "Roulette / South Turtle Creek",
+   4.3
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Unnamed run / Fire Cut",
+   3.9
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Fire Cut / Drifter",
+   4.0
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Fail Safe Trees / Creek Trail",
+   5.8
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Tempest 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Fail Safe Trees / Creek Trail 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Ptarmigan Lift bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Tempest 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Lift 6 bottom",
+   5.4
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Roulette / South Turtle Creek",
+   4.5
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Turtle Creek / South Turtle Creek",
+   3.7
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Fail Safe Trees / Creek Trail 3",
+   5.8
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Unnamed run / Turtle Creek",
+   6.8
+  ],
+  [
+   "walk",
+   "Forest Meadow",
+   "Tempest / Mambo",
+   6.5
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Unnamed run / Fire Cut",
+   3.0
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Tempest 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Tempest 3",
+   3.4
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Roulette / South Turtle Creek",
+   3.6
+  ],
+  [
+   "walk",
+   "Ptarmigan Lift bottom",
+   "Fail Safe Trees / Creek Trail 3",
+   4.9
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Unnamed run / Fire Cut",
+   3.7
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Tempest 2",
+   4.3
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Tempest 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Roulette / South Turtle Creek",
+   4.3
+  ],
+  [
+   "walk",
+   "Lift 6 bottom",
+   "Fail Safe Trees / Creek Trail 3",
+   5.6
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Unnamed run / Fire Cut",
+   4.8
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Tempest 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Tempest 3",
+   5.2
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Roulette / South Turtle Creek",
+   5.4
+  ],
+  [
+   "walk",
+   "Tempest / Mambo",
+   "Fail Safe Trees / Creek Trail 3",
+   6.7
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Unnamed run / Fire Cut",
+   4.2
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Tempest 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Tempest 3",
+   4.6
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Roulette / South Turtle Creek",
+   4.8
+  ],
+  [
+   "walk",
+   "Fail Safe Trees / Creek Trail 2",
+   "Fail Safe Trees / Creek Trail 3",
+   6.1
+  ]
+ ],
+ "base": "Lift 4 bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Colorado",
+  "total_lifts": "7",
+  "downhill_trails": "120",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": ""
+ }
+}

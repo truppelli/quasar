@@ -36,7 +36,7 @@ The quantum side is **QWOA**: QAOA whose mixer is a continuous-time quantum walk
 | Whistler Blackcomb (real) | 3,340 | can't enumerate | beam search only | — |
 
 - On synthetic resorts, the B&B tree grows by about 10^0.09 per extra lift or run. The budget sets the tree depth (budget ÷ shortest edge), so longer days also mean much bigger trees.
-- Real resorts are already past exact search. Across the 22 included resorts, a 2-hour plan takes at most 2.3 s. A full 8-hour day takes 6–22 s; Whistler is the slowest.
+- Real resorts are already past exact search. Across the 51 included resorts, a 2-hour plan takes at most 2.6 s on a laptop. A full 8-hour day takes 2–28 s; Stratton, with 845 walk links, is the slowest.
 - **Near-term (IonQ):** run QWOA on single lift pods with a few hundred routes. The feasible routes are indexed classically, which is fine for validating the algorithm but gives no quantum advantage.
 
 ## Lift pods (QWOA-sized instances)
@@ -165,7 +165,7 @@ Measured with a 90-minute budget (`python speedup.py`; the 39-edge row comes fro
 | 31 | 2.0 × 10⁷ | 21 | 1.9 × 10⁶ | 10.6× |
 | 39 | 8.5 × 10⁷ | 21 | 3.9 × 10⁶ | 21.8× |
 
-A step on an error-corrected machine is much slower than a classical step (`--overhead`, assumed to be 10⁴). Because of that, the quadratic speedup only shows up in wall-clock time once T > (overhead · n^1.5 · log n)² ≈ 1.8 × 10¹³ nodes. By extrapolating the five-size fit, that's a resort with roughly **100 lifts+runs** (99). All 22 real resorts (434–3,340 edges) are well past that size. The speedup is quadratic, not exponential, so the overhead matters a lot ([Babbush et al. 2021](https://arxiv.org/abs/2011.04149)).
+A step on an error-corrected machine is much slower than a classical step (`--overhead`, assumed to be 10⁴). Because of that, the quadratic speedup only shows up in wall-clock time once T > (overhead · n^1.5 · log n)² ≈ 1.8 × 10¹³ nodes. By extrapolating the five-size fit, that's a resort with roughly **100 lifts+runs** (99). All 51 real resorts (244–3,340 edges) are well past that size. The speedup is quadratic, not exponential, so the overhead matters a lot ([Babbush et al. 2021](https://arxiv.org/abs/2011.04149)).
 
 ## Run
 
@@ -200,12 +200,12 @@ python serve.py [port]    # then open http://localhost:8000/3d (or your port)
 
 **Plan my day:** set the time with the slider and press **Plan route**. The route is drawn as an orange line along the map's own runs and lifts, with a numbered step for each lift ride or trail and the step list in the side panel. Click a white lift-end dot to start there instead of the base (green), then click another to end there (red ring); the Start / End toggle picks which one a click sets, **= Start** ends the day where it began, and **Base** resets either. Your preferences shape the route: runs you 👎 and skill levels set to **Skip** are left out, and runs you 👍 and levels set to **Want** score 1.5× their vertical (`WANT_BONUS` in `quasar.py`), so the planner goes out of its way for them. The reported vertical is always the real one. Turn, tilt and orbit the view with the buttons under the zoom control, or right-drag. The link keeps the start, end and time, so a shared link replays the route.
 
-Pick a resort from the dropdown at the top of the side panel: all 20 are listed, grouped by state, so you can scroll through what's available. Each resort is shown in 3D: satellite imagery and hillshade over terrain, with runs colored by difficulty (European colors for European resorts, North American colors elsewhere) and lifts as dashed lines. Click a run to see its elevation profile, length, vertical drop, and average and steepest pitch (the steepest is per 25 m elevation sample, so treat it as approximate). Mark a run 👍 or 👎, rate each skill level (Skip, Maybe or Want), then **Send feedback** to append the choices to `feedback.jsonl`. **Copy link** shares the current view, the runs you voted on and your skill-level choices.
+Pick a resort from the dropdown at the top of the side panel: all 50 are listed, grouped by state, so you can scroll through what's available. Each resort is shown in 3D: satellite imagery and hillshade over terrain, with runs colored by difficulty (European colors for European resorts, North American colors elsewhere) and lifts as dashed lines. Click a run to see its elevation profile, length, vertical drop, and average and steepest pitch (the steepest is per 25 m elevation sample, so treat it as approximate). Mark a run 👍 or 👎, rate each skill level (Skip, Maybe or Want), then **Send feedback** to append the choices to `feedback.jsonl`. **Copy link** shares the current view, the runs you voted on and your skill-level choices.
 
-Twenty popular US resorts, picked by approximate skier visits, are already included in `resorts/geo/`. They are cut from the [OpenSkiData](https://openskimap.org) dump in `data/openskidata/`:
+Fifty popular US resorts across 15 states, picked by approximate skier visits (there are no official per-resort numbers), are already included in `resorts/geo/`. They are cut from the [OpenSkiData](https://openskimap.org) dump in `data/openskidata/`:
 
 ```sh
-python extract.py          # rebuild the 20 curated resorts (took 14 s on a laptop)
+python extract.py          # rebuild the 50 curated resorts (one pass over the dump)
 python extract.py --all    # every downhill ski area into data/geo/ (local only; served alongside the curated set)
 ```
 
@@ -232,10 +232,10 @@ Build a resort graph from them:
 ```sh
 python datasets.py "Crystal Mountain" --region Washington   # -> resorts/crystal-mountain-washington.json
 python datasets.py "Whistler Blackcomb"                     # -> resorts/whistler-blackcomb.json
-python datasets.py --top-us                                 # the 3D map's 20 resorts, same slugs (~2 min)
+python datasets.py --top-us                                 # the 3D map's 50 resorts, same slugs (a few minutes)
 ```
 
-The routing graphs cover 22 resorts: Crystal Mountain (WA), Whistler Blackcomb, and the 3D map's 20 US resorts. The 20 use the 3D map's slugs and OpenSkiMap ids (`extract.TOP_US`), so `resorts/vail.json` and `resorts/geo/vail.geojson` describe the same ski area.
+The routing graphs cover 51 resorts: the 3D map's 50 US resorts (Crystal Mountain, WA, among them) and Whistler Blackcomb. The 50 use the 3D map's slugs and OpenSkiMap ids (`extract.TOP_US`), so `resorts/vail.json` and `resorts/geo/vail.geojson` describe the same ski area.
 
 - **OpenSkiMap** provides the graph. Only lines that mention the ski area's id get parsed, so a 1 GB scan takes about 2 s.
   - Run and lift ends within 40 m are merged into one junction.
@@ -244,7 +244,7 @@ The routing graphs cover 22 resorts: Crystal Mountain (WA), Whistler Blackcomb, 
   - Lifts tagged two-way, and untagged gondolas, cable cars and funiculars, can be ridden down as well as up (village and transfer gondolas, trams). Chairs only go down when tagged.
   - Run times come from length at 4 m/s. Lift times come from duration or speed by lift type, plus 3 minutes of waiting.
   - These settings are calibration knobs at the top of `datasets.py`.
-  - Junctions that can't make a round trip from the base are dropped, and the build names the lifts that are lost this way. 12 of the 20 resorts keep every lift. Big Sky (5 lost) and Snowmass (4) have the largest gaps.
+  - Junctions that can't make a round trip from the base are dropped, and the build names the lifts that are lost this way. 12 of the first 20 resorts and 21 of the 29 added later keep every lift. Big Sky and Snowshoe (5 lost each) and Snowmass (4) have the largest gaps.
   - The default base is the lift bottom in the lowest quarter of the resort's elevation where the most runs finish. In the app, the skier picks their own start anyway.
 - **Global Ski Atlas** adds catalogue facts (`info`: lift and trail counts, website) and a lift-count cross-check. Its coverage is partial: Crystal Mountain WA isn't listed, and vertical drop is often missing.
 - **Known data issues:**

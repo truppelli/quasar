@@ -1,0 +1,4791 @@
+{
+ "name": "Arapahoe Basin",
+ "source": "OpenSkiMap ski area 1e281ff389476a82150ad7ef7be5f1ea48edd5e5",
+ "origin_lonlat": [
+  -105.87660275376442,
+  39.62990603863123
+ ],
+ "nodes": {
+  "Moose Hollow / Chisolm Trail": [
+   755,
+   1350,
+   3358.2
+  ],
+  "Moose Hollow / Wrangler": [
+   607,
+   1234,
+   3337.1
+  ],
+  "Chisolm Trail / Wrangler": [
+   772,
+   1247,
+   3372.7
+  ],
+  "Moose Hollow": [
+   668,
+   1249,
+   3345.6
+  ],
+  "Zuma Lift top": [
+   262,
+   -744,
+   3801.0
+  ],
+  "Gentling / Torreys": [
+   -447,
+   -1650,
+   3463.8
+  ],
+  "Dreamcatcher / Peaceful Valley": [
+   -708,
+   -693,
+   3640.2
+  ],
+  "Dreamcatcher / Last Waltz": [
+   -1165,
+   -596,
+   3461.6
+  ],
+  "Knolls / Cornice Run": [
+   -20,
+   -339,
+   3756.2
+  ],
+  "Knolls / Norway Mountain Run": [
+   229,
+   -94,
+   3633.2
+  ],
+  "Challenger / Radical": [
+   320,
+   514,
+   3582.1
+  ],
+  "Challenger": [
+   440,
+   627,
+   3504.1
+  ],
+  "International / Grizzly Road": [
+   224,
+   521,
+   3607.0
+  ],
+  "International / Pali Wog": [
+   193,
+   1243,
+   3290.6
+  ],
+  "Pali Main Street / East Woods": [
+   2,
+   284,
+   3687.6
+  ],
+  "Pali Main Street / Rock Garden": [
+   -73,
+   910,
+   3356.3
+  ],
+  "Loafer / Norway Mountain Run": [
+   27,
+   -508,
+   3789.8
+  ],
+  "Beavers bottom": [
+   -882,
+   92,
+   3342.2
+  ],
+  "Bailey Brothers / Davis": [
+   -320,
+   -250,
+   3617.5
+  ],
+  "Bailey Brothers / Davis 2": [
+   -777,
+   92,
+   3350.4
+  ],
+  "Gentling": [
+   -490,
+   -1399,
+   3520.7
+  ],
+  "Wrangler / Noth Fork": [
+   789,
+   1025,
+   3402.0
+  ],
+  "Wrangler / High Noon": [
+   490,
+   1245,
+   3316.4
+  ],
+  "Grays / Lightning Traverse": [
+   -7,
+   -1690,
+   3602.9
+  ],
+  "Gentling 2": [
+   -410,
+   -1614,
+   3475.7
+  ],
+  "Mountain Goat Alley": [
+   487,
+   188,
+   3555.2
+  ],
+  "Mountain Goat Alley / West Gullly": [
+   632,
+   330,
+   3514.7
+  ],
+  "South Chute": [
+   114,
+   227,
+   3663.8
+  ],
+  "South Chute / North Chute": [
+   246,
+   228,
+   3580.7
+  ],
+  "East Gully / Dragon": [
+   676,
+   -121,
+   3594.0
+  ],
+  "East Gully / Dragon 2": [
+   771,
+   224,
+   3505.0
+  ],
+  "Gentling 3": [
+   -529,
+   -1516,
+   3516.1
+  ],
+  "Black Mountain Express top": [
+   526,
+   447,
+   3520.6
+  ],
+  "Pika Place bottom": [
+   415,
+   1294,
+   3306.9
+  ],
+  "High Noon": [
+   531,
+   709,
+   3487.1
+  ],
+  "The Gulch / Ramrod": [
+   513,
+   1048,
+   3373.4
+  ],
+  "Loafer": [
+   -786,
+   -518,
+   3587.9
+  ],
+  "Jetta / Davis": [
+   -777,
+   -52,
+   3393.2
+  ],
+  "Ned's Cache / Shining Light": [
+   94,
+   -1000,
+   3690.8
+  ],
+  "Ned's Cache / Independence": [
+   -140,
+   -1140,
+   3605.9
+  ],
+  "Placer Junction / Shining Light": [
+   -70,
+   -1268,
+   3605.6
+  ],
+  "Placer Junction / Shining Light 2": [
+   -88,
+   -1460,
+   3556.5
+  ],
+  "Loafer 2": [
+   -252,
+   -655,
+   3743.0
+  ],
+  "Marmot / Davis": [
+   -428,
+   -286,
+   3568.5
+  ],
+  "Nose / Cornice Run": [
+   58,
+   190,
+   3688.7
+  ],
+  "Nose / Dercum's Gulch": [
+   320,
+   172,
+   3579.7
+  ],
+  "Molly Hogan Lift top": [
+   338,
+   1164,
+   3312.9
+  ],
+  "Molly's Magic Carpet bottom": [
+   255,
+   1261,
+   3295.7
+  ],
+  "Powerline / Norway Face": [
+   208,
+   -555,
+   3788.9
+  ],
+  "Powerline / Dercum's Gulch": [
+   352,
+   -240,
+   3664.1
+  ],
+  "My Chute / Standard": [
+   272,
+   607,
+   3571.6
+  ],
+  "International": [
+   231,
+   798,
+   3462.6
+  ],
+  "Pallavicini Lift top": [
+   56,
+   255,
+   3692.5
+  ],
+  "Cornice Run / Davis": [
+   61,
+   1,
+   3676.4
+  ],
+  "Loafer 3": [
+   -977,
+   -167,
+   3452.0
+  ],
+  "Drummond / Last Waltz": [
+   -1107,
+   -90,
+   3389.2
+  ],
+  "Northern Spy / Mountain Goat Traverse": [
+   391,
+   -955,
+   3773.9
+  ],
+  "Northern Spy / Cooper": [
+   151,
+   -1110,
+   3663.0
+  ],
+  "Shining Light / Cooper": [
+   160,
+   -937,
+   3714.7
+  ],
+  "Loafer 4": [
+   -961,
+   -71,
+   3412.2
+  ],
+  "Hauk / Last Waltz": [
+   -1035,
+   -3,
+   3373.5
+  ],
+  "Loafer 5": [
+   -622,
+   -602,
+   3641.3
+  ],
+  "Davis": [
+   -720,
+   -171,
+   3434.5
+  ],
+  "Zuma Lift bottom": [
+   -520,
+   -1702,
+   3461.8
+  ],
+  "Radical / Exhibition": [
+   458,
+   703,
+   3492.1
+  ],
+  "Independence / Cooper": [
+   -321,
+   -1551,
+   3495.7
+  ],
+  "North Chute": [
+   137,
+   276,
+   3649.8
+  ],
+  "Loafer 6": [
+   -919,
+   32,
+   3357.7
+  ],
+  "Slalom Slope / Grizzly Road": [
+   87,
+   347,
+   3667.2
+  ],
+  "Slalom Slope / Grizzly Road 2": [
+   384,
+   291,
+   3560.5
+  ],
+  "Dragon / Dercum's Gulch": [
+   452,
+   -352,
+   3694.3
+  ],
+  "Lenawee Express bottom": [
+   806,
+   378,
+   3490.1
+  ],
+  "Loafer 7": [
+   -165,
+   -624,
+   3750.8
+  ],
+  "Cornice Run": [
+   45,
+   75,
+   3681.9
+  ],
+  "Wildcat / Dercum's Gulch": [
+   280,
+   70,
+   3592.2
+  ],
+  "TB Glade / The Landing Strip": [
+   642,
+   425,
+   3507.6
+  ],
+  "TB Glade / Weasel Way": [
+   765,
+   621,
+   3473.1
+  ],
+  "Loafer 8": [
+   -718,
+   -558,
+   3607.2
+  ],
+  "Loafer 9": [
+   -952,
+   -312,
+   3505.4
+  ],
+  "Last Waltz": [
+   -1182,
+   -200,
+   3395.3
+  ],
+  "Roller Coaster / East Avenue": [
+   53,
+   490,
+   3586.5
+  ],
+  "Roller Coaster / Pali Wog": [
+   111,
+   1097,
+   3311.3
+  ],
+  "Lynx Lane / The Landing Strip": [
+   591,
+   435,
+   3513.1
+  ],
+  "Lynx Lane / Sundance": [
+   637,
+   650,
+   3489.9
+  ],
+  "Shining Light": [
+   -55,
+   -1224,
+   3612.5
+  ],
+  "Log Roll / Cooper": [
+   -235,
+   -1505,
+   3510.8
+  ],
+  "Roller Coaster": [
+   115,
+   1039,
+   3335.4
+  ],
+  "Long Chute": [
+   86,
+   -617,
+   3815.0
+  ],
+  "Gentling 4": [
+   -206,
+   -1067,
+   3591.2
+  ],
+  "Torreys / Lightning Traverse": [
+   -84,
+   -1792,
+   3596.9
+  ],
+  "Davis 2": [
+   -1,
+   -41,
+   3669.6
+  ],
+  "Bailey Brothers": [
+   -616,
+   83,
+   3380.3
+  ],
+  "Bierstadt / Lightning Traverse": [
+   -134,
+   -1883,
+   3591.1
+  ],
+  "Bierstadt / Lightning Traverse 2": [
+   -468,
+   -1751,
+   3460.7
+  ],
+  "Lazy J Tow bottom": [
+   209,
+   -615,
+   3797.6
+  ],
+  "Humbug / Lenawee Face": [
+   413,
+   -460,
+   3714.9
+  ],
+  "Lightning Traverse / Mountain Goat Traverse": [
+   31,
+   -1640,
+   3614.0
+  ],
+  "Tieze's Claim / Mountain Goat Traverse": [
+   305,
+   -1221,
+   3699.8
+  ],
+  "Shining Light 2": [
+   -43,
+   -1347,
+   3581.9
+  ],
+  "13 Cornices / Standard": [
+   312,
+   704,
+   3534.9
+  ],
+  "13 Cornices / Standard 2": [
+   353,
+   903,
+   3435.7
+  ],
+  "Face Shot Gully": [
+   -387,
+   76,
+   3465.9
+  ],
+  "Grizzly Road": [
+   331,
+   474,
+   3572.8
+  ],
+  "Skudder": [
+   458,
+   563,
+   3514.5
+  ],
+  "The Landing Strip": [
+   786,
+   764,
+   3444.9
+  ],
+  "King Cornice / Cornice Run": [
+   24,
+   -173,
+   3717.1
+  ],
+  "Last Waltz 2": [
+   -1187,
+   -499,
+   3434.5
+  ],
+  "High Noon 2": [
+   485,
+   668,
+   3494.3
+  ],
+  "Ramrod": [
+   456,
+   1116,
+   3344.8
+  ],
+  "Davis 3": [
+   -219,
+   -204,
+   3642.9
+  ],
+  "Face Shot Gully 2": [
+   -515,
+   80,
+   3413.8
+  ],
+  "Grizzly Road 2": [
+   188,
+   471,
+   3621.5
+  ],
+  "International 2": [
+   216,
+   1182,
+   3303.2
+  ],
+  "Humbug": [
+   255,
+   -639,
+   3790.1
+  ],
+  "Lenawee Face / Dercum's Gulch": [
+   436,
+   -401,
+   3702.9
+  ],
+  "Loafer 10": [
+   -872,
+   -466,
+   3564.2
+  ],
+  "Last Waltz 3": [
+   -1241,
+   -282,
+   3410.0
+  ],
+  "Loafer 11": [
+   -822,
+   -499,
+   3578.2
+  ],
+  "West Wall / Dercum's Gulch": [
+   241,
+   7,
+   3609.9
+  ],
+  "Black Bear": [
+   160,
+   -660,
+   3813.2
+  ],
+  "Long Chute 2": [
+   -99,
+   -882,
+   3646.7
+  ],
+  "Last Waltz 4": [
+   -1223,
+   -373,
+   3420.3
+  ],
+  "Beavers top": [
+   94,
+   -556,
+   3798.3
+  ],
+  "Dragon": [
+   597,
+   -134,
+   3623.7
+  ],
+  "Mountain Goat Traverse": [
+   234,
+   -1370,
+   3668.2
+  ],
+  "Norway Face": [
+   165,
+   -556,
+   3790.2
+  ],
+  "Dercum's Gulch": [
+   322,
+   -206,
+   3659.5
+  ],
+  "Loafer 12": [
+   -471,
+   -667,
+   3686.6
+  ],
+  "Davis 4": [
+   -527,
+   -267,
+   3531.5
+  ],
+  "High Noon 3": [
+   520,
+   542,
+   3513.2
+  ],
+  "The Spine": [
+   -85,
+   368,
+   3643.1
+  ],
+  "Pali Main Street": [
+   -46,
+   718,
+   3444.2
+  ],
+  "Peaceful Valley": [
+   -757,
+   -731,
+   3631.3
+  ],
+  "Peaceful Valley 2": [
+   -995,
+   -718,
+   3542.9
+  ],
+  "Wrangler": [
+   768,
+   1080,
+   3398.1
+  ],
+  "Wrangler 2": [
+   769,
+   1191,
+   3381.0
+  ],
+  "Pali Main Street 2": [
+   -18,
+   597,
+   3508.8
+  ],
+  "Molly's Magic Carpet top": [
+   278,
+   1216,
+   3300.1
+  ],
+  "Lazy J Tow top": [
+   210,
+   -712,
+   3802.5
+  ],
+  "Pallavicini Lift bottom": [
+   149,
+   1245,
+   3288.9
+  ],
+  "Black Mountain Express bottom": [
+   370,
+   1290,
+   3303.9
+  ]
+ },
+ "lifts": [
+  [
+   "Molly's Magic Carpet",
+   "Molly's Magic Carpet bottom",
+   "Molly's Magic Carpet top",
+   3.5
+  ],
+  [
+   "Lazy J Tow",
+   "Lazy J Tow bottom",
+   "Lazy J Tow top",
+   3.6
+  ],
+  [
+   "Zuma Lift",
+   "Zuma Lift bottom",
+   "Zuma Lift top",
+   12.1
+  ],
+  [
+   "Pallavicini Lift",
+   "Pallavicini Lift bottom",
+   "Pallavicini Lift top",
+   10.7
+  ],
+  [
+   "Beavers",
+   "Beavers bottom",
+   "Beavers top",
+   12.0
+  ],
+  [
+   "Black Mountain Express",
+   "Black Mountain Express bottom",
+   "Black Mountain Express top",
+   6.0
+  ],
+  [
+   "Molly Hogan Lift",
+   "Molly's Magic Carpet bottom",
+   "Molly Hogan Lift top",
+   3.9
+  ],
+  [
+   "Lenawee Express",
+   "Lenawee Express bottom",
+   "Lazy J Tow bottom",
+   7.1
+  ]
+ ],
+ "runs": [
+  [
+   "Moose Hollow",
+   "Moose Hollow / Chisolm Trail",
+   "Moose Hollow",
+   0.5
+  ],
+  [
+   "Moose Hollow",
+   "Moose Hollow",
+   "Moose Hollow / Wrangler",
+   0.5
+  ],
+  [
+   "Chisolm Trail",
+   "Chisolm Trail / Wrangler",
+   "Moose Hollow / Chisolm Trail",
+   0.5
+  ],
+  [
+   "Chisolm Trail",
+   "Moose Hollow / Chisolm Trail",
+   "Moose Hollow",
+   0.8
+  ],
+  [
+   "Gentling",
+   "Zuma Lift top",
+   "Lazy J Tow top",
+   0.5
+  ],
+  [
+   "Gentling",
+   "Lazy J Tow top",
+   "Gentling 4",
+   2.4
+  ],
+  [
+   "Gentling",
+   "Gentling 4",
+   "Gentling",
+   1.9
+  ],
+  [
+   "Gentling",
+   "Gentling",
+   "Gentling 3",
+   0.5
+  ],
+  [
+   "Gentling",
+   "Gentling 3",
+   "Gentling 2",
+   0.7
+  ],
+  [
+   "Gentling",
+   "Gentling 2",
+   "Gentling / Torreys",
+   0.5
+  ],
+  [
+   "Dreamcatcher",
+   "Dreamcatcher / Peaceful Valley",
+   "Dreamcatcher / Last Waltz",
+   2.0
+  ],
+  [
+   "Knolls",
+   "Knolls / Cornice Run",
+   "Knolls / Norway Mountain Run",
+   1.4
+  ],
+  [
+   "Challenger",
+   "Challenger / Radical",
+   "Challenger",
+   0.6
+  ],
+  [
+   "International",
+   "International / Grizzly Road",
+   "International",
+   1.4
+  ],
+  [
+   "International",
+   "International",
+   "International 2",
+   1.8
+  ],
+  [
+   "International",
+   "International 2",
+   "International / Pali Wog",
+   0.5
+  ],
+  [
+   "Pali Main Street",
+   "Pali Main Street / East Woods",
+   "Pali Main Street 2",
+   1.4
+  ],
+  [
+   "Pali Main Street",
+   "Pali Main Street 2",
+   "Pali Main Street",
+   0.6
+  ],
+  [
+   "Pali Main Street",
+   "Pali Main Street",
+   "Pali Main Street / Rock Garden",
+   0.9
+  ],
+  [
+   "Loafer",
+   "Loafer / Norway Mountain Run",
+   "Loafer 7",
+   0.9
+  ],
+  [
+   "Loafer",
+   "Loafer 7",
+   "Loafer 2",
+   0.5
+  ],
+  [
+   "Loafer",
+   "Loafer 2",
+   "Loafer 12",
+   1.2
+  ],
+  [
+   "Loafer",
+   "Loafer 12",
+   "Loafer 5",
+   0.7
+  ],
+  [
+   "Loafer",
+   "Loafer 5",
+   "Loafer 8",
+   0.5
+  ],
+  [
+   "Loafer",
+   "Loafer 8",
+   "Loafer",
+   0.5
+  ],
+  [
+   "Loafer",
+   "Loafer",
+   "Loafer 11",
+   0.5
+  ],
+  [
+   "Loafer",
+   "Loafer 11",
+   "Loafer 10",
+   0.5
+  ],
+  [
+   "Loafer",
+   "Loafer 10",
+   "Loafer 9",
+   0.8
+  ],
+  [
+   "Loafer",
+   "Loafer 9",
+   "Loafer 3",
+   0.6
+  ],
+  [
+   "Loafer",
+   "Loafer 3",
+   "Loafer 4",
+   0.5
+  ],
+  [
+   "Loafer",
+   "Loafer 4",
+   "Loafer 6",
+   0.5
+  ],
+  [
+   "Loafer",
+   "Loafer 6",
+   "Beavers bottom",
+   0.5
+  ],
+  [
+   "Bailey Brothers",
+   "Bailey Brothers / Davis",
+   "Bailey Brothers",
+   2.0
+  ],
+  [
+   "Bailey Brothers",
+   "Bailey Brothers",
+   "Bailey Brothers / Davis 2",
+   0.7
+  ],
+  [
+   "Wrangler",
+   "Wrangler / Noth Fork",
+   "Wrangler",
+   0.5
+  ],
+  [
+   "Wrangler",
+   "Wrangler",
+   "Wrangler 2",
+   0.5
+  ],
+  [
+   "Wrangler",
+   "Wrangler 2",
+   "Chisolm Trail / Wrangler",
+   0.5
+  ],
+  [
+   "Wrangler",
+   "Chisolm Trail / Wrangler",
+   "Moose Hollow",
+   0.5
+  ],
+  [
+   "Wrangler",
+   "Moose Hollow",
+   "Moose Hollow / Wrangler",
+   0.5
+  ],
+  [
+   "Wrangler",
+   "Moose Hollow / Wrangler",
+   "Wrangler / High Noon",
+   0.5
+  ],
+  [
+   "Grays",
+   "Grays / Lightning Traverse",
+   "Gentling 2",
+   1.7
+  ],
+  [
+   "Mountain Goat Alley",
+   "Mountain Goat Alley",
+   "Mountain Goat Alley / West Gullly",
+   0.7
+  ],
+  [
+   "South Chute",
+   "South Chute",
+   "South Chute / North Chute",
+   0.5
+  ],
+  [
+   "Norway Mountain Run",
+   "Loafer / Norway Mountain Run",
+   "Knolls / Norway Mountain Run",
+   2.1
+  ],
+  [
+   "East Gully",
+   "East Gully / Dragon",
+   "East Gully / Dragon 2",
+   1.7
+  ],
+  [
+   "Gentling",
+   "Gentling 3",
+   "Gentling 2",
+   0.6
+  ],
+  [
+   "High Noon",
+   "Black Mountain Express top",
+   "High Noon 3",
+   0.5
+  ],
+  [
+   "High Noon",
+   "High Noon 3",
+   "High Noon 2",
+   0.6
+  ],
+  [
+   "High Noon",
+   "High Noon 2",
+   "High Noon",
+   0.5
+  ],
+  [
+   "High Noon",
+   "High Noon",
+   "Wrangler / High Noon",
+   2.6
+  ],
+  [
+   "High Noon",
+   "Wrangler / High Noon",
+   "Pika Place bottom",
+   0.5
+  ],
+  [
+   "The Gulch",
+   "High Noon",
+   "The Gulch / Ramrod",
+   1.4
+  ],
+  [
+   "Jetta",
+   "Loafer",
+   "Loafer 11",
+   0.5
+  ],
+  [
+   "Jetta",
+   "Loafer 11",
+   "Jetta / Davis",
+   1.8
+  ],
+  [
+   "Noth Fork",
+   "Wrangler / Noth Fork",
+   "Wrangler",
+   0.5
+  ],
+  [
+   "Noth Fork",
+   "Wrangler",
+   "Moose Hollow",
+   0.8
+  ],
+  [
+   "Noth Fork",
+   "Moose Hollow",
+   "Moose Hollow / Wrangler",
+   0.5
+  ],
+  [
+   "Ned's Cache",
+   "Ned's Cache / Shining Light",
+   "Ned's Cache / Independence",
+   1.1
+  ],
+  [
+   "Placer Junction",
+   "Placer Junction / Shining Light",
+   "Placer Junction / Shining Light 2",
+   0.8
+  ],
+  [
+   "Marmot",
+   "Loafer 2",
+   "Marmot / Davis",
+   1.7
+  ],
+  [
+   "Nose",
+   "Nose / Cornice Run",
+   "Nose / Dercum's Gulch",
+   1.2
+  ],
+  [
+   "Molly Hogan",
+   "Molly Hogan Lift top",
+   "Molly's Magic Carpet top",
+   0.5
+  ],
+  [
+   "Molly Hogan",
+   "Molly's Magic Carpet top",
+   "Molly's Magic Carpet bottom",
+   0.5
+  ],
+  [
+   "Powerline",
+   "Powerline / Norway Face",
+   "Powerline / Dercum's Gulch",
+   1.4
+  ],
+  [
+   "My Chute",
+   "My Chute / Standard",
+   "International",
+   0.8
+  ],
+  [
+   "Cornice Run",
+   "Pallavicini Lift top",
+   "Nose / Cornice Run",
+   0.5
+  ],
+  [
+   "Cornice Run",
+   "Nose / Cornice Run",
+   "Cornice Run",
+   0.5
+  ],
+  [
+   "Cornice Run",
+   "Cornice Run",
+   "Cornice Run / Davis",
+   0.5
+  ],
+  [
+   "Drummond",
+   "Loafer 3",
+   "Drummond / Last Waltz",
+   0.5
+  ],
+  [
+   "Davis",
+   "Cornice Run / Davis",
+   "Davis 2",
+   0.5
+  ],
+  [
+   "Davis",
+   "Davis 2",
+   "Davis 3",
+   1.1
+  ],
+  [
+   "Davis",
+   "Davis 3",
+   "Bailey Brothers / Davis",
+   0.5
+  ],
+  [
+   "Davis",
+   "Bailey Brothers / Davis",
+   "Marmot / Davis",
+   0.5
+  ],
+  [
+   "Davis",
+   "Marmot / Davis",
+   "Davis 4",
+   0.5
+  ],
+  [
+   "Davis",
+   "Davis 4",
+   "Davis",
+   1.0
+  ],
+  [
+   "Davis",
+   "Davis",
+   "Jetta / Davis",
+   0.6
+  ],
+  [
+   "Davis",
+   "Jetta / Davis",
+   "Bailey Brothers / Davis 2",
+   0.7
+  ],
+  [
+   "Davis",
+   "Bailey Brothers / Davis 2",
+   "Beavers bottom",
+   0.5
+  ],
+  [
+   "Northern Spy",
+   "Northern Spy / Mountain Goat Traverse",
+   "Northern Spy / Cooper",
+   1.2
+  ],
+  [
+   "Shining Light",
+   "Shining Light / Cooper",
+   "Ned's Cache / Shining Light",
+   0.5
+  ],
+  [
+   "Shining Light",
+   "Ned's Cache / Shining Light",
+   "Shining Light",
+   1.2
+  ],
+  [
+   "Shining Light",
+   "Shining Light",
+   "Placer Junction / Shining Light",
+   0.5
+  ],
+  [
+   "Shining Light",
+   "Placer Junction / Shining Light",
+   "Shining Light 2",
+   0.5
+  ],
+  [
+   "Shining Light",
+   "Shining Light 2",
+   "Placer Junction / Shining Light 2",
+   0.5
+  ],
+  [
+   "Hauk",
+   "Loafer 4",
+   "Hauk / Last Waltz",
+   0.5
+  ],
+  [
+   "Digger",
+   "Loafer 5",
+   "Davis",
+   1.9
+  ],
+  [
+   "Ramrod",
+   "High Noon",
+   "The Gulch / Ramrod",
+   1.5
+  ],
+  [
+   "Ramrod",
+   "The Gulch / Ramrod",
+   "Ramrod",
+   0.5
+  ],
+  [
+   "Ramrod",
+   "Ramrod",
+   "Pika Place bottom",
+   0.8
+  ],
+  [
+   "Radical",
+   "Challenger / Radical",
+   "Radical / Exhibition",
+   1.0
+  ],
+  [
+   "Independence",
+   "Ned's Cache / Independence",
+   "Independence / Cooper",
+   1.8
+  ],
+  [
+   "North Chute",
+   "North Chute",
+   "South Chute / North Chute",
+   0.5
+  ],
+  [
+   "Last Waltz",
+   "Dreamcatcher / Last Waltz",
+   "Last Waltz 2",
+   0.5
+  ],
+  [
+   "Last Waltz",
+   "Last Waltz 2",
+   "Last Waltz 4",
+   0.5
+  ],
+  [
+   "Last Waltz",
+   "Last Waltz 4",
+   "Last Waltz 3",
+   0.5
+  ],
+  [
+   "Last Waltz",
+   "Last Waltz 3",
+   "Last Waltz",
+   0.5
+  ],
+  [
+   "Last Waltz",
+   "Last Waltz",
+   "Drummond / Last Waltz",
+   0.6
+  ],
+  [
+   "Last Waltz",
+   "Drummond / Last Waltz",
+   "Hauk / Last Waltz",
+   0.5
+  ],
+  [
+   "Last Waltz",
+   "Hauk / Last Waltz",
+   "Loafer 6",
+   0.5
+  ],
+  [
+   "Slalom Slope",
+   "Slalom Slope / Grizzly Road",
+   "Slalom Slope / Grizzly Road 2",
+   1.2
+  ],
+  [
+   "Dragon",
+   "Dragon / Dercum's Gulch",
+   "Dragon",
+   1.0
+  ],
+  [
+   "Dragon",
+   "Dragon",
+   "East Gully / Dragon",
+   0.5
+  ],
+  [
+   "Dragon",
+   "East Gully / Dragon",
+   "East Gully / Dragon 2",
+   1.6
+  ],
+  [
+   "Dragon",
+   "East Gully / Dragon 2",
+   "Lenawee Express bottom",
+   0.6
+  ],
+  [
+   "Ptarmigan",
+   "Loafer 7",
+   "Bailey Brothers / Davis",
+   1.7
+  ],
+  [
+   "Wildcat",
+   "Cornice Run",
+   "Wildcat / Dercum's Gulch",
+   0.9
+  ],
+  [
+   "TB Glade",
+   "TB Glade / The Landing Strip",
+   "TB Glade / Weasel Way",
+   0.9
+  ],
+  [
+   "Alex",
+   "Loafer 8",
+   "Davis",
+   1.7
+  ],
+  [
+   "Pioneer Willy",
+   "Loafer 9",
+   "Last Waltz",
+   1.0
+  ],
+  [
+   "Roller Coaster",
+   "Roller Coaster / East Avenue",
+   "Roller Coaster",
+   2.4
+  ],
+  [
+   "Roller Coaster",
+   "Roller Coaster",
+   "Roller Coaster / Pali Wog",
+   0.5
+  ],
+  [
+   "Lynx Lane",
+   "Lynx Lane / The Landing Strip",
+   "Lynx Lane / Sundance",
+   0.8
+  ],
+  [
+   "Log Roll",
+   "Shining Light",
+   "Placer Junction / Shining Light",
+   0.5
+  ],
+  [
+   "Log Roll",
+   "Placer Junction / Shining Light",
+   "Shining Light",
+   0.5
+  ],
+  [
+   "Log Roll",
+   "Shining Light",
+   "Log Roll / Cooper",
+   1.4
+  ],
+  [
+   "Bear Trap",
+   "International",
+   "Roller Coaster",
+   1.1
+  ],
+  [
+   "Long Chute",
+   "Long Chute",
+   "Long Chute 2",
+   1.4
+  ],
+  [
+   "Long Chute",
+   "Long Chute 2",
+   "Gentling 4",
+   1.0
+  ],
+  [
+   "Torreys",
+   "Torreys / Lightning Traverse",
+   "Gentling / Torreys",
+   1.6
+  ],
+  [
+   "Face Shot Gully",
+   "Davis 2",
+   "Face Shot Gully",
+   1.8
+  ],
+  [
+   "Face Shot Gully",
+   "Face Shot Gully",
+   "Face Shot Gully 2",
+   0.6
+  ],
+  [
+   "Face Shot Gully",
+   "Face Shot Gully 2",
+   "Bailey Brothers",
+   0.5
+  ],
+  [
+   "Bierstadt",
+   "Bierstadt / Lightning Traverse",
+   "Bierstadt / Lightning Traverse 2",
+   1.5
+  ],
+  [
+   "Grizzly Road",
+   "Pallavicini Lift top",
+   "Slalom Slope / Grizzly Road",
+   0.5
+  ],
+  [
+   "Grizzly Road",
+   "Slalom Slope / Grizzly Road",
+   "Grizzly Road 2",
+   0.7
+  ],
+  [
+   "Grizzly Road",
+   "Grizzly Road 2",
+   "International / Grizzly Road",
+   0.5
+  ],
+  [
+   "Grizzly Road",
+   "International / Grizzly Road",
+   "Challenger / Radical",
+   0.5
+  ],
+  [
+   "Grizzly Road",
+   "Challenger / Radical",
+   "Grizzly Road",
+   0.5
+  ],
+  [
+   "Grizzly Road",
+   "Grizzly Road",
+   "Slalom Slope / Grizzly Road 2",
+   0.7
+  ],
+  [
+   "Cooper",
+   "Zuma Lift top",
+   "Shining Light / Cooper",
+   0.8
+  ],
+  [
+   "Cooper",
+   "Shining Light / Cooper",
+   "Northern Spy / Cooper",
+   0.8
+  ],
+  [
+   "Cooper",
+   "Northern Spy / Cooper",
+   "Shining Light 2",
+   1.3
+  ],
+  [
+   "Cooper",
+   "Shining Light 2",
+   "Placer Junction / Shining Light 2",
+   0.5
+  ],
+  [
+   "Cooper",
+   "Placer Junction / Shining Light 2",
+   "Log Roll / Cooper",
+   0.9
+  ],
+  [
+   "Cooper",
+   "Log Roll / Cooper",
+   "Independence / Cooper",
+   0.5
+  ],
+  [
+   "Cooper",
+   "Independence / Cooper",
+   "Gentling 2",
+   0.5
+  ],
+  [
+   "Cooper",
+   "Gentling 2",
+   "Gentling / Torreys",
+   0.5
+  ],
+  [
+   "Cooper",
+   "Gentling / Torreys",
+   "Zuma Lift bottom",
+   0.5
+  ],
+  [
+   "The Landing Strip",
+   "Black Mountain Express top",
+   "Lynx Lane / The Landing Strip",
+   0.5
+  ],
+  [
+   "The Landing Strip",
+   "Lynx Lane / The Landing Strip",
+   "TB Glade / The Landing Strip",
+   0.5
+  ],
+  [
+   "The Landing Strip",
+   "TB Glade / The Landing Strip",
+   "Lenawee Express bottom",
+   0.7
+  ],
+  [
+   "The Landing Strip",
+   "Lenawee Express bottom",
+   "The Landing Strip",
+   1.7
+  ],
+  [
+   "The Landing Strip",
+   "The Landing Strip",
+   "Wrangler / Noth Fork",
+   1.1
+  ],
+  [
+   "Humbug",
+   "Lazy J Tow bottom",
+   "Humbug",
+   0.5
+  ],
+  [
+   "Humbug",
+   "Humbug",
+   "Humbug / Lenawee Face",
+   1.3
+  ],
+  [
+   "Lightning Traverse",
+   "Lightning Traverse / Mountain Goat Traverse",
+   "Grays / Lightning Traverse",
+   0.5
+  ],
+  [
+   "Lightning Traverse",
+   "Grays / Lightning Traverse",
+   "Torreys / Lightning Traverse",
+   0.5
+  ],
+  [
+   "Lightning Traverse",
+   "Torreys / Lightning Traverse",
+   "Bierstadt / Lightning Traverse",
+   0.5
+  ],
+  [
+   "Lightning Traverse",
+   "Bierstadt / Lightning Traverse",
+   "Bierstadt / Lightning Traverse 2",
+   3.3
+  ],
+  [
+   "Lightning Traverse",
+   "Bierstadt / Lightning Traverse 2",
+   "Gentling / Torreys",
+   0.5
+  ],
+  [
+   "Tieze's Claim",
+   "Tieze's Claim / Mountain Goat Traverse",
+   "Shining Light 2",
+   1.6
+  ],
+  [
+   "13 Cornices",
+   "13 Cornices / Standard",
+   "13 Cornices / Standard 2",
+   0.8
+  ],
+  [
+   "East Woods",
+   "Pali Main Street / East Woods",
+   "Face Shot Gully",
+   1.9
+  ],
+  [
+   "Skudder",
+   "Grizzly Road",
+   "Skudder",
+   0.6
+  ],
+  [
+   "Peaceful Valley",
+   "Loafer 5",
+   "Dreamcatcher / Peaceful Valley",
+   0.5
+  ],
+  [
+   "Peaceful Valley",
+   "Dreamcatcher / Peaceful Valley",
+   "Peaceful Valley",
+   0.5
+  ],
+  [
+   "Peaceful Valley",
+   "Peaceful Valley",
+   "Peaceful Valley 2",
+   1.2
+  ],
+  [
+   "Peaceful Valley",
+   "Peaceful Valley 2",
+   "Dreamcatcher / Last Waltz",
+   0.9
+  ],
+  [
+   "Weasel Way",
+   "Lenawee Express bottom",
+   "TB Glade / Weasel Way",
+   0.9
+  ],
+  [
+   "Weasel Way",
+   "TB Glade / Weasel Way",
+   "The Landing Strip",
+   0.5
+  ],
+  [
+   "King Cornice",
+   "King Cornice / Cornice Run",
+   "Knolls / Norway Mountain Run",
+   1.0
+  ],
+  [
+   "Bighorn",
+   "Dreamcatcher / Peaceful Valley",
+   "Last Waltz 2",
+   2.2
+  ],
+  [
+   "Exhibition",
+   "High Noon 2",
+   "Radical / Exhibition",
+   0.5
+  ],
+  [
+   "Exhibition",
+   "Radical / Exhibition",
+   "Ramrod",
+   1.8
+  ],
+  [
+   "Thick & Thin",
+   "Davis 3",
+   "Face Shot Gully 2",
+   1.8
+  ],
+  [
+   "Standard",
+   "Grizzly Road 2",
+   "International / Grizzly Road",
+   0.5
+  ],
+  [
+   "Standard",
+   "International / Grizzly Road",
+   "My Chute / Standard",
+   0.5
+  ],
+  [
+   "Standard",
+   "My Chute / Standard",
+   "13 Cornices / Standard",
+   0.5
+  ],
+  [
+   "Standard",
+   "13 Cornices / Standard",
+   "13 Cornices / Standard 2",
+   1.0
+  ],
+  [
+   "Standard",
+   "13 Cornices / Standard 2",
+   "International 2",
+   1.5
+  ],
+  [
+   "Lenawee Face",
+   "Humbug",
+   "Humbug / Lenawee Face",
+   1.1
+  ],
+  [
+   "Lenawee Face",
+   "Humbug / Lenawee Face",
+   "Lenawee Face / Dercum's Gulch",
+   0.5
+  ],
+  [
+   "Glockenspiel Glade",
+   "Loafer 10",
+   "Last Waltz 3",
+   1.7
+  ],
+  [
+   "No Name",
+   "My Chute / Standard",
+   "Radical / Exhibition",
+   0.7
+  ],
+  [
+   "Jaeger",
+   "Loafer 11",
+   "Loafer 10",
+   0.5
+  ],
+  [
+   "Jaeger",
+   "Loafer 10",
+   "Beavers bottom",
+   2.4
+  ],
+  [
+   "West Wall",
+   "Cornice Run / Davis",
+   "West Wall / Dercum's Gulch",
+   0.7
+  ],
+  [
+   "Black Bear",
+   "Black Bear",
+   "Long Chute 2",
+   1.5
+  ],
+  [
+   "Todd's Ridge",
+   "Loafer 5",
+   "Loafer 8",
+   0.5
+  ],
+  [
+   "Todd's Ridge",
+   "Loafer 8",
+   "Loafer",
+   0.5
+  ],
+  [
+   "Todd's Ridge",
+   "Loafer",
+   "Last Waltz 4",
+   2.0
+  ],
+  [
+   "Porcupine",
+   "Bailey Brothers / Davis",
+   "Beavers bottom",
+   2.8
+  ],
+  [
+   "Mountain Goat Traverse",
+   "Zuma Lift top",
+   "Northern Spy / Mountain Goat Traverse",
+   0.8
+  ],
+  [
+   "Mountain Goat Traverse",
+   "Northern Spy / Mountain Goat Traverse",
+   "Tieze's Claim / Mountain Goat Traverse",
+   1.2
+  ],
+  [
+   "Mountain Goat Traverse",
+   "Tieze's Claim / Mountain Goat Traverse",
+   "Mountain Goat Traverse",
+   0.7
+  ],
+  [
+   "Mountain Goat Traverse",
+   "Mountain Goat Traverse",
+   "Lightning Traverse / Mountain Goat Traverse",
+   1.5
+  ],
+  [
+   "Dercum's Gulch",
+   "Humbug / Lenawee Face",
+   "Lenawee Face / Dercum's Gulch",
+   0.5
+  ],
+  [
+   "Dercum's Gulch",
+   "Lenawee Face / Dercum's Gulch",
+   "Dragon / Dercum's Gulch",
+   0.5
+  ],
+  [
+   "Dercum's Gulch",
+   "Dragon / Dercum's Gulch",
+   "Powerline / Dercum's Gulch",
+   0.6
+  ],
+  [
+   "Dercum's Gulch",
+   "Powerline / Dercum's Gulch",
+   "Dercum's Gulch",
+   0.5
+  ],
+  [
+   "Dercum's Gulch",
+   "Dercum's Gulch",
+   "Knolls / Norway Mountain Run",
+   0.5
+  ],
+  [
+   "Dercum's Gulch",
+   "Knolls / Norway Mountain Run",
+   "West Wall / Dercum's Gulch",
+   0.5
+  ],
+  [
+   "Dercum's Gulch",
+   "West Wall / Dercum's Gulch",
+   "Wildcat / Dercum's Gulch",
+   0.5
+  ],
+  [
+   "Dercum's Gulch",
+   "Wildcat / Dercum's Gulch",
+   "Nose / Dercum's Gulch",
+   0.5
+  ],
+  [
+   "Dercum's Gulch",
+   "Nose / Dercum's Gulch",
+   "Slalom Slope / Grizzly Road 2",
+   0.6
+  ],
+  [
+   "Dercum's Gulch",
+   "Slalom Slope / Grizzly Road 2",
+   "Black Mountain Express top",
+   1.1
+  ],
+  [
+   "Cornice Run",
+   "Beavers top",
+   "Loafer / Norway Mountain Run",
+   0.5
+  ],
+  [
+   "Cornice Run",
+   "Loafer / Norway Mountain Run",
+   "Knolls / Cornice Run",
+   0.8
+  ],
+  [
+   "Cornice Run",
+   "Knolls / Cornice Run",
+   "King Cornice / Cornice Run",
+   0.7
+  ],
+  [
+   "Cornice Run",
+   "King Cornice / Cornice Run",
+   "Cornice Run / Davis",
+   0.8
+  ],
+  [
+   "West Gullly",
+   "Dragon",
+   "Mountain Goat Alley / West Gullly",
+   1.9
+  ],
+  [
+   "West Gullly",
+   "Mountain Goat Alley / West Gullly",
+   "TB Glade / The Landing Strip",
+   0.5
+  ],
+  [
+   "Elk Meadows",
+   "Mountain Goat Traverse",
+   "Placer Junction / Shining Light 2",
+   1.4
+  ],
+  [
+   "Norway Face",
+   "Norway Face",
+   "Powerline / Norway Face",
+   0.5
+  ],
+  [
+   "Norway Face",
+   "Powerline / Norway Face",
+   "Powerline / Dercum's Gulch",
+   1.5
+  ],
+  [
+   "Norway Face",
+   "Powerline / Dercum's Gulch",
+   "Dercum's Gulch",
+   0.5
+  ],
+  [
+   "Beaver Bowl",
+   "Loafer 12",
+   "Davis 4",
+   1.7
+  ],
+  [
+   "Pali Wog",
+   "Pali Main Street / Rock Garden",
+   "Roller Coaster / Pali Wog",
+   1.1
+  ],
+  [
+   "Pali Wog",
+   "Roller Coaster / Pali Wog",
+   "International / Pali Wog",
+   0.7
+  ],
+  [
+   "Sundance",
+   "High Noon 3",
+   "Lynx Lane / Sundance",
+   0.5
+  ],
+  [
+   "Sundance",
+   "Lynx Lane / Sundance",
+   "Wrangler / High Noon",
+   3.2
+  ],
+  [
+   "Sundance",
+   "Wrangler / High Noon",
+   "Pika Place bottom",
+   0.5
+  ],
+  [
+   "The Spine",
+   "The Spine",
+   "Pali Main Street",
+   1.6
+  ],
+  [
+   "Tinker Toy",
+   "Peaceful Valley",
+   "Peaceful Valley 2",
+   0.9
+  ],
+  [
+   "Chisolm Trail",
+   "Wrangler",
+   "Wrangler 2",
+   0.5
+  ],
+  [
+   "East Avenue",
+   "Pali Main Street / East Woods",
+   "Roller Coaster / East Avenue",
+   0.8
+  ],
+  [
+   "East Avenue",
+   "Roller Coaster / East Avenue",
+   "Pali Main Street 2",
+   0.6
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Moose Hollow / Wrangler",
+   "Pika Place bottom",
+   2.8
+  ],
+  [
+   "walk",
+   "Moose Hollow / Wrangler",
+   "Black Mountain Express bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Zuma Lift top",
+   "Powerline / Norway Face",
+   2.7
+  ],
+  [
+   "walk",
+   "Zuma Lift top",
+   "Northern Spy / Mountain Goat Traverse",
+   3.4
+  ],
+  [
+   "walk",
+   "Zuma Lift top",
+   "Shining Light / Cooper",
+   3.0
+  ],
+  [
+   "walk",
+   "Zuma Lift top",
+   "Long Chute",
+   3.0
+  ],
+  [
+   "walk",
+   "Zuma Lift top",
+   "Lazy J Tow bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Zuma Lift top",
+   "Humbug",
+   1.5
+  ],
+  [
+   "walk",
+   "Zuma Lift top",
+   "Black Bear",
+   1.8
+  ],
+  [
+   "walk",
+   "Zuma Lift top",
+   "Norway Face",
+   2.9
+  ],
+  [
+   "walk",
+   "Zuma Lift top",
+   "Lazy J Tow top",
+   0.8
+  ],
+  [
+   "walk",
+   "Gentling / Torreys",
+   "Zuma Lift bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "Challenger / Radical",
+   "Black Mountain Express top",
+   3.0
+  ],
+  [
+   "walk",
+   "Challenger",
+   "High Noon",
+   1.7
+  ],
+  [
+   "walk",
+   "Challenger",
+   "Radical / Exhibition",
+   1.1
+  ],
+  [
+   "walk",
+   "Challenger",
+   "Lynx Lane / The Landing Strip",
+   3.4
+  ],
+  [
+   "walk",
+   "Challenger",
+   "Lynx Lane / Sundance",
+   2.8
+  ],
+  [
+   "walk",
+   "Challenger",
+   "Skudder",
+   0.9
+  ],
+  [
+   "walk",
+   "Challenger",
+   "High Noon 2",
+   0.8
+  ],
+  [
+   "walk",
+   "Challenger",
+   "High Noon 3",
+   1.6
+  ],
+  [
+   "walk",
+   "International / Pali Wog",
+   "Molly's Magic Carpet bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "International / Pali Wog",
+   "International 2",
+   0.9
+  ],
+  [
+   "walk",
+   "International / Pali Wog",
+   "Molly's Magic Carpet top",
+   1.2
+  ],
+  [
+   "walk",
+   "International / Pali Wog",
+   "Pallavicini Lift bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "International / Pali Wog",
+   "Black Mountain Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "Pallavicini Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Loafer / Norway Mountain Run",
+   "Lazy J Tow bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Loafer / Norway Mountain Run",
+   "Beavers top",
+   1.1
+  ],
+  [
+   "walk",
+   "Beavers bottom",
+   "Bailey Brothers / Davis 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Bailey Brothers / Davis 2",
+   "Beavers bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Wrangler / High Noon",
+   "Pika Place bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Wrangler / High Noon",
+   "Molly Hogan Lift top",
+   2.4
+  ],
+  [
+   "walk",
+   "Wrangler / High Noon",
+   "Molly's Magic Carpet bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Wrangler / High Noon",
+   "Molly's Magic Carpet top",
+   3.0
+  ],
+  [
+   "walk",
+   "Wrangler / High Noon",
+   "Black Mountain Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Gentling 2",
+   "Zuma Lift bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "Black Mountain Express top",
+   2.2
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "Lenawee Express bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "South Chute / North Chute",
+   "Mountain Goat Alley",
+   3.4
+  ],
+  [
+   "walk",
+   "South Chute / North Chute",
+   "Nose / Dercum's Gulch",
+   1.3
+  ],
+  [
+   "walk",
+   "South Chute / North Chute",
+   "Slalom Slope / Grizzly Road 2",
+   2.1
+  ],
+  [
+   "walk",
+   "South Chute / North Chute",
+   "Wildcat / Dercum's Gulch",
+   2.2
+  ],
+  [
+   "walk",
+   "East Gully / Dragon 2",
+   "Lenawee Express bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Gentling 3",
+   "Zuma Lift bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Black Mountain Express top",
+   "Challenger",
+   2.8
+  ],
+  [
+   "walk",
+   "Black Mountain Express top",
+   "Mountain Goat Alley / West Gullly",
+   2.2
+  ],
+  [
+   "walk",
+   "Black Mountain Express top",
+   "TB Glade / The Landing Strip",
+   1.6
+  ],
+  [
+   "walk",
+   "Black Mountain Express top",
+   "Lynx Lane / The Landing Strip",
+   0.9
+  ],
+  [
+   "walk",
+   "Black Mountain Express top",
+   "Lynx Lane / Sundance",
+   3.2
+  ],
+  [
+   "walk",
+   "Black Mountain Express top",
+   "Skudder",
+   1.9
+  ],
+  [
+   "walk",
+   "Black Mountain Express top",
+   "High Noon 2",
+   3.1
+  ],
+  [
+   "walk",
+   "Black Mountain Express top",
+   "High Noon 3",
+   1.3
+  ],
+  [
+   "walk",
+   "Pika Place bottom",
+   "International / Pali Wog",
+   3.2
+  ],
+  [
+   "walk",
+   "Pika Place bottom",
+   "Wrangler / High Noon",
+   1.3
+  ],
+  [
+   "walk",
+   "Pika Place bottom",
+   "Molly Hogan Lift top",
+   2.1
+  ],
+  [
+   "walk",
+   "Pika Place bottom",
+   "Molly's Magic Carpet bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Pika Place bottom",
+   "International 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Pika Place bottom",
+   "Molly's Magic Carpet top",
+   2.2
+  ],
+  [
+   "walk",
+   "Pika Place bottom",
+   "Black Mountain Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "The Gulch / Ramrod",
+   "Molly Hogan Lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Jetta / Davis",
+   "Beavers bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Nose / Cornice Run",
+   "Pallavicini Lift top",
+   0.9
+  ],
+  [
+   "walk",
+   "Molly Hogan Lift top",
+   "International / Pali Wog",
+   2.3
+  ],
+  [
+   "walk",
+   "Molly Hogan Lift top",
+   "Wrangler / High Noon",
+   2.4
+  ],
+  [
+   "walk",
+   "Molly Hogan Lift top",
+   "Pika Place bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Molly Hogan Lift top",
+   "Molly's Magic Carpet bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Molly Hogan Lift top",
+   "Roller Coaster / Pali Wog",
+   3.3
+  ],
+  [
+   "walk",
+   "Molly Hogan Lift top",
+   "International 2",
+   1.7
+  ],
+  [
+   "walk",
+   "Molly Hogan Lift top",
+   "Molly's Magic Carpet top",
+   1.1
+  ],
+  [
+   "walk",
+   "Molly Hogan Lift top",
+   "Pallavicini Lift bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Molly Hogan Lift top",
+   "Black Mountain Express bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet bottom",
+   "International / Pali Wog",
+   0.9
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet bottom",
+   "Pika Place bottom",
+   2.3
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet bottom",
+   "International 2",
+   1.2
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet bottom",
+   "Molly's Magic Carpet top",
+   0.7
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet bottom",
+   "Pallavicini Lift bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet bottom",
+   "Black Mountain Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Powerline / Norway Face",
+   "Zuma Lift top",
+   2.7
+  ],
+  [
+   "walk",
+   "Powerline / Norway Face",
+   "Lazy J Tow bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Powerline / Norway Face",
+   "Beavers top",
+   1.6
+  ],
+  [
+   "walk",
+   "Powerline / Norway Face",
+   "Lazy J Tow top",
+   2.2
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "Pali Main Street / East Woods",
+   0.9
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "South Chute",
+   0.9
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "South Chute / North Chute",
+   2.7
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "Nose / Cornice Run",
+   0.9
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "North Chute",
+   1.2
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "Slalom Slope / Grizzly Road",
+   1.3
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "Cornice Run",
+   2.5
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "Roller Coaster / East Avenue",
+   3.3
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "The Spine",
+   2.5
+  ],
+  [
+   "walk",
+   "Loafer 4",
+   "Beavers bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Hauk / Last Waltz",
+   "Beavers bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Zuma Lift bottom",
+   "Gentling / Torreys",
+   1.2
+  ],
+  [
+   "walk",
+   "Zuma Lift bottom",
+   "Gentling 2",
+   2.0
+  ],
+  [
+   "walk",
+   "Zuma Lift bottom",
+   "Bierstadt / Lightning Traverse 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Independence / Cooper",
+   "Zuma Lift bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Loafer 6",
+   "Beavers bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Slalom Slope / Grizzly Road 2",
+   "Black Mountain Express top",
+   2.9
+  ],
+  [
+   "walk",
+   "Lenawee Express bottom",
+   "East Gully / Dragon 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Lenawee Express bottom",
+   "TB Glade / Weasel Way",
+   3.4
+  ],
+  [
+   "walk",
+   "Cornice Run",
+   "Pallavicini Lift top",
+   2.5
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "Black Mountain Express top",
+   1.6
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "Lenawee Express bottom",
+   2.4
+  ],
+  [
+   "walk",
+   "Roller Coaster / Pali Wog",
+   "Molly Hogan Lift top",
+   3.3
+  ],
+  [
+   "walk",
+   "Roller Coaster / Pali Wog",
+   "Molly's Magic Carpet bottom",
+   3.0
+  ],
+  [
+   "walk",
+   "Roller Coaster / Pali Wog",
+   "Molly's Magic Carpet top",
+   2.8
+  ],
+  [
+   "walk",
+   "Roller Coaster / Pali Wog",
+   "Pallavicini Lift bottom",
+   2.1
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "Black Mountain Express top",
+   0.9
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "Lenawee Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Molly's Magic Carpet top",
+   3.3
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Pallavicini Lift bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Long Chute",
+   "Zuma Lift top",
+   3.0
+  ],
+  [
+   "walk",
+   "Long Chute",
+   "Lazy J Tow bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Long Chute",
+   "Beavers top",
+   0.9
+  ],
+  [
+   "walk",
+   "Long Chute",
+   "Lazy J Tow top",
+   2.2
+  ],
+  [
+   "walk",
+   "Bierstadt / Lightning Traverse 2",
+   "Zuma Lift bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Lazy J Tow bottom",
+   "Zuma Lift top",
+   1.9
+  ],
+  [
+   "walk",
+   "Lazy J Tow bottom",
+   "Loafer / Norway Mountain Run",
+   2.9
+  ],
+  [
+   "walk",
+   "Lazy J Tow bottom",
+   "Powerline / Norway Face",
+   0.8
+  ],
+  [
+   "walk",
+   "Lazy J Tow bottom",
+   "Humbug",
+   0.7
+  ],
+  [
+   "walk",
+   "Lazy J Tow bottom",
+   "Beavers top",
+   1.8
+  ],
+  [
+   "walk",
+   "Lazy J Tow bottom",
+   "Norway Face",
+   1.0
+  ],
+  [
+   "walk",
+   "Lazy J Tow bottom",
+   "Lazy J Tow top",
+   1.4
+  ],
+  [
+   "walk",
+   "Grizzly Road",
+   "Black Mountain Express top",
+   2.7
+  ],
+  [
+   "walk",
+   "Skudder",
+   "Challenger",
+   0.9
+  ],
+  [
+   "walk",
+   "Skudder",
+   "Black Mountain Express top",
+   1.9
+  ],
+  [
+   "walk",
+   "Skudder",
+   "High Noon",
+   2.3
+  ],
+  [
+   "walk",
+   "Skudder",
+   "Radical / Exhibition",
+   2.0
+  ],
+  [
+   "walk",
+   "Skudder",
+   "TB Glade / The Landing Strip",
+   3.2
+  ],
+  [
+   "walk",
+   "Skudder",
+   "Lynx Lane / The Landing Strip",
+   2.6
+  ],
+  [
+   "walk",
+   "Skudder",
+   "Lynx Lane / Sundance",
+   2.8
+  ],
+  [
+   "walk",
+   "Skudder",
+   "High Noon 2",
+   1.5
+  ],
+  [
+   "walk",
+   "Skudder",
+   "High Noon 3",
+   0.9
+  ],
+  [
+   "walk",
+   "Ramrod",
+   "Pika Place bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Ramrod",
+   "Molly Hogan Lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "Ramrod",
+   "Molly's Magic Carpet bottom",
+   3.4
+  ],
+  [
+   "walk",
+   "Ramrod",
+   "Molly's Magic Carpet top",
+   2.8
+  ],
+  [
+   "walk",
+   "Ramrod",
+   "Black Mountain Express bottom",
+   2.7
+  ],
+  [
+   "walk",
+   "International 2",
+   "Pika Place bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "International 2",
+   "Molly Hogan Lift top",
+   1.7
+  ],
+  [
+   "walk",
+   "International 2",
+   "Molly's Magic Carpet bottom",
+   1.2
+  ],
+  [
+   "walk",
+   "International 2",
+   "Molly's Magic Carpet top",
+   1.0
+  ],
+  [
+   "walk",
+   "International 2",
+   "Pallavicini Lift bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "International 2",
+   "Black Mountain Express bottom",
+   2.6
+  ],
+  [
+   "walk",
+   "Humbug",
+   "Zuma Lift top",
+   1.5
+  ],
+  [
+   "walk",
+   "Humbug",
+   "Lazy J Tow bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Humbug",
+   "Beavers top",
+   2.5
+  ],
+  [
+   "walk",
+   "Humbug",
+   "Lazy J Tow top",
+   1.2
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Zuma Lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Lazy J Tow bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Beavers top",
+   1.7
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Lazy J Tow top",
+   1.0
+  ],
+  [
+   "walk",
+   "Beavers top",
+   "Knolls / Cornice Run",
+   3.4
+  ],
+  [
+   "walk",
+   "Beavers top",
+   "Loafer / Norway Mountain Run",
+   1.1
+  ],
+  [
+   "walk",
+   "Beavers top",
+   "Powerline / Norway Face",
+   1.6
+  ],
+  [
+   "walk",
+   "Beavers top",
+   "Lazy J Tow bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Beavers top",
+   "Humbug",
+   2.5
+  ],
+  [
+   "walk",
+   "Beavers top",
+   "Black Bear",
+   1.7
+  ],
+  [
+   "walk",
+   "Beavers top",
+   "Norway Face",
+   1.0
+  ],
+  [
+   "walk",
+   "Beavers top",
+   "Lazy J Tow top",
+   2.7
+  ],
+  [
+   "walk",
+   "Norway Face",
+   "Zuma Lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Norway Face",
+   "Lazy J Tow bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Norway Face",
+   "Beavers top",
+   1.0
+  ],
+  [
+   "walk",
+   "Norway Face",
+   "Lazy J Tow top",
+   2.3
+  ],
+  [
+   "walk",
+   "High Noon 3",
+   "Black Mountain Express top",
+   1.3
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet top",
+   "International / Pali Wog",
+   1.2
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet top",
+   "Pika Place bottom",
+   2.2
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet top",
+   "Molly Hogan Lift top",
+   1.1
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet top",
+   "Molly's Magic Carpet bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet top",
+   "Roller Coaster / Pali Wog",
+   2.8
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet top",
+   "International 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet top",
+   "Pallavicini Lift bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet top",
+   "Black Mountain Express bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Lazy J Tow top",
+   "Zuma Lift top",
+   0.8
+  ],
+  [
+   "walk",
+   "Lazy J Tow top",
+   "Powerline / Norway Face",
+   2.2
+  ],
+  [
+   "walk",
+   "Lazy J Tow top",
+   "Shining Light / Cooper",
+   3.2
+  ],
+  [
+   "walk",
+   "Lazy J Tow top",
+   "Long Chute",
+   2.2
+  ],
+  [
+   "walk",
+   "Lazy J Tow top",
+   "Lazy J Tow bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Lazy J Tow top",
+   "Humbug",
+   1.2
+  ],
+  [
+   "walk",
+   "Lazy J Tow top",
+   "Black Bear",
+   1.0
+  ],
+  [
+   "walk",
+   "Lazy J Tow top",
+   "Beavers top",
+   2.7
+  ],
+  [
+   "walk",
+   "Lazy J Tow top",
+   "Norway Face",
+   2.3
+  ],
+  [
+   "walk",
+   "Pallavicini Lift bottom",
+   "International / Pali Wog",
+   0.6
+  ],
+  [
+   "walk",
+   "Pallavicini Lift bottom",
+   "Molly's Magic Carpet bottom",
+   1.5
+  ],
+  [
+   "walk",
+   "Pallavicini Lift bottom",
+   "International 2",
+   1.3
+  ],
+  [
+   "walk",
+   "Pallavicini Lift bottom",
+   "Molly's Magic Carpet top",
+   1.8
+  ],
+  [
+   "walk",
+   "Pallavicini Lift bottom",
+   "Black Mountain Express bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Black Mountain Express bottom",
+   "International / Pali Wog",
+   2.5
+  ],
+  [
+   "walk",
+   "Black Mountain Express bottom",
+   "Wrangler / High Noon",
+   1.8
+  ],
+  [
+   "walk",
+   "Black Mountain Express bottom",
+   "Pika Place bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Black Mountain Express bottom",
+   "Molly Hogan Lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "Black Mountain Express bottom",
+   "Molly's Magic Carpet bottom",
+   1.6
+  ],
+  [
+   "walk",
+   "Black Mountain Express bottom",
+   "International 2",
+   2.6
+  ],
+  [
+   "walk",
+   "Black Mountain Express bottom",
+   "Molly's Magic Carpet top",
+   1.6
+  ],
+  [
+   "walk",
+   "Black Mountain Express bottom",
+   "Pallavicini Lift bottom",
+   3.1
+  ],
+  [
+   "walk",
+   "Powerline / Norway Face",
+   "Northern Spy / Mountain Goat Traverse",
+   6.2
+  ],
+  [
+   "walk",
+   "Powerline / Norway Face",
+   "Shining Light / Cooper",
+   5.4
+  ],
+  [
+   "walk",
+   "Powerline / Norway Face",
+   "Long Chute",
+   4.4
+  ],
+  [
+   "walk",
+   "Powerline / Norway Face",
+   "Humbug",
+   1.6
+  ],
+  [
+   "walk",
+   "Powerline / Norway Face",
+   "Black Bear",
+   3.2
+  ],
+  [
+   "walk",
+   "Powerline / Norway Face",
+   "Norway Face",
+   1.9
+  ],
+  [
+   "walk",
+   "Long Chute",
+   "Powerline / Norway Face",
+   2.4
+  ],
+  [
+   "walk",
+   "Long Chute",
+   "Northern Spy / Mountain Goat Traverse",
+   6.5
+  ],
+  [
+   "walk",
+   "Long Chute",
+   "Shining Light / Cooper",
+   5.4
+  ],
+  [
+   "walk",
+   "Long Chute",
+   "Humbug",
+   2.4
+  ],
+  [
+   "walk",
+   "Long Chute",
+   "Black Bear",
+   2.6
+  ],
+  [
+   "walk",
+   "Long Chute",
+   "Norway Face",
+   1.8
+  ],
+  [
+   "walk",
+   "Lazy J Tow bottom",
+   "Northern Spy / Mountain Goat Traverse",
+   5.4
+  ],
+  [
+   "walk",
+   "Lazy J Tow bottom",
+   "Shining Light / Cooper",
+   4.5
+  ],
+  [
+   "walk",
+   "Lazy J Tow bottom",
+   "Long Chute",
+   3.5
+  ],
+  [
+   "walk",
+   "Lazy J Tow bottom",
+   "Black Bear",
+   2.4
+  ],
+  [
+   "walk",
+   "Humbug",
+   "Powerline / Norway Face",
+   1.6
+  ],
+  [
+   "walk",
+   "Humbug",
+   "Northern Spy / Mountain Goat Traverse",
+   4.9
+  ],
+  [
+   "walk",
+   "Humbug",
+   "Shining Light / Cooper",
+   4.4
+  ],
+  [
+   "walk",
+   "Humbug",
+   "Long Chute",
+   3.4
+  ],
+  [
+   "walk",
+   "Humbug",
+   "Black Bear",
+   2.2
+  ],
+  [
+   "walk",
+   "Humbug",
+   "Norway Face",
+   1.7
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Powerline / Norway Face",
+   1.8
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Northern Spy / Mountain Goat Traverse",
+   5.3
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Shining Light / Cooper",
+   4.2
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Long Chute",
+   3.2
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Humbug",
+   1.6
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Norway Face",
+   1.9
+  ],
+  [
+   "walk",
+   "Norway Face",
+   "Powerline / Norway Face",
+   1.9
+  ],
+  [
+   "walk",
+   "Norway Face",
+   "Northern Spy / Mountain Goat Traverse",
+   6.4
+  ],
+  [
+   "walk",
+   "Norway Face",
+   "Shining Light / Cooper",
+   5.5
+  ],
+  [
+   "walk",
+   "Norway Face",
+   "Long Chute",
+   4.4
+  ],
+  [
+   "walk",
+   "Norway Face",
+   "Humbug",
+   1.7
+  ],
+  [
+   "walk",
+   "Norway Face",
+   "Black Bear",
+   2.7
+  ],
+  [
+   "walk",
+   "Lazy J Tow top",
+   "Northern Spy / Mountain Goat Traverse",
+   4.3
+  ],
+  [
+   "walk",
+   "Black Mountain Express top",
+   "High Noon",
+   4.1
+  ],
+  [
+   "walk",
+   "Black Mountain Express top",
+   "Radical / Exhibition",
+   3.8
+  ],
+  [
+   "walk",
+   "Pika Place bottom",
+   "Pallavicini Lift bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Jetta / Davis",
+   "Bailey Brothers / Davis 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Loafer 4",
+   "Bailey Brothers / Davis 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Hauk / Last Waltz",
+   "Bailey Brothers / Davis 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Loafer 6",
+   "Bailey Brothers / Davis 2",
+   2.4
+  ],
+  [
+   "walk",
+   "Black Mountain Express top",
+   "Lenawee Express bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "Mountain Goat Alley",
+   6.1
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "Nose / Dercum's Gulch",
+   4.0
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "Slalom Slope / Grizzly Road 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Pallavicini Lift top",
+   "Wildcat / Dercum's Gulch",
+   4.9
+  ],
+  [
+   "walk",
+   "Challenger / Radical",
+   "Challenger",
+   5.8
+  ],
+  [
+   "walk",
+   "Challenger / Radical",
+   "Mountain Goat Alley / West Gullly",
+   5.2
+  ],
+  [
+   "walk",
+   "Challenger / Radical",
+   "TB Glade / The Landing Strip",
+   4.6
+  ],
+  [
+   "walk",
+   "Challenger / Radical",
+   "Lynx Lane / The Landing Strip",
+   3.9
+  ],
+  [
+   "walk",
+   "Challenger / Radical",
+   "Lynx Lane / Sundance",
+   6.2
+  ],
+  [
+   "walk",
+   "Challenger / Radical",
+   "Skudder",
+   4.9
+  ],
+  [
+   "walk",
+   "Challenger / Radical",
+   "High Noon 2",
+   6.1
+  ],
+  [
+   "walk",
+   "Challenger / Radical",
+   "High Noon 3",
+   4.3
+  ],
+  [
+   "walk",
+   "Challenger / Radical",
+   "Radical / Exhibition",
+   6.8
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "Challenger",
+   5.0
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "TB Glade / The Landing Strip",
+   3.8
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "Lynx Lane / The Landing Strip",
+   3.1
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "Lynx Lane / Sundance",
+   5.4
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "Skudder",
+   4.1
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "High Noon 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "High Noon 3",
+   3.5
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "High Noon",
+   6.3
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "Radical / Exhibition",
+   6.0
+  ],
+  [
+   "walk",
+   "Slalom Slope / Grizzly Road 2",
+   "Challenger",
+   5.7
+  ],
+  [
+   "walk",
+   "Slalom Slope / Grizzly Road 2",
+   "Mountain Goat Alley / West Gullly",
+   5.1
+  ],
+  [
+   "walk",
+   "Slalom Slope / Grizzly Road 2",
+   "TB Glade / The Landing Strip",
+   4.6
+  ],
+  [
+   "walk",
+   "Slalom Slope / Grizzly Road 2",
+   "Lynx Lane / The Landing Strip",
+   3.8
+  ],
+  [
+   "walk",
+   "Slalom Slope / Grizzly Road 2",
+   "Lynx Lane / Sundance",
+   6.1
+  ],
+  [
+   "walk",
+   "Slalom Slope / Grizzly Road 2",
+   "Skudder",
+   4.8
+  ],
+  [
+   "walk",
+   "Slalom Slope / Grizzly Road 2",
+   "High Noon 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Slalom Slope / Grizzly Road 2",
+   "High Noon 3",
+   4.2
+  ],
+  [
+   "walk",
+   "Slalom Slope / Grizzly Road 2",
+   "Radical / Exhibition",
+   6.7
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "Challenger",
+   4.4
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "Mountain Goat Alley / West Gullly",
+   3.8
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "Lynx Lane / The Landing Strip",
+   2.6
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "Lynx Lane / Sundance",
+   4.9
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "Skudder",
+   3.5
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "High Noon 2",
+   4.8
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "High Noon 3",
+   3.0
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "High Noon",
+   5.8
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "Radical / Exhibition",
+   5.5
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "Challenger",
+   3.7
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "Mountain Goat Alley / West Gullly",
+   3.1
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "TB Glade / The Landing Strip",
+   2.6
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "Lynx Lane / Sundance",
+   4.1
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "Skudder",
+   2.8
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "High Noon 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "High Noon 3",
+   2.2
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "High Noon",
+   5.1
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "Radical / Exhibition",
+   4.7
+  ],
+  [
+   "walk",
+   "Grizzly Road",
+   "Challenger",
+   5.5
+  ],
+  [
+   "walk",
+   "Grizzly Road",
+   "Mountain Goat Alley / West Gullly",
+   4.9
+  ],
+  [
+   "walk",
+   "Grizzly Road",
+   "TB Glade / The Landing Strip",
+   4.4
+  ],
+  [
+   "walk",
+   "Grizzly Road",
+   "Lynx Lane / The Landing Strip",
+   3.7
+  ],
+  [
+   "walk",
+   "Grizzly Road",
+   "Lynx Lane / Sundance",
+   6.0
+  ],
+  [
+   "walk",
+   "Grizzly Road",
+   "Skudder",
+   4.6
+  ],
+  [
+   "walk",
+   "Grizzly Road",
+   "High Noon 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Grizzly Road",
+   "High Noon 3",
+   4.1
+  ],
+  [
+   "walk",
+   "Grizzly Road",
+   "Radical / Exhibition",
+   6.5
+  ],
+  [
+   "walk",
+   "Skudder",
+   "Mountain Goat Alley / West Gullly",
+   4.1
+  ],
+  [
+   "walk",
+   "Skudder",
+   "Lenawee Express bottom",
+   5.6
+  ],
+  [
+   "walk",
+   "High Noon 3",
+   "Challenger",
+   4.1
+  ],
+  [
+   "walk",
+   "High Noon 3",
+   "Mountain Goat Alley / West Gullly",
+   3.5
+  ],
+  [
+   "walk",
+   "High Noon 3",
+   "TB Glade / The Landing Strip",
+   3.0
+  ],
+  [
+   "walk",
+   "High Noon 3",
+   "Lynx Lane / The Landing Strip",
+   2.2
+  ],
+  [
+   "walk",
+   "High Noon 3",
+   "Lynx Lane / Sundance",
+   4.5
+  ],
+  [
+   "walk",
+   "High Noon 3",
+   "Skudder",
+   3.2
+  ],
+  [
+   "walk",
+   "High Noon 3",
+   "High Noon 2",
+   4.4
+  ],
+  [
+   "walk",
+   "High Noon 3",
+   "High Noon",
+   5.5
+  ],
+  [
+   "walk",
+   "High Noon 3",
+   "Radical / Exhibition",
+   5.1
+  ],
+  [
+   "walk",
+   "High Noon 3",
+   "Lenawee Express bottom",
+   5.3
+  ],
+  [
+   "walk",
+   "Moose Hollow / Wrangler",
+   "International / Pali Wog",
+   5.9
+  ],
+  [
+   "walk",
+   "Moose Hollow / Wrangler",
+   "Wrangler / High Noon",
+   4.1
+  ],
+  [
+   "walk",
+   "Moose Hollow / Wrangler",
+   "Molly Hogan Lift top",
+   4.9
+  ],
+  [
+   "walk",
+   "Moose Hollow / Wrangler",
+   "Molly's Magic Carpet bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Moose Hollow / Wrangler",
+   "International 2",
+   6.0
+  ],
+  [
+   "walk",
+   "Moose Hollow / Wrangler",
+   "Molly's Magic Carpet top",
+   5.0
+  ],
+  [
+   "walk",
+   "Moose Hollow / Wrangler",
+   "Pallavicini Lift bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Wrangler / High Noon",
+   "International / Pali Wog",
+   4.2
+  ],
+  [
+   "walk",
+   "Wrangler / High Noon",
+   "International 2",
+   4.0
+  ],
+  [
+   "walk",
+   "Wrangler / High Noon",
+   "Pallavicini Lift bottom",
+   4.8
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet bottom",
+   "Wrangler / High Noon",
+   3.4
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet bottom",
+   "Molly Hogan Lift top",
+   1.8
+  ],
+  [
+   "walk",
+   "Ramrod",
+   "International / Pali Wog",
+   4.1
+  ],
+  [
+   "walk",
+   "Ramrod",
+   "Wrangler / High Noon",
+   3.8
+  ],
+  [
+   "walk",
+   "Ramrod",
+   "International 2",
+   3.5
+  ],
+  [
+   "walk",
+   "Ramrod",
+   "Pallavicini Lift bottom",
+   4.6
+  ],
+  [
+   "walk",
+   "International 2",
+   "International / Pali Wog",
+   1.9
+  ],
+  [
+   "walk",
+   "International 2",
+   "Wrangler / High Noon",
+   4.1
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet top",
+   "Wrangler / High Noon",
+   3.4
+  ],
+  [
+   "walk",
+   "Wrangler / High Noon",
+   "Roller Coaster / Pali Wog",
+   5.7
+  ],
+  [
+   "walk",
+   "Pika Place bottom",
+   "Roller Coaster / Pali Wog",
+   5.0
+  ],
+  [
+   "walk",
+   "The Gulch / Ramrod",
+   "International / Pali Wog",
+   5.2
+  ],
+  [
+   "walk",
+   "The Gulch / Ramrod",
+   "Wrangler / High Noon",
+   5.3
+  ],
+  [
+   "walk",
+   "The Gulch / Ramrod",
+   "Pika Place bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "The Gulch / Ramrod",
+   "Molly's Magic Carpet bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "The Gulch / Ramrod",
+   "Roller Coaster / Pali Wog",
+   6.2
+  ],
+  [
+   "walk",
+   "The Gulch / Ramrod",
+   "International 2",
+   4.6
+  ],
+  [
+   "walk",
+   "The Gulch / Ramrod",
+   "Molly's Magic Carpet top",
+   4.0
+  ],
+  [
+   "walk",
+   "The Gulch / Ramrod",
+   "Pallavicini Lift bottom",
+   5.8
+  ],
+  [
+   "walk",
+   "The Gulch / Ramrod",
+   "Black Mountain Express bottom",
+   4.7
+  ],
+  [
+   "walk",
+   "Roller Coaster / Pali Wog",
+   "International / Pali Wog",
+   2.7
+  ],
+  [
+   "walk",
+   "Roller Coaster / Pali Wog",
+   "Wrangler / High Noon",
+   5.7
+  ],
+  [
+   "walk",
+   "Roller Coaster / Pali Wog",
+   "Pika Place bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Roller Coaster / Pali Wog",
+   "International 2",
+   3.4
+  ],
+  [
+   "walk",
+   "Roller Coaster / Pali Wog",
+   "Black Mountain Express bottom",
+   4.5
+  ],
+  [
+   "walk",
+   "Ramrod",
+   "Roller Coaster / Pali Wog",
+   5.0
+  ],
+  [
+   "walk",
+   "International 2",
+   "Roller Coaster / Pali Wog",
+   3.8
+  ],
+  [
+   "walk",
+   "Black Mountain Express bottom",
+   "Roller Coaster / Pali Wog",
+   4.5
+  ],
+  [
+   "walk",
+   "International / Pali Wog",
+   "Pika Place bottom",
+   3.2
+  ],
+  [
+   "walk",
+   "International / Pali Wog",
+   "Wrangler / High Noon",
+   4.3
+  ],
+  [
+   "walk",
+   "International / Pali Wog",
+   "Molly Hogan Lift top",
+   2.3
+  ],
+  [
+   "walk",
+   "Pallavicini Lift bottom",
+   "Pika Place bottom",
+   3.7
+  ],
+  [
+   "walk",
+   "Pallavicini Lift bottom",
+   "Wrangler / High Noon",
+   4.9
+  ],
+  [
+   "walk",
+   "Pallavicini Lift bottom",
+   "Molly Hogan Lift top",
+   2.9
+  ],
+  [
+   "walk",
+   "Zuma Lift top",
+   "Beavers top",
+   3.5
+  ],
+  [
+   "walk",
+   "Beavers top",
+   "Zuma Lift top",
+   3.5
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "South Chute",
+   1.7
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "South Chute / North Chute",
+   3.5
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "Nose / Cornice Run",
+   1.8
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "North Chute",
+   2.0
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "Slalom Slope / Grizzly Road",
+   2.2
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "Cornice Run",
+   3.4
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "Roller Coaster / East Avenue",
+   4.1
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "The Spine",
+   3.4
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "Mountain Goat Alley",
+   6.9
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "Nose / Dercum's Gulch",
+   4.8
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "Slalom Slope / Grizzly Road 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Pali Main Street / East Woods",
+   "Wildcat / Dercum's Gulch",
+   5.8
+  ],
+  [
+   "walk",
+   "Nose / Cornice Run",
+   "Pali Main Street / East Woods",
+   1.8
+  ],
+  [
+   "walk",
+   "Nose / Cornice Run",
+   "South Chute",
+   1.8
+  ],
+  [
+   "walk",
+   "Nose / Cornice Run",
+   "South Chute / North Chute",
+   3.6
+  ],
+  [
+   "walk",
+   "Nose / Cornice Run",
+   "North Chute",
+   2.1
+  ],
+  [
+   "walk",
+   "Nose / Cornice Run",
+   "Slalom Slope / Grizzly Road",
+   2.3
+  ],
+  [
+   "walk",
+   "Nose / Cornice Run",
+   "Cornice Run",
+   3.4
+  ],
+  [
+   "walk",
+   "Nose / Cornice Run",
+   "Roller Coaster / East Avenue",
+   4.2
+  ],
+  [
+   "walk",
+   "Nose / Cornice Run",
+   "The Spine",
+   3.4
+  ],
+  [
+   "walk",
+   "Nose / Cornice Run",
+   "Nose / Dercum's Gulch",
+   4.9
+  ],
+  [
+   "walk",
+   "Nose / Cornice Run",
+   "Slalom Slope / Grizzly Road 2",
+   5.7
+  ],
+  [
+   "walk",
+   "Nose / Cornice Run",
+   "Wildcat / Dercum's Gulch",
+   5.8
+  ],
+  [
+   "walk",
+   "Cornice Run",
+   "Pali Main Street / East Woods",
+   3.4
+  ],
+  [
+   "walk",
+   "Cornice Run",
+   "South Chute",
+   3.4
+  ],
+  [
+   "walk",
+   "Cornice Run",
+   "South Chute / North Chute",
+   5.2
+  ],
+  [
+   "walk",
+   "Cornice Run",
+   "Nose / Cornice Run",
+   3.4
+  ],
+  [
+   "walk",
+   "Cornice Run",
+   "North Chute",
+   3.7
+  ],
+  [
+   "walk",
+   "Cornice Run",
+   "Slalom Slope / Grizzly Road",
+   3.8
+  ],
+  [
+   "walk",
+   "Cornice Run",
+   "Roller Coaster / East Avenue",
+   5.8
+  ],
+  [
+   "walk",
+   "Cornice Run",
+   "The Spine",
+   5.0
+  ],
+  [
+   "walk",
+   "Cornice Run",
+   "Nose / Dercum's Gulch",
+   6.5
+  ],
+  [
+   "walk",
+   "Gentling / Torreys",
+   "Gentling 2",
+   3.2
+  ],
+  [
+   "walk",
+   "Gentling / Torreys",
+   "Bierstadt / Lightning Traverse 2",
+   2.2
+  ],
+  [
+   "walk",
+   "Gentling 2",
+   "Gentling / Torreys",
+   3.2
+  ],
+  [
+   "walk",
+   "Gentling 2",
+   "Bierstadt / Lightning Traverse 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Gentling 3",
+   "Gentling / Torreys",
+   3.8
+  ],
+  [
+   "walk",
+   "Gentling 3",
+   "Gentling 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Gentling 3",
+   "Bierstadt / Lightning Traverse 2",
+   3.6
+  ],
+  [
+   "walk",
+   "Independence / Cooper",
+   "Gentling / Torreys",
+   4.7
+  ],
+  [
+   "walk",
+   "Independence / Cooper",
+   "Gentling 2",
+   5.4
+  ],
+  [
+   "walk",
+   "Independence / Cooper",
+   "Bierstadt / Lightning Traverse 2",
+   4.5
+  ],
+  [
+   "walk",
+   "Bierstadt / Lightning Traverse 2",
+   "Gentling / Torreys",
+   2.2
+  ],
+  [
+   "walk",
+   "Bierstadt / Lightning Traverse 2",
+   "Gentling 2",
+   2.9
+  ],
+  [
+   "walk",
+   "South Chute / North Chute",
+   "Black Mountain Express top",
+   5.0
+  ],
+  [
+   "walk",
+   "South Chute / North Chute",
+   "TB Glade / The Landing Strip",
+   6.7
+  ],
+  [
+   "walk",
+   "South Chute / North Chute",
+   "Lynx Lane / The Landing Strip",
+   6.0
+  ],
+  [
+   "walk",
+   "South Chute / North Chute",
+   "Skudder",
+   6.9
+  ],
+  [
+   "walk",
+   "South Chute / North Chute",
+   "High Noon 3",
+   6.4
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "East Gully / Dragon 2",
+   4.7
+  ],
+  [
+   "walk",
+   "Mountain Goat Alley / West Gullly",
+   "TB Glade / Weasel Way",
+   5.9
+  ],
+  [
+   "walk",
+   "East Gully / Dragon 2",
+   "TB Glade / Weasel Way",
+   5.6
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "East Gully / Dragon 2",
+   4.6
+  ],
+  [
+   "walk",
+   "TB Glade / The Landing Strip",
+   "TB Glade / Weasel Way",
+   5.8
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "East Gully / Dragon 2",
+   5.3
+  ],
+  [
+   "walk",
+   "Lynx Lane / The Landing Strip",
+   "TB Glade / Weasel Way",
+   6.5
+  ],
+  [
+   "walk",
+   "Black Mountain Express top",
+   "East Gully / Dragon 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Slalom Slope / Grizzly Road 2",
+   "Lenawee Express bottom",
+   6.9
+  ],
+  [
+   "walk",
+   "Grizzly Road",
+   "Lenawee Express bottom",
+   6.7
+  ],
+  [
+   "walk",
+   "Challenger",
+   "Black Mountain Express top",
+   2.8
+  ],
+  [
+   "walk",
+   "Challenger",
+   "Lenawee Express bottom",
+   6.5
+  ],
+  [
+   "walk",
+   "Challenger",
+   "Mountain Goat Alley / West Gullly",
+   5.0
+  ],
+  [
+   "walk",
+   "Challenger",
+   "TB Glade / The Landing Strip",
+   4.1
+  ],
+  [
+   "walk",
+   "Zuma Lift top",
+   "Loafer / Norway Mountain Run",
+   4.7
+  ],
+  [
+   "walk",
+   "Loafer / Norway Mountain Run",
+   "Zuma Lift top",
+   4.7
+  ],
+  [
+   "walk",
+   "Loafer / Norway Mountain Run",
+   "Powerline / Norway Face",
+   2.7
+  ],
+  [
+   "walk",
+   "Loafer / Norway Mountain Run",
+   "Humbug",
+   3.7
+  ],
+  [
+   "walk",
+   "Loafer / Norway Mountain Run",
+   "Norway Face",
+   2.1
+  ],
+  [
+   "walk",
+   "Loafer / Norway Mountain Run",
+   "Lazy J Tow top",
+   3.9
+  ],
+  [
+   "walk",
+   "Loafer / Norway Mountain Run",
+   "Black Bear",
+   2.9
+  ],
+  [
+   "walk",
+   "Powerline / Norway Face",
+   "Loafer / Norway Mountain Run",
+   2.7
+  ],
+  [
+   "walk",
+   "Long Chute",
+   "Loafer / Norway Mountain Run",
+   2.0
+  ],
+  [
+   "walk",
+   "Humbug",
+   "Loafer / Norway Mountain Run",
+   3.7
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Loafer / Norway Mountain Run",
+   2.9
+  ],
+  [
+   "walk",
+   "Beavers top",
+   "Shining Light / Cooper",
+   5.9
+  ],
+  [
+   "walk",
+   "Beavers top",
+   "Long Chute",
+   4.9
+  ],
+  [
+   "walk",
+   "Norway Face",
+   "Loafer / Norway Mountain Run",
+   2.1
+  ],
+  [
+   "walk",
+   "Lazy J Tow top",
+   "Loafer / Norway Mountain Run",
+   3.9
+  ],
+  [
+   "walk",
+   "Grizzly Road",
+   "High Noon",
+   6.9
+  ],
+  [
+   "walk",
+   "International / Pali Wog",
+   "Roller Coaster / Pali Wog",
+   4.1
+  ],
+  [
+   "walk",
+   "Molly's Magic Carpet bottom",
+   "Roller Coaster / Pali Wog",
+   3.5
+  ],
+  [
+   "walk",
+   "Pallavicini Lift bottom",
+   "Roller Coaster / Pali Wog",
+   4.7
+  ],
+  [
+   "walk",
+   "Loafer / Norway Mountain Run",
+   "Knolls / Cornice Run",
+   4.6
+  ],
+  [
+   "walk",
+   "Powerline / Norway Face",
+   "Knolls / Cornice Run",
+   5.0
+  ],
+  [
+   "walk",
+   "Long Chute",
+   "Knolls / Cornice Run",
+   4.3
+  ],
+  [
+   "walk",
+   "Lazy J Tow bottom",
+   "Knolls / Cornice Run",
+   5.2
+  ],
+  [
+   "walk",
+   "Humbug",
+   "Knolls / Cornice Run",
+   5.9
+  ],
+  [
+   "walk",
+   "Black Bear",
+   "Knolls / Cornice Run",
+   5.1
+  ],
+  [
+   "walk",
+   "Norway Face",
+   "Knolls / Cornice Run",
+   4.4
+  ],
+  [
+   "walk",
+   "Lazy J Tow top",
+   "Knolls / Cornice Run",
+   6.1
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "International / Pali Wog",
+   3.5
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Pika Place bottom",
+   5.5
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Molly Hogan Lift top",
+   4.5
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Molly's Magic Carpet bottom",
+   4.0
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Roller Coaster / Pali Wog",
+   6.2
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "International 2",
+   4.2
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Black Mountain Express bottom",
+   5.0
+  ],
+  [
+   "walk",
+   "Roller Coaster",
+   "Wrangler / High Noon",
+   6.8
+  ],
+  [
+   "walk",
+   "Loafer / Norway Mountain Run",
+   "Long Chute",
+   6.0
+  ]
+ ],
+ "base": "Beavers bottom",
+ "info": {}
+}

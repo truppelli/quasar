@@ -1,0 +1,3296 @@
+{
+ "name": "Sun Valley - Bald Mountain",
+ "source": "OpenSkiMap ski area b9ec1edd75823059c063c7c7b2a4078cf82542ab",
+ "origin_lonlat": [
+  -114.39372898409535,
+  43.664527438106354
+ ],
+ "nodes": {
+  "Challenger top": [
+   -900,
+   -452,
+   2742.3
+  ],
+  "Warm Springs Face / Pete's Lane": [
+   -925,
+   465,
+   2371.4
+  ],
+  "Olympic / Olympic Lane": [
+   964,
+   -56,
+   2253.9
+  ],
+  "Olympic / Olympic Lane 2": [
+   1445,
+   55,
+   2014.8
+  ],
+  "Upper Cozy / Upper Hemingway": [
+   -1025,
+   874,
+   2252.1
+  ],
+  "Upper Cozy / Cozy": [
+   -1084,
+   1175,
+   2110.3
+  ],
+  "Cold Springs Cut Off / Gun Tower Lane": [
+   279,
+   -352,
+   2333.3
+  ],
+  "Cold Springs Cut Off / Unnamed run": [
+   672,
+   -1048,
+   2020.1
+  ],
+  "Lower Janss Pass / Janss Pass": [
+   58,
+   1007,
+   2210.3
+  ],
+  "Lower Janss Pass / Undergraduate": [
+   402,
+   1158,
+   2058.5
+  ],
+  "Lookout Bowl / Unnamed run": [
+   -1250,
+   -963,
+   2776.9
+  ],
+  "Seattle Ridge bottom": [
+   -122,
+   -1161,
+   2244.9
+  ],
+  "Mid Inhibition / Christmas Lane": [
+   71,
+   -598,
+   2380.8
+  ],
+  "Mid Inhibition / Gun Tower Lane": [
+   221,
+   -728,
+   2306.7
+  ],
+  "Roundhouse Gondola top": [
+   413,
+   -226,
+   2341.8
+  ],
+  "Christmas bottom": [
+   386,
+   -261,
+   2340.8
+  ],
+  "Lookout Express bottom": [
+   1120,
+   507,
+   1939.0
+  ],
+  "River Run top": [
+   1146,
+   545,
+   1938.9
+  ],
+  "French Dip / Lower College": [
+   675,
+   726,
+   2205.4
+  ],
+  "French Dip / Lower French Dip": [
+   745,
+   1037,
+   2130.2
+  ],
+  "Arnold's Run / Maiden Lane": [
+   -283,
+   1045,
+   2213.5
+  ],
+  "Arnold's Run / Lower Warm Springs": [
+   -513,
+   1244,
+   2063.3
+  ],
+  "Mid River Run / Upper River Run": [
+   -137,
+   53,
+   2423.6
+  ],
+  "Mid River Run / Sunset Trip": [
+   833,
+   408,
+   2031.8
+  ],
+  "Lookout bottom": [
+   -936,
+   -534,
+   2738.4
+  ],
+  "Lookout Bowl": [
+   -1123,
+   -998,
+   2703.6
+  ],
+  "Christmas top": [
+   -845,
+   -430,
+   2740.9
+  ],
+  "Upper Holiday / Rock Garden": [
+   93,
+   -140,
+   2477.2
+  ],
+  "Upper Holiday / Roundhouse Lane": [
+   196,
+   61,
+   2377.0
+  ],
+  "Mid Greyhawk / Maiden Lane": [
+   -867,
+   1050,
+   2145.0
+  ],
+  "Mid Greyhawk / Unnamed run": [
+   -787,
+   1687,
+   1875.8
+  ],
+  "Limelight / Upper Limelight": [
+   -720,
+   42,
+   2587.7
+  ],
+  "Limelight / Lower Limelight": [
+   -624,
+   611,
+   2311.8
+  ],
+  "Mid Christmas Bowl / Christmas Ridge": [
+   -85,
+   -653,
+   2392.4
+  ],
+  "Mid Christmas Bowl / Lower Christmas Bowl": [
+   92,
+   -788,
+   2294.5
+  ],
+  "Seattle Ridge top": [
+   -516,
+   -2245,
+   2645.4
+  ],
+  "Leigh Lane / Broadway": [
+   -989,
+   -2197,
+   2592.8
+  ],
+  "Graduate / Lower College": [
+   -38,
+   481,
+   2428.5
+  ],
+  "Graduate / Undergraduate": [
+   239,
+   944,
+   2187.2
+  ],
+  "Unnamed run / Hemingway": [
+   -938,
+   1542,
+   1948.4
+  ],
+  "Upper Cozy": [
+   -1125,
+   1052,
+   2178.4
+  ],
+  "Roundhouse Slope / Olympic Lane": [
+   480,
+   -176,
+   2329.3
+  ],
+  "Roundhouse Slope": [
+   575,
+   -202,
+   2316.9
+  ],
+  "Unnamed run / Hemingway 2": [
+   -996,
+   1136,
+   2125.1
+  ],
+  "Unnamed run / Cozy": [
+   -1068,
+   1341,
+   2028.9
+  ],
+  "Frenchman's bottom": [
+   573,
+   1318,
+   2008.4
+  ],
+  "Byron's Park / Christin's Silver": [
+   -569,
+   -1836,
+   2497.6
+  ],
+  "Byron's Park / Mayday Bowl": [
+   -483,
+   -1375,
+   2347.2
+  ],
+  "Race Arena / Lower Warm Springs": [
+   -556,
+   1185,
+   2088.3
+  ],
+  "Race Arena / Cozy": [
+   -783,
+   1785,
+   1847.1
+  ],
+  "Ridge / Upper River Run": [
+   -636,
+   -197,
+   2701.8
+  ],
+  "Ridge / Rock Garden": [
+   10,
+   -194,
+   2497.9
+  ],
+  "Exhibition / Olympic Lane": [
+   782,
+   -113,
+   2270.9
+  ],
+  "Exhibition / Sunset Trip": [
+   1014,
+   450,
+   1973.0
+  ],
+  "International Trees": [
+   -1056,
+   579,
+   2429.0
+  ],
+  "Upper Cozy 2": [
+   -1164,
+   942,
+   2236.7
+  ],
+  "Sigi's Bowl / Bowl Lane": [
+   -1271,
+   -1880,
+   2696.5
+  ],
+  "Sigi's Bowl / Broadway": [
+   -820,
+   -1926,
+   2497.4
+  ],
+  "Frenchman's top": [
+   -171,
+   441,
+   2466.6
+  ],
+  "Rock Garden / Roundhouse Lane": [
+   381,
+   -191,
+   2344.4
+  ],
+  "Sunnyside Bowl / Picabo's Street": [
+   -273,
+   349,
+   2497.8
+  ],
+  "Mid River Run": [
+   213,
+   257,
+   2258.6
+  ],
+  "Lower Can-Can / Lilly Marlane": [
+   477,
+   964,
+   2159.1
+  ],
+  "Undergraduate": [
+   537,
+   1287,
+   2014.7
+  ],
+  "Janss Pass / Flying Squirrel": [
+   -146,
+   767,
+   2344.3
+  ],
+  "Unnamed run / Gretchen's Gold": [
+   -307,
+   -1867,
+   2519.3
+  ],
+  "Picabo's Street / Maiden Lane": [
+   -434,
+   929,
+   2187.9
+  ],
+  "Mayday Bowl / Bowl Lane": [
+   -1317,
+   -1197,
+   2766.9
+  ],
+  "Mayday bottom": [
+   -293,
+   -1229,
+   2294.7
+  ],
+  "Kaitlyn's Bowl / Bowl Lane": [
+   -1263,
+   -1687,
+   2713.2
+  ],
+  "Kaitlyn's Bowl / Broadway": [
+   -719,
+   -1711,
+   2443.7
+  ],
+  "Mayday top": [
+   -1264,
+   -1102,
+   2779.3
+  ],
+  "Unnamed run / I-80": [
+   -950,
+   -472,
+   2740.5
+  ],
+  "Unnamed run / Mid Warm Springs": [
+   -867,
+   571,
+   2325.2
+  ],
+  "Unnamed run / International Trees": [
+   -857,
+   811,
+   2277.6
+  ],
+  "Olympic Lane / Sunset Trip": [
+   1071,
+   484,
+   1953.3
+  ],
+  "Gretchen's Gold": [
+   -442,
+   -2168,
+   2635.1
+  ],
+  "Muffy's Medals / Broadway": [
+   -349,
+   -1271,
+   2310.1
+  ],
+  "International / Warm Springs Face": [
+   -1097,
+   -208,
+   2670.3
+  ],
+  "Warm Springs Face": [
+   -989,
+   175,
+   2493.4
+  ],
+  "Broadway top": [
+   504,
+   -290,
+   2348.1
+  ],
+  "Hemingway / Cozy": [
+   -892,
+   1813,
+   1851.2
+  ],
+  "Olympic Lane": [
+   1676,
+   -36,
+   2065.6
+  ],
+  "Olympic Ridge / Lower Olympic": [
+   1466,
+   151,
+   1973.1
+  ],
+  "French Connection / Sunset Trip": [
+   945,
+   929,
+   2114.2
+  ],
+  "Lefty Bowl / Bowl Lane": [
+   -1344,
+   -1452,
+   2745.2
+  ],
+  "Lefty Bowl / Broadway": [
+   -663,
+   -1580,
+   2414.9
+  ],
+  "Exhibition": [
+   763,
+   -52,
+   2254.0
+  ],
+  "Olympic Lane 2": [
+   1388,
+   277,
+   1990.9
+  ],
+  "Brick's Island / Lower Warm Springs": [
+   -618,
+   1090,
+   2122.3
+  ],
+  "Mid Greyhawk": [
+   -805,
+   1537,
+   1934.2
+  ],
+  "Warm Springs Face 2": [
+   -990,
+   -328,
+   2717.8
+  ],
+  "Lower Holiday / Mid River Lane": [
+   516,
+   212,
+   2206.2
+  ],
+  "Mid River Run 2": [
+   587,
+   384,
+   2106.5
+  ],
+  "Unnamed run 5": [
+   716,
+   -365,
+   2265.4
+  ],
+  "Cold Springs Cut Off": [
+   440,
+   -508,
+   2258.1
+  ],
+  "Lilly Marlane / Maiden Lane": [
+   -155,
+   1098,
+   2225.5
+  ],
+  "International": [
+   -1147,
+   36,
+   2600.1
+  ],
+  "Kinderspielplatz bottom": [
+   2035,
+   685,
+   1755.6
+  ],
+  "Roundhouse Gondola bottom": [
+   2076,
+   642,
+   1755.7
+  ],
+  "Can-Can / Lower College": [
+   242,
+   622,
+   2321.2
+  ],
+  "Ridge": [
+   -168,
+   -258,
+   2542.0
+  ],
+  "Mid River Run 3": [
+   -52,
+   84,
+   2381.8
+  ],
+  "Olympic Lane 3": [
+   735,
+   -128,
+   2271.3
+  ],
+  "Mid River Run 4": [
+   385,
+   322,
+   2186.5
+  ],
+  "Graduate": [
+   130,
+   765,
+   2278.4
+  ],
+  "Unnamed run 6": [
+   711,
+   -1039,
+   2018.2
+  ],
+  "Upper College": [
+   -744,
+   -299,
+   2742.0
+  ],
+  "Challenger bottom": [
+   -680,
+   2052,
+   1794.5
+  ],
+  "Unnamed run / Lower Warm Springs": [
+   -693,
+   870,
+   2206.3
+  ],
+  "Broadway bottom": [
+   1702,
+   -1359,
+   1865.6
+  ],
+  "Upper College 2": [
+   -334,
+   281,
+   2520.6
+  ],
+  "Mid River Lane": [
+   527,
+   4,
+   2224.8
+  ],
+  "International Ridge": [
+   -1070,
+   476,
+   2455.7
+  ],
+  "International Trees / Mid Warm Springs": [
+   -898,
+   515,
+   2351.0
+  ],
+  "Mid Greyhawk 2": [
+   -830,
+   1367,
+   1999.5
+  ],
+  "Hemingway": [
+   -937,
+   1492,
+   1968.9
+  ],
+  "Roundhouse Lane": [
+   56,
+   39,
+   2393.3
+  ],
+  "Broadway": [
+   -529,
+   -1399,
+   2363.8
+  ],
+  "I-80": [
+   -1180,
+   -199,
+   2682.7
+  ],
+  "International 2": [
+   -1169,
+   -77,
+   2638.9
+  ],
+  "Flying Squirrel top": [
+   -403,
+   304,
+   2515.2
+  ],
+  "Lower Broadway": [
+   457,
+   -1122,
+   2063.7
+  ],
+  "Muffy's Medals": [
+   -462,
+   -1882,
+   2527.5
+  ],
+  "Byron's Park": [
+   -534,
+   -1775,
+   2478.1
+  ],
+  "International Ridge 2": [
+   -1079,
+   413,
+   2468.2
+  ],
+  "Warm Springs Face 3": [
+   -948,
+   412,
+   2407.1
+  ],
+  "Pete's Lane": [
+   -229,
+   469,
+   2460.5
+  ],
+  "Byron's Park 2": [
+   -502,
+   -1706,
+   2457.8
+  ],
+  "Gretchen's Gold 2": [
+   -284,
+   -1489,
+   2379.0
+  ],
+  "Unnamed run / Upper Liftline": [
+   -834,
+   253,
+   2505.6
+  ],
+  "Upper College 3": [
+   -699,
+   -258,
+   2728.6
+  ],
+  "Blue Grouse": [
+   -81,
+   -91,
+   2464.8
+  ],
+  "Roundhouse Lane 2": [
+   -139,
+   224,
+   2436.6
+  ],
+  "I-80 2": [
+   -1174,
+   -358,
+   2717.1
+  ],
+  "Flying Squirrel": [
+   -156,
+   693,
+   2373.6
+  ],
+  "Kenny's / Mid Warm Springs": [
+   -817,
+   661,
+   2293.8
+  ],
+  "Olympic Lane 4": [
+   1213,
+   -260,
+   2221.6
+  ],
+  "Olympic Lane 5": [
+   1522,
+   -273,
+   2173.2
+  ],
+  "Olympic Lane 6": [
+   1864,
+   -94,
+   2133.6
+  ],
+  "Lower Warm Springs": [
+   -473,
+   1377,
+   2016.4
+  ],
+  "Bowl Lane": [
+   -1290,
+   -1970,
+   2690.9
+  ],
+  "Bowl Lane 2": [
+   -1092,
+   -2118,
+   2599.0
+  ],
+  "Maiden Lane": [
+   -759,
+   1063,
+   2161.7
+  ],
+  "Little Easter Bowl / Easter Bowl": [
+   -627,
+   -930,
+   2483.5
+  ],
+  "International Ridge 3": [
+   -1105,
+   241,
+   2519.5
+  ],
+  "Mid Warm Springs": [
+   -792,
+   699,
+   2272.4
+  ],
+  "Lower River Run": [
+   1541,
+   542,
+   1841.4
+  ],
+  "French Connection": [
+   888,
+   1111,
+   2060.0
+  ],
+  "Unnamed run 8": [
+   -1117,
+   -641,
+   2755.5
+  ],
+  "Kinderspielplatz top": [
+   1988,
+   696,
+   1760.4
+  ]
+ },
+ "lifts": [
+  [
+   "Frenchman's",
+   "Frenchman's bottom",
+   "Frenchman's top",
+   7.5
+  ],
+  [
+   "Kinderspielplatz",
+   "Kinderspielplatz bottom",
+   "Kinderspielplatz top",
+   4.0
+  ],
+  [
+   "Challenger",
+   "Challenger bottom",
+   "Challenger top",
+   22.4
+  ],
+  [
+   "Mayday",
+   "Mayday bottom",
+   "Mayday top",
+   10.8
+  ],
+  [
+   "Broadway",
+   "Broadway bottom",
+   "Broadway top",
+   8.2
+  ],
+  [
+   "Flying Squirrel",
+   "Challenger bottom",
+   "Flying Squirrel top",
+   9.3
+  ],
+  [
+   "River Run",
+   "Kinderspielplatz bottom",
+   "River Run top",
+   6.3
+  ],
+  [
+   "Lookout",
+   "Lookout bottom",
+   "Mayday top",
+   7.6
+  ],
+  [
+   "Christmas",
+   "Christmas bottom",
+   "Christmas top",
+   7.2
+  ],
+  [
+   "Christmas",
+   "Christmas top",
+   "Christmas bottom",
+   7.2
+  ],
+  [
+   "Lookout Express",
+   "Lookout Express bottom",
+   "Christmas top",
+   10.6
+  ],
+  [
+   "Roundhouse Gondola",
+   "Roundhouse Gondola bottom",
+   "Roundhouse Gondola top",
+   10.9
+  ],
+  [
+   "Roundhouse Gondola",
+   "Roundhouse Gondola top",
+   "Roundhouse Gondola bottom",
+   10.9
+  ],
+  [
+   "Seattle Ridge",
+   "Seattle Ridge bottom",
+   "Seattle Ridge top",
+   7.0
+  ]
+ ],
+ "runs": [
+  [
+   "Warm Springs Face",
+   "Challenger top",
+   "Warm Springs Face 2",
+   0.5
+  ],
+  [
+   "Warm Springs Face",
+   "Warm Springs Face 2",
+   "Warm Springs Face",
+   2.3
+  ],
+  [
+   "Warm Springs Face",
+   "Warm Springs Face",
+   "Warm Springs Face 3",
+   1.1
+  ],
+  [
+   "Warm Springs Face",
+   "Warm Springs Face 3",
+   "Warm Springs Face / Pete's Lane",
+   0.5
+  ],
+  [
+   "Olympic",
+   "Olympic / Olympic Lane",
+   "Olympic / Olympic Lane 2",
+   2.4
+  ],
+  [
+   "Upper Cozy",
+   "Upper Cozy / Upper Hemingway",
+   "Upper Cozy 2",
+   0.6
+  ],
+  [
+   "Upper Cozy",
+   "Upper Cozy 2",
+   "Upper Cozy",
+   0.6
+  ],
+  [
+   "Upper Cozy",
+   "Upper Cozy",
+   "Upper Cozy / Cozy",
+   0.6
+  ],
+  [
+   "Cold Springs Cut Off",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   "Cold Springs Cut Off",
+   1.2
+  ],
+  [
+   "Cold Springs Cut Off",
+   "Cold Springs Cut Off",
+   "Cold Springs Cut Off / Unnamed run",
+   3.0
+  ],
+  [
+   "Lower Janss Pass",
+   "Lower Janss Pass / Janss Pass",
+   "Lower Janss Pass / Undergraduate",
+   1.6
+  ],
+  [
+   "Lookout Bowl",
+   "Lookout Bowl / Unnamed run",
+   "Lookout Bowl",
+   0.5
+  ],
+  [
+   "Lookout Bowl",
+   "Lookout Bowl",
+   "Seattle Ridge bottom",
+   4.7
+  ],
+  [
+   "Mid Inhibition",
+   "Mid Inhibition / Christmas Lane",
+   "Mid Inhibition / Gun Tower Lane",
+   0.7
+  ],
+  [
+   "Mindbender",
+   "Roundhouse Gondola top",
+   "Christmas bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Lookout Express bottom",
+   "River Run top",
+   0.5
+  ],
+  [
+   "French Dip",
+   "French Dip / Lower College",
+   "French Dip / Lower French Dip",
+   1.3
+  ],
+  [
+   "Arnold's Run",
+   "Arnold's Run / Maiden Lane",
+   "Arnold's Run / Lower Warm Springs",
+   1.3
+  ],
+  [
+   "Mid River Run",
+   "Mid River Run / Upper River Run",
+   "Mid River Run 3",
+   0.5
+  ],
+  [
+   "Mid River Run",
+   "Mid River Run 3",
+   "Mid River Run",
+   1.5
+  ],
+  [
+   "Mid River Run",
+   "Mid River Run",
+   "Mid River Run 4",
+   0.8
+  ],
+  [
+   "Mid River Run",
+   "Mid River Run 4",
+   "Mid River Run 2",
+   0.9
+  ],
+  [
+   "Mid River Run",
+   "Mid River Run 2",
+   "Mid River Run / Sunset Trip",
+   1.1
+  ],
+  [
+   "Unnamed run",
+   "Lookout bottom",
+   "Lookout Bowl",
+   2.1
+  ],
+  [
+   "Unnamed run",
+   "Christmas top",
+   "Challenger top",
+   0.5
+  ],
+  [
+   "Upper Holiday",
+   "Upper Holiday / Rock Garden",
+   "Upper Holiday / Roundhouse Lane",
+   0.9
+  ],
+  [
+   "Mid Greyhawk",
+   "Mid Greyhawk / Maiden Lane",
+   "Mid Greyhawk 2",
+   1.3
+  ],
+  [
+   "Mid Greyhawk",
+   "Mid Greyhawk 2",
+   "Mid Greyhawk",
+   0.8
+  ],
+  [
+   "Mid Greyhawk",
+   "Mid Greyhawk",
+   "Mid Greyhawk / Unnamed run",
+   0.7
+  ],
+  [
+   "Limelight",
+   "Limelight / Upper Limelight",
+   "Limelight / Lower Limelight",
+   2.5
+  ],
+  [
+   "Mid Christmas Bowl",
+   "Mid Christmas Bowl / Christmas Ridge",
+   "Mid Christmas Bowl / Lower Christmas Bowl",
+   0.9
+  ],
+  [
+   "Leigh Lane",
+   "Seattle Ridge top",
+   "Leigh Lane / Broadway",
+   1.9
+  ],
+  [
+   "Graduate",
+   "Graduate / Lower College",
+   "Graduate",
+   1.4
+  ],
+  [
+   "Graduate",
+   "Graduate",
+   "Graduate / Undergraduate",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Hemingway",
+   "Mid Greyhawk / Unnamed run",
+   0.8
+  ],
+  [
+   "Christmas Ridge",
+   "Christmas top",
+   "Mid Christmas Bowl / Christmas Ridge",
+   3.6
+  ],
+  [
+   "Roundhouse Slope",
+   "Roundhouse Slope / Olympic Lane",
+   "Roundhouse Slope",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Hemingway 2",
+   "Unnamed run / Cozy",
+   0.8
+  ],
+  [
+   "Undergraduate",
+   "Graduate / Undergraduate",
+   "Lower Janss Pass / Undergraduate",
+   1.1
+  ],
+  [
+   "Undergraduate",
+   "Lower Janss Pass / Undergraduate",
+   "Undergraduate",
+   0.8
+  ],
+  [
+   "Undergraduate",
+   "Undergraduate",
+   "Frenchman's bottom",
+   0.5
+  ],
+  [
+   "Byron's Park",
+   "Byron's Park / Christin's Silver",
+   "Byron's Park",
+   0.5
+  ],
+  [
+   "Byron's Park",
+   "Byron's Park",
+   "Byron's Park 2",
+   0.5
+  ],
+  [
+   "Byron's Park",
+   "Byron's Park 2",
+   "Byron's Park / Mayday Bowl",
+   1.5
+  ],
+  [
+   "Race Arena",
+   "Race Arena / Lower Warm Springs",
+   "Race Arena / Cozy",
+   2.9
+  ],
+  [
+   "Ridge",
+   "Ridge / Upper River Run",
+   "Ridge",
+   2.0
+  ],
+  [
+   "Ridge",
+   "Ridge",
+   "Ridge / Rock Garden",
+   0.8
+  ],
+  [
+   "Exhibition",
+   "Exhibition / Olympic Lane",
+   "Exhibition",
+   0.5
+  ],
+  [
+   "Exhibition",
+   "Exhibition",
+   "Exhibition / Sunset Trip",
+   2.6
+  ],
+  [
+   "International Trees",
+   "International Trees",
+   "Upper Cozy 2",
+   1.7
+  ],
+  [
+   "Sigi's Bowl",
+   "Sigi's Bowl / Bowl Lane",
+   "Sigi's Bowl / Broadway",
+   1.9
+  ],
+  [
+   "Pete's Lane",
+   "Frenchman's top",
+   "Pete's Lane",
+   0.5
+  ],
+  [
+   "Pete's Lane",
+   "Pete's Lane",
+   "Warm Springs Face / Pete's Lane",
+   3.2
+  ],
+  [
+   "Rock Garden",
+   "Ridge / Rock Garden",
+   "Upper Holiday / Rock Garden",
+   0.5
+  ],
+  [
+   "Rock Garden",
+   "Upper Holiday / Rock Garden",
+   "Rock Garden / Roundhouse Lane",
+   1.4
+  ],
+  [
+   "Sunnyside Bowl",
+   "Sunnyside Bowl / Picabo's Street",
+   "Mid River Run",
+   2.2
+  ],
+  [
+   "Lower Can-Can",
+   "Lower Can-Can / Lilly Marlane",
+   "Undergraduate",
+   1.4
+  ],
+  [
+   "Janss Pass",
+   "Janss Pass / Flying Squirrel",
+   "Lower Janss Pass / Janss Pass",
+   1.3
+  ],
+  [
+   "Picabo's Street",
+   "Sunnyside Bowl / Picabo's Street",
+   "Picabo's Street / Maiden Lane",
+   2.9
+  ],
+  [
+   "Mayday Bowl",
+   "Mayday Bowl / Bowl Lane",
+   "Byron's Park / Mayday Bowl",
+   3.9
+  ],
+  [
+   "Gretchen's Gold",
+   "Seattle Ridge top",
+   "Gretchen's Gold",
+   0.5
+  ],
+  [
+   "Gretchen's Gold",
+   "Gretchen's Gold",
+   "Unnamed run / Gretchen's Gold",
+   1.5
+  ],
+  [
+   "Gretchen's Gold",
+   "Unnamed run / Gretchen's Gold",
+   "Gretchen's Gold 2",
+   1.7
+  ],
+  [
+   "Gretchen's Gold",
+   "Gretchen's Gold 2",
+   "Mayday bottom",
+   1.1
+  ],
+  [
+   "Kaitlyn's Bowl",
+   "Kaitlyn's Bowl / Bowl Lane",
+   "Kaitlyn's Bowl / Broadway",
+   2.4
+  ],
+  [
+   "Unnamed run",
+   "Mayday top",
+   "Lookout Bowl / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Lookout Bowl / Unnamed run",
+   "Unnamed run 8",
+   1.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 8",
+   "Unnamed run / I-80",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Mid Warm Springs",
+   "Unnamed run / International Trees",
+   0.9
+  ],
+  [
+   "Olympic Lane",
+   "Roundhouse Gondola top",
+   "Roundhouse Slope / Olympic Lane",
+   0.5
+  ],
+  [
+   "Olympic Lane",
+   "Roundhouse Slope / Olympic Lane",
+   "Olympic Lane 3",
+   1.1
+  ],
+  [
+   "Olympic Lane",
+   "Olympic Lane 3",
+   "Exhibition / Olympic Lane",
+   0.5
+  ],
+  [
+   "Olympic Lane",
+   "Exhibition / Olympic Lane",
+   "Olympic / Olympic Lane",
+   0.9
+  ],
+  [
+   "Olympic Lane",
+   "Olympic / Olympic Lane",
+   "Olympic Lane 4",
+   1.4
+  ],
+  [
+   "Olympic Lane",
+   "Olympic Lane 4",
+   "Olympic Lane 5",
+   1.3
+  ],
+  [
+   "Olympic Lane",
+   "Olympic Lane 5",
+   "Olympic Lane 6",
+   1.7
+  ],
+  [
+   "Olympic Lane",
+   "Olympic Lane 6",
+   "Olympic Lane",
+   1.8
+  ],
+  [
+   "Olympic Lane",
+   "Olympic Lane",
+   "Olympic / Olympic Lane 2",
+   1.1
+  ],
+  [
+   "Olympic Lane",
+   "Olympic / Olympic Lane 2",
+   "Olympic Lane 2",
+   1.0
+  ],
+  [
+   "Olympic Lane",
+   "Olympic Lane 2",
+   "Olympic Lane / Sunset Trip",
+   2.0
+  ],
+  [
+   "Muffy's Medals",
+   "Gretchen's Gold",
+   "Muffy's Medals",
+   1.1
+  ],
+  [
+   "Muffy's Medals",
+   "Muffy's Medals",
+   "Muffy's Medals / Broadway",
+   2.8
+  ],
+  [
+   "International",
+   "International / Warm Springs Face",
+   "International 2",
+   0.5
+  ],
+  [
+   "International",
+   "International 2",
+   "International",
+   0.5
+  ],
+  [
+   "International",
+   "International",
+   "Warm Springs Face",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Broadway top",
+   "Roundhouse Gondola top",
+   0.5
+  ],
+  [
+   "Hemingway",
+   "Unnamed run / Hemingway 2",
+   "Hemingway",
+   1.5
+  ],
+  [
+   "Hemingway",
+   "Hemingway",
+   "Unnamed run / Hemingway",
+   0.5
+  ],
+  [
+   "Hemingway",
+   "Unnamed run / Hemingway",
+   "Hemingway / Cozy",
+   1.3
+  ],
+  [
+   "Olympic Ridge",
+   "Olympic Lane",
+   "Olympic Ridge / Lower Olympic",
+   1.2
+  ],
+  [
+   "Upper River Run",
+   "Ridge / Upper River Run",
+   "Mid River Run / Upper River Run",
+   2.5
+  ],
+  [
+   "French Connection",
+   "French Connection / Sunset Trip",
+   "French Connection",
+   1.8
+  ],
+  [
+   "French Connection",
+   "French Connection",
+   "Frenchman's bottom",
+   1.9
+  ],
+  [
+   "Sunset Trip",
+   "French Connection / Sunset Trip",
+   "Mid River Run / Sunset Trip",
+   2.4
+  ],
+  [
+   "Sunset Trip",
+   "Mid River Run / Sunset Trip",
+   "Exhibition / Sunset Trip",
+   1.1
+  ],
+  [
+   "Sunset Trip",
+   "Exhibition / Sunset Trip",
+   "Olympic Lane / Sunset Trip",
+   0.5
+  ],
+  [
+   "Lefty Bowl",
+   "Lefty Bowl / Bowl Lane",
+   "Lefty Bowl / Broadway",
+   3.1
+  ],
+  [
+   "Sleeping Bear",
+   "Exhibition",
+   "Olympic Lane 2",
+   3.0
+  ],
+  [
+   "Brick's Island",
+   "Brick's Island / Lower Warm Springs",
+   "Mid Greyhawk",
+   2.1
+  ],
+  [
+   "Upper College",
+   "Christmas top",
+   "Upper College",
+   0.6
+  ],
+  [
+   "Upper College",
+   "Upper College",
+   "Upper College 3",
+   0.5
+  ],
+  [
+   "Upper College",
+   "Upper College 3",
+   "Ridge / Upper River Run",
+   0.5
+  ],
+  [
+   "Upper College",
+   "Ridge / Upper River Run",
+   "Upper College 2",
+   2.5
+  ],
+  [
+   "Upper College",
+   "Upper College 2",
+   "Sunnyside Bowl / Picabo's Street",
+   0.5
+  ],
+  [
+   "Upper College",
+   "Sunnyside Bowl / Picabo's Street",
+   "Frenchman's top",
+   0.6
+  ],
+  [
+   "Lower French Dip",
+   "French Dip / Lower French Dip",
+   "Frenchman's bottom",
+   1.4
+  ],
+  [
+   "International Trees",
+   "International Trees",
+   "Unnamed run / International Trees",
+   1.3
+  ],
+  [
+   "Warm Springs Face",
+   "Warm Springs Face 2",
+   "International / Warm Springs Face",
+   0.5
+  ],
+  [
+   "Lower Holiday",
+   "Lower Holiday / Mid River Lane",
+   "Mid River Run 2",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 5",
+   "Cold Springs Cut Off",
+   1.3
+  ],
+  [
+   "Upper Hemingway",
+   "Unnamed run / International Trees",
+   "Upper Cozy / Upper Hemingway",
+   0.6
+  ],
+  [
+   "Upper Hemingway",
+   "Upper Cozy / Upper Hemingway",
+   "Unnamed run / Hemingway 2",
+   1.2
+  ],
+  [
+   "Lilly Marlane",
+   "Lilly Marlane / Maiden Lane",
+   "Lower Janss Pass / Janss Pass",
+   0.9
+  ],
+  [
+   "Lilly Marlane",
+   "Lower Janss Pass / Janss Pass",
+   "Graduate / Undergraduate",
+   0.9
+  ],
+  [
+   "Lilly Marlane",
+   "Graduate / Undergraduate",
+   "Lower Can-Can / Lilly Marlane",
+   1.1
+  ],
+  [
+   "Lilly Marlane",
+   "Lower Can-Can / Lilly Marlane",
+   "French Connection / Sunset Trip",
+   2.3
+  ],
+  [
+   "International Ridge",
+   "International",
+   "International Ridge 3",
+   0.8
+  ],
+  [
+   "International Ridge",
+   "International Ridge 3",
+   "International Ridge 2",
+   0.8
+  ],
+  [
+   "International Ridge",
+   "International Ridge 2",
+   "International Ridge",
+   0.5
+  ],
+  [
+   "International Ridge",
+   "International Ridge",
+   "International Trees",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Kinderspielplatz bottom",
+   "Roundhouse Gondola bottom",
+   0.5
+  ],
+  [
+   "Can-Can",
+   "Can-Can / Lower College",
+   "Lower Can-Can / Lilly Marlane",
+   1.7
+  ],
+  [
+   "Broadway",
+   "Leigh Lane / Broadway",
+   "Sigi's Bowl / Broadway",
+   1.3
+  ],
+  [
+   "Broadway",
+   "Sigi's Bowl / Broadway",
+   "Kaitlyn's Bowl / Broadway",
+   1.0
+  ],
+  [
+   "Broadway",
+   "Kaitlyn's Bowl / Broadway",
+   "Lefty Bowl / Broadway",
+   0.6
+  ],
+  [
+   "Broadway",
+   "Lefty Bowl / Broadway",
+   "Broadway",
+   1.0
+  ],
+  [
+   "Broadway",
+   "Broadway",
+   "Byron's Park / Mayday Bowl",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Byron's Park / Mayday Bowl",
+   "Muffy's Medals / Broadway",
+   0.7
+  ],
+  [
+   "Broadway",
+   "Muffy's Medals / Broadway",
+   "Mayday bottom",
+   0.5
+  ],
+  [
+   "Broadway",
+   "Mayday bottom",
+   "Seattle Ridge bottom",
+   0.8
+  ],
+  [
+   "Blue Grouse",
+   "Ridge",
+   "Blue Grouse",
+   0.7
+  ],
+  [
+   "Blue Grouse",
+   "Blue Grouse",
+   "Mid River Run 3",
+   0.8
+  ],
+  [
+   "Cozy",
+   "Upper Cozy / Cozy",
+   "Unnamed run / Cozy",
+   0.6
+  ],
+  [
+   "Cozy",
+   "Unnamed run / Cozy",
+   "Hemingway / Cozy",
+   2.5
+  ],
+  [
+   "Cozy",
+   "Hemingway / Cozy",
+   "Race Arena / Cozy",
+   0.5
+  ],
+  [
+   "Mid River Lane",
+   "Olympic Lane 3",
+   "Mid River Lane",
+   1.0
+  ],
+  [
+   "Mid River Lane",
+   "Mid River Lane",
+   "Lower Holiday / Mid River Lane",
+   0.9
+  ],
+  [
+   "Mid River Lane",
+   "Lower Holiday / Mid River Lane",
+   "Mid River Run 4",
+   0.7
+  ],
+  [
+   "Maiden Lane",
+   "Graduate",
+   "Lilly Marlane / Maiden Lane",
+   1.8
+  ],
+  [
+   "Maiden Lane",
+   "Lilly Marlane / Maiden Lane",
+   "Arnold's Run / Maiden Lane",
+   0.6
+  ],
+  [
+   "Maiden Lane",
+   "Arnold's Run / Maiden Lane",
+   "Picabo's Street / Maiden Lane",
+   0.8
+  ],
+  [
+   "Maiden Lane",
+   "Picabo's Street / Maiden Lane",
+   "Maiden Lane",
+   1.7
+  ],
+  [
+   "Maiden Lane",
+   "Maiden Lane",
+   "Mid Greyhawk / Maiden Lane",
+   0.5
+  ],
+  [
+   "Maiden Lane",
+   "Mid Greyhawk / Maiden Lane",
+   "Unnamed run / Hemingway 2",
+   0.7
+  ],
+  [
+   "Maiden Lane",
+   "Unnamed run / Hemingway 2",
+   "Upper Cozy / Cozy",
+   0.5
+  ],
+  [
+   "Upper Greyhawk",
+   "Unnamed run / International Trees",
+   "Mid Greyhawk / Maiden Lane",
+   1.0
+  ],
+  [
+   "Unnamed run",
+   "Roundhouse Gondola top",
+   "Christmas bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Broadway top",
+   "Unnamed run 5",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 5",
+   "Unnamed run 6",
+   3.5
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run 6",
+   "Cold Springs Cut Off / Unnamed run",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Cold Springs Cut Off / Unnamed run",
+   "Unnamed run 6",
+   0.5
+  ],
+  [
+   "Upper Limelight",
+   "Upper College",
+   "Limelight / Upper Limelight",
+   1.4
+  ],
+  [
+   "Roundhouse Slope",
+   "Broadway top",
+   "Roundhouse Slope",
+   0.5
+  ],
+  [
+   "Roundhouse Slope",
+   "Roundhouse Slope",
+   "Olympic Lane 3",
+   0.8
+  ],
+  [
+   "Lower Broadway",
+   "Seattle Ridge bottom",
+   "Lower Broadway",
+   3.3
+  ],
+  [
+   "Lower Broadway",
+   "Lower Broadway",
+   "Cold Springs Cut Off / Unnamed run",
+   1.0
+  ],
+  [
+   "Lower Broadway",
+   "Cold Springs Cut Off / Unnamed run",
+   "Unnamed run 6",
+   0.5
+  ],
+  [
+   "Lower Broadway",
+   "Unnamed run 6",
+   "Broadway bottom",
+   5.2
+  ],
+  [
+   "Roundhouse Lane",
+   "Frenchman's top",
+   "Roundhouse Lane 2",
+   0.9
+  ],
+  [
+   "Roundhouse Lane",
+   "Roundhouse Lane 2",
+   "Mid River Run / Upper River Run",
+   0.7
+  ],
+  [
+   "Roundhouse Lane",
+   "Mid River Run / Upper River Run",
+   "Roundhouse Lane",
+   0.9
+  ],
+  [
+   "Roundhouse Lane",
+   "Roundhouse Lane",
+   "Upper Holiday / Roundhouse Lane",
+   0.6
+  ],
+  [
+   "Roundhouse Lane",
+   "Upper Holiday / Roundhouse Lane",
+   "Rock Garden / Roundhouse Lane",
+   1.4
+  ],
+  [
+   "Roundhouse Lane",
+   "Rock Garden / Roundhouse Lane",
+   "Roundhouse Gondola top",
+   0.5
+  ],
+  [
+   "I-80",
+   "Challenger top",
+   "Unnamed run / I-80",
+   0.5
+  ],
+  [
+   "I-80",
+   "Unnamed run / I-80",
+   "I-80 2",
+   1.0
+  ],
+  [
+   "I-80",
+   "I-80 2",
+   "I-80",
+   0.6
+  ],
+  [
+   "I-80",
+   "I-80",
+   "International / Warm Springs Face",
+   0.5
+  ],
+  [
+   "I-80",
+   "International / Warm Springs Face",
+   "Limelight / Upper Limelight",
+   2.2
+  ],
+  [
+   "I-80",
+   "Limelight / Upper Limelight",
+   "Upper College 2",
+   2.0
+  ],
+  [
+   "Lower Canyon",
+   "Mid River Lane",
+   "Mid River Run / Sunset Trip",
+   2.1
+  ],
+  [
+   "Lower Warm Springs",
+   "Unnamed run / Lower Warm Springs",
+   "Brick's Island / Lower Warm Springs",
+   0.9
+  ],
+  [
+   "Lower Warm Springs",
+   "Brick's Island / Lower Warm Springs",
+   "Race Arena / Lower Warm Springs",
+   0.5
+  ],
+  [
+   "Lower Warm Springs",
+   "Race Arena / Lower Warm Springs",
+   "Arnold's Run / Lower Warm Springs",
+   0.5
+  ],
+  [
+   "Lower Warm Springs",
+   "Arnold's Run / Lower Warm Springs",
+   "Lower Warm Springs",
+   0.6
+  ],
+  [
+   "Lower Warm Springs",
+   "Lower Warm Springs",
+   "Challenger bottom",
+   3.1
+  ],
+  [
+   "International Trees",
+   "International Ridge",
+   "International Trees / Mid Warm Springs",
+   0.7
+  ],
+  [
+   "Unnamed run",
+   "Mid Greyhawk 2",
+   "Hemingway",
+   0.6
+  ],
+  [
+   "Bowl Lane",
+   "Mayday top",
+   "Mayday Bowl / Bowl Lane",
+   0.5
+  ],
+  [
+   "Bowl Lane",
+   "Mayday Bowl / Bowl Lane",
+   "Lefty Bowl / Bowl Lane",
+   1.1
+  ],
+  [
+   "Bowl Lane",
+   "Lefty Bowl / Bowl Lane",
+   "Kaitlyn's Bowl / Bowl Lane",
+   1.1
+  ],
+  [
+   "Bowl Lane",
+   "Kaitlyn's Bowl / Bowl Lane",
+   "Sigi's Bowl / Bowl Lane",
+   0.8
+  ],
+  [
+   "Bowl Lane",
+   "Sigi's Bowl / Bowl Lane",
+   "Bowl Lane",
+   0.5
+  ],
+  [
+   "Bowl Lane",
+   "Bowl Lane",
+   "Bowl Lane 2",
+   2.0
+  ],
+  [
+   "Bowl Lane",
+   "Bowl Lane 2",
+   "Leigh Lane / Broadway",
+   0.6
+  ],
+  [
+   "Cut Off",
+   "Ridge / Rock Garden",
+   "Roundhouse Lane",
+   0.9
+  ],
+  [
+   "Christin's Silver",
+   "Seattle Ridge top",
+   "Byron's Park / Christin's Silver",
+   1.7
+  ],
+  [
+   "Christin's Silver",
+   "Byron's Park / Christin's Silver",
+   "Byron's Park",
+   0.5
+  ],
+  [
+   "Christin's Silver",
+   "Byron's Park",
+   "Broadway",
+   1.6
+  ],
+  [
+   "Lower Limelight",
+   "Limelight / Lower Limelight",
+   "Unnamed run / Lower Warm Springs",
+   1.1
+  ],
+  [
+   "Roundhouse Lane",
+   "Rock Garden / Roundhouse Lane",
+   "Roundhouse Gondola top",
+   0.5
+  ],
+  [
+   "Lower College",
+   "Frenchman's top",
+   "Graduate / Lower College",
+   0.5
+  ],
+  [
+   "Lower College",
+   "Graduate / Lower College",
+   "Can-Can / Lower College",
+   1.4
+  ],
+  [
+   "Lower College",
+   "Can-Can / Lower College",
+   "French Dip / Lower College",
+   2.0
+  ],
+  [
+   "Lower College",
+   "French Dip / Lower College",
+   "French Connection / Sunset Trip",
+   1.5
+  ],
+  [
+   "International",
+   "I-80",
+   "International 2",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Flying Squirrel top",
+   "Sunnyside Bowl / Picabo's Street",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Brick's Island / Lower Warm Springs",
+   "Challenger bottom",
+   7.5
+  ],
+  [
+   "Lower Christmas Bowl",
+   "Mid Christmas Bowl / Lower Christmas Bowl",
+   "Lower Broadway",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Muffy's Medals",
+   "Byron's Park",
+   0.5
+  ],
+  [
+   "International Trees",
+   "International Ridge 2",
+   "Warm Springs Face 3",
+   0.5
+  ],
+  [
+   "Machine Road",
+   "Pete's Lane",
+   "Limelight / Lower Limelight",
+   3.4
+  ],
+  [
+   "Machine Road",
+   "Limelight / Lower Limelight",
+   "Unnamed run / Lower Warm Springs",
+   2.5
+  ],
+  [
+   "Unnamed run",
+   "River Run top",
+   "Lookout Express bottom",
+   0.5
+  ],
+  [
+   "International Trees",
+   "International Trees",
+   "Upper Cozy / Upper Hemingway",
+   1.3
+  ],
+  [
+   "Unnamed run",
+   "Byron's Park 2",
+   "Gretchen's Gold 2",
+   1.2
+  ],
+  [
+   "Unnamed run",
+   "Unnamed run / Upper Liftline",
+   "Warm Springs Face 3",
+   0.8
+  ],
+  [
+   "Christmas Bowl",
+   "Upper College 3",
+   "Mid Christmas Bowl / Christmas Ridge",
+   3.2
+  ],
+  [
+   "Hour Glass",
+   "Gretchen's Gold 2",
+   "Seattle Ridge bottom",
+   1.5
+  ],
+  [
+   "Upper Canyon",
+   "Roundhouse Gondola top",
+   "Rock Garden / Roundhouse Lane",
+   0.5
+  ],
+  [
+   "Upper Canyon",
+   "Rock Garden / Roundhouse Lane",
+   "Mid River Lane",
+   0.9
+  ],
+  [
+   "Roundhouse Lane",
+   "Blue Grouse",
+   "Roundhouse Lane 2",
+   1.5
+  ],
+  [
+   "Flying Squirrel",
+   "Frenchman's top",
+   "Flying Squirrel",
+   1.0
+  ],
+  [
+   "Flying Squirrel",
+   "Flying Squirrel",
+   "Janss Pass / Flying Squirrel",
+   0.5
+  ],
+  [
+   "Flying Squirrel",
+   "Janss Pass / Flying Squirrel",
+   "Lilly Marlane / Maiden Lane",
+   1.5
+  ],
+  [
+   "Mid Holiday",
+   "Upper Holiday / Roundhouse Lane",
+   "Lower Holiday / Mid River Lane",
+   1.5
+  ],
+  [
+   "I-80",
+   "Challenger top",
+   "I-80 2",
+   1.1
+  ],
+  [
+   "Kenny's",
+   "Flying Squirrel",
+   "Limelight / Lower Limelight",
+   2.1
+  ],
+  [
+   "Kenny's",
+   "Limelight / Lower Limelight",
+   "Kenny's / Mid Warm Springs",
+   0.9
+  ],
+  [
+   "Unnamed run",
+   "Olympic Lane 4",
+   "Olympic Lane 5",
+   1.2
+  ],
+  [
+   "Gun Tower Lane",
+   "Christmas bottom",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   0.5
+  ],
+  [
+   "Gun Tower Lane",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   "Mid Inhibition / Gun Tower Lane",
+   1.6
+  ],
+  [
+   "Gun Tower Lane",
+   "Mid Inhibition / Gun Tower Lane",
+   "Mid Christmas Bowl / Lower Christmas Bowl",
+   0.7
+  ],
+  [
+   "Gun Tower Lane",
+   "Mid Christmas Bowl / Lower Christmas Bowl",
+   "Seattle Ridge bottom",
+   2.7
+  ],
+  [
+   "Olympic Ridge",
+   "Olympic Lane 6",
+   "Olympic Lane",
+   0.7
+  ],
+  [
+   "Lower Picabo's",
+   "Picabo's Street / Maiden Lane",
+   "Arnold's Run / Lower Warm Springs",
+   1.3
+  ],
+  [
+   "Lower River Run",
+   "Mid River Run / Sunset Trip",
+   "Exhibition / Sunset Trip",
+   0.7
+  ],
+  [
+   "Lower River Run",
+   "Exhibition / Sunset Trip",
+   "Olympic Lane / Sunset Trip",
+   0.5
+  ],
+  [
+   "Lower River Run",
+   "Olympic Lane / Sunset Trip",
+   "Lookout Express bottom",
+   0.5
+  ],
+  [
+   "Lower River Run",
+   "Lookout Express bottom",
+   "River Run top",
+   0.5
+  ],
+  [
+   "Lower River Run",
+   "River Run top",
+   "Lower River Run",
+   1.5
+  ],
+  [
+   "Lower River Run",
+   "Lower River Run",
+   "Kinderspielplatz bottom",
+   2.2
+  ],
+  [
+   "Lower Flying Squirrel",
+   "Lilly Marlane / Maiden Lane",
+   "Lower Warm Springs",
+   1.9
+  ],
+  [
+   "Christmas Lane",
+   "Mid Christmas Bowl / Christmas Ridge",
+   "Mid Inhibition / Christmas Lane",
+   0.6
+  ],
+  [
+   "Christmas Lane",
+   "Mid Inhibition / Christmas Lane",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   1.4
+  ],
+  [
+   "Christmas Lane",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   "Christmas bottom",
+   0.7
+  ],
+  [
+   "Broadway Face",
+   "Bowl Lane",
+   "Bowl Lane 2",
+   1.0
+  ],
+  [
+   "Lower Liftline",
+   "Maiden Lane",
+   "Challenger bottom",
+   4.3
+  ],
+  [
+   "Mid Warm Springs",
+   "Warm Springs Face / Pete's Lane",
+   "International Trees / Mid Warm Springs",
+   0.5
+  ],
+  [
+   "Mid Warm Springs",
+   "International Trees / Mid Warm Springs",
+   "Unnamed run / Mid Warm Springs",
+   0.5
+  ],
+  [
+   "Mid Warm Springs",
+   "Unnamed run / Mid Warm Springs",
+   "Kenny's / Mid Warm Springs",
+   0.5
+  ],
+  [
+   "Mid Warm Springs",
+   "Kenny's / Mid Warm Springs",
+   "Mid Warm Springs",
+   0.5
+  ],
+  [
+   "Mid Warm Springs",
+   "Mid Warm Springs",
+   "Unnamed run / Lower Warm Springs",
+   0.7
+  ],
+  [
+   "Little Easter Bowl",
+   "Challenger top",
+   "Little Easter Bowl / Easter Bowl",
+   2.3
+  ],
+  [
+   "International Trees",
+   "International Ridge 3",
+   "Warm Springs Face 3",
+   0.9
+  ],
+  [
+   "Lower Greyhawk",
+   "Mid Greyhawk / Unnamed run",
+   "Race Arena / Cozy",
+   0.5
+  ],
+  [
+   "Lower Greyhawk",
+   "Race Arena / Cozy",
+   "Challenger bottom",
+   1.3
+  ],
+  [
+   "Upper Liftline",
+   "Challenger top",
+   "Unnamed run / Upper Liftline",
+   3.0
+  ],
+  [
+   "Upper Liftline",
+   "Unnamed run / Upper Liftline",
+   "Kenny's / Mid Warm Springs",
+   1.9
+  ],
+  [
+   "Upper Liftline",
+   "Kenny's / Mid Warm Springs",
+   "Mid Warm Springs",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Challenger top",
+   "Lookout bottom",
+   0.5
+  ],
+  [
+   "Unnamed run",
+   "Kenny's / Mid Warm Springs",
+   "Unnamed run / International Trees",
+   0.6
+  ],
+  [
+   "Lower Olympic",
+   "Olympic / Olympic Lane 2",
+   "Olympic Ridge / Lower Olympic",
+   0.5
+  ],
+  [
+   "Lower Olympic",
+   "Olympic Ridge / Lower Olympic",
+   "Lower River Run",
+   1.8
+  ],
+  [
+   "Aujus",
+   "French Dip / Lower French Dip",
+   "French Connection",
+   0.6
+  ],
+  [
+   "Easter Bowl",
+   "Unnamed run 8",
+   "Little Easter Bowl / Easter Bowl",
+   2.5
+  ],
+  [
+   "Easter Bowl",
+   "Little Easter Bowl / Easter Bowl",
+   "Mayday bottom",
+   2.2
+  ],
+  [
+   "Unnamed run",
+   "Leigh Lane / Broadway",
+   "Muffy's Medals",
+   2.4
+  ],
+  [
+   "Unnamed run",
+   "Muffy's Medals",
+   "Unnamed run / Gretchen's Gold",
+   0.6
+  ]
+ ],
+ "links": [
+  [
+   "walk",
+   "Challenger top",
+   "Lookout bottom",
+   1.3
+  ],
+  [
+   "walk",
+   "Challenger top",
+   "Christmas top",
+   0.8
+  ],
+  [
+   "walk",
+   "Challenger top",
+   "Unnamed run / I-80",
+   0.8
+  ],
+  [
+   "walk",
+   "Challenger top",
+   "Warm Springs Face 2",
+   2.1
+  ],
+  [
+   "walk",
+   "Challenger top",
+   "Upper College",
+   3.0
+  ],
+  [
+   "walk",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   "Roundhouse Gondola top",
+   2.6
+  ],
+  [
+   "walk",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   "Christmas bottom",
+   2.0
+  ],
+  [
+   "walk",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   "Broadway top",
+   3.2
+  ],
+  [
+   "walk",
+   "Lower Janss Pass / Undergraduate",
+   "Frenchman's bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Lookout Bowl / Unnamed run",
+   "Mayday top",
+   1.9
+  ],
+  [
+   "walk",
+   "Roundhouse Gondola top",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   2.6
+  ],
+  [
+   "walk",
+   "Roundhouse Gondola top",
+   "Christmas bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "Roundhouse Gondola top",
+   "Roundhouse Slope / Olympic Lane",
+   1.1
+  ],
+  [
+   "walk",
+   "Roundhouse Gondola top",
+   "Roundhouse Slope",
+   2.3
+  ],
+  [
+   "walk",
+   "Roundhouse Gondola top",
+   "Rock Garden / Roundhouse Lane",
+   0.6
+  ],
+  [
+   "walk",
+   "Roundhouse Gondola top",
+   "Broadway top",
+   1.5
+  ],
+  [
+   "walk",
+   "Christmas bottom",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   2.0
+  ],
+  [
+   "walk",
+   "Christmas bottom",
+   "Roundhouse Gondola top",
+   0.6
+  ],
+  [
+   "walk",
+   "Christmas bottom",
+   "Roundhouse Slope / Olympic Lane",
+   1.8
+  ],
+  [
+   "walk",
+   "Christmas bottom",
+   "Roundhouse Slope",
+   2.7
+  ],
+  [
+   "walk",
+   "Christmas bottom",
+   "Rock Garden / Roundhouse Lane",
+   1.0
+  ],
+  [
+   "walk",
+   "Christmas bottom",
+   "Broadway top",
+   1.7
+  ],
+  [
+   "walk",
+   "Lookout Express bottom",
+   "River Run top",
+   0.6
+  ],
+  [
+   "walk",
+   "Lookout Express bottom",
+   "Olympic Lane / Sunset Trip",
+   0.8
+  ],
+  [
+   "walk",
+   "River Run top",
+   "Lookout Express bottom",
+   0.6
+  ],
+  [
+   "walk",
+   "River Run top",
+   "Olympic Lane / Sunset Trip",
+   1.3
+  ],
+  [
+   "walk",
+   "Lookout bottom",
+   "Challenger top",
+   1.3
+  ],
+  [
+   "walk",
+   "Lookout bottom",
+   "Christmas top",
+   1.9
+  ],
+  [
+   "walk",
+   "Lookout bottom",
+   "Unnamed run / I-80",
+   0.9
+  ],
+  [
+   "walk",
+   "Lookout bottom",
+   "Warm Springs Face 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Christmas top",
+   "Challenger top",
+   0.8
+  ],
+  [
+   "walk",
+   "Christmas top",
+   "Lookout bottom",
+   1.9
+  ],
+  [
+   "walk",
+   "Christmas top",
+   "Unnamed run / I-80",
+   1.6
+  ],
+  [
+   "walk",
+   "Christmas top",
+   "Warm Springs Face 2",
+   2.5
+  ],
+  [
+   "walk",
+   "Christmas top",
+   "Upper College",
+   2.3
+  ],
+  [
+   "walk",
+   "Christmas top",
+   "Upper College 3",
+   3.1
+  ],
+  [
+   "walk",
+   "Seattle Ridge top",
+   "Gretchen's Gold",
+   1.5
+  ],
+  [
+   "walk",
+   "Roundhouse Slope / Olympic Lane",
+   "Roundhouse Gondola top",
+   1.1
+  ],
+  [
+   "walk",
+   "Roundhouse Slope / Olympic Lane",
+   "Christmas bottom",
+   1.8
+  ],
+  [
+   "walk",
+   "Frenchman's bottom",
+   "Undergraduate",
+   0.7
+  ],
+  [
+   "walk",
+   "Byron's Park / Mayday Bowl",
+   "Mayday bottom",
+   3.3
+  ],
+  [
+   "walk",
+   "Exhibition / Sunset Trip",
+   "Lookout Express bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Exhibition / Sunset Trip",
+   "River Run top",
+   2.2
+  ],
+  [
+   "walk",
+   "Frenchman's top",
+   "Graduate / Lower College",
+   1.9
+  ],
+  [
+   "walk",
+   "Frenchman's top",
+   "Pete's Lane",
+   0.9
+  ],
+  [
+   "walk",
+   "Frenchman's top",
+   "Roundhouse Lane 2",
+   3.0
+  ],
+  [
+   "walk",
+   "Rock Garden / Roundhouse Lane",
+   "Roundhouse Gondola top",
+   0.6
+  ],
+  [
+   "walk",
+   "Rock Garden / Roundhouse Lane",
+   "Christmas bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Rock Garden / Roundhouse Lane",
+   "Broadway top",
+   2.2
+  ],
+  [
+   "walk",
+   "Sunnyside Bowl / Picabo's Street",
+   "Frenchman's top",
+   1.9
+  ],
+  [
+   "walk",
+   "Undergraduate",
+   "Frenchman's bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Mayday Bowl / Bowl Lane",
+   "Mayday top",
+   1.5
+  ],
+  [
+   "walk",
+   "Mayday bottom",
+   "Seattle Ridge bottom",
+   2.5
+  ],
+  [
+   "walk",
+   "Mayday top",
+   "Lookout Bowl / Unnamed run",
+   1.9
+  ],
+  [
+   "walk",
+   "Mayday top",
+   "Lookout Bowl",
+   2.4
+  ],
+  [
+   "walk",
+   "Mayday top",
+   "Mayday Bowl / Bowl Lane",
+   1.5
+  ],
+  [
+   "walk",
+   "Unnamed run / I-80",
+   "Challenger top",
+   0.8
+  ],
+  [
+   "walk",
+   "Unnamed run / I-80",
+   "Lookout bottom",
+   0.9
+  ],
+  [
+   "walk",
+   "Unnamed run / I-80",
+   "Christmas top",
+   1.6
+  ],
+  [
+   "walk",
+   "Olympic Lane / Sunset Trip",
+   "Lookout Express bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Olympic Lane / Sunset Trip",
+   "River Run top",
+   1.3
+  ],
+  [
+   "walk",
+   "Gretchen's Gold",
+   "Seattle Ridge top",
+   1.5
+  ],
+  [
+   "walk",
+   "Muffy's Medals / Broadway",
+   "Mayday bottom",
+   1.0
+  ],
+  [
+   "walk",
+   "Broadway top",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   3.2
+  ],
+  [
+   "walk",
+   "Broadway top",
+   "Roundhouse Gondola top",
+   1.5
+  ],
+  [
+   "walk",
+   "Broadway top",
+   "Christmas bottom",
+   1.7
+  ],
+  [
+   "walk",
+   "Broadway top",
+   "Roundhouse Slope / Olympic Lane",
+   1.6
+  ],
+  [
+   "walk",
+   "Broadway top",
+   "Roundhouse Slope",
+   1.6
+  ],
+  [
+   "walk",
+   "Broadway top",
+   "Rock Garden / Roundhouse Lane",
+   2.2
+  ],
+  [
+   "walk",
+   "Broadway top",
+   "Unnamed run 5",
+   3.1
+  ],
+  [
+   "walk",
+   "Broadway top",
+   "Cold Springs Cut Off",
+   3.2
+  ],
+  [
+   "walk",
+   "Kinderspielplatz bottom",
+   "Roundhouse Gondola bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Kinderspielplatz bottom",
+   "Kinderspielplatz top",
+   0.7
+  ],
+  [
+   "walk",
+   "Roundhouse Gondola bottom",
+   "Kinderspielplatz bottom",
+   0.8
+  ],
+  [
+   "walk",
+   "Roundhouse Gondola bottom",
+   "Kinderspielplatz top",
+   1.4
+  ],
+  [
+   "walk",
+   "Upper College",
+   "Challenger top",
+   3.0
+  ],
+  [
+   "walk",
+   "Upper College",
+   "Christmas top",
+   2.3
+  ],
+  [
+   "walk",
+   "Upper College 2",
+   "Frenchman's top",
+   3.2
+  ],
+  [
+   "walk",
+   "Upper College 2",
+   "Flying Squirrel top",
+   1.0
+  ],
+  [
+   "walk",
+   "Flying Squirrel top",
+   "Sunnyside Bowl / Picabo's Street",
+   1.9
+  ],
+  [
+   "walk",
+   "Flying Squirrel top",
+   "Upper College 2",
+   1.0
+  ],
+  [
+   "walk",
+   "Flying Squirrel top",
+   "Pete's Lane",
+   3.3
+  ],
+  [
+   "walk",
+   "Pete's Lane",
+   "Frenchman's top",
+   0.9
+  ],
+  [
+   "walk",
+   "Upper College 3",
+   "Christmas top",
+   3.1
+  ],
+  [
+   "walk",
+   "Unnamed run 8",
+   "Lookout bottom",
+   2.9
+  ],
+  [
+   "walk",
+   "Kinderspielplatz top",
+   "Kinderspielplatz bottom",
+   0.7
+  ],
+  [
+   "walk",
+   "Kinderspielplatz top",
+   "Roundhouse Gondola bottom",
+   1.4
+  ],
+  [
+   "walk",
+   "Lookout bottom",
+   "Upper College",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run / I-80",
+   "Warm Springs Face 2",
+   2.9
+  ],
+  [
+   "walk",
+   "Unnamed run / I-80",
+   "Upper College",
+   3.8
+  ],
+  [
+   "walk",
+   "Upper College",
+   "Lookout bottom",
+   4.2
+  ],
+  [
+   "walk",
+   "Upper College",
+   "Unnamed run / I-80",
+   3.8
+  ],
+  [
+   "walk",
+   "Upper College",
+   "Warm Springs Face 2",
+   4.8
+  ],
+  [
+   "walk",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   "Roundhouse Slope / Olympic Lane",
+   3.7
+  ],
+  [
+   "walk",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   "Roundhouse Slope",
+   4.7
+  ],
+  [
+   "walk",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   "Rock Garden / Roundhouse Lane",
+   2.9
+  ],
+  [
+   "walk",
+   "Roundhouse Slope / Olympic Lane",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   3.7
+  ],
+  [
+   "walk",
+   "Roundhouse Slope / Olympic Lane",
+   "Roundhouse Slope",
+   3.4
+  ],
+  [
+   "walk",
+   "Roundhouse Slope / Olympic Lane",
+   "Rock Garden / Roundhouse Lane",
+   1.8
+  ],
+  [
+   "walk",
+   "Roundhouse Slope / Olympic Lane",
+   "Broadway top",
+   2.7
+  ],
+  [
+   "walk",
+   "Rock Garden / Roundhouse Lane",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   2.9
+  ],
+  [
+   "walk",
+   "Rock Garden / Roundhouse Lane",
+   "Roundhouse Slope / Olympic Lane",
+   1.8
+  ],
+  [
+   "walk",
+   "Rock Garden / Roundhouse Lane",
+   "Roundhouse Slope",
+   2.9
+  ],
+  [
+   "walk",
+   "Exhibition / Sunset Trip",
+   "Olympic Lane / Sunset Trip",
+   2.4
+  ],
+  [
+   "walk",
+   "Unnamed run 8",
+   "Challenger top",
+   4.2
+  ],
+  [
+   "walk",
+   "Unnamed run 8",
+   "Christmas top",
+   4.8
+  ],
+  [
+   "walk",
+   "Unnamed run 8",
+   "Unnamed run / I-80",
+   3.8
+  ],
+  [
+   "walk",
+   "Unnamed run 8",
+   "Warm Springs Face 2",
+   5.9
+  ],
+  [
+   "walk",
+   "Challenger top",
+   "Upper College 3",
+   3.9
+  ],
+  [
+   "walk",
+   "Lookout bottom",
+   "Upper College 3",
+   5.1
+  ],
+  [
+   "walk",
+   "Unnamed run / I-80",
+   "Upper College 3",
+   4.7
+  ],
+  [
+   "walk",
+   "Upper College",
+   "Upper College 3",
+   5.4
+  ],
+  [
+   "walk",
+   "Upper College 3",
+   "Challenger top",
+   3.9
+  ],
+  [
+   "walk",
+   "Upper College 3",
+   "Lookout bottom",
+   5.1
+  ],
+  [
+   "walk",
+   "Upper College 3",
+   "Unnamed run / I-80",
+   4.7
+  ],
+  [
+   "walk",
+   "Upper College 3",
+   "Warm Springs Face 2",
+   5.6
+  ],
+  [
+   "walk",
+   "Upper College 3",
+   "Upper College",
+   5.4
+  ],
+  [
+   "walk",
+   "Lower Janss Pass / Undergraduate",
+   "Undergraduate",
+   3.9
+  ],
+  [
+   "walk",
+   "Sunnyside Bowl / Picabo's Street",
+   "Graduate / Lower College",
+   3.8
+  ],
+  [
+   "walk",
+   "Sunnyside Bowl / Picabo's Street",
+   "Pete's Lane",
+   2.8
+  ],
+  [
+   "walk",
+   "Sunnyside Bowl / Picabo's Street",
+   "Roundhouse Lane 2",
+   4.9
+  ],
+  [
+   "walk",
+   "Upper College 2",
+   "Graduate / Lower College",
+   5.1
+  ],
+  [
+   "walk",
+   "Upper College 2",
+   "Pete's Lane",
+   4.1
+  ],
+  [
+   "walk",
+   "Upper College 2",
+   "Roundhouse Lane 2",
+   6.2
+  ],
+  [
+   "walk",
+   "Pete's Lane",
+   "Graduate / Lower College",
+   2.8
+  ],
+  [
+   "walk",
+   "Pete's Lane",
+   "Roundhouse Lane 2",
+   3.9
+  ],
+  [
+   "walk",
+   "Flying Squirrel top",
+   "Frenchman's top",
+   3.8
+  ],
+  [
+   "walk",
+   "Flying Squirrel top",
+   "Graduate / Lower College",
+   5.7
+  ],
+  [
+   "walk",
+   "Flying Squirrel top",
+   "Roundhouse Lane 2",
+   6.9
+  ],
+  [
+   "walk",
+   "Byron's Park / Mayday Bowl",
+   "Seattle Ridge bottom",
+   5.9
+  ],
+  [
+   "walk",
+   "Muffy's Medals / Broadway",
+   "Seattle Ridge bottom",
+   3.5
+  ],
+  [
+   "walk",
+   "Lookout Bowl / Unnamed run",
+   "Lookout Bowl",
+   4.4
+  ],
+  [
+   "walk",
+   "Lookout Bowl / Unnamed run",
+   "Mayday Bowl / Bowl Lane",
+   3.5
+  ],
+  [
+   "walk",
+   "Mayday Bowl / Bowl Lane",
+   "Lookout Bowl / Unnamed run",
+   3.5
+  ],
+  [
+   "walk",
+   "Mayday Bowl / Bowl Lane",
+   "Lookout Bowl",
+   3.9
+  ],
+  [
+   "walk",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   "Unnamed run 5",
+   6.4
+  ],
+  [
+   "walk",
+   "Cold Springs Cut Off / Gun Tower Lane",
+   "Cold Springs Cut Off",
+   6.4
+  ],
+  [
+   "walk",
+   "Roundhouse Gondola top",
+   "Unnamed run 5",
+   4.7
+  ],
+  [
+   "walk",
+   "Roundhouse Gondola top",
+   "Cold Springs Cut Off",
+   4.7
+  ],
+  [
+   "walk",
+   "Christmas bottom",
+   "Unnamed run 5",
+   4.8
+  ],
+  [
+   "walk",
+   "Christmas bottom",
+   "Cold Springs Cut Off",
+   4.8
+  ],
+  [
+   "walk",
+   "Rock Garden / Roundhouse Lane",
+   "Unnamed run 5",
+   5.3
+  ],
+  [
+   "walk",
+   "Rock Garden / Roundhouse Lane",
+   "Cold Springs Cut Off",
+   5.3
+  ],
+  [
+   "walk",
+   "Roundhouse Slope / Olympic Lane",
+   "Unnamed run 5",
+   5.8
+  ],
+  [
+   "walk",
+   "Roundhouse Slope / Olympic Lane",
+   "Cold Springs Cut Off",
+   5.8
+  ],
+  [
+   "walk",
+   "Upper College 2",
+   "Sunnyside Bowl / Picabo's Street",
+   2.9
+  ]
+ ],
+ "base": "Challenger bottom",
+ "info": {
+  "country": "United States of America",
+  "state": "Idaho",
+  "total_lifts": "12",
+  "downhill_trails": "165",
+  "elevation_low_m": null,
+  "elevation_high_m": null,
+  "vertical_drop_m": null,
+  "website": "https://www.sunvalley.com/"
+ }
+}
