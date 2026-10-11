@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QUASAR QWOA Results</title>
+<meta name="description" content="QWOA on ski-route planning: results, charts and how they were checked, against a penalty-QUBO QAOA baseline and a random route.">
+<style>
+  :root {
+    color-scheme: light;
+    --page: #f9f9f7; --surface: #fcfcfb; --ink: #0b0b0b; --ink-2: #52514e; --muted: #6c6b66;
+    --line: #e1e0d9; --accent: #2a78d6; --qaoa: #eb6834; --code-bg: #f0efec;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      color-scheme: dark;
+      --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #a3a29a;
+      --line: #2c2c2a; --accent: #3987e5; --qaoa: #d95926; --code-bg: #232321;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body { margin: 0; background: var(--page); color: var(--ink); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 880px; margin: 0 auto; padding: 32px 16px 64px; }
+  header { padding: 8px 0 24px; border-bottom: 1px solid var(--line); margin-bottom: 8px; }
+  .eyebrow { color: var(--muted); font-size: 13px; letter-spacing: .06em; text-transform: uppercase; margin: 0 0 8px; }
+  h1 { font-size: clamp(28px, 5vw, 40px); line-height: 1.15; margin: 0 0 12px; letter-spacing: -.01em; }
+  h2 { font-size: 22px; margin: 44px 0 12px; line-height: 1.25; }
+  h3 { font-size: 17px; margin: 24px 0 8px; }
+  p, li { color: var(--ink-2); }
+  strong { color: var(--ink); }
+  a { color: var(--accent); }
+  .lede { font-size: 18px; color: var(--ink-2); margin: 0 0 16px; }
+  .links { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 0; padding: 0; list-style: none; }
+  .links a { display: inline-block; padding: 8px 14px; border: 1px solid var(--line); border-radius: 999px; text-decoration: none; color: var(--ink); background: var(--surface); font-size: 14px; }
+  .links a:hover { border-color: var(--accent); }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin: 24px 0 8px; }
+  .tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px; }
+  .tile b { display: block; font-size: 30px; line-height: 1.1; color: var(--ink); }
+  .tile span { display: block; color: var(--ink-2); font-size: 14px; margin-top: 6px; }
+  .tile b .vs { display: inline; color: var(--muted); font-size: 18px; font-weight: 400; margin: 0 0 0 4px; }
+  figure { margin: 20px 0; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px; }
+  figure img { display: block; width: 100%; height: auto; }
+  figcaption { color: var(--ink-2); font-size: 14px; margin: 10px 4px 2px; }
+  .table-wrap { overflow-x: auto; margin: 16px 0; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; font-variant-numeric: tabular-nums; }
+  th, td { padding: 8px 12px; text-align: right; border-bottom: 1px solid var(--line); white-space: nowrap; }
+  th:first-child, td:first-child { text-align: left; }
+  th { color: var(--ink); font-weight: 600; }
+  td { color: var(--ink-2); }
+  tbody tr:last-child td { border-bottom: 0; }
+  .q { color: var(--accent); font-weight: 600; }
+  code { background: var(--code-bg); padding: 1px 6px; border-radius: 6px; font-size: .9em; }
+  pre { background: var(--code-bg); padding: 14px 16px; border-radius: 10px; overflow-x: auto; font-size: 13px; line-height: 1.5; }
+  pre code { background: none; padding: 0; }
+  .note { border-left: 3px solid var(--qaoa); background: var(--surface); padding: 12px 16px; border-radius: 0 10px 10px 0; margin: 16px 0; }
+  .note p { margin: 0; }
+  footer { margin-top: 56px; padding-top: 20px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
+  footer p { color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+
+<header>
+  <p class="eyebrow">Qollab hackathon · Student Track · Quantum Impact · Colorado School of Mines</p>
+  <h1>QWOA on real ski resorts: results and how we checked them</h1>
+  <p class="lede">QUASAR plans the ski day with the most new vertical in the time a skier has. On small instances cut from real resorts, we ran the <strong>Quantum Walk Optimisation Algorithm (QWOA)</strong> against the textbook <strong>penalty-QUBO QAOA</strong> and a <strong>random route</strong>, and compared every result with the exact optimum.</p>
+  <ul class="links">
+    <li><a href="https://ski-routes.racedayconnect.com">Plan a ski day (live app)</a></li>
+    <li><a href="https://github.com/truppelli/quasar">Code on GitHub</a></li>
+    <li><a href="https://github.com/truppelli/quasar#baseline-penalty-qubo-qaoa">Full tables in the README</a></li>
+  </ul>
+</header>
+
+<div class="tiles" role="list">
+  <div class="tile" role="listitem"><b>100% <span class="vs">vs 0.2–3.0%</span></b><span>of the quantum state on routes that can actually be skied: QWOA vs penalty-QUBO QAOA</span></div>
+  <div class="tile" role="listitem"><b>485 <span class="vs">vs 5</span></b><span>best route found in 1,000 shots on IonQ's Forte Enterprise 1 noise model (Crystal Mountain's Quicksilver pod)</span></div>
+  <div class="tile" role="listitem"><b>4–8× <span class="vs">fewer qubits</span></b><span>and 7–46× fewer two-qubit gates than QAOA on the same problem</span></div>
+</div>
+
+<h2>The problem</h2>
+<p>A ski resort is a directed graph: junctions are nodes, runs give vertical drop and take time, lifts take time. Given where a skier is and how long they have, find the route that collects the most vertical. A run scores in full the first time and half on repeats, and repeat lift rides cost a little. With a time budget this is an orienteering problem, which is NP-hard.</p>
+<p>The classical planner solves it with exact branch-and-bound on small graphs and beam search on whole resorts; the live app plans across 50 US resorts. For the quantum experiments we cut a resort into <strong>lift pods</strong>: one lift plus the runs that lead from its top back to its bottom. A pod with a short budget has few enough feasible routes to put on today's quantum computers.</p>
+
+<h2>The algorithms</h2>
+<h3>QWOA</h3>
+<p>QWOA (<a href="https://arxiv.org/abs/1912.07353">Marsh &amp; Wang 2020</a>) is QAOA restricted to feasible solutions. We enumerate a pod's feasible routes classically and give each one an index in a ⌈log₂ M⌉-qubit register. The circuit starts in an equal superposition over the M routes, then alternates two steps p times:</p>
+<ul>
+  <li><strong>Phase separator</strong> exp(−iγC): each route picks up a phase proportional to minus its score, scaled to [−1, 1].</li>
+  <li><strong>Walk mixer</strong> exp(−iβA): a continuous-time quantum walk on the complete graph of routes. From the uniform start this is the Grover mixer of <a href="https://arxiv.org/abs/2006.00354">Bärtschi &amp; Eidenbenz 2020</a>. In the circuit it is U · (phase on |0…0⟩) · U†, where U prepares the uniform route state.</li>
+</ul>
+<p>Because the walk only moves amplitude between routes, the ideal circuit never puts probability on a choice of runs and lifts that isn't a real route. The angles γ, β are optimized classically to minimize the expected cost.</p>
+<h3>Baselines</h3>
+<ul>
+  <li><strong>Penalty-QUBO QAOA</strong> (<a href="https://arxiv.org/abs/1302.5843">Lucas 2014</a>): one binary variable per bit of each edge's use count, plus slack bits for the time budget. The cost is −score plus penalties for broken flow at every junction and for missing the budget, mixed with the standard X mixer. It gets the same p and the same angle optimizer.</li>
+  <li><strong>Random route</strong>: pick one of the M feasible routes uniformly. This is what QWOA's starting state samples.</li>
+  <li><strong>Exact optimum</strong>: classical branch-and-bound, used as ground truth for every number below.</li>
+</ul>
+<p>IonQ runs take one circuit per job, so both algorithms' circuits are packed side by side on disjoint qubits of one circuit, measured together, and split afterwards.</p>
+
+<h2>Results</h2>
+<p>Six instances: the toy resort's Lift A pod and five from four pods of Crystal Mountain, Washington (Gold Hills at two time budgets). Noise-free simulation at p = 1; numbers are exact probabilities, not samples.</p>
+
+<figure>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/qwoa-vs-baselines-dark.png">
+    <img src="img/qwoa-vs-baselines-light.png" width="1592" height="1753" loading="lazy" alt="Three bar charts over six lift pods. Chance of sampling the best route: QWOA 0.37 to 1.00, penalty-QUBO QAOA 0.000 to 0.012, a random route 0.14 to 0.50. Approximation ratio: QWOA 0.84 to 1.00, QAOA 0.000 to 0.021, random 0.14 to 0.69. Share of the state on valid routes: QWOA 100% on every pod, QAOA 0.2% to 3.0%.">
+  </picture>
+  <figcaption>QWOA beats a random route on every pod. QAOA lands below a random route, because almost none of its probability is on routes that can be skied: its penalties steer the optimizer toward avoiding big violations rather than finding good routes.</figcaption>
+</figure>
+
+<figure>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/qwoa-resources-dark.png">
+    <img src="img/qwoa-resources-light.png" width="1592" height="729" loading="lazy" alt="Two bar charts over the same six pods. Qubits: QWOA 2 to 4, penalty-QUBO QAOA 14 to 20. Two-qubit MS gates on IonQ Aria: QWOA 4 to 34, QAOA 182 to 380.">
+  </picture>
+  <figcaption>QWOA also needs far less hardware. Gate counts are after compiling to IonQ's native gates.</figcaption>
+</figure>
+
+<figure>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/qwoa-ionq-dark.png">
+    <img src="img/qwoa-ionq-light.png" width="1592" height="725" loading="lazy" alt="Bar chart of the best route sampled out of 1,000 shots on Crystal Quicksilver. Local noise-free sampler: QWOA 487, QAOA 3. IonQ cloud simulator: QWOA 500, QAOA 12. IonQ Forte Enterprise 1 noise model: QWOA 485, QAOA 5.">
+  </picture>
+  <figcaption>The same packed job on IonQ's simulators, with and without the Forte Enterprise 1 noise model. QWOA's half is 2 qubits and 7 two-qubit gates, too shallow for noise to move it.</figcaption>
+</figure>
+
+<h3>The numbers</h3>
+<div class="table-wrap">
+<table>
+  <caption class="sr-only" style="position:absolute;left:-9999px">QWOA vs penalty-QUBO QAOA vs a random route on six lift pods, p = 1</caption>
+  <thead>
+    <tr><th>Pod (budget)</th><th>Routes</th><th>Qubits QWOA / QAOA</th><th>MS gates</th><th>P(best) QWOA / QAOA / random</th><th>Approx. ratio QWOA / QAOA / random</th><th>P(best) at p = 2, QWOA</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Toy Lift A (65 min)</td><td>16</td><td>4 / 16</td><td>34 / 240</td><td><span class="q">0.368</span> / 0.006 / 0.188</td><td><span class="q">0.860</span> / 0.021 / 0.694</td><td>0.516</td></tr>
+    <tr><td>Quicksilver (17 min)</td><td>3</td><td>2 / 15</td><td>7 / 210</td><td><span class="q">0.502</span> / 0.003 / 0.333</td><td><span class="q">0.997</span> / 0.009 / 0.665</td><td>0.512</td></tr>
+    <tr><td>Gold Hills (11 min)</td><td>4</td><td>2 / 14</td><td>4 / 182</td><td><span class="q">0.999</span> / 0.012 / 0.500</td><td><span class="q">0.999</span> / 0.012 / 0.512</td><td>1.000</td></tr>
+    <tr><td>Discovery (13 min)</td><td>6</td><td>3 / 18</td><td>24 / 306</td><td><span class="q">0.896</span> / 0.001 / 0.167</td><td><span class="q">0.902</span> / 0.001 / 0.222</td><td>0.999</td></tr>
+    <tr><td>Green Valley (14 min)</td><td>7</td><td>3 / 19</td><td>24 / 342</td><td><span class="q">0.843</span> / 0.000 / 0.143</td><td><span class="q">0.843</span> / 0.000 / 0.143</td><td>1.000</td></tr>
+    <tr><td>Gold Hills (13 min)</td><td>7</td><td>3 / 20</td><td>24 / 380</td><td><span class="q">0.631</span> / 0.001 / 0.286</td><td><span class="q">0.919</span> / 0.001 / 0.503</td><td>0.801</td></tr>
+  </tbody>
+</table>
+</div>
+<ul>
+  <li><strong>Approximation ratio</strong> is the mean over shots of (score − worst route) / (best − worst); a shot that isn't a route counts as the worst route, since it can't be skied.</li>
+  <li><strong>Quicksilver</strong> stops near 0.5 because its two best routes score 217 and 216. QWOA splits its probability between them, and its approximation ratio of 0.997 shows it lands on a near-best route almost every time.</li>
+  <li><strong>Depth helps:</strong> one more layer (p = 2) takes QWOA to 0.999–1.000 on three pods.</li>
+  <li><strong>Bigger pods are harder.</strong> On nine Crystal pods with 254–509 routes (8–9 qubits) at p = 3, QWOA still beats a random route on every pod (for example 0.300 vs 0.011 on Forest Queen Express), but most stay in the low percent. Deeper circuits are the next lever.</li>
+</ul>
+
+<h2>How we checked it</h2>
+<p>We reviewed the implementation against the published definition rather than trusting it, and every check runs from the repository.</p>
+<ul>
+  <li><strong>Matches the textbook definition.</strong> The simulator agrees with QWOA computed independently as dense matrix exponentials of the complete-graph adjacency, to 8 × 10⁻¹⁶, for 1 to 100 routes and p = 1 to 3. A self-check in CI fails if the mixer ever drifts.</li>
+  <li><strong>The circuit is the same algorithm.</strong> The Qiskit circuit matches the simulator amplitude by amplitude to 9 × 10⁻¹⁵, and register states that aren't routes stay at zero amplitude.</li>
+  <li><strong>Within the theoretical ceiling.</strong> No result in 3,000 random instances beats P(best) ≤ k(2p+1)²/M, the Grover-style bound for this mixer with k best routes out of M.</li>
+  <li><strong>Reproducible.</strong> Every published number regenerates exactly, including the IonQ gate counts. An ordering bug that made the QAOA baseline vary from run to run was found and fixed; QWOA's results never varied.</li>
+</ul>
+
+<h2>On hardware</h2>
+<div class="note"><p>We submitted the same packed job to <strong>IonQ Forte 1</strong> hardware through Qollab (job <code>01a1281a-4614-78ed-bc86-1a60b5c18f9b</code>). The run never showed a result, and fetching the job by ID through Qollab returns an IonQ API error, so <strong>no hardware result came back</strong> before the deadline. The noise-model run above is the closest result we have.</p></div>
+
+<h2>What this shows, and what it doesn't</h2>
+<ul>
+  <li><strong>It shows</strong> that restricting the walk to feasible routes matters: on the same pods, with the same depth and optimizer, QWOA keeps all of its probability on real routes and finds the best one far more often, with a fraction of the qubits and gates.</li>
+  <li><strong>It doesn't show a speedup.</strong> The routes are enumerated classically to build QWOA's index, so these runs validate the algorithm, not quantum advantage. QWOA is a heuristic with no proven speedup; with the complete-graph mixer it can do at best Grover's quadratic improvement over trying routes.</li>
+  <li><strong>Where a speedup could come from:</strong> a backtracking quantum walk over the branch-and-bound tree (<a href="https://arxiv.org/abs/1509.02374">Montanaro 2018</a>, <a href="https://arxiv.org/abs/1906.10375">2020</a>) needs no enumeration and gives a near-quadratic speedup on a fault-tolerant machine. With a 10⁴× slower quantum step, our extrapolation puts the break-even around 100 lifts and runs, which every real resort exceeds. Quadratic speedups are fragile under that overhead (<a href="https://arxiv.org/abs/2011.04149">Babbush et al. 2021</a>).</li>
+</ul>
+
+<h2>Reproduce it</h2>
+<pre><code>git clone https://github.com/truppelli/quasar &amp;&amp; cd quasar
+pip install -r requirements.txt
+# exact optimum + QWOA on one pod
+python quasar.py resorts/crystal-mountain-washington.json --pod "Rainier Express"
+# the QWOA circuit checked against the simulator
+python circuit.py
+# QWOA vs QAOA in one packed job (the Qollab entry point)
+python main.py
+# regenerate these charts
+pip install matplotlib &amp;&amp; python charts.py</code></pre>
+
+<footer>
+  <p>This effort is supported by Qollab &amp; IonQ. QUASAR is open source under the MIT license. Map data © OpenStreetMap contributors via <a href="https://openskimap.org">OpenSkiMap</a>.</p>
+</footer>
+
+</main>
+</body>
+</html>
