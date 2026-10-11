@@ -14,6 +14,7 @@ POST /feedback                {resort, like: [run ids], dislike: [run ids], leve
 import json
 import os
 import sys
+import threading
 import time
 from functools import lru_cache
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -28,6 +29,10 @@ GEO_DIRS = [ROOT / "data" / "geo", RESORTS / "geo"]  # curated last so it wins o
 FEEDBACK = ROOT / "feedback.jsonl"
 MAX_BODY = 64_000
 MAX_MINUTES = 480  # a full ski day; beam search keeps big resorts to a few seconds
+# A 2-hour plan takes ~2 s of CPU on the live 1-vCPU Droplet, so at most 2 plan at once and the rest wait their turn.
+# ponytail: one global cap, not per-IP; add per-IP rate limits (roadmap Milestone 4) if one client hogs it
+PLAN_SLOTS = threading.BoundedSemaphore(2)
+PLAN_WAIT = 15  # seconds a request waits for a slot before getting 503
 
 
 @lru_cache(maxsize=32)  # ponytail: built once per process; restart serve.py after rebuilding a resort
@@ -103,7 +108,12 @@ def api(path, q):
             return 400, {"error": f"minutes must be 0-{MAX_MINUTES}"}
         exclude, want = (ids(q.get(k, "")) for k in ("exclude", "want"))
         why = " without the skipped runs" if exclude else ""
-        found = quasar.plan(r, start, minutes, end, exclude=exclude, want=want)
+        if not PLAN_SLOTS.acquire(timeout=PLAN_WAIT):
+            return 503, {"error": "Busy planning other routes; try again in a few seconds"}
+        try:
+            found = quasar.plan(r, start, minutes, end, exclude=exclude, want=want)
+        finally:
+            PLAN_SLOTS.release()
         return 200, found or {"error": f"can't reach {end} in {minutes:g} min{why}"}
     return 404, {"error": "not found"}
 
@@ -137,6 +147,12 @@ if __name__ == "__main__":
     assert api("/plan", {"resort": "../quasar", "minutes": "25"})[0] == 400
     assert api("/plan", {"resort": "toy", "start": "nowhere", "minutes": "25"})[0] == 400
     assert api("/plan", {"resort": "toy", "minutes": "1e9"})[0] == 400
+    PLAN_SLOTS.acquire(), PLAN_SLOTS.acquire()  # both slots busy: the next plan waits, then gets 503
+    PLAN_WAIT, wait = 0.1, PLAN_WAIT
+    assert api("/plan", {"resort": "toy", "minutes": "25"})[0] == 503
+    PLAN_SLOTS.release(), PLAN_SLOTS.release()
+    PLAN_WAIT = wait
+    assert api("/plan", {"resort": "toy", "minutes": "25"})[0] == 200
     toy = {"resort": "toy", "start": "summit", "minutes": "25"}
     runs = {e["id"] for e in api("/plan", toy)[1]["route"] if e["kind"] == "run"}
     skip = api("/plan", {**toy, "exclude": ",".join(map(str, runs)) + ",x"})[1]  # junk ids are ignored
