@@ -20,8 +20,9 @@
   h1 { font-size: 17px; margin: 0 0 10px; letter-spacing: .02em; }
   h1 span { color: var(--accent); }
   h2 { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 18px 0 8px; }
-  input, textarea, button { font: inherit; color: var(--text); }
-  input[list], textarea { width: 100%; background: rgba(255,255,255,.06); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
+  input, select, textarea, button { font: inherit; color: var(--text); }
+  #search { color-scheme: dark; cursor: pointer; }  /* dark dropdown list to match the panel */
+  #search, textarea { width: 100%; background: rgba(255,255,255,.06); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
   #minutes { flex: 1; accent-color: var(--accent); }
   #route { padding-left: 22px; margin: 6px 0 0; font-size: 13px; }
   #route li { padding: 2px 0; }
@@ -74,8 +75,7 @@
 
 <aside id="side" class="panel">
   <h1><span>QUASAR</span> 3D Mountains</h1>
-  <input id="search" list="resorts" placeholder="Search resorts…" aria-label="Resort">
-  <datalist id="resorts"></datalist>
+  <select id="search" aria-label="Resort"></select>
   <div class="stats" id="stats"></div>
   <div class="muted" style="font-size:12px;margin-top:8px">Turn and tilt with the buttons at the top right, right-drag (Ctrl-drag on a trackpad), or two fingers. ↻ orbits the mountain.</div>
 
@@ -275,7 +275,7 @@ async function loadResort(slug, fly = true) {
   if (resort && resort.slug !== slug) { likes.clear(); dislikes.clear(); interest = {}; route = null; pins = { start: null, end: null }; $("plan-out").textContent = ""; }
   resort = r;
   imperial = (r.region || "").startsWith("US");
-  $("search").value = r.name;
+  $("search").value = r.slug;
   geo = await getJSON(`/geo?resort=${encodeURIComponent(slug)}`);
   const lo = [180, 90], hi = [-180, -90];
   const ends = [];
@@ -590,15 +590,21 @@ $("share").onclick = async () => {
   try { await navigator.clipboard.writeText(location.href); $("status").textContent = "Link copied ✓"; }
   catch { $("status").textContent = "Copy the URL from the address bar"; }
 };
-$("search").addEventListener("change", () => {
-  const r = resorts.find((x) => x.name.toLowerCase() === $("search").value.trim().toLowerCase());
-  if (r) loadResort(r.slug);
-});
+$("search").addEventListener("change", () => loadResort($("search").value));
 
 // ---- Boot: restore from the link if there is one
 map.once("style.load", async () => {  // the style, not every first tile: resorts appear while imagery streams in
   resorts = await getJSON("/geo");
-  $("resorts").innerHTML = resorts.map((r) => `<option value="${esc(r.name)}">${esc(r.region || "")}</option>`).join("");
+  // every resort in one scrollable list, grouped by state, so you can see what's available without knowing names
+  const STATES = { CA: "California", CO: "Colorado", MT: "Montana", NV: "Nevada", UT: "Utah", VT: "Vermont", WY: "Wyoming" };
+  const groups = {};
+  for (const r of resorts) {
+    const code = (r.region || "").replace("US-", "");
+    (groups[STATES[code] || code || "Other"] ??= []).push(r);
+  }
+  $("search").innerHTML = Object.keys(groups).sort().map((g) => `<optgroup label="${esc(g)}">`
+    + groups[g].sort((a, b) => a.name.localeCompare(b.name)).map((r) => `<option value="${esc(r.slug)}">${esc(r.name)}</option>`).join("")
+    + "</optgroup>").join("");
   const h = START;
   const slug = resorts.some((r) => r.slug === h.resort) ? h.resort : "vail";
   (h.like || "").split(",").filter(Boolean).forEach((id) => likes.add(id));
