@@ -14,7 +14,7 @@ The Qollab submission needs a 2–3 minute video at a public link (YouTube, Vime
 
 ## 3. QWOA on a lift pod (1:00–1:45)
 
-- **Show:** `python quasar.py resorts/crystal-mountain-washington.json --pods`, then the Qollab project: press **Run** on IonQ's Forte Enterprise 1 noise-model simulator (free) and show the output. Then the README's IonQ table.
+- **Show:** `python quasar.py resorts/crystal-mountain-washington.json --pods`, then the Qollab project: press **Run** on IonQ's Forte Enterprise 1 noise-model simulator (free) and show the output. Then the README's "QWOA vs the baselines at a glance" charts: chance of the best route, approximation ratio and valid-route share, then the qubit and gate counts.
 - **Say:** We cut the resort into lift pods small enough for today's qubits. QWOA's mixer is a quantum walk over valid routes only, so in the ideal circuit every measurement is a real route. The textbook alternative is a penalty QUBO with the standard X mixer. On Crystal's Quicksilver pod it needs 15 qubits instead of 2 and 30 times the two-qubit gates. Both circuits go to IonQ in one job, because an IonQ run takes one circuit. On IonQ's noise model of Forte Enterprise 1, QWOA sampled the best route 485 times in 1,000 shots; the penalty QUBO found it 5 times, and 980 of its shots weren't routes at all. Across our pods QWOA's approximation ratio is 0.84 to 1.00, and the penalty QUBO's stays near zero. We also submitted the job to IonQ's Forte 1 hardware, but no result came back through Qollab before the deadline, so these are simulator numbers.
 
 ## 4. What it does and doesn't show (1:45–2:30)
