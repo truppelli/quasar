@@ -11,11 +11,11 @@ Where QUASAR is today, what the next milestones are, and the direction behind th
 | Qollab (`main.py`) | Qollab's Run button runs `main.py` on the machine picked in Select QPU: Crystal Quicksilver, 17 qubits, one job. Checked on Qollab's local simulator and IonQ's Forte Enterprise 1 noise-model simulator; the first QPU job is queued on Forte 1. A dropped connection while a job waits is retried, and `JOB_ID` in `main.py` fetches an earlier job without paying again. |
 | Real resort graphs (`datasets.py`) | The 3D map's 20 US resorts (`datasets.py --top-us`, same slugs as the map), plus Crystal Mountain WA and Whistler Blackcomb, built from OpenSkiMap and Global Ski Atlas. Repeat runs score half credit, so long budgets fill the day. |
 | 2D visualizer (`viz.html`, `/`) | Plans and draws a route on any resort graph. |
-| 3D map (`map3d.html`, `/3d`) | 20 US resorts in 3D. Run inspector, 👍/👎 per run, per-level interest, feedback saved to `feedback.jsonl`, shareable links. |
+| 3D map (`map3d.html`, `/3d`) | 20 US resorts in 3D. Plan my day (route from any lift, minutes slider), turn / tilt / orbit buttons, run inspector, 👍/👎 per run, per-level interest, feedback saved to `feedback.jsonl`, shareable links. |
 | API (`serve.py`) | Stdlib server: `/resorts`, `/resort`, `/plan`, `/geo`, `POST /feedback`. |
 | Live site | [ski-routes.racedayconnect.com](https://ski-routes.racedayconnect.com): `deploy/Dockerfile` behind Caddy on a 1-vCPU DigitalOcean Droplet. |
 
-**The main gap:** the planner and the 3D map now cover the same 20 resorts, but the map can't show a route yet. The graphs name runs by trail name while the map's geometry uses OpenSkiMap ids, so nothing links a planned run to its shape on the map. Milestone 1 closes that gap.
+**The main gap:** the 3D map plans and draws a route from any lift, but it ignores what the skier said they like: 👎 runs and "Skip" levels still get planned. Preference-aware planning (Milestone 1) closes that gap. The graphs still name runs by trail name while the map uses OpenSkiMap ids, so the route is matched to the map by name.
 
 ## Milestone 1: Plan your day on the 3D map
 

@@ -26,6 +26,7 @@
   #route { padding-left: 22px; margin: 6px 0 0; font-size: 13px; }
   #route li { padding: 2px 0; }
   #route small { color: var(--muted); }
+  .view-orbit[aria-pressed="true"] { background: var(--accent) !important; }
   textarea { min-height: 60px; resize: vertical; }
   .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin-top: 10px; }
   .stat { background: rgba(255,255,255,.05); border-radius: 8px; padding: 6px 8px; }
@@ -72,6 +73,7 @@
   <input id="search" list="resorts" placeholder="Search resorts…" aria-label="Resort">
   <datalist id="resorts"></datalist>
   <div class="stats" id="stats"></div>
+  <div class="muted" style="font-size:12px;margin-top:8px">Turn and tilt with the buttons at the top right, right-drag (Ctrl-drag on a trackpad), or two fingers. ↻ orbits the mountain.</div>
 
   <h2>Plan my day</h2>
   <div class="row" style="margin-top:0">
@@ -205,6 +207,43 @@ const map = new maplibregl.Map({
   },
 });
 map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), "top-right");
+
+// ---- Turn and tilt: buttons for what right-drag / Ctrl-drag / two fingers already do, plus a slow orbit.
+let orbiting = false, lastFrame = 0;
+function orbit(t) {
+  if (!orbiting) return;
+  if (lastFrame) map.setBearing(map.getBearing() + (t - lastFrame) * 0.008);  // ~8° a second
+  lastFrame = t;
+  requestAnimationFrame(orbit);
+}
+function setOrbit(on) {
+  orbiting = on; lastFrame = 0;
+  document.querySelector(".view-orbit")?.setAttribute("aria-pressed", on);
+  if (on) requestAnimationFrame(orbit);
+}
+const VIEW_BUTTONS = [
+  ["view-left", "⟲", "Turn left (or right-drag / Ctrl-drag the map)", () => map.easeTo({ bearing: map.getBearing() - 45, duration: 700 })],
+  ["view-right", "⟳", "Turn right", () => map.easeTo({ bearing: map.getBearing() + 45, duration: 700 })],
+  ["view-up", "⤒", "Tilt toward the horizon", () => map.easeTo({ pitch: Math.min(map.getPitch() + 15, 80), duration: 500 })],
+  ["view-down", "⤓", "Tilt toward top-down", () => map.easeTo({ pitch: Math.max(map.getPitch() - 15, 0), duration: 500 })],
+  ["view-orbit", "↻", "Orbit the mountain (click again or drag the map to stop)", () => setOrbit(!orbiting)],
+];
+map.addControl({
+  onAdd() {
+    const el = document.createElement("div");
+    el.className = "maplibregl-ctrl maplibregl-ctrl-group";
+    for (const [cls, icon, title, fn] of VIEW_BUTTONS) {
+      const b = document.createElement("button");
+      Object.assign(b, { className: cls, type: "button", title, textContent: icon, onclick: fn });
+      b.setAttribute("aria-label", title);
+      b.style.cssText = "font-size:17px;line-height:1;color:#333";
+      el.append(b);
+    }
+    return el;
+  },
+  onRemove() {},
+}, "top-right");
+for (const ev of ["mousedown", "touchstart", "wheel"]) map.getCanvas().addEventListener(ev, () => setOrbit(false), { passive: true });
 map.addControl(new maplibregl.ScaleControl({ unit: "imperial" }), "bottom-left");
 
 function setRunFilter() {
