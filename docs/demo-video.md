@@ -4,7 +4,7 @@ The Qollab submission needs a 2–3 minute video at a public link (YouTube, Vime
 
 ## 1. The problem (0:00–0:30)
 
-- **Show:** the 3D map (`python serve.py`, then `/3d`) flying to Stowe.
+- **Show:** the live 3D map at [ski-routes.racedayconnect.com](https://ski-routes.racedayconnect.com) (or `python serve.py`, then `/3d`) flying to Stowe.
 - **Say:** You have two hours at a big resort. Which lifts and runs give you the most new vertical? That's an orienteering problem, which is NP-hard. QUASAR plans it from wherever you're standing.
 
 ## 2. The classical planner (0:30–1:00)
@@ -24,5 +24,5 @@ The Qollab submission needs a 2–3 minute video at a public link (YouTube, Vime
 
 ## 5. Credits (2:30–2:50)
 
-- **Show:** team card with Student Track, Quantum Impact, the Colorado School of Mines node, the repo link and the Qollab project link.
+- **Show:** team card with Student Track, Quantum Impact, the Colorado School of Mines node, the live link (ski-routes.racedayconnect.com), the repo link and the Qollab project link.
 - **Say:** QUASAR is open source under the MIT license. This effort is supported by Qollab and IonQ.

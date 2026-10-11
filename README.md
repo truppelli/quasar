@@ -2,7 +2,7 @@
 
 Given where a skier is now and how much time they have, find a near-optimal route that covers the most *unique* vertical. A run scores its full vertical the first time and half on repeats. Repeat lift rides cost a little.
 
-> **Qollab hackathon submission.** This effort is supported by Qollab & IonQ. Student Track, Quantum Impact theme, Colorado School of Mines node. MIT license. Run `python main.py` for the hackathon demo: QWOA against a penalty-QUBO QAOA baseline on one lift pod, with both circuits packed into one IonQ job ([details](#baseline-penalty-qubo-qaoa)). Demo video outline: [docs/demo-video.md](docs/demo-video.md). Credits: [contributions.md](contributions.md).
+> **Qollab hackathon submission.** This effort is supported by Qollab & IonQ. Student Track, Quantum Impact theme, Colorado School of Mines node. MIT license. Run `python main.py` for the hackathon demo: QWOA against a penalty-QUBO QAOA baseline on one lift pod, with both circuits packed into one IonQ job ([details](#baseline-penalty-qubo-qaoa)). **Live: [ski-routes.racedayconnect.com](https://ski-routes.racedayconnect.com)**, where you can plan a ski day on the 3D map. Demo video outline: [docs/demo-video.md](docs/demo-video.md). Credits: [contributions.md](contributions.md).
 
 ## Problem
 
@@ -195,6 +195,8 @@ Click a junction, or use the dropdown, to set where the skier is, then set the m
 python serve.py [port]    # then open http://localhost:8000/3d (or your port)
 ```
 
+**Plan my day:** set the time with the slider and press **Plan route**. The route is drawn as an orange line along the map's own runs and lifts, with a numbered step for each lift ride or trail and the step list in the side panel. Click a white lift-end dot to start there instead of the base; the day still ends at the base. The link keeps the start and the time, so a shared link replays the route.
+
 Each resort is shown in 3D: satellite imagery and hillshade over terrain, with runs colored by difficulty (European colors for European resorts, North American colors elsewhere) and lifts as dashed lines. Click a run to see its elevation profile, length, vertical drop, and average and steepest pitch (the steepest is per 25 m elevation sample, so treat it as approximate). Mark a run 👍 or 👎, rate each skill level (Skip, Maybe or Want), then **Send feedback** to append the choices to `feedback.jsonl`. **Copy link** shares the current view, the runs you voted on and your skill-level choices.
 
 Twenty popular US resorts, picked by approximate skier visits, are already included in `resorts/geo/`. They are cut from the [OpenSkiData](https://openskimap.org) dump in `data/openskidata/`:
@@ -203,6 +205,18 @@ Twenty popular US resorts, picked by approximate skier visits, are already inclu
 python extract.py          # rebuild the 20 curated resorts (took 14 s on a laptop)
 python extract.py --all    # every downhill ski area into data/geo/ (local only; served alongside the curated set)
 ```
+
+### Live site
+
+[ski-routes.racedayconnect.com](https://ski-routes.racedayconnect.com) runs on a small DigitalOcean Droplet (1 vCPU): `deploy/Dockerfile` (which downloads this repo from GitHub when it builds) behind Caddy, which gets and renews the HTTPS certificate (`deploy/Caddyfile`). A 2-hour plan takes about 2 s there. To deploy the latest `main`, run on the Droplet:
+
+```sh
+docker build -t quasar https://github.com/truppelli/quasar.git#main:deploy
+docker rm -f quasar
+docker run -d --name quasar --restart unless-stopped --network web --user 1000 --memory 512m quasar
+```
+
+Feedback saved there (`feedback.jsonl` inside the container) is lost when the container is replaced, and `/plan` and `/feedback` have no rate limits yet (roadmap Milestone 4).
 
 ## Resort data
 

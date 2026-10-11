@@ -1,0 +1,4 @@
+ski-routes.racedayconnect.com {
+	redir / /3d
+	reverse_proxy quasar:7860
+}
