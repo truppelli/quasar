@@ -9,7 +9,7 @@ The Qollab submission needs a 2–3 minute video at a public link (YouTube, Vime
 
 ## 2. The classical planner (0:30–1:00)
 
-- **Show:** on the 3D map, click the white dot at the top of Sensation Quad, set 2 h and press **Plan route**: an orange line with numbered steps from there back to the base, and the step list in the side panel. Slide to 1 h and let go to re-plan. Tip: scroll the side panel back up after planning, since a long step list pushes the controls out of view.
+- **Show:** on the 3D map, click the white dot at the top of Sensation Quad (start), set 2 h: an orange line with numbered steps from there back to the base, and the step list in the side panel. Press **= Start** to make it a loop that ends back at the top, then slide to 1 h and let go to re-plan. Press ↻ to orbit the mountain while you talk. Tip: scroll the side panel back up after planning, since a long step list pushes the controls out of view.
 - **Say:** Pick where you are and how long you have. Exact branch-and-bound proves the best route on small resorts, and beam search plans a whole resort in a second or two. This classical planner is the baseline every quantum result is compared against.
 
 ## 3. QWOA on a lift pod (1:00–1:45)
