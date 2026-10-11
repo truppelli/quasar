@@ -241,7 +241,8 @@ def pods(resort):
                 "name": f"{resort['name']}: {lift['name']}",
                 "lift": lift["name"],
                 "base": lift["from"],
-                "nodes": {n: resort["nodes"][n] for n in keep | {lift["from"], lift["to"]}},
+                # sorted: a set's order changes with each run's string hashing, which made the QUBO baseline vary
+                "nodes": {n: resort["nodes"][n] for n in sorted(keep | {lift["from"], lift["to"]})},
                 "lifts": [[lift["name"], lift["from"], lift["to"], lift["minutes"]]],
                 "runs": rows["run"],
                 "links": rows["link"],
@@ -279,7 +280,10 @@ def pod_budget(pod, max_routes=512, max_minutes=120, max_nodes=50_000):
 
 
 def qwoa(scores, p=3, restarts=5, seed=0):
-    """QAOA over feasible routes only, mixer = continuous-time quantum walk on the complete graph (Marsh & Wang 2020).
+    """QWOA (Marsh & Wang 2020): QAOA over feasible routes only, whose mixer is a continuous-time quantum walk.
+
+    The walk is on the complete graph of routes, one of the circulant graphs Marsh & Wang allow. From the uniform
+    start this is the Grover mixer of Bärtschi & Eidenbenz 2020, so a route's amplitude depends only on its score.
 
     Returns the final measurement probability of each route and the optimized angles.
     ponytail: routes are indexed by classical enumeration, fine for simulation; hardware needs an indexing
@@ -306,7 +310,8 @@ def qwoa_state(C, theta):
     psi = np.full(M, M**-0.5, dtype=complex)
     for g, b in zip(theta[:p], theta[p:]):
         psi = psi * np.exp(-1j * g * C)
-        psi = psi + (np.exp(-1j * b * M) - 1) * psi.mean()  # exp(-i b A), A = complete-graph adjacency
+        # exp(-i b J), J = all-ones = A + I: e^(-i b) times the complete-graph walk exp(-i b A), a global phase
+        psi = psi + (np.exp(-1j * b * M) - 1) * psi.mean()
     return psi
 
 
@@ -330,6 +335,14 @@ if __name__ == "__main__":
 
     toy = {p["lift"]: sorted(e["name"] for e in p["edges"][1:]) for p in pods(load("resorts/toy.json"))}
     assert toy == {"Lift A": ["Mid Cruiser", "Mid Steeps"], "Lift B": ["Summit Glades"], "Lift C": ["Ridge Run"]}, toy
+
+    # QWOA's shortcut mixer is the textbook complete-graph walk exp(-i b A) times e^(-i b), a global phase, per layer
+    from scipy.linalg import expm
+
+    C, th, ref = qwoa_cost([3, 1, 4, 1, 5]), [0.7, 0.3, 0.2, 0.9], np.full(5, 5**-0.5, complex)
+    for g, b in zip(th[:2], th[2:]):
+        ref = expm(-1j * b * (np.ones((5, 5)) - np.eye(5))) @ (np.exp(-1j * g * C) * ref)
+    assert np.allclose(qwoa_state(C, th), np.exp(-1j * sum(th[2:])) * ref), "QWOA mixer isn't the complete-graph walk"
 
     r = load(a.resort)
     if a.pods:
@@ -371,7 +384,7 @@ if __name__ == "__main__":
     assert abs(scores.max() - best["score"]) < 0.1, "branch-and-bound pruned away the optimum"  # plan() rounds
 
     probs, _ = qwoa(scores)
-    opt = scores == scores.max()
+    opt = np.isclose(scores, scores.max())  # same test as circuit.py and qaoa.py
     top = routes[int(probs.argmax())]
     print(
         f"QWOA over {len(routes)} feasible routes (p=3): P(optimal) = {probs[opt].sum():.3f}"

@@ -22,7 +22,7 @@ The classical solver works in two tiers:
 - **Exact branch-and-bound** for small resorts. It never takes a leg that leaves too little time to get back.
 - **Beam search** when the exact search doesn't finish within 300k nodes (20k on graphs over 60 edges, so whole resorts lose only a fraction of a second; lift pods still finish exactly). It keeps the 500 best partial routes per minute, at most 5 per junction so one spot can't crowd out the rest. Results are flagged `optimal: false`.
 
-The quantum side is **QWOA**: QAOA whose mixer is a continuous-time quantum walk over the feasible routes ([Marsh & Wang 2020](https://arxiv.org/abs/1912.07353)). Every state the walk reaches is a valid route, so no probability is spent on invalid ones, which is unlike a penalty QUBO with the standard X mixer. QWOA's results are reported as **near-optimal** and compared with the exact optimum.
+The quantum side is **QWOA**: QAOA whose mixer is a continuous-time quantum walk over the feasible routes ([Marsh & Wang 2020](https://arxiv.org/abs/1912.07353)). Our walk is on the complete graph of routes, one of the circulant graphs Marsh & Wang allow; from the uniform start it is the same as the Grover mixer ([Bärtschi & Eidenbenz 2020](https://arxiv.org/abs/2006.00354)). In the ideal circuit every state the walk reaches is a valid route, so no probability is spent on invalid ones, which is unlike a penalty QUBO with the standard X mixer. On hardware, noise can still put a few shots on unused register states; `qaoa.py` counts them as misses. QWOA's results are reported as **near-optimal** and compared with the exact optimum.
 
 ## Scale
 
@@ -121,18 +121,21 @@ Measured with `qaoa.py`, 1,000 shots, with both circuits in one packed job on th
 | pod | budget | routes | qubits QWOA / QAOA | Aria MS gates at p=1 | P(optimal) p=1: QWOA / QAOA / random QAOA | approx. ratio p=1: QWOA / QAOA / random QWOA | P(optimal) p=2: QWOA / QAOA | QAOA shots that are routes (p=1) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Toy Lift A | 65 min | 16 | 4 / 16 | 34 / 240 | 0.368 / 0.006 / 0.006 | 0.860 / 0.021 / 0.694 | 0.516 / 0.006 | 4.5% |
-| Crystal Quicksilver | 17 min | 3 | 2 / 15 | 7 / 210 | 0.502 / 0.006 / 0.008 | 0.997 / 0.010 / 0.665 | 0.512 / 0.003 | 3.1% |
+| Crystal Quicksilver | 17 min | 3 | 2 / 15 | 7 / 210 | 0.502 / 0.003 / 0.008 | 0.997 / 0.009 / 0.665 | 0.512 / 0.003 | 2.5% |
 | Crystal Gold Hills | 11 min | 4 | 2 / 14 | 4 / 182 | 0.999 / 0.012 / 0.016 | 0.999 / 0.012 / 0.512 | 1.000 / 0.014 | 2.4% |
 | Crystal Discovery | 13 min | 6 | 3 / 18 | 24 / 306 | 0.896 / 0.001 / 0.001 | 0.902 / 0.001 / 0.222 | 0.999 / 0.002 | 0.5% |
-| Crystal Green Valley | 14 min | 7 | 3 / 19 | 24 / 342 | 0.843 / 0.000 / 0.0005 | 0.843 / 0.000 / 0.143 | 1.000 / 0.000 | 1.1% |
+| Crystal Green Valley | 14 min | 7 | 3 / 19 | 24 / 342 | 0.843 / 0.000 / 0.0005 | 0.843 / 0.000 / 0.143 | 1.000 / 0.000 | 2.1% |
 | Crystal Gold Hills | 13 min | 7 | 3 / 20 | 24 / 380 | 0.631 / 0.001 / 0.0005 | 0.919 / 0.001 / 0.503 | 0.801 / 0.001 | 0.1% |
+
+Every number here is reproducible: rerunning gives the same values. (Until 2026-10-10 the QAOA columns moved a little from run to run, because a pod's junctions came out of a Python set whose order follows each run's string hashing, which reordered the QUBO's penalty terms and steered the angle optimizer. On Quicksilver, QAOA's P(optimal) moved between 0.003 and 0.008. QWOA never varied: it doesn't depend on that order.)
 
 - **Qubits and gates:** the penalty QUBO needs 4–8× the qubits and 7–46× the two-qubit gates of QWOA on the same pod.
 - **Wasted shots:** 95–99.9% of its shots aren't routes at all.
 - **Approximation ratio:** the mean over shots of (score − worst route) / (best − worst), with a shot that isn't a route counted as the worst route, since it can't be skied. It's normalized because some pods have routes that score below 0 (walk links that climb). QWOA's is 0.84–1.00 against 0.14–0.69 for random routes; QAOA's stays at 0.000–0.021, because almost none of its shots are routes.
 - **P(optimal):** at p=1 and p=2, QAOA's chance of the optimum stays at random-guess level. The angle optimizer minimizes expected cost, and the penalties dominate that cost, so the angles learn to avoid big violations rather than to find good routes.
 - **Penalties don't separate routes from non-routes:** the cheapest non-route sits at most 1.5 best-scores above the optimum, and on Discovery and the 13-minute Gold Hills pod a non-route ties it. In both, the tying non-route is a subtour: the optimal route plus a detached loop (a run and a link back up to its start) that never touches the base. Flow penalties can't see subtours. On the toy pod, the cheapest non-route costs less than any route that scores under 78% of the best.
-- This is the README's argument for QWOA, now measured: QWOA's mixer keeps every shot on a feasible route.
+- This is the README's argument for QWOA, now measured: in the ideal circuit, every QWOA shot is a feasible route. On hardware, noise can put some shots on unused register states (Quicksilver's 3 routes leave index 3 of 2 qubits unused); `qaoa.py` reports them as "not routes".
+- **Why QWOA's P(optimal) stops near 0.5 on Quicksilver:** its two best routes score 217 and 216. QWOA's angles minimize expected cost, which barely separates them, so it splits its probability between the two. Its approximation ratio of 0.997 shows it still lands on a near-optimal route almost every time.
 - **Caveat:** the comparison relies on the classical enumeration, so neither algorithm shows a speedup here.
 
 **On IonQ's cloud simulators** (one job each, both circuits packed, p=1, 1,000 shots, on 2026-10-10; the last row ran through Qollab's Run button on IonQ's noise model of Forte Enterprise 1):
@@ -140,10 +143,10 @@ Measured with `qaoa.py`, 1,000 shots, with both circuits in one packed job on th
 | pod | qubits | IonQ job | optimum sampled, QWOA / QAOA | QAOA shots that aren't routes | same run, local sampler |
 | --- | --- | --- | --- | --- | --- |
 | Toy Lift A, 30 min | 14 | `01a127b5-4e08-74b1-b1c7-0b5a0401d869` | 362 / 26 | 845 | 385 / 21, 836 |
-| Crystal Quicksilver, 17 min | 17 | `01a127b5-c03b-77c3-9eea-603be2344480` | 500 / 12 | 979 | 478 / 3, 981 |
-| Crystal Quicksilver, 17 min, Forte Enterprise 1 noise model | 17 | `01a127eb-df06-712f-bc02-6f6e9b626fd6` | 485 / 5 | 980 | 478 / 3, 981 |
+| Crystal Quicksilver, 17 min | 17 | `01a127b5-c03b-77c3-9eea-603be2344480` | 500 / 12 | 979 | 487 / 3, 975 |
+| Crystal Quicksilver, 17 min, Forte Enterprise 1 noise model | 17 | `01a127eb-df06-712f-bc02-6f6e9b626fd6` | 485 / 5 | 980 | 487 / 3, 975 |
 
-IonQ's simulator agrees with the local sampler within shot noise. This also checks that `circuit.unpack` reads IonQ's bitstring counts correctly. The noise model barely moves QWOA: its half of the job is 2 qubits and 7 MS gates, too shallow for gate errors to pile up, and QAOA was already at random-guess level. These are simulator runs, not QPU runs. The same job is queued on IonQ Forte 1 hardware through Qollab (job `01a1281a-4614-78ed-bc86-1a60b5c18f9b`); its result goes here when it returns.
+For QWOA, IonQ's simulator agrees with the local sampler within shot noise (the counts differ by at most 1.5 standard deviations). QWOA's angles are deterministic, so both sides ran the same circuit. QAOA's angles came from each run's own optimization, which varied before the fix above, so the IonQ and local QAOA columns used different angles; all of them sit at random-guess level. This also checks that `circuit.unpack` reads IonQ's bitstring counts correctly. The noise model barely moves QWOA: its half of the job is 2 qubits and 7 MS gates, too shallow for gate errors to pile up, and QAOA was already at random-guess level. These are simulator runs, not QPU runs. The same job is queued on IonQ Forte 1 hardware through Qollab (job `01a1281a-4614-78ed-bc86-1a60b5c18f9b`); its result goes here when it returns.
 
 ## Quantum speedup (large fault-tolerant machine)
 

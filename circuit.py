@@ -3,10 +3,11 @@
 python circuit.py resorts/crystal-mountain-washington.json --pod "Rainier Express"
 
 Routes are indexed 0..M-1 in an n = ceil(log2 M) qubit register. Each layer is the phase separator, one diagonal
-gate exp(-i gamma C), and the walk mixer exp(-i beta A) on the complete graph of routes, which equals
-U (phase on |0...0>) U^dagger with U the uniform state prep over the M valid indices. Indices >= M never gain
-amplitude. ponytail: DiagonalGate and StatePreparation are exact but O(2^n) gates; fine to ~10 qubits, an arithmetic
-cost oracle is the upgrade path for bigger pods.
+gate exp(-i gamma C), and the walk mixer exp(-i beta A) on the complete graph of routes, which equals, up to a
+global phase, U (phase on |0...0>) U^dagger with U the uniform state prep over the M valid indices. In the ideal
+circuit, indices >= M never gain amplitude; on hardware, noise can still land shots there.
+ponytail: DiagonalGate and StatePreparation are exact but O(2^n) gates; fine to ~10 qubits, an arithmetic cost
+oracle is the upgrade path for bigger pods.
 """
 
 import argparse
