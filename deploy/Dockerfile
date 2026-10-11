@@ -1,5 +1,5 @@
-# QUASAR's 3D map + planner on a Hugging Face Space (Docker SDK). The Space holds only this file and README.md:
-# it builds from the public GitHub repo, so "Factory rebuild" on the Space picks up the latest main.
+# QUASAR's 3D map + planner as one container (live at https://ski-routes.racedayconnect.com, behind Caddy).
+# It builds from the public GitHub repo, so rebuilding the image deploys the latest main; see the README's "Live site".
 FROM python:3.11-slim
 RUN pip install --no-cache-dir numpy scipy
 ARG REF=main

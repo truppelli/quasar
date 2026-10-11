@@ -13,6 +13,7 @@ Where QUASAR is today, what the next milestones are, and the direction behind th
 | 2D visualizer (`viz.html`, `/`) | Plans and draws a route on any resort graph. |
 | 3D map (`map3d.html`, `/3d`) | 20 US resorts in 3D. Run inspector, 👍/👎 per run, per-level interest, feedback saved to `feedback.jsonl`, shareable links. |
 | API (`serve.py`) | Stdlib server: `/resorts`, `/resort`, `/plan`, `/geo`, `POST /feedback`. |
+| Live site | [ski-routes.racedayconnect.com](https://ski-routes.racedayconnect.com): `deploy/Dockerfile` behind Caddy on a 1-vCPU DigitalOcean Droplet. |
 
 **The main gap:** the planner and the 3D map now cover the same 20 resorts, but the map can't show a route yet. The graphs name runs by trail name while the map's geometry uses OpenSkiMap ids, so nothing links a planned run to its shape on the map. Milestone 1 closes that gap.
 
