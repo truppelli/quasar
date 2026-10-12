@@ -22,6 +22,9 @@
   h2 { font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 18px 0 8px; }
   input, select, textarea, button { font: inherit; color: var(--text); }
   #search { color-scheme: dark; cursor: pointer; }  /* dark dropdown list to match the panel */
+  /* Desktop Chrome/Edge draw the open list on white unless options say otherwise; without this the options keep
+     the panel's near-white text and are unreadable. Phones use their own picker, so they never needed it. */
+  #search option, #search optgroup { background: #161c27; color: var(--text); }
   #search, textarea { width: 100%; background: rgba(255,255,255,.06); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
   #minutes { flex: 1; accent-color: var(--accent); }
   #route { padding-left: 22px; margin: 6px 0 0; font-size: 13px; }
